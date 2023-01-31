@@ -6769,7 +6769,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 
 <kommentar id="lindner-ha" type="neuzeit">
 <lemma>Henriette Amalie Lindner, geb. Wirth</lemma>
-<eintrag>1745&#x2013;1807. Seit 1763 Ehefrau von <link ref="lindner-jg" linktext="true"/>.</eintrag>
+<eintrag>1745&#x2013;1807. Seit 1763 Ehefrau von <link ref="lindner-jef" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="lindner-jef" type="neuzeit">
@@ -7890,10 +7890,10 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <kommentar id="montfaucon-nph" type="neuzeit">
 <lemma>Nicolas-Pierre-Henri Abbé de Villars Montfaucon</lemma>
 <eintrag>1635&#x2013;1673.</eintrag>
-<subsection id="montfaucon-nph-suite" type="neuzeit" sort="10">
-<lemma>Montfaucon, <titel>La suite de Comte de Gabalis</titel></lemma>
+<subsection id="montfaucon-nph-gabalis" type="neuzeit" sort="10">
+<lemma>Montfaucon, <titel>Le Comte de Gabalis</titel></lemma>
 <eintrag>
-<titel>La suite de Comte de Gabalis, ou Nouveaux entretiens sur les sciences secrètes touchant la nouvelle Philosophie</titel> (Amsterdam 1715). [Biga&#x202F;150/360: »Le Comte de Gabalis avec la Suite, Amst. 715«].</eintrag>
+<titel>Le Comte de Gabalis</titel> ou Entretiens sur les sciences secretes</lemma>[Biga&#x202F;150/360: »Le Comte de Gabalis avec la Suite, Amst. 715«].</eintrag>
 </subsection>
 </kommentar>
 
