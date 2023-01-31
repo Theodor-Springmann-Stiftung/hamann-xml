@@ -1605,6 +1605,14 @@ Hamanns Notiz dazu N&#x00A0;V S.&#x202F;276/13: »Taseodrugiten, eine Art Montan
 <kommentar id="busching" type="neuzeit">
 <lemma>Anton Friedrich Büsching</lemma>
 <eintrag>1724&#x2013;1793. Evang. Theologe und Geograph.</eintrag>
+<subsection id="busching-denkmal-Stegelmann" type="neuzeit" sort="10">
+<lemma>Büsching, <titel>Denkmal für Stegelmann</titel></lemma>
+<eintrag><titel>Die St. Peters-Schule stiftet ihrem grossen Wohlthäter, dem Hochedelgebohrnen Herrn, Herrn Heinrich Christian Stegelmann, Kaiserlichem Hof- und Cammer-Factorn, berühmtem Kaufmanne und höchstverdientem Aeltesten der Evangelischen St. Peters-Gemeine, dieses Denkmahl ihrer dankbaren Hochachtung durch die pflichtmäßige Bemühung ihres Directors D. Anton Friederich Büschings</titel> (St. Petersburg 1763). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN61701471X">SUB Göttingen: H. lit. part. I 8643</wwwlink></eintrag>
+</subsection>
+<subsection id="busching-gelehrte-abhandlungen" type="neuzeit" sort="20">
+<lemma>Büsching, <titel>Gelehrte Abhandlungen und Nachrichten aus und von Rußland</titel></lemma>
+<eintrag><titel>Gelehrte Abhandlungen und Nachrichten aus und von Rußland, geliefert von der Schule der Sprachen, Künste und Wissenschaften bey der evangelischen St. Peterskirche zu St. Petersburg, und herausgegeben von derselben Director D. Anton Friedrich Büsching</titel> (2 Bde., Leipzig, Königsberg und Mitau: Kanter 1764–1765). Digitalisat: Tl. 1 (1764): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10731616-0">BSB München: H.lit.p. 74-1,1/2</wwwlink>; Tl. 2 (1765): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10731617-6">BSB München: H.lit.p. 74-1,1/2</wwwlink></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="buttlar-ej" type="neuzeit">
@@ -3614,11 +3622,6 @@ G
 <lemma>Justus Henrich Gebhardi</lemma>
 <eintrag>Gest. 1763. Lehrer der Sprachen und Künste in St. Petersburg. 
 </eintrag>
-</kommentar>
-
-<kommentar id="gelehrte-abhandlungen" type="neuzeit">
-<lemma>Gelehrte Abhandlungen und Nachrichten aus und von Rußland, geliefert von der Schule der evangelischen St. Peterskirche zu Petersburg</lemma>
-<eintrag>1764-1765, 2 Stück, in Königsberg hrsg. von <link ref="busching" linktext="true" /> [Biga&#x202F;85/176: »Büsching. Nachrichten von den evangelischen Gemeinen in Petersburg«]</eintrag>
 </kommentar>
 
 <kommentar id="gelehrte-beytraege" type="neuzeit">
@@ -7893,7 +7896,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <subsection id="montfaucon-nph-gabalis" type="neuzeit" sort="10">
 <lemma>Montfaucon, <titel>Le Comte de Gabalis</titel></lemma>
 <eintrag>
-<titel>Le Comte de Gabalis</titel> ou Entretiens sur les sciences secretes</lemma>[Biga&#x202F;150/360: »Le Comte de Gabalis avec la Suite, Amst. 715«].</eintrag>
+<titel>Le Comte de Gabalis</titel> ou Entretiens sur les sciences secretes [Biga&#x202F;150/360: »Le Comte de Gabalis avec la Suite, Amst. 715«].</eintrag>
 </subsection>
 </kommentar>
 

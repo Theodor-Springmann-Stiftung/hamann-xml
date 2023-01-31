@@ -31370,15 +31370,39 @@ Brief Nr. 259
 </marginal>
 
 <marginal index="7995" letter="259" page="242" line="25">
-<bzg>Büsching</bzg> <link ref="gelehrte-abhandlungen" linktext="true"/> 
+<bzg>Büsching</bzg> <link ref="busching" linktext="true"/>
+</marginal>
+
+<marginal index="9467" letter="259" page="242" line="25">
+<bzg>über Ihre Recension beleidigt gefunden</bzg> in den <link ref="konigsberger-gp-z" linktext="true" />, 2. St. v. 6.2.1764 erschien eine spöttische Rezension von <link ref="busching" subref="busching-denkmal-Stegelmann" linktext="true" />. Büsching hat seinen Ärger darüber wohl brieflich mitgeteilt, vgl. <intlink letter="259" page="242" line="34" linktext="true" />
+</marginal>
+
+<marginal index="9469" letter="259" page="242" line="26">
+<bzg>Petersburgschen Nachrichten</bzg> <link ref="busching" subref="busching-gelehrte-abhandlungen" linktext="true"/>
 </marginal>
 
 <marginal index="7996" letter="259" page="242" line="27">
 <bzg>Bock</bzg> <link ref="bock-jg" linktext="true"/> 
 </marginal>
 
-<marginal index="7997" letter="259" page="242" line="28">
-<bzg>Frau</bzg> nicht ermittelt
+<marginal index="7997" letter="259" page="242" line="27">
+<bzg>erste Gedicht scheint von sr. Frau zu seyn</bzg> Wohl von Büschings Frau Christiane; gemeint ist das Klaggedicht in <link ref="busching" subref="busching-denkmal-Stegelmann" linktext="true" />, S. 31f. – Lindner schrieb dazu in seiner Rezension: »Endlich folgen in dieser Sammlung noch zwey Klaggedichte, davon das erstere dem zweyten doch wenigstens vorgeht, und eine kleine französische Grabschrift, die sehr mittelmäßig und in Berechnung gegen einen Wohlthäter von 12000. Rubel ohngefehr 1. werth ist.« (<link ref="konigsberger-gp-z" linktext="true" />, 2. St. v. 6.2.1764)
+</marginal>
+
+<marginal index="9470" letter="259" page="242" line="28">
+<bzg>hinc illae lacrumae</bzg> dt. daher also die Tränen (von einem erkannten Handlungsmotiv, nach <link ref="terenz" linktext="false">ter.</link> and. 1,1,125)
+</marginal>
+
+<marginal index="9470" letter="259" page="242" line="28">
+<bzg>Das französische</bzg> Die französische Grabinschrift in <link ref="busching" subref="busching-denkmal-Stegelmann" linktext="true" />, S. 36, über die Lindner gespottet hat.
+</marginal>
+
+<marginal index="9468" letter="259" page="242" line="27">
+<bzg>Journal</bzg> <link ref="busching" subref="busching-gelehrte-abhandlungen" linktext="true"/>
+</marginal>
+
+<marginal index="9471" letter="259" page="242" line="32">
+<bzg>aqua haeret.</bzg> wohl semper aliquid haeret, dt. etwas bleibt immer hängen (von Verläumdungen)
 </marginal>
 
 <marginal index="7998" letter="259" page="242" line="34">
@@ -31704,7 +31728,7 @@ Brief Nr. 262
 </marginal>
 
 <marginal index="8077" letter="262" page="248" line="28">
-<bzg>Scholiasten</bzg> <link ref="gelehrte-abhandlungen" linktext="true"/> 
+<bzg>Scholiasten</bzg> vmtl. <link ref="busching" subref="busching-gelehrte-abhandlungen" linktext="true"/> 
 </marginal>
 
 <marginal index="8078" letter="262" page="248" line="32">
@@ -31866,7 +31890,7 @@ Brief Nr. 263
 </marginal>
 
 <marginal index="8117" letter="263" page="252" line="4">
-<bzg>Driestes mit Büschings Journal</bzg> vgl. <intlink letter="259" page="242" line="25" linktext="true"/>, bei <link ref="driest" linktext="true"/> in Königsberg gedruckt
+<bzg>Driestes mit Büschings Journal</bzg> <link ref="busching" subref="busching-gelehrte-abhandlungen" linktext="true"/>, bei <link ref="driest" linktext="true"/> in Königsberg gedruckt
 </marginal>
 
 <marginal index="9449" letter="263" page="252" line="5">
@@ -32812,11 +32836,7 @@ Brief Nr. 272a
 </marginal>
 
 <marginal index="9462" letter="1189" page="XXXII" line="15">
-<bzg>Es kommt der Tag…</bzg> Die ersten beiden Strophen nicht ermittelt
-</marginal>
-
-<marginal index="9463" letter="1189" page="XXXII" line="21">
-<bzg>aller Väter Schaar…</bzg> leicht angepasste Verse aus der 4. Strophe von <link ref="gerhardt" linktext="false">Paul Gerhards</link> <titel>Ich bin ein Gast auf Erden</titel>
+<bzg>Es kommt der Tag…</bzg> Kompilation verschiedener Kirchenlieder. »meine Ruh / Gott bist einig Du!«: aus der 5. Str. von <link ref="dach" linktext="true"/>, »Selige Ewigkeit«. – »aller Väter Schaar«: aus der 2. Str. von Heinrich Held, »Gott sei Dank durch alle Welt« (dort »alten Väter Schar«). – »lieben alten…«: aus der 4. Str. von <link ref="gerhardt" linktext="true"/>, »Ich bin ein Gast auf Erden«
 </marginal>
 
 Brief Nr. 273
@@ -37038,7 +37058,7 @@ Brief Nr. 313
 
 
 
-Indexnummer, weitermachen mit: 9467
+Indexnummer, weitermachen mit: 9472
 
 </marginalien>
 </data>
