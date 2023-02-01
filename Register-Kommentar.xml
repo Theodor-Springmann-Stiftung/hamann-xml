@@ -949,7 +949,7 @@ Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt, 2010</wwwlink>
 <subsection id="bielfeld-institutions" type="neuzeit" sort="10">
 <lemma>Bielfeld, <titel>Institutions Politiques</titel></lemma>
 <eintrag>
-<titel>Institutions Politiques,</titel> Ouvrage où l’on traite de la Société Civile; les Loix, de la Police, des Finances, du Commerce des forces d’un ètat; &#x26; en général de tout ce qui a rapport au Gouvernement (3 Bde., Paris: Duchesne 1761). Digitalisat, Teil 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10768322-9">	
+<titel>Institutions Politiques, Ouvrage où l’on traite de la Société Civile; les Loix, de la Police, des Finances, du Commerce des forces d’un ètat; &#x26; en général de tout ce qui a rapport au Gouvernement </titel> (3 Bde., Paris: Duchesne 1761). Digitalisat, Teil 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10768322-9">	
 BSB München Pol.g. 85-1</wwwlink>; Teil 2: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10768323-4">BSB München Pol.g. 85-2</wwwlink>; Teil 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10768324-9">BSB München Pol.g. 85-3</wwwlink>
 </eintrag>
 </subsection>
@@ -3112,7 +3112,7 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 <subsection id="euagrios-histeccl" type="neuzeit">
 <lemma>Euagrios, <titel>Historia ecclesiastica</titel></lemma>
 <eintrag>
-<titel>Theodoriti et Evagrii Historia Ecclesiastica item excerpta ex historia ecclesiastica Philostorgii et Theodori lectoris</titel>, graece et latine (Mainz: Beckensteinii, 1679) [Biga&#x202F;2/12 und 3/50: »Theodoreti &#x26; Euagrii Hist. Eccl. gr. &#x26; lat. ex ed. ej. ib. 679«]. Digitalisat: <wwwlink address="https://digital.ub.uni-paderborn.de/retro/urn/urn:nbn:de:hbz:466:1-14162">UB Paderborn</wwwlink>.</eintrag>
+<titel>Theodoriti et Evagrii Historia Ecclesiastica item excerpta ex historia ecclesiastica Philostorgii et Theodori lectoris</titel>, graece et latine</titel> (Mainz: Beckensteinii, 1679) [Biga&#x202F;2/12 und 3/50: »Theodoreti &#x26; Euagrii Hist. Eccl. gr. &#x26; lat. ex ed. ej. ib. 679«]. Digitalisat: <wwwlink address="https://digital.ub.uni-paderborn.de/retro/urn/urn:nbn:de:hbz:466:1-14162">UB Paderborn</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -8522,9 +8522,9 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <lemma>Johann Albrecht Philippi</lemma>
 <eintrag>1721&#x2013;1791. Reolizeidirektor und Stadtpräsident von Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd115741208.html"></wwwlink>.</eintrag>
 <subsection id="philippi-briefe" type="neuzeit">
-<lemma>Philippi, <titel>Anmuthige und Satyrische Briefe in historischen Erzählungen über verschiedene Begebenheiten</titel></lemma>
+<lemma>Philippi, <titel>Anmuthige und Satyrische Briefe</titel></lemma>
 <eintrag>
-<titel>Anmuthige und Satyrische Briefe in historischen Erzählungen über verschiedene Begebenheiten</titel> (Köln [Berlin] 1764). Digitalisat: <wwwlink address="https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00034441?derivate=HisBest_derivate_00020065">Thüringer Universitäts- und Landesbibliothek Jena: 8 Art.lib.XIV,835(1)</wwwlink>.</eintrag>
+<titel>Anmuthige und Satyrische Briefe in historischen Erzählungen über verschiedene Begebenheiten</titel> (Köln [Berlin] 1764). Digitalisat: <wwwlink address="https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00034441?derivate=HisBest_derivate_00020065">ULB Jena: 8 Art.lib.XIV,835(1)</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -9516,9 +9516,9 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 
 S
 
-<kommentar id="sachsen-weimar-ka" type="neuzeit">
-<lemma>Carl August Herzog v. Sachsen-Weimar-Eisenach</lemma>
-<eintrag>1757&#x2013;1828. Bis 1775 unter Vormundschaft seiner Mutter Anna Amalia, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz53415.html#adbcontent">Wegele, Franz Xaver von: Karl August, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;338&#x2013;355</wwwlink>. 
+<kommentar id="sachsen-karl" type="neuzeit">
+<lemma>Karl von Sachsen</lemma>
+<eintrag>1733–1796. 1759 bis 1762 Herzog von Kurland, ansässig in Mitau. Dann durch Beschluss der Zarin Katharina II. abgesetzt zugunsten von <link ref="biron" linktext="true" />. <wwwlink address="https://www.deutsche-biographie.de/pnd101251823.html#adbcontent">Diederichs, Heinrich: Karl August, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;297</wwwlink>. 
 </eintrag>
 </kommentar>
 
@@ -10425,7 +10425,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <subsection id="sozomenos-histeccl" type="neuzeit">
 <lemma>Sozomenos, <titel>Historia ecclesiastica</titel></lemma>
 <eintrag>
-<titel>Socratis Scholastici et Hermiae Sozomeni Historia Ecclesiastica</titel>, graece et latine (Mainz: Gerlach, Beckenstein, 1677) [Biga&#x202F;2/11 und 3/49: »Socratis &#x26; Sozomeni Hist. Eccl. gr. &#x26; lat. ex ed. ej. ib. 677«]. Digitalisat: <wwwlink address="https://digital.ub.uni-paderborn.de/retro/urn/urn:nbn:de:hbz:466:1-14233">UB Paderborn</wwwlink>.</eintrag>
+<titel>Socratis Scholastici et Hermiae Sozomeni Historia Ecclesiastica, graece et latine</titel> (Mainz: Gerlach, Beckenstein, 1677) [Biga&#x202F;2/11 und 3/49: »Socratis &#x26; Sozomeni Hist. Eccl. gr. &#x26; lat. ex ed. ej. ib. 677«]. Digitalisat: <wwwlink address="https://digital.ub.uni-paderborn.de/retro/urn/urn:nbn:de:hbz:466:1-14233">UB Paderborn</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -12108,7 +12108,7 @@ Z
 <eintrag>1719&#x2013;1778. Evang. Theologe, Pastor-Adjunkt am Dom in Hamburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz86637.html#adbcontent">l. u.: Ziegra, Christian, in: <titel>ADB</titel>&#x202F;45 (1900), S.&#x202F;192</wwwlink>.
 </eintrag>
 <subsection id="ziegra-hamburgische" type="neuzeit" sort="10">
-<lemma>Ziegra (Hg.), <titel>Hamburgische Nachrichten aus dem Reiche der Gelehrsamkeit</titel></lemma>
+<lemma><titel>Hamburgische Nachrichten aus dem Reiche der Gelehrsamkeit</titel></lemma>
 <eintrag>
 <titel>Hamburgische Nachrichten aus dem Reiche der Gelehrsamkeit</titel> (Hamburg 1758–1771). Digitalisate: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/hamburgische_nachrichten">UB Heidelberg/VD18 90372689</wwwlink>.
 </eintrag>

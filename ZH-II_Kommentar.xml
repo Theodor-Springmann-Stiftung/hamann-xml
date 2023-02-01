@@ -30369,7 +30369,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal index="7245" letter="1187" page="XXIII" line="8">
-<bzg>Schaafe […] zurükzukommen</bzg> frz. Wendung, Retournons à nos moutons aus La Farce de Maître Pathelin (1457), im Sinne von zum Thema zurückkommen
+<bzg>Schaafe […] zurükzukommen</bzg> frz. Wendung: Retournons à nos moutons aus <titel>La Farce de Maître Pathelin</titel> (1457), im Sinne von: zum Thema zurückkommen.
 </marginal>
 
 <marginal index="7246" letter="1187" page="XXIII" line="11">
@@ -30385,7 +30385,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal index="7249" letter="1187" page="XXIII" line="28">
-<bzg>A…</bzg> <link ref="voltaire" linktext="true"/>
+<bzg>A…</bzg> <link ref="alembert" linktext="true"/>
 </marginal>
 
 <marginal index="7250" letter="1187" page="XXIII" line="29">
@@ -30445,7 +30445,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal index="7264" letter="1187" page="XXV" line="24">
-<bzg>Verleger</bzg> wohl <link ref="kanter-jj" linktext="true"/> 
+<bzg>Verleger</bzg> wohl <link ref="hartknoch" linktext="true"/> 
 </marginal>
 
 <marginal index="7265" letter="1187" page="XXV" line="26">
@@ -30453,15 +30453,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal index="7266" letter="1187" page="XXV" line="27">
-<bzg>Daniel</bzg> <link ref="moser" subref="moser-daniel" linktext="true"/> 
-</marginal>
-
-<marginal index="7267" letter="1187" page="XXV" line="30">
-<bzg>theoretische Theil</bzg> der <link ref="briefe-literatur" linktext="true"/> 
-</marginal>
-
-<marginal index="7268" letter="1187" page="XXV" line="33">
-<bzg>Autorschaft</bzg> vll. <link ref="hamann" subref="sokratischedenk" linktext="true"/> 
+<bzg>Daniel</bzg> <link ref="moser" subref="moser-daniel" linktext="true"/>, <intlink letter="251" page="220" line="6" linktext="true" />
 </marginal>
 
 <marginal index="7269" letter="1187" page="XXVI" line="3">
@@ -30507,19 +30499,11 @@ Brief Nr. 255
 </marginal>
 
 <marginal index="7280" letter="255" page="231" line="4">
-<bzg>Socratis</bzg> <link ref="sokrates-histeccl" linktext="true"/>
-</marginal>
-
-<marginal index="7281" letter="255" page="231" line="4">
-<bzg>Sozomeni</bzg> <link ref="sozomenos-histeccl" linktext="true"/>
+<bzg>Socratis</bzg> <link ref="sokrates-histeccl" linktext="true"/> bzw. <link ref="sozomenos-histeccl" linktext="true"/>
 </marginal>
 
 <marginal index="7282" letter="255" page="231" line="4">
-<bzg>Theodoretiv Euagrii Historia Eccles.</bzg> <link ref="theodoret-histeccl" linktext="true"/>
-</marginal>
-
-<marginal index="9443" letter="255" page="231" line="4">
-<bzg>Euagrii</bzg> <link ref="euagrios-histeccl" linktext="true"/>
+<bzg>Theodoretiv Euagrii Historia Eccles.</bzg> <link ref="theodoret-histeccl" linktext="true"/> bzw. <link ref="euagrios-histeccl" linktext="true"/>
 </marginal>
 
 <marginal index="7283" letter="255" page="231" line="5">
@@ -30555,7 +30539,7 @@ Brief Nr. 255
 </marginal>
 
 <marginal index="7291" letter="255" page="231" line="14">
-<bzg>Hamb. Urtheile</bzg> nicht ermittelt
+<bzg>Hamb. Urtheile</bzg> nicht ermittelt, welche Rezension, vmtl. in <link ref="ziegra" subref="ziegra-hamburgische" linktext="true" />
 </marginal>
 
 <marginal index="7292" letter="255" page="231" line="18">
@@ -30593,7 +30577,7 @@ Brief Nr. 255a (letter 1188)
 </marginal>
 
 <marginal index="7300" letter="1188" page="XXVII" line="18">
-<bzg>Herz. Carl</bzg> <link ref="sachsen-weimar-ka" linktext="true"/> 
+<bzg>Herz. Carl</bzg> <link ref="sachsen-karl" linktext="true"/> 
 </marginal>
 
 <marginal index="7301" letter="1188" page="XXVII" line="19">
@@ -30617,7 +30601,7 @@ Brief Nr. 255a (letter 1188)
 </marginal>
 
 <marginal index="7306" letter="1188" page="XXVII" line="31">
-<bzg>Welt, die betrogen …</bzg> lat. mundus vult decipi, ergo decipiatur; dt. die Welt will betrogen sein, also soll sie betrogen werden (u.a. Sebastian Franck, Paradoxa Ducenta Octoginta [Ulm 1534], CCXXXVIII)
+<bzg>Welt, die betrogen …</bzg> lat. »mundus vult decipi, ergo decipiatur«; dt. »die Welt will betrogen sein, also soll sie betrogen werden« (u.a. Sebastian Franck, <titel>Paradoxa Ducenta Octoginta</titel> [Ulm 1534], CCXXXVIII).
 </marginal>
 
 <marginal index="7307" letter="1188" page="XXVII" line="35">
@@ -30672,16 +30656,8 @@ Brief Nr. 255a (letter 1188)
 <bzg>Freund</bzg> <link ref="berens-jc" linktext="true"/> 
 </marginal>
 
-<marginal index="7318" letter="1188" page="XXVIII" line="37">
-<bzg>Glaubensbekenntnißes</bzg> vll. <link ref="hamann" subref="h-dangeuil" linktext="true"/>
-</marginal>
-
 <marginal index="7319" letter="1188" page="XXIX" line="1">
-<bzg>Freunden</bzg> <link ref="berens-jc" linktext="true"/> u. nicht ermittelt 
-</marginal>
-
-<marginal index="7320" letter="1188" page="XXIX" line="1">
-<bzg>Lehrmeister</bzg> <link ref="berens-jc" linktext="true"/> 
+<bzg>Freunden</bzg> <link ref="berens-jc" linktext="true"/> und vll. <link ref="kant" linktext="true" /> 
 </marginal>
 
 <marginal index="7321" letter="1188" page="XXIX" line="11">
@@ -30689,7 +30665,7 @@ Brief Nr. 255a (letter 1188)
 </marginal>
 
 <marginal index="7322" letter="1188" page="XXIX" line="13">
-<bzg>Descartes Thiersystem</bzg> <link ref="descartes" linktext="true"/> nimmt an, dass nur Menschen, nicht aber Tiere das Vermögen zu denken besitzen.
+<bzg>Descartes Thiersystem</bzg> <link ref="descartes" linktext="true"/> nimmt an, dass nur Menschen, nicht aber Tiere das Vermögen zu denken und zu fühlen besitzen, weshalb er Tiere als Maschinen begreift.
 </marginal>
 
 <marginal index="7323" letter="1188" page="XXIX" line="13">
@@ -30704,6 +30680,14 @@ Brief Nr. 255a (letter 1188)
 <bzg>David</bzg> <link ref="at-ps" subref="at-ps144" linktext="false">Ps 144</link> 
 </marginal>
 
+<marginal index="9482" letter="1188" page="XXIX" line="22">
+<bzg>Wahrheit, die im Verborgnen</bzg> <link ref="at-ps" subref="at-ps51" linktext="false">Ps 51,6</link> 
+</marginal>
+
+<marginal index="9483" letter="1188" page="XXIX" line="23">
+<bzg>Weisheit im blutigen Ehebruche</bzg> <link ref="at-ps" subref="at-hes23" linktext="false">Hes 23,37</link> 
+</marginal>
+
 <marginal index="7326" letter="1188" page="XXIX" line="30">
 <bzg>Kains […] Nimrods</bzg> <link ref="at-mo1" subref="at-mo1-4" linktext="false">1 Mo 4,8</link> u. <link ref="at-mo1" subref="at-mo1-10" linktext="false">1 Mo 10,9</link> 
 </marginal>
@@ -30712,12 +30696,24 @@ Brief Nr. 255a (letter 1188)
 <bzg>Dornbusch</bzg> <link ref="at-mo2" subref="at-mo2-3" linktext="false">2 Mo 3,2</link>
 </marginal>
 
+<marginal index="9481" letter="1188" page="XXIX" line="33">
+<bzg>Erhaltung des Unkrauts bis zur Erndte</bzg> <link ref="nt-mt" subref="nt-mt13" linktext="false">Mt 13,29f.</link>
+</marginal>
+
+<marginal index="9484" letter="1188" page="XXIX" line="34">
+<bzg>Gräuel der lezten Zeiten</bzg> <link ref="nt-tim2" subref="nt-tim2-3" linktext="false">2 Tim 3,1</link>
+</marginal>
+
 <marginal index="7328" letter="1188" page="XXX" line="4">
-<bzg>welsche Practik</bzg> z. B. das französische Steuersystem
+<bzg>welsche Practik</bzg> eigentl. Bezeichnung für eine Rechenmethode nach Proportionen. Vmtl. im Volksmund aber aufgrund des ähnlichen Klangs mit ›falsch‹ für alles benutzt, was für eine Fälschung/Täuschung gehalten wurde (bspw. für den Münzguss unter dem Nominalwert).
 </marginal>
 
 <marginal index="7329" letter="1188" page="XXX" line="5">
-<bzg>Weltweisen</bzg> <link ref="friedrich-II" linktext="true"/>
+<bzg>Weltweisen</bzg> vll. <link ref="voltaire" linktext="true"/>
+</marginal>
+
+<marginal index="9485" letter="1188" page="XXX" line="6">
+<bzg>Theorie des Anti-</bzg> <link ref="friedrich-II" subref="fr-antimachiavell" linktext="true" />
 </marginal>
 
 <marginal index="7330" letter="1188" page="XXX" line="7">
@@ -30760,16 +30756,16 @@ Brief Nr. 257
 <bzg>sine die et Consule</bzg> dt. ohne Briefdatum
 </marginal>
 
+<marginal index="9486" letter="257" page="232" line="27">
+<bzg>Entlaßungs Supplique</bzg> <intlink letter="256" page="231" line="32" linktext="true" />
+</marginal>
+
 <marginal index="7835" letter="257" page="232" line="28">
 <bzg>Cammer Canzley</bzg> Königliche Kriegs- und Domänenkammer
 </marginal>
 
 <marginal index="7836" letter="257" page="233" line="4">
-<bzg>einen guten Sprung</bzg> Lindners Mitarbeit bei <link ref="konigsberger-gp-z" linktext="true"/>
-</marginal>
-
-<marginal index="7837" letter="257" page="233" line="5">
-<bzg>Die Zeitungen</bzg> <link ref="konigsberger-gp-z" linktext="true"/>
+<bzg>einen guten Sprung ... Die Zeitungen</bzg> Lindners Mitarbeit bei <link ref="konigsberger-gp-z" linktext="true"/>
 </marginal>
 
 <marginal index="7838" letter="257" page="233" line="9">
@@ -30777,7 +30773,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal index="7839" letter="257" page="233" line="13">
-<bzg>Kants Beobachtungen</bzg> <link ref="kant" subref="kant-beobachtungen" linktext="true"/>; Hamanns Rezension in <link ref="konigsberger-gp-z" linktext="true"/>, 26. St. v. 30.4.1764 (N&#x202F;IV,289ff.)
+<bzg>Kants Beobachtungen</bzg> <link ref="kant" subref="kant-beobachtungen" linktext="true"/>; Hamanns Rezension in <link ref="konigsberger-gp-z" linktext="true"/>, 26.&#x202f;St. vom 30.4.1764 (N&#x202F;IV,289ff.)
 </marginal>
 
 <marginal index="7840" letter="257" page="233" line="15">
@@ -30829,11 +30825,11 @@ Brief Nr. 257
 </marginal>
 
 <marginal index="7852" letter="257" page="233" line="36">
-<bzg>Lindausche Nachrichten</bzg> <link ref="ausfuehrliche-kritische-nachrichten" linktext="true"/>; Hamanns Rezension in <link ref="konigsberger-gp-z" linktext="true"/>, 9. St. v. 2.3.1764 (N&#x202F;IV,275ff.)
+<bzg>Lindausche Nachrichten</bzg> <link ref="ausfuehrliche-kritische-nachrichten" linktext="true"/>; Hamanns Rezension in <link ref="konigsberger-gp-z" linktext="true"/>, 9.&#x202f;St. vom 2.3.1764 (N&#x202F;IV,275ff.).
 </marginal>
 
 <marginal index="7853" letter="257" page="233" line="37">
-<bzg>Schulzeitung</bzg> nicht ermittelt
+<bzg>Schulzeitung</bzg> Vll. ist das in Berlin bei Birnstiel ab 1762 erschienene <titel>Wochenblatt zum Besten der Kinder</titel> gemeint. 
 </marginal>
 
 <marginal index="7854" letter="257" page="234" line="1">
@@ -30877,7 +30873,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal index="7864" letter="257" page="234" line="16">
-<bzg>Philippi Briefe</bzg> <link ref="philippi" subref="philippi-briefe" linktext="true"/> 
+<bzg>Philippi Briefe</bzg> <link ref="philippi" subref="philippi-briefe" linktext="true"/>; eine Rezension erschien in <link ref="konigsberger-gp-z" linktext="true"/>, 2.&#x202f;St. vom 6.2.1764.
 </marginal>
 
 <marginal index="7865" letter="257" page="234" line="18">
@@ -30905,7 +30901,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal index="7871" letter="257" page="234" line="23">
-<bzg>ihr Auffsatz</bzg> unklar, ob von <link ref="lindner-jg" linktext="true"/> oder <link ref="lindner-jef" linktext="true"/>
+<bzg>ihr Auffsatz</bzg> unklar, ob von <link ref="lindner-jg" linktext="true"/> oder <link ref="lindner-jef" linktext="true"/>. Vll. handelt es sich um den in den <link ref="ausfuehrliche-kritische-nachrichten" linktext="true"/> (2.&#x202f;St. vom 6.2.1764) erschienenen Artikel über die Petersschule in St. Petersburg (geleitet von <link ref="busching" linktext="true" />).
 </marginal>
 
 <marginal index="7872" letter="257" page="234" line="24">
@@ -30922,10 +30918,6 @@ Brief Nr. 257
 
 <marginal index="7876" letter="257" page="234" line="31">
 <bzg>Mathesi und Geographia physica</bzg> Mathematik und Physische Geographie
-</marginal>
-
-<marginal index="7877" letter="257" page="234" line="35">
-<bzg>zu gewinnen</bzg> für <link ref="konigsberger-gp-z" linktext="true"/>
 </marginal>
 
 <marginal index="7878" letter="257" page="234" line="37">
@@ -30961,11 +30953,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal index="7886" letter="257" page="235" line="19">
-<bzg>erste Stück unsrer Zeitung</bzg> <link ref="konigsberger-gp-z" linktext="true"/>, 1. St. v. 3.2.1764
-</marginal>
-
-<marginal index="7887" letter="257" page="235" line="19">
-<bzg>Nachricht</bzg> nicht ermittelt 
+<bzg>erste Stück unsrer Zeitung</bzg> <link ref="konigsberger-gp-z" linktext="true"/>, 1.&#x202f;St. vom 3.2.1764
 </marginal>
 
 <marginal index="7888" letter="257" page="235" line="23">
@@ -30973,7 +30961,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal index="7889" letter="257" page="235" line="23">
-<bzg>Artikel von Philippi</bzg> Rezension von <link ref="philippi" subref="philippi-briefe" linktext="true"/> in <link ref="konigsberger-gp-z" linktext="true"/>, 2. St. v. 6.2.1764
+<bzg>Artikel von Philippi</bzg> Rezension von <link ref="philippi" subref="philippi-briefe" linktext="true"/> in <link ref="konigsberger-gp-z" linktext="true"/>, 2.&#x202f;St. vom 6.2.1764
 </marginal>
 
 <marginal index="7890" letter="257" page="235" line="24">
@@ -30981,11 +30969,11 @@ Brief Nr. 257
 </marginal>
 
 <marginal index="7891" letter="257" page="235" line="25">
-<bzg>über die Briefe eines Chinesers</bzg> Rezension von <link ref="goldsmith" subref="goldsmith-letters" linktext="true"/> in <link ref="konigsberger-gp-z" linktext="true"/>, 18. St. v. 2.4.1764
+<bzg>über die Briefe eines Chinesers</bzg> Rezension von <link ref="goldsmith" subref="goldsmith-letters" linktext="true"/> in <link ref="konigsberger-gp-z" linktext="true"/>, 18.&#x202f;St. vom 2.4.1764
 </marginal>
 
 <marginal index="7892" letter="257" page="235" line="25">
-<bzg>Baumgartens Erklärungen</bzg> Rezension von <link ref="baumgarten-sj" subref="baumgarten-pauli" linktext="true"/> in <link ref="konigsberger-gp-z" linktext="true"/>, 18. St. v. 2.4.1764
+<bzg>Baumgartens Erklärungen</bzg> Rezension von <link ref="baumgarten-sj" subref="baumgarten-pauli" linktext="true"/> in <link ref="konigsberger-gp-z" linktext="true"/>, 18.&#x202f;St. vom 2.4.1764
 </marginal>
 
 <marginal index="7893" letter="257" page="235" line="27">
@@ -30997,7 +30985,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal index="7895" letter="257" page="235" line="33">
-<bzg>Ziegenpropheten</bzg> Jan Pawlikowicz Zdomozyrskich Komarnicki, vgl. Hamanns Beitrag in <link ref="konigsberger-gp-z" linktext="true"/>, 3. St. v. 10.2.1764 (N&#x202F;IV,269f.), ebenso den fortgesetzten Aufsatz von <link ref="kant" subref="kant-kopfes" linktext="true"/>, ebd. St. 4–8 v. 13.–27.2.1764
+<bzg>Ziegenpropheten</bzg> Jan Pawlikowicz Zdomozyrskich Komarnicki, vgl. Hamanns Beitrag in <link ref="konigsberger-gp-z" linktext="true"/>, 3.&#x202f;St. vom 10.2.1764 (N&#x202F;IV,269f.), ebenso Kants fortgesetzten Aufsatz <link ref="kant" subref="kant-kopfes" linktext="false"><titel>über die Krankheiten des Kopfes</titel></link>, ebd. St.&#x202f;4–8 vom 13.–27.2.1764.
 </marginal>
 
 <marginal index="7896" letter="257" page="235" line="34">
@@ -37087,7 +37075,7 @@ Brief Nr. 313
 
 
 
-Indexnummer, weitermachen mit: 9481
+Indexnummer, weitermachen mit: 9487
 
 
 </marginalien>
