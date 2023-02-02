@@ -5131,6 +5131,19 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </subsection>
 </kommentar>
 
+
+<kommentar id="holdermann" type="neuzeit">
+<lemma>Jean-Baptiste Holdermann</lemma>
+<eintrag>1694&#x2013;1730. Jesuitenpater in Konstantinopel.
+<subsection id="holdermann-turque" type="neuzeit" sort="10">
+<lemma>Holdermann, <titel>Grammaire turque</titel></lemma>
+<eintrag>
+<titel>Grammaire turque, ou, Methode courte & facile, pour apprendre la langue turque</titel> (Konstantinopel 1730). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10903886-3">BSB München: Res/4 L.as. 311f</wwwlink>.
+</eintrag>
+</subsection>
+</eintrag>
+</kommentar>
+
 <kommentar id="hollmann" type="neuzeit">
 <lemma>Samuel Christian Hollmann</lemma>
 <eintrag>1696&#x2013;1787. Philosoph, Naturforscher in Göttingen. <wwwlink address="https://www.deutsche-biographie.de/pnd11696474X.html#adbcontent">Wagenmann, Julius August: Hollmann, Samuel Christian, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;760&#x2013;762</wwwlink>.
@@ -5180,7 +5193,7 @@ Dt. Übers. zitiert nach: Wolfgang Schadewaldt (Hg.): Homer, Ilias (Düsseldorf,
 <lemma>Karl Ferdinand Hommel</lemma>
 <eintrag>1722&#x2013;1781. Prof. der Rechtswissenschaft in Leipzig <wwwlink address="https://www.deutsche-biographie.de/sfz33668.html">Teichmann: Hommel, Karl Ferdinand, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;58&#x2013;59</wwwlink>.
 <subsection id="hommel-einfalle" type="neuzeit" sort="10">
-<lemma>Hommel, <titel> Einfälle und Begebenheiten</titel></lemma>
+<lemma>Hommel, <titel>Einfälle und Begebenheiten</titel></lemma>
 <eintrag>
 <titel>Einfälle und Begebenheiten</titel> (Leipzig 1760).</eintrag>
 </subsection>
@@ -5816,8 +5829,10 @@ J. G. Lindner konnte sein Buch zur <link ref="lindner-jg" subref="schreibart" li
 </kommentar>
 
 <kommentar id="konigsberger-gp-z" type="neuzeit">
-<lemma>Königsbergische Gelehrte und Politische Zeitungen</lemma>
-<eintrag>1764–1796, erschienen montags und freitags im Buchladen von <link ref="kanter-jj" linktext="true" />, später die Dengelsche Zeitungen. [Biga&#x202F;179/10: »Königsbergsche gelehrte und politische Zeitungen von 767–75«; Biga 182/47: »Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.« u. Biga 199/115: »Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.«]</eintrag>
+<lemma>Königsbergsche Gelehrte und Politische Zeitungen</lemma>
+<eintrag>1764–1796, erschienen montags und freitags im Buchladen von <link ref="kanter-jj" linktext="true" />, später die Dengelsche Zeitungen. [Biga&#x202F;179/10: »Königsbergsche gelehrte und politische Zeitungen von 767–75«; Biga 182/47: »Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.« u. Biga 199/115: »Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.«]<line type="break"/>
+Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelblaska.pl/dlibra/publication/68995#structure">Biblioteka Elbląska</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="keber" type="neuzeit">
@@ -7839,7 +7854,8 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <lemma>Montague, <titel>Letters of the Right Honourable Lady </titel></lemma>
 <eintrag>
 <titel>Letters of the Right Honourable Lady […] Written, during her Travels in Europe, Asia and Africa, To Persons of Distinction, men of Letters and c. in different Parts of Europe. Which contain, Among other Curious Relations, Accounts of the Policy and Manners of the Turks, Drawn from Sources, that have been inaccessible to other Travellers</titel> (3&#x00A0;Bde., London 1763). <line type="break"/>
-Übers.: <titel>Briefe der Lady Mary Wortley Montague, während ihrer Reisen in Europa, Asien und Afrika, an Personen vom Stande, Gelehrte etc. in verschiedenen Teilen von Europa geschrieben</titel> (Leipzig 1765).</eintrag>
+Übers.: <titel>Briefe der Lady Mary Wortley Montague, während ihrer Reisen in Europa, Asien und Afrika, an Personen vom Stande, Gelehrte etc. in verschiedenen Teilen von Europa geschrieben</titel> (Leipzig 1765). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10469957">BSB München: It.sing. 1490 n</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 
@@ -7896,7 +7912,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <subsection id="montfaucon-nph-gabalis" type="neuzeit" sort="10">
 <lemma>Montfaucon, <titel>Le Comte de Gabalis</titel></lemma>
 <eintrag>
-<titel>Le Comte de Gabalis</titel> ou Entretiens sur les sciences secretes [Biga&#x202F;150/360: »Le Comte de Gabalis avec la Suite, Amst. 715«].</eintrag>
+<titel>Le Comte de Gabalis ou Entretiens sur les sciences secretes</titel> [Biga&#x202F;150/360: »Le Comte de Gabalis avec la Suite, Amst. 715«].</eintrag>
 </subsection>
 </kommentar>
 
