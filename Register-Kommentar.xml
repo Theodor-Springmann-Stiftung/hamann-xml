@@ -344,7 +344,8 @@ In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202f;2, S.&#x202f;177�
 
 <kommentar id="arndt-cg" type="neuzeit">
 <lemma>Christian Gottlieb Arndt</lemma>
-<eintrag>1743&#x2013;1829. Historiker, Übersetzer; Studium der Rechte und Theologie in Königsberg, seit 1768 Gouvernementssekretär in St. Petersburg; 1772 von <link ref="katharina" linktext="false">Zarin Katharina</link> mit der Leitung des Postwesens betraut; gründete 1776 die deutschsprachige Zeitschrift <titel>St. Petersburger Journal</titel>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz004_00470_1.html">Deutsche Biographie</wwwlink></eintrag>
+<eintrag>1743&#x2013;1829. Historiker, Übersetzer; Studium der Rechte und Theologie in Königsberg, seit 1768 Gouvernementssekretär in St. Petersburg; 1772 von <link ref="katharina" linktext="false">Zarin Katharina</link> mit der Leitung des Postwesens betraut; gründete 1776 die deutschsprachige Zeitschrift <titel>St. Petersburger Journal</titel>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz004_00470_1.html">Deutsche Biographie</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="arnoldt" type="neuzeit">
@@ -2681,7 +2682,7 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 <subsection id="dodsley-collection" type="neuzeit" sort="20">
 <lemma>Dodsley, <titel>A Collection of Poems by Several Hands</titel></lemma>
 <eintrag>
-<titel>A Collection of Poems by Several Hands</titel> (7 Bde; London 1755–1767).
+<titel>A Collection of Poems by Several Hands</titel> (4&#x202f;Bde, London 1755). Digitalisat, Bd.&#x202f;1: <wwwlink address="https://books.google.de/books?id=PyIJAAAAQAAJ&hl=de&pg=PP7#v=onepage&q&f=false">Google Books</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -4012,7 +4013,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#x00A0;v. Joachim u. Brigitt
 
 <kommentar id="greis" type="neuzeit">
 <lemma>Der Greis</lemma>
-<eintrag>Theil 1–16, 1763-1766, moralische Wochenschrift hrsg. in Magdeburg von Johann Samuel Patzke (1727–1787), evang. Theologe</eintrag>
+<eintrag>Theil 1–16, 1763-1766, moralische Wochenschrift hrsg. in Magdeburg von Johann Samuel Patzke (1727–1787), evang. Theologe.</eintrag>
 </kommentar>
 
 
@@ -4468,7 +4469,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;83&#x2013;
 <subsection id="hamann-lettres" type="neuzeit" sort="250">
 <lemma>Hamann, <titel>Lettres néologiques</titel></lemma>
 <eintrag>
-<titel>Lettre neologique et provinciale sur l’inoculation du bon sens: [...] pour les fous, Pour les Anges et pour les Diables</titel> (Königsberg: Kanter 1761). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:hbz:6:1-236013">ULB Münster: N. Hamann Bd.&#x202F;43/44/45/46</wwwlink>.
+<titel>Lettre néologique et provinciale sur l’inoculation du bon sens: [...] pour les fous, Pour les Anges et pour les Diables</titel> (Königsberg: Kanter 1761). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:hbz:6:1-236013">ULB Münster: N. Hamann Bd.&#x202F;43/44/45/46</wwwlink>.
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;279&#x2013;286 und Erstdruck = ED.<line type="break"/>
 Übers. und Kommentar: <link ref="fin-l-1987" linktext="false">Fink-Langois (1987)</link>.
 </eintrag>
@@ -6028,6 +6029,11 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <eintrag>
 <titel>Hinterlaßne Schriften: von Margareta Klopstock [der 1758 verst. Frau von F. G. Klopstock]</titel> (Hamburg: Bohn 1759) [Biga&#x202F;159/503: »Hinterlassene Schriften der Margaretha Klopstock, Hamb. 759«].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="klotz" type="neuzeit">
+<lemma>Christian Adolph Klotz</lemma>
+<eintrag>1738–1771. Philologe in Halle. Galt als Verfechter der Anakreontik bzw. Rokoko-Dichtung.</eintrag>
 </kommentar>
 
 <kommentar id="klueter" type="neuzeit">
@@ -10648,7 +10654,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <subsection id="straton-klotz" type="neuzeit" sort="10">
 <lemma>Klotz, <titel>Stratonis Epigrammata</titel></lemma>
 <eintrag>
-<titel>Stratonis Epigrammata gr. ex ed. Klotzii</titel> (Altenburg: Officina Richteria 1764). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10234257-7">BSB München: -- A.gr.a. 2413</wwwlink>.
+<titel>Stratonis Epigrammata gr., hg. von <link ref="klotz" linktext="false" /> (Altenburg: Officina Richteria 1764). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10234257-7">BSB München: -- A.gr.a. 2413</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11153,7 +11159,7 @@ Hamann muss das Exemplar dieses Werk nach 1756 bekommen haben, da es ihm für di
 <subsection id="tyrtaios-klotz" type="neuzeit">
 <lemma>Klotz, <titel>Tyrtaei</titel></lemma>
 <eintrag>
-<titel>Tyrtaei qvae restant omnia, collegit commentario illvstravit edidit Christ. Adolph. Klotzivs</titel> (Bremen 1764) [Biga&#x202F;8/122: »Tyrtaeus gr. ex ed. Klotzii, Brem. 764«]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10234333-1">BSB München: A.gr.a. 2563</wwwlink>
+<titel>Tyrtaei qvae restant omnia, collegit commentario illvstravit</titel>, hg. von <link ref="klotz" linktext="true" /> (Bremen 1764) [Biga&#x202F;8/122: »Tyrtaeus gr. ex ed. Klotzii, Brem. 764«]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10234333-1">BSB München: A.gr.a. 2563</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>

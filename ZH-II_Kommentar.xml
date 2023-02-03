@@ -32371,7 +32371,7 @@ Brief Nr. 269
 </marginal>
 
 <marginal index="8230" letter="269" page="260" line="16">
-<bzg>Klotzens Ausgabe von Tyrtaei Kriegsliedern</bzg> <link ref="tyrtaios" subref="tyrtaios-klotz" linktext="true"/> 
+<bzg>Klotzens Ausgabe von Tyrtaei Kriegsliedern</bzg> <link ref="tyrtaios" subref="tyrtaios-klotz" linktext="false">Tyrtaios</link>, hg. von <link ref="klotz" linktext="true" />. 
 </marginal>
 
 <marginal index="8231" letter="269" page="260" line="17">
@@ -32466,10 +32466,6 @@ Brief Nr. 270
 
 Brief Nr. 271
 
-<marginal index="8253" letter="271" page="262" line="21">
-<bzg>keinen erhalten</bzg> nicht ermittelt 
-</marginal>
-
 <marginal index="8255" letter="271" page="262" line="22">
 <bzg>M. Lindners</bzg> <link ref="lindner-jg" linktext="true"/> 
 </marginal>
@@ -32491,23 +32487,23 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8260" letter="271" page="262" line="31">
-<bzg>Denkwürdigkeiten der Westminsterkirche</bzg> Rezension von <link ref="lauson" linktext="true"/> zu Karl Heinrich Langer, <titel>Denkwürdigkeiten der Stiftskirche zu St. Peter in Westmünster, nebst einigen hieher gehörigen Nachrichten von dem Leben merkwürdiger englischer Dichter</titel> (Lübeck 1763), in <link ref="konigsberger-gp-z" linktext="true"/> 38.&#x202F;St. vom 11.6.1764
+<bzg>Denkwürdigkeiten der Westminsterkirche</bzg> Rezension von <link ref="lauson" linktext="true"/> zu Karl Heinrich Langer, <titel>Denkwürdigkeiten der Stiftskirche zu St. Peter in Westmünster, nebst einigen hieher gehörigen Nachrichten von dem Leben merkwürdiger englischer Dichter</titel> (Lübeck 1763), in <link ref="konigsberger-gp-z" linktext="true"/> 38.&#x202F;St. vom 11.6.1764.
 </marginal>
 
 <marginal index="8261" letter="271" page="262" line="32">
-<bzg>Rigischen Zeitungsnachrichten</bzg> Vorstellung und Inhaltsangabe des Rigaer Intelligenzblattes <titel>Rigische Anzeigen von allerhand Sachen, deren Bekanntmachung dem gemeinen Wesen nöthig und nützlich ist</titel>, in <link ref="konigsberger-gp-z" linktext="true"/>, 39.&#x202F;St. vom 2.6.1764, fortgesetzt im 40.&#x202F;St. vom 18.6.1764
+<bzg>Rigischen Zeitungsnachrichten</bzg> Vorstellung und Inhaltsangabe des Rigaer Intelligenzblattes <titel>Rigische Anzeigen von allerhand Sachen, deren Bekanntmachung dem gemeinen Wesen nöthig und nützlich ist</titel>, in <link ref="konigsberger-gp-z" linktext="true"/>, 39.&#x202F;St. vom 2.6.1764, fortgesetzt im 40.&#x202F;St. vom 18.6.1764.
 </marginal>
 
 <marginal index="8262" letter="271" page="262" line="32">
-<bzg>Werners andres Gedicht auf den Sommer</bzg> <link ref="werner-jg" linktext="true"/>, <titel>Iam calor increscit, provectior aestuat annus,</titel> in <link ref="konigsberger-gp-z" linktext="true"/>, 41.&#x202F;St. vom 22.6.1764
+<bzg>Werners andres Gedicht auf den Sommer</bzg> <link ref="werner-jg" linktext="true"/>, <titel>Iam calor increscit, provectior aestuat annus,</titel> in <link ref="konigsberger-gp-z" linktext="true"/>, 41.&#x202F;St. vom 22.6.1764.
 </marginal>
 
 <marginal index="8263" letter="271" page="262" line="33">
-<bzg>Schulzens Gedichtlein auf die M. Karschin</bzg> Johann Schultz, <titel>Ueber die Gesänge der Madame Karschin,</titel> zu <link ref="karsch" subref="karsch-gedichte" linktext="true"/>, in <link ref="konigsberger-gp-z" linktext="true"/>, 39.&#x202F;St. vom 15.6.1764
+<bzg>Schulzens Gedichtlein auf die M. Karschin</bzg> Johann Schultz, <titel>Ueber die Gesänge der Madame Karschin,</titel> zu <link ref="karsch" subref="karsch-gedichte" linktext="true"/>, in <link ref="konigsberger-gp-z" linktext="true"/>, 39.&#x202F;St. vom 15.6.1764.
 </marginal>
 
 <marginal index="8264" letter="271" page="262" line="33">
-<bzg>Gleims Gespräche</bzg> <link ref="gleim" linktext="true"/>, <titel>Gespräche mit der deutschen Muse</titel> (Berlin 1764), in <link ref="konigsberger-gp-z" linktext="true"/> 41.&#x202F;St. vom 30.3.1763
+<bzg>Gleims Gespräche</bzg> <link ref="gleim" linktext="true"/>, <titel>Gespräche mit der deutschen Muse</titel> (Berlin 1764), in <link ref="konigsberger-gp-z" linktext="true"/> 41.&#x202F;St. vom 30.3.1763.
 </marginal>
 
 <marginal index="8265" letter="271" page="263" line="1">
@@ -32515,7 +32511,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8266" letter="271" page="263" line="2">
-<bzg>Geschmackvoller Aufseher</bzg> Kanter kündigt im 42.&#x202F;St. vom 25.6.1764 der <link ref="konigsberger-gp-z" linktext="false">Königsbergischen Gelehrten und Politischen Zeitungen</link> an, von nun selbst die Aufsicht über die Zeitung zu führen
+<bzg>Geschmackvoller Aufseher</bzg> Kanter kündigt im 42.&#x202F;St. vom 25.6.1764 der <link ref="konigsberger-gp-z" linktext="false">Königsbergischen Gelehrten und Politischen Zeitungen</link> an, von nun selbst die Aufsicht über die Zeitung zu führen.
 </marginal>
 
 <marginal index="8267" letter="271" page="263" line="6">
@@ -32523,7 +32519,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8268" letter="271" page="263" line="15">
-<bzg>eingeschickte Schreiben</bzg> <link ref="konigsberger-gp-z" linktext="true"/>, 42.&#x202F;St. vom 25.6.1764: <titel>An die Herren Verfasser der Königsberger Gelehrten Zeitung</titel> und <titel>An den Herrn Verfasser der gelehrten Artikel</titel>, beide gezeichnet Vincenz Urban
+<bzg>eingeschickte Schreiben</bzg> <link ref="konigsberger-gp-z" linktext="true"/>, 42.&#x202F;St. vom 25.6.1764: <titel>An die Herren Verfasser der Königsberger Gelehrten Zeitung</titel> und <titel>An den Herrn Verfasser der gelehrten Artikel</titel>, beide gezeichnet »Vincenz Urban«.
 </marginal>
 
 <marginal index="8269" letter="271" page="263" line="16">
@@ -32543,19 +32539,19 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8273" letter="271" page="263" line="31">
-<bzg>R. Pere – – Chauve-souris</bzg> Révérend Pere – – Chauve souris; dt. ehrwürdiger Vater – – Fledermaus
+<bzg>R. Pere – – Chauve-souris</bzg> Révérend Pere – – Chauve souris; dt. ehrwürdiger Vater – – Fledermaus. Vgl. <link ref="hamann" subref="hamann-lettres" linktext="true" />, §7, wo die Fledermaus für die von Christian August Crusius angestoßene Mode-Theologie steht. 
 </marginal>
 
 <marginal index="8274" letter="271" page="263" line="32">
-<bzg>trockne Poet. Phantasie</bzg> <link ref="trescho-sf" linktext="true"/>, Phantasie, <link ref="konigsberger-gp-z" linktext="true"/>, 53.&#x202F;St. vom 3.8.1764
+<bzg>trockne Poet. Phantasie</bzg> <link ref="trescho-sf" linktext="true"/>, »Phantasie«, <link ref="konigsberger-gp-z" linktext="true"/>, 53.&#x202F;St. vom 3.8.1764.
 </marginal>
 
 <marginal index="8275" letter="271" page="263" line="34">
-<bzg>die Basedowsche</bzg> Rezension von <link ref="basedow" linktext="true"/>, <titel>Methodischer Unterricht in der überzeugenden Erkenntniß der biblischen Religion zur fortgesetzten Ausführung des in der Philalethie angegebenen Plans</titel> (Altona 1764), <link ref="konigsberger-gp-z" linktext="true"/>, 43.&#x202F;St. vom 29.6. und 44.&#x202F;St. vom 2.7.1764
+<bzg>die Basedowsche</bzg> Rezension von <link ref="basedow" linktext="true"/>, <titel>Methodischer Unterricht in der überzeugenden Erkenntniß der biblischen Religion zur fortgesetzten Ausführung des in der Philalethie angegebenen Plans</titel> (Altona 1764), <link ref="konigsberger-gp-z" linktext="true"/>, 43.&#x202F;St. vom 29.6. und 44.&#x202F;St. vom 2.7.1764.
 </marginal>
 
 <marginal index="8276" letter="271" page="263" line="36">
-<bzg>T. schrieb</bzg> <titel>Gedanken über die Ausbreitung der Wissenschaften, und einer verbesserten Erkäntniß,</titel> <link ref="konigsberger-gp-z" linktext="true"/>, 46.–48.&#x202F;St. vom 9., 13. und 16.7.1764
+<bzg>T. schrieb</bzg> <titel>Gedanken über die Ausbreitung der Wissenschaften, und einer verbesserten Erkäntniß,</titel> <link ref="konigsberger-gp-z" linktext="true"/>, 46.–48.&#x202F;St. vom 9., 13. und 16.7.1764.
 </marginal>
 
 <marginal index="8277" letter="271" page="263" line="37">
@@ -32563,15 +32559,15 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8278" letter="271" page="264" line="4">
-<bzg>Schneckenschalen aus dem Brem. Magaz.</bzg> <titel>Von der Art, wie die Schalen der Schnecken entstehen,</titel> <link ref="konigsberger-gp-z" linktext="true"/>, 50. und 51.&#x202F;St. vom 23. und 27.7.1764
+<bzg>Schneckenschalen aus dem Brem. Magaz.</bzg> <titel>Von der Art, wie die Schalen der Schnecken entstehen,</titel> <link ref="konigsberger-gp-z" linktext="true"/>, 50. und 51.&#x202F;St. vom 23. und 27.7.1764.
 </marginal>
 
 <marginal index="8279" letter="271" page="264" line="5">
-<bzg>Abhandlung über die Handlung</bzg> <titel>Von der Handlung,</titel> <link ref="konigsberger-gp-z" linktext="true"/> im 45.&#x202F;St. vom 6.7.1764
+<bzg>Abhandlung über die Handlung</bzg> <titel>Von der Handlung,</titel> <link ref="konigsberger-gp-z" linktext="true"/> im 45.&#x202F;St. vom 6.7.1764.
 </marginal>
 
 <marginal index="8280" letter="271" page="264" line="5">
-<bzg>Morgenl. Geschichte</bzg> <titel>Das Gesicht des Einsiedlers Abdallah. Eine morgenländische Erzählung,</titel> <link ref="konigsberger-gp-z" linktext="true"/>, 55.&#x202F;St. vom 10.8.1764
+<bzg>Morgenl. Geschichte</bzg> <titel>Das Gesicht des Einsiedlers Abdallah. Eine morgenländische Erzählung,</titel> <link ref="konigsberger-gp-z" linktext="true"/>, 55.&#x202F;St. vom 10.8.1764.
 </marginal>
 
 <marginal index="8281" letter="271" page="264" line="6">
@@ -32587,15 +32583,15 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8284" letter="271" page="264" line="11">
-<bzg>HE. Hippels Rhapsodie</bzg> <link ref="hippel" linktext="true"/>, <titel>Nehmt Klüfte – nehmt einen Jüngling auf,</titel> <link ref="konigsberger-gp-z" linktext="true"/>, 44.&#x202F;St. vom 2.7.1764
+<bzg>HE. Hippels Rhapsodie</bzg> <link ref="hippel" linktext="true"/>, <titel>Nehmt Klüfte – nehmt einen Jüngling auf,</titel> <link ref="konigsberger-gp-z" linktext="true"/>, 44.&#x202F;St. vom 2.7.1764.
 </marginal>
 
 <marginal index="8285" letter="271" page="264" line="12">
-<bzg>Dorfempfindungen</bzg> <link ref="konigsberger-gp-z" linktext="true"/>, 44.&#x202F;St. vom 2.7.1764
+<bzg>Dorfempfindungen</bzg> <link ref="konigsberger-gp-z" linktext="true"/>, 44.&#x202F;St. vom 2.7.1764.
 </marginal>
 
 <marginal index="8286" letter="271" page="264" line="13">
-<bzg>Willamovius Sammlung</bzg> <link ref="lauson" linktext="true"/>, <link ref="willamovius" subref="willamovius-sammlung" linktext="true"/>, <link ref="konigsberger-gp-z" linktext="true"/>, 46.&#x202F;St. vom 9.7.1764
+<bzg>Willamovius Sammlung</bzg> <link ref="lauson" linktext="true"/>, <link ref="willamovius" subref="willamovius-sammlung" linktext="true"/>, <link ref="konigsberger-gp-z" linktext="true"/>, 46.&#x202F;St. vom 9.7.1764.
 </marginal>
 
 <marginal index="8287" letter="271" page="264" line="15">
@@ -32619,7 +32615,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8292" letter="271" page="264" line="32">
-<bzg>Simon</bzg> Schuhmacher in Athen, dessen Werkstatt Sokrates oft besucht haben soll
+<bzg>Simon</bzg> Schuhmacher in Athen, dessen Werkstatt Sokrates oft besucht haben soll. Vgl. <link ref="hamann" subref="sokratischedenk" linktext="true" />, ED S.27.
 </marginal>
 
 <marginal index="8293" letter="271" page="264" line="35">
@@ -32631,11 +32627,11 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8295" letter="271" page="265" line="5">
-<bzg>aut Caesar, aut nihil</bzg> dt. entweder Cäsar oder nichts; wird Cesare Borgia (1475–1507) zugeschrieben
+<bzg>aut Caesar, aut nihil</bzg> dt. »entweder Cäsar oder nichts«; wird Cesare Borgia (1475–1507) zugeschrieben.
 </marginal>
 
 <marginal index="8296" letter="271" page="265" line="5">
-<bzg>Böotisches dickluftiges Thebe</bzg> Wegen der nebligen Luft Böotiens galten seine Bewohner als begriffsstutzig (<link ref="horaz" subref="horaz-epistel" linktext="true"/>, II, 1, 244)
+<bzg>Böotisches dickluftiges Thebe</bzg> Wegen der nebligen Luft Böotiens galten seine Bewohner als begriffsstutzig (<link ref="horaz" subref="horaz-epistel" linktext="true"/>, II, 1, 244).
 </marginal>
 
 <marginal index="8297" letter="271" page="265" line="6">
@@ -32675,7 +32671,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8307" letter="271" page="265" line="22">
-<bzg>Tr. mit der Dithyrambenrecension</bzg> Rezension von <link ref="trescho-sf" linktext="true"/> von <link ref="willamovius" subref="willamovius-dithyramben" linktext="true"/> im 30. Stück v. 14.5.1764 der <link ref="konigsberger-gp-z" linktext="false">Königsbergischen Gelehrten und Politischen Zeitungen</link>
+<bzg>Tr. mit der Dithyrambenrecension</bzg> Rezension von <link ref="willamovius" subref="willamovius-dithyramben" linktext="true"/> im 30. Stück von 14.5.1764 der <link ref="konigsberger-gp-z" linktext="false">Königsbergischen Gelehrten und Politischen Zeitungen</link>.
 </marginal>
 
 <marginal index="8308" letter="271" page="265" line="23">
@@ -32696,10 +32692,6 @@ Brief Nr. 271
 
 <marginal index="8312" letter="271" page="265" line="33">
 <bzg>Michaelis</bzg> <link ref="michaelis-jd" linktext="true"/>
-</marginal>
-
-<marginal index="8313" letter="271" page="265" line="34">
-<bzg>Spleen</bzg> die Beziehung zu <link ref="schumacher-ar" linktext="true"/> 
 </marginal>
 
 <marginal index="8314" letter="271" page="265" line="35">
