@@ -438,8 +438,8 @@ Dt. Übers. zitiert nach: Kurt Flasch u. Burkhard Mojsisch (Übers.), <titel>Aug
 </kommentar>
 
 <kommentar id="ausfuehrliche-kritische-nachrichten" type="neuzeit">
-<lemma>Ausführliche und kritische Nachrichten von den besten und merkwürdigsten Schriften unserer Zeit, nebst andern zur Gelahrtheit gehörigen Sachen</lemma>
-<eintrag>Lindau, Frankfurt, Leipzig 1763–66, hrsg. von Jacob Otto. Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN731784995">Niedersächsische Staats- und Universitätsbibliothek Göttingen</wwwlink>.  </eintrag>
+<lemma><titel>Ausführliche und kritische Nachrichten</titel></lemma>
+<eintrag><titel>Ausführliche und kritische Nachrichten von den besten und merkwürdigsten Schriften unserer Zeit, nebst andern zur Gelahrtheit gehörigen Sachen</titel> (Lindau, Frankfurt, Leipzig 1763–66), hrsg. von Jacob Otto. Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN731784995">Niedersächsische Staats- und Universitätsbibliothek Göttingen</wwwlink>.  </eintrag>
 </kommentar>
 
 <kommentar id="auvigny" type="neuzeit">
@@ -933,7 +933,7 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 <lemma>Beyer, <titel>Vermischte Poesien</titel></lemma>
 <eintrag>
 <titel>Vermischte Poesien</titel> (Frankfurt/Leipzig 1756). Digitalisat: <wwwlink address="https://digitale.bibliothek.uni-halle.de/vd18/content/titleinfo/1657831">	
-Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt, 2010</wwwlink>
+ULB Halle: vd18 10313311</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -3493,7 +3493,7 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 <subsection id="fr-matinees" type="neuzeit" sort="80">
 <lemma>Friedrich II., <titel>Matinées royales</titel></lemma>
 <eintrag>
-<titel>Matinées royales, ou Entretiens sur l’art de regner</titel> (1767) Digitalisat: <wwwlink address="	http://resolver.staatsbibliothek-berlin.de/SBB0001647400000000">SBB-PK: Ti 9641/12</wwwlink>.
+<titel>Matinées royales, ou Entretiens sur l’art de regner</titel> (1766) Digitalisat: <wwwlink address="https://opendata.uni-halle.de//handle/1981185920/74048">UB Halle: vd18 11128801</wwwlink>.
 </eintrag>
 </subsection>
 
@@ -4834,7 +4834,7 @@ Wiss. Ausg.: Johann Gottfried Herder, <titel>Werke</titel>, 10 Bde., hg.&#x00A0;
 <subsection id="herder-rhapsodie" type="neuzeit" sort="15">
 <lemma>Herder, <titel>Dithyrambische Rhapsodie</titel></lemma>
 <eintrag>
-<titel>Dithyrambische Rhapsodie über die Rhapsodie kabbalistischer Prose</titel> (unveröffentlicht, 1765). 
+<titel>Dithyrambische Rhapsodie über die Rhapsodie kabbalistischer Prose</titel> (unveröffentlicht, 1765); Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;30–39. 
 </eintrag>
 </subsection>
 <subsection id="herder-opferpriester" type="neuzeit" sort="20">
@@ -4847,6 +4847,12 @@ Wiss. Ausg.: Johann Gottfried Herder, <titel>Werke</titel>, 10 Bde., hg.&#x00A0;
 <lemma>Herder, <titel>Über die Asche Königsbergs</titel></lemma>
 <eintrag>
 <titel>Über die Asche Königsbergs. Ein Trauergesang</titel> (Mitau: Kanter 1765). 
+</eintrag>
+</subsection>
+<subsection id="herder-volkes" type="neuzeit" sort="15">
+<lemma>Herder, <titel>Philosophie zum Besten des Volkes</titel></lemma>
+<eintrag>
+<titel>Wie die Philosophie zum Besten des Volkes allgemeiner und nützlicher werden kann</titel> (unveröffentlicht, 1765); Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;101–134. 
 </eintrag>
 </subsection>
 </kommentar>
@@ -10679,7 +10685,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="strimesius" type="neuzeit">
 <lemma>Johann Samuel Strimesius</lemma>
-<eintrag>1684&#x2013;1774. Theologe. <wwwlink address="https://www.deutsche-biographie.de/pnd121885623.html"></wwwlink>.
+<eintrag>1684&#x2013;1774. Theologe. 
 </eintrag>
 <subsection id="strimesius-comitiorum" type="neuzeit" sort="10">
 <lemma>Strimesius, <titel>Comitiorum Polonicorum Grodnæ,</titel></lemma>
