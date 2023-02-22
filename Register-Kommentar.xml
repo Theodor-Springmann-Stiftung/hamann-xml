@@ -1248,7 +1248,7 @@ Hamanns Notiz dazu N&#x00A0;V S.&#x202F;276/13: »Taseodrugiten, eine Art Montan
 
 <kommentar id="borowski" type="neuzeit">
 <lemma>Ludwig Ernst v. Borowski</lemma>
-<eintrag>1740&#x2013;1813. Hauslehrer im Hause des General K. G. v. Knobloch, seit 1783 Prediger an der Roßgärtschen Kirche in Königsberg.</eintrag>
+<eintrag>1740&#x2013;1831. Hauslehrer im Hause des General K. G. v. Knobloch, seit 1762 Feldprediger, seit 1783 Prediger an der Roßgärtschen Kirche in Königsberg; zuletzt Bischof der evanglischen Kirche.</eintrag>
 </kommentar>
 
 <kommentar id="borremansius" type="neuzeit">
@@ -3569,7 +3569,7 @@ G
 <subsection id="gale-historiae" type="neuzeit" sort="30">
 <lemma>Gale, <titel>Historiae poeticae scriptores antiqui</titel></lemma>
 <eintrag>
-<titel>Historiae poeticae scriptores antiqui</titel> (Paris: Scott, Muguet 1675). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11088327-6">Regensburg, Staatliche Bibliothek: -- 999/Class.83</wwwlink>.
+<titel>Historiae poeticae scriptores antiqui</titel> (Paris: Scott, Muguet 1675). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11088327-6">SB Regensburg: -- 999/Class.83</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -4823,12 +4823,18 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;291&#x2013
 <kommentar id="herder" type="neuzeit">
 <lemma>Johann Gottfried Herder</lemma>
 <eintrag>1744&#x2013;1803. Literaturtheoretiker und Dichter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz31807.html#adbcontent">Haym, Rudolf: Herder, Johann Gottfried, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;55&#x2013;100</wwwlink>. <line type="break"/>
-Wiss. Ausg.: <titel>Herders Sämmtliche Werke</titel>, 33 Bde., hg.&#x00A0;v. Bernhard Suphan (Berlin: Weidmann 1877–1913) = SWS
+Wiss. Ausg.: Johann Gottfried Herder, <titel>Werke</titel>, 10 Bde., hg.&#x00A0;v. Ulrich Gaier (Frankfurt a.M. 1985–2000).
 </eintrag>
 <subsection id="herder-cyrus" type="neuzeit" sort="10">
 <lemma>Herder, <titel>Gesang an den Cyrus</titel></lemma>
 <eintrag>
 <titel>Gesang an den Cyrus : Aus dem Hebräischen übersezzt : bei Gelegenheit der Thronbesteigung Peters III gedichtet</titel> (Königsberg: Kanter 1762). 
+</eintrag>
+</subsection>
+<subsection id="herder-rhapsodie" type="neuzeit" sort="15">
+<lemma>Herder, <titel>Dithyrambische Rhapsodie</titel></lemma>
+<eintrag>
+<titel>Dithyrambische Rhapsodie über die Rhapsodie kabbalistischer Prose</titel> (unveröffentlicht, 1765). 
 </eintrag>
 </subsection>
 <subsection id="herder-opferpriester" type="neuzeit" sort="20">
@@ -6467,7 +6473,7 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true"/> wurd
 <subsection id="leibniz-ouvres" type="neuzeit" sort="20">
 <lemma>Leibniz, <titel>Oeuvres Philosophiques latines et françoises</titel></lemma>
 <eintrag>
-<titel>Oeuvres Philosophiques latines et françoises du feu Mr. de Leibniz, tirées de ses manuscrits qui se conservent dans la Bibliothèque royale à Hanovre et publiees par Mr. Rud. Eric Raspe. Avec une Préface de Mr. Kastner</titel>(Amsterdam/Leipzig: Schreuder 1765). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11221012-4">Augsburg, Staats- und Stadtbibliothek: -- 4 Phil 211</wwwlink>.
+<titel>Oeuvres Philosophiques latines et françoises du feu Mr. de Leibniz, tirées de ses manuscrits qui se conservent dans la Bibliothèque royale à Hanovre et publiees par Mr. Rud. Eric Raspe. Avec une Préface de Mr. Kastner</titel> (Amsterdam/Leipzig: Schreuder 1765). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11221012-4">Augsburg, Staats- und Stadtbibliothek: -- 4 Phil 211</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6851,6 +6857,13 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <lemma>John Locke</lemma>
 <eintrag>1632&#x2013;1704. Engl. Philosoph, siehe <wwwlink address="https://doi.org/10.1093/ref:odnb/16885">Milton, J. R.: Locke, John, in: <titel>Oxford DNB</titel></wwwlink>.
 </eintrag>
+<subsection id="locke-understanding" type="neuzeit" sort="10">
+<lemma>Locke, <titel>An Essay concerning Humane Understanding</titel></lemma>
+<eintrag>
+<titel>An essay concerning humane understanding</titel> (1690). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10862496">BSB München: Rar. 4613</wwwlink>.<line type="break"/>
+Übers.: <titel>Johann Lockens Anleitung des menschlichen Verstandes zur Erkäntniß der Wahrheit nebst desselben Abhandlung von den Wunderwerken, aus dem Englischen übersetzt von <link ref="kypke" linktext="true"/>George David Kypke der Weltweisheit und der morgenländischen Sprachen Professore</titel> (Königsberg: Hartung 1755). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN882701894">SUB Göttingen: DD96 A 247</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 
@@ -7044,7 +7057,7 @@ WA 30, 2, S.&#x202F;632–646.
 
 <kommentar id="lycophron" type="neuzeit">
 <lemma>Lycophron von Chalkis</lemma>
-<eintrag>Um 320 v.&#x202f;Chr.&#x202f;–&#x202f;nach 280 v.&#x202f;Chr). Vmtl. Dichter eines Kassandra-Epos, galt schon den Zeitgenossen als dunkel.</eintrag>
+<eintrag>Um 320 v.&#x202f;Chr.&#x202f;–&#x202f;nach 280 v.&#x202f;Chr. Vmtl. Dichter eines Kassandra-Epos, galt schon den Zeitgenossen als dunkel.</eintrag>
 <subsection id="lycophron-poema" type="neuzeit">
 <lemma><titel>Lycophronis Obscurum Poema</titel></lemma>
 <eintrag>
@@ -9354,7 +9367,7 @@ Bibliotheca Jo. Pistorii, Bas. 587«]
 <subsection id="ricci-dissertationes" type="neuzeit" sort="10">
 <lemma>Ricci, <titel>Dissertationes Homericae habitae in Florentino Lyceo</titel></lemma>
 <eintrag>
-<titel>Dissertationes Homericae habitae in Florentino Lyceo quibus accedunt ejusdem orationes pro solenni instauratione studiorum</titel> (3&#x00A0;Bde., Florenz 1740–41).</eintrag>
+<titel>Dissertationes Homericae habitae in Florentino Lyceo quibus accedunt ejusdem orationes pro solenni instauratione studiorum</titel> (3&#x00A0;Bde., Florenz 1740–41; 2.Auflage 1748).</eintrag>
 </subsection>
 </kommentar>
 
@@ -10463,7 +10476,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <subsection id="spanheim-callimachi" type="neuzeit" sort="10">
 <lemma>Spanheim, <titel>Callimachi Cyrenaici Humni, Epigrammata et Fragmenta</titel></lemma>
 <eintrag>
-<titel>Callimachi Cyrenaici Humni, Epigrammata et Fragmenta cum not. integr. HS.tephani, B. Vulcanii, Annae Fabri, Th Graevii, Rich. Bentleii, quibus acc, Ezechielis Spanhemii […] Textum ad Mss. fid. rec., lat. vert., notas adi. I. Aug. Ernest</titel> (2&#x00A0;Bde., Leyden 1761) [Biga&#x202F;14/212: »Callimachi Hymni, Epigrammata &#x26; Fragmenta gr.&#x26; lat. ex ed. J. A. Ernesti, Tom. I. II., Lugd. 761«]. Digitalisat, Bd.&#x202f;1: <wwwlink address="http://data.onb.ac.at/rep/1083E553">ÖNB Wien: 264098-B.1</wwwlink>.
+<titel>Callimachi Cyrenaici Humni, Epigrammata et Fragmenta cum not. integr. Stephani, B. Vulcanii, Annae Fabri, Th Graevii, Rich. Bentleii, quibus acc, Ezechielis Spanhemii […] Textum ad Mss. fid. rec., lat. vert., notas adi. I. Aug. Ernest</titel> (2&#x00A0;Bde., Leyden 1761) [Biga&#x202F;14/212: »Callimachi Hymni, Epigrammata &#x26; Fragmenta gr.&#x26; lat. ex ed. J. A. Ernesti, Tom. I. II., Lugd. 761«]. Digitalisat, Bd.&#x202f;1: <wwwlink address="http://data.onb.ac.at/rep/1083E553">ÖNB Wien: 264098-B.1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
