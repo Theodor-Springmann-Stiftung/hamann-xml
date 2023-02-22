@@ -23943,6 +23943,28 @@
 	          <alternativeLineNumbering value="false" />
 	        </ZHInfo>
 	      </letterDesc>
+  	  	      <letterDesc ref="1197">
+	        <autopsic value="990a" />
+	        <date value="Königsberg, vor 7. Juli 1786" />
+	        <sort value="1786-7-7" />
+	        <location ref="2" />
+	    <senders>
+          <sender ref="1" />
+          <sender ref="131" />
+	    </senders>
+        <receivers>
+          <receiver ref="131" />
+          <receiver ref="1" />
+        </receivers>
+	        <hasOriginal value="true" />
+	        <isProofread value="true" />
+	        <isDraft value="false" />
+	        <ZHInfo inZH="false">
+	          <dateChanged value="false" />
+	          <begin vol="-1" page="-1" />
+	          <alternativeLineNumbering value="false" />
+	        </ZHInfo>
+	      </letterDesc>
     </descriptions>
   </data>
 </opus>
