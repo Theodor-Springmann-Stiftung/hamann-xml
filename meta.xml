@@ -65,7 +65,7 @@
       <letterDesc ref="4">
         <autopsic value="4" />
         <date value="November 1752" />
-        <sort value="1752-11-01" />
+        <sort value="1752-11-01" notBefore="1752-11-01" notAfter="1752-11-30" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -229,7 +229,7 @@
       <letterDesc ref="12">
         <autopsic value="12" />
         <date value="Riga, 1753" />
-        <sort value="1753-03-29" />
+        <sort value="1753-03-29" notBefore="1753-01-01" notAfter="1753-12-31" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -335,7 +335,7 @@
       <letterDesc ref="17">
         <autopsic value="17" />
         <date value="1753" />
-        <sort value="1753-05-01" />
+        <sort value="1753-05-01" notBefore="1753-01-01" notAfter="1753-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -375,7 +375,7 @@
       <letterDesc ref="19">
         <autopsic value="19" />
         <date value="Riga, Ende Mai oder Anfang Juni 1753" />
-        <sort value="1753-06-01" />
+        <sort value="1753-06-01" notBefore="1753-06-20" notAfter="1753-06-10" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -396,7 +396,7 @@
       <letterDesc ref="20">
         <autopsic value="20" />
         <date value="Riga, vmtl. Ende Juni 1753" />
-        <sort value="1753-06-30" />
+        <sort value="1753-06-30" notBefore="1753-06-20" notAfter="1753-06-30" cert="low" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -437,7 +437,7 @@
       <letterDesc ref="22">
         <autopsic value="22" />
         <date value="Grünhof, vmtl. Anfang Januar 1754" />
-        <sort value="1754-01-01" />
+        <sort value="1754-01-01" notBefore="1754-01-1" notAfter="1754-01-10" cert="low" />
         <location ref="7" />
         <senders>
           <sender ref="1" />
@@ -641,7 +641,7 @@
       <letterDesc ref="32">
         <autopsic value="32" />
         <date value="Ende 1754" />
-        <sort value="1754-11-01" />
+        <sort value="1754-11-01" notBefore="1754-10-1" notAfter="1754-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -663,7 +663,7 @@
       <letterDesc ref="33">
         <autopsic value="33" />
         <date value="Ende 1754" />
-        <sort value="1754-11-15" />
+        <sort value="1754-11-15" notBefore="1754-10-1" notAfter="1754-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -683,7 +683,7 @@
       <letterDesc ref="34">
         <autopsic value="34" />
         <date value="Vmtl. Ende 1754" />
-        <sort value="1754-12-01" />
+        <sort value="1754-12-01" notBefore="1754-10-1" notAfter="1754-12-31" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -951,7 +951,7 @@
       <letterDesc ref="47">
         <autopsic value="47" />
         <date value="Mitau, 1. und 7. Juli 1755" />
-        <sort value="1755-07-01" />
+        <sort value="1755-07-01" from="1755-07-01" to="1755-07-07" />
         <location ref="4" />
         <senders>
           <sender ref="1" />
@@ -971,7 +971,7 @@
       <letterDesc ref="48">
         <autopsic value="48" />
         <date value="Riga, 1755" />
-        <sort value="1755-08-01" />
+        <sort value="1755-08-01" notBefore="1755-01-01" notAfter="1755-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
