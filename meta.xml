@@ -10211,7 +10211,7 @@
       <letterDesc ref="509">
         <autopsic value="505" />
         <date value="Königsberg, 23.–24. Juni 1777" />
-        <sort value="1777-06-23" />
+        <sort value="1777-06-23" from="1777-06-23" to="1777-06-24" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -10311,8 +10311,8 @@
       </letterDesc>
       <letterDesc ref="514">
         <autopsic value="509" />
-        <date value="Weimar, August 1777" />
-        <sort value="1777-08-20" />
+        <date value="Weimar, Mitte/Ende August 1777" />
+        <sort value="1777-08-20" notBefore="1777-08-15" notAfter="1777-08-25" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -10372,7 +10372,7 @@
       <letterDesc ref="517">
         <autopsic value="512" />
         <date value="Königsberg, 8. und 13.–14. Oktober 1777" />
-        <sort value="1777-10-08" />
+        <sort value="1777-10-08" from="1777-10-08" to="1777-10-14" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -10452,7 +10452,7 @@
       <letterDesc ref="521">
         <autopsic value="516" />
         <date value="Königsberg, 23.–24. November 1777" />
-        <sort value="1777-11-24" />
+        <sort value="1777-11-24" from="1777-11-23" to="1777-11-24" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -10532,7 +10532,7 @@
       <letterDesc ref="525">
         <autopsic value="519" />
         <date value="Königsberg, 21.–22. Dezember 1777" />
-        <sort value="1777-12-21" />
+        <sort value="1777-12-21" from="1777-12-21" to="1777-12-22" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -10632,7 +10632,7 @@
       <letterDesc ref="530">
         <autopsic value="524" />
         <date value="Zürich, vor 22. Februar, 22. Februar, 15. März, 2. und 14. April 1778" />
-        <sort value="1778-02-22" />
+        <sort value="1778-02-22" from="1778-02-22" to="1778-04-14" />
         <location ref="1" />
         <senders>
           <sender ref="76" />
@@ -10652,7 +10652,7 @@
       <letterDesc ref="531">
         <autopsic value="525" />
         <date value="Vmtl. im Februar 1778" />
-        <sort value="1778-02-23" />
+        <sort value="1778-02-23" notBefore="1778-02-01" notAfter="1778-02-28" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="72" />
@@ -10772,8 +10772,8 @@
       </letterDesc>
       <letterDesc ref="537">
         <autopsic value="531" />
-        <date value="Schloß Hegi bei Winterthur, vmtl. Mitte Mai 1778]" />
-        <sort value="1778-05-15" />
+        <date value="Schloß Hegi bei Winterthur, vmtl. Mitte Mai 1778" />
+        <sort value="1778-05-15" notAfter="1778-05-10" notBefore="1778-05-20" cert="low"/>
         <location ref="21" />
         <senders>
           <sender ref="72" />
@@ -10793,7 +10793,7 @@
       <letterDesc ref="538">
         <autopsic value="532" />
         <date value="Königsberg, 13. und 14. Juli 1778" />
-        <sort value="1778-07-13" />
+        <sort value="1778-07-13" from="1778-07-13" to="1778-07-14" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -10813,7 +10813,7 @@
       <letterDesc ref="539">
         <autopsic value="533" />
         <date value="Schloß Hegi bei Winterthur, vmtl. 26. Oktober 1778" />
-        <sort value="1778-10-26" order="100" />
+        <sort value="1778-10-26" order="100" cert="low" />
         <location ref="21" />
         <senders>
           <sender ref="72" />
@@ -10873,7 +10873,7 @@
       <letterDesc ref="542">
         <autopsic value="536" />
         <date value="Königsberg, 25., 26. und 30. November 1778" />
-        <sort value="1778-11-25" />
+        <sort value="1778-11-25" notBefore="1778-11-25" notAfter="1778-11-30" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -10933,7 +10933,7 @@
       <letterDesc ref="545">
         <autopsic value="539" />
         <date value="Weimar, 29. Dezember 1778 und 2. Januar 1779" />
-        <sort value="1778-12-29" />
+        <sort value="1778-12-29" from="1778-12-29" to="1779-01-02" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -10954,7 +10954,7 @@
       <letterDesc ref="546">
         <autopsic value="540" />
         <date value="6. und 21. Januar 1779" />
-        <sort value="1779-01-06" />
+        <sort value="1779-01-06" from="1779-01-06" to="1779-01-21" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -11013,8 +11013,8 @@
       </letterDesc>
       <letterDesc ref="549">
         <autopsic value="543" />
-        <date value="Königsberg, Mitte Februar 1779" />
-        <sort value="1779-02-15" />
+        <date value="Königsberg, Ende Februar 1779" />
+        <sort value="1779-02-26" notBefore="1779-02-21" notAfter="1779-02-28" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11054,7 +11054,7 @@
       <letterDesc ref="551">
         <autopsic value="545" />
         <date value="Königsberg, 21. und 28. Februar sowie 1. März 1779" />
-        <sort value="1779-02-21" />
+        <sort value="1779-02-21" from="1779-02-21" to="1779-03-01" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11114,7 +11114,7 @@
       <letterDesc ref="554">
         <autopsic value="548" />
         <date value="Vmtl. Mitte oder Ende März 1779" />
-        <sort value="1779-03-25" />
+        <sort value="1779-03-25" notBefore="1779-03-10" notAfter="1779-03-31" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -11154,7 +11154,7 @@
       <letterDesc ref="556">
         <autopsic value="550" />
         <date value="Königsberg, 17.–19. April 1779" />
-        <sort value="1779-04-17" order="100" />
+        <sort value="1779-04-17" order="100" from="1779-04-17" to="1779-04-19" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11174,7 +11174,7 @@
       <letterDesc ref="557">
         <autopsic value="551" />
         <date value="Königsberg, 17.–19. April 1779" />
-        <sort value="1779-04-17" order="200" />
+        <sort value="1779-04-17" order="200" from="1779-04-17" to="1779-04-19" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11234,7 +11234,7 @@
       <letterDesc ref="560">
         <autopsic value="554" />
         <date value="Königsberg, 6. und 7. Mai 1779" />
-        <sort value="1779-05-06" />
+        <sort value="1779-05-06" from="1779-05-06" to="1779-05-07" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11273,8 +11273,8 @@
       </letterDesc>
       <letterDesc ref="562">
         <autopsic value="556" />
-        <date value="Weimar, 17. und 19.–-21. Mai 1779" />
-        <sort value="1779-05-17" order="200" />
+        <date value="Weimar, 17. und 19.–21. Mai 1779" />
+        <sort value="1779-05-17" order="200" from="1779-05-17" to="1779-05-21" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -11375,7 +11375,7 @@
       <letterDesc ref="567">
         <autopsic value="561" />
         <date value="Königsberg, 8. und 9. August 1779" />
-        <sort value="1779-08-08" />
+        <sort value="1779-08-08" from="1779-08-08" to="1779-08-09" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11415,7 +11415,7 @@
       <letterDesc ref="569">
         <autopsic value="563" />
         <date value="Klarensegg, nach dem 8. September 1779" />
-        <sort value="1779-09-08" />
+        <sort value="1779-09-08" notBefore="1779-09-08" />
         <location ref="-1" />
         <senders>
           <sender ref="73" />
@@ -11455,7 +11455,7 @@
       <letterDesc ref="571">
         <autopsic value="565" />
         <date value="Königsberg, 17.–18 und 28. September sowie 6.–7. Oktober 1779" />
-        <sort value="1779-09-17" order="200" />
+        <sort value="1779-09-17" order="200" from="1779-09-17" to="1779-10-07" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11535,7 +11535,7 @@
       <letterDesc ref="575">
         <autopsic value="569" />
         <date value="29. und 31. Oktober sowie 1. November 1779" />
-        <sort value="1779-10-29" />
+        <sort value="1779-10-29" from="1779-10-29" to="1779-11-01" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -11555,7 +11555,7 @@
       <letterDesc ref="576">
         <autopsic value="570" />
         <date value="Königsberg, 8.–10. November 1779" />
-        <sort value="1779-11-08" />
+        <sort value="1779-11-08" from="1779-11-08" to="1779-11-10" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11614,8 +11614,8 @@
       </letterDesc>
       <letterDesc ref="579">
         <autopsic value="573" />
-        <date value="Königsberg,12.–14. Dezember 1779" />
-        <sort value="1779-12-12" />
+        <date value="Königsberg, 12.–14. Dezember 1779" />
+        <sort value="1779-12-12" from="1779-12-12" to="1779-12-14" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11635,7 +11635,7 @@
       <letterDesc ref="580">
         <autopsic value="574" />
         <date value="1.–3. Januar 1780" />
-        <sort value="1780-01-01" />
+        <sort value="1780-01-01" from="1780-01-01" to="1780-01-03" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -11675,7 +11675,7 @@
       <letterDesc ref="582">
         <autopsic value="576" />
         <date value="Königsberg, 23.–24. Januar 1780" />
-        <sort value="1780-01-23" />
+        <sort value="1780-01-23" from="1780-01-23" to="1780-01-24" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11755,7 +11755,7 @@
       <letterDesc ref="586">
         <autopsic value="580" />
         <date value="Königsberg, 2. oder 3. Februar 1780" />
-        <sort value="1780-02-02" />
+        <sort value="1780-02-02" cert="low" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11775,7 +11775,7 @@
       <letterDesc ref="587">
         <autopsic value="581" />
         <date value="Königsberg, 5. und 7. Februar 1780" />
-        <sort value="1780-02-05" />
+        <sort value="1780-02-05" from="1780-02-05" to="1780-02-07" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11876,7 +11876,7 @@
       <letterDesc ref="592">
         <autopsic value="586" />
         <date value="25. und 27. März 1780" />
-        <sort value="1780-03-25" />
+        <sort value="1780-03-25" from="1780-03-25" to="1780-03-27" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -11896,7 +11896,7 @@
       <letterDesc ref="593">
         <autopsic value="587" />
         <date value="Königsberg, vmtl. 26. März 1780" />
-        <sort value="1780-03-26" />
+        <sort value="1780-03-26" cert="low" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11936,7 +11936,7 @@
       <letterDesc ref="595">
         <autopsic value="589" />
         <date value="Königsberg, 12., 24.–25. und 30. April 1780" />
-        <sort value="1780-04-12" />
+        <sort value="1780-04-12" from="1780-04-12" to="1780-04-30" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -11956,7 +11956,7 @@
       <letterDesc ref="596">
         <autopsic value="590" />
         <date value="Weimar, Mai 1780" />
-        <sort value="1780-05-15" />
+        <sort value="1780-05-15" notBefore="1780-05-01" notAfter="1780-05-31" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -11976,7 +11976,7 @@
       <letterDesc ref="597">
         <autopsic value="591" />
         <date value="Weimar, Anfang Juni 1780" />
-        <sort value="1780-06-01" />
+        <sort value="1780-06-01" notBefore="1780-06-01" notAfter="1780-06-25" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -11996,7 +11996,7 @@
       <letterDesc ref="598">
         <autopsic value="592" />
         <date value="11. und 25.–26. Juni 1780" />
-        <sort value="1780-06-11" />
+        <sort value="1780-06-11" from="1780-06-11" to="1780-06-26" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -12037,7 +12037,7 @@
       <letterDesc ref="600">
         <autopsic value="594" />
         <date value="Königsberg, 30. Juni und 2. Juli 1780" />
-        <sort value="1780-06-30" />
+        <sort value="1780-06-30" from="1780-06-30" to="1780-07-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12077,7 +12077,7 @@
       <letterDesc ref="602">
         <autopsic value="596" />
         <date value="Königsberg, 29. Juli und 2. August 1780" />
-        <sort value="1780-07-29" />
+        <sort value="1780-07-29" from="1780-07-29" to="1780-08-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12117,7 +12117,7 @@
       <letterDesc ref="604">
         <autopsic value="598" />
         <date value="Königsberg, 13., 22. und 28. August 1780" />
-        <sort value="1780-08-13" />
+        <sort value="1780-08-13" from="1780-08-13" to="1780-08-28" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12176,7 +12176,7 @@
       </letterDesc>
       <letterDesc ref="607">
         <autopsic value="601" />
-        <date value="Königsber, 13. September 1780" />
+        <date value="Königsberg, 13. September 1780" />
         <sort value="1780-09-13" />
         <location ref="2" />
         <senders>
@@ -12237,7 +12237,7 @@
       <letterDesc ref="610">
         <autopsic value="604" />
         <date value="25.–26. und 29.–30. Oktober 1780" />
-        <sort value="1780-10-25" />
+        <sort value="1780-10-25" from="1780-10-25" to="1780-10-30" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -12277,7 +12277,7 @@
       <letterDesc ref="612">
         <autopsic value="606" />
         <date value="Zürich, 20.–22. November 1780" />
-        <sort value="1780-11-20" />
+        <sort value="1780-11-20" from="1780-11-20" to="1780-11-22" />
         <location ref="19" />
         <senders>
           <sender ref="86" />
@@ -12297,7 +12297,7 @@
       <letterDesc ref="613">
         <autopsic value="607" />
         <date value="Mitte oder Ende November bis 18. Dezember 1780" />
-        <sort value="1780-12-10" />
+        <sort value="1780-12-10" notAfter="1780-12-18" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
@@ -12377,7 +12377,7 @@
       <letterDesc ref="617">
         <autopsic value="611" />
         <date value="Königsberg, 18.–19. und 21. Dezember 1780" />
-        <sort value="1780-12-18" order="200" />
+        <sort value="1780-12-18" order="200" from="1780-12-18" to="1780-12-21" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -12397,7 +12397,7 @@
       <letterDesc ref="618">
         <autopsic value="612" />
         <date value="Königsberg, 1. und 14.–15. Januar 1781" />
-        <sort value="1781-01-01" />
+        <sort value="1781-01-01" from="1781-01-01" to="1781-01-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12417,7 +12417,7 @@
       <letterDesc ref="619">
         <autopsic value="613" />
         <date value="Königsberg, vmtl. 15. Januar 1781" />
-        <sort value="1781-01-15" />
+        <sort value="1781-01-15" cert="low" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12457,7 +12457,7 @@
       <letterDesc ref="621">
         <autopsic value="615" />
         <date value="Weimar, Anfang März, 11., 17. und 21. Mai 1781" />
-        <sort value="1781-03-15" />
+        <sort value="1781-03-15" from="1781-03-11" to="1781-05-21" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -12478,7 +12478,7 @@
       <letterDesc ref="622">
         <autopsic value="616" />
         <date value="8. und 10. April 1781" />
-        <sort value="1781-04-08" />
+        <sort value="1781-04-08" from="1781-04-08" to="1781-04-10" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -12498,7 +12498,7 @@
       <letterDesc ref="623">
         <autopsic value="617" />
         <date value="27. und 29. April 1781" />
-        <sort value="1781-04-27" />
+        <sort value="1781-04-27" from="1781-04-27" to="1781-04-29" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -12578,7 +12578,7 @@
       <letterDesc ref="627">
         <autopsic value="621" />
         <date value="Königsberg, 31. Mai und 1. Juni 1781" />
-        <sort value="1781-05-31" />
+        <sort value="1781-05-31" from="1781-05-31" to="1781-06-01" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12598,7 +12598,7 @@
       <letterDesc ref="628">
         <autopsic value="622" />
         <date value="Königsberg, 3.–4. Juni 1781" />
-        <sort value="1781-06-03" />
+        <sort value="1781-06-03" from="1781-06-03" to="1781-06-04" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12698,7 +12698,7 @@
       <letterDesc ref="633">
         <autopsic value="627" />
         <date value="Königsberg, 5. und 12.–13. August 1781" />
-        <sort value="1781-08-05" />
+        <sort value="1781-08-05" from="1781-08-05" to="1781-08-13" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12818,7 +12818,7 @@
       <letterDesc ref="639">
         <autopsic value="633" />
         <date value="Königsberg, 15. und 17. September 1781" />
-        <sort value="1781-09-15" />
+        <sort value="1781-09-15" from="1781-09-15" to="1781-09-17" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12878,7 +12878,7 @@
       <letterDesc ref="642">
         <autopsic value="636" />
         <date value="Königsberg, 8.–9. Dezember 1781" />
-        <sort value="1781-12-08" />
+        <sort value="1781-12-08" from="1781-12-08" to="1781-12-09" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12898,7 +12898,7 @@
       <letterDesc ref="643">
         <autopsic value="637" />
         <date value="Königsberg, 9.–10. und 12. Dezember 1781" />
-        <sort value="1781-12-09" />
+        <sort value="1781-12-09" from="1781-12-09" to="1781-12-12" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -12959,7 +12959,7 @@
       <letterDesc ref="646">
         <autopsic value="640" />
         <date value="Datum unbekannt" />
-        <sort value="1782-01-05" />
+        <sort value="1782-01-05" notBefore="1780-11-02" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -13019,7 +13019,7 @@
       <letterDesc ref="649">
         <autopsic value="643" />
         <date value="Weimar, vor 14. März 1782" />
-        <sort value="1782-03-14" />
+        <sort value="1782-03-14" notAfter="1782-03-14" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -13059,8 +13059,8 @@
       </letterDesc>
       <letterDesc ref="651">
         <autopsic value="645" />
-        <date value="Königsberg, 17. April 1782" />
-        <sort value="1782-04-17" />
+        <date value="Königsberg, 17. und 20. April 1782" />
+        <sort value="1782-04-17" from="1782-04-17" to="1782-04-20" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13080,7 +13080,7 @@
       <letterDesc ref="652">
         <autopsic value="646" />
         <date value="Königsberg, 20.–22. April 1782" />
-        <sort value="1782-04-20" />
+        <sort value="1782-04-20" from="1782-04-20" to="1782-04-22" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13121,7 +13121,7 @@
       <letterDesc ref="654">
         <autopsic value="648" />
         <date value="Weimar, nach dem 20. und 24.–28. April 1782" />
-        <sort value="1782-04-24" />
+        <sort value="1782-04-24" from="1782-04-24" to="1782-04-28" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -13161,7 +13161,7 @@
       <letterDesc ref="656">
         <autopsic value="650" />
         <date value="9.–10. Juni 1782" />
-        <sort value="1782-06-09" />
+        <sort value="1782-06-09" from="1782-06-09" to="1782-06-10" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -13241,7 +13241,7 @@
       <letterDesc ref="660">
         <autopsic value="654" />
         <date value="Königsberg, 7.–8. Juli 1782" />
-        <sort value="1782-07-07" />
+        <sort value="1782-07-07" from="1782-07-07" to="1782-07-08" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13341,7 +13341,7 @@
       <letterDesc ref="665">
         <autopsic value="659" />
         <date value="Königsberg, 11.–12. August 1782" />
-        <sort value="1782-08-11" />
+        <sort value="1782-08-11" from="1782-08-11" to="1782-08-12" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13381,7 +13381,7 @@
       <letterDesc ref="667">
         <autopsic value="661" />
         <date value="25.–26. August 1782" />
-        <sort value="1782-08-25" />
+        <sort value="1782-08-25" from="1782-08-25" to="1782-08-26" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -13521,7 +13521,7 @@
       <letterDesc ref="674">
         <autopsic value="668" />
         <date value="27.–28. Oktober 1782" />
-        <sort value="1782-10-27" />
+        <sort value="1782-10-27" from="1782-10-27" to="1782-10-28" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -13621,7 +13621,7 @@
       <letterDesc ref="679">
         <autopsic value="673" />
         <date value="Königsberg, 12.–13. November 1782" />
-        <sort value="1782-11-12" />
+        <sort value="1782-11-12" from="1782-11-12" to="1782-11-13" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13641,7 +13641,7 @@
       <letterDesc ref="680">
         <autopsic value="674" />
         <date value="Berlin, vor oder am 16. November 1782" />
-        <sort value="1782-11-16" />
+        <sort value="1782-11-16" notAfter="1782-11-16" />
         <location ref="1" />
         <senders>
           <sender ref="60" />
@@ -13681,7 +13681,7 @@
       <letterDesc ref="682">
         <autopsic value="676" />
         <date value="Königsberg, 17.–18. November 1782" />
-        <sort value="1782-11-17" order="200" />
+        <sort value="1782-11-17" order="200" from="1782-11-17" to="1782-11-18" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13701,7 +13701,7 @@
       <letterDesc ref="683">
         <autopsic value="677" />
         <date value="Königsberg, 7.–8. Dezember 1782" />
-        <sort value="1782-12-07" />
+        <sort value="1782-12-07" from="1782-12-07" to="1782-12-08" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13841,7 +13841,7 @@
       <letterDesc ref="690">
         <autopsic value="684" />
         <date value="Königsberg, 7. und 13. Januar 1783" />
-        <sort value="1783-01-07" />
+        <sort value="1783-01-07" from="1783-01-07" to="1783-01-13" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13901,7 +13901,7 @@
       <letterDesc ref="693">
         <autopsic value="687" />
         <date value="Königsberg, 31. Januar und 1. Februar 1783" />
-        <sort value="1783-01-31" order="200" />
+        <sort value="1783-01-31" order="200" from="1783-01-31" to="1783-02-01" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13921,7 +13921,7 @@
       <letterDesc ref="694">
         <autopsic value="688" />
         <date value="Königsberg, 1., 3. und 6. Februar 1783" />
-        <sort value="1783-02-01" />
+        <sort value="1783-02-01" from="1783-02-01" to="1783-02-06" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -13961,7 +13961,7 @@
       <letterDesc ref="696">
         <autopsic value="690" />
         <date value="Königsberg, 16.–19. Februar 1783" />
-        <sort value="1783-02-16" />
+        <sort value="1783-02-16" from="1783-02-16" to="1783-02-19" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14041,7 +14041,7 @@
       <letterDesc ref="700">
         <autopsic value="694" />
         <date value="Königsberg, Mitte April 1783" />
-        <sort value="1783-04-15" />
+        <sort value="1783-04-15" notBefore="1783-04-10" notAfter="1783-04-20" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14061,7 +14061,7 @@
       <letterDesc ref="701">
         <autopsic value="695" />
         <date value="Königsberg, 18.–19. April und 4. Mai 1783" />
-        <sort value="1783-04-18" />
+        <sort value="1783-04-18" from="1783-04-18" to="1783-05-04" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14081,7 +14081,7 @@
       <letterDesc ref="702">
         <autopsic value="696" />
         <date value="Königsberg, 20.–21. und 26. April 1783" />
-        <sort value="1783-04-20" />
+        <sort value="1783-04-20" from="1783-04-20" to="1783-04-26" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14281,7 +14281,7 @@
       <letterDesc ref="712">
         <autopsic value="706" />
         <date value="Königsberg, 1., 3.–4. und 7. August 1783" />
-        <sort value="1783-08-01" />
+        <sort value="1783-08-01" from="1783-08-01" to="1783-08-07" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14301,7 +14301,7 @@
       <letterDesc ref="713">
         <autopsic value="707" />
         <date value="Königsberg, 4.–5. August 1783" />
-        <sort value="1783-08-04" />
+        <sort value="1783-08-04" from="1783-08-04" to="1783-08-05" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14341,7 +14341,7 @@
       <letterDesc ref="715">
         <autopsic value="709" />
         <date value="Königsberg, 16.–17. August 1783" />
-        <sort value="1783-08-16" order="200" />
+        <sort value="1783-08-16" order="200" from="1783-08-16" to="1783-08-17" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14501,7 +14501,7 @@
       <letterDesc ref="723">
         <autopsic value="716" />
         <date value="Königsberg, 22. und 26. Oktober 1783" />
-        <sort value="1783-10-22" />
+        <sort value="1783-10-22" from="1783-10-22" to="1783-10-26" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14601,7 +14601,7 @@
       <letterDesc ref="728">
         <autopsic value="721" />
         <date value="Königsberg, 2. und 22. November 1783" />
-        <sort value="1783-11-02" />
+        <sort value="1783-11-02" from="1783-11-02" to="1783-11-22" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14621,7 +14621,7 @@
       <letterDesc ref="729">
         <autopsic value="722" />
         <date value="Königsberg, 16. und 24. November 1783" />
-        <sort value="1783-11-16" />
+        <sort value="1783-11-16" from="1783-11-16" to="1783-11-24" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14681,7 +14681,7 @@
       <letterDesc ref="732">
         <autopsic value="725" />
         <date value="Königsberg, 8. und 10. Dezember 1783" />
-        <sort value="1783-12-08" />
+        <sort value="1783-12-08" from="1783-12-08" to="1783-12-10" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14761,7 +14761,7 @@
       <letterDesc ref="736">
         <autopsic value="729" />
         <date value="Königsberg, 26. und 30. Januar sowie 8.–9. Februar 1784" />
-        <sort value="1784-01-26" />
+        <sort value="1784-01-26" from="1784-01-26" to="1784-02-09" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -14881,7 +14881,7 @@
       <letterDesc ref="742">
         <autopsic value="735" />
         <date value="Königsberg, 30. April und 2. Mai 1784" />
-        <sort value="1784-04-30" order="100" />
+        <sort value="1784-04-30" order="100" from="1784-04-30" to="1784-05-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15081,7 +15081,7 @@
       <letterDesc ref="752">
         <autopsic value="745" />
         <date value="Königsberg, 14.–15. Juni 1784" />
-        <sort value="1784-06-14" />
+        <sort value="1784-06-14" from="1784-06-14" to="1784-06-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15182,7 +15182,7 @@
       <letterDesc ref="757">
         <autopsic value="750" />
         <date value="Königsberg, 24.–25. Juli 1784" />
-        <sort value="1784-07-24" />
+        <sort value="1784-07-24" from="1784-07-24" to="1784-07-25" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15242,7 +15242,7 @@
       <letterDesc ref="760">
         <autopsic value="753" />
         <date value="Königsberg, 6., 8. und 10. August 1784" />
-        <sort value="1784-08-06" />
+        <sort value="1784-08-06" from="1784-08-06" to="1784-08-10" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15382,7 +15382,7 @@
       <letterDesc ref="767">
         <autopsic value="760" />
         <date value="Königsberg, 24. und 26. August 1784" />
-        <sort value="1784-08-24" />
+        <sort value="1784-08-24" from="1784-08-24" to="1784-08-26" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15462,7 +15462,7 @@
       <letterDesc ref="771">
         <autopsic value="764" />
         <date value="Königsberg, zwischen 5. und 15. September 1784" />
-        <sort value="1784-09-05" />
+        <sort value="1784-09-05" from="1784-09-05" to="1784-09-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15522,7 +15522,7 @@
       <letterDesc ref="774">
         <autopsic value="767" />
         <date value="Königsberg, 19.–20. September 1784" />
-        <sort value="1784-09-19" />
+        <sort value="1784-09-19" from="1784-09-19" to="1784-09-20" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15562,7 +15562,7 @@
       <letterDesc ref="776">
         <autopsic value="769" />
         <date value="Königsberg, 7.–8. Oktober 1784" />
-        <sort value="1784-10-07" />
+        <sort value="1784-10-07" from="1784-10-07" to="1784-10-08" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15722,7 +15722,7 @@
       <letterDesc ref="784">
         <autopsic value="777" />
         <date value="Weimar, Ende Oktober 1784" />
-        <sort value="1784-10-27" order="200" />
+        <sort value="1784-10-27" order="200" notBefore="1784-10-20" notAfter="1784-10-30" />
         <location ref="2" />
         <senders>
           <sender ref="41" />
@@ -15802,7 +15802,7 @@
       <letterDesc ref="788">
         <autopsic value="781" />
         <date value="Königsberg, 13. und 15. November 1784" />
-        <sort value="1784-11-13" />
+        <sort value="1784-11-13" from="1784-11-13" to="1784-11-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15822,7 +15822,7 @@
       <letterDesc ref="789">
         <autopsic value="782" />
         <date value="Königsberg, 14.–15. November 1784" />
-        <sort value="1784-11-14" />
+        <sort value="1784-11-14" from="1784-11-14" to="1784-11-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15862,7 +15862,7 @@
       <letterDesc ref="791">
         <autopsic value="784" />
         <date value="Königsberg, 1. und 5. Dezember 1784" />
-        <sort value="1784-12-01" />
+        <sort value="1784-12-01" from="1784-12-01" to="1784-12-05" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15902,7 +15902,7 @@
       <letterDesc ref="793">
         <autopsic value="786" />
         <date value="Königsberg, 10. und 14. Dezember 1784" />
-        <sort value="1784-12-10" />
+        <sort value="1784-12-10" from="1784-12-10" to="1784-12-14" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -15922,7 +15922,7 @@
       <letterDesc ref="794">
         <autopsic value="787" />
         <date value="Königsberg, 15. und 20. Dezember 1784" />
-        <sort value="1784-12-15" />
+        <sort value="1784-12-15" from="1784-12-15" to="1784-12-20" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16042,7 +16042,7 @@
       <letterDesc ref="800">
         <autopsic value="793" />
         <date value="Königsberg, 2.–3. Januar 1785" />
-        <sort value="1785-01-02" />
+        <sort value="1785-01-02" from="1785-01-02" to="1785-01-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16082,7 +16082,7 @@
       <letterDesc ref="802">
         <autopsic value="795" />
         <date value="Königsberg, 6.–7. Januar 1785" />
-        <sort value="1785-01-06" />
+        <sort value="1785-01-06" from="1785-01-06" to="1785-01-07" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16162,7 +16162,7 @@
       <letterDesc ref="806">
         <autopsic value="799" />
         <date value="Königsberg, Mitte Januar 1785" />
-        <sort value="1785-01-15" order="200" />
+        <sort value="1785-01-15" order="200" notBefore="1785-01-10" notAfter="1785-01-20" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16222,7 +16222,7 @@
       <letterDesc ref="809">
         <autopsic value="802" />
         <date value="Königsberg, 23.–24. Januar 1785" />
-        <sort value="1785-01-23" />
+        <sort value="1785-01-23" from="1785-01-23" to="1785-01-24" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16302,7 +16302,7 @@
       <letterDesc ref="813">
         <autopsic value="806" />
         <date value="Königsberg, 3.–4. und 6. Februar 1785" />
-        <sort value="1785-02-03" />
+        <sort value="1785-02-03" from="1785-02-03" to="1785-02-06" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16402,7 +16402,7 @@
       <letterDesc ref="818">
         <autopsic value="811" />
         <date value="Königsberg, 16.–17. Februar 1785" />
-        <sort value="1785-02-16" />
+        <sort value="1785-02-16" from="1785-02-16" to="1785-02-17" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16442,7 +16442,7 @@
       <letterDesc ref="820">
         <autopsic value="813" />
         <date value="Königsberg, 22.–24. Februar 1785" />
-        <sort value="1785-02-22" order="200" />
+        <sort value="1785-02-22" order="200" from="1785-02-22" to="1785-02-24" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16482,7 +16482,7 @@
       <letterDesc ref="822">
         <autopsic value="815" />
         <date value="Königsberg, 27.–28. Februar und 3. März 1785" />
-        <sort value="1785-02-27" />
+        <sort value="1785-02-27" from="1785-02-27" to="1785-03-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16543,7 +16543,7 @@
       <letterDesc ref="825">
         <autopsic value="818" />
         <date value="Königsberg, 9.–10. März 1785" />
-        <sort value="1785-03-09" order="200" />
+        <sort value="1785-03-09" order="200" from="1785-03-09" to="1785-03-10" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16623,7 +16623,7 @@
       <letterDesc ref="829">
         <autopsic value="822" />
         <date value="Königsberg, 28. und 31. März 1785" />
-        <sort value="1785-03-28" />
+        <sort value="1785-03-28" from="1785-03-28" to="1785-03-31" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16643,7 +16643,7 @@
       <letterDesc ref="830">
         <autopsic value="823" />
         <date value="Königsberg, 31. März und 4. April 1785" />
-        <sort value="1785-03-31" />
+        <sort value="1785-03-31" from="1785-03-31" to="1785-04-04" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16683,7 +16683,7 @@
       <letterDesc ref="832">
         <autopsic value="825" />
         <date value="Königsberg, 4. und 6. April 1785" />
-        <sort value="1785-04-04" />
+        <sort value="1785-04-04" from="1785-04-04" to="1785-04-06" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16703,7 +16703,7 @@
       <letterDesc ref="833">
         <autopsic value="826" />
         <date value="Königsberg, 10.–11. April 1785" />
-        <sort value="1785-04-10" />
+        <sort value="1785-04-10" from="1785-04-10" to="1785-04-11" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16843,7 +16843,7 @@
       <letterDesc ref="840">
         <autopsic value="833" />
         <date value="Königsberg, 8.–9. Mai 1785" />
-        <sort value="1785-05-08" />
+        <sort value="1785-05-08" from="1785-05-08" to="1785-05-09" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16923,7 +16923,7 @@
       <letterDesc ref="844">
         <autopsic value="837" />
         <date value="Königsberg, 17., 21. und 23. Mai 1785" />
-        <sort value="1785-05-17" />
+        <sort value="1785-05-17" from="1785-05-17" to="1785-05-23" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -16983,7 +16983,7 @@
       <letterDesc ref="847">
         <autopsic value="840" />
         <date value="Königsberg, 1.–2. Juni 1785" />
-        <sort value="1785-06-02" />
+        <sort value="1785-06-02" from="1785-06-01" to="1785-06-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17063,7 +17063,7 @@
       <letterDesc ref="851">
         <autopsic value="844" />
         <date value="Königsberg, 19.–20. Juni 1785" />
-        <sort value="1785-06-19" />
+        <sort value="1785-06-19" from="1785-06-19" to="1785-06-20" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17103,7 +17103,7 @@
       <letterDesc ref="853">
         <autopsic value="846" />
         <date value="Königsberg, 22. und 29.–30. Juni 1785" />
-        <sort value="1785-06-22" />
+        <sort value="1785-06-22" from="1785-06-22" to="1785-06-30" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17123,7 +17123,7 @@
       <letterDesc ref="854">
         <autopsic value="847" />
         <date value="Königsberg, 26. und 29. Juni 1785" />
-        <sort value="1785-06-26" />
+        <sort value="1785-06-26" from="1785-06-26" to="1785-06-29" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17143,7 +17143,7 @@
       <letterDesc ref="855">
         <autopsic value="848" />
         <date value="Königsberg, 30. Juni und 1. Juli 1785" />
-        <sort value="1785-06-30" />
+        <sort value="1785-06-30" from="1785-06-30" to="1785-07-01" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17163,7 +17163,7 @@
       <letterDesc ref="856">
         <autopsic value="849" />
         <date value="Königsberg, 1.–2. Juli 1785" />
-        <sort value="1785-07-01" order="100" />
+        <sort value="1785-07-01" order="100" from="1785-07-01" to="1785-07-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17183,7 +17183,7 @@
       <letterDesc ref="857">
         <autopsic value="850" />
         <date value="Königsberg, 1.–2. Juli 1785" />
-        <sort value="1785-07-01" order="200" />
+        <sort value="1785-07-01" order="200" from="1785-07-01" to="1785-07-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -23886,7 +23886,7 @@
 	  	      <letterDesc ref="1194">
 	        <autopsic value="536a" />
 	        <date value="Königsberg, vmtl. Ende 1778" />
-	        <sort value="1778-11-27" />
+	        <sort value="1778-11-27" notBefore="1778-11-18" />
 	        <location ref="2" />
 	        <senders>
 	          <sender ref="1" />
