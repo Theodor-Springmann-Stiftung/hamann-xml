@@ -1055,7 +1055,7 @@
       <letterDesc ref="52">
         <autopsic value="52" />
         <date value="Grünhof, vmtl. 19. Dezember 1755" />
-        <sort value="1755-12-19" />
+        <sort value="1755-12-19" cert="low" />
         <location ref="7" />
         <senders>
           <sender ref="1" />
@@ -1075,7 +1075,7 @@
       <letterDesc ref="53">
         <autopsic value="53" />
         <date value="Grünhof, 28. und 29. Dezember 1755" />
-        <sort value="1755-12-28" />
+        <sort value="1755-12-28" from="1755-12-28" to="1755-12-29"/>
         <location ref="7" />
         <senders>
           <sender ref="1" />
@@ -1198,7 +1198,7 @@
       <letterDesc ref="59">
         <autopsic value="59" />
         <date value="Grünhof, vmtl. Mitte Februar 1756" />
-        <sort value="1756-02-15" />
+        <sort value="1756-02-15" notBefore="1756-02-10" notAfter="1756-02-20" cert="low"/>
         <location ref="7" />
         <senders>
           <sender ref="1" />
@@ -1319,7 +1319,7 @@
       <letterDesc ref="65">
         <autopsic value="65" />
         <date value="Grünhof, vmtl. Mitte März 1756" />
-        <sort value="1756-03-15" />
+        <sort value="1756-03-15" notBefore="1756-03-10" notAfter="1756-03-20" cert="low" />
         <location ref="7" />
         <senders>
           <sender ref="1" />
@@ -1339,7 +1339,7 @@
       <letterDesc ref="66">
         <autopsic value="66" />
         <date value="Grünhof, vmtl. März 1756" />
-        <sort value="1756-03-16" />
+        <sort value="1756-03-16" notBefore="1756-03-1" notAfter="1756-03-31" cert="low" />
         <location ref="7" />
         <senders>
           <sender ref="1" />
@@ -1401,7 +1401,7 @@
       <letterDesc ref="69">
         <autopsic value="69" />
         <date value="Grünhof, Ende März oder Anfang April 1756" />
-        <sort value="1756-04-01" />
+        <sort value="1756-04-01" notBefore="1756-03-20" notAfter="1756-04-10" />
         <location ref="7" />
         <senders>
           <sender ref="1" />
@@ -1542,7 +1542,7 @@
       <letterDesc ref="76">
         <autopsic value="76" />
         <date value="Grünhof, Mai 1756" />
-        <sort value="1756-05-01" />
+        <sort value="1756-05-01" notBefore="1756-05-01" notAfter="1756-05-31" />
         <location ref="7" />
         <senders>
           <sender ref="1" />
@@ -1602,7 +1602,7 @@
       <letterDesc ref="79">
         <autopsic value="79" />
         <date value="Grünhof, vmtl. Mai 1756" />
-        <sort value="1756-05-21" />
+        <sort value="1756-05-21" notBefore="1756-05-01" notAfter="1756-05-31" cert="low"/>
         <location ref="7" />
         <senders>
           <sender ref="1" />
@@ -1622,7 +1622,7 @@
       <letterDesc ref="80">
         <autopsic value="80" />
         <date value="Vmtl. Mai 1756" />
-        <sort value="1756-05-22" />
+        <sort value="1756-05-22" notBefore="1756-05-01" notAfter="1756-05-31" cert="low"/>
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1662,7 +1662,7 @@
       <letterDesc ref="82">
         <autopsic value="82" />
         <date value="Meyhof, Juni 1756" />
-        <sort value="1756-06-17" />
+        <sort value="1756-06-17" notBefore="1756-06-01" notAfter="1756-06-31" />
         <location ref="8" />
         <senders>
           <sender ref="1" />
@@ -1682,7 +1682,7 @@
       <letterDesc ref="83">
         <autopsic value="83" />
         <date value="Winter 1755/1756, vor Mitte März 1756" />
-        <sort value="1756-03-14" />
+        <sort value="1756-03-14" notAfter="1756-03-14"/>
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1724,7 +1724,7 @@
       <letterDesc ref="85">
         <autopsic value="85" />
         <date value="1754–1756" />
-        <sort value="1756-07-01" />
+        <sort value="1756-07-01" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1744,7 +1744,7 @@
       <letterDesc ref="86">
         <autopsic value="86" />
         <date value="1754–1756" />
-        <sort value="1756-07-02" />
+        <sort value="1756-07-02" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1764,7 +1764,7 @@
       <letterDesc ref="87">
         <autopsic value="87" />
         <date value="1754–1756" />
-        <sort value="1756-07-03" />
+        <sort value="1756-07-03" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1784,7 +1784,7 @@
       <letterDesc ref="88">
         <autopsic value="88" />
         <date value="1754–1756" />
-        <sort value="1756-07-04" />
+        <sort value="1756-07-04" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1804,7 +1804,7 @@
       <letterDesc ref="89">
         <autopsic value="89" />
         <date value="1754–1756" />
-        <sort value="1756-07-05" />
+        <sort value="1756-07-05" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1824,7 +1824,7 @@
       <letterDesc ref="90">
         <autopsic value="90" />
         <date value="1754–1756" />
-        <sort value="1756-07-06" />
+        <sort value="1756-07-06" notBefore="1754-01-01" notAfter="1756-12-31"/>
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1844,7 +1844,7 @@
       <letterDesc ref="91">
         <autopsic value="91" />
         <date value="1754–1756" />
-        <sort value="1756-07-07" />
+        <sort value="1756-07-07" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1864,7 +1864,7 @@
       <letterDesc ref="92">
         <autopsic value="92" />
         <date value="1754–1756" />
-        <sort value="1756-07-08" />
+        <sort value="1756-07-08" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1884,7 +1884,7 @@
       <letterDesc ref="93">
         <autopsic value="93" />
         <date value="1754–1756" />
-        <sort value="1756-07-09" />
+        <sort value="1756-07-09" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1904,7 +1904,7 @@
       <letterDesc ref="94">
         <autopsic value="94" />
         <date value="1754–1756" />
-        <sort value="1756-07-10" />
+        <sort value="1756-07-10" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1924,7 +1924,7 @@
       <letterDesc ref="95">
         <autopsic value="95" />
         <date value="1754–1756" />
-        <sort value="1756-07-11" />
+        <sort value="1756-07-11" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1944,7 +1944,7 @@
       <letterDesc ref="96">
         <autopsic value="96" />
         <date value="1754–1756" />
-        <sort value="1756-07-12" />
+        <sort value="1756-07-12" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1964,7 +1964,7 @@
       <letterDesc ref="97">
         <autopsic value="97" />
         <date value="1754–1756" />
-        <sort value="1756-07-13" />
+        <sort value="1756-07-13" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -1984,7 +1984,7 @@
       <letterDesc ref="98">
         <autopsic value="98" />
         <date value="1754–1756" />
-        <sort value="1756-07-14" />
+        <sort value="1756-07-14" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -2004,7 +2004,7 @@
       <letterDesc ref="99">
         <autopsic value="99" />
         <date value="1754–1756" />
-        <sort value="1756-07-15" />
+        <sort value="1756-07-15" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -2024,7 +2024,7 @@
       <letterDesc ref="100">
         <autopsic value="100" />
         <date value="1754–1756" />
-        <sort value="1756-07-16" />
+        <sort value="1756-07-16" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -2044,7 +2044,7 @@
       <letterDesc ref="101">
         <autopsic value="101" />
         <date value="1754–1756" />
-        <sort value="1756-07-17" />
+        <sort value="1756-07-17" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -2064,7 +2064,7 @@
       <letterDesc ref="102">
         <autopsic value="102" />
         <date value="1754–1756" />
-        <sort value="1756-07-18" />
+        <sort value="1756-07-18" notBefore="1754-01-01" notAfter="1756-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -2224,7 +2224,7 @@
       <letterDesc ref="110">
         <autopsic value="110" />
         <date value="Riga, August 1758" />
-        <sort value="1758-08-01" />
+        <sort value="1758-08-01" notBefore="1758-08-01" notAfter="1758-08-31" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -2264,7 +2264,7 @@
       <letterDesc ref="112">
         <autopsic value="112" />
         <date value="Riga, September 1758" />
-        <sort value="1758-09-01" />
+        <sort value="1758-09-01" notBefore="1758-09-01" notAfter="1758-09-31" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -2384,7 +2384,7 @@
       <letterDesc ref="118">
         <autopsic value="118" />
         <date value="Riga, vmtl. September oder Oktober 1758" />
-        <sort value="1758-09-28" />
+        <sort value="1758-09-28" notBefore="1758-09-01" notAfter="1758-10-31" cert="low" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -2404,7 +2404,7 @@
       <letterDesc ref="119">
         <autopsic value="119" />
         <date value="Riga, September 1758" />
-        <sort value="1758-09-29" />
+        <sort value="1758-09-29" notBefore="1758-09-01" notAfter="1758-09-31" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -2524,7 +2524,7 @@
       <letterDesc ref="125">
         <autopsic value="125" />
         <date value="1758" />
-        <sort value="1758-10-18" />
+        <sort value="1758-10-18" notBefore="1758-01-01" notAfter="1758-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -2544,7 +2544,7 @@
       <letterDesc ref="126">
         <autopsic value="126" />
         <date value="1758" />
-        <sort value="1758-10-19" />
+        <sort value="1758-10-19" notBefore="1758-01-01" notAfter="1758-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -2584,7 +2584,7 @@
       <letterDesc ref="128">
         <autopsic value="128" />
         <date value="Riga, Ende Oktober oder Anfang November 1758" />
-        <sort value="1758-10-29" />
+        <sort value="1758-10-29" notBefore="1758-10-20" notAfter="1758-11-10" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -2604,7 +2604,7 @@
       <letterDesc ref="129">
         <autopsic value="129" />
         <date value="Riga, November 1758" />
-        <sort value="1758-11-01" />
+        <sort value="1758-11-01" notBefore="1758-11-01" notAfter="1758-11-31" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -2624,7 +2624,7 @@
       <letterDesc ref="130">
         <autopsic value="130" />
         <date value="Riga, vmtl. November 1758" />
-        <sort value="1758-11-02" />
+        <sort value="1758-11-02" notBefore="1758-11-01" notAfter="1758-11-31" cert="low" />
         <location ref="6" />
         <senders>
           <sender ref="1" />
@@ -2864,7 +2864,7 @@
       <letterDesc ref="142">
         <autopsic value="142" />
         <date value="Königsberg, April 1759" />
-        <sort value="1759-04-01" />
+        <sort value="1759-04-01" notBefore="1759-04-01" notAfter="1758-04-31" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -2884,7 +2884,7 @@
       <letterDesc ref="143">
         <autopsic value="143" />
         <date value="Königsberg, 27. April und 1. Mai 1759" />
-        <sort value="1759-04-27" />
+        <sort value="1759-04-27" from="1759-04-27" to="1759-05-01"/>
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -2964,7 +2964,7 @@
       <letterDesc ref="147">
         <autopsic value="147" />
         <date value="Vmtl. Juni 1759" />
-        <sort value="1759-06-06" />
+        <sort value="1759-06-06" notBefore="1759-06-01" notAfter="1758-06-31" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3064,7 +3064,7 @@
       <letterDesc ref="152">
         <autopsic value="152" />
         <date value="Trutenau, 16. und 20. Juli 1759" />
-        <sort value="1759-07-16" />
+        <sort value="1759-07-16" from="1759-07-16" to="1759-07-20" />
         <location ref="12" />
         <senders>
           <sender ref="1" />
@@ -3185,7 +3185,7 @@
       <letterDesc ref="158">
         <autopsic value="158" />
         <date value="Vmtl. August 1759" />
-        <sort value="1759-08-19" />
+        <sort value="1759-08-19" notBefore="1759-08-01" notAfter="1759-08-31" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3385,7 +3385,7 @@
       <letterDesc ref="168">
         <autopsic value="168" />
         <date value="1759" />
-        <sort value="1759-11-21" />
+        <sort value="1759-11-21" notBefore="1759-01-01" notAfter="1759-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3405,7 +3405,7 @@
       <letterDesc ref="169">
         <autopsic value="169" />
         <date value="1759" />
-        <sort value="1759-11-22" />
+        <sort value="1759-11-22" notBefore="1759-01-01" notAfter="1759-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3425,7 +3425,7 @@
       <letterDesc ref="170">
         <autopsic value="170" />
         <date value="Ende Dezember 1759" />
-        <sort value="1759-12-15" />
+        <sort value="1759-12-15" notBefore="1759-12-15" notAfter="1759-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3445,7 +3445,7 @@
       <letterDesc ref="171">
         <autopsic value="171" />
         <date value="1759" />
-        <sort value="1759-12-16" />
+        <sort value="1759-12-16" notBefore="1759-01-01" notAfter="1759-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3465,7 +3465,7 @@
       <letterDesc ref="172">
         <autopsic value="172" />
         <date value="Vmtl. 1759" />
-        <sort value="1759-12-17" />
+        <sort value="1759-12-17" notBefore="1759-01-01" notAfter="1759-12-31" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3585,7 +3585,7 @@
       <letterDesc ref="178">
         <autopsic value="178" />
         <date value="12. und 19. Februar 1760" />
-        <sort value="1760-02-19" />
+        <sort value="1760-02-12" from="1760-02-12" to="1760-02-19" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3605,7 +3605,7 @@
       <letterDesc ref="179">
         <autopsic value="179" />
         <date value="Königsberg, 21.–22. März 1760" />
-        <sort value="1760-03-21" />
+        <sort value="1760-03-21" from="1760-03-21" to="1760-03-22" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -3725,7 +3725,7 @@
       <letterDesc ref="185">
         <autopsic value="185" />
         <date value="Juni 1760" />
-        <sort value="1760-06-14" />
+        <sort value="1760-06-14" notBefore="1760-06-01" notAfter="1760-06-30" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3765,7 +3765,7 @@
       <letterDesc ref="187">
         <autopsic value="187" />
         <date value="Vmtl. Ende Juli 1760" />
-        <sort value="1760-07-20" />
+        <sort value="1760-07-20" notBefore="1760-07-20" notAfter="1760-07-31" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -3966,7 +3966,7 @@
       <letterDesc ref="197">
         <autopsic value="197" />
         <date value="Königsberg, 21.–22. November 1760" />
-        <sort value="1760-11-21" />
+        <sort value="1760-11-21" from="1760-11-21" to="1760-11-22" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -3986,7 +3986,7 @@
       <letterDesc ref="198">
         <autopsic value="198" />
         <date value="Königsberg, 30.–31. Dezember 1760" />
-        <sort value="1760-12-30" />
+        <sort value="1760-12-30" from="1760-12-30" to="1760-12-31" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -4246,7 +4246,7 @@
       <letterDesc ref="211">
         <autopsic value="211" />
         <date value="Vmtl. 1761" />
-        <sort value="1761-08-08" />
+        <sort value="1761-08-08" notBefore="1761-01-01" notAfter="1761-12-31" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="18" />
@@ -4386,7 +4386,7 @@
       <letterDesc ref="218">
         <autopsic value="218" />
         <date value="Vmtl. 1762" />
-        <sort value="1762-01-01" />
+        <sort value="1762-01-01" notBefore="1762-01-01" notAfter="1762-12-31" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -4466,7 +4466,7 @@
       <letterDesc ref="222">
         <autopsic value="222" />
         <date value="Königsberg, 4.–5. März 1762" />
-        <sort value="1762-03-04" />
+        <sort value="1762-03-04" from="1762-03-04" to="1762-03-05" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -4506,7 +4506,7 @@
       <letterDesc ref="224">
         <autopsic value="224" />
         <date value="Königsberg, vmtl. nach 20. März 1762" />
-        <sort value="1762-03-20" />
+        <sort value="1762-03-20" notBefore="1762-03-20" cert="low" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -4586,7 +4586,7 @@
       <letterDesc ref="228">
         <autopsic value="228" />
         <date value="Königsberg, 29. Mai und 11. Juni 1762" />
-        <sort value="1762-05-29" />
+        <sort value="1762-05-29" from="1762-05-29" to="1762-06-11" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -4706,7 +4706,7 @@
       <letterDesc ref="234">
         <autopsic value="234" />
         <date value="Königsberg, 11. und 18. September 1762" />
-        <sort value="1762-09-11" />
+        <sort value="1762-09-11" from="1762-09-11" to="1762-09-18" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -5166,7 +5166,7 @@
       <letterDesc ref="257">
         <autopsic value="257" />
         <date value="Königsberg, 1.–2. und 4. Februar 1764" />
-        <sort value="1764-02-01" />
+        <sort value="1764-02-01" from="1764-02-01" to="1764-02-04" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -5386,7 +5386,7 @@
       <letterDesc ref="268">
         <autopsic value="268" />
         <date value="Vmtl. Königsberg, vor 8. Juni 1764" />
-        <sort value="1764-06-08" />
+        <sort value="1764-06-08" notAfter="1764-06-08" />
         <location ref="2" />
         <senders>
           <sender ref="41" />
@@ -5426,7 +5426,7 @@
       <letterDesc ref="270">
         <autopsic value="270" />
         <date value="Lübeck, 27. Juni und 7. Juli 1764" />
-        <sort value="1764-06-27" />
+        <sort value="1764-06-27" from="1764-06-27" to="1764-07-07" />
         <location ref="15" />
         <senders>
           <sender ref="1" />
@@ -5446,7 +5446,7 @@
       <letterDesc ref="271">
         <autopsic value="271" />
         <date value="nach dem 10. August 1764" />
-        <sort value="1764-08-10" />
+        <sort value="1764-08-10" notBefore="1764-08-10" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
@@ -5906,7 +5906,7 @@
       <letterDesc ref="294">
         <autopsic value="294" />
         <date value="Riga, Februar 1765" />
-        <sort value="1765-02-21" />
+        <sort value="1765-02-21" notBefore="1765-02-01" notAfter="1765-02-28" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -5986,7 +5986,7 @@
       <letterDesc ref="298">
         <autopsic value="298" />
         <date value="April 1765" />
-        <sort value="1765-04-02" />
+        <sort value="1765-04-02" notBefore="1765-04-01" notAfter="1765-04-30" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -6327,7 +6327,7 @@
       <letterDesc ref="315">
         <autopsic value="315" />
         <date value="Mitau, 20.–21. Februar 1766" />
-        <sort value="1766-02-20" />
+        <sort value="1766-02-20" from="1766-02-20" to="1766-02-21" />
         <location ref="4" />
         <senders>
           <sender ref="1" />
@@ -6347,7 +6347,7 @@
       <letterDesc ref="316">
         <autopsic value="316" />
         <date value="Riga, Februar 1766" />
-        <sort value="1766-02-22" />
+        <sort value="1766-02-22" notBefore="1766-02-01" notAfter="1766-02-28" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -6387,7 +6387,7 @@
       <letterDesc ref="318">
         <autopsic value="318" />
         <date value="Riga, März 1766" />
-        <sort value="1766-03-05" />
+        <sort value="1766-03-05" notBefore="1766-03-01" notAfter="1766-03-31" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -6407,7 +6407,7 @@
       <letterDesc ref="319">
         <autopsic value="319" />
         <date value="Mitau, März 1766" />
-        <sort value="1766-03-06" />
+        <sort value="1766-03-06" notBefore="1766-03-01" notAfter="1766-03-31" />
         <location ref="4" />
         <senders>
           <sender ref="1" />
@@ -6427,7 +6427,7 @@
       <letterDesc ref="320">
         <autopsic value="320" />
         <date value="Riga, März 1766" />
-        <sort value="1766-03-07" />
+        <sort value="1766-03-07" notBefore="1766-03-01" notAfter="1766-03-31"  />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -6547,7 +6547,7 @@
       <letterDesc ref="326">
         <autopsic value="326" />
         <date value="Riga, Mai 1766" />
-        <sort value="1766-05-16" />
+        <sort value="1766-05-16" notBefore="1766-05-01" notAfter="1766-05-31" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -6587,7 +6587,7 @@
       <letterDesc ref="328">
         <autopsic value="328" />
         <date value="Riga, vmtl. Juli 1766" />
-        <sort value="1766-07-01" />
+        <sort value="1766-07-01" notBefore="1766-07-01" notAfter="1766-07-31" cert="low" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -6687,7 +6687,7 @@
       <letterDesc ref="333">
         <autopsic value="333" />
         <date value="Riga, Juli 1765" />
-        <sort value="1766-07-20" />
+        <sort value="1766-07-20" notBefore="1766-07-01" notAfter="1766-07-31" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -6727,7 +6727,7 @@
       <letterDesc ref="335">
         <autopsic value="335" />
         <date value="Riga, Dezember 1766" />
-        <sort value="1766-12-01" />
+        <sort value="1766-12-01" notBefore="1766-12-01" notAfter="1766-12-31" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -6767,7 +6767,7 @@
       <letterDesc ref="337">
         <autopsic value="337" />
         <date value="Riga, Anfang Januar 1767" />
-        <sort value="1767-01-02" />
+        <sort value="1767-01-02" notBefore="1767-01-01" notAfter="1767-01-10" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -6847,7 +6847,7 @@
       <letterDesc ref="341">
         <autopsic value="341" />
         <date value="März 1767" />
-        <sort value="1767-03-01" />
+        <sort value="1767-03-01" notBefore="1767-03-01" notAfter="1767-03-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -6967,7 +6967,7 @@
       <letterDesc ref="347">
         <autopsic value="347" />
         <date value="Königsberg, 29. November und 27. Dezember 1767 sowie 3. Januar 1768" />
-        <sort value="1767-11-29" />
+        <sort value="1767-11-29" from="1767-11-29" to="1768-01-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7007,7 +7007,7 @@
       <letterDesc ref="349">
         <autopsic value="349" />
         <date value="Riga, April 1768" />
-        <sort value="1768-04-08" />
+        <sort value="1768-04-08" notBefore="1768-04-01" notAfter="1768-04-30" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -7047,7 +7047,7 @@
       <letterDesc ref="351">
         <autopsic value="351" />
         <date value="Königsberg, 28. August, 7. und 14. September 1768" />
-        <sort value="1768-08-28" />
+        <sort value="1768-08-28" from="1768-08-28" to="1768-09-14" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7087,7 +7087,7 @@
       <letterDesc ref="353">
         <autopsic value="353" />
         <date value="Riga, November 1768" />
-        <sort value="1768-11-01" />
+        <sort value="1768-11-01" notBefore="1768-11-01" notAfter="1768-11-30" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -7167,7 +7167,7 @@
       <letterDesc ref="357">
         <autopsic value="357" />
         <date value="Königsberg, 13. und 15. März 1769" />
-        <sort value="1769-03-13" />
+        <sort value="1769-03-13" from="1769-03-13" to="1769-03-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7187,7 +7187,7 @@
       <letterDesc ref="358">
         <autopsic value="358" />
         <date value="Riga, März 1769" />
-        <sort value="1769-03-16" />
+        <sort value="1769-03-16" notBefore="1769-03-01" notAfter="1769-03-31" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -7227,7 +7227,7 @@
       <letterDesc ref="360">
         <autopsic value="360" />
         <date value="Riga, 22. und 25. Mai sowie 2. Juni 1769" />
-        <sort value="1769-05-22" />
+        <sort value="1769-05-22" from="1769-05-22" to="1769-06-02" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -7247,7 +7247,7 @@
       <letterDesc ref="361">
         <autopsic value="361" />
         <date value="1769" />
-        <sort value="1769-06-16" />
+        <sort value="1769-06-16" notBefore="1769-01-01" notAfter="1769-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -7267,7 +7267,7 @@
       <letterDesc ref="362">
         <autopsic value="362" />
         <date value="Königsberg, Ende Juni 1769" />
-        <sort value="1769-06-30" />
+        <sort value="1769-06-30" notBefore="1769-06-20" notAfter="1769-06-30" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7287,7 +7287,7 @@
       <letterDesc ref="363">
         <autopsic value="363" />
         <date value="Königsberg, Juli 1769" />
-        <sort value="1769-07-01" />
+        <sort value="1769-07-01" notBefore="1769-07-01" notAfter="1769-07-31" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7347,7 +7347,7 @@
       <letterDesc ref="366">
         <autopsic value="366" />
         <date value="Königsberg, September 1769" />
-        <sort value="1769-09-10" />
+        <sort value="1769-09-10" notBefore="1769-09-01" notAfter="1769-09-30" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7367,7 +7367,7 @@
       <letterDesc ref="367">
         <autopsic value="367" />
         <date value="Königsberg, Ende September 1769" />
-        <sort value="1769-09-20" />
+        <sort value="1769-09-20" notBefore="1769-09-20" notAfter="1769-09-30" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7407,7 +7407,7 @@
       <letterDesc ref="369">
         <autopsic value="368a" />
         <date value="vor 27. September 1769" />
-        <sort value="1769-09-27" />
+        <sort value="1769-09-27" notAfter="1769-09-27" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -7427,7 +7427,7 @@
       <letterDesc ref="370">
         <autopsic value="369" />
         <date value="Nantes, August 1769" />
-        <sort value="1769-08-15" />
+        <sort value="1769-08-15" notBefore="1769-08-01" notAfter="1769-08-31" />
         <location ref="18" />
         <senders>
           <sender ref="41" />
@@ -7527,7 +7527,7 @@
       <letterDesc ref="375">
         <autopsic value="374" />
         <date value="Königsberg, 1771/1772" />
-        <sort value="1771-12-01" />
+        <sort value="1771-12-01" notBefore="1771-01-01" notAfter="1772-12-31" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7809,7 +7809,7 @@
       <letterDesc ref="389">
         <autopsic value="388" />
         <date value="Königsberg, 27.–28. März 1773" />
-        <sort value="1773-03-27" />
+        <sort value="1773-03-27" from="1773-03-27" to="1773-03-28" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7929,7 +7929,7 @@
       <letterDesc ref="395">
         <autopsic value="394" />
         <date value="September 1773" />
-        <sort value="1773-09-01" />
+        <sort value="1773-09-01" notBefore="1773-09-01" notAfter="1773-09-30" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
@@ -8029,7 +8029,7 @@
       <letterDesc ref="400">
         <autopsic value="399" />
         <date value="vor 13. August 1774" />
-        <sort value="1773-08-13" />
+        <sort value="1773-08-13" notAfter="1773-08-13" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
@@ -8089,7 +8089,7 @@
       <letterDesc ref="403">
         <autopsic value="402" />
         <date value="Königsberg, 2.–3. April 1774" />
-        <sort value="1774-04-02" />
+        <sort value="1774-04-02" from="1774-04-02" to="1774-04-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -8169,7 +8169,7 @@
       <letterDesc ref="407">
         <autopsic value="406" />
         <date value="April 1774" />
-        <sort value="1774-04-09" />
+        <sort value="1774-04-09" notBefore="1774-04-01" notAfter="1774-04-30" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -8189,7 +8189,7 @@
       <letterDesc ref="408">
         <autopsic value="407" />
         <date value="vor 27. Mai 1774" />
-        <sort value="1774-05-27" />
+        <sort value="1774-05-27" notAfter="1774-05-27" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
@@ -8209,7 +8209,7 @@
       <letterDesc ref="409">
         <autopsic value="408" />
         <date value="Königsberg, 30.–31. Mai 1774" />
-        <sort value="1774-05-30" />
+        <sort value="1774-05-30" from="1774-05-30" to="1774-05-31" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -8269,7 +8269,7 @@
       <letterDesc ref="412">
         <autopsic value="411" />
         <date value="Königsberg, 26. und 28. August 1774" />
-        <sort value="1774-09-10" />
+        <sort value="1774-08-26" from="1774-08-26" to="1774-08-28" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -8349,7 +8349,7 @@
       <letterDesc ref="416">
         <autopsic value="415" />
         <date value="Königsberg, vmtl. 4. Oktober 1774" />
-        <sort value="1774-10-04" order="200" />
+        <sort value="1774-10-04" order="200" cert="low" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -8389,7 +8389,7 @@
       <letterDesc ref="418">
         <autopsic value="417" />
         <date value="Königsberg, 24.–25. Oktober 1774" />
-        <sort value="1774-10-24" />
+        <sort value="1774-10-24" from="1774-10-24" to="1774-10-25" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -8449,7 +8449,7 @@
       <letterDesc ref="421">
         <autopsic value="420" />
         <date value="vor 30. November 1774" />
-        <sort value="1774-11-15" />
+        <sort value="1774-11-15" notAfter="1774-11-30" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
@@ -8509,7 +8509,7 @@
       <letterDesc ref="424">
         <autopsic value="423" />
         <date value="Dezember 1774" />
-        <sort value="1774-12-05" />
+        <sort value="1774-12-05" notBefore="1774-12-01" notAfter="1774-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -8589,7 +8589,7 @@
       <letterDesc ref="428">
         <autopsic value="427" />
         <date value="Vmtl. Januar 1775" />
-        <sort value="1775-01-05" />
+        <sort value="1775-01-05" notBefore="1775-01-01" notAfter="1775-01-31" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -8609,7 +8609,7 @@
       <letterDesc ref="429">
         <autopsic value="428" />
         <date value="Januar 1775" />
-        <sort value="1775-01-06" />
+        <sort value="1775-01-06" notBefore="1775-01-01" notAfter="1775-01-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -8669,7 +8669,7 @@
       <letterDesc ref="432">
         <autopsic value="431" />
         <date value="Januar 1775" />
-        <sort value="1775-01-14" />
+        <sort value="1775-01-14" notBefore="1775-01-01" notAfter="1775-01-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -8830,7 +8830,7 @@
       <letterDesc ref="440">
         <autopsic value="439" />
         <date value="13. und 15. März 1775" />
-        <sort value="1775-03-13" />
+        <sort value="1775-03-13" from="1775-03-13" to="1775-03-15" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -8890,7 +8890,7 @@
       <letterDesc ref="443">
         <autopsic value="442" />
         <date value="Königsberg, 18., 20. und 23. April 1775" />
-        <sort value="1775-04-18" />
+        <sort value="1775-04-18" notBefore="1775-04-18" notAfter="1775-04-23" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -8910,7 +8910,7 @@
       <letterDesc ref="444">
         <autopsic value="443" />
         <date value="April 1775" />
-        <sort value="1775-04-19" />
+        <sort value="1775-04-19" notBefore="1775-04-01" notAfter="1775-04-30" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -8950,7 +8950,7 @@
       <letterDesc ref="446">
         <autopsic value="445" />
         <date value="Ende April 1775" />
-        <sort value="1775-04-30" />
+        <sort value="1775-04-30" notBefore="1775-04-20" notAfter="1775-04-30" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
@@ -8990,7 +8990,7 @@
       <letterDesc ref="448">
         <autopsic value="447" />
         <date value="21. und 22. Mai 1775" />
-        <sort value="1775-05-21" />
+        <sort value="1775-05-21" from="1775-05-21" to="1775-05-22" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -9010,7 +9010,7 @@
       <letterDesc ref="449">
         <autopsic value="448" />
         <date value="3. und 4. Juni 1775" />
-        <sort value="1775-06-03" />
+        <sort value="1775-06-03" from="1775-06-03" to="1775-06-04" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
@@ -9050,7 +9050,7 @@
       <letterDesc ref="451">
         <autopsic value="450" />
         <date value="vor 28. Juni 1775" />
-        <sort value="1775-06-20" />
+        <sort value="1775-06-28" notAfter="1775-06-28" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
@@ -9090,7 +9090,7 @@
       <letterDesc ref="453">
         <autopsic value="452" />
         <date value="16.–17. Juli 1775" />
-        <sort value="1775-07-16" />
+        <sort value="1775-07-16" from="1775-07-16" to="1775-07-17" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -9410,7 +9410,7 @@
       <letterDesc ref="469">
         <autopsic value="467" />
         <date value="Königsberg, 9.–10. und 13. August 1776" />
-        <sort value="1776-08-09" />
+        <sort value="1776-08-09" from="1776-08-09" to="1776-08-13" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -9470,7 +9470,7 @@
       <letterDesc ref="472">
         <autopsic value="470" />
         <date value="Königsberg, 14.–15. Oktober 1776" />
-        <sort value="1776-10-14" />
+        <sort value="1776-10-14" from="1776-10-14" to="1776-10-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -9690,7 +9690,7 @@
       <letterDesc ref="483">
         <autopsic value="480" />
         <date value="18. und 19. Januar 1777" />
-        <sort value="1777-01-18" />
+        <sort value="1777-01-18" from="1777-01-18" to="1777-01-19" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -9710,7 +9710,7 @@
       <letterDesc ref="484">
         <autopsic value="481" />
         <date value="24. und 26. Januar 1777" />
-        <sort value="1777-01-24" />
+        <sort value="1777-01-24" from="1777-01-24" to="1777-01-26" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -9770,7 +9770,7 @@
       <letterDesc ref="487">
         <autopsic value="484" />
         <date value="Königsberg, 10.–12. März 1777" />
-        <sort value="1777-03-10" />
+        <sort value="1777-03-10" from="1777-03-10" to="1777-03-12" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -9870,7 +9870,7 @@
       <letterDesc ref="492">
         <autopsic value="489" />
         <date value="nach 17. April 1777" />
-        <sort value="1777-04-28" />
+        <sort value="1777-04-28" notBefore="1777-04-17" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -9890,7 +9890,7 @@
       <letterDesc ref="493">
         <autopsic value="490" />
         <date value="1777" />
-        <sort value="1777-04-14" />
+        <sort value="1777-04-14" notBefore="1777-01-01" notAfter="1777-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -9910,7 +9910,7 @@
       <letterDesc ref="494">
         <autopsic value="491" />
         <date value="1777" />
-        <sort value="1777-04-15" order="100" />
+        <sort value="1777-04-15" order="100" notBefore="1777-01-01" notAfter="1777-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -9950,7 +9950,7 @@
       <letterDesc ref="496">
         <autopsic value="492" />
         <date value="1777" />
-        <sort value="1777-04-16" />
+        <sort value="1777-04-16" notBefore="1777-01-01" notAfter="1777-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -9970,7 +9970,7 @@
       <letterDesc ref="497">
         <autopsic value="493" />
         <date value="1777" />
-        <sort value="1777-04-17" />
+        <sort value="1777-04-17" notBefore="1777-01-01" notAfter="1777-12-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -10050,7 +10050,7 @@
       <letterDesc ref="501">
         <autopsic value="497" />
         <date value="Mai 1777" />
-        <sort value="1777-05-06" order="200" />
+        <sort value="1777-05-06" order="200" notBefore="1777-05-01" notAfter="1777-05-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -23786,7 +23786,7 @@
       <letterDesc ref="1187">
         <autopsic value="254a" />
         <date value="Königsberg, 11. und 15. September 1763" />
-        <sort value="1763-09-11" />
+        <sort value="1763-09-11" from="1763-09-11" to="1763-09-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -23846,7 +23846,7 @@
 	  	      <letterDesc ref="1191">
 	        <autopsic value="398a" />
 	        <date value="Königsberg, vmtl. Dezember 1773" />
-	        <sort value="1773-12-30" />
+	        <sort value="1773-12-30" notBefore="1773-12-01" notAfter="1773-12-31" cert="low" />
 	        <location ref="2" />
 	        <senders>
 	          <sender ref="1" />
@@ -23926,7 +23926,7 @@
   	  	      <letterDesc ref="1196">
 	        <autopsic value="417a" />
 	        <date value="Wandsbeck, vor 9. November 1774" />
-	        <sort value="1774-10-25" />
+	        <sort value="1774-10-25" notAfter="1774-11-09" />
 	        <location ref="29" />
 	        <senders>
 	          <sender ref="61" />
