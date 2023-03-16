@@ -17203,7 +17203,7 @@
       <letterDesc ref="858">
         <autopsic value="851" />
         <date value="Königsberg, 5. und 7. Juli 1785" />
-        <sort value="1785-07-05" />
+        <sort value="1785-07-05" from="1785-07-05" to="1785-07-07" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17223,7 +17223,7 @@
       <letterDesc ref="859">
         <autopsic value="852" />
         <date value="Königsberg, 8. und 12. Juli 1785" />
-        <sort value="1785-07-08" />
+        <sort value="1785-07-08" from="1785-07-08" to="1785-07-12" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17243,7 +17243,7 @@
       <letterDesc ref="860">
         <autopsic value="853" />
         <date value="10.–11. Juli 1785" />
-        <sort value="1785-07-10" />
+        <sort value="1785-07-10" from="1785-07-10" to="1785-07-11" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -17303,7 +17303,7 @@
       <letterDesc ref="863">
         <autopsic value="856" />
         <date value="Königsberg, 22. und 25. Juli 1785" />
-        <sort value="1785-07-22" />
+        <sort value="1785-07-22" from="1785-07-22" to="1785-07-25" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17383,7 +17383,7 @@
       <letterDesc ref="867">
         <autopsic value="860" />
         <date value="Pempelfort, 29. Juli und 5. August 1785" />
-        <sort value="1785-07-29" />
+        <sort value="1785-07-29" from="1785-07-29" to="1785-08-05" />
         <location ref="34" />
         <senders>
           <sender ref="95" />
@@ -17403,7 +17403,7 @@
       <letterDesc ref="868">
         <autopsic value="861" />
         <date value="Königsberg, 31. Juli und 1. August 1785" />
-        <sort value="1785-07-31" order="200" />
+        <sort value="1785-07-31" order="200" from="1785-07-31" to="1785-08-01" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17583,7 +17583,7 @@
       <letterDesc ref="877">
         <autopsic value="870" />
         <date value="Pempelfort, 12.–13. September 1785" />
-        <sort value="1785-09-12" />
+        <sort value="1785-09-12" from="1785-09-12" to="1785-09-13" />
         <location ref="34" />
         <senders>
           <sender ref="95" />
@@ -17623,7 +17623,7 @@
       <letterDesc ref="879">
         <autopsic value="872" />
         <date value="Königsberg, 18.–19. September 1785" />
-        <sort value="1785-09-18" />
+        <sort value="1785-09-18" from="1785-09-18" to="1785-09-19" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17643,7 +17643,7 @@
       <letterDesc ref="880">
         <autopsic value="873" />
         <date value="Königsberg, 22. September und 3. Oktober 1785" />
-        <sort value="1785-09-22" />
+        <sort value="1785-09-22" from="1785-09-22" to="1785-10-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17663,7 +17663,7 @@
       <letterDesc ref="881">
         <autopsic value="874" />
         <date value="Königsberg, 28. September und 2.–3. Oktober 1785" />
-        <sort value="1785-09-28" />
+        <sort value="1785-09-28" from="1785-09-28" to="1785-10-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17683,7 +17683,7 @@
       <letterDesc ref="882">
         <autopsic value="875" />
         <date value="Weimar, Anfang Oktober 1785" />
-        <sort value="1785-10-01" order="100" />
+        <sort value="1785-10-01" order="100" notBefore="1785-10-01" notAfter="1785-10-10" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -17845,7 +17845,7 @@
       <letterDesc ref="890">
         <autopsic value="883" />
         <date value="Königsberg, 20. Oktober und 15. Dezember 1785" />
-        <sort value="1785-10-20" />
+        <sort value="1785-10-20" from="1785-10-20" to="1785-12-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17865,7 +17865,7 @@
       <letterDesc ref="891">
         <autopsic value="884" />
         <date value="Königsberg, 22.–23., 26. und 28.–30. Oktober 1785" />
-        <sort value="1785-10-22" />
+        <sort value="1785-10-22" from="1785-10-22" to="1785-10-30" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -17905,7 +17905,7 @@
       <letterDesc ref="893">
         <autopsic value="886" />
         <date value="Weimar, Ende Oktober 1785" />
-        <sort value="1785-10-30" />
+        <sort value="1785-10-30" notAfter="1785-11-14" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -17965,7 +17965,7 @@
       <letterDesc ref="896">
         <autopsic value="889" />
         <date value="Königsberg, 5.–6. November 1785" />
-        <sort value="1785-11-05" />
+        <sort value="1785-11-05" from="1785-11-05" to="1785-11-06" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18005,7 +18005,7 @@
       <letterDesc ref="898">
         <autopsic value="891" />
         <date value="Königsberg, 9.–10. November 1785" />
-        <sort value="1785-11-09" />
+        <sort value="1785-11-09" from="1785-11-09" to="1785-11-10" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18045,7 +18045,7 @@
       <letterDesc ref="900">
         <autopsic value="893" />
         <date value="Königsberg, 12.–14. November 1785" />
-        <sort value="1785-11-12" />
+        <sort value="1785-11-12" from="1785-11-12" to="1785-11-14" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18105,7 +18105,7 @@
       <letterDesc ref="903">
         <autopsic value="896" />
         <date value="Düsseldorf, 17.–18. November 1785" />
-        <sort value="1785-11-17" />
+        <sort value="1785-11-17" from="1785-11-17" to="1785-11-18" />
         <location ref="37" />
         <senders>
           <sender ref="95" />
@@ -18185,7 +18185,7 @@
       <letterDesc ref="907">
         <autopsic value="900" />
         <date value="Königsberg, 30. November und 3.–4. Dezember 1785" />
-        <sort value="1785-11-30" />
+        <sort value="1785-11-30" from="1785-11-30" to="1785-12-04" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18285,7 +18285,7 @@
       <letterDesc ref="912">
         <autopsic value="905" />
         <date value="Königsberg, 13. und 15. Dezember 1785" />
-        <sort value="1785-12-13" />
+        <sort value="1785-12-13" from="1785-12-13" to="1785-12-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18305,7 +18305,7 @@
       <letterDesc ref="913">
         <autopsic value="906" />
         <date value="Königsberg, 14.–15. Dezember 1785" />
-        <sort value="1785-12-14" />
+        <sort value="1785-12-14" from="1785-12-14" to="1785-12-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18405,7 +18405,7 @@
       <letterDesc ref="918">
         <autopsic value="911" />
         <date value="Königsberg, 28.–29. Dezember 1785" />
-        <sort value="1785-12-28" />
+        <sort value="1785-12-28" from="1785-12-28" to="1785-12-29" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18445,7 +18445,7 @@
       <letterDesc ref="920">
         <autopsic value="913" />
         <date value="Königsberg, 1.–2. Januar 1786" />
-        <sort value="1786-01-01" />
+        <sort value="1786-01-01" from="1786-01-01" to="1786-01-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18485,7 +18485,7 @@
       <letterDesc ref="922">
         <autopsic value="915" />
         <date value="Königsberg, 4.–5. Januar 1786" />
-        <sort value="1786-01-04" />
+        <sort value="1786-01-04" from="1786-01-04" to="1786-01-05" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18525,7 +18525,7 @@
       <letterDesc ref="924">
         <autopsic value="917" />
         <date value="Königsberg, 10.–12. Januar 1786" />
-        <sort value="1786-01-10" />
+        <sort value="1786-01-10" from="1786-01-10" to="1786-01-12" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18665,7 +18665,7 @@
       <letterDesc ref="931">
         <autopsic value="924" />
         <date value="Königsberg, 29.–30. Januar 1786" />
-        <sort value="1786-01-29" />
+        <sort value="1786-01-29" from="1786-01-29" to="1786-01-30" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18685,7 +18685,7 @@
       <letterDesc ref="932">
         <autopsic value="925" />
         <date value="Düsseldorf, 2.–3. Februar 1786" />
-        <sort value="1786-02-02" />
+        <sort value="1786-02-02" from="1786-02-02" to="1786-02-03" />
         <location ref="37" />
         <senders>
           <sender ref="95" />
@@ -18705,7 +18705,7 @@
       <letterDesc ref="933">
         <autopsic value="926" />
         <date value="Königsberg, 4.–6. Februar 1786" />
-        <sort value="1786-02-04" />
+        <sort value="1786-02-04" from="1786-02-04" to="1786-02-06" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18905,7 +18905,7 @@
       <letterDesc ref="943">
         <autopsic value="936" />
         <date value="Königsberg, 25.–26. Februar 1786" />
-        <sort value="1786-02-25" />
+        <sort value="1786-02-25" from="1786-02-25" to="1786-02-26" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18925,7 +18925,7 @@
       <letterDesc ref="944">
         <autopsic value="937" />
         <date value="Düsseldorf, 28. Februar und 2.–3. März 1786" />
-        <sort value="1786-02-28" />
+        <sort value="1786-02-28" from="1786-02-28" to="1786-03-03" />
         <location ref="37" />
         <senders>
           <sender ref="95" />
@@ -18945,7 +18945,7 @@
       <letterDesc ref="945">
         <autopsic value="938" />
         <date value="Königsberg, 1.–2. März 1786" />
-        <sort value="1786-03-01" />
+        <sort value="1786-03-01" from="1786-03-01" to="1786-03-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -18965,7 +18965,7 @@
       <letterDesc ref="946">
         <autopsic value="939" />
         <date value="Königsberg, 4. und 6. März 1786" />
-        <sort value="1786-03-04" />
+        <sort value="1786-03-04" from="1786-03-04" to="1786-03-06" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19025,7 +19025,7 @@
       <letterDesc ref="949">
         <autopsic value="942" />
         <date value="Königsberg, 11.–12. März 1786" />
-        <sort value="1786-03-11" />
+        <sort value="1786-03-11" from="1786-03-11" to="1786-03-12" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19065,7 +19065,7 @@
       <letterDesc ref="951">
         <autopsic value="944" />
         <date value="Königsberg, 15.–16. März 1786" />
-        <sort value="1786-03-15" />
+        <sort value="1786-03-15" from="1786-03-15" to="1786-03-16" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19145,7 +19145,7 @@
       <letterDesc ref="955">
         <autopsic value="948" />
         <date value="Königsberg, 25.–27. März 1786" />
-        <sort value="1786-03-25" />
+        <sort value="1786-03-25" from="1786-03-25" to="1786-03-27" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19245,7 +19245,7 @@
       <letterDesc ref="960">
         <autopsic value="953" />
         <date value="Königsberg, 9.–10. April 1786" />
-        <sort value="1786-04-09" />
+        <sort value="1786-04-09" from="1786-04-09" to="1786-04-10" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19285,7 +19285,7 @@
       <letterDesc ref="962">
         <autopsic value="955" />
         <date value="Düsseldorf, 13.–14. April 1786" />
-        <sort value="1786-04-13" />
+        <sort value="1786-04-13" from="1786-04-13" to="1786-04-14" />
         <location ref="37" />
         <senders>
           <sender ref="95" />
@@ -19385,7 +19385,7 @@
       <letterDesc ref="967">
         <autopsic value="960" />
         <date value="Königsberg, 26.–27. April 1786" />
-        <sort value="1786-04-26" />
+        <sort value="1786-04-26" from="1786-04-26" to="1786-04-27" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19425,7 +19425,7 @@
       <letterDesc ref="969">
         <autopsic value="962" />
         <date value="30. April und 3. Mai 1786" />
-        <sort value="1786-04-30" />
+        <sort value="1786-04-30" from="1786-04-30" to="1786-05-03" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -19445,7 +19445,7 @@
       <letterDesc ref="970">
         <autopsic value="963" />
         <date value="Königsberg, 3.–4. Mai 1786" />
-        <sort value="1786-05-03" />
+        <sort value="1786-05-03" from="1786-05-03" to="1786-05-04" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19505,7 +19505,7 @@
       <letterDesc ref="973">
         <autopsic value="966" />
         <date value="Königsberg, 13.–15. Mai 1786" />
-        <sort value="1786-05-13" />
+        <sort value="1786-05-13" from="1786-05-13" to="1786-05-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19525,7 +19525,7 @@
       <letterDesc ref="974">
         <autopsic value="967" />
         <date value="Pempelfort, 15.–16. Mai 1786" />
-        <sort value="1786-05-15" />
+        <sort value="1786-05-15" from="1786-05-15" to="1786-05-16" />
         <location ref="34" />
         <senders>
           <sender ref="95" />
@@ -19605,7 +19605,7 @@
       <letterDesc ref="978">
         <autopsic value="971" />
         <date value="Königsberg, 27.–29. Mai 1786" />
-        <sort value="1786-05-27" />
+        <sort value="1786-05-27" from="1786-05-27" to="1786-05-29" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19625,7 +19625,7 @@
       <letterDesc ref="979">
         <autopsic value="972" />
         <date value="Königsberg, 28. und 30.–31. Mai 1786" />
-        <sort value="1786-05-28" />
+        <sort value="1786-05-28" from="1786-05-28" to="1786-05-31" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19705,7 +19705,7 @@
       <letterDesc ref="983">
         <autopsic value="976" />
         <date value="Königsberg, 7.–8. Juni 1786" />
-        <sort value="1786-06-07" />
+        <sort value="1786-06-07" from="1786-06-07" to="1786-06-08" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -19865,7 +19865,7 @@
       <letterDesc ref="991">
         <autopsic value="984" />
         <date value="Königsberg, 22. Juni und 12. Juli 1786" />
-        <sort value="1786-06-22" />
+        <sort value="1786-06-22" from="1786-06-22" to="1786-07-12" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20105,7 +20105,7 @@
       <letterDesc ref="1003">
         <autopsic value="996" />
         <date value="Königsberg, 16. und 23. Juli 1786" />
-        <sort value="1786-07-16" />
+        <sort value="1786-07-16" from="1786-07-16" to="1786-07-23" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20205,7 +20205,7 @@
       <letterDesc ref="1008">
         <autopsic value="1001" />
         <date value="Königsberg, 28.–29. und 31. Juli 1786" />
-        <sort value="1786-07-28" />
+        <sort value="1786-07-28" from="1786-07-28" to="1786-07-31" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20225,7 +20225,7 @@
       <letterDesc ref="1009">
         <autopsic value="1002" />
         <date value="Königsberg, 31. Juli und 2.–3. August 1786" />
-        <sort value="1786-07-31" />
+        <sort value="1786-07-31" from="1786-07-31" to="1786-08-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20405,7 +20405,7 @@
       <letterDesc ref="1018">
         <autopsic value="1011" />
         <date value="Königsberg, 23.–24. August 1786" />
-        <sort value="1786-08-23" />
+        <sort value="1786-08-23" from="1786-08-23" to="1786-08-24" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20445,7 +20445,7 @@
       <letterDesc ref="1020">
         <autopsic value="1013" />
         <date value="Königsberg, 27. August und 23.–25. September 1786" />
-        <sort value="1786-08-27" />
+        <sort value="1786-08-27" from="1786-08-27" to="1786-09-25" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20485,7 +20485,7 @@
       <letterDesc ref="1022">
         <autopsic value="1015" />
         <date value="Pempelfort, 4.–5. September 1786" />
-        <sort value="1786-09-04" />
+        <sort value="1786-09-04" from="1786-09-04" to="1786-09-05" />
         <location ref="34" />
         <senders>
           <sender ref="95" />
@@ -20525,7 +20525,7 @@
       <letterDesc ref="1024">
         <autopsic value="1017" />
         <date value="Königsberg, 6.–7. und 22. September 1786" />
-        <sort value="1786-09-06" />
+        <sort value="1786-09-06" from="1786-09-06" to="1786-09-22" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20605,7 +20605,7 @@
       <letterDesc ref="1028">
         <autopsic value="1021" />
         <date value="Pempelfort, 5.–6. Oktober 1786" />
-        <sort value="1786-10-05" />
+        <sort value="1786-10-05" from="1786-10-05" to="1786-10-06" />
         <location ref="34" />
         <senders>
           <sender ref="95" />
@@ -20625,7 +20625,7 @@
       <letterDesc ref="1029">
         <autopsic value="1022" />
         <date value="Königsberg, 5. und 25.–26. Oktober 1786" />
-        <sort value="1786-10-05" />
+        <sort value="1786-10-05" from="1786-10-05" to="1786-10-26" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20665,7 +20665,7 @@
       <letterDesc ref="1031">
         <autopsic value="1024" />
         <date value="Königsberg, 29. Oktober und 2. November 1786" />
-        <sort value="1786-10-29" />
+        <sort value="1786-10-29" from="1786-10-29" to="1786-11-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20705,7 +20705,7 @@
       <letterDesc ref="1033">
         <autopsic value="1026" />
         <date value="Königsberg, 4.–5. und 8.–9. November 1786" />
-        <sort value="1786-11-04" />
+        <sort value="1786-11-04" from="1786-11-04" to="1786-11-09" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20765,7 +20765,7 @@
       <letterDesc ref="1036">
         <autopsic value="1029" />
         <date value="Königsberg, 11. und 13. November 1786" />
-        <sort value="1786-11-11" />
+        <sort value="1786-11-11" from="1786-11-11" to="1786-11-13" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20825,7 +20825,7 @@
       <letterDesc ref="1039">
         <autopsic value="1032" />
         <date value="Königsberg, 19.–20. November 1786" />
-        <sort value="1786-11-19" />
+        <sort value="1786-11-19" from="1786-11-19" to="1786-11-20" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20845,7 +20845,7 @@
       <letterDesc ref="1040">
         <autopsic value="1033" />
         <date value="Düsseldorf, 20.–21. November 1786" />
-        <sort value="1786-11-20" />
+        <sort value="1786-11-20" from="1786-11-20" to="1786-11-21" />
         <location ref="37" />
         <senders>
           <sender ref="95" />
@@ -20885,7 +20885,7 @@
       <letterDesc ref="1042">
         <autopsic value="1035" />
         <date value="Königsberg, 3.–5. und 7. Dezember 1786" />
-        <sort value="1786-12-03" />
+        <sort value="1786-12-03" from="1786-12-03" to="1786-12-7" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -20985,7 +20985,7 @@
       <letterDesc ref="1047">
         <autopsic value="1040" />
         <date value="Königsberg, 28.–29. Januar 1787" />
-        <sort value="1787-01-28" />
+        <sort value="1787-01-28" from="1787-01-28" to="1787-01-29" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21005,7 +21005,7 @@
       <letterDesc ref="1048">
         <autopsic value="1041" />
         <date value="Königsberg, 30.–31. Januar 1787" />
-        <sort value="1787-01-30" />
+        <sort value="1787-01-30" from="1787-01-30" to="1787-01-31" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21025,7 +21025,7 @@
       <letterDesc ref="1049">
         <autopsic value="1042" />
         <date value="Weimar, Ende Januar 1787" />
-        <sort value="1787-01-31" />
+        <sort value="1787-01-31" notAfter="1787-02-15"/>
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -21105,7 +21105,7 @@
       <letterDesc ref="1053">
         <autopsic value="1046" />
         <date value="Königsberg, 10.–12. März 1787" />
-        <sort value="1787-03-10" />
+        <sort value="1787-03-10" from="1787-03-10" to="1787-03-12" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21125,7 +21125,7 @@
       <letterDesc ref="1054">
         <autopsic value="1047" />
         <date value="Königsberg, 14.–15. März 1787" />
-        <sort value="1787-03-14" />
+        <sort value="1787-03-14" from="1787-03-14" to="1787-03-15" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21265,7 +21265,7 @@
       <letterDesc ref="1061">
         <autopsic value="1054" />
         <date value="8.–9. April 1787" />
-        <sort value="1787-04-08" />
+        <sort value="1787-04-08" from="1787-04-08" to="1787-04-09" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -21325,7 +21325,7 @@
       <letterDesc ref="1064">
         <autopsic value="1057" />
         <date value="Königsberg, 17.–19. April 1787" />
-        <sort value="1787-04-17" order="200" />
+        <sort value="1787-04-17" order="200" from="1787-04-17" to="1787-04-19" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21345,7 +21345,7 @@
       <letterDesc ref="1065">
         <autopsic value="1058" />
         <date value="Königsberg, 22.–23. April 1787" />
-        <sort value="1787-04-22" />
+        <sort value="1787-04-22" from="1787-04-22" to="1787-04-23" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21385,7 +21385,7 @@
       <letterDesc ref="1067">
         <autopsic value="1060" />
         <date value="27. und 29.–30. April sowie 1.–3. Mai 1787" />
-        <sort value="1787-04-27" />
+        <sort value="1787-04-27" from="1787-04-27" to="1787-05-03" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -21425,7 +21425,7 @@
       <letterDesc ref="1069">
         <autopsic value="1062" />
         <date value="Pempelfort, 30. April und 1. Mai 1787" />
-        <sort value="1787-04-30" />
+        <sort value="1787-04-30" from="1787-04-30" to="1787-05-01" />
         <location ref="34" />
         <senders>
           <sender ref="95" />
@@ -21465,7 +21465,7 @@
       <letterDesc ref="1071">
         <autopsic value="1064" />
         <date value="Königsberg, 9.–10. Mai 1787" />
-        <sort value="1787-05-09" />
+        <sort value="1787-05-09" from="1787-05-09" to="1787-05-10" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21485,7 +21485,7 @@
       <letterDesc ref="1072">
         <autopsic value="1065" />
         <date value="Königsberg, 13.–14. Mai 1787" />
-        <sort value="1787-05-13" />
+        <sort value="1787-05-13" from="1787-05-13" to="1787-05-14" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21505,7 +21505,7 @@
       <letterDesc ref="1073">
         <autopsic value="1066" />
         <date value="Vmtl. 20. Mai 1787" />
-        <sort value="1787-05-20" />
+        <sort value="1787-05-20" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -21525,7 +21525,7 @@
       <letterDesc ref="1074">
         <autopsic value="1067" />
         <date value="Königsberg, 17. und 20. Mai 1787" />
-        <sort value="1787-05-17" />
+        <sort value="1787-05-17" from="1787-05-17" to="1787-05-20" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21585,7 +21585,7 @@
       <letterDesc ref="1077">
         <autopsic value="1070" />
         <date value="Königsberg, 2.–5. Juni 1787" />
-        <sort value="1787-06-02" />
+        <sort value="1787-06-02" from="1787-06-02" to="1787-06-05" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21605,7 +21605,7 @@
       <letterDesc ref="1078">
         <autopsic value="1071" />
         <date value="Königsberg, 9.–11. Juni 1787" />
-        <sort value="1787-06-09" />
+        <sort value="1787-06-09" from="1787-06-09" to="1787-06-11" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -21685,7 +21685,7 @@
       <letterDesc ref="1082">
         <autopsic value="1075" />
         <date value="Berlin, 2. und 5. Juli 1787" />
-        <sort value="1787-07-02" order="200" />
+        <sort value="1787-07-02" order="200" from="1787-07-02" to="1787-07-05" />
         <location ref="1" />
         <senders>
           <sender ref="1" />
@@ -21865,7 +21865,7 @@
       <letterDesc ref="1091">
         <autopsic value="1084" />
         <date value="Pempelfort, 6.–7. August 1787" />
-        <sort value="1787-08-06" />
+        <sort value="1787-08-06" from="1787-08-06" to="1787-08-07" />
         <location ref="34" />
         <senders>
           <sender ref="95" />
@@ -21925,7 +21925,7 @@
       <letterDesc ref="1094">
         <autopsic value="1087" />
         <date value="Pempelfort, 13.–14. August 1787" />
-        <sort value="1787-08-13" />
+        <sort value="1787-08-13" from="1787-08-13" to="1787-08-14" />
         <location ref="34" />
         <senders>
           <sender ref="1" />
@@ -21945,7 +21945,7 @@
       <letterDesc ref="1095">
         <autopsic value="1088" />
         <date value="Pempelfort, 16.–18. und 20. August 1787" />
-        <sort value="1787-08-16" />
+        <sort value="1787-08-16" from="1787-08-16" to="1787-08-20" />
         <location ref="34" />
         <senders>
           <sender ref="1" />
@@ -21985,7 +21985,7 @@
       <letterDesc ref="1097">
         <autopsic value="1090" />
         <date value="Pempelfort, 18.–20. August 1787" />
-        <sort value="1787-08-18" order="200" />
+        <sort value="1787-08-18" order="200" from="1787-08-18" to="1787-08-20" />
         <location ref="34" />
         <senders>
           <sender ref="1" />
@@ -22065,7 +22065,7 @@
       <letterDesc ref="1101">
         <autopsic value="1094" />
         <date value="Pempelfort, 27. und 30. August sowie 3. September 1787" />
-        <sort value="1787-08-27" />
+        <sort value="1787-08-27" from="1787-08-27" to="1787-09-03" />
         <location ref="34" />
         <senders>
           <sender ref="1" />
@@ -22105,7 +22105,7 @@
       <letterDesc ref="1103">
         <autopsic value="1096" />
         <date value="Pempelfort, 1.–2. September 1787" />
-        <sort value="1787-09-01" />
+        <sort value="1787-09-01" from="1787-09-01" to="1787-09-02" />
         <location ref="34" />
         <senders>
           <sender ref="1" />
@@ -22145,7 +22145,7 @@
       <letterDesc ref="1105">
         <autopsic value="1098" />
         <date value="Pempelfort, 16.–18. September 1787" />
-        <sort value="1787-09-16" />
+        <sort value="1787-09-16" from="1787-09-16" to="1787-09-18" />
         <location ref="34" />
         <senders>
           <sender ref="1" />
@@ -22165,7 +22165,7 @@
       <letterDesc ref="1106">
         <autopsic value="1099" />
         <date value="Pempelfort, 20.–21. September 1787" />
-        <sort value="1787-09-20" />
+        <sort value="1787-09-20" from="1787-09-20" to="1787-09-21" />
         <location ref="34" />
         <senders>
           <sender ref="1" />
@@ -22185,7 +22185,7 @@
       <letterDesc ref="1107">
         <autopsic value="1100" />
         <date value="Pempelfort, 21.–23. September 1787" />
-        <sort value="1787-09-21" />
+        <sort value="1787-09-21" from="1787-09-21" to="1787-09-23" />
         <location ref="34" />
         <senders>
           <sender ref="1" />
@@ -22205,7 +22205,7 @@
       <letterDesc ref="1108">
         <autopsic value="1101" />
         <date value="Pempelfort, 23.–24. September 1787" />
-        <sort value="1787-09-23" />
+        <sort value="1787-09-23" from="1787-09-23" to="1787-09-24" />
         <location ref="34" />
         <senders>
           <sender ref="1" />
@@ -22365,7 +22365,7 @@
       <letterDesc ref="1116">
         <autopsic value="1109" />
         <date value="Münster, 8.–10. November 1787" />
-        <sort value="1787-11-08" />
+        <sort value="1787-11-08" from="1787-11-08" to="1787-11-10" />
         <location ref="39" />
         <senders>
           <sender ref="1" />
@@ -22385,7 +22385,7 @@
       <letterDesc ref="1117">
         <autopsic value="1110" />
         <date value="Münster, 13.–14., 16.–17. und 24. November 1787" />
-        <sort value="1787-11-13" />
+        <sort value="1787-11-13" from="1787-11-13" to="1787-11-24" />
         <location ref="39" />
         <senders>
           <sender ref="1" />
@@ -22445,7 +22445,7 @@
       <letterDesc ref="1120">
         <autopsic value="1113" />
         <date value="Münster, 19.–24. November 1787" />
-        <sort value="1787-11-19" />
+        <sort value="1787-11-19" from="1787-11-19" to="1787-11-24" />
         <location ref="39" />
         <senders>
           <sender ref="1" />
@@ -22485,7 +22485,7 @@
       <letterDesc ref="1122">
         <autopsic value="1115" />
         <date value="Münster, 24.–25. November 1787" />
-        <sort value="1787-11-24" />
+        <sort value="1787-11-24" from="1787-11-24" to="1787-11-25" />
         <location ref="39" />
         <senders>
           <sender ref="1" />
@@ -22545,7 +22545,7 @@
       <letterDesc ref="1125">
         <autopsic value="1118" />
         <date value="Düsseldorf, 29.–30. November 1787" />
-        <sort value="1787-11-29" />
+        <sort value="1787-11-29" from="1787-11-29" to="1787-11-30" />
         <location ref="37" />
         <senders>
           <sender ref="95" />
@@ -22565,7 +22565,7 @@
       <letterDesc ref="1126">
         <autopsic value="1119" />
         <date value="Münster, 2.–3. Dezember 1787" />
-        <sort value="1787-12-02" />
+        <sort value="1787-12-02" from="1787-12-02" to="1787-12-03" />
         <location ref="39" />
         <senders>
           <sender ref="1" />
@@ -22605,7 +22605,7 @@
       <letterDesc ref="1128">
         <autopsic value="1121" />
         <date value="Welbergen, 6.–7. und 10.–11. Dezember 1787" />
-        <sort value="1787-12-06" />
+        <sort value="1787-12-06" from="1787-12-06" to="1787-12-11" />
         <location ref="43" />
         <senders>
           <sender ref="1" />
@@ -22725,7 +22725,7 @@
       <letterDesc ref="1134">
         <autopsic value="1127" />
         <date value="Welbergen, 17.–18. Dezember 1787" />
-        <sort value="1787-12-17" order="100" />
+        <sort value="1787-12-17" order="100" from="1787-12-17" to="1787-12-18" />
         <location ref="43" />
         <senders>
           <sender ref="1" />
@@ -22926,7 +22926,7 @@
       <letterDesc ref="1144">
         <autopsic value="1137" />
         <date value="Welbergen, 27. und 29. Februar 1788" />
-        <sort value="1788-02-27" order="100" />
+        <sort value="1788-02-27" order="100" from="1788-02-27" to="1788-02-29" />
         <location ref="43" />
         <senders>
           <sender ref="1" />
@@ -22946,7 +22946,7 @@
       <letterDesc ref="1145">
         <autopsic value="1138" />
         <date value="Welbergen, 27. Februar, 11.–12., 21. und 23. März 1788" />
-        <sort value="1788-02-27" order="200" />
+        <sort value="1788-02-27" order="200" from="1788-02-27" to="1788-03-23" />
         <location ref="43" />
         <senders>
           <sender ref="1" />
@@ -22986,7 +22986,7 @@
       <letterDesc ref="1147">
         <autopsic value="1140" />
         <date value="Welbergen, 4.–8. und 10. März 1788" />
-        <sort value="1788-03-04" />
+        <sort value="1788-03-04" from="1788-03-04" to="1788-03-10" />
         <location ref="43" />
         <senders>
           <sender ref="1" />
@@ -23426,7 +23426,7 @@
       <letterDesc ref="1169">
         <autopsic value="1162" />
         <date value="Münster, 16.–18. Mai 1788" />
-        <sort value="1788-05-16" order="200" />
+        <sort value="1788-05-16" order="200" from="1788-05-16" to="1788-05-18" />
         <location ref="39" />
         <senders>
           <sender ref="1" />
@@ -23466,7 +23466,7 @@
       <letterDesc ref="1171">
         <autopsic value="1164" />
         <date value="Münster, 22.–24. Mai 1788" />
-        <sort value="1788-05-22" />
+        <sort value="1788-05-22" from="1788-05-22" to="1788-05-24" />
         <location ref="39" />
         <senders>
           <sender ref="1" />
@@ -23526,7 +23526,7 @@
       <letterDesc ref="1174">
         <autopsic value="1167" />
         <date value="Münster, 30.–31. Mai 1788" />
-        <sort value="1788-05-30" />
+        <sort value="1788-05-30" from="1788-05-30" to="1788-05-31" />
         <location ref="39" />
         <senders>
           <sender ref="1" />
@@ -23566,7 +23566,7 @@
       <letterDesc ref="1176">
         <autopsic value="1169" />
         <date value="Münster, 1.–2. Juni 1788" />
-        <sort value="1788-06-01" />
+        <sort value="1788-06-01" from="1788-06-01" to="1788-06-02" />
         <location ref="39" />
         <senders>
           <sender ref="1" />
@@ -23646,7 +23646,7 @@
       <letterDesc ref="1180">
         <autopsic value="1173" />
         <date value="14.–15. Juni 1788" />
-        <sort value="1788-06-14" />
+        <sort value="1788-06-14" from="1788-06-14" to="1788-06-15" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
@@ -23946,7 +23946,7 @@
   	  	      <letterDesc ref="1197">
 	        <autopsic value="990a" />
 	        <date value="Königsberg, vor 7. Juli 1786" />
-	        <sort value="1786-7-7" />
+	        <sort value="1786-07-07" notAfter="1786-07-07"/>
 	        <location ref="2" />
 	    <senders>
           <sender ref="1" />
