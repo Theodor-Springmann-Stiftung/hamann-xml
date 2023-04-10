@@ -181,6 +181,16 @@ A
 </subsection>
 </kommentar>
 
+<kommentar id="andersen-jp" type="neuzeit">
+<lemma>Johannes Peder Anchersen </lemma>
+<eintrag>1700–1765. Dän. klassischer Philologe und Althistoriker.</eintrag>
+<subsection id="anchersen-horaz" type="neuzeit">
+<lemma>Anchersen, <titel>Horatii Carmina sæcularia</titel></lemma>
+<eintrag><titel>Horatii Carmina sæcularia ad laudem Phoebi &#x26; Dianæ dicta, ex antiquissima recensione Sidonii nunc primum edita, argumentis &#x26; nova paraphrasi collustrata, Autore Joanne Petro Anchersen</titel> (13 Bde., Kopenhagen 1749–1760).
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="apelles" type="neuzeit">
 <lemma>Apelles von Kolophon</lemma>
 <eintrag>4. Jahrhundert v.&#x202f;Chr. Griech. Maler.</eintrag>
@@ -371,6 +381,17 @@ In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202f;2, S.&#x202f;177�
 </subsection>
 </kommentar>
 
+<kommentar id="askew" type="neuzeit">
+<lemma>Anthony Askew</lemma>
+<eintrag>1722&#x2013;1774. Engl. Büchersammler, Philologe und Arzt.</eintrag>
+<subsection id="askew-specimen" type="neuzeit" sort="10">
+<lemma>Askew, <titel>Novae Editionis Tragoediarum Aeschyli Specimen</titel></lemma>
+<eintrag>
+<titel>Novae Editionis Tragoediarum Aeschyli Specimen, curante Antonio Askew (Leyden 1746)</titel>
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="asop" type="neuzeit">
 <lemma>Äsop</lemma>
 <eintrag>6. Jhd.&#x202F;v.&#x202F;Chr.</eintrag>
@@ -469,6 +490,11 @@ B
 Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Francis Bacon, Essays oder praktische und moralische Ratschläge</titel> (Ditzingen 2005).<line type="break"/>
 <titel>Sermones fideles, ethici, politici, oeconomici: sive interiora rerum</titel> (Leiden 1644) [Biga&#x202F;129/450: „Fr. Baconis de Verulamio Sermones fidelibus, Amst. 683“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="bachmann" type="neuzeit">
+<lemma>Heinrich Wilhelm Bachmann d. J.</lemma>
+<eintrag>1737&#x2013;1776. Sohn eines Magdeburger Tuchhändlers, Mitbegründer der Magdeburger Mittwochsgesellschaft, Freund <link ref="gleim" linktext="false">Gleims</link> und Unterstützer von <link ref="karsch" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="baglivi" type="neuzeit">
@@ -670,7 +696,7 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 <titel>Pensées sur le commerce</titel> (Leipzig 1753).</eintrag>
 </subsection>
 <subsection id="beaumont-finances" type="neuzeit" sort="20">
-<lemma>Beaumont, <titel>Histoire Generale des Finances</titel></lemma>
+<lemma>Beaumont, <titel>Memoires pour servir à l’Histoire Generale des Finances</titel></lemma>
 <eintrag>
 <titel>Memoires pour servir à l’Histoire Generale des Finances</titel> (Amsterdam 1760) [Biga&#x202F;88/218: „Memoires pour servir à l’Histoire Generale des Finances par Deon de Beaumont, Tom. I. II. Amst. 760“].</eintrag>
 </subsection>
@@ -834,6 +860,12 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 </eintrag>
 </kommentar>
 
+<kommentar id="berens-em-z" type="neuzeit">
+<lemma>Eva Maria Berens, geb. Zuckerbecker</lemma>
+<eintrag>1725&#x2013;1792. Frau von <link ref="berens-a" linktext="true"/>.
+</eintrag>
+</kommentar>
+
 <kommentar id="bergmann" type="neuzeit">
 <lemma>Christian Gottlieb Bergmann</lemma>
 <eintrag>1734&#x2013;1822. Jurist, Beamter in Zittau, Übersetzer von <link ref="bolinbroke" subref="bolinbroke-history" linktext="true"/>.
@@ -973,6 +1005,25 @@ Hamanns Notiz dazu N&#x00A0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Monta
 </subsection>
 </kommentar>
 
+<kommentar id="bion" type="neuzeit">
+<lemma>Bion von Smyrna</lemma>
+<eintrag>Griechischer Bukoliendichter, um 100&#x202F;v.&#x202F;Chr.<line type="break"/>
+<subsection id="bion-schwebel" type="neuzeit" sort="10">
+<lemma><titel>Bionis et Moschi Idyllia ed. Schwebel</titel></lemma>
+<eintrag><titel>ΒΙΟΝΟΣ ΚΑΙ ΜΟΣΧΟΥ Bionis et Moschi Idyllia.</titel> Ex recensione Nicolai Schwebelii Norimbergensis, cum eiusdem animadversionibus (Venedig 1746) [Biga 14/214: „Bionis &#x26; Moschi Idyllia gr. &#x26; lat. ex ed. Nic. Schwebelii, Ven. 746“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10232693-3">BSB München: A.gr.a. 573</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="bion-schier" type="neuzeit" sort="20">
+<lemma><titel>Bionis et Moschi Idyllia ed. Schier</titel></lemma>
+<eintrag><titel>ΒΙΟΝΟΣ ΚΑΙ ΜΟΣΧΟΥ Bionis et Moschi Idyllia</titel> cum metaphrasi latina et notis integris […] recensvit M. Iohann Adam Schier (Leipzig 1752). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10232694-9">BSB München: A.gr.a. 574</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="bion-kütner" type="neuzeit" sort="30">
+<lemma><titel>Idyllen des Theokrit, Bion, Moschus und Koluthus</titel></lemma>
+<eintrag><titel>Idyllen des Theokrit, Bion, Moschus und Koluthus. Aus dem Griechischen von Karl August Kütner</titel> (Mietau, Leipzig: Hinz 1772) [Biga&#x202F;161/524: „Idyllen des Theokrit, Bion, Moschus und Koluthus von Küttner, Mit. 772.“].</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="biron" type="neuzeit">
 <lemma>Ernst Johann von Biron</lemma>
 <eintrag>1690&#x2013;1772. Reichsgraf (seit 1730), seit 1737 Herzog von Kurland und Semgallen, Sekretär der Herzoginwitwe von Kurland, Anna Iwanowna, die 1730 Kaiserin von Russland wurde und B. als Oberkammerherrn die Regierung überließ. 1740 gestürzt und nach Sibirien verbannt, 1763 von <link ref="katharina" linktext="false">Katharina II.</link> wieder als Herzog eingesetzt. Siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118685325.html#adbcontent">Winkelmann, Eduard: Biron, Ernst Johann Reichsgraf von, in: <titel>ADB</titel>&#x202F;6 (1877), S.&#x202F;286&#x2013;291</wwwlink>.
@@ -1100,6 +1151,12 @@ Hamanns Notiz dazu N&#x00A0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Monta
 <kommentar id="bodmer" type="neuzeit">
 <lemma>Johann Jakob Bodmer</lemma>
 <eintrag>1698&#x2013;1783. Schweizer Philologe, Übersetzer in Zürich. <wwwlink address="https://www.deutsche-biographie.de/pnd118512315.html#adbcontent">Mörikofer: Bodmer, Johann Jakob, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;19&#x2013;23</wwwlink>.</eintrag>
+<subsection id="bodmer-nachrichten" type="neuzeit" sort="5">
+<lemma>Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern</titel></lemma>
+<eintrag>
+Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur Gelehrtheit gehörigen Sachen</titel> (20 Bde., Zürich: Heidegger 1744–1763). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN556102126">SUB Göttingen</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="bodmer-pygmalion" type="neuzeit" sort="10">
 <lemma>Bodmer, <titel>Pygmalion und Elise</titel></lemma>
 <eintrag>
@@ -2014,7 +2071,7 @@ Dt. Übers. zitiert nach: Laila Straume-Zimmermann, Ferdinand Broemser u. Olof G
 <subsection id="cic-fam" type="neuzeit" sort="140">
 <lemma>Cic. <titel>fam.</titel></lemma>
 <eintrag>An seine Freunde , lat. Epistulae ad familiares<line type="break"/>
-Dt. Übers. zitiert nach: Helmut Kasten (Hrsg.), <titel>An seine Freunde / Epistulae ad familiares. Lateinisch - Deutsch</titel> (Düsseldorf, Zürich 2011).
+Dt. Übers. zitiert nach: Helmut Kasten (Hg.), <titel>An seine Freunde / Epistulae ad familiares. Lateinisch - Deutsch</titel> (Düsseldorf, Zürich 2011).
 </eintrag>
 </subsection>
 </kommentar>
@@ -3526,6 +3583,17 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 </subsection>
 </kommentar>
 
+<kommentar id="fuessli" type="neuzeit">
+<lemma>Johann Konrad Füßli</lemma>
+<eintrag>1704&#x2013;1775. Schweizer Pfarrer und Schriftsteller.</eintrag>
+<subsection id="fuessli-anzeigen" type="neuzeit">
+<lemma>Füßli (Hg.), <titel>Wöchentliche Anzeigen</titel></lemma>
+<eintrag>
+Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wissenschaften und Künste</titel> (Zürich 1764–1766). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN556102800">SUB Göttingen</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="funck" type="neuzeit">
 <lemma>Johann Daniel Funck</lemma>
 <eintrag>1721&#x2013;1764. Professor beider Rechte, Privatdozent an der Universität Königsberg.</eintrag>
@@ -4828,7 +4896,12 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;291&#x2013
 <kommentar id="herder" type="neuzeit">
 <lemma>Johann Gottfried Herder</lemma>
 <eintrag>1744&#x2013;1803. Literaturtheoretiker und Dichter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz31807.html#adbcontent">Haym, Rudolf: Herder, Johann Gottfried, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;55&#x2013;100</wwwlink>. <line type="break"/>
-Wiss. Ausg.: Johann Gottfried Herder, <titel>Werke</titel>, 10 Bde., hg.&#x00A0;v. Ulrich Gaier (Frankfurt a.M. 1985–2000).
+Wiss. Ausg. d. Werke: Johann Gottfried Herder, <titel>Werke</titel>, 10 Bde., hg.&#x00A0;v. Ulrich Gaier (Frankfurt a.&#x202F;M. 1985–2000).<line type="break" />
+Briefe:<line type="break" />
+Von Herder: Johann Gottfried Herder: <titel>Briefe</titel>, Gesamtausgabe 1763–1803, 18 Bde., hg.&#x00A0;v. der Stiftung Weimarer Klassik (Goethe- und Schiller-Archiv) (Weimar 1977–2016).<line type="break" />
+An Herder:<line type="break" />
+Johann Gottfried von Herder’s Lebensbild, 6 Bde. (Erlangen 1846).<line type="break" />
+Von und an Herder, 3 Bde. (Leipzig 1861–1862).
 </eintrag>
 <subsection id="herder-cyrus" type="neuzeit" sort="10">
 <lemma>Herder, <titel>Gesang an den Cyrus</titel></lemma>
@@ -4858,6 +4931,15 @@ Wiss. Ausg.: Johann Gottfried Herder, <titel>Werke</titel>, 10 Bde., hg.&#x00A0;
 <lemma>Herder, <titel>Philosophie zum Besten des Volkes</titel></lemma>
 <eintrag>
 <titel>Wie die Philosophie zum Besten des Volkes allgemeiner und nützlicher werden kann</titel> (unveröffentlicht, 1765); Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;101–134. 
+</eintrag>
+</subsection>
+<subsection id="herder-fragmente" type="neuzeit" sort="40">
+<lemma>Herder, <titel>Fragmente über die neuere Deutsche Literatur</titel></lemma>
+<eintrag>
+1. Sammlung: <titel>Ueber die neuere Deutsche Litteratur.</titel> Erste Sammlung von Fragmenten. Eine Beilage zu den Briefen, die neueste Litteratur betreffend ([Riga: Hartknoch] 1767 [1766]) [Biga 162/531: „Fragmente über die neuere deutsche Litteratur, Saml. I. II. III. 767. Donum AVCTORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733673-6">BSB München: H.lit.p. 223-1/3</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;161–259.<line type="break" />
+2. Sammlung: <titel>Ueber die neuere Deutsche Litteratur.</titel> Zwote Sammlung von Fragmenten. Eine Beilage zu den Briefen, die neueste Litteratur betreffend ([Riga: Hartknoch] 1767 [1766]) [Biga 162/531: „Fragmente über die neuere deutsche Litteratur, Saml. I. II. III. 767. Donum AVCTORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733674-1">BSB München: H.lit.p. 223-1/3</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;261–365.<line type="break" />
+3. Sammlung: <titel>Ueber die neuere Deutsche Litteratur.</titel> Fragmente, als Beilagen zu den Briefen, die neueste Litteratur betreffend. Dritte Sammlung. (Riga: Hartknoch 1767) [Biga 162/531: „Fragmente über die neuere deutsche Litteratur, Saml. I. II. III. 767. Donum AVCTORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733675-6">BSB München: H.lit.p. 223-1/3</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;367–539.<line type="break" />
+1. Sammlung, Zweite Auflage: <titel>Ueber die neuere Deutsche Litteratur.</titel> Fragmente. Erste Sammlung. Zweite völlig umgearbeitete Ausgabe (Riga: Hartknoch 1768). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733676-2">BSB München: H.lit.p. 223 a-1</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;541–649.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6841,7 +6923,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 
 <kommentar id="link-i" type="neuzeit">
 <lemma>Immanuel Link</lemma>
-<eintrag>Mitglied der <link ref="konigliche-d-g" linktext="false">Kngl. Deutschen Gesellschaft</link> in Königsberg.</eintrag>
+<eintrag>Mitglied der <link ref="konigliche-d-g" linktext="false">Königlichen Deutschen Gesellschaft</link> in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="livius" type="neuzeit">
@@ -6866,6 +6948,16 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <eintrag>
 <titel>Lettres Moscovites</titel> (Paris 1736).<line type="break"/>
 Übers.: <titel>Die so genannte Moscowitische Brieffe, oder die, wider die löbliche rußische Nation von einem aus der andern Welt zurück gekommenen Italiaener ausgesprengte abendtheurliche Verläumdungen und Tausend-Lügen aus dem Französischen übersetzt, mit einem zulänglichen Register versehen, und dem Brieffsteller so wohl, als seinen gleichgesinnten Freunden, mit dienlichen Erinnerungen wieder heimgeschickt von einem Teutschen</titel> (Frankfurt 1738).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="locher" type="neuzeit">
+<lemma>Jakob Locher</lemma>
+<eintrag>1471–1528. Humanistischer Dramatiker und Philologe in Ingolstadt.</eintrag>
+<subsection id="locher-horaz" type="neuzeit">
+<lemma>Locher, <titel>Horaz (1498)</titel></lemma>
+<eintrag>
+<titel>Horatij flacci Venusini. Poete lirici opera cu[m] quibusdam Annotat[i]o[n]ib[us]. Imaginibusq[ue] pulcherrimis. aptisq[ue] ad Odaru[m] conce[n]tus [et] sente[n]tias</titel> (Argentina: Grüninger, 1498). Digitalisat: <wwwlink address="http://diglib.hab.de/inkunabeln/21-1-poet-2f-1/start.htm">Wolfenbütteler Digitale Bibliothek: inkunabeln/21-1-poet-2f-1</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -7996,9 +8088,22 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 
 <kommentar id="moschus" type="neuzeit">
 <lemma>Moschus</lemma>
-<eintrag>Moschus Syracusanus. 2. Jhd.&#x202F;v.&#x202F;Chr.<line type="break"/>
+<eintrag>Moschus Syracusanus. Griechischer Bukoliendichter und Grammatiker, 2. Jhd.&#x202F;v.&#x202F;Chr.<line type="break"/>
 Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.<line type="break"/>
-<titel>Idyllen des Theokrit, Bion, Moschus und Koluthus. Aus dem Griechischen von Karl August Kütner</titel> (Mietau, Leipzig: Hinz 1772) [Biga&#x202F;161/524: „Idyllen des Theokrit, Bion, Moschus und Koluthus von Küttner, Mit. 772.“].</eintrag>
+<subsection id="moschus-schwebel" type="neuzeit" sort="10">
+<lemma><titel>Bionis et Moschi Idyllia ed. Schwebel</titel></lemma>
+<eintrag><titel>ΒΙΟΝΟΣ ΚΑΙ ΜΟΣΧΟΥ Bionis et Moschi Idyllia.</titel> Ex recensione Nicolai Schwebelii Norimbergensis, cum eiusdem animadversionibus (Venedig 1746) [Biga 14/214: „Bionis &#x26; Moschi Idyllia gr. &#x26; lat. ex ed. Nic. Schwebelii, Ven. 746“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10232693-3">BSB München: A.gr.a. 573</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="moschus-schier" type="neuzeit" sort="20">
+<lemma><titel>Bionis et Moschi Idyllia ed. Schier</titel></lemma>
+<eintrag><titel>ΒΙΟΝΟΣ ΚΑΙ ΜΟΣΧΟΥ Bionis et Moschi Idyllia</titel> cum metaphrasi latina et notis integris […] recensvit M. Iohann Adam Schier (Leipzig 1752). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10232694-9">BSB München: A.gr.a. 574</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="moschus-kütner" type="neuzeit" sort="30">
+<lemma><titel>Idyllen des Theokrit, Bion, Moschus und Koluthus</titel></lemma>
+<eintrag><titel>Idyllen des Theokrit, Bion, Moschus und Koluthus. Aus dem Griechischen von Karl August Kütner</titel> (Mietau, Leipzig: Hinz 1772) [Biga&#x202F;161/524: „Idyllen des Theokrit, Bion, Moschus und Koluthus von Küttner, Mit. 772.“].</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="mosellanus" type="neuzeit">
@@ -9669,6 +9774,13 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
  </eintrag>
 </kommentar>
 
+
+<kommentar id="sanadon" type="neuzeit">
+<lemma>Noël-Étienne Sanadon</lemma>
+<eintrag>1676–1733. Frz. Jesuit und Horaz-Übersetzer
+ </eintrag>
+</kommentar>
+
 <kommentar id="sanctius" type="neuzeit">
 <lemma>Franciscus Sanctius</lemma>
 <eintrag>Francisco Sánchez de las Brozas, 1523–1601. Spanischer Philologe.</eintrag>
@@ -10324,6 +10436,13 @@ Hamann hat daraus Teile aus zwei Kapiteln übersetzt: „A Letter concerning Ent
 </subsection>
 </kommentar>
 
+<kommentar id="sidonius" type="neuzeit">
+<lemma>Sidonius Apollinaris</lemma>
+<eintrag>431/432 bis nach 479. Gallorömischer Dichter, Politiker und Bischof.<line type="break" />
+Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Christianvs Lvetjohann (Monumenta Germaniae Historica XIII, Berlin 1887). Digitalisat: <wwwlink address="https://www.dmgh.de/mgh_auct_ant_8/">MGH Digital, XIII</wwwlink>
+</eintrag>
+</kommentar>
+
 <kommentar id="siebert-mf" type="neuzeit">
 <lemma>Martin Friedrich Siebert</lemma>
 <eintrag>Pfarrer, Schwager von <link ref="lindner-jg" linktext="true"/>.
@@ -10774,6 +10893,12 @@ http://resolver.staatsbibliothek-berlin.de/SBB000051A300000000">SBB-PK Berlin Bi
 <lemma>Swedenborg, <titel>Opera philosophica et mineralia</titel></lemma>
 <eintrag>
 <titel>Opera philosophica et mineralia</titel> (3&#x00A0;Bde; Dresden, Leipzig: Friderich Hekel 1734).
+</eintrag>
+</subsection>
+<subsection id="swedenborg-cultuetamoredei" type="neuzeit" sort="20">
+<lemma>Swedenborg, <titel>Pars Prima de Cultu et Amore Dei</titel></lemma>
+<eintrag>
+<titel>Pars Prima de Cultu et Amore Dei; Ubi Agitur de Telluris Ortu, Paradiso, et Vivario, Tum de Primogeniti seu Adami Nativitate, Infantia, et Amore</titel> [Über die Anbetung und Liebe Gottes. Teil1: Darin ist vom Ursprung der Erde, vom Paradies und vom Garten die Rede, ferner von der Geburt des Erstgeborenen oder Adams, seiner Kindheit und Liebe] (London 1745).
 </eintrag>
 </subsection>
 </kommentar>
@@ -11391,6 +11516,11 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
 <eintrag>
 <titel>Sentimens des Catholiques de France, sur le Memoire au sujet des Mariages clandestins des Protestans</titel> (1756).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="vives" type="neuzeit">
+<lemma>Johannes Ludwig Vives</lemma>
+<eintrag>1492&#x2013;1540. Span. Humanist.</eintrag>
 </kommentar>
 
 <kommentar id="vivonne" type="neuzeit">
@@ -12218,6 +12348,11 @@ Z
 <kommentar id="zoepfel" type="neuzeit">
 <lemma>Zöpfel</lemma>
 <eintrag>Mit den Hamanns befreundete Familie. Magdalene Dorothee Zöpfel (Lebensdaten nicht bekannt) war Frau von <link ref="nuppenau-hl" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="zosimos" type="neuzeit">
+<lemma>Zosimos</lemma>
+<eintrag>Spätantiker paganer Geschichtsschreiber, verfasste um 500 n. Chr. die Historia nea</eintrag>
 </kommentar>
 
 <kommentar id="zwingli" type="neuzeit">
