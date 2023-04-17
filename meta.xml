@@ -6346,7 +6346,7 @@
       </letterDesc>
       <letterDesc ref="316">
         <autopsic value="316" />
-        <date value="Riga, Februar 1766" />
+        <date value="Riga, Ende Februar 1766" />
         <sort value="1766-02-22" notBefore="1766-02-01" notAfter="1766-02-28" />
         <location ref="6" />
         <senders>
@@ -6386,8 +6386,8 @@
       </letterDesc>
       <letterDesc ref="318">
         <autopsic value="318" />
-        <date value="Riga, März 1766" />
-        <sort value="1766-03-05" notBefore="1766-03-01" notAfter="1766-03-31" />
+        <date value="Riga, Mitte März 1766" />
+        <sort value="1766-03-05" notBefore="1766-03-10" notAfter="1766-03-20" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -6426,8 +6426,8 @@
       </letterDesc>
       <letterDesc ref="320">
         <autopsic value="320" />
-        <date value="Riga, März 1766" />
-        <sort value="1766-03-07" notBefore="1766-03-01" notAfter="1766-03-31"  />
+        <date value="Riga, vor 24. März 1766" />
+        <sort value="1766-03-07" notAfter="1766-03-24"  />
         <location ref="6" />
         <senders>
           <sender ref="41" />
