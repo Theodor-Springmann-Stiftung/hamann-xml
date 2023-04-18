@@ -2115,6 +2115,18 @@ Dt. Übers. zitiert nach: Helmut Kasten (Hg.), <titel>An seine Freunde / Epistul
 </subsection>
 </kommentar>
 
+<kommentar id="clerc" type="neuzeit">
+<lemma>Jean le Clerc</lemma>
+<eintrag>1657&#x2013;1736. Genfer Theologe und Philologe.
+</eintrag>
+<subsection id="clerc-bibuniverselle" type="neuzeit" sort="10">
+<lemma>Jean le Clerc (Hg., u.a.), <titel>Bibliothèque universelle</titel></lemma>
+<eintrag>
+<titel>Bibliothèque universelle et historique de l’année 1686–1693</titel> (26 Bde., Amsterdam 1686–1693).
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="cleveland" type="neuzeit">
 <lemma>John Cleveland</lemma>
 <eintrag>1613&#x2013;1658. engl. Jurist und Schriftsteller, siehe <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-5635">Cousins, A.D.: Cleveland, John, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -7828,6 +7840,13 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <kommentar id="meurer" type="neuzeit">
 <lemma>Christian Meurer</lemma>
 <eintrag>1558–1616. Prof. der Mathematik und Arzt in Leipzig. Herausgeber von <link ref="psellos" subref="psellos-arithmetik" linktext="true" /> und <link ref="archimedes" subref="archimedes-circuli" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="meursius" type="neuzeit">
+<lemma>Johannes Meursius (Jan de Meurs)</lemma>
+<eintrag>1579–1639. Niederländischer klassischer Philologe, vor allem Gräzist.<line type="break" />
+<titel>Meursii Opera Omnia,</titel> quorum qaedam in hac editione primum parent. Ex recensione et cum scholiis J. Lamii (12 Bde., Florenz 1741–1763)
 </eintrag>
 </kommentar>
 
