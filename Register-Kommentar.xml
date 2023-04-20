@@ -78,6 +78,17 @@ A
 </eintrag>
 </kommentar>
 
+<kommentar id="aelian" type="neuzeit">
+<lemma>Claudius Aelianus</lemma>
+<eintrag>ca. 170 – nach 222. Röm. Schriftsteller in griech. Sprache
+</eintrag>
+<subsection id="aelian-varhist" type="neuzeit">
+<lemma>Aelianus, <titel>Varia historia</titel></lemma>
+<eintrag>
+<titel>Κλ. Αιλιανος ποικιλης ιστοριας / Cl. Æliani variæ historiæ</titel> libri VIX. cum notis Johannis Schefferi &#x26; interpretatione Justi Vulteii. Edition Novißima […] curante Joachimo Kühnio (Argentorati: Spoor &#x26; Wächtler 1685) [Biga&#x202F;7/111: „Aeliani variae Historiae Lib. XIV. gr. &#x26; lat. ex ed. Kuhnii, Arg. 685“ und Biga&#x202F;16/252: „Aeliani variae Historiae gr. &#x26; lat. Lugd. 587“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11088701-4">BSB München: 999/Class. 386</wwwlink></eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="aepinus" type="neuzeit">
 <lemma>Angelius Johannes Daniel Aepinus</lemma>
 <eintrag>1718&#x2013;1784. Prof. der Rhetorik in Rostock, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz428.html">Deutsche Biographie</wwwlink></eintrag>
@@ -6307,6 +6318,18 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 </subsection>
 </kommentar>
 
+<kommentar id="kretzschmar" type="neuzeit">
+<lemma>Christoph Kretzschmar</lemma>
+<eintrag>Rektor der Kreuzschule in Dresden
+</eintrag>
+<subsection id="kretzschmar-aeliani" type="neuzeit" sort="10">
+<lemma>Kretzschmar, <titel>Aeliani variam historiam</titel></lemma>
+<eintrag>
+<titel>Aeliani operum tomvs I. variam historiam</titel> continens editio accvratior atqve scholarvm vsibvs accomodata. Praefatus est et indices vocvm svbiecit M. Christoph. Kretzschmar, cruciani Dresd. Conr. (Dresden und Leipzig: Hekel 1746). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10234464-7">BSB München: A.gr.b. 55</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="krickende" type="neuzeit">
 <lemma>Samuel Krickende</lemma>
 <eintrag>1736&#x2013;1797. Hauslehrer in Berlin bei <link ref="sussmilch" linktext="true" />, 1765 Feldprediger in Schlesien, später Pastor zu Tschöplowitz.</eintrag>
@@ -10684,7 +10707,8 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <subsection id="spence-polymetis" type="neuzeit" sort="5">
 <lemma>Spence, <titel>Polymetis</titel></lemma>
 <eintrag>
-<titel>Polymetis:</titel> or, an enquiry concerning the agreement between the works of the Roman poets, and the remains of the antient artists. Being an attempt to illustrate them mutually from one another. In ten books. By the Revd. Mr. Spence (London 1747).</eintrag>
+<titel>Polymetis:</titel> or, an enquiry concerning the agreement between the works of the Roman poets, and the remains of the antient artists. Being an attempt to illustrate them mutually from one another. In ten books. By the Revd. Mr. Spence (London 1747). Digitalisat, 2. Auflage 1755: <wwwlink address="https://play.google.com/store/books/details?id=5RodvfecrzIC&rdid">Google Books</wwwlink>.
+</eintrag>
 </subsection>
 <subsection id="spence-crito" type="neuzeit" sort="10">
 <lemma>Spence, <titel>Académie des Graces</titel></lemma>
@@ -10798,6 +10822,11 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <lemma>Stender, <titel>Neue vollständigere lettische Grammatik</titel></lemma>
 <eintrag>
 <titel>Neue vollständigere lettische Grammatik nebst einem hinlänglichen Lexikon, wie auch einigen Gedichten</titel> (Braunschweig 1761).</eintrag>.
+</subsection>
+<subsection id="stender-dreyfaltigkeit" type="neuzeit" sort="20">
+<lemma>Stender, <titel>Schrift- und vernunftmäßige Erläuterung der Lehre von der heiligen Dreyfaltigkeit.</titel></lemma>
+<eintrag>
+<titel>Schrift- und vernunftmäßige Erläuterung der Lehre von der heiligen Dreyfaltigkeit</titel> (1766).</eintrag>.
 </subsection>
 </kommentar>
 
