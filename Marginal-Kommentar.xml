@@ -11888,6 +11888,10 @@ Zeus verwandelt sich in goldenen Regen, um Danaë zu erreichen, die Tochter Akri
 <bzg>Eingeweide</bzg> griech. σπλαγχνα οικτιρμου: Eingeweide des Erbarmens, bei Luther übers. als herzliches Erbarmen, <link ref="nt-kol" subref="nt-kol3" linktext="false">Kol 3,12</link>, <link ref="nt-lk" subref="nt-lk1" linktext="false">Lk 1,78</link>, <link ref="nt-kor2" subref="nt-kor2-7" linktext="false">2 Kor 7,15</link>
 </marginal>
 
+<marginal index="9527" letter="148" page="352" line="17">
+<link ref="at-ps" subref="at-ps106" linktext="false">Ps 106,20</link>
+</marginal>
+
 <marginal index="2519" letter="148" page="352" line="18">
 <bzg>Lügengeist</bzg> <link ref="at-koe1" subref="at-koe1-22" linktext="false">1 Kön 22,22</link>, <link ref="at-chr2" subref="at-chr2-18" linktext="false">2 Chr 18,21</link>
 </marginal>
@@ -32270,7 +32274,7 @@ Brief Nr. 267
 </marginal>
 
 <marginal index="8202" letter="267" page="257" line="20">
-<bzg>HE. Roeck</bzg> Ludwig Philipp Roeck (1724–1796), Kaufmann in Lübeck
+<bzg>HE. Roeck</bzg> <link ref="roeck-hh" linktext="true"/>
 </marginal>
 
 <marginal index="8203" letter="267" page="257" line="21">
@@ -32421,11 +32425,11 @@ Brief Nr. 270
 </marginal>
 
 <marginal index="8239" letter="270" page="261" line="9">
-<bzg>HE Roeck</bzg> Ludwig Philipp Roeck (1724–1796), Kaufmann in Lübeck
+<bzg>HE Roeck</bzg> <link ref="roeck-hh" linktext="true"/>
 </marginal>
 
 <marginal index="8240" letter="270" page="261" line="10">
-<bzg>Vater</bzg> nicht ermittelt 
+<bzg>Vater</bzg> <link ref="roeck-lp" linktext="true"/>
 </marginal>
 
 <marginal index="8241" letter="270" page="261" line="17">
@@ -37024,7 +37028,7 @@ Brief Nr. 313
 
 
 
-Indexnummer für Briefe bis 313: weitermachen mit 9527
+Indexnummer für Briefe bis 313: weitermachen mit 9528
 Indexnummer für 314–368a:
 314–342 (Luca): 10000
 343–368a (Gregor): 11000
