@@ -6106,6 +6106,11 @@ Vorabdruck als Teilübersetzung in: <link ref="neues-gem-mag" linktext="true" />
 </subsection>
 </kommentar>
 
+<kommentar id="klopmann" type="neuzeit">
+<lemma>Johann Ernst von Klopmann</lemma>
+<eintrag>1725&#x2013;1786. Kanzler in Mitau, siehe <wwwlink address="https://bbld.de/GND118026407X">Johann Ernst von Klopmann, in: <titel>BBLD</titel></wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="klopstock" type="neuzeit">
 <lemma>Friedrich Gottlieb Klopstock</lemma>
 <eintrag>1724&#x2013;1803. <wwwlink address="https://www.deutsche-biographie.de/pnd118563386.html#adbcontent">Redlich: Klopstock, Friedrich Gottlieb, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;211&#x2013;226</wwwlink>.<line type="break"/>
@@ -10834,9 +10839,15 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <titel>Neue vollständigere lettische Grammatik nebst einem hinlänglichen Lexikon, wie auch einigen Gedichten</titel> (Braunschweig 1761).</eintrag>.
 </subsection>
 <subsection id="stender-dreyfaltigkeit" type="neuzeit" sort="20">
-<lemma>Stender, <titel>Schrift- und vernunftmäßige Erläuterung der Lehre von der heiligen Dreyfaltigkeit.</titel></lemma>
+<lemma>Stender, <titel>Erläuterung der Dreyfaltigkeit.</titel></lemma>
 <eintrag>
-<titel>Schrift- und vernunftmäßige Erläuterung der Lehre von der heiligen Dreyfaltigkeit</titel> (1766).</eintrag>.
+<titel>Schrift- und vernunftmäßige Erläuterung der Lehre von der heiligen Dreyfaltigkeit</titel> (Mitau 1766).</eintrag>
+</subsection>
+<subsection id="stender-fabeln" type="neuzeit" sort="30">
+<lemma>Stender, <titel>Fabeln</titel></lemma>
+<eintrag>
+<titel>Fabeln und Erzählungen zur Bildung des Witzes und der Sitten der Letten nach ihrer Denkungs- und Mundart abgefaßt von Gotthard friedrich Stender, Pastor und der Königlich-Deutschen Gesellschaft zu Göttingen ordentlichen Mitgliede</titel> (Mitau 1766). Vgl. zu dem Buch, mit einigen Textbeispielen, Anna Behrskaln: G. F. Stenders lettische Fabeln und Erzählungen, in: <wwwlink address="
+    https://nbn-resolving.org/urn:nbn:de:kobv:11-714783 ">Zeitschrift des Vereins für Volkskunde, Jg. 1923/24, 2. H., 95–103.</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -11016,6 +11027,12 @@ T
 <lemma>Tac. <titel>Hist.</titel></lemma>
 <eintrag>
 <titel>Historien</titel>, lat. <titel>historiae</titel>. Geschichte des römischen Reiches von Galba (69) bis Domitian (96).
+</eintrag>
+</subsection>
+<subsection id="tacitus-annales" type="neuzeit">
+<lemma>Tac. <titel>Ann.</titel></lemma>
+<eintrag>
+<titel>Annalen</titel>, lat. <titel>annales. Ab excessu divi Augusti</titel>. Geschichte des römischen Reiches vom Tod Augustus’ (14) bis zum Tod Neros (68).
 </eintrag>
 </subsection>
 </kommentar>
@@ -11250,7 +11267,7 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 
 <kommentar id="tottien-ca" type="neuzeit">
 <lemma>Christoph Anton Tottien</lemma>
-<eintrag>1721&#x2013;1790. Hofrat und Rentmeister in Mitau, Fiskal.</eintrag>
+<eintrag>1721&#x2013;1790. Hofrat, Fiskal und Rentmeister in Mitau, siehe <wwwlink address="https://bbld.de/0000000094544682">Christoph Anton Tottien, in: <titel>BBLD</titel></wwwlink>. </eintrag>
 </kommentar>
 
 <kommentar id="tottien-sg" type="neuzeit">
