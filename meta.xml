@@ -6546,8 +6546,8 @@
       </letterDesc>
       <letterDesc ref="326">
         <autopsic value="326" />
-        <date value="Riga, Mai 1766" />
-        <sort value="1766-05-16" notBefore="1766-05-01" notAfter="1766-05-31" />
+        <date value="Riga, Mitte Mai 1766" />
+        <sort value="1766-05-16" notBefore="1766-05-06" notAfter="1766-05-22" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
