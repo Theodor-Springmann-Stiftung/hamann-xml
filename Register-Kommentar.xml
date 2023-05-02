@@ -3687,6 +3687,12 @@ G
 </subsection>
 </kommentar>
 
+<kommentar id="gantner" type="neuzeit">
+<lemma>Anton Gantner (auch Gandner, Kantner)</lemma>
+<eintrag>1740–1795. Schauspieler u.a. in der Schönemannschen Truppe, 1766 in Riga.
+</eintrag>
+</kommentar>
+
 <kommentar id="garbe" type="neuzeit">
 <lemma>Johann Gottlieb Garbe</lemma>
 <eintrag>Gest. 1792, Buchhändler, Drucker und Verleger in Frankfurt a.&#x202F;M.</eintrag>
@@ -4999,6 +5005,12 @@ Von und an Herder, 3 Bde. (Leipzig 1861–1862).
 <lemma>Herder, <titel>Nachricht von einem neuen Erläuterer der H. Dreieinigkeit</titel></lemma>
 <eintrag>
 <titel>Nachricht von einem neuen Erläuterer der H. Dreieinigkeit</titel> (Riga: Hartknoch 1766); Herder, <titel>SWS</titel>, Bd.&#x202F;1, S.&#x202F;28–42. 
+</eintrag>
+</subsection>
+<subsection id="herder-frzbühne" type="neuzeit" sort="60">
+<lemma>Herder, <titel>Haben wir eine Französische Bühne?</titel></lemma>
+<eintrag>
+<titel>Haben wir eine Französische Bühne?</titel> (1766 für <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3. Sammlung handschriftlich verfasst, aber nicht aufgenommen); <titel>SWS</titel>, Bd.&#x202F;2, S.&#x202F;207–230.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6365,7 +6377,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <kommentar id="kruger-jc" type="neuzeit">
 <lemma>Johann Christian Krüger, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz46292.html">Deutsche Biographie</wwwlink></lemma>
 <eintrag>1723&#x2013;1750. Schauspieler und Theaterdichter der Schönemannschen Truppe in Hamburg.</eintrag>
-<subsection id="kruger-rhyn" type="neuzeit">
+<subsection id="kruger-candidaten" type="neuzeit">
 <lemma>Krüger, <titel>Die Candidaten</titel></lemma>
 <eintrag>
 <titel>Die Candidaten</titel> oder, die Mittel zu einem Amt zu gelangen. Ein Lustspiel in fünf Handlungen. Erstaufführung 1747 in Hamburg, zuerst gedruckt in J. F. Löwen (Hg.): Poetische und Theatralische Schriften (Leipzig 1763).
@@ -6743,7 +6755,13 @@ Die Verf. weisen nach, dass <link ref="pope" linktext="false">Popes</link> Dicht
 <subsection id="lessing-fabeln" type="neuzeit" sort="60">
 <lemma>Lessing, <titel>Fabeln</titel></lemma>
 <eintrag>
-<titel>Gotthold Ephraim Lessings Fabeln. Drey Bücher. Nebst Abhandlungen mit dieser Dichtungsart verwandten Inhalts</titel> (Berlin: Voß 1759). Digitalisat: <wwwlink address="http://www.deutschestextarchiv.de/book/show/lessing_fabeln_1759">HAB Wolfenbüttel: M: Lo 4487.1</wwwlink>. <line type="break"/>
+<titel>Gotthold Ephraim Lessings Fabeln. Drey Bücher. Nebst Abhandlungen mit dieser Dichtungsart verwandten Inhalts</titel> (Berlin: Voß 1759). Digitalisat: <wwwlink address="http://www.deutschestextarchiv.de/book/show/lessing_fabeln_1759">HAB Wolfenbüttel: M: Lo 4487.1</wwwlink>. 
+</eintrag>
+</subsection>
+<subsection id="lessing-laokoon" type="neuzeit" sort="70">
+<lemma>Lessing, <titel>Laokoon</titel></lemma>
+<eintrag>
+<titel>Laokoon</titel> oder über die Grenzen der Mahlerey und Poesie (Berlin: Voss 1766)
 </eintrag>
 </subsection>
 </kommentar>
@@ -7906,6 +7924,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <lemma>Messkatalog für Ostern 1765</lemma>
 <eintrag>
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1765 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1765). Siehe <wwwlink address="http://www.olmsonline.de/">Olms Online</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="messkatalog-ostern1766" type="neuzeit" sort="50">
+<lemma>Messkatalog für Ostern 1766</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1766 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1766). Siehe <wwwlink address="http://www.olmsonline.de/">Olms Online</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -10097,6 +10121,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>
 <titel>Canut. Ein Trauerspiel</titel> (Kopenhagen: Mumme 1748).<line type="break"/>
 <link ref="gellert-cf" linktext="true"/> geht auf dieses Stück in seiner Abhandlung <titel>Pro comoedia commovente</titel> (Leipzig 1751) ein als ein Beispiel für die vermischte Gattung von Komödien (S.&#x202F;316): „Diese hat der jüngst in Dennemark verstorbene Hr. Prof. Schlegel, ein Freund dessen Verlust ich nie genug betauren kann, und ein Dichter der eine ewige Zierde der dramatischen Dichtkunst seyn wird, vollkommen wohl eingesehen. Man sehe, was in den Anmerkungen zu der deutschen Uebersetzung der Schrift des <link ref="batteux" subref="batteux-grundsatz" linktext="false">Herrn Batteux, Les beaux Arts reduits à un même principe</link>, welche vor einiger Zeit in Leipzig herausgekommen, aus einer von seinen noch ungedruckten Abhandlungen, über diese Materie angeführet worden.“</eintrag>
+</subsection>
+<subsection id="schlegel-triumph" type="neuzeit" sort="30">
+<lemma>Schlegel, <titel>Der Triumph der guten Frauen</titel></lemma>
+<eintrag>
+<titel>Der Triumph der guten Frauen.</titel> Lustspiel in fünf Aufzügen (1747 entstanden, Erstdruck in Theatralische Werke, Kopenhagen 1747).</eintrag>
 </subsection>
 </kommentar>
 
