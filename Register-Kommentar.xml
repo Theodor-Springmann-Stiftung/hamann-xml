@@ -192,6 +192,11 @@ A
 </subsection>
 </kommentar>
 
+<kommentar id="andreae-j" type="neuzeit">
+<lemma>Jakob Andreae</lemma>
+<eintrag>1731–1814. Von 1759 bis 1769 Sekretär des Mitauischen Instanzgerichts, siehe <wwwlink address="https://pbc.gda.pl/Content/80758/H_3.pdf">Wilhelm Räder: <titel>Die Juristen Kurlands im 18. Jahrhundert</titel> (Posen 1942)</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="andersen-jp" type="neuzeit">
 <lemma>Johannes Peder Anchersen </lemma>
 <eintrag>1700–1765. Dän. klassischer Philologe und Althistoriker.</eintrag>
@@ -4297,7 +4302,7 @@ Auch in <titel>Moralische Gedichte</titel>, S.&#x202F;61&#x2013;86.
 
 <kommentar id="hagedorn-ch" type="neuzeit">
 <lemma>Christian Ludwig von Hagedorn</lemma>
-<eintrag>1712&#x2013;1780. Siehe: <wwwlink address="https://www.deutsche-biographie.de/sfz69979.html#adbcontent">Wessely: Hagedorn, Christian Ludwig von, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;325&#x2013;325</wwwlink>.
+<eintrag>1712&#x2013;1780, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz69979.html#adbcontent">Wessely: Hagedorn, Christian Ludwig von, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;325&#x2013;325</wwwlink>.
 </eintrag>
 <subsection id="hagedorn-ch-betrachtungen" type="neuzeit" sort="10">
 <lemma>Hagedorn, <titel>Betrachtungen über die Mahlerey</titel></lemma>
@@ -4309,7 +4314,8 @@ Auch in <titel>Moralische Gedichte</titel>, S.&#x202F;61&#x2013;86.
 
 <kommentar id="hagen" type="neuzeit">
 <lemma>Johann Philipp Hagen</lemma>
-<eintrag>1734&#x2013;1792. Arzt und Gynäkologe, 1765–1769 Leibarzt des Erbprinzen von Kurland
+<eintrag>1734&#x2013;1792. Arzt und Gynäkologe, 1765–1769 Leibarzt des Erbprinzen von Kurland, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116379294.html#adbcontent">Hecker, Karl von: Hagen, Johann Philipp, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;339&#x2013;340</wwwlink>.<line type="break" />
+Autobiographie: <wwwlink address="https://books.google.de/books?id=DKVTAAAAcAAJ&hl">Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner Kinderkrankheiten und Pharmakologie, Bd. 5 (Jena 1793).</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -4805,6 +4811,11 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;291&#x2013
 <kommentar id="hartknoch" type="neuzeit">
 <lemma>Johann Friedrich Hartknoch</lemma>
 <eintrag>1740&#x2013;1789. 1761 Lehrling von <link ref="kanter-jj" linktext="true" />, übernahm 1763 dessen Filiale in Mitau, Verleger in Riga, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz26177.html#adbcontent">Eckardt: Hartknoch, Johann Friedrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;667</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="hartknoch-ab" type="neuzeit">
+<lemma>Anna Benigna Hartknoch</lemma>
+<eintrag>Gest. 1771. Geb. Mehmel (aus Mitau), erste Frau <link ref="hartknoch" linktext="true"/>, sie heirateten 1767.</eintrag>
 </kommentar>
 
 <kommentar id="hartung-hj" type="neuzeit">
@@ -5471,6 +5482,12 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 Übers.: <titel>Geschichte von Grossbritannien. Aus dem Englischen des David Hume Esq.</titel>, übers. von <link ref="dusch" linktext="true" /> (4&#x00A0;Bde., Breslau und Leipzig: Johann Ernst Meyer 1762/71). Digitalisat, Bd.&#x202f;1: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11211786">SSB Augsburg: 4 Gs 1139-1</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hummius" type="neuzeit">
+<lemma>Karl Ferdinand Hummius</lemma>
+<eintrag>1757&#x2013;1788. Arzt und Bekannter Hamanns in Mitau, aus Preußen eingewandert.
+</eintrag>
 </kommentar>
 
 <kommentar id="hurd" type="neuzeit">
@@ -8728,7 +8745,7 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 
 <kommentar id="patz" type="neuzeit">
 <lemma>Christian Gottlieb Patz (auch Paz, Pazz)</lemma>
-<eintrag>1735&#x2013;1779. Student in Königsberg, später protestantischer Theologe und ab 1767 Prediger in Kurland.</eintrag>
+<eintrag>1735&#x2013;1779. Student in Königsberg, später protestantischer Theologe, 1766 Pastor vicarius in Mitau, ab 1767 Prediger in Kurland.</eintrag>
 </kommentar>
 
 <kommentar id="pausanias" type="neuzeit">
@@ -9748,6 +9765,11 @@ Außerdem kursierte eine Übers. der Kinderphysik als <titel>Carl Rollins Natur-
 <eintrag>
 <titel>Sonnets pour Hélène</titel> (1578).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="rosenberger" type="neuzeit">
+<lemma>Johann Friedrich Kasimir Rosenberger</lemma>
+<eintrag>1731&#x2013;1776. Ab 1758 Prediger an der St. Annen-Kirche in Mitau, siehe <wwwlink address="https://bbld.de/GND12059577X">Rosenberger, Johann Friedrich Kasimir, in: <titel>BBLD,</titel> S.&#x202F;651</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="rost-jc" type="neuzeit">
@@ -11370,7 +11392,7 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 
 <kommentar id="tottien-ca" type="neuzeit">
 <lemma>Christoph Anton Tottien</lemma>
-<eintrag>1721&#x2013;1790. Hofrat, Fiskal und Rentmeister in Mitau, siehe <wwwlink address="https://bbld.de/0000000094544682">Christoph Anton Tottien, in: <titel>BBLD</titel></wwwlink>. </eintrag>
+<eintrag>1721&#x2013;1790. Hofrat, Fiskal und Rentmeister in Mitau, siehe <wwwlink address="https://bbld.de/0000000094544682">Christoph Anton Tottien, in: <titel>BBLD,</titel> S.&#x202F;808</wwwlink>. </eintrag>
 </kommentar>
 
 <kommentar id="tottien-sg" type="neuzeit">
@@ -12263,6 +12285,12 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <lemma>Winckelmann, <titel>Geschichte der Kunst des Altertums</titel></lemma>
 <eintrag>
 <titel>Geschichte der Kunst des Altertums</titel> (Dresden: Walther 1764) [Biga&#x202F;131/13: „Winkelmann. Geschichte der Kunst des Alterthums, Dresd. 764“]. Digitalisat: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/winckelmann1764">UB Heidelberg: C 5012 A RES</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="winckelmann-allegorie" type="neuzeit" sort="50">
+<lemma>Winckelmann, <titel>Versuch einer Allegorie</titel></lemma>
+<eintrag>
+<titel>Versuch einer Allegorie<titel>, besonders für die Kunst (Dresden 1766).
 </eintrag>
 </subsection>
 </kommentar>
