@@ -2284,6 +2284,18 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“</eintrag>
 </eintrag>
 </subsection>
 </kommentar>
+Cordonnier, Hyacinth Chrysostomos Mathanasius (1684- 1746), frz. Schriftsteller
+Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, avec des remarques savantes et recherchés. La Haye 1714. 1716.
+
+<kommentar id="cordonnier" type="neuzeit">
+<lemma>Hyacinthe Cordonnier, genannt Thémiseul de Saint-Hyacinthe</lemma>
+<eintrag>1684&#x2013;1746. Frz. Schriftsteller.</eintrag>
+<subsection id="cordonnier-inconnue" type="neuzeit">
+<lemma>Anonym [Saint-Hyacinthe], <titel>Le chef-d’Œuvre d'un Inconnu</titel></lemma>
+<eintrag>
+<titel>Le chef-d’Œuvre d'un Inconnu,</titel> Poëme heureusement découvert &#x26; mis au jour, avec des Remarques savantes &#x26; recherchées, par M. le Docteur Chrisostome Matanasius (La Haye 1714). Digitalisat einer Ausgabe von 1745: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094350-4">BSB München: P.o.gall. 1403-1</wwwlink></eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="cornaro" type="neuzeit">
 <lemma>Luigi Cornaro</lemma>
@@ -5500,8 +5512,14 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 <titel>Letters on Chivalry and Romance</titel> (London 1762) [Biga&#x202F;167/609: „(Hurd’s) Letters on Chevalry and Romance, Lond. 762“]. Digitalisat: <wwwlink address="https://archive.org/details/lettersonchival00hurgoog/page/n7/mode/2up">Internet Archive</wwwlink>
 </eintrag>
 </subsection>
+<subsection id="hurd-reisen" type="neuzeit" sort="20">
+<lemma>Hurd, <titel>Vom Nutzen der Reisen</titel></lemma>
+<eintrag>
+<titel>Von dem Nutzen der Reisen in fremde Länder,</titel> in so fern dieselben als ein Stück der Erziehung vornehmer Jugend erwogen werden, zwischen dem Lord Shaftsbury und M. Johann Locken in einer Unterredung gehandelt. Aus dem Englischen übersetzt von C. H. Wilken (Breslau: Korn 1765). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0001C91B00000000">StaBi Berlin: Nd 541</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
-
+Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück Erziehung vornehmer Jugend erwogen werden. Zwischen dem Lord Shaftsbury und M. Joh. Locken in einer Unterredung gehandelt a. d. Engl. übers. von C. Wilkens. Breslau 1765.
 <kommentar id="hus" type="neuzeit">
 <lemma>Jan Hus</lemma>
 <eintrag>1370&#x2013;1415. Böhmischer Reformator.
