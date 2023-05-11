@@ -6376,7 +6376,8 @@ vll. <link ref="colli" subref="colli-causis" linktext="true"/>
 </marginal>
 
 <marginal index="8540" letter="76" page="197" line="16">
-<bzg>Kantens Dissertation</bzg> <link ref="kant-metaphysicae" linktext="true"/></marginal>
+<bzg>Kantens Dissertation</bzg> <link ref="kant" subref="kant-metaphysicae" linktext="true"/>
+</marginal>
 
 <marginal index="4222" letter="76" page="197" line="20">
 <link ref="buffon" subref="histoirenaturelle" linktext="true"/>
@@ -12893,7 +12894,7 @@ Von Klopstock sind darin gedruckt: <link ref="klopstock" subref="klopstock-julia
 </marginal>
 
 <marginal index="2751" letter="152" page="369" line="2">
-vll. mit Bezug auf diese Stelle: <link ref="klopstock" subref="klopstock-allgegen" linktext="true"/> (<link ref="cramer-nord" linktext="false"><titel>Der nordischer Aufseher</titel></link>, 44. St., S. 390): „Es giebt Gedanken, die beynahe nicht anders als poetisch ausgedrückt werden können; oder vielmehr, es ist der Natur gewisser Gegenstände so gemäß, sie poetisch zu denken, und zu sagen, daß sie zu viel verlieren würden, wenn es auf eine andere Art geschähe. Betrachtungen über die Allgegenwart Gottes gehören, wie mich deucht, vornämlich hierher.“ Oder auch diese: <link ref="klopstock" subref="klopstock-sprache" linktext="true"/> (<titel>Der nordischer Aufseher</titel>, 26. St., S. 224f.): „daß es Gedanken und Empfindungen, oft nur einen gewissen Grad, eine Wendung, eine Art Ausbildung derselben gibt, die allein in der Poesie, und andre, die nur in Prosa gebraucht werden müssen“
+vll. mit Bezug auf diese Stelle: <link ref="klopstock" subref="klopstock-allgegen" linktext="true"/> (<link ref="cramer-ja" subref="cramer-nord" linktext="false"><titel>Der nordischer Aufseher</titel></link>, 44. St., S. 390): „Es giebt Gedanken, die beynahe nicht anders als poetisch ausgedrückt werden können; oder vielmehr, es ist der Natur gewisser Gegenstände so gemäß, sie poetisch zu denken, und zu sagen, daß sie zu viel verlieren würden, wenn es auf eine andere Art geschähe. Betrachtungen über die Allgegenwart Gottes gehören, wie mich deucht, vornämlich hierher.“ Oder auch diese: <link ref="klopstock" subref="klopstock-sprache" linktext="true"/> (<titel>Der nordischer Aufseher</titel>, 26. St., S. 224f.): „daß es Gedanken und Empfindungen, oft nur einen gewissen Grad, eine Wendung, eine Art Ausbildung derselben gibt, die allein in der Poesie, und andre, die nur in Prosa gebraucht werden müssen“
 </marginal>
 
 <marginal index="2752" letter="152" page="369" line="4">
@@ -12913,7 +12914,7 @@ vll. mit Bezug auf diese Stelle: <link ref="klopstock" subref="klopstock-allgege
 </marginal>
 
 <marginal index="2756" letter="152" page="369" line="15">
-<bzg>ist aber</bzg> Dies nicht gegen, sondern mit Klopstock: <link ref="klopstock" subref="klopstock-art" linktext="true"/> (<link ref="cramer-nord" linktext="false"><titel>Der nordischer Aufseher</titel></link>, 44. St., S. 213): „Das wirkliche Wachen wäre derjenige glückliche Zustand unsrer Seele, da wir entweder Gott denken; oder etwas, das Gott geboten hat, und zwar weil er es geboten hat, thun.“
+<bzg>ist aber</bzg> Dies nicht gegen, sondern mit Klopstock: <link ref="klopstock" subref="klopstock-art" linktext="true"/> (<link ref="cramer-ja" subref="cramer-nord" linktext="false"><titel>Der nordischer Aufseher</titel></link>, 44. St., S. 213): „Das wirkliche Wachen wäre derjenige glückliche Zustand unsrer Seele, da wir entweder Gott denken; oder etwas, das Gott geboten hat, und zwar weil er es geboten hat, thun.“
 </marginal>
 
 <marginal index="2757" letter="152" page="369" line="15">
@@ -15239,7 +15240,7 @@ Brief Nr. 161
 </marginal>
 
 <marginal index="3296" letter="161" page="414" line="25">
-<link ref="at-hi" subref="at-hi" linktext="false">Hiob</link>
+<link ref="at-hi" linktext="false">Hiob</link>
 </marginal>
 
 <marginal index="3297" letter="161" page="414" line="26">
@@ -20522,7 +20523,7 @@ Brief Nr. 202
 </marginal> 
 
 <marginal index="5108" letter="202" page="62" line="4">
-<bzg>Verleger der Wolken</bzg> Die <link ref="hamann" subref="hamann-wolken" linktext="false"><titel>Wolken</titel></link> wurden vmtl. von <link ref="kanter-jj" linktext="true"/> vertrieben. Im Druck ist Altona als Verlagsort angegeben, eine Fiktion, welche die Gegnerschaft zu Hamburg symbolisiert (wo <link ref="ziegra-hamburgische" linktext="false">Ziegras Verriss</link> der <titel>Sokratischen Denkwürdigkeiten</titel> erschienen war). Im Weiteren führt Hamann das literarische Spiel mit dem Druckort fort, indem er fingiert, dass die gedruckten Exemplare der Wolken von Altona nach Lübeck gebracht und von dort über den Seeweg nach Königsberg transportiert wurden. 
+<bzg>Verleger der Wolken</bzg> Die <link ref="hamann" subref="hamann-wolken" linktext="false"><titel>Wolken</titel></link> wurden vmtl. von <link ref="kanter-jj" linktext="true"/> vertrieben. Im Druck ist Altona als Verlagsort angegeben, eine Fiktion, welche die Gegnerschaft zu Hamburg symbolisiert (wo <link ref="ziegra" subref="ziegra-hamburgische" linktext="false">Ziegras Verriss</link> der <titel>Sokratischen Denkwürdigkeiten</titel> erschienen war). Im Weiteren führt Hamann das literarische Spiel mit dem Druckort fort, indem er fingiert, dass die gedruckten Exemplare der Wolken von Altona nach Lübeck gebracht und von dort über den Seeweg nach Königsberg transportiert wurden. 
 </marginal> 
 
 <marginal index="5109" letter="202" page="62" line="5">
@@ -21056,7 +21057,7 @@ Brief Nr. 203
 </marginal>
 
 <marginal index="5219" letter="203" page="71" line="24">
-<bzg>die lästern …</bzg> <link ref="nt-pet1-2" subref="nt-pet1-2" linktext="false">2 Petr 2,12</link>
+<bzg>die lästern …</bzg> <link ref="nt-pet1" subref="nt-pet1-2" linktext="false">2 Petr 2,12</link>
 </marginal>
 
 <marginal index="5220" letter="203" page="71" line="26">
@@ -22769,7 +22770,7 @@ Brief Nr. 212
 <bzg>Verteidigung seines Sophokles</bzg> Bringt Hamann hier Autorschaften durcheinander? <link ref="steinbruchel" linktext="true"/> ist der Übersetzer der in Einzelausgaben erschienenen Stücke von Sophokles, u.a. <link ref="sophokles" subref="sophokles-electra" linktext="true"/>. Die Rezension in der <link ref="bibl-wiss-kuenste" linktext="true"/> (6. Bd, 1760, 1. St., S. 16–51 und 2. St., S. 231–279) ist von <link ref="scheller" linktext="true"/>. 
 </marginal>
 
-<marginal index="8582" letter="212" page="107" line="15">
+<marginal index="9529" letter="212" page="107" line="15">
 <bzg>M. Fischer</bzg> <link ref="fischer-jf" linktext="true"/>
 </marginal>
 
@@ -22777,7 +22778,7 @@ Brief Nr. 212
 <bzg>Achenwall</bzg> <link ref="achenwall" subref="achenwall-staatsklugheit" linktext="true"/>
 </marginal>
 
-<marginal index="8583" letter="212" page="107" line="24">
+<marginal index="9530" letter="212" page="107" line="24">
 <bzg>Freyheit</bzg> Ebd., S. 39 (3. Hauptst., § 1)
 </marginal>
 
@@ -22813,7 +22814,7 @@ Brief Nr. 212
 <bzg>Sanctorius</bzg> <link ref="santorio" linktext="true"/>
 </marginal>
 
-<marginal index="8584" letter="212" page="108" line="2">
+<marginal index="9531" letter="212" page="108" line="2">
 <bzg>Sarpius</bzg> <link ref="sarpi" linktext="true"/>
 </marginal>
 
@@ -22873,7 +22874,7 @@ Brief Nr. 212
 <bzg>Reinesio […] L. Clodium Hermippum</bzg> Das wird schon auf dem Titelblatt von <link ref="cohausen" subref="cohausen-hermippus" linktext="true"/> angekündigt und S.4f. (in der dt. Ausg.) erläutert. <link ref="reinesius" linktext="true"/> hat die Inschrift auf einem römischen Marmor-Denkmal überliefert, dt. (ebd. S.10): „Clodius Hermippus, der 115. Jahr 5. Tage durch das Anhauchen junger Mädchens gelebet hat, worüber sich auch nach seinem Tode die Naturkundiger nicht wenig verwundern. Ihr Nachkommen verlängert euer Leben auf eben diese Art.“
 </marginal>
 
-<marginal index="8585" letter="212" page="108" line="36">
+<marginal index="9532" letter="212" page="108" line="36">
 <bzg>Schulmeister</bzg> Ebd. S. 173 u. 201.
 </marginal>
 
@@ -22897,7 +22898,7 @@ Brief Nr. 212
 <bzg>Ohe! iam satis est – –</bzg> <link ref="horaz" subref="horaz-saturae" linktext="false">Hor. <titel>sat.</titel></link> 1,5,12f.: „Halt da, genug jetzt!“
 </marginal>
 
-<marginal index="8586" letter="212" page="109" line="8">
+<marginal index="9533" letter="212" page="109" line="8">
 <bzg>Bruder</bzg> <link ref="hamann-jc" linktext="true"/>
 </marginal>
 
@@ -22964,7 +22965,7 @@ Brief Nr. 213
 <bzg>Pastoris</bzg> <link ref="ruprecht-jc" linktext="true"/>
 </marginal>
 
-<marginal index="8587" letter="213" page="109" line="31">
+<marginal index="9534" letter="213" page="109" line="31">
 <bzg>Defect Bogen</bzg> <intlink letter="206" page="83" line="25" linktext="true"/>
 </marginal>
 
@@ -23094,7 +23095,7 @@ Brief Nr. 214
 <bzg>ältesten</bzg> <link ref="witten-pc" linktext="true"/> 
 </marginal>
 
-<marginal index="8588" letter="214" page="112" line="33">
+<marginal index="9535" letter="214" page="112" line="33">
 <bzg>jüngsten</bzg> wohl <link ref="witten-jj" linktext="true"/> 
 </marginal>
 
@@ -23138,11 +23139,11 @@ Brief Nr. 214
 <bzg>Platohnen</bzg> Landgut Platone in Lettland (56°32′22″N 23°41′46″E)
 </marginal>
 
-<marginal index="8589" letter="214" page="114" line="26">
+<marginal index="9536" letter="214" page="114" line="26">
 <bzg>Haase</bzg> <link ref="hase" linktext="true"/>
 </marginal>
 
-<marginal index="8590" letter="214" page="114" line="27">
+<marginal index="9537" letter="214" page="114" line="27">
 <link ref="plutarch" subref="plut-vit" linktext="true"/>
 </marginal>
 
@@ -23170,7 +23171,7 @@ Brief Nr. 214
 <bzg>Henriade</bzg> <link ref="voltaire" subref="voltaire-henri" linktext="true"/>
 </marginal>
 
-<marginal index="8591" letter="214" page="115" line="2">
+<marginal index="9538" letter="214" page="115" line="2">
 <bzg>Abhandl.</bzg> <link ref="voltaire" subref="voltaire-epique" linktext="true"/>
 </marginal>
 
@@ -23803,7 +23804,7 @@ Brief Nr. 217
 </marginal>
 
 <marginal index="7701" letter="217" page="123" line="31">
-<bzg>Hamb. Nachrichten</bzg> im 87. und 88. Stück der <link ref="ziegra-hamburgische" linktext="false">Hamburgischen Nachrichten</link> vom 10. bzw. 13 November 1761 (S. 691–701) sind Hamanns <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Chimärische Einfälle</titel></link> teilweise abgedruckt. Soviel Raum wird in diesem Jahr kaum einem anderen Text in den <titel>Hamburgischen Nachrichten</titel> eingeräumt.
+<bzg>Hamb. Nachrichten</bzg> im 87. und 88. Stück der <link ref="ziegra" subref="ziegra-hamburgische" linktext="false">Hamburgischen Nachrichten</link> vom 10. bzw. 13 November 1761 (S. 691–701) sind Hamanns <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Chimärische Einfälle</titel></link> teilweise abgedruckt. Soviel Raum wird in diesem Jahr kaum einem anderen Text in den <titel>Hamburgischen Nachrichten</titel> eingeräumt.
 </marginal>
 
 <marginal index="5697" letter="217" page="123" line="32">
@@ -24112,7 +24113,7 @@ Brief Nr. 219
 </marginal>
 
 <marginal index="5767" letter="219" page="128" line="29">
-<bzg>Zueignungsschrift der dritten Auflage</bzg> In den <titel>Kreuzzügen</titel> erschienen die <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Chimärischen Einfälle</titel></link> in „Dritte[r] Auflage, vermehrt mit einer Zueignungsschrift aus dem Catull an die hamburgischen Nachrichten aus dem Reiche der Gelehrsamkeit“ (N II S. 157, ED S. 77), bei der es sich um ein lat. Zitat von <link ref="catull" subref="catull-carmina" linktext="true"/> 12 (mit Auslassungen) handelt, <intlink letter="219" page="127" line="20" linktext="false">s.o.</intlink> Im 87. und 88. Stück der <link ref="ziegra-hamburgische" linktext="false"><titel>Hamburgischen Nachrichten</titel></link> vom 10. bzw. 13 November 1761 war ein Teilabdruck der <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Chimärischen Einfälle</titel></link> erschienen, vgl. dazu auch <intlink letter="217" page="123" line="31" linktext="true"/>.
+<bzg>Zueignungsschrift der dritten Auflage</bzg> In den <titel>Kreuzzügen</titel> erschienen die <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Chimärischen Einfälle</titel></link> in „Dritte[r] Auflage, vermehrt mit einer Zueignungsschrift aus dem Catull an die hamburgischen Nachrichten aus dem Reiche der Gelehrsamkeit“ (N II S. 157, ED S. 77), bei der es sich um ein lat. Zitat von <link ref="catull" subref="catull-carmina" linktext="true"/> 12 (mit Auslassungen) handelt, <intlink letter="219" page="127" line="20" linktext="false">s.o.</intlink> Im 87. und 88. Stück der <link ref="ziegra" subref="ziegra-hamburgische" linktext="false"><titel>Hamburgischen Nachrichten</titel></link> vom 10. bzw. 13 November 1761 war ein Teilabdruck der <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Chimärischen Einfälle</titel></link> erschienen, vgl. dazu auch <intlink letter="217" page="123" line="31" linktext="true"/>.
 </marginal>
 
 <marginal index="5768" letter="219" page="128" line="29">
@@ -24204,7 +24205,7 @@ Brief Nr. 219
 </marginal>
 
 <marginal index="5788" letter="219" page="129" line="31">
-<bzg>Thespis</bzg> <link ref="thespis" linktext="true"/>. <link ref="ziegra" linktext="true"/> hatte Hamann in der Rezension der <titel>Wolken</titel> in den <link ref="ziegra-hamburgische" linktext="false"><titel>Hamburgischen Nachrichten</titel></link> (57. Stück, 28. Juli 1761, S. 449–454) so genannt, als einen Verwandten des „deutschen Hans-Wurst“, mit einem Zitat aus <link ref="horaz" subref="horaz-poetica" linktext="true"/> V. 276f.: „Wie man erzählt, hat Thespis die unbekannte Gattung der tragischen Muse erfunden und auf Karren die Werke gefahren …“
+<bzg>Thespis</bzg> <link ref="thespis" linktext="true"/>. <link ref="ziegra" linktext="true"/> hatte Hamann in der Rezension der <titel>Wolken</titel> in den <link ref="ziegra" subref="ziegra-hamburgische" linktext="false"><titel>Hamburgischen Nachrichten</titel></link> (57. Stück, 28. Juli 1761, S. 449–454) so genannt, als einen Verwandten des „deutschen Hans-Wurst“, mit einem Zitat aus <link ref="horaz" subref="horaz-poetica" linktext="true"/> V. 276f.: „Wie man erzählt, hat Thespis die unbekannte Gattung der tragischen Muse erfunden und auf Karren die Werke gefahren …“
 </marginal>
 
 <marginal index="5789" letter="219" page="129" line="31">
@@ -24291,7 +24292,7 @@ Brief Nr. 220
 </marginal>
 
 <marginal index="5810" letter="220" page="131" line="21">
-<bzg>„Die Kenner …</bzg> <link ref="mendelssohn-fulberti" linktext="true"/>, S. 218f.
+<bzg>„Die Kenner …</bzg> <link ref="mendelssohn" subref="mendelssohn-fulberti" linktext="true"/>, S. 218f.
 </marginal>
 
 <marginal index="5811" letter="220" page="131" line="30">
@@ -25311,7 +25312,7 @@ Gr.[iechisches] [und] Arab.[isches]
 </marginal>
 
 <marginal index="6038" letter="226" page="148" line="23">
-<bzg>Gelehrten Lexico</bzg> <link ref="joecher-lexicon" linktext="true"/>, 3. Tl., 1751, S. 686.
+<bzg>Gelehrten Lexico</bzg> <link ref="joecher" subref="joecher-lexicon" linktext="true"/>, 3. Tl., 1751, S. 686.
 </marginal>
 
 <marginal index="6039" letter="226" page="148" line="27">
@@ -28906,7 +28907,7 @@ Brief Nr. 247
 </marginal>
 
 <marginal index="9416" letter="247" page="208" line="2">
-<bzg>Schriftsteller</bzg> <link ref="hamann" subref="hamann-schriftsteller" linktext="true"/>
+<bzg>Schriftsteller</bzg> <link ref="hamann" subref="hamann-kunstrichter" linktext="true"/>
 </marginal>
 
 <marginal index="9431" letter="247" page="207" line="3">
@@ -29426,7 +29427,7 @@ Brief Nr. 249
 </marginal>
 
 <marginal index="7026" letter="249" page="214" line="20">
-<bzg>Tibullo</bzg> Albius Tibullus, (55–19 v. Chr.), röm. Elegiker; wohl <link ref="gesner" subref="gesner-jm-ctp" linktext="true"/> 
+<bzg>Tibullo</bzg> Albius Tibullus, (55–19 v. Chr.), röm. Elegiker; wohl <link ref="gesner-jm" subref="gesner-jm-ctp" linktext="true"/> 
 </marginal>
 
 <marginal index="7027" letter="249" page="214" line="20">
@@ -29732,7 +29733,7 @@ Brief Nr. 250
 </marginal>
 
 <marginal index="7101" letter="250" page="218" line="20">
-<bzg>beyden Magisters ... benachrichtigen wollen</bzg> gemeint ist wohl eine geplante Schrift von <link ref="schultz-jf" linktext="true"/>. Bezieht sich auf die Kontroverse Kant–Weymann über <link ref="kant" subref="kant-beweisgrund" linktext="true"/>. Vgl. <link ref="weymann" subref="weymann-bedenklichkeiten" linktext="true"/>. 
+<bzg>beyden Magisters ... benachrichtigen wollen</bzg> gemeint ist wohl eine geplante Schrift von <link ref="schultz-jf" linktext="true"/>. Bezieht sich auf die Kontroverse Kant–Weymann über <link ref="kant" subref="kant-beweisgrund" linktext="true"/>. Vgl. <link ref="weymann-d" subref="weymann-bedenklichkeiten" linktext="true"/>. 
 </marginal>
 
 <marginal index="7102" letter="250" page="218" line="27">
@@ -30047,7 +30048,7 @@ Brief Nr. 252
 <bzg>Kriegs- und Domainen-Cammer</bzg> Königliche Kriegs- und Domänenkammer. Provinzialbehörde, die Steuern und Abgaben verwaltete, die für die Bedürfnisse der Armee bestimmt waren. Die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter.
 </marginal>
 
-<marginal index="7178" letter="252" page="225" line="3">
+<marginal index="9539" letter="252" page="225" line="3">
 <bzg>Invalide des Apolls</bzg> vgl. <intlink letter="152" page="368" line="13" linktext="true"/>
 </marginal>
 
@@ -30515,11 +30516,11 @@ Brief Nr. 255
 </marginal>
 
 <marginal index="7280" letter="255" page="231" line="4">
-<bzg>Socratis</bzg> <link ref="sokrates-histeccl" linktext="true"/> bzw. <link ref="sozomenos-histeccl" linktext="true"/>
+<bzg>Socratis</bzg> <link ref="sokrates-schol" subref="sokrates-histeccl" linktext="true"/> bzw. <link ref="sozomenos" subref="sozomenos-histeccl" linktext="true"/>
 </marginal>
 
 <marginal index="7282" letter="255" page="231" line="4">
-<bzg>Theodoretiv Euagrii Historia Eccles.</bzg> <link ref="theodoret-histeccl" linktext="true"/> bzw. <link ref="euagrios-histeccl" linktext="true"/>
+<bzg>Theodoretiv Euagrii Historia Eccles.</bzg> <link ref="theodoret" subref="theodoret-histeccl" linktext="true"/> bzw. <link ref="euagrios" subref="euagrios-histeccl" linktext="true"/>
 </marginal>
 
 <marginal index="7283" letter="255" page="231" line="5">
@@ -30633,7 +30634,7 @@ Brief Nr. 255a (letter 1188)
 </marginal>
 
 <marginal index="9444" letter="1188" page="XXVIII" line="2">
-<bzg>Institutions</bzg> <link ref="bielfeld-institutions" linktext="true"/>
+<bzg>Institutions</bzg> <link ref="bielfeld" subref="bielfeld-institutions" linktext="true"/>
 </marginal>
 
 <marginal index="9445" letter="1188" page="XXVIII" line="4">
@@ -30701,7 +30702,7 @@ Brief Nr. 255a (letter 1188)
 </marginal>
 
 <marginal index="9483" letter="1188" page="XXIX" line="23">
-<bzg>Weisheit im blutigen Ehebruche</bzg> <link ref="at-ps" subref="at-hes23" linktext="false">Hes 23,37</link> 
+<bzg>Weisheit im blutigen Ehebruche</bzg> <link ref="at-hes" subref="at-hes23" linktext="false">Hes 23,37</link> 
 </marginal>
 
 <marginal index="7326" letter="1188" page="XXIX" line="30">
@@ -31248,7 +31249,7 @@ Die Rezension erschien in: <link ref="konigsberger-gp-z" linktext="true"/>, 8.&#
 </marginal>
 
 <marginal index="7957" letter="258" page="239" line="24">
-<bzg>Dityramben</bzg> <link ref="willamovius-dithyramben" linktext="true"/>
+<bzg>Dityramben</bzg> <link ref="willamovius" subref="willamovius-dithyramben" linktext="true"/>
 </marginal>
 
 <marginal index="7958" letter="258" page="239" line="24">
@@ -31264,7 +31265,7 @@ Die Rezension erschien in: <link ref="konigsberger-gp-z" linktext="true"/>, 8.&#
 </marginal>
 
 <marginal index="7961" letter="258" page="239" line="30">
-<bzg>Mit Mutterhänden …</bzg> 5. Strophe von <link ref="schutz-lob" linktext="true"/>
+<bzg>Mit Mutterhänden …</bzg> 5. Strophe von <link ref="schutz" subref="schutz-lob" linktext="true"/>
 </marginal>
 
 <marginal index="7962" letter="258" page="239" line="32">
@@ -32773,7 +32774,7 @@ Brief Nr. 272
 </marginal>
 
 <marginal index="8328" letter="272" page="267" line="22">
-<bzg>Zwiebeln, die uns sollen dienen</bzg> Zitat aus dem Lied „Jesus lebt mein leben“, vgl. <link ref="quant" subref="quandt-sammlung" linktext="true"/>, S. 654
+<bzg>Zwiebeln, die uns sollen dienen</bzg> Zitat aus dem Lied „Jesus lebt mein leben“, vgl. <link ref="quandt" subref="quandt-sammlung" linktext="true"/>, S. 654
 </marginal>
 
 <marginal index="8329" letter="272" page="267" line="25">
@@ -32781,7 +32782,7 @@ Brief Nr. 272
 </marginal>
 
 <marginal index="8330" letter="272" page="267" line="32">
-<bzg>Seiner Wege Ziel und Ende</bzg> Hamann kompiliert aus der ersten und letzten Strophe des Liedes „Jesus meine Zuversicht“, vgl. <link ref="quant" subref="quandt-sammlung" linktext="true"/>, S. 674f.
+<bzg>Seiner Wege Ziel und Ende</bzg> Hamann kompiliert aus der ersten und letzten Strophe des Liedes „Jesus meine Zuversicht“, vgl. <link ref="quandt" subref="quandt-sammlung" linktext="true"/>, S. 674f.
 </marginal>
 
 <marginal index="8331" letter="272" page="267" line="35">
@@ -33089,7 +33090,7 @@ Brief Nr. 275
 </marginal>
 
 <marginal index="8392" letter="275" page="272" line="14">
-<bzg>Sokrat. Denkw.</bzg> <link ref="sokratischedenk" linktext="true"/>
+<bzg>Sokrat. Denkw.</bzg> <link ref="hamann" subref="sokratischedenk" linktext="true" />
 </marginal>
 
 <marginal index="8393" letter="275" page="272" line="18">
@@ -33227,7 +33228,7 @@ Brief Nr. 276
 </marginal>
 
 <marginal index="8427" letter="276" page="274" line="35">
-<bzg>Daphne</bzg> <link ref="daphne" linktext="true"/> 
+<bzg>Daphne</bzg> <link ref="hamann" subref="daphne" linktext="true"/>
 </marginal>
 
 <marginal index="8428" letter="276" page="274" line="36">
@@ -34331,7 +34332,7 @@ Brief Nr. 286
 <bzg>Nouveaux essais …</bzg> <link ref="leibniz" subref="leibniz-ouvres" linktext="true"/>, <titel>Nouveaux essais sur l’entendement humain</titel>, S.&#x202F;1–496
 </marginal>
 
-<marginal index="8739" letter="286" page="298" line="29">
+<marginal index="9540" letter="286" page="298" line="29">
 <bzg>transpiratione insensibili</bzg> dt. von dem unbemerkbaren Schweiß
 </marginal>
 
@@ -34512,7 +34513,7 @@ Brief Nr. 286
 </marginal>
 
 <marginal index="8783" letter="286" page="302" line="19">
-<bzg>Scheblimini</bzg> Transkription und Komposition von hebr. שֵׁב לִימִינִי (<link ref="at-ps110" subref="at-ps110-1" linktext="false">Ps 110,1</link> ): ‚sitze zu meiner Rechten‘. Gemeint ist der Schutzgeist (oder Spiritu familiari) <link ref="luther" linktext="false">Luthers</link> in den Disputationen mit seinen Widersachern; dieser sei laut <link ref="keil" subref="keil-luther" linktext="true"/>, S.&#x202F;69 nicht, wie von jenen behauptet, der Teufel gewesen, sondern „sein Scheblimini der Sohn Gottes, der da sitzet zur rechten Hand Gottes“. Hamann nahm diese Personifikation später für eine geplante (vgl. <intlink letter="634" page="343" line="21" linktext="false"><titel>HKB</titel>&#x202F;634, IV&#x202F;343/17–21</intlink>) und eine tatsächliche Titelgebung (vgl. <link ref="hamann" subref="hamann-golgatha-scheblimini" linktext="true"/>).
+<bzg>Scheblimini</bzg> Transkription und Komposition von hebr. שֵׁב לִימִינִי (<link ref="at-ps" subref="at-ps110" linktext="false">Ps 110,1</link> ): ‚sitze zu meiner Rechten‘. Gemeint ist der Schutzgeist (oder Spiritu familiari) <link ref="luther" linktext="false">Luthers</link> in den Disputationen mit seinen Widersachern; dieser sei laut <link ref="keil" subref="keil-luther" linktext="true"/>, S.&#x202F;69 nicht, wie von jenen behauptet, der Teufel gewesen, sondern „sein Scheblimini der Sohn Gottes, der da sitzet zur rechten Hand Gottes“. Hamann nahm diese Personifikation später für eine geplante (vgl. <intlink letter="634" page="343" line="21" linktext="false"><titel>HKB</titel>&#x202F;634, IV&#x202F;343/17–21</intlink>) und eine tatsächliche Titelgebung (vgl. <link ref="hamann" subref="hamann-golgatha-scheblimini" linktext="true"/>).
 </marginal>
 
 <marginal index="8784" letter="286" page="302" line="22">
@@ -34881,12 +34882,12 @@ Brief Nr. 290
 <bzg>Freund</bzg> wohl <link ref="tottien-ca" linktext="true"/> 
 </marginal>
 
-<marginal index="8853" letter="290" page="308" line="25">
+<marginal index="9541" letter="290" page="308" line="25">
 <bzg>HE. Collaborators</bzg> <link ref="herder" linktext="true"/>
 </marginal>
 
 <marginal index="8853" letter="290" page="308" line="36">
-<bzg>Marmontels Poesie</bzg> <link ref="marmontel" subref="marmontel-dichtkunst" linktext="true"/>
+<bzg>Marmontels Poesie</bzg> <link ref="marmontel" subref="marmontel-poetique" linktext="true"/>
 </marginal>
 
 <marginal index="8854" letter="290" page="309" line="3">
@@ -34972,7 +34973,7 @@ Brief Nr. 291
 </marginal>
 
 <marginal index="8874" letter="291" page="310" line="6">
-<bzg>Marmontel</bzg> <link ref="marmontel" subref="marmontel-dichtkunst" linktext="true"/>
+<bzg>Marmontel</bzg> <link ref="marmontel" subref="marmontel-poetique" linktext="true"/>
 </marginal>
 
 <marginal index="8875" letter="291" page="310" line="8">
@@ -35225,7 +35226,7 @@ Brief Nr. 294
 <bzg>Dithyramb</bzg> <link ref="herder" subref="herder-rhapsodie" linktext="true"/>
 </marginal>
 
-<marginal index="8936" letter="294" page="315" line="33">
+<marginal index="9542" letter="294" page="315" line="33">
 <bzg>Apostille</bzg> Abschluss von <link ref="hamann" subref="hamann-aesthaetica" linktext="true"/>
 </marginal>
 
@@ -35557,7 +35558,7 @@ Brief Nr. 296
 <bzg>gl.</bzg> Groschen (Silbermünze [ca. 24. Teil eines Talers] oder Kupfermünze [ca. 90. Teil eines Talers]; in Königsberg war der Kupfergroschen üblich; für 8 Groschen gab es ca. zwei Pfund Schweinefleisch)
 </marginal>
 
-<marginal index="9019" letter="296" page="321" line="16">
+<marginal index="9543" letter="296" page="321" line="16">
 <bzg>Ostergedicht</bzg> „An die Dornenkrone des Erlösers“, in: <link ref="konigsberger-gp-z" linktext="true"/>, 27.&#x202F;St. vom 5.4.1765.
 </marginal>
 
@@ -36071,7 +36072,7 @@ Brief Nr. 301
 <bzg>Michaelis</bzg> <link ref="michaelis-jd" linktext="true"/>
 </marginal>
 
-<marginal index="9149" letter="301" page="331" line="26">
+<marginal index="9544" letter="301" page="331" line="26">
 <bzg>Leß</bzg> <link ref="less" linktext="true"/>
 </marginal>
 
@@ -36171,7 +36172,7 @@ Brief Nr. 301
 <bzg>Bittschrift</bzg> vgl. Brief 300
 </marginal>
 
-<marginal index="9488" letter="301" page="332" line="26">
+<marginal index="9545" letter="301" page="332" line="26">
 <bzg>Ostracismi</bzg> Ostrakismos, die Verbannung athenischer Politiker, die tyrannischer Ambitionen verdächtigt wurden
 </marginal>
 
@@ -36262,7 +36263,7 @@ Brief Nr. 302
 </marginal>
 
 <marginal index="9194" letter="302" page="335" line="23">
-<bzg>lieber Micha, als Zedekia</bzg> vgl. <link ref="at-koe1" subref="at-ko1-22" linktext="false">1 Kö 22,11</link> 
+<bzg>lieber Micha, als Zedekia</bzg> vgl. <link ref="at-koe1" subref="at-koe1-22" linktext="false">1 Kö 22,11</link> 
 </marginal>
 
 <marginal index="9195" letter="302" page="335" line="37">
@@ -36357,7 +36358,7 @@ Brief Nr. 303
 </marginal>
 
 <marginal index="9219" letter="303" page="337" line="16">
-<bzg>Reisegefährte</bzg> <link ref="kantner-jj" linktext="true"/>
+<bzg>Reisegefährte</bzg> <link ref="kanter-jj" linktext="true"/>
 </marginal>
 
 <marginal index="9220" letter="303" page="337" line="18">
@@ -36517,7 +36518,7 @@ Brief Nr. 305
 </marginal>
 
 <marginal index="9258" letter="305" page="340" line="18">
-<bzg>HErrn Prof. Lindner</bzg> <link ref="lindnder-jg" linktext="true"/>
+<bzg>HErrn Prof. Lindner</bzg> <link ref="lindner-jg" linktext="true"/>
 </marginal>
 
 <marginal index="9259" letter="305" page="340" line="22">
@@ -36585,7 +36586,7 @@ Brief Nr. 305
 </marginal>
 
 <marginal index="9276" letter="305" page="341" line="18">
-<bzg>Lindner ... HE Hofr.</bzg> <link ref="lindnder-jg" linktext="true"/>, <link ref="tottien-ca" linktext="true"/>
+<bzg>Lindner ... HE Hofr.</bzg> <link ref="lindner-jg" linktext="true"/>, <link ref="tottien-ca" linktext="true"/>
 </marginal>
 
 <marginal index="9277" letter="305" page="341" line="20">
@@ -36603,7 +36604,7 @@ Brief Nr. 305
 Brief Nr. 306
 
 
-<marginal index="9487" letter="306" page="342" line="4">
+<marginal index="9546" letter="306" page="342" line="4">
 <bzg>Werst</bzg> russisches Längenmaß (= 1,067 km)
 </marginal>
 
@@ -36866,33 +36867,33 @@ II S.&#x202f;10–12; IV S.&#x202f;29–32; V S.&#x202f;37–38
 <bzg>Grünhof</bzg> heute Zaļā [Zaļenieku] muiža, 70 km südwestlich von Riga, 20 km südwestlich von Jelgava/Mitau, Lettland [56° 31’ N, 23° 30’ O]
 </marginal>
 
-<marginal index="9344" letter="309" page="351" line="14">
+<marginal index="9547" letter="309" page="351" line="14">
 <bzg>HE Past. Ruprecht</bzg> <link ref="ruprecht-jc" linktext="true"/> 
 </marginal>
 
-<marginal index="9345" letter="309" page="351" line="19">
+<marginal index="9548" letter="309" page="351" line="19">
 <bzg>Recensionen!</bzg> für die <link ref="konigsberger-gp-z" linktext="true"/> 
 </marginal>
 
 Brief Nr. 310
 
-<marginal index="9346" letter="310" page="351" line="23">
+<marginal index="9549" letter="310" page="351" line="23">
 <bzg>Horatz sagt vom schwarzen Verdruß</bzg> <link ref="horaz" subref="horaz-oden" linktext="true"/>, III,1,40: „atra cura“, dt. „finstere Sorge“.
 </marginal>
 
-<marginal index="9347" letter="310" page="351" line="28">
+<marginal index="9550" letter="310" page="351" line="28">
 <bzg>beatae memoriae</bzg> dt. seligen Andenkens
 </marginal>
 
-<marginal index="9348" letter="310" page="351" line="28">
+<marginal index="9551" letter="310" page="351" line="28">
 <bzg>Mr. Denoyers</bzg> nicht ermittelt 
 </marginal>
 
-<marginal index="9349" letter="310" page="351" line="29">
+<marginal index="9552" letter="310" page="351" line="29">
 <bzg>Zaluskischen Bibl.</bzg> Jozef Andrzej Zaluski (1701–1774); erste öffentliche Bibliothek Polens, gehörte damals zu den größten Bibliotheken weltweit.
 </marginal>
 
-<marginal index="9350" letter="310" page="351" line="29">
+<marginal index="9553" letter="310" page="351" line="29">
 <bzg>HE. Janotzki</bzg> Johann Daniel Andreas Janotzky (1720–1786), Aufseher der Zaluskischen Bibliothek in Warschau.
 </marginal>
 
