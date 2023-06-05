@@ -7,28 +7,28 @@
       <personDefs>
 			<personDef index="-1" name="Unbekannt" />
 			<personDef index="1" name="Johann Georg Hamann" ref="https://d-nb.info/gnd/11854523X" vorname="Johann Georg" nachname="Hamann" komm="hamann" />
-			<personDef index="2" name="Gottlob Jacob Sahme" ref="https://d-nb.info/gnd/1029749000" vorname="Gottlob Jacob" nachname="Sahme"  />
-			<personDef index="3" name="Philipp Belger" ref="https://d-nb.info/gnd/1082265861" vorname="Philipp" nachname="Belger" />
+			<personDef index="2" name="Gottlob Jacob Sahme" ref="https://d-nb.info/gnd/1029749000" vorname="Gottlob Jacob" nachname="Sahme" komm="sahme-gj" />
+			<personDef index="3" name="Philipp Belger" ref="https://d-nb.info/gnd/1082265861" vorname="Philipp" nachname="Belger" komm="belger" />
 			<personDef index="4" name="Ein Studienfreund" nachname="Studienfreund" />
-			<personDef index="5" name="Johann Christoph Hamann (Vater)" vorname="Johann Christoph" nachname="Hamann" />
-			<personDef index="6" name="Maria Magdalena Hamann (Mutter)" vorname="Maria Magdalena" nachname="Hamann" />
+			<personDef index="5" name="Johann Christoph Hamann (Vater)" vorname="Johann Christoph" nachname="Hamann" komm="hamann-vjc" />
+			<personDef index="6" name="Maria Magdalena Hamann (Mutter)" vorname="Maria Magdalena" nachname="Hamann" komm="hamann-mm" />
 			<personDef index="7" name="" />
-			<personDef index="8" name="Johann Gotthelf Lindner" ref="https://d-nb.info/gnd/100191592" vorname="Johann Gotthelf" nachname="Lindner" />
+			<personDef index="8" name="Johann Gotthelf Lindner" ref="https://d-nb.info/gnd/100191592" vorname="Johann Gotthelf" nachname="Lindner" komm="lindner-jg" />
 			<personDef index="9" name="" />
-			<personDef index="10" name="Johann Christoph Hamann (Bruder)" ref="https://d-nb.info/gnd/116421665" vorname="Johann Christoph" nachname="Hamann" />
-			<personDef index="11" name="Barbara Helena von Budberg, geb. von Zimmermann" vorname="Barbara Helena von" nachname="Budberg" />
-			<personDef index="12" name="Marianne Lindner, geb. Courtan" vorname="Marianne" nachname="Lindner" />
+			<personDef index="10" name="Johann Christoph Hamann (Bruder)" ref="https://d-nb.info/gnd/116421665" vorname="Johann Christoph" nachname="Hamann" komm="" komm="hamann-jc" />
+			<personDef index="11" name="Barbara Helena von Budberg, geb. von Zimmermann" vorname="Barbara Helena von" nachname="Budberg" komm="budberg-bh" />
+			<personDef index="12" name="Marianne Lindner, geb. Courtan" vorname="Marianne" nachname="Lindner" komm="lindner-m" />
 			<personDef index="13" name="" />
 			<personDef index="14" name="" />
-			<personDef index="15" name="Johann Ehregott Friedrich Lindner" ref="https://d-nb.info/gnd/136726208" vorname="Johann Ehregott Friedrich" nachname="Lindner" />
-			<personDef index="16" name="Johann Christoph Berens" ref="https://d-nb.info/gnd/133886395" vorname="Johann Christoph" nachname="Berens" />
-			<personDef index="17" name="Arend Berens" ref="https://d-nb.info/gnd/1195027087" vorname="Arend" nachname="Berens" />
-			<personDef index="18" name="Johann Christoph Ruprecht" ref="https://d-nb.info/gnd/130126012" vorname="Johann Christoph" nachname="Ruprecht" />
+			<personDef index="15" name="Johann Ehregott Friedrich Lindner" ref="https://d-nb.info/gnd/136726208" vorname="Johann Ehregott Friedrich" nachname="Lindner" komm="lindner-jef" />
+			<personDef index="16" name="Johann Christoph Berens" ref="https://d-nb.info/gnd/133886395" vorname="Johann Christoph" nachname="Berens" komm="berens-jc" />
+			<personDef index="17" name="Arend Berens" ref="https://d-nb.info/gnd/1195027087" vorname="Arend" nachname="Berens" komm="berens-a" />
+			<personDef index="18" name="Johann Christoph Ruprecht" ref="https://d-nb.info/gnd/130126012" vorname="Johann Christoph" nachname="Ruprecht" komm="ruprecht-jc" />
 			<personDef index="19" name="Senel" vorname="[unbek. Vorname]" nachname="Senel" />
 			<personDef index="20" name="" />
-			<personDef index="21" name="Gottlob Immanuel Lindner" ref="https://d-nb.info/gnd/129763403" vorname="Gottlob Immanuel" nachname="Lindner" />
-			<personDef index="22" name="Peter Christoph Baron von Witten" vorname="Peter Christoph Baron von" nachname="Witten" />
-			<personDef index="23" name="Joseph Johann Baron von Witten" vorname="Joseph Johann Baron von" nachname="Witten" />
+			<personDef index="21" name="Gottlob Immanuel Lindner" ref="https://d-nb.info/gnd/129763403" vorname="Gottlob Immanuel" nachname="Lindner" komm="lindner-gi" />
+			<personDef index="22" name="Peter Christoph Baron von Witten" vorname="Peter Christoph Baron von" nachname="Witten" komm="witten-pc" />
+			<personDef index="23" name="Joseph Johann Baron von Witten" vorname="Joseph Johann Baron von" nachname="Witten" komm="witten-jj" />
 			<personDef index="24" name="" />
 			<personDef index="25" name="" />
 			<personDef index="26" name="" />
@@ -36,43 +36,43 @@
 			<personDef index="28" name="" />
 			<personDef index="29" name="" />
 			<personDef index="30" name="" />
-			<personDef index="31" name="Immanuel Kant" ref="https://d-nb.info/gnd/118559796" vorname="Immanuel" nachname="Kant" />
+			<personDef index="31" name="Immanuel Kant" ref="https://d-nb.info/gnd/118559796" vorname="Immanuel" nachname="Kant" komm="kant" />
 			<personDef index="32" name="" />
-			<personDef index="33" name="Georg David Kypke" ref="https://d-nb.info/gnd/100212778" vorname="Georg David" nachname="Kypke" />
+			<personDef index="33" name="Georg David Kypke" ref="https://d-nb.info/gnd/100212778" vorname="Georg David" nachname="Kypke" komm="kypke" />
 			<personDef index="34" name="" />
-			<personDef index="35" name="Christoph Anton Tottien" ref="https://d-nb.info/gnd/142494143" vorname="Christoph Anton" nachname="Tottien" />
-			<personDef index="36" name="Moses Mendelssohn" ref="https://d-nb.info/gnd/118580744" vorname="Moses" nachname="Mendelssohn" />
-			<personDef index="37" name="Friedrich Nicolai" ref="https://d-nb.info/gnd/118587668" vorname="Friedrich" nachname="Nicolai" />
-			<personDef index="38" name="Sebastian Friedrich Trescho" ref="https://d-nb.info/gnd/117414271" vorname="Sebastian Friedrich" nachname="Trescho" />
-			<personDef index="39" name="Friedrich Carl von Moser" ref="https://d-nb.info/gnd/118737074" vorname="Friedrich Carl von" nachname="Moser" />
-			<personDef index="40" name="Die Königlich Preußische Kriegs- und Domänen-Kammer zu Königsberg i. Pr." nachname="Kriegs- und Domänenkammer" />
-			<personDef index="41" name="Johann Gottfried Herder" ref="https://d-nb.info/gnd/118549553" vorname="Johann Gottfried" nachname="Herder" />
+			<personDef index="35" name="Christoph Anton Tottien" ref="https://d-nb.info/gnd/142494143" vorname="Christoph Anton" nachname="Tottien" komm="tottien-ca" />
+			<personDef index="36" name="Moses Mendelssohn" ref="https://d-nb.info/gnd/118580744" vorname="Moses" nachname="Mendelssohn" komm="mendelssohn" />
+			<personDef index="37" name="Friedrich Nicolai" ref="https://d-nb.info/gnd/118587668" vorname="Friedrich" nachname="Nicolai" komm="nicolai-f" />
+			<personDef index="38" name="Sebastian Friedrich Trescho" ref="https://d-nb.info/gnd/117414271" vorname="Sebastian Friedrich" nachname="Trescho" komm="trescho-sf" />
+			<personDef index="39" name="Friedrich Carl von Moser" ref="https://d-nb.info/gnd/118737074" vorname="Friedrich Carl von" nachname="Moser" komm="moser" />
+			<personDef index="40" name="Königliche Kriegs- und Domänen-Kammer zu Königsberg in Preußen" nachname="Kriegs- und Domänenkammer" komm="kud-kammer" />
+			<personDef index="41" name="Johann Gottfried Herder" ref="https://d-nb.info/gnd/118549553" vorname="Johann Gottfried" nachname="Herder" komm="herder" />
 			<personDef index="42" name="Die Königlich Preußische Regierung zu Königsberg in Preußen" nachname="Regierung" />
 			<personDef index="43" name="" />
-			<personDef index="44" name="Christian Gottlieb Arndt" ref="https://d-nb.info/gnd/116342579" vorname="Christian Gottlieb" nachname="Arndt" />
-			<personDef index="45" name="Johann Christian Buchholtz" ref="https://d-nb.info/gnd/1024881237" vorname="Johann Christian" nachname="Buchholtz" />
-			<personDef index="46" name="Das Königliche Pupillen-Kollegium" nachname="Pupillen-Kollegium" />
-			<personDef index="47" name="Friedrich II. (Preußen)" ref="https://d-nb.info/gnd/118535749" nachname="Friedrich II." />
-			<personDef index="48" name="Daniel Friedrich Hindersin" vorname="Daniel Friedrich" nachname="Hindersin" />
-			<personDef index="49" name="Johann Friedrich Hartknoch" ref="https://d-nb.info/gnd/124244300" vorname="Johann Friedrich" nachname="Hartknoch" />
-			<personDef index="50" name="Johann August Eberhard" ref="https://d-nb.info/gnd/118687468" vorname="Johann August" nachname="Eberhard" />
-			<personDef index="51" name="Johann Jakob Kanter" ref="https://d-nb.info/gnd/103759972" vorname="Johann Jakob" nachname="Kanter" />
-			<personDef index="52" name="Der Geheime Ausschuß der G. v. V. Frey Mäurer Loge zu Königsberg in Preußen" nachname="Frey Mäurer Loge" />
-			<personDef index="53" name="Jacob Friedrich Hinz" ref="https://d-nb.info/gnd/103250790X" vorname="Jacob Friedrich" nachname="Hinz" />
-			<personDef index="54" name="Carl Theophilus Guichard" ref="https://d-nb.info/gnd/119044137" vorname="Carl Theophilus" nachname="Guichard" />
-			<personDef index="55" name="Johann Joachim Christoph Bode" ref="https://d-nb.info/gnd/118660438" vorname="Johann Joachim Christoph" nachname="Bode" />
-			<personDef index="56" name="Accise und Zoll-Direktor Stockmar" vorname="Carl Christoph" nachname="Stockmar" />
+			<personDef index="44" name="Christian Gottlieb Arndt" ref="https://d-nb.info/gnd/116342579" vorname="Christian Gottlieb" nachname="Arndt" komm="arndt-cg" />
+			<personDef index="45" name="Johann Christian Buchholtz" ref="https://d-nb.info/gnd/1024881237" vorname="Johann Christian" nachname="Buchholtz" komm="bucholtz-k-jc" />
+			<personDef index="46" name="Pupillenkollegium in Königsberg" nachname="Pupillen-Kollegium" komm="pupillenkollegium" />
+			<personDef index="47" name="Friedrich II. (Preußen)" ref="https://d-nb.info/gnd/118535749" nachname="Friedrich II." komm="friedrich-II" />
+			<personDef index="48" name="Daniel Friedrich Hindersin" vorname="Daniel Friedrich" nachname="Hindersin" komm="hindersin" />
+			<personDef index="49" name="Johann Friedrich Hartknoch" ref="https://d-nb.info/gnd/124244300" vorname="Johann Friedrich" nachname="Hartknoch" komm="hartknoch" />
+			<personDef index="50" name="Johann August Eberhard" ref="https://d-nb.info/gnd/118687468" vorname="Johann August" nachname="Eberhard" komm="eberhard-ja" />
+			<personDef index="51" name="Johann Jakob Kanter" ref="https://d-nb.info/gnd/103759972" vorname="Johann Jakob" nachname="Kanter" komm="kanter-jj" />
+			<personDef index="52" name="Ausschuss der Freimaurerloge zu den Drei Kronen" nachname="Dreikronenloge" komm="dreikronenloge" />
+			<personDef index="53" name="Jakob Friedrich Hinz" ref="https://d-nb.info/gnd/103250790X" vorname="Jacob Friedrich" nachname="Hinz" komm="hinz" />
+			<personDef index="54" name="Karl Theophil Guichard" ref="https://d-nb.info/gnd/119044137" vorname="Karl Theophil" nachname="Guichard" komm="guichard" />
+			<personDef index="55" name="Johann Joachim Christoph Bode" ref="https://d-nb.info/gnd/118660438" vorname="Johann Joachim Christoph" nachname="Bode" komm="bode-jjc" />
+			<personDef index="56" name="Accise und Zoll-Direktor Stockmar" vorname="Carl Christoph" nachname="Stockmar" komm="stockmar" />
 			<personDef index="57" name="" />
 			<personDef index="58" name="" />
 			<personDef index="59" name="Albertine Hartknoch, geb. Toussaint" vorname="Albertine" nachname="Hartknoch" />
-			<personDef index="60" name="Johann Friedrich Reichardt" ref="https://d-nb.info/gnd/118599100" vorname="Johann Friedrich" nachname="Reichardt" />
-			<personDef index="61" name="Matthias Claudius" ref="https://d-nb.info/gnd/118521098" vorname="Matthias" nachname="Claudius" />
-			<personDef index="62" name="Johann August Starck" ref="https://d-nb.info/gnd/119535890" vorname="Johann August" nachname="Starck" />
-			<personDef index="63" name="Catharina Dorothea Güldenhorn, geb. Herder" vorname="Catharina Dorothea" nachname="Güldenhorn" />
-			<personDef index="64" name="Rebecca Claudius" ref="" vorname="Rebecca" nachname="Claudius" />
+			<personDef index="60" name="Johann Friedrich Reichardt" ref="https://d-nb.info/gnd/118599100" vorname="Johann Friedrich" nachname="Reichardt" komm="reichardt-jf" />
+			<personDef index="61" name="Matthias Claudius" ref="https://d-nb.info/gnd/118521098" vorname="Matthias" nachname="Claudius" komm="claudius" />
+			<personDef index="62" name="Johann August Starck" ref="https://d-nb.info/gnd/119535890" vorname="Johann August" nachname="Starck" komm="starck" />
+			<personDef index="63" name="Catharina Dorothea Güldenhorn, geb. Herder" vorname="Catharina Dorothea" nachname="Güldenhorn" komm="herder-cd-g" />
+			<personDef index="64" name="Rebecca Claudius" ref="" vorname="Rebecca" nachname="Claudius" komm="claudius-r" />
 			<personDef index="65" name="" />
 			<personDef index="66" name="" />
-			<personDef index="67" name="Sophie Marianne Courtan, geb. Toussaint" vorname="Sophie Marianne" nachname="Courtan" />
+			<personDef index="67" name="Sophie Marianne Courtan, geb. Toussaint" vorname="Sophie Marianne" nachname="Courtan" komm="courtan-sm" />
 			<personDef index="68" name="Die General-Administration" nachname="General-Administration" />
 			<personDef index="69" name="Witwe Blom" nachname="Blom" />
 			<personDef index="70" name="" />

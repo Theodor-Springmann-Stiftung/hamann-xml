@@ -1137,14 +1137,19 @@ Hamanns Notiz dazu N&#x00A0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Monta
 </subsection>
 </kommentar>
 
-<kommentar id="bode" type="neuzeit">
+<kommentar id="bode-ca" type="neuzeit">
 <lemma>Christoph August Bode</lemma>
 <eintrag>1722&#x2013;1796. Prof. der morgenländischen Sprachen in Helmstedt, <wwwlink address="https://www.deutsche-biographie.de/sfz4877.html#adbcontent">Siegfried: Bode, Christoph August, in: <titel>ADB</titel>&#x202F;2 (1875), S.&#x202F;794</wwwlink>.</eintrag>
-<subsection id="bode-sacerdotalis" type="neuzeit" sort="10">
+<subsection id="bode-ca-sacerdotalis" type="neuzeit" sort="10">
 <lemma>Bode, <titel>Sacerdotalis J C. Oratorio Joh. XVII.</titel></lemma>
 <eintrag>
 <titel>Sacerdotalis J C. Oratorio Joh. XVII. comprehensa ex versionibus orientalibus cum graeco fonte collatis illustrata</titel> (Helmstedt 1762). [Biga&#x202F;6/90: „Sacerdotalis J. C. Oratio Joh. XVII. comprehensa ex versionibus orientalibus cum graeco fonte collatis illustrata á Ch. Aug. Bode, Helmst. 762“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="bode-jjc" type="neuzeit">
+<lemma>Johann Joachim Christoph Bode</lemma>
+<eintrag>1730–1793. Verleger und Übersetzer der Aufklärung, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bodin" type="neuzeit">
@@ -2118,6 +2123,16 @@ Dt. Übers. zitiert nach: Helmut Kasten (Hg.), <titel>An seine Freunde / Epistul
 <eintrag>1644&#x2013;1709. Katholischer Geistlicher, Prediger und Schriftsteller. Galt <link ref="gottsched" linktext="true" /> und dessen Kreis der Predigtreformer als Negativbeispiel für barocken Schwulst.</eintrag>
 </kommentar>
 
+<kommentar id="claudius" type="neuzeit">
+<lemma>Matthias Claudius</lemma>
+<eintrag>1740–1815. Dichter und Herausgeber des Wandsbecker Bothen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink></eintrag>
+</kommentar>
+
+<kommentar id="claudius-r" type="neuzeit">
+<lemma>Rebecca Claudius</lemma>
+<eintrag>1754–1832. Ehefrau von <link ref="claudius" linktext="true"/></eintrag>
+</kommentar>
+
 <kommentar id="clausnitzer" type="neuzeit">
 <lemma>Karl Gottlob Clausnitzer</lemma>
 <eintrag>1714&#x2013;1788. Probst und Superintendent in Clöden, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd122084349.html#adbcontent">Siegfried, C.: Clausnizer, Karl Gottlob, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;297</wwwlink>.
@@ -2315,7 +2330,7 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 
 <kommentar id="courtan-sm" type="neuzeit">
 <lemma>Sophie Marianne Courtan</lemma>
-<eintrag>Schwester von <link ref="lindner-m" linktext="true"/>.
+<eintrag>(Geb. Toussaint?) Schwester von <link ref="lindner-m" linktext="true"/>.
 </eintrag>
 </kommentar>
 
@@ -2984,6 +2999,11 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 
 
 E
+<kommentar id="eberhard-ja" type="neuzeit">
+<lemma>Johann August Eberhard</lemma>
+<eintrag>1739–1809. Deutscher Philosoph, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118687468.html#ndbcontent"> Gäbe, Lüder: Eberhard, Johann August, in: <titel>NDB</titel>&#x202f;4 (1959), S.&#x202f;241f.</wwwlink></eintrag>
+</kommentar>
+
 <kommentar id="ebert-ja" type="neuzeit">
 <lemma>Johann Arnold Ebert</lemma>
 <eintrag>1723&#x2013;1795. Übersetzer u.a. der Werke <link ref="young" linktext="false">E. Youngs</link>; siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd100116523.html#adbcontent">Creizenach, Wilhelm: Ebert, Arnold, in: <titel>ADB</titel>&#x202F;5 (1877), S.&#x202F;586f</wwwlink>.
@@ -3534,6 +3554,11 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 <kommentar id="foussardier" type="neuzeit">
 <lemma>N.N. Foussardier</lemma>
 <eintrag>Vll. ein Sohn des Stabschirurgus Willim Willimowitsch Fussatié in russischen Diensten.</eintrag>
+</kommentar>
+
+<kommentar id="dreikronenloge" type="neuzeit">
+<lemma>Ausschuss der Freimaurerloge zu den Drei Kronen</lemma>
+<eintrag></eintrag>
 </kommentar>
 
 <kommentar id="freron" type="neuzeit">
@@ -4738,7 +4763,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;291&#x2013
 
 <kommentar id="hamann-vjc" type="neuzeit">
 <lemma>Johann Christoph Hamann (Vater)</lemma>
-<eintrag>1697&#x2013;1766. Vater von <link ref="hamann" linktext="true"/> und <link ref="hamann-jc" linktext="true"/>, Bader/Wundarzt in Königsberg; zur Familiengeschichte s. <link ref="kno-r-1988" linktext="false">Knoll 1988</link>.</eintrag>
+<eintrag>1697&#x2013;1766. Vater von <link ref="hamann" linktext="true"/> und <link ref="hamann-jc" linktext="true"/>, Bader bzw. Wundarzt in Königsberg; zur Familiengeschichte s. <link ref="kno-r-1988" linktext="false">Knoll 1988</link>.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-mm" type="neuzeit">
@@ -4825,9 +4850,14 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;291&#x2013
 <eintrag>1740&#x2013;1789. 1761 Lehrling von <link ref="kanter-jj" linktext="true" />, übernahm 1763 dessen Filiale in Mitau, Verleger in Riga, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz26177.html#adbcontent">Eckardt: Hartknoch, Johann Friedrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;667</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="hartknoch-a" type="neuzeit">
+<lemma>Albertine Hartknoch</lemma>
+<eintrag>Lebensdaten unbekannt. Geb. Toussaint, zweite Frau von <link ref="hartknoch" linktext="true"/>, sie heirateten 1774.</eintrag>
+</kommentar>
+
 <kommentar id="hartknoch-ab" type="neuzeit">
 <lemma>Anna Benigna Hartknoch</lemma>
-<eintrag>Gest. 1771. Geb. Mehmel (aus Mitau), erste Frau <link ref="hartknoch" linktext="true"/>, sie heirateten 1767.</eintrag>
+<eintrag>Gest. 1771. Geb. Mehmel (aus Mitau), erste Frau von <link ref="hartknoch" linktext="true"/>, sie heirateten 1767.</eintrag>
 </kommentar>
 
 <kommentar id="hartung-hj" type="neuzeit">
@@ -5036,6 +5066,11 @@ Von und an Herder, 3 Bde. (Leipzig 1861–1862).
 <titel>Haben wir eine Französische Bühne?</titel> (1766 für <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3. Sammlung handschriftlich verfasst, aber nicht aufgenommen); <titel>SWS</titel>, Bd.&#x202F;2, S.&#x202F;207–230.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="herder-cd-g" type="neuzeit">
+<lemma>Catharina Dorothea Güldenhord, geborene Herder</lemma>
+<eintrag>1748–1793. Jüngere Schwester von <link ref="herder" linktext="true"/>, verheiratet mit Christoph Güldenhorn</eintrag>
 </kommentar>
 
 <kommentar id="herodot" type="neuzeit">
@@ -6407,6 +6442,11 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <kommentar id="krickende" type="neuzeit">
 <lemma>Samuel Krickende</lemma>
 <eintrag>1736&#x2013;1797. Hauslehrer in Berlin bei <link ref="sussmilch" linktext="true" />, 1765 Feldprediger in Schlesien, später Pastor zu Tschöplowitz.</eintrag>
+</kommentar>
+
+<kommentar id="kud-kammer" type="neuzeit">
+<lemma>Königliche Kriegs- und Domänenkammer</lemma>
+<eintrag>Provinzialbehörde in Königsberg, die Steuern und Abgaben verwaltete, die für die Bedürfnisse der Armee bestimmt waren. Die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="kruger-jc" type="neuzeit">
@@ -9348,6 +9388,11 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 </subsection>
 </kommentar>
 
+<kommentar id="pupillenkollegium" type="neuzeit">
+<lemma>Provinzialbehörde mit der Aufsicht über Vormundschaftssachen</lemma>
+<eintrag></eintrag>
+</kommentar>
+
 <kommentar id="putter" type="neuzeit">
 <lemma>Johann Stephan Pütter</lemma>
 <eintrag>1725&#x2013;1807. Prof. für Jurisprudenz in Göttingen. <wwwlink address="https://www.deutsche-biographie.de/sfz75338.html#adbcontent">Frensdorff, Ferdinand: Pütter, Johann Stephan, in: <titel>ADB</titel>&#x202F;26 (1888), S.&#x202F;749&#x2013;777</wwwlink>.
@@ -9526,7 +9571,12 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 
 <kommentar id="reichardt-j" type="neuzeit">
 <lemma>Johann Reichardt</lemma>
-<eintrag>1720&#x2013;1780. Lautenist und Oboist in der preuß. Armee; Lautenlehrer, Stadtmusikus, Lehrer Hamanns in Königsberg, der Vater des späteren Berliner Hofkapellmeisters Johann Friedrich Reichardt.</eintrag>
+<eintrag>1720&#x2013;1780. Lautenist und Oboist in der preuß. Armee; Lautenlehrer, Stadtmusikus, Lehrer Hamanns in Königsberg, Vater <link ref="reichardt-jf" linktext="true"/>.</eintrag>
+</kommentar>
+
+<kommentar id="reichardt-jf" type="neuzeit">
+<lemma>Johann Friedrich Reichardt</lemma>
+<eintrag></eintrag>
 </kommentar>
 
 <kommentar id="reichel" type="neuzeit">
@@ -10920,6 +10970,11 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 </subsection>
 </kommentar>
 
+<kommentar id="starck" type="neuzeit">
+<lemma>Johann August Starck</lemma>
+<eintrag>1741–1816. Theologe und Freimaurer, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink></eintrag>
+</kommentar>
+
 <kommentar id="staupitz" type="neuzeit">
 <lemma>Johann v. Staupitz</lemma>
 <eintrag>1465&#x2013;1524. Theologe, Beichtvater des jungen <link ref="luther" linktext="true" />.</eintrag>
@@ -11035,6 +11090,11 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <titel>Sammlung vermischter Briefe</titel> (3&#x00A0;Tle., Helmstädt: Weygand 1752&#x2013;66).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="stockmar" type="neuzeit">
+<lemma>Carl Christoph Stockmar</lemma>
+<eintrag>Accise- und Zolldirektor in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="stoffel-c" type="neuzeit">
