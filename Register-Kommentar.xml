@@ -474,6 +474,11 @@ Dt. Übers. zitiert nach: Kurt Flasch u. Burkhard Mojsisch (Übers.), <titel>Aug
 </subsection>
 </kommentar>
 
+<kommentar id="auerswald" type="neuzeit">
+<lemma>Hans Jakob v. Auerswald</lemma>
+<eintrag>1757–1833. Offizier, später Kammerpräsident und Kanzler, Erbherr auf dem Gut Faulen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz1549.html#ndbcontent">Gollwitzer, Heinz: Auerswald, Hans Jakob von, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;439</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="ausfuehrliche-kritische-nachrichten" type="neuzeit">
 <lemma><titel>Ausführliche und kritische Nachrichten</titel></lemma>
 <eintrag><titel>Ausführliche und kritische Nachrichten von den besten und merkwürdigsten Schriften unserer Zeit, nebst andern zur Gelahrtheit gehörigen Sachen</titel> (Lindau, Frankfurt, Leipzig 1763–66), hrsg. von Jacob Otto. Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN731784995">Niedersächsische Staats- und Universitätsbibliothek Göttingen</wwwlink>.  </eintrag>
@@ -1115,6 +1120,16 @@ Hamanns Notiz dazu N&#x00A0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Monta
 </eintrag>
 </kommentar>
 
+<kommentar id="blom-w" type="neuzeit">
+<lemma>Witwe Blom</lemma>
+<eintrag>Vorname und Lebensdaten unbekannt. Witwe von <link ref="blom-wy" linktext="true"/></eintrag>
+</kommentar>
+
+<kommentar id="blom-wy" type="neuzeit">
+<lemma>Wybrand Blom</lemma>
+<eintrag>Gest. 1777, Licenthausinspektor in Königsberg, Hamanns Vorgänger am Licent, Antecesseur</eintrag>
+</kommentar>
+
 <kommentar id="boerhaave" type="neuzeit">
 <lemma>Herman Boerhaave</lemma>
 <eintrag>1668&#x2013;1738. Niederl. Mediziner.</eintrag>
@@ -1572,6 +1587,12 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </eintrag>
 </kommentar>
 
+<kommentar id="bucholtz-w-fc" type="neuzeit">
+<lemma>Franz Kaspar Bucholtz</lemma>
+<eintrag>1760&#x2013;1812. Gutsherr auf Welbergen (Westfalen), Förderer und Freund Hamanns: Durch Jacobi auf dessen prekäre finanzielle Situation aufmerksam gemacht, vermachte er Hamann 1784 ein ansehnliches Vermögen; dieser bedankte sich durch seine Reise 1787.
+</eintrag>
+</kommentar>
+
 <kommentar id="buck" type="neuzeit">
 <lemma>Friedrich Johann Buck</lemma>
 <eintrag>1722&#x2013;1786. Prof. der Logik und Metaphysik in Königsberg, wechselte 1770 zur Mathematik, worauf Kant eine ordentliche Prof. bekam, Oberbibliothekar der Ratsbibliothek, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz6261.html#adbcontent">Cantor, Moritz: Buck, Friedrich Johann, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;494</wwwlink>.
@@ -1580,12 +1601,12 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="budberg-of" type="neuzeit">
 <lemma>Otto Friedrich v. Budberg</lemma>
-<eintrag>1700&#x2013;1755. Die Fam. v. Budberg gehörte zur livländischen Ritterschaft, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1213927773.html">Deutsche Biographie</wwwlink></eintrag>.
+<eintrag>1700&#x2013;1755. Die Familie v. Budberg gehörte zur livländischen Ritterschaft, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1213927773.html">Deutsche Biographie</wwwlink></eintrag>.
 </kommentar>
 
 <kommentar id="budberg-bh" type="neuzeit">
 <lemma>Barbara Helene v. Budberg</lemma>
-<eintrag>1716&#x2013;1781. Baronin. Geb. v. Zimmermann, zweite Frau des <link ref="budberg-of" linktext="true"/> (seit 1737), Witwe des Herrn v. Brevern. Tochter von <link ref="zimmermann-d" linktext="true"/>.
+<eintrag>1716&#x2013;1781. Baronin. Geb. v. Zimmermann, zweite Frau von <link ref="budberg-of" linktext="true"/> (seit 1737), Witwe des Herrn v. Brevern. Tochter von <link ref="zimmermann-d" linktext="true"/>.
 </eintrag>
 </kommentar>
 
@@ -2125,12 +2146,12 @@ Dt. Übers. zitiert nach: Helmut Kasten (Hg.), <titel>An seine Freunde / Epistul
 
 <kommentar id="claudius" type="neuzeit">
 <lemma>Matthias Claudius</lemma>
-<eintrag>1740–1815. Dichter und Herausgeber des Wandsbecker Bothen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink></eintrag>
+<eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der Hamburgischen Adreß- Comptoir- Nachrichten, 1771–1775 Redaktion des Wandsbeker Bothen, 1776–1777 Mitglied der Oberlandkommission in Darmstadt. Von Hamann auch Asmus (cum puncto), Freund Hain, alter, lahmer Invalide, Görgel, Wandsbecker Bothe, hinkender Bote (claudus= hinkend) oder Claudius in ulubris genannt; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="claudius-r" type="neuzeit">
 <lemma>Rebecca Claudius</lemma>
-<eintrag>1754–1832. Ehefrau von <link ref="claudius" linktext="true"/></eintrag>
+<eintrag>1754–1832. Geb. Behn, seit 1882 Ehefrau von <link ref="claudius" linktext="true"/>. Spitznamen: Das Bauer-Mädchen</eintrag>
 </kommentar>
 
 <kommentar id="clausnitzer" type="neuzeit">
@@ -2330,7 +2351,7 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 
 <kommentar id="courtan-sm" type="neuzeit">
 <lemma>Sophie Marianne Courtan</lemma>
-<eintrag>(Geb. Toussaint?) Schwester von <link ref="lindner-m" linktext="true"/>.
+<eintrag>Geboren 1741. Geborene Toussaint, seit 1761 Ehefrau von <link ref="courtan-pj" linktext="true"/> Schwägerin von <link ref="lindner-m" linktext="true"/>.
 </eintrag>
 </kommentar>
 
@@ -3022,7 +3043,7 @@ E
 
 <kommentar id="ehrmann" type="neuzeit">
 <lemma>Johann Christian Ehrmann</lemma>
-<eintrag>1749–1827. Begleiter und Schreiber von Christoph Kaufmann.</eintrag>
+<eintrag>1749–1827. Begleiter und Schreiber von <link ref="kaufmann-c" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="eliberitanus" type="neuzeit">
@@ -3589,6 +3610,16 @@ http://resolver.staatsbibliothek-berlin.de/SBB00009C9200000000">SBB-PK Berlin: B
 <eintrag>1725&#x2013;1790. Lehrer an der Königsberger Domschule.</eintrag>
 </kommentar>
 
+<kommentar id="friedlaender-w" type="neuzeit">
+<lemma>Wolff Friedländer</lemma>
+<eintrag>1742&#x2013;1814. Kaufmann in Königsberg und Inhaber des Friedländerschen Comptoir, zu dem auch die jüngeren Brüder, außer David, gehörten. Es war bis 1782 königsbergischer Agent der Berliner Gold- und Silbermanufaktur Ephraim u. Söhne, die ein Monopol auf die Herstellung von Tressen und Litzen für ganz Preußen hatten, exportierten auch Seide und Porzellan nach Polen und Rußland. Wohl die reichste jüdische Familie in Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="friedlaender-sw" type="neuzeit">
+<lemma>Samuel Wolff Friedländer</lemma>
+<eintrag>1765&#x2013;1838. Sohn von <link ref="friedlaender-w" linktext="true"/>, 1809 der erste unbesoldete jüdische Stadtrat Königsbergs.</eintrag>
+</kommentar>
+
 <kommentar id="friedrich-II" type="neuzeit">
 <lemma>Friedrich II. v. Preußen</lemma>
 <eintrag>1712&#x2013;1786.<line type="break"/>
@@ -3762,6 +3793,11 @@ G
 </subsection>
 </kommentar>
 
+<kommentar id="gaupp-e" type="neuzeit">
+<lemma>Eberhard Gaupp</lemma>
+<eintrag>1734&#x2013;1796. Kaufmann in Schaffhausen, Schwiegervater von <link ref="mueller-jg" linktext="true"/></eintrag>
+</kommentar>
+
 <kommentar id="geddes" type="neuzeit">
 <lemma>James Geddes</lemma>
 <eintrag>1710–1749. Schott. Advokat und Schriftsteller. siehe <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-10487">Gordon Goodwin, revised by Philip Carter: Geddes, James, in: <titel>Oxford DNB</titel></wwwlink>
@@ -3858,6 +3894,11 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 <titel>Briefe, nebst andern poetischen und prosaischen Stücken</titel> (Frankfurt/Leipzig 1753) [Biga&#x202F;143/231: „(von gemmingen) poetische und prosaische Stücke, Braunschw. 769“]. Digitalisat: <wwwlink address="	http://resolver.staatsbibliothek-berlin.de/SBB0000B56E00000000">SBB-PK Berlin: Yl 611</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="generaladministration" type="neuzeit">
+<lemma>Generaladministration</lemma>
+<eintrag>Zentrale Regierungsbehörde in Berlin.</eintrag>
 </kommentar>
 
 <kommentar id="georg" type="neuzeit">
@@ -4307,6 +4348,10 @@ H
 <eintrag>1607&#x2013;1659. Theologe, Orientalist in Altdorf, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz49272.html#adbcontent">Redslob, Gustav Moritz: Hackspan, Theodor, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;299f</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="haefeli" type="neuzeit">
+<lemma>Johann Kaspar Häfeli</lemma>
+<eintrag>1754–1811, auch Häfelin, Hafelin. Reformierter schweiz. Theologe in Zürich, seit 1784 anhalt-dessauischer Hofkaplan in Wörlitz, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz25119.html">Wyß, Georg von: Häfelin, Johann Kaspar, in: <titel>ADB</titel>&#x202f;10 (1879), S.&#x202f;314–316.</wwwlink></eintrag>
+</kommentar>
 
 <kommentar id="hagedorn" type="neuzeit">
 <lemma>Friedrich von Hagedorn</lemma>
@@ -4407,7 +4452,6 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 <eintrag>1730&#x2013;1788.<line type="break"/>
 Wiss. Gesamtausg. (=N): <titel>Johann Georg Hamann: Sämtliche Werke</titel>, hg.&#x00A0;v. Josef Nadler (Wien 1949–1957; Reprint: Wuppertal 1999); Die einzelnen Bände: Bd.&#x202F;I: Tagebuch eines Christen; Bd.&#x202F;II: Philosophie, Philologie, Kritik (1758–1763); Bd.&#x202F;III: Sprache, Mysterien, Vernunft (1772–1788); Bd.&#x202F;IV: Kleine Schriften (1750–1788); Bd.&#x202F;V: Tagebuch eines Lesers (1753–1788); Bd.&#x202F;VI: Der Schlüssel (1750–1788).
 </eintrag>
-
 <subsection id="hamann-gedichte" type="neuzeit" sort="10">
 <lemma>Hamann, <titel>Gelegenheitsgedichte</titel></lemma>
 <eintrag>
@@ -4416,7 +4460,6 @@ Wahrscheinlich in den Jahren 1749 bis 1751 entstanden.: <titel>Glückwunsch eine
 Edition: N&#x202f;II S.&#x202f;225–232.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-exercitium" type="neuzeit" sort="20">
 <lemma>Hamann, <titel>Lateinisches Exercitium</titel></lemma>
 <eintrag>
@@ -4425,7 +4468,6 @@ Im April 1751 verteidigte <link ref="lindner-jg" linktext="true" /> bei seiner P
 Edition: N&#x202f;II S.&#x202f;219–224.
 </eintrag>
 </subsection>
-
 <subsection id="daphne" type="neuzeit" sort="30">
 <lemma>Hamann, <titel>Daphne</titel></lemma>
 <eintrag>
@@ -4434,7 +4476,6 @@ Nachdruck in: <link ref="koh-j-1991" linktext="false">Kohnen (1991)</link>. Vgl.
 Einige Beiträge, für die J. Nadler die Verfasserschaft Hamanns annahm: N&#x00A0;IV S.&#x202F;13–34.
 </eintrag>
 </subsection>
-
 <subsection id="berliner-notizb" type="neuzeit" sort="40">
 <lemma>Hamann, <titel>Berliner Notizbuch</titel></lemma>
 <eintrag>
@@ -4443,7 +4484,6 @@ Das sog. ‚Berliner Notizbuch‘ wurde von Hamann vermutlich zwischen 1753 und 
 Original: SBB-PK, Herder Nachlass, XXXVIII,3. Photographie: ULB Münster: N. Hamann Bd.&#x202F;101. 
 </eintrag>
 </subsection>
-
 <subsection id="kgsb-notizb" type="neuzeit" sort="50">
 <lemma>Hamann, <titel>Königsberger Notizbuch</titel></lemma>
 <eintrag>
@@ -4452,7 +4492,6 @@ Das sog. ‚Königsberger Notizbuch‘ wurde von Hamann vermutlich zwischen 1753
 Original verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;102/103.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-rapin" type="neuzeit" sort="60">
 <lemma>Hamann, <titel>Rapin</titel></lemma>
 <eintrag><titel>René de Rapin, Betrachtungen über die Philosophie.</titel> Übers. und Auszüge aus <link ref="rapin" subref="rapin-eloquence" linktext="true" />.<line type="break"/>
@@ -4461,7 +4500,6 @@ Entstehungszeit Mitte der 1750er Jahre, also Hamanns Hofmeister-Zeit.<line type=
 Original verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;102/103.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-descartes" type="neuzeit" sort="70">
 <lemma>Hamann, <titel>Über Descartes</titel></lemma>
 <eintrag>
@@ -4470,14 +4508,12 @@ Entstehungszeit nicht klar bestimmbar; steht im Zusammenhang mit der Beschäftig
 Original verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;102/103.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-shaftesbury" type="neuzeit" sort="80">
 <lemma>Hamann, <titel>Shaftesbury-Übersetzung</titel></lemma>
 <eintrag>Um 1755 übertrug Hamann die ersten beiden Abhandlungen <titel>A Letter concerning Enthusiasm</titel> und <titel>Sensus communis</titel> aus <link ref="shaftesbury" subref="shaftesbury-man" linktext="true" /> ins Deutsche, vgl. N&#x00A0;IV S.&#x202F;473–475. Überliefert ist die Übers. handschriftlich im <link ref="hamann" subref="kgsb-notizb" linktext="false">‚Königsberger Notizbuch‘</link> mit zahlreichen Überarbeitungen.<line type="break"/>
 Edition: N&#x00A0;IV S.&#x202F;131–191 (App. S.&#x202F;473–480).<line type="break"/>
 Hamann übers. vermutl. auf der Basis der Shaftesbury-Taschenausgabe von 1733. Sofern der von Nadler vermutete Entstehungszeitraum von 1755 stimmt, könnte Hamanns Übers. von <link ref="lessing" subref="lessing-pope" linktext="true"/> inspiriert worden sein, worin Lessing und <link ref="mendelssohn" linktext="false">Mendelssohn</link> die Möglichkeit zu bedenken geben, dass wesentliche Teile des Leibnizschen Systems schon von Shaftesbury entwickelt worden sein könnten.</eintrag>
 </subsection>
-
 <subsection id="freundschaftlicher-gesang" type="neuzeit" sort="90">
 <lemma>Hamann, <titel>Freundschaftlicher Gesang</titel></lemma>
 <eintrag>
@@ -4486,7 +4522,6 @@ Erstdruck: in <link ref="lindner-jg" subref="reizungen" linktext="true"/>, S.&#x
 Wiederabgedruckt in <link ref="hamann" subref="hamann-kreuzzuege" linktext="true"/>, ED S.&#x202F;236&#x2013;238, Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:hbz:6:1-235909">Münster: Univ.- und Landesbibliothek, Sign.: N. Hamann Bd.&#x202F;117/119/120</wwwlink>.<line type="break"/>
 Edition: N&#x00A0;II S.&#x202F;228f.</eintrag>
 </subsection>
-
 <subsection id="h-dangeuil" type="neuzeit" sort="100">
 <lemma>Hamann, <titel>Beylage zu Dangeuil</titel></lemma>
 <eintrag>
@@ -4497,7 +4532,6 @@ Hamanns Notizen zur Übers. in <link ref="hamann" subref="berliner-notizb" linkt
 Forschung: <link ref="mei-c-2012" linktext="false">Meineke 2012</link>.
 </eintrag>
 </subsection>
-
 <subsection id="denkmal" type="neuzeit" sort="110">
 <lemma>Hamann, <titel>Denkmal</titel></lemma>
 <eintrag>
@@ -4513,7 +4547,6 @@ Editionen: Seitenangaben im Briefkommentar nach LS = J. G. H., <titel>Londoner S
 Außerdem: N&#x00A0;II S.&#x202F;9&#x2013;54.
 </eintrag>
 </subsection>
-
 <subsection id="auslegung" type="neuzeit" sort="130">
 <lemma>Hamann, <titel>Ueber die Auslegung der heil. Schrift</titel></lemma>
 <eintrag>
@@ -4522,7 +4555,6 @@ Editionen: Seitenangaben im Briefkommentar nach LS = J. G. H., <titel>Londoner S
 Außerdem: N&#x00A0;I S.&#x202F;5f.
 </eintrag>
 </subsection>
-
 <subsection id="bibl-betrachtungen" type="neuzeit" sort="140">
 <lemma>Hamann, <titel>Biblische Betrachtungen eines Christen</titel></lemma>
 <eintrag>
@@ -4531,7 +4563,6 @@ Editionen: Seitenangaben im Briefkommentar nach LS = J. G. H., <titel>Londoner S
 Außerdem: N&#x00A0;I S.&#x202F;7–249.
 </eintrag>
 </subsection>
-
 <subsection id="gedanken-lieder" type="neuzeit" sort="150">
 <lemma>Hamann, <titel>Gedanken über Kirchenlieder</titel></lemma>
 <eintrag>Konvolut aus Meditationen über Kirchenlieder, im April u. Mai 1758 in London verfasst, ca. je 4 Seiten pro Text, versweise Betrachtung eines Liedes.<line type="break"/>
@@ -4541,7 +4572,6 @@ Das Konvolut enthält: „Gedanken über das Lied: Ich bin Gottes Bild und Ehr. 
 Siehe dazu auch: <link ref="ros-m-1996" linktext="false">Rößler 1996</link>.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-brocken" type="neuzeit" sort="160">
 <lemma>Hamann, <titel>Brocken</titel></lemma>
 <eintrag>
@@ -4550,7 +4580,6 @@ Editionen: Seitenangaben im Briefkommentar nach LS = J. G. H., <titel>Londoner S
 Außerdem: N&#x00A0;I S.&#x202F;298&#x2013;309.
 </eintrag>
 </subsection>
-
 <subsection id="sprachlehre-dtfranz" type="neuzeit" sort="170">
 <lemma>Hamann, <titel>Deutsch-Französische Sprachlehre</titel></lemma>
 <eintrag>
@@ -4558,7 +4587,6 @@ Außerdem: N&#x00A0;I S.&#x202F;298&#x2013;309.
 Editionen: N&#x00A0;IV S.&#x202F;247f. basiert auf einer Reinschrift des Bruders, 4 Quartseiten mit Korrekturen und Annotationen Hamanns (Staats- und Universitätsbibliothek Königsberg: G. II. 5; verschollen).
 </eintrag>
 </subsection>
-
 <subsection id="sokratischedenk" type="neuzeit" sort="180">
 <lemma>Hamann, <titel>Sokratische Denkwürdigkeiten</titel></lemma>
 <eintrag>
@@ -4568,7 +4596,6 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;57&#x2013;
 Außerdem: <titel>Johann Georg Hamanns Hauptschriften erklärt</titel>, hg.&#x00A0;v. Fritz Blanke, Lothar Schreiner u. Karlfried Gründer, Bd.&#x202F;2: <titel>Sokratische Denkwürdigkeiten</titel>, erkl. von Fritz Blanke (Gütersloh 1959). J. G. Hamann, <titel>Sokratische Denkwürdigkeiten. Aesthetica in nuce</titel>, mit einem Kommentar hg.&#x00A0;v. Sven-Aage Jorgensen (Stuttgart 1998), S.&#x202F;3&#x2013;73.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-versuch" type="neuzeit" sort="190">
 <lemma>Hamann, <titel>Versuch über eine akademische Frage</titel></lemma>
 <eintrag>
@@ -4580,7 +4607,6 @@ Entstehungszeitraum: Mai 1760.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;119–126 und Erstdruck = ED der dritten Fassung in den <link ref="hamann" subref="hamann-kreuzzuege" linktext="false"><titel>Kreuzzügen</titel></link>.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-anmerkungen" type="neuzeit" sort="200">
 <lemma>Hamann, <titel>Vermischte Anmerkungen</titel></lemma>
 <eintrag>
@@ -4593,7 +4619,6 @@ Entstehungszeitraum: Oktober 1760.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x202f;II S.&#x202f;127–136 und Erstdruck = ED der dritten Fassung in den <link ref="hamann" subref="hamann-kreuzzuege" linktext="false"><titel>Kreuzzügen</titel></link>.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-magi" type="neuzeit" sort="210">
 <lemma>Hamann, <titel>Magi aus Morgenlande</titel></lemma>
 <eintrag>
@@ -4605,7 +4630,6 @@ Entstehungszeitraum: Oktober 1760.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x202f;II S.&#x202f;137–142 und Erstdruck = ED der dritten Fassung in den <link ref="hamann" subref="hamann-kreuzzuege" linktext="false"><titel>Kreuzzügen</titel></link>.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-klaggedicht" type="neuzeit" sort="220">
 <lemma>Hamann, <titel>Klaggedicht</titel></lemma>
 <eintrag>
@@ -4616,7 +4640,6 @@ Entstehungszeitraum: Oktober 1760.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x202f;II S.&#x202f;143–150 und Erstdruck = ED der zweiten Fassung in den <link ref="hamann" subref="hamann-kreuzzuege" linktext="false"><titel>Kreuzzügen</titel></link>.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-einfalle" type="neuzeit" sort="230">
 <lemma>Hamann, <titel>Chimärische Einfälle</titel></lemma>
 <eintrag>
@@ -4629,7 +4652,6 @@ Außerdem: Teilabdruck im 87. und 88. Stück der <link ref="ziegra" subref="zieg
 Und: Wiederabruck in den <link ref="briefe-literatur" linktext="true" />, Tl.&#x202F;12, Br.&#x202F;192, S.&#x202F;194&#x2013;209. von <link ref="mendelssohn" linktext="true" /> besorgt als „Abälardus Virbius an den Verfasser der fünf Briefe die neue Heloise betreffend.“
 </eintrag>
 </subsection>
-
 <subsection id="hamann-wolken" type="neuzeit" sort="240">
 <lemma>Hamann, <titel>Wolken</titel></lemma>
 <eintrag>
@@ -4638,7 +4660,6 @@ Entstehungszeitraum: 1760.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;83&#x2013;109 und Erstdruck = ED, sowie nach der Historisch-kritischen Ausgabe = W: <link ref="2021" linktext="false">Sokratische Denkwürdigkeiten. Wolken. Historisch-kritische Ausgabe (2021)</link>.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-lettre" type="neuzeit" sort="250">
 <lemma>Hamann, <titel>Lettre néologiques</titel></lemma>
 <eintrag>
@@ -4647,7 +4668,6 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;279&#x2013
 Übers. und Kommentar: <link ref="fin-l-1987" linktext="false">Fink-Langois (1987)</link>.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-project" type="neuzeit" sort="260">
 <lemma>Hamann, <titel>Französisches Project</titel></lemma>
 <eintrag>
@@ -4657,7 +4677,6 @@ Entstehungszeitraum: Oktober 1761.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;151&#x2013;156 und der 2. Fassung im Erstdruck der <link ref="hamann" subref="hamann-kreuzzuege" linktext="false"><titel>Kreuzzüge</titel></link> = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-kleeblatt" type="neuzeit" sort="270">
 <lemma>Hamann, <titel>Kleeblatt hellenistischer Briefe</titel></lemma>
 <eintrag>
@@ -4666,7 +4685,6 @@ Entstehungszeitraum: 1760.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;167–184 und Erstdruck = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-naschereyen" type="neuzeit" sort="280">
 <lemma>Hamann, <titel>Näschereyen</titel></lemma>
 <eintrag>
@@ -4677,7 +4695,6 @@ Entstehungszeitraum: 1762.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;185&#x2013;193 und dem Erstdruck der <link ref="hamann" subref="hamann-kreuzzuege" linktext="false"><titel>Kreuzzüge</titel></link> = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-aesthaetica" type="neuzeit" sort="290">
 <lemma>Hamann, <titel>Aesthaetica in nuce</titel></lemma>
 <eintrag>
@@ -4686,7 +4703,6 @@ Entstehungszeitraum: 1762.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;195&#x2013;217 und dem Erstdruck der <link ref="hamann" subref="hamann-kreuzzuege" linktext="false"><titel>Kreuzzüge</titel></link> = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-kreuzzuege" type="neuzeit" sort="300">
 <lemma>Hamann, <titel>Kreuzzüge des Philologen</titel></lemma>
 <eintrag>
@@ -4694,7 +4710,6 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;195&#x2013
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;113&#x2013;240 und Erstdruck = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-glose" type="neuzeit" sort="310">
 <lemma>Hamann, <titel>Glose Philippique</titel></lemma>
 <eintrag>
@@ -4703,7 +4718,6 @@ Entstehungszeitraum: Sommer/Herbst 1761.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;277&#x2013;297 und Erstdruck = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-essais" type="neuzeit" sort= "320">
 <lemma>Hamann, <titel>Essais à la Mosaique</titel></lemma>
 <eintrag>
@@ -4711,7 +4725,6 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;277&#x2013
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;277&#x2013;297 und Erstdruck = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-kunstrichter" type="neuzeit" sort="330">
 <lemma>Hamann, <titel>Schriftsteller und Kunstrichter</titel></lemma>
 <eintrag>
@@ -4720,7 +4733,6 @@ Entstehungszeitraum: 1762.<line type="break"/>
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;329&#x2013;338 und Erstdruck = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-leser" type="neuzeit" sort= "340">
 <lemma>Hamann, <titel>Leser und Kunstrichter</titel></lemma>
 <eintrag>
@@ -4728,7 +4740,6 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;329&#x2013
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;339&#x2013;349 und Erstdruck = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-hirten" type="neuzeit" sort="350">
 <lemma>Hamann, <titel>Fünf Hirtenbriefe das Schuldrama betreffend</titel></lemma>
 <eintrag>
@@ -4737,7 +4748,6 @@ Enthält die Briefe Nr.&#x202F;<intlink letter="168" linktext="false">168</intli
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;351&#x2013;373 und Erstdruck = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-hamburgische" type="neuzeit" sort= "360">
 <lemma>Hamann, <titel>Mitauisches Intermezzo</titel></lemma>
 <eintrag>
@@ -4745,7 +4755,6 @@ Eigentl.: <titel>Hamburgische Nachricht; Göttingsche Anzeige; Berlinsche Beurth
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;241&#x2013;274 und Erstdruck = ED.
 </eintrag>
 </subsection>
-
 <subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort= "360">
 <lemma>Hamann, <titel>Golgatha und Scheblimini</titel></lemma>
 <eintrag>
@@ -4753,12 +4762,22 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;241&#x2013
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;291&#x2013;320 und Erstdruck = ED.
 </eintrag>
 </subsection>
+</kommentar>
 
+<kommentar id="hamann-er" type="neuzeit">
+<lemma>Elisabeth Regina Hamann</lemma>
+<eintrag>1772&#x2013;1838. Tochter von <link ref="hamann" linktext="true"/>, auch Lisette Reinette genannt; später verehelichte Rosenberg.
+Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink address="https://books.google.de/books?id=zO9fAAAAcAAJ">Gustav Poel: Johann Georg Hamann der Magus im Norden. Sein Leben und Mittheilungen aus seinen Schriften in zwei Theilen, I 413–432</wwwlink>; außerdem Arthur Warda: Zwei Briefe von J. G. Hamanns Tochter Elisabeth Regina und ein Brief seiner Tochter Magdalena Catharina. In: <wwwlink address="https://books.google.de/books?id=VsQOAAAAYAAJ">Altpreußische Monatsschrift 43 (1906), S.&#x202F;229–254</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-jc" type="neuzeit">
 <lemma>Johann Christoph Hamann (Bruder)</lemma>
-<eintrag>1732&#x2013;1778. Bruder von , ab 1758 Lehrer in Riga, 1761&#x2013;1765 im Löbenicht in Königsberg; litt zunehmend an einer psychischen Krankheit („Melancholie“) und musste wegen seiner geistiger Behinderung in <link ref="hamann" linktext="false">Hamanns</link> Haushalt gepflegt werden.</eintrag>
+<eintrag>1732&#x2013;1778. Bruder von <link ref="hamann" linktext="true"/>, ab 1758 Lehrer in Riga, 1761&#x2013;1765 im Löbenicht in Königsberg; litt zunehmend an einer psychischen Krankheit („Melancholie“) und musste wegen seiner geistiger Behinderung in <link ref="hamann" linktext="false">Hamanns</link> Haushalt gepflegt werden.</eintrag>
+</kommentar>
+
+<kommentar id="hamann-jm" type="neuzeit">
+<lemma>Johann Michael Hamann</lemma>
+<eintrag>1769–&#x2013;1813. Sohn von <link ref="hamann" linktext="true"/>. Studierte Medizin und begleitete seinen Vater auf der Reise nach Pempelfort; später angesehener Pädagoge am Altstädtischen Gymnasium und Lyriker</eintrag>
 </kommentar>
 
 <kommentar id="hamann-vjc" type="neuzeit">
@@ -4852,7 +4871,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;291&#x2013
 
 <kommentar id="hartknoch-a" type="neuzeit">
 <lemma>Albertine Hartknoch</lemma>
-<eintrag>Lebensdaten unbekannt. Geb. Toussaint, zweite Frau von <link ref="hartknoch" linktext="true"/>, sie heirateten 1774.</eintrag>
+<eintrag>Gest. 1829. Geb. Toussaint, zweite Frau von <link ref="hartknoch" linktext="true"/>, sie heirateten 1774.</eintrag>
 </kommentar>
 
 <kommentar id="hartknoch-ab" type="neuzeit">
@@ -5068,9 +5087,19 @@ Von und an Herder, 3 Bde. (Leipzig 1861–1862).
 </subsection>
 </kommentar>
 
+<kommentar id="herder-a" type="neuzeit">
+<lemma>August Herder</lemma>
+<eintrag>1776–1838. Sohn von <link ref="herder" linktext="true"/>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Schellhas, Walter: Herder, August Freiherr von, in: <titel>NDB</titel>&#x202f;8 (1969), S.&#x202f;594f.</wwwlink></eintrag>
+</kommentar>
+
+<kommentar id="herder-c" type="neuzeit">
+<lemma>Caroline Herder</lemma>
+<eintrag>1748–1793. Geb. Flachsland, sei 1773 Ehefrau von <link ref="herder" linktext="true"/>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29949.html#ndbcontent">Dobbek, Wilhelm: Herder, Carolina, in: <titel>NDB</titel>&#x202f;8 (1969), S.&#x202f;603f.</wwwlink></eintrag>
+</kommentar>
+
 <kommentar id="herder-cd-g" type="neuzeit">
-<lemma>Catharina Dorothea Güldenhord, geborene Herder</lemma>
-<eintrag>1748–1793. Jüngere Schwester von <link ref="herder" linktext="true"/>, verheiratet mit Christoph Güldenhorn</eintrag>
+<lemma>Catharina Dorothea Güldenhord</lemma>
+<eintrag>1748–1793. Geb. Herder, jüngere Schwester von <link ref="herder" linktext="true"/>, verheiratet mit Christoph Güldenhorn</eintrag>
 </kommentar>
 
 <kommentar id="herodot" type="neuzeit">
@@ -5182,7 +5211,12 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <eintrag>347&#x2013;420. Kirchenlehrer, Heiliger.</eintrag>
 </kommentar>
 
-<kommentar id="hill" type="neuzeit">
+<kommentar id="hill-c" type="neuzeit">
+<lemma>Christian Hill</lemma>
+<eintrag>Gest. 1809. Studierte Theologie in Königsberg; begab sich mittellos auf Reisen, wobei ihn Hamann durch finanzielle Zuwendungen und Empfehlungsbriefe unterstützte; stand später Hamanns Haushalt vor, als er mit seinem Sohn 1787 nach Pempelfort reiste.</eintrag>
+</kommentar>
+
+<kommentar id="hill-j" type="neuzeit">
 <lemma>John Hill</lemma>
 <eintrag>1716&#x2013;1775. Engl. Journalist und Historiker, Botaniker.</eintrag>
 <subsection id="hill-lucina" type="neuzeit">
@@ -5323,6 +5357,11 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <lemma>Hobbes, Vita</lemma>
 <eintrag><titel>Thomæ Hobbes Angli Malmesburiensis philosophi vita</titel> (Charleville 1681) [Biga&#x202F;96/325: „Thom. Hobbes Vita, Carol. 681“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hogendorp-d" type="neuzeit">
+<lemma>Dirk Graf van Hogendorp</lemma>
+<eintrag>1761&#x2013;1822. Preuß. Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling </link>, wo er <link ref="kant" linktext="true"/> kennenlernte. Hat ein Duell, bei dem er einen Schuß in den Unterleib davonträgt. Nimmt, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Hamann hält ihn zunächst für einen schlechten Charakter. Eine Zeitlang kampiert er in einem Zelt in Hamanns Garten. Dessen moralischer Groll mildert sich. Hogendorp geht bald nach Holland, segelt am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain- Lieutenant nach Südafrika, lebt eine gewisse Zeit in Kapstadt.</eintrag>
 </kommentar>
 
 <kommentar id="hogarth" type="neuzeit">
@@ -5612,15 +5651,21 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 
 J
 
+<kommentar id="jacobi" type="neuzeit">
+<lemma>Friedrich Heinrich Jacobi</lemma>
+<eintrag>1743&#x2013;1819. Philosoph, Schriftsteller und Kaufmann in Pempelfort bei Düsseldorf, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz36627.html#ndbcontent">Hammacher, Klaus: Jacobi, Friedrich Heinrich Ritter von, in: <titel>NDB</titel>&#x202F;10 (1974), S.&#x202F;222–224</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="jacobi-jc" type="neuzeit">
 <lemma>Johann Conrad Jacobi</lemma>
-<eintrag>1717&#x2013;1774. Kaufmann, Bankier, Kommerzienrat in Königsberg. <wwwlink address="https://www.deutsche-biographie.de/pnd136251862.html#ndbcontent">Fritz Gause: Jacobi, Johann Konrad, in: <titel>ADB</titel>&#x202F;10 (1974), S.&#x202F;231f.</wwwlink>
+<eintrag>1717&#x2013;1774. Kaufmann, Bankier, Kommerzienrat in Königsberg. <wwwlink address="https://www.deutsche-biographie.de/pnd136251862.html#ndbcontent">Fritz Gause: Jacobi, Johann Konrad, in: <titel>ADB</titel>&#x202F;10 (1974), S.&#x202F;231f.</wwwlink>.
 </eintrag>
 </kommentar>
 
 <kommentar id="jacobi-jf" type="neuzeit">
 <lemma>Johann Friedrich Jacobi</lemma>
-<eintrag>1712&#x2013;1791. Lutherischer Theologe; Generalsuperintendent des Fürstentums Lüneburg in Celle; Schriftsteller; Konsistorialrat; Mitbegründer und Direktor der Landwirtschaftsgesellschaft, Onkel Friedrich Heinrich Jacobis, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz36642.html#adbcontent">Franck, Jakob: Jacobi, Johann Friedrich, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;586f</wwwlink>.</eintrag>
+<eintrag>1712&#x2013;1791. Lutherischer Theologe; Generalsuperintendent des Fürstentums Lüneburg in Celle; Schriftsteller; Konsistorialrat; Mitbegründer und Direktor der Landwirtschaftsgesellschaft, Onkel von <link ref="jacobi" linktext="true"/>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz36642.html#adbcontent">Franck, Jakob: Jacobi, Johann Friedrich, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;586f</wwwlink>.</eintrag>
 <subsection id="jacobi-reden" type="neuzeit" sort="10">
 <lemma>Johann Friedrich Jacobi, <titel>Sammlung einiger geistlicher Reden</titel></lemma>
 <eintrag>
@@ -6051,7 +6096,17 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 
 <kommentar id="katharina" type="neuzeit">
 <lemma>Katharina II.</lemma>
-<eintrag>1729–1796. Sophie Auguste Friederike von Anhalt-Zerbst; ab Juli 1762 russischen Kaiserin.</eintrag>
+<eintrag>1729–1796. Sophie Auguste Friederike von Anhalt-Zerbst; ab Juli 1762 russische Kaiserin.</eintrag>
+</kommentar>
+
+<kommentar id="kaufmann-c" type="neuzeit">
+<lemma>Christoph Kaufmann</lemma>
+<eintrag>1753–1795. Schweiz. Apotheker, 1774f. in Straßburg, 1776f. Reise durch Deutschland nach Weimar, Dessau, über Königsberg nach St. Petersburg; 1777 Bauer in der Schweiz, 1781 Arzt in der Brüdergemeinde in Schlesien, vgl. <link ref="ehrmann" linktext="true"/>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz40180.html#ndbcontent">Menges, Franz: Kaufmann, Christoph, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;347&#x2013;349</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="kaufmann-e" type="neuzeit">
+<lemma>Elise Kaufmann</lemma>
+<eintrag>1750–1826. Geb. Anna Elisabeth Ziegler, seit 1778 Eherau von <link ref="kaufmann-c" linktext="true"/>; Patin von <link ref="courtan-sm" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="konigliche-d-g" type="neuzeit">
@@ -6103,6 +6158,16 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="keyserling-c" type="neuzeit">
+<lemma>Caroline Charlotte Amalie Reichsgräfin v. Keyserling</lemma>
+<eintrag>1729&#x2013;1791. Geb. v. Truchseß- Waldburg, seit 1763 Ehefrau von <link ref="keyserling-h" linktext="true"/>, Witwe von Johann Gebhard v. Keyserling.</eintrag>
+</kommentar>
+
+<kommentar id="keyserling-h" type="neuzeit">
+<lemma>Heinrich Christian Reichsgraf v. Keyserling</lemma>
+<eintrag>1727&#x2013;1787. Russ. Geheimer Staatsrat, zog sich der ersten Teilung Polens vom öffentlichen Leben zurück, seit 1772 in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="thomaskempen" type="neuzeit">
@@ -6197,6 +6262,11 @@ Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt</wwwlink>.
 <kommentar id="kleist-gch" type="neuzeit">
 <lemma>Georg Christoph v. Kleist</lemma>
 <eintrag>1729&#x2013;1800. Majoratsherr auf Leegen (Lega).</eintrag>
+</kommentar>
+
+<kommentar id="kleuker" type="neuzeit">
+<lemma>Kleuker, Johann Friedrich</lemma>
+<eintrag>1749–1827. Evangelischer Theologe, Orientalist, Hauslehrer in Bückeburg, 1778 Rektor in Osnabrück, von Hamann auch Prudentius genannt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz42769.html#ndbcontent">Göbell, Walter: Kleuker, Johann Friedrich, in: <titel>NDB</titel>&#x202F;12 (1977), S.&#x202F;56f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="klingstaedt" type="neuzeit">
@@ -6415,6 +6485,11 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <eintrag>1700&#x2013;1771. Jurist. Seit 1752 Kanzler der Königsberger Universität, in dieser Rolle auch Zensor in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd129884367.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="kraus" type="neuzeit">
+<lemma>Christian Jacob Kraus</lemma>
+<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, 1781 als Nachfolger von K. A. Christiani Prof. der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von J. Ch. Buchholtz; von Hamann auch Crispus, Crispinius, Morcinnimastix genannt; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink></eintrag>
+</kommentar>
+
 <kommentar id="krebs" type="neuzeit">
 <lemma>Johann Tobias Krebs</lemma>
 <eintrag>1718&#x2013;1782. Rektor in Grimma; <wwwlink address="https://www.deutsche-biographie.de/sfz45054.html#adbcontent">Kämmel, Heinrich: Krebs, Johann Tobias, in: <titel>ADB</titel>&#x202F;17 (1883), S.&#x202F;97f.</wwwlink>.
@@ -6446,7 +6521,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kud-kammer" type="neuzeit">
 <lemma>Königliche Kriegs- und Domänenkammer</lemma>
-<eintrag>Provinzialbehörde in Königsberg, die Steuern und Abgaben verwaltete, die für die Bedürfnisse der Armee bestimmt waren. Die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink></eintrag>
+<eintrag>Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="kruger-jc" type="neuzeit">
@@ -6635,9 +6710,14 @@ L
 </subsection>
 </kommentar>
 
-<kommentar id="laubmeyer" type="neuzeit">
+<kommentar id="laubmeyer-jc" type="neuzeit">
 <lemma>Johann Christian Laubmeyer</lemma>
 <eintrag>1718–1769. Prof. der Medizin und Chemie, Inhaber der Altstädtischen Apotheke.</eintrag>
+</kommentar>
+
+<kommentar id="laubmeyer-jb" type="neuzeit">
+<lemma>Johann Benjamin Laubmeyer</lemma>
+<eintrag>1750–1795, ältester Sohn von <link ref="laubmeyer-jc" linktext="true"/>, Apotheker. Spitzname: gewesener Widersacher</eintrag>
 </kommentar>
 
 <kommentar id="lauson" type="neuzeit">
@@ -6686,6 +6766,11 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true"/> wurd
 <kommentar id="lavalette" type="neuzeit">
 <lemma>Antoine de La Valette</lemma>
 <eintrag>1707&#x2013;1767. Missionsleiter in den französischen Kolonien Mittelamerikas.</eintrag>
+</kommentar>
+
+<kommentar id="lavater" type="neuzeit">
+<lemma>Johann Caspar Lavater</lemma>
+<eintrag>1741&#x2013;1801. Schweiz. reformierter Theologe, 1778 Diakon, 1786 Pfarrer an St. Peter in Zürich, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48577.html#ndbcontent">Proß, Wolfgang: Lavater, Johann Caspar, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;746&#x2013;750</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="lavini" type="neuzeit">
@@ -7177,6 +7262,11 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <titel>Evangelische Zehenden gottgeheiligter Amts-Sorgen, in sechs Theilen</titel> (6&#x202F;Tle., Magdeburg 1717–28).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="loewen" type="neuzeit">
+<lemma>Samuel Liepmann Löwen</lemma>
+<eintrag>1750&#x2013;1827. Miniaturmaler.</eintrag>
 </kommentar>
 
 
@@ -9307,6 +9397,11 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 </subsection>
 </kommentar>
 
+<kommentar id="provinzialregierung" type="neuzeit">
+<lemma>Königlich-preußische Provinzialregierung in Königsberg</lemma>
+<eintrag>Die preußische Provinzialregierung verlor im 18. Jahrhundert zunehmend die administrative Selbstständigkeit und schränkte sich auf repräsentative Funktionen ein. Im Wesentlichen von der Berliner Regierung abhängig, besorgte sie aber etwa die Aufsicht über Teile der Justiz und das Passwesen. Vgl. Königliche Akademie der Wissenschaften (Hrsg.): Acta Borussica. Denkmäler der Preußischen Staatsverwaltung im 18. Jahrhundert (38 Bde.). Berlin 1892 ff., VI, 291–301.</eintrag>
+</kommentar>
+
 <kommentar id="prevost" type="neuzeit">
 <lemma>Antoine-François Prévost d’Exiles</lemma>
 <eintrag>1697&#x2013;1763. Französischer Schriftsteller.</eintrag>
@@ -9576,7 +9671,7 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 
 <kommentar id="reichardt-jf" type="neuzeit">
 <lemma>Johann Friedrich Reichardt</lemma>
-<eintrag></eintrag>
+<eintrag>1752–1814. Sohn von <link ref="reichardt-j" linktext="true"/>, Musiker und Komponist, seit 1776 preuß. Kapellmeister in Berlin, oft auf Reisen: 1783 Schweiz, Italien, Wien, Hamburg, 1785 London, Paris</eintrag>
 </kommentar>
 
 <kommentar id="reichel" type="neuzeit">
@@ -10162,7 +10257,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 </kommentar>
 
 <kommentar id="scheffner-jg" type="neuzeit">
-<lemma>Johann Georg Scheffner</lemma>
+<lemma>Johann George Scheffner</lemma>
 <eintrag>1736&#x2013;1820. Preuß. Beamter, Lyriker, Übersetzer, 1767 Kriegs- und Steuerrat in Gumbinnen, 1771 in Königsberg, 1772&#x2013;75 in Marienwerder, später Gutsbesitzer in Sprintlaken, ab 1796 lebte er wieder in Königsberg; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118834134.html#adbcontent">Brenning, E., Scheffner, Johann George, in: <titel>ADB</titel>&#x202F;30 (1890), S.&#x202F;685&#x2013;688</wwwlink>.
 </eintrag>
 <subsection id="scheffner-jugendliche" type="neuzeit" sort="10">
@@ -10177,6 +10272,12 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <titel>Campangen-Gedichte zum Zeitvertreib im Lager</titel> (Dresden 1761). Digitalisat: <wwwlink address="http://digitale.bibliothek.uni-halle.de/vd18/content/pageview/3859341">ULB Halle:	AB 154221 (6)</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="scheffner-se" type="neuzeit">
+<lemma>Susanne Elisabeth Scheffner</lemma>
+<eintrag>1734&#x2013;1813. Geb. Boissont. Frau von <link ref="scheffner-jg" linktext="true"/>
+</eintrag>
 </kommentar>
 
 <kommentar id="scheller" type="neuzeit">
@@ -10972,7 +11073,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="starck" type="neuzeit">
 <lemma>Johann August Starck</lemma>
-<eintrag>1741–1816. Theologe und Freimaurer, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink></eintrag>
+<eintrag>1741–1816. Evang. Theologe, 1763 Lehrer in St. Petersburg, 1769 außerordentlicher Professor der morgenländischen Sprachen in Königsberg, 1770 Zweiter Hofprediger, 1776 Oberhofprediger, Generalsuperintendent, verläßt 1777 Königsberg nach Streitigkeiten in der Fakultät, Gymnasialprofessor in Mitau, 1781 Oberhofprediger und Konsistorialrat in Darmstadt; er war 1766 heimlich in Paris konvertiert, gründete als Freimaurer das Klerikat der Templer; Hamanns Beichtvater 1775–1776, , siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink>. Spitznamen: Alexander von Adlersheim, der Hierophant</eintrag>
 </kommentar>
 
 <kommentar id="staupitz" type="neuzeit">
@@ -11094,12 +11195,17 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="stockmar" type="neuzeit">
 <lemma>Carl Christoph Stockmar</lemma>
-<eintrag>Accise- und Zolldirektor in Königsberg.</eintrag>
+<eintrag>Licent-Direktor am ostpreußischen Department in Königsberg; Provincial-, Akzise- u. Zolldirektor seit Oktober 1774; Hamanns Vorgesetzter und Nachbar.</eintrag>
 </kommentar>
 
 <kommentar id="stoffel-c" type="neuzeit">
 <lemma>Carl v. Stoffel</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Generalmajor.</eintrag>
+</kommentar>
+
+<kommentar id="stoltz-c" type="neuzeit">
+<lemma>Caroline Stoltz</lemma>
+<eintrag>1751–1792. Freundin von Elisa v. d. Recke</eintrag>
 </kommentar>
 
 <kommentar id="strabon" type="neuzeit">
@@ -12034,6 +12140,11 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <titel>La philosophie de l’Histoire, par le feu Mr. l’Abbé Bazin</titel> (Amsterdam 1765). [Biga&#x202F;106/155: „La philosophie de l’Histoire par Bazin. Amst. 765“].
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="voss" type="neuzeit">
+<lemma>Johann Heinrich Voß</lemma>
+<eintrag>1751–1826. Philologe, Mitglied des Göttinger Hains, 1778 Rektor in Otterndorf, 1782 in Eutin, 1786 Hofrat, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48828.html#adbcontent">Muncker, Franz: Voß, Johann, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;334&#x2013;349</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="vossius" type="neuzeit">
