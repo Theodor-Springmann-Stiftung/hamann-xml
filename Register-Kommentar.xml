@@ -2146,7 +2146,7 @@ Dt. Übers. zitiert nach: Helmut Kasten (Hg.), <titel>An seine Freunde / Epistul
 
 <kommentar id="claudius" type="neuzeit">
 <lemma>Matthias Claudius</lemma>
-<eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der Hamburgischen Adreß- Comptoir- Nachrichten, 1771–1775 Redaktion des Wandsbeker Bothen, 1776–1777 Mitglied der Oberlandkommission in Darmstadt. Von Hamann auch Asmus (cum puncto), Freund Hain, alter, lahmer Invalide, Görgel, Wandsbecker Bothe, hinkender Bote (claudus= hinkend) oder Claudius in ulubris genannt; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink></eintrag>
+<eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der Hamburgischen Adreß- Comptoir- Nachrichten, 1771–1775 Redaktion des Wandsbecker Bothen, 1776–1777 Mitglied der Oberlandkommission in Darmstadt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="claudius-r" type="neuzeit">
@@ -2868,6 +2868,16 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 <kommentar id="driest" type="neuzeit">
 <lemma>Johann Friedrich Driest</lemma>
 <eintrag>Gest. 1766. Buchdrucker in Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="druffel-jea" type="neuzeit">
+<lemma>Johann Ernst Aloysius Druffel</lemma>
+<eintrag>1766–1827. Bruder von <link ref="druffel-jg" linktext="true"/>, geht nach Göttingen.</eintrag>
+</kommentar>
+
+<kommentar id="druffel-jg" type="neuzeit">
+<lemma>Johann Gerhard Druffel</lemma>
+<eintrag>1759–1834. Bruder von <link ref="druffel-jea" linktext="true"/>, Advokat.</eintrag>
 </kommentar>
 
 <kommentar id="dryden" type="neuzeit">
@@ -3760,6 +3770,12 @@ G
 </subsection>
 </kommentar>
 
+<kommentar id="gallitzin-a" type="neuzeit">
+<lemma>Amalia von Gallitzin</lemma>
+<eintrag>1748–1806. Sallonière und Schriftstellerin in Münster, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz19848.html#ndbcontent">Sudhof, Siegfried, Johannes: Gallitzin, Amalia Fürstin, in: <titel>NDB</titel>&#x202F;6 (1964), S.&#x202F;51&#x2013;53</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="gantner" type="neuzeit">
 <lemma>Anton Gantner (auch Gandner, Kantner)</lemma>
 <eintrag>1740–1795. Schauspieler u.a. in der Schönemannschen Truppe, 1766 in Riga.
@@ -3768,7 +3784,7 @@ G
 
 <kommentar id="garbe" type="neuzeit">
 <lemma>Johann Gottlieb Garbe</lemma>
-<eintrag>Gest. 1792, Buchhändler, Drucker und Verleger in Frankfurt a.&#x202F;M.</eintrag>
+<eintrag>1722–1786, Buchhändler, Drucker und Verleger in Frankfurt a.&#x202F;M.</eintrag>
 </kommentar>
 
 <kommentar id="garnier" type="neuzeit">
@@ -3899,6 +3915,11 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 <kommentar id="generaladministration" type="neuzeit">
 <lemma>Generaladministration</lemma>
 <eintrag>Zentrale Regierungsbehörde in Berlin.</eintrag>
+</kommentar>
+
+<kommentar id="general-akzise-und-zoll-direktion" type="neuzeit">
+<lemma>Königlich-preußische General-Accise- und Zoll-Administration</lemma>
+<eintrag>Zentrale Akzise- und Zollbehörde in Berlin, bis zum Tod von <link ref="friedrich-II" linktext="true"/> geleitet von <link ref="launay" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="georg" type="neuzeit">
@@ -4087,6 +4108,12 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 </subsection>
 </kommentar>
 
+<kommentar id="goeschen" type="neuzeit">
+<lemma>Georg Joachim Göschen</lemma>
+<eintrag>1752–1828. Verleger in Leipzig, siehe<wwwlink address="https://www.deutsche-biographie.de/sfz21450.html#ndbcontent">Hiller, Helmut: Göschen, Georg Joachim, in: <titel>NDB</titel>&#x202F;6 (1964), S.&#x202F;541&#x2013;543</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="goettingische-anzeigen" type="neuzeit">
 <lemma>Göttingische Anzeigen von gelehrten Sachen</lemma>
 <eintrag>214 Bde. Seit 1739 unter dem Titel Göttingische Zeitung(en) von gelehrten Sachen, seit 1747 unter Leitung von Albrecht von Haller. Seit 1753 wurde die Zeitschrift von der Akademie der Wissenschaften zu Göttingen herausgegeben, bis 1801 unter dem Titel Göttingische Anzeigen von gelehrten Sachen. Digitalisat: <wwwlink address="https://opacplus.bsb-muenchen.de/title/BV002540923">BSB München</wwwlink>.</eintrag>
@@ -4130,6 +4157,11 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <titel>Lexicon, Arabico-Latinum. Contextum ex Probatioribus Orientis Lexicographis; accedit index Latinvs copiosissimus, qvi lexici Latino-Arabici vicem explere possit</titel> (London: Elsevir 1653) [Biga&#x202F;58/13: „Jac. Golii Lexicon Arabicum, Ludg. 653“]. Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10495475-1">BSB München: Res/2 L.as. 12</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="gomm-ge" type="neuzeit">
+<lemma>Gottlieb Ernst Gomm</lemma>
+<eintrag>Gest. 1820, Akzisebuchhalter.</eintrag>
 </kommentar>
 
 <kommentar id="gottsched" type="neuzeit">
@@ -6109,6 +6141,11 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 <eintrag>1750–1826. Geb. Anna Elisabeth Ziegler, seit 1778 Eherau von <link ref="kaufmann-c" linktext="true"/>; Patin von <link ref="courtan-sm" linktext="true"/>.</eintrag>
 </kommentar>
 
+<kommentar id="koepken" type="neuzeit">
+<lemma>Arnd von Koepken</lemma>
+<eintrag>1732&#x2013;1789, auch Arend Köpke. Königlich-preußischer Oberfinanz-, Kriegs- und Domänenrat. Ab 1786 Mitglied der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> und bis zu seinem Tod in der <link ref="generaladministration" linktext="true"/> tätig.</eintrag>
+</kommentar>
+
 <kommentar id="konigliche-d-g" type="neuzeit">
 <lemma>Königliche deutsche Gesellschaft von Königsberg</lemma>
 <eintrag>1741 gegründete Vereinigung zur Pflege der deutschen Sprache und Literatur, erster Direktor war Prof. <link ref="flottwell" linktext="true"/>. Er folgte damit den Empfehlungen von <link ref="gottsched" linktext="true"/>, der ihm auch die Vorlage für die Vereinssatzung lieferte (April 1741). Daraufhin galt es ein königliches Privileg zu erhalten nach dem Vorbild der Deutschen Gesellschaft in Greifswald. Flottwells und Gottscheds Anliegen war es, ein Gegengewicht zur Orthodoxie an der Universität Königsberg zu entwickeln, wo das Lateinische noch Hauptsprache des wissenschaftlichen Austauschs war. Von den Prof. der Universität war keine Unterstützung zu erwarten, auch Flottwells Versuch, dort eine Professur für Beredsamkeit zu erlangen, musste mit preußisch-königlichem Privileg gegen den Widerstand des Ordinariats forciert werden. Das Privileg für die Gesellschaft wurde im August 1743 erlangt (wie auch die Professur für Flottwell). Ein wichtiger Förderer dem preußischen Hof gegenüber und Mäzen war Johann Ernst v. Wallenrodt, der 1742 als Staats- und Kriegsminister nach Königsberg zog. Siehe zur Geschichte der Gesellschaft unter Flottwell bes.: Krause, Gottlieb: <titel>Gottsched und Flottwell, die Begründer der Deutschen Gesellschaft in Königsberg</titel> (Leipzig 1893).<line type="break"/>
@@ -6266,7 +6303,7 @@ Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt</wwwlink>.
 
 <kommentar id="kleuker" type="neuzeit">
 <lemma>Kleuker, Johann Friedrich</lemma>
-<eintrag>1749–1827. Evangelischer Theologe, Orientalist, Hauslehrer in Bückeburg, 1778 Rektor in Osnabrück, von Hamann auch Prudentius genannt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz42769.html#ndbcontent">Göbell, Walter: Kleuker, Johann Friedrich, in: <titel>NDB</titel>&#x202F;12 (1977), S.&#x202F;56f.</wwwlink></eintrag>
+<eintrag>1749–1827. Evangelischer Theologe, Orientalist, Hauslehrer in Bückeburg, 1778 Rektor in Osnabrück, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz42769.html#ndbcontent">Göbell, Walter: Kleuker, Johann Friedrich, in: <titel>NDB</titel>&#x202F;12 (1977), S.&#x202F;56f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="klingstaedt" type="neuzeit">
@@ -6487,7 +6524,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kraus" type="neuzeit">
 <lemma>Christian Jacob Kraus</lemma>
-<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, 1781 als Nachfolger von K. A. Christiani Prof. der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von J. Ch. Buchholtz; von Hamann auch Crispus, Crispinius, Morcinnimastix genannt; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink></eintrag>
+<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, 1781 als Nachfolger von K. A. Christiani Prof. der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von J. Ch. Buchholtz, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="krebs" type="neuzeit">
@@ -6718,6 +6755,12 @@ L
 <kommentar id="laubmeyer-jb" type="neuzeit">
 <lemma>Johann Benjamin Laubmeyer</lemma>
 <eintrag>1750–1795, ältester Sohn von <link ref="laubmeyer-jc" linktext="true"/>, Apotheker. Spitzname: gewesener Widersacher</eintrag>
+</kommentar>
+
+<kommentar id="launay" type="neuzeit">
+<lemma>Marcus Antonius de la Haye de Launay</lemma>
+<eintrag>Geb. 1730, gest. nach 1786. Mächtiger Finanzpolitiker von <link ref="friedrich-II" linktext="true"/>; Geheimer Finanzrath und Régisseur Général bei
+der <link ref="general-akzise-und-zoll-direktion" linktext="true"/>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48471.html">Isaacsohn, Siegfried: Launay, de la Haye de, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;52&#x2013;54</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="lauson" type="neuzeit">
@@ -7526,6 +7569,11 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 </subsection>
 </kommentar>
 
+<kommentar id="maletius" type="neuzeit">
+<lemma>Martinus Maletius</lemma>
+<eintrag>1744 Student in Königsberg.</eintrag>
+</kommentar>
+
 <kommentar id="mallet" type="neuzeit">
 <lemma>Edme-François Mallet</lemma>
 <eintrag>1713&#x2013;1755. Abt, Theologe, Mitarbeiter an der <link ref="encyclopedie" linktext="false"><titel>Encyclopédie</titel></link>. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;26, 1820), S.&#x202F;385.</eintrag>
@@ -7802,6 +7850,12 @@ Dt. Übers. zitiert nach: Paul Barié u. Winfried Schindler (Hg. u. Übers.), <t
 <titel>Betrachtungen über die vorbildlichen Bedeutungen der Aufopferung Isaaks</titel> (Bützow 1763).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="masius" type="neuzeit">
+<lemma>Gottfried Leberecht Masius</lemma>
+<eintrag>Geb. 1754. Theologe</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="massillon" type="neuzeit">
@@ -8908,6 +8962,11 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 </subsection>
 </kommentar>
 
+<kommentar id="penzel" type="neuzeit">
+<lemma>Abraham Jakob Penzel</lemma>
+<eintrag>1749&#x2013;1819. Abenteurer, und zeitweiliger Freund Hamanns; klassischer Philologe, Student in Leipzig, Halle, Würzburg, 1775–1778 Musketier des Regimentes Alt- Stutterheim in Königsberg, 1777 das Factotum der Kanterschen Buchhandlung, Privatdozent für alte Geschichte, desertierte 1778, konvertierte 1782 in Krakau, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202f; 25 (1887), S.&#x202f;363f.</wwwlink> und Hans Köppe: Abraham Jakob Penzels Lebensirrfahrten. Eine Menschen- und Kulturtragödie aus dem 18. Jahrhundert. Leipzig 1937.</eintrag>
+</kommentar>
+
 <kommentar id="perrin" type="neuzeit">
 <lemma>Jacques-Antoine-René Perrin</lemma>
 <eintrag>Gest. 1813. Frz. Arzt und Schriftsteller.</eintrag>
@@ -9402,6 +9461,11 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 <eintrag>Die preußische Provinzialregierung verlor im 18. Jahrhundert zunehmend die administrative Selbstständigkeit und schränkte sich auf repräsentative Funktionen ein. Im Wesentlichen von der Berliner Regierung abhängig, besorgte sie aber etwa die Aufsicht über Teile der Justiz und das Passwesen. Vgl. Königliche Akademie der Wissenschaften (Hrsg.): Acta Borussica. Denkmäler der Preußischen Staatsverwaltung im 18. Jahrhundert (38 Bde.). Berlin 1892 ff., VI, 291–301.</eintrag>
 </kommentar>
 
+<kommentar id="provinzial-akzise-und-zoll-direktion" type="neuzeit">
+<lemma>Königlich-preußische Provinzial-Akzise- und Zoll-Direktion in Königsberg</lemma>
+<eintrag>Provinzielles Zollamt in Königsberg (seit 1774 von <link ref="stockmar" linktext="true"/>) geführt; abhängig von den Direktiven der General-Akzise und Zoll-Direktion in Berlin unter <link ref="launay" linktext="true"/>.</eintrag>
+</kommentar>
+
 <kommentar id="prevost" type="neuzeit">
 <lemma>Antoine-François Prévost d’Exiles</lemma>
 <eintrag>1697&#x2013;1763. Französischer Schriftsteller.</eintrag>
@@ -9775,6 +9839,11 @@ Dt. Übers.: <titel>Briefe der Milady Juliane Catesby an die Milady Henriette Ca
 <eintrag>
 <titel>Briefe an die Christen in der Welt</titel> (2&#x00A0;Tle., Breslau 1757/8).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="recke-e" type="neuzeit">
+<lemma>Elisa von der Recke</lemma>
+<eintrag>1754&#x2013;1833. Charlotte Elisa (Elisabeth) Constantia von der Recke, geb. von Medem. Kurländische Adlige und am Okkulten interessierte Schriftstellerin, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz14653.html#adbcontent">Eckardt: Recke, Elisa Baronin von der, in: <titel>ADB</titel>&#x202F;27 (1888), S.&#x202F;502f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="reime" type="neuzeit">
@@ -10284,6 +10353,12 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <lemma>Immanuel Johann Gerhard Scheller</lemma>
 <eintrag>1735–1803. Philologe, 1771 Rektor des Gymnasiums und Bibliothekar in Brieg.</eintrag>
 </kommentar>
+
+<kommentar id="schenk" type="neuzeit">
+<lemma>Heinrich Schenk</lemma>
+<eintrag>1748–1813. Sekretär, Factotum und Freund von <link ref="jacobi" linktext="true"/>; später bayrischer Staatsmann, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz78180.html#adbcontent">Heigel, Karl Theodor von: Schenk, Heinrich Ritter von, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;47–49</wwwlink>.</eintrag>
+</kommentar>
+
 
 <kommentar id="schieferdecker" type="neuzeit">
 <lemma>Johann David Schieferdecker</lemma>
@@ -11147,6 +11222,11 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <titel>Das Leben und die Meynungen des Herrn Tristram Shandy. 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763)</titel> [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“] Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>
 </eintrag>.
 </subsection>
+</kommentar>
+
+<kommentar id="steudel-jg" type="neuzeit">
+<lemma>Johann Gottlieb Steudel</lemma>
+<eintrag>1743–1790. Pharmazeut, Naturwissenschaftler und Astronom in Esslingen.</eintrag>
 </kommentar>
 
 <kommentar id="sticotti" type="neuzeit">
@@ -12300,6 +12380,11 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 </subsection>
 </kommentar>
 
+<kommentar id="werder" type="neuzeit">
+<lemma>Hans Ernst Dietrich von Werder</lemma>
+<eintrag>1740&#x2013;1800. Ab 1781 Minister im Generaldirektorium und ab 1786 als Chef der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> mit der Abschaffung des französischen Akzisesystems unter <link ref="launay" linktext="true"/> betraut.</eintrag>
+</kommentar>
+
 <kommentar id="werner-jg" type="neuzeit">
 <lemma>Johann Gottfried v. Werner</lemma>
 <eintrag>1703&#x2013;1761. Justiziar und Direktor des Collegium medicum in Königsberg, Kriegs- und Domänenrat, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1082228885.html">Deutsche Biographie</wwwlink>.</eintrag>
@@ -12557,6 +12642,11 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 </subsection>
 </kommentar>
 
+<kommentar id="wizenmann" type="neuzeit">
+<lemma>Thomas Wizenmann</lemma>
+<eintrag>1759–1787. Evang. Theologe, 1780 Vikar in Essingen, 1783 Hauslehrer in Barmen, 1786 bis zu seinem Tod Gast von <link ref="jacobi" linktext="true"/> in Pempelfort, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz85977.html#adbcontent">Heinze, Max: Wizenmann, Thomas, in: <titel>ADB</titel>&#x202F;44 (1898), S.&#x202F;545&#x2013;548</wwwlink>.
+</eintrag>
+</kommentar>
 
 <kommentar id="wolf-jch" type="neuzeit">
 <lemma>Johann Christoph Wolf</lemma>

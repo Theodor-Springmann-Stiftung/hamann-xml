@@ -47,7 +47,7 @@
 			<personDef index="39" name="Friedrich Carl von Moser" ref="https://d-nb.info/gnd/118737074" vorname="Friedrich Carl von" nachname="Moser" komm="moser" />
 			<personDef index="40" name="Königliche Kriegs- und Domänen-Kammer in Königsberg" nachname="Kriegs- und Domänenkammer" komm="kud-kammer" />
 			<personDef index="41" name="Johann Gottfried Herder" ref="https://d-nb.info/gnd/118549553" vorname="Johann Gottfried" nachname="Herder" komm="herder" />
-			<personDef index="42" name="Königlich-preußische Provinzialregierung in Königsberg" nachname="Regierung" komm="provinzialregierung" />
+			<personDef index="42" name="Königlich-preußische Provinzialregierung in Königsberg" nachname="Provinzialregierung" komm="provinzialregierung" />
 			<personDef index="43" name="" />
 			<personDef index="44" name="Christian Gottlieb Arndt" ref="https://d-nb.info/gnd/116342579" vorname="Christian Gottlieb" nachname="Arndt" komm="arndt-cg" />
 			<personDef index="45" name="Johann Christian Buchholtz" ref="https://d-nb.info/gnd/1024881237" vorname="Johann Christian" nachname="Buchholtz" komm="bucholtz-k-jc" />
@@ -113,29 +113,29 @@
 			<personDef index="105" name="Christian Hill" vorname="Christian" nachname="Hill" komm="hill-c" />
 			<personDef index="106" name="Franz Kaspar Bucholtz" ref="https://d-nb.info/gnd/116826584" vorname="Franz Kaspar" nachname="Bucholtz" komm="bucholtz-w-fc" />
 			<personDef index="107" name="Elisabeth Regina Hamann" ref="https://d-nb.info/gnd/1118396340" vorname="Elisabeth Regina" nachname="Hamann" komm="hamann-er" />
-			<personDef index="108" name="Die Provinzial-Direktion" nachname="Provinzial-Direktion" />
+			<personDef index="108" name="Königlich-preußische Provinzial-Akzise- und Zoll-Direktion in Königsberg" nachname="Provinzial-Akzise- und Zoll-Direktion in Königsberg" komm="provinzial-akzise-und-zoll-direktion" />
 			<personDef index="109" name="" />
-			<personDef index="110" name="Elisa von der Recke" ref="https://d-nb.info/gnd/118743627" vorname="Elisa von der" nachname="Recke" />
-			<personDef index="111" name="Die Königliche General-Accise- und Zoll-Administration" nachname="General-Accise- und Zoll-Administration" />
-			<personDef index="112" name="Heinrich Schenk" ref="https://d-nb.info/gnd/117211958" vorname="Heinrich" nachname="Schenk" />
+			<personDef index="110" name="Elisa von der Recke" ref="https://d-nb.info/gnd/118743627" vorname="Elisa von der" nachname="Recke" komm="recke-e" />
+			<personDef index="111" name="Königlich-preußische General-Accise- und Zoll-Administration" nachname="General-Accise- und Zoll-Administration" komm="general-akzise-und-zoll-direktion" />
+			<personDef index="112" name="Heinrich Schenk" ref="https://d-nb.info/gnd/117211958" vorname="Heinrich" nachname="Schenk" komm="schenk" />
 			<personDef index="113" name="" />
-			<personDef index="114" name="Thomas Wizenmann" ref="https://d-nb.info/gnd/117446122" vorname="Thomas" nachname="Wizenmann" />
+			<personDef index="114" name="Thomas Wizenmann" ref="https://d-nb.info/gnd/117446122" vorname="Thomas" nachname="Wizenmann" komm="wizenmann" />
 			<personDef index="115" name="" />
-			<personDef index="116" name="Gottfried Leberecht Masius" ref=" 	https://d-nb.info/gnd/122112768" vorname="Gottfried Leberecht" nachname="Masius" />
+			<personDef index="116" name="Gottfried Leberecht Masius" ref="https://d-nb.info/gnd/122112768" vorname="Gottfried Leberecht" nachname="Masius" komm="masius" />
 			<personDef index="117" name="" />
-			<personDef index="118" name="Finanzrat von Köpke" nachname="Köpke" />
-			<personDef index="119" name="Minister Dietrich von Werder" ref="https://d-nb.info/gnd/1019460180" vorname="Dietrich von" nachname="Werder" />
-			<personDef index="120" name="Johann Ernst von Druffel" vorname="Johann Ernst von" nachname="Druffel" />
-			<personDef index="121" name="Finanzbeamter Gomm" nachname="Gomm" />
-			<personDef index="122" name="Fürstin Amalia von Gallitzin" ref="https://d-nb.info/gnd/118537342" vorname="Fürstin Amalia von" nachname="Gallitzin" />
+			<personDef index="118" name="Arnd von Koepken" vorname="Arnd" nachname="Köpke" komm="koepken" />
+			<personDef index="119" name="Hans Ernst Dietrich von Werder" ref="https://d-nb.info/gnd/1019460180" vorname="Dietrich von" nachname="Werder" komm="werder" />
+			<personDef index="120" name="Johann Ernst Aloysius Druffel" vorname="Johann Ernst" nachname="Druffel" komm="druffel-jea" />
+			<personDef index="121" name="Gottlieb Ernst Gomm" vorname="" nachname="Gomm" komm="gomm-ge" />
+			<personDef index="122" name="Amalia von Gallitzin" ref="https://d-nb.info/gnd/118537342" vorname="Amalia von" nachname="Gallitzin" komm="gallitzin-a" />
 			<personDef index="123" name="" />
 			<personDef index="124" name="" />
-			<personDef index="125" name="Johann Gottlieb Steudel" ref="https://d-nb.info/gnd/115743707" vorname="Johann Gottlieb" nachname="Steudel" />
+			<personDef index="125" name="Johann Gottlieb Steudel" ref="https://d-nb.info/gnd/115743707" vorname="Johann Gottlieb" nachname="Steudel" komm="steudel-jg" />
 			<personDef index="126" name="" />
-			<personDef index="127" name="Abraham Jakob Penzel" ref="https://d-nb.info/gnd/116077565" vorname="Abraham Jakob" nachname="Penzel" />
-			<personDef index="129" name="Martinus Maletius" ref="https://d-nb.info/gnd/11669422X" vorname="Martinus" nachname="Maletius" />
-			<personDef index="130" name="Vmtl. Theodor Gottlieb Hippel" ref="https://d-nb.info/gnd/11855137X" vorname="Theodor Gottlieb" nachname="Hippel" />
-			<personDef index="131" name="Georg Joachim Göschen" ref="https://d-nb.info/gnd/118695916" vorname="Georg Joachim" nachname="Göschen" />
+			<personDef index="127" name="Abraham Jakob Penzel" ref="https://d-nb.info/gnd/116077565" vorname="Abraham Jakob" nachname="Penzel" komm="penzel" />
+			<personDef index="129" name="Martinus Maletius" ref="https://d-nb.info/gnd/11669422X" vorname="Martinus" nachname="Maletius" komm="maletius" />
+			<personDef index="130" name="Vmtl. Theodor Gottlieb Hippel" ref="https://d-nb.info/gnd/11855137X" vorname="Theodor Gottlieb" nachname="Hippel" komm="hippel" />
+			<personDef index="131" name="Georg Joachim Göschen" ref="https://d-nb.info/gnd/118695916" vorname="Georg Joachim" nachname="Göschen" komm="goeschen" />
 		</personDefs>
       <handDefs>
 			<handDef index="-1" name="Unbekannt" />
