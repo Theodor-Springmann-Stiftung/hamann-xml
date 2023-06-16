@@ -3913,13 +3913,13 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 </kommentar>
 
 <kommentar id="general-akzise-und-zoll-direktion" type="neuzeit">
-<lemma>Königlich-preußische General-Akzise- und Zoll-Direktion</lemma>
-<eintrag>Zentrale Akzise- und Zollbehörde in Berlin, eines der Departements im <link ref="generaldirektorium" linktext="true"/>, von Hamann meist Generaladministration (Gen. Adm.) genannt; ihm unterstanden die provinziellen Akzise- und Zollbehörden wie die <link ref="provinzial-akzise-und-zoll-direktion" linktext="true"/>; bis zum Tod von <link ref="friedrich-II" linktext="true"/> nach dem Vorbild des französischen Akzisesystems geleitet von <link ref="launay" linktext="true"/>, danach von <link ref="werder" linktext="true"/>.</eintrag>
+<lemma>General-Akzise- und Zoll-Direktion</lemma>
+<eintrag>Zentrale königlich-preußische Akzise- und Zollbehörde in Berlin, eines der Departements im <link ref="generaldirektorium" linktext="true"/>, von Hamann meist Generaladministration (Gen. Adm.) genannt; ihm unterstanden die provinziellen Akzise- und Zollbehörden wie die <link ref="provinzial-akzise-und-zoll-direktion" linktext="true"/>; bis zum Tod von <link ref="friedrich-II" linktext="true"/> nach dem Vorbild des französischen Akzisesystems geleitet von <link ref="launay" linktext="true"/>, danach von <link ref="werder" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="generaldirektorium" type="neuzeit">
 <lemma>Generaldirektorium</lemma>
-<eintrag>General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für Innen- und Finanz-Politik sowie für die Finanzierung der Armee; ihm unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kud-kammer" linktext="true"/>.</eintrag>
+<eintrag>Königlich-preußisches General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für Innen- und Finanz-Politik sowie für die Finanzierung der Armee; ihm unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kriegs-und-domaenenkammer" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="georg" type="neuzeit">
@@ -6556,9 +6556,9 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <eintrag>1736&#x2013;1797. Hauslehrer in Berlin bei <link ref="sussmilch" linktext="true" />, 1765 Feldprediger in Schlesien, später Pastor zu Tschöplowitz.</eintrag>
 </kommentar>
 
-<kommentar id="kud-kammer" type="neuzeit">
-<lemma>Königlich-preußische Kriegs- und Domänenkammer in Königsberg</lemma>
-<eintrag>Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink></eintrag>
+<kommentar id="kriegs-und-domaenenkammer" type="neuzeit">
+<lemma>Kriegs- und Domänenkammer in Königsberg</lemma>
+<eintrag>Königlich-preußische Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung; abhängig von den Direktiven des <link ref="generaldirektorium" linktext="false">Generaldirektoriums</link>. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="kruger-jc" type="neuzeit">
@@ -9457,13 +9457,13 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 </kommentar>
 
 <kommentar id="provinzialregierung" type="neuzeit">
-<lemma>Königlich-preußische Provinzialregierung in Königsberg</lemma>
-<eintrag>Die preußische Provinzialregierung verlor im 18. Jahrhundert zunehmend die administrative Selbstständigkeit und schränkte sich auf repräsentative Funktionen ein. Im Wesentlichen von der Berliner Regierung abhängig, besorgte sie aber etwa die Aufsicht über Teile der Justiz und das Passwesen. Vgl. Königliche Akademie der Wissenschaften (Hrsg.): Acta Borussica. Denkmäler der Preußischen Staatsverwaltung im 18. Jahrhundert (38 Bde.). Berlin 1892 ff., VI, 291–301.</eintrag>
+<lemma>Provinzialregierung in Königsberg</lemma>
+<eintrag>Die königlich-preußische Provinzialregierung verlor im 18. Jahrhundert zunehmend die administrative Selbstständigkeit und schränkte sich auf repräsentative Funktionen ein. Im Wesentlichen von der Berliner Regierung abhängig, besorgte sie aber etwa die Aufsicht über Teile der Justiz und das Passwesen. Vgl. Königliche Akademie der Wissenschaften (Hrsg.): Acta Borussica. Denkmäler der Preußischen Staatsverwaltung im 18. Jahrhundert (38 Bde.). Berlin 1892 ff., VI, 291–301.</eintrag>
 </kommentar>
 
 <kommentar id="provinzial-akzise-und-zoll-direktion" type="neuzeit">
-<lemma>Königlich-preußische Provinzial-Akzise- und Zoll-Direktion in Königsberg</lemma>
-<eintrag>Provinzielles Zollamt in Königsberg, seit 1774 von <link ref="stockmar" linktext="true"/> geführt; abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> in Berlin unter <link ref="launay" linktext="true"/>.</eintrag>
+<lemma>Provinzial-Akzise- und Zoll-Direktion in Königsberg</lemma>
+<eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, seit 1774 von <link ref="stockmar" linktext="true"/> geführt; abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> in Berlin unter <link ref="launay" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="prevost" type="neuzeit">
@@ -9548,8 +9548,8 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 </kommentar>
 
 <kommentar id="pupillenkollegium" type="neuzeit">
-<lemma>Provinzialbehörde mit der Aufsicht über Vormundschaftssachen.</lemma>
-<eintrag></eintrag>
+<lemma>Pupillenkollegium</lemma>
+<eintrag>Provinzialbehörde mit der Aufsicht über Vormundschaftssachen.</eintrag>
 </kommentar>
 
 <kommentar id="putter" type="neuzeit">
@@ -12382,7 +12382,7 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 
 <kommentar id="werder" type="neuzeit">
 <lemma>Hans Ernst Dietrich von Werder</lemma>
-<eintrag>1740&#x2013;1800. Ab 1781 Minister im Generaldirektorium und ab 1786 als Chef der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> mit der Abschaffung des französischen Akzisesystems unter <link ref="launay" linktext="true"/> betraut.</eintrag>
+<eintrag>1740&#x2013;1800. Ab 1781 Minister im <link ref="generaldirektorium" linktext="true"/> und ab 1786 als Chef der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> mit der Abschaffung des französischen Akzisesystems unter <link ref="launay" linktext="true"/> betraut.</eintrag>
 </kommentar>
 
 <kommentar id="werner-jg" type="neuzeit">

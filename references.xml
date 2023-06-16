@@ -45,9 +45,9 @@
 			<personDef index="37" name="Friedrich Nicolai" ref="https://d-nb.info/gnd/118587668" vorname="Friedrich" nachname="Nicolai" komm="nicolai-f" />
 			<personDef index="38" name="Sebastian Friedrich Trescho" ref="https://d-nb.info/gnd/117414271" vorname="Sebastian Friedrich" nachname="Trescho" komm="trescho-sf" />
 			<personDef index="39" name="Friedrich Carl von Moser" ref="https://d-nb.info/gnd/118737074" vorname="Friedrich Carl von" nachname="Moser" komm="moser" />
-			<personDef index="40" name="Königlich-preußische Kriegs- und Domänen-Kammer in Königsberg" nachname="Kriegs- und Domänenkammer" komm="kud-kammer" />
+			<personDef index="40" name="Kriegs- und Domänen-Kammer in Königsberg" nachname="Kriegs- und Domänenkammer" komm="kriegs-und-domaenenkammer" />
 			<personDef index="41" name="Johann Gottfried Herder" ref="https://d-nb.info/gnd/118549553" vorname="Johann Gottfried" nachname="Herder" komm="herder" />
-			<personDef index="42" name="Königlich-preußische Provinzialregierung in Königsberg" nachname="Provinzialregierung" komm="provinzialregierung" />
+			<personDef index="42" name="Provinzialregierung in Königsberg" nachname="Provinzialregierung" komm="provinzialregierung" />
 			<personDef index="43" name="" />
 			<personDef index="44" name="Christian Gottlieb Arndt" ref="https://d-nb.info/gnd/116342579" vorname="Christian Gottlieb" nachname="Arndt" komm="arndt-cg" />
 			<personDef index="45" name="Johann Christian Buchholtz" ref="https://d-nb.info/gnd/1024881237" vorname="Johann Christian" nachname="Buchholtz" komm="bucholtz-k-jc" />
@@ -73,7 +73,7 @@
 			<personDef index="65" name="" />
 			<personDef index="66" name="" />
 			<personDef index="67" name="Sophie Marianne Courtan" vorname="Sophie Marianne" nachname="Courtan" komm="courtan-sm" />
-			<personDef index="68" name="Königlich-preußische General-Akzise- und Zoll-Direktion" nachname="General-Akzise- und Zoll-Direktion"  komm="general-akzise-und-zoll-direktion" />
+			<personDef index="68" name="General-Akzise- und Zoll-Direktion" nachname="General-Akzise- und Zoll-Direktion"  komm="general-akzise-und-zoll-direktion" />
 			<personDef index="69" name="Witwe Blom" nachname="Blom" komm="blom-w" />
 			<personDef index="70" name="" />
 			<personDef index="71" name="Johann Benjamin Laubmeyer" vorname ="Johann Benjamin" nachname="Laubmeyer" komm="laubmeyer-jb" />
@@ -113,10 +113,10 @@
 			<personDef index="105" name="Christian Hill" vorname="Christian" nachname="Hill" komm="hill-c" />
 			<personDef index="106" name="Franz Kaspar Bucholtz" ref="https://d-nb.info/gnd/116826584" vorname="Franz Kaspar" nachname="Bucholtz" komm="bucholtz-w-fc" />
 			<personDef index="107" name="Elisabeth Regina Hamann" ref="https://d-nb.info/gnd/1118396340" vorname="Elisabeth Regina" nachname="Hamann" komm="hamann-er" />
-			<personDef index="108" name="Königlich-preußische Provinzial-Akzise- und Zoll-Direktion in Königsberg" nachname="Provinzial-Akzise- und Zoll-Direktion in Königsberg" komm="provinzial-akzise-und-zoll-direktion" />
+			<personDef index="108" name="Provinzial-Akzise- und Zoll-Direktion in Königsberg" nachname="Provinzial-Akzise- und Zoll-Direktion in Königsberg" komm="provinzial-akzise-und-zoll-direktion" />
 			<personDef index="109" name="" />
 			<personDef index="110" name="Elisa von der Recke" ref="https://d-nb.info/gnd/118743627" vorname="Elisa von der" nachname="Recke" komm="recke-e" />
-			<personDef index="111" name="Königlich-preußische General-Akzise- und Zoll-Direktion" nachname="General-Akzise- und Zoll-Direktion" komm="general-akzise-und-zoll-direktion" />
+			<personDef index="111" name="General-Akzise- und Zoll-Direktion" nachname="General-Akzise- und Zoll-Direktion" komm="general-akzise-und-zoll-direktion" />
 			<personDef index="112" name="Heinrich Schenk" ref="https://d-nb.info/gnd/117211958" vorname="Heinrich" nachname="Schenk" komm="schenk" />
 			<personDef index="113" name="" />
 			<personDef index="114" name="Thomas Wizenmann" ref="https://d-nb.info/gnd/117446122" vorname="Thomas" nachname="Wizenmann" komm="wizenmann" />
