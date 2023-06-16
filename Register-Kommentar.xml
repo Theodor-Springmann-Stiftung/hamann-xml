@@ -3588,8 +3588,8 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 </kommentar>
 
 <kommentar id="dreikronenloge" type="neuzeit">
-<lemma>Ausschuss der Freimaurerloge zu den Drei Kronen</lemma>
-<eintrag></eintrag>
+<lemma>Freimaurerloge zu den Drei Kronen in Königsberg</lemma>
+<eintrag>1760 gestiftet, bekannte Mitglieder waren u.a. <link ref="kanter-jj" linktext="true"/>, <link ref="starck" linktext="true"/>, <link ref="hippel" linktext="true"/> und <link ref="scheffner" linktext="true"/>. Vgl. Richard Fischer: Geschichte der Johannisloge Zu den drei Kronen. Königsberg 1910.</eintrag>
 </kommentar>
 
 <kommentar id="freron" type="neuzeit">
@@ -3912,14 +3912,14 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 </subsection>
 </kommentar>
 
-<kommentar id="generaladministration" type="neuzeit">
-<lemma>Generaladministration</lemma>
-<eintrag>Zentrale Regierungsbehörde in Berlin.</eintrag>
+<kommentar id="general-akzise-und-zoll-direktion" type="neuzeit">
+<lemma>Königlich-preußische General-Akzise- und Zoll-Direktion</lemma>
+<eintrag>Zentrale Akzise- und Zollbehörde in Berlin, eines der Departements im <link ref="generaldirektorium" linktext="true"/>, von Hamann meist Generaladministration (Gen. Adm.) genannt; ihm unterstanden die provinziellen Akzise- und Zollbehörden wie die <link ref="provinzial-akzise-und-zoll-direktion" linktext="true"/>; bis zum Tod von <link ref="friedrich-II" linktext="true"/> nach dem Vorbild des französischen Akzisesystems geleitet von <link ref="launay" linktext="true"/>, danach von <link ref="werder" linktext="true"/>.</eintrag>
 </kommentar>
 
-<kommentar id="general-akzise-und-zoll-direktion" type="neuzeit">
-<lemma>Königlich-preußische General-Accise- und Zoll-Direktion</lemma>
-<eintrag>Zentrale Akzise- und Zollbehörde in Berlin, bis zum Tod von <link ref="friedrich-II" linktext="true"/> geleitet von <link ref="launay" linktext="true"/>, danach von <link ref="werder" linktext="true"/>.</eintrag>
+<kommentar id="generaldirektorium" type="neuzeit">
+<lemma>Generaldirektorium</lemma>
+<eintrag>General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für Innen- und Finanz-Politik sowie für die Finanzierung der Armee; ihm unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kud-kammer" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="georg" type="neuzeit">
@@ -5286,7 +5286,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="hindersin" type="neuzeit">
 <lemma>Daniel Friedrich Hindersin</lemma>
-<eintrag>1704&#x2013;1780. Ab 1751 dirigierender Bürgermeister in Königsberg.</eintrag>
+<eintrag>1704&#x2013;1780. Kriegs- und Steuerrat, ab 1751 dirigierender Bürgermeister in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="hinkelmann" type="neuzeit">
@@ -5387,7 +5387,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </subsection>
 <subsection id="hobbes-vita" type="neuzeit" sort="20">
 <lemma>Hobbes, Vita</lemma>
-<eintrag><titel>Thomæ Hobbes Angli Malmesburiensis philosophi vita</titel> (Charleville 1681) [Biga&#x202F;96/325: „Thom. Hobbes Vita, Carol. 681“].</eintrag>
+<eintrag><titel>Thomæ Hobbes Angli Malmesburiensis philosophi vita</titel> (Charleville 1681) [Biga&#x202F;96/325: „Thom. Hobbes Vita, Carol. 681“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11098621-4">Regensburg, Staatliche Bibliothek: 999/Hist.pol.3949</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -6557,7 +6557,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 </kommentar>
 
 <kommentar id="kud-kammer" type="neuzeit">
-<lemma>Königliche Kriegs- und Domänenkammer</lemma>
+<lemma>Königlich-preußische Kriegs- und Domänenkammer in Königsberg</lemma>
 <eintrag>Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink></eintrag>
 </kommentar>
 
@@ -9463,7 +9463,7 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 
 <kommentar id="provinzial-akzise-und-zoll-direktion" type="neuzeit">
 <lemma>Königlich-preußische Provinzial-Akzise- und Zoll-Direktion in Königsberg</lemma>
-<eintrag>Provinzielles Zollamt in Königsberg (seit 1774 von <link ref="stockmar" linktext="true"/>) geführt; abhängig von den Direktiven der General-Akzise und Zoll-Direktion in Berlin unter <link ref="launay" linktext="true"/>.</eintrag>
+<eintrag>Provinzielles Zollamt in Königsberg, seit 1774 von <link ref="stockmar" linktext="true"/> geführt; abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> in Berlin unter <link ref="launay" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="prevost" type="neuzeit">
@@ -10325,7 +10325,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 </subsection>
 </kommentar>
 
-<kommentar id="scheffner-jg" type="neuzeit">
+<kommentar id="scheffner" type="neuzeit">
 <lemma>Johann George Scheffner</lemma>
 <eintrag>1736&#x2013;1820. Preuß. Beamter, Lyriker, Übersetzer, 1767 Kriegs- und Steuerrat in Gumbinnen, 1771 in Königsberg, 1772&#x2013;75 in Marienwerder, später Gutsbesitzer in Sprintlaken, ab 1796 lebte er wieder in Königsberg; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118834134.html#adbcontent">Brenning, E., Scheffner, Johann George, in: <titel>ADB</titel>&#x202F;30 (1890), S.&#x202F;685&#x2013;688</wwwlink>.
 </eintrag>
@@ -10345,7 +10345,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 
 <kommentar id="scheffner-se" type="neuzeit">
 <lemma>Susanne Elisabeth Scheffner</lemma>
-<eintrag>1734&#x2013;1813. Geb. Boissont. Frau von <link ref="scheffner-jg" linktext="true"/>
+<eintrag>1734&#x2013;1813. Geb. Boissont. Frau von <link ref="scheffner" linktext="true"/>
 </eintrag>
 </kommentar>
 
