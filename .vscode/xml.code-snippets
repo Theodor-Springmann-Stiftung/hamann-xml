@@ -1,0 +1,52 @@
+{
+	// Place your hamann-xml workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+
+		"Marginalie einfügen": {
+			"scope": "xml",
+			"prefix": "marg",
+			"body": [  
+				"<marginal index=\"${1:index}\" letter=\"${2:Brief}\" page=\"${3:Seite}\" line=\"${4:Zeile}\">",
+				"${5:Text}",
+				"</marginal>"
+			]
+		},
+
+		"Verweis auf Kommentarstelle": {
+			"scope": "xml",
+			"prefix": "link",
+			"body": [
+				"<link ref=\"${1:Referenz}\" linktext=\"${2:true}\" /> $3"
+			]
+		},
+
+		"Verweis auf Sub-Kommentarstelle": {
+			"scope": "xml",
+			"prefix": "sublink",
+			"body": [
+				"<link ref=\"${1:Referenz}\" subref=\"${1:Sub-Referenz}\" linktext=\"${3:true}\" /> $4"
+			]
+		},
+
+		"Bezug": {
+			"scope": "xml",
+			"prefix": "bzg",
+			"body": [
+				"<bzg>${1:Bezugstext}</bzg> $2"
+			]
+		}
+}
