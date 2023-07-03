@@ -54,6 +54,11 @@ A
 </subsection>
 </kommentar>
 
+<kommentar id="acta-litteraria" type="neuzeit">
+<lemma>Acta litteraria</lemma>
+<eintrag>1764&#x2013;1772, Bde. 1-7, Altenburg: Richter. Hg. von <link ref="klotz" linktext="true" />. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10539777-2">München, Bayerische Staatsbibliothek: Eph.lit. 127-1</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="addison" type="neuzeit">
 <lemma>Joseph Addison</lemma>
 <eintrag>1672&#x2013;1719. Engl. Dichter, Politiker und Journalist. <wwwlink address="https://en.wikisource.org/wiki/Addison,_Joseph_(DNB00)">Leslie Stephen: Addison, Joseph, in: Dictionary of National Biography (1885–1900, V.&#x00A0;1)</wwwlink>.
@@ -2736,6 +2741,12 @@ vermutl. zus. mit <link ref="auvigny" linktext="true" />, <titel>Anecdotes galan
 <eintrag>1680&#x2013;1754. Frz. Lustspieldichter. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;11, 1814), S.&#x202F;240–244.</eintrag>
 </kommentar>
 
+<kommentar id="deutsche-bibliothek" type="neuzeit">
+<lemma>Deutsche Bibliothek der schönen Wissenschaften</lemma>
+<eintrag>Herausgegeben von <link ref="klotz" linktext="true" />, Halle: Gebauer 1767–71. Bd. 1–6 (= St. 1–24): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112604-1">München, Bayerische Staatsbibliothek -- P.o.germ. 741-1/2</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="devillers" type="neuzeit">
 <lemma>Charles Devillers</lemma>
 <eintrag>1724&#x2013;1809. Frz. Naturforscher.</eintrag>
@@ -3809,6 +3820,11 @@ G
 <titel>L’Homme de lettres</titel> (Paris 1764). [Biga 176/744: „L’Homme de lettres par Garnier, Par. 764“]. Digitalisat: <wwwlink address="https://archive.org/details/lhommedelettres01garngoog/mode/2up">Internet Archive</wwwlink>
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="garve" type="neuzeit">
+<lemma>Christian Garve</lemma>
+<eintrag>1742&#x2013;1798. Philosoph, Übersetzer, vgl. <wwwlink address="https://www.deutsche-biographie.de/sfz39297.html#adbcontent">Jacoby, Daniel: Garve, Christian, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;385&#x2013;392</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="gaudio" type="neuzeit">
@@ -8674,6 +8690,12 @@ N
 <eintrag>
 <titel>Der Vernünftler; eine sittliche Wochenschrift a. d. J. 1754, in dreyen Teilen</titel> (Tl.&#x202F;1&#x2013;3 [=&#x202F;St.&#x00A0;1&#x2013;48], Berlin 1754) [Biga&#x202F;136/111: „C. N. Naumann’s Vernünftler, 1–3ter Th. Berl. 754“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="neue-hallische-zeitungen" type="neuzeit">
+<lemma>Neue Hallische Gelehrte Zeitungen</lemma>
+<eintrag>Bde. 1-27, Halle: Curt 1766–92, hg. von  <link ref="klotz" linktext="true" />; <wwwlink address="https://digitale.bibliothek.uni-halle.de/urn/urn:nbn:de:gbv:3:1-696871">Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt, 2016</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="neues-gem-mag" type="neuzeit">
