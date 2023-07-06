@@ -155,7 +155,7 @@ A
 
 <kommentar id="allgemeine-deutsche-bib" type="neuzeit">
 <lemma>Allgemeine deutsche Bibliothek</lemma>
-<eintrag>Hrsg. v. <link ref="nicolai-f" linktext="true" />, Bd 1-118 nebst Anhängen u. Reg. Bde. Berlin/Stettin [ab 1770ff. Kiel] 1765–91. [Biga&#x202F;186/113: „Allgemeine deutsche Bibliothek, Band XXIV. St. 1. Band XXV. St. 1, Berl. 775“].</eintrag>
+<eintrag>Hrsg. v. <link ref="nicolai-f" linktext="true" />, Bd 1–118 nebst Anhängen u. Reg. Bde. Berlin/Stettin [ab 1770ff. Kiel] 1765–91. [Biga&#x202F;186/113: „Allgemeine deutsche Bibliothek, Band XXIV. St. 1. Band XXV. St. 1, Berl. 775“]. Digitalisat: <wwwlink address="http://ds.ub.uni-bielefeld.de/viewer/toc/2002572/1/">Universitätsbibliothek Bielefeld</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="alting" type="neuzeit">
@@ -9717,6 +9717,12 @@ R
 <titel>Ode an Hymen</titel> (Berlin 1763). Digitalisat: <wwwlink address="https://digitale.bibliothek.uni-halle.de/vd18/content/titleinfo/9709070">Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt: 01 A 6638 (19)</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="ramler-lieder" type="neuzeit">
+<lemma>Ramler (Hg.), <titel>Lieder der Deutschen</titel></lemma>
+<eintrag>
+<titel>Lieder der Deutschen</titel> (Berlin: Winter 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116685-8">BSB München: P.o.germ. 1119 x</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="rapin" type="neuzeit">
@@ -9756,6 +9762,12 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <kommentar id="raspe" type="neuzeit">
 <lemma>Rudolf Erich Raspe</lemma>
 <eintrag>1737&#x2013;1794. Sekretär der Königl. Bibliothek in Hannover, mit der Edition von <link ref="leibniz" linktext="true"/> betraut, 1767 Prof. der Altertümer am Collegium Carolinum in Kassel und Inspektor der Münzsammlung, die er z. T. veruntreute und daher nach England flüchten mußte.</eintrag>
+<subsection id="raspe-gunilde" type="neuzeit" sort="40">
+<lemma>Raspe, <titel>Hermin und Gunilde</titel></lemma>
+<eintrag>
+<titel><titel>Hermin und Gunilde,</titel> eine Geschichte aus den Ritterzeiten, die sich zwischen Adelepsen und Ußlar am Schäferberge zugetragen, nebst einem Vorberichte über die Ritterzeiten, und einer Allgegorie (Leipzig: Weidmanns Erben und Reich 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116723-1">BSB München: P.o.germ. 1123 h</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 
@@ -11518,7 +11530,15 @@ T
 
 <kommentar id="teller-wa" type="neuzeit">
 <lemma>Wilhelm Abraham Teller</lemma>
-<eintrag>1734&#x2013;1804. 1761 Prof. der Theologie in Helmstedt, 1767 Oberkonsistorialrat und Probst in Berlin, 1786 Akademiemitglied, siehe: <wwwlink address="https://www.deutsche-biographie.de/sfz82289.html#adbcontent">Tschackert, Paul: Teller, Wilhelm, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;556–558</wwwlink>.</eintrag> 
+<eintrag>1734&#x2013;1804. 1761 Prof. der Theologie in Helmstedt, 1767 Oberkonsistorialrat und Probst in Berlin, 1786 Akademiemitglied, siehe: <wwwlink address="https://www.deutsche-biographie.de/sfz82289.html#adbcontent">Tschackert, Paul: Teller, Wilhelm, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;556–558</wwwlink>.</eintrag>
+<subsection id="teller-uebersetzungen" type="neuzeit" sort="10">
+<lemma>Teller, <titel>Übersetzungen</titel></lemma>
+<eintrag><titel>Wilhelm Abraham Tellers Uebersetzungen des Seegen Jacobs und Mosis ingleichen des Lieds der Israeliten und der Debora</titel> mit beygefügten practischen Anmerkungen (Halle und Helmstädt: Hemmerde 1766). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id323075010">SLUB Dresden: Exeg.B.1072,1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="teller-schmidt" type="neuzeit" sort="20">
+<lemma>Teller, <titel>Schmid-Übersetzung</titel></lemma>
+<eintrag>Johann Schmidts weyland Doktors und Professors der Theologie zu Leipzig <titel>Kurze Anmerkungen über eines Ungenannten Neue Gedanken vom Ersten und Andren Adam</titel> auf Veranstaltung und unter der Aufsicht Herrn D. Tellers in Helmstädt aus dem Lateinischen übersetzt. Nebst einer <titel>Geschichte dieser Uebersetzung</titel> einem Beytrag zu einer <titel>Bestimmung der Grenzen der Nachahmung</titel> und Anhang einiger Beylagen (Halle und Helmstedt: Hemmerde 1766). Digitalisat: <wwwlink address="http://diglib.hab.de/drucke/g-205a-8f-helmst/start.htm">HAB Wolfenbüttel: H: G 205a.8° Helmst.</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="terenz" type="neuzeit">
