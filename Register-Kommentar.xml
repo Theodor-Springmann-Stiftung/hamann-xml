@@ -1088,6 +1088,16 @@ Hamanns Notiz dazu N&#x00A0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Monta
 <eintrag>1721&#x2013;1791. Engl. Dichter.</eintrag>
 </kommentar>
 
+<kommentar id="blair" type="neuzeit">
+<lemma>Hugh Blair</lemma>
+<eintrag>1718&#x2013;1800. Schottischer Schriftsteller und Theologe, 1762 Prof. der Rhetorik in Edinburgh.</eintrag>
+<subsection id="blair-dissertation" type="neuzeit" sort="10">
+<lemma>Blair, <titel>A critical dissertation on the poems of Ossian, the son of Fingal</titel></lemma>
+<eintrag>
+<titel>A critical dissertation on the poems of Ossian, the son of Fingal </titel> (London: Becket and De Hondt 1763). Digitalisat: <wwwlink address="https://digital.nls.uk/78747872">National Library of Scotland: Oss.197</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="blank" type="neuzeit">
 <lemma>Johann Gottlieb Blank</lemma>
 <eintrag>1723&#x2013;1764. Geb. in Gerdauen (Ostpreußen), bis zu seiner Ordination 1751 sieben Jahre lang Hofmeister in Livland; dann Pastor in Papendorf, das zum Gut Kegeln der <link ref="budberg-bh" linktext="true"/> gehörte.</eintrag>
@@ -5403,6 +5413,12 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <titel>Die Wirthschaft eines philosophischen Bauers</titel> (Zürich: Heidegger und Compagnie 1761) [Biga&#x202F;104/128: „H. C. Hirzels Wirthschaft eines philosophischen Bauers, Zür. 761“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10295965-9">BSB München: Oecon. 869</wwwlink>
 </eintrag>
 </subsection>
+<subsection id="hirzel-bild" type="neuzeit" sort="20">
+<lemma>Hirzel, <titel>Das Bild eines wahren Patrioten</titel></lemma>
+<eintrag>
+<titel>Das Bild eines wahren Patrioten, in einem Denkmal auf H. Blaarer v. Wartensee</titel> (Zürich: Orell und Gessner, 1767).
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="hobbes" type="neuzeit">
@@ -6420,6 +6436,12 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <kommentar id="klotz" type="neuzeit">
 <lemma>Christian Adolph Klotz</lemma>
 <eintrag>1738–1771. Philologe in Halle. Galt als Verfechter der Anakreontik bzw. Rokoko-Dichtung.</eintrag>
+<subsection id="klotz-muenzen" type="neuzeit" sort="10">
+<lemma>Klotz, <titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel></lemma>
+<eintrag>
+<titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel> (Altenburg 1767).
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="klueter" type="neuzeit">
@@ -7228,6 +7250,12 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <lemma>Lindner, <titel>Hipparin</titel></lemma>
 <eintrag>
 <titel>Hipparin, Dions Sohn</titel> in einer Schulhandlung gehalten den 25. November 1763. in der hiesigen Stadt- und Domschule. (Riga: Froelichische Buchhandlung 1763).
+</eintrag>
+</subsection>
+<subsection id="lindner-lehrbuch" type="neuzeit" sort="150">
+<lemma>Lindner, <titel>Lehrbuch der schönen Wissenschaften</titel></lemma>
+<eintrag>
+<titel>Lehrbuch der schönen Wissenschaften, insonderheit der Prosa und Poesie</titel> (3&#x00A0;Bde., Königsberg, Leipzig: Kanter 1767) [Biga&#x202F;162/529: „J. G. Lindners Lehrbuch der schoenen Wissenschaften, Th. I. II. Koenigsb. 767. 68. Donum“].
 </eintrag>
 </subsection>
 </kommentar>
@@ -10861,6 +10889,12 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 <kommentar id="semler" type="neuzeit">
 <lemma>Johann Salomo Semler</lemma>
 <eintrag>1725&#x2013;1791. Theologe und historisch-kritischer Bibelwissenschaftler, <wwwlink address="https://www.deutsche-biographie.de/sfz86038.html#adbcontent">Tschackert, P.: Semler, Johann Salomo, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;698&#x2013;704</wwwlink>.</eintrag>
+<subsection id="semler-historiae" type="neuzeit" sort="10">
+<lemma>Semler <titel>Historiae ecclesiasticae selecta capita</titel></lemma>
+<eintrag>
+<titel>Historiae ecclesiasticae selecta capita, cum epitome canonum, excerptis domgaticis et tabulis chronologicis</titel> (3&#x00A0;Bde., Halle: Tramp 1767/9).
+</eintrag>
+</subsection>
 </kommentar>
 
 
@@ -12344,6 +12378,17 @@ W
 <lemma>William Warburton</lemma>
 <eintrag>1698&#x2013;1779. Engl. Theologe, 1757 Dechant in Bristol, 1759 Bischof von Gloucester. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-28680">B. W. Young: Warburton, William, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
 </kommentar>
+
+<kommentar id="warton" type="neuzeit">
+<lemma>Joseph Warton</lemma>
+<eintrag>1722&#x2013;1800. Engl. Theologe, Literaturkritiker.</eintrag>
+<subsection id="warton-essay" type="neuzeit" sort="10">
+<lemma>Warton, <titel>An Essay on the Genius and Writings of Alexander Pope</titel></lemma>
+<eintrag>
+<titel>An Essay on the Genius and Writings of Alexander Pope</titel> (2&#x00A0;Bde., London 1757/82).</eintrag>
+</subsection>
+</kommentar>
+
 
 <kommentar id="waser" type="neuzeit">
 <lemma>Johann Heinrich Waser</lemma>
