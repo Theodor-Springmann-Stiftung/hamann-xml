@@ -39025,12 +39025,7 @@ Goldsmith, [Übers] Der Dorfprediger von Wakefield. A. d. Engl. [Goldsmith's]. L
 </marginal>
 
 <marginal index="11115" letter="346" page="401" line="36">
-<bzg>Menechmen</bzg> Sturz, Helfrich Peter (1736- 1779), Jurist und Schriftsteller, 1764 Privatsekretär des dän. Ministers von
-Bernstorff, 1775 Etatsrat in Oldenburg
-III,370; 385; 389; 390; VI,104.
-Die Menechmen oder Zwei Wochenschriften von gleicher Statur in 4 Aufzügen. Mit einer Liste von
-Druckfehlern und einem Titel, vielleicht auch einer Vorrede versehen und des Spaßes wegen dem
-Publico preisgegeben. Kopenhagen 1767. Biga 134/68. ?!?
+<bzg>Menechmen</bzg> <link ref="sturz" subref="sturz-menechmen" linktext="true" /> 
 </marginal>
 
 <marginal index="11116" letter="346" page="402" line="1">
@@ -39076,8 +39071,7 @@ und philologischen Anmerkungen von J. P. Bamberger. Halle 1764. ?!?
 </marginal>
 
 <marginal index="11126" letter="346" page="402" line="12">
-<bzg>Schilter antiquit. vet. German</bzg> Schilter, Johannes (1632- 1705), Rechtsgelehrter und Altertumsforscher
-Thesaurus antiquitatum teutonicarum, ecclesiasticarum, civilium, litterarum. Ulm 1727/8. ?!?
+<bzg>Schilter antiquit. vet. German</bzg>  <link ref="schilter" subref="schilter-thesaurus" linktext="true" />  
 </marginal>
 
 <marginal index="11127" letter="346" page="402" line="13">
@@ -39086,9 +39080,7 @@ Halberstadt, seit 1784 Prof. in Freiburg, ?!?
 </marginal>
 
 <marginal index="11128" letter="346" page="402" line="14">
-<bzg>Clodius hochberühmtem Werk</bzg> Clodius, Christian August (1738- 1784), Prof. der Philosophie in Leipzig [siehe auch Jenaische Zeitung
-von gelehrten Sachen]
-Versuche an der Literatur und Moral. Leipzig 1767. ?!?
+<bzg>Clodius hochberühmtem Werk</bzg> <link ref="clodius-ca" subref="clodius-ca-versuche" linktext="true" />  
 </marginal>
 
 <marginal index="11129" letter="346" page="402" line="15">
