@@ -4188,7 +4188,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <kommentar id="goldsmith" type="neuzeit">
 <lemma>Oliver Goldsmith</lemma>
 <eintrag>1728&#x2013;1774. Irischer Schriftsteller, siehe <wwwlink address="https://doi.org/10.1093/ref:odnb/10924">John A. Dussinger: Goldsmith, Oliver, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
-<subsection id="goldsmith-letters" type="neuzeit">
+<subsection id="goldsmith-letters" type="neuzeit" sort="10">
 <lemma>Goldsmith, <titel>The Citizen of the World or Letters from a Chinese Philosopher</titel></lemma>
 <eintrag>
 <titel>The Citizen of the World or Letters from a Chinese Philosopher, residing in London, to his Friends in the East</titel> (London 1762).
@@ -4196,6 +4196,15 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 Übers.: <titel>Briefe eines chinesischen Weltweisen an seine Freunde in den Morgenländern</titel> (2&#x00A0;Bde., Leipzig: Weidmanns Erben und Reich, 1763/64). 
 </eintrag>
 </subsection>
+<subsection id="goldsmith-wakefield" type="neuzeit" sort="20">
+<lemma>Goldsmith, <titel>The Vicar of Wakefield</titel></lemma>
+<eintrag>
+<titel>The Vicar of Wakefield. A Tale. Supposed to be written by himself</titel> (London 1766). [Biga&#x202F;150/339: „Der Landpriester von Wakefield, Leipz. 768“].
+<line type="break"/>
+Übers.: <titel>Der Dorfprediger von Wakefield. A. d. Engl.</titel> übersetzt von <link ref="bode-jjc" linktext="true" /> (Leipzig 1766). 
+</eintrag>
+</subsection>
+
 </kommentar>
 
 <kommentar id="golius" type="neuzeit">
@@ -5775,6 +5784,16 @@ J
 <lemma>Christoph Gottfried Jacobi, <titel>Die ursprüngliche Offenbarung Gottes</titel></lemma>
 <eintrag>
 <titel>Die ursprüngliche Offenbarung Gottes erwogen und zu weiterer Untersuchung vorgetragen</titel> (Halle 1759).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="jacobi-jh" type="neuzeit">
+<lemma>Johann Georg Jacobi</lemma>
+<eintrag>1740&#x2013;1814. Bruder von <link ref="jacobi" linktext="true" />, 1768-74 Kanonicus in Halberstadt, seit 1784 Prof. in Freiburg. <wwwlink address="https://www.deutsche-biographie.de/sfz36643.html#adbcontent">Jacoby, Daniel: Jacobi, Johann Georg, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;587–592</wwwlink></eintrag>
+<subsection id="jacobi-jh-gongora" type="neuzeit" sort="10">
+<lemma>Johann Georg Jacobi, <titel>Romanzen aus dem Spanischen des Gongora übersetzt</titel></lemma>
+<eintrag>
+<titel>Romanzen aus dem Spanischen des Gongora übersetzt</titel> (Halle: Gebauer 1767). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11343047-1">Passau, Staatliche Bibliothek: S nv/Lg (b) 42</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
