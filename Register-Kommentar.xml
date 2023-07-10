@@ -1081,6 +1081,11 @@ Hamanns Notiz dazu N&#x00A0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Monta
 <eintrag>
 <titel>Examen de la confession de foi du vicaire savoyard contenue dans Emile</titel> (Berlin 1763). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10762770-5">BSB München: Paed.th. 1401#Beibd.1</wwwlink>.</eintrag>
 </subsection>
+<subsection id="bitaube-homer" type="neuzeit" sort="10">
+<lemma>Bitaubé, <titel>Homer-Übersetzung</titel></lemma>
+<eintrag>
+<titel>L’Iliade d’Homère. Traduction nouvelle, précédée de Réflexions sur Homere</titel> (Berlin 1762; 2 Bde. Paris 1764).</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="blacklock" type="neuzeit">
@@ -1794,6 +1799,17 @@ Er vermittelte 1753 für Hamann die Hausmeisterstelle in Grünhof bei den <link 
 <kommentar id="canstein" type="neuzeit">
 <lemma>Karl Hildebrandt Frh. v. Canstein</lemma>
 <eintrag>1667&#x2013;1719. Stifter der Bibelanstalt in Halle.</eintrag>
+</kommentar>
+
+<kommentar id="canzler" type="neuzeit">
+<lemma>Karl Christian Canzler</lemma>
+<eintrag>1735&#x2013;1786. Bibleothekar.</eintrag>
+<subsection id="canzler-tonmessung" type="neuzeit">
+<lemma>Canzler, <titel>Ueber die teutsche Tonmessung</titel></lemma>
+<eintrag>
+<titel>Ueber die teutsche Tonmessung</titel> (Dresden 1766).
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="cardanus" type="neuzeit">
@@ -2601,6 +2617,12 @@ Siehe auch Walther Ziesemer (Hg.), <titel>Simon Dach Gedichte</titel>, Bd.&#x202
 <lemma>Damm, <titel>Das Neue Testament</titel></lemma>
 <eintrag>
 <titel>Das Neue Testament von neuem übersetzt und mit Anmerkungen begleitet</titel> (3&#x00A0;Bde., Berlin 1764/65).</eintrag>
+</subsection>
+
+<subsection id="damm-lexicongraecum" type="neuzeit" sort="30">
+<lemma>Damm, <titel>Novum Lexicon Graecum</titel></lemma>
+<eintrag>
+<titel>Novum Lexicon Graecum Etymologicum et Reale, cui pro basi substratae sunt Concordantiae et Elucidationes Homericae et Pindaricae</titel> (2&#x00A0;Bde., Berlin 1765/1778).</eintrag>
 </subsection>
 </kommentar>
 
@@ -4146,6 +4168,11 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <eintrag>
 <titel>Ein Schlachtgesang und zwey Siegeslieder von einem preussischen Grenadier</titel> (1758).</eintrag>
 </subsection>
+<subsection id="gleim-anakreon" type="neuzeit" sort="40">
+<lemma>Gleim, <titel>Lieder Nach dem Anakreon</titel></lemma>
+<eintrag>
+<titel>Lieder Nach dem Anakreon</titel> von dem Verfasser des Versuchs in scherzhaften Liedern (Berlin, Braunschweig 1766). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-150349203-19">ULB Halle: AB 139087</wwwlink></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="goclenius" type="neuzeit">
@@ -4320,6 +4347,17 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#x00A0;v. Joachim u. Brigitt
 <subsection id="Gresset-Oeuvres" type="neuzeit" sort="20">
 <lemma>Gresset, <titel>Oeuvres</titel></lemma>
 <eintrag><titel>Oeuvres de Monsieur Gresset, de l’Académie Françoise. Nouvelle Edition. Revue, corrigée &#x26; considérablement augmentée</titel> (Amsterdam 1755) [Biga&#x202F;176/755: „Oeuvres de Mr. Gresset, Tom I. II. Amst. 755.“].</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="grillo" type="neuzeit">
+<lemma>Friedrich Grillo</lemma>
+<eintrag>1737&#x2013;1802. Klassischer Philologe und Übersetzer, Mitarbeiter bei den <link ref="briefe-literatur" linktext="true"/></eintrag>
+<subsection id="grillo-daphnischloe" type="neuzeit" sort="10">
+<lemma>Grillo, <titel>Daphnis und Chloe</titel></lemma>
+<eintrag>
+<titel>Daphnis und Chloe</titel>. Aus dem Griechischen des Longus (Berlin 1765) (1735). 
+</eintrag>
 </subsection>
 </kommentar>
 
@@ -5985,7 +6023,7 @@ K
 <lemma>Kames, <titel>Elements of Criticism</titel></lemma>
 <eintrag>
 <titel>Elements of Criticism</titel> (3&#x00A0;Bde., Edinburgh 1762). <line type="break"/>
-Übers.: <titel>Grundsätze der Critik, in drey Theilen, von Heinrich Home, aus dem Englischen übersetzt</titel> (3&#x00A0;Bde., Leipzig: Dyckische Handlung 1763-72). Digitalisat: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/kames1763bd1">UB Heidelberg: G 28 B RES::1</wwwlink>.
+Übers. (von <link ref="meinhard" linktext="true"/>): <titel>Grundsätze der Critik, in drey Theilen, von Heinrich Home, aus dem Englischen übersetzt</titel> (3&#x00A0;Bde., Leipzig: Dyckische Handlung 1763–1766). Digitalisat: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/kames1763bd1">UB Heidelberg: G 28 B RES::1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9893,6 +9931,11 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 </subsection>
 </kommentar>
 
+<kommentar id="reiske" type="neuzeit">
+<lemma>Johann Jakob Reiske</lemma>
+<eintrag>1716&#x2013;1774. Altphilologe, bedeutender Arabist und Gräzist in Leipzig.</eintrag>
+</kommentar>
+
 <kommentar id="riccoboni" type="neuzeit">
 <lemma>Marie-Jeanne Riccoboni</lemma>
 <eintrag>1713&#x2013;1792. Frz. Schauspielerin, Schriftstellerin.</eintrag>
@@ -11213,6 +11256,12 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <lemma>Spalding, <titel>Gedanken über den Werth der Gefühle im Christenthum</titel></lemma>
 <eintrag>
 <titel>Gedanken über den Werth der Gefühle im Christenthum</titel> (Leipzig 1761). Digitalisat, 2. Auflage 1773: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596308-5">BSB München: -- Mor. 407</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="spalding-predigten" type="neuzeit" sort="20">
+<lemma>Spalding, <titel>Predigten</titel></lemma>
+<eintrag>
+<titel>Predigten</titel> von Johann Joachim Spalding. Oberconsistorialrath und Probst in Berlin (Berlin und Stralsund 1765). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-301587">ULB Il 6827</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
