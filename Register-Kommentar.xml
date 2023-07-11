@@ -6505,7 +6505,25 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <kommentar id="klotz" type="neuzeit">
 <lemma>Christian Adolph Klotz</lemma>
 <eintrag>1738–1771. Philologe in Halle. Galt als Verfechter der Anakreontik bzw. Rokoko-Dichtung.</eintrag>
-<subsection id="klotz-muenzen" type="neuzeit" sort="10">
+<subsection id="klotz-mores" type="neuzeit" sort="10">
+<lemma>Klotz, <titel>Mores eruditorum. Genius saeculi</titel></lemma>
+<eintrag>
+<titel>Mores eruditorum. Genius saeculi</titel> (Altenburg 1760) [Biga&#x202F;147/292: „Mores Eruditorum 760. Genius Seculi, Alt. 760“]..
+</eintrag>
+</subsection>
+<subsection id="klotz-opuscula" type="neuzeit" sort="15">
+<lemma>Klotz, <titel>Opuscula poetica</titel></lemma>
+<eintrag>
+<titel>Opuscula poetica</titel> (Altenburg 1761).
+</eintrag>
+</subsection>
+<subsection id="klotz-carmina" type="neuzeit" sort="20">
+<lemma>Klotz, <titel>Carmina omnia</titel></lemma>
+<eintrag>
+<titel>Carmina omnia. Editio emendata et nova</titel> (Altenburg 1766).
+</eintrag>
+</subsection>
+<subsection id="klotz-muenzen" type="neuzeit" sort="40">
 <lemma>Klotz, <titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel></lemma>
 <eintrag>
 <titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel> (Altenburg 1767).
