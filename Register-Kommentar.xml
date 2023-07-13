@@ -5236,10 +5236,22 @@ Von und an Herder, 3 Bde. (Leipzig 1861–1862).
 <lemma>Johann Friedrich Herel</lemma>
 <eintrag>1745–1800. Philologe, Professor in Erfurt.
 </eintrag>
-<subsection id="herel-satirae" type="neuzeit">
+<subsection id="herel-satirae" type="neuzeit" sort="10">
 <lemma>Herel, <titel>Satirae Tres</titel></lemma>
 <eintrag>
 <titel>Satirae Tres</titel> (Altenburg: Richter 1757). [Biga 147/290: „Satyrae Alt. 767.“].
+</eintrag>
+</subsection>
+<subsection id="herel-epistola" type="neuzeit" sort="20">
+<lemma>Herel, <titel>Epistola critica ad J. G. Meuselium</titel></lemma>
+<eintrag>
+<titel>Epistola critica ad J. G. Meuselium</titel> (Altenburg: Richter 1757). [Biga 147/290: „J. F. Herelii Epistola critica ad J. G. Meuselium, Alt. 757.“].
+</eintrag>
+</subsection>
+<subsection id="herel-alciphron" type="neuzeit" sort="30">
+<lemma>Herel, <titel>Alciphrons Briefe</titel></lemma>
+<eintrag>
+<titel>Alciphrons Briefe. Erstes Buch. Aus dem Griech. übersetzt</titel> (Altenburg: Richter 1757).
 </eintrag>
 </subsection>
 </kommentar>
@@ -11104,6 +11116,17 @@ Hamann hat daraus Teile aus zwei Kapiteln übersetzt: „A Letter concerning Ent
 </subsection>
 </kommentar>
 
+<kommentar id="sharp" type="neuzeit">
+<lemma>Samuel Sharp</lemma>
+<eintrag>1700&#x2013;1778. Engl. Mediziner. 
+</eintrag>
+<subsection id="sharp-letters" type="neuzeit" sort="10">
+<lemma>Sharp, <titel>Letters from Italy</titel></lemma>
+<eintrag><titel>Letters from Italy, Describing the Customs and Manners of that Country, in the Years 1765, and 1766: To which is Annexed, an Admonition to Gentlemen who Pass the Alps, in Their Tour Through Italy</titel> (London, Dublin: Henry and Cave 1766). 
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="shuckford" type="neuzeit">
 <lemma>Samuel Shuckford</lemma>
 <eintrag>1694&#x2013;1754. Engl. Theologe. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25480">Cooper, T./Carter, P.: Shuckford, Samuel, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -12483,6 +12506,18 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <lemma>Voltaire, <titel>La philosophie de l'Histoire</titel></lemma>
 <eintrag>
 <titel>La philosophie de l’Histoire, par le feu Mr. l’Abbé Bazin</titel> (Amsterdam 1765). [Biga&#x202F;106/155: „La philosophie de l’Histoire par Bazin. Amst. 765“].
+</eintrag>
+</subsection>
+<subsection id="voltaire-ingenu" type="neuzeit" sort="200">
+<lemma>Voltaire, <titel>L’ingenu</titel></lemma>
+<eintrag>
+<titel>L’ingenu</titel> (Utrecht 1767).
+</eintrag>
+</subsection>
+<subsection id="voltaire-oncle" type="neuzeit" sort="210">
+<lemma>Voltaire, <titel>Defense à mon oncle</titel></lemma>
+<eintrag>
+<titel>Defense à mon oncle</titel> (Genf 1767).
 </eintrag>
 </subsection>
 </kommentar>
