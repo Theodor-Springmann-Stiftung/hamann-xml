@@ -155,7 +155,7 @@ A
 
 <kommentar id="allgemeine-deutsche-bib" type="neuzeit">
 <lemma>Allgemeine deutsche Bibliothek</lemma>
-<eintrag>Hrsg. v. <link ref="nicolai-f" linktext="true" />, Bd 1-118 nebst Anhängen u. Reg. Bde. Berlin/Stettin [ab 1770ff. Kiel] 1765–91. [Biga&#x202F;186/113: „Allgemeine deutsche Bibliothek, Band XXIV. St. 1. Band XXV. St. 1, Berl. 775“].</eintrag>
+<eintrag>Hrsg. v. <link ref="nicolai-f" linktext="true" />, Bd 1–118 nebst Anhängen u. Reg. Bde. Berlin/Stettin [ab 1770ff. Kiel] 1765–91. [Biga&#x202F;186/113: „Allgemeine deutsche Bibliothek, Band XXIV. St. 1. Band XXV. St. 1, Berl. 775“]. Digitalisat: <wwwlink address="http://ds.ub.uni-bielefeld.de/viewer/toc/2002572/1/">Universitätsbibliothek Bielefeld</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="alting" type="neuzeit">
@@ -1081,6 +1081,11 @@ Hamanns Notiz dazu N&#x00A0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Monta
 <eintrag>
 <titel>Examen de la confession de foi du vicaire savoyard contenue dans Emile</titel> (Berlin 1763). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10762770-5">BSB München: Paed.th. 1401#Beibd.1</wwwlink>.</eintrag>
 </subsection>
+<subsection id="bitaube-homer" type="neuzeit" sort="10">
+<lemma>Bitaubé, <titel>Homer-Übersetzung</titel></lemma>
+<eintrag>
+<titel>L’Iliade d’Homère. Traduction nouvelle, précédée de Réflexions sur Homere</titel> (Berlin 1762; 2 Bde. Paris 1764).</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="blacklock" type="neuzeit">
@@ -1796,6 +1801,17 @@ Er vermittelte 1753 für Hamann die Hausmeisterstelle in Grünhof bei den <link 
 <eintrag>1667&#x2013;1719. Stifter der Bibelanstalt in Halle.</eintrag>
 </kommentar>
 
+<kommentar id="canzler" type="neuzeit">
+<lemma>Karl Christian Canzler</lemma>
+<eintrag>1735&#x2013;1786. Bibleothekar.</eintrag>
+<subsection id="canzler-tonmessung" type="neuzeit">
+<lemma>Canzler, <titel>Ueber die teutsche Tonmessung</titel></lemma>
+<eintrag>
+<titel>Ueber die teutsche Tonmessung</titel> (Dresden 1766).
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="cardanus" type="neuzeit">
 <lemma>Hieronymus Cardanus</lemma>
 <eintrag>1501&#x2013;1576. Ital. Philosoph, Mathematiker und Arzt.</eintrag>
@@ -2229,6 +2245,18 @@ Dt. Übers. zitiert nach: Helmut Kasten (Hg.), <titel>An seine Freunde / Epistul
 </subsection>
 </kommentar>
 
+<kommentar id="clodius-ca" type="neuzeit">
+<lemma>Christian August Clodius</lemma>
+<eintrag>1738&#x2013;1784. Prof. der Philosophie in Leipzig, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz8488.html#adbcontent">Kelchner, Ernst: Christian August Clodius, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;334</wwwlink>.
+</eintrag>
+<subsection id="clodius-ca-versuche" type="neuzeit" sort="10">
+<lemma>Clodius, <titel>Versuche an der Literatur und Moral</titel></lemma>
+<eintrag>
+<titel>Versuche an der Literatur und Moral</titel> (4&#x00A0;Bde., Leipzig: Breitkopf und Sohn 1767/69).
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="cohausen" type="neuzeit">
 <lemma>Johann Heinrich Cohausen</lemma>
 <eintrag>1665&#x2013;1750. Arzt in Münster, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz8555.html#adbcontent">Hirsch, August: Cohausen, Johann Heinrich, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;394</wwwlink>..
@@ -2589,6 +2617,12 @@ Siehe auch Walther Ziesemer (Hg.), <titel>Simon Dach Gedichte</titel>, Bd.&#x202
 <lemma>Damm, <titel>Das Neue Testament</titel></lemma>
 <eintrag>
 <titel>Das Neue Testament von neuem übersetzt und mit Anmerkungen begleitet</titel> (3&#x00A0;Bde., Berlin 1764/65).</eintrag>
+</subsection>
+
+<subsection id="damm-lexicongraecum" type="neuzeit" sort="30">
+<lemma>Damm, <titel>Novum Lexicon Graecum</titel></lemma>
+<eintrag>
+<titel>Novum Lexicon Graecum Etymologicum et Reale, cui pro basi substratae sunt Concordantiae et Elucidationes Homericae et Pindaricae</titel> (2&#x00A0;Bde., Berlin 1765/1778).</eintrag>
 </subsection>
 </kommentar>
 
@@ -4134,6 +4168,11 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <eintrag>
 <titel>Ein Schlachtgesang und zwey Siegeslieder von einem preussischen Grenadier</titel> (1758).</eintrag>
 </subsection>
+<subsection id="gleim-anakreon" type="neuzeit" sort="40">
+<lemma>Gleim, <titel>Lieder Nach dem Anakreon</titel></lemma>
+<eintrag>
+<titel>Lieder Nach dem Anakreon</titel> von dem Verfasser des Versuchs in scherzhaften Liedern (Berlin, Braunschweig 1766). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-150349203-19">ULB Halle: AB 139087</wwwlink></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="goclenius" type="neuzeit">
@@ -4176,7 +4215,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <kommentar id="goldsmith" type="neuzeit">
 <lemma>Oliver Goldsmith</lemma>
 <eintrag>1728&#x2013;1774. Irischer Schriftsteller, siehe <wwwlink address="https://doi.org/10.1093/ref:odnb/10924">John A. Dussinger: Goldsmith, Oliver, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
-<subsection id="goldsmith-letters" type="neuzeit">
+<subsection id="goldsmith-letters" type="neuzeit" sort="10">
 <lemma>Goldsmith, <titel>The Citizen of the World or Letters from a Chinese Philosopher</titel></lemma>
 <eintrag>
 <titel>The Citizen of the World or Letters from a Chinese Philosopher, residing in London, to his Friends in the East</titel> (London 1762).
@@ -4184,6 +4223,15 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 Übers.: <titel>Briefe eines chinesischen Weltweisen an seine Freunde in den Morgenländern</titel> (2&#x00A0;Bde., Leipzig: Weidmanns Erben und Reich, 1763/64). 
 </eintrag>
 </subsection>
+<subsection id="goldsmith-wakefield" type="neuzeit" sort="20">
+<lemma>Goldsmith, <titel>The Vicar of Wakefield</titel></lemma>
+<eintrag>
+<titel>The Vicar of Wakefield. A Tale. Supposed to be written by himself</titel> (London 1766). [Biga&#x202F;150/339: „Der Landpriester von Wakefield, Leipz. 768“].
+<line type="break"/>
+Übers.: <titel>Der Dorfprediger von Wakefield. A. d. Engl.</titel> übersetzt von <link ref="bode-jjc" linktext="true" /> (Leipzig 1766). 
+</eintrag>
+</subsection>
+
 </kommentar>
 
 <kommentar id="golius" type="neuzeit">
@@ -4308,6 +4356,17 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#x00A0;v. Joachim u. Brigitt
 <subsection id="Gresset-Oeuvres" type="neuzeit" sort="20">
 <lemma>Gresset, <titel>Oeuvres</titel></lemma>
 <eintrag><titel>Oeuvres de Monsieur Gresset, de l’Académie Françoise. Nouvelle Edition. Revue, corrigée &#x26; considérablement augmentée</titel> (Amsterdam 1755) [Biga&#x202F;176/755: „Oeuvres de Mr. Gresset, Tom I. II. Amst. 755.“].</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="grillo" type="neuzeit">
+<lemma>Friedrich Grillo</lemma>
+<eintrag>1737&#x2013;1802. Klassischer Philologe und Übersetzer, Mitarbeiter bei den <link ref="briefe-literatur" linktext="true"/></eintrag>
+<subsection id="grillo-daphnischloe" type="neuzeit" sort="10">
+<lemma>Grillo, <titel>Daphnis und Chloe</titel></lemma>
+<eintrag>
+<titel>Daphnis und Chloe</titel>. Aus dem Griechischen des Longus (Berlin 1765) (1735). 
+</eintrag>
 </subsection>
 </kommentar>
 
@@ -5173,6 +5232,30 @@ Von und an Herder, 3 Bde. (Leipzig 1861–1862).
 <eintrag>1748–1793. Geb. Herder, jüngere Schwester von <link ref="herder" linktext="true"/>, verheiratet mit Christoph Güldenhorn</eintrag>
 </kommentar>
 
+<kommentar id="herel" type="neuzeit">
+<lemma>Johann Friedrich Herel</lemma>
+<eintrag>1745–1800. Philologe, Professor in Erfurt.
+</eintrag>
+<subsection id="herel-satirae" type="neuzeit" sort="10">
+<lemma>Herel, <titel>Satirae Tres</titel></lemma>
+<eintrag>
+<titel>Satirae Tres</titel> (Altenburg: Richter 1757). [Biga 147/290: „Satyrae Alt. 767.“].
+</eintrag>
+</subsection>
+<subsection id="herel-epistola" type="neuzeit" sort="20">
+<lemma>Herel, <titel>Epistola critica ad J. G. Meuselium</titel></lemma>
+<eintrag>
+<titel>Epistola critica ad J. G. Meuselium</titel> (Altenburg: Richter 1757). [Biga 147/290: „J. F. Herelii Epistola critica ad J. G. Meuselium, Alt. 757.“].
+</eintrag>
+</subsection>
+<subsection id="herel-alciphron" type="neuzeit" sort="30">
+<lemma>Herel, <titel>Alciphrons Briefe</titel></lemma>
+<eintrag>
+<titel>Alciphrons Briefe. Erstes Buch. Aus dem Griech. übersetzt</titel> (Altenburg: Richter 1757).
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="herodot" type="neuzeit">
 <lemma>Herodot</lemma>
 <eintrag>490/480&#x2013;430/420&#x202F;v.&#x202F;Chr., griechischer Historiker<line type="break"/>
@@ -5766,6 +5849,16 @@ J
 </subsection>
 </kommentar>
 
+<kommentar id="jacobi-jh" type="neuzeit">
+<lemma>Johann Georg Jacobi</lemma>
+<eintrag>1740&#x2013;1814. Bruder von <link ref="jacobi" linktext="true" />, 1768-74 Kanonicus in Halberstadt, seit 1784 Prof. in Freiburg. <wwwlink address="https://www.deutsche-biographie.de/sfz36643.html#adbcontent">Jacoby, Daniel: Jacobi, Johann Georg, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;587–592</wwwlink></eintrag>
+<subsection id="jacobi-jh-gongora" type="neuzeit" sort="10">
+<lemma>Johann Georg Jacobi, <titel>Romanzen aus dem Spanischen des Gongora übersetzt</titel></lemma>
+<eintrag>
+<titel>Romanzen aus dem Spanischen des Gongora übersetzt</titel> (Halle: Gebauer 1767). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11343047-1">Passau, Staatliche Bibliothek: S nv/Lg (b) 42</wwwlink></eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="jacquet" type="neuzeit">
 <lemma>Louis Jacquet</lemma>
 <eintrag>1732&#x2013;1794. Abbé in Lyon.</eintrag>
@@ -5973,7 +6066,7 @@ K
 <lemma>Kames, <titel>Elements of Criticism</titel></lemma>
 <eintrag>
 <titel>Elements of Criticism</titel> (3&#x00A0;Bde., Edinburgh 1762). <line type="break"/>
-Übers.: <titel>Grundsätze der Critik, in drey Theilen, von Heinrich Home, aus dem Englischen übersetzt</titel> (3&#x00A0;Bde., Leipzig: Dyckische Handlung 1763-72). Digitalisat: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/kames1763bd1">UB Heidelberg: G 28 B RES::1</wwwlink>.
+Übers. (von <link ref="meinhard" linktext="true"/>): <titel>Grundsätze der Critik, in drey Theilen, von Heinrich Home, aus dem Englischen übersetzt</titel> (3&#x00A0;Bde., Leipzig: Dyckische Handlung 1763–1766). Digitalisat: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/kames1763bd1">UB Heidelberg: G 28 B RES::1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6436,7 +6529,25 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <kommentar id="klotz" type="neuzeit">
 <lemma>Christian Adolph Klotz</lemma>
 <eintrag>1738–1771. Philologe in Halle. Galt als Verfechter der Anakreontik bzw. Rokoko-Dichtung.</eintrag>
-<subsection id="klotz-muenzen" type="neuzeit" sort="10">
+<subsection id="klotz-mores" type="neuzeit" sort="10">
+<lemma>Klotz, <titel>Mores eruditorum. Genius saeculi</titel></lemma>
+<eintrag>
+<titel>Mores eruditorum. Genius saeculi</titel> (Altenburg 1760) [Biga&#x202F;147/292: „Mores Eruditorum 760. Genius Seculi, Alt. 760“]..
+</eintrag>
+</subsection>
+<subsection id="klotz-opuscula" type="neuzeit" sort="15">
+<lemma>Klotz, <titel>Opuscula poetica</titel></lemma>
+<eintrag>
+<titel>Opuscula poetica</titel> (Altenburg: Richter 1761).
+</eintrag>
+</subsection>
+<subsection id="klotz-carmina" type="neuzeit" sort="20">
+<lemma>Klotz, <titel>Carmina omnia</titel></lemma>
+<eintrag>
+<titel>Carmina omnia. Editio emendata et nova</titel> (Altenburg 1766).
+</eintrag>
+</subsection>
+<subsection id="klotz-muenzen" type="neuzeit" sort="40">
 <lemma>Klotz, <titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel></lemma>
 <eintrag>
 <titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel> (Altenburg 1767).
@@ -9745,6 +9856,12 @@ R
 <titel>Ode an Hymen</titel> (Berlin 1763). Digitalisat: <wwwlink address="https://digitale.bibliothek.uni-halle.de/vd18/content/titleinfo/9709070">Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt: 01 A 6638 (19)</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="ramler-lieder" type="neuzeit">
+<lemma>Ramler (Hg.), <titel>Lieder der Deutschen</titel></lemma>
+<eintrag>
+<titel>Lieder der Deutschen</titel> (Berlin: Winter 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116685-8">BSB München: P.o.germ. 1119 x</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="rapin" type="neuzeit">
@@ -9784,6 +9901,12 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <kommentar id="raspe" type="neuzeit">
 <lemma>Rudolf Erich Raspe</lemma>
 <eintrag>1737&#x2013;1794. Sekretär der Königl. Bibliothek in Hannover, mit der Edition von <link ref="leibniz" linktext="true"/> betraut, 1767 Prof. der Altertümer am Collegium Carolinum in Kassel und Inspektor der Münzsammlung, die er z. T. veruntreute und daher nach England flüchten mußte.</eintrag>
+<subsection id="raspe-gunilde" type="neuzeit" sort="40">
+<lemma>Raspe, <titel>Hermin und Gunilde</titel></lemma>
+<eintrag>
+<titel><titel>Hermin und Gunilde,</titel> eine Geschichte aus den Ritterzeiten, die sich zwischen Adelepsen und Ußlar am Schäferberge zugetragen, nebst einem Vorberichte über die Ritterzeiten, und einer Allgegorie (Leipzig: Weidmanns Erben und Reich 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116723-1">BSB München: P.o.germ. 1123 h</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 
@@ -9867,6 +9990,11 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <titel>Biblische Policey, Das ist: Gewisse auß Heiliger Göttlicher Schrifft zusammen gebrachte auff die drey Haupt-Stände als den Geistlichen, Weltlichen und Häußlichen gerichtete Axiomata oder Schluß-Reden Sonderlich mit Biblischen Sprüchen und Exempeln, auch andern bestärcket in allen Ständen nützlich, dienlich und anmuthig zu lesen. Durch Herrn Dieterich Reinkingk zu Wellingsbüttel Königl. Dennemärckischen Rath und in den Fürstenthümmern Schleßwig Holstein etc. bestellten Cantzlern. Die fünffte Edition, Welche von vielen in den vorigen Editionen eingeschlichenen Truckfehlern verbessert mit behörigen Marginalien und vollkommenem Register vermehret worden</titel> (5. Aufl., Frankfurt a.&#x202F;M.: Schönwettern 1681; 1. Aufl. 1653). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-ppn3137895339">SLUB Dresden: 3.A.7768</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="reiske" type="neuzeit">
+<lemma>Johann Jakob Reiske</lemma>
+<eintrag>1716&#x2013;1774. Altphilologe, bedeutender Arabist und Gräzist in Leipzig.</eintrag>
 </kommentar>
 
 <kommentar id="riccoboni" type="neuzeit">
@@ -10471,6 +10599,19 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>1689&#x2013;1765. Inspektor des Fridericianums in Königsberg.</eintrag>
 </kommentar>
 
+<kommentar id="schilter" type="neuzeit">
+<lemma>Johann Schilter</lemma>
+<eintrag>1632&#x2013;1705.Rechtsgelehrter und Altertumsforscher; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48719.html#adbcontent">Eisenhart, August Ritter von: Schilter, Johann, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;266-268</wwwlink>.
+</eintrag>
+<subsection id="schilter-thesaurus" type="neuzeit" sort="10">
+<lemma>Schilter, <titel>Thesaurus antiquitatum teutonicarum</titel></lemma>
+<eintrag>
+<titel>Thesaurus antiquitatum teutonicarum, ecclesiasticarum, civilium, litterarum</titel> (2&#x00A0;Bde., Ulm: Bartholomae 1727).  
+</eintrag>
+</subsection>
+</kommentar>
+
+
 <kommentar id="schimmelpfennig" type="neuzeit">
 <lemma>Johann Christian Schimmelpfennig</lemma>
 <eintrag>Tribunalsrat in Königsberg.</eintrag>
@@ -10975,6 +11116,17 @@ Hamann hat daraus Teile aus zwei Kapiteln übersetzt: „A Letter concerning Ent
 </subsection>
 </kommentar>
 
+<kommentar id="sharp" type="neuzeit">
+<lemma>Samuel Sharp</lemma>
+<eintrag>1700&#x2013;1778. Engl. Mediziner. 
+</eintrag>
+<subsection id="sharp-letters" type="neuzeit" sort="10">
+<lemma>Sharp, <titel>Letters from Italy</titel></lemma>
+<eintrag><titel>Letters from Italy, Describing the Customs and Manners of that Country, in the Years 1765, and 1766: To which is Annexed, an Admonition to Gentlemen who Pass the Alps, in Their Tour Through Italy</titel> (London, Dublin: Henry and Cave 1766). 
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="shuckford" type="neuzeit">
 <lemma>Samuel Shuckford</lemma>
 <eintrag>1694&#x2013;1754. Engl. Theologe. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25480">Cooper, T./Carter, P.: Shuckford, Samuel, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -11176,6 +11328,12 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <lemma>Spalding, <titel>Gedanken über den Werth der Gefühle im Christenthum</titel></lemma>
 <eintrag>
 <titel>Gedanken über den Werth der Gefühle im Christenthum</titel> (Leipzig 1761). Digitalisat, 2. Auflage 1773: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10596308-5">BSB München: -- Mor. 407</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="spalding-predigten" type="neuzeit" sort="20">
+<lemma>Spalding, <titel>Predigten</titel></lemma>
+<eintrag>
+<titel>Predigten</titel> von Johann Joachim Spalding. Oberconsistorialrath und Probst in Berlin (Berlin und Stralsund 1765). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-301587">ULB Il 6827</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11432,6 +11590,19 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 </subsection>
 </kommentar>
 
+<kommentar id="sturz" type="neuzeit">
+<lemma>Helfrich Peter Sturz</lemma>
+<eintrag>1736&#x2013;1779.Jurist und Schriftsteller, 1764 Privatsekretär des dän. Ministers von Bernstorff, 1775 Etatsrat in Oldenburg; <wwwlink address="https://www.deutsche-biographie.de/sfz69047.html#adbcontent">Koch, Max: Sturz, Helfrich Peter, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;59&#x2013;61</wwwlink>.
+</eintrag>
+<subsection id="sturz-menechmen" type="neuzeit" sort="10">
+<lemma>Sturz, <titel>Die Menechmen oder Zwei Wochenschriften von gleicher Statur in 4 Aufzügen</titel></lemma>
+<eintrag>
+<titel>Die Menechmen oder Zwei Wochenschriften von gleicher Statur in 4 Aufzügen. Mit einer Liste von Druckfehlern und einem Titel, vielleicht auch einer Vorrede versehen und des Spaßes wegen dem Publico preisgegeben</titel> (Kopenhagen 1767) [Biga&#x202F;134/68: „Die Menechmen oder zwo Wochenschriften
+in vier Aufzügen, Kopp. 767“]. 
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="suchland" type="neuzeit">
 <lemma>Adam Ludwig Suchland</lemma>
 <eintrag>Lebensdaten nicht ermittelt. 1740 bis 1752 Prof. der Medizin in Königsberg.</eintrag>
@@ -11552,7 +11723,15 @@ T
 
 <kommentar id="teller-wa" type="neuzeit">
 <lemma>Wilhelm Abraham Teller</lemma>
-<eintrag>1734&#x2013;1804. 1761 Prof. der Theologie in Helmstedt, 1767 Oberkonsistorialrat und Probst in Berlin, 1786 Akademiemitglied, siehe: <wwwlink address="https://www.deutsche-biographie.de/sfz82289.html#adbcontent">Tschackert, Paul: Teller, Wilhelm, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;556–558</wwwlink>.</eintrag> 
+<eintrag>1734&#x2013;1804. 1761 Prof. der Theologie in Helmstedt, 1767 Oberkonsistorialrat und Probst in Berlin, 1786 Akademiemitglied, siehe: <wwwlink address="https://www.deutsche-biographie.de/sfz82289.html#adbcontent">Tschackert, Paul: Teller, Wilhelm, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;556–558</wwwlink>.</eintrag>
+<subsection id="teller-uebersetzungen" type="neuzeit" sort="10">
+<lemma>Teller, <titel>Übersetzungen</titel></lemma>
+<eintrag><titel>Wilhelm Abraham Tellers Uebersetzungen des Seegen Jacobs und Mosis ingleichen des Lieds der Israeliten und der Debora</titel> mit beygefügten practischen Anmerkungen (Halle und Helmstädt: Hemmerde 1766). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id323075010">SLUB Dresden: Exeg.B.1072,1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="teller-schmidt" type="neuzeit" sort="20">
+<lemma>Teller, <titel>Schmid-Übersetzung</titel></lemma>
+<eintrag>Johann Schmidts weyland Doktors und Professors der Theologie zu Leipzig <titel>Kurze Anmerkungen über eines Ungenannten Neue Gedanken vom Ersten und Andren Adam</titel> auf Veranstaltung und unter der Aufsicht Herrn D. Tellers in Helmstädt aus dem Lateinischen übersetzt. Nebst einer <titel>Geschichte dieser Uebersetzung</titel> einem Beytrag zu einer <titel>Bestimmung der Grenzen der Nachahmung</titel> und Anhang einiger Beylagen (Halle und Helmstedt: Hemmerde 1766). Digitalisat: <wwwlink address="http://diglib.hab.de/drucke/g-205a-8f-helmst/start.htm">HAB Wolfenbüttel: H: G 205a.8° Helmst.</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="terenz" type="neuzeit">
@@ -12327,6 +12506,18 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <lemma>Voltaire, <titel>La philosophie de l'Histoire</titel></lemma>
 <eintrag>
 <titel>La philosophie de l’Histoire, par le feu Mr. l’Abbé Bazin</titel> (Amsterdam 1765). [Biga&#x202F;106/155: „La philosophie de l’Histoire par Bazin. Amst. 765“].
+</eintrag>
+</subsection>
+<subsection id="voltaire-ingenu" type="neuzeit" sort="200">
+<lemma>Voltaire, <titel>L’ingenu</titel></lemma>
+<eintrag>
+<titel>L’ingenu</titel> (Utrecht 1767).
+</eintrag>
+</subsection>
+<subsection id="voltaire-oncle" type="neuzeit" sort="210">
+<lemma>Voltaire, <titel>Defense à mon oncle</titel></lemma>
+<eintrag>
+<titel>Defense à mon oncle</titel> (Genf 1767).
 </eintrag>
 </subsection>
 </kommentar>
