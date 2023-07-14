@@ -2437,6 +2437,18 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 </subsection>
 </kommentar>
 
+<kommentar id="cranz" type="neuzeit">
+<lemma>David Cranz</lemma>
+<eintrag>1723&#x2013;1777.  Pfarrer, Schreiber des Grafen v. Zinzendorf.
+</eintrag>
+<subsection id="cranz-historie" type="neuzeit">
+<lemma>Cranz, <titel>Historie von Grönland</titel></lemma>
+<eintrag>
+<titel>Historie von Grönland, enthaltend die Beschreibung des Landes und der Einwohner, insbesondere die Geschichte der dortigen Mission der evangelischen Brüder zu Neuherrnhut und Lichtenfels</titel> (3&#x00A0;Bde., Barby/Leipzig: Ebers/Erben und Reich 1765/70) [Biga&#x202F;81/116: „Kranz. Historie von Grönland, 1. 2. u. 3ter Th. Barby 765—70“]. Digitalisat: <wwwlink address="https://www.biodiversitylibrary.org/bibliography/101673">John Carter Brown Library</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="cramer-ja" type="neuzeit">
 <lemma>Johann Andreas Cramer</lemma>
 <eintrag>1723&#x2013;1788. Evang. Theologe, 1754 Kopenhagen, 1774 in Kiel, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118973258.html#adbcontent">Pressel, Paul: Cramer, Johann Andreas, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;550f.</wwwlink>
@@ -4044,6 +4056,12 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 <kommentar id="gerstenberg" type="neuzeit">
 <lemma>Heinrich Wilhelm v. Gerstenberg</lemma>
 <eintrag>1737&#x2013;1823. Ab 1765 in Kopenhagen, 1775-1783 dänischer Konsul in Lübeck, Lyriker, Dramatiker. <wwwlink address="https://www.deutsche-biographie.de/sfz20743.html#adbcontent">Redlich: Gerstenberg, Heinrich Wilhelm von, in: <titel>ADB</titel>&#x202F;9 (1879), S.&#x202F;60&#x2013;66</wwwlink>.</eintrag>
+<subsection id="gerstenberg-briefe" type="neuzeit" sort="10">
+<lemma>Gerstenberg, <titel>Briefe über Merkwürdigkeiten der Litteratur</titel></lemma>
+<eintrag>
+<titel>Briefe über Merkwürdigkeiten der Litteratur</titel> (4&#x00A0;Bde., Schleswig/Leipzig: Hansen 1766/70) [Biga&#x202F;137/95: „Briefe über Merkwürdigkeiten der Litteratur, 1. u. 2te Samml. Leipz. 766“ u. Biga&#x202F;161/506: „Briefe über Merkwürdigkeiten
+der Litteratur, Th. I. Schlesw. 767“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10732551-5">München, Bayerische Staatsbibliothek: H.lit.p. 142 k</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="gesner-k" type="neuzeit">
@@ -5678,6 +5696,17 @@ Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Fl
 <kommentar id="huber" type="neuzeit">
 <lemma>Johann Ludwig Huber</lemma>
 <eintrag>1723&#x2013;1800. Regierungsrat in Tübingen.</eintrag>
+</kommentar>
+
+<kommentar id="huber-u" type="neuzeit">
+<lemma>Ulrich Huber</lemma>
+<eintrag>1636&#x2013;1694. Prof. der Geschichte und Rechtswissenschaften in Franeker.</eintrag>
+<subsection id="huber-u-civitatis" type="neuzeit" sort="10">
+<lemma>Huber, <titel>De iure civitatis</titel></lemma>
+<eintrag>
+<titel>De iure civitatis libri tres: rudimentum juris publici universalis exhibentes</titel> (Franeker 1672).
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="hubner" type="neuzeit">

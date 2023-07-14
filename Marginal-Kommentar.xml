@@ -39365,14 +39365,11 @@ Traité de la police. Paris 1705/38. Biga 96/12[Amsterdam 1729]. ?!?
 </marginal>
 
 <marginal index="11175" letter="347" page="405" line="8">
-<bzg>Crantzens Geschichte von Grönl.</bzg> Cranz (Crantz), David (1723- 1777), Pfarrer, Schreiber des Grafen v. Zinzendorf
-Historie von Grönland, enthaltend die Beschreibung des Landes und der Einwohner, insbesondere die
-Geschichte der dortigen Mission der evangelischen Brüder zu Neuherrnhut und Lichtenfels. 1- 3.
-Barby/Leipzig 1765/70. Biga 81/116. ?!?
+<bzg>Crantzens Geschichte von Grönl.</bzg> <link ref="cranz" subref="cranz-historie" linktext="true" />   
 </marginal>
 
 <marginal index="11176" letter="347" page="405" line="10"> 
-<bzg>Samml. der Hollsteinschen Litteratur Briefe</bzg> ?!? Gerstenbergs. Briefe über Merkwürdigkeiten der Litteratur. Drei Stücke 1766/7, viertes Stück gesondert 1770. Schleswig/Leipzig. Biga 103/113.
+<bzg>Samml. der Hollsteinschen Litteratur Briefe</bzg> <link ref="gerstenberg" subref="gerstenberg-briefe" linktext="true" />  
 </marginal>
 
 <marginal index="11177" letter="347" page="405" line="11">
@@ -39487,8 +39484,7 @@ en Frisé en 1684 et réimprimé à Frankfort en 1718. ?!?
 </marginal>
 
 <marginal index="11202" letter="347" page="406" line="26">
-<bzg>Ulrici Huberi de Ciuitate</bzg>  Ulrich Huber (1636-1694), Prof. der Geschichte und Rechtswissenschaften in Franeker; gemeint ist: Ulr. Huberi de iure civitatis libri III. cum commentariis N. Chph. Lynker, nova de scriptis Lynkerianis
-praefatione adornati. Altenburg 1752 ed. Joh. Christian Fischer.
+<bzg>Ulrici Huberi de Ciuitate</bzg>  <link ref="huber-u" subref="huber-u-civitatis" linktext="true" /> 
 </marginal>
 
 <marginal index="11203" letter="347" page="406" line="28">
