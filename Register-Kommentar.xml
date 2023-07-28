@@ -1953,6 +1953,18 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 </subsection>
 </kommentar>
 
+<kommentar id="cervantes" type="neuzeit">
+<lemma>Miguel de Cervantes Saavedra</lemma>
+<eintrag>1547–1616. <wwwlink address="https://www.britannica.com/biography/Miguel-de-Cervantes">Riley, Edward C.; Cruz, Anne J.: Miguel de Cervantes, in: <titel>Encyclopedia Brittannica</titel></wwwlink>. </eintrag>
+<subsection id="cervantes-donquijote" type="neuzeit">
+<lemma>Cervantes, <titel>Don Quijote</titel></lemma>
+<eintrag>
+Vida y Hechos del ingenioso Hidalgo <titel>Don Quixote de la Mancha,</titel> compuesta por Miguèl de Cervantes Saavedra</titel>. 4 Bde (Den Haag 1744) [Biga 164/560: „Vida y Hechos del ingenioso Hidalgo Don Quixote de la Mancha, compuesta por Miguel de Cervantes Saavedra, Tom. I–IV. Haia 744. mit Kupf.“]. Digitalisat: <wwwlink address="http://bdh.bne.es/bnesearch/detalle/bdh0000022647">Biblioteca Digital Hispánica: R/32262 V.1–jR/32265 V.4</wwwlink>.<line type="break"/>
+Übers.: <titel>Des berühmten Ritters Don Quixote von Mancha lustige und sinnreiche Geschichte,</titel> abgefasset von Migvel Cervantes Saavedra. 2 Bde. (2. Aufl., Leipzig 1753) [Biga 149/331: „Geschichte des Don Quixote, 1. 2. Th. Leipz. 753“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10607210-9">BSB München: P.o.hisp. 63 q-1</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="chetardie" type="neuzeit">
 <lemma>Joachim Trotti de La Chétardie</lemma>
 <eintrag>1636&#x2013;1714. Frz. Gesandter in Russland. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;8, 1813), S.&#x202F;355f.</eintrag>
@@ -7111,6 +7123,17 @@ http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:9-g-4949225">UB Greif
 </subsection>
 </kommentar>
 
+<kommentar id="lesser" type="neuzeit">
+<lemma>Friedrich Christian Lesser</lemma>
+<eintrag>1692–1754. Lutherischer Pastor in Nordhausen und Physikotheologe.</eintrag>
+<subsection id="lesser-insectotheologie" type="neuzeit" sort="10">
+<lemma>Lesser, <titel>Insecto-Theologia</titel></lemma>
+<eintrag>
+Friedrich Christian Lessers […] <titel>Insecto-Theologia</titel> Oder: Vernunfft- und Schrifftmäßiger Versuch, Wie ein Mensch durch aufmercksame Betrachtung derer sonst so wenig geachteten Insecten zu lebendiger Erkänntniß und Bewunderung der Allmacht, Weißheit, der Güte und Gerechtigkeit des grossen GOttes gelangen könne (Frankfurt 1725) [Biga 101/76: „F. C. Lessers Insecto-Theologie, Frft. 725“].
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="lessing" type="neuzeit">
 <lemma>Gotthold Ephraim Lessing</lemma>
 <eintrag>1729&#x2013;1781. <wwwlink address="https://www.deutsche-biographie.de/pnd118572121.html#adbcontent">Redlich: Lessing, Gotthold Ephraim, in: <titel>ADB</titel>&#x202F;19 (1884), S.&#x202F;756&#x2013;802</wwwlink>.<line type="break"/>
@@ -11477,7 +11500,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="steele" type="neuzeit">
 <lemma>Richard Steele</lemma>
-<eintrag>1672&#x2013;1729. Irisch-britischer Schriftsteller und Komödienautor; Gründer der Zeitschriften The Tatler und The Spectator.  <wwwlink address="https://www.britannica.com/biography/Richard-Steele">Mutter, Reginald P.C.: Richard Steele, in: <titel>Encyclopedia Brittannica</titel></wwwlink>.
+<eintrag>1672&#x2013;1729. Irisch-britischer Schriftsteller und Komödienautor; Gründer der Zeitschriften The Tatler und The Spectator. <wwwlink address="https://www.britannica.com/biography/Richard-Steele">Mutter, Reginald P.C.: Richard Steele, in: <titel>Encyclopedia Brittannica</titel></wwwlink>.
 </eintrag>
 <subsection id="steele-hero" type="neuzeit" sort="10">
 <lemma>Steele, <titel>The Christian Hero</titel></lemma>
@@ -11538,7 +11561,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <subsection id="sterne-shandy" type="neuzeit">
 <lemma>Sterne, <titel>Tristram Shandy</titel></lemma>
 <eintrag>
-<titel>Das Leben und die Meynungen des Herrn Tristram Shandy. 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763)</titel> [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“] Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>
+<titel>Das Leben und die Meynungen des Herrn Tristram Shandy. 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763)</titel> [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“]. Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>.
 </eintrag>.
 </subsection>
 </kommentar>
