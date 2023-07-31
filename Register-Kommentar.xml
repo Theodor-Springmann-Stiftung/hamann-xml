@@ -1414,6 +1414,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <subsection id="boulanger-antiquite" type="neuzeit" sort="40">
 <lemma>Boulanger, <titel>L’antiquité dévoilée</titel></lemma>
 <eintrag><titel>L’antiquité dévoilée par ses usages, ou, Examen critique des principales, opinions, cérémonies &#x26; institutions réligeuses &#x26; politiques des différens peuples de la terre</titel>, hg.&#x00A0;v. P. Henri Thiry Holbach u. <link ref="diderot" linktext="false">D. Diderot</link> (Amsterdam 1766) [Biga&#x202F;74/247: „L’antiquité dévoilée dans ses usages par Boulanger, Tom. I. II. III. Amst. 766.“].
+Übers.: <titel>Das durch seine Gebräuche aufgedeckte Alterthum. Oder Kritische Untersuchung der vornehmsten Meynungen, Ceremonien und Einrichtungen der verschiedenen Völker des Erdbodens in Religions- und bürgerlichen Sachen.</titel> Aus dem Französischen des Herrn Nicol. Ant. Boulanger übersetzt, und mit Anmerkungen von Johann Carl Dähnert, Prof. und Bibliothecar in Greifswald (Greifswald 1767).
 </eintrag>
 </subsection>
 </kommentar>
@@ -6842,10 +6843,16 @@ L
 <kommentar id="lacombe" type="neuzeit">
 <lemma>Jacques Lacombe</lemma>
 <eintrag>1724&#x2013;1801. Buchhändler, Advokat.</eintrag>
-<subsection id="lacombe-histoire" type="neuzeit">
-<lemma>La Combe, <titel>Histoire des révolutions de l’empire de Russie</titel> (Paris 1760).</lemma> 
+<subsection id="lacombe-histoire" type="neuzeit" sort="10">
+<lemma>Lacombe, <titel>Histoire des révolutions de l’empire de Russie</titel></lemma> 
 <eintrag>
-Übers.: <titel>Des Herrn La Combe Geschichte der Staatsveränderungen des russischen Reichs. M. Verbesserungen, Zusätzen u. Anm. versehen von Johann Friedrich Joachim</titel> (3 Bde., Halle 1761–1764).
+Übers.: <titel>Des Herrn La Combe Geschichte der Staatsveränderungen des russischen Reichs.</titel> M. Verbesserungen, Zusätzen u. Anm. versehen von Johann Friedrich Joachim (3 Bde., Halle 1761–1764).
+</eintrag>
+</subsection>
+<subsection id="lacombe-histoire" type="neuzeit" sort="20">
+<lemma>Lacombe, <titel>Geschichte der Königin von Schweden, Christine</titel></lemma> 
+<eintrag>
+Übers.: <titel>Geschichte der Königin von Schweden, Christine.</titel> Aus dem Französischen des Herrn Lacombe (Leipzig 1762). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10451984-5">BSB München: H.sept. 104 c</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11258,6 +11265,17 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 </subsection>
 </kommentar>
 
+<kommentar id="simonius" type="neuzeit">
+<lemma>Maturinus Simonius</lemma>
+<eintrag>16./17. Jahrhundert. Frz. Jurist
+</eintrag>
+<subsection id="simonius-litteris" type="neuzeit" sort="10">
+<lemma>Simonius, <titel>de literis pereuntibus libellus</titel></lemma>
+<eintrag><titel>Martini Simonii de literis pereuntibus libellus</titel> (Frankfurt am Main 1618). Digitalisat der Ausgabe 1716 von Hermann von Elswich: <wwwlink address="https://play.google.com/store/books/details?id=gdEpQc8vWo0C&rdid=book-gdEpQc8vWo0C&rdot=1">Google Books</wwwlink>
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="skelton" type="neuzeit">
 <lemma>Philip Skelton</lemma>
 <eintrag>1707&#x2013;1787. Irischer Theologe. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25664">Garnham, N.: Skelton, Philip, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -11556,12 +11574,13 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="sterne" type="neuzeit">
 <lemma>Laurence Sterne</lemma>
-<eintrag>1713&#x2013;1768. Engl.-irischer Schriftsteller, siehe <wwwlink address="https://www.britannica.com/biography/Laurence-Sterne">Cash, Arthur H.: Laurence Sterne, in: <titel>Encyclopedia Brittannica</titel></wwwlink>..
+<eintrag>1713&#x2013;1768. Engl.-irischer Schriftsteller, siehe <wwwlink address="https://www.britannica.com/biography/Laurence-Sterne">Cash, Arthur H.: Laurence Sterne, in: <titel>Encyclopedia Brittannica</titel></wwwlink>.
 </eintrag>
 <subsection id="sterne-shandy" type="neuzeit">
 <lemma>Sterne, <titel>Tristram Shandy</titel></lemma>
 <eintrag>
-<titel>Das Leben und die Meynungen des Herrn Tristram Shandy. 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763)</titel> [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“]. Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>.
+<titel>The Life and Opinions of Tristram Shandy, Gentleman.</titel> Bd. 1–2 London 1760; Bd. 3–4 1761/1762; Bd. 7–8 1765; Bd. 9 1767.<line type="break" />
+Übers.: <titel>Das Leben und die Meynungen des Herrn Tristram Shandy.</titel> 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763) [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“]. Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>.
 </eintrag>.
 </subsection>
 </kommentar>
