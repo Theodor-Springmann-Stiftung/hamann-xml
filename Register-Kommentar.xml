@@ -34,6 +34,12 @@ A
 <titel>Vom Verdienst</titel> (Berlin/Stettin 1762/4).
 </eintrag>
 </subsection>
+<subsection id="abbt-dedifficillimoprogressu" type="neuzeit" sort="40">
+<lemma>Abbt, <titel>de difficillimo progressu</titel></lemma>
+<eintrag>
+<titel>De difficillimo progressu in dimetiendis animae virtutibus</titel> [Über den schwierigen Fortschritt beim Abmessen der Seelenkräfte] (Rinteln 1765).
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="achenwall" type="neuzeit">
@@ -548,6 +554,19 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 <lemma>Balzac, <titel>Socrate chrestien</titel></lemma>
 <eintrag>
 <titel>Socrate chrestien, par le Sr. de Balzac, et autres oeuvres du mesme Autheur</titel> (Paris: Courbe 1652). [Biga&#x202F;57/627: „Le Socrate Chretien par Balzac, Arnh. 675“]. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k63538927">Bibliothèque nationale de France, département Littérature et art: Z-19895</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="banier" type="neuzeit">
+<lemma>Antoine Banier</lemma>
+<eintrag>1673&#x2013;1741. Frz. rationalistischer Mythenforscher. 
+</eintrag>
+<subsection id="banier-erlaeuterung" type="neuzeit" sort="10">
+<lemma>Banier, <titel>Explication</titel></lemma>
+<eintrag>
+<titel>Explication historique des fables, où l’on découvre leur origine et leur conformité avec l’histoire ancienne</titel> (Paris 1711).
+Übers.: Anton Baniers […] <titel>Erläuterung der Götterlehre und Fabeln aus der Geschichte,</titel> aus dem Französischen übersetzt, in seinen Allegaten berichtigt, und mit Anmerkungen begleitet von Johann Adolf Schlegeln (Leipzig 1754–1766). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-83209">UB Heidelberg: C 1198 C RES::1</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -3481,6 +3500,18 @@ Jo. Alberti Fabricii SS. Theologiæ D. &#x26; Prof. Publ. <titel>Bibliotheca gra
 <lemma>Fehre, <titel>Anleitung zum rechten Verstand</titel></lemma>
 <eintrag>
 <titel>Anleitung zum rechten Verstand und Gebrauch der Offenbarung Johannis oder vielmehr Jesu Christi : aus den Schriften bewährter Schriftausleger zusammengezogen ... / nebst einer Vorrede ... Herrn D. Christian August Crusius</titel> (Altenburg: Richter 1760).
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="ferrari" type="neuzeit">
+<lemma>Octavio Ferrari</lemma>
+<eintrag>1607&#x2013;1682. Klassischer Philologe, Professor der griech. Sprache in Padua.
+</eintrag>
+<subsection id="ferrari-prolusiones" type="neuzeit">
+<lemma>Ferrari, <titel>Prolusiones</titel></lemma>
+<eintrag>
+<titel>Octavii Ferrarii […] Prolusiones, Epistolæ, &#x26; ad petenda Doctoris Insignia formulæ […]</titel> (Chemnitz 1664). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10602528-7">BSB München: Opp. 62</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9313,11 +9344,16 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 
 <kommentar id="philippi" type="neuzeit">
 <lemma>Johann Albrecht Philippi</lemma>
-<eintrag>1721&#x2013;1791. Reolizeidirektor und Stadtpräsident von Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd115741208.html"></wwwlink>.</eintrag>
-<subsection id="philippi-briefe" type="neuzeit">
+<eintrag>1721&#x2013;1791. Polizeidirektor und Stadtpräsident von Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd115741208.html"></wwwlink>.</eintrag>
+<subsection id="philippi-briefe" type="neuzeit" sort="10">
 <lemma>Philippi, <titel>Anmuthige und Satyrische Briefe</titel></lemma>
 <eintrag>
 <titel>Anmuthige und Satyrische Briefe in historischen Erzählungen über verschiedene Begebenheiten</titel> (Köln [Berlin] 1764). Digitalisat: <wwwlink address="https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00034441?derivate=HisBest_derivate_00020065">ULB Jena: 8 Art.lib.XIV,835(1)</wwwlink>.</eintrag>
+</subsection>
+<subsection id="philippi-vaterunser" type="neuzeit" sort="20">
+<lemma>Philippi, <titel>Vater-Unser</titel></lemma>
+<eintrag>
+<titel>Das Unser Vater,</titel> sonst kan und darf kein Gebet ohne Verschuldung gegen Gott von wahren gläubigen Christen gebetet werden. bewiesen von Johann Albrecht Philippi […] (Riga: Hartknoch 1766) [Biga 112/237: „Beweiss von der Vollkommenheit des Unser-Vater betens, Riga 766. Donum.“]. Digitalisat: <wwwlink address="https://opendata.uni-halle.de//handle/1981185920/65395">ULB Halle: AB 153942 (4)</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -11795,6 +11831,18 @@ T
 <lemma>Tac. <titel>Ann.</titel></lemma>
 <eintrag>
 <titel>Annalen</titel>, lat. <titel>annales. Ab excessu divi Augusti</titel>. Geschichte des römischen Reiches vom Tod Augustus’ (14) bis zum Tod Neros (68).
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="tasso" type="neuzeit">
+<lemma>Torquato Tasso</lemma>
+<eintrag>1544&#x2013;1595. Ital. Dichter der Spätrennaissance.</eintrag>
+<subsection id="tasso-aminta" type="neuzeit">
+<lemma>Tasso, <titel>Aminta</titel></lemma>
+<eintrag>
+Torquato Tasso: <titel>Aminta.</titel> Uraufführung 1573, Druck 1580.<line type="break" />
+Übers.: <titel>Amintas,</titel> ein Schäferspiel von Torquato Tasso. Aus dem Italiänischen in gebundener Schreibart übersetzt (Berlin 1766).</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
