@@ -7874,7 +7874,7 @@ zu Hamanns London-Reise siehe <link ref="hamann" subref="gedanken-lebenslauf" li
 </marginal>
 
 <marginal index="1629" letter="107" page="236" line="17">
-<link ref="shakespeare" subref="hamlet" linktext="true"/>, Akt 3, Sz. 4, V. 150–155
+<link ref="shakespeare" subref="shakespeare-hamlet" linktext="true"/>, Akt 3, Sz. 4, V. 150–155
 </marginal>
 
 Brief Nr. 108
@@ -7930,7 +7930,7 @@ Brief Nr. 109
 </marginal>
 
 <marginal index="4072" letter="109" page="241" line="12">
-vgl. <link ref="shakespeare" subref="hamlet" linktext="true"/>, Akt 2, Sz. 2, V. 531f.
+vgl. <link ref="shakespeare" subref="shakespeare-hamlet" linktext="true"/>, Akt 2, Sz. 2, V. 531f.
 </marginal>
 
 <marginal index="4073" letter="109" page="241" line="22">
@@ -20933,7 +20933,7 @@ Brief Nr. 203
 </marginal>
 
 <marginal index="5196" letter="203" page="68" line="26">
-<bzg>Hamlet</bzg> <link ref="shakespeare" subref="hamlet" linktext="true"/>, Akt 2, Sz. 2  
+<bzg>Hamlet</bzg> <link ref="shakespeare" subref="shakespeare-hamlet" linktext="true"/>, Akt 2, Sz. 2  
 </marginal>
 
 <marginal index="5197" letter="203" page="69" line="1">
@@ -21329,7 +21329,7 @@ Brief Nr. 203
 </marginal>
 
 <marginal index="7453" letter="203" page="76" line="2">
-<bzg>I am …</bzg> <link ref="shakespeare" subref="hamlet" linktext="true"/>, Akt 3, Sz. 1
+<bzg>I am …</bzg> <link ref="shakespeare" subref="shakespeare-hamlet" linktext="true"/>, Akt 3, Sz. 1
 </marginal>
 
 <marginal index="7454" letter="203" page="76" line="10">
@@ -24209,7 +24209,7 @@ Brief Nr. 219
 </marginal>
 
 <marginal index="5789" letter="219" page="129" line="31">
-<bzg>for the play …</bzg> <link ref="shakespeare" subref="hamlet" linktext="true"/>, II,2.
+<bzg>for the play …</bzg> <link ref="shakespeare" subref="shakespeare-hamlet" linktext="true"/>, II,2.
 </marginal>
 
 <marginal index="5790" letter="219" page="129" line="33">
@@ -38224,10 +38224,6 @@ Brief Nr. 326
 <bzg>Kantner</bzg> <link ref="gantner" linktext="true"/>
 </marginal>
 
-<marginal index="10290" letter="326" page="371" line="15">
-<bzg>Projektfach</bzg> vgl. <intlink letter="333" page="381" line="7" linktext="true"/>
-</marginal>
-
 <marginal index="10291" letter="326" page="371" line="16">
 <bzg>Critik…</bzg> Die Theaterstücke von <link ref="schlegel-je" linktext="true"/> und <link ref="kruger-jc" linktext="true"/> werden in <link ref="herder" subref="herder-frzbühne" linktext="true"/> behandelt, vgl. SWS&#x202F;I, S.&#x202F;210 und 217f.
 </marginal>
@@ -38979,11 +38975,89 @@ Brief Nr. 332
 
 Brief Nr. 333
 
+Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwischen 332 und 334 platziert, also zwischen August und November 1766. Bei uns war er komischerweise zwischen mit „Juli 1765“ zwischen 328 und 329 eingeordnet (also auf Juli 1766 datiert). Habe das korrigiert und zwischen 304 und 305 eingeordnet, mit „vmtl. Juli 1765. – Herder-Ausgabe datiert es ohne große Diskussion auf Juli 1765 (scheint mir erstmal nichts dagegen zu sprechen, aber schon bissl komisch). Henkel: „Die Datierung dieses sine die et consule überlieferten Briefes macht Schwierigkeiten. HBGA datiert ihn auf den Juli 1765 (dort I,45 und 340); sein Ton scheint in der Tat in jene Phase der Freundschaft zu weisen, da Herder gerade beginnt, dem Älteren selbständig, ja kritisch- ebenbürtig zu begegnen. Außerdem ist die Rede vom Manuskript einer Abhandlung über die Ode, das gewiß nicht identisch ist mit den 363,23; 373,30ff. u. 376,25 erwähnten Handschriften der ersten Sammlung der Fragmente, bzw. ihrer Umarbeitung. Andererseits könnte 333 die Antwort auf 330 sein. Dann wäre 333 auf September zu datieren, da H. bereits am 30. August 1766 auf 331 antwortete, Herder aber bei Abfassung von 333 noch keine Antwort auf 331 in Händen hatte.“ – – erstmal kommentieren, vielleicht kommt man dann ja auf plausible Hypothesen!
+
+<marginal index="" letter="333" page="380" line="31">
+<bzg>Briefes…</bzg> vmtl. sind weder Herders letzter Brief noch Hamanns Schreiben, das der Retour der Odenabhandlung beilag, überliefert
+</marginal>
+
+<marginal index="" letter="333" page="380" line="32">
+<bzg>Odenabhandl.</bzg> vgl. <intlink letter="283" page="290" line="21" linktext="true"/> und <intlink letter="294" page="315" line="1" linktext="true"/>
+</marginal>
+
+<marginal index="" letter="333" page="380" line="33">
+<bzg>Mitau</bzg> Hamann war von Mitte Juni 1765 bis Mitte Januar 1767 in Mitau, unterbrochen nur durch seine Warschau-Reise Ende August bis Anfang Dezember 1765
+</marginal>
+
+<marginal index="" letter="333" page="381" line="5">
+<bzg>Firmelung</bzg> Firmung; hier wohl für endgültige Fassung und Druck der Abhandlung
+</marginal>
+
+<marginal index="" letter="333" page="381" line="10">
+<bzg>Kaufmannsort</bzg> Herder ist offenbar schon eine Weile in Riga, aber noch nicht so recht angekommen
+</marginal>
+
+<marginal index="" letter="333" page="381" line="10">
+<bzg>Prophet…</bzg> <link ref="at-jes" subref="at-jes23" linktext="false">Jes 23,1</link>
+</marginal>
+
+<marginal index="" letter="333" page="381" line="11">
+<bzg>Myopie</bzg> Kurzsichtigkeit, vgl. <intlink letter="301" page="331" line="31" linktext="true"/>
+</marginal>
+
+<marginal index="" letter="333" page="381" line="12">
+<bzg>abzuwarten</bzg> im Sinne von „mit dem gehörigen Fleiße ausüben“, Adelung (Bd. 1, Sp. 129, s.v. Abwarten)
+</marginal>
+
+<marginal index="" letter="333" page="381" line="16">
+<bzg>Winkelmann</bzg> vgl. <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true"/>, Vorrede (Gebrauch von Geschichte in der weiteren griechischen Bedeutung)
+</marginal>
+
+<marginal index="" letter="333" page="381" line="18">
+<bzg>pomum praecox</bzg> frühreifer Apfel
+</marginal>
+
+<marginal index="" letter="333" page="381" line="23">
+<bzg>Trescho</bzg> <link ref="trescho-sf" linktext="true"/>
+</marginal>
+
+<marginal index="" letter="333" page="381" line="24">
+<bzg>Zepter…</bzg> vmtl. Anspielung auf Dionysios von Korinth (367–343 v. Chr. n.), angeblich Schulmeister daselbst; ironisch für Herders Lehramt am Collegium Fridericianum in Königsberg
+</marginal>
+
+
+<marginal index="" letter="333" page="381" line="24">
+<bzg>Galgenfrist</bzg> Herder studierte in Königsberg von 1761 bis 1764
+</marginal>
+
+<marginal index="" letter="333" page="381" line="25">
+<bzg>Kant</bzg> Herder studierte enthusiasmiert bei <link ref="kant" linktext="true"/>, zählt ihn hier aber offenbar zu den Pedanten
+</marginal>
+
+<marginal index="" letter="333" page="381" line="35">
+<bzg>hohen Stils</bzg> Winckelmann unterscheidet in <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true"/> für die griechische Kunst die Entwicklungsstufen älterer Stil, hoher Stil, schöner Stil und Stil der Nachahmer
+</marginal>
+
+<marginal index="" letter="333" page="382" line="12">
+<bzg>Kalibanen</bzg> <link ref="shakespeare" subref="shakespeare-tempest" linktext="true"/>
+</marginal>
+
+<marginal index="" letter="333" page="382" line="16">
+<bzg>Collaboureur</bzg> wohl ein Kofferwort aus frz. laboureur (Landmann) und collaborateur (Mitarbeiter)
+</marginal>
+
+<marginal index="" letter="333" page="382" line="18">
+<bzg>lose Kunst…</bzg> Hamann hatte wohl öfter die sorglose Formulierungsgabe Herders kritisiert
+</marginal>
+
+<marginal index="" letter="333" page="382" line="19">
+<bzg>Linsen zu werfen</bzg> durch ein Nadelöhr, eine Anekdote über Alexander den Großen, berichtet von Quintilian, N II,64 32f.?!?
+</marginal>
 
 
 Brief Nr. 334
 
-<marginal index="10475" letter="334" page="383" line="5">
+<marginal index="" letter="334" page="383" line="5">
 <bzg>Mitau</bzg> heute Jelgava, Lettland [56° 39′ N, 23° 43′ O] (40 km südwestlich von Riga)
 </marginal>
 
