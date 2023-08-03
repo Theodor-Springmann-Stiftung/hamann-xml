@@ -1979,7 +1979,7 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <subsection id="cervantes-donquijote" type="neuzeit">
 <lemma>Cervantes, <titel>Don Quijote</titel></lemma>
 <eintrag>
-Vida y Hechos del ingenioso Hidalgo <titel>Don Quixote de la Mancha,</titel> compuesta por Miguèl de Cervantes Saavedra</titel>. 4 Bde (Den Haag 1744) [Biga 164/560: „Vida y Hechos del ingenioso Hidalgo Don Quixote de la Mancha, compuesta por Miguel de Cervantes Saavedra, Tom. I–IV. Haia 744. mit Kupf.“]. Digitalisat: <wwwlink address="http://bdh.bne.es/bnesearch/detalle/bdh0000022647">Biblioteca Digital Hispánica: R/32262 V.1–jR/32265 V.4</wwwlink>.<line type="break"/>
+Vida y Hechos del ingenioso Hidalgo <titel>Don Quixote de la Mancha,</titel> compuesta por Miguèl de Cervantes Saavedra. 4 Bde (Den Haag 1744) [Biga 164/560: „Vida y Hechos del ingenioso Hidalgo Don Quixote de la Mancha, compuesta por Miguel de Cervantes Saavedra, Tom. I–IV. Haia 744. mit Kupf.“]. Digitalisat: <wwwlink address="http://bdh.bne.es/bnesearch/detalle/bdh0000022647">Biblioteca Digital Hispánica: R/32262 V.1–jR/32265 V.4</wwwlink>.<line type="break"/>
 Übers.: <titel>Des berühmten Ritters Don Quixote von Mancha lustige und sinnreiche Geschichte,</titel> abgefasset von Migvel Cervantes Saavedra. 2 Bde. (2. Aufl., Leipzig 1753) [Biga 149/331: „Geschichte des Don Quixote, 1. 2. Th. Leipz. 753“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10607210-9">BSB München: P.o.hisp. 63 q-1</wwwlink>.
 </eintrag>
 </subsection>
@@ -6386,7 +6386,7 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 
 <kommentar id="kortum" type="neuzeit">
 <lemma>Ernst Traugott Kortum</lemma>
-<eintrag>1742&#x2013;1811. Beamter und Schriftsteller. 1761–1766 Studium in Königsberg, u.a. bei Kant; darauf Referendar im Königsberger Oberberggrafenamt. 1771 Hofrat in Schleswig-Holstein, 1772 Geheimer Staatssektretär in Mitau, 1775 Geheimer Staatssekretär in Warschau. Hamann kennt ihn aus Mitau 1766, wo sie <intlink letter="370" page="1" line="4" linktext="false">„genaue Freunde“</intlink> wurden. Siehe Christoph Mecking: Kurzbiographie Ernst Traugott von Kortum (1742–1811). In: Dietmar Willoweit (Hg.): Staatsschutz (Aufklärung, Bd. 7, 2). Hamburg 1994, S. 101f.</eintrag>
+<eintrag>1742&#x2013;1811. Beamter und Schriftsteller. 1761–1766 Studium in Königsberg, u.a. bei Kant; darauf Referendar im Königsberger Oberberggrafenamt. 1771 Hofrat in Schleswig-Holstein, 1772 Geheimer Staatssektretär in Mitau, 1775 Geheimer Staatssekretär in Warschau. Hamann kennt ihn aus Mitau 1766, wo sie „genaue Freunde“ (<intlink letter="371" page="1" line="4" linktext="true"/>) wurden. Siehe Christoph Mecking: Kurzbiographie Ernst Traugott von Kortum (1742–1811). In: Dietmar Willoweit (Hg.): Staatsschutz (Aufklärung, Bd. 7, 2). Hamburg 1994, S. 101f.</eintrag>
 </kommentar>
 
 <kommentar id="keber" type="neuzeit">
@@ -6880,7 +6880,7 @@ L
 Übers.: <titel>Des Herrn La Combe Geschichte der Staatsveränderungen des russischen Reichs.</titel> M. Verbesserungen, Zusätzen u. Anm. versehen von Johann Friedrich Joachim (3 Bde., Halle 1761–1764).
 </eintrag>
 </subsection>
-<subsection id="lacombe-histoire" type="neuzeit" sort="20">
+<subsection id="lacombe-christine" type="neuzeit" sort="20">
 <lemma>Lacombe, <titel>Geschichte der Königin von Schweden, Christine</titel></lemma> 
 <eintrag>
 Übers.: <titel>Geschichte der Königin von Schweden, Christine.</titel> Aus dem Französischen des Herrn Lacombe (Leipzig 1762). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10451984-5">BSB München: H.sept. 104 c</wwwlink>.
@@ -8475,6 +8475,11 @@ Augsburg, Staats- und Stadtbibliothek: Phil 2517</wwwlink>.
 <eintrag><titel>Poetischer Entwurf der Gedancken des Prediger-Buchs Salomons</titel> (Göttingen: Schmidt 1751) [Biga&#x202F;160/515: J. D. Michaelis poetischer Entwurf der Gedanken des Prediger Salomons, Goett. 751“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10272122-9">BSB München: B.metr. 198</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="michaelis-suende" type="neuzeit" sort="15">
+<lemma>Michaelis, <titel>Gedanken über die Lehre der heiligen Schrift von der Sünde</titel></lemma>
+<eintrag><titel>Gedanken über die Lehre der heiligen Schrift von der Sünde,</titel> als eine der Vernunft gemässe Lehre (Hamburg 1752).
+</eintrag>
+</subsection>
 <subsection id="michaelis-jd-mittel" type="neuzeit" sort="20">
 <lemma>Michaelis, <titel>Beurteilung der Mittel</titel></lemma>
 <eintrag><titel>Beurteilung der Mittel, welche man anwendet, die ausgestorbene Hebräische Sprache zu verstehen</titel> (Göttingen: Vandenhoek 1757). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10572142-4">BSB München: L.as. 243</wwwlink>.
@@ -9731,10 +9736,15 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 <kommentar id="premontval" type="neuzeit">
 <lemma>André-Pierre Le Guay de Prémontval</lemma>
 <eintrag>1716&#x2013;1764. Frz. Mathematiker und Philosoph, wurde wegen seiner Kritik am kath. Dogmatismus aus Frankreich vertrieben. Hamann wurde Prémontval wohl 1756 in Berlin vorgestellt (<link ref="hamann" subref="gedanken-lebenslauf" linktext="true"/>, LS S.&#x202F;333/37), wo dieser Mitglied der Königlich-Preußischen Akademie der Wissenschaften in der Philosophischen Klasse war.</eintrag>
-<subsection id="premontval-diogene" type="neuzeit">
+<subsection id="premontval-diogene" type="neuzeit" sort="10">
 <lemma>Prémontval, <titel>Le Diogene de D’Alembert</titel></lemma>
 <eintrag>
 <titel>Le Diogene de D’Alembert; ou Diogene décent, pensées libres sur l’Home et sur les principaux objets des conoissances de l’Home. Par M. De Prémontval</titel> (Berlin: Schneider 1754). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id33494788X1">SLUB Dresden: Phil.C.664,misc.1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="premontval-hazard" type="neuzeit" sort="20">
+<lemma>Prémontval, <titel>Du Hazard</titel></lemma>
+<eintrag>
+<titel>Du Hazard sous l’empire de la providence,</titel> Pour servir de présérvatif contre la doctrine du Fatalisme moderne; par M. de Prémontval (Berlin 1755). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10044138-2">BSB München: Ph.sp. 656</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -10004,7 +10014,7 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <subsection id="raspe-gunilde" type="neuzeit" sort="40">
 <lemma>Raspe, <titel>Hermin und Gunilde</titel></lemma>
 <eintrag>
-<titel><titel>Hermin und Gunilde,</titel> eine Geschichte aus den Ritterzeiten, die sich zwischen Adelepsen und Ußlar am Schäferberge zugetragen, nebst einem Vorberichte über die Ritterzeiten, und einer Allgegorie (Leipzig: Weidmanns Erben und Reich 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116723-1">BSB München: P.o.germ. 1123 h</wwwlink>.
+<titel>Hermin und Gunilde,</titel> eine Geschichte aus den Ritterzeiten, die sich zwischen Adelepsen und Ußlar am Schäferberge zugetragen, nebst einem Vorberichte über die Ritterzeiten, und einer Allgegorie (Leipzig: Weidmanns Erben und Reich 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116723-1">BSB München: P.o.germ. 1123 h</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -10068,15 +10078,20 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <kommentar id="reinhard" type="neuzeit">
 <lemma>Adolf Friedrich v. Reinhard</lemma>
 <eintrag>1726&#x2013;1783. Literaturkritiker, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz76044.html#adbcontent">Krause: Reinhard, Friedrich, in: <titel>ADB</titel>&#x202F;28 (1889), S.&#x202F;35f.</wwwlink></eintrag>
-<subsection id="reinhard-fatal" type="neuzeit">
+<subsection id="reinhard-fatal" type="neuzeit" sort="10">
 <lemma>Reinhard, <titel>Ob die Gottesleugnung und verkehrten Sitten aus dem Systeme der Fatalität herkommen</titel></lemma>
 <eintrag>
 <titel>Sendschreiben an den Hochwohlgebohrnen Herrn Johann Ernst Freyherrn von Hardenberg [...] über den vor einiger Zeit aus dem Französischen ins Deutsche übersetzten Traktat [von <link ref="thourneyser" linktext="true" />]: Ob die Gottesleugnung und verkehrten Sitten aus dem Systeme der Fatalität herkommen [etc.] / entworfen von Adolf Friedrich Reinhard</titel> (Leipzig: Langenheim 1753) [Biga&#x202F;119/299]. Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN816550018">SUB Göttingen: 8 PHIL V, 2538</wwwlink>.</eintrag>
 </subsection>
-<subsection id="reinhard-sachen" type="neuzeit">
+<subsection id="reinhard-sachen" type="neuzeit" sort="20">
 <lemma>Reinhard, <titel>Briefwechsel über wichtige Sachen der heutigen Gelehrsamkeit</titel></lemma>
 <eintrag>
 <titel>Briefwechsel über wichtige Sachen der heutigen Gelehrsamkeit in welchem einige Lehren derer Herren Abts Schuberts zu Helmstädt, Professor Michaelis zu Göttingen, Depremontval zu Berlin, eines Ungenannten zu Leipzig, wie auch einige mathematische Säze untersucht werden</titel> (Frankfurt, Leipzig 1755).</eintrag>
+</subsection>
+<subsection id="reinhard-bestewelt" type="neuzeit" sort="30">
+<lemma>Reinhard, <titel>Lehre von der besten Welt</titel></lemma>
+<eintrag>
+<titel>Herrn Adolph Friedrich Reinhards […] Vergleichung des Lehrgebäudes des Herrn Pope von der Vollkommenheit der Welt, mit dem System des Herrn von Leibnitz.</titel> Nebst einer Untersuchung der Lehre von der besten Welt. Eine Abhandlung, welche den, von der königl. Akademie der Wissenschaften und schönen Künste zu Berlin, ausgesetzten Preis vom Jahre 1755 davon getragen hat. Nebest einer Abhandlung des Hrn. Bürlamaquai, von dem Willen und der Freyheit des Menschen. Beydes aus dem Französischen übersetzt (Leipzig 1757). Digitalisat: <wwwlink address="https://archive.thulb.uni-jena.de/collections/receive/HisBest_cbu_00032438">ThULB Jena: 8 Ph.VI,14</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -11311,7 +11326,7 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 </eintrag>
 <subsection id="simonius-litteris" type="neuzeit" sort="10">
 <lemma>Simonius, <titel>de literis pereuntibus libellus</titel></lemma>
-<eintrag><titel>Martini Simonii de literis pereuntibus libellus</titel> (Frankfurt am Main 1618). Digitalisat der Ausgabe 1716 von Hermann von Elswich: <wwwlink address="https://play.google.com/store/books/details?id=gdEpQc8vWo0C&rdid=book-gdEpQc8vWo0C&rdot=1">Google Books</wwwlink>
+<eintrag><titel>Martini Simonii de literis pereuntibus libellus</titel> (Frankfurt am Main 1618). Digitalisat der Ausgabe 1716 von Hermann von Elswich: <wwwlink address="https://play.google.com/store/books/details?id=gdEpQc8vWo0C&#x26;rdid=book-gdEpQc8vWo0C&#x26;rdot=1">Google Books</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -11846,7 +11861,7 @@ T
 <lemma>Tasso, <titel>Aminta</titel></lemma>
 <eintrag>
 Torquato Tasso: <titel>Aminta.</titel> Uraufführung 1573, Druck 1580.<line type="break" />
-Übers.: <titel>Amintas,</titel> ein Schäferspiel von Torquato Tasso. Aus dem Italiänischen in gebundener Schreibart übersetzt (Berlin 1766).</wwwlink>.
+Übers.: <titel>Amintas,</titel> ein Schäferspiel von Torquato Tasso. Aus dem Italiänischen in gebundener Schreibart übersetzt (Berlin 1766).
 </eintrag>
 </subsection>
 </kommentar>

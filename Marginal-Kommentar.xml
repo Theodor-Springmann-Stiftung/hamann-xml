@@ -38745,7 +38745,7 @@ Brief Nr. 330
 <bzg>alte verbleichte Begriffe</bzg> wohl eine Anspielung darauf, dass manche der von Herder behandelten Themen auf Hamanns Ideen und Anregungen zurückgehen
 </marginal>
 
-<marginal index="10420" letter="330" page="377" line="13">
+<marginal index="10493" letter="330" page="377" line="13">
 <bzg>Winkelmanns</bzg> <link ref="winckelmann" subref="winckelmann-allegorie" linktext="true"/>, vgl. <intlink letter="328" page="374" line="1" linktext="true"/>
 </marginal>
 
@@ -38792,7 +38792,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal index="10431" letter="331" page="377" line="30">
-<bzg>August…</bzg> vmtl. Octavianus, Anekdote nicht ermittelt [weder in Herder-Briefkommentar noch bei Henkel?!?]; mglw. eine assoziative Weiterentwicklung Herders von <link ref="sterne" subref="sterne-shandy" linktext="true"/>, Buch&#x202F;5, Kapitel&#x202F;3, S.&#x202F;28: „Aus dieser Ursache, fuhr mein Vater fort, ist es werth, auf die geringste Veränderung Acht zu geben, welche die Annäherung des Todes in großen Männern hervorgebracht hat. – Vespasian starb im Scherz auf seinem Nachtstuhl – Galba mit einer Sentenz – Septimius Severus in der Ausfertigung einer Depesche, Tiberius in Verstellung und Cäsar Augustus in einem Compliment. – Ich vermuthe, daß dasselbe sehr ernsthaft gewesen, – sagte mein Oncle Tobias. – Es war an seine Frau, – sagte mein Vater.“ – – nachschauen in Tristram Shandy Kommentar hg. Melvyn New, https://katalog.ub.uni-heidelberg.de/cgi-bin/titel.cgi?katkey=60410041&sess=33ef223f1593e75c24a82a6fe82c4bf9&query=ga%3A60410038&sort=4
+<bzg>August…</bzg> vmtl. Octavianus, Anekdote nicht ermittelt [weder in Herder-Briefkommentar noch bei Henkel?!?]; mglw. eine assoziative Weiterentwicklung Herders von <link ref="sterne" subref="sterne-shandy" linktext="true"/>, Buch&#x202F;5, Kapitel&#x202F;3, S.&#x202F;28: „Aus dieser Ursache, fuhr mein Vater fort, ist es werth, auf die geringste Veränderung Acht zu geben, welche die Annäherung des Todes in großen Männern hervorgebracht hat. – Vespasian starb im Scherz auf seinem Nachtstuhl – Galba mit einer Sentenz – Septimius Severus in der Ausfertigung einer Depesche, Tiberius in Verstellung und Cäsar Augustus in einem Compliment. – Ich vermuthe, daß dasselbe sehr ernsthaft gewesen, – sagte mein Oncle Tobias. – Es war an seine Frau, – sagte mein Vater.“ – – nachschauen in Tristram Shandy Kommentar hg. Melvyn New
 </marginal>
 
 <marginal index="10432" letter="331" page="377" line="32">
@@ -38819,7 +38819,7 @@ Brief Nr. 331
 <bzg>Gesch. des Yoriks</bzg> Pastor Yorick ist das alter ego von <link ref="sterne" linktext="true"/>. Unklar, ob sich „Gesch. des Yoriks“ auf <link ref="sterne" subref="sterne-shandy" linktext="true"/> oder auf <titel>Yoricks empfindsame Reise durch Frankreich und Italien</titel> bezieht (es erschien erst 1768, wurde aber mglw. schon angekündigt?!?)
 </marginal>
 
-<marginal index="10437" letter="331" page="378" line="8">
+<marginal index="10494" letter="331" page="378" line="8">
 <bzg>Gött. Zeit.</bzg> <link ref="goettingische-anzeigen" linktext="true"/>; genauer Bezug unklar. In den Jahrgängen 1759–1766 werden von <link ref="sterne" linktext="true"/> lediglich die <titel>Sermons of Mr Yorick</titel> (5. Aufl., London 1764) angezeigt (vgl. <link ref="goettingische-anzeigen" linktext="true"/>, Jg. 1764, S.&#x202F;1112)
 </marginal>
 
@@ -38832,7 +38832,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal index="10440" letter="331" page="378" line="10">
-<bzg>Leben der Xstina</bzg> wohl <link ref="lacombe" subref="lacombe-histoire" linktext="true"/>
+<bzg>Leben der Xstina</bzg> wohl <link ref="lacombe" subref="lacombe-christine" linktext="true"/>
 </marginal>
 
 <marginal index="10441" letter="331" page="378" line="11">
@@ -38868,7 +38868,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal index="10449" letter="331" page="379" line="3">
-<bzg>Ostermeße</bzg> <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3./4.&#x202F;Sammlung wurde in <link ref="messkatalog-ostern1766" linktext="true"/>, S.&#x202F;726 angekündigt. Ebd., S.&#x202F;672 ist <link ref="herder" subref="herder-fragmente" linktext="true"/>, 1./2.&#x202F;Sammlung als fertig genannt; sie erschien aber erst nach dreimaliger Umarbeitung im Spätherbst 1766.
+<bzg>Ostermeße</bzg> <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3./4.&#x202F;Sammlung wurde in <link ref="messkatalog" subref="messkatalog-ostern1766" linktext="true"/>, S.&#x202F;726 angekündigt. Ebd., S.&#x202F;672 ist <link ref="herder" subref="herder-fragmente" linktext="true"/>, 1./2.&#x202F;Sammlung als fertig genannt; sie erschien aber erst nach dreimaliger Umarbeitung im Spätherbst 1766.
 </marginal>
 
 <marginal index="10450" letter="331" page="379" line="1">
@@ -38977,87 +38977,133 @@ Brief Nr. 333
 
 Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwischen 332 und 334 platziert, also zwischen August und November 1766. Bei uns war er komischerweise zwischen mit „Juli 1765“ zwischen 328 und 329 eingeordnet (also auf Juli 1766 datiert). Habe das korrigiert und zwischen 304 und 305 eingeordnet, mit „vmtl. Juli 1765. – Herder-Ausgabe datiert es ohne große Diskussion auf Juli 1765 (scheint mir erstmal nichts dagegen zu sprechen, aber schon bissl komisch). Henkel: „Die Datierung dieses sine die et consule überlieferten Briefes macht Schwierigkeiten. HBGA datiert ihn auf den Juli 1765 (dort I,45 und 340); sein Ton scheint in der Tat in jene Phase der Freundschaft zu weisen, da Herder gerade beginnt, dem Älteren selbständig, ja kritisch- ebenbürtig zu begegnen. Außerdem ist die Rede vom Manuskript einer Abhandlung über die Ode, das gewiß nicht identisch ist mit den 363,23; 373,30ff. u. 376,25 erwähnten Handschriften der ersten Sammlung der Fragmente, bzw. ihrer Umarbeitung. Andererseits könnte 333 die Antwort auf 330 sein. Dann wäre 333 auf September zu datieren, da H. bereits am 30. August 1766 auf 331 antwortete, Herder aber bei Abfassung von 333 noch keine Antwort auf 331 in Händen hatte.“ – – erstmal kommentieren, vielleicht kommt man dann ja auf plausible Hypothesen!
 
-<marginal index="" letter="333" page="380" line="31">
+<marginal index="10475" letter="333" page="380" line="31">
 <bzg>Briefes…</bzg> vmtl. sind weder Herders letzter Brief noch Hamanns Schreiben, das der Retour der Odenabhandlung beilag, überliefert
 </marginal>
 
-<marginal index="" letter="333" page="380" line="32">
+<marginal index="10500" letter="333" page="380" line="32">
 <bzg>Odenabhandl.</bzg> vgl. <intlink letter="283" page="290" line="21" linktext="true"/> und <intlink letter="294" page="315" line="1" linktext="true"/>
 </marginal>
 
-<marginal index="" letter="333" page="380" line="33">
+<marginal index="10476" letter="333" page="380" line="33">
 <bzg>Mitau</bzg> Hamann war von Mitte Juni 1765 bis Mitte Januar 1767 in Mitau, unterbrochen nur durch seine Warschau-Reise Ende August bis Anfang Dezember 1765
 </marginal>
 
-<marginal index="" letter="333" page="381" line="5">
+<marginal index="10477" letter="333" page="381" line="5">
 <bzg>Firmelung</bzg> Firmung; hier wohl für endgültige Fassung und Druck der Abhandlung
 </marginal>
 
-<marginal index="" letter="333" page="381" line="10">
+<marginal index="10478" letter="333" page="381" line="10">
 <bzg>Kaufmannsort</bzg> Herder ist offenbar schon eine Weile in Riga, aber noch nicht so recht angekommen
 </marginal>
 
-<marginal index="" letter="333" page="381" line="10">
+<marginal index="10479" letter="333" page="381" line="10">
 <bzg>Prophet…</bzg> <link ref="at-jes" subref="at-jes23" linktext="false">Jes 23,1</link>
 </marginal>
 
-<marginal index="" letter="333" page="381" line="11">
+<marginal index="10480" letter="333" page="381" line="11">
 <bzg>Myopie</bzg> Kurzsichtigkeit, vgl. <intlink letter="301" page="331" line="31" linktext="true"/>
 </marginal>
 
-<marginal index="" letter="333" page="381" line="12">
+<marginal index="10481" letter="333" page="381" line="12">
 <bzg>abzuwarten</bzg> im Sinne von „mit dem gehörigen Fleiße ausüben“, Adelung (Bd. 1, Sp. 129, s.v. Abwarten)
 </marginal>
 
-<marginal index="" letter="333" page="381" line="16">
+<marginal index="10482" letter="333" page="381" line="16">
 <bzg>Winkelmann</bzg> vgl. <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true"/>, Vorrede (Gebrauch von Geschichte in der weiteren griechischen Bedeutung)
 </marginal>
 
-<marginal index="" letter="333" page="381" line="18">
+<marginal index="10501" letter="333" page="381" line="18">
 <bzg>pomum praecox</bzg> frühreifer Apfel
 </marginal>
 
-<marginal index="" letter="333" page="381" line="23">
+<marginal index="10483" letter="333" page="381" line="23">
 <bzg>Trescho</bzg> <link ref="trescho-sf" linktext="true"/>
 </marginal>
 
-<marginal index="" letter="333" page="381" line="24">
+<marginal index="10484" letter="333" page="381" line="24">
 <bzg>Zepter…</bzg> vmtl. Anspielung auf Dionysios von Korinth (367–343 v. Chr. n.), angeblich Schulmeister daselbst; ironisch für Herders Lehramt am Collegium Fridericianum in Königsberg
 </marginal>
 
-
-<marginal index="" letter="333" page="381" line="24">
+<marginal index="10485" letter="333" page="381" line="24">
 <bzg>Galgenfrist</bzg> Herder studierte in Königsberg von 1761 bis 1764
 </marginal>
 
-<marginal index="" letter="333" page="381" line="25">
+<marginal index="10486" letter="333" page="381" line="25">
 <bzg>Kant</bzg> Herder studierte enthusiasmiert bei <link ref="kant" linktext="true"/>, zählt ihn hier aber offenbar zu den Pedanten
 </marginal>
 
-<marginal index="" letter="333" page="381" line="35">
+<marginal index="10487" letter="333" page="381" line="35">
 <bzg>hohen Stils</bzg> Winckelmann unterscheidet in <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true"/> für die griechische Kunst die Entwicklungsstufen älterer Stil, hoher Stil, schöner Stil und Stil der Nachahmer
 </marginal>
 
-<marginal index="" letter="333" page="382" line="12">
+<marginal index="10488" letter="333" page="382" line="12">
 <bzg>Kalibanen</bzg> <link ref="shakespeare" subref="shakespeare-tempest" linktext="true"/>
 </marginal>
 
-<marginal index="" letter="333" page="382" line="16">
+<marginal index="10489" letter="333" page="382" line="16">
 <bzg>Collaboureur</bzg> wohl ein Kofferwort aus frz. laboureur (Landmann) und collaborateur (Mitarbeiter)
 </marginal>
 
-<marginal index="" letter="333" page="382" line="18">
+<marginal index="10490" letter="333" page="382" line="18">
 <bzg>lose Kunst…</bzg> Hamann hatte wohl öfter die sorglose Formulierungsgabe Herders kritisiert
 </marginal>
 
-<marginal index="" letter="333" page="382" line="19">
-<bzg>Linsen zu werfen</bzg> durch ein Nadelöhr, eine Anekdote über Alexander den Großen, berichtet von Quintilian, N II,64 32f.?!?
+<marginal index="10491" letter="333" page="382" line="19">
+<bzg>Linsen zu werfen</bzg> Nach <link ref="quintilian" linktext="true"/> belohnte Alexander der Große einen Künstler, der eine Linse durch ein Nadelöhr warf, mit einem Scheffel Linsen; vgl. N II,64, 32ff. (<link ref="hamann" subref="sokratischedenk" linktext="true"/>)
 </marginal>
 
+<marginal index="10492" letter="333" page="382" line="19">
+<bzg>Maas, Zahlen, u. Gewicht</bzg> <link ref="apo-weish" subref="apo-weish11" linktext="false">Weish 11,21</link>
+</marginal>
+
+<marginal index="10502" letter="333" page="382" line="22">
+<bzg>Amazonen</bzg> Henkel: „Hauptquelle für Etymologie u. diesen grausamen Brauch ist Diodorus Siculus II,45; IV,16; vgl Hederich.“ – überhaupt kommentieren?!?
+</marginal>
+
+<marginal index="10503" letter="333" page="382" line="25">
+<bzg>Trauben lesen…</bzg> also aus Hamanns Anmerkungen Nutzen ziehen können
+</marginal>
+
+<marginal index="10504" letter="333" page="382" line="28">
+<bzg>Windheim</bzg> <link ref="windheim" linktext="true"/>
+</marginal>
+
+<marginal index="10505" letter="333" page="382" line="30">
+<bzg>Michaelis</bzg> <link ref="michaelis-jd" subref="michaelis-suende" linktext="true"/>
+</marginal>
+
+<marginal index="10506" letter="333" page="382" line="30">
+<bzg>Baile</bzg> <link ref="bayle" subref="bayle-tolerance" linktext="true"/>
+</marginal>
+
+<marginal index="10507" letter="333" page="382" line="31">
+<bzg>Premontval</bzg> <link ref="premontval" subref="premontval-hazard" linktext="true"/>
+</marginal>
+
+<marginal index="10508" letter="333" page="382" line="31">
+<bzg>Reinhard</bzg> vmtl. <link ref="reinhard" subref="reinhard-bestewelt" linktext="true"/>
+</marginal>
+
+<marginal index="10509" letter="333" page="382" line="35">
+<bzg>κακοδαιμων</bzg> böser Geist, Dämon
+</marginal>
+
+<marginal index="10510" letter="333" page="382" line="35">
+<bzg>Gehts drauf los…</bzg> vmtl. ist eine baldige Reise Hamanns gemeint, mglw. die von Ende August 1765 nach Warschau
+</marginal>
+
+<marginal index="10511" letter="333" page="383" line="2">
+<bzg>Gedichte</bzg> nicht ermittelt
+</marginal>
+
+<marginal index="10512" letter="333" page="383" line="3">
+<bzg>Inlage</bzg> nicht ermittelt
+</marginal>
 
 Brief Nr. 334
 
-<marginal index="" letter="334" page="383" line="5">
+<marginal index="10513" letter="334" page="383" line="5">
 <bzg>Mitau</bzg> heute Jelgava, Lettland [56° 39′ N, 23° 43′ O] (40 km südwestlich von Riga)
 </marginal>
 
@@ -39392,11 +39438,11 @@ Brief Nr. 345
 </marginal>
 
 <marginal index="11079" letter="345" page="399" line="5">
-<bzg>Riedels Theorie</bzg> <link ref="riedel" subref="riedel-theorie" linktext="true" / 
+<bzg>Riedels Theorie</bzg> <link ref="riedel" subref="riedel-theorie" linktext="true"/>
 </marginal>
 
 <marginal index="11080" letter="345" page="399" line="6">
-<bzg>Schmidts Litteratur</bzg> <link ref="schmid-ch" subref="schmid-theorie" linktext="true" / 
+<bzg>Schmidts Litteratur</bzg> <link ref="schmid-ch" subref="schmid-theorie" linktext="true"/> 
 </marginal>
 
 <marginal index="11081" letter="345" page="399" line="9">
@@ -39407,7 +39453,7 @@ Brief Nr. 345
 <bzg>Ihrigen</bzg> <link ref="hartknoch" linktext="true"/>
 </marginal>
 
-<marginal index="11082" letter="345" page="399" line="12">
+<marginal index="10495" letter="345" page="399" line="12">
 <bzg>Vermählung</bzg> mit Anna Benigna Mehmel (1749-1771)
 </marginal>
 
@@ -39524,7 +39570,7 @@ veröffentlichte sie aber nicht.
 </marginal>
 
 <marginal index="11109" letter="346" page="401" line="25">
-<bzg>Lindners Lehrbuch</bzg> <link ref="lindner-jg" subref="lindner-jg-lehrbuch" linktext="true" />
+<bzg>Lindners Lehrbuch</bzg> <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" />
 </marginal>
 
 <marginal index="11110" letter="346" page="401" line="26">
@@ -39669,7 +39715,7 @@ Brief Nr. 347
 <bzg>HE Verleger</bzg> <link ref="kanter-jj" linktext="true"/>
 </marginal>
 
-<marginal index="11145" letter="347" page="403" line="20">
+<marginal index="10496" letter="347" page="403" line="20">
 <bzg>Klotz neuester Bibliotheck</bzg> <link ref="deutsche-bibliothek" linktext="true"/>
 </marginal>
 
@@ -39690,7 +39736,7 @@ Brief Nr. 347
 </marginal>
 
 <marginal index="11149" letter="347" page="403" line="34">
-<bzg>gemishandelten Freund</bzg> <link ref="lindner-jg" subref="lindner-jg-lehrbuch" linktext="true" /> wurde von <link ref="klotz" linktext="true"/> in <link ref="deutsche-bibliothek" linktext="true"/>, Bd. 1, St. 1, negativ rezensiert.
+<bzg>gemishandelten Freund</bzg> <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> wurde von <link ref="klotz" linktext="true"/> in <link ref="deutsche-bibliothek" linktext="true"/>, Bd. 1, St. 1, negativ rezensiert.
 </marginal>
 
 <marginal index="11150" letter="347" page="404" line="4">
@@ -39887,7 +39933,7 @@ extensiven Klarheit läutert. ?!?
 <bzg>Thorzeddel</bzg> Torzettel; auf einem solchen wurden die Namen der ankommenden Reisenden bei der Abfertigung an den Toren veröffentlicht
 </marginal>
 
-<marginal index="11197" letter="347" page="406" line="21">
+<marginal index="10497" letter="347" page="406" line="21">
 <bzg>ως εν παροδω</bzg> dt. wie im Vorübergehen
 </marginal>
 
@@ -39947,7 +39993,7 @@ Brief Nr. 348
 
 Indexnummer für Briefe bis 313: weitermachen mit 9560
 Indexnummer für 314–368a:
-314–342 (Luca): 10000: weitermachen mit 10463
+314–342 (Luca): 10000: weitermachen mit 10514
 343–368a (Gregor): 11000: weitermachen mit 11157
 
 
