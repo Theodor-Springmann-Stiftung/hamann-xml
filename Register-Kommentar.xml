@@ -7932,6 +7932,11 @@ In der <link ref="hamann" subref="h-dangeuil" linktext="false"><titel>Beylage zu
 </subsection>
 </kommentar>
 
+<kommentar id="marcellus" type="neuzeit">
+<lemma>Marcus Claudius Marcellus</lemma>
+<eintrag>268&#x2013;208 v. Chr. Römischer Feldherr und Konsul aus der Zeit der punischen Kriege. Eroberte Syrakus trotz der Kriegsmaschinen des <link ref="archimedes" linktext="true"/></eintrag>
+</kommentar>
+
 <kommentar id="marchand" type="neuzeit">
 <lemma>Jean-Henri Marchand</lemma>
 <eintrag>Gest. 1785. Frz. Advokat in Paris. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;26, 1820), S.&#x202F;602f.</eintrag>
@@ -8420,6 +8425,12 @@ Augsburg, Staats- und Stadtbibliothek: Phil 2517</wwwlink>.
 <lemma>Messkatalog für Ostern 1766</lemma>
 <eintrag>
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1766 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1766). Siehe <wwwlink address="http://www.olmsonline.de/">Olms Online</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="messkatalog-ostern1767" type="neuzeit" sort="60">
+<lemma>Messkatalog für Ostern 1767</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1767 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1767). Siehe <wwwlink address="http://www.olmsonline.de/">Olms Online</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -12805,7 +12816,13 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 <kommentar id="wegelin" type="neuzeit">
 <lemma>Jakob Daniel Wegelin</lemma>
 <eintrag>1721&#x2013;1791. Schweizer und reform. Theologe und Philologe, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd121644111.html#adbcontent">Dierauer, Johannes: Wegelin, Jakob, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;423f.</wwwlink>.</eintrag>
-<subsection id="wegelin-gespraeche" type="neuzeit">
+<subsection id="wegelin-sokrates" type="neuzeit" sort="10">
+<lemma>Wegelin, <titel>Die letzten Gespräche Socrates und seiner Freunde</titel></lemma>
+<eintrag>
+<titel>Die letzten Gespräche Socrates und seiner Freunde.</titel> Von W*** (Zürich 1760). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-18647 ">ZB Zürich: 16.290</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="wegelin-gespraeche" type="neuzeit" sort="20">
 <lemma>Wegelin, <titel>Religiöse Gespräche der Todten</titel></lemma>
 <eintrag>
 <titel>Religiöse Gespräche der Todten</titel> (Frankfurt/Leipzig: Jacob Otto, Buchhändler in Lindau 1763) [Biga&#x202F;151/364: „Religiöse Gespräche der Todten, Frkft. 763.“]. Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-52009">ZB Zürich: 25.259</wwwlink>
