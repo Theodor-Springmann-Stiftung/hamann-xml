@@ -1529,16 +1529,36 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
-<kommentar id="brown" type="neuzeit">
+<kommentar id="brown-j" type="neuzeit">
+<lemma>John Brown</lemma>
+<eintrag>1715&#x2013;1766. Prediger und Schriftsteller, siehe <wwwlink address="https://doi.org/10.1093/ref:odnb/3621">Crimmins, J.E.: Brown, John, in: <titel>Oxford DNB</titel></wwwlink></eintrag>
+<subsection id="brown-characteristics" type="neuzeit">
+<lemma>John Brown, <titel>Essays on the characteristics of Shaftesbury</titel></lemma>
+<eintrag><titel>Essays on the characteristics of Shaftesbury</titel> (1751). Digitalisat der 4. Aufl. 1755: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10745034-4">BSB München: P.o.angl. 38 w</wwwlink>
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="browne-m" type="neuzeit">
+<lemma>Moses Browne</lemma>
+<eintrag>1704&#x2013;1787. Dichter, Übersetzer und Kleriker der Church of England, siehe <wwwlink address="https://doi.org/10.1093/ref:odnb/3689">Radcliffe, D.H.: Browne, Moses, in: <titel>Oxford DNB</titel></wwwlink></eintrag>
+<subsection id="browne-creation" type="neuzeit">
+<lemma>Moses Browne, <titel>The Works and Rest of the Creation</titel></lemma>
+<eintrag><titel>The Works and Rest of the Creation</titel> containing I. An essay on the universe. Designed to promote a familiar, pleasing, and religious knowledge of the earth and heavenly bodies. In four books. II. Sunday thoughts. Adapted to the various parts of the christian sabbath; and its different duties, exercises, and employments. In three parts. By Moses Browne (London 1752) [Biga&#x202F;173/704: „The Works and Rest of Creation, containing an Essay on the Universe in IV. Books and Sunday-Thougts in III. Parts by Mos. Browne, ib. 752“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=RKBgAAAAcAAJ&rdid=book-RKBgAAAAcAAJ&rdot=1">Google Books</wwwlink>. Ein Auszug wurde von Hamann in <link ref="hamann" subref="hamann-selbstgespraech" linktext="true"/> übersetzt.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="browne-t" type="neuzeit">
 <lemma>Thomas Browne</lemma>
 <eintrag>1605&#x2013;1682. Philosoph, praktischer Arzt in Norwich. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;6, 1812), S.&#x202F;61–63.</eintrag>
 <subsection id="browne-epidemica" type="neuzeit" sort="10">
-<lemma>Browne, <titel>Pseudodoxia epidemica</titel></lemma>
+<lemma>Thomas Browne, <titel>Pseudodoxia epidemica</titel></lemma>
 <eintrag><titel>Pseudodoxia epidemica, or, Enquiries into very many received tenents and commonly presumed truths</titel> (1646) [Biga&#x202F;96/8: „Th. Brown’s Pseudodoxia Epidemica, Lond. 650“].
 </eintrag>
 </subsection>
-<subsection id="brown-morals" type="neuzeit" sort="20">
-<lemma>Browne, <titel>Christian Morals</titel></lemma>
+<subsection id="browne-morals" type="neuzeit" sort="20">
+<lemma>Thomas Browne, <titel>Christian Morals</titel></lemma>
 <eintrag>
 <titel>Christian Morals</titel> (Campridge 1716) [Biga&#x202F;46/451: Thr. Brown’s Christian Morals, Hall. 723]. Digitalisat: 
 <wwwlink address="http://digital.slub-dresden.de/id36395077X">SLUB Dresden: Hist.Turc.1558,misc.4</wwwlink>
@@ -4947,7 +4967,14 @@ Eigentl.: <titel>Hamburgische Nachricht; Göttingsche Anzeige; Berlinsche Beurth
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;241&#x2013;274 und Erstdruck = ED.
 </eintrag>
 </subsection>
-<subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort= "360">
+
+<subsection id="hamann-selbstgespraech" type="neuzeit" sort= "370">
+<lemma>Hamann, <titel>Selbstgespräch aus dem Englischen übersetzt</titel></lemma>
+<eintrag>
+<titel>Selbstgespräch aus dem Englischen übersetzt.</titel> In: <link ref="konigsberger-gp-z" linktext="true"/>, 45.&#x202F;St. vom 4.6.1770. Übersetzung aus <link ref="browne-m" subref="browne-creation" linktext="true"/>
+</eintrag>
+</subsection>
+<subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort= "700">
 <lemma>Hamann, <titel>Golgatha und Scheblimini</titel></lemma>
 <eintrag>
 <titel>Golgatha und Scheblimini! Von einem Prediger in der Wüsten</titel> ([Riga] 1784). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4603536">ULB Münster: N. Hamann Bd.&#x202F;26</wwwlink>.
@@ -5259,9 +5286,9 @@ Von und an Herder, 3 Bde. (Leipzig 1861–1862).
 <subsection id="herder-fragmente" type="neuzeit" sort="40">
 <lemma>Herder, <titel>Fragmente über die neuere Deutsche Literatur</titel></lemma>
 <eintrag>
-1. Sammlung: <titel>Ueber die neuere Deutsche Litteratur.</titel> Erste Sammlung von Fragmenten. Eine Beilage zu den Briefen, die neueste Litteratur betreffend ([Riga: Hartknoch] 1767 [1766]) [Biga 162/531: „Fragmente über die neuere deutsche Litteratur, Saml. I. II. III. 767. Donum AVCTORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733673-6">BSB München: H.lit.p. 223-1/3</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;161–259.<line type="break" />
-2. Sammlung: <titel>Ueber die neuere Deutsche Litteratur.</titel> Zwote Sammlung von Fragmenten. Eine Beilage zu den Briefen, die neueste Litteratur betreffend ([Riga: Hartknoch] 1767 [1766]) [Biga 162/531: „Fragmente über die neuere deutsche Litteratur, Saml. I. II. III. 767. Donum AVCTORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733674-1">BSB München: H.lit.p. 223-1/3</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;261–365.<line type="break" />
-3. Sammlung: <titel>Ueber die neuere Deutsche Litteratur.</titel> Fragmente, als Beilagen zu den Briefen, die neueste Litteratur betreffend. Dritte Sammlung. (Riga: Hartknoch 1767) [Biga 162/531: „Fragmente über die neuere deutsche Litteratur, Saml. I. II. III. 767. Donum AVCTORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733675-6">BSB München: H.lit.p. 223-1/3</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;367–539.<line type="break" />
+1. Sammlung (erschien im Herbst 1766): <titel>Ueber die neuere Deutsche Litteratur.</titel> Erste Sammlung von Fragmenten. Eine Beilage zu den Briefen, die neueste Litteratur betreffend ([Riga: Hartknoch] 1767 [1766]) [Biga 162/531: „Fragmente über die neuere deutsche Litteratur, Saml. I. II. III. 767. Donum AVCTORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733673-6">BSB München: H.lit.p. 223-1/3</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;161–259.<line type="break" />
+2. Sammlung (erschien im Herbst 1766): <titel>Ueber die neuere Deutsche Litteratur.</titel> Zwote Sammlung von Fragmenten. Eine Beilage zu den Briefen, die neueste Litteratur betreffend ([Riga: Hartknoch] 1767 [1766]) [Biga 162/531: „Fragmente über die neuere deutsche Litteratur, Saml. I. II. III. 767. Donum AVCTORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733674-1">BSB München: H.lit.p. 223-1/3</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;261–365.<line type="break" />
+3. Sammlung (erschien zur Ostermesse 1767): <titel>Ueber die neuere Deutsche Litteratur.</titel> Fragmente, als Beilagen zu den Briefen, die neueste Litteratur betreffend. Dritte Sammlung. (Riga: Hartknoch 1767) [Biga 162/531: „Fragmente über die neuere deutsche Litteratur, Saml. I. II. III. 767. Donum AVCTORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733675-6">BSB München: H.lit.p. 223-1/3</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;367–539.<line type="break" />
 1. Sammlung, Zweite Auflage: <titel>Ueber die neuere Deutsche Litteratur.</titel> Fragmente. Erste Sammlung. Zweite völlig umgearbeitete Ausgabe (Riga: Hartknoch 1768). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733676-2">BSB München: H.lit.p. 223 a-1</wwwlink>. Herder, <titel>Werke</titel>, Bd.&#x202F;1, S.&#x202F;541–649.
 </eintrag>
 </subsection>
@@ -5271,10 +5298,22 @@ Von und an Herder, 3 Bde. (Leipzig 1861–1862).
 <titel>Nachricht von einem neuen Erläuterer der H. Dreieinigkeit</titel> (Riga: Hartknoch 1766); Herder, <titel>SWS</titel>, Bd.&#x202F;1, S.&#x202F;28–42. 
 </eintrag>
 </subsection>
-<subsection id="herder-frzbühne" type="neuzeit" sort="60">
+<subsection id="herder-frzbuehne" type="neuzeit" sort="60">
 <lemma>Herder, <titel>Haben wir eine Französische Bühne?</titel></lemma>
 <eintrag>
-<titel>Haben wir eine Französische Bühne?</titel> (1766 für <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3. Sammlung handschriftlich verfasst, aber nicht aufgenommen); <titel>SWS</titel>, Bd.&#x202F;2, S.&#x202F;207–230.
+<titel>Haben wir eine Französische Bühne?</titel> (1766 für <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3.&#x202F;Sammlung handschriftlich verfasst, aber nicht aufgenommen); <titel>SWS</titel>, Bd.&#x202F;2, S.&#x202F;207–230.
+</eintrag>
+</subsection>
+<subsection id="herder-brittgeschmack" type="neuzeit" sort="70">
+<lemma>Herder, <titel>Vom Brittischen Geschmack in Schauspielen</titel></lemma>
+<eintrag>
+<titel>Vom Brittischen Geschmack in Schauspielen</titel> (1766 für <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3.&#x202F;Sammlung handschriftlich verfasst, aber nicht aufgenommen); <titel>SWS</titel>, Bd.&#x202F;2, S.&#x202F;230–233.
+</eintrag>
+</subsection>
+<subsection id="herder-adrastea" type="neuzeit" sort="700">
+<lemma>Herder, <titel>Adreastea</titel></lemma>
+<eintrag>
+<titel>Adrastea.</titel> Herausgegeben von J. G. Herder (Leipzig: Hartknoch 1801–1803/4). SWS, Bd.&#x202F;23 und 24.
 </eintrag>
 </subsection>
 </kommentar>
@@ -10174,7 +10213,7 @@ Dt. Übers.: <titel>Briefe der Milady Juliane Catesby an die Milady Henriette Ca
 <subsection id="riedel-theorie" type="neuzeit" sort="10">
 <lemma>Riedel, <titel>Theorie der schönen Künste und Wissenschaften</titel></lemma>
 <eintrag>
-<titel>Theorie der schönen Künste und Wissenschaften</titel> (Jena: Cuno 1767) [Biga&#x202F;134/67: „J. F. Riedels Theorie der schónen Künste und Wissenschaften, Jena 767“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574504-4">München, Bayerische Staatsbibliothek: L.eleg.g. 341 z</wwwlink>.</eintrag>
+<titel>Theorie der schönen Künste und Wissenschaften</titel> (Jena: Cuno 1767) [Biga&#x202F;134/67: „J. F. Riedels Theorie der schönen Künste und Wissenschaften, Jena 767“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574504-4">München, Bayerische Staatsbibliothek: L.eleg.g. 341 z</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
