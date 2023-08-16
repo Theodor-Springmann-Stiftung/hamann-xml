@@ -9541,6 +9541,10 @@ nicht ermittelt: Biga&#x202F;2/22: „Platonis Opera gr. &#x26; lat. Franc. 691�
 <lemma>Plat. <titel>Ion</titel></lemma>
 <eintrag>Ion.</eintrag>
 </subsection>
+<subsection id="plat-menex" type="neuzeit" sort="65">
+<lemma>Plat. <titel>Menex</titel></lemma>
+<eintrag>Menexenos, griech. Μενέξενος</eintrag>
+</subsection>
 <subsection id="plat-rep" type="neuzeit" sort="70">
 <lemma>Plat. <titel>rep.</titel></lemma>
 <eintrag>Der Staat, de re publica, griech. Πολιτεία</eintrag>
@@ -11451,6 +11455,10 @@ Zu Hamanns Bezug auf diesen Text in den Briefen 1759: <link ref="ste-h-2016" lin
 <subsection id="xanthippe" type="neuzeit" sort="40">
 <lemma>Xanthippe</lemma>
 <eintrag>Ehefrau von Sokrates, über die bereits seit der Antike zahlreiche Anekdoten kursierten.</eintrag>
+</subsection>
+<subsection id="aspasie" type="neuzeit" sort="40">
+<lemma>Aspasia von Milet</lemma>
+<eintrag>Sokrates’ Lehrerin in der Rhetorik (<link ref="platon" subref="plat-menex" linktext="true"/>, 235e); Gastgeberin eines philosophischen Salons und Frau (bzw. Hetäre) von Perikles.</eintrag>
 </subsection>
 </kommentar>
 
