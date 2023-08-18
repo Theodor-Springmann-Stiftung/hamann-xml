@@ -9302,10 +9302,22 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 </kommentar>
 
 <kommentar id="patz" type="neuzeit">
-<lemma>Christian Gottlieb Patz (auch Paz, Pazz)</lemma>
-<eintrag>1735&#x2013;1779. Student in Königsberg, später protestantischer Theologe, 1766 Pastor vicarius in Mitau, ab 1767 Prediger in Kurland. Freund von Hamann besonders in seiner Mitauer Zeit (1765–1767), vgl. zu seinem Verhältnis <intlink letter="354" page="428" line="31" linktext="true"/></eintrag>
+<lemma>Christian Gottlieb Patz</lemma>
+<eintrag>1735&#x2013;1779, auch Paz oder Pazz genannt. Student in Königsberg, später protestantischer Theologe, 1766 Pastor vicarius in Mitau, seit Januar 1767 Prediger in Zelmeneeken (Lihkuppen) in Kurland (100&#x202F;km von Mitau entfernt). Freund von Hamann besonders in seiner Mitauer Zeit (1765–1767). Offenbar in vielerlei Schulden verstrickt, heiratete er um den Jahreswechsel 1766/1767 <link ref="patz-ae" linktext="true"/> und bekam ein Pastorat. Im Zusammenhang mit dem Streit um seine Schulden mit den Schwiegereltern, in den auch sein Vater und Hamann aus Königsberg involviert waren, stehen wohl <intlink letter="341" page="391" line="34" linktext="true"/> und <intlink letter="342" page="394" line="1" linktext="true"/>. Vgl. zu seinem weiteren Schicksal und Verhältnis zu Hamann <intlink letter="354" page="428" line="31" linktext="true"/>.<line type="break" />
+[Viel scheint über Patz sonst nicht herauszufinden: Patz bekam 1768 einen Sohn (Johann Jacob Patz), der ab 1787 in Mitau zur Schule ging; weiterhin publizierte er einige Predigten: <titel>Die Ehre Gottes in Duldung des Unrechts auf Erden. Eine in der gräflich-esserisch-grywaischen Kirche (wegen Erretung des Königs Stanislaus Augustus) am 26. Sonntage n. Tr. über Psalm 37, v. 32.33 gehaltene Predigt</titel> (Mitau 1772, 20 Quartseiten) und <titel>Der Frau Gräfin Charlotte v. Kettler, geb. v. Kleist, Gemahlin des Herrn Grafen v. Kettler, Erbherrn der Essernschen Güter, überreichet die am unvergesslichen 3. Junii dieses Jahres (als die Neuvermählte zum ersten mal die Kirche besuchte) in der Griewaischen Kirche gehaltene Rede C. G. Patz.</titel> (Königsberg 1773, 15 Oktavseiten); vgl. Allgemeines Schriftsteller- und Gelehrten-Lexikon der Provinzen Livland, Esthland und Kurland, III (2008)].</eintrag>
 </kommentar>
 
+<kommentar id="patz-v" type="neuzeit">
+<lemma>Vmtl. der Vater von Christian Gottlieb Patz</lemma>
+<eintrag>Lebensdaten unbekannt. Hamann korrespondierte mit ihm über seinen Sohn <link ref="patz" linktext="true"/> wohl im März 1767. Vmtl. ein Geistlicher in Kurland.</eintrag>
+</kommentar>
+
+<kommentar id="patz-ae" type="neuzeit">
+<lemma>Anna Elisabeth Patz</lemma>
+<eintrag>Lebensdaten unbekannt. Geb. Winter und die <intlink letter="336" page="386" line="30" linktext="true">„reichste Erbin in Mitau“</intlink>; heiratete <link ref="patz" linktext="true"/> um den Jahreswechsel 1766/1767.</eintrag>
+</kommentar>
+
+, geb.Winter
 <kommentar id="pausanias" type="neuzeit">
 <lemma>Pausanias</lemma>
 <eintrag>Ca. 115–ca.&#x202F;180.</eintrag>

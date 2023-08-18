@@ -6846,14 +6846,14 @@
       </letterDesc>
       <letterDesc ref="341">
         <autopsic value="341" />
-        <date value="März 1767" />
+        <date value="nach 14. März 1767" />
         <sort value="1767-03-01" notBefore="1767-03-01" notAfter="1767-03-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
         <receivers>
-          <receiver ref="-1" />
+          <receiver ref="132" />
         </receivers>
         <hasOriginal value="false" />
         <isProofread value="true" />
@@ -6868,12 +6868,12 @@
         <autopsic value="342" />
         <date value="2. März 1767" />
         <sort value="1767-03-02" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
         <receivers>
-          <receiver ref="-1" />
+          <receiver ref="132" />
         </receivers>
         <hasOriginal value="false" />
         <isProofread value="true" />

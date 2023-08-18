@@ -125,7 +125,7 @@
 			<personDef index="118" name="Arnd von Koepken" vorname="Arnd" nachname="Koepken" komm="koepken" />
 			<personDef index="119" name="Hans Ernst Dietrich von Werder" ref="https://d-nb.info/gnd/1019460180" vorname="Dietrich von" nachname="Werder" komm="werder" />
 			<personDef index="120" name="Johann Ernst Aloysius Druffel" vorname="Johann Ernst" nachname="Druffel" komm="druffel-jea" />
-			<personDef index="121" name="Gottlieb Ernst Gomm" vorname="" nachname="Gomm" komm="gomm-ge" />
+			<personDef index="121" name="Gottlieb Ernst Gomm" vorname="Gottlieb Ernst" nachname="Gomm" komm="gomm-ge" />
 			<personDef index="122" name="Amalia von Gallitzin" ref="https://d-nb.info/gnd/118537342" vorname="Amalia von" nachname="Gallitzin" komm="gallitzin-a" />
 			<personDef index="123" name="" />
 			<personDef index="124" name="" />
@@ -135,6 +135,7 @@
 			<personDef index="129" name="Martinus Maletius" ref="https://d-nb.info/gnd/11669422X" vorname="Martinus" nachname="Maletius" komm="maletius" />
 			<personDef index="130" name="Vmtl. Theodor Gottlieb Hippel" ref="https://d-nb.info/gnd/11855137X" vorname="Theodor Gottlieb" nachname="Hippel" komm="hippel" />
 			<personDef index="131" name="Georg Joachim Göschen" ref="https://d-nb.info/gnd/118695916" vorname="Georg Joachim" nachname="Göschen" komm="goeschen" />
+			<personDef index="132" name="Vmtl. der Vater von Christian Gottlieb Patz" nachname="Patz" komm="patz-v" />
 		</personDefs>
       <handDefs>
 			<handDef index="-1" name="Unbekannt" />
