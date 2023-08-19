@@ -1544,7 +1544,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <eintrag>1704&#x2013;1787. Dichter, Übersetzer und Kleriker der Church of England, siehe <wwwlink address="https://doi.org/10.1093/ref:odnb/3689">Radcliffe, D.H.: Browne, Moses, in: <titel>Oxford DNB</titel></wwwlink></eintrag>
 <subsection id="browne-creation" type="neuzeit">
 <lemma>Moses Browne, <titel>The Works and Rest of the Creation</titel></lemma>
-<eintrag><titel>The Works and Rest of the Creation</titel> containing I. An essay on the universe. Designed to promote a familiar, pleasing, and religious knowledge of the earth and heavenly bodies. In four books. II. Sunday thoughts. Adapted to the various parts of the christian sabbath; and its different duties, exercises, and employments. In three parts. By Moses Browne (London 1752) [Biga&#x202F;173/704: „The Works and Rest of Creation, containing an Essay on the Universe in IV. Books and Sunday-Thougts in III. Parts by Mos. Browne, ib. 752“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=RKBgAAAAcAAJ&rdid=book-RKBgAAAAcAAJ&rdot=1">Google Books</wwwlink>. Ein Auszug wurde von Hamann in <link ref="hamann" subref="hamann-selbstgespraech" linktext="true"/> übersetzt.
+<eintrag><titel>The Works and Rest of the Creation</titel> containing I. An essay on the universe. Designed to promote a familiar, pleasing, and religious knowledge of the earth and heavenly bodies. In four books. II. Sunday thoughts. Adapted to the various parts of the christian sabbath; and its different duties, exercises, and employments. In three parts. By Moses Browne (London 1752) [Biga&#x202F;173/704: „The Works and Rest of Creation, containing an Essay on the Universe in IV. Books and Sunday-Thougts in III. Parts by Mos. Browne, ib. 752“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=RKBgAAAAcAAJ&#x26;rdid=book-RKBgAAAAcAAJ&#x26;rdot=1">Google Books</wwwlink>. Ein Auszug wurde von Hamann in <link ref="hamann" subref="hamann-selbstgespraech" linktext="true"/> übersetzt.
 </eintrag>
 </subsection>
 </kommentar>
@@ -5573,7 +5573,6 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <eintrag>
 <titel>Der Mann nach der Uhr,</titel> oder der ordentliche Mann. Ein Lustspiel in einem Aufzuge ([Königsberg] 1765) [Biga&#x202F;153/402: „Der Mann nach der Uhr, 765“]. Digitalisat der Ausgabe Riga 1771: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10118102-5">BSB München: P.o.germ. 1231#Beibd.6</wwwlink>.
 </eintrag>
-</eintrag>
 </subsection>
 <subsection id="hippel-nebenbuhler" type="neuzeit" sort="60">
 <lemma>Hippel, <titel>Die ungewöhnliche Nebenbuhler</titel></lemma>
@@ -9309,7 +9308,7 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 
 <kommentar id="patz-v" type="neuzeit">
 <lemma>Vmtl. der Vater von Christian Gottlieb Patz</lemma>
-<eintrag>Lebensdaten unbekannt. Hamann korrespondierte mit ihm über seinen Sohn <link ref="patz" linktext="true"/> wohl im März 1767. Vmtl. ein Geistlicher in Kurland.</eintrag>
+<eintrag>Lebensdaten unbekannt. Hamann korrespondierte mit ihm über seinen Sohn <link ref="patz" linktext="true"/> wohl im März 1767. Vmtl. ein angesehener Kirchendiener in Mitau.</eintrag>
 </kommentar>
 
 <kommentar id="patz-ae" type="neuzeit">
@@ -11468,7 +11467,7 @@ Zu Hamanns Bezug auf diesen Text in den Briefen 1759: <link ref="ste-h-2016" lin
 <lemma>Xanthippe</lemma>
 <eintrag>Ehefrau von Sokrates, über die bereits seit der Antike zahlreiche Anekdoten kursierten.</eintrag>
 </subsection>
-<subsection id="aspasie" type="neuzeit" sort="40">
+<subsection id="aspasia" type="neuzeit" sort="40">
 <lemma>Aspasia von Milet</lemma>
 <eintrag>Sokrates’ Lehrerin in der Rhetorik (<link ref="platon" subref="plat-menex" linktext="true"/>, 235e); Gastgeberin eines philosophischen Salons und Frau (bzw. Hetäre) von Perikles.</eintrag>
 </subsection>

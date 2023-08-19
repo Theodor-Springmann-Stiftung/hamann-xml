@@ -6847,7 +6847,7 @@
       <letterDesc ref="341">
         <autopsic value="341" />
         <date value="nach 14. März 1767" />
-        <sort value="1767-03-01" notBefore="1767-03-01" notAfter="1767-03-31" />
+        <sort value="1767-03-14" notBefore="1767-03-14" notAfter="1767-03-25" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -6866,8 +6866,8 @@
       </letterDesc>
       <letterDesc ref="342">
         <autopsic value="342" />
-        <date value="2. März 1767" />
-        <sort value="1767-03-02" />
+        <date value="Vmtl. 2. April 1767" />
+        <sort value="1767-04-02" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -6879,7 +6879,7 @@
         <isProofread value="true" />
         <isDraft value="true" />
         <ZHInfo inZH="true">
-          <dateChanged value="false" />
+          <dateChanged value="true" />
           <begin vol="2" page="394" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
