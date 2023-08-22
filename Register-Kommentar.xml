@@ -5090,7 +5090,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hartknoch" type="neuzeit">
 <lemma>Johann Friedrich Hartknoch</lemma>
-<eintrag>1740&#x2013;1789. 1761 Lehrling von <link ref="kanter-jj" linktext="true" />, übernahm 1763 dessen Filiale in Mitau, Verleger in Riga, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz26177.html#adbcontent">Eckardt: Hartknoch, Johann Friedrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;667</wwwlink>.</eintrag>
+<eintrag>1740&#x2013;1789. 1761 Lehrling von <link ref="kanter-jj" linktext="true" />, übernahm 1763 dessen Filiale in Mitau, Verleger in Riga u.&#x202F;a. von <link ref="herder" subref="herder-fragmente" linktext="true"/>,  siehe <wwwlink address="https://www.deutsche-biographie.de/sfz26177.html#adbcontent">Eckardt: Hartknoch, Johann Friedrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;667</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hartknoch-a" type="neuzeit">
@@ -7032,6 +7032,11 @@ L
 <eintrag>1672&#x2013;1731. Frz. Ästhetiker und Literat, Akademiemitglied.</eintrag>
 </kommentar>
 
+<kommentar id="lange-sg" type="neuzeit">
+<lemma>Samuel Gotthold Lange</lemma>
+<eintrag>1711–1781. Deutscher Dichter.</eintrag>
+</kommentar>
+
 <kommentar id="langermann" type="neuzeit">
 <lemma>Johann Jacob Christian Langermann</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Bader in Königsberg.</eintrag>
@@ -7116,6 +7121,17 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true"/> wurd
 <kommentar id="lavater" type="neuzeit">
 <lemma>Johann Caspar Lavater</lemma>
 <eintrag>1741&#x2013;1801. Schweiz. reformierter Theologe, 1778 Diakon, 1786 Pfarrer an St. Peter in Zürich, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48577.html#ndbcontent">Proß, Wolfgang: Lavater, Johann Caspar, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;746&#x2013;750</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="lavater-l" type="neuzeit">
+<lemma>Ludwig Lavater</lemma>
+<eintrag>1527&#x2013;1586. Schweiz. reformierter Geistlicher und Autor eines Gespensterbuchs, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48580.html#adbcontent">Wyß, Georg von: Lavater, Ludwig, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;83&#x2013;84</wwwlink>.</eintrag>
+<subsection id="lavater-spectris" type="neuzeit">
+<lemma>Lavater, <titel>de spectris</titel></lemma>
+<eintrag>
+<titel>De spectris, lemuribus et magnis</titel> atqve insolitis fragoribus, variisque praesagitionibus quae plrenque obitum hominum, magnas clades, mutationesque Imperiorum praecedunt (Zürich 1570). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10192490-0">Bayerische Staatsbibliothek: Phys.m. 130</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="lavini" type="neuzeit">

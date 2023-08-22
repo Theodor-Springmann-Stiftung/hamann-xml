@@ -37251,7 +37251,7 @@ Brief Nr. 315
 </marginal>
 
 <marginal index="10053" letter="315" page="357" line="28">
-<bzg>Sidonius Apollinaris</bzg> <link ref="sidonius" linktext="true"/>, carm. IX, 221–225.
+<bzg>Sidonius Apollinaris</bzg> <link ref="sidonius" linktext="true"/>, carm. IX,&#x202F;221–225.
 </marginal>
 
 <marginal index="10054" letter="315" page="357" line="32">
@@ -37259,7 +37259,7 @@ Brief Nr. 315
 </marginal>
 
 <marginal index="10056" letter="315" page="357" line="36">
-<bzg>Locher</bzg> Hamann kannte <link ref="locher" subref="locher-horaz" linktext="false">Lochers Horaz-Ausgabe von 1798</link> vmtl. aus der Bibliothek von <link ref="lauson" linktext="true"/> (vgl. <intlink letter="642" page="350" line="1" linktext="true"/>)
+<bzg>Locher</bzg> Hamann kannte <link ref="locher" subref="locher-horaz" linktext="false">Lochers Horaz-Ausgabe von 1498</link> vmtl. aus der Bibliothek von <link ref="lauson" linktext="true"/> (vgl. <intlink letter="642" page="350" line="1" linktext="true"/>)
 </marginal>
 
 <marginal index="10057" letter="315" page="358" line="11">
@@ -37267,19 +37267,19 @@ Brief Nr. 315
 </marginal>
 
 <marginal index="10058" letter="315" page="358" line="14">
-<bzg>alte Brochure de spectris</bzg> nicht ermittelt, vllt. das Gespensterbuch »de spectris« von Ludwig Lavater (1569)?!?
+<bzg>alte Brochure de spectris</bzg> vmtl. <link ref="lavater-l" subref="lavater-spectris" linktext="true"/>
 </marginal>
 
 <marginal index="10059" letter="315" page="358" line="16">
-<bzg>Georg Berens</bzg> <link text="berens-g" linktext="true"/>
+<bzg>Georg Berens</bzg> <link ref="berens-g" linktext="true"/>
 </marginal>
 
 <marginal index="10060" letter="315" page="358" line="20">
-<bzg>Ihren Erstlingen</bzg> <link ref="herder" subref="herder-fragmente" linktext="true"/>, 1.&#x202F;Sammlung
+<bzg>Ihren Erstlingen</bzg> <link ref="herder" subref="herder-fragmente" linktext="true"/>
 </marginal>
 
 <marginal index="10061" letter="315" page="358" line="23">
-<bzg>beyliegenden Brief</bzg> vmtl. ein nicht mehr überlieferter Brief von <link ref="lindner-jg" linktext="true"/> an Herder, vgl. <intlink letter="316" page="359" line="15" linktext="true"/> [Henkel-Kommentar löschen? – »vermutlich der Lindners an Herder, 359,15f., in der Absicht geschrieben, zwischen Herder u. Scheffner zu vermitteln. H. hatte ihn offenbar gelesen, so kommt es zu zärtlicher Anrede und einer etwas anzüglichen Sorglichkeit (zu getreuer Bestellung).«]
+<bzg>beyliegenden Brief</bzg> vmtl. ein nicht mehr überlieferter Brief von <link ref="lindner-jg" linktext="true"/> an Herder, vgl. <intlink letter="316" page="359" line="15" linktext="true"/>
 </marginal>
 
 <marginal index="10062" letter="315" page="358" line="25">
@@ -37288,16 +37288,12 @@ Brief Nr. 315
 
 Brief Nr. 316
 
-<marginal index="10063" letter="316" page="359" line="2">
-<bzg>ersten Theil</bzg> <link ref="herder" subref="herder-fragmente" linktext="true"/>, 1.&#x202F;Sammlung
-</marginal>
-
 <marginal index="10064" letter="316" page="359" line="3">
-<bzg>zweiten Theil</bzg> <link ref="herder" subref="herder-fragmente" linktext="true"/>, 2.&#x202F;Sammlung
+<bzg>Theil…</bzg> <link ref="herder" subref="herder-fragmente" linktext="true"/>, 1.&#x202F;und&#x202F;2. Sammlung
 </marginal>
 
 <marginal index="10065" letter="316" page="359" line="4">
-<bzg>Orient.</bzg>Orientalen, vgl. <link ref="herder" subref="herder-fragmente" linktext="true"/>, 2. Sammlung, S.&#x202F;277–295
+<bzg>Orient.</bzg> Orientalen, vgl. <link ref="herder" subref="herder-fragmente" linktext="true"/>, 2. Sammlung, S.&#x202F;277–295
 </marginal>
 
 <marginal index="10066" letter="316" page="359" line="5">
@@ -37337,7 +37333,7 @@ Brief Nr. 316
 </marginal>
 
 <marginal index="10075" letter="316" page="359" line="8">
-<bzg>Lange</bzg> Bei Herder schauen, was fürn Lange das ist?!?
+<bzg>Lange</bzg> <link ref="lange-sg" linktext="true"/>
 </marginal>
 
 <marginal index="10076" letter="316" page="359" line="8">
@@ -37345,7 +37341,7 @@ Brief Nr. 316
 </marginal>
 
 <marginal index="10077" letter="316" page="359" line="9">
-<bzg>Imprimatur mit 3</bzg> <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3.&#x202F;Sammlung?! – Imprimatur im Sinne von placet 
+<bzg>Imprimatur mit 3</bzg> für die 3. Sammlung von <link ref="herder" subref="herder-fragmente" linktext="true"/>; Imprimatur im Sinne von placet, vgl. <intlink letter="315" page="358" line="20" linktext="true"/>
 </marginal>
 
 <marginal index="10078" letter="316" page="359" line="9">
@@ -37357,11 +37353,11 @@ Brief Nr. 316
 </marginal>
 
 <marginal index="10080" letter="316" page="359" line="11">
-<bzg>Recens. schon eingerückt</bzg> Laut Herder-Kommentar Scheffners Rezension von „Scherzhafte Erzählungen kleiner Satyren“ in <link ref="konigsberger-gp-z" linktext="true"/>, 8. St. vom 27.1.1766; laut Taszus ist bei dem Datum aber nichts; KGPZ aus der Zeit prüfen
+<bzg>Recens. schon eingerückt</bzg> laut Herder-Kommentar Scheffners Rezension von „Scherzhafte Erzählungen kleiner Satyren“ in <link ref="konigsberger-gp-z" linktext="true"/>, 8. St. vom 27.1.1766; laut Taszus ist bei dem Datum aber nichts; KGPZ aus der Zeit prüfen?!?
 </marginal>
 
 <marginal index="10081" letter="316" page="359" line="12">
-<bzg>wiedersprechende Critik</bzg> Wohl eine Rezension desselben Werkes, die Herder einschickte, und zurückgewiesen wurde; Manuskript nicht überliefert (ebenso wenig Scheffners Replik im Hofmeisterton [Scheffner-Briefwechsels schauen?!?])
+<bzg>wiedersprechende Critik</bzg> wohl eine Rezension desselben Werkes, die Herder einschickte, und zurückgewiesen wurde; Manuskript nicht überliefert (ebenso wenig Scheffners Zettel an Kanter im Hofmeisterton)
 </marginal>
 
 <marginal index="10082" letter="316" page="359" line="13">
@@ -37385,7 +37381,7 @@ Brief Nr. 316
 </marginal>
 
 <marginal index="10087" letter="316" page="359" line="16">
-<bzg>lärmende Ode</bzg> Karl Gottlieb Bock: „Ode auf den Geburtstag des Königs, bey Wiedereröffnung der Königl. deutschen Gesellschaft 15. Januar 1766“
+<bzg>lärmende Ode</bzg> Karl Gottlieb Bock: <titel>Ode auf den Geburtstag des Königs, bey Wiedereröffnung der Königl. deutschen Gesellschaft 15. Januar 1766</titel>
 </marginal>
 
 <marginal index="10088" letter="316" page="359" line="17">
@@ -37397,7 +37393,7 @@ Brief Nr. 316
 </marginal>
 
 <marginal index="10090" letter="316" page="359" line="17">
-<bzg>Schand- u. Liebespfal</bzg> in <link ref="konigsberger-gp-z" linktext="true"/>, 42.&#x202F;St. vom 25.6.1764 ergriff der Verleger <link ref="kanter-jj" linktext="false">Kanter</link> selbst das Wort: „nachdem er wahrgenommen hat, daß verschiedne der bisherigen [gelehrten Ausarbeitungen] dem Wunsche der Leser nicht völlig genug zu thun geschienen“, habe er als neue Feder einen auswärtigen Gelehrten engagiert. – „Um aber die Freunde des bisherigen gelehrten Verfassers nicht zu sehr zu erschrecken, meldet man ihnen zugleich, daß derselbe nicht gänzlich ausgeschlossen bleibt; sondern noch zuweilen, so viel ihm seine Geschäfte erlauben, Beyträge einsenden, und dadurch ihrem Geschmacke Gnuge leisten wird“
+<bzg>Schand- u. Liebespfal</bzg> in <link ref="konigsberger-gp-z" linktext="true"/>, 42.&#x202F;St. vom 25.6.1764 ergriff der Verleger <link ref="kanter-jj" linktext="false">Kanter</link> selbst das Wort: „nachdem er wahrgenommen hat, daß verschiedne der bisherigen [gelehrten Ausarbeitungen] dem Wunsche der Leser nicht völlig genug zu thun geschienen“, habe er als neue Feder einen auswärtigen Gelehrten engagiert. – „Um aber die Freunde des bisherigen gelehrten Verfassers [also Hamanns] nicht zu sehr zu erschrecken, meldet man ihnen zugleich, daß derselbe nicht gänzlich ausgeschlossen bleibt; sondern noch zuweilen, so viel ihm seine Geschäfte erlauben, Beyträge einsenden, und dadurch ihrem Geschmacke Gnuge leisten wird“
 </marginal>
 
 <marginal index="10091" letter="316" page="359" line="23">
@@ -37405,7 +37401,7 @@ Brief Nr. 316
 </marginal>
 
 <marginal index="10092" letter="316" page="359" line="25">
-<bzg>G. Berens</bzg> <link text="berens-g" linktext="true"/>
+<bzg>G. Berens</bzg> <link ref="berens-g" linktext="true"/>
 </marginal>
 
 <marginal index="10093" letter="316" page="359" line="25">
@@ -37428,7 +37424,7 @@ Brief Nr. 316
 <bzg>Trescho</bzg> <link ref="trescho-sf" linktext="true"/>, Brief nicht ermittelt
 </marginal>
 
-<marginal index="10098" letter="316" page="360" line="1">
+<marginal index="10098" letter="316" page="360" line="2">
 <bzg>A. Berens</bzg> <link ref="berens-a" linktext="true"/>
 </marginal>
 
@@ -37445,7 +37441,7 @@ Brief Nr. 316
 </marginal>
 
 <marginal index="10102" letter="316" page="360" line="6">
-<bzg>curieuse</bzg> dt. merkwürdig, seltsam; scheint ein Lieblingsausdruck Hamanns gewesen zu sein, vgl. <intlink letter="326" page="369" line="33" linktext="true"/>
+<bzg>curieuse</bzg> dt. merkwürdig, seltsam; scheint mündlich ein Lieblingsausdruck Hamanns gewesen zu sein, vgl. <intlink letter="326" page="369" line="33" linktext="true"/>
 </marginal>
 
 <marginal index="10103" letter="316" page="360" line="7">
@@ -37465,7 +37461,7 @@ Brief Nr. 316
 </marginal>
 
 <marginal index="10107" letter="316" page="360" line="13">
-<bzg>καλους, κ’ αγαθους</bzg> dt. gute hübsche Leute, vgl. <intlink letter="321" page="364" line="30" linktext="true"/>
+<bzg>καλους, κ’ αγαθους</bzg> dt. gute hübsche Leute, vgl. <intlink letter="321" page="364" line="31" linktext="true"/>
 </marginal>
 
 <marginal index="10108" letter="316" page="360" line="14">
