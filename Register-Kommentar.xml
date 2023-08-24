@@ -4448,11 +4448,11 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#x00A0;v. Joachim u. Brigitt
 
 <kommentar id="grillo" type="neuzeit">
 <lemma>Friedrich Grillo</lemma>
-<eintrag>1737&#x2013;1802. Klassischer Philologe und Übersetzer, Mitarbeiter bei den <link ref="briefe-literatur" linktext="true"/></eintrag>
-<subsection id="grillo-daphnischloe" type="neuzeit" sort="10">
+<eintrag>1737&#x2013;1802. Klassischer Philologe und Übersetzer, Mitarbeiter bei <link ref="briefe-literatur" linktext="true"/></eintrag>
+<subsection id="grillo-daphnischloe" type="neuzeit">
 <lemma>Grillo, <titel>Daphnis und Chloe</titel></lemma>
 <eintrag>
-<titel>Daphnis und Chloe</titel>. Aus dem Griechischen des Longus (Berlin 1765) (1735). 
+<titel>Daphnis und Chloe</titel>. Aus dem Griechischen des Longus (Berlin 1765).
 </eintrag>
 </subsection>
 </kommentar>
@@ -6858,8 +6858,8 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 </kommentar>
 
 <kommentar id="kruger-jc" type="neuzeit">
-<lemma>Johann Christian Krüger, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz46292.html">Deutsche Biographie</wwwlink></lemma>
-<eintrag>1723&#x2013;1750. Schauspieler und Theaterdichter der Schönemannschen Truppe in Hamburg.</eintrag>
+<lemma>Johann Christian Krüger</lemma>
+<eintrag>1723&#x2013;1750. Schauspieler und Theaterdichter der Schönemannschen Truppe in Hamburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz46292.html">Deutsche Biographie</wwwlink>.</eintrag>
 <subsection id="kruger-candidaten" type="neuzeit">
 <lemma>Krüger, <titel>Die Candidaten</titel></lemma>
 <eintrag>
@@ -9334,10 +9334,9 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 
 <kommentar id="patz-ae" type="neuzeit">
 <lemma>Anna Elisabeth Patz</lemma>
-<eintrag>Lebensdaten unbekannt. Geb. Winter und die <intlink letter="336" page="386" line="30" linktext="true">„reichste Erbin in Mitau“</intlink>; heiratete <link ref="patz" linktext="true"/> um den Jahreswechsel 1766/1767.</eintrag>
+<eintrag>Lebensdaten unbekannt. Geb. Winter und die „reichste Erbin in Mitau“ <intlink letter="336" page="386" line="30" linktext="true"/>; heiratete <link ref="patz" linktext="true"/> um den Jahreswechsel 1766/1767.</eintrag>
 </kommentar>
 
-, geb.Winter
 <kommentar id="pausanias" type="neuzeit">
 <lemma>Pausanias</lemma>
 <eintrag>Ca. 115–ca.&#x202F;180.</eintrag>
@@ -11596,7 +11595,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <subsection id="spalding-predigten" type="neuzeit" sort="20">
 <lemma>Spalding, <titel>Predigten</titel></lemma>
 <eintrag>
-<titel>Predigten</titel> von Johann Joachim Spalding. Oberconsistorialrath und Probst in Berlin (Berlin und Stralsund 1765). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-301587">ULB Il 6827</wwwlink>.
+<titel>Predigten</titel> von Johann Joachim Spalding. Oberconsistorialrath und Probst in Berlin (Berlin und Stralsund 1765). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-301587">ULB Halle Il 6827</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
