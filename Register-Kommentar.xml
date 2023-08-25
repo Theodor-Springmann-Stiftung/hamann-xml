@@ -12806,7 +12806,13 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <kommentar id="vossius" type="neuzeit">
 <lemma>Gerhard Johann Vossius</lemma>
 <eintrag>1577&#x2013;1649. Niederl-reform. Theologe und klass. Philologe, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz84114.html#adbcontent">Koldewey, Friedrich: Vossius, Gerhard Johannes, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;367&#x2013;370</wwwlink>.</eintrag>
-<subsection id="vossius-historicis" type="neuzeit" sort="10">
+<titel>De artis poeticae natura ac constitutione liber</titel> (1647)
+<subsection id="vossius-poetica" type="neuzeit" sort="10">
+<lemma>Vossius, <titel>De artis poeticae</titel></lemma>
+<eintrag>
+<titel>De artis poeticae natura ac constitutione liber</titel> (1647).</eintrag>
+</subsection>
+<subsection id="vossius-historicis" type="neuzeit" sort="20">
 <lemma>Vossius, <titel>De historicis graecis et latinis</titel></lemma>
 <eintrag>
 <titel>De historicis graecis et latinis</titel> (Leyden 1651).</eintrag>

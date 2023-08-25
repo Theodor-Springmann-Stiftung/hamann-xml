@@ -38837,7 +38837,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal index="10444" letter="331" page="378" line="33">
-<bzg>Fabriz</bzg> <link ref="fabricius" linktext="true"/>, vgl. <intlink letter="328" page="373" line="34" linktext="true"/>
+<bzg>Fabriz</bzg> <link ref="fabricius" subref="fabricius-bib" linktext="true"/>, vgl. <intlink letter="328" page="373" line="34" linktext="true"/>
 </marginal>
 
 <marginal index="10445" letter="331" page="378" line="34">
@@ -38860,16 +38860,20 @@ Brief Nr. 331
 <bzg>Ostermeße</bzg> <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3./4.&#x202F;Sammlung wurde in <link ref="messkatalog" subref="messkatalog-ostern1766" linktext="true"/>, S.&#x202F;726 angekündigt. Ebd., S.&#x202F;672 ist <link ref="herder" subref="herder-fragmente" linktext="true"/>, 1./2.&#x202F;Sammlung als fertig genannt; sie erschien aber erst nach dreimaliger Umarbeitung im Spätherbst 1766.
 </marginal>
 
-<marginal index="10450" letter="331" page="379" line="1">
-<bzg> poet. Gr. et Lat.</bzg> mglw. <link ref="vossius" linktext="true"/>: <titel>De artis poeticae natura ac constitutione liber</titel> (1647); Hamann fand das Buch jedenfalls nicht in der Bibliothek von <link ref="tottien-ca" linktext="true"/>, vgl. <intlink letter="332" page="380" line="19" linktext="true"/>
+<marginal index="10450" letter="331" page="379" line="8">
+<bzg>poet. Gr. et Lat.</bzg> mglw. <link ref="vossius" subref="vossius-poetica" linktext="true"/>; Hamann fand das Buch jedenfalls nicht in der Bibliothek von <link ref="tottien-ca" linktext="true"/>, vgl. <intlink letter="332" page="380" line="19" linktext="true"/>
 </marginal>
 
-<marginal index="10451" letter="331" page="379" line="1">
+<marginal index="10451" letter="331" page="379" line="9">
 <bzg>De histor. Gr.</bzg> <link ref="vossius" subref="vossius-historicis" linktext="true"/>
 </marginal>
 
 <marginal index="10452" letter="331" page="379" line="10">
 <bzg>Trakt:</bzg> Traktat
+</marginal>
+
+<marginal index="10452" letter="331" page="379" line="12">
+<bzg>Bibl.</bzg> Bibliothek (diejenige von <link ref="tottien-ca" linktext="true"/>, auf die Herder durch Hamann Zugriff hätte)
 </marginal>
 
 <marginal index="10453" letter="331" page="379" line="13">
@@ -38880,28 +38884,32 @@ Brief Nr. 331
 <bzg>Trim</bzg> Corporal Trim ist der Diener von Tobias Shandy in <link ref="sterne" subref="sterne-shandy" linktext="true"/>; vmtl. ist <link ref="patz" linktext="true"/> gemeint
 </marginal>
 
-<marginal index="10455" letter="331" page="379" line="18">
-<bzg>Yoriks Hüpfen</bzg> „Hüpfen und Springen“ sind nach <link ref="sterne" subref="sterne-shandy" linktext="true"/>, 1.&#x202F;Buch, 12.&#x202F;Kapitel, S.&#x202F;39 Yoricks Reaktion auf Ermahnungen, von seiner Spottlust abzulassen.
+<marginal index="10456" letter="331" page="379" line="27">
+<bzg>Hartkn</bzg> <link ref="hartknoch" linktext="true"/>
 </marginal>
 
-<marginal index="10456" letter="331" page="379" line="20">
-<bzg>Hartkn</bzg> <link ref="hartknoch" linktext="true"/>
+<marginal index="10455" letter="331" page="379" line="18">
+<bzg>Yoriks Hüpfen</bzg> „Hüpfen und Springen“ sind nach <link ref="sterne" subref="sterne-shandy" linktext="true"/>, 1.&#x202F;Buch, 12.&#x202F;Kapitel, S.&#x202F;39 Yoricks Reaktion auf Ermahnungen, von seiner Spottlust abzulassen.
 </marginal>
 
 <marginal index="10457" letter="331" page="379" line="20">
 <bzg>Vaterunser</bzg> <link ref="philippi" subref="philippi-vaterunser" linktext="true"/>
 </marginal>
 
-<marginal index="10458" letter="331" page="379" line="20">
+<marginal index="10458" letter="331" page="379" line="22">
 <bzg>Schlegels Banier</bzg> <link ref="banier" subref="banier-erlaeuterung" linktext="true"/>
 </marginal>
 
-<marginal index="10459" letter="331" page="379" line="22">
+<marginal index="10459" letter="331" page="379" line="24">
 <bzg>Uebers. des Taßoischen Amyntas</bzg> <link ref="tasso" subref="tasso-aminta" linktext="true"/>; Hamann erwähnt Tasso nicht wieder
 </marginal>
 
+<marginal index="10460" letter="331" page="379" line="25">
+<bzg>Thom. Abbt…</bzg> <link ref="abbt" subref="abbt-dedifficillimoprogressu" linktext="true"/>
+</marginal>
+
 <marginal index="10460" letter="331" page="379" line="26">
-<bzg>difficillimo progressu</bzg> <link ref="abbt" subref="abbt-dedifficillimoprogressu" linktext="true"/>
+<bzg>P. d Phil. u. Math.</bzg> Professer der Philosophie und Mathematik
 </marginal>
 
 <marginal index="10461" letter="331" page="379" line="28">
@@ -38927,7 +38935,7 @@ Brief Nr. 332
 </marginal>
 
 <marginal index="10466" letter="332" page="380" line="6">
-<bzg>Strümpfe und Zedel</bzg> Herder war Mitte August in Mitau, um Hamann zu besuchen; er ließ offenbar nicht nur Manuskripte der <link ref="herder" subref="herder-fragmente" linktext="true"/> zur Korrektur dort, sondern nach allerlei Zechereien ebenso seine Strümpfe.
+<bzg>Strümpfe und Zedel</bzg> Herder war Mitte August in Mitau, um Hamann zu besuchen; er ließ offenbar nicht nur Manuskripte der <link ref="herder" subref="herder-fragmente" linktext="false">Fragmente</link> zur Korrektur dort, sondern nach allerlei Zechereien ebenso seine Strümpfe
 </marginal>
 
 <marginal index="10467" letter="332" page="380" line="7">
@@ -38943,15 +38951,15 @@ Brief Nr. 332
 </marginal>
 
 <marginal index="10470" letter="332" page="380" line="16">
-<bzg>Fabricii</bzg> <link ref="fabricius" linktext="true"/>, vgl. <intlink letter="331" page="378" line="33" linktext="true"/>
+<bzg>Fabricii</bzg> <link ref="fabricius" subref="fabricius-bib" linktext="true"/>, vgl. <intlink letter="331" page="378" line="33" linktext="true"/>
 </marginal>
 
 <marginal index="10471" letter="332" page="380" line="16">
-<bzg>Pygmalion</bzg> <link ref="bodmer" subref="bodmer-pygmalion" linktext="true"/> <intlink letter="330" page="377" line="21" linktext="true"/>
+<bzg>Pygmalion</bzg> <link ref="bodmer" subref="bodmer-pygmalion" linktext="true"/>, vgl. <intlink letter="330" page="377" line="21" linktext="true"/>
 </marginal>
 
 <marginal index="10472" letter="332" page="380" line="19">
-<bzg>Voss. de poetis Gr. et Lat.</bzg> vgl. <intlink letter="331" page="379" line="1" linktext="true"/>
+<bzg>Voss. de poetis Gr. et Lat.</bzg> vmtl. <link ref="vossius" subref="vossius-poetica" linktext="true"/>, vgl. <intlink letter="331" page="379" line="8" linktext="true"/>
 </marginal>
 
 <marginal index="10473" letter="332" page="380" line="21">
@@ -38964,7 +38972,8 @@ Brief Nr. 332
 
 Brief Nr. 333
 
-Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwischen 332 und 334 platziert, also zwischen August und November 1766. Bei uns war er komischerweise zwischen mit „Juli 1765“ zwischen 328 und 329 eingeordnet (also auf Juli 1766 datiert). Habe das korrigiert und zwischen 304 und 305 eingeordnet, mit „vmtl. Juli 1765. – Herder-Ausgabe datiert es ohne große Diskussion auf Juli 1765 (scheint mir erstmal nichts dagegen zu sprechen, aber schon bissl komisch). Henkel: „Die Datierung dieses sine die et consule überlieferten Briefes macht Schwierigkeiten. HBGA datiert ihn auf den Juli 1765 (dort I,45 und 340); sein Ton scheint in der Tat in jene Phase der Freundschaft zu weisen, da Herder gerade beginnt, dem Älteren selbständig, ja kritisch- ebenbürtig zu begegnen. Außerdem ist die Rede vom Manuskript einer Abhandlung über die Ode, das gewiß nicht identisch ist mit den 363,23; 373,30ff. u. 376,25 erwähnten Handschriften der ersten Sammlung der Fragmente, bzw. ihrer Umarbeitung. Andererseits könnte 333 die Antwort auf 330 sein. Dann wäre 333 auf September zu datieren, da H. bereits am 30. August 1766 auf 331 antwortete, Herder aber bei Abfassung von 333 noch keine Antwort auf 331 in Händen hatte.“ – – erstmal kommentieren, vielleicht kommt man dann ja auf plausible Hypothesen!
+Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwischen 332 und 334 platziert, also zwischen August und November 1766. Bei uns war er komischerweise zwischen mit „Juli 1765“ zwischen 328 und 329 eingeordnet (also auf Juli 1766 datiert). Habe das korrigiert und zwischen 304 und 305 eingeordnet, mit „vmtl. Juli 1765“. – Herder-Ausgabe datiert es ohne große Diskussion auf Juli 1765 (scheint mir erstmal nichts dagegen zu sprechen, aber schon bissl komisch). Henkel: „Die Datierung dieses sine die et consule überlieferten Briefes macht Schwierigkeiten. HBGA datiert ihn auf den Juli 1765 (dort I,45 und 340); sein Ton scheint in der Tat in jene Phase der Freundschaft zu weisen, da Herder gerade beginnt, dem Älteren selbständig, ja kritisch- ebenbürtig zu begegnen. Außerdem ist die Rede vom Manuskript einer Abhandlung über die Ode, das gewiß nicht identisch ist mit den 363,23; 373,30ff. u. 376,25 erwähnten Handschriften der ersten Sammlung der Fragmente, bzw. ihrer Umarbeitung. Andererseits könnte 333 die Antwort auf 330 sein. Dann wäre 333 auf September zu datieren, da H. bereits am 30. August 1766 auf 331 antwortete, Herder aber bei Abfassung von 333 noch keine Antwort auf 331 in Händen hatte.“
+– Zeitlich passt es tatsächlich wesentlich besser nach Juli 1765, da gibts einige (wenn auch wage) Konnexe zum Umfeld. – Zum Briefumfeld von Juli 1766 gibts allerdings gar keine Zusammenhänge, und in der Zeit gibts in jedem Brief irgendwelche Buch-Bestellungen oder Ermahnungen. Wir sollten also mE nach der Herder-Ausgabe gehen.
 
 <marginal index="10475" letter="333" page="380" line="31">
 <bzg>Briefes…</bzg> vmtl. sind weder Herders letzter Brief noch Hamanns Schreiben, das der Retour der Odenabhandlung beilag, überliefert
@@ -39023,7 +39032,7 @@ Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwisch
 </marginal>
 
 <marginal index="10487" letter="333" page="381" line="35">
-<bzg>hohen Stils</bzg> Winckelmann unterscheidet in <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true"/> für die griechische Kunst die Entwicklungsstufen älterer Stil, hoher Stil, schöner Stil und Stil der Nachahmer
+<bzg>hohen Stils</bzg> Winckelmann unterscheidet in der <link ref="winckelmann" subref="winckelmann-geschichte" linktext="false">Geschichte der Kunst des Altertums</link> die Entwicklungsstufen älterer Stil, hoher Stil, schöner Stil und Stil der Nachahmer für die griechische Kunst
 </marginal>
 
 <marginal index="10488" letter="333" page="382" line="12">
@@ -39035,7 +39044,7 @@ Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwisch
 </marginal>
 
 <marginal index="10490" letter="333" page="382" line="18">
-<bzg>lose Kunst…</bzg> Hamann hatte wohl öfter die sorglose Formulierungsgabe Herders kritisiert
+<bzg>lose Kunst…</bzg> Hamann hatte wohl öfter Herders Neigung zu sorglosen Formulierungen kritisiert
 </marginal>
 
 <marginal index="10491" letter="333" page="382" line="19">
@@ -39117,7 +39126,7 @@ Brief Nr. 334
 </marginal>
 
 <marginal index="10519" letter="334" page="383" line="19">
- <bzg>gegenwärtigen Posten</bzg> Herder war Hilfsprediger am Dom in Riga; Herders Klagen über seine Lage äußerte er entweder in einen nicht überlieferten Brief oder mündlich (vgl. dazu <intlink letter="335" page="385" line="37" linktext="true"/>)
+ <bzg>gegenwärtigen Posten</bzg> Herder war Hilfsprediger am Dom in Riga; seine Klagen über seine Lage äußerte er entweder in einen nicht überlieferten Brief oder mündlich (vgl. dazu <intlink letter="335" page="385" line="37" linktext="true"/>)
 </marginal>
 
 <marginal index="10520" letter="334" page="384" line="9">
@@ -39125,7 +39134,7 @@ Brief Nr. 334
 </marginal>
 
 <marginal index="10521" letter="334" page="384" line="9">
-<bzg>Hans zu Grethe…</bzg> Hans und Margarete waren die Vornamen von Luthers Eltern; in seinem <titel>Traubüchlein für die einfältigen Pfarrherrn</titel> gibts einen Vorbild-Dialog für die Hochzeits-Zeremonie: „Fur der Kirchen trauen mit solchen Worten: ,Hans, willt Du Greten zum ehlichen Gemahle haben?‘ Dicat: ,Ja.‘ ,Greta, willt Du Hansen zum ehelichen Gemahle haben?‘ Dicat: ,Ja.‘“ – Von daher bzw. der Tradition gewordenen lutherischen Hochzeitszeremonie sprichwörtlich geworden, vgl. auch Adelung (Bd. 2, Sp. 545, s.v. Abwarten): „Hans willst du Greten zum ehlichen Gemahl haben? Luther im Traubüchl.“ – Wie aber richtig zitieren?!? Wo findet man das Traubüchlein bei Hamann? – vgl. auch N&#x202F;III, 289/7 (Metakritik)
+<bzg>Hans zu Grethe…</bzg> Hans und Margarete waren die Vornamen von Luthers Eltern; in seinem <titel>Traubüchlein für die einfältigen Pfarrherrn</titel> gibt es einen Vorbild-Dialog für die Hochzeits-Zeremonie: „Fur der Kirchen trauen mit solchen Worten: ,Hans, willt Du Greten zum ehlichen Gemahle haben?‘ Dicat: ,Ja.‘ ,Greta, willt Du Hansen zum ehelichen Gemahle haben?‘ Dicat: ,Ja.‘“ – Von dieser Tradition gewordenen lutherischen Hochzeitszeremonie sind Hans und Grete sprichwörtliche Brautleute geworden, vgl. auch Adelung (Bd. 2, Sp. 545, s.v. Abwarten): „Hans willst du Greten zum ehlichen Gemahl haben? Luther im Traubüchl.“ – Wie aber richtig zitieren?!? Wo findet man das Traubüchlein bei Hamann? – vgl. auch N&#x202F;III, 289/7 (Metakritik)
 </marginal>
 
 <marginal index="10522" letter="334" page="384" line="9">
@@ -39447,7 +39456,7 @@ Brief Nr. 338
 </marginal>
 
 <marginal index="10599" letter="338" page="388" line="31">
-<bzg>Spence</bzg> <link ref="spence" subref="spence-polymetis" linktext="true"/> Hamann hatte schon mehrfach um Rückgabe der Bände gebeten, die nicht ihm, sondern <link ref="lindner-gi" linktext="true"/> gehörten; vgl. <intlink letter="327" page="372" line="16" linktext="true"/>
+<bzg>Spence</bzg> <link ref="spence" subref="spence-polymetis" linktext="true"/>; Hamann hatte schon mehrfach um Rückgabe der Bände gebeten, die nicht ihm, sondern <link ref="lindner-gi" linktext="true"/> gehörten; vgl. <intlink letter="327" page="372" line="16" linktext="true"/>
 </marginal>
 
 <marginal index="10600" letter="338" page="388" line="31">
