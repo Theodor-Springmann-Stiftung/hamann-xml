@@ -4976,7 +4976,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;241&#x2013
 <subsection id="hamann-selbstgespraech" type="neuzeit" sort= "370">
 <lemma>Hamann, <titel>Selbstgespräch aus dem Englischen übersetzt</titel></lemma>
 <eintrag>
-<titel>Selbstgespräch aus dem Englischen übersetzt.</titel> In: <link ref="konigsberger-gp-z" linktext="true"/>, 45.&#x202F;St. vom 4.6.1770. Übersetzung aus <link ref="browne-m" subref="browne-creation" linktext="true"/>
+<titel>Selbstgespräch aus dem Englischen übersetzt.</titel> In: <link ref="konigsberger-gp-z" linktext="true"/>, 45.&#x202F;St. vom 4.6.1770. Übersetzung aus <link ref="browne-m" subref="browne-creation" linktext="true"/>.
 </eintrag>
 </subsection>
 <subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort= "700">
@@ -6308,6 +6308,12 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 <eintrag>
 <titel>Träume eines Geistersehers erläutert durch Träume der Metaphysik</titel> (Königsberg 1766). [Biga&#x202F;117/284: „Traeume eines Geistersehers erlaeutert durch Traeume der Metaphysick, Kgsb. 766“]<line type="break"/>
 <titel>AA</titel>&#x00A0;II: Vorkritische Schriften II, S.&#x202F;315&#x2013;374.</eintrag>
+</subsection>
+<subsection id="kant-grundlegung" type="neuzeit" sort="300">
+<lemma>Kant, <titel>Grundlegung zur Metaphysik der Sitten</titel></lemma>
+<eintrag>
+<titel>Grundlegung zur Metaphysik der Sitten</titel> von Immanuel Kant (Riga: Hartknoch 1785).<line type="break"/>
+<titel>AA</titel>&#x00A0;IV: Kritik der reinen Vernunft (1. Aufl.), Prolegomena, Grundlegung zur Metaphysik der Sitten, Metaphysische Anfangsgründe der Naturwissenschaft, S.&#x202F;385&#x2013;463.</eintrag>
 </subsection>
 </kommentar>
 
@@ -9352,7 +9358,7 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 
 <kommentar id="penzel" type="neuzeit">
 <lemma>Abraham Jakob Penzel</lemma>
-<eintrag>1749&#x2013;1819. Abenteurer, und zeitweiliger Freund Hamanns; klassischer Philologe, Student in Leipzig, Halle, Würzburg, 1775–1778 Musketier des Regimentes Alt- Stutterheim in Königsberg, 1777 das Factotum der Kanterschen Buchhandlung, Privatdozent für alte Geschichte, desertierte 1778, konvertierte 1782 in Krakau, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202f; 25 (1887), S.&#x202f;363f.</wwwlink> und Hans Köppe: Abraham Jakob Penzels Lebensirrfahrten. Eine Menschen- und Kulturtragödie aus dem 18. Jahrhundert. Leipzig 1937.</eintrag>
+<eintrag>1749&#x2013;1819. Abenteurer und zeitweiliger Freund Hamanns; klassischer Philologe, Student in Leipzig, Halle, Würzburg, 1775–1778 Musketier des Regimentes Alt- Stutterheim in Königsberg, 1777 Factotum der Kanterschen Buchhandlung, Privatdozent für alte Geschichte, desertierte 1778, konvertierte 1782 in Krakau, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202f; 25 (1887), S.&#x202f;363f.</wwwlink> und Hans Köppe: Abraham Jakob Penzels Lebensirrfahrten. Eine Menschen- und Kulturtragödie aus dem 18. Jahrhundert (Leipzig 1937).</eintrag>
 </kommentar>
 
 <kommentar id="perrin" type="neuzeit">
