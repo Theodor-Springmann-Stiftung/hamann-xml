@@ -14929,7 +14929,7 @@
         <receivers>
           <receiver ref="76" />
         </receivers>
-        <hasOriginal value="" />
+        <hasOriginal value="true" />
         <isProofread value="true" />
         <isDraft value="false" />
         <ZHInfo inZH="true">
@@ -16831,7 +16831,7 @@
         <receivers>
           <receiver ref="1" />
         </receivers>
-        <hasOriginal value="true" />
+        <hasOriginal value="false" />
         <isProofread value="true" />
         <isDraft value="false" />
         <ZHInfo inZH="true">
@@ -17651,7 +17651,7 @@
         <receivers>
           <receiver ref="76" />
         </receivers>
-        <hasOriginal value="" />
+        <hasOriginal value="true" />
         <isProofread value="true" />
         <isDraft value="false" />
         <ZHInfo inZH="true">
