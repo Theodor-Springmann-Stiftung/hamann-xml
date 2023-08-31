@@ -7073,7 +7073,7 @@ L
 <kommentar id="launay" type="neuzeit">
 <lemma>Marcus Antonius de la Haye de Launay</lemma>
 <eintrag>Geb. 1730, gest. nach 1786. Mächtiger Finanzpolitiker von <link ref="friedrich-II" linktext="true"/>; Geheimer Finanzrath und Régisseur Général bei
-der <link ref="general-akzise-und-zoll-direktion" linktext="true"/>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48471.html">Isaacsohn, Siegfried: Launay, de la Haye de, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;52&#x2013;54</wwwlink></eintrag>
+der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> von 1766–1786, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48471.html">Isaacsohn, Siegfried: Launay, de la Haye de, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;52&#x2013;54</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="lauson" type="neuzeit">
@@ -7886,6 +7886,11 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 <titel>Geschichte der Gesundheit, und die Kunst, dieselbe zu erhalten. A. d. Engl.</titel> (Altenburg 1762).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="magnier" type="neuzeit">
+<lemma>Toussaint Magnier</lemma>
+<eintrag>Frz. Beamter in Königsberg und Direktor der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true"/> von 1766–1774; Hamanns Vorgesetzter (ab 1774 „Unterregisseur in Westpreußen“, im Dezember 1776 wegen „Impertinenz“ entlassen; vgl. Königliche Akademie der Wissenschaften (Hrsg.): Acta Borussica. Denkmäler der Preußischen Staatsverwaltung im 18. Jahrhundert (38 Bde.). Berlin 1892 ff., III,1, S.&#x202F;251.).</eintrag>
 </kommentar>
 
 <kommentar id="mailly-l" type="neuzeit">
@@ -9871,7 +9876,7 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 
 <kommentar id="provinzial-akzise-und-zoll-direktion" type="neuzeit">
 <lemma>Provinzial-Akzise- und Zoll-Direktion in Königsberg</lemma>
-<eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, seit 1774 von <link ref="stockmar" linktext="true"/> geführt; abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> in Berlin unter <link ref="launay" linktext="true"/>.</eintrag>
+<eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> in Berlin unter <link ref="launay" linktext="true"/>. Hamann war in der Königsberger Akzise- und Zolldirektion seit Juni 1767 vor allem als Übersetzer tätig (vgl. <intlink letter="343" page="395" line="3" linktext="true"/>). 1766–1774 unter der Führung von <link ref="magnier" linktext="true"/>, seit 1774 unter <link ref="stockmar" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="prevost" type="neuzeit">
