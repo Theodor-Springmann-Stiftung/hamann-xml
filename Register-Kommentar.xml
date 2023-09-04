@@ -3872,7 +3872,7 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 <subsection id="funck-rechtsgelahrsamkeit" type="neuzeit">
 <lemma>Funck, <titel>Rechtsgelahrsamkeit</titel></lemma>
 <eintrag>
-<titel>Kurze Anweisung vor einen der sich der Rechtsgelahrsamkeit zu widmen gedenket was vor Wissenschaften, und in welcher Ordnung er dieselben erlernen muesse. Auf Verlangen ausgefertiget von Johann Daniel Funk beyder Rechte Doctor in Koenigsberg</titel> (Danzig 1760).
+<titel>Kurze Anweisung vor einen der sich der Rechtsgelahrsamkeit zu widmen gedenket was vor Wissenschaften, und in welcher Ordnung er dieselben erlernen muesse.</titel> Auf Verlangen ausgefertiget von Johann Daniel Funk beyder Rechte Doctor in Koenigsberg (Danzig 1760).
 </eintrag>
 </subsection>
 </kommentar>
@@ -3881,6 +3881,18 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 <lemma>Johann Funck</lemma>
 <eintrag>1518&#x2013;1566. Ab 1549 Hofprediger und Hofrat in Königsberg, als Anhänger Andreas Osianders wurde er 1566 als Gefährder der öffentl. Ordnung verurteilt und hingerichtet. <wwwlink address="https://www.deutsche-biographie.de/pnd124899617.html#adbcontent">Möller: Funck, Johannes, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;197&#x2013;199</wwwlink>.
 </eintrag>
+</kommentar>
+
+<kommentar id="fuessli" type="neuzeit">
+<lemma>Johann Heinrich Füssli</lemma>
+<eintrag>1741&#x2013;1825. Schweiz.-engl. Maler und Schriftsteller (engl. Henry Fuseli), siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17979.html#ndbcontent"> Schiff, Gert: Füßli, Heinrich, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;702&#x2013;705</wwwlink>
+</eintrag>
+<subsection id="fuessli-remarks" type="neuzeit">
+<lemma>Füssli, <titel>Remarks</titel></lemma>
+<eintrag>
+<titel>Remarks on the Writings and Conduct of. J. J. Rousseau</titel> (London 1767).
+</eintrag>
+</subsection>
 </kommentar>
 
 G
@@ -5100,7 +5112,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hartknoch-ab" type="neuzeit">
 <lemma>Anna Benigna Hartknoch</lemma>
-<eintrag>Gest. 1771. Geb. Mehmel (aus Mitau), erste Frau von <link ref="hartknoch" linktext="true"/>, sie heirateten 1767.</eintrag>
+<eintrag>1749–1771. Geb. Mehmel (aus Mitau), erste Frau von <link ref="hartknoch" linktext="true"/>, sie heirateten 1767.</eintrag>
 </kommentar>
 
 <kommentar id="hartung-hj" type="neuzeit">
@@ -5249,10 +5261,10 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <kommentar id="herder" type="neuzeit">
 <lemma>Johann Gottfried Herder</lemma>
 <eintrag>1744&#x2013;1803. Literaturtheoretiker und Dichter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz31807.html#adbcontent">Haym, Rudolf: Herder, Johann Gottfried, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;55&#x2013;100</wwwlink>. <line type="break"/>
-Wiss. Ausg. d. Werke:<line type="break" />
-SWS: <titel>Herders Sämmtliche Werke,</titel> hg.&#x00A0;v. Bernhard Suphan (33 Bde., Berlin 1877–1913).
+Zitierte Ausgabe der Werke:<line type="break" />
 Johann Gottfried Herder, <titel>Werke</titel>, 10 Bde., hg.&#x00A0;v. Ulrich Gaier (Frankfurt a.&#x202F;M. 1985–2000).<line type="break" />
-Briefe:<line type="break" />
+Sofern Texte dort nicht ediert sind: SWS: <titel>Herders Sämmtliche Werke,</titel> hg.&#x00A0;v. Bernhard Suphan (33 Bde., Berlin 1877–1913).<line type="break" />
+Zitierte Ausgabe der Briefe:<line type="break" />
 Von Herder: Johann Gottfried Herder: <titel>Briefe</titel>, Gesamtausgabe 1763–1803, 18 Bde., hg.&#x00A0;v. der Stiftung Weimarer Klassik (Goethe- und Schiller-Archiv) (Weimar 1977–2016).<line type="break" />
 An Herder:<line type="break" />
 Johann Gottfried von Herder’s Lebensbild, 6 Bde. (Erlangen 1846).<line type="break" />
@@ -7073,13 +7085,24 @@ L
 
 <kommentar id="laubmeyer-jb" type="neuzeit">
 <lemma>Johann Benjamin Laubmeyer</lemma>
-<eintrag>1750–1795, ältester Sohn von <link ref="laubmeyer-jc" linktext="true"/>, Apotheker. Spitzname: gewesener Widersacher</eintrag>
+<eintrag>1750–1795. Ältester Sohn von <link ref="laubmeyer-jc" linktext="true"/>, Apotheker. Spitzname: gewesener Widersacher</eintrag>
 </kommentar>
 
 <kommentar id="launay" type="neuzeit">
 <lemma>Marcus Antonius de la Haye de Launay</lemma>
 <eintrag>Geb. 1730, gest. nach 1786. Mächtiger Finanzpolitiker von <link ref="friedrich-II" linktext="true"/>; Geheimer Finanzrath und Régisseur Général bei
 der <link ref="general-akzise-und-zoll-direktion" linktext="true"/> von 1766–1786, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48471.html">Isaacsohn, Siegfried: Launay, de la Haye de, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;52&#x2013;54</wwwlink></eintrag>
+</kommentar>
+
+<kommentar id="laurens" type="neuzeit">
+<lemma>Henri-Joseph du Laurens</lemma>
+<eintrag>1719–1793. Jesuitischer Abbé, libertinistischer Aufklärer und Skandalautor.</eintrag>
+<subsection id="laurens-abus" type="neuzeit">
+<lemma>Laurens, <titel>Les abus dans les ceremonies</titel></lemma>
+<eintrag>
+<titel>Les abus dans les ceremonies</titel> et dans les moeurs developpés, par Monsieur L*** (Geneve 1767). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10771909-7">Bayerische Staatsbibliothek: Polem. 7</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="lauson" type="neuzeit">
