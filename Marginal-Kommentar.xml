@@ -40700,7 +40700,7 @@ extensiven Klarheit läutert. ?!?
 </marginal>
 
 <marginal index="11199" letter="347" page="406" line="23">
-<bzg>Abus</bzg> Abus dans les cérémonies. ?!?
+<bzg>Abus</bzg> <link ref="laurens" subref="laurens-abus" linktext="true"/>
 </marginal>
 
 <marginal index="11200" letter="347" page="406" line="24">
@@ -40885,33 +40885,77 @@ einer Archäologie des Morgenlandes, 1769 u.a., SWS VI,1-108; 123-128. ?!?
 </marginal>
 
 <marginal index="11242" letter="349" page="410" line="18">
-<bzg>Anakreon</bzg> in der 22. Ode an Bathyllos, in der Übersetzung von J. N. Götz: Laß dich, mein
-Bathyll, im Schatten/ Dieses schönen Baumes nieder./ Er bewegt die zarten Blätter,/ Auch an seinen
-dünnsten Aesten./ Neben ihm fließt eine Quelle,/ Die uns murmelnd an sich locket,/ Und geschwätzig
-überredet./ Welcher Wandrer geht vorüber,/ Wenn er diesen Lustort schauet!
+<bzg>Anakreon</bzg> <link ref="anakreon" linktext="true"/>, 22. Ode an Bathyllos, in der Übersetzung <link ref="gotz-jn" subref="gotz-anakreon" linktext="true"/>: Laß dich, mein Bathyll, im Schatten/ Dieses schönen Baumes nieder./ Er bewegt die zarten Blätter,/ Auch an seinen dünnsten Aesten./ Neben ihm fließt eine Quelle,/ Die uns murmelnd an sich locket,/ Und geschwätzig überredet./ Welcher Wandrer geht vorüber,/ Wenn er diesen Lustort schauet!
 </marginal>
 
 <marginal index="11243" letter="349" page="410" line="19">
-<bzg>Sokrates seinen Phädon</bzg> es ist eher an den platonischen Phaidros zu denken, wo (229 B und
-231 A) Phaidros den Sokrates zur Platane am Ilissos, als einen mythisch bedeutsamen Ort des
-Gesprächs führt. Auch im Folgenden spielt Herder auf den Phaidros-Dialog an (238 E, 241 D ff.).
+<bzg>Sokrates seinen Phädon</bzg> gemeint ist wohl <link ref="platon" subref="plat-phaidr" linktext="true"/> 
 </marginal>
 
 <marginal index="11244" letter="349" page="410" line="23">
-<bzg>Verdrehungen Beverlands</bzg> 416,19.
+<bzg>Verdrehungen Beverlands</bzg> vgl. <intlink letter="349" page="408" line="28" linktext="true" />
 </marginal>
 
 <marginal index="11245" letter="349" page="410" line="25">
 <bzg>Risquo</bzg> Risiko
 </marginal>
 
+<marginal index="11246" letter="349" page="411" line="5">
+<bzg>Beverlanden</bzg> vgl. <intlink letter="349" page="408" line="28" linktext="true" />
+</marginal>
 
+<marginal index="11247" letter="349" page="411" line="10">
+<bzg>Namen</bzg> im 3. Kapitel Jahwe Elohim anstatt Elohim
+</marginal>
+
+<marginal index="11248" letter="349" page="411" line="34">
+<bzg>Nationalsänger</bzg> Moses
+</marginal>
+
+<marginal index="11249" letter="349" page="412" line="5">
+<bzg>παραδοξον</bzg> Paradoxon
+</marginal>
+
+<marginal index="11250" letter="349" page="412" line="20">
+<bzg>Bigot</bzg> buchstabengläubig
+</marginal>
+
+<marginal index="11251" letter="349" page="412" line="25">
+<bzg>Homer</bzg> <link ref="homer" linktext="true"/>
+</marginal>
+
+<marginal index="11252" letter="349" page="412" line="26">
+<bzg>Plato</bzg> <link ref="platon" linktext="true"/>
+</marginal>
+
+<marginal index="11253" letter="349" page="412" line="29">
+<bzg>Phyllis</bzg>  Phyllis, eine Gestalt der griechischen Mythologie, begeht aus Trauer über die Abwesenheit des Geliebten Demophon (Damon) Selbstmord und wird in einen Mandelbaum verwandelt, dessen Blätter austreiben, als Demophon ihn umarmt. Nach <link ref="ovid" subref="ovid-epist" linktext="true"/>, 2. Brief. Topisch in vielen bukolischen Gedichten.
+</marginal>
+
+<marginal index="11254" letter="349" page="412" line="30">
+<bzg>fac tuum officium p</bzg> dt. walte deines Amtes (Ter. Ad. 69)
+</marginal>
+
+<marginal index="11255" letter="349" page="412" line="34">
+<bzg>Kön. Streit.</bzg> Kön.[igsberger] Streit.[igkeiten]; die Erbauseinandersetzungen nach dem Tod des Vaters
+</marginal>
+
+<marginal index="11256" letter="349" page="412" line="36">
+<bzg>Recens. der Klotz. Bibl. so gut als möglich weggelaßen</bzg> bezieht sich auf Hamanns Rezension der Klotzschen Deutsche Bibliothek der schönen
+Wissenschaften in den Königsbergschen ... Zeitungen, N IV,313,15; 29f. und 36; H. hatte in seiner Rezension des 1. Stücks von Klotz' Deutsche Bibliothek der
+schönen Wissenschaften in den Königsbergschen ... Zeitungen vom 15. Januar 1768 die Kritik des
+B. von Herders Fragmenten bloß erwähnt, N IV,313,36f. ?!?
+</marginal>
+
+<marginal index="11257" letter="349" page="412" line="37">
+<bzg>Lindners Zurücksetzung</bzg> <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> wurde von <link ref="klotz" linktext="true"/> in <link ref="deutsche-bibliothek" linktext="true"/>, Bd. 1, St. 1, negativ rezensiert.
+</marginal>
 
 
 Indexnummer für Briefe bis 313: weitermachen mit 9560
 Indexnummer für 314–368a:
 314–342 (Luca): 10000: weitermachen mit 10700
-343–368a (Gregor): 11000: weitermachen mit 11240
+343–368a (Gregor): 11000: weitermachen mit 11257
 
 
 </marginalien>
