@@ -40762,7 +40762,7 @@ Brief Nr. 348
 </marginal>
 
 <marginal index="11213" letter="348" page="407" line="28">
-<bzg>Freunde</bzg>  Arndt, Christian Gottlieb ?!?
+<bzg>Freunde</bzg> <link ref="arndt-cg" linktext="true"/>
 </marginal>
 
 <marginal index="11214" letter="348" page="407" line="28">
@@ -40952,90 +40952,85 @@ B. von Herders Fragmenten bloß erwähnt, N IV,313,36f. ?!?
 </marginal>
 
 <marginal index="11258" letter="349" page="413" line="10">
-<bzg>Collektaneenbuch</bzg> 
+<bzg>Collektaneenbuch</bzg> individuelle Zusammenstellung von Informationen
 </marginal>
 
 <marginal index="11259" letter="349" page="413" line="10">
-<bzg>orbis pictus</bzg> Anspielung auf Comenius' Lehrbuch für die Jugend.
+<bzg>orbis pictus</bzg> Anspielung auf Comenius' Orbis sensualium pictus 1658, Nürnberg: Endler ?!?
 </marginal>
 
 <marginal index="11260" letter="349" page="413" line="12">
-<bzg>Purpurlappen</bzg> Anspielung auf Hor. ars 15f.; 427,26f.
+<bzg>Purpurlappen</bzg> Anspielung auf Hor. ars 15f.
 </marginal>
 
 <marginal index="11261" letter="349" page="413" line="14">
 <bzg>Klotzische Narr</bzg> Herder vermutet, wie Hamann in seiner Rezension,
 denselben Kritiker Lindners unter der Sigle Dtsch [= Klotz] in Klotz' Deutsche Bibliothek der schönen
 Wissenschaften und der Rezension in der Bibliothek der schönen Wissenschaften durch Riedel (=der
-Klotzische Narr).
+Klotzische Narr). ?!?
 </marginal>
 
 <marginal index="11262" letter="349" page="413" line="14">
-<bzg>Bibliothekar der sch. W.</bzg> 
+<bzg>sch. W.</bzg> <link ref="deutsche-bibliothek" linktext="true" /> 
 </marginal>
 
 <marginal index="11263" letter="349" page="413" line="20">
-<bzg>Hällischen</bzg> Klotz' in Halle seit 1766 erscheinende Deutsche Bibliothek der
-schönen Wissenschaften und die durch Weiße in Leipzig weitergeführte Neue Bibliothek der schönen
-Wissenschaften.
+<bzg>Hällischen</bzg> <link ref="deutsche-bibliothek" linktext="true" /> erscheint in Halle
 </marginal>
 
 <marginal index="11264" letter="349" page="413" line="21">
-<bzg>Leipzigern</bzg> 
+<bzg>Leipzigern</bzg> <link ref="weise" subref="weise-bibliothek" linktext="true" /> erscheint in Leipzig
 </marginal>
 
 <marginal index="11265" letter="349" page="413" line="22">
-<bzg>Rath Kl. Ihre Stelle</bzg> 404,16ff.
+<bzg>Rath Kl. Ihre Stelle</bzg> 404,16ff. ?!?
 </marginal>
 
 <marginal index="11266" letter="349" page="413" line="23">
-<bzg>Note</bzg> SWS I,226ff.
+<bzg>Note</bzg> vgl. SWS I,226ff.
 </marginal>
 
 <marginal index="11267" letter="349" page="413" line="29">
-<bzg>Torso über Abbt</bzg> anonym, SWS II,249ff.
+<bzg>Torso über Abbt</bzg> vgl. SWS II,249ff.
 </marginal>
 
 <marginal index="11268" letter="349" page="413" line="30">
-<bzg>Lebensbeschreiber</bzg> Friedrich Nicolai in seinem Ehrengedächtniß, Berlin 1767, und auch als
-Berl.[iner] Zeit[ungs]schreib.[er] in Allgemeine Deutsche Bibliothek.
+<bzg>Lebensbeschreiber</bzg> Friedrich Nicolai in seinem Ehrengedächtniß, Berlin 1767
 </marginal>
 
 <marginal index="11269" letter="349" page="413" line="31">
-<bzg>Berl. Zeit.schr.</bzg> 
+<bzg>Berl. Zeit.schr.</bzg> Berl.[iner] Zeit[ungs]schreib.[er], gemeint ist <link ref="nicolai-f" linktext="true" />
 </marginal>
 
 <marginal index="11270" letter="349" page="413" line="33">
-<bzg>Werke</bzg> Sammlung von Abbts Vermischte Werke, die ab 1768 erscheinen.
+<bzg>Werke</bzg> Abbts Vermischte Werke, die ab 1768 erscheinen
 </marginal>
 
 <marginal index="11271" letter="349" page="413" line="34">
-<bzg>Htkn.</bzg> 
+<bzg>Htkn.</bzg> <link ref="hartknoch" linktext="true" />
 </marginal>
 
 <marginal index="11271" letter="349" page="413" line="34">
-<bzg>Polypragmatischen Müßiggange</bzg> Anspielung auf J. E. Schlegels Lustspiel Der
-geschäftige Müßiggänger.
-</marginal>
+<bzg>Polypragmatischen Müßiggange</bzg> Anspielung auf <link ref="schlegel-je" subref="schlegel-muessig" linktext="true" /> 
 
 <marginal index="11272" letter="349" page="413" line="36">
-<bzg>Hermessäule</bzg> Herme, nach einer antiken Etymologie von Steinhaufen
+<bzg>Hermessäule</bzg> Herme, Pfeiler mit aufgesetztem Kopf und Schultern
 </marginal>
 
 <marginal index="11273" letter="349" page="413" line="36">
-<bzg>Plan zum Gesetzbuch</bzg> Gesetzbuch: 407,28.
+<bzg>Plan zum Gesetzbuch</bzg> vgl. <intlink letter="347" page="407" line="28" linktext="true" />
 </marginal>
 
 <marginal index="11274" letter="349" page="414" line="2">
-<bzg>Montesquieu</bzg> <link ref="montesquieu" linktext="true"/>, vermutlich aus dem Esprit des loix.
-</marginal>
+<bzg>Montesquieu</bzg> wohl <link ref="montesquieu" subref="espritloix" linktext="true" /> 
+</marginal> 
 
 <marginal index="11275" letter="349" page="414" line="3">
-<bzg>Beccari</bzg> Beccaria
+<bzg>Beccari</bzg> Cesare Bonesano Marchese de Beccaria (1738-1794), ital. Jurist
 </marginal>
 
 <marginal index="11276" letter="349" page="414" line="6">
-<bzg>loci communes</bzg> 
+<bzg>loci communes</bzg> dt. Gemeinplätze
 </marginal>
 
 <marginal index="11277" letter="349" page="414" line="8">
@@ -41043,16 +41038,15 @@ geschäftige Müßiggänger.
 </marginal>
 
 <marginal index="11278" letter="349" page="414" line="11">
-<bzg>Corvée</bzg> 408,11.
+<bzg>Corvée</bzg> vgl. <intlink letter="348" page="408" line="11" linktext="true" /> 
 </marginal>
 
 <marginal index="11279" letter="349" page="414" line="13">
-<bzg>Winkelmann</bzg> Verf.[asser] der Fragm.[ente]: Winckelmanns Brief an
-Paul Usteri v. 2. Januar 1768, der Bezug nimmt auf Ueber die neuere Deutsche Litteratur, SWS I,293f.
+<bzg>Winkelmann</bzg> Winckelmanns Brief an Paul Usteri v. 2. Januar 1768, der Bezug nimmt auf Ueber die neuere Deutsche Litteratur, vgl. SWS I,293f. ?!?
 </marginal>
 
 <marginal index="11280" letter="349" page="414" line="15">
-<bzg>Pindarischen Verf. der Fr.</bzg> 
+<bzg>Pindarischen</bzg> <link ref="pindar" linktext="true" />
 </marginal>
 
 <marginal index="11281" letter="349" page="414" line="16">
@@ -41065,55 +41059,54 @@ Sammlungen der Fragmente angezeigt; bei der dritten wurde Herr Härter als Autor
 </marginal>
 
 <marginal index="11283" letter="349" page="414" line="18">
-<bzg>Abbt</bzg> was Ch. A. Clodius in Versuche
-aus der Literatur und Moral in einem Vergleich der beiden als Schriftsteller des Säkulums
-unternommen hatte, siehe die Rezension im 76. St. vom September 1767.
+<bzg>Abbt</bzg> <link ref="abbt" linktext="true" />
 </marginal>
 
 <marginal index="11284" letter="349" page="414" line="20">
-<bzg>Bedlam</bzg> Anwärter aufs Irrenhaus (in London).
+<bzg>Bedlam</bzg> Londoner Irrenhaus
 </marginal>
 
 <marginal index="11285" letter="349" page="414" line="21">
-<bzg>eines andern Buchs</bzg> 
+<bzg>eines andern Buchs</bzg> nicht ermittelt
 </marginal>
 
 <marginal index="11286" letter="349" page="414" line="22">
-<bzg>Klotz</bzg> nicht ermittelt
+<bzg>Klotz</bzg> <link ref="klotz" linktext="true" />
 </marginal>
 
 <marginal index="11287" letter="349" page="414" line="22">
-<bzg>Willamov</bzg> da Willamov[ius] hier durchging: der 1767, auf
-dem Weg nach St. Petersburg, Herder besuchte
+<bzg>Willamov</bzg> <link ref="willamovius" linktext="true" />, der 1767, auf
+dem Weg nach St. Petersburg, Herder besucht
 </marginal>
 
 <marginal index="11288" letter="349" page="414" line="26">
-<bzg>antworten</bzg> Klotz, Brief vom 31. Oktober 1767 (HBGA 1, Nr. 39).
+<bzg>antworten</bzg> Klotz, Brief vom 31. Oktober 1767 (HBGA 1, Nr. 39). ?!?
 </marginal>
 
 <marginal index="11289" letter="349" page="414" line="29">
-<bzg>Arndt in Peterb.</bzg> 
+<bzg>Arndt in Peterb.</bzg> <link ref="arndt-cg" linktext="true" /> in St. Petersburg
 </marginal>
 
 <marginal index="11290" letter="349" page="414" line="31">
-<bzg>Will.</bzg> 
+<bzg>Will.</bzg> <link ref="willamovius" linktext="true" />
 </marginal>
 
 <marginal index="11291" letter="349" page="414" line="31">
 <bzg>Ruf</bzg> nach St. Petersburg, siehe den Brief an den dortigen
-Kirchenkonvent vom 28. April 1767 (HBGA 1, Nr. 34).
+Kirchenkonvent vom 28. April 1767 (HBGA 1, Nr. 34). ?!?
 </marginal>
 
 <marginal index="11292" letter="349" page="414" line="35">
-<bzg>Funerabilien auf Abbt</bzg> Ueber Thomas Abbt. Der Torso von einem Denkmaal
+<bzg>Funerabilien auf Abbt</bzg> Über Thomas Abbts Schriften. Der Torso von einem Denkmal, an seinem Grabe errichtet. Stück 1. Riga
+1768[anonym].
 </marginal>
 
 <marginal index="11293" letter="349" page="414" line="36">
-<bzg>Werke</bzg> fundamentale Untersuchung der Origines
+<bzg>Werke</bzg> wohl schon die Arbeiten zum Ursprung der Sprache
 </marginal>
 
 <marginal index="11294" letter="349" page="414" line="37">
-<bzg>mit meinem Namen</bzg> mit meinem Namen: anders als die anonym veröffentlichten Sammlungen der Fragmente.
+<bzg>mit meinem Namen</bzg> anders als die anonym veröffentlichten <link ref="herder" subref="herder-fragmente" linktext="true" /> 
 </marginal>
 
 Brief Nr. 350
