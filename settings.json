@@ -6,8 +6,9 @@
       }
     },
     "FeatureManagement": {
-      "AdminService":  true,
-      "LocalPublishService": true
+      "AdminService":  false,
+      "LocalPublishService": false,
+      "SyntaxCheck": false
     },
     "FileSizeLimit": 52428800,
     "AvailableStartYear": 1700,
