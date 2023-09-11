@@ -32719,7 +32719,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8310" letter="271" page="265" line="28">
-<bzg>vnus est Oeconomus</bzg> lat. Travestie eines jüd. Osterliedes, da die zwölf heiligen Zahlen erklärt, zum Trinklied
+<bzg>vnus est Oeconomus</bzg> lat. Travestie eines jüd. Osterliedes, das die zwölf heiligen Zahlen erklärt, zum Trinklied
 </marginal>
 
 <marginal index="8311" letter="271" page="265" line="30">
@@ -35222,7 +35222,7 @@ Brief Nr. 294
 </marginal>
 
 <marginal index="8930" letter="294" page="315" line="19">
-<bzg>Mutter</bzg> Anna Elisabeth Herder (1717–1772)
+<bzg>Mutter</bzg> <link ref="herder-ae" linktext="true"/>
 </marginal>
 
 <marginal index="8931" letter="294" page="315" line="20">
@@ -35594,7 +35594,7 @@ Brief Nr. 296
 </marginal>
 
 <marginal index="9022" letter="296" page="321" line="20">
-<bzg>Frau Mutter</bzg> Anna Elisabeth Herder (1717–1772)
+<bzg>Frau Mutter</bzg> <link ref="herder-ae" linktext="true"/>
 </marginal>
 
 <marginal index="9023" letter="296" page="321" line="22">
@@ -37179,7 +37179,7 @@ Brief Nr. 315
 </marginal>
 
 <marginal index="10034" letter="315" page="356" line="29">
-<bzg>Wöchentl. Anzeigen…</bzg> <link ref="fuessli" subref="fuessli-anzeigen" linktext="true"/>
+<bzg>Wöchentl. Anzeigen…</bzg> <link ref="fuessli-jk" subref="fuessli-anzeigen" linktext="true"/>
 </marginal>
 
 <marginal index="10035" letter="315" page="356" line="31">
@@ -38377,7 +38377,7 @@ Brief Nr. 327
 </marginal>
 
 <marginal index="10331" letter="327" page="372" line="32">
-<bzg>Vnus est Oeconomus</bzg> lat. Travestie eines jüd. Osterliedes, da die zwölf heiligen Zahlen erklärt, zum Trinklied vgl. <intlink  letter="271" page="265" line="28" linktext="true"/> 
+<bzg>Vnus est Oeconomus</bzg> lat. Travestie eines jüd. Osterliedes, das die zwölf heiligen Zahlen erklärt, zum Trinklied; vgl. <intlink  letter="271" page="265" line="28" linktext="true"/> 
 </marginal>
 
 <marginal index="10332" letter="327" page="372" line="33">
@@ -40091,7 +40091,7 @@ Brief Nr. 344
 </marginal>
 
 <marginal index="11058" letter="344" page="397" line="34">
-<bzg>Grille</bzg> vmtl. Hamanns Übersetzung der anonym erschienenen <link ref="fuseli" subref="fuessli-remarks" linktext="false">Remarks on the Writings and Conduct of. J. J. Rousseau</link> in <link ref="konigsberger-gp-z" linktext="true"/>, 53.,&#x202F;54.&#x202F;und&#x202F;55. Stück vom 3.,&#x202F;6.&#x202F;und&#x202F;10.7.1767
+<bzg>Grille…</bzg> <link ref="hamann" subref="hamann-fuessli" linktext="true"/>
 </marginal>
 
 <marginal index="11059" letter="344" page="397" line="35">
@@ -40337,7 +40337,7 @@ veröffentlichte sie aber nicht
 </marginal>
 
 <marginal index="11112" letter="346" page="401" line="30">
-<bzg>Charakter Rousseaus</bzg> <link ref="konigsberger-gp-z" linktext="true"/>, 53.,&#x202F;54. und&#x202F;55. St.&#x202F;vom 3.,&#x202F;6. und 10.7.1767, Anmerkungen über die Schriften und Sitten des Johann Jacob Rousseau (N IV,305-311) ?!?
+<bzg>Charakter Rousseaus…</bzg> <link ref="hamann" subref="hamann-fuessli" linktext="true"/>, vgl. <intlink letter="344" page="397" line="34" linktext="true"/>; Hamann schreibt, dass „diese englische Urschrift vielleicht eben keiner Überſetzung aber doch gewiß eines strengern Auszuges würdig sey“ (308/11f.)
 </marginal>
 
 <marginal index="11113" letter="346" page="401" line="31">
@@ -40353,15 +40353,11 @@ veröffentlichte sie aber nicht
 </marginal>
 
 <marginal index="11116" letter="346" page="402" line="1">
-<bzg>Nachahmer</bzg> von den Zeitgenossen bereits im <link ref="hypochondrist" linktext="true" /> beurteilt ?!?
-</marginal>
-
-<marginal index="11117" letter="346" page="402" line="1">
-<bzg>Gerstenb.</bzg> <link ref="gerstenberg" linktext="true" />
+<bzg>Nachahmer</bzg> <link ref="gerstenberg" subref="gerstenberg-briefe" linktext="false">Gerstenbergs <titel>Briefe über Merkwürdigkeiten der Litteratur</titel></link> wurde in <link ref="deutsche-bibliothek" linktext="true"/>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;101–112 (vgl. <intlink letter="339" page="390" line="3" linktext="true"/>) ein dunkler und manierierter Stil vorgeworfen 
 </marginal>
 
 <marginal index="11118" letter="346" page="402" line="2">
-<bzg>Gedichte des Skalden</bzg> ?!?
+<bzg>Gedichte des Skalden</bzg> <link ref="gerstenberg" subref="gerstenberg-skalden" linktext="true"/>
 </marginal>
 
 <marginal index="11119" letter="346" page="402" line="3">
@@ -40369,9 +40365,7 @@ veröffentlichte sie aber nicht
 </marginal>
 
 <marginal index="11120" letter="346" page="402" line="4">
-<bzg>des – Voeux</bzg> Desvoeux, A. E. V., reformierter Prediger bei der franzö-sischen Gemeinde in Dublin
-Philosophischer und kritischer Versuch über den Prediger Salomo; nebst einer Uebersetzung, Paraphrase
-und philologischen Anmerkungen von J. P. Bamberger. Halle 1764. ?!?
+<bzg>des-Voeux</bzg> <link ref="desvoeux" subref="desvoeux-salomo" linktext="true"/>
 </marginal>
 
 <marginal index="11121" letter="346" page="402" line="6">
@@ -40388,6 +40382,10 @@ und philologischen Anmerkungen von J. P. Bamberger. Halle 1764. ?!?
 
 <marginal index="11124" letter="346" page="402" line="10">
 <bzg>Winkelmanns Werk</bzg> <link ref="winckelmann" subref="winckelmann-empfindung" linktext="true" /> 
+</marginal>
+
+<marginal index="11117" letter="346" page="402" line="11">
+<bzg>Wesseling Herodot</bzg> <link ref="wesseling" subref="wesseling-herodot" linktext="true"/>
 </marginal>
 
 <marginal index="11125" letter="346" page="402" line="11">
@@ -40407,17 +40405,15 @@ und philologischen Anmerkungen von J. P. Bamberger. Halle 1764. ?!?
 </marginal>
 
 <marginal index="11129" letter="346" page="402" line="15">
-<bzg>Leßings Hamb. Dramaturgie</bzg> vom 1.-19. Mai 1767 ?!?
+<bzg>Leßings Hamb. Dramaturgie</bzg> <link ref="lessing" subref="lessing-dramaturgie" linktext="true"/>, 1.–6.&#x202F;St. vom 1.–19.5.1767
 </marginal>
 
 <marginal index="11130" letter="346" page="402" line="17">
-<bzg>Grillo’s</bzg> Avertissement einer neuen Übersetzung der griechischen
-Klassiker.Idyllen des Bion und Moschus aus dem Griechischen von Friedrich Grillo. Berlin 1767. Biga vgl.14/214 u.
-161/524. II,402 ?!?
+<bzg>Grillo’s</bzg> <link ref="grillo" subref="grillo-avertissement" linktext="true"/>
 </marginal>
 
 <marginal index="11131" letter="346" page="402" line="18">
-<bzg>Moschus u. Bion</bzg> <link ref="bion" linktext="true" /> und Moschos (2. Jh. v. Chr.), Grammatiker, bukolischer Dichter
+<bzg>Moschus u. Bion</bzg> <link ref="grillo" subref="grillo-idyllen" linktext="true"/>
 </marginal>
 
 <marginal index="11132" letter="346" page="402" line="20">
@@ -40425,7 +40421,7 @@ Klassiker.Idyllen des Bion und Moschus aus dem Griechischen von Friedrich Grillo
 </marginal>
 
 <marginal index="11133" letter="346" page="402" line="22">
-<bzg>Engl. Bücher</bzg> Englische Bücher, vgl. <intlink letter="343" page="395" line="20" linktext="true"/>
+<bzg>Engl. Bücher</bzg> vgl. <intlink letter="340" page="391" line="3" linktext="true"/>
 </marginal>
 
 <marginal index="11134" letter="346" page="402" line="22">
@@ -40433,11 +40429,11 @@ Klassiker.Idyllen des Bion und Moschus aus dem Griechischen von Friedrich Grillo
 </marginal>
 
 <marginal index="11136" letter="346" page="402" line="26">
-<bzg>Ich wünsche Ihnen …</bzg> Schluß von Luthers Erklärung der 4. Bitte des Vaterunser
+<bzg>Ich wünsche Ihnen …</bzg> Schluss von Luthers Erklärung der 4. Bitte des Vaterunser
 </marginal>
 
 <marginal index="11137" letter="346" page="402" line="30">
-<bzg>Mutter</bzg> Herder, Anna Elisabeth Herder (1717-1772), geb. Peltz
+<bzg>Mutter</bzg> <link ref="herder-ae" linktext="true"/>
 </marginal>
 
 <marginal index="11138" letter="346" page="402" line="31">
