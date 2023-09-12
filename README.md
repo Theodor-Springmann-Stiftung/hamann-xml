@@ -6,6 +6,7 @@ XML-Dateien & Einstellungen für hamann-ausgabe.de & development.hamann-ausgabe.
 |-----------|--------------------------------------------------------|
 | main      | Code & Einstellungen für development.hamann-ausgabe.de |
 | realease  | Code & Einstellungen für hamann-ausgabe.de             |
+| testdata  | Code & Einstellungen für Tests                         |
 
 ## Einstellungen
 ```
