@@ -2872,7 +2872,7 @@ vermutl. zus. mit <link ref="auvigny" linktext="true" />, <titel>Anecdotes galan
 
 <kommentar id="deutsche-bibliothek" type="neuzeit">
 <lemma>Deutsche Bibliothek der schönen Wissenschaften</lemma>
-<eintrag>Herausgegeben von <link ref="klotz" linktext="true" />, Halle: Gebauer 1767–71. Bd. 1–6 (= St. 1–24): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112604-1">München, Bayerische Staatsbibliothek -- P.o.germ. 741-1/2</wwwlink>.
+<eintrag>Herausgegeben von <link ref="klotz" linktext="true" />, Halle: Gebauer 1767–71. Bd. 1–6 (= St. 1–24) [Biga&#x202F;137/132: „Klotzens Bibliothek der schönen Wissenschaften, 1–9ter Th. Halle“]. –<wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112604-1">München, Bayerische Staatsbibliothek -- P.o.germ. 741-1/2</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -4020,9 +4020,14 @@ G
 </eintrag>
 </kommentar>
 
-<kommentar id="gelehrte-beytraege" type="neuzeit">
+<kommentar id="gelehrte-beytraege-riga" type="neuzeit">
 <lemma>Gelehrte Beyträge zu den Rigischen Anzeigen</lemma>
 <eintrag>begründet von Abraham Winkler, Redakteur Johann Gottfried Arndt. Zweiwöchiges Beiblatt der Rigischen Anzeigen von allerhand Sachen, deren Bekanntmachung dem Gemeinen Wesen nöthig und nützlich ist. Riga 1761–90 [Biga 199/106: „Gelehrte Beyträge zu den Rigischen Anzeigen, 761. 65“]. Digitalisat: <wwwlink address="https://dspace.ut.ee/handle/10062/307">UB Tartu</wwwlink>. </eintrag>
+</kommentar>
+
+<kommentar id="gelehrte-beytraege-braunschweig" type="neuzeit">
+<lemma>Gelehrte Beyträge zu den Braunschweigischen Anzeigen</lemma>
+<eintrag>Herausgegeben von 1761 bis 1777 von <link ref="zachariae" linktext="true"/>. Zunächst Bestandteil der Braunschweigischen Anzeigen, ab 1761 separat veröffentlicht; Autoren waren meist Professoren am Collegium Carolinum. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10530380-5">BSB München: 4 Per. 1 d-1</wwwlink>. </eintrag>
 </kommentar>
 
 <kommentar id="gellert-cf" type="neuzeit">
@@ -4310,6 +4315,13 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <kommentar id="goeschen" type="neuzeit">
 <lemma>Georg Joachim Göschen</lemma>
 <eintrag>1752–1828. Verleger in Leipzig, siehe<wwwlink address="https://www.deutsche-biographie.de/sfz21450.html#ndbcontent">Hiller, Helmut: Göschen, Georg Joachim, in: <titel>NDB</titel>&#x202F;6 (1964), S.&#x202F;541&#x2013;543</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="goeschen-jj" type="neuzeit">
+<lemma>Johann Julius Göschen</lemma>
+<eintrag>
+1736–1798. Münzmeister in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35726.html"><titel>NDB</titel></wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -6747,25 +6759,31 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <subsection id="klotz-mores" type="neuzeit" sort="10">
 <lemma>Klotz, <titel>Mores eruditorum. Genius saeculi</titel></lemma>
 <eintrag>
-<titel>Mores eruditorum. Genius saeculi</titel> (Altenburg 1760) [Biga&#x202F;147/292: „Mores Eruditorum 760. Genius Seculi, Alt. 760“]..
+<titel>Mores eruditorum. Genius saeculi</titel> (Altenburg 1760) [Biga&#x202F;147/292: „Mores Eruditorum 760. Genius Seculi, Alt. 760“].
 </eintrag>
 </subsection>
-<subsection id="klotz-opuscula" type="neuzeit" sort="15">
+<subsection id="klotz-opusculapoetica" type="neuzeit" sort="20">
 <lemma>Klotz, <titel>Opuscula poetica</titel></lemma>
 <eintrag>
-<titel>Opuscula poetica</titel> (Altenburg: Richter 1761).
+<titel>Opuscula poetica</titel> (Altenburg: Richter 1761) [Biga&#x202F;147/287: „C. A. Klotzii Opuscula poetica, Alt. 761“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:180-digad-32136">UB Mannheim: Ha J 079 an 1</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="klotz-carmina" type="neuzeit" sort="20">
+<subsection id="klotz-opusculavarii" type="neuzeit" sort="30">
+<lemma>Klotz, <titel>Opuscula varii argumenti</titel></lemma>
+<eintrag>
+<titel>Opuscula varii argumenti</titel> (Altenburg: Richter 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10605620-4">BSB München: Opp. 658 y</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="klotz-carmina" type="neuzeit" sort="40">
 <lemma>Klotz, <titel>Carmina omnia</titel></lemma>
 <eintrag>
-<titel>Carmina omnia. Editio emendata et nova</titel> (Altenburg 1766).
+<titel>Carmina omnia. Editio emendata et nova</titel> (Altenburg 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10608972-8">BSB München: P.o.lat. 776</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="klotz-muenzen" type="neuzeit" sort="40">
+<subsection id="klotz-muenzen" type="neuzeit" sort="50">
 <lemma>Klotz, <titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel></lemma>
 <eintrag>
-<titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel> (Altenburg 1767).
+<titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel> (Altenburg 1767) [Biga&#x202F;147/290: „Klotzens Beytrag zur Geschichte des Geschmacks und der Kunst aus Münzen, Alt. 767.“]. Digitalisat: <wwwlink address="https://books.google.de/books?vid=RMS:RMS2lBIS000000209%24%24%24R">Google Books</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -7057,6 +7075,17 @@ L
 <kommentar id="lado" type="neuzeit">
 <lemma>NN. Lado</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Adjunkt und Pastor in Riga.</eintrag>
+</kommentar>
+
+<kommentar id="lamare" type="neuzeit">
+<lemma>Nicolas de La Mare</lemma>
+<eintrag>1639–1723. Frz. Commissaire der Polizei und Polizeitheoretiker.</eintrag>
+<subsection id="lamare-histoire" type="neuzeit">
+<lemma>La Mare, <titel>Traité de la Police</titel></lemma>
+<eintrag>
+<titel>Traité de la police,</titel> Où l’on trouvera l’histoire de son établissement, les fonctions et les prérogatives de ses magistrats; toutes les loix et tous les réglemens qui la concernent: On y a joint une description historique et topographique de Paris,  huit Plans gravez, qui representent son ancien Etat, &#x26; ses divers accroissemens, avec un recueil de tous les statuts et réglemens des six corps des marchands, &#x26; de toutes les Communautez des Arts &#x26; Métiers (4&#x00A0;Bde., Paris 1705–1710) [Biga&#x202F;96/12: „Traité de la Police par M. de la Mare, Tom. I–IV. Amst. 729“]. Digitalisat der Erstausgabe Paris 1705–1710: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1098988#">Bibliothèque nationale de France: F-2200</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="lambert" type="neuzeit">
