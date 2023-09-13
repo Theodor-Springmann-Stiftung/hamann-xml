@@ -40654,7 +40654,7 @@ Brief Nr. 347
 </marginal>
 
 <marginal index="11186" letter="347" page="405" line="33">
-<bzg>John</bzg> Georg Friedrich John (1742-1800), Kreisaktuarius
+<bzg>John</bzg> <link ref="john" linktext="true"/>
 </marginal>
 
 <marginal index="11187" letter="347" page="405" line="36">
@@ -40666,11 +40666,11 @@ Brief Nr. 347
 </marginal>
 
 <marginal index="11189" letter="347" page="406" line="8">
-<bzg>Voltaire</bzg> <link ref="voltaire" linktext="true"/>; vgl. <link ref="sharp" subref="sharp-letters" linktext="true" />, S. 3–5
+<bzg>Voltaire</bzg> <link ref="voltaire" linktext="true"/>; vgl. <link ref="sharp" subref="sharp-letters" linktext="true" />, S.&#x202F;3–5
 </marginal>
 
 <marginal index="11190" letter="347" page="406" line="9">
-<bzg>Clairon</bzg> Claire Josèphe de la Trude Clairon (1723-1803), frz. Schauspielerin
+<bzg>Clairon</bzg> Claire Josèphe de la Trude Clairon (1723–1803), frz. Schauspielerin
 </marginal>
 
 <marginal index="11191" letter="347" page="406" line="14">
@@ -40713,10 +40713,8 @@ Brief Nr. 347
 <bzg>Abus</bzg> <link ref="laurens" subref="laurens-abus" linktext="true"/>
 </marginal>
 
-<marginal index="11200" letter="347" page="406" line="24">
-<bzg>Beschuldigung</bzg> in der Anmerkung ** der S. XIII Dédicatoire: Mr. Rousseau a
-pris son Contract-Social mot pour mot d´Ulrici Huberti de Jure civitatis, Lib. III. Imprimé à Franequeur
-en Frisé en 1684 et réimprimé à Frankfort en 1718. ?!?
+<marginal index="11200" letter="347" page="406" line="25">
+<bzg>Beschuldigung</bzg> vgl. <link ref="laurens" subref="laurens-abus" linktext="true"/>, S.&#x202F; xii, Anmerkung: „Mr. Rousseau a pris son Contract-Social, mot pour mot, d’Ulrici Huberti de Jure civitatis, Lib. III. Imprimé à Franequeur en Frise en 1684, &#x26; réimprimé à Francfort en 1718. Ce Livre est dans toutes les grandes Bibliotheques; on peut vérifier cette accusation.“
 </marginal>
 
 <marginal index="11201" letter="347" page="406" line="24">
@@ -40728,8 +40726,7 @@ en Frisé en 1684 et réimprimé à Frankfort en 1718. ?!?
 </marginal>
 
 <marginal index="11203" letter="347" page="406" line="28">
-<bzg>modeste u tranquille Xan Xung</bzg> so ist die Vorrede unterschrieben: ton frère, Modeste et tranquille Xan Xhun. La Vérité. Vertu et Vérité. Le cri de Jean
-Jacques et le mien. A Pekin 1765. Siehe auch S. 199 ?!?
+<bzg>modeste u tranquille Xan Xung</bzg> so ist die Zueignungsschrift in <link ref="laurens" subref="laurens-abus" linktext="true"/>, S.&#x202F;xvi unterschrieben: „Ton Frere, Modeste &#x26; Tranquille Xan-Xun.“
 </marginal>
 
 <marginal index="11204" letter="347" page="406" line="29">
@@ -40745,7 +40742,7 @@ Jacques et le mien. A Pekin 1765. Siehe auch S. 199 ?!?
 </marginal>
 
 <marginal index="11207" letter="347" page="407" line="1">
-<bzg>Ukasen u neuen Tariff</bzg> wohl das neue Gesetzbuch für Rußland und die Steuertarife
+<bzg>Ukasen u neuen Tariff</bzg> wohl das neue Gesetzbuch für Rußland und die Steuertarife, vgl. <intlink letter="348" page="408" line="12" linktext="true"/>
 </marginal>
 
 <marginal index="11208" letter="347" page="407" line="9">
