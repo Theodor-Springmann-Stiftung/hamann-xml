@@ -1,3 +1,6 @@
+# hamann-xml (branch: testdata:)
+Testdata for Hamann-XML Files
+
 # hamann-xml
 XML-Dateien & Einstellungen für hamann-ausgabe.de & development.hamann-ausgabe.de
 
@@ -20,6 +23,7 @@ XML-Dateien & Einstellungen für hamann-ausgabe.de & development.hamann-ausgabe.
 |AdminService              |Schaltet den Admin-Bereich ein oder aus                                         |
 |LocalPublishService       |Schaltet den Bereich zum Auswählen einzelner Hamann-Dateiversionen ein oder aus |
 |SyntaxCheck               |Schaltet den automatsichen erweiterten Syntax-Check ein oder aus                |
+|Notifications             |Schaltet Benachrichtigungen über den Stand der XML Dateien und den Browser-Refresh ein oder aus                |
 
 ```
 "FileSizeLimit": 52428800
