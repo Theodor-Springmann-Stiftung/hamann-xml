@@ -29,9 +29,9 @@ A
 </eintrag>
 </subsection>
 <subsection id="abbt-verdienst" type="neuzeit" sort="30">
-<lemma>Abbt, <titel>Vom Verdienst</titel></lemma>
+<lemma>Abbt, <titel>Vom Verdienste</titel></lemma>
 <eintrag>
-<titel>Vom Verdienst</titel> (Berlin/Stettin 1762/4).
+<titel>Vom Verdienste</titel> (Berlin/Stettin 1762/4). Digitalisat einer Ausgabe 1965: <wwwlink address="http://digital.slub-dresden.de/id337333971">SLUB Dresden: 8.8.11156</wwwlink>
 </eintrag>
 </subsection>
 <subsection id="abbt-dedifficillimoprogressu" type="neuzeit" sort="40">
@@ -4106,7 +4106,7 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 
 <kommentar id="generaldirektorium" type="neuzeit">
 <lemma>Generaldirektorium</lemma>
-<eintrag>Königlich-preußisches General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für Innen- und Finanz-Politik sowie für die Finanzierung der Armee; ihm unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kriegs-und-domaenenkammer" linktext="true"/>.</eintrag>
+<eintrag>Königlich-preußisches General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für die Innen- und Finanz-Politik sowie für die Finanzierung der Armee; ihm unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kriegs-und-domaenenkammer" linktext="true"/>.</eintrag>
 </kommentar>
 
 <kommentar id="georg" type="neuzeit">
@@ -5207,6 +5207,18 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <lemma>Haug (Hg.), <titel>Müßige Stunden in Stuttgart, Tübingen und auf dem Lande</titel></lemma>
 <eintrag>
 <titel>Müßige Stunden in Stuttgart, Tübingen und auf dem Lande, in gebundener Schreibart</titel> (Frankfurt 1761) [Biga&#x202f;152/399: „Müssige Stunden, Frkft. 760“]. Digitalisat: <wwwlink address="https://nbn-resolving.org/resolver?verb=full&amp;identifier=urn%3Anbn%3Ade%3Absz%3A21-dt-109711">UB Tübingen: L XIV 11</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="hausen" type="neuzeit">
+<lemma>Karl Renatus Hausen</lemma>
+<eintrag>1740&#x2013;1805. Historiker, 1765 Professor in Halle, seit 1766 Professor an der Universität in Frankfurt an der Oder, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz28317.html">Schwarze: Hausen, Karl Renatus, in: <titel>ADB</titel>&#x202F;11 (1880), S.&#x202F;</wwwlink>.
+</eintrag>
+<subsection id="hausen-protestanten" type="neuzeit">
+<lemma>Hausen, <titel>Pragmatische Geschichte der Protestanten in Deutschland</titel></lemma>
+<eintrag>
+Carl Renatus Hausens […] <titel>Pragmatische Geschichte der Protestanten in Deutschland. Erster Theil mit Beylagen und Urkunden</titel> (Halle: Curt 1767). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10449337-0">BSB München: H.ref. 179</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>

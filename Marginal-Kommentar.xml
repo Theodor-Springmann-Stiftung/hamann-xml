@@ -36511,7 +36511,7 @@ Brief Nr. 304
 </marginal>
 
 <marginal index="9252" letter="304" page="340" line="1">
-<bzg>Abhandl. vom Verdienst</bzg> <link ref="abbt" subref="abbt-verdienst" linktext="true"/> 
+<bzg>Abhandl. vom Verdienst</bzg> <link ref="abbt" subref="abbt-verdienste" linktext="true"/> 
 </marginal>
 
 <marginal index="9253" letter="304" page="340" line="3">
@@ -40548,6 +40548,10 @@ Brief Nr. 347
 <bzg>HE Geh. Rath</bzg> Geheimrat <link ref="klotz" linktext="true"/>
 </marginal>
 
+<marginal index="10710" letter="347" page="404" line="25">
+<bzg>Originalfreund</bzg> vgl. <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, S.&#x202F;240f.: „Lasset mich einige neuere Originalschriftsteller anführen, die diesen Gratien geopfert haben, und die Ehre unserer deutschen Literatur sind.“ (darunter Hamann); vgl. <intlink letter="348" page="408" line="16" linktext="true"/>
+</marginal>
+
 <marginal index="10709" letter="347" page="404" line="27">
 <bzg>Herel</bzg> <link ref="herel" linktext="true"/>
 </marginal>
@@ -40757,7 +40761,7 @@ Brief Nr. 348
 </marginal>
 
 <marginal index="11210" letter="348" page="407" line="18">
-<bzg>sedentem in telonio</bzg> dt. am Zoll sitzend. vgl. u.a. <link ref="nt-mt" subref="nt-mt9" linktext="false"> Mt 9,9</link>
+<bzg>sedentem in telonio</bzg> dt. am Zoll sitzend. vgl. u.a. <link ref="nt-mt" subref="nt-mt9" linktext="false"> Mt 9,9</link>; bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true"/>
 </marginal>
 
 <marginal index="11211" letter="348" page="407" line="24">
@@ -40769,7 +40773,7 @@ Brief Nr. 348
 </marginal>
 
 <marginal index="11213" letter="348" page="407" line="28">
-<bzg>Freunde</bzg> <link ref="arndt-cg" linktext="true"/>
+<bzg>Freunde</bzg> <link ref="arndt-cg" linktext="true"/>; oder <link ref="patz" linktext="true"/>?!?
 </marginal>
 
 <marginal index="11214" letter="348" page="407" line="28">
@@ -40785,11 +40789,11 @@ Brief Nr. 348
 </marginal>
 
 <marginal index="11217" letter="348" page="407" line="35">
-<bzg>Meisterstück von Kritik an Ihren Fragmenten</bzg> die versprochene Rezension von <link ref="herder" subref="herder-fragmente" linktext="true" />
+<bzg>Meisterstück von Kritik an Ihren Fragmenten</bzg> die versprochene Rezension von <link ref="herder" subref="herder-fragmente" linktext="true" />; vgl. <intlink letter="347" page="403" line="7" linktext="true"/>
 </marginal>
 
 <marginal index="11218" letter="348" page="408" line="1">
-<bzg>letzten Platz</bzg> im 18. Kapitel der ersten Sammlung der <link ref="herder" subref="herder-fragmente" linktext="true" />, SWS I, S. 226-229
+<bzg>letzten Platz</bzg> vgl. die Passage über Hamann in <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, S.&#x202F;248–250, wo Herder ihn als einen der neueren „Originalschriftsteller“ aufführt, die „die Ehre unserer deutschen Literatur sind“ (S.&#x202F;240f.); außerdem <intlink letter="347" page="404" line="16" linktext="true"/>
 </marginal>
 
 <marginal index="11219" letter="348" page="408" line="5">
@@ -40797,8 +40801,7 @@ Brief Nr. 348
 </marginal>
 
 <marginal index="11220" letter="348" page="408" line="7">
-<bzg>Hausen</bzg> Hausen, Karl Renatus (1740- 1805), Historiker, Prof. der Geschichte in Halle u. 1766 der Philosophie
-in Frankfurt/Oder; Pragmatische Geschichte der Protestanten in Deutschland, Halle: Curt 1767 ?!?
+<bzg>Hausen…</bzg> <link ref="hausen" subref="hausen-protestanten" linktext="true"/>, Vorrede, S.&#x202F;xx–xxii
 </marginal>
 
 <marginal index="11221" letter="348" page="408" line="8">
@@ -40810,11 +40813,11 @@ in Frankfurt/Oder; Pragmatische Geschichte der Protestanten in Deutschland, Hall
 </marginal> 
 
 <marginal index="11223" letter="348" page="408" line="10">
-<bzg>Corollarium des Verfaßers vom Verdienst</bzg> dt. Folgesatz; <link ref="abbt" subref="abbt-verdienst" linktext="true" /> 
+<bzg>Corollarium des Verfaßers vom Verdienst</bzg> dt. Folgesatz; <link ref="abbt" subref="abbt-verdienste" linktext="true" /> 
 </marginal>
 
 <marginal index="11224" letter="348" page="408" line="11">
-<bzg>Corvée</bzg> dt. Frondienst
+<bzg>Corvée in der Encyclopedie</bzg> dt. Frondienst; <link ref="encyclopedie" linktext="true"/>
 </marginal>
 
 <marginal index="11225" letter="348" page="408" line="12">
@@ -40822,7 +40825,7 @@ in Frankfurt/Oder; Pragmatische Geschichte der Protestanten in Deutschland, Hall
 </marginal>
 
 <marginal index="11226" letter="348" page="408" line="13">
-<bzg>in continente</bzg> ?!?
+<bzg>in continente</bzg> dt. unverzüglich, sogleich
 </marginal>
 
 <marginal index="11227" letter="348" page="408" line="14">
@@ -41123,7 +41126,7 @@ Brief Nr. 350
 
 Indexnummer für Briefe bis 313: weitermachen mit 9560
 Indexnummer für 314–368a:
-314–342 (Luca): 10000: weitermachen mit 10710
+314–342 (Luca): 10000: weitermachen mit 10711
 343–349 (Gregor): 11000: weitermachen mit 11295, bei Einfügungen vorher fortführen
 350-368a (Luca): 
 
