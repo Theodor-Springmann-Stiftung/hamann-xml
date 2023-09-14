@@ -933,7 +933,7 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 <subsection id="berkeley-miscellany" type="neuzeit" sort="10">
 <lemma>Berkeley, <titel>A Miscellany</titel></lemma>
 <eintrag>
-<titel>A Miscellany, Containing Several Tracts on Various Subjects</titel> (London: Tonson and Draper 1752) [Biga&#x202F;117/283: „(Berkley’s) Miscellany containing Thoughts on Tarwater an Essay; an Discourse; a Word to the Wise; the Querist; a Proposal; a Sermon; and de Motus Principio et Natura“]. Digitalisat: <wwwlink address="https://babel.hathitrust.org/cgi/pt?id=uc1.31822043020361">University of California</wwwlink>.</eintrag>
+<titel>A Miscellany, Containing Several Tracts on Various Subjects</titel> (London: Tonson and Draper 1752) [Biga&#x202F;117/283: „(Berkley’s) Miscellany containing Thoughts on Tarwater an Essay; an Discourse; a Word to the Wise; the Querist; a Proposal; a Sermon; and de Motus Principio et Natura“]. Digitalisat: <wwwlink address="https://hdl.handle.net/2027/uc1.31822043020361">University of California</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -2860,6 +2860,16 @@ vermutl. zus. mit <link ref="auvigny" linktext="true" />, <titel>Anecdotes galan
 <eintrag>1680&#x2013;1754. Frz. Lustspieldichter. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;11, 1814), S.&#x202F;240–244.</eintrag>
 </kommentar>
 
+<kommentar id="desvoeux" type="neuzeit">
+<lemma>Antoine Vinchon Desvoeux</lemma>
+<eintrag>Gest. 1792. Militärgeistlicher, reformierter Prediger bei der frz. Gemeinde in Dublin.</eintrag>
+<subsection id="desvoeux-salomo" type="neuzeit" sort="10">
+<lemma>Desvoeux, <titel>Versuch über den Prediger Salomo</titel></lemma>
+<eintrag>Philosophical  and critical Essay on Ecclesiastes (London 1764).<line type="break" />
+Übers.: A. V. Desvoeux Feldpredigers bey dem Königl. Carabinier Regimente <titel>Philosophischer und kritischer Versuch über den Prediger Salomo,</titel> worinnen die Absicht des Verfassers dieses Buchs vorgestellet, seine Lehre vertheidigt und die Lehrart desselben erklärt wird, in einer Analytischen, mit einer neuen Uebersetzung des Grundtextes verbundenen Paraphrase, und philologischen Anmerkungen in 3 Büchern, worinnen die Abweichungen dieser neuen Uebersetzung von der gewöhnlichen angezeiget werden. Aus dem Englischen übersetzt von Johann Peter Bamberger, Prediger in Berlin. (Halle: Johann Jacob Curts 1764). Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-147664276-14">ULB Halle: Id 4564</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="deutsche-bibliothek" type="neuzeit">
 <lemma>Deutsche Bibliothek der schönen Wissenschaften</lemma>
 <eintrag>Herausgegeben von <link ref="klotz" linktext="true" />, Halle: Gebauer 1767–71. Bd. 1–6 (= St. 1–24): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112604-1">München, Bayerische Staatsbibliothek -- P.o.germ. 741-1/2</wwwlink>.
@@ -3861,7 +3871,19 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 </subsection>
 </kommentar>
 
-<kommentar id="fuessli" type="neuzeit">
+<kommentar id="fuessli-jh" type="neuzeit">
+<lemma>Johann Heinrich Füssli</lemma>
+<eintrag>1741&#x2013;1825. Schweiz.-engl. Maler und Schriftsteller (engl. Henry Fuseli), siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17979.html#ndbcontent"> Schiff, Gert: Füßli, Heinrich, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;702&#x2013;705</wwwlink>
+</eintrag>
+<subsection id="fuessli-remarks" type="neuzeit">
+<lemma>Füssli, <titel>Remarks</titel></lemma>
+<eintrag>
+<titel>Remarks on the Writings and Conduct of. J. J. Rousseau</titel> (London 1767). Digitalisat: <wwwlink address="https://hdl.handle.net/2027/nyp.33433075822639">Hathi Trust</wwwlink>
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="fuessli-jk" type="neuzeit">
 <lemma>Johann Konrad Füßli</lemma>
 <eintrag>1704&#x2013;1775. Schweizer Pfarrer und Schriftsteller.</eintrag>
 <subsection id="fuessli-anzeigen" type="neuzeit">
@@ -3887,18 +3909,6 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 <lemma>Johann Funck</lemma>
 <eintrag>1518&#x2013;1566. Ab 1549 Hofprediger und Hofrat in Königsberg, als Anhänger Andreas Osianders wurde er 1566 als Gefährder der öffentl. Ordnung verurteilt und hingerichtet. <wwwlink address="https://www.deutsche-biographie.de/pnd124899617.html#adbcontent">Möller: Funck, Johannes, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;197&#x2013;199</wwwlink>.
 </eintrag>
-</kommentar>
-
-<kommentar id="fuessli" type="neuzeit">
-<lemma>Johann Heinrich Füssli</lemma>
-<eintrag>1741&#x2013;1825. Schweiz.-engl. Maler und Schriftsteller (engl. Henry Fuseli), siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17979.html#ndbcontent"> Schiff, Gert: Füßli, Heinrich, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;702&#x2013;705</wwwlink>
-</eintrag>
-<subsection id="fuessli-remarks" type="neuzeit">
-<lemma>Füssli, <titel>Remarks</titel></lemma>
-<eintrag>
-<titel>Remarks on the Writings and Conduct of. J. J. Rousseau</titel> (London 1767).
-</eintrag>
-</subsection>
 </kommentar>
 
 G
@@ -4149,6 +4159,12 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 <titel>Briefe über Merkwürdigkeiten der Litteratur</titel> (4&#x00A0;Bde., Schleswig/Leipzig: Hansen 1766/70) [Biga&#x202F;137/95: „Briefe über Merkwürdigkeiten der Litteratur, 1. u. 2te Samml. Leipz. 766“ u. Biga&#x202F;161/506: „Briefe über Merkwürdigkeiten
 der Litteratur, Th. I. Schlesw. 767“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10732551-5">München, Bayerische Staatsbibliothek: H.lit.p. 142 k</wwwlink>.</eintrag>
 </subsection>
+<subsection id="gerstenberg-skalden" type="neuzeit" sort="20">
+<lemma>Gerstenberg, <titel>Gedicht eines Skalden</titel></lemma>
+<eintrag>
+<titel>Gedicht eines Skalden.</titel> (Kopenhagen, Odensee und Leipzig: G.C. Rothens Witwe und Proft 1766) [Biga&#x202F;195/42: „Gedichte eines Skalden, Kop. 766“]. Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN865899207">SUB Göttingen</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="gesner-k" type="neuzeit">
@@ -4276,7 +4292,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <subsection id="gleim-anakreon" type="neuzeit" sort="40">
 <lemma>Gleim, <titel>Lieder Nach dem Anakreon</titel></lemma>
 <eintrag>
-<titel>Lieder Nach dem Anakreon</titel> von dem Verfasser des Versuchs in scherzhaften Liedern (Berlin, Braunschweig 1766). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-150349203-19">ULB Halle: AB 139087</wwwlink></eintrag>
+<titel>Lieder Nach dem Anakreon</titel> von dem Verfasser des Versuchs in scherzhaften Liedern (Berlin, Braunschweig 1766). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-150349203-19">ULB Halle: AB 139087</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -4471,6 +4487,18 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#x00A0;v. Joachim u. Brigitt
 <lemma>Grillo, <titel>Daphnis und Chloe</titel></lemma>
 <eintrag>
 <titel>Daphnis und Chloe</titel>. Aus dem Griechischen des Longus (Berlin 1765).
+</eintrag>
+</subsection>
+<subsection id="grillo-avertissement" type="neuzeit">
+<lemma>Grillo, <titel>Avertissement</titel></lemma>
+<eintrag>
+<titel>Avertissement einer neuen Übersetzung der griechischen Klassiker</titel> (Berlin 1767).
+</eintrag>
+</subsection>
+<subsection id="grillo-idyllen" type="neuzeit">
+<lemma>Grillo, <titel>Idyllen aus dem Griechischen des Bion und Moschus</titel></lemma>
+<eintrag>
+<titel>Idyllen aus dem Griechischen des Bion und Moschus</titel> (Berlin: Typographische Societät 1767). Digitalisat: <wwwlink address="http://nbn-resolving.de/	urn:nbn:de:gbv:3:1-1192015415-147431794-14">ULB Halle: Ce 2710</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -4990,8 +5018,13 @@ Eigentl.: <titel>Hamburgische Nachricht; Göttingsche Anzeige; Berlinsche Beurth
 Editionen: Seitenangaben im Briefkommentar nach N&#x00A0;II S.&#x202F;241&#x2013;274 und Erstdruck = ED.
 </eintrag>
 </subsection>
-
-<subsection id="hamann-selbstgespraech" type="neuzeit" sort= "370">
+<subsection id="hamann-fuessli" type="neuzeit" sort= "370">
+<lemma>Hamann, <titel>Anmerkungen über die Schriften und Sitten des Johann Jacob Rousseau</titel></lemma>
+<eintrag>
+<titel>Anmerkungen über die Schriften und Sitten des Johann Jacob Rousseau.</titel> In: <link ref="konigsberger-gp-z" linktext="true"/>, 53.,&#x202F;54. und&#x202F;55. St.&#x202F;vom 3.,&#x202F;6. und 10.7.1767, ohne Unterzeichnung (N IV,305–311). Übersetzung eines Auszuges und Zusammenfassung von <link ref="fuessli-jh" subref="fuessli-remarks" linktext="true"/>. 
+</eintrag>
+</subsection>
+<subsection id="hamann-selbstgespraech" type="neuzeit" sort= "500">
 <lemma>Hamann, <titel>Selbstgespräch aus dem Englischen übersetzt</titel></lemma>
 <eintrag>
 <titel>Selbstgespräch aus dem Englischen übersetzt.</titel> In: <link ref="konigsberger-gp-z" linktext="true"/>, 45.&#x202F;St. vom 4.6.1770. Übersetzung aus <link ref="browne-m" subref="browne-creation" linktext="true"/>.
@@ -5358,6 +5391,11 @@ Von und an Herder: ungedruckte Briefe aus Herders Nachlaß; Herders Briefwechsel
 <eintrag>1776–1838. Sohn von <link ref="herder" linktext="true"/>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Schellhas, Walter: Herder, August Freiherr von, in: <titel>NDB</titel>&#x202f;8 (1969), S.&#x202f;594f.</wwwlink></eintrag>
 </kommentar>
 
+<kommentar id="herder-ae" type="neuzeit">
+<lemma>Anna Elisabeth Herder</lemma>
+<eintrag>1717–1772. Geb. Peltz. Mutter von <link ref="herder" linktext="true"/> in Morungen.</eintrag>
+</kommentar>
+
 <kommentar id="herder-c" type="neuzeit">
 <lemma>Caroline Herder</lemma>
 <eintrag>1748–1793. Geb. Flachsland, sei 1773 Ehefrau von <link ref="herder" linktext="true"/>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29949.html#ndbcontent">Dobbek, Wilhelm: Herder, Carolina, in: <titel>NDB</titel>&#x202f;8 (1969), S.&#x202f;603f.</wwwlink></eintrag>
@@ -5647,7 +5685,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <subsection id="hirzel-bild" type="neuzeit" sort="20">
 <lemma>Hirzel, <titel>Das Bild eines wahren Patrioten</titel></lemma>
 <eintrag>
-<titel>Das Bild eines wahren Patrioten, in einem Denkmal auf H. Blaarer v. Wartensee</titel> (Zürich: Orell und Gessner, 1767).
+<titel>Das Bild eines wahren Patrioten, in einem Denkmal auf H. Blaarer v. Wartensee</titel> (Zürich: Orell und Gessner 1767).
 </eintrag>
 </subsection>
 </kommentar>
@@ -7348,6 +7386,12 @@ Die Verf. weisen nach, dass <link ref="pope" linktext="false">Popes</link> Dicht
 <lemma>Lessing, <titel>Laokoon</titel></lemma>
 <eintrag>
 <titel>Laokoon</titel> oder über die Grenzen der Mahlerey und Poesie (Berlin: Voss 1766)
+</eintrag>
+</subsection>
+<subsection id="lessing-dramaturgie" type="neuzeit" sort="80">
+<lemma>Lessing, <titel>Hamburgische Dramaturgie</titel></lemma>
+<eintrag>
+<titel>Hamburgische Dramaturgie.</titel> 2 Bde. (Hamburg: Cramer 1767 und 1769). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:kobv:b4-200905199676">HAB Wolfenbüttel: M: Lo 4579,1/2</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -10885,7 +10929,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 
 <kommentar id="schilter" type="neuzeit">
 <lemma>Johann Schilter</lemma>
-<eintrag>1632&#x2013;1705.Rechtsgelehrter und Altertumsforscher; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48719.html#adbcontent">Eisenhart, August Ritter von: Schilter, Johann, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;266-268</wwwlink>.
+<eintrag>1632&#x2013;1705. Rechtsgelehrter und Altertumsforscher; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48719.html#adbcontent">Eisenhart, August Ritter von: Schilter, Johann, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;266-268</wwwlink>.
 </eintrag>
 <subsection id="schilter-thesaurus" type="neuzeit" sort="10">
 <lemma>Schilter, <titel>Thesaurus antiquitatum teutonicarum</titel></lemma>
@@ -11666,7 +11710,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <subsection id="spence-polymetis" type="neuzeit" sort="5">
 <lemma>Spence, <titel>Polymetis</titel></lemma>
 <eintrag>
-<titel>Polymetis:</titel> or, an enquiry concerning the agreement between the works of the Roman poets, and the remains of the antient artists. Being an attempt to illustrate them mutually from one another. In ten books. By the Revd. Mr. Spence (London 1747). Digitalisat: <wwwlink address="https://hdl.handle.net/2027/mdp.39015057099940">HathiTrust</wwwlink>.
+<titel>Polymetis:</titel> or, an enquiry concerning the agreement between the works of the Roman poets, and the remains of the antient artists. Being an attempt to illustrate them mutually from one another. In ten books. By the Revd. Mr. Spence (London 1747). Digitalisat: <wwwlink address="https://hdl.handle.net/2027/mdp.39015057099940">Hathi Trust</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="spence-crito" type="neuzeit" sort="10">
@@ -11914,7 +11958,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="sturz" type="neuzeit">
 <lemma>Helfrich Peter Sturz</lemma>
-<eintrag>1736&#x2013;1779.Jurist und Schriftsteller, 1764 Privatsekretär des dän. Ministers von Bernstorff, 1775 Etatsrat in Oldenburg; <wwwlink address="https://www.deutsche-biographie.de/sfz69047.html#adbcontent">Koch, Max: Sturz, Helfrich Peter, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;59&#x2013;61</wwwlink>.
+<eintrag>1736&#x2013;1779. Jurist und Schriftsteller, 1764 Privatsekretär des dän. Ministers von Bernstorff, 1775 Etatsrat in Oldenburg; <wwwlink address="https://www.deutsche-biographie.de/sfz69047.html#adbcontent">Koch, Max: Sturz, Helfrich Peter, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;59&#x2013;61</wwwlink>.
 </eintrag>
 <subsection id="sturz-menechmen" type="neuzeit" sort="10">
 <lemma>Sturz, <titel>Die Menechmen oder Zwei Wochenschriften von gleicher Statur in 4 Aufzügen</titel></lemma>
@@ -13067,6 +13111,17 @@ Ausgabe hg.&#x00A0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens
 </subsection>
 </kommentar>
 
+<kommentar id="wesseling" type="neuzeit">
+<lemma>Peter Wesseling</lemma>
+<eintrag>1692&#x2013;1764. Klassischer Philologe, Professor der alten Literatur in Utrecht, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd133517365.html">Deutsche Biographie</wwwlink>.
+</eintrag>
+<subsection id="wesseling-herodot" type="neuzeit">
+<lemma>Wesseling, <titel>Herodoti Halicarnassei historiarum libri IX graece et latine</titel></lemma>
+<eintrag>
+<titel>Herodoti Halicarnassei historiarum libri IX graece et latine,</titel> ex Vallae interpretatione, cum adnotationibus Galei et Gronovii, editionem curavit et suas itemque Valckenarii notas adjecit Wesselingius (Amsterdam 1763).</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="weymann-d" type="neuzeit">
 <lemma>Daniel Weymann</lemma>
 <eintrag>1732&#x2013;1795. Ab 1762 Konrektor an der Löbenichtschen Schule in Königsberg; Kritiker <link ref="kant" linktext="false">I. Kants</link>.
@@ -13560,5 +13615,3 @@ Z
 </kommentare>
 </data>
 </opus>
-
-

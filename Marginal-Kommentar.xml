@@ -32719,7 +32719,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal index="8310" letter="271" page="265" line="28">
-<bzg>vnus est Oeconomus</bzg> lat. Nachdichtung eines jüd. Osterliedes
+<bzg>vnus est Oeconomus</bzg> lat. Travestie eines jüd. Osterliedes, das die zwölf heiligen Zahlen erklärt, zum Trinklied
 </marginal>
 
 <marginal index="8311" letter="271" page="265" line="30">
@@ -35222,7 +35222,7 @@ Brief Nr. 294
 </marginal>
 
 <marginal index="8930" letter="294" page="315" line="19">
-<bzg>Mutter</bzg> Anna Elisabeth Herder (1717–1772)
+<bzg>Mutter</bzg> <link ref="herder-ae" linktext="true"/>
 </marginal>
 
 <marginal index="8931" letter="294" page="315" line="20">
@@ -35594,7 +35594,7 @@ Brief Nr. 296
 </marginal>
 
 <marginal index="9022" letter="296" page="321" line="20">
-<bzg>Frau Mutter</bzg> Anna Elisabeth Herder (1717–1772)
+<bzg>Frau Mutter</bzg> <link ref="herder-ae" linktext="true"/>
 </marginal>
 
 <marginal index="9023" letter="296" page="321" line="22">
@@ -37179,7 +37179,7 @@ Brief Nr. 315
 </marginal>
 
 <marginal index="10034" letter="315" page="356" line="29">
-<bzg>Wöchentl. Anzeigen…</bzg> <link ref="fuessli" subref="fuessli-anzeigen" linktext="true"/>
+<bzg>Wöchentl. Anzeigen…</bzg> <link ref="fuessli-jk" subref="fuessli-anzeigen" linktext="true"/>
 </marginal>
 
 <marginal index="10035" letter="315" page="356" line="31">
@@ -38301,7 +38301,7 @@ Brief Nr. 327
 </marginal>
 
 <marginal index="10312" letter="327" page="372" line="12">
-<bzg>Dodswellsche Samml.</bzg> vmtl. Falschschreibung von Dodsley, meint also <link ref="dodsley" subref="dodsley-collection" linktext="true"/>; Hamann schickt die Dodsleysche Sammlung in <intlink letter="338" page="388" line="30" linktext="true"/> und eine Elegie von Dodsley wird dann lobend <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3.&#x202F;Sammlung, S.&#x202F;489 besprochen [Henkel zufolge: Henry Dodwell (1641–1711, engl. Theologe): https://books.google.de/books?id=DZ1fAAAAcAAJ – der kommt aber weder bei Hamann noch bei Herder je wieder vor noch ist das Buch eine Sammlung – löschen, richtig?!?]
+<bzg>Dodswellsche Samml.</bzg> vmtl. Falschschreibung von Dodsley, meint <link ref="dodsley" subref="dodsley-collection" linktext="true"/>; Hamann schickt die Dodsleysche Sammlung in <intlink letter="338" page="388" line="30" linktext="true"/> und eine Elegie von Dodsley wird dann lobend in <link ref="herder" subref="herder-fragmente" linktext="true"/>, 3.&#x202F;Sammlung, S.&#x202F;489 besprochen.
 </marginal>
 
 <marginal index="10313" letter="327" page="372" line="12">
@@ -38377,7 +38377,7 @@ Brief Nr. 327
 </marginal>
 
 <marginal index="10331" letter="327" page="372" line="32">
-<bzg>Vnus est Oeconomus</bzg> lat. Nachdichtung eines jüd. Osterliedes vgl. <intlink  letter="271" page="265" line="28" linktext="true"/> [oder nicht besser Henkel übernehmen?!? – „Refrain eines mönchischen Trinkliedes, das so beginnt: O lector lectorum, dic mihi quid est unum. Es handelt sich um die Travestie der lat. Nachdichtung eines jüd. Osterliedes aus dem 16. Jahrhundert, in dem die 12 heiligen Zahlen erklärt werden: Unus est Deus... duo sunt testamenta ... Tres sunt patriarchae ... Quartuor evangelista.“]
+<bzg>Vnus est Oeconomus</bzg> lat. Travestie eines jüd. Osterliedes, das die zwölf heiligen Zahlen erklärt, zum Trinklied; vgl. <intlink  letter="271" page="265" line="28" linktext="true"/> 
 </marginal>
 
 <marginal index="10332" letter="327" page="372" line="33">
@@ -38437,7 +38437,7 @@ Brief Nr. 327
 </marginal>
 
 <marginal index="10346" letter="327" page="373" line="11">
-<bzg>griechisches Motto</bzg> Auf dem Titelblatt von <link ref="hurd" subref="hurd-reisen" linktext="true"/> heißt es: „Πηγὴ καὶ ῥίζα καλοκᾳγαθίας, τό νομίμου τυχεῖν παιδείας.&#x2003;Πλουταρχ“. – Es stammt aus <link ref="plutarch" subref="plut-mor" linktext="true"/>, 4C (Über die Kindererziehung): [Übersetzung noch nachtragen] – – Plutarchs moralia werden jedes Mal anders zitiert. Sollte man das nicht vereinheitlichen?!?
+<bzg>griechisches Motto</bzg> Auf dem Titelblatt von <link ref="hurd" subref="hurd-reisen" linktext="true"/> heißt es: „Πηγὴ καὶ ῥίζα καλοκᾳγαθίας, τό νομίμου τυχεῖν παιδείας.&#x2003;Πλουταρχ“. – Das Zitat stammt aus <link ref="plutarch" subref="plut-mor" linktext="true"/>, 4C (Über die Kindererziehung): [Übersetzung noch nachtragen] – – Plutarchs moralia werden jedes Mal anders zitiert. Sollte man das nicht vereinheitlichen?!?
 </marginal>
 
 <marginal index="10347" letter="327" page="373" line="12">
@@ -38459,8 +38459,7 @@ Brief Nr. 328
 </marginal>
 
 <marginal index="10353" letter="328" page="373" line="27">
-<bzg>Schulactus</bzg> Schulfeierlichkeit mit öffentlichen Vorträgen (vgl. Pierer’s Universal-Lexikon, XV, S.&#x202F;450)
-Kennt sich vielleicht jemand aus mit den Schulakten (also öffentlichen Reden) der Rigaer Domschule über Lindners Zeit hinaus?!? Oder wo man da noch suchen könnte? Dann könnte man auch den Brief genauer datieren. Herder erwähnt ja hier einen Schulactus von 1766, vmtl. im Juli, der nächsten Donnerstag stattfinden würde. In den Büchern von Hollander und Schweder über die Domschule steht leider nichts genaueres zum Schulactus von 1766. Normalerweise sind die zu Potentanten-Geburtstagen oder Kronjubiläen gehalten worden (Katharina II *2.5.1729 [greg.], gekrönt 22.9. [jul.], passt beides nicht), 1765 aber z.B. auch einmal zum Anlass der Einweihung des Rathauses im Oktober.
+<bzg>Schulactus</bzg> Schulfeierlichkeit mit öffentlichen Vorträgen (vgl. Pierer’s Universal-Lexikon, XV, S.&#x202F;450); Anlässe sind z.B. Kronjubiläen oder Einweihungen von Gebäuden; Anlass und genaues Datum hier nicht ermittelt.
 </marginal>
 
 <marginal index="10354" letter="328" page="373" line="30">
@@ -38468,7 +38467,7 @@ Kennt sich vielleicht jemand aus mit den Schulakten (also öffentlichen Reden) d
 </marginal>
 
 <marginal index="10355" letter="328" page="373" line="31">
-<bzg>loc. comm.</bzg> locos cummunes, dt. Gemeinplätze
+<bzg>loc. comm.</bzg> locos communes, dt. Gemeinplätze
 </marginal>
 
 <marginal index="10356" letter="328" page="373" line="33">
@@ -38504,11 +38503,11 @@ Kennt sich vielleicht jemand aus mit den Schulakten (also öffentlichen Reden) d
 </marginal>
 
 <marginal index="10364" letter="328" page="374" line="7">
-<bzg>N. Bibl…</bzg> <link ref="weise" subref="weise-bibliothek" linktext="true"/>, Bd. 2, erstes Stück (Leipzig 1766), 54–89
+<bzg>N. Bibl…</bzg> <link ref="weise" subref="weise-bibliothek" linktext="true"/>, Bd. 2, erstes Stück (Leipzig 1766), S. 54–89
 </marginal>
 
 <marginal index="10365" letter="328" page="374" line="8">
-<bzg>Hogarths Leben</bzg> <link ref="weise" subref="weise-bibliothek" linktext="true"/>, Bd. 2, erstes Stück (Leipzig 1766), 162–171
+<bzg>Hogarths Leben</bzg> <link ref="weise" subref="weise-bibliothek" linktext="true"/>, Bd. 2, erstes Stück (Leipzig 1766), S. 162–171
 </marginal>
 
 <marginal index="10366" letter="328" page="374" line="9">
@@ -38666,11 +38665,11 @@ Brief Nr. 329
 </marginal>
 
 <marginal index="10404" letter="329" page="376" line="3">
-<bzg>curschen Bücher</bzg> nicht ermittelt?!? mglw. die oben gemeinten englischen Bücher? Im Zusammenhang des Shaftesbury-Projekts, <intlink letter="330" page="377" line="14" linktext="true"/>
+<bzg>curschen Bücher</bzg> Bücher aus Kurland, mglw. die oben genannten englischen Bücher im Zusammenhang des Shaftesbury-Projekts, <intlink letter="330" page="377" line="14" linktext="true"/>
 </marginal>
 
 <marginal index="10405" letter="329" page="376" line="8">
-<bzg>Vornehmen</bzg> nicht ermittelt?!? – mglw. Hamanns Shaftesbury-Projekt, <intlink letter="330" page="377" line="14" linktext="true"/>?
+<bzg>Vornehmen</bzg> mglw. Hamanns Shaftesbury-Projekt, <intlink letter="330" page="377" line="14" linktext="true"/>
 </marginal>
 
 <marginal index="10406" letter="329" page="376" line="9">
@@ -38700,7 +38699,7 @@ Brief Nr. 330
 </marginal>
 
 <marginal index="10412" letter="330" page="376" line="25">
-<bzg>Handschriften</bzg> vgl. <intlink letter="328" page="373" line="30" linktext="true"/> [Henkel-Kommentar löschen?!? – »Hamann bleibt allerdings die von Herder erbetene Kritik, bis auf kleine Monita, in der Hauptsache schuldig. Ihm paßt offenbar überhaupt nicht, daß Herder mit den Fragmenten, als erklärter Fortsetzung der Literaturbriefe, sich den literarkritischen Grundsätzen der Nicolai, Abbt u. Mendelssohn anschließen will. So enthält seine verwunderte Bemerkung, Herder habe mehr aus den Literatur-briefen zitiert (Zeile 29f.), einen kritischen Akzent.«]
+<bzg>Handschriften</bzg> vgl. <intlink letter="328" page="373" line="30" linktext="true"/>
 </marginal>
 
 <marginal index="10413" letter="330" page="376" line="26">
@@ -38712,7 +38711,7 @@ Brief Nr. 330
 </marginal>
 
 <marginal index="10415" letter="330" page="376" line="32">
-<bzg>vorläufigen Discours</bzg> mit einem vorläufigen Discours beginnt <link ref="herder" subref="herder-fragmente" linktext="true"/>, 2.&#x202F;Sammlung, S.&#x202F;265
+<bzg>vorläufigen Discours</bzg> mit einem „vorläufigen Discours“ beginnt <link ref="herder" subref="herder-fragmente" linktext="true"/>, 2.&#x202F;Sammlung, S.&#x202F;265
 </marginal>
 
 <marginal index="10416" letter="330" page="376" line="34">
@@ -38902,7 +38901,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal index="10459" letter="331" page="379" line="24">
-<bzg>Uebers. des Taßoischen Amyntas</bzg> <link ref="tasso" subref="tasso-aminta" linktext="true"/>; Hamann erwähnt Tasso nicht wieder
+<bzg>Uebers. des Taßoischen Amyntas</bzg> <link ref="tasso" subref="tasso-aminta" linktext="true"/>
 </marginal>
 
 <marginal index="10460" letter="331" page="379" line="25">
@@ -38910,7 +38909,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal index="10695" letter="331" page="379" line="26">
-<bzg>P. d Phil. u. Math.</bzg> Professer der Philosophie und Mathematik
+<bzg>P. d Phil. u. Math.</bzg> Professor der Philosophie und Mathematik
 </marginal>
 
 <marginal index="10461" letter="331" page="379" line="28">
@@ -38918,7 +38917,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal index="10462" letter="331" page="379" line="28">
-<bzg>Mathesis intensiva</bzg> Mathematik intensiver Größen, vgl. SWS&#x202F;IV, S.&#x202F;103.
+<bzg>Mathesis intensiva</bzg> Mathematik intensiver Größen, vgl. SWS&#x202F;IV, S.&#x202F;103
 </marginal>
 
 Brief Nr. 332
@@ -38973,11 +38972,11 @@ Brief Nr. 332
 
 Brief Nr. 333
 
-Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwischen 332 und 334 platziert, also zwischen August und November 1766. Bei uns war er komischerweise zwischen mit „Juli 1765“ zwischen 328 und 329 eingeordnet (also auf Juli 1766 datiert). Habe das korrigiert und zwischen 304 und 305 eingeordnet, mit „vmtl. Juli 1765“. – Herder-Ausgabe datiert es ohne große Diskussion auf Juli 1765 (scheint mir erstmal nichts dagegen zu sprechen, aber schon bissl komisch). Henkel: „Die Datierung dieses sine die et consule überlieferten Briefes macht Schwierigkeiten. HBGA datiert ihn auf den Juli 1765 (dort I,45 und 340); sein Ton scheint in der Tat in jene Phase der Freundschaft zu weisen, da Herder gerade beginnt, dem Älteren selbständig, ja kritisch- ebenbürtig zu begegnen. Außerdem ist die Rede vom Manuskript einer Abhandlung über die Ode, das gewiß nicht identisch ist mit den 363,23; 373,30ff. u. 376,25 erwähnten Handschriften der ersten Sammlung der Fragmente, bzw. ihrer Umarbeitung. Andererseits könnte 333 die Antwort auf 330 sein. Dann wäre 333 auf September zu datieren, da H. bereits am 30. August 1766 auf 331 antwortete, Herder aber bei Abfassung von 333 noch keine Antwort auf 331 in Händen hatte.“
+?!? Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwischen 332 und 334 platziert, also zwischen August und November 1766. Bei uns war er komischerweise zwischen mit „Juli 1765“ zwischen 328 und 329 eingeordnet (also auf Juli 1766 datiert). Habe das korrigiert und zwischen 304 und 305 eingeordnet, mit „vmtl. Juli 1765“. – Herder-Ausgabe datiert es ohne große Diskussion auf Juli 1765 (scheint mir erstmal nichts dagegen zu sprechen, aber schon bissl komisch). Henkel: „Die Datierung dieses sine die et consule überlieferten Briefes macht Schwierigkeiten. HBGA datiert ihn auf den Juli 1765 (dort I,45 und 340); sein Ton scheint in der Tat in jene Phase der Freundschaft zu weisen, da Herder gerade beginnt, dem Älteren selbständig, ja kritisch- ebenbürtig zu begegnen. Außerdem ist die Rede vom Manuskript einer Abhandlung über die Ode, das gewiß nicht identisch ist mit den 363,23; 373,30ff. u. 376,25 erwähnten Handschriften der ersten Sammlung der Fragmente, bzw. ihrer Umarbeitung. Andererseits könnte 333 die Antwort auf 330 sein. Dann wäre 333 auf September zu datieren, da H. bereits am 30. August 1766 auf 331 antwortete, Herder aber bei Abfassung von 333 noch keine Antwort auf 331 in Händen hatte.“
 – Zeitlich passt es tatsächlich wesentlich besser nach Juli 1765, da gibts einige (wenn auch wage) Konnexe zum Umfeld. – Zum Briefumfeld von Juli 1766 gibts allerdings gar keine Zusammenhänge, und in der Zeit gibts in jedem Brief irgendwelche Buch-Bestellungen oder Ermahnungen. Wir sollten also mE nach der Herder-Ausgabe gehen.
 
 <marginal index="10475" letter="333" page="380" line="31">
-<bzg>Briefes…</bzg> vmtl. sind weder Herders letzter Brief noch Hamanns Schreiben, das der Retour der Odenabhandlung beilag, überliefert
+<bzg>Briefes…</bzg> weder Herders letzter Brief noch Hamanns Schreiben, das der Retour der Odenabhandlung beilag, sind ermittelt
 </marginal>
 
 <marginal index="10500" letter="333" page="380" line="32">
@@ -38993,7 +38992,7 @@ Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwisch
 </marginal>
 
 <marginal index="10478" letter="333" page="381" line="10">
-<bzg>Kaufmannsort</bzg> Herder ist offenbar schon eine Weile in Riga, aber noch nicht so recht angekommen
+<bzg>Kaufmannsort</bzg> Herder ist offenbar schon eine Weile in Riga, aber noch nicht so recht angekommen ?!?
 </marginal>
 
 <marginal index="10479" letter="333" page="381" line="10">
@@ -39057,7 +39056,7 @@ Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwisch
 </marginal>
 
 <marginal index="10502" letter="333" page="382" line="22">
-<bzg>Amazonen</bzg> Henkel: „Hauptquelle für Etymologie u. diesen grausamen Brauch ist Diodorus Siculus II,45; IV,16; vgl Hederich.“ – überhaupt kommentieren?!?
+<bzg>Amazonen</bzg> Kriegerinnen der griechischen Mythologie
 </marginal>
 
 <marginal index="10503" letter="333" page="382" line="25">
@@ -39153,7 +39152,7 @@ Brief Nr. 335
 </marginal>
 
 <marginal index="10525" letter="335" page="384" line="25">
-<bzg>Predigt</bzg> nicht überliefert; laut Otto Hoffmann: Herders Briefe an Joh. Georg Hamann (Berlin 1889), S,&#x202F;32 am 7.12.1766; 
+<bzg>Predigt</bzg> nicht überliefert; laut Otto Hoffmann: Herders Briefe an Joh. Georg Hamann (Berlin 1889), S,&#x202F;32 am 7.12.1766
 </marginal>
 
 <marginal index="10526" letter="335" page="384" line="30">
@@ -39256,7 +39255,6 @@ Brief Nr. 336
 
 <marginal index="10550" letter="336" page="386" line="17">
 <bzg>Ich zweifele nicht…</bzg> Herder hat in <link ref="herder" subref="herder-fragmente" linktext="true"/>, 1.&#x202F;Sammlung, S.&#x202F;248–250 auch über <link ref="hamann" subref="sokratischedenk" linktext="true"/> geschrieben; vgl. zu Herders Enttäuschung über Hamanns Vermeidung einer Reaktion darauf <intlink letter="337" page="387" line="16" linktext="true"/>
-[Henkel: Hamann weicht erneut einer detallierten Kritik aus. Herders ehrgeiziger Aufstieg in die oberen Ränge der Literaturkritik war nicht nach seinem Sinne. Außerdem konnte er wohl Herders Darstellung seiner eigenen Schreibart in <link ref="hamann" subref="sokratischedenk" linktext="true"/> (SWS I,226–229) kaum billigen, und auf die anzüglichen Binnenscherze – bei so ausgesprochener Verkennung – überhaupt einzugehen schien ihm wohl unnütz. Beispielsweise der Schluß: „Hätte unser jezo ebentheuerlicher Sokrat eine Aspasia, seine Gedanken auszudrücken, und einen Alcibiad, sie auszubilden; vielleicht hätte er Schüler und Nachkommen, bis alsdenn vielleicht im dritten Gliede ein Aristoteles, Socratis et Platonis peior progenies, ein System errichtete, in der Philologie und Aesthetik, woran sein Großvater nicht gedacht hatte.“ – Hamanns Kritik am System überhaupt blieb Herder verborgen, und so eröffnet er die Reihe der kritischen Stereotype, die in der Hamann- Kritik Hegels kulminieren wird. Vgl auch Herders Enttäuschung <intlink letter="337" page="387" line="16" linktext="true"/>] – – Kurze Version (oben) oder lange Version (Henkel)?!?
 </marginal>
 
 <marginal index="10551" letter="336" page="386" line="21">
@@ -39319,7 +39317,7 @@ Brief Nr. 337
 </marginal>
 
 <marginal index="10565" letter="337" page="387" line="16">
-<bzg>nichts geschrieben</bzg> <intlink letter="336" page="386" line="17" linktext="true"/> [Henkels Kommentar kann raus oder? „Hs Taktik des Schweigens zeigt Wirkung; Herder versucht ihn darauf trotzig mit dem Lob Nicolais zu ärgern, indem er mit dessen Angebot zur Mitarbeit auftrumpft. Vgl Nicolais Brief vom 19. Nov. 1766 an den anonymen Verfasser der Fragmente, LB I,2,254ff.“]
+<bzg>nichts geschrieben</bzg> vgl. <intlink letter="336" page="386" line="17" linktext="true"/>
 </marginal>
 
 <marginal index="10566" letter="337" page="387" line="17">
@@ -39339,7 +39337,7 @@ Brief Nr. 337
 </marginal>
 
 <marginal index="10570" letter="337" page="387" line="21">
-<bzg>Ex. auf Schreibpap…</bzg> Hamann bat zuvor um <intlink letter="336" page="386" line="15" linktext="false">Freiexemplare</intlink> von <link ref="herder" subref="herder-fragmente" linktext="true"/> für sich und <link ref="tottien-ca" linktext="true"/>, dessen Bibliothek Herder mehrfach benutzte, der ihm aber unsympathisch war
+<bzg>Ex. auf Schreibpap…</bzg> Hamann bat zuvor um <intlink letter="336" page="386" line="15" linktext="false">Freiexemplare</intlink> von <link ref="herder" subref="herder-fragmente" linktext="true"/> für sich und <link ref="tottien-ca" linktext="true"/>, dessen Bibliothek Herder mehrfach benutzte, der ihm aber unsympathisch war. Schreibpapier schien teurer gewesen zu sein ?!?
 </marginal>
 
 <marginal index="10571" letter="337" page="387" line="22">
@@ -39423,7 +39421,7 @@ Brief Nr. 337
 </marginal>
 
 <marginal index="10591" letter="337" page="388" line="19">
-<bzg>Verzeichn.</bzg> Verzeichnis der bei Herder befindlichen Bücher aus dem Hamanns und einiger seiner Bekannter; diente wohl auch als eine Art Quittung; vgl. <intlink letter="338" page="389" line="1" linktext="true"/>
+<bzg>Verzeichn.</bzg> Verzeichnis der bei Herder befindlichen Bücher aus dem Besitz Hamanns und einiger seiner Bekannter; diente wohl auch als eine Art Quittung; vgl. <intlink letter="338" page="389" line="1" linktext="true"/>
 </marginal>
 
 <marginal index="10592" letter="337" page="388" line="20">
@@ -40092,7 +40090,7 @@ Brief Nr. 344
 </marginal>
 
 <marginal index="11058" letter="344" page="397" line="34">
-<bzg>Grille</bzg> vmtl. Hamanns Übersetzung der anonym erschienenen <link ref="fuseli" subref="fuessli-remarks" linktext="false">Remarks on the Writings and Conduct of. J. J. Rousseau</link> in <link ref="konigsberger-gp-z" linktext="true"/>, 53.,&#x202F;54.&#x202F;und&#x202F;55. Stück vom 3.,&#x202F;6.&#x202F;und&#x202F;10.7.1767
+<bzg>Grille…</bzg> <link ref="hamann" subref="hamann-fuessli" linktext="true"/>
 </marginal>
 
 <marginal index="11059" letter="344" page="397" line="35">
@@ -40338,7 +40336,7 @@ veröffentlichte sie aber nicht
 </marginal>
 
 <marginal index="11112" letter="346" page="401" line="30">
-<bzg>Charakter Rousseaus</bzg> <link ref="konigsberger-gp-z" linktext="true"/>, 53.,&#x202F;54. und&#x202F;55. St.&#x202F;vom 3.,&#x202F;6. und 10.7.1767, Anmerkungen über die Schriften und Sitten des Johann Jacob Rousseau (N IV,305-311) ?!?
+<bzg>Charakter Rousseaus…</bzg> <link ref="hamann" subref="hamann-fuessli" linktext="true"/>, vgl. <intlink letter="344" page="397" line="34" linktext="true"/>; Hamann schreibt, dass „diese englische Urschrift vielleicht eben keiner Überſetzung aber doch gewiß eines strengern Auszuges würdig sey“ (308/11f.)
 </marginal>
 
 <marginal index="11113" letter="346" page="401" line="31">
@@ -40354,15 +40352,11 @@ veröffentlichte sie aber nicht
 </marginal>
 
 <marginal index="11116" letter="346" page="402" line="1">
-<bzg>Nachahmer</bzg> von den Zeitgenossen bereits im <link ref="hypochondrist" linktext="true" /> beurteilt ?!?
-</marginal>
-
-<marginal index="11117" letter="346" page="402" line="1">
-<bzg>Gerstenb.</bzg> <link ref="gerstenberg" linktext="true" />
+<bzg>Nachahmer</bzg> <link ref="gerstenberg" subref="gerstenberg-briefe" linktext="false">Gerstenbergs <titel>Briefe über Merkwürdigkeiten der Litteratur</titel></link> wurde in <link ref="deutsche-bibliothek" linktext="true"/>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;101–112 (vgl. <intlink letter="339" page="390" line="3" linktext="true"/>) ein dunkler und manierierter Stil vorgeworfen 
 </marginal>
 
 <marginal index="11118" letter="346" page="402" line="2">
-<bzg>Gedichte des Skalden</bzg> ?!?
+<bzg>Gedichte des Skalden</bzg> <link ref="gerstenberg" subref="gerstenberg-skalden" linktext="true"/>
 </marginal>
 
 <marginal index="11119" letter="346" page="402" line="3">
@@ -40370,9 +40364,7 @@ veröffentlichte sie aber nicht
 </marginal>
 
 <marginal index="11120" letter="346" page="402" line="4">
-<bzg>des – Voeux</bzg> Desvoeux, A. E. V., reformierter Prediger bei der franzö-sischen Gemeinde in Dublin
-Philosophischer und kritischer Versuch über den Prediger Salomo; nebst einer Uebersetzung, Paraphrase
-und philologischen Anmerkungen von J. P. Bamberger. Halle 1764. ?!?
+<bzg>des-Voeux</bzg> <link ref="desvoeux" subref="desvoeux-salomo" linktext="true"/>
 </marginal>
 
 <marginal index="11121" letter="346" page="402" line="6">
@@ -40389,6 +40381,10 @@ und philologischen Anmerkungen von J. P. Bamberger. Halle 1764. ?!?
 
 <marginal index="11124" letter="346" page="402" line="10">
 <bzg>Winkelmanns Werk</bzg> <link ref="winckelmann" subref="winckelmann-empfindung" linktext="true" /> 
+</marginal>
+
+<marginal index="11117" letter="346" page="402" line="11">
+<bzg>Wesseling Herodot</bzg> <link ref="wesseling" subref="wesseling-herodot" linktext="true"/>
 </marginal>
 
 <marginal index="11125" letter="346" page="402" line="11">
@@ -40408,17 +40404,15 @@ und philologischen Anmerkungen von J. P. Bamberger. Halle 1764. ?!?
 </marginal>
 
 <marginal index="11129" letter="346" page="402" line="15">
-<bzg>Leßings Hamb. Dramaturgie</bzg> vom 1.-19. Mai 1767 ?!?
+<bzg>Leßings Hamb. Dramaturgie</bzg> <link ref="lessing" subref="lessing-dramaturgie" linktext="true"/>, 1.–6.&#x202F;St. vom 1.–19.5.1767
 </marginal>
 
 <marginal index="11130" letter="346" page="402" line="17">
-<bzg>Grillo’s</bzg> Avertissement einer neuen Übersetzung der griechischen
-Klassiker.Idyllen des Bion und Moschus aus dem Griechischen von Friedrich Grillo. Berlin 1767. Biga vgl.14/214 u.
-161/524. II,402 ?!?
+<bzg>Grillo’s</bzg> <link ref="grillo" subref="grillo-avertissement" linktext="true"/>
 </marginal>
 
 <marginal index="11131" letter="346" page="402" line="18">
-<bzg>Moschus u. Bion</bzg> <link ref="bion" linktext="true" /> und Moschos (2. Jh. v. Chr.), Grammatiker, bukolischer Dichter
+<bzg>Moschus u. Bion</bzg> <link ref="grillo" subref="grillo-idyllen" linktext="true"/>
 </marginal>
 
 <marginal index="11132" letter="346" page="402" line="20">
@@ -40426,7 +40420,7 @@ Klassiker.Idyllen des Bion und Moschus aus dem Griechischen von Friedrich Grillo
 </marginal>
 
 <marginal index="11133" letter="346" page="402" line="22">
-<bzg>Engl. Bücher</bzg> Englische Bücher, vgl. <intlink letter="343" page="395" line="20" linktext="true"/>
+<bzg>Engl. Bücher</bzg> vgl. <intlink letter="340" page="391" line="3" linktext="true"/>
 </marginal>
 
 <marginal index="11134" letter="346" page="402" line="22">
@@ -40434,11 +40428,11 @@ Klassiker.Idyllen des Bion und Moschus aus dem Griechischen von Friedrich Grillo
 </marginal>
 
 <marginal index="11136" letter="346" page="402" line="26">
-<bzg>Ich wünsche Ihnen …</bzg> Schluß von Luthers Erklärung der 4. Bitte des Vaterunser
+<bzg>Ich wünsche Ihnen …</bzg> Schluss von Luthers Erklärung der 4. Bitte des Vaterunser
 </marginal>
 
 <marginal index="11137" letter="346" page="402" line="30">
-<bzg>Mutter</bzg> Herder, Anna Elisabeth Herder (1717-1772), geb. Peltz
+<bzg>Mutter</bzg> <link ref="herder-ae" linktext="true"/>
 </marginal>
 
 <marginal index="11138" letter="346" page="402" line="31">
@@ -40451,16 +40445,24 @@ Klassiker.Idyllen des Bion und Moschus aus dem Griechischen von Friedrich Grillo
 
 Brief Nr. 347
 
+<marginal index="10702" letter="347" page="403" line="4">
+<bzg>Ausziehen</bzg> wohl Hamanns Umzug in die Wohnung im mittelsten Tragheim, vgl. <intlink letter="345" page="398" line="26" linktext="true"/>
+</marginal>
+
 <marginal index="11140" letter="347" page="403" line="6">
 <bzg>gantz allein</bzg> vgl. <intlink letter="346" page="402" line="31" linktext="true" /> 
 </marginal>
 
 <marginal index="11141" letter="347" page="403" line="7">
-<bzg>Fragmente</bzg> <link ref="herder" subref="herder-fragmente" linktext="true" />
+<bzg>Fragmente…</bzg> <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, zweite Auflage; Herder forderte Hamann zu einer privat-brieflichen oder öffentlich-gedruckten Rezension auf, vgl. <intlink letter="346" page="400" line="34" linktext="true"/>
+</marginal>
+
+<marginal index="10704" letter="347" page="403" line="8">
+<bzg>Sie</bzg> wohl <link ref="herder" subref="herder-fragmente" linktext="true" />, 3.&#x202F;Auflage; Hamann hat zuvor mehrfach um die Übersendung eines Exemplars gebeten, vgl. <intlink letter="345" page="398" line="24" linktext="true"/>
 </marginal>
 
 <marginal index="11142" letter="347" page="403" line="11">
-<bzg>Allotria</bzg> abgelegene Angelegenheiten, z.B. <link ref="mendelssohn" subref="mendelssohn-phaedon" linktext="true" /> 
+<bzg>Allotria</bzg> abgelegene Angelegenheiten; etwa die Lektüre von <link ref="mendelssohn" subref="mendelssohn-phaedon" linktext="true" /> 
 </marginal>
 
 <marginal index="11143" letter="347" page="403" line="19">
@@ -40472,7 +40474,7 @@ Brief Nr. 347
 </marginal>
 
 <marginal index="10496" letter="347" page="403" line="20">
-<bzg>Klotz neuester Bibliotheck</bzg> <link ref="deutsche-bibliothek" linktext="true"/>
+<bzg>Klotz neuester Bibliotheck</bzg> wohl <link ref="deutsche-bibliothek" linktext="true"/>,  1.&#x202F;Bd., 2.&#x202F;St.
 </marginal>
 
 <marginal index="11145" letter="347" page="403" line="28">
@@ -40480,7 +40482,7 @@ Brief Nr. 347
 </marginal>
 
 <marginal index="11146" letter="347" page="403" line="28">
-<bzg>blunders</bzg> engl. plunder, dt. Zeug
+<bzg>blunders</bzg> engl. grober Fehler, Patzer
 </marginal>
 
 <marginal index="11147" letter="347" page="403" line="30">
@@ -40488,11 +40490,19 @@ Brief Nr. 347
 </marginal>
 
 <marginal index="11148" letter="347" page="403" line="31">
-<bzg>virum clarissimum</bzg> dt. berühmten Mann
+<bzg>virum clarissimum</bzg> dt. sehr berühmten Mann (auch: klaren, deutlichen)
 </marginal>
 
 <marginal index="11149" letter="347" page="403" line="34">
-<bzg>gemishandelten Freund</bzg> <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> wurde von <link ref="klotz" linktext="true"/> in <link ref="deutsche-bibliothek" linktext="true"/>, Bd. 1, St. 1, negativ rezensiert.
+<bzg>gemishandelten Freund</bzg> <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> wurde in <link ref="deutsche-bibliothek" linktext="true"/>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;50–60, verrissen; vgl. <intlink letter="339" page="389" line="28" linktext="true"/>
+</marginal>
+
+<marginal index="10703" letter="347" page="403" line="31">
+<bzg>Kurellaschen Hause</bzg> der Sohn von <link ref="kurella" linktext="true"/> war ein Jugendfreund Herders in Königsberg
+</marginal>
+
+<marginal index="10703" letter="347" page="403" line="31">
+<bzg>Maschinerey</bzg> Intrige; es geht wohl um die Übermittlung von Insiderinformationen aus Königsberg für den Verriss von <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> in <link ref="deutsche-bibliothek" linktext="true"/>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;50–60
 </marginal>
 
 <marginal index="11150" letter="347" page="404" line="4">
@@ -40508,7 +40518,7 @@ Brief Nr. 347
 </marginal>
 
 <marginal index="11153" letter="347" page="404" line="7">
-<bzg>Gumbinnen</bzg> Gussew, zu <link ref="scheffner" linktext="true"/>
+<bzg>Gumbinnen</bzg> ostpreußische Stadt gut 100&#x202F;km östlich von Königsberg, heute Gussew; zu <link ref="scheffner" linktext="true"/>
 </marginal>
 
 <marginal index="11154" letter="347" page="404" line="10">
@@ -40520,19 +40530,23 @@ Brief Nr. 347
 </marginal>
 
 <marginal index="11156" letter="347" page="404" line="13">
-<bzg>Lobredner</bzg> Herder hatte 1767 in <link ref="allgemeine-deutsche-bib" linktext="true"/>, Bd. 5/1, S. 224-228, <link ref="klotz" subref="klotz-carmina" linktext="true" /> und <link ref="klotz" subref="klotz-opuscula" linktext="true" />, Bd. 5/2, S. 74-85, rezensiert.
+<bzg>Lobredner</bzg> Herder erwähnte <link ref="klotz" linktext="true"/> bereits in <link ref="herder" subref="herder-fragmente" linktext="true"/>, S.&#x202F;304 und S.&#x202F;365 als verdienstvoll und wünschte sich eine Rezension von ihm; 1767 rezensierte Herder in <link ref="allgemeine-deutsche-bib" linktext="true"/>, 5.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;224–228 und 2.&#x202F;St., S.&#x202F;74–85 <link ref="klotz" subref="klotz-carmina" linktext="true" /> und <link ref="klotz" subref="klotz-opuscula" linktext="true" /> positiv; zu den Opuscula varii argumenti schreibt Herder u.a.: „[…] Ja dieser Sammlung von 12. kleinen Stücken werden die Liebhaber der Philologie, der griechischen und lateinischen Musen, einige so schöne Aufsätze finden, daß sie sie ohne Streit nuzbare Fragmente zur Kritik des Schönen heißen werden.“
+</marginal>
+
+<marginal index="11159" letter="347" page="404" line="15">
+<bzg>Kälte zu behandeln</bzg> nicht lange darauf wird Herder wegen einer Intrige von Klotz die gesamte 2. Auflage seiner Fragmente makulieren lassen und u.a. deswegen Riga verlassen; im 2. und 3. kritischen Wäldchen wird er eine vernichtende Kritik an Klotz wissenschaftlicher Methode bringen, die gemeinsam mit Lessings Polemik gegen Klotz dessen Ruf in der Gelehrtenrepublik zerstören wird; 1771 stirbt er [dieser Kommentar ist zu Henkellike! vielleicht später bringen oder aufteilen]
 </marginal>
 
 <marginal index="11157" letter="347" page="404" line="16">
-<bzg>neuen Auflage</bzg> <link ref="herder" subref="herder-fragmente" linktext="true" />
+<bzg>neuen Auflage</bzg> <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, zweite Auflage; vgl. <intlink letter="346" page="401" line="1" linktext="true"/>
 </marginal>
 
 <marginal index="11158" letter="347" page="404" line="18">
-<bzg>Stelle</bzg> <link ref="herder" subref="herder-fragmente" linktext="true" />, Erste Sammlung, S. 157-162 (SWS I, 226-229)
+<bzg>Stelle</bzg> <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, S.&#x202F;248–250
 </marginal>
 
-<marginal index="11159" letter="347" page="404" line="20">
-<bzg>Klotz</bzg> <link ref="klotz" linktext="true"/>
+<marginal index="10705" letter="347" page="404" line="18">
+<bzg>Lobredners in der Bibliothek</bzg> wohl Herder selbst, vgl. <intlink letter="347" page="404" line="13" linktext="true"/> (mit Bibliothek ist wohl <link ref="allgemeine-deutsche-bib" linktext="true"/> gemeint, wo Herders Rezensionen von Klotz erschienen); Hamann wirft Herder hier mit seinem spöttischen Vorschlag, ihn in den Fragmenten durch Klotz zu ersetzen, literaturkritischen Opportunismus vor
 </marginal>
 
 <marginal index="11160" letter="347" page="404" line="21">
@@ -41118,7 +41132,7 @@ Brief Nr. 350
 
 Indexnummer für Briefe bis 313: weitermachen mit 9560
 Indexnummer für 314–368a:
-314–342 (Luca): 10000: weitermachen mit 10702
+314–342 (Luca): 10000: weitermachen mit 10706
 343–349 (Gregor): 11000: weitermachen mit 11295, bei Einfügungen vorher fortführen
 350-368a (Luca): 
 

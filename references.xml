@@ -5,8 +5,8 @@
 			<structureDef index="3" level="3" type="letterSection" friendlyName="Abschnitt {3}" />
 		</structureDefs>
       <personDefs> 
-			<personDef index="-1" name="Unbekannt" /> 
-			<personDef index="1" name="Johann Georg Buhmann" ref="https://d-nb.info/gnd/11854523X" vorname="Johann Georg" nachname="Hamann" komm="hamann" />
+			<personDef index="-1" name="Unbekannt" />
+			<personDef index="1" name="Johann Georg Hamann" ref="https://d-nb.info/gnd/11854523X" vorname="Johann Georg" nachname="Hamann" komm="hamann" />
 			<personDef index="2" name="Gottlob Jacob Sahme" ref="https://d-nb.info/gnd/1029749000" vorname="Gottlob Jacob" nachname="Sahme" komm="sahme-gj" />
 			<personDef index="3" name="Philipp Belger" ref="https://d-nb.info/gnd/1082265861" vorname="Philipp" nachname="Belger" komm="belger" />
 			<personDef index="4" name="Ein Studienfreund" nachname="Studienfreund" />
