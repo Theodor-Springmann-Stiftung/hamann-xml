@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><opus><definitions>
+<?xml version="1.0" encoding="utf-8"?><opus><definitions>
       <structureDefs>
 			<structureDef index="1" level="1" type="volume" friendlyName="Band {1}" />
 			<structureDef index="2" level="2" type="letter" friendlyName="Brief {2}" />
