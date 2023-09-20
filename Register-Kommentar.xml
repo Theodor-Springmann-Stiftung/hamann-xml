@@ -762,6 +762,16 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 </subsection>
 </kommentar>
 
+<kommentar id="beccaria" type="neuzeit">
+<lemma>Cesare Beccaria</lemma>
+<eintrag>1738–1794. Ital. Rechtsphilosoph der Aufklärung; Gegner von Folter und Todesstrafe.</eintrag>
+<subsection id="beccaria-verbrechen" type="neuzeit">
+<lemma>Beccaria, <titel>Von den Verbrechen und von den Strafen</titel></lemma>
+<eintrag>
+<titel>Dei delitti e delle pene</titel> (1764). Übers.: <titel>Abhandlung von den Verbrechen und Strafen</titel> nach der französischen Ausgabe übersetzt [von Albrecht Wittenberg], mit einigen Zusätzen des Verfassers die in der italienischen nicht befindlich sind (Hamburg 1766). Digitalisat: <wwwlink address="http://diglib.hab.de/drucke/rm-29/start.htm">HAB Wolfenbüttell: Rm 29</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="behm" type="neuzeit">
 <lemma>Johannes Behm</lemma>
 <eintrag>1687–1753. Prof. der Theologie und griechischen Sprache in Königsberg, siehe <wwwlink address="https://d-nb.info/gnd/139457135">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
@@ -6498,6 +6508,12 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 <kommentar id="katharina" type="neuzeit">
 <lemma>Katharina II.</lemma>
 <eintrag>1729–1796. Sophie Auguste Friederike von Anhalt-Zerbst; ab Juli 1762 russische Kaiserin.</eintrag>
+<subsection id="katharina-instruction" type="neuzeit" >
+<lemma>Katharina II, <titel>Instruction</titel></lemma>
+<eintrag>
+Katharina der Zweiten Kaiserin und Gesetzberin von Russland <titel>Instruction</titel> für die Verfertigung des Entwurfs zu einem neuen Gesetzbuche verordnete Commißion (Riga und Mitau: Hartknoch 1769). Übers. von Magister Johann Joseph Haigold [<link ref="schloezer" linktext="true" />]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564713-0">BSB München: J.rel. 1505</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="kaufmann-c" type="neuzeit">
@@ -6605,7 +6621,7 @@ Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt</wwwlink>.
 <subsection id="keralio-fables" type="neuzeit" sort="10">
 <lemma>de Kéralio, <titel>Fables de M. Gay</titel></lemma>
 <eintrag>
-<titel>Fables de M. Gay, suivies du poème de l’Éventail: le tout traduit de l’anglais par madame de Keralio</titel> (London/Paris: Duchesne 1759) Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10746575">BSB München:  P.o.angl. 132 h</wwwlink>.
+<titel>Fables de M. Gay, suivies du poème de l’Éventail: le tout traduit de l’anglais par madame de Keralio</titel> (London/Paris: Duchesne 1759). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10746575">BSB München:  P.o.angl. 132 h</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11021,6 +11037,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>1739–1810. Theologe, Lehrer am Fridericianum in Königsberg, ab 1765–1780 Rektor der Domschule in Riga.</eintrag>
 </kommentar>
 
+<kommentar id="schloezer" type="neuzeit">
+<lemma>August Ludwig Schlözer</lemma>
+<eintrag>1735–1809. Göttinger Historiker und Staatsrechtler, 1761–1770 in Russland u.a. als Adjunkt der Petersburger Akademie der Wissenschaften, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118608339.html#ndbcontent">Fleischer, Dirk: Schlözer, August Ludwig von, in: <titel>NDB</titel>&#x202F;23 (2007), S.&#x202F;98f.</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="schmid-ch" type="neuzeit">
 <lemma>Christian Heinrich Schmid</lemma>
 <eintrag>1746–1800.  Jurist, Literaturhistoriker, Übersetzer engl. Literatur, 1769 Prof. der Rechte in Erfurt, 1771 Prof. der Beredsamkeit und Dichtkunst in Gießen, vgl. <wwwlink address="https://www.deutsche-biographie.de/pnd116697105.html#adbcontent">Pröhle, Heinrich: Schmid, Christian Heinrich, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;650–655</wwwlink>.</eintrag>
@@ -11823,7 +11844,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="starck" type="neuzeit">
 <lemma>Johann August Starck</lemma>
-<eintrag>1741–1816. Evang. Theologe, 1763 Lehrer in St. Petersburg, 1769 außerordentlicher Professor der morgenländischen Sprachen in Königsberg, 1770 Zweiter Hofprediger, 1776 Oberhofprediger, Generalsuperintendent, verläßt 1777 Königsberg nach Streitigkeiten in der Fakultät, Gymnasialprofessor in Mitau, 1781 Oberhofprediger und Konsistorialrat in Darmstadt; er war 1766 heimlich in Paris konvertiert, gründete als Freimaurer das Klerikat der Templer; Hamanns Beichtvater 1775–1776, , siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink>. Spitznamen: Alexander von Adlersheim, der Hierophant</eintrag>
+<eintrag>1741–1816. Evang. Theologe, 1763 Lehrer in St. Petersburg, 1769 außerordentlicher Professor der morgenländischen Sprachen in Königsberg, 1770 Zweiter Hofprediger, 1776 Oberhofprediger, Generalsuperintendent, verläßt 1777 Königsberg nach Streitigkeiten in der Fakultät, Gymnasialprofessor in Mitau, 1781 Oberhofprediger und Konsistorialrat in Darmstadt; er war 1766 heimlich in Paris konvertiert, gründete als Freimaurer das Klerikat der Templer; Hamanns Beichtvater 1775–1776, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink>. Auch genannt: Alexander von Adlersheim, der Hierophant</eintrag>
 </kommentar>
 
 <kommentar id="staupitz" type="neuzeit">
