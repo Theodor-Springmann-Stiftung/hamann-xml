@@ -2805,11 +2805,7 @@ Dangeuil verwandte sehr frei J. Tuckers <link ref="tucker" subref="tucker-essay"
 <kommentar id="denham" type="neuzeit">
 <lemma>James Steward Denham</lemma>
 <eintrag>1712–1780. Schott. Staatswissenschaftler.</eintrag>
-<subsection id="denham-abhandlung" type="neuzeit" sort="10">
-<lemma>Denham, <titel>Abhandlung von den Grundsätzen der Münzwissenschaft</titel></lemma>
-<eintrag> <titel>Abhandlung von den Grundsätzen der Münzwissenschaft</titel> (Tübingen 1761) [Biga&#x202F;112/231: „Jam. Steuart’s Abhandlung von den Grundsaetzen der Münzwissenschaft, Tüb. 761“].
-</eintrag>
-</subsection>
+
 </kommentar>
 
 <kommentar id="descartes" type="neuzeit">
@@ -5407,13 +5403,19 @@ Von und an Herder: ungedruckte Briefe aus Herders Nachlaß; Herders Briefwechsel
 <subsection id="herder-brittgeschmack" type="neuzeit" sort="70">
 <lemma>Herder, <titel>Vom Brittischen Geschmack in Schauspielen</titel></lemma>
 <eintrag>
-<titel>Vom Brittischen Geschmack in Schauspielen</titel> (1766 für <link ref="herder" subref="herder-fragmente" linktext="true" />, 3.&#x202F;Sammlung handschriftlich verfasst, aber nicht aufgenommen). SWS II, S.&#x202F;230–233.
+<titel>Vom Brittischen Geschmack in Schauspielen</titel> (1766 für <link ref="herder" subref="herder-fragmente" linktext="true" />, 3.&#x202F;Sammlung handschriftlich verfasst, aber nicht aufgenommen). – SWS II, S.&#x202F;230–233.
 </eintrag>
 </subsection>
 <subsection id="herder-abbt" type="neuzeit" sort="80">
 <lemma>Herder, <titel>Über Thomas Abbts Schriften</titel></lemma>
 <eintrag>
 <titel>Ueber Thomas Abbts Schriften.</titel> Der Torso von einem Denkmaal, an seinem Grabe errichtet. Erstes Stück (Riga: Hartknoch 1768). – Herder: <titel>Werke</titel>, Bd.&#x202F;2: Schriften zur Ästhetik und Literatur 1767–1781, hg.&#x202F;v. Gunter E. Grimm, S.&#x202F;563–608. – Weitere, nicht veröffentlichte Teile ediert in SWS II, S.&#x202F;295–366.
+</eintrag>
+</subsection>
+<subsection id="herder-morgenland" type="neuzeit" sort="90">
+<lemma>Herder, <titel>Archäologie des Morgenlandes</titel></lemma>
+<eintrag>
+Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffentlicht, die Entwürfe vmtl. 1768/1769 geschrieben. – SWS VI, S.&#x202F;1–108, 123–128.
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
@@ -11870,7 +11872,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="steele" type="neuzeit">
 <lemma>Richard Steele</lemma>
-<eintrag>1672–1729. Irisch-britischer Schriftsteller und Komödienautor; Gründer der Zeitschriften The Tatler und The Spectator. <wwwlink address="https://www.britannica.com/biography/Richard-Steele">Mutter, Reginald P.C.: Richard Steele, in: <titel>Encyclopedia Brittannica</titel></wwwlink>.
+<eintrag>1672–1729. Irisch-britischer Schriftsteller und Komödienautor; Gründer der Zeitschriften <titel>The Tatler</titel> und <titel>The Spectator</titel>, siehe <wwwlink address="https://www.britannica.com/biography/Richard-Steele">Mutter, Reginald P.C.: Richard Steele, in: <titel>Encyclopedia Britannica</titel></wwwlink>.
 </eintrag>
 <subsection id="steele-hero" type="neuzeit" sort="10">
 <lemma>Steele, <titel>The Christian Hero</titel></lemma>
@@ -11932,6 +11934,23 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <eintrag>
 <titel>The Life and Opinions of Tristram Shandy, Gentleman.</titel> Bd. 1–2 London 1760; Bd. 3–4 1761/1762; Bd. 7–8 1765; Bd. 9 1767.<line type="break" />
 Übers.: <titel>Das Leben und die Meynungen des Herrn Tristram Shandy.</titel> 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763) [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“]. Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>.
+</eintrag>.
+</subsection>
+</kommentar>
+
+<kommentar id="steuart" type="neuzeit">
+<lemma>James Steuart</lemma>
+<eintrag>1712–1790. Schott. Ökonom und Verfechter des Merkantilismus, siehe <wwwlink address="https://www.britannica.com/biography/Sir-James-Steuart-Denham-4th-Baronet"><titel>Encyclopedia Britannica</titel></wwwlink>.</eintrag>
+<subsection id="steuart-münzwissenschaft" type="neuzeit" sort="10">
+<lemma>Steuart, <titel>Abhandlung von den Grundsätzen der Münzwissenschaft</titel></lemma>
+<eintrag> <titel>Abhandlung von den Grundsätzen der Münzwissenschaft</titel> (Tübingen 1761) [Biga&#x202F;112/231: „Jam. Steuart’s Abhandlung von den Grundsaetzen der Münzwissenschaft, Tüb. 761“].
+</eintrag>
+</subsection>
+<subsection id="steuart-politicaleconomy" type="neuzeit" sort="20">
+<lemma>Steuart, <titel>Political Economy</titel></lemma>
+<eintrag>
+<titel>An Inquiry into the Principles of Political Economy.</titel> Being an Essay on the Science of Domestic Policy in Free Nations, in which are particularly considered Population, Agriculture, Trade, Industry, Money, Coin, Interest, Circulation, Banks, Exchange, Public Credit, and Taxes (London 1767).<line type="break" />
+Übers.: Sir James Stewarts, Baronets, Untersuchung der Grund-Säze von der <titel>Staats-Wirthschaft</titel> als ein Versuch über die Wissenschaft von der Innerlichen Politik bey freyen Nationen aus dem Englischen übersezt [von Johann Gottlieb Leyser] (5 Bde., Tübingen: Cotta 1769–1772) [Biga&#x202F;112/232: „Jam. Steuart’s Untersuchung der Grundsaetze von der Staatswissenschaft, Th. I. II. ib. 769–72“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-636051">ULB Halle Il 6827</wwwlink>.
 </eintrag>.
 </subsection>
 </kommentar>
