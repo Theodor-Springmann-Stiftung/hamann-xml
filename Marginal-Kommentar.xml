@@ -40879,7 +40879,7 @@ Brief Nr. 349
 </marginal>
 
 <marginal letter="349" page="410" line="4">
-<bzg>v.1.</bzg> v.[ersus] 1.
+<bzg>v.1.</bzg> versus 1.
 </marginal>
 
 <marginal letter="349" page="410" line="9">
@@ -40939,11 +40939,11 @@ Brief Nr. 349
 </marginal>
 
 <marginal letter="349" page="412" line="30">
-<bzg>fac tuum officium</bzg> dt. Tue deine Pflicht (<link ref="terenz" linktext="true">Ter.</link> <titel>Ad.</titel> 69)
+<bzg>fac tuum officium</bzg> dt. Tue deine Pflicht (<link ref="terenz" linktext="false">Ter.</link> <titel>Ad.</titel> 69)
 </marginal>
 
 <marginal letter="349" page="412" line="34">
-<bzg>Kön. Streit.</bzg> Königsberger Streitigkeiten (die Erbauseinandersetzungen nach dem Tod von hamann-vjc)
+<bzg>Kön. Streit.</bzg> Königsberger Streitigkeiten (die Erbauseinandersetzungen nach dem Tod von <link ref="hamann-vjc" linktext="true" />)
 </marginal>
 
 <marginal letter="349" page="412" line="36">
@@ -40951,7 +40951,7 @@ Brief Nr. 349
 </marginal>
 
 <marginal letter="349" page="412" line="37">
-<bzg>Lindners Zurücksetzung</bzg> dem Verriss von <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> in <link ref="klotz" linktext="false">Klotz’</link> <link ref="deutsche-bibliothek" linktext="false">Deutscher Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;50–60, vgl. <intlink letter="347" page="404" line="2" linktext="true" />
+<bzg>Lindners Zurücksetzung</bzg> der Verriss von <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> in <link ref="klotz" linktext="false">Klotz’</link> <link ref="deutsche-bibliothek" linktext="false">Deutscher Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;50–60, vgl. <intlink letter="347" page="404" line="2" linktext="true" />
 </marginal>
 
 <marginal letter="349" page="413" line="10" sort="1">
@@ -40967,18 +40967,15 @@ Brief Nr. 349
 </marginal>
 
 <marginal letter="349" page="413" line="14" sort="1">
-<bzg>Klotzische Narr</bzg> Herder vermutet, wie Hamann in seiner Rezension,
-denselben Kritiker Lindners unter der Sigle Dtsch [= Klotz] in Klotz' Deutsche Bibliothek der schönen
-Wissenschaften und der Rezension in der Bibliothek der schönen Wissenschaften durch Riedel (=der
-Klotzische Narr). ?!?
+<bzg>Klotzische Narr</bzg> vmtl. <link ref="riedel" linktext="true" />, der <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> in <link ref="weise" subref="weise-bibliothek" linktext="true" />, Bd.&#x202F;5, 2.&#x202F;St. (1767), S.&#x202F;333–341 negativ rezensierte und ein Anhänger von <link ref="klotz" linktext="true" /> war (die Rezension ist mit „R“ unterschrieben)
 </marginal>
 
 <marginal letter="349" page="413" line="14" sort="2">
-<bzg>sch. W.</bzg> <link ref="deutsche-bibliothek" linktext="true" /> 
+<bzg>Bibliothekar der sch. W.</bzg> wohl <link ref="klotz" linktext="true" />, den Herder hinter der Sigle „Dtsch“ in der Rezension in <link ref="deutsche-bibliothek" linktext="false">Deutscher Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;50–60 vermutet
 </marginal>
 
 <marginal letter="349" page="413" line="20">
-<bzg>Hällischen</bzg> <link ref="deutsche-bibliothek" linktext="true" /> erscheint in Halle
+<bzg>Hällischen</bzg> die <link ref="deutsche-bibliothek" linktext="true" /> erscheint in Halle
 </marginal>
 
 <marginal letter="349" page="413" line="21">
@@ -40986,34 +40983,38 @@ Klotzische Narr). ?!?
 </marginal>
 
 <marginal letter="349" page="413" line="22">
-<bzg>Rath Kl. Ihre Stelle</bzg> 404,16ff. ?!?
+<bzg>Rath Kl. Ihre Stelle</bzg> vgl. <intlink letter="347" page="404" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="349" page="413" line="23">
-<bzg>Note</bzg> vgl. SWS I,226ff.
+<bzg>Note…</bzg> die Passage über Hamann in <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, zweite Auflage wurde nur leicht verändert und mit einer Anmerkung gegen <link ref="klotz" linktext="true" /> bzw. <link ref="riedel" linktext="true" /> versehen (vgl. zu dieser SWS I, S.&#x202F;227)
+</marginal>
+
+<marginal letter="349" page="413" line="27">
+<bzg>Esel</bzg> <link ref="klotz" linktext="true" /> bzw. <link ref="riedel" linktext="true" />
 </marginal>
 
 <marginal letter="349" page="413" line="29">
-<bzg>Torso über Abbt</bzg> vgl. SWS II,249ff.
+<bzg>Torso über Abbt</bzg> <link ref="herder" subref="herder-abbt" linktext="true" />
 </marginal>
 
 <marginal letter="349" page="413" line="30">
-<bzg>Lebensbeschreiber</bzg> Friedrich Nicolai in seinem Ehrengedächtniß, Berlin 1767
+<bzg>Lebensbeschreiber</bzg> <link ref="nicolai-f" subref="nicolai-abbt" linktext="true" />
 </marginal>
 
 <marginal letter="349" page="413" line="31">
-<bzg>Berl. Zeit.schr.</bzg> Berl.[iner] Zeit[ungs]schreib.[er], gemeint ist <link ref="nicolai-f" linktext="true" />
+<bzg>Berl. Zeit.schr.</bzg> Berliner Zeitungsschreiber, gemeint ist wiederum <link ref="nicolai-f" linktext="true" />
 </marginal>
 
 <marginal letter="349" page="413" line="33">
-<bzg>Werke</bzg> Abbts Vermischte Werke, die ab 1768 erscheinen
-</marginal>
-
-<marginal letter="349" page="413" line="34" sort="2">
-<bzg>Htkn.</bzg> <link ref="hartknoch" linktext="true" />
+<bzg>Werke</bzg> wohl die <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:45:1-2826">Vermischten Werke</wwwlink> von <link ref="abbt" linktext="true" />, die ab 1768 erscheinen
 </marginal>
 
 <marginal letter="349" page="413" line="34" sort="1">
+<bzg>Htkn.</bzg> <link ref="hartknoch" linktext="true" />; vgl. Hamanns Beschwerde <intlink letter="348" page="407" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="349" page="413" line="34" sort="2">
 <bzg>Polypragmatischen Müßiggange</bzg> Anspielung auf <link ref="schlegel-je" subref="schlegel-muessig" linktext="true" /> 
 </marginal>
 
@@ -41038,7 +41039,7 @@ Klotzische Narr). ?!?
 </marginal>
 
 <marginal letter="349" page="414" line="8">
-<bzg>Myster</bzg> Myster[ium]
+<bzg>Myster</bzg> Mysterium
 </marginal>
 
 <marginal letter="349" page="414" line="11">
@@ -41046,11 +41047,7 @@ Klotzische Narr). ?!?
 </marginal>
 
 <marginal letter="349" page="414" line="13">
-<bzg>Winkelmann</bzg> Winckelmanns Brief an Paul Usteri v. 2. Januar 1768, der Bezug nimmt auf Ueber die neuere Deutsche Litteratur, vgl. SWS I,293f. ?!?
-</marginal>
-
-<marginal letter="349" page="414" line="15">
-<bzg>Pindarischen</bzg> <link ref="pindar" linktext="true" />
+<bzg>Winkelmann</bzg> Winckelmanns Brief an Paul Usteri vom 2. Januar 1768, vgl. <link ref="winckelmann" subref="winckelmann-briefe" linktext="true" />, S.&#x202F;204: „Bey dieser Gelegenheit bitte ich dem Pindarischen Verfasser meines Lobes, in den sogenannten Fragmenten über die neue deutsche Litteratur, meinen allerverbindlichsten Dank abzustatten. Denn ich entdecke in der Schreibart einen Schweizer, und ich kan also vermuthen daß Euch derselbe bekannt seyn müsse“; er nimmt Bezug auf <link ref="herder" subref="herder-fragmente" linktext="true" />, S.&#x202F;310; vgl. auch <intlink letter="350" page="418" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="349" page="414" line="16">
@@ -41058,9 +41055,7 @@ Klotzische Narr). ?!?
 </marginal>
 
 <marginal letter="349" page="414" line="17">
-<bzg>Jenische Zeitung</bzg> Jenaische Zeitungen von gelehrten Sachen. Jena 1765/86, ab 1782 Jenaische gelehrte Zeitung, ab
-1787 Jenaische Gelehrte Anzeigen. https://zs.thulb.uni-jena.de/receive/jportal_jpjournal_00000055?XSL.referer=jportal_jpvolume_00058252
-Im 76 St. v. 21.9.1767, S. 630, (Ch. A. Clodius, Versuche aus der Literatur und Moral) heißt es: „Unser Seculum künstelt zu sehr, und unsere meisten Schriftsteller geben uns, statt Goldes, Email auf Kupfer. Man erinnere sich an einen Plinius und Seneca, verglichen mit Abbt und Herder, vielleicht kan man daraus das Metall unsers Jahrhunderts bestimmen.“  ?!?
+<bzg>Stücke voruas</bzg> <link ref="jenaische-Zeitungen" linktext="true" />, 76&#x202F;St. vom 21.9.1767, S.&#x202F;630 (Rezension über <link ref="clodius-ca-versuche" linktext="true" />) heißt es: „Unser Seculum künstelt zu sehr, und unsere meisten Schriftsteller geben uns, statt Goldes, Email auf Kupfer. Man erinnere sich an einen Plinius und Seneca, verglichen mit Abbt und Herder, vielleicht kan man daraus das Metall unsers Jahrhunderts bestimmen.“
 </marginal>
 
 <marginal letter="349" page="414" line="18">
@@ -41068,11 +41063,7 @@ Im 76 St. v. 21.9.1767, S. 630, (Ch. A. Clodius, Versuche aus der Literatur und 
 </marginal>
 
 <marginal letter="349" page="414" line="20">
-<bzg>Bedlam</bzg> Londoner Irrenhaus
-</marginal>
-
-<marginal letter="349" page="414" line="21">
-<bzg>eines andern Buchs</bzg> nicht ermittelt
+<bzg>Bedlam</bzg> Londoner Irrenhaus; in der Rezension der <link ref="jenaische-Zeitungen" linktext="true" />, 21&#x202F;St. vom 11.3.1767, S.&#x202F;172f. über <link ref="deutsche-bibliothek" linktext="true"/> heißt es über Herder: „Herders Fragmente. Dritter Theil. Wir hoffen zu Gott, daß dieser Hr Herder, wenn ihm dereinst der Taumel vergangen ist, noch ein vortreflicher Schriftsteller werden wird.“
 </marginal>
 
 <marginal letter="349" page="414" line="22" sort="1">
@@ -41109,7 +41100,7 @@ dem Weg nach St. Petersburg, Herder besucht
 </marginal>
 
 <marginal letter="349" page="414" line="37">
-<bzg>mit meinem Namen</bzg> anders als die anonym veröffentlichten <link ref="herder" subref="herder-fragmente" linktext="true" /> 
+<bzg>mit meinem Namen</bzg> anders als die anonym veröffentlichten <link ref="herder" subref="herder-fragmente" linktext="false"><titel>Fragmente über die neuere Deutsche Literatur</titel></link> 
 </marginal>
 
 Brief Nr. 350

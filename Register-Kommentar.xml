@@ -2406,9 +2406,9 @@ Siehe dazu <link ref="bodmer" subref="bodmer-helena" linktext="true" />.
 <eintrag>1592–1670. Theologe und Pädagoge sowie Bischof der Unität der Böhmischen Brüder aus der Markgrafschaft Mähren, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35443.html#adbcontent">Baur, G.: Comenius, Johann, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;431–436</wwwlink>.<line type="break" />
 Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“</eintrag>
 <subsection id="comenius-orbispictus" type="neuzeit">
-<lemma>Commerell, <titel>Orbis sensualium pictus</titel></lemma>
+<lemma>Comenius, <titel>Orbis sensualium pictus</titel></lemma>
 <eintrag>
-<titel>Orbis sensualium pictus</titel> (Nürnberg: Endter 1758).</eintrag>
+<titel>Orbis sensualium pictus</titel> (Nürnberg: Endter 1658).</eintrag>
 </subsection>
 </kommentar>
 
@@ -6103,6 +6103,11 @@ J
 </subsection>
 </kommentar>
 
+<kommentar id="jenaische-Zeitungen" type="neuzeit">
+<lemma>Jenaische Zeitungen von gelehrten Sachen</lemma>
+<eintrag>1749–1786 in Jena bei Cröcker erschienen. Organ der Jenaer Universität und der Deutschen und der Lateinischen Gesellschaft (auch Jenaische gelehrte/Gelehrte Zeitungen). Digitalisat: <wwwlink address="https://zs.thulb.uni-jena.de/receive/jportal_jpjournal_00000055">Jenaische gelehrte Zeitungen (Thüringer Universitäts- und Landesbibliothek)</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="jephson" type="neuzeit">
 <lemma>Alexander Jephson</lemma>
 <eintrag>Lebensdaten nicht ermittelt.</eintrag>
@@ -9231,6 +9236,12 @@ N
 <eintrag>1733–1811. Schriftsteller, Verlagsbuchhändler, Kritiker; Mitherausgeber u.a. von <link ref="briefe-literatur" linktext="true" />, <link ref="bibl-wiss-kuenste" linktext="true" /> und der Allgemeinen deutschen Bibliothek; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118587668.html#adbcontent">Muncker, Franz: Nicolai, Friedrich, in: <titel>ADB</titel>&#x202F;23 (1886), S.&#x202F;580–590</wwwlink>.<line type="break" />
 Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. Falk, I. Gombocz, H.-G. Roloff und J. Weber (Bern/Stuttgart 1991ff.)
 </eintrag>
+<subsection id="nicolai-abbt" type="neuzeit">
+<lemma>Nicolai, <titel>Ehrengedächtnis Herrn Thomas Abbt</titel></lemma>
+<eintrag>
+<titel>Ehrengedächtnis Herrn Thomas Abbt.</titel> An Herrn D. Johann George Zimmermann von Friedrich Nicolai (Berlin/Stettin 1767). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10887644-5">BSB München: Res/4 Biogr. 275,1</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="nicolai-g" type="neuzeit">
@@ -13343,6 +13354,12 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <lemma>Winckelmann, <titel>Versuch einer Allegorie</titel></lemma>
 <eintrag>
 <titel>Versuch einer Allegorie</titel>, besonders für die Kunst (Dresden 1766).
+</eintrag>
+</subsection>
+<subsection id="winckelmann-briefe" type="neuzeit" sort="100">
+<lemma>Winckelmann, <titel>Briefe an seine Freunde in der Schweiz</titel></lemma>
+<eintrag>
+<titel>Winckelmanns Briefe an seine Freunde in der Schweiz</titel> (Zürich 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10404286-3">BSB München: Epist. 953 b</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
