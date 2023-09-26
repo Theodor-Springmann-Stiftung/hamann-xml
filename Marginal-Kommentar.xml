@@ -41354,11 +41354,11 @@ Brief Nr. 351
 <bzg>Kanterschen Buchladen</bzg> <link ref="kanter-jj" linktext="true" />
 </marginal>
 
-<marginal letter="351" page="419" line="10">
+<marginal letter="351" page="419" line="10" sort="1">
 <bzg>libiren</bzg> Libation, Trankopfer darbringen
 </marginal>
 
-<marginal letter="351" page="419" line="10">
+<marginal letter="351" page="419" line="10" sort="2">
 <bzg>L.</bzg> <link ref="lindner-jg" linktext="true" />
 </marginal>
 
@@ -41394,7 +41394,7 @@ Brief Nr. 351
 <bzg>Kanter…</bzg> <link ref="kanter-jj" linktext="true" />; Kanters neuen Laden im Königsberger Rathaus oder wo das war? Gregor?!? [Henkel: das löbenichtsche Rathaus brannte 1764 und wurde in den folgenden Jahren mit Hinzunahme benachbarter Grundstücke neu aufgebaut. Es war im Besitz des Magistrat, der es in einzelnen Teilen, so eben an K., vermietete.]
 </marginal>
 
-<marginal letter="351" page="419" line="26" sort="2">
+<marginal letter="351" page="419" line="26" sort="3">
 <bzg>Königes von Berlin</bzg> <link ref="friedrich-II" linktext="true" />
 </marginal>
 
@@ -41486,11 +41486,11 @@ Brief Nr. 351
 <bzg>Leßings Briefwechsel</bzg> <link ref="lessing" subref="lessing-klotzbriefe" linktext="true" />
 </marginal>
 
-<marginal letter="351" page="420" line="32"> 
+<marginal letter="351" page="420" line="32" sort="1"> 
 <bzg>Laocoons</bzg> <link ref="lessing" subref="lessing-laokoon" linktext="true" /> (ein zweiter Teil erschien nie)
 </marginal>
 
-<marginal letter="351" page="420" line="32"> 
+<marginal letter="351" page="420" line="32" sort="2"> 
 <bzg>Mendelsohns Phädon</bzg> <link ref="mendelssohn" subref="mendelssohn-phaedon" linktext="true" />; die Erstausgabe erschien 1767, <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074319-2">eine vermehrte und verbesserte Auflage 1768</wwwlink>
 </marginal>
 
@@ -41507,7 +41507,7 @@ Brief Nr. 351
 </marginal>
 
 <marginal letter="351" page="421" line="6" sort="1"> 
-<bzg>Kantens Metaphysik der Moral</bzg>
+<bzg>Kantens Metaphysik der Moral</bzg> vgl. die Briefstelle
 </marginal>
 
 Brief Nr. 353
