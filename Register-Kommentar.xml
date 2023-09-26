@@ -1841,6 +1841,17 @@ C
 <eintrag>1469–1534. Päpstlicher Legat.</eintrag>
 </kommentar>
 
+<kommentar id="camoens" type="neuzeit">
+<lemma>Luís de Camões</lemma>
+<eintrag>1524/1525–1680. Portugiesischer Nationaldichter, siehe <wwwlink address="https://theodora.com/encyclopedia/c/luis_vaz_de_camoens.html">Encyclopedia Britannica 1911</wwwlink>.</eintrag>
+<subsection id="camoens-lusiadas" type="neuzeit">
+<lemma>Camões, <titel>Os Lusíadas</titel></lemma>
+<eintrag>
+<titel>Os Lusíadas</titel> de Luis de Camões (Lissabon 1572) [Biga &#x202F;172/683: „Os Lusiados do Grande Luis de Camoens, Principe dos Poetas di Hispanha, com os Argumentos do Licentiado Joam Franco Barreto &#x26; Index de todos os Nomes proprios.“]. 
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="campanella" type="neuzeit">
 <lemma>Thomas Campanella</lemma>
 <eintrag>1568–1639. Ital. Dominikaner, Naturphilosoph.</eintrag>
@@ -5188,7 +5199,18 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <titel>Historia litteraria Reformationis in honorem iubilaei anno MDCCXVII constans quinque partibus ... Omnia rara, partim manuscripta, cum introductionibus Hermanni von der Hardt ... et indicibus locupletissimis</titel> (5&#xA0;Tl., Frankfurt: Renger 1717).
 </eintrag>
 </subsection>
-</kommentar> 
+</kommentar>
+
+<kommentar id="harris" type="neuzeit">
+<lemma>James Harris</lemma>
+<eintrag>1709–1780. Engl. Gelehrter, siehe <wwwlink address="https://www.theodora.com/encyclopedia/h/james_harris.html">Encyclopedia Britannica 1911</wwwlink>.</eintrag>
+<subsection id="harris-hermes" type="neuzeit">
+<lemma>Harris, <titel>Hermes</titel></lemma>
+<eintrag>
+<titel>Hermes,</titel> or a philosophical inquiry concerning language and universal grammar by James Harris (editio princeps London 1751). Biga&#x202F;124/365: „Hermes or a philosophical Inquiry concerning universal grammar by Jam. Harris, Lond. 765“. Digitalisat der 4. Aufl. 1786: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10582923-2">BSB München: L.gen. 36 x</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="hartknoch" type="neuzeit">
 <lemma>Johann Friedrich Hartknoch</lemma>
@@ -8084,6 +8106,16 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 <kommentar id="magnier" type="neuzeit">
 <lemma>Toussaint Magnier</lemma>
 <eintrag>Frz. Beamter in Königsberg und Direktor der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" /> von 1766–1774; Hamanns Vorgesetzter (ab 1774 „Unterregisseur in Westpreußen“, im Dezember 1776 wegen „Impertinenz“ entlassen; vgl. Königliche Akademie der Wissenschaften (Hrsg.): Acta Borussica. Denkmäler der Preußischen Staatsverwaltung im 18. Jahrhundert (38 Bde.). Berlin 1892 ff., III,1, S.&#x202F;251.).</eintrag>
+</kommentar>
+
+<kommentar id="maibom" type="neuzeit">
+<lemma>Marcus Maibom</lemma>
+<eintrag>1630–1710. Dän. Altphilologe und Musiktheoretiker.</eintrag>
+<subsection id="maibom-musicae" type="neuzeit">
+<lemma>Maibom, <titel>Antiquae Musicae Auctores</titel></lemma>
+<eintrag>
+<titel>Antiqvae Mvsicae Avctores Septem.</titel> Graece et Latine. Marcvs Meibomivs Restituit ac Notis explicavit (2 Bde., Amsterdam: Elzevir 1652) [Biga&#x202F;5/81: „Antiquae Musicae Autores gr. &#x26; lat. ex ed. Meibomii Vol. I. II. Amst. 652.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10216597-0">BSB München: 4 A.gr.c. 31-1/2</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="mailly-l" type="neuzeit">
@@ -11980,7 +12012,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <kommentar id="steuart" type="neuzeit">
 <lemma>James Steuart</lemma>
 <eintrag>1712–1790. Schott. Ökonom und Verfechter des Merkantilismus, siehe <wwwlink address="https://www.britannica.com/biography/Sir-James-Steuart-Denham-4th-Baronet"><titel>Encyclopedia Britannica</titel></wwwlink>.</eintrag>
-<subsection id="steuart-münzwissenschaft" type="neuzeit" sort="10">
+<subsection id="steuart-muenzwissenschaft" type="neuzeit" sort="10">
 <lemma>Steuart, <titel>Abhandlung von den Grundsätzen der Münzwissenschaft</titel></lemma>
 <eintrag> <titel>Abhandlung von den Grundsätzen der Münzwissenschaft</titel> (Tübingen 1761) [Biga&#x202F;112/231: „Jam. Steuart’s Abhandlung von den Grundsaetzen der Münzwissenschaft, Tüb. 761“].
 </eintrag>
@@ -13031,7 +13063,13 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <subsection id="voltaire-oncle" type="neuzeit" sort="210">
 <lemma>Voltaire, <titel>Defense à mon oncle</titel></lemma>
 <eintrag>
-<titel>La Defense à mon oncle</titel> (Genf 1767) [Biga&#x202F;150/349: „La Defense de mon Oncle.“]. Digitalisat: <wwwlink address="https://archive.org/details/ladefensedemonon00volt/page/n3/mode/2up">Internet Archive</wwwlink>
+<titel>La Defense à mon oncle</titel> (Genf 1767) [Biga&#x202F;150/349: „La Defense de mon Oncle.“]. Digitalisat: <wwwlink address="https://archive.org/details/ladefensedemonon00volt/page/n3/mode/2up">Internet Archive</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="voltaire-ecus" type="neuzeit" sort="220">
+<lemma>Voltaire, <titel>L’Homme aux quarante écus</titel></lemma>
+<eintrag>
+<titel>L’Homme aux quarante écus</titel> (London 1768) [Biga&#x202F;148/313: „L’homme à 40 Ecus, Londr. 768“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-239798">ULB Halle: AB 112535</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
