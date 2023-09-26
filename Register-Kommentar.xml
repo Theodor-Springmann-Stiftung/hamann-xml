@@ -1305,6 +1305,10 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <lemma>Bodmer, <titel>Ulysses, Telemachs Sohn</titel></lemma>
 <eintrag><titel>Ulysses, Telemachs Sohn: ein Trauerspiel, nach einer neuen Ausbildung</titel> (Wien und Leipzig: Jahn 1760). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11264443">SSB Augsburg: LG 1228#(Beibd. 4</wwwlink>.</eintrag>
 </subsection>
+<subsection id="bodmer-archiv" type="neuzeit" sort="100">
+<lemma>Bodmer (Hg.), <titel>Archiv der schweitzerischen Kritick</titel></lemma>
+<eintrag><titel>Archiv der schweitzerischen Kritick.</titel> Von der Mitte des Jahrhunderts bis auf gegenwärtige Zeiten (1 Bd., Zürich 1768). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN721920209">SUB Göttingen</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="bogatzky" type="neuzeit">
@@ -1392,6 +1396,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <kommentar id="boltz" type="neuzeit">
 <lemma>Theodor Boltz</lemma>
 <eintrag>1680–1764. Jurist, Bürgermeister von Königsberg 1750–53.</eintrag>
+</kommentar>
+
+<kommentar id="bondeli-fj" type="neuzeit">
+<lemma>Friedrich Julius Baron von Bondeli</lemma>
+<eintrag>1702–1771. Tribunalrat in Königsberg, bei dem Hamann von Mitte August 1768–1770 wohnte.</eintrag>
 </kommentar>
 
 <kommentar id="borde" type="neuzeit">
@@ -1805,11 +1814,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <eintrag>1724–1793. Evang. Theologe und Geograph.</eintrag>
 <subsection id="busching-denkmal-Stegelmann" type="neuzeit" sort="10">
 <lemma>Büsching, <titel>Denkmal für Stegelmann</titel></lemma>
-<eintrag><titel>Die St. Peters-Schule stiftet ihrem grossen Wohlthäter, dem Hochedelgebohrnen Herrn, Herrn Heinrich Christian Stegelmann, Kaiserlichem Hof- und Cammer-Factorn, berühmtem Kaufmanne und höchstverdientem Aeltesten der Evangelischen St. Peters-Gemeine, dieses Denkmahl ihrer dankbaren Hochachtung durch die pflichtmäßige Bemühung ihres Directors D. Anton Friederich Büschings</titel> (St. Petersburg 1763). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN61701471X">SUB Göttingen: H. lit. part. I 8643</wwwlink></eintrag>
+<eintrag><titel>Die St. Peters-Schule stiftet ihrem grossen Wohlthäter, dem Hochedelgebohrnen Herrn, Herrn Heinrich Christian Stegelmann, Kaiserlichem Hof- und Cammer-Factorn, berühmtem Kaufmanne und höchstverdientem Aeltesten der Evangelischen St. Peters-Gemeine, dieses Denkmahl ihrer dankbaren Hochachtung durch die pflichtmäßige Bemühung ihres Directors D. Anton Friederich Büschings</titel> (St. Petersburg 1763). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN61701471X">SUB Göttingen: H. lit. part. I 8643</wwwlink>.</eintrag>
 </subsection>
 <subsection id="busching-gelehrte-abhandlungen" type="neuzeit" sort="20">
 <lemma>Büsching, <titel>Gelehrte Abhandlungen und Nachrichten aus und von Rußland</titel></lemma>
-<eintrag><titel>Gelehrte Abhandlungen und Nachrichten aus und von Rußland, geliefert von der Schule der Sprachen, Künste und Wissenschaften bey der evangelischen St. Peterskirche zu St. Petersburg, und herausgegeben von derselben Director D. Anton Friedrich Büsching</titel> (2 Bde., Leipzig, Königsberg und Mitau: Kanter 1764–1765). Digitalisat: Tl. 1 (1764): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10731616-0">BSB München: H.lit.p. 74-1,1/2</wwwlink>; Tl. 2 (1765): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10731617-6">BSB München: H.lit.p. 74-1,1/2</wwwlink></eintrag>
+<eintrag><titel>Gelehrte Abhandlungen und Nachrichten aus und von Rußland, geliefert von der Schule der Sprachen, Künste und Wissenschaften bey der evangelischen St. Peterskirche zu St. Petersburg, und herausgegeben von derselben Director D. Anton Friedrich Büsching</titel> (2 Bde., Leipzig, Königsberg und Mitau: Kanter 1764–1765). Digitalisat: Tl. 1 (1764): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10731616-0">BSB München: H.lit.p. 74-1,1/2</wwwlink>; Tl. 2 (1765): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10731617-6">BSB München: H.lit.p. 74-1,1/2</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -1836,6 +1845,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </kommentar>
 
 C
+<kommentar id="caesar" type="neuzeit">
+<lemma>Gaius Julius Cäsar</lemma>
+<eintrag>100–44 v. Chr.</eintrag>
+</kommentar>
+
 <kommentar id="cajetan" type="neuzeit">
 <lemma>Thomas Cajetan</lemma>
 <eintrag>1469–1534. Päpstlicher Legat.</eintrag>
@@ -3095,6 +3109,18 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 </subsection>
 </kommentar>
 
+<kommentar id="duff" type="neuzeit">
+<lemma>William Duff</lemma>
+<eintrag>1732–1815. Schottischer Presbyterianer und Schriftsteller.
+</eintrag>
+<subsection id="duff-genius" type="neuzeit">
+<lemma>Duff, <titel>An essay on original genius;</titel> and its various modes of exertion in philosophy and the fine arts, particularly in poetry</lemma>
+<eintrag>
+<titel>An essay on original genius;</titel> and its various modes of exertion in philosophy and the fine arts, particularly in poetry (London 1767) [Biga&#x202F;118/293: „(Will. Duff’s) Essay on original Genius and its various Modes of exertion in Philosophy and the fine Arts, Lond. 767“]. Digitalisat: <wwwlink address="https://archive.org/details/essayonoriginalg00duffiala">Internet Archive</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="dufour" type="neuzeit">
 <lemma>Joseph Dufour</lemma>
 <eintrag>Frz. Dominikaner. Lebensdaten nicht ermittelt. 
@@ -3224,7 +3250,7 @@ E
 
 <kommentar id="ebert-ja" type="neuzeit">
 <lemma>Johann Arnold Ebert</lemma>
-<eintrag>1723–1795. Übersetzer u.a. der Werke <link ref="young" linktext="false">E. Youngs</link>; siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd100116523.html#adbcontent">Creizenach, Wilhelm: Ebert, Arnold, in: <titel>ADB</titel>&#x202F;5 (1877), S.&#x202F;586f</wwwlink>.
+<eintrag>1723–1795. Schriftsteller, Professor und Übersetzer in Braunschweig, u.a. der Werke von <link ref="young" linktext="true"/>, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd100116523.html#adbcontent">Creizenach, Wilhelm: Ebert, Arnold, in: <titel>ADB</titel>&#x202F;5 (1877), S.&#x202F;586f</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -4217,6 +4243,12 @@ der Litteratur, Th. I. Schlesw. 767“]. Digitalisat: <wwwlink address="https://
 </subsection>
 </kommentar>
 
+<kommentar id="gervais" type="neuzeit">
+<lemma>Heinrich Daniel Gervais</lemma>
+<eintrag>1721–1779. Arzt und Regimentschirurgus in Königsberg.
+</eintrag>
+</kommentar>
+
 <kommentar id="gesner-k" type="neuzeit">
 <lemma>Konrad Gesner</lemma>
 <eintrag>1516–1565. Prof. der Philosophie in Zürich; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118694413.html#adbcontent">Mähly: Gesner, Konrad, in: <titel>ADB</titel>&#x202F;9 (1879), S.&#x202F;107–120</wwwlink>.
@@ -5109,7 +5141,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hamann-jc" type="neuzeit">
 <lemma>Johann Christoph Hamann (Bruder)</lemma>
-<eintrag>1732–1778. Bruder von <link ref="hamann" linktext="true" />, ab 1758 Lehrer in Riga, 1761–1765 im Löbenicht in Königsberg; litt zunehmend an einer psychischen Krankheit („Melancholie“) und musste wegen seiner geistiger Behinderung in <link ref="hamann" linktext="false">Hamanns</link> Haushalt gepflegt werden.</eintrag>
+<eintrag>1732–1778. Bruder von <link ref="hamann" linktext="true" />, ab 1758 Lehrer in Riga, 1761–1765 im Löbenicht in Königsberg; litt zunehmend an einer psychischen Krankheit („Melancholie“) und musste wegen seiner geistigen Behinderung in <link ref="hamann" linktext="false">Hamanns</link> Haushalt gepflegt werden.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-jm" type="neuzeit">
@@ -5146,6 +5178,11 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <kommentar id="hamb-correspondenten" type="neuzeit">
 <lemma>Staats- und gelehrte Zeitung des Hamburgischen unpartheyischen Correspondenten</lemma>
 <eintrag>Die erste in Hamburg regelmäßig erscheinende deutschspr. Tageszeitung; ab 1724 von Hermann Heinrich Hollen unter diesem Titel verlegt (zuvor: <titel>Holsteinischer Correspondent</titel>), ab 1731 war der Verleger Georg Christian Grund, nach ihm blieb die Zeitung im Besitz der Grundschen Erben.</eintrag>
+</kommentar>
+
+<kommentar id="hamb-neuezeitungen" type="neuzeit">
+<lemma>Kaiserlich privilegirte Hamburgische neue Zeitung</lemma>
+<eintrag>Herausgegeben 1767–1806.</eintrag>
 </kommentar>
 
 <kommentar id="hamilton" type="neuzeit">
@@ -5207,7 +5244,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <subsection id="harris-hermes" type="neuzeit">
 <lemma>Harris, <titel>Hermes</titel></lemma>
 <eintrag>
-<titel>Hermes,</titel> or a philosophical inquiry concerning language and universal grammar by James Harris (editio princeps London 1751). Biga&#x202F;124/365: „Hermes or a philosophical Inquiry concerning universal grammar by Jam. Harris, Lond. 765“. Digitalisat der 4. Aufl. 1786: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10582923-2">BSB München: L.gen. 36 x</wwwlink>.
+<titel>Hermes,</titel> or a philosophical inquiry concerning language and universal grammar by James Harris (editio princeps London 1751) [Biga&#x202F;124/365: „Hermes or a philosophical Inquiry concerning universal grammar by Jam. Harris, Lond. 765“]. Digitalisat der 4. Aufl. 1786: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10582923-2">BSB München: L.gen. 36 x</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -5457,7 +5494,7 @@ Von und an Herder: ungedruckte Briefe aus Herders Nachlaß; Herders Briefwechsel
 <titel>Vom Brittischen Geschmack in Schauspielen</titel> (1766 für <link ref="herder" subref="herder-fragmente" linktext="true" />, 3.&#x202F;Sammlung handschriftlich verfasst, aber nicht aufgenommen). – SWS II, S.&#x202F;230–233.
 </eintrag>
 </subsection>
-<subsection id="herder-abbt" type="neuzeit" sort="80">
+<subsection id="herder-torso" type="neuzeit" sort="80">
 <lemma>Herder, <titel>Über Thomas Abbts Schriften</titel></lemma>
 <eintrag>
 <titel>Ueber Thomas Abbts Schriften.</titel> Der Torso von einem Denkmaal, an seinem Grabe errichtet. Erstes Stück (Riga: Hartknoch 1768). – Herder: <titel>Werke</titel>, Bd.&#x202F;2: Schriften zur Ästhetik und Literatur 1767–1781, hg.&#x202F;v. Gunter E. Grimm, S.&#x202F;563–608. – Weitere, nicht veröffentlichte Teile ediert in SWS II, S.&#x202F;295–366.
@@ -6881,6 +6918,12 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <titel>Beitrag zur Geschichte des Geschmacks und der Kunst aus Münzen</titel> (Altenburg 1767) [Biga&#x202F;147/290: „Klotzens Beytrag zur Geschichte des Geschmacks und der Kunst aus Münzen, Alt. 767.“]. Digitalisat: <wwwlink address="https://books.google.de/books?vid=RMS:RMS2lBIS000000209%24%24%24R">Google Books</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="klotz-steine" type="neuzeit" sort="60">
+<lemma>Klotz, <titel>Über den Nutzen und Gebrauch der alten geschnittenen Steine und ihrer Abdrücke</titel></lemma>
+<eintrag>
+<titel>Ueber den Nutzen und Gebrauch der alten geschnittenen Steine und ihrer Abdrücke.</titel> von Herrn Klotz (Altenburg 1768) [Biga&#x202F;153/403: „Klotz über den Nutzen und Gebrauch der alten geschnittenen Steine und ihrer Abdrücke, Alt. 768.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10256984-0">BSB München: Arch. 71</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="klueter" type="neuzeit">
@@ -7514,10 +7557,16 @@ Die Verf. weisen nach, dass <link ref="pope" linktext="false">Popes</link> Dicht
 <subsection id="lessing-dramaturgie" type="neuzeit" sort="80">
 <lemma>Lessing, <titel>Hamburgische Dramaturgie</titel></lemma>
 <eintrag>
-<titel>Hamburgische Dramaturgie.</titel> 2 Bde. (Hamburg: Cramer 1767 und 1769). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:kobv:b4-200905199676">HAB Wolfenbüttel: M: Lo 4579,1/2</wwwlink>
+<titel>Hamburgische Dramaturgie.</titel> 2 Bde. (Hamburg: Cramer 1767 und 1769). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:kobv:b4-200905199676">HAB Wolfenbüttel: M: Lo 4579,1/2</wwwlink>.
 </eintrag>
 </subsection>
-</kommentar>
+<subsection id="lessing-klotzbriefe" type="neuzeit" sort="90">
+<lemma>Lessing, <titel>Briefe von Herrn Leßing und Herrn Klotz betreffend des erstern Laokoon und des letztern Werk von alten geschnittenen Steinen</titel></lemma>
+<eintrag>
+<titel>Briefe von Herrn Leßing und Herrn Klotz, betreffend des erstern Laokoon und des letztern Werk von alten geschnittenen Steinen</titel> (Leipzig 1768). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10257075-2">BSB München: Arch. 76</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>Briefe von Herrn Leßing und Herrn Klotz betreffend des erstern Laokoon und des letztern Werk von alten geschnittenen Steinen
 
 <kommentar id="leusden" type="neuzeit">
 <lemma>Johann Leusden</lemma>
@@ -8650,8 +8699,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <subsection id="mendelssohn-phaedon" type="neuzeit" sort="50">
 <lemma>Mendelssohn, <titel> Phaedon oder Ueber die Unsterblichkeit der Seele</titel></lemma>
 <eintrag>
-<titel>Phaedon oder Ueber die Unsterblichkeit der Seele, in drey Gesprächen</titel> (Berlin, Stettin: Nicolai 1767) [Biga&#x202F;157/471: „Moses Mendelssohn's Phädon, Berlin 769“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/details:bsb11273501">
-Augsburg, Staats- und Stadtbibliothek: Phil 2517</wwwlink>.
+<titel>Phaedon oder Ueber die Unsterblichkeit der Seele, in drey Gesprächen</titel> (Berlin, Stettin: Nicolai 1767) [Biga&#x202F;157/471: „Moses Mendelssohn's Phädon, Berlin 769“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/details:bsb11273501">Augsburg, Staats- und Stadtbibliothek: Phil 2517</wwwlink>.
 </eintrag>
 </subsection>
 

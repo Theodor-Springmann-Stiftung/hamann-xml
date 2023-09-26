@@ -30269,7 +30269,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal letter="254a" page="XX" line="9">
-<bzg>Kriegskammer</bzg> Königliche Kriegskammer. Provinzialbehörde, die Steuern und Abgaben verwaltete, die für die Bedürfnisse der Armee bestimmt waren.
+<bzg>Kriegskammer</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />
 </marginal> 
 
 <marginal letter="254a" page="XX" line="12">
@@ -40148,7 +40148,7 @@ Brief Nr. 345
 </marginal>
 
 <marginal letter="345" page="398" line="26" sort="2">
-<bzg>zu Michaelis mein neues Logis</bzg> 29. September; eine Wohnung auf dem mittelsten Tragheim
+<bzg>zu Michaelis mein neues Logis</bzg> 29. September; Hamanns Zwischenwohnung nicht ermittelt, vgl. <intlink letter="347" page="403" line="4" linktext="true" />
 </marginal>
 
 <marginal letter="345" page="398" line="30">
@@ -40262,7 +40262,7 @@ Brief Nr. 346
 </marginal>
 
 <marginal letter="346" page="400" line="34" sort="2">
-<bzg>anderes Stück</bzg> wohl <link ref="herder" subref="herder-abbt" linktext="true" />
+<bzg>anderes Stück</bzg> wohl <link ref="herder" subref="herder-torso" linktext="true" />
 </marginal>
 
 <marginal letter="346" page="400" line="36">
@@ -40441,7 +40441,7 @@ veröffentlichte sie aber nicht
 Brief Nr. 347
 
 <marginal letter="347" page="403" line="4">
-<bzg>Ausziehen</bzg> Hamanns Umzug in die Wohnung im mittelsten Tragheim, vgl. <intlink letter="345" page="398" line="26" linktext="true" />
+<bzg>Ausziehen</bzg> Hamanns Zwischenwohnung nicht ermittelt; ab August 1768 wohnt Hamann in Tragheim, vgl. <intlink page="428" line="11" sort="2" linktext="true" />
 </marginal>
 
 <marginal letter="347" page="403" line="6">
@@ -40760,7 +40760,7 @@ Brief Nr. 348
 </marginal>
 
 <marginal letter="348" page="407" line="24" sort="1">
-<bzg>Directorio</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" /> 
+<bzg>Directorio</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
 </marginal>
 
 <marginal letter="348" page="407" line="24" sort="2">
@@ -40990,7 +40990,7 @@ Brief Nr. 349
 </marginal>
 
 <marginal letter="349" page="413" line="29">
-<bzg>Torso über Abbt</bzg> <link ref="herder" subref="herder-abbt" linktext="true" />
+<bzg>Torso über Abbt</bzg> <link ref="herder" subref="herder-torso" linktext="true" />
 </marginal>
 
 <marginal letter="349" page="413" line="30">
@@ -41091,7 +41091,7 @@ dem Weg nach St. Petersburg, Herder besucht
 </marginal>
 
 <marginal letter="349" page="414" line="35">
-<bzg>Funerabilien auf Abbt</bzg> <link ref="herder" subref="herder-abbt" linktext="true" />  
+<bzg>Funerabilien auf Abbt</bzg> <link ref="herder" subref="herder-torso" linktext="true" />  
 </marginal>
 
 <marginal letter="349" page="414" line="36">
@@ -41340,11 +41340,179 @@ Brief Nr. 350
 <bzg>Phyllis</bzg> <intlink letter="349" page="412" line="29" linktext="true" />
 </marginal>
 
+Brief Nr. 351
 
+<marginal letter="351" page="419" line="3">
+<bzg>Wendler</bzg> mglw. der peipziger Verleger Johann Wendler (1713–1799)
+</marginal>
+
+<marginal letter="351" page="419" line="4">
+<bzg>Unbekanten</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="351" page="419" line="5">
+<bzg>Kanterschen Buchladen</bzg> <link ref="kanter-jj" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="10">
+<bzg>libiren</bzg> Libation, Trankopfer darbringen
+</marginal>
+
+<marginal letter="351" page="419" line="10">
+<bzg>L.</bzg> <link ref="lindner-jg" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="11">
+<bzg>Lauson</bzg> <link ref="lauson" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="13">
+<bzg>Bondeli</bzg> <link ref="bondeli-fj" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="14">
+<bzg>50 rth</bzg> Reichstaler, eine im ganzen dt-sprachigen Raum übliche Silbermünze, entspricht 24 Silbergroschen (Groschen: Silbermünze [ca. 24. Teil eines Talers] oder Kupfermünze [ca. 90. Teil eines Talers]; in Königsberg war der Kupfergroschen üblich; für 8 Groschen gab es ca. zwei Pfund Schweinefleisch).
+</marginal>
+
+<marginal letter="351" page="419" line="17">
+<bzg>Bureau</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="19">
+<bzg>Bruders</bzg> <link ref="hamann-jc" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="22">
+<bzg>Gervais</bzg> <link ref="gervais" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="26" sort="1">
+<bzg>HE Hartknoch</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="26" sort="2">
+<bzg>Kanter…</bzg> <link ref="kanter-jj" linktext="true" />; Kanters neuen Laden im Königsberger Rathaus oder wo das war? Gregor?!? [Henkel: das löbenichtsche Rathaus brannte 1764 und wurde in den folgenden Jahren mit Hinzunahme benachbarter Grundstücke neu aufgebaut. Es war im Besitz des Magistrat, der es in einzelnen Teilen, so eben an K., vermietete.]
+</marginal>
+
+<marginal letter="351" page="419" line="26" sort="2">
+<bzg>Königes von Berlin</bzg> <link ref="friedrich-II" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="30">
+<bzg>Pindar Caesar Tacitus Plutarch</bzg> <link ref="pindar" linktext="true" />, <link ref="caesar" linktext="true" />, <link ref="tacitus" linktext="true" />, <link ref="plutarch" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="32">
+<bzg>Moses und Ramler</bzg> <link ref="mendelssohn" linktext="true" />, <link ref="ramler" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="33">
+<bzg>Schäffner, Willamov, Hippel, Lindner…</bzg> <link ref="scheffner" linktext="true" />, <link ref="willamovius" linktext="true" />, <link ref="hippel" linktext="true" />, <link ref="lindner-jg" linktext="true" />, <link ref="kant" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="419" line="35">
+<bzg>Lares und Penates</bzg> Hausgötter aus der röm. Religion
+</marginal>
+
+<marginal letter="351" page="420" line="2" sort="1">
+<bzg>Steinbeck</bzg> Dorf 12&#x202F;km südöstlich von Königsberg, heute Rybnoje 
+</marginal>
+
+<marginal letter="351" page="420" line="2" sort="2">
+<bzg>Hintz</bzg> <link ref="hinz" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="3">
+<bzg>große Adler</bzg> über dem Kanterschen Buchladen hing ein Preußenadler, auch als Zeichen des königlichen Buchhandelprivilegs
+</marginal>
+
+<marginal letter="351" page="420" line="4">
+<bzg>Hamburgsche Recension Ihres Torso</bzg> <link ref="gerstenberg" linktext="true" /> rezensierte <link ref="herder" subref="herder-torso" linktext="true" />in <link ref="hamb-neuezeitungen" linktext="true" />, 122.&#x202F;St. vom 3.8.1768
+</marginal>
+
+<marginal letter="351" page="420" line="5" sort="1">
+<bzg>Kgsbergsche</bzg> Hamann publizierte in <link ref="konigsberger-gp-z" linktext="true" />, 52.&#x202F;St. vom 27.6.1768 (N&#x202F;IV,316f.) eine witzige Rezension von <link ref="herder" subref="herder-torso" linktext="true" />, bei der er dessen anonymen Autor und denjenigen von <link ref="herder" subref="herder-fragmente" linktext="true" /> gegeneinander ausspielte
+</marginal>
+
+<marginal letter="351" page="420" line="5" sort="2">
+<bzg>Klotz hat an L.</bzg> <link ref="klotz" linktext="true" /> an <link ref="lindner-jg" linktext="true" />; nicht ermittelt
+</marginal>
+
+<marginal letter="351" page="420" line="6">
+<bzg>Adam Trescho</bzg> <link ref="trescho-sf" linktext="true" />?!?
+</marginal>
+
+<marginal letter="351" page="420" line="7">
+<bzg>Monument seiner Autorschaft</bzg> <link ref="klotz" subref="klotz-steine" linktext="true" />?!?
+</marginal>
+
+<marginal letter="351" page="420" line="13"> 
+<bzg>Archiv</bzg> <link ref="bodmer-archiv" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="17" sort="1"> 
+<bzg>engl. Werk über das original Genie</bzg> vmtl. <link ref="duff" subref="duff-genius" linktext="true" /> (1767 anonym erschienen); vgl. <intlink letter="355" page="432" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="17" sort="1"> 
+<bzg>Uebersetzung ist angekündigt</bzg> nicht ermittelt?!?
+</marginal>
+
+<marginal letter="351" page="420" line="18"> 
+<bzg>Ihrem Verleger</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="19"> 
+<bzg>Hermes</bzg> <link ref="harris" subref="harris-hermes" linktext="true" />, vgl. <intlink page="418" line="12" sort="1" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="21"> 
+<bzg>Ebert in Braunschweig</bzg> <link ref="ebert-ja" linktext="true" />, vgl. <intlink letter="273" page="269" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="23" sort="1"> 
+<bzg>Fragmente</bzg> <link ref="herder" subref="herder-fragmente" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="23" sort="1"> 
+<bzg>Clodius</bzg> <link ref="clodius-ca" subref="clodius-ca-versuche" linktext="true" />, vgl. <intlink letter="349" page="414" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="28"> 
+<bzg>Schaarwerk</bzg> Frondienst; wohl Hamanns Tätigkeit bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />; vielleicht daher auch sein Interesse an dem corvée-Artikel der Encyclopädie, vgl. <intlink letter="348" page="408" line="11" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="30"> 
+<bzg>Leßings Briefwechsel</bzg> <link ref="lessing" subref="lessing-klotzbriefe" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="420" line="32"> 
+<bzg>Laocoons</bzg> <link ref="lessing" subref="lessing-laokoon" linktext="true" /> (ein zweiter Teil erschien nie)
+</marginal>
+
+<marginal letter="351" page="420" line="32"> 
+<bzg>Mendelsohns Phädon</bzg> <link ref="mendelssohn" subref="mendelssohn-phaedon" linktext="true" />; die Erstausgabe erschien 1767, <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074319-2">eine vermehrte und verbesserte Auflage 1768</wwwlink>
+</marginal>
+
+<marginal letter="351" page="421" line="1"> 
+<bzg>Verzeichnis</bzg> Hamann bat schon mehrfach darum, vgl. <intlink letter="343" page="395" line="21" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="421" line="3"> 
+<bzg>Berens</bzg> <link ref="berens-jc" linktext="true" />
+</marginal>
+
+<marginal letter="351" page="421" line="6" sort="1"> 
+<bzg>απεχειν</bzg> Henkel: Anspielung auf die Maxime des Epiktet: anexoy kai apexoy, die Aulus Gellius, 17,19,6, nach dem Favorinus auch in der latein. Fassung sustine et abstine überliefert; also: leide und meide?!?
+</marginal>
+
+<marginal letter="351" page="421" line="6" sort="1"> 
+<bzg>Kantens Metaphysik der Moral</bzg>
+</marginal>
 
 Brief Nr. 353
 
-<marginal letter="353" page="428" line="2">
+<marginal letter="353" page="428" line="3">
 <bzg>Instruktion</bzg> <link ref="katharina" subref="katharina-instruction" linktext="true" />, vgl. <intlink letter="348" page="407" line="28" linktext="true" />
 </marginal>
 
