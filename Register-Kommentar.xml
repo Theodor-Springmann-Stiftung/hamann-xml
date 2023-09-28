@@ -1139,6 +1139,21 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <eintrag>1721–1791. Engl. Dichter.</eintrag>
 </kommentar>
 
+<kommentar id="blackwell" type="neuzeit">
+<lemma>Thomas Blackwell</lemma>
+<eintrag>1701–1757. Schottischer klassischer Gelehrter und Historiker der Aufklärung.</eintrag>
+<subsection id="blackwell-homer" type="neuzeit" sort="10">
+<lemma>Blackwell, <titel>An enquiry into the life and writings of Homer</titel></lemma>
+<eintrag>Thomas Blackwell, <titel>An enquiry into the life and writings of Homer</titel> (London 1735) [Biga&#x202F;167/607: „Blackwell’s Enquiry into the Life and Writings of Homer, Lond. 757“]. Digitalisat der 2. Auflage: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10233538-3">BSB München: A.gr.a. 1425 d</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="blackwell-mythology" type="neuzeit" sort="20">
+<lemma>Blackwell, <titel>Letters concerning mythology</titel></lemma>
+<eintrag>Thomas Blackwell, <titel>Letters concerning mythology</titel> (London 1748) [Biga&#x202F;167/607: „Blackwell’s Enquiry into the Life and Writings of Homer, Lond. 757“]. Digitalisat: <wwwlink address="https://catalog.hathitrust.org/Record/001922115">Hathi Trust</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="blair" type="neuzeit">
 <lemma>Hugh Blair</lemma>
 <eintrag>1718–1800. Schottischer Schriftsteller und Theologe, 1762 Prof. der Rhetorik in Edinburgh.</eintrag>
@@ -3024,6 +3039,23 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 <eintrag>1697&#x202F;1766. Graf auf Reichertswalde.</eintrag>
 </kommentar>
 
+<kommentar id="domat" type="neuzeit">
+<lemma>Jean Domat</lemma>
+<eintrag>1625–1695. Frz. Rechtsphilosoph und Advocat.
+</eintrag><subsection id="domat-loixciviles" type="neuzeit">
+<lemma>Domat, <titel>Les Loix Civiles</titel></lemma>
+<eintrag>
+<titel>Les Loix Civiles</titel> dans leur ordre naturel, le droit public, et legum delectus. Par M. Domat, Avocat du Roy au Siege Présidial de Clermont en Auvergne. Nouv. éd., revuë, corrigée &#x26; augmentée du Troisiéme et Quatriéme Livres du Droit Public, Qui ne se trouvent point dans les Editions précedentes (2 Bde., Paris: Gosselin 1723). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k3103451">Bibliothèque nationale de France: département Réserve des livres rares, F-11763</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="domhardt" type="neuzeit">
+<lemma>Johann Friedrich Domhardt</lemma>
+<eintrag>1712–1781. Seit 1763 Kammerpräsident von Königsberg.
+</eintrag>
+</kommentar>
+
 <kommentar id="dommerich" type="neuzeit">
 <lemma>Johann Christoph Dommerich</lemma>
 <eintrag>1723–1767. Prof. der Logik und Metaphysik in Helmstedt. <wwwlink address="https://www.deutsche-biographie.de/sfz11647.html#adbcontent">Wagenmann, Julius August: Dommerich, Johann Christoph, in: <titel>ADB</titel>&#x202F;5 (1877), S.&#x202F;326f</wwwlink></eintrag>
@@ -3043,14 +3075,8 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 
 <kommentar id="donat" type="neuzeit">
 <lemma>Aelius Donatus</lemma>
-<eintrag>310–ca.&#x202F;380.<line type="break" />
+<eintrag>310–ca.&#x202F;380. Röm. grammatiker und Lehrer des <link ref="hieronymus" linktext="true" />.<line type="break" />
 Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinischer Text und kommentierte deutsche Übersetzung einer antiken Elementargrammatik aus dem 4. Jahrhundert nach Christus</titel> (Frankfurt 2008).</eintrag>
-</kommentar>
-
-<kommentar id="domhardt" type="neuzeit">
-<lemma>Johann Friedrich Domhardt</lemma>
-<eintrag>1712–1781. Seit 1763 Kammerpräsident von Königsberg.
-</eintrag>
 </kommentar>
 
 <kommentar id="driest" type="neuzeit">
@@ -3332,6 +3358,11 @@ Online-Ausgabe: <wwwlink address="http://enccre.academie-sciences.fr/encyclopedi
 Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zürich 1949).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="epiktet" type="neuzeit">
+<lemma>Epiktet</lemma>
+<eintrag>Um 50 bis 138&#x202F;n.&#x202F;Chr. Kaiserzeitlicher stoischer Philosoph.</eintrag>
 </kommentar>
 
 <kommentar id="epikur" type="neuzeit">
@@ -5894,7 +5925,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="homer" type="neuzeit">
 <lemma>Homer</lemma>
-<eintrag>Vmtl. 8. Jhd.&#x202F;v.&#x202F;Chr.</eintrag>
+<eintrag>Vmtl. 8. Jhd.&#x202F;v.&#x202F;Chr.; zu Homer im 18. Jhd. vgl. <link ref="blackwell" subref="blackwell-homer" linktext="true" />.</eintrag>
 <subsection id="homer-odyss" type="neuzeit" sort="10">
 <lemma>Hom. <titel>Od.</titel></lemma>
 <eintrag>
@@ -5922,11 +5953,6 @@ Dt. Übers. zitiert nach: Wolfgang Schadewaldt (Hg.): Homer, Ilias (Düsseldorf,
 <subsection id="homer-hym" type="neuzeit" sort="30">
 <lemma><titel>Homerische Hymnen</titel></lemma>
 <eintrag>33 Homerische Hymnen in Alexandrinern, zur Anrufung der Götter; zwischen dem 7. und 5. Jhd.&#x202F;v.&#x202F;Chr. entstanden. Die Odyssee-Ausgabe von Giphanus enthält den griech. Text der Hymnen. In <link ref="schroder-fjw" subref="schroder-poesien" linktext="true" /> sind fünf Stück ins Dt. übers. auf S.&#x202F;523ff.
-</eintrag>
-</subsection>
-<subsection id="homer-blackwell" type="neuzeit" sort="40">
-<lemma>Blackwell, <titel>An enquiry into the life and writings of Homer</titel></lemma>
-<eintrag>Thomas Blackwell, <titel>An enquiry into the life and writings of Homer</titel> (London 1735) [Biga&#x202F;167/607: „Blackwell’s Enquiry into the Life and Writings of Homer, Lond. 757“].
 </eintrag>
 </subsection>
 </kommentar>
@@ -6216,6 +6242,11 @@ J
 <lemma>Jerusalem, <titel>Briefe über die Mosaischen Schriften und Philosophie</titel></lemma>
 <eintrag>
 <titel>Briefe über die Mosaischen Schriften und Philosophie</titel> (Braunschweig 1762). [Biga 47/469: „Briefe über die mosaische Schriften und Philosophie, Br. 762“]. Digitalisat: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/jerusalem1762 ">UB Heidelberg: Q 613-8 RES</wwwlink></eintrag>
+</subsection>
+<subsection id="jerusalem-jfw-betrachtungen" type="neuzeit" sort="20">
+<lemma>Jerusalem, <titel>Betrachtungen</titel></lemma>
+<eintrag>
+<titel>Betrachtungen über die vornehmsten Wahrheiten der Religion</titel> an Se. Durchlaucht den Erbprinz von Braunschweig und Lüneburg (2 Bde., Braunschweig 1768–1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10702295-3">Bayerische Staatsbibliothek: 40.5484-1</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -6544,7 +6575,9 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 
 <kommentar id="kanter-jj" type="neuzeit">
 <lemma>Johann Jakob Kanter</lemma>
-<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften) und Unternehmer in Königsberg, Elbing (Filiale), Marienwerder (Druckerei) u. Trutenau, Lotteriedirektor, Papiermüller, Erbherr von Trutenau. Errichtete anstelle der Papiermühle eine Schriftgießerei u. eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte. Gab 1781 die Buchhandlung an seinen Angestellten Wagner u. den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der Dreikronenloge. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink></eintrag>
+<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften) und Unternehmer in Königsberg, Elbing (Filiale), Marienwerder (Druckerei) u. Trutenau, Lotteriedirektor, Papiermüller, Erbherr von Trutenau. Errichtete anstelle der Papiermühle eine Schriftgießerei u. eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; 1781 gab er die Buchhandlung an seinen Angestellten Wagner u. den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der Dreikronenloge. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
+Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Ort, den Hamann häufig besuchte, und wo er vielerlei Leute traf. Er wurde 1760 in Kanters väterlichem Haus in der Altstädtischen Langgasse 23 eröffnet und zog Ende August 1768 um in das nach dem großen Brand von 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2. Über dem Eingang hing ein großer Preußenadler und im Inneren standen Büsten einerseits von Pindar, Caesar, Tacitus, Plutarch und anderen, andererseits von Kant, Scheffner, Hippel, Lindner und anderen (vgl. <intlink letter="351" page="419" line="26" linktext="true" />); später ebenso ein Gemälde von Hamann (vgl. <intlink letter="398" page="68" line="20" linktext="true" />).
+Kant, </eintrag>
 </kommentar>
 
 <kommentar id="kanter-dch" type="neuzeit">
@@ -10812,7 +10845,7 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 <subsection id="rousseau-imitation" type="neuzeit" sort="60">
 <lemma>Rousseau, <titel> De l’imitation théâtral</titel></lemma>
 <eintrag>
-<titel>De l’imitation théâtrale. Essai tiré des dialogues de Platon</titel> (Amsterdam: Marc-Michel Rey 1764). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k10400824.texteImage"> Bibliothèque nationale de France: département Réserve des livres rares, Z BEUCHOT-1745 (1)</wwwlink>. 
+<titel>De l’imitation théâtrale. Essai tiré des dialogues de Platon</titel> (Amsterdam: Marc-Michel Rey 1764). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k10400824"> Bibliothèque nationale de France: département Réserve des livres rares, Z BEUCHOT-1745 (1)</wwwlink>. 
 </eintrag>
 </subsection>
 <subsection id="rousseau-montagne" type="neuzeit" sort="70">
@@ -10821,7 +10854,12 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 <titel>Les Lettres écrits de la montagne</titel> (Amsterdam: Marc-Michel Rey 1764).
 </eintrag>
 </subsection>
-
+<subsection id="rousseau-musique" type="neuzeit" sort="80">
+<lemma>Rousseau, <titel>Dictionnaire de musique</titel></lemma>
+<eintrag>
+<titel> Dictionnaire de musique,</titel> par J.&#x202F;J. Rousseau (Paris 1768). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k850406b"> Bibliothèque nationale de France: département Arsenal, 4-S-3833 
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="runtze" type="neuzeit">
@@ -12264,6 +12302,12 @@ Wiss. Ausg.: <titel>Gesammelte Schriften. Kommentierte Ausgabe</titel>, hg.&#xA0
 <lemma>Swift, <titel>Satyrische und ernsthafte Schriften</titel></lemma>
 <eintrag>
 <titel>Satyrische und ernsthafte Schriften von Jonathan Swift</titel>, übers. v. Johann Heinrich Waser (Pseud.: Johann von Breitenfels) (8&#xA0;Bde., Hamburg, Leipzig 1756–66; ab 1759 erschien eine 2. Aufl.). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10750442-9">BSB München: P.o.angl. 422-1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="swift-letters" type="neuzeit" sort="20">
+<lemma>Swift, <titel>Letters</titel></lemma>
+<eintrag>
+<titel>Letters Written By The Late Jonathan Swift, D. D.</titel> Dean of St. Patrick’s, Dublin; And Several Of His Friends. From the year 1703 to 1740. With notes explanatory and historical, by John Hawkesworth, L. L. D. (3 Bde., London 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10404103-0">BSB München: Epist. 881-1–3</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
