@@ -5146,13 +5146,13 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-fuessli" type="neuzeit" sort="370">
 <lemma>Hamann, <titel>Anmerkungen über die Schriften und Sitten des Johann Jacob Rousseau</titel></lemma>
 <eintrag>
-<titel>Anmerkungen über die Schriften und Sitten des Johann Jacob Rousseau.</titel> In: <link ref="konigsberger-gp-z" linktext="true" />, 53.,&#x202F;54. und&#x202F;55. St.&#x202F;vom 3.,&#x202F;6. und 10.7.1767, ohne Unterzeichnung (N IV,305–311). Übersetzung eines Auszuges und Zusammenfassung von <link ref="fuessli-jh" subref="fuessli-remarks" linktext="true" />. 
+<titel>Anmerkungen über die Schriften und Sitten des Johann Jacob Rousseau.</titel> In: <link ref="kgpz" linktext="true" />, 53.,&#x202F;54. und&#x202F;55. St.&#x202F;vom 3.,&#x202F;6. und 10.7.1767, ohne Unterzeichnung (N IV,305–311). Übersetzung eines Auszuges und Zusammenfassung von <link ref="fuessli-jh" subref="fuessli-remarks" linktext="true" />. 
 </eintrag>
 </subsection>
 <subsection id="hamann-selbstgespraech" type="neuzeit" sort="500">
 <lemma>Hamann, <titel>Selbstgespräch aus dem Englischen übersetzt</titel></lemma>
 <eintrag>
-<titel>Selbstgespräch aus dem Englischen übersetzt.</titel> In: <link ref="konigsberger-gp-z" linktext="true" />, 45.&#x202F;St. vom 4.6.1770. Übersetzung aus <link ref="browne-m" subref="browne-creation" linktext="true" />.
+<titel>Selbstgespräch aus dem Englischen übersetzt.</titel> In: <link ref="kgpz" linktext="true" />, 45.&#x202F;St. vom 4.6.1770. Übersetzung aus <link ref="browne-m" subref="browne-creation" linktext="true" />.
 </eintrag>
 </subsection>
 <subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort="700">
@@ -6531,7 +6531,7 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 <subsection id="kant-kopfes" type="neuzeit" sort="75">
 <lemma>Kant, <titel>Versuch über die Krankheiten des Kopfes</titel></lemma>
 <eintrag>
-<titel>Versuch über die Krankheiten des Kopfes</titel>. In: <link ref="konigsberger-gp-z" linktext="true" />, St. 4–8, 13.–27. Februar 1764.<line type="break" />
+<titel>Versuch über die Krankheiten des Kopfes</titel>. In: <link ref="kgpz" linktext="true" />, St. 4–8, 13.–27. Februar 1764.<line type="break" />
 <titel>AA</titel>&#xA0;II: Vorkritische Schriften II, S.&#x202F;257–271.</eintrag>
 </subsection>
 <subsection id="kant-akademiefrage64" type="neuzeit" sort="77">
@@ -6684,7 +6684,7 @@ J. G. Lindner konnte sein Buch zur <link ref="lindner-jg" subref="schreibart" li
 <eintrag>„Intelligenzblatt“, erschien ab 1727, herausgegeben vom Königsberger Adress-Kontor, ab 1752 von <link ref="hartung-hj" linktext="true" /> gedruckt, Anzeigenblatt mit privaten und amtlichen Bekanntmachungen in Königsberg sowie kürzerern wissenschaftlichen Beiträgen der Universitätsprofessoren (seit 1729 waren diese dazu verpflichtet); auch <link ref="knutzen" linktext="true" />, <link ref="kypke" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="kant" linktext="true" /> veröffentlichte darin. Letzterer schon 1754 zur Bewerbung auf eine Professur, 1756 schrieb er dort ausführlich über das Erdbeben in Lissabon. <link ref="hamann" linktext="false">Hamann</link> veröffentlichte 1760 die <link ref="hamann" subref="hamann-versuch" linktext="false"><titel>Akad. Frage</titel></link>, die <link ref="hamann" subref="hamann-anmerkungen" linktext="false"><titel>Wortfügung</titel></link> und die <link ref="hamann" subref="hamann-magi" linktext="false"><titel>Magi</titel></link> darin.</eintrag>
 </kommentar>
 
-<kommentar id="konigsberger-gp-z" type="neuzeit">
+<kommentar id="kgpz" type="neuzeit">
 <lemma>Königsbergsche Gelehrte und Politische Zeitungen</lemma>
 <eintrag>1764–1796, erschienen montags und freitags im Buchladen von <link ref="kanter-jj" linktext="true" />, später die Dengelsche Zeitungen. [Biga&#x202F;179/10: „Königsbergsche gelehrte und politische Zeitungen von 767–75“; Biga 182/47: „Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.“ u. Biga 199/115: „Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.“]<line type="break" />
 Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelblaska.pl/dlibra/publication/68995#structure">Biblioteka Elbląska</wwwlink>.
@@ -7125,7 +7125,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <kommentar id="kriegs-und-domaenenkammer" type="neuzeit">
 <lemma>Kriegs- und Domänenkammer in Königsberg</lemma>
 <eintrag>Königlich-preußische Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung; abhängig von den Direktiven des <link ref="generaldirektorium" linktext="false">Generaldirektoriums</link>. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Sie war im Kneiphöfische Rathaus und im Königsberger Schloss ansässig. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink><line type="break" />
-Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. „extraordinairer Cantzeley-Verwandter“ für die Kriegs- und Domainenkammer (vgl. <intlink letter="253" page="225" line="15" linktext="true" /> und <intlink letter="256" page="231" line="31" linktext="true" />).</eintrag>
+Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. „extraordinairer Cantzeley-Verwandter“ für die Kriegs- und Domainenkammer (vgl. <intlink letter="253" page="225" line="15" linktext="true" /> und <intlink letter="256" page="231" line="32" linktext="true" />).</eintrag>
 </kommentar>
 
 <kommentar id="kruger-jc" type="neuzeit">
@@ -10609,6 +10609,11 @@ Dt. Übers.: <titel>Briefe der Milady Juliane Catesby an die Milady Henriette Ca
 <lemma>Riedel, <titel>Theorie der schönen Künste und Wissenschaften</titel></lemma>
 <eintrag>
 <titel>Theorie der schönen Künste und Wissenschaften</titel> (Jena: Cuno 1767) [Biga&#x202F;134/67: „J. F. Riedels Theorie der schönen Künste und Wissenschaften, Jena 767“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574504-4">München, Bayerische Staatsbibliothek: L.eleg.g. 341 z</wwwlink>.</eintrag>
+</subsection>
+<subsection id="riedel-antikritikus" type="neuzeit" sort="20">
+<lemma>Riedel, <titel>Briefwechsel mit dem Antikritikus</titel></lemma>
+<eintrag>
+<titel>Briefwechsel des Herrn Prossor Riedel mit dem Antikritikus</titel>. Herausgegeben von J.&#x202F;G.&#x202F;C. Gleichmann (1768) [Biga&#x202F;302/147: „Riedels Briefwechsel mit dem Antikritikus, 768“]. Digitalisat: <wwwlink address=" https://doi.org/10.11588/diglit.33688">UB Heidelberg: H 337B RES</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
