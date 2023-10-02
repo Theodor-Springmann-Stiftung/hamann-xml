@@ -1768,6 +1768,17 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="burke" type="neuzeit">
+<lemma>Edmund Burke</lemma>
+<eintrag>1729–1797. Irisch-britischer Schriftsteller und Politiker, siehe <wwwlink address="https://plato.stanford.edu/entries/burke/">Stanford Encyclopedia of Philosophy</wwwlink>.</eintrag>
+<subsection id="burke-enquiry" type="neuzeit" sort="10">
+<lemma>Burke, <titel>Philosophical Enquiry</titel></lemma>
+<eintrag>
+<titel>A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</titel> (London 1757) [Biga&#x202F;118/291: „(Burke’s) philosophical Enquiry in the Origin of our Ideas of Sublime and Beautiful, Lond. 757“]. Digitalisat: <wwwlink address="https://archive.org/details/enqphilosophical00burkrich">Internet Archive</wwwlink>.<line type="break" />
+Übers.: Burkes, Philosophische Untersuchungen über den Ursprung unsrer Begriffe vom Erhabnen und Schönen (Riga: Hartknoch 1773). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id321534549">SLUB Dresden: </wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="burklin" type="neuzeit">
 <lemma>Philipp Jakob Bürcklin</lemma>
@@ -3007,6 +3018,12 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 <titel>Diogenis Laertii de Vitis, Dogmatibus et Apophthegmatibus Clarorum Philosophorum Libri X. Graece et Latine Ad Fidem Optimorum Librorum quam correctissime recensiti et nunc primum in capita eaque in numeros distributi, Insertis XXVI. Philosophorum Figuris aeri incisis et Additis Indicibus ante vulgatis longe locupletioribus, a Paullo Daniele Longolio</titel> (Hof 1739) [Biga&#x202F;8/114: „Diogenes Laertius gr.-lat. 739“].<line type="break" />
 <titel>Diogenus Laertiu peri biōn, dogmatōn [...] Diogenes Laertius, De vitis, dogmatibus et apophthegmatibus clarorum philosophorum libri 10. Hesychii [...] de iisdem philosophis et de aliis scriptoribus liber. Pythagoreorum philosophorum fragmenta. Omnia graece et lat. ex ed. 2 Isaaci Casauboni notae ad libros Diogenis, multo auct. et emend.</titel> (Köln 1615) [Biga&#x202F;13/198: „Diogenes Laertius, Hesychius &amp; Pythagoraeorum philosophorum fragmenta ex ed. Is. Casauboni, Col. 615“]. Digitalisat: <wwwlink address="http://doi.org/10.3931/e-rara-71936">Bibliothèque de Genève, Ca 1532</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="diogenes-s" type="neuzeit">
+<lemma>Diogenes von Sinope</lemma>
+<eintrag>Um 413 bis um 323 v. Chr. Kynischer Philosoph, von dessen Leben uns Aussprüchen viele Anekdoten überliefert sind.
+</eintrag>
 </kommentar>
 
 <kommentar id="ditton" type="neuzeit">
@@ -9247,6 +9264,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Harlekin, oder Vertheidigung des Groteske-Komischen. Anche io sono Pittore</titel> (1761) [Biga&#x202F;152/399: „(Möser’s) Harlekin oder Vertheidigung des Groteske-komischen, 761“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-666979">ULB Halle: AB 144287 (2)</wwwlink>. 
 </eintrag>
 </subsection>
+<subsection id="moserj-vikar" type="neuzeit" sort="40">
+<lemma>Möser, <titel>Schreiben an den Herrn Vikar in Savoyen</titel></lemma>
+<eintrag>
+<titel>Schreiben an den Herrn Vikar in Savoyen</titel> abzugeben bey dem Herrn Johann Jacob Rousseau (Hamburg/Leipzig 1764). Digitalisat der Ausgabe Bremen 1777: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München:  L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="mosheim" type="neuzeit">
@@ -10873,7 +10895,7 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 <subsection id="rousseau-emile" type="neuzeit" sort="50">
 <lemma>Rousseau, <titel>Emile</titel></lemma>
 <eintrag>
-<titel>Emile ou de l’éducation</titel> (4&#xA0;Bde., Amsterdam: Néaulme 1762) [Biga&#x202F;106/165: „Emile ou de l’education par J. J. Rousseau, Tom. I–IV. Leipz. 762“].
+<titel>Emile ou de l’éducation</titel> (4&#xA0;Bde., Amsterdam: Néaulme 1762) [Biga&#x202F;106/165: „Emile ou de l’education par J. J. Rousseau, Tom. I–IV. Leipz. 762“]. Bd. 1 der Ausgabe Amsterdam 1762: <wwwlink address="https://books.google.de/books?id=Elu6g0qpyMMC">Google Books</wwwlink>; Bd. 2–3 der Ausgabe Amsterdam 1762: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10764749-2">BSB München: Paed.th. 6661 e-2–4</wwwlink>..
 </eintrag>
 </subsection>
 <subsection id="rousseau-imitation" type="neuzeit" sort="60">

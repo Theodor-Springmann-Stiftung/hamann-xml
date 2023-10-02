@@ -6646,7 +6646,7 @@ Textverlust; es geht um die Idee, <link ref="berens-g" linktext="false">G. Beren
 </marginal>
 
 <marginal letter="77" page="204" line="8">
-<link ref="diogenes" subref="diogenes-opera" linktext="true" /> 6,2,64
+<link ref="diogenes-s" linktext="true" />, überliefert in <link ref="diogenes" subref="diogenes-opera" linktext="true" /> 6,2,64
 </marginal>
 
 <marginal letter="77" page="204" line="10">
@@ -12682,7 +12682,7 @@ Hamann ist nicht mit der Landschaft, sondern mit den häuslich-sozialen Verhält
 </marginal>
 
 <marginal letter="152" page="366" line="24">
-<bzg>Diogen&#x202F;… Hundezähne</bzg> <link ref="diogenes" linktext="true" /> der Kyniker, ‚Hundsphilosoph‘; vll. auch anspielend auf <link ref="premontval" subref="premontval-diogene" linktext="true" />
+<bzg>Diogen&#x202F;… Hundezähne</bzg> <link ref="diogenes-s" linktext="true" />, ‚Hundsphilosoph‘; vll. auch Anspielung auf <link ref="premontval" subref="premontval-diogene" linktext="true" />
 </marginal>
 
 <marginal letter="152" page="366" line="26">
@@ -17002,7 +17002,7 @@ vll. anspielend auf <link ref="ovid" subref="ovid-fasti" linktext="true" /> 6,31
 </marginal>
 
 <marginal letter="170" page="451" line="36">
-<bzg>einem Mann</bzg> vll. Alexander d. Gr., gemäß <link ref="diogenes" linktext="true" /> 6,32: „Es geht auch die Rede, Alexander habe die Äußerung getan, wenn er nicht Alexander wäre, möchte er Diogenes sein“
+<bzg>einem Mann</bzg> Alexander der Große hatte Hochachtung vor <link ref="diogenes" linktext="true" /> trotz dessen frechem Ausspruch, er möge ihm aus der Sonne gehen: „Es geht auch die Rede, Alexander habe die Äußerung getan, wenn er nicht Alexander wäre, möchte er Diogenes sein.“ (<link ref="diogenes" linktext="true" /> 6,32)
 </marginal>
 
 <marginal letter="170" page="452" line="1">
@@ -20775,7 +20775,7 @@ Brief Nr. 202
 </marginal>
 
 <marginal letter="202" page="66" line="20">
-<bzg>galante Welt</bzg> vgl. <link ref="diogenes" linktext="false">Diogenes Laertius</link> 6,38 u. 77,35. 
+<bzg>galante Welt…</bzg> <link ref="diogenes-s" linktext="true" />, vgl. <link ref="diogenes" linktext="false">Diogenes Laertius</link> 6,38 u. 77,35. 
 </marginal>
 
 <marginal letter="202" page="66" line="23">
@@ -21459,7 +21459,7 @@ Brief Nr. 204
 </marginal>
 
 <marginal letter="204" page="77" line="35">
-<bzg>wie Diogenes</bzg> <link ref="diogenes" linktext="true" /> 6, 37 berichtet, dass Diogenes ein Kind beobachtete, das Wasser mit der Hand schöpfte, woraufhin er auch seinen Topf wegwarf: „Ein Kind hat mich in der Bedürfnislosigkeit der Lebensführung geschlagen.“
+<bzg>wie Diogenes</bzg> <link ref="diogenes" linktext="true" /> 6, 37 berichtet, dass <link ref="diogenes-s" linktext="true" /> ein Kind beobachtete, das Wasser mit der Hand schöpfte, woraufhin er auch seinen Topf wegwarf: „Ein Kind hat mich in der Bedürfnislosigkeit der Lebensführung geschlagen.“
 </marginal>
 
 <marginal letter="204" page="78" line="1">
@@ -27806,7 +27806,7 @@ Brief Nr. 241
 </marginal>
 
 <marginal letter="241" page="189" line="17" sort="1">
-<bzg>Diogenes</bzg> Alexander hatte zu Diogenes gesagt: „Fordere, was Du wünschst!“ Seine Antwort: „Geh mir aus der Sonne!“ (<link ref="plutarch" subref="plut-vit" linktext="true" />, Alexander 14)
+<bzg>Diogenes</bzg> Alexander der Große sagte zu <link ref="diogenes-s" linktext="true" /> gesagt: „Fordere, was Du wünschst!“ Seine Antwort: „Geh mir aus der Sonne!“ (<link ref="plutarch" subref="plut-vit" linktext="true" />, Alexander 14)
 </marginal>
 
 <marginal letter="241" page="189" line="17" sort="2">
@@ -41655,10 +41655,85 @@ Brief Nr. 353
 <bzg>Nachtrag zu den Briefen der Montague</bzg> <link ref="montague" subref="montague-nachtrag" linktext="true" /> (die <link ref="montague" subref="montague-letters" linktext="false">Briefe der Lady Montague</link> handelten auch von den Sitten der Türken; Hamann behandelte sie in <link ref="kgpz" linktext="true" />, vgl. <intlink letter="264" page="253" line="17" linktext="true" />)
 </marginal>
 
-<marginal letter="353" page="423" line="17">
-<bzg></bzg> der Martinstag liegt fest auf dem 11. November; nach gregorianischem Kalender schreibt Herder also am 22. November 1768
+<marginal letter="353" page="423" line="15" sort="1">
+<bzg>streitenden Kirche</bzg> ecclesia militans (hier ironisch für Militärseelsorge)
 </marginal>
 
+<marginal letter="353" page="423" line="15" sort="2">
+<bzg>Loder</bzg> Johann Loder (1687–1775), protestantischer Theologe in Riga und Oberkonsistorialrath; Herder verließ Riga 1769 als dessen designierter Nachfolger
+</marginal>
+
+<marginal letter="353" page="423" line="24">
+<bzg>Lindner…</bzg> <link ref="lindner-jg" linktext="true" />, vgl. <intlink letter="324" page="367" line="26" linktext="true" />
+</marginal>
+
+<marginal letter="353" page="423" line="26">
+<bzg>Willamov</bzg> <link ref="willamovius" linktext="true" />
+</marginal>
+
+<marginal letter="353" page="423" line="24">
+<bzg>Abraham aus Ur in Chaldäa</bzg> <link ref="at-mo1" subref="at-mo1-11" linktext="false">1 Mo 11,31</link>
+</marginal>
+
+<marginal letter="353" page="423" line="34">
+<bzg>geschrieben</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="353" page="423" line="36">
+<bzg>Akademie</bzg> Akademie der Wissenschaften in St. Petersburg
+</marginal>
+
+<marginal letter="353" page="424" line="2">
+<bzg>wenn Lindner ihn kannte</bzg> Lindner empfahl Willamovius an die Deutsche Schule in St. Petersburg
+</marginal>
+
+<marginal letter="353" page="424" line="6">
+<bzg>Wakefield</bzg> <link ref="goldsmith" subref="goldsmith-wakefield" linktext="true" />
+</marginal>
+
+<marginal letter="353" page="424" line="13">
+<bzg>Mösers…</bzg><link ref="moserj" subref="moserj-vikar" linktext="true" />; in Auszügen abgedruckt in <link ref="briefe-literatur" linktext="true" />, XXIII (1765), 327.–328. Brief
+</marginal>
+
+<marginal letter="353" page="424" line="14">
+<bzg>Vikar</bzg> die im 4. Buch von <link ref="rousseau" subref="rousseau-emile" linktext="true" /> eingeschobene „Profession de foi du vicaire savoyard“ war eine der umstrittensten Passagen der Hauptgrund für die Zensur
+</marginal>
+
+<marginal letter="353" page="424" line="15">
+<bzg>zu beantworten</bzg> Herder führte diesen Einfall nicht aus
+</marginal>
+
+<marginal letter="353" page="424" line="22" sort="1">
+<bzg>Diogenes seine Tonne</bzg> <link ref="diogenes-s" linktext="true" /> wohnte in einer Tonne; vgl. <link ref="mendelssohn" subref="mendelssohn-schriften" linktext="true" />, I, Vorrede: „Diogenes sahe einst die Bürger zu Corinth mit grossen Kriegesrüstungen beschäftiget, und um nicht der einzige Müssiggänger im Staate zu seyn, wälzt er seine friedsame Tonne auf und nieder.“
+</marginal>
+
+<marginal letter="353" page="424" line="22" sort="2">
+<bzg>Sokrates</bzg> ironisch für Mendelssohn, wegen <link ref="mendelssohn" subref="mendelssohn-phaedon" linktext="true" />
+</marginal>
+
+<marginal letter="353" page="424" line="24">
+<bzg>Gespräch Zweifel</bzg> vgl. zu dem Entwurf SWS XXXII,&#x202F;200f.
+</marginal>
+
+<marginal letter="353" page="424" line="27">
+<bzg>Philoktet…</bzg> am Ende des <link ref="sophokles" subref="sophokles-philoctet" linktext="false">Sophokleischen Philoktet</link> tritt Herkules als Deus ex machina auf
+</marginal>
+
+<marginal letter="353" page="424" line="29">
+<bzg>Moses u. den Propheten</bzg> <link ref="nt-lk" subref="nt-lk16" linktext="false">Lk 16,29</link>; gemeint ist natürlich <link ref="mendelssohn" linktext="true" /> 
+</marginal>
+
+<marginal letter="353" page="424" line="32">
+<bzg>dignus vindice nodus</bzg> dt. Knoten, der einer Lösung bedarf; vgl. <link ref="horaz" subref="horaz-poetica" linktext="true" />, 191: „nec deus intersit, nisi dignus vindice nodus inciderit“
+</marginal>
+
+<marginal letter="353" page="424" line="36">
+<bzg>Plato u. Xenophon…</bzg> d.i. zwischen (nicht hinter) den Sokrates-Bildern <link ref="platon" linktext="false">Platons</link> und <link ref="xenophon" linktext="false">Xenophons</link>, ebenso wenig <link ref="cooper" subref="cooper-sokrates" linktext="true" /> folgend
+</marginal>
+
+<marginal letter="353" page="425" line="1">
+<bzg>Philosophical Enquiry</bzg> <link ref="burke" subref="burke-enquiry" linktext="true" />
+</marginal>
 
 
 <marginal letter="353" page="426" line="26">
