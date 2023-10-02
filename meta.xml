@@ -6733,8 +6733,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="353">
-        <date value="Riga, November 1768" />
-        <sort value="1768-11-01" notBefore="1768-11-01" notAfter="1768-11-30" />
+        <date value="Riga, 22. November 1768" />
+        <sort value="1768-11-22" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
