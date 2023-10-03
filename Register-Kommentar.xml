@@ -1775,7 +1775,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <lemma>Burke, <titel>Philosophical Enquiry</titel></lemma>
 <eintrag>
 <titel>A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</titel> (London 1757) [Biga&#x202F;118/291: „(Burke’s) philosophical Enquiry in the Origin of our Ideas of Sublime and Beautiful, Lond. 757“]. Digitalisat: <wwwlink address="https://archive.org/details/enqphilosophical00burkrich">Internet Archive</wwwlink>.<line type="break" />
-Übers.: Burkes, Philosophische Untersuchungen über den Ursprung unsrer Begriffe vom Erhabnen und Schönen (Riga: Hartknoch 1773). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id321534549">SLUB Dresden: </wwwlink>.
+Übers.: <titel>Burkes, Philosophische Untersuchungen über den Ursprung unsrer Begriffe vom Erhabnen und Schönen</titel> (Riga: Hartknoch 1773). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id321534549">SLUB Dresden: </wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -2016,6 +2016,16 @@ Er vermittelte 1753 für Hamann die Hausmeisterstelle in Grünhof bei den <link 
 <eintrag>Gedichte, lat. carmina.<line type="break" />
 <titel>Catullus, Tibullus, Propertius ad fidem optimorum librorum denuo accurate recensiti</titel> (Göttingen 1762). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10241115">BSB München: A.lat.a. 128</wwwlink>.<line type="break" />
 Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius Catullus, Carmina – Gedichte. Lateinisch-deutsch</titel> (Düsseldorf 2009).
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="caylus" type="neuzeit">
+<lemma>Anne-Claude-Philippe, Comte de Caylus</lemma>
+<eintrag>1692–1765. Frz. Kunstsammler und Theoretiker.</eintrag>
+<subsection id="caylus-abhandlung" type="neuzeit">
+<lemma>Caylus, <titel>Vermischte Abhandlungen</titel></lemma>
+<eintrag>Des Herrn Grafen von Caylus Abhandlungen zur Geschichte und zur Kunst. Aus dem Französischen übersetzt von J. G. Meusel. Nebst einer Vorrede von Herrn Klotz (Altenburg: Richter 1768).
 </eintrag>
 </subsection>
 </kommentar>
@@ -13505,6 +13515,11 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <kommentar id="wilde" type="neuzeit">
 <lemma>Peter Ernst Wilde</lemma>
 <eintrag>1732–1785. Privatlehrer und Arzt.</eintrag>
+</kommentar>
+
+<kommentar id="wilhelm-schaumburg-lippe" type="neuzeit">
+<lemma>Graf Wilhelm Friedrich Ernst zu Schaumburg-Lippe</lemma>
+<eintrag>1724–1777. Regent der Grafschaft Schaumburg-Lippe, Generalmajor im Siebenjährigen Krieg und Militärtheoretiker.</eintrag>
 </kommentar>
 
 <kommentar id="willamovius" type="neuzeit">
