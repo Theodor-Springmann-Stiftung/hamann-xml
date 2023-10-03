@@ -1848,6 +1848,15 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="butler" type="neuzeit">
+<lemma>Samuel Butler</lemma>
+<eintrag>1612–1680. Engl satirischer Dichter während des Bürgerkriegs, siehe <wwwlink address="https://www.britannica.com/biography/Samuel-Butler-English-author-1612-1680"> Encyclopaedia Britannica</wwwlink>.</eintrag>
+<subsection id="butler-hudibras" type="neuzeit">
+<lemma>Butler, <titel>Hudibras</titel></lemma>
+<eintrag>Hudibras, in three parts, written in the Time of the late wars (3 Bde., 1662–1678) [Biga&#x202F;172/692: „Hudibras with Cuts design’d and engrav’d by Hogard, Lond. 739. Donum Herderi nostri.“]. Digitalisat einer Ausgabe Cambridge 1744: <wwwlink address=" 	http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-3501 ">LB Oldenburg</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="buttlar-ej" type="neuzeit">
 <lemma>Ernst Johann v. Buttlar</lemma>
 <eintrag>1690–1771. Erbherr von Bersebeck, schwedischer Kammerherr in Kurland und Starost auf Kewillen. 1737–57 (mit Unterbrechungen) russ. Resident im Herzogtum Kurland, dadurch sehr einflussreich. Verpachtete sequestierte Lehnsgüter an kurl. Edelleute u. schuf dadurch eine Gruppe, die durch ihr persönliches Interesse an Russland gebunden war. <wwwlink address="https://bbld.de/GND1194610919">Buttlar, Ernst Johann v., in: <titel>Baltisches Biographisches Lexikon</titel>, S.&#x202F;135</wwwlink>.</eintrag>
@@ -1883,7 +1892,7 @@ C
 
 <kommentar id="camoens" type="neuzeit">
 <lemma>Luís de Camões</lemma>
-<eintrag>1524/1525–1680. Portugiesischer Nationaldichter, siehe <wwwlink address="https://theodora.com/encyclopedia/c/luis_vaz_de_camoens.html">Encyclopedia Britannica 1911</wwwlink>.</eintrag>
+<eintrag>1524/1525–1680. Portugiesischer Nationaldichter, siehe <wwwlink address="https://theodora.com/encyclopedia/c/luis_vaz_de_camoens.html">Encyclopedia Britannica</wwwlink>.</eintrag>
 <subsection id="camoens-lusiadas" type="neuzeit">
 <lemma>Camões, <titel>Os Lusíadas</titel></lemma>
 <eintrag>
@@ -2038,6 +2047,17 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <eintrag>
 <titel>Le philosophe malgré lui</titel> (Amsterdam 1760).<line type="break" />
 Übers.: <titel>Der Weltweise wider seinen Willen; in Briefen abgefasset; a. d. Frz. des Hrn. Chamberlan ins Teutsche übersetzt v. Jacob Schultes</titel> (2&#xA0;Tle, Ulm: Bartholomäische Handlung 1761). Digitalisat: <wwwlink address="https://www.deutsche-digitale-bibliothek.de/item/67UBNRWMTDLCJBMM2EJ46UYUMZFDRQP2">Nds. Staats- und Universitätsbibliothek Göttingen: - DD2002 A 265</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="churchill" type="neuzeit">
+<lemma>Charles Churchill</lemma>
+<eintrag>1731–1764. Engl. Landprediger und Satiriker, siehe <wwwlink address="https://www.britannica.com/biography/Charles-Churchill">Encyclopaedia Britannica</wwwlink>.</eintrag>
+<subsection id="churchill-sermons" type="neuzeit">
+<lemma>Churchill, <titel>Sermons</titel></lemma>
+<eintrag>
+<titel>Sermons,</titel> with dedication to Warburton (London 1765).
 </eintrag>
 </subsection>
 </kommentar>
@@ -5906,10 +5926,6 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <lemma>William Hogarth</lemma>
 <eintrag>1697–1764. Engl. Maler und Kupferstecher, Kunsttheoretiker. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13464">Bindman, D.: Hogarth, William, in: <titel>Oxford DNB</titel></wwwlink>.
 </eintrag>
-<subsection id="Hogarth-Hudibras" type="neuzeit" sort="10">
-<lemma>Hogarth, <titel>Hudibras</titel></lemma>
-<eintrag>Hudibras, in 3 parts; written in the time of the Late Wars; corr. and amended with additions, to which is add. annotations, with an exact index to the whole (London 1726) [Biga&#x202F;172/692: „Hudibras with Cuts design’d and engrav’d by Hogard, Lond. 739. Donum Herderi nostri.“].</eintrag>
-</subsection>
 <subsection id="hogarth-zergliederung" type="neuzeit" sort="20">
 <lemma>Hogarth, <titel>The analysis of beauty</titel></lemma>
 <eintrag>
@@ -12153,11 +12169,18 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <lemma>Laurence Sterne</lemma>
 <eintrag>1713–1768. Engl.-irischer Schriftsteller, siehe <wwwlink address="https://www.britannica.com/biography/Laurence-Sterne">Cash, Arthur H.: Laurence Sterne, in: <titel>Encyclopedia Brittannica</titel></wwwlink>.
 </eintrag>
-<subsection id="sterne-shandy" type="neuzeit">
+<subsection id="sterne-shandy" type="neuzeit" sort="10">
 <lemma>Sterne, <titel>Tristram Shandy</titel></lemma>
 <eintrag>
 <titel>The Life and Opinions of Tristram Shandy, Gentleman.</titel> Bd. 1–2 London 1760; Bd. 3–4 1761/1762; Bd. 7–8 1765; Bd. 9 1767.<line type="break" />
 Übers.: <titel>Das Leben und die Meynungen des Herrn Tristram Shandy.</titel> 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763) [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“]. Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>.
+</eintrag>.
+</subsection>
+<subsection id="sterne-sermons" type="neuzeit" sort="20">
+<lemma>Sterne, <titel>Sermons</titel></lemma>
+<eintrag>
+<titel>The Sermons of Mr. Yorick</titel> (Bd. 1–2 London 1760; Bd. 3–4 1767; Bd. 5–7 1769) [Biga&#x202F;57/630: „Sermons of Mr. Yorick, Tom. I–IV. Dubl. 766“].<line type="break" />
+Übers.: <titel>Predigten von Laurence Sterne oder Yörik.</titel> Aus dem Engl. übersetzt (anonym, 2 Bde., Zürich 1766/1767).
 </eintrag>.
 </subsection>
 </kommentar>
