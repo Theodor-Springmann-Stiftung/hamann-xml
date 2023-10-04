@@ -218,6 +218,21 @@ A
 </subsection>
 </kommentar>
 
+<kommentar id="anstey" type="neuzeit">
+<lemma>Christopher Anstey</lemma>
+<eintrag>1724–1805. Engl. satirische Dichter, siehe <wwwlink address="https://www.britannica.com/biography/Christopher-Anstey">Encyclopaedia Britannica</wwwlink>.</eintrag>
+<subsection id="anstey-guide" type="neuzeit" sort="10">
+<lemma>Anstey, <titel>The New Bath Guide</titel></lemma>
+<eintrag><titel>The New Bath Guide,</titel> or Memoirs of the B-r-d (Blunderhead) Family in a Series of Poetical epistles (London: Dodsley 1766). Digitalisat der 11. Auflage 1779: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10744798-4">BSB München: P.o.angl. 28 mh</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="anstey-patriot" type="neuzeit" sort="20">
+<lemma>Anstey, <titel>The Patriot</titel></lemma>
+<eintrag><titel>The Patriot:</titel> A pindaric Address to the Lord Buckhorse. With an Appendix (Cambridge 1767). Digitalisat der 2. Auflage 1768: <wwwlink address="https://books.google.de/books?id=VYlbAAAAcAAJ">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="apelles" type="neuzeit">
 <lemma>Apelles von Kolophon</lemma>
 <eintrag>4. Jahrhundert v.&#x202F;Chr. Griech. Maler.</eintrag>
@@ -1850,7 +1865,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="butler" type="neuzeit">
 <lemma>Samuel Butler</lemma>
-<eintrag>1612–1680. Engl satirischer Dichter während des Bürgerkriegs, siehe <wwwlink address="https://www.britannica.com/biography/Samuel-Butler-English-author-1612-1680"> Encyclopaedia Britannica</wwwlink>.</eintrag>
+<eintrag>1612–1680. Engl satirischer Dichter während des Bürgerkriegs, siehe <wwwlink address="https://www.britannica.com/biography/Samuel-Butler-English-author-1612-1680">Encyclopaedia Britannica</wwwlink>.</eintrag>
 <subsection id="butler-hudibras" type="neuzeit">
 <lemma>Butler, <titel>Hudibras</titel></lemma>
 <eintrag>Hudibras, in three parts, written in the Time of the late wars (3 Bde., 1662–1678) [Biga&#x202F;172/692: „Hudibras with Cuts design’d and engrav’d by Hogard, Lond. 739. Donum Herderi nostri.“]. Digitalisat einer Ausgabe Cambridge 1744: <wwwlink address=" 	http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-3501 ">LB Oldenburg</wwwlink>.</eintrag>
@@ -2032,7 +2047,12 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <kommentar id="caylus" type="neuzeit">
 <lemma>Anne-Claude-Philippe, Comte de Caylus</lemma>
 <eintrag>1692–1765. Frz. Kunstsammler und Theoretiker.</eintrag>
-<subsection id="caylus-abhandlung" type="neuzeit">
+<subsection id="caylus-recueil" type="neuzeit" sort="10">
+<lemma>Caylus, <titel>Recueil d’antiquités</titel></lemma>
+<eintrag>Recueil d’antiquités égyptiennes, étrusque, grecques, romaines et gauloises (7 Bde., Paris 1752–1767). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10637503-9">BSB München: 4 39.1289</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="caylus-abhandlung" type="neuzeit" sort="20">
 <lemma>Caylus, <titel>Vermischte Abhandlungen</titel></lemma>
 <eintrag>Des Herrn Grafen von Caylus Abhandlungen zur Geschichte und zur Kunst. Aus dem Französischen übersetzt von J. G. Meusel. Nebst einer Vorrede von Herrn Klotz (Altenburg: Richter 1768).
 </eintrag>
@@ -2057,7 +2077,7 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <subsection id="churchill-sermons" type="neuzeit">
 <lemma>Churchill, <titel>Sermons</titel></lemma>
 <eintrag>
-<titel>Sermons,</titel> with dedication to Warburton (London 1765).
+<titel>Sermons.</titel> By Charles Churchill (London 1765). Digitalisat der Ausgabe Dublin 1765: <wwwlink address="https://archive.org/details/bim_eighteenth-century_sermons-by-charles-chur_churchill-c-charles_1765">Internet Archive</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -2218,7 +2238,7 @@ Vida y Hechos del ingenioso Hidalgo <titel>Don Quixote de la Mancha,</titel> com
 <subsection id="chrysostomus-predigten" type="neuzeit" sort="10">
 <lemma><link ref="cramer-ja" linktext="false">Cramer</link> (Hg.), <titel>Johannes Chrysostomus Predigten</titel></lemma>
 <eintrag>
-<titel>Des Heiligen Kirchenlehrers Johannes Chrysostomus Erzbischofs und Patriarchen zu Constantinopel Predigten und Kleine Schriften. Aus dem Griechischen übersetzt. Mit Abhandlungen und Anmerkungen begleitet. Mit einer Vorrede Herrn D. <link ref="teller" linktext="false">Romanus Teller</link></titel> (9&#x202F;Bde., Leipzig: Dyck 1748–51). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10606461-5">BSB München: P.gr. 78-1</wwwlink>.
+<titel>Des Heiligen Kirchenlehrers Johannes Chrysostomus Erzbischofs und Patriarchen zu Constantinopel Predigten und Kleine Schriften. Aus dem Griechischen übersetzt. Mit Abhandlungen und Anmerkungen begleitet. Mit einer Vorrede Herrn D. <link ref="teller" linktext="false">Romanus Teller</link></titel> (9&#x202F;Bde., Leipzig: Dyck 1748–1751). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10606461-5">BSB München: P.gr. 78-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -4612,6 +4632,19 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <lemma>Graville, <titel>L’Homme vrai</titel></lemma>
 <eintrag>
 <titel>L’Homme vrai</titel> (Paris 1762).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="gray" type="neuzeit">
+<lemma>Thomas Gray</lemma>
+<eintrag>1716–1771. Engl. Dichter und klassischer Philologe, bekannt für seine empfindsamen Gedichte wie die klassische „Elegy Written in a Country Church-yard“ (1751),  siehe <wwwlink address="https://www.britannica.com/biography/Thomas-Gray-English-poet">Encyclopedia Britannica</wwwlink>.</eintrag>
+<subsection id="gray-bentley" type="neuzeit">
+<lemma>Gray, <titel>Disigns by Mr. R. Bentley for six Poems by Mr. T. Gray</titel></lemma>
+<eintrag><titel>Disigns by Mr. R. Bentley for six Poems by Mr. T. Gray</titel> (London: Dodsley 1753). Digitalisat: <wwwlink address=" 	https://books.google.de/books?id=-KtwctLksmcC">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="gray-poems" type="neuzeit">
+<lemma>Gray, <titel>Poems</titel></lemma>
+<eintrag><titel>Poems</titel>. by Mr. Gray (London: Dodsley 1768) Digitalisat der Ausgabe 1770: <wwwlink address=" 	http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-1552 ">LB Oldenburg</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -12183,7 +12216,14 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 Übers.: <titel>Predigten von Laurence Sterne oder Yörik.</titel> Aus dem Engl. übersetzt (anonym, 2 Bde., Zürich 1766/1767).
 </eintrag>.
 </subsection>
-</kommentar>
+<subsection id="sterne-journey" type="neuzeit" sort="30">
+<lemma>Sterne, <titel>Sentimental Journey</titel></lemma>
+<eintrag>
+<titel>A Sentimental Journey Through France and Italy.</titel> By Mr. Yorick (London 1768). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750306-5">BSB München: P.o.angl. 400-1/2</wwwlink>.<line type="break" />
+Übers.: <titel>Yoricks empfindsame Reise durch Frankreich und Italien,</titel> übersetzt von <link ref="bode-jjc" linktext="true" /> (Hamburg, Bremen 1768). Digitalisat der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10930080-8">BSB München: P.o.angl. 405-1/2</wwwlink>.
+</eintrag>.
+</subsection>
+</kommentar>sterne-reise
 
 <kommentar id="steuart" type="neuzeit">
 <lemma>James Steuart</lemma>

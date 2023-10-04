@@ -25810,7 +25810,7 @@ Brief 228
 </marginal>
 
 <marginal letter="228" page="156" line="26">
-<bzg>gleich der Hagar</bzg> <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 21,10</link> 
+<bzg>gleich der Hagar</bzg> <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 21,10</link>
 </marginal>
 
 <marginal letter="228" page="156" line="28">
@@ -38805,7 +38805,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal letter="331" page="378" line="7">
-<bzg>Gesch. des Yoriks</bzg> Pastor Yorick ist das alter ego von <link ref="sterne" linktext="true" />. Unklar, ob sich „Gesch. des Yoriks“ auf <link ref="sterne" subref="sterne-shandy" linktext="true" /> oder auf <titel>Yoricks empfindsame Reise durch Frankreich und Italien</titel> bezieht (es erschien erst 1768, wurde aber mglw. schon angekündigt?!?)
+<bzg>Gesch. des Yoriks</bzg> Pastor Yorick ist das alter ego von <link ref="sterne" linktext="true" />. Unklar, ob sich „Gesch. des Yoriks“ auf <link ref="sterne" subref="sterne-shandy" linktext="true" /> oder auf <link ref="sterne" subref="sterne-journey" linktext="true" /> bezieht (die Übersetzung erschien erst 1768, wurde aber mglw. schon angekündigt?!?)
 </marginal>
 
 <marginal letter="331" page="378" line="8" sort="2">
@@ -38813,7 +38813,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal letter="331" page="378" line="8" sort="1">
-<bzg>Uebers.</bzg> Übersetzer von <link ref="sterne" subref="sterne-shandy" linktext="true" /> in der Ausgabe Berlin 1763 war der Arzt Johann Friedrich Zückert; <titel>Yoricks empfindsame Reise durch Frankreich und Italien</titel> (Hamburg, Bremen 1768) wurde von <link ref="bode-jjc" linktext="true" /> übersetzt.
+<bzg>Uebers.</bzg> Übersetzer von <link ref="sterne" subref="sterne-shandy" linktext="true" /> in der Ausgabe Berlin 1763 war der Arzt Johann Friedrich Zückert; <titel>Yoricks empfindsame Reise durch Frankreich und Italien</titel> wurde von <link ref="bode-jjc" linktext="true" /> übersetzt (Hamburg, Bremen 1768)
 </marginal>
 
 <marginal letter="331" page="378" line="9">
@@ -41757,6 +41757,10 @@ Brief Nr. 353
 
 <marginal letter="353" page="425" line="14">
 <bzg>Rußischen Platon…</bzg> <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399177-0"><titel>Rechtgläubige Lehre, oder kurzer Auszug der christlichen Theologie</titel> […] verfasset von Seiner Kaiserlichen Hoheit Lehrer, dem Jeromonach Platon, nunmehrigen Archimandriten des Troitzschen Klosters.</wwwlink> Aus dem Rußischen (Riga: Hartknoch 1770); vgl. Herders Vorrede SWS XXXII,&#x202F;202
+</marginal>Homilien des Chrysostoms 
+
+<marginal letter="353" page="425" line="17">
+<bzg>Homilien des Chrysostoms</bzg> <link ref="chrysostomus" subref="chrysostomus-predigten" linktext="true" />
 </marginal>
 
 <marginal letter="353" page="425" line="19" sort="1">
@@ -41804,18 +41808,71 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="426" line="4">
-<bzg>Sterne’s Laune</bzg> zum Launischen in der englischen Literatur vgl. <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, S.&#x202F;585
+<bzg>Sterne’s Laune</bzg> <link ref="sterne" linktext="true" />; zum Launischen in der englischen Literatur vgl. <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, S.&#x202F;585
 </marginal>
 
 <marginal letter="353" page="426" line="5">
-<bzg>sentimental journey</bzg>
+<bzg>sentimental journey</bzg> <link ref="sterne" subref="sterne-journey" linktext="true" />
 </marginal>
 
+<marginal letter="353" page="426" line="9">
+<bzg>Tristram</bzg> <link ref="sterne" subref="sterne-shandy" linktext="true" />
+</marginal>
 
+<marginal letter="353" page="426" line="13">
+<bzg>a pindaric address…</bzg> <link ref="anstey" subref="anstey-patriot" linktext="true" />
+</marginal>
 
-<marginal letter="353" page="426" line="26">
+<marginal letter="353" page="426" line="16">
+<bzg>the new Bath Guide…</bzg> <link ref="anstey" subref="anstey-guide" linktext="true" />
+</marginal>
+
+<marginal letter="353" page="426" line="18" sort="1">
+<bzg>Gay’schen Oden</bzg> Verschreibung für <link ref="gray" linktext="true" />
+</marginal>
+
+<marginal letter="353" page="426" line="18" sort="2">
+<bzg>Collection of several Poems</bzg> <link ref="dodsley" subref="dodsley-collection" linktext="true" />
+</marginal>
+
+<marginal letter="353" page="426" line="21">
+<bzg>Royalfolio</bzg> etwa 20&#x202F;inches bzw. 51&#x202F;cm Blatthöhe
+</marginal>
+
+<marginal letter="353" page="426" line="24">
+<bzg>Schröder</bzg> ein Student und Freund von Herder und <link ref="hartknoch" linktext="false">Hartknoch</link>
+</marginal>Miss Bèrens
+
+<marginal letter="353" page="426" line="26" sort="1">
 <bzg>Martinstage</bzg> der Martinstag liegt fest auf dem 11. November; nach gregorianischem Kalender schreibt Herder also am 22. November 1768
 </marginal>
+
+<marginal letter="353" page="426" line="26" sort="2">
+<bzg>Miss Bèrens</bzg> <link ref="berens-js" linktext="true" />
+</marginal>
+
+<marginal letter="353" page="426" line="27">
+<bzg>Schwarz, Secr. u. not. publ.</bzg> Adam Heinrich Schwarz (1740–1800), aus der Rigaer Kaufmanns- und Ratsherrn-Familie Schwarz; Secr. u. not. publ.: Sekretär und notarius publicus (öffentlicher Notar)
+</marginal>
+
+<marginal letter="353" page="426" line="28">
+<bzg>a nuptial wish to Mr. Schwarz and Miss Berens</bzg> vgl. die in SWS XXIX,&#x202F;34 genannte Publikation: „Drey moralische lieder dem moralischen Schwarz und Berensschen Brautpaar zum freundschaftlichen Denkmahl verehret. den 11. November 1768“ (dort ist aber nur Herders „Wiegenlied“ abgedruckt)
+</marginal>
+
+<marginal letter="353" page="426" line="31">
+<bzg>ausgebracht</bzg> ins Gerede gebracht
+</marginal>
+
+<marginal letter="353" page="426" line="35">
+<bzg>Abimelech</bzg> <link ref="at-mo1" subref="at-mo1-20" linktext="false">1 Mo 20,2</link>
+</marginal>
+
+<marginal letter="353" page="426" line="35">
+<bzg>recueil…</bzg> <link ref="caylus" subref="caylus-recueil" linktext="true" />
+</marginal>
+
+
+
 
 <marginal letter="353" page="428" line="3">
 <bzg>Instruktion</bzg> <link ref="katharina" subref="katharina-instruction" linktext="true" />, vgl. <intlink letter="348" page="407" line="28" linktext="true" />
