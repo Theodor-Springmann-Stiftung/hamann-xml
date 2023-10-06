@@ -6752,8 +6752,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="354">
-        <date value="St. Petersburg, 25. Dezember 1768" />
-        <sort value="1768-12-25" />
+        <date value="St. Petersburg, 5. Januar 1769" />
+        <sort value="1769-01-05" />
         <location ref="17" />
         <senders>
           <sender ref="44" />
@@ -6765,7 +6765,7 @@
         <isProofread value="true" />
         <isDraft value="false" />
         <ZHInfo inZH="true">
-          <dateChanged value="false" />
+          <dateChanged value="true" />
           <begin vol="2" page="428" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
