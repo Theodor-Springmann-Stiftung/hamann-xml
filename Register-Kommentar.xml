@@ -3213,7 +3213,7 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 <eintrag>1732–1815. Schottischer Presbyterianer und Schriftsteller.
 </eintrag>
 <subsection id="duff-genius" type="neuzeit">
-<lemma>Duff, <titel>An essay on original genius;</titel> and its various modes of exertion in philosophy and the fine arts, particularly in poetry</lemma>
+<lemma>Duff, <titel>An essay on original genius</titel> </lemma>
 <eintrag>
 <titel>An essay on original genius;</titel> and its various modes of exertion in philosophy and the fine arts, particularly in poetry (London 1767) [Biga&#x202F;118/293: „(Will. Duff’s) Essay on original Genius and its various Modes of exertion in Philosophy and the fine Arts, Lond. 767“]. Digitalisat: <wwwlink address="https://archive.org/details/essayonoriginalg00duffiala">Internet Archive</wwwlink>.
 </eintrag>
@@ -4286,7 +4286,7 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 
 <kommentar id="gentlemens-magazine" type="neuzeit">
 <lemma>The Gentleman’s Magazine</lemma>
-<eintrag>1731–1907 erschienenes Londoner Periodium, das vor allem Auszüge aus anderen Zeitschriften und Büchern sammelte.</eintrag>
+<eintrag>1731–1907 erschienenes Londoner Periodium, das vor allem Auszüge aus anderen Zeitschriften und Büchern sammelte. Hamann nutzte es als Quelle für seine Übersetzungen aus dem Englischen für die <link ref="kgpz" linktext="true" />. Digitalisat: <wwwlink address="https://catalog.hathitrust.org/Record/000542092">Hathi Trust</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="georg" type="neuzeit">
@@ -9237,11 +9237,11 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 
 <kommentar id="moritz-sachsen" type="neuzeit">
 <lemma>Moritz von Sachsen</lemma>
-<eintrag>1696–1750. Sächsisch-französischer Feldherr und Kriegstheoretiker, illegitimer Sohn August des Starken siehe <wwwlink address="https://www.deutsche-biographie.de/sfz65512.html">Wartenberg, Günther: Moritz, in: <titel>ADB</titel>&#x202F;18 (1997), S.&#x202F;141–143</wwwlink>.</eintrag>
+<eintrag>1696–1750. Sächsisch-französischer Feldherr und Kriegstheoretiker, illegitimer Sohn August des Starken, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz65512.html">Wartenberg, Günther: Moritz, in: <titel>ADB</titel>&#x202F;18 (1997), S.&#x202F;141–143</wwwlink>.</eintrag>
 <subsection id="moritz-reveries" type="neuzeit" sort="10">
 <lemma>Moritz von Sachsen, <titel> Rêveries</titel></lemma>
 <eintrag>
-<titel>Les Rêveries ou Mémoires sur l'art de la guerre</titel> de Maurice comte de Saxe (Den Haag: Gosse 1756). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1041163f.image">Bibliothèque nationale de France, FOL-S-1727</wwwlink>..</eintrag>
+<titel>Les Rêveries ou Mémoires sur l’art de la guerre</titel> de Maurice comte de Saxe (Den Haag: Gosse 1756). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1041163f.image">Bibliothèque nationale de France, FOL-S-1727</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -11361,7 +11361,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <subsection id="schmid-theorie" type="neuzeit" sort="10">
 <lemma>Schmid, <titel>Theorie der Poesie nach den neuesten Grundsätzen</titel></lemma>
 <eintrag>
-<titel>Theorie der Poesie nach den neuesten Grundsätzen, und Nachricht von den besten Dichtern nach den angenommenen Urtheilen</titel> (4 Bde., Leipzig 1767/70) [Biga&#x202F;134/69: „C. H. Schmidts Theorie der Poesie, 1. 2. 3. Th. Leipz. 767“].</eintrag>
+<titel>Theorie der Poesie nach den neuesten Grundsätzen, und Nachricht von den besten Dichtern nach den angenommenen Urtheilen</titel> (4 Bde., Leipzig 1767/70) [Biga&#x202F;134/69: „C. H. Schmidts Theorie der Poesie, 1. 2. 3. Th. Leipz. 767“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574619-6">BSB München: L.eleg.g. 357-1</wwwlink>.</eintrag>
+</subsection><subsection id="schmid-zusatze" type="neuzeit" sort="20">
+<lemma>Schmid, <titel>Zusätze zur Theorie der Poesie</titel></lemma>
+<eintrag>
+M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachrichten von den besten Dichtern</titel> (4 Bde., Leipzig 1768/1769) ]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10812780-0">BSB München: L.eleg.g. 357-2,1/4</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 

@@ -42043,7 +42043,7 @@ Brief Nr. 355
 </marginal>
 
 <marginal letter="355" page="431" line="15">
-<bzg>Berl. ihrs</bzg> 12/2, Berlin/Stettin 1770, S. 284–285, Kürzel S [Nicolai]; ADB/Bielefeld-Website grad down, später eintragen?!?
+<bzg>Berl. ihrs</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />,12.&#x202F;Bd., 2.&#x202F;St. (1770), S.&#x202F;284f., Kürzel S (Nicolai); ist mehr eine Anzeige mit Invektive gegen Klotz; passt zeitlich nicht, andere berliner Rezensio?!?
 </marginal>
 
 <marginal letter="355" page="431" line="20">
@@ -42119,7 +42119,39 @@ Brief Nr. 355
 </marginal>
 
 <marginal letter="355" page="432" line="19">
-<bzg>Caylus</bzg> <link ref="caylus" subref="caylus-recueil" linktext="true" />
+<bzg>Caylus</bzg> <link ref="caylus" subref="caylus-recueil" linktext="true" />, vgl. <intlink letter="353" page="427" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="355" page="432" line="20">
+<bzg>Home</bzg> <link ref="kames" linktext="true" />
+</marginal>
+
+<marginal letter="355" page="432" line="21">
+<bzg>philosophical Enquiry</bzg> <link ref="burke" subref="burke-enquiry" linktext="true" />, vgl. <intlink letter="353" page="425" line="6" linktext="true" />
+</marginal>
+
+<marginal letter="355" page="432" line="22">
+<bzg>Humes Versuch…</bzg> <link ref="hume" subref="hume-essays" linktext="true" />, 4.&#x202F;Bd., S.&#x202F;189–234
+</marginal>
+
+<marginal letter="355" page="432" line="23">
+<bzg>Marechal de Saxe Reveries</bzg> <link ref="moritz-sachsen" subref="moritz-reveries" linktext="true" />, vgl. <intlink letter="350" page="416" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="355" page="432" line="24">
+<bzg>Churchill</bzg> <link ref="churchill" linktext="true" />, vgl. <intlink letter="353" page="426" line="2" line="" linktext="true" />
+</marginal>
+
+<marginal letter="355" page="432" line="25">
+<bzg>Baffy über das Originalgenie</bzg> wohl <link ref="duff" subref="duff-genius" linktext="true" />
+</marginal>
+
+<marginal letter="355" page="432" line="26">
+<bzg>schlechte Beurtheilungen im Magaz.</bzg> <link ref="gentlemens-magazine" linktext="true" />, Juni 1767, S.&#x202F;309–313
+</marginal>
+
+<marginal letter="355" page="432" line="27">
+<bzg>Schmidt Anführung</bzg> <link ref="schmid" subref="schmid-zusatze" linktext="true" />
 </marginal>
 
 
