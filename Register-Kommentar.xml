@@ -1730,6 +1730,18 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </eintrag>
 </kommentar>
 
+<kommentar id="buchwitz" type="neuzeit">
+<lemma>Johann Ludwig Buchwitz</lemma>
+<eintrag>Gest. 1769. Prediger.
+</eintrag>
+<subsection id="buchwitz-briefe" type="neuzeit">
+<lemma>Buchwitz, <titel>Freimüthige Briefe über das Christenthum</titel></lemma>
+<eintrag>
+<titel>Freimüthige Briefe über das Christenthum</titel> (Berlin 1769) [Biga&#x202F;145/247: „(Cube) freymüthige Briefe über das Christenthum, Berl. 769“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10778137-5">BSB München: Polem. 3111 g#Beibd.1</wwwlink>.<line type="break" />
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="buck" type="neuzeit">
 <lemma>Friedrich Johann Buck</lemma>
 <eintrag>1722–1786. Prof. der Logik und Metaphysik in Königsberg, wechselte 1770 zur Mathematik, worauf Kant eine ordentliche Prof. bekam, Oberbibliothekar der Ratsbibliothek, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz6261.html#adbcontent">Cantor, Moritz: Buck, Friedrich Johann, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;494</wwwlink>.
@@ -3013,7 +3025,7 @@ vermutl. zus. mit <link ref="auvigny" linktext="true" />, <titel>Anecdotes galan
 
 <kommentar id="deutsche-bibliothek" type="neuzeit">
 <lemma>Deutsche Bibliothek der schönen Wissenschaften</lemma>
-<eintrag>Herausgegeben von <link ref="klotz" linktext="true" />, Halle: Gebauer 1767–71. Bd. 1–6 (= St. 1–24) [Biga&#x202F;137/132: „Klotzens Bibliothek der schönen Wissenschaften, 1–9ter Th. Halle“]. –<wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112604-1">München, Bayerische Staatsbibliothek -- P.o.germ. 741-1/2</wwwlink>.
+<eintrag>Herausgegeben von <link ref="klotz" linktext="true" />, Halle: Gebauer 1767–71. Bd. 1–6 (= St. 1–24) [Biga&#x202F;137/132: „Klotzens Bibliothek der schönen Wissenschaften, 1–9ter Th. Halle“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112604-1">München, Bayerische Staatsbibliothek -- P.o.germ. 741-1/2</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -13026,6 +13038,17 @@ V
 <kommentar id="vegesack" type="neuzeit">
 <lemma>Gotthard v. Vegesack</lemma>
 <eintrag>Ab 1746 Bürgermeister in Riga.</eintrag>
+</kommentar>
+
+<kommentar id="velazquez" type="neuzeit">
+<lemma>Luis José Velázquez de Velasco</lemma>
+<eintrag>1722–1772. Span. Historiker und Literaturhistoriker.</eintrag>
+<subsection id="velazquez-dichtkunst" type="neuzeit">
+<lemma>Velázquez, <titel>Geschichte der Spanischen Dichtkunst</titel></lemma>
+<eintrag>
+<titel>Orígenes de la poesía castellana</titel> (Málaga 1754). Übers.: Don Luis Joseph Velazquez <titel>Geschichte der Spanischen Dichtkunst</titel>. Aus dem Spanischen übersetzt und mit Anmerkungen erläutert von Johann Andreas Dieze […] (Göttingen 1769) [Biga&#x202F;146/274: „Velazques Geschichte der spanischen Dichtkunst, durch Diez, Gött. 769“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10624736-1">BSB München: P.o.hisp. 217</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="verbrugge" type="neuzeit">
