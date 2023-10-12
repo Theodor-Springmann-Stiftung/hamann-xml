@@ -26241,6 +26241,14 @@ Brief Nr. 232
 <bzg>Mr. Thomas</bzg> <link ref="thomas" subref="thomas-oeuvres" linktext="true" />, darin <titel>Jumonville, poème en IV chants</titel> (Paris 1759); <titel>Eloge de Maurice, comte de Saxe, qui a remporté le prix de l’academie française</titel> (Paris 1759); <titel>Eloge de H. Fr. d’Aguesseau, chancellier de France, qui a remporté le prix de l’academie française</titel> (Paris 1760) und <titel>Eloge de Réné Dugnay- Tronin, lieutenant général des armées navales, qui a remporté le prix de l’academie française</titel> (Paris 1761). 
 </marginal>
 
+<marginal letter="232" page="164" line="16">
+<bzg>Grafen von Sachsen</bzg> <link ref="moritz-sachsen" linktext="true" />
+</marginal>
+
+<marginal letter="232" page="164" line="17">
+<bzg>Daguesseau</bzg> <link ref="aguesseau" linktext="true" />
+</marginal>
+
 <marginal letter="232" page="164" line="19" sort="1">
 <bzg>Cleinows</bzg> <link ref="kleinow" linktext="true" />
 </marginal>
@@ -35880,7 +35888,7 @@ Brief Nr. 299
 </marginal>
 
 <marginal letter="299" page="327" line="25" sort="2">
-<bzg>Kennicotschen</bzg> Benjamin Kennicott (1718–1783), engl. Bibelforscher
+<bzg>Kennicotschen Sache</bzg> <link ref="kennicott" linktext="true" />
 </marginal>
 
 <marginal letter="299" page="327" line="26">
@@ -40299,7 +40307,7 @@ veröffentlichte sie aber nicht
 </marginal>
 
 <marginal letter="346" page="401" line="14" sort="2">
-<bzg>Göttinger</bzg> <link ref="goettingische-anzeigen" linktext="true" />, 27.3.1767 durch <link ref="haller" linktext="true" />
+<bzg>Göttinger</bzg> <link ref="goettingische-anzeigen" linktext="true" />, 38.&#x202F;St. vom 28.3.1767, S.&#x202F;303f.; von <link ref="haller" linktext="true" />
 </marginal>
 
 <marginal letter="346" page="401" line="15">
@@ -42253,7 +42261,7 @@ Brief Nr. 356
 </marginal>
 
 <marginal letter="356" page="434" line="13">
-<bzg>übersetzen</bzg> wohl die englischen Texte aus <link ref="gentlemens-magazine" linktext="true" /> für <intlink letter="kgpz" linktext="true" />, vgl. <intlink letter="355" page="431" line="30" linktext="true" />
+<bzg>übersetzen</bzg> wohl die englischen Texte aus <link ref="gentlemens-magazine" linktext="true" /> für <link ref="kgpz" linktext="true" />, vgl. <intlink letter="355" page="431" line="30" linktext="true" />
 </marginal>
 
 Brief Nr. 357
@@ -42267,11 +42275,11 @@ Brief Nr. 357
 </marginal>
 
 <marginal letter="357" page="434" line="28">
-<bzg>HE. de Lattre</bzg> Geheimer Rat, später Finanzrat Nicolas Constantin de Lattre, Steuerfachmann in der <link ref="generaladministration" linktext="true" /> in den späten 1760ern bis in die 1780er
+<bzg>HE. de Lattre</bzg> Geheimer Rat, später Finanzrat Nicolas Constantin de Lattre, Steuerfachmann im <link ref="generaldirektorium" linktext="true" /> in den späten 1760ern bis in die 1780er
 </marginal>
 
 <marginal letter="357" page="434" line="34">
-<bzg>Schmähschrift</bzg> <link ref="riedel" linktext="true" /> (ein Freund von <link ref="klotz" linktext="false">Klotz</link>) veröffentlichte in <link ref="deutsche-bibliothek" linktext="true" />, 9.&#x202F;St. (1769, dem ersten dieses Jahres), S.&#x202F;119–138 eine herbe Polemik gegen <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, und zwar bevor diese ausgeliefert wurde (die Auflage wurde schließlich einbehalten); Herder vermutete einen Diebstahl in der Druckerei und andere Intrigen, vgl. <intlink letter="358" page="439" line="25" linktext="true" />
+<bzg>Schmähschrift</bzg> <link ref="riedel" linktext="true" /> (ein Freund von <link ref="klotz" linktext="false">Klotz</link>) veröffentlichte in <link ref="deutsche-bibliothek" linktext="true" />, 9.&#x202F;St. (1769, dem ersten dieses Jahres), S.&#x202F;119–138 eine herbe Polemik gegen <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, und zwar bevor diese ausgeliefert wurde; Herder vermutete einen Diebstahl in der Druckerei und andere Intrigen (vgl. <intlink letter="358" page="439" line="25" linktext="true" />); die Auflage wurde schließlich einbehalten und makuliert, wohl auch um die <link ref="deutsche-bibliothek" linktext="true" /> in die unangenehme Situation zu bringen, ein nicht erschienenes Buch rezensiert zu haben
 </marginal>
 
 <marginal letter="357" page="435" line="2">
@@ -42332,6 +42340,78 @@ Brief Nr. 357
 
 <marginal letter="357" page="436" line="9" sort="2">
 <bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" />; hat der Justus Möser verlegt?!?
+</marginal>
+
+<marginal letter="357" page="436" line="12">
+<bzg>Göttingsche Gelehrte Zeitung</bzg> <link ref="goettingische-anzeigen" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="13">
+<bzg>Thomas Reden</bzg> <link ref="thomas" subref="thomas-sully" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="14">
+<bzg>plagii…</bzg> <link ref="goettingische-anzeigen" linktext="true" />, 33.&#x202F;St. vom 17.3.1764, S.&#x202F;261f.: „Da alles dieses geschrieben war, finden wir, fast mit Bedauren, daß ein sehr grosser Theil dieser gekrönten Rede aus einer im Jahre 1758 abgedruckten Schrift genommen ist, die zum Titel hat: Recherches &#x26; considerations sur les Finances de France. Hr. T.[homas] hat also vornemlich den Ruhm des Umkleidens verdient.“
+</marginal>
+
+<marginal letter="357" page="436" line="18">
+<bzg>Oberpraetor</bzg> wohl <link ref="zimmermann-ja" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="20">
+<bzg>requete</bzg> dt. Ansuchen, an <link ref="berens-jc" linktext="true" />, wegen der entliehenen Bücher, vgl. <intlink letter="351" page="421" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="23">
+<bzg>Daguesseau Oeuvres</bzg> <link ref="aguesseau" subref="aguesseau-oeuvres" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="25">
+<bzg>Pindar…</bzg> Herder bat wohl zuvor Hamann mündlich über <link ref="hartknoch" linktext="true" /> um eine <link ref="pindar" linktext="true" />-Ausgabe
+</marginal>
+
+<marginal letter="357" page="436" line="28">
+<bzg>Stark</bzg> <link ref="starck" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="29">
+<bzg>Libellus in Aeschyli Prom. vinct</bzg> <link ref="starck" subref="starck-aeschylo" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="30" sort="1">
+<bzg>Geh. R. Klotz</bzg> <link ref="klotz" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="30" sort="2">
+<bzg>Kanter verlegt jetzt etwas von ihm…</bzg> <link ref="starck" subref="starck-sylloge" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="33">
+<bzg>deutsche Abhandl.</bzg> mglw. <link ref="starck" subref="starck-apologie" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="36" sort="1">
+<bzg>Kennicottsche Project</bzg> <link ref="kennicott" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="436" line="36" sort="2">
+<bzg>aus Büsching</bzg> <link ref="starck" linktext="false">Starck</link> war Büschings Protegé; etwa in <link ref="busching" subref="busching-weltgeschichte" linktext="true" />, I,695 wird für das Kennicott’sche Projekt geworben
+</marginal>
+
+<marginal letter="357" page="436" line="37">
+<bzg>Geogr.</bzg> <link ref="busching" subref="busching-erdbeschreibung" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="437" line="2">
+<bzg>Basedow</bzg> <link ref="basedow" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="437" line="4">
+<bzg>meines Anfangs</bzg> <intlink letter="357" page="434" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="357" page="437" line="7">
+<bzg>Hintz…</bzg> <link ref="hinz" linktext="true" /> übernahm 1769 mit <link ref="steidel" linktext="true" /> die Mitauer Filiale der <link ref="hartknoch" linktext="false">Hartknochschen Buchhandlung</link>; Hinz betätigte sich aber zu sehr als Freimaurer (wie Hamann tadelt), der wohl, wie schon in seiner Königsberger Zeit als „Redner“ in der Loge Zu den drei Kronen, auch in Mitau dieses Amt bekleidete
 </marginal>
 
 </marginalien>
