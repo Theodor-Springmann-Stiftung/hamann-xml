@@ -6828,8 +6828,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="358">
-        <date value="Riga, März 1769" />
-        <sort value="1769-03-16" notBefore="1769-03-01" notAfter="1769-03-31" />
+        <date value="Riga, vor 31. März 1769" />
+        <sort value="1769-03-23" notBefore="1769-03-15" notAfter="1769-03-31" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
