@@ -2190,6 +2190,17 @@ Vida y Hechos del ingenioso Hidalgo <titel>Don Quixote de la Mancha,</titel> com
 </subsection>
 </kommentar>
 
+<kommentar id="cesarotti" type="neuzeit">
+<lemma>Melchiorre Cesarotti</lemma>
+<eintrag>1730–1808. Ital. Literaturkritiker und Übersetzer. </eintrag>
+</eintrag>
+<subsection id="cesarotti-ossian" type="neuzeit">
+<lemma>Cesarotti, <titel>Ossian</titel></lemma>
+<eintrag>
+<titel>Poesie di Ossian Figlio di Fingal</titel> antico Poeta Celtico ultimamente scoperte e tradotte in prosa Inglese da Jacopo Macpherson […] (Paris 1682).<line type="break" /> (Padua 1763).</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="chetardie" type="neuzeit">
 <lemma>Joachim Trotti de La Chétardie</lemma>
 <eintrag>1636–1714. Frz. Gesandter in Russland. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;8, 1813), S.&#x202F;355f.</eintrag>
@@ -2981,7 +2992,17 @@ Dangeuil verwandte sehr frei J. Tuckers <link ref="tucker" subref="tucker-essay"
 <kommentar id="denham" type="neuzeit">
 <lemma>James Steward Denham</lemma>
 <eintrag>1712–1780. Schott. Staatswissenschaftler.</eintrag>
+</kommentar>
 
+<kommentar id="denis" type="neuzeit">
+<lemma>Michael Denis</lemma>
+<eintrag>1729–1800. Österr. kathol. Priester, Kirchenlieddichter und bardischer Dichter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz9658.html">Bietak, Wilhelm: Denis, Michael, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;598f.</wwwlink></eintrag>
+<subsection id="denis-ossian" type="neuzeit" sort="10">
+<lemma>Denis (Übers.), <titel>Die Gedichte Ossians</titel></lemma>
+<eintrag>
+<titel>Die Gedichte Ossians</titel> eines alten celtischen Dichters, aus dem Englischen übersetzt von M. Denis (3 Bde., Wien 1768–1769). Digitalisat des ersten Bandes: <wwwlink address="https://books.google.de/books?id=7L6KIr5IJU0C">Google Books</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="descartes" type="neuzeit">
@@ -3527,6 +3548,12 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 <eintrag><titel>Colloquia familiaria</titel> (Basel 1528) [Biga&#x202F;72/225: „Erasmi Roterodami Colloquia ex. ed. <link ref="schrevel" linktext="false">Schreuelii</link>, Lugd. 664“].
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="erfurtische-gelehrte-zeitungen" type="neuzeit">
+<lemma>Erfurtische Gelehrte Zeitungen</lemma>
+<eintrag>Hg. in Erfurt 1769–1796 von <link ref="riedel" linktext="true" />, halbwöchentliches Rezensionsorgan (Nachfolger der Erfurtischen gelehrten Nachrichten). Digitalisat des Jahrgangs 1769: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN847157229_1769">SUB Göttingen</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="erotianus" type="neuzeit">
@@ -7289,6 +7316,17 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 </subsection>
 </kommentar>
 
+<kommentar id="kretschmann" type="neuzeit">
+<lemma>Karl Friedrich Kretschmann</lemma>
+<eintrag>1738–1809. Jurist in Zittau und Dichter der Bardenmode, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz45953.html">Schmidt, Erich: Kretschmann, Karl Friedrich, in: <titel>ADB</titel>&#x202F;17 (1883), S.&#x202F;131f.</wwwlink></eintrag>
+<subsection id="kretschmann-rhingulph" type="neuzeit" sort="10">
+<lemma>Kretschmann, <titel>Rhingulph</titel></lemma>
+<eintrag>
+<titel>Der Gesang Rhingulph’s des Barden.</titel> Als Varus geschlagen war (Leipzig 1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10113111-0">BSB München: P.o.germ. 771 kq</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="kretzschmar" type="neuzeit">
 <lemma>Christoph Kretzschmar</lemma>
 <eintrag>Rektor der Kreuzschule in Dresden
@@ -8356,11 +8394,11 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 
 <kommentar id="macpherson" type="neuzeit">
 <lemma>James Macpherson</lemma>
-<eintrag>1736–1796. Chevalier. Schott. Dichter, Verf. angeblich gälischer Originaldichtung, siehe <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-17728">Derick S. Thomson: Macpherson, James, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
+<eintrag>1736–1796. Chevalier. Schott. Dichter und Verfasser des Ossian, den er für eine gälische Originaldichtung ausgab, siehe <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-17728">Derick S. Thomson: Macpherson, James, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
 <subsection id="macpherson-fingal" type="neuzeit">
 <lemma>Macpherson, <titel>Fingal</titel></lemma>
 <eintrag>
-<titel>Fingal: an ancient epic poem, in six books: together with several other poems, composed by Ossian the son of Fingal. Translated from the Galic language</titel> (London: T. Becket and P. A. de Hondt 1762).
+<titel>Fingal:</titel> an ancient epic poem, in six books: together with several other poems, composed by Ossian the son of Fingal. Translated from the Galic language (London: T. Becket and P. A. de Hondt 1762).
 </eintrag>
 </subsection>
 </kommentar>
@@ -9310,6 +9348,18 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 </kommentar>
 
+<kommentar id="morelly" type="neuzeit">
+<lemma>Étienne-Gabriel Morelly</lemma>
+<eintrag>1717–1778. Frz. Philosoph der Aufklärung, .</eintrag>
+<subsection id="morelly-beaute" type="neuzeit" sort="10">
+<lemma>Morelly, <titel>Physique de la beauté</titel></lemma>
+<eintrag>
+<titel>Physique de la beauté,</titel> ou Pouvoir naturel de ses charmes (Brüssel 1748). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k65443298">Bibliothèque nationale de France, département Philosophie, histoire, sciences de l’homme, R-24059</wwwlink>.<line type="break" />
+Übers.: <titel>Die Lehre von der Schönheit und der Kraft ihrer Reize.</titel> Aus dem Französischen übersetzt (Breslau, Leipzig: Pietsch 1749) [Biga&#x202F;118/292: Die Lehre von der Schoenheit und der Kraft ihrer Reitze (Physique de la Beauté par Morelly) Bresl. 749]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574688-3">BSB München: L.eleg.g. 383 xg</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="morinus" type="neuzeit">
 <lemma>Stephan Morinus</lemma>
 <eintrag>1625–1700. Frz. Theologe, Orientalist.</eintrag>
@@ -9452,6 +9502,13 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <lemma>Mosheim, <titel>Institutiones Historiae Christianae Antiquioris</titel></lemma>
 <eintrag>
 <titel>Institutiones Historiae Christianae Antiquioris</titel> (Helmstedt: Weygand 1737) [Biga&#x202F;80/94: „J. L. Moshemii institutio Historiae Christianae antiquioris, Helmst. 737“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10026399-0">H.eccl. 781-1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="mosheim-serveti" type="neuzeit" sort="25">
+<lemma>Mosheim, <titel>Historia Michaelis Serveti</titel></lemma>
+<eintrag>
+<titel>Historia Michaelis Serveti</titel> (Helmstedt: 1727).<line type="break" />
+Übers.: Neue Nachrichten von dem berühmten Spanischen Arzte, Michael Serveto, der zu Geneve ist verbrannt worden (Helmstedt 1750).
 </eintrag>
 </subsection>
 <subsection id="mosheim-pastoral" type="neuzeit" sort="30">
@@ -11458,7 +11515,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 
 <kommentar id="schloezer" type="neuzeit">
 <lemma>August Ludwig Schlözer</lemma>
-<eintrag>1735–1809. Göttinger Historiker und Staatsrechtler, 1761–1770 in Russland u.a. als Adjunkt der Petersburger Akademie der Wissenschaften, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118608339.html#ndbcontent">Fleischer, Dirk: Schlözer, August Ludwig von, in: <titel>NDB</titel>&#x202F;23 (2007), S.&#x202F;98f.</wwwlink>.</eintrag>
+<eintrag>1735–1809. Göttinger Historiker und Staatsrechtler, 1761–1770 in Russland u.a. als Adjunkt der Petersburger Akademie der Wissenschaften, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118608339.html#ndbcontent">Fleischer, Dirk: Schlözer, August Ludwig von, in: <titel>NDB</titel>&#x202F;23 (2007), S.&#x202F;98f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="schmid-ch" type="neuzeit">
@@ -12123,14 +12180,17 @@ Zu Hamanns Bezug auf diesen Text in den Briefen 1759: <link ref="ste-h-2016" lin
 
 <kommentar id="sonnenfels" type="neuzeit">
 <lemma>Joseph Sonnenfels</lemma>
-<eintrag>1733–1817. Jurist, Staatsmann, Schriftsteller und Theaterreformer in Wien, siehe <wwwlink address="https://www.geschichtewiki.wien.gv.at/Joseph_von_Sonnenfels">Wien Geschichte Wiki</wwwlink>.
-<subsection id="sonnenfels-schaubuhne" type="neuzeit">
+<eintrag>1733–1817. Jurist, Staatsmann, Schriftsteller und Theaterreformer in Wien, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118615610.html">Reinalter, Helmut: Sonnenfels, Joseph Freiherr von, in: <titel>NDB</titel>&#x202F;24 (2010), S.&#x202F;576–578</wwwlink>.</eintrag>
+<subsection id="sonnenfels-theresie" type="neuzeit" sort="10">
+<lemma>Sonnenfels, <titel>Theresie und Eleonore</titel></lemma>
+<eintrag>
+<titel>Theresie und Eleonore,</titel> eine Wochenschrift von J. v. Sonnenfels (Wien: Trattner 1767). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN81902368X">SUB Göttingen: 8 S VA II, 1259</wwwlink>.</eintrag>
+</subsection>
+<subsection id="sonnenfels-schaubuhne" type="neuzeit" sort="20">
 <lemma>Sonnenfels, <titel>Briefe über die wienerische Schaubühne</titel></lemma>
 <eintrag>
 <titel>Briefe über die wienerische Schaubühne</titel> aus dem Französischen übersetzt (Wien: Kurzböck 1768) [Biga&#x202F;138/140: „Briefe über die Wienerische Schaubühne, 2. 3. 4ter Th.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6-85659521129">Universitäts- und Landesbibliothek Münster</wwwlink>.</eintrag>
 </subsection>
-</eintrag>
-
 </kommentar>
 
 <kommentar id="sophokles" type="neuzeit">
