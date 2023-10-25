@@ -42771,12 +42771,32 @@ Brief Nr. 358
 <bzg>Klopstocks Blatt…</bzg> <link ref="klopstock" subref="klopstock-publico" linktext="true" />
 </marginal>
 
-<marginal letter="358" page="442" line="5" sort="1">
-<bzg>Siegel Kl.</bzg>
+<marginal letter="358" page="442" line="5">
+<bzg>Riedelsche Briefe</bzg> <link ref="riedel" subref="riedel-publicum" linktext="true" />
 </marginal>
 
-<marginal letter="358" page="442" line="5" sort="2">
-<bzg>Riedelsche Briefe </bzg>
+<marginal letter="358" page="442" line="6">
+<bzg>Abadonna…</bzg> aus <link ref="klopstock" subref="klopstock-messias" linktext="true" />, Bd. 4, 19. Gesang; vorab ohne Einwilligung des Autors und sehr fehlerhaft veröffentlicht in <link ref="deutsche-bibliothek" linktext="true" />, Bd.&#x202F;2, 6.&#x202F;St., S.&#x202F;283–292
+</marginal>
+
+<marginal letter="358" page="442" line="8" sort="1">
+<bzg>Hermanns Schlacht</bzg> <link ref="klopstock" subref="klopstock-hermannsschlacht" linktext="true" />
+</marginal>
+
+<marginal letter="358" page="442" line="8" sort="2">
+<bzg>Oßian</bzg> <link ref="macpherson" linktext="true" />
+</marginal>
+
+<marginal letter="358" page="442" line="10">
+<bzg>Ugolino</bzg> <link ref="gerstenberg" subref="gerstenberg-ugolino" linktext="true" />
+</marginal>
+
+<marginal letter="358" page="442" line="11">
+<bzg>Klotzianer u. Weißianer</bzg> Anhänger von <link ref="klotz" linktext="true" /> und <link ref="weise" linktext="true" /> bzw. in ihren Rezensionsorganen
+</marginal>
+
+<marginal letter="358" page="442" line="15">
+<bzg>alten Deutschen Stücken</bzg> möglicherweise spielt Herder auf den <link ref="briefe-literatur" linktext="true">17. Literaturbrief</link> an, wo <link ref="lessing" linktext="false">Lessing</link> sein Faust-Fragment exponiert
 </marginal>
 
 
