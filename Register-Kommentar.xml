@@ -3697,6 +3697,12 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 </eintrag>
 </kommentar>
 
+<kommentar id="estocq-ma" type="neuzeit">
+<lemma>Maria Aurora l’Estocq</lemma>
+<eintrag>1720–1808. Bekannte und Gönnerin von Herder in Riga, Wittwe von Johann Hermann l’Estocq (1692–1767), Geheimrat, Reichsgraf und einst Günstling der Zarin Elisabeth. 
+</eintrag>
+</kommentar>
+
 <kommentar id="euagrios" type="neuzeit">
 <lemma>Euagrios Scholastikos</lemma>
 <eintrag>536/37 – ca. 600, Kirchenhistoriker</eintrag>
@@ -11521,6 +11527,16 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 </subsection>
 </kommentar>
 
+<kommentar id="schirach" type="neuzeit">
+<lemma>Gottlob Benedikt Schirach</lemma>
+<eintrag>1743–1804. Publizist, Philologe und Historiker; 1765 Privatdozent in Halle, 1769 Professor in Helmstädt, Freund von <link ref="klotz" linktext="true" />.</eintrag>
+<subsection id="schirach-litterarischebriefe" type="neuzeit">
+<lemma>Schirach, <titel>Litterarische Briefe</titel></lemma>
+<eintrag>
+<titel>Litterarische Briefe an das Publikum</titel> (Altenburg: Richter 1769–1775). Digitalisat Bd. 1 (1769): <wwwlink address="https://books.google.de/books?id=K-xaAAAAcAAJ">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="schiffert" type="neuzeit">
 <lemma>Christian Schiffert</lemma>
