@@ -6885,8 +6885,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="361">
-        <date value="1769" />
-        <sort value="1769-06-16" notBefore="1769-01-01" notAfter="1769-12-31" />
+        <date value="Sommer 1769" />
+        <sort value="1769-06-16" notBefore="1769-05-23" notAfter="1769-07-31" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
