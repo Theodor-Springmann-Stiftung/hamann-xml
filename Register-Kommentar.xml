@@ -1717,7 +1717,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="bucholtz-k-jc" type="neuzeit">
 <lemma>Johann Christian Buchholtz</lemma>
-<eintrag>1719–1773. 1743–1748 an der Domschule in Königsberg, ab 1748 Pfarradjunkt in Liebstadt, ab 1749 an der Königsberger Altstädtischen Kirche; vmtl. Beichtvater der Eltern Hamanns nach dem Tod <link ref="lilienthal-m" linktext="false">M. Lilienthals</link>; Hamanns Beichtvater, wohl auch der des Bruders. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1024881237.html">Deutsche Biographie</wwwlink></eintrag>
+<eintrag>1719–1773. 1743–1748 an der Domschule in Königsberg, ab 1748 Pfarradjunkt in Liebstadt, ab 1749 an der Königsberger Altstädtischen Kirche; vmtl. Beichtvater der Eltern Hamanns nach dem Tod <link ref="lilienthal-m" linktext="false">M. Lilienthals</link>; Hamanns Beichtvater, wohl auch der des Bruders, und Nachlassverwalter von Hamanns Vater. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1024881237.html">Deutsche Biographie</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="bucholtz-k-er" type="neuzeit">
@@ -3694,6 +3694,12 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 <kommentar id="estocq" type="neuzeit">
 <lemma>Johann Ludwig Estocq</lemma>
 <eintrag>1712–1779. Kriegsrat und Richter der frz. Kolonie in Königsberg, Stadtradt, Prof. der Rechte u. Kanzler der Universität ebd., siehe <wwwlink address="https://www.deutsche-biographie.de/sfz50655.html">Deutsche Biographie</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="estocq-ma" type="neuzeit">
+<lemma>Maria Aurora l’Estocq</lemma>
+<eintrag>1720–1808. Bekannte und Gönnerin von Herder in Riga, Wittwe von Johann Hermann l’Estocq (1692–1767), Geheimrat, Reichsgraf und einst Günstling der Zarin Elisabeth. 
 </eintrag>
 </kommentar>
 
@@ -5703,7 +5709,7 @@ Zitierte Ausgabe der Werke:<line type="break" />
 Johann Gottfried Herder: <titel>Werke</titel> in zehn Bänden., hg.&#xA0;v. Martin Bollacher, Günter Arnold u.a. (Frankfurt a.&#x202F;M. 1985–2000).<line type="break" />
 Sofern Texte dort nicht ediert sind: SWS: <titel>Herders Sämmtliche Werke,</titel> hg.&#xA0;v. Bernhard Suphan (33 Bde., Berlin 1877–1913).<line type="break" />
 Zitierte Ausgabe der Briefe:<line type="break" />
-Von Herder: Johann Gottfried Herder: <titel>Briefe</titel>, Gesamtausgabe 1763–1803, 18 Bde., hg.&#xA0;v. der Stiftung Weimarer Klassik (Goethe- und Schiller-Archiv) (Weimar 1977–2016).<line type="break" />
+Von Herder: Johann Gottfried Herder: <titel>Briefe</titel>, Gesamtausgabe 1763–1803, 18 Bde., hg.&#xA0;v. der Stiftung Weimarer Klassik (Goethe- und Schiller-Archiv) (Weimar 1977–2016) [=&#x202F;HBGA].<line type="break" />
 An Herder:<line type="break" />
 Johann Gottfried von Herder’s Lebensbild, 6 Bde. (Erlangen 1846).<line type="break" />
 Von und an Herder: ungedruckte Briefe aus Herders Nachlaß; Herders Briefwechsel mit Gleim, Nicolai, Hartknoch, Heyne u.a., hg.&#x202F;von Heinrich Düntzer und Ferdinand Gottfried Herder, 3 Bde. (Leipzig 1861–1862).
@@ -10613,8 +10619,8 @@ Hamann war im Juli 1763 einige Wochen dort als Copist tätig, vgl. <intlink lett
 </kommentar>
 
 <kommentar id="pupillenkollegium" type="neuzeit">
-<lemma>Pupillenkollegium</lemma>
-<eintrag>Provinzialbehörde mit der Aufsicht über Vormundschaftssachen.</eintrag>
+<lemma>Königliches Pupillenkollegium</lemma>
+<eintrag>Zentrale Berliner Behörde mit der Aufsicht über Vormundschaftssachen.</eintrag>
 </kommentar>
 
 <kommentar id="putter" type="neuzeit">
@@ -11521,6 +11527,16 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 </subsection>
 </kommentar>
 
+<kommentar id="schirach" type="neuzeit">
+<lemma>Gottlob Benedikt Schirach</lemma>
+<eintrag>1743–1804. Publizist, Philologe und Historiker; 1765 Privatdozent in Halle, 1769 Professor in Helmstädt, Freund von <link ref="klotz" linktext="true" />.</eintrag>
+<subsection id="schirach-litterarischebriefe" type="neuzeit">
+<lemma>Schirach, <titel>Litterarische Briefe</titel></lemma>
+<eintrag>
+<titel>Litterarische Briefe an das Publikum</titel> (Altenburg: Richter 1769–1775). Digitalisat Bd. 1 (1769): <wwwlink address="https://books.google.de/books?id=K-xaAAAAcAAJ">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="schiffert" type="neuzeit">
 <lemma>Christian Schiffert</lemma>
