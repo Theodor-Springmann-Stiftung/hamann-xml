@@ -43713,11 +43713,11 @@ August 1769, nicht Oktober wie in ZH II
 </marginal>
 
 <marginal letter="369" page="482" line="7">
-<bzg>les Saisons</bzg>Saint-Lambert, Jean Francois, Les saisons, Amsterdam 1771,
+<bzg>les Saisons</bzg> <link ref=" saint-lambert" subref=" saint-lambert-saisons" linktext="true" />  
 </marginal>
 
 <marginal letter="369" page="482" line="10">
-<bzg>Fabeln des Sadi</bzg> Les saisons, Fables orientales. Préface de Saadi, S. 121-198.
+<bzg>Fabeln des Sadi</bzg> <link ref=" saint-lambert" subref=" saint-lambert-saisons" linktext="true" />, Auflage 1771, Fables orientales. Préface de Saadi, S. 121-198.
 </marginal>
 
 <marginal letter="369" page="482" line="10">
@@ -43733,15 +43733,12 @@ August 1769, nicht Oktober wie in ZH II
 </marginal>
 
 <marginal letter="369" page="482" line="14">
-<bzg>Abbts Morellets Memoire sur la situation actuelle de la Comp. des Ind.</bzg> Morellet, Abbé André (1727- 1819), frz. Schriftsteller, Nationalökonom, Mitarbeiter an der
-Encyclopédie, Jesuitenpater, Mémoire sur la situation actuelle de la Compagnie des Indes. Paris 1769.
+<bzg>Abbts Morellets Memoire sur la situation actuelle de la Comp. des Ind.</bzg> Abbé André Morellet (1727-1819), frz. Schriftsteller, Mitarbeiter an der Encyclopédie: Mémoire sur la situation actuelle de la Compagnie des Indes. Paris 1769.
 </marginal>
 
 <marginal letter="369" page="482" line="16">
-<bzg>Necker u. den Grafen Lauraguais</bzg> Necker, Jacques (1732- 1804), schweizer Bankier, Diplomat, frz. Finanzminister von 1777 - 81,
-Generaldirektor der Finanzen Frankreichs, entlassen, 1788- 1790 erneut im Amt, Réponse au mémoire de M. l'abbé Morellet, sur la Compagnie des Indes. Paris 1769, und: Lauraguais, Louis- Léon- Félicité Comte de (1733- 1824), frz. Literat
-Mémoire sur la Compagnie des Indes, dans lequel on établit les droits et les intérets des actionnaires.
-En réponse aux compilations de M. l'abbé Morellet. 3 Bde. 1770.
+<bzg>Necker u. den Grafen Lauraguais</bzg> Jacques Necker (1732-1804), frz. Finanzminister von 1777-81 und 1788-1790: Réponse au mémoire de M. l'abbé Morellet, sur la Compagnie des Indes. Paris 1769; und: Lauraguais, Louis- Léon- Félicité Comte de (1733- 1824), frz. Literat
+Louis-Léon-Félicité Comte de Lauraguais (1733-1824): Mémoire sur la Compagnie des Indes, dans lequel on établit les droits et les intérets des actionnaires. En réponse aux compilations de M. l'abbé Morellet. 3 Bde, 1770.
 </marginal>
 
 <marginal letter="369" page="482" line="17">
@@ -43749,32 +43746,24 @@ En réponse aux compilations de M. l'abbé Morellet. 3 Bde. 1770.
 </marginal>
 
 <marginal letter="369" page="482" line="22">
-<bzg>Variétés literaires et amusantes</bzg> ?!?  Variétés
-littéraires Band 1, Paris 1768
+<bzg>Variétés literaires et amusantes</bzg> ?!?  Variétés littéraires Band 1, Paris 1768
 </marginal>
 
 <marginal letter="369" page="482" line="23">
-<bzg>Diderots Richardson</bzg> Lettres angloises, ou Histoire de Miss Clarisse Harlove.
+<bzg>Diderots Richardson</bzg> <link ref="diderot" subref="diderot-lettres" linktext="true" /> 
 </marginal>
 
 <marginal letter="369" page="482" line="24">
-<bzg>Abhandlung über die Chevalerie</bzg> v. Charles Jarvis, Some account of the rise, progress and
-continuance of Chivalry. Essai sur la naissance, les progrès et la dureé de la Chevalerie, traduit de
-l´Anglais par M. Suard, in: Journal étranger Aout 1761. Paris 1761, Article I S.5-34;
+<bzg>Abhandlung über die Chevalerie</bzg> Charles Jarvis: Some account of the rise, progress and continuance of Chivalry. Essai sur la naissance, les progrès et la dureé de la Chevalerie, traduit de
+l´Anglais par M. Suard, in: <link ref="journal-etranger" linktext="true" />, August 1761, Article I, S.5-34
 </marginal>
 
 <marginal letter="369" page="482" line="24">
-<bzg>Allgarotti über Horaz</bzg> Algarotti, Francesco (1712- 1764), ital. Naturwissenschaftler, Kunstschriftsteller und Philosoph, ab
-1740 in Berlin u. Dresden als Kammerherr Friedrichs II., 1754 in Venedig
-Essai sur la vie d'Horace, in: Journal étranger.
+<bzg>Allgarotti über Horaz</bzg> Francesco Algarotti (1712-1764), ital. Philosoph; Essai sur la vie d’Horace, in: <link ref="journal-etranger" linktext="true" />, April 1761, S. 137-174
 </marginal>
 
 <marginal letter="369" page="482" line="25">
-<bzg>Bollinbrocke</bzg> nicht ermittelt, im Journal étranger, Fevrier 1758
-findet sich A Remonstrance against Lord Viscount Bolinbroke´s Philosophical Religion addressed to
-David Mallet, Esq. The publisher. By G. Anderson Esq. Edimbourg 1757, S.114-116; in: Variétés
-littéraires Band 1, Paris 1768, S.397-422 Observations sur la correspondance littéraire de Milord
-Bolinbroke, ses ouvrages politiques … et des progrès de sa reputation
+<bzg>Bollinbrocke</bzg> <link ref="bolinbroke" linktext="true" />, nicht ermittelt
 </marginal>
 
 <marginal letter="369" page="482" line="25">
@@ -43786,9 +43775,7 @@ Bolinbroke, ses ouvrages politiques … et des progrès de sa reputation
 </marginal>
 
 <marginal letter="369" page="483" line="8">
-<bzg>Raccolta di lettere  …</bzg> Bottari, Giovanni Gaetano (1689- 1775), päpstlicher Bibliothekar und Kunsthistoriker in Rom
-Raccolta di lettere sulla pittura, scultura et archittetura, scritte da' più celebri professori che in dette
-arti fiorirono dal secolo XV. al XVII. 1- 6. Rom 1754/68.
+<bzg>Raccolta di lettere  …</bzg> <link ref="bottari" subref="bottari-raccolta" linktext="true" />   
 </marginal>
 
 <marginal letter="369" page="483" line="10">

@@ -1546,6 +1546,17 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="bottari" type="neuzeit">
+<lemma>Giovanni Gaetano Bottari</lemma>
+<eintrag>1689-1775. Päpstlicher Bibliothekar
+</eintrag>
+<subsection id="bottari-raccolta" type="neuzeit">
+<lemma>Bottari, <titel>Raccolta di lettere sulla pittura</titel></lemma>
+<eintrag>
+<titel>Raccolta di lettere sulla pittura, scultura et archittetura, scritte da’ più celebri professori che in dette arti fiorirono dal secolo XV. al XVII.</titel> (6 Bde., Rom 1754/68).</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="boyer" type="neuzeit">
 <lemma>Johann Baptist de Boyer, Marquis d’Argens</lemma>
 <eintrag>1703–1771. Schrifsteller, Philosoph. Mitglied der Berliner Akademie der Wissenschaften, <wwwlink address="https://www.deutsche-biographie.de/sfz87010.html#adbcontent">Caro, Jakob: Argens, Jean Baptiste de Bayer Marquis d’, in: <titel>ADB</titel>&#x202F;1(1875), S.&#x202F;521–524</wwwlink>.
@@ -3151,7 +3162,14 @@ vermutl. zus. mit <link ref="auvigny" linktext="true" />, <titel>Anecdotes galan
 <subsection id="diderot-theater" type="neuzeit" sort="30">
 <lemma>Diderot, <titel>Das Theater des Herrn Diderot</titel></lemma>
 <eintrag>
-<titel>Das Theater des Herrn Diderot. Aus dem Französischen</titel>, anonym übers. von G. E. Lessing (2&#x202F;Tle., Berlin: Voß 1760). [Biga&#x202F;171/661: „Diderots Theater, 1. Th. ib. [Berlin] 760.“] Teil&#x202F;1 enthält: <titel>Der natürliche Sohn, oder die Proben der Tugend : Ein Schauspiel in fünf Aufzügen</titel>. Teil&#x202F;2 enthält: <titel>Der Hausvater : Ein Schauspiel in fünf Aufzügen</titel>. Digitalisat, Teil&#x202F;1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-bsz3222706267">WLB Stuttgart: Fr.D.oct.2376-1</wwwlink> und Teil&#x202F;2: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:8:2-1145311">UB Kiel: J 7963-2</wwwlink>.
+<titel>Das Theater des Herrn Diderot. Aus dem Französischen</titel>, anonym übers. von l'Abbé Antoine- François Prévost
+d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [Biga&#x202F;171/661: „Diderots Theater, 1. Th. ib. [Berlin] 760.“] Teil&#x202F;1 enthält: <titel>Der natürliche Sohn, oder die Proben der Tugend : Ein Schauspiel in fünf Aufzügen</titel>. Teil&#x202F;2 enthält: <titel>Der Hausvater : Ein Schauspiel in fünf Aufzügen</titel>. Digitalisat, Teil&#x202F;1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-bsz3222706267">WLB Stuttgart: Fr.D.oct.2376-1</wwwlink> und Teil&#x202F;2: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:8:2-1145311">UB Kiel: J 7963-2</wwwlink>.
+</eintrag> 
+</subsection>
+<subsection id="diderot-lettres" type="neuzeit" sort="35">
+<lemma>Diderot, <titel>Lettres angloises</titel></lemma>
+<eintrag>
+<titel>Lettres angloises, ou Histoire de Miss Clarisse Harlove. Nouv. éd. augmentée de l’Eloge de Samuel Richardson (par Diderot), des lettres posthumes et du testament de Clarisse</titel> (Paris 1766).
 </eintrag> 
 </subsection>
 </kommentar>
@@ -11285,6 +11303,17 @@ S
 <lemma>Saint-Évremond, <titel>Ouevres publiés sur les manuscrits</titel></lemma>
 <eintrag>
 <titel>Ouevres publiés sur les manuscrits</titel>, seit der 1. Aufl. 1671 zahlreich wieder aufgelegt [Biga&#x202F;175/735: „Oeuvres de Mr. de Saint-Evremond, Tom. I–VII. ib. 739“].
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="saint-lambert" type="neuzeit">
+<lemma>Jean Francois de Saint-Lambert</lemma>
+<eintrag>1716–1803. Frz. Schriftsteller.</eintrag>
+<subsection id="saint-lambert-saisons" type="neuzeit" sort="10">
+<lemma>Saint-Lambert, <titel>Les saisons</titel></lemma>
+<eintrag>
+<titel>Les saisons. Poème</titel> (Amsterdam 1769); dann weitere erweiterte Auflagen.
 </eintrag>
 </subsection>
 </kommentar>
