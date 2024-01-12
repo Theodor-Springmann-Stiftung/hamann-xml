@@ -43584,11 +43584,11 @@ Brief Nr. 368
 <bzg>Nunquam retrorsum</bzg> dt. niemals zurück (Hor. epist. I,1,75) ?!?
 </marginal>
 
-<marginal letter="368" page="479" line="36">
+<marginal letter="368" page="479" line="36" sort="1">
 <bzg>Rammler</bzg> <link ref="ramler" linktext="true" />
 </marginal>
 
-<marginal letter="368" page="479" line="36" sort="1">
+<marginal letter="368" page="479" line="36" sort="2">
 <bzg>Landsleute</bzg>  <link ref="herder" linktext="true" /> 
 </marginal>
 
@@ -43596,11 +43596,11 @@ Brief Nr. 368
 <bzg>Valetbriefe</bzg> Abschiedsbrief
 </marginal>
 
-<marginal letter="368" page="480" line="2">
+<marginal letter="368" page="480" line="2" sort="1">
 <bzg>großen Mann</bzg>  <link ref="klotz" linktext="true" /> 
 </marginal>
 
-<marginal letter="368" page="480" line="2" sort="1">
+<marginal letter="368" page="480" line="2" sort="2">
 <bzg>Genius Saeculi</bzg> <link ref="klotz" subref="klotz-mores" linktext="true" /> 
 </marginal>
 
@@ -43608,11 +43608,11 @@ Brief Nr. 368
 <bzg>Mores eruditorum</bzg> <link ref="klotz" subref="klotz-mores" linktext="true" /> 
 </marginal>
 
-<marginal letter="368" page="480" line="4">
+<marginal letter="368" page="480" line="4" sort="1">
 <bzg>Litteratur Briefen</bzg> <link ref="briefe-literatur" linktext="true" /> 
 </marginal>
 
-<marginal letter="368" page="480" line="4" sort="1">
+<marginal letter="368" page="480" line="4" sort="2">
 <bzg>Caput mortuum</bzg>  Rückstand
 </marginal>
 
@@ -43624,11 +43624,11 @@ Brief Nr. 368
 <bzg>Caius Herennius Rapidius</bzg> <link ref="rappolt-ch" linktext="true" />  
 </marginal>
 
-<marginal letter="368" page="480" line="8">
+<marginal letter="368" page="480" line="8" sort="1">
 <bzg>Cicero</bzg> <link ref="cicero" linktext="true" /> 
 </marginal>
 
-<marginal letter="368" page="480" line="8">
+<marginal letter="368" page="480" line="8"sort="2">
 <bzg>Plinus</bzg> <link ref="plinius-c" linktext="true" /> 
 </marginal>
 
@@ -43704,11 +43704,11 @@ August 1769, nicht Oktober wie in ZH II
 <bzg>Jüngling</bzg> Koch, vgl. HBGA I,157 ?!?
 </marginal>
 
-<marginal letter="369" page="482" line="4">
+<marginal letter="369" page="482" line="4" sort="1">
 <bzg>Journal der Reise</bzg> <link ref="herder" subref="herder-reise1769" linktext="true" /> 
 </marginal>
 
-<marginal letter="369" page="482" line="4"> 
+<marginal letter="369" page="482" line="4" sort="2"> 
 <bzg>Tristramsche Meinungen</bzg> Anspielung auf <link ref="sterne" subref="sterne-journey" linktext="true" />     
 </marginal>
 
@@ -43716,11 +43716,11 @@ August 1769, nicht Oktober wie in ZH II
 <bzg>les Saisons</bzg> <link ref="saint-lambert" subref="saint-lambert-saisons" linktext="true" />  
 </marginal>
 
-<marginal letter="369" page="482" line="10">
+<marginal letter="369" page="482" line="10" sort="1">
 <bzg>Fabeln des Sadi</bzg> <link ref="saint-lambert" subref="saint-lambert-saisons" linktext="true" />, Auflage 1771, Fables orientales. Préface de Saadi, S. 121-198.
 </marginal>
 
-<marginal letter="369" page="482" line="10" sort="1">
+<marginal letter="369" page="482" line="10" sort="2">
 <bzg>Journal étrang.</bzg> <link ref="journal-etranger" linktext="true" /> 
 </marginal>
 
@@ -43752,20 +43752,20 @@ August 1769, nicht Oktober wie in ZH II
 <bzg>Diderots Richardson</bzg> <link ref="diderot" subref="diderot-lettres" linktext="true" /> 
 </marginal>
 
-<marginal letter="369" page="482" line="24">
+<marginal letter="369" page="482" line="24" sort="1">
 <bzg>Abhandlung über die Chevalerie</bzg> Charles Jarvis: Some account of the rise, progress and continuance of Chivalry. Essai sur la naissance, les progrès et la dureé de la Chevalerie, traduit de
 l´Anglais par M. Suard, in: <link ref="journal-etranger" linktext="true" />, August 1761, Article I, S.5-34
 </marginal>
 
-<marginal letter="369" page="482" line="24" sort="1">
+<marginal letter="369" page="482" line="24" sort="2">
 <bzg>Allgarotti über Horaz</bzg> Francesco Algarotti (1712-1764), ital. Philosoph; Essai sur la vie d’Horace, in: <link ref="journal-etranger" linktext="true" />, April 1761, S. 137-174
 </marginal>
 
-<marginal letter="369" page="482" line="25">
+<marginal letter="369" page="482" line="25" sort="1">
 <bzg>Bollinbrocke</bzg> <link ref="bolinbroke" linktext="true" />, nicht ermittelt
 </marginal>
 
-<marginal letter="369" page="482" line="25" sort="1">
+<marginal letter="369" page="482" line="25" sort="2">
 <bzg>D. Blairs über Oßian</bzg> <link ref="blair" subref="blair-dissertation" linktext="true" />  
 </marginal>
 
@@ -43777,15 +43777,15 @@ l´Anglais par M. Suard, in: <link ref="journal-etranger" linktext="true" />, Au
 <bzg>Raccolta di lettere  …</bzg> <link ref="bottari" subref="bottari-raccolta" linktext="true" />   
 </marginal>
 
-<marginal letter="369" page="483" line="10">
+<marginal letter="369" page="483" line="10" sort="1">
 <bzg>Michel Angelo</bzg> Michelangelo Buonarroti (1475–1564), italienischer Renaissancekünstler 
 </marginal>
 
-<marginal letter="369" page="483" line="10" sort="1">
+<marginal letter="369" page="483" line="10" sort="2">
 <bzg>Caracci</bzg> Annibale Carracci (1560–1609), italienischer Barockmaler
 </marginal>
 
-<marginal letter="369" page="483" line="10" sort="2">
+<marginal letter="369" page="483" line="10" sort="3">
 <bzg>Rosa</bzg> Salvator Rosa (1615–1673), italienischer Maler
 </marginal>
 
