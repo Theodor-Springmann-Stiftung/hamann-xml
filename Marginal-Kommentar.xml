@@ -43628,7 +43628,7 @@ Brief Nr. 368
 <bzg>Cicero</bzg> <link ref="cicero" linktext="true" /> 
 </marginal>
 
-<marginal letter="368" page="480" line="8"sort="2">
+<marginal letter="368" page="480" line="8" sort="2">
 <bzg>Plinus</bzg> <link ref="plinius-c" linktext="true" /> 
 </marginal>
 
@@ -43656,11 +43656,11 @@ Brief Nr. 368
 <bzg>Roußeau Anmerkungen über Plato</bzg> <link ref="rousseau" subref="rousseau-imitation" linktext="true" />
 </marginal>
 
-<marginal letter="368" page="480" line="23">
+<marginal letter="368" page="480" line="23" sort="1">
 <bzg>Hartungschen Buchladen</bzg> <link ref="hartung-h" linktext="true" />
 </marginal>
 
-<marginal letter="368" page="480" line="23">
+<marginal letter="368" page="480" line="23" sort="2">
 <bzg>Accise v Zoll Directorio</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
 </marginal>
 
