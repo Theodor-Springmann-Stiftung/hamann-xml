@@ -35491,7 +35491,7 @@ Brief Nr. 295
 </marginal>
 
 <marginal letter="295" page="319" line="36">
-<bzg>D Laubmeyer</bzg> <link ref="laubmeyer-jc" linktext="true" /> 
+<bzg>D Laubmeyer</bzg> <link ref="laubmeyer-jc" linktext="true" />
 </marginal>
 
 <marginal letter="295" page="319" line="37">
@@ -43522,7 +43522,7 @@ Der Entwurf an das mit Vormundschaftssachen betraute <link ref="pupillenkollegiu
 <bzg>Obligationes</bzg> Schuldbrief, Vermögensteil, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Obligation
 </marginal>
 
-<marginal letter="362" page="454" line="21">
+<marginal letter="362" page="454" line="19">
 <bzg>Hippel</bzg> <link ref="hippel" linktext="true" />
 </marginal>
 
@@ -43600,7 +43600,7 @@ Brief Nr. 363
 <bzg>Instigation</bzg> Anstachelung
 </marginal>
 
-<marginal letter="363" page="458" line="7">
+<marginal letter="363" page="458" line="10">
 <bzg>Nuppenau</bzg> <link ref="nuppenau-jp" linktext="true" />
 </marginal>
 
@@ -43608,10 +43608,13 @@ Brief Nr. 363
 <bzg>termino solutionis</bzg> Zahlungstermin?!?
 </marginal>
 
-<marginal letter="363" page="458" line="19">
+<marginal letter="363" page="458" line="20">
 <bzg>c.</bzg> circa?!?
 </marginal>
 
+<marginal letter="363" page="458" line="32">
+<bzg>insinuirung</bzg> gerichtliche Zustellung
+</marginal>
 <marginal letter="363" page="459" line="4">
 <bzg>civis Academicus</bzg> akademischer Bürger, damit wohl auch unter der Universitätsgerichtsbarkeit
 </marginal>
@@ -43640,17 +43643,70 @@ Brief Nr. 363
 <bzg>paterno</bzg> väterlicher Vermögensanteil
 </marginal>
 
-<marginal letter="363" page="460" line="22">
-<bzg>ad depositum pupillare</bzg> beim Vormundschaftsamt als zur Aufbewahrung hinterlegen
+<marginal letter="363" page="461" line="15">
+<bzg>ad depositum pupillare</bzg> beim Vormundschaftsamt zur Aufbewahrung hinterlegen
+</marginal>
+
+Brief Nr. 364
+
+<marginal letter="364" page="461" line="21">
+<bzg>Monsieur</bzg> der Adressat des Brief-Entwurfs wurde nicht ermittelt; da es auch um juristische Ratschläge im Zusammenhang der Schwangerschaft von <link ref="schumacher-ar" linktext="true" />, ihre ‚Gewissensehe‘ und wohl den rechtlichen Status des Nachwuchses geht, handelt es sich wohl um einen Advocaten; ob HKB 364 einen indirekten Zusammenhang mit den umliegenden Briefen um die Kuratel von <link ref="hamann-jc" linktext="true" /> hat, ist unsicher; dort wurde Hamann jedenfalls teilweise von <link ref="hippel" linktext="true" /> vertreten (<intlink letter="362" page="454" line="19" linktext="true" />). – Ist irgendwo eine Übersetzung des Briefes publiziert, auf die man verweisen könnte?!?
+</marginal>
+
+<marginal letter="363" page="461" line="25">
+<bzg>fille</bzg> <link ref="berens-ca" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="461" line="29">
+<bzg>comme le bon Patriarque</bzg> <link ref="at-mo1" subref="at-mo1-29" linktext="false">1 Mo 29</link>
+</marginal>
+
+<marginal letter="363" page="462" line="2">
+<bzg>os de mes os…</bzg> <link ref="at-mo1" subref="at-mo1-29" linktext="false">1 Mo 29,14</link>
+</marginal>
+
+<marginal letter="363" page="462" line="4">
+<bzg>paysanne</bzg> <link ref="schumacher-ar" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="462" line="8">
+<bzg>pere</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="462" line="15" sort="1">
+<bzg>Laubmeyer</bzg> <link ref="laubmeyer-jc" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="462" line="15" sort="2">
+<bzg>Confesseur</bzg> <link ref="bucholtz-k-jc" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="462" line="25">
+<bzg>pere</bzg> <link ref="hamann-jm" linktext="true" /> wurde am 27. September 1769 geboren, <link ref="schumacher-ar" linktext="true" /> war also im 7. oder 8. Monat schwanger
+</marginal>
+
+<marginal letter="363" page="462" line="32">
+<bzg>hamadryade</bzg> <link ref="schumacher-ar" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="462" line="35">
+<bzg>certes c’est</bzg><link ref="at-ps" subref="at-ps127" linktext="false">Ps 127,2–3</link>
+</marginal>
+
+<marginal letter="363" page="463" line="1">
+<bzg>Medicin</bzg> <link ref="gervais" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="463" line="2">
+<bzg>la mere et la soeur</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="363" page="463" line="5">
+<bzg>cet ange de Dieu</bzg> <link ref="at-mo1" subref="at-mo1-32" linktext="false">1 Mo 32,25–29</link>
 </marginal>
 
 
 
-
-
-<marginal letter="363" page="458" line="32">
-<bzg>insinuirung</bzg> gerichtliche Zustellung
-</marginal>
 
 
 
