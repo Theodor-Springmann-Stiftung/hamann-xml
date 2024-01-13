@@ -40644,7 +40644,7 @@ Brief Nr. 347
 </marginal>
 
 <marginal letter="347" page="405" line="19">
-<bzg>Accise Directorio</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" /> 
+<bzg>Accise Directorio</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
 </marginal>
 
 <marginal letter="347" page="405" line="22" sort="1">
@@ -43463,7 +43463,7 @@ Der Entwurf entstand, wie auch HKB 362–367, im Zusammenhang des Rechtsstreits 
 <bzg>Fr R. von Bondeli</bzg> wohl die Frau von <link ref="bondeli-fj" linktext="true" />, bei dem Hamann von 1768–1770 wohnte
 </marginal>
 
->>>>>>> 58201689af8e363f55350e4517625cd4acbca15b
+
 Brief Nr. 362
 
 <marginal letter="362" page="451" line="25">
@@ -43478,8 +43478,12 @@ Der Entwurf an das mit Vormundschaftssachen betraute <link ref="pupillenkollegiu
 <bzg>nächsten Blutsfreunde</bzg> <link ref="nuppenau-jp" linktext="true" />
 </marginal>
 
+<marginal letter="362" page="452" line="17">
+<bzg>Magistrat</bzg> <link ref="magistrat" linktext="true" />
+</marginal>
+
 <marginal letter="362" page="452" line="18">
-<bzg>CammerCanzeley</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />
+<bzg>CammerCanzeley</bzg> Kanzlei der <link ref="kriegs-und-domaenenkammer" linktext="true" />
 </marginal>
 
 <marginal letter="362" page="452" line="20">
@@ -43522,12 +43526,16 @@ Der Entwurf an das mit Vormundschaftssachen betraute <link ref="pupillenkollegiu
 <bzg>Hippel</bzg> <link ref="hippel" linktext="true" />
 </marginal>
 
+<marginal letter="362" page="454" line="37">
+<bzg>Interessen</bzg> Zinsen eines Kapitals
+</marginal>
+
 <marginal letter="362" page="455" line="3">
 <bzg>Vetter v debitor</bzg> <link ref="nuppenau-jp" linktext="true" />
 </marginal>
 
 <marginal letter="362" page="455" line="10" sort="1">
-<bzg>Advocatus Gunthel</bzg>
+<bzg>Advocatus Gunthel</bzg> <link ref="gunthel" linktext="true" />
 </marginal>
 
 <marginal letter="362" page="455" line="10" sort="2">
@@ -43547,6 +43555,98 @@ Der Entwurf an das mit Vormundschaftssachen betraute <link ref="pupillenkollegiu
 </marginal>
 
 Brief Nr. 363
+
+<marginal letter="363" page="455" line="34">
+<bzg>Ew. Kgl. Maj.</bzg>dem Briefentwurf ging offenbar eine positive Antwort auf <intlink letter="362" page="451" line="25" linktext="true" /> voraus, auf die Hamann hier wiederum antwortet; die Anrede an <link ref="friedrich-II" linktext="true" /> ist wohl nur pro forma; der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft und die Verwaltung des Vermögens des geistig behinderten <link ref="hamann-jc" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="455" line="35">
+<bzg>Hiesigen Magistrats </bzg> <link ref="magistrat" linktext="true" />, vgl. <intlink letter="362" page="455" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="456" line="11">
+<bzg>Accise Directorio</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="456" line="13">
+<bzg>Curator</bzg> Vormund
+</marginal>
+
+<marginal letter="363" page="456" line="17">
+<bzg>Gunthel</bzg> <link ref="gunthel" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="456" line="25">
+<bzg>Vatern</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="456" line="30">
+<bzg>besondere Wärterin</bzg> mglw. ist <link ref="schumacher-ar" linktext="true" /> gemeint
+</marginal>
+
+<marginal letter="363" page="456" line="37">
+<bzg>veränderten Wohnung</bzg> der Umzug ins mittelste Tragheim, vgl. <intlink letter="351" page="419" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="457" line="4">
+<bzg>quaest.</bzg> quästioniert, in Frage stehend
+</marginal>
+
+<marginal letter="363" page="457" line="5">
+<bzg>Hindersinn</bzg> <link ref="hindersin" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="458" line="7">
+<bzg>Instigation</bzg> Anstachelung
+</marginal>
+
+<marginal letter="363" page="458" line="7">
+<bzg>Nuppenau</bzg> <link ref="nuppenau-jp" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="458" line="19">
+<bzg>termino solutionis</bzg> Zahlungstermin?!?
+</marginal>
+
+<marginal letter="363" page="458" line="19">
+<bzg>c.</bzg> circa?!?
+</marginal>
+
+<marginal letter="363" page="459" line="4">
+<bzg>civis Academicus</bzg> akademischer Bürger, damit wohl auch unter der Universitätsgerichtsbarkeit
+</marginal>
+
+<marginal letter="363" page="459" line="6">
+<bzg>foro privilegiato</bzg> privilegierter Gerichtsstand; im Normalfall ist bei Bürgerlichen anscheinend der <link ref="magistrat" linktext="true" /> unter <link ref="hindersin" linktext="true" /> für Vormundschaftssachen verantwortlich; bei Adeligen und mitunter anscheinend auch akademischen Bürgern aber wohl das <link ref="pupillenkollegium" linktext="false">Pupillenkollegium</link>
+</marginal>
+
+<marginal letter="363" page="459" line="10">
+<bzg>Burgermeisterl. Amt</bzg> <link ref="magistrat" linktext="true" />
+</marginal>
+
+<marginal letter="363" page="459" line="20" sort="1">
+<bzg>submittire</bzg> bewerben
+</marginal>
+
+<marginal letter="363" page="459" line="20" sort="2">
+<bzg>Obligationes</bzg> Schuldbrief, Vermögensteil, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Obligation
+</marginal>
+
+<marginal letter="363" page="460" line="7">
+<bzg>Obligatio ingrossata</bzg> amtlich eingetragener Schuldbrief
+</marginal>
+
+<marginal letter="363" page="460" line="22">
+<bzg>paterno</bzg> väterlicher Vermögensanteil
+</marginal>
+
+<marginal letter="363" page="460" line="22">
+<bzg>ad depositum pupillare</bzg> beim Vormundschaftsamt als zur Aufbewahrung hinterlegen
+</marginal>
+
+
+
+
 
 <marginal letter="363" page="458" line="32">
 <bzg>insinuirung</bzg> gerichtliche Zustellung

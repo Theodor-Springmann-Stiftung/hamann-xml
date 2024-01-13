@@ -1461,7 +1461,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="bondeli-fj" type="neuzeit">
 <lemma>Friedrich Julius Baron von Bondeli</lemma>
-<eintrag>1702–1771. Tribunalrat in Königsberg, bei dem Hamann von Mitte August 1768–1770 wohnte.</eintrag>
+<eintrag>1702–1771. Oberappellations-Gerichts- und Pupillen-Rat in Königsberg; Hamann wohnte bei ihm von Mitte August 1768–1770 im mittelsten Tragheim.</eintrag>
 </kommentar>
 
 <kommentar id="borde" type="neuzeit">
@@ -4976,6 +4976,11 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <eintrag>1747 an der Königsberger Universität immatrikuliert. Laut Biga&#x202F;197/80 erschienen von ihm: <titel>Joh. Gottl. Gundlings Freudenlieder, nebst der Fortsetzung, Königsb. 767</titel>. Der Titel ist nicht ermittelt.</eintrag>
 </kommentar>
 
+<kommentar id="gunthel" type="neuzeit">
+<lemma>Christoph Gunthel</lemma>
+<eintrag>Lebensdaten nicht ermittelt; 1769/1770 Ratsadvokat und Mälzenbräuer in Königsberg.</eintrag>
+</kommentar>
+
 <kommentar id="guyon" type="neuzeit">
 <lemma>Claude-Marie v. Guyon</lemma>
 <eintrag>1699–1771. Frz. Historiker.</eintrag>
@@ -5436,7 +5441,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hamann-jm" type="neuzeit">
 <lemma>Johann Michael Hamann</lemma>
-<eintrag>1769––1813. Sohn von <link ref="hamann" linktext="true" />. Studierte Medizin und begleitete seinen Vater auf der Reise nach Pempelfort; später angesehener Pädagoge am Altstädtischen Gymnasium und Lyriker</eintrag>
+<eintrag>1769–1813. Sohn von <link ref="hamann" linktext="true" />. Studierte Medizin und begleitete seinen Vater auf der Reise nach Pempelfort; später angesehener Pädagoge am Altstädtischen Gymnasium und Lyriker</eintrag>
 </kommentar>
 
 <kommentar id="hamann-vjc" type="neuzeit">
@@ -6029,7 +6034,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="hindersin" type="neuzeit">
 <lemma>Daniel Friedrich Hindersin</lemma>
-<eintrag>1704–1780. Kriegs- und Steuerrat, ab 1751 dirigierender Bürgermeister in Königsberg.</eintrag>
+<eintrag>1704–1780. Kriegs- und Steuerrat, ab 1752 dirigierender Bürgermeister in Königsberg und „Pupillaris“ (Verantwortlich für Waisen- und Vormundschaftssachen).</eintrag>
 </kommentar>
 
 <kommentar id="hinkelmann" type="neuzeit">
@@ -8503,6 +8508,11 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 </subsection>
 </kommentar>
 
+<kommentar id="magistrat" type="neuzeit">
+<lemma>Magistrat der Stadt Königsberg</lemma>
+<eintrag>Stadtververwaltung, ansässig auf dem Kneiphöfschen Rathause; Vorsitzender ist der dirigierende Bürgermeister, von 1752 bis 1780 <link ref="hindersin" linktext="true" />, von 1780 bis 1794 <link ref="hippel" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="magnier" type="neuzeit">
 <lemma>Toussaint Magnier</lemma>
 <eintrag>Frz. Beamter in Königsberg und Direktor der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" /> von 1766–1774; Hamanns Vorgesetzter (ab 1774 „Unterregisseur in Westpreußen“, im Dezember 1776 wegen „Impertinenz“ entlassen; vgl. Königliche Akademie der Wissenschaften (Hrsg.): Acta Borussica. Denkmäler der Preußischen Staatsverwaltung im 18. Jahrhundert (38 Bde.). Berlin 1892 ff., III,1, S.&#x202F;251.).</eintrag>
@@ -10557,7 +10567,7 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 </kommentar>
 
 <kommentar id="provinzialregierung" type="neuzeit">
-<lemma>Provinzialregierung in Königsberg</lemma>
+<lemma>Ostpreußische Provinzialregierung in Königsberg</lemma>
 <eintrag>Ansässig auf dem Kneiphöfischen Rathaus in Königsberg. Die königlich-preußische Provinzialregierung verlor im 18. Jahrhundert zunehmend die administrative Selbstständigkeit und schränkte sich auf repräsentative Funktionen ein. Im Wesentlichen von der Berliner Regierung abhängig, besorgte sie aber etwa die Aufsicht über Teile der Justiz und das Passwesen. Vgl. Königliche Akademie der Wissenschaften (Hrsg.): Acta Borussica. Denkmäler der Preußischen Staatsverwaltung im 18. Jahrhundert (38 Bde.). Berlin 1892 ff., VI, 291–301.<line type="break" />
 Hamann war im Juli 1763 einige Wochen dort als Copist tätig, vgl. <intlink letter="250" page="216" line="16" linktext="true" />.</eintrag>
 </kommentar>
@@ -10650,7 +10660,7 @@ Hamann war im Juli 1763 einige Wochen dort als Copist tätig, vgl. <intlink lett
 
 <kommentar id="pupillenkollegium" type="neuzeit">
 <lemma>Königliches Pupillenkollegium</lemma>
-<eintrag>Zentrale Berliner Behörde mit der Aufsicht über Vormundschaftssachen.</eintrag>
+<eintrag>Teil der <link ref="provinzialregierung" linktext="true">ostpreußischen Provinzialregierung</link> in Königsberg, betraut mit der Aufsicht über Vormundschaftssachen. Ansässig auf dem königlichen Schloss, bestehend aus einem Etatsminister und sieben Räten. Bis 1768 von <link ref="braxein" linktext="true" /> geführt, danach von <link ref="schlieben" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="putter" type="neuzeit">
@@ -11633,6 +11643,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <kommentar id="schlegel-g" type="neuzeit">
 <lemma>Gottlieb Schlegel</lemma>
 <eintrag>1739–1810. Theologe, Lehrer am Fridericianum in Königsberg, ab 1765–1780 Rektor der Domschule in Riga.</eintrag>
+</kommentar>
+
+<kommentar id="schlieben" type="neuzeit">
+<lemma>Leopold von Schlieben</lemma>
+<eintrag>1723–1788 Preuß. Etatsminister und Präsident des <link ref="pupillenkollegium" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="schloezer" type="neuzeit">
