@@ -6980,14 +6980,14 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="366">
-        <date value="Königsberg, September 1769" />
-        <sort value="1769-09-10" notBefore="1769-09-01" notAfter="1769-09-30" />
+        <date value="Königsberg, nach 9. September 1769" />
+        <sort value="1769-09-10" notBefore="1769-09-9" notAfter="1769-09-19" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
         <receivers>
-          <receiver ref="47" />
+          <receiver ref="46" />
         </receivers>
         <hasOriginal value="false" />
         <isProofread value="true" />
@@ -6999,14 +6999,14 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="367">
-        <date value="Königsberg, Ende September 1769" />
-        <sort value="1769-09-20" notBefore="1769-09-20" notAfter="1769-09-30" />
+        <date value="Königsberg, nach 19. September 1769" />
+        <sort value="1769-09-20" notBefore="1769-09-19" notAfter="1769-09-30" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
         <receivers>
-          <receiver ref="47" />
+          <receiver ref="46" />
         </receivers>
         <hasOriginal value="false" />
         <isProofread value="true" />
