@@ -43656,10 +43656,10 @@ Brief Nr. 363
 </marginal>
 
 <marginal letter="363" page="459" line="10">
-<bzg>Burgermeisterl. Amt</bzg> <link ref="magistrat" linktext="true" />
+<bzg>Bürgermeisterl. Amt</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
-<marginal letter="363" page="459" line="10">
+<marginal letter="363" page="459" line="15">
 <bzg>Oberburggräfl. Amt</bzg> <link ref="oberburggraf-amt" linktext="true" />
 </marginal>
 
@@ -43683,7 +43683,7 @@ Brief Nr. 363
 <bzg>Hoyer</bzg> <link ref="hoyer-dh" linktext="true" />
 </marginal>
 
-<marginal letter="363" page="461" line="10">
+<marginal letter="363" page="461" line="11">
 <bzg>Saturgus</bzg> <link ref="saturgus" linktext="true" />
 </marginal>
 
@@ -43764,7 +43764,7 @@ der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft
 </marginal>
 
 <marginal letter="365" page="463" line="19">
-<bzg>Zustand unsers Vermögens</bzg> vgl. <intlink letter="361" page="451" line="12" linktext="true" /> und <intlink letter="463" page="459" line="32" linktext="true" />
+<bzg>Zustand unsers Vermögens</bzg> vgl. <intlink letter="361" page="451" line="12" linktext="true" /> und <intlink letter="363" page="459" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="365" page="463" line="25">
@@ -43816,7 +43816,7 @@ der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft
 </marginal>
 
 <marginal letter="365" page="466" line="1">
-<bzg>Magistrats</bzg> <link ref="1" linktext="true" />
+<bzg>Magistrats</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="365" page="466" line="8">
