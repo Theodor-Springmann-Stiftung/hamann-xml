@@ -27402,11 +27402,7 @@ Brief Nr. 240
 <bzg>Atticus</bzg> <link ref="atticus" linktext="true" />, für seine politische Neutralität bekannt.
 </marginal>
 
-<marginal letter="240" page="184" line="4" sort="1">
-<bzg>Nachfolger</bzg> Becker, NN, in der Badstube des Vaters
-</marginal>
-
-<marginal letter="240" page="184" line="4" sort="2">
+<marginal letter="240" page="184" line="4">
 <bzg>seel. Vetters</bzg> <link ref="nuppenau-ja" linktext="true" /> 
 </marginal>
 
@@ -29525,7 +29521,7 @@ Brief Nr. 249
 </marginal>
 
 <marginal letter="249" page="215" line="4">
-<bzg>Nachfolger</bzg> Becker, NN, in der Badstube des Vaters
+<bzg>Nachfolger</bzg> <link ref="nuppenau-jp" linktext="true" />
 </marginal>
 
 <marginal letter="249" page="215" line="12">
@@ -29576,6 +29572,10 @@ Brief Nr. 250
 
 <marginal letter="250" page="216" line="15">
 <bzg>mit Petro</bzg> <link ref="nt-lk" subref="nt-lk5" linktext="false">Lk 5,4f.</link> 
+</marginal>
+
+<marginal letter="250" page="216" line="16">
+<bzg>Kanzelley…</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="250" page="216" line="25">
@@ -31615,7 +31615,7 @@ Brief Nr. 260
 </marginal>
 
 <marginal letter="260" page="245" line="3">
-<bzg>Oberburggräfl. Amt</bzg> David v. Rohd 
+<bzg>Oberburggräfl. Amt</bzg> <link ref="oberburggraf-amt" linktext="true" /> 
 </marginal>
 
 <marginal letter="260" page="245" line="6">
@@ -35960,6 +35960,10 @@ Brief Nr. 299
 
 Brief Nr. 300
 
+<marginal letter="300" page="328" line="24">
+Die adressierte Behörde ist nicht spezifiziert: In HKB 300 (II 330/3) spricht Hamann lediglich von „E. Erlauchte Königl. Regierung“; die Anrede an <link ref="friedrich-II" linktext="true" /> nur pro forma. Von den diversen Ämtern und Kollegien der <link ref="provinzialregierung" linktext="false">Ostpreußischen Provinzialregierung in Königsberg</link> kommt am ehesten das Kanzleramt als verantwortlich für das Passwesen in Frage, vgl. Ludwig Baczko: Versuch einer Geschichte und Beschreibung der Stadt Königsberg, 7 Bde. Königsberg 1787–1790, IV, S.&#x202F;322.
+</marginal>
+
 <marginal letter="300" page="328" line="25">
 <bzg>Ostracismi</bzg> Ostrakismos, Verbannung von Politikern aus Athen, die tyrannischer Ambitionen verdächtigt wurden
 </marginal>
@@ -35980,12 +35984,16 @@ Brief Nr. 300
 <bzg>copeylichen Beylagen</bzg> wohl die Entlassungsurkunde aus dem Kanzleidienst
 </marginal>
 
+<marginal letter="300" page="329" line="11">
+<bzg>CammerCanzeley</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />
+</marginal>
+
 <marginal letter="300" page="329" line="13">
 <bzg>a. pass.</bzg> dt. vergangenen Jahres
 </marginal>
 
 <marginal letter="300" page="329" line="21">
-<bzg>Nachfolge</bzg> Becker, NN, in der Badstube des Vaters
+<bzg>Nachfolge</bzg> <link ref="nuppenau-jp" linktext="true" />
 </marginal>
 
 <marginal letter="300" page="329" line="36">
@@ -39539,7 +39547,7 @@ Brief Nr. 339
 </marginal>
 
 <marginal letter="339" page="389" line="18" sort="2">
-<bzg>Directoire Provincial</bzg> <link ref="provinzialregierung" linktext="true" />
+<bzg>Directoire Provincial</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
 </marginal>
 
 <marginal letter="339" page="389" line="19">
@@ -43627,6 +43635,10 @@ Brief Nr. 363
 <bzg>Burgermeisterl. Amt</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
+<marginal letter="363" page="459" line="10">
+<bzg>Oberburggräfl. Amt</bzg> <link ref="oberburggraf-amt" linktext="true" />
+</marginal>
+
 <marginal letter="363" page="459" line="20" sort="1">
 <bzg>submittire</bzg> bewerben
 </marginal>
@@ -43716,7 +43728,7 @@ Brief Nr. 364
 Brief Nr. 365
 
 <marginal letter="365" page="463" line="9">
-der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft und die Verwaltung des Vermögens des geistig behinderten <link ref="hamann-jc" linktext="true" /> mit <link ref="nuppenau-jp" linktext="true" />, den Hamann wegen anscheinender Parteilichkeit von <link ref="hindersin" linktext="true" /> eigentlich vom bürgermeisterlichen Pupillenamt abziehen und vor dem <link ref="pupillenkollegium" linktext="true" /> austragen wollte
+der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft und die Verwaltung des Vermögens des geistig behinderten <link ref="hamann-jc" linktext="true" /> mit <link ref="nuppenau-jp" linktext="true" />, den Hamann wegen anscheinender Parteilichkeit von <link ref="hindersin" linktext="true" /> eigentlich vom bürgermeisterlichen Pupillenamt abziehen und vor dem <link ref="pupillenkollegium" linktext="false">Königlichen Pupillenkollegium in Königsberg</link> austragen wollte
 </marginal>
 
 <marginal letter="365" page="463" line="10">
@@ -43768,7 +43780,7 @@ der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft
 </marginal>
 
 <marginal letter="365" page="465" line="16">
-<bzg>Curator ex officio</bzg> dt. Vormund von Amts wegen, Anspielung auf die Untätigkeit des ‚stupiden‘ bzw. ‚melancholischen‘ <link ref="hamann-vjc" linktext="true" /> (vgl. <intlink letter="363" page="456" line="32" linktext="true" />)
+<bzg>Curator ex officio</bzg> dt. Vormund von Amts wegen, Anspielung auf die Untätigkeit des ‚stupiden‘ bzw. ‚melancholischen‘ <link ref="hamann-vjc" linktext="true" /> (vgl. <intlink letter="366" page="467" line="31" linktext="true" />)
 </marginal>
 
 <marginal letter="365" page="465" line="18">
@@ -43811,8 +43823,44 @@ der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft
 
 Brief Nr. 366
 
-<marginal letter="366" page="463" line="5">
+<marginal letter="366" page="467" line="3" sort="1">
 <bzg>Ew. Kgl. Maj.</bzg> dem Briefentwurf ging offenbar eine Aufforderung zu weiteren Erklärungen nach  <intlink letter="363" page="455" line="34" linktext="true" /> voraus, auf die Hamann hier wiederum antwortet; die Anrede an <link ref="friedrich-II" linktext="true" /> ist wohl nur pro forma; der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft und die Verwaltung des Vermögens des geistig behinderten <link ref="hamann-jc" linktext="true" /> mit <link ref="nuppenau-jp" linktext="true" />, welchen Hamann wegen der Parteilichkeit von <link ref="hindersin" linktext="true" /> vor dem <link ref="pupillenkollegium" linktext="true" /> austragen wollte
+</marginal>
+
+<marginal letter="365" page="467" line="3" sort="2">
+<bzg>a. c.</bzg> anno currentis, dt. laufendes Jahr
+</marginal>
+
+<marginal letter="365" page="467" line="6">
+<bzg>veruntreuet</bzg> vgl. <intlink letter="365" page="466" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="365" page="467" line="7">
+<bzg>Beyl. Factum</bzg> beiliegenden Tatsachennachweisen
+</marginal>
+
+<marginal letter="365" page="467" line="17">
+<bzg>ausdrückliche Wärterin</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="365" page="467" line="23">
+<bzg>Magistratus</bzg> die Gegenpartei von <link ref="hindersin" linktext="true" />
+</marginal>
+
+<marginal letter="365" page="467" line="25">
+<bzg>sinistre Insinuationes</bzg> düstere Einflüsterungen
+</marginal>
+
+<marginal letter="365" page="468" line="5">
+<bzg>Curator Advocat Gunthel</bzg> <link ref="gunthel" linktext="true" />
+</marginal>
+
+<marginal letter="365" page="468" line="17">
+<bzg>Kriegs- und Domainen Cammer</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />
+</marginal>
+
+<marginal letter="365" page="468" line="32">
+<bzg>Ao</bzg> Anno, Jahr
 </marginal>
 
 Brief Nr. 367
