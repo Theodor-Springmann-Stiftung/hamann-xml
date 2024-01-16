@@ -1587,7 +1587,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="braxein" type="neuzeit">
 <lemma>Fabian Abraham v. Braxein</lemma>
-<eintrag>1722–1798. Preuß. Etatsminister.</eintrag>
+<eintrag>1722–1798. Preuß. Etatsminister in verschiedenen Funktionen bei der <link ref="provinzialregierung" linktext="true">ostpreußischen Provinzialregierung</link>.</eintrag>
 </kommentar>
 
 <kommentar id="breitinger" type="neuzeit">
@@ -3246,7 +3246,7 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 
 <kommentar id="domhardt" type="neuzeit">
 <lemma>Johann Friedrich Domhardt</lemma>
-<eintrag>1712–1781. Seit 1763 Kammerpräsident von Königsberg.
+<eintrag>1712–1781. Ab 1763 Präsident der <link ref="kriegs-und-domaenenkammer" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -5436,7 +5436,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hamann-jc" type="neuzeit">
 <lemma>Johann Christoph Hamann (Bruder)</lemma>
-<eintrag>1732–1778. Bruder von <link ref="hamann" linktext="true" />, ab 1758 Lehrer in Riga, 1761–1765 im Löbenicht in Königsberg; litt ab etwa 1759 zunehmend an einer psychischen Krankheit („Melancholie“) und musste wegen seiner geistigen Behinderung in Hamanns Haushalt gepflegt werden.</eintrag>
+<eintrag>1732–1778. Bruder von <link ref="hamann" linktext="true" />, ab 1758 Lehrer in Riga, 1761–1765 im Löbenicht in Königsberg; litt ab etwa 1759 zunehmend an einer psychischen Krankheit (‚Melancholie‘, ‚Stupor‘) und musste wegen seiner geistigen Behinderung in Hamanns Haushalt gepflegt werden.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-jm" type="neuzeit">
@@ -7439,7 +7439,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kriegs-und-domaenenkammer" type="neuzeit">
 <lemma>Kriegs- und Domänenkammer in Königsberg</lemma>
-<eintrag>Königlich-preußische Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung; abhängig von den Direktiven des <link ref="generaldirektorium" linktext="false">Generaldirektoriums</link>. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Sie war im Kneiphöfische Rathaus und im Königsberger Schloss ansässig. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink><line type="break" />
+<eintrag>Königlich-preußische Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung; abhängig von den Direktiven des <link ref="generaldirektorium" linktext="false">Generaldirektoriums</link>. Sie tagte auf dem Königsberger Schloss, Präsident war <link ref="domhardt" linktext="true" />. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Sie war im Kneiphöfische Rathaus und im Königsberger Schloss ansässig. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink><line type="break" />
 Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. „extraordinairer Cantzeley-Verwandter“ für die Kriegs- und Domainenkammer (vgl. <intlink letter="253" page="225" line="15" linktext="true" /> und <intlink letter="256" page="231" line="32" linktext="true" />).</eintrag>
 </kommentar>
 
@@ -9832,7 +9832,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 
 <kommentar id="nuppenau-jp" type="neuzeit">
 <lemma>Johann Peter Nuppenau</lemma>
-<eintrag>1732–1785. Bader, Gehilfe von <link ref="hamann-vjc" linktext="true" />, führte ab 1764 dessen Badstube. Nach dem Tod von <link ref="hamann-vjc" linktext="true" /> verschlechterte sich das Verhältnis zu Hamann, sodass sie 1769 in einen Rechtsstreit um das väterliche Erbe und die Vormundschaft von <link ref="hamann-jc" linktext="true" /> gerieten (vgl. HKB 361–367).</eintrag>
+<eintrag>1732–1785. Bader, Gehilfe von <link ref="hamann-vjc" linktext="true" />, führte ab 1764 dessen Badstube und wurde schließlich sein Nachfolger als altstädtischer Bader. Nach dem Tod von <link ref="hamann-vjc" linktext="true" /> verschlechterte sich das Verhältnis zu Hamann, sodass sie 1769 in einen Rechtsstreit um das väterliche Erbe und die Vormundschaft von <link ref="hamann-jc" linktext="true" /> gerieten (vgl. HKB 361–367).</eintrag>
 </kommentar>
 
 <kommentar id="nuppenau-ja" type="neuzeit">
@@ -10585,7 +10585,8 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 
 <kommentar id="provinzial-akzise-und-zoll-direktion" type="neuzeit">
 <lemma>Provinzial-Akzise- und Zoll-Direktion in Königsberg</lemma>
-<eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> in Berlin unter <link ref="launay" linktext="true" />. Ansässig bis Februar 1767 in der Junkergasse, danach im Billetschen Haus am Schlossberg (<intlink letter="339" page="389" line="19" linktext="true" />). Hamann war in der Königsberger Akzise- und Zolldirektion seit Juni 1767 vor allem als Übersetzer tätig (vgl. <intlink letter="343" page="395" line="3" linktext="true" />). 1766–1774 unter der Führung von <link ref="magnier" linktext="true" />, seit 1774 unter <link ref="stockmar" linktext="true" />.</eintrag>
+<eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> in Berlin unter <link ref="launay" linktext="true" />. Ansässig bis Februar 1767 in der Junkergasse, danach im Billetschen Haus am Schlossberg (<intlink letter="339" page="389" line="19" linktext="true" />). 1766–1774 unter der Führung von <link ref="magnier" linktext="true" />, seit 1774 unter <link ref="stockmar" linktext="true" />.<line type="break" />
+Hamann war in der Akzise- und Zolldirektion seit Juni 1767 vor allem als Übersetzer tätig (vgl. <intlink letter="343" page="395" line="3" linktext="true" />). Anfänglich verdiente er 16 Reichstaler, bald 25 Reichstaler im Monat (<intlink letter="367" page="477" line="18" linktext="true" />).</eintrag>
 </kommentar>
 
 <kommentar id="prevost" type="neuzeit">

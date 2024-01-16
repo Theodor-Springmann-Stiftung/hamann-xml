@@ -23312,6 +23312,10 @@ Brief Nr. 215
 <bzg>Hindersen</bzg> <link ref="hindersin" linktext="true" />
 </marginal>
 
+<marginal letter="215" page="117" line="12">
+<bzg>Magistrat</bzg> <link ref="magistrat" linktext="true" />
+</marginal>
+
 <marginal letter="215" page="117" line="14">
 <bzg>Nec quia&#x202F;…</bzg> <link ref="horaz" subref="horaz-epistel" linktext="true" /> 1,1: „Und auch wenn du es aufgibst, des unbesiegten Glykon Gliederstärke erreichen zu wollen, so wirst du doch nicht hindern wollen, daß frei dein Körper von Gichtknoten bleibt. Fortschritte zu machen ist auch recht, wenn man nicht weiter darüber hinaus kann.“
 </marginal>
@@ -27402,11 +27406,11 @@ Brief Nr. 240
 <bzg>Atticus</bzg> <link ref="atticus" linktext="true" />, für seine politische Neutralität bekannt.
 </marginal>
 
-<marginal letter="240" page="184" line="4">
+<marginal letter="240" page="184" line="4" sort="1">
 <bzg>seel. Vetters</bzg> <link ref="nuppenau-ja" linktext="true" /> 
 </marginal>
 
-<marginal letter="240" page="184" line="4" sort="3">
+<marginal letter="240" page="184" line="4" sort="2">
 <bzg>Elbing</bzg> heute Elbląg
 </marginal>
 
@@ -29239,11 +29243,23 @@ Brief Nr. 248
 </marginal>
 
 <marginal letter="248" page="211" line="34">
+<bzg>Kammer</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />
+</marginal>
+
+<marginal letter="248" page="211" line="35">
 <bzg>Licitation</bzg> Versteigerung
 </marginal>
 
 <marginal letter="248" page="211" line="36">
 <bzg>Memorial</bzg> Bittschrift bzw. schriftliche Eingabe zur Erinnerung
+</marginal>
+
+<marginal letter="248" page="211" line="37">
+<bzg>Magistrat</bzg> <link ref="magistrat" linktext="true" />
+</marginal>
+
+<marginal letter="248" page="212" line="2">
+<bzg>Praesidenten</bzg> <link ref="domhardt" linktext="true" />
 </marginal>
 
 <marginal letter="248" page="212" line="4" sort="1">
@@ -29797,7 +29813,7 @@ Brief Nr. 251
 </marginal>
 
 <marginal letter="251" page="219" line="26">
-<bzg>Kanzelley</bzg> vgl. <intlink letter="250" page="216" line="16" linktext="true" />
+<bzg>Kanzelley</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="251" page="219" line="28">
@@ -29827,7 +29843,7 @@ Brief Nr. 252
 </marginal>
 
 <marginal letter="252" page="220" line="20">
-<bzg>Canzelley</bzg> vgl. <intlink letter="250" page="216" line="16" linktext="true" />
+<bzg>Canzelley</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="252" page="220" line="21">
@@ -29919,7 +29935,7 @@ Brief Nr. 252
 </marginal>
 
 <marginal letter="252" page="222" line="2">
-<bzg>Kanzelley</bzg> vgl. <intlink letter="250" page="216" line="16" linktext="true" />
+<bzg>Kanzelley</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="252" page="222" line="4">
@@ -30067,7 +30083,7 @@ Brief Nr. 252
 </marginal>
 
 <marginal letter="252" page="224" line="34">
-<bzg>Kanzelley</bzg> vgl. <intlink letter="250" page="216" line="16" linktext="true" />
+<bzg>Kanzelley</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="252" page="225" line="1">
@@ -30116,7 +30132,7 @@ Brief Nr. 253
 </marginal>
 
 <marginal letter="253" page="226" line="6">
-<bzg>Canzelley</bzg> vgl. <intlink letter="250" page="216" line="16" linktext="true" />
+<bzg>Canzelley</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="253" page="226" line="9" sort="2">
@@ -30276,7 +30292,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal letter="254a" page="XX" line="7">
-<bzg>Kanzelley</bzg> vgl. <intlink letter="250" page="216" line="16" linktext="true" />
+<bzg>Kanzelley</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="254a" page="XX" line="9">
@@ -31412,6 +31428,14 @@ Brief Nr. 259
 <bzg>Inspectorstelle</bzg> am Collegium Fridericianum
 </marginal>
 
+<marginal letter="259" page="242" line="5">
+<bzg>Regierung</bzg> <link ref="provinzialregierung" linktext="true" />
+</marginal>
+
+<marginal letter="259" page="242" line="6">
+<bzg>Cammer</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />
+</marginal>
+
 <marginal letter="259" page="242" line="8">
 <bzg>D. Arnoldt</bzg> <link ref="arnoldt" linktext="true" />
 </marginal>
@@ -32265,7 +32289,7 @@ Brief Nr. 267
 </marginal>
 
 <marginal letter="267" page="257" line="1" sort="1">
-<bzg>Domh.</bzg> <link ref="domhardt" linktext="true" /> wurde zum Präsidenten der Kammer befördert
+<bzg>Domh.</bzg> <link ref="domhardt" linktext="true" /> der <link ref="kriegs-und-domaenenkammer" linktext="true" /> befördert
 </marginal>
 
 <marginal letter="267" page="257" line="1" sort="2">
@@ -34221,7 +34245,7 @@ Brief Nr. 285
 </marginal>
 
 <marginal letter="285" page="296" line="16" sort="2">
-<bzg>Rump</bzg> Georg Rump, Stadtrat in Königsberg
+<bzg>Rump</bzg> Georg Rump, im <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="285" page="296" line="18">
@@ -35985,7 +36009,7 @@ Die adressierte Behörde ist nicht spezifiziert: In HKB 300 (II 330/3) spricht H
 </marginal>
 
 <marginal letter="300" page="329" line="11">
-<bzg>CammerCanzeley</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />
+<bzg>CammerCanzeley</bzg> Kanzlei der <link ref="kriegs-und-domaenenkammer" linktext="true" />
 </marginal>
 
 <marginal letter="300" page="329" line="13">
@@ -41410,7 +41434,7 @@ Brief Nr. 351
 </marginal>
 
 <marginal letter="351" page="419" line="26" sort="2">
-<bzg>Kanter…</bzg> Der <link ref="kanter-jj" linktext="false">Kantersche Buchladen</link> zog um in das nach dem großen Brand 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2 (es war im Besitz des Königsberger Magistrats, der manche Teile vermietete, so eben an Kanter)
+<bzg>Kanter…</bzg> Der <link ref="kanter-jj" linktext="false">Kantersche Buchladen</link> zog um in das nach dem großen Brand 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2 (es war im Besitz des <link ref="magistrat" linktext="true" />, der manche Teile vermietete, so eben an Kanter)
 </marginal>
 
 <marginal letter="351" page="419" line="26" sort="3">
@@ -42214,7 +42238,7 @@ Brief Nr. 355
 </marginal>
 
 <marginal letter="355" page="433" line="19">
-<bzg>Meine Spinnerinnen</bzg> <link ref="schumacher-ar" linktext="true" /> und ihre Mutter, die, nachdem H. zunächst mit dem Bruder am 15. August 1768 in die Bondelische Wohnung eingezogen war, wohl um Weihnachten nachfolgten. 
+<bzg>Meine Spinnerinnen</bzg> <link ref="schumacher-ar" linktext="true" /> und ihre Mutter, die, nachdem Hamann zunächst mit dem Bruder am 15. August 1768 in die Bondelische Wohnung eingezogen war, wohl um Weihnachten nachfolgten. 
 </marginal>
 
 <marginal letter="355" page="433" line="21">
@@ -43867,8 +43891,72 @@ Brief Nr. 366
 
 Brief Nr. 367
 
-<marginal letter="366" page="463" line="5">
-<bzg>Ew. Kgl. Maj.</bzg> dem Briefentwurf ging offenbar eine Aufforderung zu weiteren Erklärungen nach  <intlink letter="366" page="463" line="5" linktext="true" /> voraus, auf die Hamann hier wiederum antwortet; die Anrede an <link ref="friedrich-II" linktext="true" /> ist wohl nur pro forma; der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft und die Verwaltung des Vermögens des geistig behinderten <link ref="hamann-jc" linktext="true" /> mit <link ref="nuppenau-jp" linktext="true" />, welchen Hamann wegen der Parteilichkeit von <link ref="hindersin" linktext="true" /> vor dem <link ref="pupillenkollegium" linktext="true" /> austragen wollte
+<marginal letter="367" page="469" line="26">
+<bzg>Ew. Kgl. Maj.</bzg> dem Briefentwurf ging offenbar eine Aufforderung zu weiteren Erklärungen nach  <intlink letter="366" page="467" line="3" linktext="true" /> voraus, auf die Hamann hier wiederum antwortet; die Anrede an <link ref="friedrich-II" linktext="true" /> ist wohl nur pro forma; der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft und die Verwaltung des Vermögens des geistig behinderten <link ref="hamann-jc" linktext="true" /> mit <link ref="nuppenau-jp" linktext="true" />, welchen Hamann wegen der Parteilichkeit von <link ref="hindersin" linktext="true" /> vor dem <link ref="pupillenkollegium" linktext="true" /> austragen wollte
+</marginal>
+
+<marginal letter="367" page="469" line="32">
+<bzg>Supplique</bzg> wohl das eingereichte Schriftstück, wofür <intlink letter="366" page="467" line="3" linktext="true" /> der Entwurf war
+</marginal>
+
+<marginal letter="367" page="469" line="34">
+<bzg>Altstädtschen Bader</bzg> <link ref="nuppenau-jp" linktext="true" />
+</marginal>
+
+<marginal letter="367" page="470" line="1">
+<bzg>Hindersinn</bzg> <link ref="hindersin" linktext="true" />
+</marginal>
+
+<marginal letter="367" page="470" line="2">
+<bzg>Magistrats</bzg> <link ref="magistrat" linktext="true" />
+</marginal>
+
+<marginal letter="367" page="470" line="9">
+<bzg>seel. Vater</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
+<marginal letter="367" page="470" line="24">
+<bzg>extradiren</bzg> dt. ausliefern
+</marginal>
+
+<marginal letter="367" page="470" line="27">
+<bzg>Jahr der Münzreduction</bzg> ?!?
+</marginal>
+
+<marginal letter="367" page="471" line="7">
+<bzg>Bruder</bzg> <link ref="hamann-jc" linktext="true" />
+</marginal>
+
+<marginal letter="367" page="471" line="15">
+<bzg>Kirchenrath Buchholtz</bzg> <link ref="bucholtz-k-jc" linktext="true" />
+</marginal>
+
+<marginal letter="367" page="475" line="15">
+<bzg>Captatores bonorum alienorum</bzg> dt. Erschleicher fremden Eigentums
+</marginal>
+
+<marginal letter="367" page="475" line="29">
+<bzg>debitori moroso und ingrato</bzg> dt. mürrischen und undankbaren Schuldner?!?
+</marginal>
+
+<marginal letter="367" page="476" line="20">
+<bzg>Apostel Christi…</bzg> ?!?
+</marginal>
+
+<marginal letter="367" page="477" line="10" sort="1">
+<bzg>Magistrat</bzg> <link ref="magistrat" linktext="true" />
+</marginal>
+
+<marginal letter="367" page="477" line="10" sort="2">
+<bzg>Kgl. Kriegs- v Domainen Cammer</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />
+</marginal>
+
+<marginal letter="367" page="477" line="16">
+<bzg>Accise und Zoll Directorio</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
+<marginal letter="367" page="478" line="4">
+<bzg>Haushälterin</bzg> <link ref="schumacher-ar" linktext="true" />
 </marginal>
 
 Brief Nr. 368
