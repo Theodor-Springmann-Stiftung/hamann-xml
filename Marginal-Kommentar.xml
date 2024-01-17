@@ -43887,8 +43887,6 @@ Brief Nr. 366
 <bzg>BurgerMeisterl. Pupillen-Amts</bzg> das bürgermeisterliche Pupillenamt als Teil des Magistrats unter <link ref="hindersin" linktext="true" /> wäre eigentlich für die Vormundschaftssache von Hamanns Bruder verantwortlich, das <link ref="pupillenkollegium" linktext="false">Königliche Pupillenkollegium</link> nur für höher gestellte Personen, vgl. <intlink letter="363" page="458" line="37" linktext="true" />
 </marginal>
 
-
-
 Brief Nr. 367
 
 <marginal letter="367" page="469" line="26">
@@ -44090,23 +44088,23 @@ Brief Nr. 369
 August 1769, nicht Oktober wie in ZH II
 
 <marginal letter="369" page="481" line="3">
-<bzg>Brief</bzg> vgl. Brief Nr. 360
+<bzg>Brief</bzg> <intlink letter="360" page="447" line="19" linktext="true" />
 </marginal>
 
 <marginal letter="369" page="481" line="8">
-<bzg>Rückzug aus Riga</bzg> von den Ämtern an der Domschule und als Pfarradjunkt
+<bzg>Rückzug aus Riga</bzg> von den Ämtern an der Domschule und als Pfarradjunkt sowie aus der Stadt überhaupt
 </marginal>
 
 <marginal letter="369" page="481" line="32">
-<bzg>Hamannischen Pastoralschreiben</bzg> ?!?
+<bzg>Hamannischen Pastoralschreiben</bzg> wohl Ermahnungen Hamanns über Herders unkluges Verhalten in der Auseinandersetzung mit <link ref="klotz" linktext="true" /> wie in <intlink letter="357" page="435" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="369" page="481" line="33">
-<bzg>in weniger, aber vertrauter Gesellschaft</bzg> Mr. Babut und seine Frau, vgl. HBGA I,154 ?!?
+<bzg>in weniger, aber vertrauter Gesellschaft</bzg> ein Mr und eine Mme Babut und seine Frau, vgl. HBGA, Bd.&#x202F;11, S.&#x202F;154
 </marginal>
 
 <marginal letter="369" page="481" line="36">
-<bzg>Jüngling</bzg> Koch, vgl. HBGA I,157 ?!?
+<bzg>Jüngling</bzg> ein junger schwedischer Kaufmann namens Koch, vgl. HBGA, Bd.&#x202F;11, S.&#x202F;157
 </marginal>
 
 <marginal letter="369" page="482" line="4" sort="1">
@@ -44130,7 +44128,7 @@ August 1769, nicht Oktober wie in ZH II
 </marginal>
 
 <marginal letter="369" page="482" line="12">
-<bzg>d’Arnauld</bzg> <link ref="arnaud" linktext="true" />
+<bzg>d’Arnauld</bzg> <link ref="arnaud" linktext="true" />, Herausgeber des <titel>Journal étranger</titel>
 </marginal>
 
 <marginal letter="369" page="482" line="13">
@@ -44138,19 +44136,19 @@ August 1769, nicht Oktober wie in ZH II
 </marginal>
 
 <marginal letter="369" page="482" line="14">
-<bzg>Abbts Morellets Memoire sur la situation actuelle de la Comp. des Ind.</bzg> Abbé André Morellet (1727-1819), frz. Schriftsteller, Mitarbeiter an der Encyclopédie: Mémoire sur la situation actuelle de la Compagnie des Indes. Paris 1769.
+<bzg>Abbts Morellets…</bzg> <link ref="morellet" subref="morellet-memoire" linktext="true" />
 </marginal>
 
 <marginal letter="369" page="482" line="16">
-<bzg>Necker u. den Grafen Lauraguais</bzg> Jacques Necker (1732-1804), frz. Finanzminister von 1777-81 und 1788-1790: Réponse au mémoire de M. l'abbé Morellet, sur la Compagnie des Indes. Paris 1769; und: Louis-Léon-Félicité Comte de Lauraguais (1733-1824), frz. Literat: Mémoire sur la Compagnie des Indes, dans lequel on établit les droits et les intérets des actionnaires. En réponse aux compilations de M. l'abbé Morellet. 3 Bde, 1770.
+<bzg>Necker u. den Grafen Lauraguais</bzg> <link ref="necker" linktext="true" />: <titel>Réponse au mémoire de M. l'abbé Morellet, sur la Compagnie des Indes</titel> (Paris 1769) und: Louis-Léon-Félicité Comte de Lauraguais (1733–1824, frz. Literat): <titel>Mémoire sur la Compagnie des Indes,</titel> dans lequel on établit les droits et les intérets des actionnaires. En réponse aux compilations de M. l'abbé Morellet. 3 Bde, 1770.
 </marginal>
 
 <marginal letter="369" page="482" line="17">
-<bzg>Preisaufgabe in Orleans</bzg> ?!?
+<bzg>Preisaufgabe in Orleans</bzg> von 1769; dt.: Welchen Vorteil hätte ein Königreich, das als erstes seinem Handel vollkommene Freiheit wiedergeben würde?
 </marginal>
 
 <marginal letter="369" page="482" line="22">
-<bzg>Variétés literaires et amusantes</bzg> ?!?  Variétés littéraires Band 1, Paris 1768
+<bzg>Variétés literaires et amusantes</bzg> recte François Arnaud, Jean Baptiste Antoine Suard (Hg.): <titel>Variétés littéraires</titel> ou Recueil de pièces tant originales que traduites, concernant la philosophie, la littérature et les arts (4 Bde., Paris 1768/69)
 </marginal>
 
 <marginal letter="369" page="482" line="23">
@@ -44158,16 +44156,15 @@ August 1769, nicht Oktober wie in ZH II
 </marginal>
 
 <marginal letter="369" page="482" line="24" sort="1">
-<bzg>Abhandlung über die Chevalerie</bzg> Charles Jarvis: Some account of the rise, progress and continuance of Chivalry. Essai sur la naissance, les progrès et la dureé de la Chevalerie, traduit de
-l´Anglais par M. Suard, in: <link ref="journal-etranger" linktext="true" />, August 1761, Article I, S.5-34
+<bzg>Abhandlung über die Chevalerie</bzg> Charles Jarvis: <titel>Some account of the rise, progress and continuance of Chivalry.</titel> Essai sur la naissance, les progrès et la dureé de la Chevalerie, traduit de l’Anglais par M. Suard, in: <link ref="journal-etranger" linktext="true" />, August 1761, Article I, S.&#x202F;5–34
 </marginal>
 
 <marginal letter="369" page="482" line="24" sort="2">
-<bzg>Allgarotti über Horaz</bzg> Francesco Algarotti (1712-1764), ital. Philosoph; Essai sur la vie d’Horace, in: <link ref="journal-etranger" linktext="true" />, April 1761, S. 137-174
+<bzg>Allgarotti über Horaz</bzg> <link ref="algarotti" linktext="true" />: <titel>Essai sur la vie d’Horace,</titel> in: <link ref="journal-etranger" linktext="true" />, April 1761, S.&#x202F;137–174
 </marginal>
 
 <marginal letter="369" page="482" line="25" sort="1">
-<bzg>Bollinbrocke</bzg> <link ref="bolinbroke" linktext="true" />, nicht ermittelt
+<bzg>Bollinbrocke</bzg> <link ref="bolinbroke" linktext="true" />; <titel>Observations sur la Correspondance littéraire de Milord Bolingbroke, ses Ouvrages politiques, et ses Papiers sur différens sujets, avec l’examen des causes et des progrès de sa reputation</titel>, in François Arnaud, Jean Baptiste Antoine Suard (Hg.): <titel>Variétés littéraires</titel>, Bd.&#x202F;1
 </marginal>
 
 <marginal letter="369" page="482" line="25" sort="2">
@@ -44176,6 +44173,10 @@ l´Anglais par M. Suard, in: <link ref="journal-etranger" linktext="true" />, Au
 
 <marginal letter="369" page="482" line="29">
 <bzg>Encyklopädie</bzg> <link ref="encyclopedie" linktext="true" /> 
+</marginal>
+
+<marginal letter="369" page="482" line="35">
+<bzg>Bruder</bzg> <link ref="hamann-jc" linktext="true" />
 </marginal>
 
 <marginal letter="369" page="483" line="8">
