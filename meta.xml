@@ -60,9 +60,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="4">
-        <date value="November 1752" />
+        <date value="Königsberg, November 1752" />
         <sort value="1752-11-01" notBefore="1752-11-01" notAfter="1752-11-30" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -317,9 +317,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="17">
-        <date value="1753" />
-        <sort value="1753-05-01" notBefore="1753-01-01" notAfter="1753-12-31" />
-        <location ref="-1" />
+        <date value="Vmtl. Kegeln oder Riga, vor 10. Mai 1753" />
+        <sort value="1753-05-01" notBefore="1753-05-01" notAfter="1753-05-10" />
+        <location ref="6" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -608,9 +608,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="32">
-        <date value="Ende 1754" />
+        <date value="Vmtl. Grünhof, Ende 1754" />
         <sort value="1754-11-01" notBefore="1754-10-1" notAfter="1754-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -629,9 +629,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="33">
-        <date value="Ende 1754" />
+        <date value="Vmtl. Grünhof, Ende 1754" />
         <sort value="1754-11-15" notBefore="1754-10-1" notAfter="1754-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -648,9 +648,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="34">
-        <date value="Vmtl. Ende 1754" />
+        <date value="Vmtl. Grünhof, vmtl. Ende 1754" />
         <sort value="1754-12-01" notBefore="1754-10-1" notAfter="1754-12-31" cert="low" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1389,9 +1389,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="72">
-        <date value="12. April 1756" />
+        <date value="Vmtl. Grünhof, 12. April 1756" />
         <sort value="1756-04-12" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1598,9 +1598,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="83">
-        <date value="Winter 1755/1756, vor Mitte März 1756" />
+        <date value="Vmtl. Grünhof, Winter 1755/1756, vor Mitte März 1756" />
         <sort value="1756-03-14" notAfter="1756-03-14" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1638,9 +1638,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="85">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-01" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1657,9 +1657,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="86">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-02" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1678,7 +1678,7 @@
       <letterDesc letter="87">
         <date value="1754–1756" />
         <sort value="1756-07-03" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1695,9 +1695,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="88">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-04" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1714,9 +1714,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="89">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-05" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1733,9 +1733,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="90">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-06" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1752,9 +1752,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="91">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-07" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1771,9 +1771,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="92">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-08" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1790,9 +1790,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="93">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-09" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1809,9 +1809,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="94">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-10" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1828,9 +1828,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="95">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-11" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1847,9 +1847,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="96">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-12" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1866,9 +1866,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="97">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-13" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1885,9 +1885,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="98">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-14" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1904,9 +1904,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="99">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-15" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1923,9 +1923,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="100">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-16" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1942,9 +1942,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="101">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-17" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1961,9 +1961,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="102">
-        <date value="1754–1756" />
+        <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-18" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
