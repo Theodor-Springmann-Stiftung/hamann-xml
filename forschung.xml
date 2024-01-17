@@ -4251,6 +4251,15 @@
 
 </kommcat>
 
+<kommcat value="nachschlagewerke" sorting="5">
+
+<kommentar id="adelung" type="nachschlagewerke">
+<lemma>Adelung:<line type="break" />
+Johann Christoph Adelung: Grammatisch-critisches Wörterbuch der hochdeutschen Mundart (Wien 1811).</lemma>
+</kommentar>
+
+</kommcat>
+
 </kommentare>
 </data>
 </opus>
