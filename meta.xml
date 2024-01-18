@@ -2797,9 +2797,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="146">
-        <date value="5. Juni 1759" />
+        <date value="Vmtl. Königsberg, 5. Juni 1759" />
         <sort value="1759-06-05" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -2816,9 +2816,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="147">
-        <date value="Vmtl. Juni 1759" />
+        <date value="Vmtl. Königsberg, vmtl. Juni 1759" />
         <sort value="1759-06-06" notBefore="1759-06-01" notAfter="1758-06-31" cert="low" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -2930,9 +2930,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="153">
-        <date value="27. Juli 1759" />
+        <date value="Vmtl. Königsberg, 27. Juli 1759" />
         <sort value="1759-07-27" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3026,9 +3026,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="158">
-        <date value="Vmtl. August 1759" />
+        <date value="Vmtl. Königsberg, vmtl. August 1759" />
         <sort value="1759-08-19" notBefore="1759-08-01" notAfter="1759-08-31" cert="low" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3216,9 +3216,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="168">
-        <date value="1759" />
+        <date value="Vmtl. Königsberg, 1759" />
         <sort value="1759-11-21" notBefore="1759-01-01" notAfter="1759-12-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3235,9 +3235,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="169">
-        <date value="1759" />
+        <date value="Vmtl. Königsberg, 1759" />
         <sort value="1759-11-22" notBefore="1759-01-01" notAfter="1759-12-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3254,9 +3254,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="170">
-        <date value="Ende Dezember 1759" />
+        <date value="Vmtl. Königsberg, Ende Dezember 1759" />
         <sort value="1759-12-15" notBefore="1759-12-15" notAfter="1759-12-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3273,9 +3273,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="171">
-        <date value="1759" />
+        <date value="Vmtl. Königsberg, 1759" />
         <sort value="1759-12-16" notBefore="1759-01-01" notAfter="1759-12-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3292,9 +3292,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="172">
-        <date value="Vmtl. 1759" />
+        <date value="Vmtl. Königsberg, vmtl. 1759" />
         <sort value="1759-12-17" notBefore="1759-01-01" notAfter="1759-12-31" cert="low" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3387,9 +3387,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="177">
-        <date value="19. Januar 1760" />
+        <date value="Vmtl. Königsberg, 19. Januar 1760" />
         <sort value="1760-01-19" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3406,9 +3406,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="178">
-        <date value="12. und 19. Februar 1760" />
+        <date value="Vmtl. Königsberg, 12. und 19. Februar 1760" />
         <sort value="1760-02-12" from="1760-02-12" to="1760-02-19" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3444,9 +3444,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="180">
-        <date value="2. April 1760" />
+        <date value="Vmtl. Königsberg, 2. April 1760" />
         <sort value="1760-04-02" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3482,7 +3482,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="182">
-        <date value="Königsberg, 21. Mai 1760" />
+        <date value="Vmtl. Königsberg, 21. Mai 1760" />
         <sort value="1760-05-21" order="100" />
         <location ref="2" />
         <senders>
@@ -3501,9 +3501,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="183">
-        <date value="21. Mai 1760" />
+        <date value="Vmtl. Königsberg21. Mai 1760" />
         <sort value="1760-05-21" order="200" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3539,9 +3539,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="185">
-        <date value="Juni 1760" />
+        <date value="Vmtl. Königsberg, Juni 1760" />
         <sort value="1760-06-14" notBefore="1760-06-01" notAfter="1760-06-30" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3577,9 +3577,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="187">
-        <date value="Vmtl. Ende Juli 1760" />
+        <date value="Königsberg, vmtl. Ende Juli 1760" />
         <sort value="1760-07-20" notBefore="1760-07-20" notAfter="1760-07-31" cert="low" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3596,9 +3596,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="188">
-        <date value="23. August 1760" />
+        <date value="Riga, 23. August 1760" />
         <sort value="1760-08-23" />
-        <location ref="-1" />
+        <location ref="6" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -3653,9 +3653,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="191">
-        <date value="12. September 1760" />
+        <date value="Mitau, 12. September 1760" />
         <sort value="1760-09-12" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -4034,7 +4034,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="211">
-        <date value="Vmtl. 1761" />
+        <date value="Vmtl. Grünhof, vmtl. 1761" />
         <sort value="1761-08-08" notBefore="1761-01-01" notAfter="1761-12-31" cert="low" />
         <location ref="-1" />
         <senders>
@@ -4072,9 +4072,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="213">
-        <date value="26. August 1761" />
+        <date value="Vmtl. Königsberg, 26. August 1761" />
         <sort value="1761-08-26" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -4167,9 +4167,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="218">
-        <date value="Vmtl. 1762" />
+        <date value="Vmtl. Königsberg, vmtl. 1762" />
         <sort value="1762-01-01" notBefore="1762-01-01" notAfter="1762-12-31" cert="low" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -4186,9 +4186,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="219">
-        <date value="11. Februar 1762" />
+        <date value="Vmtl. Königsberg, 11. Februar 1762" />
         <sort value="1762-02-11" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -4224,9 +4224,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="221">
-        <date value="2. März 1762" />
+        <date value="Vmtl. Berlin, 2. März 1762" />
         <sort value="1762-03-02" />
-        <location ref="-1" />
+        <location ref="1" />
         <senders>
           <sender ref="36" />
         </senders>
@@ -4680,9 +4680,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="245">
-        <date value="17. März 1763" />
+        <date value="Vmtl. Königsberg, 17. März 1763" />
         <sort value="1763-03-17" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -5117,7 +5117,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="268">
-        <date value="Vmtl. Königsberg, vor 8. Juni 1764" />
+        <date value="Königsberg, vor 8. Juni 1764" />
         <sort value="1764-06-08" notAfter="1764-06-08" />
         <location ref="2" />
         <senders>
@@ -5174,9 +5174,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="271">
-        <date value="nach dem 10. August 1764" />
+        <date value="Königsberg, nach dem 10. August 1764" />
         <sort value="1764-08-10" notBefore="1764-08-10" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="41" />
         </senders>
@@ -5687,9 +5687,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="298">
-        <date value="April 1765" />
+        <date value="Königsberg, April 1765" />
         <sort value="1765-04-02" notBefore="1765-04-01" notAfter="1765-04-30" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -6505,7 +6505,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="341">
-        <date value="nach 14. März 1767" />
+        <date value="Königsberg, nach 14. März 1767" />
         <sort value="1767-03-14" notBefore="1767-03-14" notAfter="1767-03-25" />
         <location ref="2" />
         <senders>
@@ -6524,7 +6524,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="342">
-        <date value="Vmtl. nach 14. März 1767" />
+        <date value="Königsberg, vmtl. nach 14. März 1767" />
         <sort value="1767-04-02" />
         <location ref="2" />
         <senders>
@@ -6885,9 +6885,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="361">
-        <date value="Sommer 1769" />
+        <date value="Königsberg, Sommer 1769" />
         <sort value="1769-06-16" notBefore="1769-05-23" notAfter="1769-07-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -6942,9 +6942,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="364">
-        <date value="3. August 1769" />
+        <date value="Königsberg, 3. August 1769" />
         <sort value="1769-08-03" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
