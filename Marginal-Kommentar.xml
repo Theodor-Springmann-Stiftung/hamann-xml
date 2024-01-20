@@ -4365,7 +4365,7 @@ Brief Nr. 57
 </marginal>
 
 <marginal letter="57" page="139" line="31">
-<link ref="hederich" subref="hederich-gd" linktext="true" />
+<link ref="hederich-b" subref="hederich-gd" linktext="true" />
 </marginal>
 
 <marginal letter="57" page="139" line="32">
@@ -17264,7 +17264,7 @@ vmtl. <link ref="elsner" subref="elsner-nt" linktext="true" />
 </marginal>
 
 <marginal letter="173" page="457" line="4">
-<link ref="hederich" subref="hederich-gd" linktext="true" />
+<link ref="hederich-b" subref="hederich-gd" linktext="true" />
 </marginal>
 
 <marginal letter="173" page="457" line="5">
@@ -17284,7 +17284,7 @@ die Oktav-Ausgabe von <link ref="bengel" subref="bengel-graecum" linktext="true"
 </marginal>
 
 <marginal letter="173" page="457" line="10" sort="2">
-<link ref="hederich" subref="hederich-g" linktext="true" />
+<link ref="hederich-b" subref="hederich-g" linktext="true" />
 </marginal>
 
 <marginal letter="173" page="457" line="13">
@@ -17393,7 +17393,7 @@ Brief Nr. 174
 </marginal>
 
 <marginal letter="174" page="1" line="13" sort="1">
-<link ref="hederich" subref="hederich-g" linktext="false">Hederichs griechisches Lexicon</link>
+<link ref="hederich-b" subref="hederich-g" linktext="false">Hederichs griechisches Lexicon</link>
 </marginal>
 
 <marginal letter="174" page="1" line="13" sort="2">
@@ -17684,7 +17684,7 @@ Brief Nr. 178
 <bzg>Vater</bzg> <link ref="hamann-vjc" linktext="true" />
 </marginal>
 
-<marginal letter="178" page="7" line="15">
+<marginal letter="178" page="7" line="16">
 <bzg>Putz</bzg> wohl <link ref="putz" linktext="true" /> oder dessen Sohn
 </marginal>
 
@@ -28555,7 +28555,7 @@ Brief Nr. 246
 </marginal>
 
 <marginal letter="246" page="202" line="7" sort="2">
-<bzg>Uebersetzer</bzg> <link ref="krunitz" linktext="true" />
+<bzg>Uebersetzer</bzg> <link ref="krunitz-jg" linktext="true" />
 </marginal>
 
 <marginal letter="246" page="202" line="11">
@@ -43555,7 +43555,7 @@ Der Entwurf an das mit Vormundschaftssachen betraute <link ref="pupillenkollegiu
 </marginal>
 
 <marginal letter="362" page="454" line="1">
-<bzg>paroxysmo</bzg> Fieberanfall
+<bzg>paroxysmo</bzg> Anfall
 </marginal>
 
 <marginal letter="362" page="454" line="5">
@@ -43748,15 +43748,15 @@ Brief Nr. 363
 <bzg>paterno</bzg> väterlicher Vermögensanteil
 </marginal>
 
-<marginal letter="360" page="460" line="37">
+<marginal letter="363" page="460" line="37">
 <bzg>Blocksche</bzg> nicht ermittelt
 </marginal>
 
-<marginal letter="360" page="461" line="1">
+<marginal letter="363" page="461" line="1">
 <bzg>Henrici</bzg> nicht ermittelt
 </marginal>
 
-<marginal letter="360" page="461" line="4">
+<marginal letter="363" page="461" line="4">
 <bzg>Gronausche</bzg> George Alexander Gronau, Zimmergeselle in Königsberg (Lebensdaten nicht ermittelt)
 </marginal>
 
@@ -43953,7 +43953,7 @@ Brief Nr. 366
 </marginal>
 
 <marginal letter="366" page="467" line="17">
-<bzg>Paroxysmo</bzg> Fieberanfall
+<bzg>Paroxysmo</bzg> Anfall
 </marginal>
 
 <marginal letter="366" page="467" line="18">
@@ -43969,7 +43969,7 @@ Brief Nr. 366
 </marginal>
 
 <marginal letter="366" page="467" line="31">
-<bzg>Stupor</bzg> dt. Teilnahmslosigkeit
+<bzg>Stupor</bzg> dt. Teilnahmslosigkeit, Stumpfsinn
 </marginal>
 
 <marginal letter="366" page="468" line="4">
@@ -44216,12 +44216,17 @@ Brief Nr. 368
 Brief Nr. 368a
 
 <marginal letter="368a" page="480" line="29">
-<bzg>Herder’s gewagten Schritt</bzg> <link ref="herder" linktext="true" />, Aufgabe der Ämter in Riga und Reise nach Frankreich
+<bzg>Herder’s gewagten Schritt</bzg> <link ref="herder" linktext="false">Herders</link> Aufgabe seiner Ämter in Riga und die Reise nach Frankreich, vgl. <intlink letter="360" page="447" line="19" linktext="true" />; Hamanns Reaktion auf Herders Schritt ist sonst nicht überliefert
 </marginal>
 
-<marginal letter="368a" page="480" line="36">
+<marginal letter="368a" page="480" line="36" sort="1">
+wohl die von Herder geliehenen Bücher, die Hartknoch bei Hamann ablieferte, vgl. <intlink letter="360" page="449" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="368a" page="480" line="36" sort="2">
 <bzg>Georg Berens</bzg> <link ref="berens-g" linktext="true" />
 </marginal>
+
 
 
 Brief Nr. 369
