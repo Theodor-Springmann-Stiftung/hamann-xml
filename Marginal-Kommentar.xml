@@ -44093,11 +44093,11 @@ Brief Nr. 367
 Brief Nr. 368
 
 <marginal letter="368" page="478" line="32">
-<bzg>Berliner</bzg> ?!?
+<bzg>Berliner</bzg> vmtl. ist die allgemeine Abneigung Hamanns gegen Berliner Rezensenten gemeint
 </marginal>
 
-<marginal letter="368" page="479" line="7">
-<bzg>Anfrage</bzg> nicht ermittelt 
+<marginal letter="368" page="478" line="33">
+<bzg>Saumseligkeit…</bzg> gemeint ist vmtl. ein von Nicolai in der Vergangenheit nicht beantworteter Brief; durch den nicht überlieferten Brief Nicolais, der dieser Antwort Hamanns offenbar vorausgegangen ist, sei das aber ausgeglichen
 </marginal>
 
 <marginal letter="368" page="479" line="9">
@@ -44112,8 +44112,16 @@ Brief Nr. 368
 <bzg>Provincial Direction</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
 </marginal>
 
-<marginal letter="368" page="479" line="32">
-<bzg>Phädon sein agio</bzg> <link ref="mendelssohn" linktext="true" />, Aufgeld ?!?
+<marginal letter="368" page="479" line="27">
+<bzg>privat-Mühseeligkeiten</bzg> etwa der Prozess gegen <link ref="nuppenau-jp" linktext="true" /> um die Vormundschaft von <link ref="hamann-jc" linktext="true" /> oder die kürzliche Geburt von <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="368" page="479" line="32" sort="1">
+<bzg>Freund Phädon</bzg> <link ref="mendelssohn" linktext="true" />
+</marginal>
+
+<marginal letter="368" page="479" line="32" sort="2">
+<bzg>agio</bzg> kaufmannssprachlich ‚Aufgeld‘, nicht ermittelt, worauf Hamann anspielt
 </marginal>
 
 <marginal letter="368" page="479" line="34">
@@ -44129,7 +44137,7 @@ Brief Nr. 368
 </marginal>
 
 <marginal letter="368" page="480" line="1">
-<bzg>Valetbriefe</bzg> Abschiedsbrief
+<bzg>Valetbriefe</bzg> Abschiedsbrief, gemeint ist <intlink letter="360" page="447" line="19" linktext="true" />
 </marginal>
 
 <marginal letter="368" page="480" line="2" sort="1">
@@ -44149,11 +44157,11 @@ Brief Nr. 368
 </marginal>
 
 <marginal letter="368" page="480" line="4" sort="2">
-<bzg>Caput mortuum</bzg>  Rückstand
+<bzg>Caput mortuum</bzg> wertloses Pulver als Rückstand bei einem alchimistischen Experiment
 </marginal>
 
 <marginal letter="368" page="480" line="5">
-<bzg>Gottschedschen Belustigung des Verstandes und Witzes</bzg><link ref="schwabe" subref="schwabe-belustigungen" linktext="true" />, beeinflusst von <link ref="gottsched" linktext="true" />
+<bzg>Gottschedschen Belustigung…</bzg> <link ref="schwabe" subref="schwabe-belustigungen" linktext="true" />, beeinflusst von <link ref="gottsched" linktext="true" />
 </marginal>
 
 <marginal letter="368" page="480" line="7">
@@ -44173,7 +44181,7 @@ Brief Nr. 368
 </marginal>
 
 <marginal letter="368" page="480" line="15">
-<bzg>non nostrum est tantas</bzg> dt. es steht uns nicht an, einen so wichtigen Streit zu entscheiden (Verg. ecl. 3,108) ?!?
+<bzg>non nostrum est tantas</bzg> dt. es steht mir nicht an, einen so wichtigen Streit bei euch zu entscheiden (<link ref="vergil" subref="vergil-bucol" linktext="true" />, 3,108)
 </marginal>
 
 <marginal letter="368" page="480" line="16">
@@ -44197,11 +44205,11 @@ Brief Nr. 368
 </marginal>
 
 <marginal letter="368" page="480" line="23" sort="2">
-<bzg>Accise v Zoll Directorio</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+<bzg>Accise v Zoll Directorio</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" /> (Anweisung für Nicolai, wo ein Antwortbrief abzugeben bzw. zu adressieren sei)
 </marginal>
 
 <marginal letter="368" page="480" line="24">
-<bzg>nicht sedentem sondern stantem in telonio</bzg> nicht am Zoll sitzend (Mt 9,9), sondern stehend ?!?
+<bzg>nicht sedentem sondern stantem in telonio</bzg> nicht ‚am Zoll sitzend‘ (<link ref="nt-mt" subref="nt-mt9" linktext="false">Mt 9,9</link>), sondern ‚stehend‘
 </marginal>
 
 
@@ -44218,7 +44226,9 @@ Brief Nr. 368a
 
 Brief Nr. 369
 
-August 1769, nicht Oktober wie in ZH II
+<marginal letter="369" page="481" line="1">
+zum Hintergrund des Briefes vgl. die Vorbemerkung des ersten Herausgebers Emil Gottfried Herder in Johann Gottfried von Herder’s Lebensbild, Bd. 5, S.&#x202F;58f.: „Dieser Brief fand sich zerrissen unter Herder’s Papieren aus damaliger Zeit, und scheint von ihm verschoben, dann später wieder aufgefunden, als nicht mehr zeitgemäß zerrissen worden zu seyn. Ich glaube denselben hier um so mehr mittheilen zu müssen, als die Briefe, welche Herder in der letztern Zeit an Hamann geschrieben hat, leider fehlen und man aus den Hamann’schen Briefen der letztern Zeit vielleicht schließen könnte, als sey zwischen beiden Freunden eine Erkältung eingetreten, was aber der vorliegende Brief auf das bündigste widerlegt, so wie er auch noch außerdem für die Charakteristik Herder’s nicht unwichtige Data enthält.“
+</marginal>
 
 <marginal letter="369" page="481" line="3">
 <bzg>Brief</bzg> <intlink letter="360" page="447" line="19" linktext="true" />

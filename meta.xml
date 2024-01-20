@@ -7056,8 +7056,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="369">
-        <date value="Nantes, August 1769" />
-        <sort value="1769-08-15" notBefore="1769-08-01" notAfter="1769-08-31" />
+        <date value="Nantes, EndeAugust 1769" />
+        <sort value="1769-08-25" notBefore="1769-08-15" notAfter="1769-08-31" />
         <location ref="18" />
         <senders>
           <sender ref="41" />
@@ -7067,7 +7067,7 @@
         </receivers>
         <hasOriginal value="true" />
         <isProofread value="true" />
-        <isDraft value="false" />
+        <isDraft value="true" />
         <ZHInfo inZH="true">
           <dateChanged value="true" />
           <begin vol="2" page="481" />
