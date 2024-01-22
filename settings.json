@@ -6,12 +6,13 @@
       }
     },
     "FeatureManagement": {
-      "AdminService":  false,
+      "AdminService":  true,
       "LocalPublishService": false,
-      "SyntaxCheck": false
+      "SyntaxCheck": false,
+      "Notifications": true,
     },
     "FileSizeLimit": 52428800,
     "AvailableStartYear": 1700,
-    "AvailableEndYear": 1784,
+    "AvailableEndYear": 1800,
     "LettersOnPage": 80
 }
