@@ -1066,12 +1066,18 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 
 <kommentar id="beverland" type="neuzeit">
 <lemma>Adrian Beverland</lemma>
-<eintrag>1650–1716. Niederl.-engl. humanistischer Gelehrter, Skandalautor, Sammler und Pornograph, siehe Eric John Dingwall: <wwwlink address="https://archive.org/details/VeryPeculiarPeople"><titel>Very Peculiar People: Portrait Studies in the Queer, the Abnormal and the Uncanny</titel></wwwlink> (London 1950), S.&#x202F;145–177.
+<eintrag>1650–1716. Niederl.-engl. humanistischer Gelehrter, Skandalautor, Sammler und Pornograph; die ‚Beverlandsche Hypothese‘ bezeichnet den Zusammenhang von Sündenfall und Sexualität; siehe Eric John Dingwall: <wwwlink address="https://archive.org/details/VeryPeculiarPeople"><titel>Very Peculiar People: Portrait Studies in the Queer, the Abnormal and the Uncanny</titel></wwwlink> (London 1950), S.&#x202F;145–177.
 </eintrag>
-<subsection id="beverland-fornicatio" type="neuzeit">
+<subsection id="beverland-peccatum" type="neuzeit" sort="10">
+<lemma>Beverland, <titel>Peccatum originale</titel></lemma>
+<eintrag>
+<titel>Peccatum originale</titel> κατ’ ἐξοχήν sic nuncupatum, philologice προβληματικως elucubratum à themidis alumno (Eleutheropolis [Leiden] 1768 [Biga&#x202F;125/379]: „Beuerlàndi Peccatum originale, Eleuth. 678. Lib. rar.“). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10781481-5">BSB München: Rem.IV 2079</wwwlink>. – In Deutschland ist die Bearbeitung <link ref="fielding-eduard" subref="fielding-baum" linktext="true" /> bedeutend.
+</eintrag>
+</subsection>
+<subsection id="beverland-fornicatio" type="neuzeit" sort="20">
 <lemma>Beverland, <titel>De fornicatione cavenda admonitio</titel></lemma>
 <eintrag>
-Hadriani Beverlandi <titel>De fornicatione cavenda admonitio</titel> sive adhortatio ad pudicitiam et castitatem […] (London 1697/1698) [Biga&#x202F;118/288: „Hadr. Beverlandi Admonitio de fornicatione cauenda, 698]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773237-5">Polem. 822#Beibd.1</wwwlink>.
+Hadriani Beverlandi <titel>De fornicatione cavenda admonitio</titel> sive adhortatio ad pudicitiam et castitatem […] (London 1697/1698) [Biga&#x202F;118/288: „Hadr. Beverlandi Admonitio de fornicatione cauenda, 698“ und Biga&#x202F;185/94: „Hadr. Beuerland de fornicatione cauenda, s.&#x202F;t.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773237-5">Polem. 822#Beibd.1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -3898,7 +3904,7 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 </eintrag>
 <subsection id="fielding-baum" type="neuzeit" sort="10">
 <lemma>Fielding, <titel>Der Baum der Erkenntniß des Guten und Boesen</titel></lemma>
-<eintrag><titel>Der Baum der Erkenntniß des Guten und Boesen mit Philosophischen Augen betrachtet von einem Weltbürger</titel> (Berlin 1760) [Biga&#x202F;31/244: „Der Baum des Erkenntnisses mit philosophische Augen betrachtet, Berl. 760“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-135676">ULB Halle: Pon IIf 686</wwwlink> [= Bearbeitung von Adrian Beverland: Peccatum Originale kat' exochên sic nuncupatum, philologice problêmatikôs elucubratum a Themidis Alumno. Vera redit facies, dissimulate periit, Psalmographus Os. LVIII commate IV. Abalienati sunt implii inde a vulva, erraverunt ab utero; loquentes mendacia. Proba merx facile emptorem reperit, tametsi in abstruse sita sit loco. Eleutheropoli extra plateam obscuram, sine privilegio auctoris, absque ubi et quando (Leiden 1678)].</eintrag>
+<eintrag><titel>Der Baum der Erkenntniß des Guten und Boesen mit Philosophischen Augen betrachtet von einem Weltbürger</titel> (Berlin 1760) [Biga&#x202F;31/244: „Der Baum des Erkenntnisses mit philosophische Augen betrachtet, Berl. 760“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-135676">ULB Halle: Pon IIf 686</wwwlink>. – Bearbeitung von <link ref="beverland" subref="beverland-peccatum" linktext="true" />.</eintrag>
 </subsection>
 <subsection id="fielding-anmerkungen" type="neuzeit" sort="15">
 <lemma>Fielding (pseud.), <titel>Bescheidene Anmerkungen über das Buch betitelt der Baum der Erkäntniß des Guten und Bösen</titel></lemma>
