@@ -37123,15 +37123,15 @@ Brief Nr. 314
 <bzg>gemeinschaftl. Freunde</bzg> <link ref="hartknoch" linktext="true" />
 </marginal>
 
-<marginal letter="314" page="355" line="5" sort="3">
+<marginal letter="314" page="355" line="5" sort="1">
 <bzg>Winkelmanns Schriften</bzg> <link ref="winckelmann" linktext="true" />, Schrift nicht ermittelt 
 </marginal>
 
-<marginal letter="314" page="355" line="5" sort="1">
+<marginal letter="314" page="355" line="5" sort="2">
 <bzg>Matinées</bzg> <link ref="friedrich-II" subref="fr-matinees" linktext="true" />
 </marginal>
 
-<marginal letter="314" page="355" line="5" sort="2">
+<marginal letter="314" page="355" line="5" sort="3">
 <bzg>kleinen Auszüge…</bzg> wohl zirkulierende Exzerpte Hamanns von <link ref="swedenborg" linktext="true" />, vgl. <intlink letter="321" page="365" line="26" linktext="true" />
 </marginal>
 
@@ -37210,7 +37210,7 @@ Brief Nr. 315
 </marginal>
 
 <marginal letter="315" page="356" line="19">
-<bzg>Engl. Bier</bzg> wohl gemeint: Ale bzw. Bier, vgl. <intlink letter="314" page="355" line="18" linktext="true" />
+<bzg>Engl. Bier</bzg> vgl. <intlink letter="314" page="355" line="18" linktext="true" />
 </marginal>
 
 <marginal letter="315" page="356" line="20">
@@ -37238,7 +37238,7 @@ Brief Nr. 315
 </marginal>
 
 <marginal letter="315" page="357" line="4">
-<bzg>Ode auf den Granatapfel</bzg> <link ref="ramler" linktext="true" />, „Auf einen Granatapfel“, in: <link ref="critische-nachrichten" linktext="true" />, 1750, St.&#x202F;VI, 6. Hornung S.&#x202F;52–55; vgl. <intlink letter="309" page="347" line="28" linktext="true" />
+<bzg>Ode auf den Granatäpfel</bzg> <link ref="ramler" linktext="true" />, „Auf einen Granatapfel“, in: <link ref="critische-nachrichten" linktext="true" />, 1750, St.&#x202F;VI, 6. Hornung S.&#x202F;52–55; vgl. <intlink letter="309" page="347" line="28" linktext="true" />
 </marginal>
 
 <marginal letter="315" page="357" line="8">
@@ -37278,7 +37278,7 @@ Brief Nr. 315
 </marginal>
 
 <marginal letter="315" page="357" line="23">
-<bzg>Autor davon wiederruffen</bzg> Die von einem Wiedersehen im Himmel singende Ode auf die 1758 verstorbene Gemahlin Klopstocks, geb. Moller, stammt in der Tat nicht von Klopstock, sondern von dem damals 19- jährigen Schweizer Maler Johann Heinrich Füßli; <link ref="bodmer" subref="bodmer-nachrichten" linktext="true" />, 27. Stück, 2. Juli 1760, S. 210–213, Ode an Meta. 
+<bzg>Autor davon wiederruffen</bzg> Die von einem Wiedersehen im Himmel singende Ode auf die 1758 verstorbene Gemahlin Klopstocks, geb. Moller, stammt in der Tat nicht von Klopstock, sondern von dem damals 19-jährigen Schweizer Maler Johann Heinrich Füßli; <link ref="bodmer" subref="bodmer-nachrichten" linktext="true" />, 27. Stück, 2. Juli 1760, S. 210–213, Ode an Meta. 
 </marginal>
 
 <marginal letter="315" page="357" line="24">
@@ -37306,7 +37306,7 @@ Brief Nr. 315
 </marginal>
 
 <marginal letter="315" page="357" line="36">
-<bzg>Locher</bzg> Hamann kannte <link ref="locher" subref="locher-horaz" linktext="false">Lochers Horaz-Ausgabe von 1498</link> vmtl. aus der Bibliothek von <link ref="lauson" linktext="true" /> (vgl. <intlink letter="636" page="350" line="1" linktext="true" />)
+<bzg>Locher</bzg> Hamann kannte <link ref="locher" subref="locher-horaz" linktext="false">Lochers Horaz-Ausgabe von 1498</link> vmtl. aus der Bibliothek von <link ref="lauson" linktext="true" />, vgl. <intlink letter="636" page="350" line="1" linktext="true" />
 </marginal>
 
 <marginal letter="315" page="358" line="11">
@@ -37397,7 +37397,7 @@ Brief Nr. 316
 </marginal>
 
 <marginal letter="316" page="359" line="10">
-<bzg>Sch.</bzg> <link ref="scheffner" linktext="true" />, zu jener Zeit Redakteur der <link ref="kgpz" linktext="true" />
+<bzg>Sch.</bzg> <link ref="scheffner" linktext="true" />, zu jener Zeit Redakteur von <link ref="kgpz" linktext="true" />
 </marginal>
 
 <marginal letter="316" page="359" line="11">
@@ -37468,8 +37468,12 @@ Brief Nr. 316
 <bzg>Pr.</bzg> Preußen; Herders Mutter lebte in Mohrungen (Morąg)
 </marginal>
 
-<marginal letter="316" page="359" line="34">
+<marginal letter="316" page="359" line="34" sort="1">
 <bzg>Trescho</bzg> <link ref="trescho-sf" linktext="true" />, Brief nicht ermittelt
+</marginal>
+
+<marginal letter="316" page="359" line="34" sort="2">
+<bzg>Raillerie</bzg> Spott
 </marginal>
 
 <marginal letter="316" page="360" line="2">
@@ -37633,11 +37637,11 @@ Brief Nr. 318
 </marginal>
 
 <marginal letter="318" page="362" line="12">
-<bzg>beschuldigen</bzg> <intlink letter="317" page="361" line="19" linktext="true" />
+<bzg>beschuldigen</bzg> vgl. <intlink letter="317" page="361" line="19" linktext="true" />
 </marginal>
 
 <marginal letter="318" page="362" line="14" sort="1">
-<bzg>nicht empfangen?</bzg> die Briefe haben sich nicht gekreuzt, wie Herder anzunehmen scheint, vgl. <intlink letter="319" page="362" line="21" linktext="true" />
+<bzg>nicht empfangen?</bzg> Die Briefe haben sich nicht gekreuzt, wie Herder anzunehmen scheint, vgl. <intlink letter="319" page="362" line="21" linktext="true" />
 </marginal>
 
 <marginal letter="318" page="362" line="14" sort="2">
@@ -37671,15 +37675,23 @@ Brief Nr. 319
 </marginal>
 
 <marginal letter="319" page="362" line="23">
-<bzg>arrectis auribus und aperto</bzg> dt. mit aufgerichteten Ohren und offenem Mund
+<bzg>arrectis auribus und aperto ore</bzg> dt. mit aufgerichteten Ohren und offenem Mund
 </marginal>
 
 <marginal letter="319" page="362" line="33" sort="1">
-<bzg>Pathengeld</bzg>  Taufgeschenk
+<bzg>Pathengeld</bzg> Taufgeschenk
 </marginal>
 
-<marginal letter="319" page="362" line="33" sort="2">
+<marginal letter="319" page="362" line="34" sort="2">
 <bzg>Georg Berens</bzg> <link ref="berens-g" linktext="true" />
+</marginal>
+
+<marginal letter="319" page="363" line="4">
+<bzg>NB</bzg> lat. nota bene, dt. wohlgemerkt
+</marginal>
+
+<marginal letter="319" page="363" line="5">
+<bzg>in loco quo</bzg> dt. an seinem Platz
 </marginal>
 
 <marginal letter="319" page="363" line="6">
