@@ -2606,7 +2606,7 @@ Siehe dazu <link ref="bodmer" subref="bodmer-helena" linktext="true" />.
 <kommentar id="comenius" type="neuzeit">
 <lemma>Johann Amos Comenius</lemma>
 <eintrag>1592–1670. Theologe und Pädagoge sowie Bischof der Unität der Böhmischen Brüder aus der Markgrafschaft Mähren, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35443.html#adbcontent">Baur, G.: Comenius, Johann, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;431–436</wwwlink>.<line type="break" />
-Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“</eintrag>
+Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 <subsection id="comenius-orbispictus" type="neuzeit">
 <lemma>Comenius, <titel>Orbis sensualium pictus</titel></lemma>
 <eintrag>
@@ -5818,22 +5818,40 @@ Von und an Herder: ungedruckte Briefe aus Herders Nachlaß; Herders Briefwechsel
 <titel>Ueber Thomas Abbts Schriften.</titel> Der Torso von einem Denkmaal, an seinem Grabe errichtet. Erstes Stück (Riga: Hartknoch 1768). – Herder: <titel>Werke</titel>, Bd.&#x202F;2: Schriften zur Ästhetik und Literatur 1767–1781, hg.&#x202F;v. Gunter E. Grimm, S.&#x202F;563–608. – Weitere, nicht veröffentlichte Teile ediert in SWS II, S.&#x202F;295–366.
 </eintrag>
 </subsection>
-<subsection id="herder-morgenland" type="neuzeit" sort="90">
+<subsection id="herder-liedschopfung" type="neuzeit" sort="85">
+<lemma>Herder, <titel>Lied von der Schöpfung</titel></lemma>
+<eintrag>
+<titel>Das Lied von der Schöpfung der Dinge.</titel> Nicht veröffentlicht, der Entwurf vmtl. 1768 geschrieben. – SWS XXII, S.&#x202F;163–174.
+</eintrag>
+</subsection>
+<subsection id="herder-urkunden" type="neuzeit" sort="90">
+<lemma>Herder, <titel>Über die ersten Urkunden</titel></lemma>
+<eintrag>
+Über die ersten Urkunden des Menschengeschlechts. Einige Anmerkungen. Nicht veröffentlicht, der Entwurf vmtl. 1768/1769 geschrieben. – Herder: <titel>Werke</titel>, Bd.&#x202F;5: Schriften zum alten Testament, hg.&#x202F;v. Rudolf Smend, S.&#x202F;9–178.
+</eintrag>
+</subsection>
+<subsection id="herder-morgenland" type="neuzeit" sort="95">
 <lemma>Herder, <titel>Archäologie des Morgenlandes</titel></lemma>
 <eintrag>
 Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffentlicht, die Entwürfe vmtl. 1768/1769 geschrieben. – SWS VI, S.&#x202F;1–108, 123–128.
 </eintrag>
 </subsection>
-<subsection id="herder-reise1769" type="neuzeit" sort="100">
+<subsection id="herder-waelder" type="neuzeit" sort="100">
+<lemma>Herder, <titel>Kritische Wälder</titel></lemma>
+<eintrag>
+<titel>Kritische Wälder.</titel> Oder Betrachtungen, die Wissenschaft und Kunst des Schönen betreffend, nach Maasgabe neuerer Schriften (3 Bde., Riga: Hartknoch 1769). – Die ersten beiden Kritischen Wäldchen erschienen im Januar 1769, das dritte im Sommer, das vierte nie. – Erstes und viertes Wäldchen zitiert nach: Herder: <titel>Werke</titel>, Bd.&#x202F;2: Schriften zur Ästhetik und Literatur 1767–1781, hg.&#x202F;v. Gunter E. Grimm, S.&#x202F;9–442; zweites und drittes Wäldchen zitiert nach: SWS III, S.&#x202F;189–480.
+</eintrag>
+</subsection>
+<subsection id="herder-reise1769" type="neuzeit" sort="110">
 <lemma>Herder, <titel>Journal meiner Reise im Jahr 1769</titel></lemma>
 <eintrag>
 <titel>Journal meiner Reise im Jahr 1769.</titel> Nicht veröffentlicht. – Herder: <titel>Werke</titel>, Bd.&#x202F;9/2: Journal meiner Reise im Jahr 1769. Pädagogische Schriften, hg.&#x202F;v. Rainer Wisbert unter Mitarbeit von Klaus Pradel, S.&#x202F;9–126.
 </eintrag>
 </subsection>
-<subsection id="herder-waelder" type="neuzeit" sort="110">
-<lemma>Herder, <titel>Kritische Wälder</titel></lemma>
+<subsection id="herder-altesteurkunde" type="neuzeit" sort="200">
+<lemma>Herder, <titel>Älteste Urkunde</titel></lemma>
 <eintrag>
-<titel>Kritische Wälder.</titel> Oder Betrachtungen, die Wissenschaft und Kunst des Schönen betreffend, nach Maasgabe neuerer Schriften (3 Bde., Riga: Hartknoch 1769). – Die ersten beiden Kritischen Wäldchen erschienen im Januar 1769, das dritte im Sommer, das vierte nie. – Erstes und viertes Wäldchen zitiert nach: Herder: <titel>Werke</titel>, Bd.&#x202F;2: Schriften zur Ästhetik und Literatur 1767–1781, hg.&#x202F;v. Gunter E. Grimm, S.&#x202F;9–442; zweites und drittes Wäldchen zitiert nach: SWS III, S.&#x202F;189–480.
+<titel>Älteste Urkunde des Menschengeschlechts.</titel> Erster Band, welcher den Ersten, Zweiten und Dritten Teil enthält (Riga 1774). – Herder: <titel>Werke</titel>, Bd.&#x202F;5: Schriften zum alten Testament, hg.&#x202F;v. Rudolf Smend, S.&#x202F;179–660.
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
@@ -9924,6 +9942,12 @@ Darin werden Textauszüge aus <titel>Discourse on the Resurrection of Jesus Chri
 <titel>Buch von der Deutschen Poeterey. In welchem alle ihre eigenschafft und zugehör grüntlich erzehlet und mit exempeln außgeführet wird</titel> (Breslau 1624). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB000189A900000000">SBB-PK Berlin: 2 in: Yh 9402</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="origenes" type="neuzeit">
+<lemma>Origenes</lemma>
+<eintrag>185–254/4 n. Chr. Frühchristlicher Theologe.
+</eintrag>
 </kommentar>
 
 <kommentar id="origny" type="neuzeit">
