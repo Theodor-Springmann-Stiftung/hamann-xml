@@ -384,7 +384,7 @@
 </kommentar>
 
 <kommentar id="ber-i-1993" type="forschung">
-<lemma>Berlin, Isaiah: The Magus of the North: J.&#x00A0;G. Hamann and the Origin of Modern Irrationalism. Edited by Henry Hardy. London 1993.</lemma>
+<lemma>Berlin, Isaiah: The Magus of the North: J.&#x00A0;G. Hamann and the Origins of Modern Irrationalism. Edited by Henry Hardy. London 1993.</lemma>
 </kommentar>
 
 <kommentar id="ber-i-1995" type="forschung">
@@ -4234,7 +4234,7 @@
 </kommentar>
 
 <kommentar id="2018a" type="editionen">
-<lemma>Johann Georg Hamann: Fliegender Brief. Historisch-kritische Ausgabe. Mit einer Einführung, Kommentar und Dokumenten zur Entstehungsgeschichte Hg.&#x202f;v. Janina Reibold, 2 Bde. [= Philosophische Bibliothek 707]. Hamburg 2018.</lemma>
+<lemma>Johann Georg Hamann: Fliegender Brief. Historisch-kritische Ausgabe. Mit einer Einführung, Kommentar und Dokumenten zur Entstehungsgeschichte. Hg.&#x202f;v. Janina Reibold, 2 Bde. [= Philosophische Bibliothek 707]. Hamburg 2018.</lemma>
 </kommentar>
 
 <kommentar id="2018b" type="editionen">
@@ -4246,7 +4246,81 @@
 </kommentar>
 
 <kommentar id="2021b" type="editionen">
-<lemma>Johann Georg Hamann: Sokratische Denkwürdigkeiten. Wolken. Historisch-kritische Ausgabe. Mit einer Einführung, einem Stellenkommentar und Dokumenten zur Entstehungsgeschichte Hg.&#x202f;v. Leonard Keidel und Janina Reibold, unter Mitarbeit von Konrad Bucher. [= Philosophische Bibliothek 748]. Hamburg 2021.</lemma>
+<lemma>Johann Georg Hamann: Sokratische Denkwürdigkeiten. Wolken. Historisch-kritische Ausgabe. Mit einer Einführung, einem Stellenkommentar und Dokumenten zur Entstehungsgeschichte. Hg.&#x202f;v. Leonard Keidel und Janina Reibold, unter Mitarbeit von Konrad Bucher. [= Philosophische Bibliothek 748]. Hamburg 2021.</lemma>
+</kommentar>
+
+</kommcat>
+
+<kommcat value="nachschlagewerke" sorting="5">
+
+<kommentar id="adelung" type="nachschlagewerke">
+<lemma>Adelung:<line type="break" />
+Adelung, Johann Christoph: Grammatisch-kritisches Wörterbuch der Hochdeutschen Mundart, mit beständiger Vergleichung der übrigen Mundarten, besonders aber der Oberdeutschen. 4 Bde., 2. Aufl. Leipzig 1793–1801.</lemma>
+</kommentar>
+
+<kommentar id="adresskalender" type="nachschlagewerke">
+<lemma>Adresskalender Königsberg 1770:<line type="break" />
+Address-Calender für das Königreich Preussen und insbesondere der Hauptstadt Königsberg derer daselbst befindlichen hohen und niedern Collegien, Instantzien und Expeditionen, auch derer Königl. Bedienten, Magistraete, Prediger, Universität etc. nebst Anführung des Orts und der Zeit ihrer Versammlung, nicht weniger einem zweyfachen Register, sowohl der Collegien, als derer Personen, aus welchen selbige bestehen etc. auf das gemeine Jahr MDCCLXX (1770), herausgegeben mit Approbation der Königl. Preuß. Academie der Wissenschaften. Nachdruck Hamburg 1965.</lemma>
+</kommentar>
+
+<kommentar id="albinius" type="nachschlagewerke">
+<lemma>Zu Königsberg:<line type="break" />
+Albinus, Robert: Lexikon der Stadt Königsberg Pr. und Umgebung. Leer 1988.</lemma>
+</kommentar>
+
+<kommentar id="baczko" type="nachschlagewerke">
+<lemma>Zeitgenössisches Werk über Königsberg:<line type="break" />
+Baczko, Ludwig: Versuch einer Geschichte und Beschreibung der Stadt Königsberg. 7 Bde., Königsberg 1787–1790.</lemma>
+</kommentar>
+
+<kommentar id="boetticher" type="nachschlagewerke">
+<lemma>Gebäude in Königsberg:<line type="break" />
+Boetticher, Adolf: Die Bau- und Kunstdenkmäler in Königsberg. Frankfurt a. M.1983..</lemma>
+</kommentar>
+
+<kommentar id="fischer" type="nachschlagewerke">
+<lemma>Zur königsberger Freimaurerloge:<line type="break" />
+Fischer, Richard: Geschichte der Johannisloge zu den drei Kronen. Königsberg 1910.</lemma>
+</kommentar>
+
+<kommentar id="hederich" type="nachschlagewerke">
+<lemma>Hederich:<line type="break" />
+Gründliches mythologisches Lexikon von Benjamin Hederich. Leipzig 1770.</lemma>
+</kommentar>
+
+<kommentar id="gause" type="nachschlagewerke">
+<lemma>Zur königsberger Stadtgeschichte:<line type="break" />
+Gause, Fritz: Die Geschichte der Stadt Königsberg in Preußen. 3 Bde., Köln 1965–1971.</lemma>
+</kommentar>
+
+<kommentar id="geschichtliches-strassenverzeichnis" type="nachschlagewerke">
+<lemma>Straßenverzeichnis Königsberg:<line type="break" />
+Geschichtliches Straßenverzeichnis der Stadt Königsberg in Preußen 1924. Nachdruck mit einer Einleitung von Peter Wörster. 2. Aufl., Hamburg 1992.</lemma>
+</kommentar>
+
+<kommentar id="grafe" type="nachschlagewerke">
+<lemma>Zum Buchhandel:<line type="break" />
+Gräfe und Unzer. Zwei Jahrhunderte Königsberger Buchhandel. Königsberg 1932.</lemma>
+</kommentar>
+
+<kommentar id="krunitz" type="nachschlagewerke">
+<lemma>Krünitz:<line type="break" />
+J. G. Krünitz: Oekonomische Encyklopädie oder allgemeines System der Staats- Stadt- Haus- und Landwirthschaft. 242 Bde., Berlin 1773–1858.</lemma>
+</kommentar>
+
+<kommentar id="meinhardt" type="nachschlagewerke">
+<lemma>Zum Münzwesen:<line type="break" />
+Meinhardt, Günther: Gemünzt zu Königsberg – ein Beitrag zur Münz- und Geldgeschichte Ostpreussens. Rautenberg, Leer 1977.</lemma>
+</kommentar>
+
+<kommentar id="pierer" type="nachschlagewerke">
+<lemma>Pierer’s Universal-Lexikon:<line type="break" />
+Universal-Lexikon der Gegenwart und Vergangenheit von Heinrich August Pierer. 19 Bde, Altenburg 1857–1865.</lemma>
+</kommentar>
+
+<kommentar id="zedler" type="nachschlagewerke">
+<lemma>Zedler:<line type="break" />
+Johann Heinrich Zedler: Grosses vollständiges Universal-Lexicon aller Wissenschaften und Künste. 64 Bde., Halle und Leipzig 1732–1750.</lemma>
 </kommentar>
 
 </kommcat>

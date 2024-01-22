@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <opus>
 <data>
 
@@ -7,7 +7,7 @@
 <kommcat value="bibel" sorting="2">
 <kommentar id="at-mo1" type="bibel" sort="10">
 <lemma>1. Buch Mose</lemma>
-<subsection id="at-mo1-1"><lemma>1 Mo 1</lemma></subsection> <subsection id="at-mo1-2"><lemma>1 Mo 2</lemma></subsection> <subsection id="at-mo1-3"><lemma>1 Mo 3</lemma></subsection> <subsection id="at-mo1-4"><lemma>1 Mo 4</lemma></subsection> <subsection id="at-mo1-6"><lemma>1 Mo 6</lemma></subsection> <subsection id="at-mo1-7"><lemma>1 Mo 7</lemma></subsection> <subsection id="at-mo1-8"><lemma>1 Mo 8</lemma></subsection> <subsection id="at-mo1-10"><lemma>1 Mo 10</lemma></subsection> <subsection id="at-mo1-11"><lemma>1 Mo 11</lemma></subsection> <subsection id="at-mo1-13"><lemma>1 Mo 13</lemma></subsection> <subsection id="at-mo1-16"><lemma>1 Mo 16</lemma></subsection> <subsection id="at-mo1-17"><lemma>1 Mo 17</lemma></subsection> <subsection id="at-mo1-18"><lemma>1 Mo 18</lemma></subsection> <subsection id="at-mo1-19"><lemma>1 Mo 19</lemma></subsection> <subsection id="at-mo1-21"><lemma>1 Mo 21</lemma></subsection> <subsection id="at-mo1-22"><lemma>1 Mo 22</lemma></subsection> <subsection id="at-mo1-25"><lemma>1 Mo 25</lemma></subsection> <subsection id="at-mo1-26"><lemma>1 Mo 26</lemma></subsection> <subsection id="at-mo1-27"><lemma>1 Mo 27</lemma></subsection> <subsection id="at-mo1-28"><lemma>1 Mo 28</lemma></subsection> <subsection id="at-mo1-29"><lemma>1 Mo 29</lemma></subsection> <subsection id="at-mo1-30"><lemma>1 Mo 30</lemma></subsection> <subsection id="at-mo1-31"><lemma>1 Mo 31</lemma></subsection> <subsection id="at-mo1-33"><lemma>1 Mo 33</lemma></subsection> <subsection id="at-mo1-35"><lemma>1 Mo 35</lemma></subsection> <subsection id="at-mo1-37"><lemma>1 Mo 37</lemma></subsection> <subsection id="at-mo1-38"><lemma>1 Mo 38</lemma></subsection> <subsection id="at-mo1-39"><lemma>1 Mo 39</lemma></subsection>  <subsection id="at-mo1-40"><lemma>1 Mo 40</lemma></subsection> <subsection id="at-mo1-41"><lemma>1 Mo 41</lemma></subsection> <subsection id="at-mo1-45"><lemma>1 Mo 45</lemma></subsection> <subsection id="at-mo1-50"><lemma>1 Mo 50</lemma></subsection>
+<subsection id="at-mo1-1"><lemma>1 Mo 1</lemma></subsection> <subsection id="at-mo1-2"><lemma>1 Mo 2</lemma></subsection> <subsection id="at-mo1-3"><lemma>1 Mo 3</lemma></subsection> <subsection id="at-mo1-4"><lemma>1 Mo 4</lemma></subsection> <subsection id="at-mo1-6"><lemma>1 Mo 6</lemma></subsection> <subsection id="at-mo1-7"><lemma>1 Mo 7</lemma></subsection> <subsection id="at-mo1-8"><lemma>1 Mo 8</lemma></subsection> <subsection id="at-mo1-9"><lemma>1 Mo 9</lemma></subsection> <subsection id="at-mo1-10"><lemma>1 Mo 10</lemma></subsection> <subsection id="at-mo1-11"><lemma>1 Mo 11</lemma></subsection> <subsection id="at-mo1-13"><lemma>1 Mo 13</lemma></subsection> <subsection id="at-mo1-16"><lemma>1 Mo 16</lemma></subsection> <subsection id="at-mo1-17"><lemma>1 Mo 17</lemma></subsection> <subsection id="at-mo1-18"><lemma>1 Mo 18</lemma></subsection> <subsection id="at-mo1-19"><lemma>1 Mo 19</lemma></subsection> <subsection id="at-mo1-20"><lemma>1 Mo 20</lemma></subsection> <subsection id="at-mo1-21"><lemma>1 Mo 21</lemma></subsection> <subsection id="at-mo1-22"><lemma>1 Mo 22</lemma></subsection> <subsection id="at-mo1-25"><lemma>1 Mo 25</lemma></subsection> <subsection id="at-mo1-26"><lemma>1 Mo 26</lemma></subsection> <subsection id="at-mo1-27"><lemma>1 Mo 27</lemma></subsection> <subsection id="at-mo1-28"><lemma>1 Mo 28</lemma></subsection> <subsection id="at-mo1-29"><lemma>1 Mo 29</lemma></subsection> <subsection id="at-mo1-30"><lemma>1 Mo 30</lemma></subsection> <subsection id="at-mo1-31"><lemma>1 Mo 31</lemma></subsection> <subsection id="at-mo1-32"><lemma>1 Mo 32</lemma></subsection> <subsection id="at-mo1-33"><lemma>1 Mo 33</lemma></subsection> <subsection id="at-mo1-35"><lemma>1 Mo 35</lemma></subsection> <subsection id="at-mo1-37"><lemma>1 Mo 37</lemma></subsection> <subsection id="at-mo1-38"><lemma>1 Mo 38</lemma></subsection> <subsection id="at-mo1-39"><lemma>1 Mo 39</lemma></subsection>  <subsection id="at-mo1-40"><lemma>1 Mo 40</lemma></subsection> <subsection id="at-mo1-41"><lemma>1 Mo 41</lemma></subsection> <subsection id="at-mo1-45"><lemma>1 Mo 45</lemma></subsection> <subsection id="at-mo1-50"><lemma>1 Mo 50</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-mo2" type="bibel" sort="20">
@@ -37,7 +37,7 @@
 
 <kommentar id="at-ri" type="bibel" sort="70">
 <lemma>Richter</lemma>
-<subsection id="at-ri5"><lemma>Ri 5</lemma></subsection> <subsection id="at-ri9"><lemma>Ri 9</lemma></subsection> <subsection id="at-ri12"><lemma>Ri 12</lemma></subsection> <subsection id="at-ri13"><lemma>Ri 13</lemma></subsection> <subsection id="at-ri14"><lemma>Ri 14</lemma></subsection> <subsection id="at-ri16"><lemma>Ri 16</lemma></subsection>
+<subsection id="at-ri5"><lemma>Ri 5</lemma></subsection> <subsection id="at-ri6"><lemma>Ri 6</lemma></subsection>  <subsection id="at-ri9"><lemma>Ri 9</lemma></subsection> <subsection id="at-ri11"><lemma>Ri 11</lemma></subsection> <subsection id="at-ri12"><lemma>Ri 12</lemma></subsection> <subsection id="at-ri13"><lemma>Ri 13</lemma></subsection> <subsection id="at-ri14"><lemma>Ri 14</lemma></subsection> <subsection id="at-ri16"><lemma>Ri 16</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-sam1" type="bibel" sort="80">
@@ -87,7 +87,7 @@
 
 <kommentar id="at-hi" type="bibel" sort="150">
 <lemma>Hiob</lemma>
-<subsection id="at-hi1"><lemma>Hi 1</lemma></subsection> <subsection id="at-hi2"><lemma>Hi 2</lemma></subsection> <subsection id="at-hi3"><lemma>Hi 3</lemma></subsection> <subsection id="at-hi6"><lemma>Hi 6</lemma></subsection> <subsection id="at-hi8"><lemma>Hi 8</lemma></subsection> <subsection id="at-hi13"><lemma>Hi 13</lemma></subsection> <subsection id="at-hi17"><lemma>Hi 17</lemma></subsection> <subsection id="at-hi19"><lemma>Hi 19</lemma></subsection> <subsection id="at-hi21"><lemma>Hi 21</lemma></subsection> <subsection id="at-hi22"><lemma>Hi 22</lemma></subsection> <subsection id="at-hi27"><lemma>Hi 27</lemma></subsection> <subsection id="at-hi28"><lemma>Hi 28</lemma></subsection> <subsection id="at-hi31"><lemma>Hi 31</lemma></subsection> <subsection id="at-hi32"><lemma>Hi 32</lemma></subsection> <subsection id="at-hi34"><lemma>Hi 34</lemma></subsection> <subsection id="at-hi36"><lemma>Hi 36</lemma></subsection> <subsection id="at-hi37"><lemma>Hi 37</lemma></subsection> <subsection id="at-hi38"><lemma>Hi 38</lemma></subsection> <subsection id="at-hi40"><lemma>Hi 40</lemma></subsection> <subsection id="at-hi41"><lemma>Hi 41</lemma></subsection> <subsection id="at-hi42"><lemma>Hi 42</lemma></subsection>
+<subsection id="at-hi1"><lemma>Hi 1</lemma></subsection> <subsection id="at-hi2"><lemma>Hi 2</lemma></subsection> <subsection id="at-hi3"><lemma>Hi 3</lemma></subsection> <subsection id="at-hi4"><lemma>Hi 4</lemma></subsection> <subsection id="at-hi6"><lemma>Hi 6</lemma></subsection> <subsection id="at-hi8"><lemma>Hi 8</lemma></subsection> <subsection id="at-hi13"><lemma>Hi 13</lemma></subsection> <subsection id="at-hi17"><lemma>Hi 17</lemma></subsection> <subsection id="at-hi19"><lemma>Hi 19</lemma></subsection> <subsection id="at-hi21"><lemma>Hi 21</lemma></subsection> <subsection id="at-hi22"><lemma>Hi 22</lemma></subsection> <subsection id="at-hi27"><lemma>Hi 27</lemma></subsection> <subsection id="at-hi28"><lemma>Hi 28</lemma></subsection> <subsection id="at-hi31"><lemma>Hi 31</lemma></subsection> <subsection id="at-hi32"><lemma>Hi 32</lemma></subsection> <subsection id="at-hi34"><lemma>Hi 34</lemma></subsection> <subsection id="at-hi36"><lemma>Hi 36</lemma></subsection> <subsection id="at-hi37"><lemma>Hi 37</lemma></subsection> <subsection id="at-hi38"><lemma>Hi 38</lemma></subsection> <subsection id="at-hi40"><lemma>Hi 40</lemma></subsection> <subsection id="at-hi41"><lemma>Hi 41</lemma></subsection> <subsection id="at-hi42"><lemma>Hi 42</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-pr" type="bibel" sort="160">
@@ -107,7 +107,7 @@
 
 <kommentar id="at-jer" type="bibel" sort="190">
 <lemma>Jeremia</lemma>
-<subsection id="at-jer2"><lemma>Jer 2</lemma></subsection> <subsection id="at-jer5"><lemma>Jer 5</lemma></subsection> <subsection id="at-jer7"><lemma>Jer 7</lemma></subsection> <subsection id="at-jer8"><lemma>Jer 8</lemma></subsection> <subsection id="at-jer9"><lemma>Jer 9</lemma> </subsection> <subsection id="at-jer12"><lemma>Jer 12</lemma></subsection> <subsection id="at-jer13"><lemma>Jer 13</lemma></subsection> <subsection id="at-jer17"><lemma>Jer 17</lemma></subsection> <subsection id="at-jer18"><lemma>Jer 18</lemma></subsection> <subsection id="at-jer20"><lemma>Jer 20</lemma></subsection> <subsection id="at-jer29"><lemma>Jer 29</lemma></subsection> <subsection id="at-jer38"><lemma>Jer 38</lemma></subsection> <subsection id="at-jer45"><lemma>Jer 45</lemma></subsection> <subsection id="at-jer48"><lemma>Jer 48</lemma></subsection>
+<subsection id="at-jer2"><lemma>Jer 2</lemma></subsection> <subsection id="at-jer5"><lemma>Jer 5</lemma></subsection> <subsection id="at-jer7"><lemma>Jer 7</lemma></subsection> <subsection id="at-jer8"><lemma>Jer 8</lemma></subsection> <subsection id="at-jer9"><lemma>Jer 9</lemma> </subsection> <subsection id="at-jer12"><lemma>Jer 12</lemma></subsection> <subsection id="at-jer13"><lemma>Jer 13</lemma></subsection> <subsection id="at-jer17"><lemma>Jer 17</lemma></subsection> <subsection id="at-jer18"><lemma>Jer 18</lemma></subsection> <subsection id="at-jer19"><lemma>Jer 19</lemma></subsection> <subsection id="at-jer20"><lemma>Jer 20</lemma></subsection> <subsection id="at-jer29"><lemma>Jer 29</lemma></subsection> <subsection id="at-jer38"><lemma>Jer 38</lemma></subsection> <subsection id="at-jer45"><lemma>Jer 45</lemma></subsection> <subsection id="at-jer48"><lemma>Jer 48</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-klg" type="bibel" sort="200">
@@ -118,6 +118,11 @@
 <kommentar id="at-hes" type="bibel" sort="210">
 <lemma>Hesekiel</lemma>
 <subsection id="at-hes1"><lemma>Hes 1</lemma></subsection> <subsection id="at-hes3"><lemma>Hes 3</lemma></subsection> <subsection id="at-hes4"><lemma>Hes 4</lemma></subsection> <subsection id="at-hes10"><lemma>Hes 10</lemma></subsection> <subsection id="at-hes13"><lemma>Hes 13</lemma></subsection> <subsection id="at-hes14"><lemma>Hes 14</lemma></subsection> <subsection id="at-hes23"><lemma>Hes 23</lemma></subsection> <subsection id="at-hes33"><lemma>Hes 33</lemma></subsection>
+</kommentar>
+
+<kommentar id="at-dan" type="bibel" sort="215">
+<lemma>Daniel</lemma>
+<subsection id="at-dan2"><lemma>Dan 2</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-hos" type="bibel" sort="220">
@@ -167,7 +172,7 @@
 
 <kommentar id="apo-sir" type="bibel" sort="290">
 <lemma>Jesus Sirach</lemma>
-<subsection id="apo-sir6"><lemma>Sir 6</lemma></subsection> <subsection id="apo-sir11"><lemma>Sir 11</lemma></subsection> <subsection id="apo-sir18"><lemma>Sir 18</lemma></subsection> <subsection id="apo-sir22"><lemma>Sir 22</lemma></subsection> <subsection id="apo-sir31"><lemma>Sir 31</lemma></subsection> <subsection id="apo-sir33"><lemma>Sir 33</lemma></subsection> <subsection id="apo-sir35"><lemma>Sir 35</lemma></subsection> <subsection id="apo-sir50"><lemma>Sir 50</lemma></subsection>
+<subsection id="apo-sir6"><lemma>Sir 6</lemma></subsection> <subsection id="apo-sir11"><lemma>Sir 11</lemma></subsection> <subsection id="apo-sir18"><lemma>Sir 18</lemma></subsection> <subsection id="apo-sir22"><lemma>Sir 22</lemma></subsection> <subsection id="apo-sir31"><lemma>Sir 31</lemma></subsection> <subsection id="apo-sir33"><lemma>Sir 33</lemma></subsection> <subsection id="apo-sir35"><lemma>Sir 35</lemma></subsection> <subsection id="apo-sir43"><lemma>Sir 43</lemma></subsection> <subsection id="apo-sir50"><lemma>Sir 50</lemma></subsection>
 </kommentar>
 
 <kommentar id="apo-makk2" type="bibel" sort="292">
