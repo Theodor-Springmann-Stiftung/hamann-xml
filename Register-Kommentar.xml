@@ -1263,9 +1263,14 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <eintrag>Gest. 1777, Licenthausinspektor in Königsberg, Hamanns Vorgänger am Licent, Antecesseur</eintrag>
 </kommentar>
 
-<kommentar id="boerhaave" type="neuzeit">
-<lemma>Herman Boerhaave</lemma>
-<eintrag>1668–1738. Niederl. Mediziner.</eintrag>
+<kommentar id="bochard" type="neuzeit">
+<lemma>Samuel Bochart</lemma>
+<eintrag>1599–1667. Reformierter Theologe und Geograph.</eintrag>
+<subsection id="bochart-geographia" type="neuzeit" sort="10">
+<lemma>Bochart, <titel>Geographia Sacra</titel></lemma>
+<eintrag>
+<titel>Geographia Sacra</titel> (2 Bde., 1646–1651) [Biga&#x202F;58/11: „Sam. Bocharti Geographia sacra, Cad. 646“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10326495-4">BSB München: 2 Exeg. 57-1/2</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="bock-jg" type="neuzeit">
@@ -1376,6 +1381,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <lemma>Bodmer (Hg.), <titel>Archiv der schweitzerischen Kritick</titel></lemma>
 <eintrag><titel>Archiv der schweitzerischen Kritick.</titel> Von der Mitte des Jahrhunderts bis auf gegenwärtige Zeiten (1 Bd., Zürich 1768). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN721920209">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="boerhaave" type="neuzeit">
+<lemma>Herman Boerhaave</lemma>
+<eintrag>1668–1738. Niederl. Mediziner.</eintrag>
 </kommentar>
 
 <kommentar id="bogatzky" type="neuzeit">
@@ -4816,7 +4826,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 </subsection>
 <subsection id="gray-poems" type="neuzeit">
 <lemma>Gray, <titel>Poems</titel></lemma>
-<eintrag><titel>Poems</titel>. by Mr. Gray (London: Dodsley 1768) Digitalisat der Ausgabe 1770: <wwwlink address=" 	http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-1552 ">LB Oldenburg</wwwlink>.</eintrag>
+<eintrag><titel>Poems</titel> by Mr. Gray (London: Dodsley 1768). Digitalisat der Ausgabe 1770: <wwwlink address=" 	http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-1552">LB Oldenburg</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -9291,6 +9301,11 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <subsection id="michaelis-jd-vermischteschriften" type="neuzeit" sort="60">
 <lemma>Michaelis, <titel>Vermischte Schriften</titel></lemma>
 <eintrag>Johann David Michaelis <titel>Vermischte Schriften</titel> (2&#xA0;Bde., Frankfurt a.M.: Garbe 1766 und 1769). Digitalisat: <wwwlink address="https://play.google.com/store/books/details?id=Y7gUqDnfAnMC">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="michaelis-jd-spicilegium" type="neuzeit" sort="70">
+<lemma>Michaelis, <titel>Spicilegium geographiae</titel></lemma>
+<eintrag>Spicilegium geographiae Hebraeorum exterae post Bochartum (2 Bde., Göttingen 1769–1780) [Biga&#x202F;63/85: „J. D. Michaelis Spicilegium Geographiae Hebraeorum exterae post Bochartum, Pars I. Goett. 769.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354281-6">BSB München: 4 Exeg. 584-1/2</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14037,7 +14052,7 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 
 <kommentar id="willamovius" type="neuzeit">
 <lemma>Johann Gottlieb Willamovius</lemma>
-<eintrag>1736–1777. Gymnasialdirektor in Thorn, 1767 Inspektor der Deutschen Schule in St. Petersburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz85662.html#adbcontent">Jacoby, Daniel: Willamov, Johann Gottlieb, in: <titel>ADB</titel>&#x202F;43 (1898), S.&#x202F;249–251</wwwlink>.
+<eintrag>1736–1777. Gymnasialdirektor in Thorn, 1767–1776 Direktor der Deutschen Schule in St. Petersburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz85662.html#adbcontent">Jacoby, Daniel: Willamov, Johann Gottlieb, in: <titel>ADB</titel>&#x202F;43 (1898), S.&#x202F;249–251</wwwlink>.
 </eintrag>
 <subsection id="willamovius-thornische" type="neuzeit" sort="10">
 <lemma>Willamovius (Hg.), <titel>Thornische Nachrichten von gelehrten Sachen</titel></lemma>
