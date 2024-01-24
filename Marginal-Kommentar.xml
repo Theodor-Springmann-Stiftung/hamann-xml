@@ -42333,23 +42333,23 @@ Brief Nr. 355
 </marginal>
 
 <marginal letter="355" page="432" line="35">
-<bzg>Huetii Origines</bzg> Huet, Pierre-Daniel: Traitté de l’origine des romans [Biga&#x202F;72/14: „P. D. Huetii de Interpretatione Libri II. &#x26; de fabularum Romanensium Origine, Hag. 683“] – Histoire du Commerce et de la Navigation [Biga&#x202F;88/214: „Histoire du Commerce &#x26; de la Nauigation par Huet, Par. 716“] oder Origenis Commentarii in S. S. gr. &#x26; lat. ex ed. Huetii, Tom. I. II. Gen. 611?!?
+<bzg>Huetii Origines</bzg> mglw. <link ref="huet" subref="huet-origine" linktext="true" />
 </marginal>
 
 <marginal letter="355" page="432" line="36">
 <bzg>L’origine…</bzg> <link ref="bergier" subref="bergier-paganisme" linktext="true" />
 </marginal>
 
-<marginal letter="355" page="433" line="6">
-<bzg>Lieblings Them gewesen</bzg> Hamann und Genesis-Exegese?!?
+<marginal letter="355" page="433" line="3">
+<bzg>Hesiod</bzg> <link ref="hesiod" linktext="true" />
 </marginal>
 
 <marginal letter="355" page="433" line="12">
-<bzg>Young…</bzg> <link ref="young" subref="young-works" linktext="true" />; Henkel: damals als H. die Aesthetica in nuce schrieb?!?
+<bzg>Young…</bzg> <link ref="young" subref="young-works" linktext="false">Young, <titel>Night-thoughts</titel></link>
 </marginal>
 
 <marginal letter="355" page="433" line="19">
-<bzg>Meine Spinnerinnen</bzg> <link ref="schumacher-ar" linktext="true" /> und ihre Mutter, die, nachdem Hamann zunächst mit dem Bruder am 15. August 1768 in die Bondelische Wohnung eingezogen war, wohl um Weihnachten nachfolgten. 
+<bzg>Meine Spinnerinnen</bzg> <link ref="schumacher-ar" linktext="true" /> und ihre Mutter, die, nachdem Hamann zunächst mit dem Bruder am 15. August 1768 in die <link ref="bondeli-fj" linktext="false">Bondelische Wohnung</link> eingezogen war, wohl um Weihnachten nachfolgten. 
 </marginal>
 
 <marginal letter="355" page="433" line="21">
@@ -42371,11 +42371,11 @@ Brief Nr. 356
 </marginal>
 
 <marginal letter="356" page="434" line="3">
-<bzg>Verschwiegenheit</bzg> Herder verschwieg zuvor seine Arbeit an <link ref="herder" subref="herder-waelder" linktext="true" />; ebenso leugnete er nachher beharrlich seine Autorschaft sowohl im Privaten (vgl. <intlink letter="358" page="439" line="35" linktext="true" />) als auch in öffentlichen Erklärungen (vgl. SWS IV, S.&#x202F;340f.)
+<bzg>Verschwiegenheit</bzg> Herder verschwieg zuvor seine Arbeit an den <link ref="herder" subref="herder-waelder" linktext="false"><titel>Kritischen Wäldern</titel></link>; ebenso leugnete er nachher beharrlich seine Autorschaft sowohl im Privaten (vgl. <intlink letter="358" page="439" line="35" linktext="true" />) als auch in öffentlichen Erklärungen (vgl. SWS IV, S.&#x202F;340f.)
 </marginal>
 
 <marginal letter="356" page="434" line="4" sort="1">
-<bzg>digito monstratus: hic est!</bzg> verkürzt aus „at pulchrum est digito monstrari et dicier hic est“, dt. schön ist es doch, wenn man auf dich zeigt und der gesagt wird: der ist’s!  (<link ref="persius" subref="persius-satiren" linktext="true" />, 1,28)
+<bzg>digito monstratus: hic est!</bzg> verkürzt aus „at pulchrum est digito monstrari et dicier hic est“, dt. schön ist es doch, wenn man auf dich zeigt und gesagt wird: der ist’s!  (<link ref="persius" subref="persius-satiren" linktext="true" />, 1,28)
 </marginal>
 
 <marginal letter="356" page="434" line="4" sort="2">
@@ -42395,7 +42395,7 @@ Brief Nr. 356
 </marginal>
 
 <marginal letter="356" page="434" line="9">
-<bzg>Pythagoräischen Weltweisheit</bzg> eine Anspielung vmtl. sowohl auf das Freimaurertum als auch auf die Verschwiegenheit Hartknochs (und Herders), vgl. <intlink letter="350" page="416" line="35" linktext="true" />
+<bzg>Pythagoräischen Weltweisheit</bzg> Anspielung vmtl. sowohl auf das Freimaurertum als auch auf die Verschwiegenheit Hartknochs (und Herders), vgl. <intlink letter="350" page="415" line="35" linktext="true" />
 </marginal>
 
 <marginal letter="356" page="434" line="10">
@@ -42407,7 +42407,7 @@ Brief Nr. 356
 </marginal>
 
 <marginal letter="356" page="434" line="13">
-<bzg>übersetzen</bzg> wohl die englischen Texte aus <link ref="gentlemens-magazine" linktext="true" /> für <link ref="kgpz" linktext="true" />, vgl. <intlink letter="355" page="431" line="30" linktext="true" />
+<bzg>übersetzen</bzg> wohl die englischen Texte aus dem <link ref="gentlemens-magazine" linktext="false">Gentleman’s Magazine</link> für die <link ref="kgpz" linktext="false">Königsbergschen Gelehrten und Politische Zeitungen</link>, vgl. <intlink letter="355" page="431" line="30" linktext="true" />
 </marginal>
 
 Brief Nr. 357
@@ -42425,7 +42425,7 @@ Brief Nr. 357
 </marginal>
 
 <marginal letter="357" page="434" line="34">
-<bzg>Schmähschrift</bzg> <link ref="riedel" linktext="true" /> (ein Freund von <link ref="klotz" linktext="false">Klotz</link>) veröffentlichte in <link ref="deutsche-bibliothek" linktext="true" />, 9.&#x202F;St. (1769, dem ersten dieses Jahres), S.&#x202F;119–138 eine Polemik gegen <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, und zwar bevor diese ausgeliefert wurde; Herder vermutete einen Diebstahl in der Druckerei und andere Intrigen (vgl. <intlink letter="358" page="439" line="25" linktext="true" />); die Auflage wurde schließlich einbehalten und makuliert, wohl auch um die <link ref="deutsche-bibliothek" linktext="true" /> in die unangenehme Situation zu bringen, ein nicht erschienenes Buch rezensiert zu haben
+<bzg>Schmähschrift</bzg> <link ref="riedel" linktext="true" /> (ein Freund von <link ref="klotz" linktext="false">Klotz</link>) veröffentlichte in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 9.&#x202F;St. (1769, dem ersten dieses Jahres), S.&#x202F;119–138 eine Polemik gegen <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, und zwar bevor diese ausgeliefert wurde; Herder vermutete einen Diebstahl in der Druckerei und andere Intrigen (vgl. <intlink letter="358" page="439" line="25" linktext="true" />); die Auflage wurde schließlich einbehalten und makuliert, wohl auch um die <link ref="deutsche-bibliothek" linktext="true" /> in die unangenehme Situation zu bringen, ein nicht erschienenes Buch rezensiert zu haben
 </marginal>
 
 <marginal letter="357" page="435" line="2">
@@ -42453,7 +42453,7 @@ Brief Nr. 357
 </marginal>
 
 <marginal letter="357" page="435" line="15">
-<bzg>Kirchen u Schulamt zu verwalten</bzg> in der vorherigen Besprechung der <link ref="herder" subref="herder-fragmente" linktext="false">Fragmente</link> in <link ref="deutsche-bibliothek" linktext="true" />, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;161 wurde neben Herders Namen auch seine Stellung als „Collaborator an einer Classe zu Riga enthüllt
+<bzg>Kirchen u Schulamt zu verwalten</bzg> in der vorherigen Besprechung der <link ref="herder" subref="herder-fragmente" linktext="false">Fragmente</link> in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;161 wurde neben Herders Namen auch seine Stellung als „Collaborator an einer Classe zu Riga“ enthüllt
 </marginal>
 
 <marginal letter="357" page="435" line="30">
