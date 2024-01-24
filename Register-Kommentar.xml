@@ -1933,7 +1933,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="busching" type="neuzeit">
 <lemma>Anton Friedrich Büsching</lemma>
-<eintrag>1724–1793. Evang. Theologe und Geograph. 1755 Professor für Theologie in Göttingen, 1761–1765 Pfarrer der lutherischen Gemeinde in Petersburg, ab 1766 Direktor des Gymnasiums zum Grauen Kloster in Berlin und Oberkonsistorialrat, siehe <wwwlink address="https://de.wikipedia.org/wiki/Anton_Friedrich_B%C3%BCsching">Löwenberg: Büsching, Anton Friedrich, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;644f.</wwwlink>.</eintrag>
+<eintrag>1724–1793. Evang. Theologe und Geograph. 1755 Professor für Theologie in Göttingen, 1761–1765 Pfarrer der lutherischen Gemeinde in Petersburg, ab 1766 Direktor des Gymnasiums zum Grauen Kloster in Berlin und einflussreicher Oberkonsistorialrat, siehe <wwwlink address="https://de.wikipedia.org/wiki/Anton_Friedrich_B%C3%BCsching">Löwenberg: Büsching, Anton Friedrich, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;644f.</wwwlink>.</eintrag>
 <subsection id="busching-erdbeschreibung" type="neuzeit" sort="5">
 <lemma>Büsching, <titel>Neue Erdbeschreibung</titel></lemma>
 <eintrag>D. Anton Friedrich Büschings <titel>neue Erdbeschreibung</titel> (Hamburg 1754–1792 und öfter) [Biga&#x202F;85/175: „Büschings Erdbeschreibung, 1–4 Th. Hamb. 758–70“]. </eintrag>
@@ -2673,7 +2673,7 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 
 <kommentar id="coulanges" type="neuzeit">
 <lemma>Philippe-Emmanuel de Coulanges</lemma>
-<eintrag>1633–1716. Freund von <link ref="sevigne" linktext="true" /> und Schriftsteller.</eintrag>
+<eintrag>1633–1716. Freund der <link ref="sevigne" linktext="false">Marquise de Sévigné</link> und Schriftsteller.</eintrag>
 </kommentar>
 
 <kommentar id="courcelles" type="neuzeit">
@@ -3084,9 +3084,9 @@ vermutl. zus. mit <link ref="auvigny" linktext="true" />, <titel>Anecdotes galan
 <lemma>Antoinette Deshoulières</lemma>
 <eintrag>1638–1694. Frz. Dichterin (ihre Werke wurden häufig mit denen ihrer Tochter Antoinette-Thérèse Deshoulières, 1662–1718, gedruckt, die auch Mademoiselle Deshoulières genannt wurde), siehe <wwwlink address="https://www.deutsche-biographie.de/pnd123816637.html">Deutsche Biographie</wwwlink>.</eintrag>
 <subsection id="deshoulieres-ouevres" type="neuzeit">
-<lemma>Desforges-Maillard, <titel>Oeuvres</titel></lemma>
+<lemma>Deshoulières, <titel>Oeuvres</titel></lemma>
 <eintrag>
-<titel>Oeuvres de Dadame et Mademoiselle Deshoulières</titel> (2 Bde., Paris: David l’aîné 1764) [Biga&#x202F;175/727: „Oeuvres de Me. &#x26; Mlle. Deshoulieres, Tom. I. II. Par, 762“].</eintrag>
+<titel>Oeuvres de Madame et Mademoiselle Deshoulières</titel> (2 Bde., Paris 1764) [Biga&#x202F;175/727: „Oeuvres de Me. &#x26; Mlle. Deshoulieres, Tom. I. II. Par, 762“]. Digitalisat einer Ausgabe Paris 1753: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10090190-9">BSB München: P.o.gall. 584 c-1/2</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -4800,7 +4800,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 
 <kommentar id="grand-vocabulaire" type="neuzeit">
 <lemma>Le Grand Vocabulaire françois</lemma>
-<eintrag>Französisches Wörterbuch in 30 Bde., hg. von Joseph Nicolas Guyot (1728–1816), Nicolas Chamfort und Ferdinand Camille Duchemin de la Chesnaye (1741–1775), initiiert und verlegt von Charles-Joseph Panckoucke (Paris 1767–1774).</eintrag> Digitalisat Bd. 1: <wwwlink address=" http://catalogue.bnf.fr/ark:/12148/cb334074577">Bibliothèque nationale de France: 8-Z LE SENNE-5948 (2)</wwwlink>
+<eintrag>Französisches Wörterbuch in 30 Bde., hg. von Joseph Nicolas Guyot (1728–1816), Nicolas Chamfort und Ferdinand Camille Duchemin de la Chesnaye (1741–1775), initiiert und verlegt von Charles-Joseph Panckoucke (Paris 1767–1774). Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523842-1">BSB München: 4 L.lat.f. 62-1</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="graville" type="neuzeit">
@@ -5567,7 +5567,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hartknoch" type="neuzeit">
 <lemma>Johann Friedrich Hartknoch</lemma>
-<eintrag>1740–1789. 1761 Lehrling von <link ref="kanter-jj" linktext="true" />, übernahm 1763 dessen Filiale in Mitau, Verleger in Riga u.&#x202F;a. von <link ref="herder" subref="herder-fragmente" linktext="true" />,  siehe <wwwlink address="https://www.deutsche-biographie.de/sfz26177.html#adbcontent">Eckardt: Hartknoch, Johann Friedrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;667</wwwlink>.</eintrag>
+<eintrag>1740–1789. 1761 Lehrling von <link ref="kanter-jj" linktext="true" />, übernahm 1763 dessen Filiale in Mitau, Verleger in Riga, zunächst u.&#x202F;a. der Schriften <link ref="herder" linktext="false">Herders</link>, später auch Hamanns, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz26177.html#adbcontent">Eckardt: Hartknoch, Johann Friedrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;667</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hartknoch-a" type="neuzeit">
@@ -7720,7 +7720,7 @@ der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> von 1766–
 
 <kommentar id="lauson" type="neuzeit">
 <lemma>Johann Friedrich Lauson</lemma>
-<eintrag>1727–1783. Gelegenheitsdichter in Königsberg, Besitzer einer Bibliothek, Beiträger der Zeitschrift <link ref="hamann" subref="daphne" linktext="false"><titel>Daphne</titel></link>, 1764 Nachfolger Hamanns als Redakteur von <link ref="kgpz" linktext="true" />, 1768 Amtskollege Hamanns bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />, 1770 Einnehmer beim Plombage-Amt des königlichen großen Licents in Königsberg. <wwwlink address="https://www.deutsche-biographie.de/sfz48507.html">Brenning, Lauson, Johann Friedrich, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;71</wwwlink> sowie Joseph Kohnen, <titel>Johann Friedrich Lauson (1727–1783)</titel>, in: Ders., <titel>Lyrik in Königsberg</titel> 1749–1799 (Frankfurt a.&#x202F;M. u.a. 2000), S.&#x202F;35–54. Zu Hamanns Beziehung zu Lauson siehe <link ref="koh-j-1997" linktext="false">Kohnen (1997)</link>.
+<eintrag>1727–1783. Gelegenheitsdichter in Königsberg, Besitzer einer Bibliothek, Beiträger der Zeitschrift <link ref="hamann" subref="daphne" linktext="false"><titel>Daphne</titel></link>, 1764 Nachfolger Hamanns als Redakteur von <link ref="kgpz" linktext="true" />, 1768 Amtskollege Hamanns bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" /> als Einnehmer und/oder Controleur beim Plombage-Amt des königlichen großen Licents in Königsberg. <wwwlink address="https://www.deutsche-biographie.de/sfz48507.html">Brenning, Lauson, Johann Friedrich, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;71</wwwlink> sowie Joseph Kohnen, <titel>Johann Friedrich Lauson (1727–1783)</titel>, in: Ders., <titel>Lyrik in Königsberg</titel> 1749–1799 (Frankfurt a.&#x202F;M. u.a. 2000), S.&#x202F;35–54. Zu Hamanns Beziehung zu Lauson siehe <link ref="koh-j-1997" linktext="false">Kohnen (1997)</link>.
 </eintrag>
 <subsection id="lauson-erster" type="neuzeit" sort="10">
 <lemma>Lauson, <titel>Versuch in Gedichten</titel></lemma>
@@ -12149,7 +12149,7 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 <subsection id="sevigne-lettres" type="neuzeit" sort="10">
 <lemma>Sévigné, <titel>Lettres de Me. la Marquise de Sévigné</titel></lemma>
 <eintrag>
-<titel>Lettres de Me. la Marquise de Sévigné</titel> (8&#xA0;Bde., Amsterdam 1766) [Biga&#x202F;175/726: „Lettres de Me. la Marquise de Sevigné, Tom. I-VIII. Amst. 766“].
+<titel>Lettres de Me. la Marquise de Sévigné</titel> (8&#xA0;Bde., Amsterdam 1766) [Biga&#x202F;175/726: „Lettres de Me. la Marquise de Sevigné, Tom. I-VIII. Amst. 766“]. Digitalisat einer Ausgabe Paris 1754: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10403985-6">BSB München: Epist. 848-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -12567,7 +12567,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="starck" type="neuzeit">
 <lemma>Johann August Starck</lemma>
-<eintrag>1741–1816. Evang. Theologe, 1763 Lehrer in St. Petersburg, 1769 außerordentlicher Professor der morgenländischen Sprachen in Königsberg (protegiert von <link ref="busching" linktext="true" />), 1770 Zweiter Hofprediger, 1776 Oberhofprediger, Generalsuperintendent, verläßt 1777 Königsberg nach Streitigkeiten in der Fakultät, Gymnasialprofessor in Mitau, 1781 Oberhofprediger und Konsistorialrat in Darmstadt; er war 1766 heimlich in Paris konvertiert, gründete als Freimaurer das Klerikat der Templer; Hamanns Beichtvater 1775–1776, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink>. Auch genannt: Alexander von Adlersheim, der Hierophant.</eintrag>
+<eintrag>1741–1816. Evang. Theologe, 1763 Lehrer in St. Petersburg, 1769 außerordentlicher Professor der morgenländischen Sprachen in Königsberg (protegiert von <link ref="busching" linktext="true" />, wohnhaft zunächst bei <link ref="kanter-jj" linktext="true" />), 1770 Zweiter Hofprediger, 1776 Oberhofprediger, Generalsuperintendent, verläßt 1777 Königsberg nach Streitigkeiten in der Fakultät, darauf Gymnasialprofessor in Mitau und 1781 Oberhofprediger und Konsistorialrat in Darmstadt; Mitte der 1780er Jahre in den Kryptokatholizismusstreit mit <link ref="nicolai-f" linktext="true" /> verwickelt, an dem Hamann indirekt über <link ref="jacobi" linktext="true" /> Anteil nahm (posthum stellte sich heraus, dass er 1766 heimlich in Paris zum Katholizismus konvertiert war); gründete als Freimaurer das ‚Klerikat der Templer‘ und war auch sonst sehr aktiv in der Freimaurerszene; Hamanns Beichtvater 1775–1776, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink>.</eintrag>
 <subsection id="starck-aeschylo" type="neuzeit" sort="10">
 <lemma>Starck, <titel>De Aeschylo</titel></lemma>
 <eintrag>
