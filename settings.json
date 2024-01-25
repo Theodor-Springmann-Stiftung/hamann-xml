@@ -9,7 +9,7 @@
       "AdminService":  true,
       "LocalPublishService": false,
       "SyntaxCheck": false,
-      "Notifications": true
+      "Notifications": false
     },
     "FileSizeLimit": 52428800,
     "AvailableStartYear": 1700,
