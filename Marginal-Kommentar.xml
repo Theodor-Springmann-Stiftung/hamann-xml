@@ -41327,8 +41327,8 @@ Brief Nr. 350
 <bzg>Ferguson</bzg> <link ref="ferguson" subref="ferguson-society" linktext="true" />
 </marginal>
 
-<marginal letter="350" page="416" line="13">
-<bzg>Ueberschattung…</bzg> <link ref="nt-lk" subref="nt-lk1" linktext="false">Lk 1,35</link> und 
+<marginal letter="350" page="416" line="15">
+<bzg>Ueberschattung…</bzg> <link ref="nt-lk" subref="nt-lk1" linktext="false">Lk 1,35</link> 
 </marginal>
 
 <marginal letter="350" page="416" line="20">
@@ -41518,7 +41518,7 @@ Brief Nr. 351
 </marginal>
 
 <marginal letter="351" page="419" line="19">
-<bzg>Bruders</bzg> <link ref="hamann-jc" linktext="true" />, vgl. <intlink letter="366" page="367" line="11" linktext="true" />
+<bzg>Bruders</bzg> <link ref="hamann-jc" linktext="true" />, vgl. <intlink letter="366" page="467" line="11" linktext="true" />
 </marginal>
 
 <marginal letter="351" page="419" line="22">
@@ -43185,7 +43185,7 @@ Brief Nr. 359
 <bzg>Hinz</bzg> <link ref="hinz" linktext="true" />, vgl. <intlink letter="358" page="440" line="18" linktext="true" />
 </marginal>
 
-<marginal letter="359" page="445" line="16">
+<marginal letter="359" page="445" line="17">
 <bzg>jungen HE</bzg> mglw. Friedrich Heinrich von Korff, der Sohn von <link ref="korff-fa" linktext="true" />
 </marginal>
 
@@ -43390,7 +43390,7 @@ Brief Nr. 360
 </marginal>
 
 <marginal letter="360" page="448" line="1">
-<bzg>Sekr. Berens</bzg> <link ref="berens-ca" linktext="true" />
+<bzg>Sekr. Berens</bzg> <link ref="berens-jc" linktext="true" />
 </marginal>
 
 <marginal letter="360" page="448" line="12">
@@ -43430,7 +43430,7 @@ Brief Nr. 360
 </marginal>
 
 <marginal letter="360" page="449" line="2">
-<bzg>Pilgrimme u. Bürger</bzg> <link ref="nt-pet1" subref="nt-pet1-2" linktext="false">1 Petr 2,7</link>
+<bzg>Pilgrimme u. Bürger</bzg> <link ref="nt-pet1" subref="nt-pet1-2" linktext="false">1 Petr 2,11</link>
 </marginal>
 
 <marginal letter="360" page="449" line="6">
@@ -43442,11 +43442,11 @@ Brief Nr. 360
 </marginal>
 
 <marginal letter="360" page="449" line="8">
-<bzg>K.</bzg> Königsberg
+<bzg>K.</bzg> Königsberg (es kam nicht dazu)
 </marginal>
 
 <marginal letter="360" page="449" line="11">
-<bzg>Figment</bzg> von von lat. figmentum, dt. Dichtung, Fiktion
+<bzg>Figment</bzg> von lat. figmentum, dt. Erdichtung, Fiktion
 </marginal>
 
 <marginal letter="360" page="449" line="17">
@@ -43454,11 +43454,11 @@ Brief Nr. 360
 </marginal>
 
 <marginal letter="360" page="449" line="18">
-<bzg>Mislichkeiten</bzg> Herders Fortführung des <intlink letter="357" page="435" line="6" linktext="false">Blindekuhspiels</intlink> um die Abläugnung seiner Autorschaft an den <link ref="herder" subref="herder-waelder" linktext="false"><titel>Kritischen Wäldern</titel></link> auch in der Privatkorrespondenz mit Hamann (<intlink letter="358" page="439" line="35" linktext="true" />), wofür Herder sehr ausgescholten wurde (etwa <intlink letter="359" page="445" line="9" linktext="true" />)
+<bzg>Mislichkeiten</bzg> Herders Fortführung des <intlink letter="357" page="435" line="6" linktext="false">Blindekuhspiels</intlink> um die Abläugnung seiner Autorschaft an den <link ref="herder" subref="herder-waelder" linktext="false"><titel>Kritischen Wäldern</titel></link> auch in der Privatkorrespondenz mit Hamann (<intlink letter="358" page="439" line="35" linktext="true" />), wofür Herder ausgescholten wurde, <intlink letter="359" page="445" line="9" linktext="true" />
 </marginal>
 
 <marginal letter="360" page="449" line="20">
-<bzg>Litterarischen Briefe</bzg> der <link ref="klotz" linktext="false">Klotzianer</link> <link ref="schirach" linktext="true" /> nannte Herder als Autor der <link ref="herder" subref="herder-waelder" linktext="false"><titel>Kritischen Wälder</titel></link> in <link ref="schirach" subref="schirach-litterarischebriefe" linktext="true" />, 1.&#x202F;Paquet, 1.&#x202F;Brief, S.&#x202F;19f.
+<bzg>Litterarischen Briefe</bzg> der <link ref="klotz" linktext="false">Klotzianer</link> <link ref="schirach" linktext="true" /> nannte Herder als Autor der <link ref="herder" subref="herder-waelder" linktext="false"><titel>Kritischen Wälder</titel></link> in <link ref="schirach" subref="schirach-litterarischebriefe" linktext="false">Litterarische Briefe</link>, 1.&#x202F;Paquet, 1.&#x202F;Brief, S.&#x202F;19f.
 </marginal>
 
 <marginal letter="360" page="449" line="22">
@@ -43506,7 +43506,7 @@ Brief Nr. 360
 </marginal>
 
 <marginal letter="360" page="449" line="33">
-<bzg>Pindar</bzg> <link ref="pindar" linktext="true" />, vgl. <intlink letter="357" page="436" line="25" linktext="true" />
+<bzg>Pindar</bzg> <link ref="pindar" linktext="true" />, vgl. zu <intlink letter="357" page="436" line="25" linktext="true" />
 </marginal>
 
 <marginal letter="360" page="449" line="34">
@@ -43517,7 +43517,7 @@ Brief Nr. 360
 <bzg>omissum</bzg> ein ausgelassenes Buch
 </marginal>
 
-<marginal letter="360" page="449" line="1" sort="1">
+<marginal letter="360" page="450" line="1" sort="1">
 <bzg>J. C. Ber.</bzg> <link ref="berens-jc" linktext="true" />
 </marginal>
 
@@ -43588,7 +43588,7 @@ Brief Nr. 360
 Brief Nr. 361
 
 <marginal letter="361" page="451" line="12">
-Der Entwurf entstand, wie auch HKB 362–367, im Zusammenhang des Rechtsstreits um die Vormundschaft und die Verwaltung des Vermögens des psychisch kranken <link ref="hamann-jc" linktext="true" /> mit <link ref="nuppenau-jp" linktext="true" />; in dem Rechtsstreit war <link ref="bucholtz-k-jc" linktext="true" /> als Nachlassverwalter des 1766 verstorbenen <link ref="hamann-vjc" linktext="false">Vaters</link> und Depositar von Johann Christophs Vermögen involviert; er befand sich aber auf auf der Seite von <link ref="nuppenau-jp" linktext="true" />, zu Hamanns negativem Verhältnis zu Buchholtz vgl. <intlink letter="365" page="466" line="21" linktext="true" />; zur Vermögensaufstellung hier vgl. auch <intlink letter="363" page="459" line="32" linktext="true" />
+Der Entwurf entstand, wie auch HKB 362–367, im Zusammenhang des Rechtsstreits um die Vormundschaft und die Verwaltung des Vermögens des psychisch kranken <link ref="hamann-jc" linktext="true" /> mit <link ref="nuppenau-jp" linktext="true" />; in dem Rechtsstreit war <link ref="bucholtz-k-jc" linktext="true" /> als Nachlassverwalter des 1766 verstorbenen <link ref="hamann-vjc" linktext="false">Vaters</link> und Depositar von Johann Christophs Vermögen involviert, er befand sich aber auf der Seite von Nuppenau; zu Hamanns negativem Verhältnis zu Buchholtz vgl. <intlink letter="365" page="466" line="21" linktext="true" />; zur Vermögensaufstellung hier vgl. auch <intlink letter="363" page="459" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="361" page="451" line="13" sort="1">
@@ -43620,6 +43620,14 @@ Brief Nr. 362
 
 <marginal letter="362" page="451" line="25">
 Der Entwurf an das mit Vormundschaftssachen betraute <link ref="pupillenkollegium" linktext="false">Pupillenkollegium</link> entstand im Zusammenhang des Rechtsstreits um die Vormundschaft und die Verwaltung des Vermögens des psychisch kranken <link ref="hamann-jc" linktext="true" /> mit <link ref="nuppenau-jp" linktext="true" />, welchen Hamann wegen der Parteilichkeit von <link ref="hindersin" linktext="true" /> vor dem <link ref="pupillenkollegium" linktext="false">Königlichen Pupillenkollegium</link> austragen wollte
+</marginal>
+
+<marginal letter="362" page="451" line="28">
+<bzg>Vater</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
+<marginal letter="362" page="452" line="2">
+<bzg>Legata</bzg> als Erbschaft hinterlassene Gegenstände oder Beträge
 </marginal>
 
 <marginal letter="362" page="452" line="3">
@@ -43678,16 +43686,20 @@ Der Entwurf an das mit Vormundschaftssachen betraute <link ref="pupillenkollegiu
 <bzg>Obligationes</bzg> Schuldbrief, Vermögensteil, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Obligation
 </marginal>
 
-<marginal letter="362" page="454" line="14">
-<bzg>Legata</bzg> als Erbschaft hinterlassene Gegenstände oder Beträge
-</marginal>
-
 <marginal letter="362" page="454" line="15">
 <bzg>meubles</bzg> Möbel
 </marginal>
 
+<marginal letter="362" page="454" line="15">
+<bzg>damals reducirten Geldes</bzg> ?!?
+</marginal>
+
 <marginal letter="362" page="454" line="19">
 <bzg>Hippel</bzg> <link ref="hippel" linktext="true" />
+</marginal>
+
+<marginal letter="362" page="454" line="34">
+<bzg>Abgebrandte</bzg> wohl für Spendenaktionen nach dem großen Brand von 1764
 </marginal>
 
 <marginal letter="362" page="454" line="37">
@@ -43725,11 +43737,11 @@ Brief Nr. 363
 </marginal>
 
 <marginal letter="363" page="455" line="35" sort="1">
-<bzg>Bericht…</bzg> es wurde wohl der Bitte in <intlink letter="362" page="455" line="18" linktext="true" /> entsprochen; Hamann geht vmtl. in <intlink letter="365" page="466" line="9" linktext="true" /> auf den Inhalt ein
+<bzg>Bericht…</bzg> das königliche Pupillenkollegium entsprach wohl der Bitte in <intlink letter="362" page="455" line="18" linktext="true" />; Hamann geht vmtl. in <intlink letter="365" page="466" line="9" linktext="true" /> auf den Inhalt des Magistrats-Berichts ein
 </marginal>
 
 <marginal letter="363" page="455" line="35" sort="2">
-<bzg>Hiesigen Magistrats</bzg> <link ref="magistrat" linktext="true" />, es wurde wohl der Bitte in <intlink letter="362" page="455" line="18" linktext="true" /> entsprochen; vgl. <intlink letter="365" page="466" line="9" linktext="true" /> 
+<bzg>Hiesigen Magistrats</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="363" page="456" line="11">
