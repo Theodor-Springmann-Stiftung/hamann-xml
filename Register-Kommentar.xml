@@ -384,9 +384,15 @@ In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202F;1, S.&#x202F;266�
 In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202F;2, S.&#x202F;177–277.
 </eintrag>
 </subsection>
+</kommentar>, 
+
+<kommentar id="arnaud-f" type="neuzeit">
+<lemma>François Arnaud</lemma>
+<eintrag>1721–1784. Frz. Geistlicher, Publizist und Akademiemitglied, ab 1760 Herausgeber des Journal Étranger.
+</eintrag>
 </kommentar>
 
-<kommentar id="arnaud" type="neuzeit">
+<kommentar id="arnaud-ft" type="neuzeit">
 <lemma>François-Thomas-Marie de Baculard d’Arnaud</lemma>
 <eintrag>1718–1805. Frz. Dichter und Dramatiker; stand mit <link ref="friedrich-II" linktext="true" /> in Kontakt, hielt sich auch um 1750 in Berlin auf, konkurrierte mit Voltaire. Siehe <wwwlink address="http://dictionnaire-journalistes.gazettes18e.fr/journaliste/025-francois-de-baculard-darnaud">Dictionnaire des journalistes</wwwlink>; <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;2, 1811), S.&#x202F;496f.
 </eintrag>
@@ -5750,8 +5756,8 @@ Sofern Texte dort nicht ediert sind: SWS: <titel>Herders Sämmtliche Werke,</tit
 Zitierte Ausgabe der Briefe:<line type="break" />
 Von Herder: Johann Gottfried Herder: <titel>Briefe</titel>, Gesamtausgabe 1763–1803, 18 Bde., hg.&#xA0;v. der Stiftung Weimarer Klassik (Goethe- und Schiller-Archiv) (Weimar 1977–2016) [=&#x202F;HBGA].<line type="break" />
 An Herder:<line type="break" />
-Johann Gottfried von Herder’s Lebensbild. Sein chronologisch geordneter Briefwechsel […]. Hg. von seinem Sohne Dr. Emil Gottfried von Herder (6 Bde., Erlangen 1846).<line type="break" />
-Von und an Herder: ungedruckte Briefe aus Herders Nachlaß; Herders Briefwechsel mit Gleim, Nicolai, Hartknoch, Heyne u.a., hg.&#x202F;von Heinrich Düntzer und Ferdinand Gottfried Herder, 3 Bde. (Leipzig 1861–1862).
+<titel>Johann Gottfried von Herder’s Lebensbild.</titel> Sein chronologisch geordneter Briefwechsel […]. Hg. von seinem Sohne Dr. Emil Gottfried von Herder (6 Bde., Erlangen 1846).<line type="break" />
+Von und an Herder: <titel>Ungedruckte Briefe aus Herders Nachlaß;</titel> Herders Briefwechsel mit Gleim, Nicolai, Hartknoch, Heyne u.a., hg.&#x202F;von Heinrich Düntzer und Ferdinand Gottfried Herder, 3 Bde. (Leipzig 1861–1862).
 </eintrag>
 <subsection id="herder-cyrus" type="neuzeit" sort="10">
 <lemma>Herder, <titel>Gesang an den Cyrus</titel></lemma>
@@ -6684,7 +6690,9 @@ J
 <kommentar id="journal-etranger" type="neuzeit">
 <lemma>Journal étranger</lemma>
 <eintrag>
-<titel>Journal étranger</titel>. 1754 bis 1762 in Paris erschienen, hg.&#xA0;v. u.a. Friedrich Melchior Grimm, <link ref="arnaud" linktext="true" />, widmete sich der Erschließung ausländischer Literaturen. <link ref="wachtler" linktext="true" /> lieferte Artikel über deutschsprachige Literatur und Kunst, in der Ausg. November 1755 war dort etwa eine Übersetzung des Dreiakters von <link ref="gellert-cf" linktext="true" />, <titel>Die Beetschwester</titel>, zu lesen (Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k9814116g?rk=150215;2">Bibliothèque nationale de France: Z-21774</wwwlink>); auch <link ref="gottsched" linktext="false">Gottscheds</link> Werk wollte Wächtler dem frz. Publikum nahe bringen, dessen abschätzige Rezension einer Ausgabe der Fabeln <link ref="fontaine" linktext="false">Fontaines</link>, 1750 in <titel>Das Neueste aus der anmuthigen Gelehrsamkeit</titel> erschienen, ließ ihn jedoch prompt durchfallen, im <titel>Mercure de France</titel> wurde er als frankophob abgekanzelt.
+<titel>Journal étranger</titel>. 1754 bis 1762 in Paris erschienen, hg.&#xA0;v. u.a. Friedrich Melchior Grimm, <link ref="arnaud" linktext="true" />, widmete sich der Erschließung ausländischer Literaturen; 1764–1766 als Journal littéraire de l’Europe von <link ref="arnaud-f" linktext="true" /> weitergeführt.<line type="break" />
+<link ref="wachtler" linktext="true" /> lieferte Artikel über deutschsprachige Literatur und Kunst, in der Ausg. November 1755 war dort etwa eine Übersetzung des Dreiakters von <link ref="gellert-cf" linktext="true" />, <titel>Die Beetschwester</titel>, zu lesen (Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k9814116g?rk=150215;2">Bibliothèque nationale de France: Z-21774</wwwlink>); auch <link ref="gottsched" linktext="false">Gottscheds</link> Werk wollte Wächtler dem frz. Publikum nahe bringen, dessen abschätzige Rezension einer Ausgabe der Fabeln <link ref="fontaine" linktext="false">Fontaines</link>, 1750 in <titel>Das Neueste aus der anmuthigen Gelehrsamkeit</titel> erschienen, ließ ihn jedoch prompt durchfallen, im <titel>Mercure de France</titel> wurde er als frankophob abgekanzelt.<line type="break" />
+Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/cb32801271b/date">Bibliothèque Nationale de France</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -11224,7 +11232,7 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <eintrag>
 <titel>Traité de la manière d’enseigner et d’étudier les belles-lettres par rapport à l’esprit et au cœur</titel> (4&#xA0;Bde., Paris 1726–28).<line type="break" />
 Übers.: <titel>Carl Rollins Anweisung, wie man die freyen Künste lehren und lernen soll</titel>, übers. v. J. J. Schwab (4&#xA0;Bde., Leipzig 1737).<line type="break" />
-Der Entwurf zu einer „Physique des enfans“ wurde gesondert übersetzt zuerst in <titel>William Derhams, Canonici in Windsor, Rectorn zu Upminster in Essex und Mitgliedes der Königl. Englischen Gesellschaft, Physico Theologie, Oder Natur-Leitung zu Gott durch aufmercksame Betrachtung der Erd-Kugel, und der darauf sich befindenden Creaturen, Zum augenscheinlichen Beweiß Daß ein Gott, und derselbige ein Allergütigstes, Allweises, Allmächtigstes Wesen sey. In die deutsche Sprache übersetzt von C. L. W. jetzo aber nach der siebenden Englischen Ausgabe mit Fleis von neuem übersehen, und nebst einer Aufmunterung des Herrn Carol Rollins, die Jugend bey Zeiten zur Liebe ihres Schöpffers durch Betrachtung der Creaturen anzuführen, zum Druck befordert von Jo. Alberto Fabricio, D. und Prof. Publ. des Gymnasii zu Hamburg</titel> (Hamburg 1730) in der Vorrede, S.&#x202F;IX. Digitalisat, 2.&#x202F;Aufl.: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-273944">ULB Halle: Pa 489 (1)</wwwlink>
+Der Entwurf zu einer „Physique des enfans“ wurde gesondert übersetzt zuerst in <titel>William Derhams, Canonici in Windsor, Rectorn zu Upminster in Essex und Mitgliedes der Königl. Englischen Gesellschaft, Physico Theologie, Oder Natur-Leitung zu Gott durch aufmercksame Betrachtung der Erd-Kugel, und der darauf sich befindenden Creaturen, Zum augenscheinlichen Beweiß Daß ein Gott, und derselbige ein Allergütigstes, Allweises, Allmächtigstes Wesen sey. In die deutsche Sprache übersetzt von C. L. W. jetzo aber nach der siebenden Englischen Ausgabe mit Fleis von neuem übersehen, und nebst einer Aufmunterung des Herrn Carol Rollins, die Jugend bey Zeiten zur Liebe ihres Schöpffers durch Betrachtung der Creaturen anzuführen, zum Druck befordert von Jo. Alberto Fabricio, D. und Prof. Publ. des Gymnasii zu Hamburg</titel> (Hamburg 1730) in der Vorrede, S.&#x202F;IX. Digitalisat, 2.&#x202F;Aufl.: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-273944">ULB Halle: Pa 489 (1)</wwwlink>.
 .<line type="break" />
 Außerdem kursierte eine Übers. der Kinderphysik als <titel>Carl Rollins Natur-Lehre der Kinder aus dem Französischen übersezt von Jo. Joachim Schwaben. Der Jugend aber zum Besten besonders ediret von Andrea Gözzen</titel> (Frankfurt: Kopf 1737).</eintrag>
 </subsection>
@@ -11402,7 +11410,7 @@ S
 <subsection id="saint-lambert-saisons" type="neuzeit" sort="10">
 <lemma>Saint-Lambert, <titel>Les saisons</titel></lemma>
 <eintrag>
-<titel>Les saisons. Poème</titel> (Amsterdam 1769); dann weitere erweiterte Auflagen.
+<titel>Les saisons. Poème</titel> (Amsterdam 1769, darauf erweiterte Auflagen). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:3-41810">ULB Halle: AB 43 16/h, 7</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>

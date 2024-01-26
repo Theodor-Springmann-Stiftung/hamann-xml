@@ -7533,11 +7533,11 @@ Es ist nicht eindeutig zu klären, wann Hamann seine Übers. aus <link ref="shaf
 </marginal>
 
 <marginal letter="105" page="229" line="9" sort="1">
-<link ref="arnaud" subref="arnaud-oeuvres" linktext="true" />
+<link ref="arnaud-ft" subref="arnaud-oeuvres" linktext="true" />
 </marginal>
 
 <marginal letter="105" page="229" line="9" sort="2">
-<link ref="arnaud" subref="arnaud-oeuvres" linktext="true" />, Bd.&#x202F;1: <titel>Coligny, ou la St. Barthelemi</titel>
+<link ref="arnaud-ft" subref="arnaud-oeuvres" linktext="true" />, Bd.&#x202F;1: <titel>Coligny, ou la St. Barthelemi</titel>
 </marginal>
 
 <marginal letter="105" page="229" line="10">
@@ -7549,7 +7549,7 @@ Es ist nicht eindeutig zu klären, wann Hamann seine Übers. aus <link ref="shaf
 </marginal>
 
 <marginal letter="105" page="229" line="19">
-<link ref="arnaud" linktext="true" /> hatte zwei Texte über das Werk von Voltaire publiziert.
+<link ref="arnaud-ft" linktext="true" /> hatte zwei Texte über das Werk von Voltaire publiziert.
 </marginal>
 
 <marginal letter="105" page="229" line="20">
@@ -29979,11 +29979,11 @@ Brief Nr. 252
 </marginal>
 
 <marginal letter="252" page="222" line="29">
-<bzg>Journal etranger</bzg> <titel>Journal Étranger, ouvrage periodique</titel>. 45&#x202F;Bde., Paris 1754–1762 
+<bzg>Journal etranger</bzg> <link ref="journal-etranger" linktext="true" />
 </marginal>
 
 <marginal letter="252" page="222" line="31">
-<bzg>Arnauld</bzg> François Arnaud (1721–1784), frz. Publizist, ab 1760 Herausgeber des Journal Étranger
+<bzg>Arnauld</bzg> <link ref="arnaud-f" linktext="true" />
 </marginal>
 
 <marginal letter="252" page="222" line="33">
@@ -41922,7 +41922,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="425" line="19" sort="2">
-<bzg>Westfeld</bzg> der Brief vom 19. August 1768 ist abgedruckt in Johann Gottfried von Herder’s Lebensbild, I,2, S.&#x202F;361–363
+<bzg>Westfeld</bzg> der Brief vom 19. August 1768 ist abgedruckt in <titel>Johann Gottfried von Herder’s Lebensbild,</titel> I,2, S.&#x202F;361–363
 </marginal>
 
 <marginal letter="353" page="425" line="20">
@@ -42728,7 +42728,7 @@ Brief Nr. 358
 </marginal>
 
 <marginal letter="358" page="439" line="30">
-<bzg>Weiße hats mir geschrieben…</bzg> vgl. den Brief von <link ref="weise" linktext="true" /> an Herder, 30.121768 (Johann Gottfried von Herder’s Lebensbild, I,3,2, S.&#x202F;527); die Entzweiung war aber tatsächlich nur ein Gerücht, wenn auch weit verbreitet
+<bzg>Weiße hats mir geschrieben…</bzg> vgl. den Brief von <link ref="weise" linktext="true" /> an Herder, 30.121768 (<titel>Johann Gottfried von Herder’s Lebensbild,</titel> I,3,2, S.&#x202F;527); die Entzweiung war aber tatsächlich nur ein Gerücht, wenn auch weit verbreitet
 </marginal>
 
 <marginal letter="358" page="439" line="31">
@@ -42756,7 +42756,7 @@ Brief Nr. 358
 </marginal>
 
 <marginal letter="358" page="440" line="1" sort="1">
-<bzg>Nicolai</bzg> vgl. Nicolai an Herder, 24.12.1768 (Johann Gottfried von Herder’s Lebensbild, I,1,2, S.&#x202F;390) und Herders ebenfalls leugnende Antwort ebd., 412
+<bzg>Nicolai</bzg> vgl. Nicolai an Herder, 24.12.1768 (<titel>Johann Gottfried von Herder’s Lebensbild,</titel> I,1,2, S.&#x202F;390) und Herders ebenfalls leugnende Antwort ebd., 412
 </marginal>
 
 <marginal letter="358" page="440" line="1" sort="2">
@@ -43760,10 +43760,6 @@ Brief Nr. 363
 <bzg>Vatern</bzg> <link ref="hamann-vjc" linktext="true" />
 </marginal>
 
-<marginal letter="363" page="456" line="30">
-<bzg>Wärterin</bzg> wohl die Mutter von <link ref="schumacher-ar" linktext="true" />
-</marginal>
-
 <marginal letter="363" page="456" line="37">
 <bzg>veränderten Wohnung</bzg> der Umzug ins mittelste Tragheim, vgl. <intlink letter="351" page="419" line="12" linktext="true" />
 </marginal>
@@ -43786,10 +43782,6 @@ Brief Nr. 363
 
 <marginal letter="363" page="458" line="10">
 <bzg>Nuppenau</bzg> <link ref="nuppenau-jp" linktext="true" />
-</marginal>
-
-<marginal letter="363" page="458" line="14">
-<bzg>Meublen</bzg> Möbel
 </marginal>
 
 <marginal letter="363" page="458" line="17">
@@ -43820,8 +43812,8 @@ Brief Nr. 363
 <bzg>Dragheim</bzg> auf dem mittelsten Tragheim
 </marginal>
 
-<marginal letter="363" page="459" line="10">
-<bzg>Bürgermeisterl. Amt</bzg> <link ref="magistrat" linktext="true" />
+<marginal letter="363" page="459" line="9">
+<bzg>dirigirende Bürgermeisterl. Amt</bzg> also nicht unter die Entscheidungsmacht von <link ref="hindersin" linktext="true" />
 </marginal>
 
 <marginal letter="363" page="459" line="15">
@@ -43907,7 +43899,7 @@ Brief Nr. 363
 Brief Nr. 364
 
 <marginal letter="364" page="461" line="21">
-<bzg>Monsieur</bzg> Adressat des Brief-Entwurfs nicht ermittelt; da es auch um juristische Ratschläge im Zusammenhang der Schwangerschaft von <link ref="schumacher-ar" linktext="true" />, ihre ‚Gewissensehe‘ und wohl den rechtlichen Status des Nachwuchses geht, handelt es sich wohl um einen Rechtsgelehrten; ob HKB 364 einen indirekten Zusammenhang mit den umliegenden Briefen um die Kuratel von <link ref="hamann-jc" linktext="true" /> hat, ist unsicher; dort wurde Hamann jedenfalls teilweise von <link ref="hippel" linktext="true" /> vertreten (<intlink letter="362" page="454" line="19" linktext="true" />). – Ist irgendwo eine Übersetzung des Briefes publiziert, auf die man verweisen könnte?!?
+<bzg>Monsieur</bzg> Adressat des Brief-Entwurfs nicht ermittelt; da es auch um juristische Ratschläge im Zusammenhang mit der Schwangerschaft von <link ref="schumacher-ar" linktext="true" />, ihre ‚Gewissensehe‘ und wohl den rechtlichen Status des Nachwuchses geht, handelt es sich wohl um einen Rechtsgelehrten; ob HKB 364 einen indirekten Zusammenhang mit den umliegenden Briefen um die Kuratel von <link ref="hamann-jc" linktext="true" /> hat, ist unsicher; dort wurde Hamann jedenfalls teilweise von <link ref="hippel" linktext="true" /> vertreten (<intlink letter="362" page="454" line="19" linktext="true" />)
 </marginal>
 
 <marginal letter="364" page="461" line="25">
@@ -43915,7 +43907,7 @@ Brief Nr. 364
 </marginal>
 
 <marginal letter="364" page="461" line="29">
-<bzg>comme le bon Patriarque</bzg> <link ref="at-mo1" subref="at-mo1-29" linktext="false">1 Mo 29</link>
+<bzg>comme le bon Patriarque…</bzg> <link ref="at-mo1" subref="at-mo1-29" linktext="false">1 Mo 29,18–28</link>
 </marginal>
 
 <marginal letter="364" page="462" line="2">
@@ -43947,7 +43939,7 @@ Brief Nr. 364
 </marginal>
 
 <marginal letter="364" page="462" line="35">
-<bzg>certes c’est</bzg> <link ref="at-ps" subref="at-ps127" linktext="false">Ps 127,2–3</link>
+<bzg>certes c’est…</bzg> <link ref="at-ps" subref="at-ps127" linktext="false">Ps 127,2–3</link>
 </marginal>
 
 <marginal letter="364" page="463" line="1">
@@ -43958,7 +43950,7 @@ Brief Nr. 364
 <bzg>la mere et la soeur</bzg> nicht ermittelt
 </marginal>
 
-<marginal letter="364" page="463" line="5">
+<marginal letter="364" page="463" line="6">
 <bzg>cet ange de Dieu</bzg> <link ref="at-mo1" subref="at-mo1-32" linktext="false">1 Mo 32,25–29</link>
 </marginal>
 
@@ -43977,7 +43969,7 @@ Der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft
 </marginal>
 
 <marginal letter="365" page="463" line="19">
-<bzg>Zustand unsers Vermögens</bzg> vgl. <intlink letter="361" page="451" line="12" linktext="true" /> und <intlink letter="363" page="459" line="32" linktext="true" />
+<bzg>Zustand unsers Vermögens</bzg> vgl. <intlink letter="363" page="459" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="365" page="463" line="25">
@@ -43990,6 +43982,10 @@ Der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft
 
 <marginal letter="365" page="464" line="32">
 <bzg>Hoyer</bzg> <link ref="hoyer-dh" linktext="true" />
+</marginal>
+
+<marginal letter="365" page="465" line="2">
+<bzg>Abgebrannte</bzg> ein Teil der Zinsen wurde anscheinend zugunsten der Opfer des großen Brandes von 1764 versteuert
 </marginal>
 
 <marginal letter="365" page="465" line="3">
@@ -44037,7 +44033,7 @@ Der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft
 </marginal>
 
 <marginal letter="365" page="466" line="8">
-<bzg>römischen Landpfleger</bzg> <link ref="nt-jo" subref="nt-jo18" linktext="false">Joh 18,38</link>
+<bzg>römischen Landpfleger</bzg> Pontius Pilatus, <link ref="nt-jo" subref="nt-jo18" linktext="false">Joh 18,38</link>
 </marginal>
 
 <marginal letter="365" page="466" line="9">
@@ -44052,7 +44048,7 @@ Der Briefentwurf entstand im Zusammenhang des Rechtsstreits um die Vormundschaft
 <bzg>Kirchenrath Buchholtz</bzg> <link ref="bucholtz-k-jc" linktext="true" />
 </marginal>
 
-<marginal letter="365" page="466" line="28">
+<marginal letter="365" page="466" line="27">
 <bzg>offenbaren Wucherer…</bzg> <link ref="nt-kor1" subref="nt-kor1-6" linktext="false">1 Kor 6,8f.</link>
 </marginal>
 
@@ -44081,19 +44077,23 @@ Brief Nr. 366
 </marginal>
 
 <marginal letter="366" page="467" line="13">
-<bzg>Wohnung</bzg> auf dem mittelsten Tragheim, 
+<bzg>Wohnung</bzg> auf dem mittelsten Tragheim
 </marginal>
 
 <marginal letter="366" page="467" line="17">
-<bzg>Paroxysmo</bzg> Anfall, vgl. vgl. <intlink letter="351" page="419" line="18" linktext="true" />
+<bzg>Paroxysmo</bzg> Anfall, vgl. <intlink letter="351" page="419" line="18" linktext="true" />
 </marginal>
 
-<marginal letter="366" page="467" line="18">
+<marginal letter="366" page="467" line="18" sort="1">
+<bzg>a. p.</bzg> anno praeterito, letztes Jahr
+</marginal>
+
+<marginal letter="366" page="467" line="18" sort="2">
 <bzg>ausdrückliche Wärterin</bzg> vmtl. die Mutter von <link ref="schumacher-ar" linktext="true" />
 </marginal>
 
 <marginal letter="366" page="467" line="23">
-<bzg>Magistratus</bzg> <link ref="magistrat" linktext="true" />, die Gegenpartei von <link ref="hindersin" linktext="true" />
+<bzg>Magistratus</bzg> <link ref="magistrat" linktext="true" />, also die Gegenpartei um <link ref="hindersin" linktext="true" />
 </marginal>
 
 <marginal letter="366" page="467" line="25">
@@ -44157,11 +44157,7 @@ Brief Nr. 367
 <marginal letter="367" page="470" line="27">
 <bzg>Jahr der Münzreduction</bzg> Die zur Finanzierung des Siebenjährigen Krieges unterwertig geprägten Münzen wurden 1764 wieder eingezogen.
 </marginal>
-
-<marginal letter="367" page="470" line="32">
-<bzg>Meublen</bzg> Möbel
-</marginal>
-
+y
 <marginal letter="367" page="471" line="7">
 <bzg>Bruder</bzg> <link ref="hamann-jc" linktext="true" />
 </marginal>
@@ -44179,7 +44175,7 @@ Brief Nr. 367
 </marginal>
 
 <marginal letter="367" page="475" line="29">
-<bzg>debitori moroso und ingrato</bzg> dt. saumseliger und undankbaren Schuldner
+<bzg>debitori moroso und ingrato</bzg> dt. saumseligen und undankbaren Schuldner
 </marginal>
 
 <marginal letter="367" page="476" line="4">
@@ -44225,11 +44221,11 @@ Brief Nr. 367
 Brief Nr. 368
 
 <marginal letter="368" page="478" line="32">
-<bzg>Berliner</bzg> vmtl. ist die allgemeine Abneigung Hamanns gegen Berliner Rezensenten gemeint
+<bzg>Berliner</bzg> wohl die allgemeine Abneigung Hamanns gegen Berliner Rezensenten
 </marginal>
 
 <marginal letter="368" page="478" line="33">
-<bzg>Saumseligkeit…</bzg> gemeint ist vmtl. ein von Nicolai in der Vergangenheit nicht beantworteter Brief; durch den nicht überlieferten Brief Nicolais, der dieser Antwort Hamanns offenbar vorausgegangen ist, sei das aber ausgeglichen
+<bzg>Saumseligkeit…</bzg> wohl ein von Nicolai in der Vergangenheit nicht beantworteter Brief Hamanns; durch den nicht überlieferten Brief Nicolais, der dieser Antwort Hamanns offenbar vorausgegangen ist, sei das aber ausgeglichen
 </marginal>
 
 <marginal letter="368" page="479" line="9">
@@ -44265,7 +44261,7 @@ Brief Nr. 368
 </marginal>
 
 <marginal letter="368" page="479" line="36" sort="2">
-<bzg>Landsleute</bzg>  <link ref="herder" linktext="true" /> 
+<bzg>Landsleute</bzg> vmtl. <link ref="herder" linktext="true" /> 
 </marginal>
 
 <marginal letter="368" page="480" line="1">
@@ -44277,11 +44273,7 @@ Brief Nr. 368
 </marginal>
 
 <marginal letter="368" page="480" line="2" sort="2">
-<bzg>Genius Saeculi</bzg> <link ref="klotz" subref="klotz-mores" linktext="true" /> 
-</marginal>
-
-<marginal letter="368" page="480" line="3">
-<bzg>Mores eruditorum</bzg> <link ref="klotz" subref="klotz-mores" linktext="true" /> 
+<bzg>Genius Saeculi…</bzg> <link ref="klotz" subref="klotz-mores" linktext="true" /> 
 </marginal>
 
 <marginal letter="368" page="480" line="4" sort="1">
@@ -44300,11 +44292,11 @@ Brief Nr. 368
 <bzg>Caius Herennius Rapidius</bzg> <link ref="rappolt-ch" linktext="true" />  
 </marginal>
 
-<marginal letter="368" page="480" line="8" sort="1">
+<marginal letter="368" page="480" line="8">
 <bzg>Cicero</bzg> <link ref="cicero" linktext="true" /> 
 </marginal>
 
-<marginal letter="368" page="480" line="8" sort="2">
+<marginal letter="368" page="480" line="9">
 <bzg>Plinus</bzg> <link ref="plinius-c" linktext="true" /> 
 </marginal>
 
@@ -44352,11 +44344,11 @@ Brief Nr. 368a
 </marginal>
 
 <marginal letter="368a" page="480" line="36" sort="1">
-wohl die von Herder geliehenen Bücher, die Hartknoch bei Hamann ablieferte, vgl. <intlink letter="360" page="449" line="25" linktext="true" />
+<bzg>besorgten Bücher</bzg> wohl die von Herder geliehenen Bücher, die Hartknoch bei Hamann ablieferte, vgl. <intlink letter="360" page="449" line="25" linktext="true" />
 </marginal>
 
 <marginal letter="368a" page="480" line="36" sort="2">
-<bzg>Georg Berens</bzg> <link ref="berens-g" linktext="true" />
+<bzg>Georg Berens</bzg> <link ref="berens-g" linktext="true" />, vmtl. im Kontext von  <intlink letter="360" page="450" line="1" linktext="true" />
 </marginal>
 
 
@@ -44364,7 +44356,7 @@ wohl die von Herder geliehenen Bücher, die Hartknoch bei Hamann ablieferte, vgl
 Brief Nr. 369
 
 <marginal letter="369" page="481" line="1">
-zum Hintergrund des Briefes vgl. die Vorbemerkung des ersten Herausgebers Emil Gottfried Herder in Johann Gottfried von Herder’s Lebensbild, Bd. 5, S.&#x202F;58f.: „Dieser Brief fand sich zerrissen unter Herder’s Papieren aus damaliger Zeit, und scheint von ihm verschoben, dann später wieder aufgefunden, als nicht mehr zeitgemäß zerrissen worden zu seyn. Ich glaube denselben hier um so mehr mittheilen zu müssen, als die Briefe, welche Herder in der letztern Zeit an Hamann geschrieben hat, leider fehlen und man aus den Hamann’schen Briefen der letztern Zeit vielleicht schließen könnte, als sey zwischen beiden Freunden eine Erkältung eingetreten, was aber der vorliegende Brief auf das bündigste widerlegt, so wie er auch noch außerdem für die Charakteristik Herder’s nicht unwichtige Data enthält.“
+zum Hintergrund des Briefes vgl. die Vorbemerkung des ersten Herausgebers Emil Gottfried Herder in <titel>Johann Gottfried von Herder’s Lebensbild,</titel> Bd. 5, S.&#x202F;58f.: „Dieser Brief fand sich zerrissen unter Herder’s Papieren aus damaliger Zeit, und scheint von ihm verschoben, dann später wieder aufgefunden, als nicht mehr zeitgemäß zerrissen worden zu seyn. Ich glaube denselben hier um so mehr mittheilen zu müssen, als die Briefe, welche Herder in der letztern Zeit an Hamann geschrieben hat, leider fehlen und man aus den Hamann’schen Briefen der letztern Zeit vielleicht schließen könnte, als sey zwischen beiden Freunden eine Erkältung eingetreten, was aber der vorliegende Brief auf das bündigste widerlegt, so wie er auch noch außerdem für die Charakteristik Herder’s nicht unwichtige Data enthält.“
 </marginal>
 
 <marginal letter="369" page="481" line="3">
@@ -44380,11 +44372,15 @@ zum Hintergrund des Briefes vgl. die Vorbemerkung des ersten Herausgebers Emil G
 </marginal>
 
 <marginal letter="369" page="481" line="33">
-<bzg>in weniger, aber vertrauter Gesellschaft</bzg> ein Mr und eine Mme Babut und seine Frau, vgl. HBGA, Bd.&#x202F;11, S.&#x202F;154
+<bzg>in weniger, aber vertrauter Gesellschaft</bzg> ein Mr und eine Mme Babut, vgl. HBGA, Bd.&#x202F;11, S.&#x202F;154
 </marginal>
 
 <marginal letter="369" page="481" line="36">
 <bzg>Jüngling</bzg> ein junger schwedischer Kaufmann namens Koch, vgl. HBGA, Bd.&#x202F;11, S.&#x202F;157
+</marginal>
+
+<marginal letter="369" page="482" line="3">
+<bzg>verrathen</bzg> als Autor geoutet
 </marginal>
 
 <marginal letter="369" page="482" line="4" sort="1">
@@ -44408,11 +44404,11 @@ zum Hintergrund des Briefes vgl. die Vorbemerkung des ersten Herausgebers Emil G
 </marginal>
 
 <marginal letter="369" page="482" line="12">
-<bzg>d’Arnauld</bzg> <link ref="arnaud" linktext="true" />, Herausgeber des <titel>Journal étranger</titel>
+<bzg>d’Arnauld</bzg> <link ref="arnaud-f" linktext="true" />
 </marginal>
 
 <marginal letter="369" page="482" line="13">
-<bzg>der König die Ostind. Komp.</bzg> Französische Ostindische Kompanie, 1642 von Richelieu begründet; Monopol des Handels mit Indien; wegen hoher Verluste 1769 aufgelöst.
+<bzg>der König die Ostind. Komp.</bzg> Französische Ostindische Kompanie, 1642 von Richelieu begründet, ausgestattet mit einem Monopol für den Handel mit Indien; wegen hoher Verluste 1769 aufgelöst
 </marginal>
 
 <marginal letter="369" page="482" line="14">
@@ -44420,7 +44416,7 @@ zum Hintergrund des Briefes vgl. die Vorbemerkung des ersten Herausgebers Emil G
 </marginal>
 
 <marginal letter="369" page="482" line="16">
-<bzg>Necker u. den Grafen Lauraguais</bzg> <link ref="necker" linktext="true" />: <titel>Réponse au mémoire de M. l'abbé Morellet, sur la Compagnie des Indes</titel> (Paris 1769) und: Louis-Léon-Félicité Comte de Lauraguais (1733–1824, frz. Literat): <titel>Mémoire sur la Compagnie des Indes,</titel> dans lequel on établit les droits et les intérets des actionnaires. En réponse aux compilations de M. l'abbé Morellet. 3 Bde, 1770.
+<bzg>Necker u. den Grafen Lauraguais</bzg> <link ref="necker" linktext="true" />: <titel>Réponse au mémoire de M. l'abbé Morellet, sur la Compagnie des Indes</titel> (Paris 1769) und Louis-Léon-Félicité Comte de Lauraguais (1733–1824, frz. Literat): <titel>Mémoire sur la Compagnie des Indes,</titel> dans lequel on établit les droits et les intérets des actionnaires. En réponse aux compilations de M. l'abbé Morellet (3 Bde, 1770)
 </marginal>
 
 <marginal letter="369" page="482" line="17">
