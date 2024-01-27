@@ -1426,6 +1426,17 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="bonnet" type="neuzeit">
+<lemma>Charles Bonnet</lemma>
+<eintrag>1720–1793. Genfer Naturwissenschaftler und Philosoph, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd121046168.html">Deutsche Biographie</wwwlink>.
+</eintrag>
+<subsection id="bonnet-palingenesie" type="neuzeit">
+<lemma>Bonnet, <titel>Palingénésie philosophique</lemma>
+<eintrag>
+<titel>La Palingénésie philosophique ou Idées sur l’état passé et sur l’état futur des êtres vivants.</titel> […] Par C. Bonnet (2 Bde., Genf 1769). Digitalisat einer Ausgabe Genf 1770: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k75331q">Bibliothèque nationale de France, département Littérature et art: R-11827</wwwlink>. Teilweise übers. von <link ref="lavater" subref="lavater-bonnet" linktext="true" /></eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="botticher" type="neuzeit">
 <lemma>Samuel Bötticher</lemma>
 <eintrag>1699–1772. Kaufmann und Kommerzienrat in Königsberg.</eintrag>
@@ -7035,7 +7046,7 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 
 <kommentar id="kortum" type="neuzeit">
 <lemma>Ernst Traugott Kortum</lemma>
-<eintrag>1742–1811. Beamter und Schriftsteller. 1761–1766 Studium in Königsberg, u.a. bei Kant; darauf Referendar im Königsberger Oberberggrafenamt. 1771 Hofrat in Schleswig-Holstein, 1772 Geheimer Staatssektretär in Mitau, 1775 Geheimer Staatssekretär in Warschau. Hamann kennt ihn aus Mitau 1766, wo sie „genaue Freunde“ (<intlink letter="370" page="1" line="4" linktext="true" />) wurden. Siehe Christoph Mecking: Kurzbiographie Ernst Traugott von Kortum (1742–1811). In: Dietmar Willoweit (Hg.): Staatsschutz (Aufklärung, Bd. 7, 2). Hamburg 1994, S. 101f.</eintrag>
+<eintrag>1742–1811. Beamter und Schriftsteller. 1761–1766 Studium in Königsberg, u.a. bei Kant; darauf Referendar im <link ref="oberburggraf-amt" linktext="false">Königsberger Oberburggrafenamt</link>. 1771 Hofrat in Schleswig-Holstein, 1772 Geheimer Staatssektretär in Mitau, 1775 Geheimer Staatssekretär in Warschau. Hamann kennt ihn aus Mitau 1766, wo sie „genaue Freunde“ (<intlink letter="370" page="1" line="4" linktext="true" />) wurden. Siehe Christoph Mecking: Kurzbiographie Ernst Traugott von Kortum (1742–1811). In: Dietmar Willoweit (Hg.): Staatsschutz (Aufklärung, Bd. 7, 2). Hamburg 1994, S. 101f.</eintrag>
 </kommentar>
 
 <kommentar id="keber" type="neuzeit">
@@ -7765,7 +7776,7 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
 <subsection id="lauson-paan" type="neuzeit" sort="60">
 <lemma>Lauson, <titel>Päan</titel></lemma>
 <eintrag>
-<titel>Päan. Friedrichs Palmen geheiliget</titel> (Königsberg 1763) [Biga&#x202F;132/33: „Jo. Fr. Lauson’s Paean, Fridrichs Palmen geheiligt, Königsb. 763“]. Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000B81A00000000">Stabi Berlin: Yl 3156</wwwlink></eintrag>
+<titel>Päan. Friedrichs Palmen geheiliget</titel> (Königsberg 1763) [Biga&#x202F;132/33: „Jo. Fr. Lauson’s Paean, Fridrichs Palmen geheiligt, Königsb. 763“]. Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000B81A00000000">Stabi Berlin: Yl 3156</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -7777,6 +7788,11 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
 <kommentar id="lavater" type="neuzeit">
 <lemma>Johann Caspar Lavater</lemma>
 <eintrag>1741–1801. Schweiz. reformierter Theologe, 1778 Diakon, 1786 Pfarrer an St. Peter in Zürich, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48577.html#ndbcontent">Proß, Wolfgang: Lavater, Johann Caspar, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;746–750</wwwlink>.</eintrag>
+<subsection id="lavater-bonnet" type="neuzeit" sort="10">
+<lemma>Lavater (Übers.), <titel>Beweise für das Christenthum</titel></lemma>
+<eintrag>
+<titel>Herrn Carl Bonnets […] <titel>philosophische Untersuchung der Beweise für das Christenthum.</titel> Samt desselben Ideen von der künftigen Glückseligkeit des Menschen. Aus dem Französischen übersetzt und mit Anmerkungen herausgegeben von Johann Caspar Lavater (Zürich: Füeßlin 1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10039952-7">BSB München: Ph.pr. 152</wwwlink>. Teilweise Übersetzung von <link ref="bonnet" subref="bonnet-palingenesie" linktext="true" />.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="lavater-l" type="neuzeit">
@@ -9124,12 +9140,17 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </eintrag>
 </subsection>
 <subsection id="mendelssohn-phaedon" type="neuzeit" sort="50">
-<lemma>Mendelssohn, <titel> Phaedon oder Ueber die Unsterblichkeit der Seele</titel></lemma>
+<lemma>Mendelssohn, <titel>Phaedon oder Ueber die Unsterblichkeit der Seele</titel></lemma>
 <eintrag>
 <titel>Phaedon oder Ueber die Unsterblichkeit der Seele, in drey Gesprächen</titel> (Berlin, Stettin: Nicolai 1767) [Biga&#x202F;157/471: „Moses Mendelssohn's Phädon, Berlin 769“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/details:bsb11273501">Augsburg, Staats- und Stadtbibliothek: Phil 2517</wwwlink>.
 </eintrag>
 </subsection>
-
+<subsection id="mendelssohn-schreibenlavater" type="neuzeit" sort="60">
+<lemma>Mendelssohn, <titel>Schreiben an Lavater</titel></lemma>
+<eintrag>
+<titel>Schreiben an den Herrn Diaconus Lavater</titel> zu Zürich von Moses Mendelssohn (Berlin, Stettin: Nicolai 1770) [Biga&#x202F;119/301: „Ei. Schreiben an Lavater, ib. 770.“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-740481">Goe 677 (4)</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="mengden-jh" type="neuzeit">
