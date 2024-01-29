@@ -4263,6 +4263,12 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 </eintrag>
 </kommentar>
 
+<kommentar id="furst" type="neuzeit">
+<lemma>Maximilian von Fürst und Kupferberg</lemma>
+<eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1770–1779 Großkanzler von Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>.
+</eintrag>
+</kommentar>
+
 G
 
 <kommentar id="gagnier" type="neuzeit">
@@ -4854,7 +4860,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 
 <kommentar id="green" type="neuzeit">
 <lemma>Joseph Green</lemma>
-<eintrag>1727–1786. Engl. Händler in Königsberg und enger Freund von <link ref="kant" linktext="true" /></eintrag>
+<eintrag>1727–1786. Engl. Händler in Königsberg und enger Freund von <link ref="kant" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="gregorovius" type="neuzeit">
@@ -9725,6 +9731,16 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Mosheims Erklärung des ersten und zweyten Briefes des heiligen Apostels Pauli an die Gemeinde zu Corinthus, von neuem übers. u. verb. v. C. E. v. Windheim</titel> (Flensburg 1762).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="motherby-g" type="neuzeit">
+<lemma>George Motherby</lemma>
+<eintrag>1732–1793. Engl. Arzt, führte 1770 Pockenimpfungen in Königsberg durch, so auch an <link ref="hamann-jm" linktext="true" />; Bruder von <link ref="motherby-r" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="motherby-g" type="neuzeit">
+<lemma>Robert Motherby</lemma>
+<eintrag>1736–1801. Engl. Kaufmann in Königsberg, Freund von <link ref="green" linktext="true" /> und <link ref="kant" linktext="true" />, Bruder von <link ref="motherby-r" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="mourges" type="neuzeit">
