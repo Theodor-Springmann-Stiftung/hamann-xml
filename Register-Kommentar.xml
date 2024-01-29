@@ -1296,6 +1296,12 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 </subsection>
 </kommentar>
 
+<kommentar id="bock-fs" type="neuzeit">
+<lemma>Friedrich Samuel Bock</lemma>
+<eintrag>1716–1785. Prof. der evang. Theologie und griechischen Sprache in Königsberg, Consistorialrat, seit 1753 Universitätsbibliothekar und Aufseher der Schloßbibliothek, Onkel von <link ref="bock-jg" linktext="true" />.
+</eintrag>
+</kommentar>
+
 <kommentar id="bode-ca" type="neuzeit">
 <lemma>Christoph August Bode</lemma>
 <eintrag>1722–1796. Prof. der morgenländischen Sprachen in Helmstedt, <wwwlink address="https://www.deutsche-biographie.de/sfz4877.html#adbcontent">Siegfried: Bode, Christoph August, in: <titel>ADB</titel>&#x202F;2 (1875), S.&#x202F;794</wwwlink>.</eintrag>
@@ -5981,6 +5987,11 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </subsection>
 </kommentar>
 
+<kommentar id="herz" type="neuzeit">
+<lemma>Marcus Herz</lemma>
+<eintrag>1747–1803. Arzt und Aufklärer, Schüler von <link ref="kant" linktext="true" /> und Freund von <link ref="mendelssohn" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118933876.html#ndbcontent">Stürzbecher, Manfred: Herz, Markus, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;729.</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="hesiod" type="neuzeit">
 <lemma>Hesiod</lemma>
 <eintrag>vor 700&#x202F;v.&#x202F;Chr.</eintrag>
@@ -6904,6 +6915,12 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 <eintrag>
 <titel>Träume eines Geistersehers erläutert durch Träume der Metaphysik</titel> (Königsberg 1766). [Biga&#x202F;117/284: „Traeume eines Geistersehers erlaeutert durch Traeume der Metaphysick, Kgsb. 766“]<line type="break" />
 <titel>AA</titel>&#xA0;II: Vorkritische Schriften II, S.&#x202F;315–374.</eintrag>
+</subsection>
+<subsection id="kant-mundisensibilis" type="neuzeit" sort="90">
+<lemma>Kant, <titel>De mundi sensibilis atque intelligibilis forma et principiis</titel></lemma>
+<eintrag>
+<titel>De mundi sensibilis atque intelligibilis forma et principiis </titel> (Königsberg: Kanter 1770).<line type="break" />
+<titel>AA</titel>&#xA0;II: Vorkritische Schriften II, S.&#x202F;385–419.</eintrag>
 </subsection>
 <subsection id="kant-grundlegung" type="neuzeit" sort="300">
 <lemma>Kant, <titel>Grundlegung zur Metaphysik der Sitten</titel></lemma>
@@ -8558,16 +8575,27 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 <kommentar id="macpherson" type="neuzeit">
 <lemma>James Macpherson</lemma>
 <eintrag>1736–1796. Schott. Dichter und Verfasser des Ossian, den er für eine gälische Originaldichtung ausgab; einer der maßgeblichen Auslöser der deutschen Barden-Dichtungen ab den späten 1760er Jahren, siehe <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-17728">Derick S. Thomson: Macpherson, James, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
-<subsection id="macpherson-fingal" type="neuzeit">
+<subsection id="macpherson-fingal" type="neuzeit" sort="10">
 <lemma>Macpherson, <titel>Fingal</titel></lemma>
 <eintrag>
 <titel>Fingal:</titel> an ancient epic poem, in six books: together with several other poems, composed by Ossian the son of Fingal. Translated from the Galic language (London: T. Becket and P. A. de Hondt 1762).
 </eintrag>
 </subsection>
-<subsection id="macpherson-ossianworks" type="neuzeit">
+<subsection id="macpherson-ossianworks" type="neuzeit" sort="2">
 <lemma>Macpherson, <titel>The Works of Ossian</titel></lemma>
 <eintrag>
 <titel>The Works of Ossian, the Son of Fingal.</titel> Translated from the Galic language by James Macpherson (2 Bde., London: T. Becket and P. A. de Hondt 1765) [Biga&#x202F;158/496: „The Worcks of Ossian, the Song of Fingal, translated from the galic Language by James Macpherson, T. I. II. London 765“]. Digitalisat: <wwwlink address="https://archive.org/details/bim_eighteenth-century_the-works-of-ossian-the_macpherson-james_1765_1">Internet Archive</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="macpherson-j" type="neuzeit">
+<lemma>John Macpherson</lemma>
+<eintrag>1710–1765. Schott. Geistlicher und Gelehrter.</eintrag>
+<subsection id="macpherson-dissertations" type="neuzeit">
+<lemma>Macpherson, <titel>Critical Dissertations</titel></lemma>
+<eintrag>
+<titel>Critical Dissertations on the Origin, Antiquities, Language, Government, Manners, Religion of the Ancient Caledonians, their Posterity, the Picts, and the British and Irish Scots.</titel> By John Macpherson, D.&#x202F;D. (London 1768) [Biga&#x202F;64/90: „John Macpherson’s Critical Observations on the Origin, Antiquities, Language, Governement, Manners and Religion of the Ancient Caledonians, their Posterity the Picts and the British and Irish Scots, Lond. 768“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10225278-3">BSB München: 4 Brit. 73</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -13858,6 +13886,31 @@ W
 <kommentar id="warburton" type="neuzeit">
 <lemma>William Warburton</lemma>
 <eintrag>1698–1779. Engl. Theologe, 1757 Dechant in Bristol, 1759 Bischof von Gloucester. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-28680">B. W. Young: Warburton, William, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="warner" type="neuzeit">
+<lemma>Ferdinando Warner</lemma>
+<eintrag>1703–1768. Engl. Geistlicher und Historiker, siehe <wwwlink address="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Warner,_Ferdinando">Robert Dunlop: Warner, Ferdinando, in: <titel>Dictionary of National Biography, 1885–1900,</titel> vol. 59</wwwlink>.</eintrag>
+<subsection id="warner-ecclesiastical" type="neuzeit" sort="10">
+<lemma>Warner, <titel>Ecclesiastical History of England</titel></lemma>
+<eintrag>
+<titel>The Ecclesiastical History of England to the Eighteenth Century.</titel> By Ferd<super>o</super>. Warner, L.&#x202F;L.&#x202F;D (2 Bde., London 1756–1757). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10939627-0">BSB München: 2 H.eccl. 358 h-1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="warner-memoirs" type="neuzeit" sort="20">
+<lemma>Warner, <titel>Memoirs of the Life of Sir Thomas More</titel></lemma>
+<eintrag>
+<titel>Memoirs of the Life of Sir Thomas More</titel> Lord High Chancellor of England, In the Reign of Henry VIII. To whicht is added, His History of Utopia, Translated into English; Describing the most perfect State of a Common-Wealth, In the Manners, Religion, and Polity, of that Island: With Notes Historical and Explanatory. By Ferd<super>o</super> Warner, L.&#x202F;L.&#x202F;D. (London 1758) [Biga&#x202F;91/258: „Memoirs of the Life of Thom. Morus, and his History of Utopia by Ferdo. Warner, ib. 758“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=KC8JAAAAQAAJ">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="warner-ireland" type="neuzeit" sort="30">
+<lemma>Warner, <titel>The History of Ireland</titel> </lemma>
+<eintrag>
+<titel>The History of Ireland.</titel> By Ferd<super>o</super>. Warner, L.&#x202F;L.&#x202F;D (London 1763). Digitalisat: <wwwlink address="https://archive.org/details/historyofireland00warn">Internet Archive</wwwlink>.</eintrag>
+</subsection>
+<subsection id="warner-rebellion" type="neuzeit" sort="40">
+<lemma>Warner, <titel>The history of the Rebellion in Ireland</titel> </lemma>
+<eintrag>
+<titel>The history of the Rebellion and Civil-War in Ireland.</titel> By Ferd<super>o</super>. Warner, L.&#x202F;L.&#x202F;D (London 1765) [Biga&#x202F;: „Ferdo. Warner’s History of the Rebellion and civil war in Ireland, Lond. 765“]. Digitalisat der zweiten Auflage London 1768: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10225759-8">BSB München: 4 Brit. 143</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="warton" type="neuzeit">
