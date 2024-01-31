@@ -40,6 +40,18 @@ A
 <titel>De difficillimo progressu in dimetiendis animae virtutibus</titel> [Über den schwierigen Fortschritt beim Abmessen der Seelenkräfte] (Rinteln 1765).
 </eintrag>
 </subsection>
+<subsection id="abbt-correspondenz" type="neuzeit" sort="50">
+<lemma>Abbt, <titel>Freundschaftliche Correspondenz</titel></lemma>
+<eintrag>
+Thomas Abbts […] <titel>freundschaftliche Correspondenz</titel> (hg. von <link ref="nicolai-f" linktext="true" />; Berlin, Stettin: Nicolai 1771) [Biga&#x202F;164/564: „Th. Abbt’s freundschaftliche Correspondenz, ib. 771. Donum EDITORIS.“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=uIqI43XGNzcC">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="abbt-werke" type="neuzeit" sort="60">
+<lemma>Abbt, <titel>Vermischte Werke</titel></lemma>
+<eintrag>
+Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai-f" linktext="true" />; 6 Bde., Berlin, Stettin: Nicolai 1768–1781) [Biga&#x202F;157/471: „Thomas Abbts vermischte Schriften, 1. 2. 3ter Th. Berlin 771.“]. Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10603746-2">BSB München: Opp. 449-1</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="achenwall" type="neuzeit">
@@ -980,7 +992,7 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 
 <kommentar id="bergmann" type="neuzeit">
 <lemma>Christian Gottlieb Bergmann</lemma>
-<eintrag>1734–1822. Jurist, Beamter in Zittau, Übersetzer von <link ref="bolinbroke" subref="bolinbroke-history" linktext="true" />.
+<eintrag>1734–1822. Jurist, Beamter in Zittau, Übersetzer von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -1453,7 +1465,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <eintrag>1636–1711. Frz. Schriftsteller. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;2, 1812), S.&#x202F;6–14.</eintrag>
 </kommentar>
 
-<kommentar id="bolinbroke" type="neuzeit">
+<kommentar id="bolingbroke" type="neuzeit">
 <lemma>Henry Saint-John, Lord Bolingbroke</lemma>
 <eintrag>1672–1751. Lord, Viscount of Bolingbroke. Engl. Politiker und Schriftsteller. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;5, 1812), S.&#x202F;50–59.</eintrag>
 <subsection id="bolingbroke-parties" type="neuzeit" sort="10">
@@ -1472,11 +1484,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <lemma>Bolingbroke, <titel>Letters on the spirit of patriotism</titel></lemma>
 <eintrag><titel>Letters on the spirit of patriotism on the idea of a patriot king: and on the state of parties at the accession of King George the First</titel> (London 1749) [Biga&#x202F;107/177: „Letters on the Spirit of Patriotism, on the Idea of a Patriot King, and on the State of Parties at the Accession of King George I. ib. [London] 752“].</eintrag>
 </subsection>
-<subsection id="bolinbroke-history" type="neuzeit" sort="50">
+<subsection id="bolingbroke-history" type="neuzeit" sort="50">
 <lemma>Bolingbroke, <titel>Letters on the study and use of history</titel></lemma>
 <eintrag>
 <titel>Letters on the study and use of history</titel> (2&#xA0;Bde., London 1752). [Biga&#x202F;107/180: „Letters on the Study and Use of History, ib. [London] 752“]<line type="break" />
-Übers.: <titel>Des Hochgebohrnen Herrn Heinrich St. John Lord, Vicomte Bolingbroke Briefe über die Erlernung und Gebrauch der Geschichte</titel>, übers. von <link ref="bergmann" linktext="true" /> (2&#xA0;Tle., Leipzig: Lankisch 1758); die Übersetzung wurde in <link ref="briefe-literatur" linktext="true" /> scharf angegriffen (1.&#xA0;Tl, 1759, 4.&#xA0;Brief u.a.). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-51336">ZH Zürich: 25.156</wwwlink>
+Übers.: <titel>Des Hochgebohrnen Herrn Heinrich St. John Lord, Vicomte Bolingbroke Briefe über die Erlernung und Gebrauch der Geschichte</titel>, übers. von <link ref="bergmann" linktext="true" /> (2&#xA0;Tle., Leipzig: Lankisch 1758); die Übersetzung wurde in <link ref="briefe-literatur" linktext="true" /> scharf angegriffen (1.&#xA0;Tl, 1759, 4.&#xA0;Brief u.a.). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-51336">ZH Zürich: 25.156</wwwlink>. Später übersetzte Hamann die Schrift erneut, vgl. <link ref="hamann" subref="hamann-bolingbroke-hervey" linktext="true" />.
 </eintrag>
 </subsection>
 <subsection id="bolingbroke-nation" type="neuzeit" sort="60">
@@ -4721,6 +4733,11 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 </subsection>
 </kommentar>
 
+<kommentar id="gompertz" type="neuzeit">
+<lemma>Ludwig Gompertz</lemma>
+<eintrag>1747–1815 (auch Leon Gumpertz). Kaufmann in Königsberg.</eintrag>
+</kommentar>
+
 <kommentar id="gothan" type="neuzeit">
 <lemma>Paulus de Gothan</lemma>
 <eintrag>Studienfreund Hamanns, später Waisengerichts-Sekretär.</eintrag>
@@ -5464,6 +5481,12 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <titel>Selbstgespräch aus dem Englischen übersetzt.</titel> In: <link ref="kgpz" linktext="true" />, 45.&#x202F;St. vom 4.6.1770. Übersetzung aus <link ref="browne-m" subref="browne-creation" linktext="true" />.
 </eintrag>
 </subsection>
+<subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="510">
+<lemma>Hamann, <titel>Übersetzung von Bolingbroke und Hervey</titel></lemma>
+<eintrag>
+<titel>Heinrich St. Johann Vitzgraf Bolingbroke und Jakob Hervey etc. etc.</titel> Übersetzt von J.&#x202F;G. Hamann (Mitau: Hinz 1774). <wwwlink address="">BSB München: Var. 686 a</wwwlink>. – Übersetzung von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" /> und <link ref="hervey" subref="hervey-remarks" linktext="true" />.
+</eintrag>
+</subsection>
 <subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort="700">
 <lemma>Hamann, <titel>Golgatha und Scheblimini</titel></lemma>
 <eintrag>
@@ -5475,7 +5498,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;291–320 un
 
 <kommentar id="hamann-er" type="neuzeit">
 <lemma>Elisabeth Regina Hamann</lemma>
-<eintrag>1772–1838. Tochter von <link ref="hamann" linktext="true" />, auch Lisette Reinette genannt; später verehelichte Rosenberg.
+<eintrag>12. April 1772 bis 5. Februar 1838. Tochter von <link ref="hamann" linktext="true" />, Lisette Reinette genannt; später verehelichte Rosenberg.
 Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink address="https://books.google.de/books?id=zO9fAAAAcAAJ">Gustav Poel: Johann Georg Hamann der Magus im Norden. Sein Leben und Mittheilungen aus seinen Schriften in zwei Theilen, I 413–432</wwwlink>; außerdem Arthur Warda: Zwei Briefe von J. G. Hamanns Tochter Elisabeth Regina und ein Brief seiner Tochter Magdalena Catharina. In: <wwwlink address="https://books.google.de/books?id=VsQOAAAAYAAJ">Altpreußische Monatsschrift 43 (1906), S.&#x202F;229–254</wwwlink>.</eintrag>
 </kommentar>
 
@@ -5887,6 +5910,12 @@ Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffen
 <titel>Journal meiner Reise im Jahr 1769.</titel> Nicht veröffentlicht. – Herder: <titel>Werke</titel>, Bd.&#x202F;9/2: Journal meiner Reise im Jahr 1769. Pädagogische Schriften, hg.&#x202F;v. Rainer Wisbert unter Mitarbeit von Klaus Pradel, S.&#x202F;9–126.
 </eintrag>
 </subsection>
+<subsection id="herder-ursprungsprache" type="neuzeit" sort="120">
+<lemma>Herder, <titel>Abhandlung über den Ursprung der Sprache</titel></lemma>
+<eintrag>
+<titel>Abhandlung über den Ursprung der Sprache,</titel> welche den von der Königl. Academie der Wissenschaften für das Jahr 1770 gesezten Preis erhalten hat. Von Herrn Herder. Auf Befehl der Academie Herausgegeben (Berlin 1772) [Biga&#x202F;70/193: „Herder’s Preisschrift über den Ursprung der Sprache, Berl. 772.“]. – Herder: <titel>Werke</titel>, Bd.&#x202F;1: Frühe Schriften 1764–1772, hg.&#x202F;v. Ulrich Gaier, S.&#x202F;695–810.
+</eintrag>
+</subsection>
 <subsection id="herder-altesteurkunde" type="neuzeit" sort="200">
 <lemma>Herder, <titel>Älteste Urkunde</titel></lemma>
 <eintrag>
@@ -5990,6 +6019,10 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <kommentar id="herz" type="neuzeit">
 <lemma>Marcus Herz</lemma>
 <eintrag>1747–1803. Arzt und Aufklärer, Schüler von <link ref="kant" linktext="true" /> und Freund von <link ref="mendelssohn" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118933876.html#ndbcontent">Stürzbecher, Manfred: Herz, Markus, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;729.</wwwlink>.</eintrag>
+<subsection id="herz-betrachtungen" type="neuzeit">
+<lemma>Herz, <titel>Betrachtungen</titel></lemma>
+<eintrag><titel>Betrachtungen aus der spekulativen Weltweisheit</titel> von Markus Herz, der Arzneygelahrheit Beflissenen (Königsberg: Kanter 1771) [Biga&#x202F;105/139: „(Marc. Herz) Betrachtungen aus der speculativen Weltweisheit, Königsb. 771“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043441-1">BSB München: Ph.sp. 359</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="hesiod" type="neuzeit">
@@ -9391,7 +9424,13 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 <subsection id="michaelis-jd-spicilegium" type="neuzeit" sort="70">
 <lemma>Michaelis, <titel>Spicilegium geographiae</titel></lemma>
-<eintrag>Spicilegium geographiae Hebraeorum exterae post Bochartum (2 Bde., Göttingen 1769–1780) [Biga&#x202F;63/85: „J. D. Michaelis Spicilegium Geographiae Hebraeorum exterae post Bochartum, Pars I. Goett. 769.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354281-6">BSB München: 4 Exeg. 584-1/2</wwwlink>.
+<eintrag><titel>Spicilegium geographiae Hebraeorum exterae post Bochartum</titel> (2 Bde., Göttingen 1769–1780) [Biga&#x202F;63/85: „J. D. Michaelis Spicilegium Geographiae Hebraeorum exterae post Bochartum, Pars I. Goett. 769.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354281-6">BSB München: 4 Exeg. 584-1/2</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="michaelis-mosaischesrecht" type="neuzeit" sort="80">
+<lemma>Michaelis, <titel>Mosaisches Recht</titel></lemma>
+<eintrag>Johann David Michaelis <titel>Mosaisches Recht</titel>. Erster Tl. (Frankfurt am Main 1770) [Biga&#x202F;: „“]. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hebis:30:1-115350">Goethe Universität Frankfurt am Main</wwwlink>.<line type="break" />
+Zweite vermehrte Ausgabe 1775 in 6 Bde. [Biga&#x202F;65/103 u. 69/187: „J. D. Michaelis mosaisches Recht, 1–6. Th. Frft. 770–75“]. Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10411999-7">BSB München: Exeg. 751-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
