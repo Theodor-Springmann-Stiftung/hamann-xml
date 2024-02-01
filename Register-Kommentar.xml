@@ -101,6 +101,13 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai-f
 </eintrag>
 </kommentar>
 
+<kommentar id="admiralitaetskollegium" type="neuzeit">
+<lemma>Königsberger Admiralitätskollegium</lemma>
+<eintrag>Verantwortlich für Zoll- und Schifffahrts-Gerichtsbarkeit, auch für die Ausfertigung von Schiffsdokumenten und Pässen; der <link ref="kriegs-und-domaenenkammer" linktext="true" /> untergeordnet und stets unter demselben Präsidenten, die Mitglieder werden aus Berlin ernannt; ansässig am Königsberger Licenthause, 1770 geleitet von <link ref="domhardt" linktext="true" />; siehe Ludwig Baczko: Versuch einer Geschichte und Beschreibung der Stadt Königsberg, 7 Bde. Königsberg 1787–1790, IV, S.&#x202F; 357–361.<line type="break" />
+Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in Berlin an die Stelle eines Licentrates im Admiralitätskollegium zu kommen.
+</eintrag>
+</kommentar>
+
 <kommentar id="aelian" type="neuzeit">
 <lemma>Claudius Aelianus</lemma>
 <eintrag>ca. 170 – nach 222. Röm. Schriftsteller in griech. Sprache
@@ -3516,7 +3523,7 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 E
 <kommentar id="eberhard-ja" type="neuzeit">
 <lemma>Johann August Eberhard</lemma>
-<eintrag>1739–1809. Deutscher Philosoph, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118687468.html#ndbcontent"> Gäbe, Lüder: Eberhard, Johann August, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;241f.</wwwlink></eintrag>
+<eintrag>1739–1809. Deutscher Philosoph und Theologe in Berlin; Freund von <link ref="nicolai-f" linktext="true" />. Siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118687468.html#ndbcontent"> Gäbe, Lüder: Eberhard, Johann August, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;241f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="ebert-ja" type="neuzeit">
@@ -6093,6 +6100,11 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </subsection>
 </kommentar>
 
+<kommentar id="heusinger" type="neuzeit">
+<lemma>Daniel Ehrenfried Heusinger</lemma>
+<eintrag>Lebensdaten nicht ermittelt. 1770 Licentrat im <link ref="admiralitaetskollegium" linktext="true" />; vmtl. 1771 gestorben, da Hamann sich 1771/1772 um die Nachfolge auf seine Stelle bemüht (vgl. <intlink letter="376" page="8" line="24" linktext="true" />).</eintrag>
+</kommentar>
+
 <kommentar id="hieronymus" type="neuzeit">
 <lemma>Hieronymus</lemma>
 <eintrag>347–420. Kirchenlehrer, Heiliger.</eintrag>
@@ -6991,8 +7003,7 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 <kommentar id="kanter-jj" type="neuzeit">
 <lemma>Johann Jakob Kanter</lemma>
 <eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften) und Unternehmer in Königsberg, Elbing (Filiale), Marienwerder (Druckerei) u. Trutenau, Lotteriedirektor, Papiermüller, Erbherr von Trutenau. Errichtete anstelle der Papiermühle eine Schriftgießerei u. eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; 1781 gab er die Buchhandlung an seinen Angestellten Wagner u. den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der Dreikronenloge. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
-Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Ort, den Hamann häufig besuchte, und wo er vielerlei Leute traf. Er wurde 1760 in Kanters väterlichem Haus in der Altstädtischen Langgasse 23 eröffnet und zog Ende August 1768 um in das nach dem großen Brand von 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2. Über dem Eingang hing ein großer Preußenadler und im Inneren standen Büsten einerseits von Pindar, Caesar, Tacitus, Plutarch und anderen, andererseits von Kant, Scheffner, Hippel, Lindner und anderen (vgl. <intlink letter="351" page="419" line="26" linktext="true" />); später ebenso ein Gemälde von Hamann (vgl. <intlink letter="398" page="68" line="20" linktext="true" />).
-Kant, </eintrag>
+Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Ort, den Hamann häufig besuchte, und wo er vielerlei Leute traf. Er wurde 1760 in Kanters väterlichem Haus in der Altstädtischen Langgasse 23 eröffnet und zog Ende August 1768 um in das nach dem großen Brand von 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2. Über dem Eingang hing ein großer Preußenadler und im Inneren standen Büsten einerseits von Pindar, Caesar, Tacitus, Plutarch und anderen, andererseits von Kant, Scheffner, Hippel, Lindner und anderen (vgl. <intlink letter="351" page="419" line="26" linktext="true" />); später ebenso ein Gemälde von Hamann (vgl. <intlink letter="398" page="68" line="20" linktext="true" />).</eintrag>
 </kommentar>
 
 <kommentar id="kanter-dch" type="neuzeit">
@@ -7560,7 +7571,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kriegs-und-domaenenkammer" type="neuzeit">
 <lemma>Kriegs- und Domänenkammer in Königsberg</lemma>
-<eintrag>Königlich-preußische Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung; abhängig von den Direktiven des <link ref="generaldirektorium" linktext="false">Generaldirektoriums</link>. Sie tagte auf dem Königsberger Schloss, Präsident war <link ref="domhardt" linktext="true" />. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Sie war im Kneiphöfischen Rathaus und im Königsberger Schloss ansässig. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink>.<line type="break" />
+<eintrag>Königlich-preußische Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung; abhängig von den Direktiven des <link ref="generaldirektorium" linktext="false">Generaldirektoriums</link>. Sie tagte auf dem Königsberger Schloss, Präsident war ab 1763 <link ref="domhardt" linktext="true" />. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Sie war im Kneiphöfischen Rathaus und im Königsberger Schloss ansässig. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink>.<line type="break" />
 Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. „extraordinairer Cantzeley-Verwandter“ für die Kriegs- und Domainenkammer (vgl. <intlink letter="253" page="225" line="15" linktext="true" /> und <intlink letter="256" page="231" line="32" linktext="true" />).</eintrag>
 </kommentar>
 
