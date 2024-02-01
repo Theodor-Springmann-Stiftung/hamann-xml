@@ -1779,7 +1779,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="bucholtz-k-jc" type="neuzeit">
 <lemma>Johann Christian Buchholtz</lemma>
-<eintrag>1719–1773. 1743–1748 an der Domschule in Königsberg, ab 1748 Pfarradjunkt in Liebstadt, ab 1749 an der Königsberger Altstädtischen Kirche; Beichtvater der Eltern Hamanns nach dem Tod <link ref="lilienthal-m" linktext="false">M. Lilienthals</link>; Hamanns Beichtvater, auch der des Bruders, und Nachlassverwalter von Hamanns Vater; bei Hamanns Rechtsstreit von 1769 um die Vormundschaft von <link ref="hamann-jc" linktext="true" /> und das Erbe von <link ref="hamann-vjc" linktext="true" /> war er auf der Seite von <link ref="nuppenau-jp" linktext="true" /> (vgl. HKB 361–367). Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1024881237.html">Deutsche Biographie</wwwlink>.</eintrag>
+<eintrag>1719–1773. 1743–1748 an der Domschule in Königsberg, ab 1748 Pfarradjunkt in Liebstadt, ab 1749 an der Königsberger Altstädtischen Kirche; Beichtvater der Eltern Hamanns nach dem Tod <link ref="lilienthal-m" linktext="false">M. Lilienthals</link>; Hamanns Beichtvater, auch der des Bruders, und Nachlassverwalter von Hamanns Vater; bei Hamanns Rechtsstreit von 1769 um die Vormundschaft von <link ref="hamann-jc" linktext="true" /> und das Erbe von <link ref="hamann-vjc" linktext="true" /> war er auf der Seite von <link ref="nuppenau-jp" linktext="true" /> (vgl. HKB 361–367). Zur Tiefe des Zerwürfnisses vgl. die auf Buchholtz gemünzte Vorrede von <link ref="hamann" subref="hamann-warner" linktext="true" />, S.&#x202F;5–8 (N&#x202F;IV,439f.). Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1024881237.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bucholtz-k-er" type="neuzeit">
@@ -5481,10 +5481,16 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <titel>Selbstgespräch aus dem Englischen übersetzt.</titel> In: <link ref="kgpz" linktext="true" />, 45.&#x202F;St. vom 4.6.1770. Übersetzung aus <link ref="browne-m" subref="browne-creation" linktext="true" />.
 </eintrag>
 </subsection>
-<subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="510">
+<subsection id="hamann-warner" type="neuzeit" sort="510">
+<lemma>Hamann (Übers.), <titel>Ferdinando Warner’s Beschreibung der Gicht</titel></lemma>
+<eintrag>
+<titel>Ferdinando Warner’s vollständige und deutliche Beschreibung der Gicht.</titel> Aus dem Englischen übersetzt (1770) [Biga&#x202F;110/211: „Ferdo. Warner’s Beschreibung der Gicht 770. nebst einer zu dieser Uebersetzung gehoerigen Beylage der hiesigen gelehrten und politischen Zeitung. Donum LIBRARII.“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id4159960313">SLUB Dresden: Path.spec.LGA.988</wwwlink>. – Übersetzung von <link ref="warner" subref="warner-gout" linktext="true" /> (Vorwort bei N&#x202F;IV,439f.).
+</eintrag>
+</subsection>
+<subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="520">
 <lemma>Hamann, <titel>Übersetzung von Bolingbroke und Hervey</titel></lemma>
 <eintrag>
-<titel>Heinrich St. Johann Vitzgraf Bolingbroke und Jakob Hervey etc. etc.</titel> Übersetzt von J.&#x202F;G. Hamann (Mitau: Hinz 1774). <wwwlink address="">BSB München: Var. 686 a</wwwlink>. – Übersetzung von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" /> und <link ref="hervey" subref="hervey-remarks" linktext="true" />.
+<titel>Heinrich St. Johann Vitzgraf Bolingbroke und Jakob Hervey etc. etc.</titel> Übersetzt von J.&#x202F;G. Hamann (Mitau: Hinz 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136259-8">BSB München: Var. 686 a</wwwlink>. – Übersetzung von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" /> und <link ref="hervey" subref="hervey-remarks" linktext="true" /> (Vorwort bei N&#x202F;IV,441).
 </eintrag>
 </subsection>
 <subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort="700">
@@ -13966,6 +13972,11 @@ W
 <lemma>Warner, <titel>The history of the Rebellion in Ireland</titel> </lemma>
 <eintrag>
 <titel>The history of the Rebellion and Civil-War in Ireland.</titel> By Ferd<super>o</super>. Warner, L.&#x202F;L.&#x202F;D (London 1765) [Biga&#x202F;: „Ferdo. Warner’s History of the Rebellion and civil war in Ireland, Lond. 765“]. Digitalisat der zweiten Auflage London 1768: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10225759-8">BSB München: 4 Brit. 143</wwwlink>.</eintrag>
+</subsection>
+<subsection id="warner-gout" type="neuzeit" sort="50">
+<lemma>Warner, <titel>A full and plain account of the gout</titel></lemma>
+<eintrag>
+<titel>A full and plain account of the gout;</titel> From whence will be clearly seen, the Folly, or the Baseness, of all Pretenders to the Cure of it: In which every thing Material by the Best Writers on That Subject is taken notice of; and accompanied with some New and Important Instructions for its Relief, which the Author’s Experience in the Gout above Thirty Years hath induced him to impart. By Ferd<super>o</super>. Warner, L.&#x202F;L.&#x202F;D (2nd edition, London 1768). Digitalisat: <wwwlink address="https://books.google.de/books?id=P2BVAAAAcAAJ">Google Books</wwwlink>. – Vorlage für <link ref="hamann" subref="hamann-warner" linktext="true" /></eintrag>
 </subsection>
 </kommentar>
 
