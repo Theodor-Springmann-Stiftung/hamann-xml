@@ -21,7 +21,6 @@ Brief Nr. 0
 <bzg>Jesuiten Knittels</bzg> Kaspar Knittel (1644–1702), deutsch-böhmischer Jesuit, Philosoph und Mathematiker; Rektor der Karlsuniversität Prag
 </marginal> 
 
-
 Brief Nr. 1
 <marginal letter="1" page="1" line="9">
 <link ref="hamann" subref="daphne" linktext="true" />
@@ -30296,7 +30295,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal letter="254a" page="XX" line="7">
-<bzg>Kanzelley</bzg> <link ref="magistrat" linktext="true" />
+<bzg>Magistrats</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="254a" page="XX" line="9">
@@ -30936,7 +30935,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="234" line="16" sort="2">
-<bzg>Philippi Briefe</bzg> <link ref="philippi" subref="philippi-briefe" linktext="true" />; eine Rezension erschien in <link ref="kgpz" linktext="true" />, 2.&#x202F;St. vom 6.2.1764
+<bzg>Philippi Briefe</bzg> <link ref="philippi-ja" subref="philippi-briefe" linktext="true" />; eine Rezension erschien in <link ref="kgpz" linktext="true" />, 2.&#x202F;St. vom 6.2.1764
 </marginal>
 
 <marginal letter="257" page="234" line="18" sort="1">
@@ -31024,7 +31023,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="235" line="23" sort="2">
-<bzg>Artikel von Philippi</bzg> Rezension von <link ref="philippi" subref="philippi-briefe" linktext="true" /> in <link ref="kgpz" linktext="true" />, 2.&#x202F;St. vom 6.2.1764
+<bzg>Artikel von Philippi</bzg> Rezension von <link ref="philippi-ja" subref="philippi-briefe" linktext="true" /> in <link ref="kgpz" linktext="true" />, 2.&#x202F;St. vom 6.2.1764
 </marginal>
 
 <marginal letter="257" page="235" line="24">
@@ -38973,7 +38972,7 @@ Dähnert. Greifswald 1767. ?!?
 </marginal>
 
 <marginal letter="331" page="379" line="20">
-<bzg>Vaterunser</bzg> <link ref="philippi" subref="philippi-vaterunser" linktext="true" />
+<bzg>Vaterunser</bzg> <link ref="philippi-ja" subref="philippi-vaterunser" linktext="true" />
 </marginal>
 
 <marginal letter="331" page="379" line="22">
@@ -43090,7 +43089,7 @@ Brief Nr. 359
 </marginal>
 
 <marginal letter="359" page="444" line="12" sort="1">
-<bzg>Landgut</bzg> Anspielung auf <link ref="horaz" subref="horaz-saturae" linktext="true" />, 2,6,1–3.: „Hoc erat in votis: modus agri non ita magnus […]“
+<bzg>Landgut</bzg> Anspielung auf <link ref="horaz" subref="horaz-saturae" linktext="true" />, 2,6,1–3: „Hoc erat in votis: modus agri non ita magnus […]“
 </marginal>
 
 <marginal letter="359" page="444" line="12" sort="2">
@@ -44484,7 +44483,7 @@ zum Hintergrund des Briefes vgl. die Vorbemerkung des ersten Herausgebers Emil G
 Brief Nr. 370
 
 <marginal letter="370" page="1" line="3">
-<bzg>Secretaire Kortum</bzg> <link ref="" subref="" linktext="true" />
+<bzg>Secretaire Kortum</bzg> <link ref="kortum" linktext="true" />
 </marginal>
 
 <marginal letter="370" page="1" line="4">
@@ -44555,7 +44554,7 @@ Brief Nr. 370
 <bzg>Prof. extraordr. Lingu. orient.</bzg> außerordentlicher Professor der orientalischen Sprachen an der Albertina
 </marginal>
 
-Brief Nr. 370
+Brief Nr. 371
 
 <marginal letter="371" page="2" line="19">
 <bzg>Antwort</bzg> Brief Nicolais nicht überliefert
@@ -44578,7 +44577,7 @@ Brief Nr. 370
 </marginal>
 
 <marginal letter="371" page="2" line="37">
-<bzg>Secretair</bzg> nicht ermittelt
+<bzg>Secretair</bzg> nicht ermittelt; vmtl. im Zusammenhang der Ansuchen für die Licentratstelle in Berlin über <link ref="eberhard-ja" linktext="true" />, vgl. <intlink letter="376" page="8" line="25" linktext="true" />
 </marginal>
 
 <marginal letter="371" page="2" line="38">
@@ -44647,10 +44646,6 @@ Brief Nr. 370
 
 <marginal letter="371" page="3" line="29">
 <bzg>Consistorial Bock</bzg> <link ref="bock-fs" linktext="true" />
-</marginal>
-
-<marginal letter="371" page="3" line="32">
-<bzg>Lavater</bzg> 
 </marginal>
 
 <marginal letter="371" page="3" line="32">
@@ -44806,6 +44801,11 @@ Brief Nr. 373
 </marginal>
 
 Brief Nr. 374
+Zur Datierung: in ZH nicht datiert bzw. nur durch das Umfeld auf 1771/1772; Henkel: »Wohl auf den Oktober 1771 zu datieren.« – Es gibt nur drei Anhaltspunkte: Kanter kam grad aus Berlin zurück (die Reise wird sonst nicht erwähnt, dürfte sehr schwierig sein, das extern herauszufinden, zumal der wohl häufiger in Berlin war). – Vor HKB 376 (3. August), wo Hamann mit Kanter über seiner Licentrat-Bewerbung über Eberhard schreibt, und die Bewerbungen mitschickt; dem ist die erste Kontaktaufnahme hier eindeutig vorausgegangen. – Vor 12.4.1772, Hamann erwähnt unten zwei Kinder, Lisette Reinette war also schon da.
+
+<marginal letter="374" page="6" line="33">
+<bzg>Kgsberg</bzg> <link ref="kanter-jj" linktext="true" />
+</marginal>
 
 <marginal letter="374" page="6" line="33">
 <bzg>gemeinschaftlicher Freund</bzg> <link ref="kanter-jj" linktext="true" />
@@ -44816,7 +44816,7 @@ Brief Nr. 374
 </marginal>
 
 <marginal letter="374" page="7" line="1">
-<bzg>meinen Angelegenheiten</bzg> während Kanters Aufenthalt in Berlin hatte Eberhard, damals junger Pfarrer, offenbar gehört, daß Hamann in gedrückter Lage lebe und eine gewisse Hoffnung bestehe, ihm die freigewordene Licentratstelle von <link ref="heusinger" linktext="true" /> zu verschaffen, vgl. <intlink letter="376" page="8" line="29" linktext="true" />.
+<bzg>meinen Angelegenheiten</bzg> während Kanters Aufenthalt in Berlin hatte Eberhard, damals junger Pfarrer, offenbar gehört, daß Hamann in gedrückter Lage lebe und eine gewisse Hoffnung bestehe, ihm die freigewordene Licentratstelle von <link ref="heusinger" linktext="true" /> zu verschaffen; dieser Brief wohl ein Versuch der ersten Kontaktaufnahme, dem später <intlink letter="376" page="8" line="29" linktext="true" /> folgte.
 </marginal>
 
 <marginal letter="374" page="7" line="7">
@@ -44824,11 +44824,15 @@ Brief Nr. 374
 </marginal>
 
 <marginal letter="374" page="7" line="11">
-<bzg>Diogenes in seiner Tonne</bzg>
+<bzg>Diogenes in seiner Tonne</bzg> <link ref="diogenes-s" linktext="true" /> wohnte nach <link ref="diogenes" subref="diogenes-opera" linktext="true" />, VI 22f. in einer Tonne
 </marginal>
 
 <marginal letter="374" page="7" line="15">
-<bzg>Hoc erat in votis</bzg>
+<bzg>Hoc erat in votis</bzg> dt. das war mein Herzenswunsch, <link ref="horaz" subref="horaz-saturae" linktext="true" />, 2,6,1–3
+</marginal>
+
+<marginal letter="374" page="7" line="16">
+<bzg>Heraclitus…</bzg> nach <link ref="aristoteles" subref="aristoteles-partibus" linktext="true" />, 1,5 (lat. introite, nam et hic dii sunt, dt. Tretet ein, den auch hier sind Götter)
 </marginal>
 
 <marginal letter="374" page="7" line="23">
@@ -44843,6 +44847,43 @@ Brief Nr. 374
 <bzg>Kinder</bzg> <link ref="hamann-jm" subref="" linktext="true" /> und <link ref="hamann-er" linktext="true" />
 </marginal>
 
+Brief Nr. 376
+
+<marginal letter="376" page="8" line="25">
+<bzg>Concepte</bzg> Entwürfe für die Gesuche nach Berlin, welche über <link ref="eberhard-ja" linktext="true" /> vmtl. an <link ref="furst" linktext="true" /> bzw. zur <link ref="general-akzise-und-zoll-direktion" linktext="true" /> gehen sollten, für die Licentratstelle von <link ref="heusinger" linktext="true" /> im <link ref="admiralitaetskollegium" linktext="true" />
+</marginal>
+
+<marginal letter="376" page="8" line="26">
+<bzg>Curalien zu suppliren</bzg> die richtigen Titel, Anredeformen, formellen Schlusssätze etc. zu ergänzen
+</marginal>
+
+<marginal letter="376" page="8" line="27">
+<bzg>HE. Philippi</bzg> <link ref="philippi-waf" linktext="true" />
+</marginal>
+
+<marginal letter="376" page="8" line="29" sort="1">
+<bzg>Minister</bzg> vmtl. <link ref="furst" linktext="true" />, vgl. <intlink letter="371" page="2" line="38" linktext="true" /> (so auch Henkel?!?)
+</marginal>
+
+<marginal letter="376" page="8" line="29" sort="1">
+<bzg>P. Eberhard</bzg> <link ref="eberhard-ja" linktext="true" />
+</marginal>
+
+<marginal letter="376" page="9" line="6">
+<bzg>Suplique</bzg> dt. Gesuch
+</marginal>
+
+<marginal letter="376" page="9" line="15">
+<bzg>Allerdurchlauchtigster…</bzg> die Anrede an <link ref="friedrich-II" linktext="true" /> ist nur pro forma; Adressat ist wohl die <link ref="general-akzise-und-zoll-direktion" linktext="true" /> oder ein verwandtes Regierungskollegium in Berlin
+</marginal>
+
+<marginal letter="376" page="9" line="6">
+<bzg>Heusingers</bzg> <link ref="heusinger" linktext="true" />
+</marginal>
+
+<marginal letter="376" page="9" line="6">
+<bzg>Hochgeborner ReichsFreyHerr…</bzg> der Adressat ist vmtl. <link ref="furst" linktext="true" /> – so auch Henkel, siehe oben mit der Nicolai-Connection, die recht dürr ist; Fürst war Freiherr (aber keine Ahnung ob Reichsfreiherr etwas groß anderes ist); Fürst war aber nicht Kriegsminister, sondern Justizminister, Vorsitzender des Kammergerichts und Großkanzler; das Justizministerium war eines der wenigen, das nicht unter dem Generaldirektorium stand. – Wer war Etats-Kriegsminister zu der Zeit, wenn nicht Launay?!? vielleicht ein Reichsfreiherr?!?
+</marginal>
 
 
 </marginalien>

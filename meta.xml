@@ -7151,8 +7151,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="374">
-        <date value="Königsberg, 1771/1772" />
-        <sort value="1771-12-01" notBefore="1771-01-01" notAfter="1772-12-31" />
+        <date value="Königsberg, Sommer 1772" />
+        <sort value="1772-06-01" notBefore="1771-04-12" notAfter="1772-08-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7204,7 +7204,7 @@
         <isProofread value="false" />
         <isDraft value="false" />
         <ZHInfo inZH="true">
-          <dateChanged value="true" />
+          <dateChanged value="false" />
           <begin vol="3" page="8" />
           <alternativeLineNumbering value="true" />
         </ZHInfo>

@@ -403,7 +403,12 @@ In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202F;1, S.&#x202F;266�
 In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202F;2, S.&#x202F;177–277.
 </eintrag>
 </subsection>
-</kommentar>, 
+<subsection id="aristoteles-partibus" type="neuzeit" sort="90">
+<lemma>Aristot. <titel>part. an.</titel></lemma>
+<eintrag>Über die Teile der Tiere, lat. de partibus anmalium, griech. ζῴων μορίων (Zoon morion).
+</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="arnaud-f" type="neuzeit">
 <lemma>François Arnaud</lemma>
@@ -4290,7 +4295,7 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 
 <kommentar id="furst" type="neuzeit">
 <lemma>Maximilian von Fürst und Kupferberg</lemma>
-<eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1770–1779 Großkanzler von Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>.
+<eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1763 Geheimer Etats- und Justizminister sowie Präsident des 1. Kammergerichts, 1770–1779 Großkanzler von Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -6102,7 +6107,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="heusinger" type="neuzeit">
 <lemma>Daniel Ehrenfried Heusinger</lemma>
-<eintrag>Lebensdaten nicht ermittelt. 1770 Licentrat im <link ref="admiralitaetskollegium" linktext="true" />; vmtl. 1771 gestorben, da Hamann sich 1771/1772 um die Nachfolge auf seine Stelle bemüht (vgl. <intlink letter="376" page="8" line="24" linktext="true" />).</eintrag>
+<eintrag>Lebensdaten nicht ermittelt. 1770 Licentrat im <link ref="admiralitaetskollegium" linktext="true" />; vmtl. 1771 gestorben, da Hamann sich 1771/1772 um die Nachfolge auf seine Stelle bemüht, vgl. <intlink letter="376" page="8" line="24" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="hieronymus" type="neuzeit">
@@ -10385,9 +10390,9 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 </subsection>
 </kommentar>
 
-<kommentar id="philippi" type="neuzeit">
+<kommentar id="philippi-ja" type="neuzeit">
 <lemma>Johann Albrecht Philippi</lemma>
-<eintrag>1721–1791. Polizeidirektor und Stadtpräsident von Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd115741208.html"></wwwlink>.</eintrag>
+<eintrag>1721–1791. Polizeidirektor und Stadtpräsident von Berlin, siehe <wwwlink address="https://d-nb.info/gnd/115741208">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
 <subsection id="philippi-briefe" type="neuzeit" sort="10">
 <lemma>Philippi, <titel>Anmuthige und Satyrische Briefe</titel></lemma>
 <eintrag>
@@ -10398,6 +10403,11 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <eintrag>
 <titel>Das Unser Vater,</titel> sonst kan und darf kein Gebet ohne Verschuldung gegen Gott von wahren gläubigen Christen gebetet werden. bewiesen von Johann Albrecht Philippi […] (Riga: Hartknoch 1766) [Biga 112/237: „Beweiss von der Vollkommenheit des Unser-Vater betens, Riga 766. Donum.“]. Digitalisat: <wwwlink address="https://opendata.uni-halle.de//handle/1981185920/65395">ULB Halle: AB 153942 (4)</wwwlink></eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="philippi-waf" type="neuzeit">
+<lemma>Wilhelm Albrecht Ferdinand Philippi</lemma>
+<eintrag>1752–1828. 1772 Student in Königsberg, Sohn von <link ref="philippi-ja" linktext="true" /> später Regierungsrat in Magdeburg und Berliner Stadtpräsident, siehe <wwwlink address="https://d-nb.info/gnd/14364422X">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="philon" type="neuzeit">
