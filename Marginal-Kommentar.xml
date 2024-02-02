@@ -44621,7 +44621,7 @@ Brief Nr. 371
 </marginal>
 
 <marginal letter="371" page="3" line="14">
-<bzg>Kant Disp.</bzg> <link ref="kant-mundisensibilis" linktext="true" /> (seine Inauguraldissertation, die er vor Antritt seiner ordentlichen Professur der Logik und Metaphysik abliefern und verteidigen musste)
+<bzg>Kant Disp.</bzg> <link ref="kant" subref="kant-mundisensibilis" linktext="true" /> (seine Inauguraldissertation, die er vor Antritt seiner ordentlichen Professur der Logik und Metaphysik abliefern und verteidigen musste)
 </marginal>
 
 <marginal letter="371" page="3" line="16">
@@ -44663,7 +44663,7 @@ Brief Nr. 371
 Brief Nr. 372
 
 <marginal letter="372" page="4" line="3">
-<bzg>Agio</bzg> kaufmannssprachlich ‚Aufgeld‘, vgl. <intlink page="479" line="32" sort="2" linktext="true" />; Zusammenhang nicht ermittelt, tatsächliches Geld oder etwas Literarisches? Hat Mendelssohn Hamann einmal positiv rezensiert und sich weitere Schriften gewünscht?!?
+<bzg>Agio</bzg> kaufmannssprachlich ‚Aufgeld‘, vgl. <intlink page="479" line="32" line="2" linktext="true" />; Zusammenhang nicht ermittelt, tatsächliches Geld oder etwas Literarisches? Hat Mendelssohn Hamann einmal positiv rezensiert und sich weitere Schriften gewünscht?!?
 </marginal>
 
 <marginal letter="372" page="4" line="5">
@@ -44675,7 +44675,7 @@ Brief Nr. 372
 </marginal>
 
 <marginal letter="372" page="4" line="8">
-<bzg>Freunde und Verleger</bzg> <link ref="nicolai-f" linktext="true" />, vgl. <intlink letter="271" page="2" line="21" linktext="true" />
+<bzg>Freunde und Verleger</bzg> <link ref="nicolai-f" linktext="true" />, vgl. <intlink letter="371" page="2" line="21" linktext="true" />
 </marginal>
 
 <marginal letter="372" page="4" line="11">
@@ -44721,11 +44721,11 @@ Brief Nr. 372
 Brief Nr. 373
 
 <marginal letter="373" page="5" line="32">
-<bzg>Abbtsche Correspondenz</bzg> <link ref="abbt" subref="correspondenz" linktext="true" /> (auch erschienen als 3. Bd. von <link ref="abbt" subref="abbt-werke" linktext="true" />)
+<bzg>Abbtsche Correspondenz</bzg> <link ref="abbt" subref="abbt-correspondenz" linktext="true" /> (auch erschienen als 3. Bd. von <link ref="abbt" subref="abbt-werke" linktext="true" />)
 </marginal>
 
 <marginal letter="373" page="6" line="2">
-<bzg>ertheilten Vollmacht</bzg> für die Autorisierung des Abdrucks einiger Briefe Hamanns an Mendelssohn und Nicolai in <link ref="abbt" subref="correspondenz" linktext="true" />, S.&#x202F;74–92
+<bzg>ertheilten Vollmacht</bzg> für die Autorisierung des Abdrucks einiger Briefe Hamanns an Mendelssohn und Nicolai in <link ref="abbt" subref="abbt-correspondenz" linktext="true" />, S.&#x202F;74–92
 </marginal>
 
 <marginal letter="373" page="6" line="3">
@@ -44765,7 +44765,7 @@ Brief Nr. 373
 </marginal>
 
 <marginal letter="373" page="6" line="15">
-<bzg>mosaischem Rechte</bzg> <link ref="michaelis" subref="michaelis-mosaischesrecht" linktext="true" />
+<bzg>mosaischem Rechte</bzg> <link ref="michaelis-jd" subref="michaelis-mosaischesrecht" linktext="true" />
 </marginal>
 
 <marginal letter="373" page="6" line="17">
@@ -44796,16 +44796,12 @@ Brief Nr. 373
 <bzg>Preisschrift</bzg> <link ref="herder" subref="herder-ursprungsprache" linktext="true" /> – – Gildemeisters kgpz-Zitat?!?
 </marginal>
 
-<marginal letter="373" page="6" line="26" sort="1">
+<marginal letter="373" page="6" line="26" sort="2">
 <bzg>Michaelis</bzg> zur Buchmesse im Herbst; Herder reichte die Abhandlung bereits 1770 ein, sie erschien aber erst 1772
 </marginal>
 
 Brief Nr. 374
 Zur Datierung: in ZH nicht datiert bzw. nur durch das Umfeld auf 1771/1772; Henkel: »Wohl auf den Oktober 1771 zu datieren.« – Es gibt nur drei Anhaltspunkte: Kanter kam grad aus Berlin zurück (die Reise wird sonst nicht erwähnt, dürfte sehr schwierig sein, das extern herauszufinden, zumal der wohl häufiger in Berlin war). – Vor HKB 376 (3. August), wo Hamann mit Kanter über seiner Licentrat-Bewerbung über Eberhard schreibt, und die Bewerbungen mitschickt; dem ist die erste Kontaktaufnahme hier eindeutig vorausgegangen. – Vor 12.4.1772, Hamann erwähnt unten zwei Kinder, Lisette Reinette war also schon da.
-
-<marginal letter="374" page="6" line="33">
-<bzg>Kgsberg</bzg> <link ref="kanter-jj" linktext="true" />
-</marginal>
 
 <marginal letter="374" page="6" line="33">
 <bzg>gemeinschaftlicher Freund</bzg> <link ref="kanter-jj" linktext="true" />
@@ -44877,12 +44873,20 @@ Brief Nr. 376
 <bzg>Allerdurchlauchtigster…</bzg> die Anrede an <link ref="friedrich-II" linktext="true" /> ist nur pro forma; Adressat ist wohl die <link ref="general-akzise-und-zoll-direktion" linktext="true" /> oder ein verwandtes Regierungskollegium in Berlin
 </marginal>
 
-<marginal letter="376" page="9" line="6">
+<marginal letter="376" page="9" line="24">
 <bzg>Heusingers</bzg> <link ref="heusinger" linktext="true" />
 </marginal>
 
-<marginal letter="376" page="9" line="6">
-<bzg>Hochgeborner ReichsFreyHerr…</bzg> der Adressat ist vmtl. <link ref="furst" linktext="true" /> – so auch Henkel, siehe oben mit der Nicolai-Connection, die recht dürr ist; Fürst war Freiherr (aber keine Ahnung ob Reichsfreiherr etwas groß anderes ist); Fürst war aber nicht Kriegsminister, sondern Justizminister, Vorsitzender des Kammergerichts und Großkanzler; das Justizministerium war eines der wenigen, das nicht unter dem Generaldirektorium stand. – Wer war Etats-Kriegsminister zu der Zeit, wenn nicht Launay?!? vielleicht ein Reichsfreiherr?!?
+<marginal letter="376" page="10" line="1">
+<bzg>Hochgeborner ReichsFreyHerr…</bzg> der Adressat ist vmtl. <link ref="furst" linktext="true" /> – so auch Henkel, siehe oben mit der Nicolai-Connection, die recht dürr ist; von Fürst und Kupferberg war Freiherr (Reichsfreiherr heißt nur, dass man mit einem reichsunmittelbaren Territorium belehnt ist, ist nichts viel anderes, aber die Nomenklatur ist etwas sonderbar, eigentlich nicht gebräuchlich bei Anreden). Von Fürst und Kupferberg war aber nicht Kriegsminister, sondern Justizminister, Vorsitzender des Kammergerichts und Großkanzler; das Justizministerium war eines der wenigen, das nicht unter dem Generaldirektorium stand. –  Kriegsminister war Carl Heinrich von Wedel, andere hohe Minister etwa Hertzberg oder Finckenstein, keiner von denen war aber Freiherr. Kriegs-Etats-Minister scheint auch eine Titel-Kombo zu sein, die in der Zeit schon ungebräuchlich war. – man sollte wohl bei von Fürst und Kupferberg bleiben; Hamann ist ja bei den Curialien unsicher und Kanter weiß anscheinend auch nicht Bescheid]
+</marginal>
+
+<marginal letter="376" page="10" line="4">
+<bzg>Admiralitäts Collegio</bzg> <link ref="admiralitaetskollegium" linktext="true" />
+</marginal>
+
+<marginal letter="376" page="10" line="6">
+<bzg>Cammerreferendario Persch</bzg> nicht ermittelt
 </marginal>
 
 
