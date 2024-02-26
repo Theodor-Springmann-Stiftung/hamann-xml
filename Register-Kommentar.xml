@@ -159,11 +159,22 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 </subsection>
 </kommentar>
 
+<kommentar id="aikin" type="neuzeit">
+<lemma>John Aikin</lemma>
+<eintrag>1747–1822. Engl. Arzt und Schriftsteller.</eintrag>
+<subsection id="aikin-essays" type="neuzeit">
+<lemma>Aikin, <titel>Essays on song-writing</titel></lemma>
+<eintrag>
+<titel>Essays on song-writing:</titel> With a collection of such English Songs as are most eminent for poetical merit (London 1771). Digitalisat der 2. Aufl. 1774: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10744576-7">BSB München: P.o.angl. 6 s</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="aischylos" type="neuzeit">
 <lemma>Aischylos</lemma>
 <eintrag>525/524&#x202F;v.&#x202F;Chr.&#x202F;–&#x202F;456/455&#x202F;v.&#x202F;Chr.</eintrag>
 <subsection id="aischylos-tragoediae" type="neuzeit">
-<lemma>Aischylos<titel>, Tragoediae superstites</titel></lemma>
+<lemma>Aischylos,<titel> Tragoediae superstites</titel></lemma>
 <eintrag>
 <titel>Aeschyli Tragoediae superstites, graece in eas scholia et deperditarum fragmenta, cum vers. lat. et notis, e.d Jan Cornelis de Pauw</titel> (Den Haag 1745/47) [Biga&#x202F;5/80: „Aeschyli Tragoediae gr &amp; lat. ex ed. de Pauw, Hagae 747“]. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/10B25358">ÖNB Wien: 78.P.3</wwwlink>.
 </eintrag>
@@ -252,6 +263,11 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 </subsection>
 </kommentar>
 
+<kommentar id="anquetil-duperron" type="neuzeit">
+<lemma>Abraham Hyacinthe Anquetil-Duperron</lemma>
+<eintrag>1731–1805. Frz. Orientalist, Begründer der Iranistik und des Zend-Studiums.</eintrag>
+</kommentar>
+
 <kommentar id="anstey" type="neuzeit">
 <lemma>Christopher Anstey</lemma>
 <eintrag>1724–1805. Engl. satirische Dichter, siehe <wwwlink address="https://www.britannica.com/biography/Christopher-Anstey">Encyclopaedia Britannica</wwwlink>.</eintrag>
@@ -306,7 +322,7 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <kommentar id="argis" type="neuzeit">
 <lemma>Antoine-Gaspard Boucher d’Argis</lemma>
 <eintrag>1708–1791. Frz. Anwalt in Lyon und Paris, Mitarbeiter an der <link ref="encyclopedie" linktext="false"><titel>Encyclopédie</titel></link>. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;5, 1812), S.&#x202F;274.</eintrag>
-<subsection id="Boulanger-corvee" type="neuzeit">
+<subsection id="argis-corvee" type="neuzeit">
 <lemma>Argis, <titel>Corvée</titel></lemma>
 <eintrag>zus. mit <link ref="boulanger" linktext="true" />, Art. „Corvée“ in der <link ref="encyclopedie" linktext="true" />, Bd.&#x202F;4, S.&#x202F;280ff.</eintrag>
 </subsection>
@@ -452,6 +468,12 @@ In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202F;2, S.&#x202F;177�
 <lemma>Arnoldt, <titel>Vernunft- und schriftmäßige Gedanken von den Lebenspflichten der Christen</titel></lemma>
 <eintrag>
 <titel>Vernunft- und schriftmäßige Gedanken von den Lebenspflichten der Christen</titel> (Königsberg 1764). Digitalisat: <wwwlink address="https://archive.thulb.uni-jena.de/collections/receive/HisBest_cbu_00036720">ThULB Jena: 4 Theol.XXXI,37</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="arnoldt-kirchengeschichte" type="neuzeit" sort="20">
+<lemma>Arnoldt, <titel>Kirchengeschichte des Königreichs Preußen</titel></lemma>
+<eintrag>
+<titel>D. Dan. Heinr. Arnoldts Kurzgefaßte Kirchengeschichte des Königreichs Preußen</titel> (Königsberg: Kanter 1769) [Biga&#x202F;90/247: „D. H. Arnoldts kurzgefasste Kirchengeschichte des Koenigreichs Preussen, Koenigsb. 799“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10023111-0">BSB München: H.eccl. 50</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -1454,6 +1476,12 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <eintrag>
 <titel>Herrn Joh. Alb. Bengels Prophetische Zeitrechnung, erläutert von Johann Gotthold Böhmer</titel> (Leipzig: Breitkopf 1751).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="boie" type="neuzeit">
+<lemma>Heinrich Christian Boie</lemma>
+<eintrag>1744–1806. Dichter und Herausgeber, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5149.html#ndbcontent">Elschenbroich, Adalbert: Boie, Heinrich Christian, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;434f</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="bonnet" type="neuzeit">
@@ -3339,13 +3367,24 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 <eintrag>
 <titel>De versibvs Horatianis qvibvs eqves importvnvs Lucilii defensor facete reprehenditvr cavssa parvm manifesta ab Horatio abivdicatis viro</titel> (Wolfenbüttel: Bindseil 1759). Digitalisat: <wwwlink address=" http://resolver.staatsbibliothek-berlin.de/SBB0000956E00000000">SBPK Berlin: 16 in: Bibl. Diez qu. 2519</wwwlink>.
 </eintrag>
-</subsection> 
+</subsection>
 </kommentar>
 
 <kommentar id="donat" type="neuzeit">
 <lemma>Aelius Donatus</lemma>
 <eintrag>310–ca.&#x202F;380. Röm. grammatiker und Lehrer des <link ref="hieronymus" linktext="true" />.<line type="break" />
 Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinischer Text und kommentierte deutsche Übersetzung einer antiken Elementargrammatik aus dem 4. Jahrhundert nach Christus</titel> (Frankfurt 2008).</eintrag>
+</kommentar>
+
+<kommentar id="dow" type="neuzeit">
+<lemma>Alexander Dow</lemma>
+<eintrag>Gest. 1779. Schott. Offizier der ostinidischen Kompanie.</eintrag>
+<subsection id="dow-hindostan" type="neuzeit">
+<lemma>Dow, <titel>The history of Hindostan</titel></lemma>
+<eintrag>
+<titel>The history of Hindostan:</titel> from the death of Akbar, to the complete settlement of the empire under Aurungzebe. To which are prefixed, I. A dissertation on the origin and nature of despotism in Hindostan. II. An enquiry into the state of Bengal; with a plan for Restoring that Kingdom to its former Prosperity und Splendor. By Alexander Dow […] (3 Bde., 1768–1772). Text Online: <wwwlink address="https://quod.lib.umich.edu/cgi/t/text/text-idx?c=ecco;idno=004858003.0001.000">University of Michigan</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="driest" type="neuzeit">
@@ -3921,10 +3960,17 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <lemma>Adam Ferguson</lemma>
 <eintrag>1723–1816. Schottischer Moralphilosoph und Historiker der Aufklärung, siehe <wwwlink address="https://www.britannica.com/biography/Adam-Ferguson">Encyclopedia Britannica</wwwlink>.
 </eintrag>
-<subsection id="ferguson-society" type="neuzeit">
+<subsection id="ferguson-society" type="neuzeit" sort="10">
 <lemma>Ferguson, <titel>An Essay on the History of Civil Society</titel></lemma>
 <eintrag>
 <titel>An Essay on the History of Civil Society.</titel> By Adam Ferguson (Edinburgh 1767). Digitalisat: <wwwlink address="http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-1517 ">LB Oldenburg</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="ferguson-institutes" type="neuzeit" sort="20">
+<lemma>Ferguson, <titel>Institutes of Moral Philosophy</titel></lemma>
+<eintrag>
+<titel>Institutes of Moral Philosophy.</titel> By Adam Ferguson (1769).<line type="break" />
+Übers.: <titel>Adam Fergusons Grundsätze der Moralphilosophie</titel>, übers. von <link ref="garve" linktext="true" /> (Leipzig 1772). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040494-4">BSB München: Ph.pr. 455 c</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -4525,6 +4571,16 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 </subsection>
 </kommentar>
 
+<kommentar id="georgi" type="neuzeit">
+<lemma>Antonio Agostino Georgi</lemma>
+<eintrag>1711–1797. Ital. Theologe und Orientalist, Augustiner.
+</eintrag>
+<subsection id="georgi-tibetanum" type="neuzeit">
+<lemma>Georgi, <titel>Alphabetum Tibetanum missionum apostolicarum commodo editum</titel></lemma>
+<eintrag>
+<titel>Alphabetum Tibetanum missionum apostolicarum commodo editum</titel> […] (Rom 1762). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10903885-8">BSB München: Res/4 L.as. 305</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="gerdes" type="neuzeit">
 <lemma>Daniel Gerdes</lemma>
@@ -4739,6 +4795,12 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <lemma>Johann Julius Göschen</lemma>
 <eintrag>
 1736–1798. Münzmeister in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35726.html"><titel>NDB</titel></wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="goethe" type="neuzeit">
+<lemma>Johann Wolfgang Goethe</lemma>
+<eintrag>1749–1832. Dichter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz53095.html#ndbcontent">Flitner, Wilhelm: Goethe, Johann Wolfgang von, in: <titel>NDB</titel>&#x202F;6 (1964), S.&#x202F;546–575</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -5053,6 +5115,17 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <lemma>Guichard, <titel>Mémoires militaires sur les Grecs et les Romains</titel></lemma>
 <eintrag>
 <titel>Mémoires militaires sur les Grecs et les Romains. Ou L’On A Fidelement Retabli, Sur Le Texte De Polybe Et Des Tacticiens Grecs Et Latins, La plupart des Ordres de Bataille &amp; des grandes Operations de la Guerre … Une Dissertation Sur l’Attaque Et La Defense Des Places Des Anciens; La Traduction D’Onosander Et De La Tactique D’Arrien, Et L’Analyse De La Campagne De Jules Cesar En Afrique …</titel> (La Haye: Pierre de Hondt 1758). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10525879-8">Bayerische Staatsbibliothek: 4 Mil.g. 76-1/2</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="guignes" type="neuzeit">
+<lemma>Joseph de Guignes</lemma>
+<eintrag>1721–1800. Frz. Orientalist und Sinologe, 1769 Zensor und Aufseher der Altertümer im Louvre.</eintrag>
+<subsection id="guignes-chouking" type="neuzeit">
+<lemma>Guignes, <titel>Le Chou-King</titel></lemma>
+<eintrag>
+<titel>Le Chou-King,</titel> un des livres sacrés des Chinois […] par M. de Guignes (Paris 1770). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219776-2">BSB München: 4 A.or. 2972</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6370,6 +6443,18 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </eintrag>
 </kommentar>
 
+<kommentar id="holwell" type="neuzeit">
+<lemma>John Zephaniah Holwell</lemma>
+<eintrag>1711–1798. Engl. Militärarzt und Verwaltungsbeamter im Dienst der Ostindischen Kompanie.
+</eintrag>
+<subsection id="holwell-events" type="neuzeit">
+<lemma>Holwell, <titel>Interesting historical events relative to the provinces of Bengal and the empire of Indostan</titel></lemma>
+<eintrag>
+<titel>Interesting historical events relative to the provinces of Bengal and the empire of Indostan</titel>; as also the mythologie and cosmogony, fasts and festivals of the Gentoos, and a dissertation of the metempsychosis, commonly, through erroneously called the Pythagorean Doctrine. 2 Tle., London 1765–1767). – Übers. 1778 von <link ref="kleuker" linktext="true" />.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="homer" type="neuzeit">
 <lemma>Homer</lemma>
 <eintrag>Vmtl. 8. Jhd.&#x202F;v.&#x202F;Chr.; zu Homer im 18. Jhd. vgl. <link ref="blackwell" subref="blackwell-homer" linktext="true" />.</eintrag>
@@ -6801,6 +6886,24 @@ J
 <lemma><titel>La Nouvelle Bibliothèque anglaise</titel></lemma>
 <eintrag>
 <titel>La Nouvelle Bibliothèque anglaise</titel> (3 Bde., Den Haag 1756/57).
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="jones" type="neuzeit">
+<lemma>William Jones</lemma>
+<eintrag>1746–1794. Jurist und Orientalist, Begründer der Sanskrit-Forschung und der indischen Altertumsforschung, siehe <wwwlink address="https://www.britannica.com/biography/William-Jones-British-orientalist-and-jurist">Encyclopedia Britannica</wwwlink>.
+</eintrag>
+<subsection id="jones-nader" type="neuzeit" sort="10">
+<lemma>Jones<titel>, Histoire de Nader Chah</titel></lemma>
+<eintrag>
+<titel>Histoir de Nader Chah,</titel> connu sous le nom de Thahmas Kuli Khan, empereur de perse. Traduite d’un manuscrit persan, par ordre de sa Majesté le Roi de Dannemark. Avec des notes chronologiques, historiques, géographiques. Et un traité sur la poésie orientale. Par Mr. Jones (2 Bde., London 1770). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219553-5">BSB München: 4 A.or. 2280</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="jones-poems" type="neuzeit" sort="20">
+<lemma>Jones,<titel> Poems, consisting chiefly of translations</titel></lemma>
+<eintrag>
+<titel>Poems, consisting chiefly of translations</titel> from the asiatick languages. To which are added two essays, I. On the poetry of the Eastern nations. II. On the Arts, commonly called Imitative (Oxford 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10248796-9">BSB München: A.or. 133</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -8360,6 +8463,12 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <titel>Lehrbuch der schönen Wissenschaften, insonderheit der Prosa und Poesie</titel> (2&#xA0;Bde., Königsberg, Leipzig: Kanter 1767) [Biga&#x202F;162/529: „J. G. Lindners Lehrbuch der schoenen Wissenschaften, Th. I. II. Koenigsb. 767. 68. Donum“]. Digitalisat der beiden zusammengebundenen Bde: <wwwlink address="https://books.google.de/books?id=tWkHAAAAQAAJ">Google Books</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="lindner-aesthetik" type="neuzeit" sort="160">
+<lemma>Lindner, <titel>Inbegriff der Aesthetik</titel></lemma>
+<eintrag>
+<titel>Kurzer Inbegrif der Aesthetik, Redekunst und Dichtkunst</titel> (2&#xA0;Tle., Königsberg und Leipzig: J.&#x202F;D. Zeisens Witwe und J.&#x202F;H. Hartungs Erben 1771–1772) [Biga&#x202F;158/482: „Kurzer Inbegriff der Aesthetick, Redekunst und Dichtkunst. 1ter Th. Königsb. 771. mit Papier durchschossen“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574248-1">BSB München: L.eleg.g. 240 b</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="lindner-ha" type="neuzeit">
@@ -8693,7 +8802,7 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 <titel>Fingal:</titel> an ancient epic poem, in six books: together with several other poems, composed by Ossian the son of Fingal. Translated from the Galic language (London: T. Becket and P. A. de Hondt 1762).
 </eintrag>
 </subsection>
-<subsection id="macpherson-ossianworks" type="neuzeit" sort="2">
+<subsection id="macpherson-ossianworks" type="neuzeit" sort="20">
 <lemma>Macpherson, <titel>The Works of Ossian</titel></lemma>
 <eintrag>
 <titel>The Works of Ossian, the Son of Fingal.</titel> Translated from the Galic language by James Macpherson (2 Bde., London: T. Becket and P. A. de Hondt 1765) [Biga&#x202F;158/496: „The Worcks of Ossian, the Song of Fingal, translated from the galic Language by James Macpherson, T. I. II. London 765“]. Digitalisat: <wwwlink address="https://archive.org/details/bim_eighteenth-century_the-works-of-ossian-the_macpherson-james_1765_1">Internet Archive</wwwlink>.
@@ -9339,6 +9448,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </eintrag>
 </kommentar>
 
+<kommentar id="merck" type="neuzeit">
+<lemma>Johann Heinrich Merck</lemma>
+<eintrag>1741–1791. Schriftsteller in Darmstadt und Freund von <link ref="goethe" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz53095.html#ndbcontent">Elschenbroich, Adalbert: Merck, Johann Heinrich, in: <titel>NDB</titel>&#x202F;17 (1994), S.&#x202F;117–120</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="merian" type="neuzeit">
 <lemma>Johann Bernhard Merian</lemma>
 <eintrag>1723–1807. Schweizer. reform. Theologe, 1749 Prof. der Philosophie in Berlin, 1750 Akademiemitglied, 1770 Direktor der Klasse Belles-Lettres.
@@ -9518,9 +9633,20 @@ Zweite vermehrte Ausgabe 1775 in 6 Bde. [Biga&#x202F;65/103 u. 69/187: „J. D. 
 </subsection>
 </kommentar>
 
+<kommentar id="millar" type="neuzeit">
+<lemma>John Millar</lemma>
+<eintrag>1735–1801. Schott. Philosoph und Jurist, Freund von <link ref="hume" linktext="true" /> und Adam Smith.
+</eintrag>
+<subsection id="millar-ranks" type="neuzeit">
+<lemma>Millar, <titel>On the Origin of the Distinction of Ranks</titel></lemma>
+<eintrag><titel>On the Origin of the Distinction of Ranks</titel> (1771). Übers.: Bemerkungen über den Unterschied der Stände in der bürgerlichen Gesellschaft von Joh. Millar Esq. (Leipzig 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10041366-3">BSB München: Ph.pr. 849 b</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="miller" type="neuzeit">
 <lemma>Johann Peter Miller</lemma>
-<eintrag>1725–1789, seit 1766 Prof. der evang. Theologie in Göttingen, vgl. <wwwlink address="https://www.deutsche-biographie.de/sfz63398.html#adbcontent">Wagenmann, Julius August: Miller, Johann Peter, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;749f</wwwlink>.
+<eintrag>1725–1789. Seit 1766 Prof. der evang. Theologie in Göttingen, vgl. <wwwlink address="https://www.deutsche-biographie.de/sfz63398.html#adbcontent">Wagenmann, Julius August: Miller, Johann Peter, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;749f</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -10330,6 +10456,16 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 <kommentar id="penzel" type="neuzeit">
 <lemma>Abraham Jakob Penzel</lemma>
 <eintrag>1749–1819. Abenteurer und zeitweiliger Freund Hamanns; klassischer Philologe, Student in Leipzig, Halle, Würzburg, 1775–1778 Musketier des Regimentes Alt- Stutterheim in Königsberg, 1777 Factotum der Kanterschen Buchhandlung, Privatdozent für alte Geschichte, desertierte 1778, konvertierte 1782 in Krakau, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202F; 25 (1887), S.&#x202F;363f.</wwwlink> und Hans Köppe: Abraham Jakob Penzels Lebensirrfahrten. Eine Menschen- und Kulturtragödie aus dem 18. Jahrhundert (Leipzig 1937).</eintrag>
+</kommentar>
+
+<kommentar id="percy" type="neuzeit">
+<lemma>Thomas Percy</lemma>
+<eintrag>1729–1811. Engl. Dichter und Geistlicher, Regionalhistoriker, Volksliedsammler, Bischof von Dromore, siehe <wwwlink address="https://www.britannica.com/biography/Thomas-Percy-British-scholar"><titel>Encyclopedia Britannica</titel></wwwlink>.</eintrag>
+<subsection id="percy-reliques" type="neuzeit">
+<lemma>Percy, <titel>Reliques</titel></lemma>
+<eintrag>
+<titel>Reliques of ancient English Poetry:</titel> consisting of Old Heroic Ballads, Songs and other Pieces of our earlier Poets, (Chiefly of the Lyric kind.) Together with some few of a later Date (3 Bde., London 1765–1775). Digitalisat Bd. 1: <wwwlink address="https://books.google.de/books?id=DtkFAAAAQAAJ">Google Books</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="perrin" type="neuzeit">
@@ -12571,11 +12707,21 @@ Zu Hamanns Bezug auf diesen Text in den Briefen 1759: <link ref="ste-h-2016" lin
 
 <kommentar id="sokrates-schol" type="neuzeit">
 <lemma>Sokrates Scholastikos</lemma>
-<eintrag>Um 380–439, Kirchenhistoriker</eintrag>
+<eintrag>Um 380–439, Kirchenhistoriker.</eintrag>
 <subsection id="sokrates-histeccl" type="neuzeit">
 <lemma>Sokrates Scholastikos, <titel>Historia ecclesiastica</titel></lemma>
 <eintrag>
 <titel>Socratis Scholastici et Hermiae Sozomeni Historia Ecclesiastica</titel>, graece et latine (Gerlach 1677) [Biga&#x202F;2/11 und 3/49: „Socratis &amp; Sozomeni Hist. Eccl. gr. &amp; lat. ex ed. ej. ib. 677“]. Digitalisat: <wwwlink address="https://digital.ub.uni-paderborn.de/retro/urn/urn:nbn:de:hbz:466:1-14233">UB Paderborn</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="solinus" type="neuzeit">
+<lemma>Gaius Julius Solinus</lemma>
+<eintrag>3. Jh. n. Chr., röm. Schriftsteller und Kompilator aus <link ref="plinius" linktext="true" />.</eintrag>
+<subsection id="solinus-collectanea" type="neuzeit">
+<lemma>Solinus, <titel>Collectanea rerum memorabilium</titel></lemma>
+<eintrag>
+<titel>Plinianæ exercitationes in Caji Julii Solini Polyhistoria – item Caji Julii Solinii Polyhistor ex Veteribus Libris emendatus.</titel> Hg. und kommentiert von Claude de Saumaise (2 Bde., Utrecht 1629).</eintrag>
 </subsection>
 </kommentar>
 
@@ -12800,6 +12946,17 @@ Ioannis Avgvsti Starckii […] <titel>Sylloge Commentationum et observationum ph
 <eintrag>
 <titel>The Christian Hero:</titel> An Argument Proving That No Principles But Those Of Religion Are Sufficient To Make A Great Man (London 1701). [Biga 45/435 „Reich. Steele’s christl. Held, Basel 771.“] <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10922971?page=,1">Digitalisat: BSB München: Res/Mor. 980 b</wwwlink>
 Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/steele1767">UB Heidelberg: Waldberg 2301 RES</wwwlink>
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="stevens" type="neuzeit">
+<lemma>George Alexander Stevens</lemma>
+<eintrag>1710–1784. Engl. Dramatiker und Schauspieler.</eintrag>
+<subsection id="stevens-songs" type="neuzeit">
+<lemma>Stevens, <titel>Songs, Comic and Satyrical</titel></lemma>
+<eintrag>
+<titel>Songs, Comic and Satyrical.</titel> By George Alexander Stevens (Oxford 1772). <wwwlink address="https://quod.lib.umich.edu/cgi/t/text/text-idx?c=ecco;cc=ecco;rgn=div1;view=text;idno=004898140.0001.000;node=004898140.0001.000:2">University of Michigan</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
