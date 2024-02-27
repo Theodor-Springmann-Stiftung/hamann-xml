@@ -44986,7 +44986,7 @@ Brief Nr. 377
 </marginal>
 
 <marginal letter="377" page="11" line="17">
-<bzg>ehe Musen waren</bzg> <link ref="vergil" subref="vergil-georg" linktext="true" />, 2,475; vgl. <link ref="hamann" subref="hamann-einfalle" linktext="true" />, S.&#x202F;48/40
+<bzg>ehe Musen waren</bzg> <link ref="vergil" subref="vergil-georg" linktext="true" />, 2,475; vgl. <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, S.&#x202F;48/40
 </marginal>
 
 <marginal letter="377" page="11" line="18">
@@ -44997,7 +44997,7 @@ Brief Nr. 377
 <bzg>Ros. Kr.</bzg> <link ref="hamann" subref="hamann-rosencreuz" linktext="true" />
 </marginal>
 
-<marginal letter="377" page="11" line="19" sort="1">
+<marginal letter="377" page="11" line="19" sort="2">
 <bzg>Moses</bzg> <link ref="mendelssohn" linktext="true" />
 </marginal>
 
@@ -45166,7 +45166,7 @@ Henkel: eine halbe Zeile unleserlich gestrichen?!? Manuskript anschauen, da soll
 </marginal>
 
 <marginal letter="377" page="13" line="18" sort="1">
-<bzg>Mac phersons Ossian</bzg> <link ref="macpherson" subref="macpherson-ossian" linktext="true" />, vgl. <intlink letter="378" page="17" line="34" linktext="true" />
+<bzg>Mac phersons Ossian</bzg> <link ref="macpherson" subref="macpherson-ossianworks" linktext="true" />, vgl. <intlink letter="378" page="17" line="34" linktext="true" />
 </marginal>
 
 <marginal letter="377" page="13" line="18" sort="2">
@@ -45226,7 +45226,7 @@ Henkel: eine halbe Zeile unleserlich gestrichen?!? Manuskript anschauen, da soll
 </marginal>
 
 <marginal letter="377" page="14" line="15">
-<bzg>Ihr Sohn</bzg> <link ref="hamann-jm" linktext="true" />, vgl. <intlink letter="475" page="31" line="18" linktext="true" />
+<bzg>Ihr Sohn</bzg> <link ref="hamann-jm" linktext="true" />, vgl. <intlink letter="375" page="31" line="18" linktext="true" />
 </marginal>
 
 <marginal letter="377" page="14" line="17" sort="1">
@@ -45295,6 +45295,27 @@ Henkel: eine halbe Zeile unleserlich gestrichen?!? Manuskript anschauen, da soll
 
 Brief Nr. 378
 
+<marginal letter="378" page="15" line="25">
+Der Brief wurde anscheinend als Anhang von HKB 379 abgeschickt, vgl. <intlink letter="379" page="19" line="8" linktext="true" />
+</marginal>
+
+<marginal letter="378" page="15" line="27">
+<bzg>Ihren Brief </bzg> <intlink letter="377" page="10" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="378" page="15" line="30" sort="1">
+<bzg>erste und vielleicht letzte Arbeit</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, damit kombiert <link ref="hamann" subref="hamann-salomon" linktext="true" />; ist das Hamanns erste nicht-anonym publizierte Schrift?!? – wäre ein witzige Pointe gegenüber Herders missglückten Anonymitätsversuchen (die Hamann zuletzt stark kritisierte), sie ihm hier zuzueignen
+</marginal>
+
+<marginal letter="378" page="15" line="30" sort="2">
+<bzg>ausfertigte</bzg> Henkel: »Hamann fingiert wohl die Fertigstellung der Philologischen Einfälle vor dem Empfang des Briefes am 5. Oktober« – scheint zu stimmen, aber wie belegt man das?!?
+</marginal>
+
+<marginal letter="378" page="15" line="31">
+<bzg>aus der Preße komt…</bzg> Hamann versuchte <link ref="nicolai-f" linktext="true" /> als Verleger zu gewinnen, was aber misslang (auf dem Entwurf des Titelblatts stand: „Hier kommt der Drucker der allg. Bibliothek“ – Zitat?!? – In der ersten (als Entwurf) bezeugten Fassung heißt es „gedruckt in der Unterwelt mit D. Faustens eigener Hand und unter seinem Mantel.“ – Zitat?!?; zum letztlich gescheiterten Druck der Schrift zu Lebzeiten vgl. N&#x202F;III, S.&#x202F;423f.
+</marginal>
+
+Brief Nr. 379
 
 
 Brief Nr. 414
@@ -45481,11 +45502,11 @@ Brief Nr. 416
 <bzg>entre chien et loup</bzg> dt. in der Dämmerung
 </marginal>
 
-<marginal letter="416" page="112" line="6">
-<bzg>Hänschen</bzg> Johann Michael Hamann
+<marginal letter="416" page="112" line="6" sort="1">
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
 </marginal>
 
-<marginal letter="416" page="112" line="6">
+<marginal letter="416" page="112" line="6" sort="2">
 <bzg>Mutter</bzg> <link ref="schumacher-ar" linktext="true" />
 </marginal>
 
@@ -46057,7 +46078,7 @@ Geschichte von den Seelen der Menschen und Thiere. Halle 1774.
 <bzg>Auftritt</bzg> Lyda, mit Noten von Carl Philipp Emanuel Bach.
 </marginal>
 
-<marginal letter="419" page="122" line="27">
+<marginal letter="419" page="122" line="28">
 <bzg>W.</bzg> Leisewitz, Zeile 3f.
 </marginal>
 
