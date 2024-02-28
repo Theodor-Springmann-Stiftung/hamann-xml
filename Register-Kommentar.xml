@@ -2902,6 +2902,13 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 </subsection>
 </kommentar>
 
+<kommentar id="creytz" type="neuzeit">
+<lemma>Ludwig Konstantin Silvester Julius v. Creytz</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Landedelmann auf dem Gut Galitten, rund 100&#x202F;km südlich von Königsberg.
+</eintrag>
+
+</kommentar>
+
 <kommentar id="critische-nachrichten" type="neuzeit">
 <lemma>Critische Nachrichten aus dem Reiche der Gelehrsamkeit</lemma>
 <eintrag>Hrsg. v. <link ref="ramler" linktext="true" />, <link ref="sulzer" linktext="true" /> und Chrl. Mylius. Berlin: Haude und Spener 1750–51, 105 Stück. Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN555610861">SUB Göttingen: 4 Eph.lit. 178/13</wwwlink>.</eintrag>
@@ -3441,6 +3448,11 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 </subsection>
 </kommentar>
 
+<kommentar id="duchat" type="neuzeit">
+<lemma>Jean le Duchat</lemma>
+<eintrag>1658–1735. Frz. Philologe und <link ref="rabelais" linktext="false">Rabelais</link>-Editor.</eintrag>
+</kommentar>
+
 <kommentar id="dudgeon" type="neuzeit">
 <lemma>William Dudgeon</lemma>
 <eintrag>1705/6–1765 (?). Schottischer Philosoph. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-8140">Russell, P.: Dudgeon, William, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -3591,6 +3603,12 @@ E
 <kommentar id="eberhard-ja" type="neuzeit">
 <lemma>Johann August Eberhard</lemma>
 <eintrag>1739–1809. Deutscher Philosoph und Theologe in Berlin; Freund von <link ref="nicolai-f" linktext="true" />. Siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118687468.html#ndbcontent"> Gäbe, Lüder: Eberhard, Johann August, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;241f.</wwwlink></eintrag>
+<subsection id="eberhard-apologie" type="neuzeit">
+<lemma>Eberhard, <titel>Neue Apologie des Sokrates</titel></lemma>
+<eintrag>
+<titel>Neue Apologie des Sokrates,</titel> oder Untersuchung der Lehre von der Seligkeit der Heiden, von Johann August Eberhard (Berlin, Stettin: Nicolai 1772, 2. Aufl. 2 Bde., 1776/1778) [Biga&#x202F;103/110: „J. A. Eberhard’s neue Apologie des Sokrates, Berl. 725“]. Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000662600000000">SBB-PK Berlin: Dd 8901</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="ebert-ja" type="neuzeit">
@@ -4220,7 +4238,7 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 <lemma>Fresnoy, <titel>De arte graphica</titel></lemma>
 <eintrag>
 <titel>De arte graphica/L’art de peinture , de Charles-Alphonse Du Fresnoy, traduit en françois, avec des remarques</titel> (Paris 1668). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k111079h">Bibliothèque nationale de France: V-23873</wwwlink>.<line type="break" />
-Übers.: <titel>Kurtzer Begriff der Theoretischen Mahler-Kunst / aus dem Lateinischen des C. A. du Fresnoy, ins Teutsche übersetzet</titel> von S. T. Gerike (Berlin: Rüdiger 1699). Digitalisat: <wwwlink address="  http://resolver.staatsbibliothek-berlin.de/SBB00009C9200000000">SBB-PK Berlin: Bibl. Diez qu. 1950</wwwlink>.
+Übers.: <titel>Kurtzer Begriff der Theoretischen Mahler-Kunst / aus dem Lateinischen des C. A. du Fresnoy, ins Teutsche übersetzet</titel> von S. T. Gerike (Berlin: Rüdiger 1699). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00009C9200000000">SBB-PK Berlin: Bibl. Diez qu. 1950</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -5614,13 +5632,13 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-philologische-einfalle" type="neuzeit" sort="540">
 <lemma>Hamann, <titel>Philologische Einfälle</titel></lemma>
 <eintrag>
-<titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift.</titel> Entworfen vom Magus in Norden. Im Weinmonate 1772. – Zu Lebzeiten nicht gedruckt. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
+<titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift.</titel> Entworfen vom Magus in Norden. Im Weinmonate 1772. – Zu Lebzeiten nicht gedruckt. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
 </eintrag>
 </subsection>
 <subsection id="hamann-salomon" type="neuzeit" sort="550">
 <lemma>Hamann, <titel>Au Salomon de Prusse</titel></lemma>
 <eintrag>
-<titel>Av Salomon de Prusse.</titel> – Zu Lebzeiten nicht gedruckt; in derselben korrigierten Abschrift wie <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> überliefert, wohl um sie gemeinsam zu drucken. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;55–60.
+<titel>Av Salomon de Prusse.</titel> – Zu Lebzeiten nicht gedruckt; in derselben korrigierten Abschrift wie <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> überliefert, wohl um sie gemeinsam zu drucken. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;55–60.
 </eintrag>
 </subsection>
 <subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="600">
@@ -11174,9 +11192,21 @@ Q
 
 R
 
+<kommentar id="rabelais" type="neuzeit">
+<lemma>François Rabelais</lemma>
+<eintrag>Um 1494 bis 1553. Frz. Schriftsteller, Humanist und Benediktiner.</eintrag>
+<subsection id="rabelais-oevres" type="neuzeit">
+<lemma>Rabelais, <titel>Œuvres de Maitre François Rabelais</titel></lemma>
+<eintrag>
+<titel>Œuvres de Maitre François Rabelais,</titel>, publiées sous le titre de faits et dis du géant Gargantua et de son fils Pantagruel, avec la Prognostication Pantagruéline, l’épître du Limosin, la Crême Philosophale et deux épîtres. Nouvelle édition où on l’a ajouté des remarques historiques et critiques, hg. von <link ref="" subref="duchat" linktext="true" /> (6 Bde., Erstausgabe Amsterdam 1711, darauf mehrere Auflagen) [Biga&#x202F;164/561: „Oeuvres de Maitre Fr. Rabelais,
+Tom. I–VI, Amst. 725“]. Digitalisat der Ausgabe 1732: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10096398-5">BSB München: P.o.gall. 1777-1</wwwlink>. – Andere Rabelais-Ausgaben in Hamanns Besitz: Biga&#x202F;89/233: „Les Epitres de Rabelais, avec des Observations historiques, Par. 651“,  Biga&#x202F;170/646: „Oeuvres de Rabelais avec l'explication de tous le mots difficiles &#x26; la Clef. 675“, Biga&#x202F;177/761: „Les Oeuvres de Rabelais, 596“
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="rabener" type="neuzeit">
 <lemma>Gottlieb Wilhelm Rabener</lemma>
-<eintrag>1714–171. Schriftsteller. <wwwlink address="https://www.deutsche-biographie.de/sfz75447.html#adbcontent">Jacoby, Daniel: Rabener, Gottlieb Wilhelm, in: <titel>ADB</titel>&#x202F;27 (1888), S.&#x202F;78–85</wwwlink>.
+<eintrag>1714–1771. Schriftsteller. <wwwlink address="https://www.deutsche-biographie.de/sfz75447.html#adbcontent">Jacoby, Daniel: Rabener, Gottlieb Wilhelm, in: <titel>ADB</titel>&#x202F;27 (1888), S.&#x202F;78–85</wwwlink>.
 </eintrag>
 <subsection id="rabener-gellert" type="neuzeit" sort="10">
 <lemma><titel>Briefe von Gellert und Rabener</titel></lemma>
