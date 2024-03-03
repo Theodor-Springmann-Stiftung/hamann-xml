@@ -110,7 +110,7 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 
 <kommentar id="aelian" type="neuzeit">
 <lemma>Claudius Aelianus</lemma>
-<eintrag>ca. 170 – nach 222. Röm. Schriftsteller in griech. Sprache
+<eintrag>ca. 170 – nach 222. Röm. Schriftsteller in griech. Sprache.
 </eintrag>
 <subsection id="aelian-varhist" type="neuzeit">
 <lemma>Aelianus, <titel>Varia historia</titel></lemma>
@@ -2758,9 +2758,9 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 <lemma>Hyacinthe Cordonnier, genannt Thémiseul de Saint-Hyacinthe</lemma>
 <eintrag>1684–1746. Frz. Schriftsteller.</eintrag>
 <subsection id="cordonnier-inconnue" type="neuzeit">
-<lemma>Anonym [Saint-Hyacinthe], <titel>Le chef-d’Œuvre d'un Inconnu</titel></lemma>
+<lemma>Saint-Hyacinthe, <titel>Le chef-d’Œuvre d’un Inconnu</titel></lemma>
 <eintrag>
-<titel>Le chef-d’Œuvre d'un Inconnu,</titel> Poëme heureusement découvert &amp; mis au jour, avec des Remarques savantes &amp; recherchées, par M. le Docteur Chrisostome Matanasius (La Haye 1714). Digitalisat einer Ausgabe von 1745: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094350-4">BSB München: P.o.gall. 1403-1</wwwlink></eintrag>
+<titel>Le chef-d’Œuvre d’un Inconnu,</titel> Poëme heureusement découvert &amp; mis au jour, avec des Remarques savantes &amp; recherchées, par M. le Docteur Chrisostome Matanasius (La Haye 1714). Digitalisat einer Ausgabe von 1745: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094350-4">BSB München: P.o.gall. 1403-1</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -5655,6 +5655,12 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <lemma>Hamann, <titel>Beylage zun Denkwürdigkeiten des seligen Sokrates</titel></lemma>
 <eintrag>
 <titel>Beylage zun Denkwürdigkeiten des seligen Sokrates.</titel> Von einem Geistlichen in Schwaben. Zweyte Auflage (Halle 1773) [Druckort, Auflage und Erscheinungsjahr fingiert] [Biga&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;111–121.
+</eintrag>
+</subsection>
+<subsection id="hamann-prolegomena" type="neuzeit" sort="560">
+<lemma>Hamann, <titel>Prolegomena</titel></lemma>
+<eintrag>
+<titel>Christiani Zacchaei Telonarchae προλεγομενα über die neueste Auslegung der ältesten Urkunde des menschlichen Geschlechts.</titel> In zweyen Antwortschreiben an Apollonium Philosophum (1774 [Hamburg: Bode]). – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 </eintrag>
 </subsection>
 <subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="600">
@@ -9113,18 +9119,24 @@ In der <link ref="hamann" subref="h-dangeuil" linktext="false"><titel>Beylage zu
 <lemma>Jean-François de Marmontel</lemma>
 <eintrag>1723–1799. Frz. Literarhistoriker, königlicher Hofhistoriograf.
 </eintrag>
-<subsection id="marmontel-moralische" type="neuzeit">
+<subsection id="marmontel-moralische" type="neuzeit" sort="10">
 <lemma>Marmontel, <titel>Contes moraux</titel></lemma>
 <eintrag>
 Erschienen zuerst in der von ihm für kurze Zeit herausgegebenen Zeitschrift <titel>Le Mercure</titel> (Paris 1758), später als Buch [Biga&#x202F;150/355: „Contes Moraux par Marmontel, Tom. I. II. III. Leipz. 766“].<line type="break" />
 Übers.: <titel>Moralische Erzählungen von Herrn Marmontel</titel> (5&#xA0;Tle., Karlsruhe 1762–1770). Digitalisat: Tl.&#x202F;1, 2.&#x202F;Aufl. 1763: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10094287">BSB München: P.o.gall. 1372-1</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="marmontel-poetique" type="neuzeit" sort="10">
+<subsection id="marmontel-poetique" type="neuzeit" sort="20">
 <lemma>Marmontel, <titel>Poétique françoise</titel></lemma>
 <eintrag>
 <titel>Poétique françoise par M. Marmontel</titel> (2 Bde., Paris 1763) [Biga&#x202F;133/54: „Poetique frangoise par Mr. Marmontel, Tom. I. II. Par. 763“].<line type="break" />
 Übers.: <titel>Des Herrn Marmontels Dichtkunst, aus dem Französischen übersetzt und mit einigen Zusätzen vermehrt</titel> (3 Tle; Bremen: Cramer 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094284-6">BSB München: P.o.gall. 1370-1/2</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="marmontel-belisaire" type="neuzeit" sort="30">
+<lemma>Marmontel, <titel>Bélisaire</titel></lemma>
+<eintrag>
+<titel>Belisaire</titel> par M. Marmontel, De l’Académie Françoise (Paris 1767) [Biga&#x202F;150/342: „Belisaire par Marmontel, Yverd. 767.“, 175/732: „Belisaire par Mr. de Marmontel, Par. 767. Don.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094267-2">BSB München: P.o.gall. 1360</wwwlink>.<line type="break" />
 </eintrag>
 </subsection>
 </kommentar>
@@ -12527,6 +12539,12 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 <lemma>Semler <titel>Historiae ecclesiasticae selecta capita</titel></lemma>
 <eintrag>
 <titel>Historiae ecclesiasticae selecta capita, cum epitome canonum, excerptis domgaticis et tabulis chronologicis</titel> (3&#xA0;Bde., Halle: Tramp 1767/9).
+</eintrag>
+</subsection>
+<subsection id="semler-canon" type="neuzeit" sort="20">
+<lemma>Semler <titel>Abhandlung von freier Untersuchung des Canon</titel></lemma>
+<eintrag>
+D. Joh. Salomo Semlers <titel>Abhandlung von freier Untersuchung des Canon</titel> nebst Anwort auf die tübingische Vertheidigung der Apocalypsis (3&#xA0;Bde., Halle: Hemmerde 1771–1773) [Biga&#x202F;26/167: „J. S. Semlers Abhandl von freyer Untersuchung des Canons, 1. 2. 3. Th. Halle 771–723.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10412817-7">BSB München: Exeg. 1012</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
