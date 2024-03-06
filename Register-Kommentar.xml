@@ -3635,7 +3635,7 @@ E
 
 <kommentar id="eckart-cg" type="neuzeit">
 <lemma>Christoph Gottfried Eckart</lemma>
-<eintrag>1693–1750. Buchhändler (Buchhandlung wurde 1746 von <link ref="hartung-hj" linktext="true" /> übernommen) und Negociant in Königsberg.</eintrag>
+<eintrag>1693–1750. Buchhändler (die Buchhandlung wurde 1746 von <link ref="hartung-hj" linktext="true" /> übernommen) und Negociant in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="effen" type="neuzeit">
@@ -4239,12 +4239,17 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 
 <kommentar id="dreikronenloge" type="neuzeit">
 <lemma>Freimaurerloge zu den Drei Kronen in Königsberg</lemma>
-<eintrag>1760 gestiftet, bekannte Mitglieder waren u.a. <link ref="kanter-jj" linktext="true" />, <link ref="starck" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="scheffner" linktext="true" />. Vgl. Richard Fischer: Geschichte der Johannisloge Zu den drei Kronen. Königsberg 1910.</eintrag>
+<eintrag>1760 gestiftet, bekannte Mitglieder waren u.a. <link ref="kanter-jj" linktext="true" />, <link ref="starck" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="scheffner" linktext="true" />. Ansässig hinter der Münze, zwischen mittelstem Tragheim und Königsberger Schloss. Siehe Richard Fischer: Geschichte der Johannisloge Zu den drei Kronen. Königsberg 1910.</eintrag>
 </kommentar>
 
 <kommentar id="frankfurter-gelehrte-anzeigen" type="neuzeit">
 <lemma>Frankfurter gelehrte Anzeigen</lemma>
 <eintrag>Erschienen 1772–1790, wichtiges literaturkritisches Organ des Sturm und Drang vor allem 1772, für das u.&#x202F;a. <link ref="herder" linktext="true" /> schrieb; anfänglich redigiert u.&#x202F;a. von <link ref="merck" linktext="true" />. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-695430">ULB Halle</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="freimaurerkatechismus" type="neuzeit">
+<lemma>Catechismus der strikten Observanz von 1764</lemma>
+<eintrag>Catechismus der str. Obs. von 1764 [Rudolstadt ca. 1805/6]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10446381-1">BSB München: H.g.hum. 410 v#Beibd.2</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="freron" type="neuzeit">
@@ -5658,13 +5663,13 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-philologische-einfalle" type="neuzeit" sort="540">
 <lemma>Hamann, <titel>Philologische Einfälle</titel></lemma>
 <eintrag>
-<titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift.</titel> Entworfen vom Magus in Norden. Im Weinmonate 1772. – Zu Lebzeiten nicht gedruckt. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
+<titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift.</titel> Entworfen vom Magus in Norden. Im Weinmonate 1772. – Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter-jj" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift (gemeinsam mit <link ref="hamann" subref="hamann-salomon" linktext="true" />), vgl. <intlink letter="380" page="23" line="18" linktext="true" />. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
 </eintrag>
 </subsection>
 <subsection id="hamann-salomon" type="neuzeit" sort="550">
 <lemma>Hamann, <titel>Au Salomon de Prusse</titel></lemma>
 <eintrag>
-<titel>Av Salomon de Prusse.</titel> – Zu Lebzeiten nicht gedruckt; in derselben korrigierten Abschrift wie <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> überliefert, wohl um sie gemeinsam zu drucken. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;55–60.
+<titel>Av Salomon de Prusse.</titel> – Zu Lebzeiten nicht gedruckt; in derselben korrigierten Abschrift wie <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> überliefert, mit denen sie gemeinsam gedruckt werden sollte. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;55–60.
 </eintrag>
 </subsection>
 <subsection id="hamann-beilage-denkwurdigkeiten" type="neuzeit" sort="560">
@@ -5817,7 +5822,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hartknoch" type="neuzeit">
 <lemma>Johann Friedrich Hartknoch</lemma>
-<eintrag>1740–1789. 1761 Lehrling von <link ref="kanter-jj" linktext="true" />, übernahm 1763 dessen Filiale in Mitau, Verleger in Riga, zunächst u.&#x202F;a. der Schriften <link ref="herder" linktext="false">Herders</link>, später auch Hamanns, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz26177.html#adbcontent">Eckardt: Hartknoch, Johann Friedrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;667</wwwlink>.</eintrag>
+<eintrag>1740–1789. 1761 Lehrling von <link ref="kanter-jj" linktext="true" />, übernahm 1763 dessen Filiale in Mitau, Verleger in Riga, zunächst u.&#x202F;a. der Schriften <link ref="herder" linktext="false">Herders</link>, später auch Hamanns und <link ref="kant" linktext="false">Kants</link>; anfänglich Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>, in Riga Mitglied der Loge Zum Schwert, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz26177.html#adbcontent">Eckardt: Hartknoch, Johann Friedrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;667</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hartknoch-a" type="neuzeit">
@@ -5835,25 +5840,31 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <eintrag>1752–1775. 1774 Gymnasialprof. der Philosophie am akademischen Gymnasium in Mitau</eintrag>
 </kommentar>
 
+<kommentar id="hartung-gl" type="neuzeit">
+<lemma>Gottlieb Leberecht Hartung</lemma>
+<eintrag>1747–1797. Buchhändler in Königsberg, Sohn von <link ref="hartung-hj" linktext="true" /> und <link ref="hartung-h" linktext="true" />; 1759 Lehrling in der Hartungschen Buchdruckerei, die ihm seine Mutter nach dem Tod ihrer drei Ehemänner bereits 1763 übergab; erhielt 1771 das Privileg seines Vaters; Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz27948.html#adbcontent">Kelchner, Ernst: Hartung, Johann Heinrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;713–715</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="hartung-hj" type="neuzeit">
 <lemma>Johann Heinrich Hartung</lemma>
-<eintrag>1699–1756. In Erfurt geboren, dort und in Leipzig als Buchdrucker ausgebildet; übernahm 1746 in Königsberg Buchhandlung und Verlag von <link ref="eckart-cg" linktext="true" />, erwarb 1751 ein Zeitungsprivileg, gab 1752 die <titel>Königliche privilegierte Preußische Staats-, Kriegs- und Friedenszeitung</titel> (bis 1811 zweimal wöchentlich; während der russischen Besatzung im Siebenjährigen Krieg unter dem Titel: <titel>Königsbergische Staats Kriegs und Friedens-Zeitung</titel>), druckte die amtlichen <link ref="konigsberger-f-a" linktext="false"><titel>Frag- und Anzeigungsnachrichten</titel></link>, verlegte die Schriften der <link ref="konigliche-d-g" linktext="false">kngl. deutschen Gesellschaft zu Königsberg</link>; der Buchladen befand sich in der Hl. Geistgasse. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz27948.html#adbcontent">Kelchner, Ernst: Hartung, Johann Heinrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;713–715</wwwlink></eintrag>
+<eintrag>1699–1756. In Erfurt geboren, dort und in Leipzig als Buchdrucker ausgebildet; übernahm 1746 in Königsberg Buchhandlung und Verlag von <link ref="eckart-cg" linktext="true" />, erwarb 1751 ein Zeitungsprivileg, gab 1752 die <titel>Königliche privilegierte Preußische Staats-, Kriegs- und Friedenszeitung</titel> (bis 1811 zweimal wöchentlich; während der russischen Besatzung im Siebenjährigen Krieg unter dem Titel: <titel>Königsbergische Staats Kriegs und Friedens-Zeitung</titel>), druckte die amtlichen <link ref="konigsberger-f-a" linktext="false"><titel>Frag- und Anzeigungsnachrichten</titel></link>, verlegte die Schriften der <link ref="konigliche-d-g" linktext="false">Königl. deutschen Gesellschaft zu Königsberg</link>; der Buchladen befand sich in der Hl. Geistgasse; heiratete 1731 Christina, geb. Stelter († 1745), 1746 <link ref="hartung-h" linktext="true" />. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz27948.html#adbcontent">Kelchner, Ernst: Hartung, Johann Heinrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;713–715</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="hartung-h" type="neuzeit">
 <lemma>Hanna Hartung</lemma>
-<eintrag>Gest. 1791. Geb. Zobel, zweite Frau von <link ref="hartung-hj" linktext="true" />; übernahm Buchhandel und Verlag der Firma Hartung nach dem Tod des Sohnes <link ref="hartung-mc" linktext="true" /> (ca. April 1759), zus. mit erst <link ref="woltersdorf" linktext="true" /> (gest. 1759), dann <link ref="zeise" linktext="true" />.
+<eintrag>Gest. 1791. Geb. Zobel, seit 1746 die zweite Frau von <link ref="hartung-hj" linktext="true" />; übernahm Buchhandel und Verlag der Firma Hartung nach dem Tod von <link ref="hartung-mc" linktext="true" /> (ca. April 1759), zunächst mit ihrem Ehemann <link ref="woltersdorf" linktext="true" /> (gest. 1759), dann mit dem dritten Ehemann <link ref="zeise" linktext="true" />, ab Mitte der 1760er Jahre übergab sie Buchhandel und Verlag ihrem Sohn <link ref="hartung-gl" linktext="true" />.
 </eintrag>
 </kommentar>
 
 <kommentar id="hartung-mc" type="neuzeit">
 <lemma>Michael Christian Hartung</lemma>
-<eintrag>1738–1759. Sohn von <link ref="hartung-hj" linktext="true" /> und <link ref="hartung-h" linktext="true" />, übernahm 1756 die Buchhandlung und den Verlag des Vaters.</eintrag>
+<eintrag>1738–1759. Sohn von <link ref="hartung-hj" linktext="true" /> und Christine Hartung, übernahm 1756 die Buchhandlung und den Verlag des Vaters.</eintrag>
 </kommentar>
 
 <kommentar id="hartung-re" type="neuzeit">
 <lemma>Regina Elisabeth Hartung</lemma>
-<eintrag>Geb. 1734. Tochter von <link ref="hartung-hj" linktext="true" /> und <link ref="hartung-h" linktext="true" />.
+<eintrag>Geb. 1734. Tochter von <link ref="hartung-hj" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -7208,7 +7219,7 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 <lemma>Kantemir, <titel>Satyren</titel></lemma>
 <eintrag>
 <titel>Satyres de Monsieur le prince Cantemir. Avec l’histoire de sa vie, traduites en françois</titel> (London 1749).<line type="break" />
-Übers.: <titel>Heinrich Eberhards, Freyherrn von Spilcker, Königl. Preuß. Flügeladjutantens und Obristlieutenants, der Königl. <link ref="konigliche-d-g" linktext="false">deutschen Gesellschaft zu Königsberg</link> Ehrenmitglieds, versuchte freye Uebersetzung der Satyren des Prinzen Kantemir nebst noch einigen andern poetischen Uebersetzungen und eigenen Gedichten, auch einer Abhandlung von dem Ursprunge, Nutzen und Fortgange der Satyren, und der Lebensbeschreibung des Prinzen Kantemir. Herausgegeben und mit einer Vorrede begleitet von <link ref="mylius" linktext="false">C. Mylius</link>. Das Leben des Prinzen Antiochus Kantemir. Heinrich Eberhard von Spilcker, Kurze Abhandlung vom Ursprung, Nutzen und Fortgang der Satyren</titel> (Berlin 1752). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10036302-0">Bayerische Staatsbibliothek: P.o.rel. 3140</wwwlink>.
+Übers.: <titel>Heinrich Eberhards, Freyherrn von Spilcker, Königl. Preuß. Flügeladjutantens und Obristlieutenants, der  <link ref="konigliche-d-g" linktext="false">Königl. deutschen Gesellschaft zu Königsberg</link> Ehrenmitglieds, versuchte freye Uebersetzung der Satyren des Prinzen Kantemir nebst noch einigen andern poetischen Uebersetzungen und eigenen Gedichten, auch einer Abhandlung von dem Ursprunge, Nutzen und Fortgange der Satyren, und der Lebensbeschreibung des Prinzen Kantemir. Herausgegeben und mit einer Vorrede begleitet von <link ref="mylius" linktext="false">C. Mylius</link>. Das Leben des Prinzen Antiochus Kantemir. Heinrich Eberhard von Spilcker, Kurze Abhandlung vom Ursprung, Nutzen und Fortgang der Satyren</titel> (Berlin 1752). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10036302-0">Bayerische Staatsbibliothek: P.o.rel. 3140</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="kantemir-geschichte" type="neuzeit" sort="20">
@@ -7222,7 +7233,7 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 
 <kommentar id="kanter-jj" type="neuzeit">
 <lemma>Johann Jakob Kanter</lemma>
-<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften) und Unternehmer in Königsberg, Elbing (Filiale), Marienwerder (Druckerei) u. Trutenau, Lotteriedirektor, Papiermüller, Erbherr von Trutenau. Errichtete anstelle der Papiermühle eine Schriftgießerei u. eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; 1781 gab er die Buchhandlung an seinen Angestellten Wagner u. den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der Dreikronenloge. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
+<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften) und Unternehmer in Königsberg, Elbing (Filiale), Marienwerder (Druckerei) u. Trutenau, Lotteriedirektor, Papiermüller, Erbherr von Trutenau. Errichtete anstelle der Papiermühle eine Schriftgießerei u. eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; 1781 gab er die Buchhandlung an seinen Angestellten Wagner u. den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
 Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Ort, den Hamann häufig besuchte, und wo er vielerlei Leute traf. Er wurde 1760 in Kanters väterlichem Haus in der Altstädtischen Langgasse 23 eröffnet und zog Ende August 1768 um in das nach dem großen Brand von 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2. Über dem Eingang hing ein großer Preußenadler und im Inneren standen Büsten einerseits von Pindar, Caesar, Tacitus, Plutarch und anderen, andererseits von Kant, Scheffner, Hippel, Lindner und anderen (vgl. <intlink letter="351" page="419" line="26" linktext="true" />); später ebenso ein Gemälde von Hamann (vgl. <intlink letter="398" page="68" line="20" linktext="true" />).</eintrag>
 </kommentar>
 
@@ -8433,7 +8444,7 @@ Die Verf. weisen nach, dass <link ref="pope" linktext="false">Popes</link> Dicht
 
 <kommentar id="lindner-jg" type="neuzeit">
 <lemma>Johann Gotthelf Lindner</lemma>
-<eintrag>1729–1776. Freund Hamanns seit Schulzeiten; 1750 Magister an der Universität Königsberg, 1753 Lehrer an der dortigen Thumschule, 1755–65 Rektor und Inspektor der Domschule in Riga, 1765–1776 Prof. der Poesie in Königsberg, 1766 Direktor der dortigen <link ref="konigliche-d-g" linktext="false">Kngl. Deutschen Gesellschaft</link>, 1775 Kirchen- u. Schulrat; Hofprediger; siehe: Joseph Kohnen, <titel>Johann Gotthelf Lindner. Pädagoge, Literat und Freimaurer in Königsberg und Riga</titel> (<titel>Nordost-Archiv, Zeitschrift für Kulturgeschichte und Landeskunde</titel>, Jg. 17, 1984, Heft 76, S.&#x202F;33–48).
+<eintrag>1729–1776. Freund Hamanns seit Schulzeiten; 1750 Magister an der Universität Königsberg, 1753 Lehrer an der dortigen Thumschule, 1755–65 Rektor und Inspektor der Domschule in Riga, 1765–1776 Prof. der Poesie in Königsberg, 1766 Direktor der dortigen <link ref="konigliche-d-g" linktext="false">Königl. Deutschen Gesellschaft</link>, 1775 Kirchen- u. Schulrat; Hofprediger; Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>; siehe: Joseph Kohnen, <titel>Johann Gotthelf Lindner. Pädagoge, Literat und Freimaurer in Königsberg und Riga</titel> (<titel>Nordost-Archiv, Zeitschrift für Kulturgeschichte und Landeskunde</titel>, Jg. 17, 1984, Heft 76, S.&#x202F;33–48).
 </eintrag>
 <subsection id="venusmeta" type="neuzeit" sort="10">
 <lemma>Lindner, <titel>Vénus métaphysique</titel></lemma>
@@ -12045,7 +12056,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 
 <kommentar id="scheffner" type="neuzeit">
 <lemma>Johann George Scheffner</lemma>
-<eintrag>1736–1820. Preuß. Beamter, Lyriker, Übersetzer, 1767 Kriegs- und Steuerrat in Gumbinnen, 1771 in Königsberg, 1772–75 in Marienwerder, später Gutsbesitzer in Sprintlaken, ab 1796 lebte er wieder in Königsberg; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118834134.html#adbcontent">Brenning, E., Scheffner, Johann George, in: <titel>ADB</titel>&#x202F;30 (1890), S.&#x202F;685–688</wwwlink>.
+<eintrag>1736–1820. Preuß. Beamter, Lyriker, Übersetzer, 1767 Kriegs- und Steuerrat in Gumbinnen, 1771 in Königsberg, 1772–75 in Marienwerder, später Gutsbesitzer in Sprintlaken, Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118834134.html#adbcontent">Brenning, E., Scheffner, Johann George, in: <titel>ADB</titel>&#x202F;30 (1890), S.&#x202F;685–688</wwwlink>.
 </eintrag>
 <subsection id="scheffner-jugendliche" type="neuzeit" sort="10">
 <lemma>Scheffner, <titel>Jugendliche Gedichte</titel></lemma>
