@@ -7295,9 +7295,9 @@
         <receivers>
           <receiver ref="50" />
         </receivers>
-        <hasOriginal value="true" />
+        <hasOriginal value="false" />
         <isProofread value="false" />
-        <isDraft value="false" />
+        <isDraft value="true" />
         <ZHInfo inZH="true">
           <dateChanged value="false" />
           <begin vol="3" page="25" />
