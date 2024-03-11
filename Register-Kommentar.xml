@@ -1710,6 +1710,17 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </eintrag>
 </kommentar>
 
+<kommentar id="briegleb" type="neuzeit">
+<lemma>Johann Christian Briegleb</lemma>
+<eintrag>1741–1805, Philologe, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116508167.html">Deutsche Biographie</wwwlink>.
+</eintrag>
+<subsection id="briegleb-horaz" type="neuzeit">
+<lemma>Briegleb, <titel>Vorlesungen über den Horaz</titel></lemma>
+<eintrag>
+<titel>Vorlesungen über den Horaz</titel> von Johann Christian Briegleb (Altenburg 1770). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10241633-6">BSB München: A.lat.a. 574-1</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="breitenbauch" type="neuzeit">
 <lemma>Georg August v. Breitenbauch</lemma>
 <eintrag>1731–1817. Historiker, Geograph, <wwwlink address="https://www.deutsche-biographie.de/sfz5740.html">Burkhardt, Karl August Hugo: Breitenbauch, Georg August von, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;290</wwwlink>.</eintrag>
@@ -2911,7 +2922,12 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 <lemma>Friedrich Carl Casimir v. Creutz</lemma>
 <eintrag>1724–1770. Freiherr. Schriftsteller, 1764 Reichshofrat in Hessen-Homburg. <wwwlink address="https://www.deutsche-biographie.de/pnd118834371.html#adbcontent">Richter: Creuz, Friedrich Karl Kasimir Freiherr von, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;593</wwwlink>.
 </eintrag>
-<subsection id="creutz-seneca" type="neuzeit">
+<subsection id="creutz-oden" type="neuzeit" sort="10">
+<lemma>Creutz, <titel>Oden und andere Gedichte</titel></lemma>
+<eintrag>
+<titel>Oden und andere Gedichte</titel> (Frankfurt: Varrentrapp 1750) [Biga&#x202F;146/267: „v. Creutz) Oden und andere Gedichte, Frft. 753.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10107223-6">BSB München: P.o.germ. 268#Beibd.1</wwwlink>. – Neue vermehrte Auflage, 2 Bde., Frankfurt: Varrentrapp 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10107127-2">BSB München: P.o.germ. 252 c-1/2</wwwlink>.</eintrag>
+</subsection>
+<subsection id="creutz-seneca" type="neuzeit" sort="20">
 <lemma>Creutz, <titel>Seneca</titel></lemma>
 <eintrag>
 <titel>Seneca. Ein Trauerspiel</titel> (Frankfurt: Varrentrapp 1754).</eintrag>
@@ -6013,6 +6029,7 @@ Von Herder: Johann Gottfried Herder: <titel>Briefe</titel>, Gesamtausgabe 1763�
 An Herder:<line type="break" />
 <titel>Johann Gottfried von Herder’s Lebensbild.</titel> Sein chronologisch geordneter Briefwechsel […]. Hg. von seinem Sohne Dr. Emil Gottfried von Herder (6 Bde., Erlangen 1846).<line type="break" />
 Von und an Herder: <titel>Ungedruckte Briefe aus Herders Nachlaß;</titel> Herders Briefwechsel mit Gleim, Nicolai, Hartknoch, Heyne u.a., hg.&#x202F;von Heinrich Düntzer und Ferdinand Gottfried Herder, 3 Bde. (Leipzig 1861–1862).
+<wwwlink address="https://books.google.de/books?id=wAY71ASYax4C"><titel>Herder’s Briefwechsel mit Nicolai.</titel> Im Originaltext herausgegeben von Otto Hoffmann (Berlin 1887).</wwwlink>.
 </eintrag>
 <subsection id="herder-cyrus" type="neuzeit" sort="10">
 <lemma>Herder, <titel>Gesang an den Cyrus</titel></lemma>
@@ -6151,7 +6168,7 @@ Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffen
 
 <kommentar id="herder-c" type="neuzeit">
 <lemma>Caroline Herder</lemma>
-<eintrag>1748–1793. Geb. Flachsland, sei 1773 Ehefrau von <link ref="herder" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29949.html#ndbcontent">Dobbek, Wilhelm: Herder, Carolina, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;603f.</wwwlink></eintrag>
+<eintrag>1748–1793. Geb. Flachsland, ab 1773 Ehefrau von <link ref="herder" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29949.html#ndbcontent">Dobbek, Wilhelm: Herder, Carolina, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;603f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="herder-cd-g" type="neuzeit">
@@ -7578,6 +7595,11 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <eintrag>
 <titel>Hermanns Schlacht</titel>. Ein Bardiet für die Schaubühne (Hamburg und Bremen: Cramer 1769) [Biga&#x202F;131/17: „Hermann’s Schlacht ein Bardiet für die Schaubühne, Hamb. 769. in duplo.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10057093-8">BSB München: 4 P.o.germ. 114</wwwlink>.</eintrag>
 </subsection>
+<subsection id="klopstock-oden1771" type="neuzeit" sort="130">
+<lemma>Klopstock, <titel>Oden</titel></lemma>
+<eintrag>
+<titel>Oden</titel>. (Hamburg: Bode 1771) [Biga&#x202F;145/264: „(Klopstock’s) Oden, Hamb. 771“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-342339">ULB Halle: Dd 2483 z</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="klotz" type="neuzeit">
@@ -8301,10 +8323,16 @@ Die Verf. weisen nach, dass <link ref="pope" linktext="false">Popes</link> Dicht
 <titel>Briefe von Herrn Leßing und Herrn Klotz, betreffend des erstern Laokoon und des letztern Werk von alten geschnittenen Steinen</titel> (Leipzig 1768). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10257075-2">BSB München: Arch. 76</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="lessing-antiquarischebriefe" type="neuzeit" sort="90">
+<subsection id="lessing-antiquarischebriefe" type="neuzeit" sort="100">
 <lemma>Lessing, <titel>Briefe, antiquarischen Inhalts</titel></lemma>
 <eintrag>
 <titel>Briefe, antiquarischen Inhalts:</titel> Αγωνισμα μαλλον ἐς το παραχρημα ἀκουειν ἠ κτημα ἐσ ἀει – von Gotthold Ephraim Lessing (2 Bde., Berlin: Nicolai 1768/1769) [Biga&#x202F;147/298: „Lessings Briefe antiquar. Innhalts, 1 Th. Berl.“]. Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN655957359">SUB Göttingen</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="lessing-vermischteschriften" type="neuzeit" sort="110">
+<lemma>Lessing, <titel>Vermischte Schriften I</titel></lemma>
+<eintrag>
+Gotthold Ephraim Lessings <titel>vermischte Schriften.</titel> Erste Theil (Berlin: Voß 1771) [Biga&#x202F;136/97: „Lessing's vermischte Schriften, 1. Th. Berl. 771“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=wM7IkTHs5JcC">Google Books</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14504,6 +14532,12 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 </subsection>
 </kommentar>
 
+<kommentar id="westfeld" type="neuzeit">
+<lemma>Christian Friedrich Gotthard Westfeld</lemma>
+<eintrag>1746–1823. Mineraloge und schaumburg-lippischer Kamerrat und Polizeidirektor, 1773 hannoveranischer Beamter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz85234.html">Koch, Max: Wieland, Christoph Martin, in: <titel>ADB</titel>&#x202F;42 (1897), S.&#x202F;191f</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="weymann-d" type="neuzeit">
 <lemma>Daniel Weymann</lemma>
 <eintrag>1732–1795. Ab 1762 Konrektor an der Löbenichtschen Schule in Königsberg; Kritiker <link ref="kant" linktext="false">I. Kants</link>.
@@ -14587,7 +14621,12 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 
 <kommentar id="wilhelm-schaumburg-lippe" type="neuzeit">
 <lemma>Graf Wilhelm Friedrich Ernst zu Schaumburg-Lippe</lemma>
-<eintrag>1724–1777. Regent der Grafschaft Schaumburg-Lippe, Generalmajor im Siebenjährigen Krieg und Militärtheoretiker.</eintrag>
+<eintrag>1724–1777. Regent der Grafschaft Schaumburg-Lippe, Generalmajor im Siebenjährigen Krieg und Militärtheoretiker, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz85621.html">Falkmann, Rudolf: Wilhelm, in: <titel>ADB</titel>&#x202F;43 (1898), S.&#x202F;202f.</wwwlink></eintrag>
+</kommentar>
+
+<kommentar id="maria-schaumburg-lippe" type="neuzeit">
+<lemma>Gräfin Maria Barbara Eleonore zu Schaumburg-Lippe</lemma>
+<eintrag>1744–1777, geb. Gräfin zur Lippe-Biesterfeld. Ehefrau von <link ref="wilhelm-schaumburg-lippe" linktext="true" /> und Beichtkind von <link ref="herder" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="willamovius" type="neuzeit">

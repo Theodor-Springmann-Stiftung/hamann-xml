@@ -30810,7 +30810,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="232" line="26" sort="2">
-<bzg>sine die et Consule</bzg> dt. ohne Briefdatum
+<bzg>sine die et Consule</bzg> ohne Tag und Jahreszahl (die Römer benannten die Jahre nach den regierenden Konsuln)
 </marginal>
 
 <marginal letter="257" page="232" line="27">
@@ -41927,7 +41927,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="425" line="19" sort="2">
-<bzg>Westfeld</bzg> der Brief vom 19. August 1768 ist abgedruckt in <titel>Johann Gottfried von Herder’s Lebensbild,</titel> I,2, S.&#x202F;361–363
+<bzg>Westfeld</bzg> <link ref="westfeld" linktext="true" />; der Brief vom 19. August 1768 ist abgedruckt in <titel>Johann Gottfried von Herder’s Lebensbild,</titel> I,2, S.&#x202F;361–363
 </marginal>
 
 <marginal letter="353" page="425" line="20">
@@ -42175,7 +42175,7 @@ Brief Nr. 354
 Brief Nr. 355
 
 <marginal letter="355" page="430" line="27" sort="1">
-<bzg>sine die et consule</bzg> ohne Briefdatum; gemeint ist <intlink letter="353" page="423" line="2" linktext="true" /> (vorher schrieb Herder im April 1768)
+<bzg>sine die et consule</bzg> ohne Tag und Jahreszahl (die Römer benannten die Jahre nach den regierenden Konsuln); gemeint ist <intlink letter="353" page="423" line="2" linktext="true" /> (vorher schrieb Herder im April 1768)
 </marginal>
 
 <marginal letter="355" page="430" line="27" sort="2">
@@ -43011,7 +43011,7 @@ Brief Nr. 359
 </marginal>
 
 <marginal letter="359" page="443" line="10" sort="2">
-<bzg>sine die et consule</bzg> ohne Briefdatum; gemeint ist <intlink letter="358" page="437" line="11" linktext="true" />
+<bzg>sine die et consule</bzg> ohne Tag und Jahreszahl (die Römer benannten die Jahre nach den regierenden Konsuln); gemeint ist <intlink letter="358" page="437" line="11" linktext="true" />
 </marginal>
 
 <marginal letter="359" page="443" line="11">
@@ -45296,7 +45296,7 @@ Henkel: eine halbe Zeile unleserlich gestrichen?!? Manuskript anschauen, da soll
 Brief Nr. 378
 
 <marginal letter="378" page="15" line="25">
-Der Brief wurde als Beilage zu HKB 379 abgeschickt.
+Der Brief wurde als Beilage zu <intlink letter="379" page="18" line="17" linktext="false">HKB 379</intlink> abgeschickt und erreichte Herder über <link ref="eberhard-ja" linktext="true" /> und <link ref="nicolai" linktext="true" /> Mitte/Ende November 1772, vgl. zu <intlink letter="382" page="28" line="5" linktext="true" />.
 </marginal>
 
 <marginal letter="378" page="15" line="27">
@@ -45760,10 +45760,6 @@ Brief Nr. 379
 <bzg>cicutis allium nocentius</bzg> <link ref="horaz" linktext="false">Hor. <titel>epod.</titel> 3,3</link>
 </marginal>
 
-<marginal letter="379" page="21" line="34">
-<bzg>letzten Commission</bzg> wohl <intlink letter="381" page="25" line="6" linktext="false">HKB 381</intlink>?!?
-</marginal>
-
 Brief Nr. 380
 
 <marginal letter="380" page="22" line="2">
@@ -45967,7 +45963,7 @@ Brief Nr. 382
 </marginal>
 
 <marginal letter="382" page="28" line="2" sort="1">
-<bzg>ex die et consule</bzg> aus dem Datum
+<bzg>ex die et consule</bzg> aus Tag und Jahreszahl (die Römer benannten die Jahre nach den regierenden Konsuln)
 </marginal>
 
 <marginal letter="382" page="28" line="2" sort="2">
@@ -45979,7 +45975,7 @@ Brief Nr. 382
 </marginal>
 
 <marginal letter="382" page="28" line="4" sort="1">
-<bzg>HE. Eberhard</bzg> <link ref="eberhard-ja" linktext="true" />; zu Hamanns abenteuerlichen Versuchen, Herder über Eberhard und Nicolai in Berlin zu erreichen vgl. <intlink letter="379" page="19" line="4" linktext="true" />
+<bzg>HE. Eberhard</bzg> <link ref="eberhard-ja" linktext="true" />
 </marginal>
 
 <marginal letter="382" page="28" line="4" sort="2">
@@ -45987,7 +45983,7 @@ Brief Nr. 382
 </marginal>
 
 <marginal letter="382" page="28" line="5">
-<bzg>Br. an HE. Nikolai </bzg> Brief an <link ref="nicolai" linktext="true" />
+<bzg>Ihren Br. an HE. Nikolai</bzg> zu Hamanns abenteuerlichen Versuchen, Herder über <link ref="eberhard-ja" linktext="true" /> und <link ref="niclai" linktext="true" /> in Berlin zu erreichen vgl. <intlink letter="379" page="19" line="4" linktext="true" />; Eberhard gab den Brief an Nicolai, dieser schickte ihn Herder am 12. November 1772 und kommentierte: „Sie bekommen anbey einen Brief von Herrn Hamann. Obgleich citissime darauf steht, so habe ich doch, da ich bey seinen Schriften beständig gewohnt bin, einen ganz andern Verstand zu suchen, als den die simplen Worte besagen, im Ernst geglaubt, citissime möge hier nun bedeuten was es wolle, so werde es nicht bedeuten, daß der Brief eilig zu übermachen sey. Irre ich mich, so suchen Sie meinen Irrthum, in der Meinung die ich von den Originalschriftstellern habe, daß sie alle Dinge auf ihre eigene Weise sagen.“ (<titel>Herder’s Briefwechsel mit Nicolai,</titel> hg. von Otto Hoffmann (Berlin 1887), S.&#x202F;87.
 </marginal>
 
 <marginal letter="382" page="28" line="7">
@@ -46011,11 +46007,11 @@ Brief Nr. 382
 </marginal>
 
 <marginal letter="382" page="28" line="17">
-<bzg>Manna</bzg> <link ref="at-mo2" subref="at-mo2-16" linktext="true" />
+<bzg>Manna</bzg> <link ref="at-mo2" subref="at-mo2-16" linktext="false">2 Mo 16,13–35</link>
 </marginal>
 
 <marginal letter="382" page="28" line="18">
-<bzg>andern Schriften</bzg> <link ref="hamann" subref="hamann-zworecensionen" linktext="true" /> und <link ref="hamann" subref="hamann-rosencreuz" linktext="true" /> kannte Herder jedoch, vgl. <intlink letter="377" page="10" line="20" linktext="true" />
+<bzg>andern Schriften</bzg> <link ref="hamann" subref="hamann-zworecensionen" linktext="true" /> und <link ref="hamann" subref="hamann-rosencreuz" linktext="true" /> kannte Herder jedoch bereits, vgl. <intlink letter="377" page="10" line="20" linktext="true" />
 </marginal>
 
 <marginal letter="382" page="28" line="23">
@@ -46035,7 +46031,107 @@ Brief Nr. 382
 </marginal>
 
 <marginal letter="382" page="29" line="14">
-<bzg>Schwabenalter</bzg> Die Schwaben sollen erst mit 40 Jahren weise werden.
+<bzg>Schwabenalter</bzg> Die Schwaben sollen sprichwörtlich erst mit 40 Jahren weise werden.
+</marginal>
+
+<marginal letter="382" page="29" line="16">
+<bzg>mein Weib</bzg> <link ref="herder-c" linktext="false">Caroline Flachsland</link>, sie heirateten am 2. Mai 1773
+</marginal>
+
+<marginal letter="382" page="29" line="21">
+<bzg>αϑαυμαστια</bzg> Unfähigkeit zum Staunen
+</marginal>
+
+<marginal letter="382" page="29" line="22">
+<bzg>T…</bzg> Teufel?!?
+</marginal>
+
+<marginal letter="382" page="29" line="23">
+<bzg>Einziger täglicher Gesellschafter</bzg> vmtl. <link ref="westfeld" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="29" line="24">
+<bzg>wie Elihu</bzg> <link ref="at-hi" subref="at-32" linktext="false">Hi 32–36</link>
+</marginal>
+
+<marginal letter="382" page="29" line="25">
+<bzg>Wandelwüste</bzg> <link ref="at-mo4" subref="at-mo4-32" linktext="false">4 Mo 32,13</link>
+</marginal>
+
+<marginal letter="382" page="29" line="32">
+<bzg>Klient</bzg> im Sinen von Schutzbefohlener eines Patrons
+</marginal>
+
+<marginal letter="382" page="30" line="1">
+<bzg>Publik…</bzg> Publikum; Herder war auf Diskretion bedacht, weil seine Rigaer Stellung in der Auseinandersetzung mit <link ref="klotz" linktext="true" /> verschiedentlich thematisiert wurde
+</marginal>
+
+<marginal letter="382" page="30" line="3" sort="1">
+<bzg>Konsistorien mandemens</bzg> Verordnungen
+</marginal>
+
+<marginal letter="382" page="30" line="3" sort="2">
+<bzg>Ediktalcitationen</bzg> obrigkeitliche oder gerichtliche Vorladungen
+</marginal>
+
+<marginal letter="382" page="30" line="4">
+<bzg>Landesherr</bzg> <link ref="wilhelm-schaumburg-lippe" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="6" sort="1">
+<bzg>Abbtiana</bzg> <link ref="abbt" linktext="true" /> war 1765 nach Bückeburg u.a. als Konsistorialrat berufen worden, Herder gewissermaßen sein Nachfolger; gegenüber <link ref="mendelssohn" linktext="true" /> äußerte sich Abbt sehr positiv über die geistigen Qualitäten von <link ref="wilhelm-schaumburg-lippe" linktext="true" />, vgl. <link ref="abbt" subref="abbt-correspondenz" linktext="true" />, S.&#x202F;376 (Nr. 89, Oktober 1765)
+</marginal>
+
+<marginal letter="382" page="30" line="6" sort="2">
+<bzg>kein Abbt</bzg> i.&#x202F;e. Herder hat nicht dieselbe Ehrenstellung in der Gunst des Fürsten inne wie <link ref="abbt" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="8" sort="1">
+<bzg>Kameelhaar kleide…</bzg> <link ref="nt-mt" subref="nt-mt3" linktext="false">Mt 3,4</link> und <link ref="nt-mk" subref="nt-mk1" linktext="false">Mk 1,6</link>
+</marginal>
+
+<marginal letter="382" page="30" line="8" sort="2">
+<bzg>Gemalin</bzg> <link ref="maria-schaumburg-lippe" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="12">
+<bzg>devant les grilles de la cour</bzg> vor den Toren des Hofs
+</marginal>
+
+<marginal letter="382" page="30" line="21">
+<bzg>Allgem. D. Bibl…</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />, vgl. die Rezensionen in SWS,&#x202F;V,&#x202F;271–420
+</marginal>
+
+<marginal letter="382" page="30" line="23" sort="1">
+<bzg>Schlegels Batteux</bzg> <link ref="schlegel-ja" linktext="true" />, <link ref="batteux" subref="batteux-grundsatz" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="23" sort="2">
+<bzg>Creuz</bzg> <link ref="creutz" subref="creutz-oden" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="23" sort="3">
+<bzg>Briegleb</bzg> <link ref="briegleb" subref="briegleb-horaz" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="23" sort="4">
+<bzg>Denis Oßian</bzg> <link ref="denis" subref="denis-ossian" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="24">
+<bzg>Leßings Schr.</bzg> <link ref="lessing" subref="lessing-vermischteschriften" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="25" sort="1">
+<bzg>Klopst. Oden</bzg> <link ref="klopstock" subref="klopstock-oden1771" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="25" sort="2">
+<bzg>Sulzer</bzg> <link ref="sulzer" subref="sulzer-theorie" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="30" line="26">
+<bzg>Nikol…</bzg> <link ref="nicolai" linktext="true" /> kritisierte Herders Stil regelmäßig; zuletzt am 12. November 1772: „[…] Desto schlimmer für euch Originalköpfe, daß Ihr alles auf eure eigne Weise schreibt, und nichts schreiben könnt, ohne erkannt zu werden.“ Herder’s Briefwechsel mit Nicolai, hv. von Otto Hoffmann (Berlin 1887), S.&#x202F;86
 </marginal>
 
 Brief Nr. 383
