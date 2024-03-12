@@ -7410,18 +7410,6 @@ Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt</wwwlink>.
 <eintrag>1727–1787. Russ. Geheimer Staatsrat, zog sich der ersten Teilung Polens vom öffentlichen Leben zurück, seit 1772 in Königsberg.</eintrag>
 </kommentar>
 
-<kommentar id="thomaskempen" type="neuzeit">
-<lemma>Thomas von Kempen</lemma>
-<eintrag>1380–1471. Mönch des Augustinerordens, Verfasser und Kompilator der weitverbreiteten Schrift <titel>De Christo Imitando</titel>, in der er Lehren christlicher Mystiker, etwa Meister Eckharts, popularisierte.
-</eintrag>
-<subsection id="thomaskempen-imitando" type="neuzeit">
-<lemma>Thomas, <titel>De Christo Imitando</titel></lemma>
-<eintrag>
-<titel>De Christo imitando: contemnendisque mundi vanitatibus libellus</titel> (Cambridge 1688) [Biga&#x202F;57/620: „Thomas Kempisius de Chrsti imitando cet. interprete Seb. Castellione ex ed. R. Widdrington, Cantabr. 688. Donum.“].
-</eintrag>
-</subsection>
-</kommentar>
-
 <kommentar id="keyser" type="neuzeit">
 <lemma>Johann Jacob Keyser</lemma>
 <eintrag>Gest. 1800. Hofmeister.</eintrag>
@@ -13596,6 +13584,18 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 </subsection>
 </kommentar>
 
+<kommentar id="thomaskempen" type="neuzeit">
+<lemma>Thomas von Kempen</lemma>
+<eintrag>1380–1471. Mönch des Augustinerordens, Verfasser und Kompilator der weitverbreiteten Schrift <titel>De Christo Imitando</titel>, in der er Lehren christlicher Mystiker, etwa Meister Eckharts, popularisierte.
+</eintrag>
+<subsection id="thomaskempen-imitando" type="neuzeit">
+<lemma>Thomas, <titel>De Christo Imitando</titel></lemma>
+<eintrag>
+<titel>De Christo imitando: contemnendisque mundi vanitatibus libellus</titel> (Cambridge 1688) [Biga&#x202F;57/620: „Thomas Kempisius de Chrsti imitando cet. interprete Seb. Castellione ex ed. R. Widdrington, Cantabr. 688. Donum.“].
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="thorwald" type="neuzeit">
 <lemma>Johann David Thorwald</lemma>
 <eintrag>Buchhändler in Königsberg für die Hartungschen Buchhandlung unter <link ref="hartung-h" linktext="true" /> und <link ref="woltersdorf" linktext="true" />.</eintrag>
@@ -13633,6 +13633,17 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <kommentar id="thukydides" type="neuzeit">
 <lemma>Thukydides</lemma>
 <eintrag>um 455–um 400 v. Chr. Athenischer Historiker.</eintrag>
+</kommentar>
+
+<kommentar id="thunmann" type="neuzeit">
+<lemma>Hans Erik Thunmann</lemma>
+<eintrag>1746–1778. Schwedischer Historiker, 1772 Prof. der Bererdsamkeit in Halle.</eintrag>
+<subsection id="thunmann-untersuchungen" type="neuzeit">
+<lemma>Thunmann, <titel>Untersuchungen über die alte Geschichte der Nordischen Völker</titel></lemma>
+<eintrag>
+M. Johann Thunmanns <titel>Untersuchungen über die alte Geschichte einiger Nordischen Völker.</titel> Mit einer Vorrede hg. von D. Anton Friedrich Büsching (Berlin: Buchhandlung der Realschule 1772) [Biga&#x202F;70/197: „Thunmanns Untersuchungen über die alte Geschichte einiger nordischen Voelker, Berl. 772“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10452657-7">BSB München: H.sept. 193</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="tiedemann" type="neuzeit">
