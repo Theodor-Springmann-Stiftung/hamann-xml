@@ -1748,11 +1748,21 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="broe" type="neuzeit">
 <lemma>Samuel de Broë</lemma>
-<eintrag>Frz. Schriftsteller, Präsident der Petitionen am Pariser Parlament.</eintrag>
+<eintrag>17. Jh., frz. Schriftsteller, Präsident der Petitionen am Pariser Parlament.</eintrag>
 <subsection id="broe-histiore" type="neuzeit">
 <lemma>Broë, <titel>Histoire des deux triumvirats</titel></lemma>
 <eintrag>
 <titel>Histoire des deux triumvirats, depuis la mort de Catilina, jusqu’à celle de César; depuis celle de César, jusquà celle de Brutus; depuis celle de Brutus, jusqu’à celle d’Antoine, nouv. edit. augm. de la vie d’Auguste, par de Larrey</titel> (4&#xA0;Bde., Amsterdam 1715; zuerst: 3&#xA0;Bde., Paris 1681/3) [Biga&#x202F;92/283: „Histoire des deux Triumvirats (par Mr. de la Guette de Cittri) Edition augmentée de l’Histoire d’Auguste de Larrey, Tom I–IV. Amst. 715“]. <titel>L’Histoire d’Auguste</titel> (Amsterdam, Berlin 1690) von Isaac de Larrey (1638–1729) ist der Neuausgabe der <titel>Histoire</titel> von de Broë 1715 beigefügt worden.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="brooke" type="neuzeit">
+<lemma>Henry Brooke</lemma>
+<eintrag>1703–1783. Irischer empfindsamer Schriftsteller und Dramatiker, <wwwlink address="https://www.britannica.com/biography/Henry-Brooke">Encyclopaedia Britannica</wwwlink>.</eintrag>
+<subsection id="brooke-fool" type="neuzeit">
+<lemma>Brooke, <titel>The Fool of quality</titel></lemma>
+<eintrag>
+<titel>The Fool of quality;</titel> or: The history of Henri Earl of Moreland (6 Bde., Dublin/London 1765–70). Digitalisat Bd. 1: <wwwlink address="https://books.google.de/books?id=pxI2AQAAMAAJ">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -3298,19 +3308,15 @@ vermutl. zus. mit <link ref="auvigny" linktext="true" />, <titel>Anecdotes galan
 <kommentar id="diderot" type="neuzeit">
 <lemma>Denis Diderot</lemma>
 <eintrag>1712–1784. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;11, 1814), S.&#x202F;314–323.</eintrag>
-<subsection id="diderot-art" type="neuzeit" sort="10">
-<lemma>Diderot, <titel>Art</titel></lemma>
-<eintrag>Zus. mit <link ref="yvon" linktext="true" /> u. <link ref="mallet" linktext="true" />, Art. „Art“ in der <link ref="encyclopedie" linktext="true" />, Bd.&#x202F;1, S.&#x202F;713ff.</eintrag>
-</subsection>
-<subsection id="diderot-pensees" type="neuzeit" sort="20">
-<lemma>Diderot, <titel></titel></lemma>
-<eintrag>
-<titel>Pensées sur l’interpretation de la nature</titel> (Paris 1754).</eintrag>
-</subsection>
-<subsection id="diderot-pere" type="neuzeit" sort="25">
+<subsection id="diderot-pere" type="neuzeit" sort="10">
 <lemma>Diderot, <titel>Le Pere de Famille</titel></lemma>
 <eintrag><titel>Le Pere de Famille, Comédie en cinq Actes, et en Prose, avec un Discours sur la Poésie Dramatique</titel> (Amsterdam 1748). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10090309-0">BSB München: P.o.gall. 620 n</wwwlink>. Übersetzt von <link ref="lessing" linktext="true" /> in <link ref="diderot" subref="diderot-theater" linktext="true" />.
 </eintrag>
+</subsection>
+<subsection id="diderot-pensees" type="neuzeit" sort="20">
+<lemma>Diderot, <titel>Pensées sur l’interpretation de la nature</titel></lemma>
+<eintrag>
+<titel>Pensées sur l’interpretation de la nature</titel> (Paris 1754).</eintrag>
 </subsection>
 <subsection id="diderot-theater" type="neuzeit" sort="30">
 <lemma>Diderot, <titel>Das Theater des Herrn Diderot</titel></lemma>
@@ -3324,6 +3330,15 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [Biga&#x202F;171/661: „Diderots 
 <eintrag>
 <titel>Lettres angloises, ou Histoire de Miss Clarisse Harlove. Nouv. éd. augmentée de l’Eloge de Samuel Richardson (par Diderot), des lettres posthumes et du testament de Clarisse</titel> (Paris 1766).
 </eintrag> 
+</subsection>
+<subsection id="diderot-art" type="neuzeit" sort="40">
+<lemma>Diderot, <titel>Art</titel></lemma>
+<eintrag>Zusammen mit <link ref="yvon" linktext="true" /> und <link ref="mallet" linktext="true" />, Artikel „Art“ in der <link ref="encyclopedie" linktext="true" />, Bd.&#x202F;1, S.&#x202F;713ff.</eintrag>
+</subsection>
+<subsection id="diderot-morales" type="neuzeit" sort="50">
+<lemma>Marie Geneviève Charlotte Thiroux d’Arconville, <titel>Les Oeuvres Morales de Mr. Diderot</titel></lemma>
+<eintrag>
+<titel>Les Oeuvres Morales De Mr. Diderot: Contenant son traité de l’amitié et celui des passions</titel> (Frankfurt 1770). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040291-7">BSB München: Ph.pr. 341-1/2</wwwlink>. – Diderot zugeschrieben.</eintrag>
 </subsection>
 </kommentar>
 
@@ -5674,7 +5689,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-philologische-einfalle" type="neuzeit" sort="540">
 <lemma>Hamann, <titel>Philologische Einfälle</titel></lemma>
 <eintrag>
-<titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift.</titel> Entworfen vom Magus in Norden. Im Weinmonate 1772. – Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter-jj" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift (gemeinsam mit <link ref="hamann" subref="hamann-salomon" linktext="true" />), vgl. <intlink letter="380" page="23" line="18" linktext="true" />. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
+<titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift.</titel> Entworfen vom Magus in Norden. Im Weinmonate 1772. – Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter-jj" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift (gemeinsam mit <link ref="hamann" subref="hamann-salomon" linktext="true" />), vgl. <intlink letter="380" page="23" line="18" linktext="true" />; zur politischen Brisanz vgl. auch <link ref="nad-j-1949b" linktext="true" />, S.&#x202F;205f. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
 </eintrag>
 </subsection>
 <subsection id="hamann-salomon" type="neuzeit" sort="550">
@@ -5686,10 +5701,16 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-beilage-denkwurdigkeiten" type="neuzeit" sort="560">
 <lemma>Hamann, <titel>Beylage zun Denkwürdigkeiten des seligen Sokrates</titel></lemma>
 <eintrag>
-<titel>Beylage zun Denkwürdigkeiten des seligen Sokrates.</titel> Von einem Geistlichen in Schwaben. Zweyte Auflage (Halle 1773) [Druckort, Auflage und Erscheinungsjahr fingiert] [Biga&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;111–121.
+<titel>Beylage zun Denkwürdigkeiten des seligen Sokrates.</titel> Von einem Geistlichen in Schwaben. Zweyte Auflage (Halle 1773) [Druckort, Auflage und Erscheinungsjahr fingiert, recte Schwäbisch Hall 1772, vgl. <intlink letter="383" page="32" line="11" linktext="true" />] [Biga&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-235881">ULB Münster: N. Hamann Bd.&#x202F;7</wwwlink>. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;111–121.
 </eintrag>
 </subsection>
-<subsection id="hamann-prolegomena" type="neuzeit" sort="560">
+<subsection id="hamann-selbstgesprach" type="neuzeit" sort="570">
+<lemma>Hamann, <titel>Selbstgespräch eines Autors</titel></lemma>
+<eintrag>
+<titel>Selbstgespräch eines Autors.</titel> Mit 45 Scholien (1773 [vmtl. bei <link ref="hinz" linktext="false">Hinz</link> in Mitau]) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;429f., Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;67–79.
+</eintrag>
+</subsection>
+<subsection id="hamann-prolegomena" type="neuzeit" sort="590">
 <lemma>Hamann, <titel>Prolegomena</titel></lemma>
 <eintrag>
 <titel>Christiani Zacchaei Telonarchae προλεγομενα über die neueste Auslegung der ältesten Urkunde des menschlichen Geschlechts.</titel> In zweyen Antwortschreiben an Apollonium Philosophum (1774 [Hamburg: Bode]). – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
@@ -10849,6 +10870,10 @@ nicht ermittelt: Biga&#x202F;2/22: „Platonis Opera gr. &amp; lat. Franc. 691�
 <subsection id="plat-men" type="neuzeit" sort="23">
 <lemma>Plat. <titel>Men.</titel></lemma>
 <eintrag>Menon, griech. Μένων.</eintrag>
+</subsection>
+<subsection id="plat-gorg" type="neuzeit" sort="24">
+<lemma>Plat. <titel>Gorg.</titel></lemma>
+<eintrag>Gorgias, griech. Γοργίας.</eintrag>
 </subsection>
 <subsection id="plat-apg" type="neuzeit" sort="30">
 <lemma>Plat. <titel>apol.</titel></lemma>
