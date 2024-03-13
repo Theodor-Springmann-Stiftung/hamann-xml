@@ -5990,6 +5990,33 @@ Carl Renatus Hausens […] <titel>Pragmatische Geschichte der Protestanten in De
 </subsection>
 </kommentar>
 
+<kommentar id="hemsterhuis" type="neuzeit">
+<lemma>Frans Hemsterhuis</lemma>
+<eintrag>1721–1790. Niederl. Philosoph und Schriftsteller, nahm später am Münsterschen Kreis teil, <wwwlink address="http://www.zeno.org/Meyers-1905/A/Hemsterhuis">Meyers Großes Konversations-Lexikon, Band 9. Leipzig 1907, S. 164</wwwlink>.
+</eintrag>
+<subsection id="hemsterhuis-desirs" type="neuzeit">
+<lemma>Hemsterhuis, <titel>Lettre sur les désirs</titel></lemma>
+<eintrag>
+<titel>Lettre sur les désirs</titel> (Paris 1770). Digitalisat: <wwwlink address="https://books.google.de/books?id=9oAPAAAAQAAJ">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="hemsterhuis-homme" type="neuzeit">
+<lemma>Hemsterhuis, <titel>Lettre sur l’homme et ses rapports</titel></lemma>
+<eintrag>
+<titel>Lettre sur l’homme et ses rapports </titel> (Paris 1772). Digitalisat: <wwwlink address="https://books.google.de/books?id=i2Kn02P2NzoC">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="hemsterhuis-sculpture" type="neuzeit">
+<lemma>Hemsterhuis, <titel>Lettre Sur La sculpture</titel></lemma>
+<eintrag>
+<titel>Lettre Sur La sculpture</titel> à Monsieur Théod. de Smeth, Ancien Président des Echevins de la Ville d’Amsterdam  (Amsterdam: Rey 1769). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-63128">UB Heidelberg: C 2330 Folio RES, angeb.</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="hemsterhuis-t" type="neuzeit">
+<lemma>Tiberius Hemsterhuis</lemma>
+<eintrag>1685–1766. Niederl. Philologe, Vater von <link ref="hemsterhuis" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz106866.html">Deutsche Biographie</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="henault" type="neuzeit">
 <lemma>Charles-Jean-François Henault</lemma>
 <eintrag>1685–1770. Frz. Verwaltungsbeamter.
@@ -6145,7 +6172,7 @@ Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffen
 <subsection id="herder-altesteurkunde" type="neuzeit" sort="200">
 <lemma>Herder, <titel>Älteste Urkunde</titel></lemma>
 <eintrag>
-<titel>Älteste Urkunde des Menschengeschlechts.</titel> Erster Band, welcher den Ersten, Zweiten und Dritten Teil enthält (Riga 1774). – Herder: <titel>Werke</titel>, Bd.&#x202F;5: Schriften zum alten Testament, hg.&#x202F;v. Rudolf Smend, S.&#x202F;179–660.
+<titel>Älteste Urkunde des Menschengeschlechts.</titel> Erster Band, welcher den Ersten, Zweiten und Dritten Teil enthält (Riga 1774). – SWS,&#x202F;VI, S.&#x202F;193–511.
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="400">
@@ -7593,6 +7620,18 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <lemma>Klopstock, <titel>Oden</titel></lemma>
 <eintrag>
 <titel>Oden</titel>. (Hamburg: Bode 1771) [Biga&#x202F;145/264: „(Klopstock’s) Oden, Hamb. 771“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-342339">ULB Halle: Dd 2483 z</wwwlink>.</eintrag>
+</subsection>
+
+<subsection id="klopstock-gelehrtenrepublik" type="neuzeit" sort="140">
+<lemma>Klopstock, <titel>Die Gelehrtenrepublik</titel></lemma>
+<eintrag>Die Deutsche Gelehrtenrepublik. Ihre Einrichtung. Ihre Geseze. Geschichte des letzten Landtags. Auf Befehl der Aldermänner durch Salogast und Wlemar. Hg. von Klopstock. Erster Theil (Hamburg: Bode 1774) [Biga&#x202F;159/505: „Die deutsche Gelehrtenrepublick, herausgegeben von Klopstock, Th. I. Hamb. 774“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733453-5">BSB München: H.lit.p. 199</wwwlink>.
+</eintrag>
+</subsection>
+
+<subsection id="klopstock-sprache" type="neuzeit" sort="200">
+<lemma>Klopstock, <titel>Ueber Sprache und Dichtkunst</titel></lemma>
+<eintrag><titel>Ueber Sprache und Dichtkunst.</titel> Fragmente von Klopstock (Hamburg: Heroldsche Buchhandlung 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id43410647X4">SLUB Dresden: </wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 
@@ -9718,8 +9757,13 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 <subsection id="michaelis-mosaischesrecht" type="neuzeit" sort="80">
 <lemma>Michaelis, <titel>Mosaisches Recht</titel></lemma>
-<eintrag>Johann David Michaelis <titel>Mosaisches Recht</titel>. Erster Tl. (Frankfurt am Main 1770) [Biga&#x202F;: „“]. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hebis:30:1-115350">Goethe Universität Frankfurt am Main</wwwlink>.<line type="break" />
+<eintrag>Johann David Michaelis <titel>Mosaisches Recht</titel>. Erster Theil. (Frankfurt am Main 1770). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hebis:30:1-115350">Goethe Universität Frankfurt am Main</wwwlink>.<line type="break" />
 Zweite vermehrte Ausgabe 1775 in 6 Bde. [Biga&#x202F;65/103 u. 69/187: „J. D. Michaelis mosaisches Recht, 1–6. Th. Frft. 770–75“]. Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10411999-7">BSB München: Exeg. 751-1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="michaelis-altestestament" type="neuzeit" sort="90">
+<lemma>Michaelis, <titel>Deutsche Übersetzung des Alten Testaments</titel></lemma>
+<eintrag>Johann David Michaelis <titel>Deutsche Uebersetzung des Alten Testaments</titel> mit Anmerkung für Ungelehrte. (13 Bde., Göttingen: Vandenhoeck 1769–1783) [Biga&#x202F;19/34: „J. V. Michaelis Übersetzung des A. Testam. 1–5 Th. Gött. 769–74“]. Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11225202-9">BSB München: 4 Th Ex 261</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -10247,11 +10291,22 @@ N
 <eintrag>1643–1727. Physiker.</eintrag>
 </kommentar>
 
+<kommentar id="nibuhr" type="neuzeit">
+<lemma>Carsten Niebuhr</lemma>
+<eintrag>1733–1815. Kartograph und Forschungsreisender, einziger Überlebender der von <link ref="michaelis" linktext="true" /> angeregten Arabienexpedition 1761–67.</eintrag>
+<subsection id="nibuhr-arabien" type="neuzeit">
+<lemma>Niebuhr, <titel>Beschreibung von Arabien</titel></lemma>
+<eintrag>
+<titel>Beschreibung von Arabien</titel> aus eigenen Beobachtungen und im Lande selbst gesammelten Nachrichten abgefasset von Carsten Niebuhr (Kopenhagen: Möller 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11122155-7">BSB München: BA/4 H.as. 589</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="niceron" type="neuzeit">
 <lemma>Jean-Pierre Nicéron</lemma>
 <eintrag>1685–1738. Barnabitenpater in Paris. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;31, 1822), S.&#x202F;217f.</eintrag>
 <subsection id="niceron-memoires" type="neuzeit">
-<lemma>Nicéron, <titel>l’histoire des hommes illustres</titel></lemma>
+<lemma>Nicéron, <titel>l’Histoire des hommes illustres</titel></lemma>
 <eintrag>
 <titel>Mémoires pour servir à l’histoire des hommes illustres dans la République des Lettres à Paris, avec un catalogue raisonné de leurs ouvrages</titel> (mit F. Oudin, J. B. Michault, C. P. Goujet) (Paris 1729/45). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10601687-3">BSB München: N.libr. 211 y-1</wwwlink>.
 </eintrag>
@@ -10789,7 +10844,11 @@ nicht ermittelt: Biga&#x202F;2/22: „Platonis Opera gr. &amp; lat. Franc. 691�
 </subsection>
 <subsection id="plat-phaidr" type="neuzeit" sort="22">
 <lemma>Plat. <titel>Phaidr.</titel></lemma>
-<eintrag>Phaedrus, griech. Φαῖδρος .</eintrag>
+<eintrag>Phaedrus, griech. Φαῖδρος.</eintrag>
+</subsection>
+<subsection id="plat-men" type="neuzeit" sort="23">
+<lemma>Plat. <titel>Men.</titel></lemma>
+<eintrag>Menon, griech. Μένων.</eintrag>
 </subsection>
 <subsection id="plat-apg" type="neuzeit" sort="30">
 <lemma>Plat. <titel>apol.</titel></lemma>

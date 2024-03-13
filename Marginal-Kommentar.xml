@@ -45304,7 +45304,7 @@ Der Brief wurde als Beilage zu <intlink letter="379" page="18" line="17" linktex
 </marginal>
 
 <marginal letter="378" page="15" line="30" sort="1">
-<bzg>erste und vielleicht letzte Arbeit</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, damit kombiert <link ref="hamann" subref="hamann-salomon" linktext="true" />; ist das Hamanns erste nicht-anonym publizierte Schrift?!? – wäre ein witzige Pointe gegenüber Herders missglückten Anonymitätsversuchen (die Hamann zuletzt stark kritisierte), sie ihm hier zuzueignen
+<bzg>erste und vielleicht letzte Arbeit</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, damit kombiert <link ref="hamann" subref="hamann-salomon" linktext="true" />
 </marginal>
 
 <marginal letter="378" page="15" line="30" sort="2">
@@ -46186,9 +46186,89 @@ Brief Nr. 382
 <bzg>Thunmanns Abhandl.</bzg> <link ref="thunmann" subref="thunmann-untersuchungen" linktext="true" />, vgl. Herders Rezension im <link ref="claudius" subref="claudius-bothe" linktext="false">Wandsbecker Bothen</link>, Nr.&#x202F;28, 17.2.1773, SWS,&#x202F;V, S.&#x202F; 408–411 und Hamanns Antwort <intlink letter="383" page="33" line="15" linktext="true" />
 </marginal>
 
-<marginal letter="382" page="31" line="15">
-<bzg>Schlötzer</bzg> <link ref="schloezer" linktext="true" />, vgl. Hamanns Rezension in <link ref="kgpz" linktext="true" />, 7.&#x202F;St. vom 24.1.1774 (N&#x202F;IV,&#x202F;381)
+<marginal letter="382" page="31" line="16">
+<bzg>Schlötzer</bzg> <link ref="schloezer" linktext="true" />, Herder erwähnt ihn auch in der Thunmann-Rezension
 </marginal>
+
+<marginal letter="382" page="31" line="17" sort="1">
+<bzg>seine Bibel</bzg> <link ref="michaelis" subref="michaelis-altestestament" linktext="true" />, von Herder negativ rezensiert, vgl. SWS,&#x202F;V, S.&#x202F;267
+</marginal>
+
+<marginal letter="382" page="31" line="17" sort="2">
+<bzg>Niebuhrs Reisen</bzg> <link ref="nibuhr" subref="nibuhr-arabien" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="18">
+<bzg>wird noch Einmal Gottsched</bzg> <link ref="gottsched" linktext="true" />, abwertend für einen rechthaberischen und überholten Kritiker, vgl. <intlink letter="383" page="34" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="19">
+<bzg>Mosaisches Recht</bzg> <link ref="michaelis" subref="michaelis-mosaischesrecht" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="20">
+<bzg>Choro auditorum</bzg> Zuhörerschaft
+</marginal>
+
+<marginal letter="382" page="31" line="21">
+<bzg>viri dignissimi dignissimo filio</bzg> dem würdigsten Sohn des würdigsten Mannes, <link ref="hemsterhuis-t" linktext="true" /> und sein Sohn <link ref="hemsterhuis" linktext="true" />, vgl. <intlink letter="383" page="33" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="22" sort="1">
+<bzg>Lettre sur les desirs</bzg> <link ref="hemsterhuis" subref="hemsterhuis-desirs" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="22" sort="1">
+<bzg>Lettre sur l’homme et sur ses rapports</bzg> <link ref="hemsterhuis" subref="hemsterhuis-homme" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="23">
+<bzg>Lettres sur la Sculpture</bzg> <link ref="hemsterhuis" subref="hemsterhuis-sculpture" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="23">
+<bzg>Diderot der Philosoph</bzg> <link ref="diderot" linktext="true" />, vgl. <intlink letter="383" page="33" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="26">
+<bzg>Anti-Newtonische Offenbar. in der Optik</bzg> Herder hörte wohl über <link ref="merck" linktext="true" /> von einem ungedruckt gebliebenen Manuskript Hemsterhuis’, <titel>Traité sur l’optique</titel>; vgl. <intlink letter="383" page="34" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="29">
+<bzg>1 t. Sekret. der Staaten in Holland</bzg> Hemsterhuis arbeitete als erster Kommis der Staatskanzlei der Vereinigten Niederlande
+</marginal>
+
+<marginal letter="382" page="31" line="30">
+<bzg>Platons Vorwelt</bzg> v.a. <link ref="platon" subref="plat-men" linktext="true" /> und <link ref="platon" subref="plat-phaidr" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="31">
+<bzg>Klopst. Meßias fertig</bzg> <link ref="klopstock" subref="klopstock-messias" linktext="true" />, Gesang XVI- XX erschien 1773 in Halle, bei Hemmerde
+</marginal>
+
+<marginal letter="382" page="31" line="32">
+<bzg>Deutschen Gram.</bzg> wohl irrtümlich für <link ref="klopstock" subref="klopstock-gelehrtenrepublik" linktext="true" />, wie auch im Brief an Nicolai, 15.1.1773, HBGA,&#x202F;II, S.&#x202F;294f.; Herder gibt eine missverständliche Information aus einem Brief von <link ref="claudius" linktext="true" /> weiter; die Auseinandersetzung Hamanns mit Klopstocks Ideen zur Sprache und der deutschen Rechtschreibung begann erst, als dieser seine einschlägigen Fragmente im Sammelband <link ref="klopstock" subref="klopstock-sprache" linktext="true" />, darunter auch den Aufsatz <titel>Ueber di deutsche Rechtschreibung</titel>, veröffentlichte
+</marginal>
+
+<marginal letter="382" page="31" line="33" sort="1">
+<bzg>Rabelais</bzg> <link ref="rabelais" linktext="true" />, vgl. <intlink letter="378" page="17" line="13" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="33" sort="2">
+<bzg>Cervantes</bzg> <link ref="cervantes" linktext="true" />, vgl. <intlink letter="378" page="17" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="382" page="31" line="34">
+<bzg>hiesiger Bibl.</bzg> die Schlossbibliothek in Bückeburg
+</marginal>
+
+<marginal letter="382" page="31" line="35">
+<bzg>Orpheus – bis Jamblichus</bzg> vgl. <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, SWS,&#x202F;VI, S.&#x202F;357f. u.&#x202F;397–405
+</marginal>
+
+<marginal letter="382" page="31" line="36">
+<bzg>Ihr Büchl.</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />
+</marginal>	
 
 Brief Nr. 383
 
