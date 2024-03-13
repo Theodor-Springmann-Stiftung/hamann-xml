@@ -46421,7 +46421,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="6">
-<bzg>Versuche über die Ehe à la Wilkes</bzg>  ?!?
+<bzg>Versuche über die Ehe à la Wilkes</bzg>  ?!? <link ref="wilkes" subref="wilkes-essay" linktext="true" />  
 </marginal>
 
 <marginal letter="416" page="113" line="9">
@@ -46548,11 +46548,11 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="115" line="19" sort="1">
-<bzg>billet doux</bzg>  dt. süßer Brief, gemeint ist ein kurzes Schriftstück
+<bzg>billet doux</bzg> dt. süßer Brief, gemeint ist ein kurzes Schriftstück
 </marginal>
 
 <marginal letter="417" page="115" line="19" sort="2">
-<bzg>Corporibus delicti</bzg>  110,16.
+<bzg>Corporibus delicti</bzg> vgl. <intlink letter="414" page="110" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="417" page="115" line="22">
@@ -46588,11 +46588,11 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="116" line="23">
-<bzg>ankündigen</bzg> 108,16.
+<bzg>ankündigen</bzg> vgl. <intlink letter="413" page="108" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="417" page="116" line="28">
-<bzg>Salomon</bzg> Pr 9,11.
+<bzg>Salomon</bzg> <link ref="at-pr" subref="at-pr9" linktext="false">Pr 9,11</link> 
 </marginal>
 
 <marginal letter="417" page="116" line="34">
@@ -46628,7 +46628,7 @@ Brief Nr. 417a
 Brief Nr. 418
 
 <marginal letter="418" page="118" line="1" sort="1">
-<bzg>Beylage</bzg> der Prolegomena ?!?
+<bzg>Beylage</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
 </marginal>
 
 <marginal letter="418" page="118" line="1" sort="2">
@@ -46759,7 +46759,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="119" line="22">
-<bzg>Claud.</bzg> ?!?
+<bzg>Claud.</bzg> <link ref="claudius" linktext="true" />
 </marginal>
 
 <marginal letter="419" page="119" line="30">
@@ -46819,7 +46819,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="120" line="36">
-<bzg>Ruf nach Mit. … Hartmanns</bzg> Ruf nach Mitau
+<bzg>Ruf nach Mit. … Hartmanns</bzg> Ruf nach Mitau; <link ref="hartmann-gd" linktext="true" />  
 </marginal>
 
 <marginal letter="419" page="121" line="1">
@@ -46827,7 +46827,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="121" line="5">
-<bzg>Weib u. Kind</bzg> ?!?
+<bzg>Weib u. Kind</bzg> <link ref="herder-c" linktext="true" /> und Wilhelm Christian Gottfried Herder (1774–1806)
 </marginal>
 
 <marginal letter="419" page="121" line="10">
@@ -46841,8 +46841,7 @@ Bibliothek [= Berlinsche Luna], Bd. 35/1, durch Nicolai und J. A. Eberhard.
 </marginal>
 
 <marginal letter="419" page="121" line="17">
-<bzg>Kleckschulden … Berens, durch Hartknoch</bzg> kleine Schulden; erens: Georg B., 109,12; vgl Brief 416 und
-153,17.
+<bzg>Kleckschulden … Berens, durch Hartknoch</bzg> kleine Schulden; bei <link ref="berens-g" linktext="true" />, vgl Brief 416
 </marginal>
 
 <marginal letter="419" page="121" line="21">
@@ -46855,19 +46854,20 @@ einer Sibylle.
 </marginal>
 
 <marginal letter="419" page="121" line="29">
-<bzg>4. Ausgabe von Bollinbr.</bzg> Quartausgabe
+<bzg>4. Ausgabe von Bollinbr.</bzg> Quartausgabe,Saint- John, Lord Henry, 1st Viscount of Bolinbroke (1678- 1751),  Works, hg. v. D. Mallet. 5 Bde. London 1754.
 </marginal>
 
 <marginal letter="419" page="121" line="31">
-<bzg>Pope, Shakespear, Dodsley, die Reliks</bzg> James Macphersons Remains (Fragments) of ancient poetry.
+<bzg>Pope, Shakespear, Dodsley, die Reliks</bzg> James Macpherson. Remains of ancient poesie. Edinburgh 1760.
 </marginal>
 
 <marginal letter="419" page="122" line="1">
-<bzg>Göthes Klavigo u. Leiden des jungen Werthers</bzg> 
+<bzg>Göthes Klavigo u. Leiden des jungen Werthers</bzg>  Clavigo. Trauerspiel in fünf Aufzügen. Leipzig 1774. Biga 141/198. und Die Leiden des jungen Werthers. Roman. Leipzig 1774 (1. Fassung). Biga 158/479.
 </marginal>
 
 <marginal letter="419" page="122" line="2">
-<bzg>Anmerkungen übers Theater</bzg> J. M. R. Lenz.
+<bzg>Anmerkungen übers Theater</bzg> [anonym] Anmerkungen über das Theater nebst angehängtem übersetzten Stück Shakespeares. Leipzig
+1774.
 </marginal>
 
 <marginal letter="419" page="122" line="4">
@@ -46877,24 +46877,25 @@ Goethe, sondern von J. A. Leisewitz: 2 Dialoge, in: Poetische Blumenlese auf das
 </marginal>
 
 <marginal letter="419" page="122" line="6">
-<bzg>Hofmeisters u. neuen Menoza</bzg> 
+<bzg>Hofmeisters u. neuen Menoza</bzg> Der Hofmeister oder Vortheile der Privaterziehung. Leipzig 1774. und Menoza oder Geschichte des cumbanischen Prinzen Tandi. Leipzig 1774.
 </marginal>
 
 <marginal letter="419" page="122" line="10">
-<bzg>Mendelsohn in Pyrmont</bzg> während seines Kuraufenthaltes vom 7.- 21. Juli begegnete Herder
-Mendelssohn zum einzigen Male.
+<bzg>Mendelsohn in Pyrmont</bzg> während seines Kuraufenthaltes vom 7.-21. Juli begegnete Herder <link ref="mendelssohn" linktext="true" /> zum einzigen Mal
 </marginal>
 
 <marginal letter="419" page="122" line="11" sort="1">
-<bzg>Grafen</bzg> zu Schaumburg- Lippe
+<bzg>Grafen</bzg> Friedrich Ernst Wilhelm Graf zu (1724- 1777), deren Stiefsohn, regierte seit 1748, Verehrer
+Mendelssohns, Freund Abbts
 </marginal>
 
 <marginal letter="419" page="122" line="11" sort="2">
-<bzg>Chodowiki</bzg> Daniel Chodowiecki
+<bzg>Chodowiki</bzg> Chodowiecki, Daniel Nikolaus (1726- 1801), Maler, Kupferstecher und Illustrator
 </marginal>
 
 <marginal letter="419" page="122" line="12">
-<bzg>Omteda</bzg> Ompteda
+<bzg>Omteda</bzg> Ompteda, Catharina Charlotte, geb. Freiin v. d. Horst (gest. 1811), Oberhofmeisterin der Königin
+Karoline Mathilde von Dänemark
 </marginal>
 
 <marginal letter="419" page="122" line="13">
@@ -46929,7 +46930,7 @@ Geschichte von den Seelen der Menschen und Thiere. Halle 1774.
 </marginal>
 
 <marginal letter="419" page="122" line="22">
-<bzg>Noachide</bzg> von J. J. Bodmer.
+<bzg>Noachide</bzg> <link ref="bodmer" subref="bodmer-noah" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="122" line="24">
@@ -47061,7 +47062,7 @@ Concertmeister Bach [= Johann Christoph Friedrich] zu Bückeburg, 1774.
 </marginal>
 
 <marginal letter="420" page="124" line="19">
-<bzg>Weib u. Kinde</bzg> ?!?
+<bzg>Weib u. Kinde</bzg> <link ref="herder-c" linktext="true" /> und Wilhelm Christian Gottfried Herder (1774–1806)
 </marginal>
 
 <marginal letter="420" page="124" line="20">
@@ -47071,7 +47072,7 @@ Concertmeister Bach [= Johann Christoph Friedrich] zu Bückeburg, 1774.
 Brief Nr. 421
 
 <marginal letter="421" page="124" line="27">
-<bzg>Sibyllen Versuch über die Ehe</bzg> 
+<bzg>Sibyllen Versuch über die Ehe</bzg> ?!?
 </marginal>
 
 <marginal letter="421" page="124" line="29" sort="1">
@@ -47107,7 +47108,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="125" line="9">
-<bzg>Couvade</bzg> Begriff aus der Ethnologie für den Brauch, daß der Vater bei der Geburt des Kindes statt der Mutter das Bett hütet, 129,10ff.
+<bzg>Couvade</bzg> Begriff aus der Ethnologie für den Brauch, daß der Vater bei der Geburt des Kindes statt der Mutter das Bett hütet
 </marginal>
 
 <marginal letter="421" page="125" line="17">
@@ -47119,7 +47120,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="125" line="22">
-<bzg>Dorfteufel zu Wandsbek</bzg> 
+<bzg>Dorfteufel zu Wandsbek</bzg> <link ref="claudius" linktext="true" />
 </marginal>
 
 <marginal letter="421" page="125" line="31">
@@ -47143,7 +47144,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="126" line="15">
-<bzg>Commentar über das 2te Kap.</bzg> 1 Mo 2,21, eben der Versuch einer Sibylle über die Ehe
+<bzg>Commentar über das 2te Kap.</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,21.</link>; Versuch einer Sibylle über die Ehe
 </marginal>
 
 <marginal letter="421" page="126" line="19">
@@ -47297,7 +47298,7 @@ Brief Nr. 422
 </marginal>
 
 <marginal letter="422" page="128" line="21">
-<bzg>Geht hin</bzg> Lk 10,37.
+<bzg>Geht hin</bzg> <link ref="nt-lk" subref="nt-lk10" linktext="false">Lk 10,37</link>  
 </marginal>
 
 Brief Nr. 423
@@ -47459,7 +47460,7 @@ Rouen.
 </marginal>
 
 <marginal letter="424" page="130" line="19">
-<bzg>Apologie des H</bzg> 
+<bzg>Apologie des H</bzg> ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="20">
@@ -47467,7 +47468,7 @@ Rouen.
 </marginal>
 
 <marginal letter="424" page="130" line="21">
-<bzg>Heinr. Schröder</bzg> 
+<bzg>Heinr. Schröder</bzg> ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="22">
@@ -47475,7 +47476,7 @@ Rouen.
 </marginal>
 
 <marginal letter="424" page="130" line="24">
-<bzg>Zeitungsschreiber</bzg> Hamann
+<bzg>Zeitungsschreiber</bzg> Hamann meint sich selbst
 </marginal>
 
 <marginal letter="424" page="130" line="26">
@@ -47495,7 +47496,7 @@ Rouen.
 </marginal>
 
 <marginal letter="424" page="130" line="32">
-<bzg>Schwester und Schwester Tochter</bzg> 
+<bzg>Schwester und Schwester Tochter</bzg> ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="33">
@@ -47507,15 +47508,15 @@ Rouen.
 </marginal>
 
 <marginal letter="424" page="131" line="1">
-<bzg>Versuch über die Ehe</bzg>
+<bzg>Versuch über die Ehe</bzg> ?!?
 </marginal>
 
 <marginal letter="424" page="131" line="2">
-<bzg>Hartkn. Hochzeit</bzg>
+<bzg>Hartkn. Hochzeit</bzg> <link ref="hartknoch" linktext="true" /> und <link ref="hartknoch-a" linktext="true" /> am 13. September 1774
 </marginal>
 
 <marginal letter="424" page="131" line="5">
-<bzg>Stellen des 2ten Cap. Genes.</bzg> 1 Mo 2,21.
+<bzg>Stellen des 2ten Cap. Genes.</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,21</link>   
 </marginal>
 
 <marginal letter="424" page="131" line="6">
@@ -47545,7 +47546,7 @@ Scholion des Selbstgespräch[s] eines Autors, das sich auf den Schwanengesang
 </marginal>
 
 <marginal letter="424" page="131" line="12">
-<bzg>Consultationes Apollonii φφi</bzg>  die Briefe Kants, 403 und 405.
+<bzg>Consultationes Apollonii φφi</bzg> die Briefe von link ref="hartknoch" linktext="true" />, Nr. 403 und 405
 </marginal>
 
 <marginal letter="424" page="131" line="15">
@@ -47565,7 +47566,7 @@ Scholion des Selbstgespräch[s] eines Autors, das sich auf den Schwanengesang
 </marginal>
 
 <marginal letter="424" page="131" line="18">
-<bzg>Philosophie und Provintzialblätter</bzg>
+<bzg>Philosophie und Provintzialblätter</bzg> ?!?
 </marginal>
 
 <marginal letter="424" page="131" line="21">
@@ -47574,14 +47575,11 @@ Scholion des Selbstgespräch[s] eines Autors, das sich auf den Schwanengesang
 </marginal>
 
 <marginal letter="424" page="131" line="23">
-<bzg>Verrätherey</bzg> 115,11ff. und 122,32f.; H.
-hatte einen Brief Hartknochs an Herder geöffnet, 109,1ff.
+<bzg>Verrätherey</bzg> vgl. <intlink letter="414" page="109" line="1" linktext="true" 
 </marginal>
 
 <marginal letter="424" page="131" line="31">
-<bzg>Brief aus Br.</bzg> Brief aus Br.[andenburg]: 116,3f. gantze Mähre: Herders Streit mit Spalding und
-Teller, sowie das Gerücht, Herder habe dies alles betrieben, um durch Schmähung der
-Berliner Theologen seine Hoffnung auf das Hofpredigeramt in Göttingen zu befördern.
+<bzg>Brief aus Br.</bzg> Brief aus Br.[andenburg]; vgl. <intlink letter="417" page="116" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="131" line="34">
@@ -47612,17 +47610,15 @@ erkennen zu sollen, vgl seinen Brief an Hartknoch, 2. Hälfte Mai 1772 (HBGA II,
 </marginal>
 
 <marginal letter="424" page="132" line="18">
-<bzg>Landstraße</bzg> der breite Weg nach Mt 7,13.
+<bzg>Landstraße</bzg> der breite Weg nach <link ref="nt-mt" subref="nt-mt7" linktext="false">Mt 7,13</link>
 </marginal>
 
 <marginal letter="424" page="132" line="20">
-<bzg>Layenbruder</bzg> wie im Titel der Schrift F. K. v. Mosers an den
-Magum in Norden; H. verteidigt diesen noch einmal gegen Herders Schmähungen,
-61,10ff.
+<bzg>Layenbruder</bzg> vgl. <link ref="moser" subref="moser-schreiben" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="132" line="26">
-<bzg>ειτε γαρ …</bzg> 2 Ko 5,13
+<bzg>ειτε γαρ …</bzg> <link ref="nt-kor2" subref="nt-kor2-5" linktext="false">2 Kor 5,13</link> 
 </marginal>
 
 <marginal letter="424" page="132" line="29">
@@ -47630,9 +47626,7 @@ Magum in Norden; H. verteidigt diesen noch einmal gegen Herders Schmähungen,
 </marginal>
 
 <marginal letter="424" page="132" line="31">
-<bzg>Klotzianisch-Schlötzersche Imitattionen</bzg> Herders Streit mit <link ref="klotz" linktext="true" />, <link ref="riedel" linktext="true" /> und
-seine Auseinandersetzung mit Schlözers Universalhistorie, sowie Schlözers Antwort,
-98,31.
+<bzg>Klotzianisch-Schlötzersche Imitattionen</bzg> Herders Streit mit <link ref="klotz" linktext="true" />, <link ref="riedel" linktext="true" /> und <link ref="schloezer" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="132" line="33">
