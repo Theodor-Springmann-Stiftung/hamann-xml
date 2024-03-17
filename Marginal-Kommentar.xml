@@ -41891,7 +41891,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="425" line="2">
-<bzg>Uebersetzers…</bzg> wohl Johann Jakob Harder (1734–1775), protestantischer Geistlicher in Riga; Herder führte den Plan nicht aus
+<bzg>Uebersetzers…</bzg> wohl <link ref="harder" linktext="true" />; Herder führte den Plan nicht aus
 </marginal>
 
 <marginal letter="353" page="425" line="5">
@@ -46406,6 +46406,74 @@ Brief Nr. 383
 
 <marginal letter="383" page="33" line="24">
 <bzg>Elendsbraten</bzg> Hirsch- vielleicht auch Elchbraten
+</marginal>
+
+<marginal letter="383" page="33" line="26">
+<bzg>Klotzens Correspondentz…</bzg> <link ref="klotz" subref="klotz-briefe" linktext="true" />, der ‚lustige Abend‘ bezieht sich auf die Feindschaft Hamanns und Herders gegen Klotz und dessen Polemiken in <link ref="deutsche-bibliothek" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="33" line="27" sort="1">
+<bzg>Tiefensee</bzg> <link ref="tiefensee" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="33" line="27" sort="2">
+<bzg>Lippert</bzg> <link ref="lippert" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="33" line="28">
+<bzg>Harder</bzg> <link ref="harder" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="33" line="30">
+<bzg>Riga verlegten Schrift über den Ursprung der Sprache</bzg> die anonym in Riga bei Hartknoch erschienene Schrift <link ref="tiedemann" subref="tiedemann-ursprung" linktext="true" />, welche Hamann in <link ref="hamann" subref="hamann-zworecensionen" linktext="true" /> neben <link ref="herder" subref="herder-ursprung" linktext="true" /> rezensierte; Herder antwortete nicht auf diesen Punkt
+</marginal>
+
+<marginal letter="383" page="33" line="31">
+<bzg>Schlegel</bzg> 
+</marginal>
+
+<marginal letter="383" page="33" line="32">
+<bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="33" line="36" sort="1">
+<bzg>Bützowsche neue Schrift</bzg> <link ref="tetens" subref="tetens-ursprung" linktext="true" />, erschienen in Bützow und Wismar
+</marginal>
+
+<marginal letter="383" page="33" line="36" sort="2">
+<bzg>Göttingschen Zeitungen</bzg> <link ref="goettingische-anzeigen" linktext="true" />, 140.&#x202F;St. vom 21.11.1772, S.&#x202F;1191–1193
+</marginal>
+
+<marginal letter="383" page="34" line="1">
+<bzg>anti-newtonischen Geschmack in der Optik</bzg> <intlink letter="382" page="31" line="26" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="34" line="3">
+<bzg>kanonische System von Thorn</bzg> das Weltbild von Nikolaus Kopernikus
+</marginal>
+
+<marginal letter="383" page="34" line="5">
+<bzg>Systeme du Monde</bzg> <bzg>lambert-systeme</bzg>
+</marginal>
+
+<marginal letter="383" page="34" line="8">
+<bzg>Michaelis mosaisches Recht</bzg> <link ref="michaelis" subref="michaelis-mosaischesrecht" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="34" line="11">
+<bzg>Bibliothek</bzg> <link ref="michaelis" subref="michaelis-bibliothek" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="34" line="13" sort="1">
+<bzg>Rabelais</bzg> <link ref="rabelais" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="34" line="13" sort="2">
+<bzg>Montaigne</bzg> <link ref="montaigne" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="34" line="14">
+<bzg>Haller seine Briefe</bzg> <link ref="haller" subref="haller-offenbarungsbriefe" linktext="true" />
 </marginal>
 
 Brief Nr. 384
