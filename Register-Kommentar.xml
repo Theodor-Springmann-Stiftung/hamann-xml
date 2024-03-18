@@ -6206,7 +6206,7 @@ Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffen
 <titel>Älteste Urkunde des Menschengeschlechts.</titel> Erster Band, welcher den Ersten, Zweiten und Dritten Teil enthält (Riga 1774). – SWS,&#x202F;VI, S.&#x202F;193–511.
 </eintrag>
 </subsection>
-<subsection id="herder-adrastea" type="neuzeit" sort="400">
+<subsection id="herder-plastik" type="neuzeit" sort="400">
 <lemma>Herder, <titel>Plastik</titel></lemma>
 <eintrag>
 <titel>Plastik.</titel> Einige Wahrnehmungen aus Pygmalions bildendem Traume (Riga: Hartknoch 1778). – SWS VIII, S.&#x202F;1–163.
@@ -7659,9 +7659,9 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 </eintrag>
 </subsection>
 
-<subsection id="klopstock-sprache" type="neuzeit" sort="200">
+<subsection id="klopstock-dichtkunst" type="neuzeit" sort="200">
 <lemma>Klopstock, <titel>Ueber Sprache und Dichtkunst</titel></lemma>
-<eintrag><titel>Ueber Sprache und Dichtkunst.</titel> Fragmente von Klopstock (Hamburg: Heroldsche Buchhandlung 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id43410647X4">SLUB Dresden: </wwwlink>.
+<eintrag><titel>Ueber Sprache und Dichtkunst.</titel> Fragmente von Klopstock (Hamburg: Heroldsche Buchhandlung 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id43410647X4">SLUB Dresden: D.O.216,41"</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9961,6 +9961,11 @@ Zweite vermehrte Ausgabe 1775 in 6 Bde. [Biga&#x202F;65/103 u. 69/187: „J. D. 
 <lemma>Montaigne, <titel>Essays</titel></lemma>
 <eintrag><titel>Les essais de Michel seigneur de Montaigne</titel> (3&#xA0;Bde.; Amsterdam: Michiels 1659). 
 [Biga&#x202F;121/333: „Essais de Messire Michel Seigneur de Montaigne Liv. I. II. Bourd. 580. Titulus quidem indicat et librum secundum; editio ipsa non continet nisi primum. Liv. II III. Amst. 659“; Biga&#x202F;121/334: „Discorsi morali, politici e militari del molto illustre Sign. Mich. di Montagna tradotti del Sign. Girolamo Nasilli, con un discorso, se il forastiero si deue admettere alla administratione della Republica, Fers. 590“].
+</eintrag>
+</subsection>
+<subsection id="montaigne-voyage" type="neuzeit" sort="20">
+<lemma>Montaigne, <titel>Journal du voyage</titel></lemma>
+<eintrag><titel>Journal de voyage</titel> de Michel de Montaigne en Italie, Par la Suisse et l’Allemagne en 1580 et 1581. Avec des Notes par M. de Querlon (3&#xA0;Bde.; Rom: le Jay1774). 
 </eintrag>
 </subsection>
 </kommentar>
