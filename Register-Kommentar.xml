@@ -5709,10 +5709,10 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <titel>Beylage zun Denkwürdigkeiten des seligen Sokrates.</titel> Von einem Geistlichen in Schwaben. Zweyte Auflage (Halle 1773) [Druckort, Auflage und Erscheinungsjahr fingiert, recte Schwäbisch Hall 1772, vgl. <intlink letter="383" page="32" line="11" linktext="true" />] [Biga&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-235881">ULB Münster: N. Hamann Bd.&#x202F;7</wwwlink>. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;111–121.
 </eintrag>
 </subsection>
-<subsection id="hamann-selbstgesprach" type="neuzeit" sort="570">
+<subsection id="hamann-selbstgesprach-eines-autors" type="neuzeit" sort="570">
 <lemma>Hamann, <titel>Selbstgespräch eines Autors</titel></lemma>
 <eintrag>
-<titel>Selbstgespräch eines Autors.</titel> Mit 45 Scholien (1773 [vmtl. bei <link ref="hinz" linktext="false">Hinz</link> in Mitau]) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;429f., Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;67–79.
+<titel>Selbstgespräch eines Autors.</titel> Mit 45 Scholien (1773 [wohl bei <link ref="hinz" linktext="false">Hinz</link> in Mitau oder bei <link ref="hartknoch" linktext="false">Hartknoch</link> in Riga]) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-236006">ULB Münster: N. Hamann Bd.&#x202F;70</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;429f., Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;67–79.
 </eintrag>
 </subsection>
 <subsection id="hamann-prolegomena" type="neuzeit" sort="590">
@@ -10386,6 +10386,11 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 <eintrag>
 <titel>Ehrengedächtnis Herrn Thomas Abbt.</titel> An Herrn D. Johann George Zimmermann von Friedrich Nicolai (Berlin/Stettin 1767). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10887644-5">BSB München: Res/4 Biogr. 275,1</wwwlink>.
 </eintrag>
+</subsection>
+<subsection id="nicolai-magum" type="neuzeit">
+<lemma>Nicolai, <titel>An den Magum in Norden</titel></lemma>
+<eintrag>
+<titel>An den Magum in Norden</titel> Haussäßig am alten Graben No. 758. Sonst auch zu erfragen im Kanterschen Buchladen zu Königsberg, in Preußen. (Berlin/Stettin 1767). Digitalisat: <wwwlink address="http://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-240879">ULB Münster, N. Hamann Bd.&#x202F;71–75</wwwlink>. – Gedruckte Antwort auf <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />. </eintrag>
 </subsection>
 </kommentar>
 
