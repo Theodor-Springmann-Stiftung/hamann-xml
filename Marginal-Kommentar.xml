@@ -46937,7 +46937,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="30">
-<bzg>Versuch</bzg>  einer Sibylle über die Ehe ?!?
+<bzg>Versuch</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="114" line="33">
@@ -47277,8 +47277,7 @@ Bibliothek [= Berlinsche Luna], Bd. 35/1, durch Nicolai und J. A. Eberhard.
 </marginal>
 
 <marginal letter="419" page="121" line="22">
-<bzg>fahlen Pferde</bzg> der Sorge (atra cura), d.h. die mühselige Arbeit am Versuch
-einer Sibylle.
+<bzg>fahlen Pferde</bzg> der Sorge (atra cura), d.h. die mühselige Arbeit an <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="121" line="29">
@@ -47500,7 +47499,7 @@ Concertmeister Bach [= Johann Christoph Friedrich] zu Bückeburg, 1774.
 Brief Nr. 421
 
 <marginal letter="421" page="124" line="27">
-<bzg>Sibyllen Versuch über die Ehe</bzg> ?!?
+<bzg>Sibyllen Versuch über die Ehe</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
 </marginal>
 
 <marginal letter="421" page="124" line="29" sort="1">
@@ -47572,7 +47571,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="126" line="15">
-<bzg>Commentar über das 2te Kap.</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,21.</link>; Versuch einer Sibylle über die Ehe
+<bzg>Commentar über das 2te Kap.</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,21.</link>; <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
 </marginal>
 
 <marginal letter="421" page="126" line="19">
@@ -47702,7 +47701,7 @@ Brief Nr. 422
 </marginal>
 
 <marginal letter="422" page="128" line="5">
-<bzg>Sibyllen Versuch</bzg> ?!?
+<bzg>Sibyllen Versuch</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
 </marginal>
 
 <marginal letter="422" page="128" line="10">
@@ -47936,7 +47935,7 @@ Rouen.
 </marginal>
 
 <marginal letter="424" page="131" line="1">
-<bzg>Versuch über die Ehe</bzg> ?!?
+<bzg>Versuch über die Ehe</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="131" line="2">
@@ -48090,7 +48089,7 @@ erkennen zu sollen, vgl seinen Brief an Hartknoch, 2. Hälfte Mai 1772 (HBGA II,
 </marginal>
 
 <marginal letter="424" page="133" line="12">
-<bzg>wie das Weib im Evangelio</bzg> 
+<bzg>wie das Weib im Evangelio</bzg> <link ref="nt-lk" subref="nt-lk15" linktext="false">Lk 15, 8-10</link>
 </marginal>
 
 <marginal letter="424" page="133" line="16">
@@ -48123,11 +48122,12 @@ Amsterdam 1774.
 </marginal>
 
 <marginal letter="424" page="133" line="24" sort="1">
-<bzg>Goldsmith’s römische Geschichte</bzg>
+<bzg>Goldsmith’s römische Geschichte</bzg> ?!?
 </marginal>
 
 <marginal letter="424" page="133" line="24" sort="2">
-<bzg>Molters Toscanischer Sprachlehre</bzg>
+<bzg>Molters Toscanischer Sprachlehre</bzg> Molter, Friedrich (1722- 1808), Direktor der Hofbibliothek und des Kunstkabinetts in Karlsruhe
+Toskanische Sprachlehre. Leipzig 1750. Biga 71/200.
 </marginal>
 
 <marginal letter="424" page="133" line="29">
@@ -48207,7 +48207,7 @@ hat an mich drum geschrieben u. hat die Kupfer schon gestochen. Und auch Boje
 </marginal>
 
 <marginal letter="424" page="134" line="19">
-<bzg>Kleinigkeiten</bzg> Versuch einer Sibylle.
+<bzg>Kleinigkeiten</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="134" line="21">
@@ -48330,23 +48330,23 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="136" line="13">
-<bzg>Laßt uns …</bzg> Gen. 1,26
+<bzg>Laßt uns …</bzg><link ref="at-mo1" subref="at-mo1-1" linktext="false">1 Mo 1,26</link> 
 </marginal>
 
 <marginal letter="425" page="136" line="18">
-<bzg>erste</bzg> Gen. 4,1
+<bzg>erste</bzg><link ref="at-mo1" subref="at-mo1-4" linktext="false">1 Mo 4,1</link>
 </marginal>
 
 <marginal letter="425" page="136" line="20">
-<bzg>Vermehrer</bzg> Gen. 1,28
+<bzg>Vermehrer</bzg> <link ref="at-mo1" subref="at-mo1-1" linktext="false">1 Mo 1,28</link>
 </marginal>
 
 <marginal letter="425" page="136" line="23">
-<bzg>Seegens</bzg> Gen. 1,22
+<bzg>Seegens</bzg> <link ref="at-mo1" subref="at-mo1-1" linktext="false">1 Mo 1,22</link>
 </marginal>
 
 <marginal letter="425" page="136" line="29">
-<bzg>Raubes</bzg> Phil 2,6
+<bzg>Raubes</bzg> <link ref="nt-phil" subref="nt-phil2" linktext="false">Phil 2,6</link> 
 </marginal>
 
 <marginal letter="425" page="136" line="33">
@@ -48358,11 +48358,11 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="137" line="2">
-<bzg>Vernunft</bzg> vgl. Hippel, Ehe, S. 57
+<bzg>Vernunft</bzg> vgl. <link ref="hippel" subref="hippel-ehe" linktext="true" />, S. 57
 </marginal>
 
 <marginal letter="425" page="137" line="3">
-<bzg>„um der gegenwärtigen Noth willen“</bzg> 1 Kor 7,26
+<bzg>„um der gegenwärtigen Noth willen“</bzg> <link ref="nt-kor1" subref="nt-kor1-7" linktext="false">1 Kor 7,26</link> 
 </marginal>
 
 <marginal letter="425" page="137" line="5">
@@ -48370,75 +48370,75 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="137" line="6">
-<bzg>Coloß</bzg> Dan 3,1
+<bzg>Coloß</bzg> <link ref="at-dan" subref="at-dan3" linktext="false">Dan 3,1</link>  
 </marginal>
 
 <marginal letter="425" page="137" line="7" sort="1">
-<bzg>Schmelzofen</bzg> Dan 3,6
+<bzg>Schmelzofen</bzg> <link ref="at-dan" subref="at-dan3" linktext="false">Dan 3,6</link> 
 </marginal>
 
 <marginal letter="425" page="137" line="7" sort="2">
-<bzg>siebenmal heißer</bzg> Dan 3,19
+<bzg>siebenmal heißer</bzg> <link ref="at-dan" subref="at-dan3" linktext="false">Dan 3,19</link> 
 </marginal>
 
 <marginal letter="425" page="137" line="8">
-<bzg>kein Falsch</bzg> Joh 1,47
+<bzg>kein Falsch</bzg> <link ref="nt-jo" subref="nt-jo1" linktext="false">Joh 1,47</link> 
 </marginal>
 
 <marginal letter="425" page="137" line="12">
-<bzg>Verstockung</bzg> Mt 19,8
+<bzg>Verstockung</bzg> <link ref="nt-mt" subref="nt-mt19" linktext="false">Mt 19,8</link>   
 </marginal>
 
 <marginal letter="425" page="137" line="14">
-<bzg>Schänder seiner Majestät …</bzg> Röm 1,26
+<bzg>Schänder seiner Majestät …</bzg> <link ref="nt-roe" subref="nt-roe1" linktext="false">Röm 1,26</link>  
 </marginal>
 
 <marginal letter="425" page="137" line="18">
-<bzg>Erfüller</bzg> Mt 5,17
+<bzg>Erfüller</bzg> <link ref="nt-mt" subref="nt-mt5" linktext="false">Mt 5,17</link>   
 </marginal>
 
 <marginal letter="425" page="137" line="20">
-<bzg>„Wer ein Weib …</bzg> Mt 5,28/32
+<bzg>„Wer ein Weib …</bzg> <link ref="nt-mt" subref="nt-mt5" linktext="false">Mt 5,28/32</link> 
 </marginal>
 
 <marginal letter="425" page="137" line="23">
-<bzg>„geboten solche zu steinigen“</bzg> u.a. Joh 8, 5
+<bzg>„geboten solche zu steinigen“</bzg> u.a. <link ref="nt-jo" subref="nt-jo8" linktext="false">Joh 8,5</link> 
 </marginal>
 
 <marginal letter="425" page="137" line="24">
-<bzg>Schemen</bzg> 1 Kor 7,31
+<bzg>Schemen</bzg> <link ref="nt-kor1" subref="nt-kor1-7" linktext="false">1 Kor 7,31</link>
 </marginal>
 
 <marginal letter="425" page="137" line="26">
-<bzg>prophetisches Wort</bzg> 2 Petr 1,19
+<bzg>prophetisches Wort</bzg> <link ref="nt-pet2" subref="nt-pet2-1" linktext="false">2 Petr 1,19</link>    
 </marginal>
 
 <marginal letter="425" page="137" line="27" sort="1">
-<bzg>„Das Geheimnis …</bzg> Eph 5,32
+<bzg>„Das Geheimnis …</bzg> <link ref="nt-eph" subref="nt-eph5" linktext="false">Eph 5,32</link>   
 </marginal>
 
 <marginal letter="425" page="137" line="27" sort="2">
-<bzg>GOTTes Ebenbild …</bzg> 1 Kor 11,7
+<bzg>GOTTes Ebenbild …</bzg> <link ref="nt-kor1" subref="nt-kor1-11" linktext="false">1 Kor 11,7</link> 
 </marginal>
 
 <marginal letter="425" page="137" line="29">
-<bzg>Weib</bzg> u.a. 1 Tim 2, 15
+<bzg>Weib</bzg> u.a.  <link ref="nt-tim1" subref="nt-tim1-2" linktext="false">1 Tim 2,15</link>  
 </marginal>
 
 <marginal letter="425" page="137" line="30">
-<bzg>Mann</bzg> Eph 5,23
+<bzg>Mann</bzg> <link ref="nt-eph" subref="nt-eph5" linktext="false">Eph 5,23</link> 
 </marginal>
 
 <marginal letter="425" page="137" line="31">
-<bzg>Hymens</bzg> gr. Jungfernhäutchen und Hochzeitsgott; vgl. Hippel, Ehe, S. 44
+<bzg>Hymens</bzg> gr. Jungfernhäutchen und Hochzeitsgott; vgl.  <link ref="hippel" subref="hippel-ehe" linktext="true" />, S. 44
 </marginal>
 
 <marginal letter="425" page="137" line="32">
-<bzg>Schlaf</bzg> Gen 2, 21-23
+<bzg>Schlaf</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,21-23</link>
 </marginal>
 
 <marginal letter="425" page="137" line="33">
-<bzg>Mutter</bzg> Gen 3,20
+<bzg>Mutter</bzg> <link ref="at-mo1" subref="at-mo1-3" linktext="false">1 Mo 3,20</link>
 </marginal>
 
 <marginal letter="425" page="137" line="34">
@@ -48450,7 +48450,7 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="137" line="36">
-<bzg>Kautz</bzg> Hippel, Ehe
+<bzg>Kautz</bzg> vgl. <link ref="hippel" subref="hippel-ehe" linktext="true" />
 </marginal>
 
 <marginal letter="425" page="137" line="37" sort="1">
@@ -48474,11 +48474,11 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="138" line="9">
-<bzg>Einem unter Tausenden</bzg> Pred 7,28
+<bzg>Einem unter Tausenden</bzg> <link ref="at-pr" subref="at-pr7" linktext="false">Pred 7,28</link>  
 </marginal>
 
 <marginal letter="425" page="138" line="10">
-<bzg>Taubeneinfalt und Schlangenlist</bzg> Mt 10,16
+<bzg>Taubeneinfalt und Schlangenlist</bzg> <link ref="nt-mt" subref="nt-mt10" linktext="false">Mt 10,16</link>
 </marginal>
 
 <marginal letter="425" page="138" line="17">
@@ -48490,19 +48490,19 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="138" line="24">
-<bzg>Milch und Honig</bzg> 5M o 11,9 
+<bzg>Milch und Honig</bzg> <link ref="at-mo5" subref="at-mo5-11" linktext="false">5 Mo 11,9</link>
 </marginal>
 
 <marginal letter="425" page="138" line="25">
-<bzg>Schatzkammern</bzg>  Mt 12,35
+<bzg>Schatzkammern</bzg> <link ref="nt-mt" subref="nt-mt12" linktext="false">Mt 12,35</link>
 </marginal>
 
 <marginal letter="425" page="138" line="34" sort="1">
-<bzg>Leviathans</bzg> u.a. Jes 27,1
+<bzg>Leviathans</bzg> u.a. <link ref="at-jes" subref="at-jes27" linktext="false">Jes 27,1</link> 
 </marginal>
 
 <marginal letter="425" page="138" line="34" sort="2">
-<bzg>hoch in den Wellen</bzg> Eph 2,2
+<bzg>hoch in den Wellen</bzg> <link ref="nt-eph" subref="nt-eph2" linktext="false">Eph 2,2</link>  
 </marginal>
 
 <marginal letter="425" page="138" line="35">
@@ -48510,15 +48510,15 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="139" line="6">
-<bzg>„Das ist …</bzg> Gen 2,23
+<bzg>„Das ist …</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,23</link>  
 </marginal>
 
 <marginal letter="425" page="139" line="10" sort="1">
-<bzg>Schöpfer in guten Werken</bzg> 1 Petr 4,19
+<bzg>Schöpfer in guten Werken</bzg> <link ref="nt-pet1" subref="nt-pet1-4" linktext="false">1 Petr 4,19</link>  
 </marginal>
 
 <marginal letter="425" page="139" line="10" sort="2">
-<bzg>Lücke der Stätte</bzg> Gen 2,21
+<bzg>Lücke der Stätte</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,21</link> 
 </marginal>
 
 <marginal letter="425" page="139" line="11">
@@ -48526,7 +48526,7 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="139" line="13">
-<bzg>Postscript</bzg> vgl. Hippel. Ehe, S. 141
+<bzg>Postscript</bzg> vgl. <link ref="hippel" subref="hippel-ehe" linktext="true" />, S. 141
 </marginal>
 
 <marginal letter="425" page="139" line="16">
@@ -48558,8 +48558,7 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="140" line="5" sort="1">
-<bzg>Voßischen Opusculo homonymo</bzg> 126,3f.; es war Hippels 1774 anonym in Berlin
-erschienene Schrift Ueber die Ehe; H. vermutete wohl dessen Autorschaft, gab sich
+<bzg>Voßischen Opusculo homonymo</bzg> vgl. <intlink letter="521" page="126" line="3" linktext="true" />; <link ref="hippel" subref="hippel-ehe" linktext="true" /> in der Vossischen Buchhandlung; kleines, gleichnamiges Werk; H. vermutete wohl Hippels Autorschaft, gab sich
 aber unwissend.
 </marginal>
 
