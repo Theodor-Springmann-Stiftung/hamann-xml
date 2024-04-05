@@ -5718,16 +5718,22 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-lettre" type="neuzeit" sort="580">
 <lemma>Hamann, <titel>Lettre perdue d’un sauvage du nord</titel></lemma>
 <eintrag>
-<titel>Lettre perdue d’un sauvage du nord à un financier de Pe-Kim</titel> ([Riga] 1773). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4606240">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>.
+<titel>Lettre perdue d’un sauvage du nord à un financier de Pe-Kim</titel> ([Riga] 1773). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4606240">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;419f., Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;299–305.
 </eintrag>
 </subsection>
-<subsection id="hamann-prolegomena" type="neuzeit" sort="590">
+<subsection id="hamann-kadmonbor" type="neuzeit" sort="590">
+<lemma>Hamann, <titel>An die Hexe zu Kadmonbor</titel></lemma>
+<eintrag>
+<titel>An die Hexe zu Kadmonbor</titel> ([Mitau: Hinz] 1773) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4602768">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;434, Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;81–86.
+</eintrag>
+</subsection>
+<subsection id="hamann-prolegomena" type="neuzeit" sort="600">
 <lemma>Hamann, <titel>Prolegomena</titel></lemma>
 <eintrag>
 <titel>Christiani Zacchaei Telonarchae προλεγομενα über die neueste Auslegung der ältesten Urkunde des menschlichen Geschlechts.</titel> In zweyen Antwortschreiben an Apollonium Philosophum (1774 [Hamburg: Bode]). – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 </eintrag>
 </subsection>
-<subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="600">
+<subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="610">
 <lemma>Hamann, <titel>Übersetzung von Bolingbroke und Hervey</titel></lemma>
 <eintrag>
 <titel>Heinrich St. Johann Vitzgraf Bolingbroke und Jakob Hervey etc. etc.</titel> Übersetzt von J.&#x202F;G. Hamann (Mitau: Hinz 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136259-8">BSB München: Var. 686 a</wwwlink>. – Übersetzung von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" /> und <link ref="hervey" subref="hervey-remarks" linktext="true" /> (Vorwort bei N&#x202F;IV,441).
@@ -11530,12 +11536,18 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 
 <kommentar id="raynal" type="neuzeit">
 <lemma>Guillaume-Thomas-François Raynal</lemma>
-<eintrag>1713–1796. Frz. Schriftsteller.</eintrag>
+<eintrag>1713–1796. Frz. Schriftsteller, verließ 1747 den Jesuitenorden, Hauslehrer, literarischer Korrespondent, Redakteur des Mercure de France, 1781–88 im Exil in Deutschland und der Schweiz.</eintrag>
 <subsection id="raynal-anecdoten" type="neuzeit">
 <lemma>Raynal, <titel>Anecdoten zur Lebensgeschichte</titel></lemma>
 <eintrag>
 <titel>Anecdotes littéraires, ou Histoire de ce qui est arrivé de plus singulier &amp; et de plus intéressant aux écrivains françois, depuis le renouvellement des lettres sous François Ier jusqu’à nos jours</titel> (1750/1756).<line type="break" />
 <titel>Anecdoten zur Lebensgeschichte berühmter französischer, deutscher, italienischer, holländischer und anderer Gelehrten</titel>. Übers. u. hg. von Johann Adam Hiller (4&#xA0;Bde., Leipzig: Lankisch 1762/64). [Biga 83/141 „Anecdoten zur Lebensgeschichte berühmter Gelehrten, 1. 2. 3. Th. Leipz. 762. 63“]. Digitalisate: 1. Teil: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10069568-2">BSB München: Biogr.c. 10-1/2</wwwlink>. – 2. Teil: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10069569-2">BSB München: Biogr.c. 10-1/2</wwwlink>. – 3. Teil: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10069570?page=,1">BSB München: Biogr.c. 10-3/4</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="raynal-indes" type="neuzeit">
+<lemma>Raynal, <titel>Histoire des deux Indes</titel></lemma>
+<eintrag>
+<titel>Histoire philosophique et politique</titel> Des Établissements &#x26; du Commerce des Européens dans les deux Indes (6 Bde., Amsterdam 1770). – Anonym publiziert, schnell in mehrfachen Auflagen; neben Raynal auch <link ref="diderot" linktext="true" /> zugeschrieben. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k109687x.r">Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, G-28071.</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
