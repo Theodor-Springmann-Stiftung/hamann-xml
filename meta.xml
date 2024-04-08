@@ -7400,14 +7400,14 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="387">
-        <date value="25. März 1773" />
+        <date value="Vmtl. Königsberg, 25. März 1773" />
         <sort value="1773-03-25" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
         <receivers>
-          <receiver ref="-1" />
+          <receiver ref="35" />
         </receivers>
         <hasOriginal value="true" />
         <isProofread value="true" />
@@ -7629,7 +7629,7 @@
       </letterDesc>
       <letterDesc letter="399">
         <date value="vor 13. August 1774" />
-        <sort value="1773-08-13" notAfter="1773-08-13" />
+        <sort value="1774-08-13" notAfter="1774-08-13" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />

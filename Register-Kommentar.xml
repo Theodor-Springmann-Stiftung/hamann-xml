@@ -1377,7 +1377,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="bode-jjc" type="neuzeit">
 <lemma>Johann Joachim Christoph Bode</lemma>
-<eintrag>1730–1793. Verleger und Übersetzer der Aufklärung, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>.</eintrag>
+<eintrag>1730–1793. Buchdrucker und Verleger in Hamburg, Übersetzer u.a. von <link ref="sterne" subref="sterne-tristram" linktext="true" /> , siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bodin" type="neuzeit">
@@ -1763,6 +1763,26 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <lemma>Brooke, <titel>The Fool of quality</titel></lemma>
 <eintrag>
 <titel>The Fool of quality;</titel> or: The history of Henri Earl of Moreland (6 Bde., Dublin/London 1765–70). Digitalisat Bd. 1: <wwwlink address="https://books.google.de/books?id=pxI2AQAAMAAJ">Google Books</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="brooke-f" type="neuzeit">
+<lemma>Frances Brooke</lemma>
+<eintrag>1724–1789, geb. Moore. Engl.-kanadische Schriftstellerin.</eintrag>
+<subsection id="brooke-catesby" type="neuzeit" sort="10">
+<lemma>Frances Brooke, <titel>Lady Catesby</titel></lemma>
+<eintrag>
+<titel>Letters from Juliet Lady Catesby to her friend, Lady Henrietta Campley</titel> 1759. Übers. aus dem Französischen des Briefromans von Marie-Jeanne Riccoboni.</eintrag>
+</subsection>
+<subsection id="brooke-mandeville" type="neuzeit" sort="20">
+<lemma>Frances Brooke, <titel>Julia Mandeville</titel></lemma>
+<eintrag>
+<titel>The History of Lady Julia Mandeville</titel> 1763.</eintrag>
+</subsection>
+<subsection id="brooke-montague" type="neuzeit" sort="30">
+<lemma>Frances Brooke, <titel>Emily Montague</titel></lemma>
+<eintrag>
+<titel>The History of Emily Montague</titel> (London: Dodsley 1769). Digitalisat: <wwwlink address="https://books.google.de/books?id=HaoBAAAAQAAJ">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -5733,7 +5753,13 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <titel>Christiani Zacchaei Telonarchae προλεγομενα über die neueste Auslegung der ältesten Urkunde des menschlichen Geschlechts.</titel> In zweyen Antwortschreiben an Apollonium Philosophum (1774 [Hamburg: Bode]). – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 </eintrag>
 </subsection>
-<subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="610">
+<subsection id="hamann-kermes" type="neuzeit" sort="610">
+<lemma>Hamann, <titel>Le Kermes du Nord</titel></lemma>
+<eintrag>
+<titel>Le Kermes du Nord</titel> [Mitau: Hinz] 1774. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4605388">ULB Münster: </wwwlink>.  – Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;422–424, Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;317–322.
+</eintrag>
+</subsection>
+<subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="620">
 <lemma>Hamann, <titel>Übersetzung von Bolingbroke und Hervey</titel></lemma>
 <eintrag>
 <titel>Heinrich St. Johann Vitzgraf Bolingbroke und Jakob Hervey etc. etc.</titel> Übersetzt von J.&#x202F;G. Hamann (Mitau: Hinz 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136259-8">BSB München: Var. 686 a</wwwlink>. – Übersetzung von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" /> und <link ref="hervey" subref="hervey-remarks" linktext="true" /> (Vorwort bei N&#x202F;IV,441).
@@ -8134,6 +8160,11 @@ L
 Übers.: <titel>Von den Besessenen, der im Neuen Testament gedacht wird. In vier Reden über Marc. 5, 19 mit e. Anh. verschiedener Anmerkungen, wodurch derselbe Gegenstand noch mehr erläutert wird, von Nathanael Lardner, Doc. der Gottesgel. Aus dem Englischen übersezt von <link ref="cassel" subref="cassel-lardner" linktext="false">J. P. C[assel]</link>. Nebst der Ungenannten Prüfung der Gedanken, welche Herr Lardner in diesen vier Reden über die Besessenen geäußert hat</titel> (Bremen: Georg Ludwig Förster 1760). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10085609-7">Bayerische Staatsbibliothek: Med.g. 286 h#Beibd.1</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="lattre" type="neuzeit">
+<lemma>Nicolas Constantin de Lattre</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Geheimer Rat, später Finanzrat, Steuerfachmann im <link ref="generaldirektorium" linktext="true" /> in den späten 1760ern bis in die 1780er; richtete in Königsberg im Auftrag von <link ref="friedrich-II" linktext="true" /> die Salz- und Seehandlungskompanie ein.</eintrag>
 </kommentar>
 
 <kommentar id="laubmeyer-jc" type="neuzeit">
@@ -12967,13 +12998,19 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 </subsection>
 </kommentar>
 
-<kommentar id="smollet" type="neuzeit">
-<lemma>Tobias Smollet</lemma>
-<eintrag>1721–1771. Schottischer Arzt und Schriftsteller.
+<kommentar id="smollett" type="neuzeit">
+<lemma>Tobias Smollett</lemma>
+<eintrag>1721–1771. Schottischer Arzt und Schriftsteller, siehe <wwwlink address="https://www.britannica.com/biography/Tobias-Smollett">Allen, Walter E.: Tobias Smollett, in: <titel>Encyclopedia Britannica</titel></wwwlink>.
 </eintrag>
-<subsection id="smollet-pickle" type="neuzeit" sort="10">
-<lemma>Smollet, <titel>Williams Pickle</titel></lemma>
+<subsection id="smollett-pickle" type="neuzeit" sort="10">
+<lemma>Smollett, <titel>Williams Pickle</titel></lemma>
 <eintrag><titel>Histoire et aventures de Sir Williams Pickle</titel> (4 Bde., Amsterdam, Leipzig [i.e. Paris] 1753). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb10750228">BSB München: P.o.angl. 388 c-1/2</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="smollett-clinker" type="neuzeit" sort="20">
+<lemma>Smollett, <titel>Humphry Clinker</titel></lemma>
+<eintrag><titel>The expedition of Humphry Clinker</titel> (3 Bde., London 1771).<line type="break" />
+Übers.: Humphrey Klinkers Reise. Aus dem Englischen von <link ref="bode-jjc" linktext="true" /> (3 Bde., Leipzig: Weidmanns Erben 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750222-9">BSB München: P.o.angl. 387</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
