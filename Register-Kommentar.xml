@@ -5715,7 +5715,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <titel>Selbstgespräch eines Autors.</titel> Mit 45 Scholien (1773 [wohl bei <link ref="hinz" linktext="false">Hinz</link> in Mitau oder bei <link ref="hartknoch" linktext="false">Hartknoch</link> in Riga]) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-236006">ULB Münster: N. Hamann Bd.&#x202F;70</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;429f., Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;67–79.
 </eintrag>
 </subsection>
-<subsection id="hamann-lettre" type="neuzeit" sort="580">
+<subsection id="hamann-lettreperdue" type="neuzeit" sort="580">
 <lemma>Hamann, <titel>Lettre perdue d’un sauvage du nord</titel></lemma>
 <eintrag>
 <titel>Lettre perdue d’un sauvage du nord à un financier de Pe-Kim</titel> ([Riga] 1773). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4606240">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;419f., Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;299–305.
@@ -6474,6 +6474,11 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <eintrag>
 <titel>Makulatur zum bewußten Gebrauch</titel> (Königsberg: Kanter 1762) [Biga&#x202F;199/109: „Maculatur zum bewußten Gebrauche, Königsberg 762“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hipparchia" type="neuzeit">
+<lemma>Hipparchia</lemma>
+<eintrag>3. Jh. v. Chr., kynische Philosophin (bekannt durch Berichte bei <link ref="diogenes" linktext="true" />), siehe <wwwlink address="https://iep.utm.edu/hipparch/">Internet Encyclopedia of Philosophy</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hipperich" type="neuzeit">
