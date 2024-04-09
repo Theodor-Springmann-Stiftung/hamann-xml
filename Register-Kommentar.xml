@@ -520,6 +520,11 @@ Vll. <titel>Fabvlae aesopicae graecae qvae Maximo Planudi tribvvntvr. Ad vetervm
 </subsection>
 </kommentar>
 
+<kommentar id="aspasia" type="neuzeit">
+<lemma>Aspasia von Milet</lemma>
+<eintrag>Lehrerin des <link ref="sokrates" linktext="true" /> in der Rhetorik (<link ref="platon" subref="plat-menex" linktext="true" />, 235e); Gastgeberin eines philosophischen Salons und Frau (bzw. Hetäre) von Perikles.</eintrag>
+</kommentar>
+
 <kommentar id="athenagoras" type="neuzeit">
 <lemma>Athenagoras von Athen</lemma>
 <eintrag>2. Jhd. Christlicher Apologet und Philosoph.</eintrag>
@@ -1377,7 +1382,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="bode-jjc" type="neuzeit">
 <lemma>Johann Joachim Christoph Bode</lemma>
-<eintrag>1730–1793. Buchdrucker und Verleger in Hamburg, Übersetzer u.a. von <link ref="sterne" subref="sterne-tristram" linktext="true" /> , siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>.</eintrag>
+<eintrag>1730–1793. Buchdrucker und Verleger in Hamburg, Übersetzer u.a. von <link ref="sterne" subref="sterne-shandy" linktext="true" /> , siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bodin" type="neuzeit">
@@ -13034,14 +13039,6 @@ Es handelt sich wahrscheinlich um eine Übers. aus <titel>Les oeuvres de Platon 
 Zu Hamanns Bezug auf diesen Text in den Briefen 1759: <link ref="ste-h-2016" linktext="false">Steffes 2016</link>.
 </eintrag>
 </subsection>
-<subsection id="xanthippe" type="neuzeit" sort="40">
-<lemma>Xanthippe</lemma>
-<eintrag>Ehefrau von Sokrates, über die bereits seit der Antike zahlreiche Anekdoten kursierten.</eintrag>
-</subsection>
-<subsection id="aspasia" type="neuzeit" sort="40">
-<lemma>Aspasia von Milet</lemma>
-<eintrag>Sokrates’ Lehrerin in der Rhetorik (<link ref="platon" subref="plat-menex" linktext="true" />, 235e); Gastgeberin eines philosophischen Salons und Frau (bzw. Hetäre) von Perikles.</eintrag>
-</subsection>
 </kommentar>
 
 <kommentar id="sokrates-schol" type="neuzeit">
@@ -15106,6 +15103,13 @@ Digitalisat 19. Stück (1762): <wwwlink address="https://kpbc.umk.pl/dlibra/publ
 </kommentar>
 
 X
+
+<kommentar id="xanthippe" type="neuzeit">
+<lemma>Xanthippe</lemma>
+<eintrag>Ehefrau von <link ref="sokrates" linktext="true" />, über die bereits seit der Antike zahlreiche Anekdoten kursierten.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="xenophon" type="neuzeit">
 <lemma>Xenophon</lemma>
 <eintrag>430/425&#x202F;–&#x202F;nach 355 v.&#x202F;Chr.</eintrag>
