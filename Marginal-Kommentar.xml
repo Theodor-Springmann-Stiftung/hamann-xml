@@ -30428,7 +30428,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal letter="254a" page="XXI" line="31" sort="2">
-<bzg>Maintenon</bzg> wohl Françoise d’ Aubigné, Marquise de Maintenon (1635–1719), Maitresse Ludwigs XIV. von Frankreich und seit 1684 dessen zweite Frau
+<bzg>Maintenon</bzg> wohl <link ref="maintenon" linktext="true" />
 </marginal>
 
 <marginal letter="254a" page="XXI" line="32">
@@ -32161,7 +32161,7 @@ Brief Nr. 265
 </marginal>
 
 <marginal letter="265" page="254" line="21">
-<bzg>Welt Feindschaft</bzg> vgl. <link ref="nt-jak" subref="nt-jak4" linktext="false">Jak 4,4</link> 
+<bzg>Welt Feindschaft</bzg> vgl. <link ref="nt-jak" subref="nt-jak4" linktext="false">Jak 4,4</link>
 </marginal>
 
 <marginal letter="265" page="254" line="25">
@@ -41957,7 +41957,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="425" line="19" sort="1">
-<bzg>Graf von der Lippe</bzg> <link ref="wilhelm-schaumburg-lippe" linktext="true" />
+<bzg>Graf von der Lippe</bzg> <link ref="schaumburg-lippe-wilhelm" linktext="true" />
 </marginal>
 
 <marginal letter="353" page="425" line="19" sort="2">
@@ -46029,7 +46029,7 @@ Brief Nr. 382
 </marginal>
 
 <marginal letter="382" page="28" line="12">
-<bzg>Bückeburg […] dicht an Minden…</bzg> Die beiden Städte liegen nur 10&#x202F;km auseinander, gehörten aber zu unterschiedlichen Fürstentümern: Herder war durch seine Freundschaft zum <link ref="wilhelm-schaumburg-lippe" linktext="false">Grafen von Schaumburg-Lippe</link> nach Bückeburg gelangt, das Fürstentum Minden gehörte aber zu den Westbesitzungen des Hauses Brandenburg und hatte daher eine gute Anbindung an die preußische Post.
+<bzg>Bückeburg […] dicht an Minden…</bzg> Die beiden Städte liegen nur 10&#x202F;km auseinander, gehörten aber zu unterschiedlichen Fürstentümern: Herder war durch seine Freundschaft zum <link ref="schaumburg-lippe-wilhelm" linktext="false">Grafen von Schaumburg-Lippe</link> nach Bückeburg gelangt, das Fürstentum Minden gehörte aber zu den Westbesitzungen des Hauses Brandenburg und hatte daher eine gute Anbindung an die preußische Post.
 </marginal>
 
 <marginal letter="382" page="28" line="13">
@@ -46109,11 +46109,11 @@ Brief Nr. 382
 </marginal>
 
 <marginal letter="382" page="30" line="4">
-<bzg>Landesherr</bzg> <link ref="wilhelm-schaumburg-lippe" linktext="true" />
+<bzg>Landesherr</bzg> <link ref="schaumburg-lippe-wilhelm" linktext="true" />
 </marginal>
 
 <marginal letter="382" page="30" line="6" sort="1">
-<bzg>Abbtiana</bzg> <link ref="abbt" linktext="true" /> war 1765 nach Bückeburg u.a. als Konsistorialrat berufen worden, Herder gewissermaßen sein Nachfolger; gegenüber <link ref="mendelssohn" linktext="true" /> äußerte sich Abbt sehr positiv über die geistigen Qualitäten von <link ref="wilhelm-schaumburg-lippe" linktext="true" />, vgl. <link ref="abbt" subref="abbt-correspondenz" linktext="true" />, S.&#x202F;376 (Nr. 89, Oktober 1765)
+<bzg>Abbtiana</bzg> <link ref="abbt" linktext="true" /> war 1765 nach Bückeburg u.a. als Konsistorialrat berufen worden, Herder gewissermaßen sein Nachfolger; gegenüber <link ref="mendelssohn" linktext="true" /> äußerte sich Abbt sehr positiv über die geistigen Qualitäten von <link ref="schaumburg-lippe-wilhelm" linktext="true" />, vgl. <link ref="abbt" subref="abbt-correspondenz" linktext="true" />, S.&#x202F;376 (Nr. 89, Oktober 1765)
 </marginal>
 
 <marginal letter="382" page="30" line="6" sort="2">
@@ -46125,7 +46125,7 @@ Brief Nr. 382
 </marginal>
 
 <marginal letter="382" page="30" line="8" sort="2">
-<bzg>Gemalin</bzg> <link ref="maria-schaumburg-lippe" linktext="true" />
+<bzg>Gemalin</bzg> <link ref="schaumburg-lippe-maria" linktext="true" />
 </marginal>
 
 <marginal letter="382" page="30" line="12">
@@ -46649,7 +46649,7 @@ Brief Nr. 384
 </marginal>
 
 <marginal letter="384" page="36" line="12">
-<bzg>Schutzgöttin</bzg> <link ref="maria-schaumburg-lippe" linktext="true" />, vgl. <intlink letter="382" page="30" line="11" linktext="true" />
+<bzg>Schutzgöttin</bzg> <link ref="schaumburg-lippe-maria" linktext="true" />, vgl. <intlink letter="382" page="30" line="11" linktext="true" />
 </marginal>
 
 Brief Nr. 385
@@ -46948,6 +46948,10 @@ Brief Nr. 386
 <bzg>M. Coelius</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
+<marginal letter="386" page="40" line="21">
+<bzg>verdeckten Gerichte</bzg> vmtl. <link ref="nicolai" subref="nicolai-nothanker" linktext="true" />, vgl. <intlink letter="388" page="44" line="22" linktext="true" />
+</marginal>
+
 <marginal letter="386" page="40" line="25">
 <bzg>Kätchens</bzg> <link ref="berens-ca" linktext="true" />
 </marginal>
@@ -47100,17 +47104,83 @@ Brief Nr. 388
 <bzg>22 Stück…</bzg> <link ref="kgpz" linktext="true" />, 22.&#x202F;St. vom 15.3.1773 (N&#x202F;III,378), vgl. <intlink letter="386" page="38" line="16" linktext="true" />
 </marginal>
 
-<marginal letter="387" page="43" line="29">
+<marginal letter="388" page="43" line="29">
 <bzg>Ex-Mandarinen</bzg> Mien-Man-Hoam, die fingierte Autor von <link ref="hamann" subref="hamann-selbstgespräch-eines-autors" linktext="true" />
 </marginal>
 
-<marginal letter="387" page="43" line="30">
+<marginal letter="388" page="43" line="30">
 <bzg>M. Cölius Serotinus</bzg> der fingierte Autor von <link ref="nicolai" subref="nicolai-magum" linktext="true" />
 </marginal>
 
-<marginal letter="387" page="43" line="31">
+<marginal letter="388" page="43" line="31">
 <bzg>neuesten</bzg> Anspielung auf <link ref="briefe-literatur" linktext="true" />
 </marginal>
+
+<marginal letter="388" page="43" line="34">
+<bzg>Caricatur</bzg> vgl. <link ref="hamann" subref="hamann-rosencreuz" linktext="true" />, N&#x202F;III,25/10
+</marginal>
+
+<marginal letter="388" page="43" line="35">
+<bzg>rolandsche Tubus</bzg> vgl. <link ref="hamann" subref="hamann-gesprach-eines-autors" linktext="true" />, N&#x202F;III,71/15–19
+</marginal>
+
+<marginal letter="388" page="44" line="1">
+<bzg>kleinen Handschrift</bzg> wohl <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />
+</marginal>
+
+<marginal letter="388" page="44" line="3">
+<bzg>in nostrae amicitiae memoriam</bzg> im Gedenken an unsere Freundschaft, nach <link ref="cicero" subref="cic-lael" linktext="true" />
+</marginal>
+
+<marginal letter="388" page="44" line="7">
+<bzg>Montaigne…</bzg> <link ref="montaigne" subref="montaigne-essays" linktext="true" />, II, Kap. 17 (S.&#x202F;505 in der Ausgabe Amsterdam 1659); dt. man mag mein Vorhaben anklagen, wenn man will, aber nicht meinen Fortschritt
+</marginal>
+
+<marginal letter="388" page="44" line="11">
+<bzg>Si Dominus…</bzg> <link ref="nt-jak" subref="nt-jak4" linktext="false">Jak 4,15</link> 
+</marginal>
+
+<marginal letter="388" page="44" line="13">
+<bzg>Platon</bzg> <link ref="platon" linktext="true" />, vgl. <intlink letter="387" page="42" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="388" page="44" line="18">
+<bzg>Xenophon</bzg> <link ref="xenophon" linktext="true" />
+</marginal>
+
+<marginal letter="388" page="44" line="20">
+<bzg>unartiger Apoll</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="388" page="44" line="21">
+<bzg>M. Cölius Serotinus</bzg> <link ref="nicolai" linktext="true" />
+</marginal>
+
+<marginal letter="388" page="44" line="22">
+<bzg>Kupferstichen gezierte Buch</bzg> <link ref="nicolai" subref="nicolai-nothanker" linktext="true" />, vgl. <intlink letter="386" page="40" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="388" page="44" line="24" sort="1">
+<bzg>Malherbe</bzg> <link ref="malherbe" linktext="true" /> soll nach <link ref="racine" linktext="true" /> seine Dienstmagd um Rat gefragt haben, vgl. <wwwlink address="https://books.google.de/books?id=7bhhAAAAcAAJ&#x26;pg=PA6">Des Herrn Racine Briefe. Aus dem Französischen übersetzt (Wien 1776), S.&#x202F;6</wwwlink>.
+</marginal>
+
+<marginal letter="388" page="44" line="24" sort="2">
+<bzg>alte Magd…</bzg> die <link ref="hamann" subref="hamann-kadmonbor" linktext="false">Hexe von Kadmonbor</link>
+</marginal>meil-spectaculum
+
+<marginal letter="388" page="44" line="26">
+<bzg>Spectaculum</bzg> <link ref="meil" subref="meil-spectaculum" linktext="true" />
+</marginal>
+
+<marginal letter="388" page="44" line="30" sort="1">
+<bzg>Maintenon</bzg> <link ref="maintenon" linktext="true" />
+</marginal>
+
+<marginal letter="388" page="44" line="30" sort="2">
+<bzg>Beaumont</bzg> <link ref="beaumont-jm" linktext="true" />
+</marginal>
+
+
 	
 
 Brief Nr. 389
