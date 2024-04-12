@@ -1436,7 +1436,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <subsection id="bodmer-fragmente" type="neuzeit" sort="50">
 <lemma>Bodmer, <titel>Fragmente in der erzählenden Dichtart</titel></lemma>
 <eintrag>
-<titel>Fragmente in der erzählenden Dichtart, von verschiedenem Inhalte. Mit einigen andern Gedichten</titel> [von <link ref="wieland-cm" linktext="true" />] (Zürich: Orell 1755). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10056892-8">BSB München: 4 P.o.germ. 15 h#Beibd.2</wwwlink>.</eintrag>
+<titel>Fragmente in der erzählenden Dichtart, von verschiedenem Inhalte. Mit einigen andern Gedichten</titel> [von <link ref="wieland" linktext="true" />] (Zürich: Orell 1755). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10056892-8">BSB München: 4 P.o.germ. 15 h#Beibd.2</wwwlink>.</eintrag>
 </subsection>
 <subsection id="bodmer-brueder" type="neuzeit" sort="60">
 <lemma>Bodmer (Übers.), <titel>Die Brüder</titel></lemma>
@@ -10828,6 +10828,16 @@ nicht ermittelt: Biga&#x202F;15/240: „Juvenalis et Persius ex ed. Farnabii, Ha
 </subsection>
 </kommentar>
 
+<kommentar id="pesselier" type="neuzeit">
+<lemma>Charles Etienne Pesselier</lemma>
+<eintrag>1712–1763. Frz. Schriftsteller und Enzyklopädist.</eintrag>
+<subsection id="pesselier-finances" type="neuzeit">
+<lemma>Pesselier, <titel>Idée générale des finances</titel></lemma>
+<eintrag>
+<titel>Idée générale des finances</titel> considérées relativement a toutes les matières qui appartiennent à cette portion de l’administration (Paris 1759).</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="petersen" type="neuzeit">
 <lemma>Johann Friedrich Petersen</lemma>
 <eintrag>Hofbuchhändler in Mietau.</eintrag>
@@ -13747,6 +13757,13 @@ Zit. nach: Karl Lietzmann (Hg.), <titel>Publius Terentius Afer (Terenz), Heauton
 </subsection>
 </kommentar>
 
+<kommentar id="teutsche-merkur" type="neuzeit">
+<lemma><titel>Der Teutsche Merkur</titel></lemma>
+<eintrag>
+<titel>Der Teutsche Merkur</titel>. Literatur- und Rezensionszeitschrift, hg. von <link ref="wieland" linktext="true" /> (Weimar 1773–1789; Bd. 1/1773 als „Der Deutsche Merkur“, Bd. 1–2/1773 erschienen in Frankfurt und Leipzig) [Biga&#x202F;149/325: „Ei. teutscher Mercur, 1.–8ter Th. Weim.“]. Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1951387/1/LOG_0000/">Universität Bielefeld</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="themistokles" type="neuzeit">
 <lemma>Themistokles</lemma>
 <eintrag>524 v.&#x202F;Chr.–459 v.&#x202F;Chr. Athenischer Staatsmann und Feldherr.</eintrag>
@@ -14837,7 +14854,7 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 </subsection>
 </kommentar>
 
-<kommentar id="wieland-cm" type="neuzeit">
+<kommentar id="wieland" type="neuzeit">
 <lemma>Christoph Martin Wieland</lemma>
 <eintrag>1733–1813. <wwwlink address="https://www.deutsche-biographie.de/pnd118632477.html#adbcontent">Koch, Max: Wieland, Christoph Martin, in: <titel>ADB</titel>&#x202F;42 (1897), S.&#x202F;400–419</wwwlink>.<line type="break" />
 Wiss. Ausg.: <titel>Wielands Werke. Historisch-kritische Ausgabe</titel>, hg.&#xA0;v. K. Manger und J. P. Reemtsma (Berlin, New York 2008ff.)
