@@ -5758,6 +5758,12 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <titel>An die Hexe zu Kadmonbor</titel> ([Mitau: Hinz] 1773) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4602768">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;434, Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;81–86.
 </eintrag>
 </subsection>
+<subsection id="hamann-h" type="neuzeit" sort="595">
+<lemma>Hamann, <titel>Neue Apologie des Buchstaben h</titel></lemma>
+<eintrag>
+<titel>Neue Apologie des Buchstaben h</titel> Oder: Ausserordentliche Betrachtungen über die Orthographie der Deutschen von H. S. Schullehrer (Zweite verbesserte Auflage, Pisa 1773). – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;89–108.
+</eintrag>
+</subsection>
 <subsection id="hamann-prolegomena" type="neuzeit" sort="600">
 <lemma>Hamann, <titel>Prolegomena</titel></lemma>
 <eintrag>
@@ -10488,7 +10494,7 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 <subsection id="nicolai-nothanker" type="neuzeit">
 <lemma>Nicolai, <titel>Sebaldus Nothanker</titel></lemma>
 <eintrag>
-<titel>Das Leben und die Meinungen des Herrn Sebaldus Nothanker.</titel> (3 Bde., Berlin, Stettin: Nicolai 1773–1776) [Biga&#x202F;164/563: „Leben und Meinungen des Herrn M. Sebaldus Nothanker, Th. I–III. Berl. 774–76. Donum AVCTORIS.“, 149/348: „Leben und Meinungen des M. Sebaldus Nothanker, 1. 2ter Th. Berl. 775“]. Digitalisat: Deutsches Textarchiv, <wwwlink address="http://www.deutschestextarchiv.de/nicolai_nothanker01_1773">Bd. 1</wwwlink>, <wwwlink address="https://www.deutschestextarchiv.de/book/show/nicolai_nothanker02_1775">Bd. 2</wwwlink>, <wwwlink address="http://www.deutschestextarchiv.de/nicolai_nothanker01_1773">Bd. 1</wwwlink>.</eintrag>
+<titel>Das Leben und die Meinungen des Herrn Sebaldus Nothanker.</titel> (3 Bde., Berlin, Stettin: Nicolai 1773–1776) [Biga&#x202F;164/563: „Leben und Meinungen des Herrn M. Sebaldus Nothanker, Th. I–III. Berl. 774–76. Donum AVCTORIS.“, 149/348: „Leben und Meinungen des M. Sebaldus Nothanker, 1. 2ter Th. Berl. 775“]. Digitalisat: Deutsches Textarchiv, <wwwlink address="http://www.deutschestextarchiv.de/nicolai_nothanker01_1773">Bd. 1</wwwlink>, <wwwlink address="https://www.deutschestextarchiv.de/book/show/nicolai_nothanker02_1775">Bd. 2</wwwlink>, <wwwlink address="https://www.deutschestextarchiv.de/book/show/nicolai_nothanker03_1776">Bd. 3</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -13911,6 +13917,17 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <kommentar id="thukydides" type="neuzeit">
 <lemma>Thukydides</lemma>
 <eintrag>um 455–um 400 v. Chr. Athenischer Historiker.</eintrag>
+</kommentar>
+
+<kommentar id="thummel" type="neuzeit">
+<lemma>Moritz August von Thümmel</lemma>
+<eintrag>1738–1817. Einer der meistgelesenen deutschsprachigen Romanautoren des 18. Jh., Geh. Rat und Minister von Sachsen- Koburg in Gotha.</eintrag>
+<subsection id="thummel-wilhelmine" type="neuzeit">
+<lemma>Thümmel, <titel>Wilhelmine</titel></lemma>
+<eintrag>
+<titel>Wilhelmine</titel> oder der vermählte Pedant. ein prosaisch comisches Gedicht (o.&#x202F;O. 1764) [Biga&#x202F;153/404: „Wilhelmine (764)“]. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/thuemmel_wilhelmine_1764">Deutsches Textarchiv.</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="thunmann" type="neuzeit">
