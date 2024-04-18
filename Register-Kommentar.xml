@@ -7469,6 +7469,11 @@ Katharina der Zweiten Kaiserin und Gesetzberin von Russland <titel>Instruction</
 <eintrag>1732–1789, auch Arend Köpke. Königlich-preußischer Oberfinanz-, Kriegs- und Domänenrat. Ab 1786 Mitglied der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> und bis zu seinem Tod im <link ref="generaldirektorium" linktext="true" /> tätig.</eintrag>
 </kommentar>
 
+<kommentar id="konfuzius" type="neuzeit">
+<lemma>Konfuzius</lemma>
+<eintrag>Vmtl. 551 v. Chr. bis 479 v. Chr. Chinesischer Philosoph.</eintrag>
+</kommentar>
+
 <kommentar id="konigliche-d-g" type="neuzeit">
 <lemma>Königliche deutsche Gesellschaft von Königsberg</lemma>
 <eintrag>1741 gegründete Vereinigung zur Pflege der deutschen Sprache und Literatur, erster Direktor war Prof. <link ref="flottwell" linktext="true" />. Er folgte damit den Empfehlungen von <link ref="gottsched" linktext="true" />, der ihm auch die Vorlage für die Vereinssatzung lieferte (April 1741). Daraufhin galt es ein königliches Privileg zu erhalten nach dem Vorbild der Deutschen Gesellschaft in Greifswald. Flottwells und Gottscheds Anliegen war es, ein Gegengewicht zur Orthodoxie an der Universität Königsberg zu entwickeln, wo das Lateinische noch Hauptsprache des wissenschaftlichen Austauschs war. Von den Prof. der Universität war keine Unterstützung zu erwarten, auch Flottwells Versuch, dort eine Professur für Beredsamkeit zu erlangen, musste mit preußisch-königlichem Privileg gegen den Widerstand des Ordinariats forciert werden. Das Privileg für die Gesellschaft wurde im August 1743 erlangt (wie auch die Professur für Flottwell). Ein wichtiger Förderer dem preußischen Hof gegenüber und Mäzen war Johann Ernst v. Wallenrodt, der 1742 als Staats- und Kriegsminister nach Königsberg zog. Siehe zur Geschichte der Gesellschaft unter Flottwell bes.: Krause, Gottlieb: <titel>Gottsched und Flottwell, die Begründer der Deutschen Gesellschaft in Königsberg</titel> (Leipzig 1893).<line type="break" />
@@ -8950,6 +8955,12 @@ Dt. Übers. zitiert nach: Wilhelm Ehlers (Übers.), <titel>Lucanus, Marcus Annae
 <lemma>Lukian, <titel>opera</titel></lemma>
 <eintrag>[Biga&#x202F;4/224: „Luciani Opera gr. &amp; lat. ex ed. Jo. P. Schmidii Tom. 1. Mit. apud Hinzium, 776. Donum LIBRARII.“].</eintrag>
 </subsection>
+<subsection id="lukian-marini" type="neuzeit" sort="15">
+<lemma>Lukian, <titel>dial. mar.</titel></lemma>
+<eintrag>Meergöttergespräche, lat. dialogi marini, griech. Ἐνάλιοι Διάλογοι.<line type="break" />
+Übers. zitiert nach <titel>Lucians von Samosata Sämtliche Werke.</titel> Aus dem Griechischen übersetzt und mit Anmerkungen und Erläuterungen versehen von C. M. Wieland (3&#x202F;Bde., Leipzig 1788). Digitalisat: <wwwlink address="https://books.google.com/books?id=bwI6AAAAMAAJ">Bd. 1</wwwlink>, <wwwlink address="https://books.google.com/books?id=lgI6AAAAMAAJ">Bd. 2</wwwlink> und <wwwlink address="https://books.google.com/books?id=KtyBQttDl-UC">Bd. 3</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="lukian-mortuorum" type="neuzeit" sort="20">
 <lemma>Lukian, <titel>dial. mort.</titel></lemma>
 <eintrag>Totengespräche, lat. dialogi mortuorum, griech. Νεκρικοὶ Διάλογο.
@@ -9811,6 +9822,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <lemma>Messkatalog für Ostern 1767</lemma>
 <eintrag>
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1767 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1767). Siehe <wwwlink address="http://www.olmsonline.de/">Olms Online</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="messkatalog-michaelis1773" type="neuzeit" sort="70">
+<lemma>Messkatalog für Michaelis 1773</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1773 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1773). Siehe <wwwlink address="http://www.olmsonline.de/">Olms Online</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -10792,6 +10809,23 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 </subsection>
 </kommentar>
 
+<kommentar id="pauw" type="neuzeit">
+<lemma>Cornelis de Pauw</lemma>
+<eintrag>1739–1799. Niederländ. Philologe, Kanonikus in Xanten, zeitweise Vorleser Friedrichs II. von Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd124060552.html#ndbcontent">Frowein, Peter: Pauw, Kornelius de, in: <titel>NDB</titel>&#x202F; 20 (2001), S.&#x202F;140f.</wwwlink></eintrag>
+<subsection id="pauw-americains" type="neuzeit" sort="10">
+<lemma>de Pauw, <titel>Recherches philosophiques sur les Américains</titel></lemma>
+<eintrag>
+<titel>Recherches philosophiques sur Américains,</titel> ou Mémoires intéressants pour servir à l’Histoire de l’Espèce humaine. Par Mr. de P*** (2 Bde., Berlin 1772) [Biga&#x202F;123/357: „Recherches philosophiques sur les Americains par Mr. de P*** Tom. I. II. Berl. 772“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10253448-2">BSB München: Am.a. 1790</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="pauw-chinois" type="neuzeit" sort="20">
+<lemma>de Pauw, <titel>Recherches philosophiques sur les Égyptiens et les Chinois</titel></lemma>
+<eintrag>
+<titel>Recherches philosophiques sur les Égyptiens et les Chinois.</titel> Par Mr. de P*** (2 Bde., Berlin 1773) [Biga&#x202F;123/359: „Ei. Recherches philosophiques sur les Egyptiens &#x26; les Chinois, Tom. I. II. ib. 773“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10432032-0">BSB München: H.afr. 763</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="penzel" type="neuzeit">
 <lemma>Abraham Jakob Penzel</lemma>
 <eintrag>1749–1819. Abenteurer und zeitweiliger Freund Hamanns; klassischer Philologe, Student in Leipzig, Halle, Würzburg, 1775–1778 Musketier des Regimentes Alt- Stutterheim in Königsberg, 1777 Factotum der Kanterschen Buchhandlung, Privatdozent für alte Geschichte, desertierte 1778, konvertierte 1782 in Krakau, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202F; 25 (1887), S.&#x202F;363f.</wwwlink> und Hans Köppe: Abraham Jakob Penzels Lebensirrfahrten. Eine Menschen- und Kulturtragödie aus dem 18. Jahrhundert (Leipzig 1937).</eintrag>
@@ -11562,7 +11596,7 @@ Tom. I–VI, Amst. 725“]. Digitalisat der Ausgabe 1732: <wwwlink address="http
 
 <kommentar id="ramler" type="neuzeit">
 <lemma>Karl Wilhelm Ramler</lemma>
-<eintrag>1725–1798. Dichter und Philosoph in Berlin. <wwwlink address="https://www.deutsche-biographie.de/pnd119059614.html#ndbcontent">Fromm, Eberhard: Ramler, Karl Wilhelm, in: <titel>NDB</titel>&#x202F; 21 (2003), S.&#x202F;131.</wwwlink>
+<eintrag>1725–1798. Dichter und Philosoph in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd119059614.html#ndbcontent">Fromm, Eberhard: Ramler, Karl Wilhelm, in: <titel>NDB</titel>&#x202F; 21 (2003), S.&#x202F;131.</wwwlink>
 </eintrag>
 <subsection id="ramler-hymen" type="neuzeit">
 <lemma>Ramler, <titel>Ode an Hymen</titel></lemma>
