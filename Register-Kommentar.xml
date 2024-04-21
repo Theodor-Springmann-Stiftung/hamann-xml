@@ -1039,7 +1039,13 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 <lemma>Nicolas-Sylvestre Bergier</lemma>
 <eintrag>1718–1790. Frz. Theologe und Apologet des Christentums gegen den Atheismus.
 </eintrag>
-<subsection id="bergier-paganisme" type="neuzeit">
+<subsection id="bergier-langues" type="neuzeit" sort="10">
+<lemma>Bergier, <titel>Les éléments primitifs des langues</titel></lemma>
+<eintrag>
+<titel>Les éléments primitifs des langues</titel> découverts par la comparaison des racines de l’hébreu avec celles du grec, du latin &#x26; du françois (Paris: Humbolt 1764) [Biga&#x202F;73/236: „Les Elemens primitifs des Langues par Mr. Bergier, Par. 764“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=vgVmvyE3uRUC">Google Books</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+<subsection id="bergier-paganisme" type="neuzeit" sort="20">
 <lemma>Bergier, <titel>L’origine des dieux du paganisme</titel></lemma>
 <eintrag>
 <titel>L’origine des dieux du paganisme et le sens des fables découvert par une explication</titel> (Paris: Humbolt 1767). Digitalisat einer Ausgabe 1774: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10233107-1">BSB: A.gr.a. 966-1</wwwlink>.</eintrag>
@@ -2585,6 +2591,17 @@ Dt. Übers. zitiert nach: Helmut Kasten (Hg.), <titel>An seine Freunde / Epistul
 <lemma>Cic. <titel>Lael.</titel></lemma>
 <eintrag>Laelius über die Freundschaft, lat. Laelius de amicitia<line type="break" />
 Dt. Übers. zitiert nach: Max Faltner (Hg.), <titel>Cato der Ältere Über das Alter, Laelius Über die Freundschaft / Cato Maior, Laelius. Lateinisch – Deutsch</titel> (München 1993).
+</eintrag>
+</subsection>
+<subsection id="cic-verr" type="neuzeit" sort="160">
+<lemma>Cic. <titel>Verr.</titel></lemma>
+<eintrag>Reden gegen Verres, lat. in Verrem actio prima, secunda<line type="break" />
+Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres / In Verrem. Lateinisch – Deutsch</titel> (Berlin 2011).
+</eintrag>
+</subsection>
+<subsection id="cic-srosc" type="neuzeit" sort="170">
+<lemma>Cic. <titel>S. Rosc.</titel></lemma>
+<eintrag>Rede über Sextus Roscius aus Ameria, lat. pro Sex. Roscio Amerino<line type="break" />
 </eintrag>
 </subsection>
 </kommentar>
@@ -6261,6 +6278,12 @@ Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffen
 <titel>Abhandlung über den Ursprung der Sprache,</titel> welche den von der Königl. Academie der Wissenschaften für das Jahr 1770 gesezten Preis erhalten hat. Von Herrn Herder. Auf Befehl der Academie Herausgegeben (Berlin 1772) [Biga&#x202F;70/193: „Herder’s Preisschrift über den Ursprung der Sprache, Berl. 772.“]. – Zitiert nach Herder: <titel>Werke</titel>, Bd.&#x202F;1: Frühe Schriften 1764–1772, hg.&#x202F;v. Ulrich Gaier, S.&#x202F;695–810. – Von Hamann rezensiert in <link ref="kgpz" linktext="true" />, 26.&#x202F;St. vom 30.4.1772 bzw. in <link ref="hamann" subref="hamann-zworecensionen" linktext="true" />.
 </eintrag>
 </subsection>
+<subsection id="herder-deutsch" type="neuzeit" sort="130">
+<lemma>Herder (Hg.), <titel>Von Deutscher Art und Kunst</titel></lemma>
+<eintrag>
+<titel>Von Deutscher Art und Kunst.</titel> Einige fliegende Blätter (Hamburg: Bode 1773) [Biga&#x202F;83/128 und 103/113: „Von deutscher Art und Kunst, Hamb. 773“; außerdem 172/534: „Von deutscher Art und Kunst, Hamb. 773. Donum EDITORIS.“]. Darin: <titel>Auszug aus einem Briefwechsel über Ossian und die Lieder alter Völker,</titel> S.&#x202F;1–70; außerdem: <titel>Shakespear,</titel> S. 71- 118. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/herder_artundkunst_1773">Deutsches Textarchiv</wwwlink>. – SWS,&#x202F;V, S.&#x202F;157–257.
+</eintrag>
+</subsection>
 <subsection id="herder-altesteurkunde" type="neuzeit" sort="200">
 <lemma>Herder, <titel>Älteste Urkunde</titel></lemma>
 <eintrag>
@@ -6531,7 +6554,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="hippel" type="neuzeit">
 <lemma>Theodor Gottlieb Hippel</lemma>
-<eintrag>1741–1796. Schriftsteller und Politiker. 1765 Advokat am Königsberger Stadtgericht, ab Dezember 1780 Erster dirigierender Bürgermeister und Polizeidirektor von Königsberg, 1786 Geh. Kriegsrat, Stadtpräsident von Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz32479.html#adbcontent">Brenning: Hippel, Theodor Gottlieb von, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;463–466</wwwlink>. 
+<eintrag>1741–1796. Schriftsteller und Politiker. 1765 Advokat am Königsberger Stadtgericht, 1773 Königlicher Kriminalrat, ab Dezember 1780 Erster dirigierender Bürgermeister und Polizeidirektor von Königsberg, 1786 Geh. Kriegsrat, Stadtpräsident von Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz32479.html#adbcontent">Brenning: Hippel, Theodor Gottlieb von, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;463–466</wwwlink>. 
 </eintrag>
 <subsection id="hippel-galimafreen" type="neuzeit" sort="10">
 <lemma>Hippel [mit <link ref="hinz" linktext="true" />], <titel>Galimafreen nach dem heutigen Geschmack</titel></lemma>
@@ -10299,7 +10322,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <subsection id="moserj-vikar" type="neuzeit" sort="40">
 <lemma>Möser, <titel>Schreiben an den Herrn Vikar in Savoyen</titel></lemma>
 <eintrag>
-<titel>Schreiben an den Herrn Vikar in Savoyen</titel> abzugeben bey dem Herrn Johann Jacob Rousseau (Hamburg/Leipzig 1764). Digitalisat der Ausgabe Bremen 1777: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München:  L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
+<titel>Schreiben an den Herrn Vikar in Savoyen</titel> abzugeben bey dem Herrn Johann Jacob Rousseau (Hamburg/Leipzig 1764). Digitalisat der Ausgabe Bremen 1777: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München: L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
