@@ -27399,7 +27399,7 @@ Brief Nr. 240
 </marginal>
 
 <marginal letter="240" page="183" line="31" sort="2">
-<bzg>Maculatur</bzg> <link ref="hinz" subref="hinz-makulatur" linktext="true" />darin eine Übersetzung Hamanns (nicht überliefert), vgl. <intlink letter="235" page="172" line="27" linktext="true" />.
+<bzg>Maculatur</bzg> <link ref="hinz" subref="hinz-makulatur" linktext="true" />, darin eine Übersetzung Hamanns (nicht überliefert), vgl. <intlink letter="235" page="172" line="27" linktext="true" />.
 </marginal>
 
 <marginal letter="240" page="183" line="31" sort="3">
@@ -47585,27 +47585,35 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="51" line="10">
-<bzg>Lectori Bibliopola!</bzg> ?!?
+<bzg>Lectori Bibliopola!</bzg> dt. dem Leser ein Buchhändler; nicht ermittelt
 </marginal>
 
-<marginal letter="390" page="51" line="11">
-<bzg>Deinen Collectaneen, die Deinen Bauch</bzg>
+<marginal letter="390" page="51" line="11" sort="1">
+<bzg>Collectaneen</bzg> mglw. <link ref="hinz" subref="hinz-aufsatze" linktext="true" />
+</marginal>
+
+<marginal letter="390" page="51" line="11" sort="2">
+<bzg>die Deinen Bauch auslachen, so dick sind sie!</bzg> wohl Anspielung auf <link ref="persius" subref="persius-satiren" linktext="true" />, 1,57
 </marginal>
 
 <marginal letter="390" page="51" line="12">
-<bzg>laboriosissimum studium</bzg>
+<bzg>laboriosissimum studium</bzg> dt. strapaziöses Bemühen
 </marginal>
 
 <marginal letter="390" page="51" line="15">
-<bzg>mit einem L. Calpurnius Piso</bzg>
+<bzg>mit einem L. Calpurnius Piso von Unsterblichkeit?</bzg> Zusammenhang nicht ermittelt; L. Calpurnius Piso Caesoninus ist der Adressat der <link ref="horaz" subref="horaz-poetica" linktext="false">ars poetica</link> und der <link ref="cicero" subref="cic-pis" linktext="false">Invektivrede Ciceros</link> (vielleicht selbstreflexiv zu verstehen, weil Cicero den Piso beschimpft wie Hamann hier Hinz und dabei ständig großspurig die eigenen Verdienste als Kontrast setzt?!?)
 </marginal>
 
-<marginal letter="390" page="51" line="18">
+<marginal letter="390" page="51" line="17" sort="1">
+<bzg>Maculatur</bzg> Anspielung auf <link ref="hinz" subref="hinz-makulatur" linktext="true" />
+</marginal>
+
+<marginal letter="390" page="51" line="17" sort="2">
 <bzg>Mitau, Hasenpoth</bzg> Hasenpoth (heute Aizpute) liegt ca. 140&#x202F;km westlich von Mitau (heute Jelgawa) in Polen-Litauen; viele Bücher, die Hinz in den frühen 1770ern verlegte, bezeichnen „Mitau und Hasenpoth“ als Erscheinungsorte.
 </marginal>
 
 <marginal letter="390" page="51" line="22">
-<bzg>französischen Bogen</bzg> <link ref="hamann" subref="salomon" linktext="true" />, der gemeinsam mit <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> hätte gedruckt werden sollen
+<bzg>französischen Bogen</bzg> <link ref="hamann" subref="hamann-salomon" linktext="true" />, der gemeinsam mit <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> hätte gedruckt werden sollen
 </marginal>
 
 Brief Nr. 391
