@@ -6566,7 +6566,7 @@ Brief Nr. 77
 </marginal>
 
 <marginal letter="77" page="200" line="8">
-Kaiser Augustus
+<link ref="augustus" linktext="true" />
 </marginal>
 
 <marginal letter="77" page="200" line="12">
@@ -35297,7 +35297,7 @@ Brief Nr. 294
 </marginal>
 
 <marginal letter="294" page="315" line="21">
-<bzg>redde mihi litteras!</bzg> dt. „gib mir meine Briefe wieder!“ Allusion des Ausrufs von Kaiser Augustus nach der Varus-Schlacht im Teutoburger Wald (9. n. Chr.): „Quinctili Vare, legiones redde!“
+<bzg>redde mihi litteras!</bzg> dt. „gib mir meine Briefe wieder!“ Allusion des Ausrufs von <link ref="augustus" linktext="true" /> nach der Varus-Schlacht im Teutoburger Wald (9. n. Chr.): „Quinctili Vare, legiones redde!“
 </marginal>
 
 <marginal letter="294" page="315" line="27">
@@ -38884,7 +38884,7 @@ Brief Nr. 331
 </marginal>
 
 <marginal letter="331" page="377" line="30">
-<bzg>August…</bzg> vmtl. Octavianus, Anekdote nicht ermittelt; mglw. eine assoziative Weiterentwicklung Herders von <link ref="sterne" subref="sterne-shandy" linktext="true" />, Buch&#x202F;5, Kapitel&#x202F;3, S.&#x202F;28: „Aus dieser Ursache, fuhr mein Vater fort, ist es werth, auf die geringste Veränderung Acht zu geben, welche die Annäherung des Todes in großen Männern hervorgebracht hat. – Vespasian starb im Scherz auf seinem Nachtstuhl – Galba mit einer Sentenz – Septimius Severus in der Ausfertigung einer Depesche, Tiberius in Verstellung und Cäsar Augustus in einem Compliment. – Ich vermuthe, daß dasselbe sehr ernsthaft gewesen, – sagte mein Oncle Tobias. – Es war an seine Frau, – sagte mein Vater.“
+<bzg>August…</bzg> wohl <link ref="augustus" linktext="true" />, Anekdote nicht ermittelt; mglw. eine assoziative Weiterentwicklung Herders von <link ref="sterne" subref="sterne-shandy" linktext="true" />, Buch&#x202F;5, Kapitel&#x202F;3, S.&#x202F;28: „Aus dieser Ursache, fuhr mein Vater fort, ist es werth, auf die geringste Veränderung Acht zu geben, welche die Annäherung des Todes in großen Männern hervorgebracht hat. – Vespasian starb im Scherz auf seinem Nachtstuhl – Galba mit einer Sentenz – Septimius Severus in der Ausfertigung einer Depesche, Tiberius in Verstellung und Cäsar Augustus in einem Compliment. – Ich vermuthe, daß dasselbe sehr ernsthaft gewesen, – sagte mein Oncle Tobias. – Es war an seine Frau, – sagte mein Vater.“
 </marginal>
 
 <marginal letter="331" page="377" line="32">
@@ -47544,12 +47544,68 @@ Brief Nr. 390
 <bzg>Caßianer</bzg> der als streng bekannte Richter Lucius Cassius Longinus Ravilla (127 v. Chr. röm. Konsul) stellte nach <link ref="cicero" subref="cic-srosc" linktext="true" />, 84 häufig die Frage „Cui Bono“ und gilt als ihr Urheber
 </marginal>
 
-<marginal letter="390" page="50" line="28">
+<marginal letter="390" page="50" line="28" sort="1">
 <bzg>Her Criminalrath</bzg> <link ref="hippel" linktext="true" />
 </marginal>
 
+<marginal letter="390" page="50" line="28" sort="2">
+<bzg>Mäcänen</bzg> <link ref="maecenas" linktext="true" />
+</marginal>
+
+<marginal letter="390" page="50" line="28" sort="3">
+<bzg>Augusten</bzg> <link ref="augustus" linktext="true" />
+</marginal>
+
 <marginal letter="390" page="50" line="29">
-<bzg>Sosien</bzg> Sosii fratres waren die Verleger der Werke des Horaz, Hor. ep. 1,20,2 u. ?!?
+<bzg>Sosien</bzg> die Sosier galten als Verleger der Werke des Horaz, vgl. <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,20,2
+</marginal>
+
+<marginal letter="390" page="50" line="32" sort="1">
+<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+</marginal>
+
+<marginal letter="390" page="50" line="32" sort="2">
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />
+</marginal>
+
+<marginal letter="390" page="50" line="32" sort="3">
+<bzg>circumforanei</bzg> Leute, die auf dem Markt borgen
+</marginal>
+
+<marginal letter="390" page="50" line="35">
+<bzg>triefenden Augen</bzg> <link ref="martial" subref="martial-epigramme" linktext="true" />?!?
+</marginal>
+
+<marginal letter="390" page="51" line="5">
+<bzg>I’d be a Dog…</bzg> <link ref="rochester" subref="rochester-poems" linktext="true" />, S.&#x202F;6
+</marginal>
+
+<marginal letter="390" page="51" line="7">
+<bzg>römischen Duton</bzg> gewohnheitsmäßige Anrede mit du
+</marginal>
+
+<marginal letter="390" page="51" line="10">
+<bzg>Lectori Bibliopola!</bzg> ?!?
+</marginal>
+
+<marginal letter="390" page="51" line="11">
+<bzg>Deinen Collectaneen, die Deinen Bauch</bzg>
+</marginal>
+
+<marginal letter="390" page="51" line="12">
+<bzg>laboriosissimum studium</bzg>
+</marginal>
+
+<marginal letter="390" page="51" line="15">
+<bzg>mit einem L. Calpurnius Piso</bzg>
+</marginal>
+
+<marginal letter="390" page="51" line="18">
+<bzg>Mitau, Hasenpoth</bzg> Hasenpoth (heute Aizpute) liegt ca. 140&#x202F;km westlich von Mitau (heute Jelgawa) in Polen-Litauen; viele Bücher, die Hinz in den frühen 1770ern verlegte, bezeichnen „Mitau und Hasenpoth“ als Erscheinungsorte.
+</marginal>
+
+<marginal letter="390" page="51" line="22">
+<bzg>französischen Bogen</bzg> <link ref="hamann" subref="salomon" linktext="true" />, der gemeinsam mit <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> hätte gedruckt werden sollen
 </marginal>
 
 Brief Nr. 391

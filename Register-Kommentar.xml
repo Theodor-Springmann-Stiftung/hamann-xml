@@ -578,6 +578,11 @@ Dt. Übers. zitiert nach: Kurt Flasch u. Burkhard Mojsisch (Übers.), <titel>Aug
 </subsection>
 </kommentar>
 
+<kommentar id="augustus" type="neuzeit">
+<lemma>Augustus</lemma>
+<eintrag>63 v. Chr. bis 14 n. Chr. Erster römischer Kaiser, geb. als Gaius Octavius.</eintrag>
+</kommentar>
+
 <kommentar id="auerswald" type="neuzeit">
 <lemma>Hans Jakob v. Auerswald</lemma>
 <eintrag>1757–1833. Offizier, später Kammerpräsident und Kanzler, Erbherr auf dem Gut Faulen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz1549.html#ndbcontent">Gollwitzer, Heinz: Auerswald, Hans Jakob von, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;439</wwwlink>.</eintrag>
@@ -9141,6 +9146,11 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 </subsection>
 </kommentar>
 
+<kommentar id="maecenas" type="neuzeit">
+<lemma>Maecenas</lemma>
+<eintrag>Um 70 v.&#x202F;Chr. bis 8 n.&#x202F;Chr. Berater von <link ref="augustus" linktext="true" /> und Förderer von <link ref="horaz" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="magistrat" type="neuzeit">
 <lemma>Magistrat der Stadt Königsberg</lemma>
 <eintrag>Stadtververwaltung, ansässig auf dem Kneiphöfschen Rathause, enthält auch das bürgermeisterliche Pupillenamt, verantwortlich für Witwen- und Vormundschaftssachen von Bürgern. Vorsitzender ist der dirigierende Bürgermeister, von 1752 bis 1780 <link ref="hindersin" linktext="true" />, von 1780 bis 1794 <link ref="hippel" linktext="true" />.<line type="break" />
@@ -9453,7 +9463,7 @@ Dt. Übers.: <titel>Das evangelische Geheimniß der Heiligung in verschiedenen p
 <lemma>Martial, <titel>Epigramme</titel></lemma>
 <eintrag>
 Dt. Übers. zitiert nach: Paul Barié u. Winfried Schindler (Hg. u. Übers.), <titel>Epigramme. Lateinisch/Deutsch</titel> (Berlin 2013).<line type="break" />
-<titel>M. Valerii Martialis Epigrammata cum notis Farnabii et variorum, Geminoque Indice tum Rerum tum Auctorum, Accurante Cornelio Schreveli</titel> (Lugdunum [Lyon]: Franciscus Hackius 1669) [Biga&#x202F;9/147: „M. Val. Martialis Epigrammata ex ed. Schreuelii, Lugd. 661“]. Digitalisat: <wwwlink address="https://play.google.com/store/books/details?id=B-RYuBI4b50C">Google Books</wwwlink>.<line type="break" />
+<titel>M. Valerii Martialis Epigrammata cum notis Farnabii et variorum, Geminoque Indice tum Rerum tum Auctorum, Accurante Cornelio Schreveli</titel> (Lugdunum [Lyon]: Franciscus Hackius 1669) [Biga&#x202F;9/147: „M. Val. Martialis Epigrammata ex ed. Schreuelii, Lugd. 661“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=B-RYuBI4b50C">Google Books</wwwlink>.<line type="break" />
 <titel>M. Val. Martialis epigrammata.</titel> In usum Scholæ Westmonasteriensis, et Carthusianæ (London 1724) [Biga&#x202F;15/237: „Martialis Epigrammata in vsum Scholarum, Lond. 724“].<line type="break" />
 </eintrag>
 </subsection>
@@ -11961,6 +11971,16 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <lemma>Rochon, <titel>La noblesse oisive</titel></lemma>
 <eintrag>
 <titel>La noblesse oisive</titel> (Paris 1756).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="rochester" type="neuzeit">
+<lemma>John Wilmot, 2. Earl of Rochester</lemma>
+<eintrag>1647–1680. Engl. Dichter, siehe <wwwlink address="https://www.britannica.com/biography/John-Wilmot-2nd-earl-of-Rochester"><titel>Encyclopedia Britannica</titel></wwwlink>.</eintrag>
+<subsection id="rochester-poems" type="neuzeit" sort="10">
+<lemma>Rochester, <titel>Poems on several occasions</titel></lemma>
+<eintrag>
+<titel>Poems on several occasions.</titel> By the Right Honourable, the E. of R– (Antwerpen 1680) [Biga&#x202F;165/584: „(E. of Rochester’s) Poems on several Occasions, Antv. Donum.“]. Digitalisat: <wwwlink address="https://archive.org/details/bim_early-english-books-1641-1700_poems-on-several-occasio_rochester-john-wilmot-_1680_1">Internet Archive</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
