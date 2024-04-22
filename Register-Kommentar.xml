@@ -72,6 +72,22 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 </subsection>
 </kommentar>
 
+<kommentar id="achery" type="neuzeit">
+<lemma>Dom Jean Luc de Achery</lemma>
+<eintrag>1609–1685. Frz. Benediktiner. 
+</eintrag>
+<subsection id="achery-veterum" type="neuzeit" sort="10">
+<lemma>Achery, <titel>Veterum aliquot scriptorum, qui in Galliae bibliothecis</titel></lemma>
+<eintrag>
+<titel>Veterum aliquot scriptorum, qui in Galliae bibliothecis, maxime Benedictinorum latuerant, spicilegium.</titel> 13 Bde., Paris 1655-77.</eintrag>
+</subsection>
+<subsection id="achery-zachaei" type="neuzeit" sort="20">
+<lemma>Achery, <titel>Consultationum Zachaei Christiani et Apollonii Philosophi</titel></lemma>
+<eintrag>
+<titel>Consultationum Zachaei Christiani et Apollonii Philosophi libri tres. 1671.</titel></eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="acta-litteraria" type="neuzeit">
 <lemma>Acta litteraria</lemma>
 <eintrag>1764–1772, Bde. 1-7, Altenburg: Richter. Hg. von <link ref="klotz" linktext="true" />. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10539777-2">München, Bayerische Staatsbibliothek: Eph.lit. 127-1</wwwlink>.</eintrag>
@@ -1049,7 +1065,6 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 <eintrag>
 <titel>Les éléments primitifs des langues</titel> découverts par la comparaison des racines de l’hébreu avec celles du grec, du latin &#x26; du françois (Paris: Humbolt 1764) [Biga&#x202F;73/236: „Les Elemens primitifs des Langues par Mr. Bergier, Par. 764“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=vgVmvyE3uRUC">Google Books</wwwlink>.</eintrag>
 </subsection>
-</kommentar>
 <subsection id="bergier-paganisme" type="neuzeit" sort="20">
 <lemma>Bergier, <titel>L’origine des dieux du paganisme</titel></lemma>
 <eintrag>
@@ -4946,6 +4961,16 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <lemma>Johann Wolfgang Goethe</lemma>
 <eintrag>1749–1832. Dichter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz53095.html#ndbcontent">Flitner, Wilhelm: Goethe, Johann Wolfgang von, in: <titel>NDB</titel>&#x202F;6 (1964), S.&#x202F;546–575</wwwlink>.
 </eintrag>
+<subsection id="goethe-clavigo" type="neuzeit" sort="10">
+<lemma>Goethe, <titel>Clavigo</titel></lemma>
+<eintrag>
+<titel>Clavigo. Ein Trauerspiel </titel> (Leipzig 1774) [Biga&#x202F;141/198: „(Göthens) Clavigo, Leipz. 774“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10923479-7">BSB München: Res/P.o.angl. 202#Beibd.1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="goethe-werther" type="neuzeit" sort="20">
+<lemma>Goethe, <titel>Die Leiden des jungen Werthers</titel></lemma>
+<eintrag>
+<titel>Die Leiden des jungen Werthers</titel> (Leipzig 1774) [Biga&#x202F;158/479: „Leyden des jungen Werthers, Freyst. 775“]. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/goethe_werther02_1774">Deutsches Textarchiv</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="goettingische-anzeigen" type="neuzeit">
@@ -5735,7 +5760,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-zworecensionen" type="neuzeit" sort="520">
 <lemma>Hamann, <titel>Zwo Recensionen</titel></lemma>
 <eintrag>
-<titel>Zwo Recensionen nebst einer Beylage, betreffend den Ursprung der Sprache</titel> (Dodsley [recte Kanter]: [Königsberg] 1772) [Biga&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. Digitalisat: <wwwlink address=" 	http://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-235968">ULB Münster: N. Hamann Bd.&#x202F;26</wwwlink>. – Sammlung von zuvor in <link ref="kgpz" linktext="true" />, 104.&#x202F;St. vom 27.12.1771, 26.&#x202F;St. vom 30.4.1772, und als Beilage zum 37.&#x202F;St. (vmtl. von Anfang Juni 1772) erschienenen Rezensionen Hamanns von <link ref="tiedemann" subref="tiedemann-ursprung" linktext="true" />, <link ref="herder" subref="herder-ursprung" linktext="true" /> sowie eine fingierte „Abfertigung“ Hamanns gegenüber seiner Herder-Rezension [wohl erhalten, aber zur Zeit nicht erreichbar]. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;13–24.
+<titel>Zwo Recensionen nebst einer Beylage, betreffend den Ursprung der Sprache</titel> (Dodsley [recte Kanter]: [Königsberg] 1772) [Biga&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. Digitalisat: <wwwlink address="http://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-235968">ULB Münster: N. Hamann Bd.&#x202F;26</wwwlink>. – Sammlung von zuvor in <link ref="kgpz" linktext="true" />, 104.&#x202F;St. vom 27.12.1771, 26.&#x202F;St. vom 30.4.1772, und als Beilage zum 37.&#x202F;St. (vmtl. von Anfang Juni 1772) erschienenen Rezensionen Hamanns von <link ref="tiedemann" subref="tiedemann-ursprung" linktext="true" />, <link ref="herder" subref="herder-ursprung" linktext="true" /> sowie eine fingierte „Abfertigung“ Hamanns gegenüber seiner Herder-Rezension [wohl erhalten, aber zur Zeit nicht erreichbar]. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;13–24.
 </eintrag>
 </subsection>
 <subsection id="hamann-rosencreuz" type="neuzeit" sort="530">
@@ -6146,6 +6171,17 @@ Carl Renatus Hausens […] <titel>Pragmatische Geschichte der Protestanten in De
 <lemma>Samuel Gotthelf Hennings</lemma>
 <eintrag>1725–1787. Sekretär und Justitiar auf den Dohnaschen Gütern (nach einer Anm. in <link ref="lauson" subref="laute" linktext="true" />) sowie Gouvernements-Kriegsrat. Beiträger der Zeitschrift <link ref="hamann" subref="daphne" linktext="false"><titel>Daphne</titel></link>. Hamann widmete Hennings 1751 die Ode <titel>Freundschaftlicher Gesang auf die Heimkunft des Herrn S. G. H.</titel> Erstdruck: <link ref="lindner-jg" subref="reizungen" linktext="true" />, S.&#x202F;133–135. Wiederabgedruckt in <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" />, S.&#x202F;236: „Zu einer Muse wird mir, mein H***! jeder Gedank, / Mit der ich Dir entgegen seh.“
 </eintrag>
+</kommentar>
+
+<kommentar id="hennings-j-ch" type="neuzeit">
+<lemma>Justus Christian Hennings</lemma>
+<eintrag>1731-1815. Prof. der Philosophie in Jena
+</eintrag>
+<subsection id="hennings-j-ch-geschichte" type="neuzeit">
+<lemma>Hennings, <titel>Geschichte von den Seelen der Menschen und Thiere</titel></lemma>
+<eintrag>
+<titel>Geschichte von den Seelen der Menschen und Thiere</titel> (Halle:Gebauer 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043419-2">BSB München: Ph.sp. 352</wwwlink>. </eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="herauld" type="neuzeit">
@@ -8398,6 +8434,11 @@ Zweisprachige Dänisch/Lateinische Ausgabe (1767): Knud Leems <titel>Beskrivelse
 </subsection>
 </kommentar>
 
+<kommentar id="leisewitz" type="neuzeit">
+<lemma>Johann Anton Leisewitz</lemma>
+<eintrag>1752–1806. Deutscher Schriftsteller.</eintrag>
+</kommentar>
+
 <kommentar id="lenclos" type="neuzeit">
 <lemma>Ninon de Lenclos</lemma>
 <eintrag>1620–1705. Eigentl. Anne de Lenclos. Frz. Kurtisane und Salonnière. Es wurden viele Lebensbeschreibungen zu ihr verfasst und Briefsammlungen veröffentlicht, die meisten davon fingierte. Auf Dt. lagen zur Zeit der Lektüre-Andeutung von Hamann zwei Werke vor: <titel>Briefe der Ninon von Lenclos an den Marquis von Sevigne: nebst den Briefen der Babet an den Boursault</titel> (Leipzig: Weidmann 1751); <titel>Der Ninon von Lenclos Leben und Briefe nebst der Briefe der Babet</titel> (Leipzig: Weidmann 1755); Biga&#x202F;124/367 verzeichnet eine frz. Ausgabe: <titel>Lettres de Ninon de Lenclos au Marquis de Sévigné</titel> (Haye 1751); die erste frz. Ausg. wurde 1732 von <link ref="crebillon" linktext="true" /> herausgegeben: <titel>Lettres de la marquise de M*** au comte de R***</titel>. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;24, 1819), S.&#x202F;76–80.
@@ -8419,6 +8460,29 @@ Zweisprachige Dänisch/Lateinische Ausgabe (1767): Knud Leems <titel>Beskrivelse
 <eintrag>
 <titel>Henrietta</titel> (London 1758).<line type="break" />
 Übers.: <titel>Henriette</titel> (Leipzig: Weidmann 1761). Digitalisat: <wwwlink address="  http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:9-g-4949225">UB Greifswald: 525/Bug. 987</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="lenz" type="neuzeit">
+<lemma>Jakob Michael Reinhold Lenz</lemma>
+<eintrag>1751–1792. Deutschbaltischer Schriftsteller des Sturm und Drang, vgl. <wwwlink address="https://www.deutsche-biographie.de/artikelADB_pnd118571656.html#adbcontent">Schmidt, Erich: Lenz, Jakob, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;272–276</wwwlink></eintrag>
+<subsection id="lenz-anmerkungen" type="neuzeit" sort="10">
+<lemma>[anonym] <titel>Anmerkungen über das Theater</titel></lemma>
+<eintrag>
+<titel>Anmerkungen über das Theater nebst angehängtem übersetzten Stück Shakespeares</titel> (Leipzig: Weygandsche Buchhandlung 1774). Digitalisat: <wwwlink address="https://lenz-archiv.de/static/selbststaendige_drucke/anmerkungen.pdf">Jakob Lenz Archiv Heidelberg</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="lenz-hofmeister" type="neuzeit" sort="15">
+<lemma>[anonym] <titel>Der Hofmeister</titel></lemma>
+<eintrag>
+<titel>Der Hofmeister oder Vortheile der Privaterziehung</titel> (Leipzig: Weygandsche Buchhandlung 1774). Digitalisat: <wwwlink address="https://lenz-archiv.de/static/selbststaendige_drucke/hofmeister.pdf">Jakob Lenz Archiv Heidelberg</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="lenz-menoza" type="neuzeit" sort="20">
+<lemma>[anonym] <titel>Der neue Menoza</titel></lemma>
+<eintrag>
+<titel>Der neue Menoza. Oder Geschichte des cumbanischen Prinzen Tandi</titel> (Leipzig: Weygandsche Buchhandlung 1774). Digitalisat: <wwwlink address="https://lenz-archiv.de/static/selbststaendige_drucke/menoza.pdf">Jakob Lenz Archiv Heidelberg</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9110,6 +9174,12 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 <kommentar id="macpherson" type="neuzeit">
 <lemma>James Macpherson</lemma>
 <eintrag>1736–1796. Schott. Dichter und Verfasser des Ossian, den er für eine gälische Originaldichtung ausgab; einer der maßgeblichen Auslöser der deutschen Barden-Dichtungen ab den späten 1760er Jahren, siehe <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-17728">Derick S. Thomson: Macpherson, James, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
+<subsection id="macpherson-remains" type="neuzeit" sort="5">
+<lemma>Macpherson, <titel>Remains of ancient poesie</titel></lemma>
+<eintrag>
+<titel>Remains of ancient poesie, collected in the Highlands of Scotland and translated from the Galic or Erse language</titel> (Edinburgh 1760).
+</eintrag>
+</subsection>
 <subsection id="macpherson-fingal" type="neuzeit" sort="10">
 <lemma>Macpherson, <titel>Fingal</titel></lemma>
 <eintrag>
@@ -13402,6 +13472,11 @@ Ioannis Avgvsti Starckii […] <titel>De Aeschylo et eius imprimis Tragoedia, qu
 <lemma>Starck, <titel>Sylloge</titel></lemma>
 <eintrag>
 Ioannis Avgvsti Starckii […] <titel>Sylloge Commentationum et observationum philologico-criticarum.</titel> Vol I (Königsberg: Kanter 1769) [Biga&#x202F;144/241: „J. A. Starckii Sylloge Commentationum &#x26; Obseruationum, Vol. I. Reg. 769“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=HV0YoHPxO3gC">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="starck-hephaestion" type="neuzeit" sort="25">
+<lemma>Starck, <titel> Hephaestion</titel></lemma>
+<eintrag>
+<titel>Hephaestion</titel> (Königsberg 1775) [Biga&#x202F;52/557: „J. A. Starks Hephaestion. Koen. 775.“].</eintrag>
 </subsection>
 <subsection id="starck-apologie" type="neuzeit" sort="30">
 <lemma>Starck, <titel>Apologie des Ordens der Freimaurer</titel></lemma>

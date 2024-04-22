@@ -47681,7 +47681,7 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="19">
-<bzg>Michaelis aus der Urkunde</bzg> ?!?
+<bzg>Michaelis aus der Urkunde</bzg> <link ref="michaelis" linktext="true" />, was genau ?!?
 </marginal>
 
 <marginal letter="414" page="110" line="20">
@@ -47746,11 +47746,7 @@ Brief Nr. 415
 <marginal letter="415" page="111" line="17" sort="1">
 <bzg>Fulda Wurzelbuch</bzg> Fulda, Friedrich Karl (1724- 1788), evang. Theologe, Historiker
 Preißschrift über die beiden Hauptdialekte der Teutschen Sprache, welche von der königl. Societät der
-Wissenschaften zu Göttingen den 9. November 1771 ist gekrönet worden. Leipzig 1773.
-III,233.
-Sammlung und Abstammung Germanischen Wurzel- Wörter, nach der Reihe menschlicher Begriffe, zum
-Erweis der Tabelle, die der Preisschrift über die zween Hauptdialekte der Teutschen Sprache angefügt
-worden ist, von dem Verfasser derselbigen; hg. von Johann Georg Meusel. Halle 1776. ?!?
+Wissenschaften zu Göttingen den 9. November 1771 ist gekrönet worden. Leipzig 1773. ?!?
 </marginal>
 
 <marginal letter="415" page="111" line="17" sort="2">
@@ -47837,7 +47833,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="6">
-<bzg>Versuche über die Ehe à la Wilkes</bzg>  ?!? <link ref="wilkes" subref="wilkes-essay" linktext="true" />  
+<bzg>Versuche über die Ehe à la Wilkes</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" />; <link ref="wilkes" subref="wilkes-essay" linktext="true" />  
 </marginal>
 
 <marginal letter="416" page="113" line="9">
@@ -47853,7 +47849,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="17">
-<bzg>Ueber die Ehe</bzg>  ?!?
+<bzg>Ueber die Ehe</bzg> <link ref="hippel" subref="hippel-ehe" linktext="true" />
 </marginal>
 
 <marginal letter="416" page="113" line="19">
@@ -47869,7 +47865,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="27">
-<bzg>Klotz und Comp in folio</bzg> ?!?
+<bzg>Klotz und Comp</bzg> <link ref="klotz" linktext="true" /> und Companie
 </marginal>
 
 <marginal letter="416" page="113" line="28">
@@ -47877,7 +47873,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="29" sort="1">
-<bzg>Ankündigung</bzg>  ?!?
+<bzg>Ankündigung</bzg> nicht ermittelt; FULDA ?!?
 </marginal>
 
 <marginal letter="416" page="113" line="29" sort="2">
@@ -47901,7 +47897,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="16" sort="2">
-<bzg>Sohn</bzg> ?!?
+<bzg>Sohn</bzg> Philipp Christoph, Jacob Wilhelm oder Johann Jacob Daniel Kanter
 </marginal>
 
 <marginal letter="416" page="114" line="19">
@@ -47913,7 +47909,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="24" sort="1">
-<bzg>Lettre perdue nach B…</bzg>  ?!?
+<bzg>Lettre perdue nach B…</bzg> <link ref="hamann" subref="hamann-lettreperdu" linktext="true" />
 </marginal>
 
 <marginal letter="416" page="114" line="24" sort="2">
@@ -47944,7 +47940,7 @@ Brief Nr. 416
 Brief Nr. 417
 
 <marginal letter="417" page="115" line="11" sort="1">
-<bzg>Nachricht über Helmstädt</bzg>  17 und 420.
+<bzg>Nachricht über Helmstädt</bzg>  vgl. Briefe 17 und 420
 </marginal>
 
 <marginal letter="417" page="115" line="11" sort="2">
@@ -47952,11 +47948,11 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="115" line="12">
-<bzg>LandesHErrn</bzg>  ?!?
+<bzg>LandesHErrn</bzg> <link ref="schaumburg-lippe-wilhelm" linktext="true" />  
 </marginal>
 
 <marginal letter="417" page="115" line="14">
-<bzg>Soloecismen</bzg>  Solözismus, grober sprachlicher Fehler
+<bzg>Soloecismen</bzg> Solözismus, grober sprachlicher Fehler
 </marginal>
 
 <marginal letter="417" page="115" line="18">
@@ -47980,7 +47976,7 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="115" line="24">
-<bzg>Belial</bzg>  Bayle (Baile), Pierre (1647- 1706)
+<bzg>Belial</bzg> <link ref="bayle" linktext="true" /> 
 </marginal>
 
 <marginal letter="417" page="115" line="29">
@@ -48052,11 +48048,11 @@ Brief Nr. 418
 </marginal>
 
 <marginal letter="418" page="118" line="6">
-<bzg>Zachei</bzg> Achery, Dom Jean Luc de (1609- 1685), frz. Benediktiner Consultationum Zachaei Christiani et Apollonii Philosophi libri tres. 1671.
+<bzg>Zachei</bzg> <link ref="achery" subref="achery-zachae" linktext="true" />  
 </marginal>
 
 <marginal letter="418" page="118" line="8">
-<bzg>Tristrams</bzg> [Übers] Tristram Schandis Leben und Meynungen. Th 1- 9. A. d. Engl. Hamburg 1774. Biga 196/57.
+<bzg>Tristrams</bzg> <link ref="sterne" subref="sterne-shandy" linktext="true" />; die Übersetzung von <link ref="bode-jjc" linktext="true" /> erschien 1774.
 </marginal>
 
 <marginal letter="418" page="118" line="10" sort="1">
@@ -48096,7 +48092,7 @@ Brief Nr. 418
 </marginal>
 
 <marginal letter="418" page="119" line="2">
-<bzg>Jacobi</bzg> Friedrich Conrad  Jacobi (1752-1816)
+<bzg>Jacobi</bzg> Friedrich Conrad Jacobi (1752-1816)
 </marginal>
 
 <marginal letter="418" page="119" line="3">
@@ -48187,7 +48183,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="120" line="5">
-<bzg>wie der Fuchs</bzg> Hor. epist. 1,1,73ff.
+<bzg>wie der Fuchs</bzg> <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,1,73ff.
 </marginal>
 
 <marginal letter="419" page="120" line="7">
@@ -48195,7 +48191,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="120" line="8">
-<bzg>Velo veli Deo</bzg> N III,126,35.
+<bzg>Velo veli Deo</bzg> N III,126,35. ?!?
 </marginal>
 
 <marginal letter="419" page="120" line="9">
@@ -48207,11 +48203,11 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="120" line="12">
-<bzg>Moses u. der Richter</bzg> 4 Mo 22,6 (N III,126,24ff.).  und N III,132f.
+<bzg>Moses u. der Richter</bzg> 4 Mo 22,6 (N III,126,24ff.).  und N III,132f. ?!?
 </marginal>
 
 <marginal letter="419" page="120" line="13">
-<bzg>andre 2.</bzg> An Prediger, Auch eine Philosophie
+<bzg>andre 2.</bzg> An Prediger, Auch eine Philosophie ?!?
 </marginal>
 
 <marginal letter="419" page="120" line="15">
@@ -48227,11 +48223,11 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="120" line="26">
-<bzg>Probe</bzg> 127,7ff.
+<bzg>Probe</bzg> vgl. <intlink letter="521" page="127" line="7" linktext="true" />
 </marginal>
 
 <marginal letter="419" page="120" line="31">
-<bzg>Michael sagen</bzg> Jud 9.
+<bzg>Michael sagen</bzg> <link ref="nt-jud" subref="nt-jud1" linktext="false">Judas 1,9</link>  
 </marginal>
 
 <marginal letter="419" page="120" line="36">
@@ -48239,7 +48235,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="121" line="1">
-<bzg>Berlinschen διαβολος</bzg> 123,32ff.
+<bzg>Berlinschen διαβολος</bzg> vgl. <intlink letter="420" page="123" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="419" page="121" line="5">
@@ -48247,13 +48243,13 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="121" line="10">
-<bzg>corpora delicti</bzg> wohl An Prediger und Auch eine Philosophie
+<bzg>corpora delicti</bzg> wohl An Prediger und Auch eine Philosophie ?!?
 </marginal>
 
 <marginal letter="419" page="121" line="15">
 <bzg>Luna</bzg> im allgemeinen die aufklärerischen Berliner; im
 besonderen die Rezension der Aeltesten Urkunde in der Allgemeine[n] deutschen
-Bibliothek [= Berlinsche Luna], Bd. 35/1, durch Nicolai und J. A. Eberhard.
+Bibliothek [= Berlinsche Luna], Bd. 35/1, durch Nicolai und J. A. Eberhard. ?!?
 </marginal>
 
 <marginal letter="419" page="121" line="17">
@@ -48269,30 +48265,28 @@ Bibliothek [= Berlinsche Luna], Bd. 35/1, durch Nicolai und J. A. Eberhard.
 </marginal>
 
 <marginal letter="419" page="121" line="29">
-<bzg>4. Ausgabe von Bollinbr.</bzg> Quartausgabe,Saint- John, Lord Henry, 1st Viscount of Bolinbroke (1678- 1751),  Works, hg. v. D. Mallet. 5 Bde. London 1754.
+<bzg>4. Ausgabe von Bollinbr.</bzg> Quartausgabe; <link ref="bolingbroke" subref="bolingbroke-works" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="121" line="31">
-<bzg>Pope, Shakespear, Dodsley, die Reliks</bzg> James Macpherson. Remains of ancient poesie. Edinburgh 1760.
+<bzg>Pope, Shakespear, Dodsley, die Reliks</bzg> <link ref="pope" linktext="true" />; <link ref="shakespeare" linktext="true" />; <link ref="dodsley" linktext="true" />; <link ref="macpherson" subref="macpherson-remains" linktext="true" />
 </marginal>
 
 <marginal letter="419" page="122" line="1">
-<bzg>Göthes Klavigo u. Leiden des jungen Werthers</bzg>  Clavigo. Trauerspiel in fünf Aufzügen. Leipzig 1774. Biga 141/198. und Die Leiden des jungen Werthers. Roman. Leipzig 1774 (1. Fassung). Biga 158/479.
+<bzg>Göthes Klavigo u. Leiden des jungen Werthers</bzg> <link ref="goethe" subref="goethe-clavigo" linktext="true" />;  <link ref="goethe" subref="goethe-werther" linktext="true" />  
 </marginal>
 
 <marginal letter="419" page="122" line="2">
-<bzg>Anmerkungen übers Theater</bzg> [anonym] Anmerkungen über das Theater nebst angehängtem übersetzten Stück Shakespeares. Leipzig
-1774.
+<bzg>Anmerkungen übers Theater</bzg> <link ref="lenz" subref="lenz-anmerkungen" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="122" line="4">
-<bzg>2. Stücke W.</bzg> W. von ihm: ebenfalls nicht von
-Goethe, sondern von J. A. Leisewitz: 2 Dialoge, in: Poetische Blumenlese auf das Jahr
+<bzg>2. Stücke W.</bzg> <link ref="leisewitz" linktext="true" />, 2 Dialoge, in: Poetische Blumenlese auf das Jahr
 1775
 </marginal>
 
 <marginal letter="419" page="122" line="6">
-<bzg>Hofmeisters u. neuen Menoza</bzg> Der Hofmeister oder Vortheile der Privaterziehung. Leipzig 1774. und Menoza oder Geschichte des cumbanischen Prinzen Tandi. Leipzig 1774.
+<bzg>Hofmeisters u. neuen Menoza</bzg> <link ref="lenz" subref="lenz-hofmeister" linktext="true" />; <link ref="lenz" subref="lenz-menoza" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="122" line="10">
@@ -48300,17 +48294,15 @@ Goethe, sondern von J. A. Leisewitz: 2 Dialoge, in: Poetische Blumenlese auf das
 </marginal>
 
 <marginal letter="419" page="122" line="11" sort="1">
-<bzg>Grafen</bzg> Friedrich Ernst Wilhelm Graf zu (1724- 1777), deren Stiefsohn, regierte seit 1748, Verehrer
-Mendelssohns, Freund Abbts
+<bzg>Grafen</bzg> <link ref="schaumburg-lippe-wilhelm" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="122" line="11" sort="2">
-<bzg>Chodowiki</bzg> Chodowiecki, Daniel Nikolaus (1726- 1801), Maler, Kupferstecher und Illustrator
+<bzg>Chodowiki</bzg> Daniel Nikolaus Chodowiecki (1726-1801), Maler, Kupferstecher und Illustrator
 </marginal>
 
 <marginal letter="419" page="122" line="12">
-<bzg>Omteda</bzg> Ompteda, Catharina Charlotte, geb. Freiin v. d. Horst (gest. 1811), Oberhofmeisterin der Königin
-Karoline Mathilde von Dänemark
+<bzg>Omteda</bzg> Catharina Charlotte Ompteda, geb. Freiin v. d. Horst (gest. 1811), Oberhofmeisterin der Königin Karoline Mathilde von Dänemark
 </marginal>
 
 <marginal letter="419" page="122" line="13">
@@ -48319,8 +48311,7 @@ Karoline Mathilde von Dänemark
 
 <marginal letter="419" page="122" line="14">
 <bzg>Vir bonus et sapiens …</bzg> Vir bonus et sapiens, quem vix ex millibus [vnum] ... tulit. Der gute und weise Mann, den kaum unter Tausenden führte, reiflich beraten, Apollo
-Quelle: Hor. epist. 1,16,73; epist. 1,7,22. aber andere Auson. opusc. 7,3.
-consultus Apollo
+Quelle: Hor. epist. 1,16,73; epist. 1,7,22. 
 </marginal>
 
 <marginal letter="419" page="122" line="14" sort="1">
@@ -48332,8 +48323,7 @@ consultus Apollo
 </marginal>
 
 <marginal letter="419" page="122" line="19">
-<bzg>Hennings Gesch. der Seelen</bzg> Hennings, Justus Christian (1731- 1815), Prof. der Philosophie in Jena
-Geschichte von den Seelen der Menschen und Thiere. Halle 1774.
+<bzg>Hennings Gesch. der Seelen</bzg> <link ref="hennings-j-ch" subref="hennings-j-ch-geschichte" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="122" line="20">
@@ -48357,11 +48347,11 @@ Geschichte von den Seelen der Menschen und Thiere. Halle 1774.
 </marginal>
 
 <marginal letter="419" page="122" line="27">
-<bzg>Auftritt</bzg> Lyda, mit Noten von Carl Philipp Emanuel Bach.
+<bzg>Auftritt</bzg> Lyda ?!?
 </marginal>
 
 <marginal letter="419" page="122" line="28">
-<bzg>W.</bzg> Leisewitz, Zeile 3f.
+<bzg>W.</bzg> <link ref="leisewitz" linktext="true" />
 </marginal>
 
 
@@ -48400,7 +48390,7 @@ Brief Nr. 420
 </marginal>
 
 <marginal letter="420" page="123" line="23">
-<bzg>3. Spalding u. Luther …</bzg> <link ref="spalding" linktext="true" /> und <link ref="luther" linktext="true" />; in An Prediger.
+<bzg>3. Spalding u. Luther …</bzg> <link ref="spalding" linktext="true" /> und <link ref="luther" linktext="true" />; in An Prediger. ?!?
 </marginal>
 
 <marginal letter="420" page="123" line="25">
@@ -48408,7 +48398,7 @@ Brief Nr. 420
 </marginal>
 
 <marginal letter="420" page="123" line="26">
-<bzg>Belial</bzg> Baile
+<bzg>Belial</bzg> <link ref="bayle" linktext="true" />
 </marginal>
 
 <marginal letter="420" page="123" line="29">
@@ -48421,11 +48411,11 @@ Brief Nr. 420
 
 <marginal letter="420" page="123" line="32">
 <bzg>Briefe an Spald. sind ein egarement du coeur</bzg> dt. Wandern des Herzens; HBGA 3,97f., Brief 85 vom 15. Juni 1774; weiterhin dort
-die Briefe 91, 102 und 112; 
+die Briefe 91, 102 und 112; ?!?
 </marginal>
 
 <marginal letter="420" page="123" line="33">
-<bzg>persönlich</bzg> Brief 85 (HBGA)
+<bzg>persönlich</bzg> Brief 85 (HBGA) ?!?
 </marginal>
 
 <marginal letter="420" page="123" line="35">
@@ -48450,7 +48440,7 @@ teilten Ts Meinung und verbreiteten sie mit allerhand Gerüchten weiter.
 </marginal>
 
 <marginal letter="420" page="124" line="8">
-<bzg>von Klotz gnug belehrt</bzg> im Rahmen der Auseinandersetzungen um die Klotzschen und Riedelschen Rezensionen der Fragmente und des Torso.
+<bzg>Klotz</bzg> <link ref="klotz" linktext="true" />
 </marginal>
 
 <marginal letter="420" page="124" line="9">
@@ -48473,7 +48463,7 @@ mitzuständig und hatte sich gegen Herder ausgesprochen; Loos werfen: u.a. <link
 <marginal letter="420" page="124" line="18">
 <bzg>Brutus</bzg> Druckfassung seines 1772 Fragment
 gebliebenen (SWS XXVIII,11ff.) BRUTUS. Ein Drama zur Musik gesetzt von dem
-Concertmeister Bach [= Johann Christoph Friedrich] zu Bückeburg, 1774.
+Concertmeister Bach [= Johann Christoph Friedrich] zu Bückeburg, 1774. ?!?
 </marginal>
 
 <marginal letter="420" page="124" line="19">
@@ -48543,7 +48533,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="126" line="2">
-<bzg>Voß gedruckten Versuch der Ehe</bzg> Christian Friedrich V., von Th. G. Hippel, anonym.
+<bzg>Voß gedruckten Versuch der Ehe</bzg> <link ref="hippel" subref="hippel-ehe" linktext="true" />  
 </marginal>
 
 <marginal letter="421" page="126" line="8">
@@ -48611,7 +48601,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="127" line="4">
-<bzg>das erste</bzg> Auch eine Geschichte
+<bzg>das erste</bzg> Auch eine Geschichte ?!?
 </marginal>
 
 <marginal letter="421" page="127" line="7">
@@ -48721,7 +48711,7 @@ Brief Nr. 423
 <marginal letter="423" page="128" line="26">
 <bzg>Zendavesta</bzg> von Anquetil du Perron, 107,10. Anquetil- Duperron, Abraham Hyacinthe (1731- 1805), frz. Orientalist, Begründer der Iranistik und
 des Zend- Studiums [siehe auch Kleuker]. III,171(Franzose). Zend- Avesta, Zoroaster's lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes
-der Parsen aufbehalten sind. A. d. Frz. [ v. J. F. Kleuker]. 3 Thle. Riga 1776/8.
+der Parsen aufbehalten sind. A. d. Frz. [ v. J. F. Kleuker]. 3 Thle. Riga 1776/8. ?!?
 </marginal>
 
 <marginal letter="423" page="128" line="28">
@@ -48761,7 +48751,7 @@ der Parsen aufbehalten sind. A. d. Frz. [ v. J. F. Kleuker]. 3 Thle. Riga 1776/8
 </marginal>
 
 <marginal letter="423" page="129" line="4">
-<bzg>Tristram Bode</bzg> <link ref="bode-jjc" linktext="true" />; hat <link ref="sterne" subref="sterne-shandy" linktext="true" /> übersetzt ?!?
+<bzg>Tristram Bode</bzg> <link ref="bode-jjc" linktext="true" />; hat <link ref="sterne" subref="sterne-shandy" linktext="true" />
 </marginal>
 
 <marginal letter="423" page="129" line="5">
@@ -48785,8 +48775,7 @@ der Parsen aufbehalten sind. A. d. Frz. [ v. J. F. Kleuker]. 3 Thle. Riga 1776/8
 </marginal>
 
 <marginal letter="423" page="129" line="11">
-<bzg>Sauvage du Nord</bzg> LETTRE PERDUE D'UN SAUVAGE DU NORD A UN FINANCIER DE PE-KIM. Se vend au Pillier N. 45 de la
-Bourse d'Amsterdam. 1773
+<bzg>Sauvage du Nord</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />  
 </marginal>
 
 <marginal letter="423" page="129" line="12">
@@ -48797,7 +48786,7 @@ Bourse d'Amsterdam. 1773
 <bzg>Relatione curiosa</bzg> Happel, Everard Werner (Guerner) (1647- 1690), Schriftsteller
 Größte Denkwürdigkeiten der Welt oder so genannte Relationes curiosae, worinnen dargestellt und
 nach dem Probier- Stein der Vernunft examinieret werden die vornehmsten Physicalisch., Mathem.,
-Histor. und andere merkwürdige Seltsamkeiten. Hamburg 1683/91.
+Histor. und andere merkwürdige Seltsamkeiten. Hamburg 1683/91. ?!?
 </marginal>
 
 <marginal letter="423" page="129" line="15">
@@ -48828,14 +48817,11 @@ Brief Nr. 424
 </marginal>
 
 <marginal letter="424" page="129" line="32">
-<bzg>Consultationum Zacchaei Christiani …</bzg> Achery, Dom Jean Luc de (1609- 1685), frz. Benediktiner: Trois livres des consultations ou disputes de Zachée Chrétien et Apollonius philosophe. 1671
-Consultationum Zachaei Christiani et Apollonii Philosophi libri tres. 1671.
+<bzg>Consultationum Zacchaei Christiani …</bzg> <link ref="achery" subref="achery-zachae" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="1">
-<bzg>d’Achery nach der neuesten Ausgabe in fol. v. 723</bzg> Achery, Dom Jean Luc de (1609- 1685), frz. Benediktiner
-Veterum aliquot scriptorum, qui in Galliae bibliothecis, maxime Benedictinorum latuerant, spicilegium.
-Paris 1655.
+<bzg>d’Achery nach der neuesten Ausgabe in fol. v. 723</bzg> <link ref="achery" subref="achery-veterum" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="130" line="2">
@@ -48844,7 +48830,7 @@ Paris 1655.
 
 <marginal letter="424" page="130" line="4">
 <bzg>Tillemont … Euagrium</bzg>M. de Tillemont croit Euagrius
-qui vivoit l'an 400 de J. C. auteur des Consultation de Zachée et d'Apollonius
+qui vivoit l'an 400 de J. C. auteur des Consultation de Zachée et d'Apollonius ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="5">
@@ -48852,14 +48838,14 @@ qui vivoit l'an 400 de J. C. auteur des Consultation de Zachée et d'Apollonius
 Histoire littéraire de la Congrégation de Saint- Maur, ordre de S. Benoît. Brüssel 1770.
 Dom Renatus Taßins, Mitglieds und Priesters der Congregation von St. Maur und vornehmsten Verfassers
 des neuen Lehrgebäudes der Diplomatick, Gelehrtengeschichte der Congregation von St. Maur,
-Benediktinerordens . A. d. Frz. 2 Bde. 1773/4.
+Benediktinerordens . A. d. Frz. 2 Bde. 1773/4. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="7">
 <bzg>Dom Paul de Gallois … Velum veli DEI</bzg> Le gout du P. de Gallois pour les
 proses carrées se manifeste encore dans celle qu'il fit imprimer sous le titre de velum
 veli Dei. Le sujet est une Relique de monastère de Notre- Dame de Bonne nouvelle à
-Rouen. 
+Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="11">
@@ -48875,7 +48861,7 @@ Rouen.
 </marginal>
 
 <marginal letter="424" page="130" line="19">
-<bzg>Apologie des H</bzg> ?!?
+<bzg>Apologie des H</bzg> <link ref="hamann" subref="hamann-h" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="130" line="20">
@@ -48911,7 +48897,7 @@ Rouen.
 </marginal>
 
 <marginal letter="424" page="130" line="32">
-<bzg>Schwester und Schwester Tochter</bzg> ?!?
+<bzg>Schwester und Schwester Tochter</bzg> nicht ermittelt
 </marginal>
 
 <marginal letter="424" page="130" line="33">
@@ -48945,7 +48931,7 @@ Rouen.
 <marginal letter="424" page="131" line="7" sort="2">
 <bzg>No 45</bzg> wohl ironische Anspielung auf das 45.
 Scholion des Selbstgespräch[s] eines Autors, das sich auf den Schwanengesang
-(Hor.c..2,20,) bezieht, N III,79,35ff. Hamann wird im Jahr darauf 45 Jahre alt.
+(Hor.c..2,20,) bezieht, N III,79,35ff. Hamann wird im Jahr darauf 45 Jahre alt. ?!?
 </marginal>
 
 <marginal letter="424" page="131" line="9" sort="1">
@@ -48961,7 +48947,7 @@ Scholion des Selbstgespräch[s] eines Autors, das sich auf den Schwanengesang
 </marginal>
 
 <marginal letter="424" page="131" line="12">
-<bzg>Consultationes Apollonii φφi</bzg> die Briefe von link ref="hartknoch" linktext="true" />, Nr. 403 und 405
+<bzg>Consultationes Apollonii φφi</bzg> die Briefe von <link ref="hartknoch" linktext="true" />, Nr. 403 und 405
 </marginal>
 
 <marginal letter="424" page="131" line="15">
@@ -48986,7 +48972,7 @@ Scholion des Selbstgespräch[s] eines Autors, das sich auf den Schwanengesang
 
 <marginal letter="424" page="131" line="21">
 <bzg>Volkslieder</bzg> Alte Volkslieder. Erster Theil. Englisch und Deutsch, Altenburg
-1774; Zweiter Theil. Englisch- Nordisch und Deutsch
+1774; Zweiter Theil. Englisch- Nordisch und Deutsch `!
 </marginal>
 
 <marginal letter="424" page="131" line="23">
@@ -49005,7 +48991,7 @@ Scholion des Selbstgespräch[s] eines Autors, das sich auf den Schwanengesang
 <bzg>Warner’s Vorrede über die Gicht</bzg> Herder
 glaubte sich in dieser Fratzenvorrede (N IV,440) als das Theologische Monstrum
 erkennen zu sollen, vgl seinen Brief an Hartknoch, 2. Hälfte Mai 1772 (HBGA II, Nr.
-80), wovon Hartknoch offenbar H. Mitteilung gemacht hatte.
+80), wovon Hartknoch offenbar H. Mitteilung gemacht hatte. ?!?
 </marginal>
 
 <marginal letter="424" page="132" line="1">
@@ -49081,8 +49067,7 @@ erkennen zu sollen, vgl seinen Brief an Hartknoch, 2. Hälfte Mai 1772 (HBGA II,
 </marginal>
 
 <marginal letter="424" page="133" line="16">
-<bzg>Lettre perdue</bzg> LETTRE PERDUE D'UN SAUVAGE DU NORD A UN FINANCIER DE PE-KIM. Se vend au Pillier N. 45 de la
-Bourse d'Amsterdam. 1773 [Mitau: Hinz; 2. Aufl. mit Beigabe: ENCORE deux Lettres perdus!!,
+<bzg>Lettre perdue</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="133" line="17">
@@ -49097,16 +49082,16 @@ Fußnote: Mutii Pansae Osculum Christianae et ethnicae religionis] oder die
 der Zahl sieben etc. sind ohne Zweifel kein Spiel des Zufalls und haben ohne Zweifel
 eine Ursache. Wo die aber zu suchen sei, da wo unser Verfasser sie gefunden hat,
 oder im Schematismus des Universi und in den vestigiis creaturae a creatore
-impressis? das läßt der Rezensent dahingestellt sein.
+impressis? das läßt der Rezensent dahingestellt sein. ?!?
 </marginal>
 
 <marginal letter="424" page="133" line="21">
-<bzg>Hephästion</bzg> Starck (Stark), Johann August (v.) (1741- 1816) Hephaestion. Königsberg 1775. Biga 52/557,
+<bzg>Hephästion</bzg> <link ref="starck" subref="starck-hephaestion" linktext="true" />  
 </marginal>
 
 <marginal letter="424" page="133" line="23">
 <bzg>Loisirs d’Eon de Beaumont</bzg> Loisirs ... sur divers sujets importants d'administration etc. pendant son séjour en Angleterre.
-Amsterdam 1774.
+Amsterdam 1774. ?!?
 </marginal>
 
 <marginal letter="424" page="133" line="24" sort="1">
@@ -49115,7 +49100,7 @@ Amsterdam 1774.
 
 <marginal letter="424" page="133" line="24" sort="2">
 <bzg>Molters Toscanischer Sprachlehre</bzg> Molter, Friedrich (1722- 1808), Direktor der Hofbibliothek und des Kunstkabinetts in Karlsruhe
-Toskanische Sprachlehre. Leipzig 1750. Biga 71/200.
+Toskanische Sprachlehre. Leipzig 1750. Biga 71/200. ?!?
 </marginal>
 
 <marginal letter="424" page="133" line="29">
@@ -49129,7 +49114,7 @@ Toskanische Sprachlehre. Leipzig 1750. Biga 71/200.
 <marginal letter="424" page="133" line="30" sort="2">
 <bzg>musicalische Dramata</bzg>außer
 Brutus, 1774 (123,18), die Pfingstkantate, 1773, die Umarbeitung einer älteren
-Fassung von 1766, und Philoktetes. Scenen mit Gesang, 1774.
+Fassung von 1766, und Philoktetes. Scenen mit Gesang, 1774. ?!?
 </marginal>
 
 <marginal letter="424" page="133" line="32">
@@ -49191,7 +49176,7 @@ ging vor allem um die Übersetzung der Lettres sur l'homme et ses rapports; vgl 
 Brief an Hartknoch vom 19. Nov. 1774 (HBGA III, Brief 114): Hemsterh. geb ich an
 Dietr. [den Buchhändler Dieterich in Göttingen], daß ich auch von dem loskomme. Er
 hat an mich drum geschrieben u. hat die Kupfer schon gestochen. Und auch Boje
-[Boie] hat mir viel geholfen.
+[Boie] hat mir viel geholfen. ?!?
 </marginal>
 
 <marginal letter="424" page="134" line="19">
@@ -49203,7 +49188,7 @@ hat an mich drum geschrieben u. hat die Kupfer schon gestochen. Und auch Boje
 </marginal>
 
 <marginal letter="424" page="134" line="22">
-<bzg>Hexe von Kadm.</bzg> An die Hexe zu Kadmonbor, 1773, ?!?
+<bzg>Hexe von Kadm.</bzg> <link ref="hamann" subref="hamann-kadmonbor" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="134" line="23">
@@ -49598,6 +49583,8 @@ aber unwissend.
 <marginal letter="425" page="140" line="26" sort="2">
 <bzg>Zacchaeum</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
 </marginal>
+
+
 
 
 </marginalien>
