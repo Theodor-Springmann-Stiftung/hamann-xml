@@ -6322,7 +6322,7 @@ Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffen
 <subsection id="herder-deutsch" type="neuzeit" sort="130">
 <lemma>Herder (Hg.), <titel>Von Deutscher Art und Kunst</titel></lemma>
 <eintrag>
-<titel>Von Deutscher Art und Kunst.</titel> Einige fliegende Blätter (Hamburg: Bode 1773) [Biga&#x202F;83/128 und 103/113: „Von deutscher Art und Kunst, Hamb. 773“; außerdem 172/534: „Von deutscher Art und Kunst, Hamb. 773. Donum EDITORIS.“]. Darin: <titel>Auszug aus einem Briefwechsel über Ossian und die Lieder alter Völker,</titel> S.&#x202F;1–70; außerdem: <titel>Shakespear,</titel> S. 71- 118. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/herder_artundkunst_1773">Deutsches Textarchiv</wwwlink>. – SWS,&#x202F;V, S.&#x202F;157–257.
+<titel>Von Deutscher Art und Kunst.</titel> Einige fliegende Blätter (Hamburg: Bode 1773) [Biga&#x202F;83/128 und 103/113: „Von deutscher Art und Kunst, Hamb. 773“; außerdem 172/534: „Von deutscher Art und Kunst, Hamb. 773. Donum EDITORIS.“]. Darin von Herder: <titel>Auszug aus einem Briefwechsel über Ossian und die Lieder alter Völker,</titel> S.&#x202F;1–70; außerdem: <titel>Shakespear,</titel> S. 71- 118. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/herder_artundkunst_1773">Deutsches Textarchiv</wwwlink>. – SWS,&#x202F;V, S.&#x202F;157–257.
 </eintrag>
 </subsection>
 <subsection id="herder-altesteurkunde" type="neuzeit" sort="200">
@@ -15341,6 +15341,17 @@ Digitalisat 19. Stück (1762): <wwwlink address="https://kpbc.umk.pl/dlibra/publ
 <kommentar id="woltersdorf" type="neuzeit">
 <lemma>Gerhard Ludwig Woltersdorf</lemma>
 <eintrag>Gest. 1759. September bis Oktober 1759 zus. mit <link ref="hartung-h" linktext="true" /> Geschäftsführer der Hartungschen Buchhandlung, nach dem Tod von <link ref="hartung-mc" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="wood" type="neuzeit">
+<lemma>Robert Wood</lemma>
+<eintrag>1716/17–1771. Irisch-englischer Altertumsforscher und Politiker, siehe <wwwlink address="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Wood,_Robert_(1717%3F-1771)">William  Courtney: Wood, Robert (1717?–1771). In: Dictionary of National Biography, Bd. 62, S.&#x202F;373–375.</wwwlink></eintrag>
+<subsection id="wood-homer" type="neuzeit">
+<lemma>Wood, <titel>An essay on the original genius of Homer </titel></lemma>
+<eintrag><titel>An essay on the original genius of Homer</titel> with a comparative view of the ancient and present state of the Troade (London 1769). Digitalisat: <wwwlink address="https://archive.org/details/essayonoriginalg00wood/page/n9/mode/2up">Internet Archive</wwwlink>.<line type="break" />
+Übers.: <titel>Robert Woods Versuch über das Originalgenie des Homers</titel> aus dem Englischen (Frankfurt am Main: Andreä 1773, von Christian Friedrich Michaelis) [Biga&#x202F;151/379: „Wood’s Versuch über das Originalgenie des Homers, Frkft. 773“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10233694-4">BSB München: A.gr.a. 1572</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 X
