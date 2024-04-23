@@ -5051,7 +5051,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <subsection id="gottsched-schaubuehne" type="neuzeit" sort="20">
 <lemma>Gottsched, <titel>Die Deutsche Schaubühne</titel></lemma>
 <eintrag>
-<titel>Die Deutsche Schaubühne</titel> (6&#xA0;Bde., Leipzig 1741–45).</eintrag>
+<titel>Die Deutsche Schaubühne</titel> (6&#xA0;Bde., Leipzig 1741–45).</eintrag> Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10109481-5">BSB München: P.o.germ. 508-1</wwwlink>.
 </subsection>
 <subsection id="gottsched-sprachkunst" type="neuzeit" sort="20">
 <lemma>Gottsched, <titel>Grundlegung einer deutschen Sprachkunst</titel></lemma>
@@ -6570,7 +6570,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="hinz" type="neuzeit">
 <lemma>Jakob Friedrich Hinz</lemma>
-<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; übernahm 1769 für kurze Zeit die Mitauer Buchhandlung Hartknochs; ab 1771/72 selbständiger Buchhändler Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbst-gesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach Bankrott 1779 auf Reisen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>.</eintrag>
+<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; übernahm 1769 für kurze Zeit die Mitauer Buchhandlung Hartknochs; ab 1771/72 selbständiger Buchhändler und Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbst-gesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach Bankrott 1779 auf Reisen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>. Seine Bücher waren schon im 18. Jh. kaum erreichbar.</eintrag>
 <subsection id="hinz-galimafreen" type="neuzeit" sort="10">
 <lemma>Hinz [mit <link ref="hippel" linktext="true" />], <titel>Galimafreen</titel></lemma>
 <eintrag>
@@ -6718,8 +6718,14 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </kommentar>
 
 <kommentar id="holberg" type="neuzeit">
-<lemma>Ludvig v. Holberg</lemma>
-<eintrag>1684–1754. Baron. Dänisch-norwegischer Dichter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz112650.html">Deutsche Biographie</wwwlink>.</eintrag>
+<lemma>Ludvig Holberg</lemma>
+<eintrag>1684–1754. Baron. Dänisch-norwegischer Dichter und Historiker, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz112650.html">Deutsche Biographie</wwwlink>.</eintrag>
+<subsection id="holberg-kannengiesser" type="neuzeit" sort="5">
+<lemma>Holberg, <titel>Der politische Kannengießer</titel></lemma>
+<eintrag><titel>Den politiske kandestøber.</titel> Komödie in fünf Akten, uraufgeführt 1722. Kopenhagen 1723.<line type="break" />
+Übersetzung von Georg Detharding in: <link ref="gottsched" subref="gottsched-schaubuehne" linktext="true" />, I 407–494.
+</eintrag>
+</subsection>
 <subsection id="holberg-historiae" type="neuzeit" sort="10">
 <lemma>Holberg, <titel>Synopsis historiae universalis</titel></lemma>
 <eintrag><titel>Synopsis historiae universalis, methodo erotematica exposita</titel> (Leipzig 1736) [Biga&#x202F;89/222: „Lud. de Holberg Synopsis Historiae vniuersalis, Fr. 753“].</eintrag>
@@ -6729,7 +6735,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <eintrag><titel>Opuscula quaedam Latina, epistola I., Cuius nova haec ed. prioribus est emendatior, epistola II., Quinque libri epigrammatum</titel> (Leipzig 1737) [Biga&#x202F;169/624: „Lud. Holbergii Opuscula quaedam Latina, Lips. 737“].
 </eintrag>
 </subsection>
-<subsection id="holberg-Romains" type="neuzeit" sort="30">
+<subsection id="holberg-romains" type="neuzeit" sort="30">
 <lemma>Holberg, <titel>Conjectures sur les causes de la grandeur des Romains</titel></lemma>
 <eintrag><titel>Conjectures sur les causes de la grandeur des Romains. Nouvelle hipothèse, opposée à quelques autres ci-devant publiées sur le même sujet avec un discours sur l’entousiasme</titel> (Leipzig 1752) [Biga&#x202F;123/356: „Conjectures sur les causes de la Grandeur des Romains par Holberg, Leipz. 752.“].</eintrag>
 </subsection>
@@ -7015,6 +7021,12 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 </kommentar>
 
 J
+
+<kommentar id="jacobaer" type="neuzeit">
+<lemma>Friedrich Gotthold Jacobäer</lemma>
+<eintrag>Gest. 1780, ab 1747 als Buchdrucker in Leipzig belegt, siehe <wwwlink address="https://d-nb.info/gnd/117032247">DNB</wwwlink>.
+</eintrag>
+</kommentar>
 
 <kommentar id="jacobi" type="neuzeit">
 <lemma>Friedrich Heinrich Jacobi</lemma>
