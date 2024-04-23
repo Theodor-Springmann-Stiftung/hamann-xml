@@ -7495,9 +7495,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="392">
-        <date value="19. August 1773" />
+        <date value="Königsberg, 19. August 1773" />
         <sort value="1773-08-19" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -7506,7 +7506,7 @@
         </receivers>
         <hasOriginal value="true" />
         <isProofread value="true" />
-        <isDraft value="false" />
+        <isDraft value="true" />
         <ZHInfo inZH="true">
           <dateChanged value="false" />
           <begin vol="3" page="54" />

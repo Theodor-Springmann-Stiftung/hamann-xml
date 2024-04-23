@@ -4961,12 +4961,17 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <lemma>Johann Wolfgang Goethe</lemma>
 <eintrag>1749–1832. Dichter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz53095.html#ndbcontent">Flitner, Wilhelm: Goethe, Johann Wolfgang von, in: <titel>NDB</titel>&#x202F;6 (1964), S.&#x202F;546–575</wwwlink>.
 </eintrag>
-<subsection id="goethe-clavigo" type="neuzeit" sort="10">
+<subsection id="goethe-baukunst" type="neuzeit" sort="10">
+<lemma>Goethe, <titel>Von Deutscher Baukunst</titel></lemma>
+<eintrag>
+<titel>Von Deutscher Baukunst</titel>, in: <link ref="herder" subref="herder-deutsch" linktext="true" />, 119–136.</eintrag>
+</subsection>
+<subsection id="goethe-clavigo" type="neuzeit" sort="20">
 <lemma>Goethe, <titel>Clavigo</titel></lemma>
 <eintrag>
-<titel>Clavigo. Ein Trauerspiel </titel> (Leipzig 1774) [Biga&#x202F;141/198: „(Göthens) Clavigo, Leipz. 774“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10923479-7">BSB München: Res/P.o.angl. 202#Beibd.1</wwwlink>.</eintrag>
+<titel>Clavigo. Ein Trauerspiel</titel> (Leipzig 1774) [Biga&#x202F;141/198: „(Göthens) Clavigo, Leipz. 774“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10923479-7">BSB München: Res/P.o.angl. 202#Beibd.1</wwwlink>.</eintrag>
 </subsection>
-<subsection id="goethe-werther" type="neuzeit" sort="20">
+<subsection id="goethe-werther" type="neuzeit" sort="30">
 <lemma>Goethe, <titel>Die Leiden des jungen Werthers</titel></lemma>
 <eintrag>
 <titel>Die Leiden des jungen Werthers</titel> (Leipzig 1774) [Biga&#x202F;158/479: „Leyden des jungen Werthers, Freyst. 775“]. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/goethe_werther02_1774">Deutsches Textarchiv</wwwlink>.</eintrag>
@@ -5784,25 +5789,25 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-beilage-denkwurdigkeiten" type="neuzeit" sort="560">
 <lemma>Hamann, <titel>Beylage zun Denkwürdigkeiten des seligen Sokrates</titel></lemma>
 <eintrag>
-<titel>Beylage zun Denkwürdigkeiten des seligen Sokrates.</titel> Von einem Geistlichen in Schwaben. Zweyte Auflage (Halle 1773) [Druckort, Auflage und Erscheinungsjahr fingiert, recte Schwäbisch Hall 1772, vgl. <intlink letter="383" page="32" line="11" linktext="true" />] [Biga&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-235881">ULB Münster: N. Hamann Bd.&#x202F;7</wwwlink>. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;111–121.
+<titel>Beylage zun Denkwürdigkeiten des seligen Sokrates.</titel> Von einem Geistlichen in Schwaben. Zweyte Auflage (Halle 1773) [Druckort, Auflage und Erscheinungsjahr fingiert, recte angeblich in Schwäbisch Hall 1772, vgl. <intlink letter="383" page="32" line="11" linktext="true" />] [Biga&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-235881">ULB Münster: N. Hamann Bd.&#x202F;7</wwwlink>. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;111–121.
 </eintrag>
 </subsection>
 <subsection id="hamann-selbstgesprach-eines-autors" type="neuzeit" sort="570">
 <lemma>Hamann, <titel>Selbstgespräch eines Autors</titel></lemma>
 <eintrag>
-<titel>Selbstgespräch eines Autors.</titel> Mit 45 Scholien (1773 [wohl bei <link ref="hinz" linktext="false">Hinz</link> in Mitau oder bei <link ref="hartknoch" linktext="false">Hartknoch</link> in Riga]) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-236006">ULB Münster: N. Hamann Bd.&#x202F;70</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;429f., Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;67–79.
+<titel>Selbstgespräch eines Autors.</titel> Mit 45 Scholien (Mitau: <link ref="hinz" linktext="false">Hinz</link> 1773) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/urn/urn:nbn:de:hbz:6:1-236006">ULB Münster: N. Hamann Bd.&#x202F;70</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;429f., Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;67–79.
 </eintrag>
 </subsection>
 <subsection id="hamann-lettreperdue" type="neuzeit" sort="580">
 <lemma>Hamann, <titel>Lettre perdue d’un sauvage du nord</titel></lemma>
 <eintrag>
-<titel>Lettre perdue d’un sauvage du nord à un financier de Pe-Kim</titel> ([Riga] 1773). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4606240">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;419f., Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;299–305.
+<titel>Lettre perdue d’un sauvage du nord à un financier de Pe-Kim</titel> ([Mitau: <link ref="hinz" linktext="false">Hinz</link>] 1773). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4606240">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;419f., Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;299–305.
 </eintrag>
 </subsection>
 <subsection id="hamann-kadmonbor" type="neuzeit" sort="590">
 <lemma>Hamann, <titel>An die Hexe zu Kadmonbor</titel></lemma>
 <eintrag>
-<titel>An die Hexe zu Kadmonbor</titel> ([Mitau: Hinz] 1773) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4602768">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;434, Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;81–86.
+<titel>An die Hexe zu Kadmonbor</titel> ([Mitau: <link ref="hinz" linktext="false">Hinz</link>] 1773) [Biga&#x202F;182/49: „Selbstgespraech eines Autors mit 45 Scholien 773. M. Coelius Serotinus Viro venerabili Mien-Man-Hoam eod. An die Hexe zu Kadmonbor, Don.“]. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4602768">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>. – Zur Druckgeschichte vgl. N&#x202F;III, S.&#x202F;434, Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;81–86.
 </eintrag>
 </subsection>
 <subsection id="hamann-h" type="neuzeit" sort="595">
@@ -5820,13 +5825,13 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-kermes" type="neuzeit" sort="610">
 <lemma>Hamann, <titel>Le Kermes du Nord</titel></lemma>
 <eintrag>
-<titel>Le Kermes du Nord</titel> [Mitau: Hinz] 1774. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4605388">ULB Münster: </wwwlink>.  – Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;422–424, Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;317–322.
+<titel>Le Kermes du Nord</titel> [Mitau: <link ref="hinz" linktext="false">Hinz</link>] 1774. Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4605388">ULB Münster: </wwwlink>.  – Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;422–424, Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;317–322.
 </eintrag>
 </subsection>
 <subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="620">
 <lemma>Hamann, <titel>Übersetzung von Bolingbroke und Hervey</titel></lemma>
 <eintrag>
-<titel>Heinrich St. Johann Vitzgraf Bolingbroke und Jakob Hervey etc. etc.</titel> Übersetzt von J.&#x202F;G. Hamann (Mitau: Hinz 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136259-8">BSB München: Var. 686 a</wwwlink>. – Übersetzung von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" /> und <link ref="hervey" subref="hervey-remarks" linktext="true" /> (Vorwort bei N&#x202F;IV,441).
+<titel>Heinrich St. Johann Vitzgraf Bolingbroke und Jakob Hervey etc. etc.</titel> Übersetzt von J.&#x202F;G. Hamann (Mitau: <link ref="hinz" linktext="false">Hinz</link> 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136259-8">BSB München: Var. 686 a</wwwlink>. – Übersetzung von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" /> und <link ref="hervey" subref="hervey-remarks" linktext="true" /> (Vorwort bei N&#x202F;IV,441).
 </eintrag>
 </subsection>
 <subsection id="hamann-ehe" type="neuzeit" sort="650">
@@ -6570,7 +6575,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="hinz" type="neuzeit">
 <lemma>Jakob Friedrich Hinz</lemma>
-<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; übernahm 1769 für kurze Zeit die Mitauer Buchhandlung Hartknochs; ab 1771/72 selbständiger Buchhändler und Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbst-gesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach Bankrott 1779 auf Reisen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>. Seine Bücher waren schon im 18. Jh. kaum erreichbar.</eintrag>
+<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; übernahm 1769 für kurze Zeit die Mitauer Buchhandlung Hartknochs; ab 1771/72 selbständiger Buchhändler und Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach Bankrott 1779 auf Reisen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>. Seine Bücher waren schon im 18. Jh. kaum erreichbar.</eintrag>
 <subsection id="hinz-galimafreen" type="neuzeit" sort="10">
 <lemma>Hinz [mit <link ref="hippel" linktext="true" />], <titel>Galimafreen</titel></lemma>
 <eintrag>
@@ -7582,7 +7587,7 @@ J. G. Lindner konnte sein Buch zur <link ref="lindner-jg" subref="schreibart" li
 
 <kommentar id="kgpz" type="neuzeit">
 <lemma>Königsbergsche Gelehrte und Politische Zeitungen</lemma>
-<eintrag>1764–1796, erschienen montags und freitags im Buchladen von <link ref="kanter-jj" linktext="true" />, später die Dengelsche Zeitungen. [Biga&#x202F;179/10: „Königsbergsche gelehrte und politische Zeitungen von 767–75“; Biga 182/47: „Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.“ u. Biga 199/115: „Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.“]<line type="break" />
+<eintrag>1764–1796, erschienen montags und freitags im Buchladen von <link ref="kanter-jj" linktext="true" />, später die Dengelsche Zeitungen. Hamann war von Januar bis Mai 1764 Redaktuer der Zeitungen und lieferte auch danach immer wieder Beiträge und Rezensionen für sie [Biga&#x202F;179/10: „Königsbergsche gelehrte und politische Zeitungen von 767–75“; Biga 182/47: „Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.“ u. Biga 199/115: „Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.“].<line type="break" />
 Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelblaska.pl/dlibra/publication/68995#structure">Biblioteka Elbląska</wwwlink>.
 </eintrag>
 </kommentar>
@@ -8605,6 +8610,16 @@ Die Verf. weisen nach, dass <link ref="pope" linktext="false">Popes</link> Dicht
 <lemma>Lessing, <titel>Vermischte Schriften I</titel></lemma>
 <eintrag>
 Gotthold Ephraim Lessings <titel>vermischte Schriften.</titel> Erste Theil (Berlin: Voß 1771) [Biga&#x202F;136/97: „Lessing's vermischte Schriften, 1. Th. Berl. 771“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=wM7IkTHs5JcC">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="leuchsenring" type="neuzeit">
+<lemma>Franz Michael Leuchsenring</lemma>
+<eintrag>1746–1826. Hess.-darmstädt. Hofrat, 1769–71 Hofmeister des Erbprinzen v. Hessen-Darmstadt in Leiden, 1784 Lehrer von Friedrich Wilhelm II. in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118572172.html#ndbcontent">Feilchenfeldt, Konrad: Leuchsenring, Franz Michael, in: <titel>NDB</titel>&#x202F;14 (1985), S.&#x202F;367f.</wwwlink>.</eintrag>
+<subsection id="leuchsenring-journal" type="neuzeit">
+<lemma>Leuchsenring, Journal de lecture</lemma>
+<eintrag><titel>Journal de lecture</titel> ou recueil pour les oisifs (12 Bde., Paris 1775–1781)
 </eintrag>
 </subsection>
 </kommentar>
@@ -10701,9 +10716,15 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 
 
 O
+
 <kommentar id="oberburggraf-amt" type="neuzeit">
 <lemma>Königliches Oberburggräfliches Amt in Konigsberg</lemma>
 <eintrag>Königliches Amt auf dem Königsberger Schloss mit diversen Befugnissen, u.a. der Aufsicht über die Universität und einige Vormundschaftsangelegenheiten. Vorstehend war ab 1753 der Oberburggraf und geheime Etatsminister Jakob Friedrich von Rohd (1703–1784), in seiner Abwesenheit von 1763–1772 wurde er bis 1768 von <link ref="braxein" linktext="true" /> vertreten, darauf von Friedrich Gottfried von der Gröben (1726–1799). Die Titulatur des Oberburggrafen leitet sich aus dem alten Herzogtum Preußen ab, 1781/82 wurde es mit verschiedenen Kollegien in der <link ref="provinzialregierung" linktext="false">Ostpreußischen Regierung</link> zusammengefasst. Vgl. Ludwig Baczko: Versuch einer Geschichte und Beschreibung der Stadt Königsberg, 7 Bde. Königsberg 1787–1790, IV, S.&#x202F;327f.</eintrag>
+</kommentar>
+
+<kommentar id="oesfeld" type="neuzeit">
+<lemma>Gotthelf Friedrich Oesfeld</lemma>
+<eintrag>1735–1801. Pastor und Lokalhistoriker in Lößnitz, siehe <wwwlink address="https://d-nb.info/gnd/136033636">DNB</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="oest" type="neuzeit">
