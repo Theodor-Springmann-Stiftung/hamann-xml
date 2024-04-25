@@ -4966,6 +4966,11 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <eintrag>
 <titel>Von Deutscher Baukunst</titel>, in: <link ref="herder" subref="herder-deutsch" linktext="true" />, 119–136.</eintrag>
 </subsection>
+<subsection id="goethe-goetz" type="neuzeit" sort="15">
+<lemma>[anonym], <titel>Götz von Berlichingen</titel></lemma>
+<eintrag>
+<titel>Götz von Berlichingen mit der eisernen Hand</titel> (1773). Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/goethe_goetz_1773">HAB Wolfenbüttel: M: Lo 2078</wwwlink>.</eintrag>
+</subsection>
 <subsection id="goethe-clavigo" type="neuzeit" sort="20">
 <lemma>Goethe, <titel>Clavigo</titel></lemma>
 <eintrag>
@@ -4977,6 +4982,8 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <titel>Die Leiden des jungen Werthers</titel> (Leipzig 1774) [Biga&#x202F;158/479: „Leyden des jungen Werthers, Freyst. 775“]. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/goethe_werther02_1774">Deutsches Textarchiv</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
+
+
 
 <kommentar id="goettingische-anzeigen" type="neuzeit">
 <lemma>Göttingische Anzeigen von gelehrten Sachen</lemma>
