@@ -2112,7 +2112,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 <subsection id="busching-weltgeschichte" type="neuzeit" sort="30">
 <lemma>Büsching, <titel>Einleitung zur Allgemeinen Weltgeschichte</titel></lemma>
-<eintrag><titel>Einleitung zur Allgemeinen Weltgeschichte</titel> in welcher von der Geschichte überhaupt, von der mathematischen und historischen Zeitrechnung, und von der mathematischen und natürlichen Erdbeschreibung, gründlich gehandelt wird. Mit einer Vorrede begleitet von D. Anton Büsching (2 Bde., Berlin 1769). Digitalisat: Tl. 1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-729983">Halle</wwwlink>.</eintrag>
+<eintrag><titel>Einleitung zur Allgemeinen Weltgeschichte</titel> in welcher von der Geschichte überhaupt, von der mathematischen und historischen Zeitrechnung, und von der mathematischen und natürlichen Erdbeschreibung, gründlich gehandelt wird. Mit einer Vorrede begleitet von D. Anton Büsching (2 Bde., Berlin 1769). Digitalisat: Tl. 1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-729983">UB Halle: AB B 7285 (1)</wwwlink>.</eintrag>
+</subsection>
+<subsection id="busching-nachrichten" type="neuzeit" sort="40">
+<lemma>Büsching, <titel>Wöchentliche Nachrichten</titel></lemma>
+<eintrag>D. Anton Friedrich Büschings Königl. Preuß. Oberconsistorialraths, auch Directors des vereinigten Berlinischen und Cölnischen Gymnasii <titel>Wöchentliche Nachrichten von neuen Landcharten, geographischen, statistischen und historischen Büchern und Sachen</titel> (12 Bde., Berlin: Haude und Spener 1773–1785). Digitalisat: Tl. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10429060-2">BSB München: Res/Geo.u. 53 l-1</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -5820,7 +5824,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-h" type="neuzeit" sort="595">
 <lemma>Hamann, <titel>Neue Apologie des Buchstaben h</titel></lemma>
 <eintrag>
-<titel>Neue Apologie des Buchstaben h</titel> Oder: Ausserordentliche Betrachtungen über die Orthographie der Deutschen von H. S. Schullehrer (Zweite verbesserte Auflage, Pisa 1773). – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;89–108.
+<titel>Neue Apologie des Buchstaben h</titel> Oder: Ausserordentliche Betrachtungen über die Orthographie der Deutschen von H. S. Schullehrer (Zweite verbesserte Auflage, Pisa 1773). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4603626">ULB Münster</wwwlink>. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;89–108.
 </eintrag>
 </subsection>
 <subsection id="hamann-prolegomena" type="neuzeit" sort="600">
@@ -8284,7 +8288,7 @@ L
 
 <kommentar id="lattre" type="neuzeit">
 <lemma>Nicolas Constantin de Lattre</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Geheimer Rat, später Finanzrat, Steuerfachmann im <link ref="generaldirektorium" linktext="true" /> in den späten 1760ern bis in die 1780er; richtete ab 1772 in Königsberg im Auftrag von <link ref="friedrich-II" linktext="true" /> die Preußische Seehandlungskompanie für den Salzhandel mit den annektierten, ehemals polnischen Gebieten ein, wurde aber bereits 1775 verabschiedet (zur Seehandelsgesellschaft vgl. <wwwlink address="	https://doi.org/10.25932/publishup-59252">Jürgen Luh: <titel>Das Jahr 1772,</titel> in: Monika Wienfort (Hg.): <titel>Die Preußische Seehandlung zwischen Markt, Staat und Kultur</titel> (Potsdam 2023), 9–24</wwwlink>).</eintrag>
+<eintrag>Lebensdaten nicht ermittelt. Geheimer Rat, später Finanzrat, frz. Steuerfachmann im <link ref="generaldirektorium" linktext="true" /> in den späten 1760ern bis in die 1780er; richtete ab 1772 in Königsberg im Auftrag von <link ref="friedrich-II" linktext="true" /> die <link ref="seehandlungskompanie" linktext="true" /> ein.</eintrag>
 </kommentar>
 
 <kommentar id="laubmeyer-jc" type="neuzeit">
@@ -13019,6 +13023,11 @@ Sinnbildern</titel> (Wolfenbüttel: Meißner 1763) [Biga&#x202F;88/216: „J. H.
 Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzgefaßte Reformations-Geschichte</titel>, hg.&#xA0;v. Christian Friedrich Junius u. Benjamin Lindner (Frankfurt u.a.: Hallisches Waysenhaus 1755). Digitalisat: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11092562-5">Regensburg, Staatliche Bibliothek -- 999/4Hist.eccl.310(1/2)</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="seehandlungskompanie" type="neuzeit">
+<lemma>Königlich Preußische Seehandlungskompanie</lemma>
+Gegründet im Oktober 1772 von <link ref="friedrich-II" linktext="true" /> für den Salzhandel mit den annektierten, ehemals polnischen Gebieten; 1774 mit der Salzhandlungskompanie vereinigt. Ihr Sitz in Königsberg war neben Hamanns Haus am alten Graben 758 (vgl. <intlink letter="393" page="58" line="7" linktext="true" />), sie wurde zunächst geführt von <link ref="lattre" linktext="true" />. Siehe <wwwlink address="https://doi.org/10.25932/publishup-59252">Jürgen Luh: <titel>Das Jahr 1772,</titel> in: Monika Wienfort (Hg.): <titel>Die Preußische Seehandlung zwischen Markt, Staat und Kultur</titel> (Potsdam 2023), 9–24</wwwlink>.
 </kommentar>
 
 <kommentar id="seligmann" type="neuzeit">
