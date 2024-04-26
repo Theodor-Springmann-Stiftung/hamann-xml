@@ -4999,9 +4999,9 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <titel>Von Deutscher Baukunst</titel>, in: <link ref="herder" subref="herder-deutsch" linktext="true" />, 119–136.</eintrag>
 </subsection>
 <subsection id="goethe-goetz" type="neuzeit" sort="15">
-<lemma>[anonym], <titel>Götz von Berlichingen</titel></lemma>
+<lemma>Goethe, <titel>Götz von Berlichingen</titel></lemma>
 <eintrag>
-<titel>Götz von Berlichingen mit der eisernen Hand</titel> (1773). Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/goethe_goetz_1773">HAB Wolfenbüttel: M: Lo 2078</wwwlink>.</eintrag>
+<titel>Götz von Berlichingen</titel> mit der eisernen Hand. Ein Schauspiel (anonym, 1773). Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/goethe_goetz_1773">HAB Wolfenbüttel: M: Lo 2078</wwwlink>.</eintrag>
 </subsection>
 <subsection id="goethe-clavigo" type="neuzeit" sort="20">
 <lemma>Goethe, <titel>Clavigo</titel></lemma>
@@ -5855,6 +5855,12 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <titel>Neue Apologie des Buchstaben h</titel> Oder: Ausserordentliche Betrachtungen über die Orthographie der Deutschen von H. S. Schullehrer (Zweite verbesserte Auflage, Pisa 1773). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4603626">ULB Münster</wwwlink>. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;89–108.
 </eintrag>
 </subsection>
+<subsection id="hamann-herder-litteraturannalen" type="neuzeit" sort="596">
+<lemma>Hamann und Herder, <titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773</titel></lemma>
+<eintrag>
+<titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773.</titel> In: <link ref="kgpz" linktext="true" />, Beilage zum 10., 12. und 14. St., 3., 10. und 17. Februar 1774 (verschollener Jahrgang). Nachdruck verfügbar in <wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb11045682_00525_u001/1">Rudolf Haym: Wiedergefundene Blätter zu Herders Schriften. In: Im neuen Reich 3,2 (1873), S.&#x202F;516–524</wwwlink>; zu den Hintergründen von Herders Rezension, deren Anfang und Ende von Hamann hinzugefügt wurde, und deren handschriftliche Vorlage von Herder sich ebenso erhalten hat, vgl. <wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb11045682_00525_u001/1">ebd., 513–515</wwwlink> und <wwwlink address="https://archive.org/details/herdernachseine00haymgoog/page/598/mode/2up">Rudolf Haym: Herder nach seinem Leben und seinen Werken dargestellt, I, S.&#x202F;598</wwwlink>; ebenso vollständig abgedruckt in SWS V, S.&#x202F;258–270, zum Abdruck vgl. ebd., S.&#x202F;xxii, ebenso die Anmerkungen ebd., 723–727; nur Hamanns Anteile abgedruckt in N&#x202F;IV, S.&#x202F;385 (vgl. S.&#x202F;491), ebenso in Roth VIII/1, S.&#x202F;248–251
+</eintrag>
+</subsection>
 <subsection id="hamann-prolegomena" type="neuzeit" sort="600">
 <lemma>Hamann, <titel>Prolegomena</titel></lemma>
 <eintrag>
@@ -6369,6 +6375,12 @@ Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffen
 <titel>Von Deutscher Art und Kunst.</titel> Einige fliegende Blätter (Hamburg: Bode 1773) [Biga&#x202F;83/128 und 103/113: „Von deutscher Art und Kunst, Hamb. 773“; außerdem 172/534: „Von deutscher Art und Kunst, Hamb. 773. Donum EDITORIS.“]. Darin von Herder: <titel>Auszug aus einem Briefwechsel über Ossian und die Lieder alter Völker,</titel> S.&#x202F;1–70; außerdem: <titel>Shakespear,</titel> S. 71- 118. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/herder_artundkunst_1773">Deutsches Textarchiv</wwwlink>. – SWS,&#x202F;V, S.&#x202F;157–257.
 </eintrag>
 </subsection>
+<subsection id="herder-hamann-litteraturannalen" type="neuzeit" sort="140">
+<lemma>Hamann und Herder, <titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773</titel></lemma>
+<eintrag>
+Vgl. <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true" />.
+</eintrag>
+</subsection>
 <subsection id="herder-altesteurkunde" type="neuzeit" sort="200">
 <lemma>Herder, <titel>Älteste Urkunde</titel></lemma>
 <eintrag>
@@ -6614,7 +6626,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="hinz" type="neuzeit">
 <lemma>Jakob Friedrich Hinz</lemma>
-<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; übernahm 1769 für kurze Zeit die Mitauer Buchhandlung Hartknochs; ab 1771/72 selbständiger Buchhändler und Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach Bankrott 1779 auf Reisen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>. Seine Bücher waren schon im 18. Jh. kaum erreichbar.</eintrag>
+<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; kaufte 1769 mit <link ref="steidel" linktext="true" /> die Mitauer Buchhandlung <link ref="hartknoch" linktext="true">Hartknochs</link>; ab 1771/72 selbständiger Buchhändler und Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach Bankrott 1779 als Hofmeister auf Reisen, Notar, Landgerichtsrat in Pilten, 1785 Notar und Stadtsekretär in Pernau. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>. Seine Bücher waren schon im 18. Jh. kaum erreichbar.</eintrag>
 <subsection id="hinz-galimafreen" type="neuzeit" sort="10">
 <lemma>Hinz [mit <link ref="hippel" linktext="true" />], <titel>Galimafreen</titel></lemma>
 <eintrag>
@@ -12680,7 +12692,17 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>1723–1788 Preuß. Etatsminister und Präsident des <link ref="pupillenkollegium" linktext="true" />.</eintrag>
 </kommentar>
 
-<kommentar id="schloezer" type="neuzeit">
+<kommentar id="schlosser" type="neuzeit">
+<lemma>Johann Georg Schlosser</lemma>
+<eintrag>1739–1799. Jurist und Schriftsteller, Schwager <link ref="goethe" linktext="false">Goethes</link> und Rezensent in <link ref="frankfurter-gelehrte-anzeigen" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz38649.html#ndbcontent">Kraus, Hans-Christof: Schlosser, Johann Georg, in: <titel>NDB</titel>&#x202F;23 (2007), S.&#x202F;101f.</wwwlink></eintrag>
+<subsection id="schlosser-katechismus" type="neuzeit">
+<lemma>Schlosser, <titel>Katechismus</titel></lemma>
+<eintrag>
+<titel>Katechismus der Sittenlehre für das Landvolk</titel> (Frankfurt am Main: Eichenbergs Erben 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bsz:14-db-id3209336366">SLUB Dresden</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="schlozer" type="neuzeit">
 <lemma>August Ludwig Schlözer</lemma>
 <eintrag>1735–1809. Göttinger Historiker und Staatsrechtler, 1761–1770 in Russland u.a. als Adjunkt der Petersburger Akademie der Wissenschaften, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118608339.html#ndbcontent">Fleischer, Dirk: Schlözer, August Ludwig von, in: <titel>NDB</titel>&#x202F;23 (2007), S.&#x202F;98f.</wwwlink></eintrag>
 <subsection id="schloezer-nordischegeschichte" type="neuzeit" sort="10">

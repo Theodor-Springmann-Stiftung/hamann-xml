@@ -7267,9 +7267,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="380">
-        <date value="13. Oktober 1772" />
+        <date value="Königsberg, 13. Oktober 1772" />
         <sort value="1772-10-13" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -7343,9 +7343,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="384">
-        <date value="24. Januar 1773" />
+        <date value="Königsberg, 24. Januar 1773" />
         <sort value="1773-01-24" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -7533,8 +7533,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="394">
-        <date value="September 1773" />
-        <sort value="1773-09-01" notBefore="1773-09-01" notAfter="1773-09-30" />
+        <date value="Zwischen Ende August und Mitte November 1773" />
+        <sort value="1773-09-01" notBefore="1773-08-28" notAfter="1773-11-13" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
