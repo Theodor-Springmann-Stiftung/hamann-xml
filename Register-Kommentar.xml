@@ -5323,7 +5323,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 
 <kommentar id="guichard" type="neuzeit">
 <lemma>Karl Theophil Guichard</lemma>
-<eintrag>1724–1775. Auch Quintus Icilius genannt. Gesellschafter Friedrichs II. v. Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz24609.html#adbcontent">Poten, Bernhard von: Guichard, Karl Theophil, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;104–106</wwwlink>.</eintrag>
+<eintrag>1724–1775. Auch Quintus Icilius genannt. Antiker Militärhistoriker, 1758 Major im Dienste <link ref="friedrich-ii" linktext="true">Friedrichs II.</link>, später dessen Gesellschafter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz24609.html#adbcontent">Poten, Bernhard von: Guichard, Karl Theophil, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;104–106</wwwlink>.</eintrag>
 <subsection id="guichard-memoires" type="neuzeit" sort="10">
 <lemma>Guichard, <titel>Mémoires militaires sur les Grecs et les Romains</titel></lemma>
 <eintrag>
@@ -5883,6 +5883,12 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <lemma>Hamann, <titel>Versuch einer Sibylle über die Ehe</titel></lemma>
 <eintrag>
 <titel>Versuch einer Sibylle über die Ehe</titel> ([Riga: Hartknoch] 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040781-2">München, Bayerische Staatsbibliothek: -- Ph.pr. 623 ci</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="hamann-zweifel" type="neuzeit" sort="680">
+<lemma>Hamann, <titel>Zweifel und Einfälle über eine Vermischte Nachricht</titel></lemma>
+<eintrag>
+<titel>Zweifel und Einfälle über eine Vermischte Nachricht der allgemeinen deutschen Bibliothek</titel> ([Riga: Hartknoch] 1776). Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;171–196.
 </eintrag>
 </subsection>
 <subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort="700">
@@ -12830,6 +12836,11 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <eintrag>
 <titel>Lexicon manuale GraecoLatinum et LatinoGraecum, utrumque hac quinta editione multo auctius, praesertim quod ad dialectos &amp; etymologicas thematum investigationes attinet; ut &amp; vocabul. Latinorum copiam. Ad calcem adjecta sunt, sententiae GraecoLatine, [...] Item tractatus duo alter de resolutione verborum</titel> (Augsburg 1661/70).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="schroder-h" type="neuzeit">
+<lemma>Heinrich Schröder</lemma>
+<eintrag>Der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />. Bezieht sich sehr wahrscheinlich auf keine reale Person, Nadler (etwa N&#x202F;VI,343 „Schröder, Heinrich, zu Hs. Zeit, Schulmeister in der Königsberger Weißgerbergasse“) hält ihn aber für real. Nachweis der historischen Person außerhalb von Maskenspielen bei Hamann bisher nicht gelungen (weder Adressbuch 1770 noch Baczko, keine Bücher noch sonst irgendetwas). Kommt ziemlich häufig vor, neben <link ref="hamann" subref="hamann-h" linktext="true" /> v.a. in Hamann, <titel>Zweifel und Einfälle über eine vermischte Nachricht</titel>, in N&#x202F;III,174/23ff. gibts sogar eine Liste seiner Schriften (aber wohl alle ausgedacht); die folgende Aussage sollte einen stark an der wirklichen Existenz des Schullehrers zweifeln lassen: „Da sich aber ein Geistlicher in Schwaben ausdrücklich zur Beylage der sokratischen Denkwürdigkeiten bekannt hat, auch das wirkliche Daseyn des Schullehrers, nach den Beylagen meines gegenwärtigen Schreibens, unleugbar ist […]“; Nadler verweist auch auf eine Klotz-Rezension in den KGPZ (N&#x202F;IV,319/19, „Hauptstelle“): das ist als Beleg aber hinfällig, es wird nur ein „Schulmeister“ erwähnt, kein Schröder, auch dessen pädagogische Theorie könnte von sonst wem oder von Hamann selbst stammen?!?</eintrag>
 </kommentar>
 
 <kommentar id="schroder-he" type="neuzeit">

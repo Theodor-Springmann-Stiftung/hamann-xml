@@ -26693,7 +26693,7 @@ Brief Nr. 234
 </marginal>
 
 <marginal letter="234" page="170" line="15">
-<bzg>Guischardt</bzg> <link ref="guichard" linktext="true" />
+<bzg>Guischardt…</bzg> <link ref="guichard" linktext="true" />; einer populären Anekdote über <link ref="friedrich-II" linktext="false">Friedrich II.</link> zufolge erwähnte er 1758 in einer Gesprächsrunde den Centurio ‚Quintus Icilius‘ lobend und wurde von Guichard korrigiert, er habe Quintus Caecilius geheißen; daraufhin habe Friedrich bestimmt, Guichard solle fortan Quintus Icilius heißen, unter welchem Namen er ein Majorspatent bekam
 </marginal>
 
 <marginal letter="234" page="170" line="20">
@@ -47545,11 +47545,11 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="50" line="28" sort="2">
-<bzg>Mäcänen</bzg> <link ref="maecenas" linktext="true" />
+<bzg>Mäcänen</bzg> <link ref="maecenas" linktext="true" />, vgl. <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, 315/7; gemeint ist mglw. <link ref="guichard" linktext="true" />, vgl. <intlink letter="395" page="62" line="4" linktext="true" />
 </marginal>
 
 <marginal letter="390" page="50" line="28" sort="3">
-<bzg>Augusten</bzg> <link ref="augustus" linktext="true" />
+<bzg>Augusten</bzg> <link ref="augustus" linktext="true" />, gemeint ist wohl <link ref="friedrich-II" linktext="true" />, vgl. <link ref="hamann" subref="hamann-salomon" linktext="true" />, N&#x202F;III,57/39
 </marginal>
 
 <marginal letter="390" page="50" line="29">
@@ -48051,7 +48051,7 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="59" line="5">
-<bzg>Henrich Schröders</bzg> der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />, vgl. <intlink letter="396" page="63" line="5" linktext="true" />
+<bzg>Henrich Schröders</bzg> der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />, vgl. <link ref="schroder-h" linktext="true" />
 </marginal>
 
 <marginal letter="393" page="59" line="9">
@@ -48218,10 +48218,42 @@ Brief Nr. 394
 
 Brief Nr. 395
 
+<marginal letter="395" page="61" line="32">
+<bzg>deux billets-doux</bzg> Weder Hamanns Briefe noch andere von Guichard sind überliefert. Hamann führte den Briefwechsel nach der zweiten Auflage von <link ref="hamann" subref="hamann-lettreperdue" linktext="true" /> vom August 1773, deren zweiter Zusatz an Quintus Icilius (Guichard) gerichtet ist; offenbar noch immer im Zusammenhang seiner Publikationsversuche von <link ref="hamann" subref="hamann-salomon" linktext="true" />.
+</marginal>
+
+<marginal letter="395" page="61" line="37">
+<bzg>mage du Nord</bzg> vgl. <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, N&#x202F;II,315/12
+</marginal>
+
+<marginal letter="395" page="62" line="1">
+<bzg>ouvrages de tactique</bzg> wohl <link ref="guichard" subref="guichard-memoires" linktext="true" />
+</marginal>
+
+<marginal letter="395" page="62" line="4" sort="1">
+<bzg>Mecéne</bzg> nach <link ref="maecenas" linktext="true" />
+</marginal>
+
+<marginal letter="395" page="62" line="4" sort="2">
+ <bzg>L’Auguste</bzg> <link ref="augustus" linktext="true" />, gemeint ist <link ref="friedrich-II" linktext="true" />, vgl. <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, N&#x202F;II,315/9
+</marginal>
+
+<marginal letter="395" page="62" line="8">
+<bzg>Ecce</bzg> dt. siehe; gemeint ist das „Tableau de mes Finances“ <link ref="hamann" subref="lettreperdue" linktext="true" />, N&#x202F;II,307/1
+</marginal>
+
+<marginal letter="395" page="62" line="10">
+<bzg>Le Salomon du Nord</bzg> <link ref="friedrich-II" linktext="true" />, nach <link ref="hamann" subref="hamann-salomon" linktext="true" />
+</marginal>
+
+<marginal letter="395" page="62" line="15">
+<bzg>debrouiller les origines de votre Patrie </bzg> nicht ermittelt?!?
+</marginal>
+
 Brief Nr. 396
 
 <marginal letter="396" page="62" line="23">
-<bzg>Merk</bzg> <link ref="merck" linktext="true" /> [Henkel »auf der Rückreise Mercks aus St. Petersburg, im reduzierten Gefolge der hessischen Langräfin Karoline, die im Sommer vorigen Jahres mit ihren drei Töchtern und einem großen Gefolge zu einer anderen Brautschau an den Hof Katharinas II. gereist war, was dann auch zu einer Verlobung der Prinzessin Wilhelmine mit Katharinas Sohn, dem Großfürsten Paul führte, vgl die (kritisch zu lesende) Biographie von H. PRANG, Johann Heinrich Merck, 1949, bes. S. 88ff.« – bei Schübler schauen]
+<bzg>Merk</bzg> <link ref="merck" linktext="true" /> [Henkel »auf der Rückreise Mercks aus St. Petersburg, im reduzierten Gefolge der hessischen Langräfin Karoline, die im Sommer vorigen Jahres mit ihren drei Töchtern und einem großen Gefolge zu einer anderen Brautschau an den Hof Katharinas II. gereist war, was dann auch zu einer Verlobung der Prinzessin Wilhelmine mit Katharinas Sohn, dem Großfürsten Paul führte, vgl die (kritisch zu lesende) Biographie von H. PRANG, Johann Heinrich Merck, 1949, bes. S. 88ff.« – bei Schübler schauen?!?]
 </marginal>
 
 <marginal letter="396" page="62" line="24">
@@ -48229,7 +48261,7 @@ Brief Nr. 396
 </marginal>
 
 <marginal letter="396" page="62" line="25">
-<bzg>Ziegenpropheten in Norden</bzg> Mischung aus Magus in Norden und dem lokalen Emeriten Komarnicki, über den Hamann und <link ref="kant" linktext="true" /> 1764 in den <link ref="kant" linktext="true" /> schrieben, vgl. <intlink letter="257" page="235" line="33" linktext="true" />
+<bzg>Ziegenpropheten in Norden</bzg> Mischung aus Magus in Norden und dem lokalen Emeriten Komarnicki, über den Hamann und <link ref="kant" linktext="false">Kant</link> 1764 in den <link ref="kgpz" linktext="true" /> schrieben, vgl. <intlink letter="257" page="235" line="33" linktext="true" />
 </marginal>
 
 <marginal letter="396" page="62" line="28">
@@ -48237,7 +48269,7 @@ Brief Nr. 396
 </marginal>
 
 <marginal letter="396" page="62" line="31">
-<bzg>Chef d’œuvre…Männlein oder Fräulein</bzg> vgl. <intlink letter="294" page="61" line="25" linktext="true" />
+<bzg>Chef d’œuvre…Männlein oder Fräulein</bzg> vgl. <intlink letter="394" page="61" line="25" linktext="true" />
 </marginal>
 
 <marginal letter="396" page="63" line="1">
@@ -48250,6 +48282,22 @@ Brief Nr. 396
 
 <marginal letter="396" page="63" line="3">
 <bzg>Herderschen Solöcismen</bzg> vmtl. die Rezension von <link ref="herder" subref="herder-ursprung" linktext="true" /> in <link ref="allgemeine-deutsche-bib" linktext="true" />, 19.&#x202F;Bd., 1.&#x202F;St. (1773), S.&#x202F;339–451
+</marginal>
+
+<marginal letter="396" page="63" line="5">
+<bzg>Henrich Schröder</bzg> der fingierte Erzähhler von <link ref="hamann" subref="hamann-h" linktext="true" />, vgl. <link ref="schroder-h" linktext="true" />; Nadler&#x202F;VI,
+</marginal>
+
+<marginal letter="396" page="63" line="6" sort="1">
+<bzg>Weißgerbergaße</bzg> fingierter Wohnort von <link ref="schroder-h" linktext="true" />; tatsächliche Gasse in Königsberg, zwischen Rossgartschem Markt und Schlossteich; <link ref="hamann-jm" linktext="true" /> kam dort zur Welt (vgl. N&#x202F;III,343/2)
+</marginal>
+
+<marginal letter="396" page="63" line="6" sort="2">
+<bzg>Pisa in Preußen</bzg> Pisa ist der fingierte Druckort von <link ref="hamann" subref="hamann-h" linktext="true" />
+</marginal>
+
+<marginal letter="396" page="63" line="9">
+<bzg>einäugichte Cyclope</bzg> wiederholte Eigenschaft von <link ref="schroder-h" linktext="true" />, vgl. <link ref="hamann" subref="hamann-zweifel" linktext="true" />, N&#x202F;III,185/1
 </marginal>
 
 Brief Nr. 414
@@ -49503,7 +49551,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="19">
-<bzg>Apologie des H</bzg> <link ref="hamann" subref="hamann-h" linktext="true" /> 
+<bzg>Apologie des H</bzg> <link ref="hamann" subref="hamann-h" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="20">
