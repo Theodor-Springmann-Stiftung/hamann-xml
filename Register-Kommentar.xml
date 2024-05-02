@@ -111,6 +111,17 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 </subsection>
 </kommentar>
 
+<kommentar id="adelung" type="neuzeit">
+<lemma>Johann Christoph Adelung</lemma>
+<eintrag>1732–1806. Sprach- und Kulturhistoriker, Lexikograph und Übersetzer, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz239.html#ndbcontent">Basler, Otto: Adelung, Johann Christoph, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;63–65</wwwlink>.
+</eintrag>
+<subsection id="adelung-worterbuch" type="neuzeit">
+<lemma>Adelung, <titel>Grammatisch-kritisches Wörterbuch der Hochdeutschen Mundart</titel></lemma>
+<eintrag>
+<titel>Versuch eines vollständigen grammatisch-kritischen Wörterbuches der Hochdeutschen Mundart,</titel> mit beständiger Vergleichung der übrigen Mundarten, besonders aber der oberdeutschen (5 Bde., Leipzig: Breitkopf 1774–1786) [Biga&#x202F;130/8: „J. C. Adelung’s Wörterbuch der hochdeutschen Mundart, 1 Th. Leipz. 774“ und Biga&#x202F;131/27: „Adelungs Wörterbuch, Th. 1. Leipz. 774“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523232-5">BSB München: 4 L.germ. 1-1.</wwwlink></eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="aderkas" type="neuzeit">
 <lemma>Georg Dietrich v. Aderkas</lemma>
 <eintrag>Schwiegersohn der <link ref="budberg-bh" linktext="true" />.
@@ -5864,7 +5875,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-prolegomena" type="neuzeit" sort="600">
 <lemma>Hamann, <titel>Prolegomena</titel></lemma>
 <eintrag>
-<titel>Christiani Zacchaei Telonarchae προλεγομενα über die neueste Auslegung der ältesten Urkunde des menschlichen Geschlechts.</titel> In zweyen Antwortschreiben an Apollonium Philosophum (1774 [Hamburg: Bode]). – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
+<titel>Christiani Zacchaei Telonarchae προλεγομενα über die neueste Auslegung der ältesten Urkunde des menschlichen Geschlechts.</titel> In zweyen Antwortschreiben an Apollonium Philosophum (1774 [Hamburg: <link ref="bode-jjc" linktext="false">Bode</link>]). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4606584?query=hamann%20prolegomena">ULB Münster</wwwlink>. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 </eintrag>
 </subsection>
 <subsection id="hamann-kermes" type="neuzeit" sort="610">
@@ -12759,6 +12770,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>
 M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachrichten von den besten Dichtern</titel> (4 Bde., Leipzig 1768/1769) ]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10812780-0">BSB München: L.eleg.g. 357-2,1/4</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="schmidlin" type="neuzeit">
+<lemma>Johann Joseph Schmidlin</lemma>
+<eintrag>1728–1779. Hamburger Lexikograph, siehe <wwwlink address="https://d-nb.info/gnd/1012302644">DNB</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="schon" type="neuzeit">
