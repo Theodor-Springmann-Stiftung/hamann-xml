@@ -5888,7 +5888,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-zweifel" type="neuzeit" sort="680">
 <lemma>Hamann, <titel>Zweifel und Einfälle über eine Vermischte Nachricht</titel></lemma>
 <eintrag>
-<titel>Zweifel und Einfälle über eine Vermischte Nachricht der allgemeinen deutschen Bibliothek</titel> ([Riga: Hartknoch] 1776). Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;171–196.
+<titel>Zweifel und Einfälle über eine Vermischte Nachricht der allgemeinen deutschen Bibliothek</titel> ([Riga: Hartknoch] 1776). Digitalisat: <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/titleinfo/4605882">ULB Münster</wwwlink>. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;171–196.
 </eintrag>
 </subsection>
 <subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort="700">
@@ -7651,7 +7651,7 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 
 <kommentar id="kortum" type="neuzeit">
 <lemma>Ernst Traugott Kortum</lemma>
-<eintrag>1742–1811. Beamter und Schriftsteller. 1761–1766 Studium in Königsberg, u.a. bei Kant; darauf Referendar im <link ref="oberburggraf-amt" linktext="false">Königsberger Oberburggrafenamt</link>. 1771 Hofrat in Schleswig-Holstein, 1772 Geheimer Staatssektretär in Mitau, 1775 Geheimer Staatssekretär in Warschau. Hamann kennt ihn aus Mitau 1766, wo sie „genaue Freunde“ (<intlink letter="370" page="1" line="4" linktext="true" />) wurden. Siehe Christoph Mecking: Kurzbiographie Ernst Traugott von Kortum (1742–1811). In: Dietmar Willoweit (Hg.): Staatsschutz (Aufklärung, Bd. 7, 2). Hamburg 1994, S. 101f.</eintrag>
+<eintrag>1742–1811. Beamter und Schriftsteller. 1761–1766 Studium in Königsberg, u.a. bei Kant; darauf Referendar im <link ref="oberburggraf-amt" linktext="false">Königsberger Oberburggrafenamt</link>. 1771 Hofrat in Schleswig-Holstein, 1772 Geheimer Staatssektretär in Mitau, 1774 Geheimer Staatssekretär in Warschau. Hamann kennt ihn aus Mitau 1766, wo sie „genaue Freunde“ (<intlink letter="370" page="1" line="4" linktext="true" />) wurden. Siehe Christoph Mecking: Kurzbiographie Ernst Traugott von Kortum (1742–1811). In: Dietmar Willoweit (Hg.): Staatsschutz (Aufklärung, Bd. 7, 2). Hamburg 1994, S. 101f.</eintrag>
 </kommentar>
 
 <kommentar id="keber" type="neuzeit">
@@ -11318,6 +11318,10 @@ Zu Hamanns Bezug auf diesen Text in den Briefen 1759: <link ref="ste-h-2016" lin
 <lemma>Plautus</lemma>
 <eintrag>Titus Maccius Plautus, 254–184 v. Chr., Röm. Komödiendichter.<line type="break" />
 Wiss. Ausg.: <titel>Plautus: Komödien. Lateinisch und deutsch</titel>, hrsg., übers. u. komm. von Peter Rau (6&#xA0;Bde.; Darmstadt 2007–2009).</eintrag>
+<subsection id="plautus-amphitruo" type="neuzeit">
+<lemma>Plaut. <titel>Amph.</titel></lemma>
+<eintrag><titel>Amphitruo</titel></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="plinius" type="neuzeit">
@@ -11431,6 +11435,18 @@ Dt. Übers. zitiert nach: Konrat Ziegler (Übers.), <titel>Plutarch: Große Grie
 <lemma>Polignac, <titel>Anti-Lucretius</titel></lemma>
 <eintrag>
 <titel>Anti-Lucretius sive de Deo et Natura Libri novem: opus posthumum, ill. abatis Caroli d’Orleans de Rothelin cura et studia edition mandatum</titel> (Paris 1747). [Biga&#x202F;147/286: „Melch. de Polignac Anti-Lucretius, Lips. 748“]. Digitalisat (Amsterdam: Rey 1748): <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11112245">SB Regensburg: 999/Philos.5318</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="pollux" type="neuzeit">
+<lemma>Iulius Pollux</lemma>
+<eintrag>Gr. Ιούλιος Πολυδεύκης, 2./3. Jh. n.&#x202F;Chr., griechischer Gelehrter.
+</eintrag>
+<subsection id="pollux-onomasticon" type="neuzeit">
+<lemma>Polydeukes, <titel>Onomasticon</titel></lemma>
+<eintrag>
+<titel>Πολυδεύκους ονομαστικον εν βιβλιοις δεκα. Ivilii Pollvcis onomasticon decem (Frankfurt am Main 1608) [Biga&#x202F;147/286: „Julii Pollucis Onomasticon gr. &#x26; lat. ex ed. Seberi, Fr. 608“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10216290-7">BSB München: 4 A.gr.b. 1162</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11551,6 +11567,17 @@ Dt. Übers. zitiert nach: Konrat Ziegler (Übers.), <titel>Plutarch: Große Grie
 <eintrag>
 <titel>Apologie de Monsieur l’Abbe de Prades</titel> (Amsterdam 1753) [Biga&#x202F;126/410: „Apologie de Mr. l’Abbe de Prades, Part. I. II. III. Amst. 753.“]. Digitalisat, 3.&#xA0;Tl.: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10065960-8">BSB München: Biogr. 922-1/3</wwwlink>.<line type="break" /> 
 In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Dissertation enthalten (These soutenue en Sorbonne le 18 Nov.1751 lat. u. frz.), der dritte ist von Diderot geschrieben (mit dem Untertitel: <titel>Suite de l’Apologie … ou Réponse à l’Instruction Pastorale de M. l’Evêque d’Auxerre</titel>).
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="pratje" type="neuzeit">
+<lemma>Johann Hinrich Pratje</lemma>
+<eintrag>1710–1791. Historiker und Superintendent der Herzogtümer Bremen und Verden, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz97121.html#adbcontent">Krause: Pratje, Johann Hinrich, in: <titel>ADB</titel>&#x202F;26 (1888), S.&#x202F;510–512</wwwlink>.</eintrag>
+<subsection id="pratje-bemuhungen" type="neuzeit">
+<lemma>Pratje, <titel>Bemühungen</titel></lemma>
+<eintrag>
+<titel>Brem- und Verdische Bemühungen,</titel> die Bekenner Jesu auf ihren allerheiligsten Glauben, Gott zur Ehre, durch schriftmäßige Predigten, zu erbauen. Zum Druck befördert von Johann Hinrich Pratje (4 Bde., Hamburg 1763–1765) [Biga&#x202F;51/540: „J. H. Pratje Brem- und Verdische Bemühungen Th. I–IV. Hamb. 763–65.“]. Digitalisat Bd. 1: <wwwlink address="https://nbn-resolving.de/urn/resolver.pl?urn=urn%3Anbn%3Ade%3Absz%3A25-digilib-145788">UB Freiburg i. Br.: O 2553-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11676,7 +11703,7 @@ Die Herabsetzung des Gehalts und eine allgemeinere Kritik Hamanns am französisc
 
 <kommentar id="putter" type="neuzeit">
 <lemma>Johann Stephan Pütter</lemma>
-<eintrag>1725–1807. Prof. für Jurisprudenz in Göttingen. <wwwlink address="https://www.deutsche-biographie.de/sfz75338.html#adbcontent">Frensdorff, Ferdinand: Pütter, Johann Stephan, in: <titel>ADB</titel>&#x202F;26 (1888), S.&#x202F;749–777</wwwlink>.
+<eintrag>1725–1807. Prof. für Jurisprudenz in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz75338.html#adbcontent">Frensdorff, Ferdinand: Pütter, Johann Stephan, in: <titel>ADB</titel>&#x202F;26 (1888), S.&#x202F;749–777</wwwlink>.
 </eintrag>
 <subsection id="staatsveraenderung" type="neuzeit">
 <lemma>Pütter, <titel>Grundriß der Staatsveränderungen des Teutschen Reichs</titel></lemma>
@@ -12840,7 +12867,7 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 
 <kommentar id="schroder-h" type="neuzeit">
 <lemma>Heinrich Schröder</lemma>
-<eintrag>Der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />. Bezieht sich sehr wahrscheinlich auf keine reale Person, Nadler (etwa N&#x202F;VI,343 „Schröder, Heinrich, zu Hs. Zeit, Schulmeister in der Königsberger Weißgerbergasse“) hält ihn aber für real. Nachweis der historischen Person außerhalb von Maskenspielen bei Hamann bisher nicht gelungen (weder Adressbuch 1770 noch Baczko, keine Bücher noch sonst irgendetwas). Kommt ziemlich häufig vor, neben <link ref="hamann" subref="hamann-h" linktext="true" /> v.a. in Hamann, <titel>Zweifel und Einfälle über eine vermischte Nachricht</titel>, in N&#x202F;III,174/23ff. gibts sogar eine Liste seiner Schriften (aber wohl alle ausgedacht); die folgende Aussage sollte einen stark an der wirklichen Existenz des Schullehrers zweifeln lassen: „Da sich aber ein Geistlicher in Schwaben ausdrücklich zur Beylage der sokratischen Denkwürdigkeiten bekannt hat, auch das wirkliche Daseyn des Schullehrers, nach den Beylagen meines gegenwärtigen Schreibens, unleugbar ist […]“; Nadler verweist auch auf eine Klotz-Rezension in den KGPZ (N&#x202F;IV,319/19, „Hauptstelle“): das ist als Beleg aber hinfällig, es wird nur ein „Schulmeister“ erwähnt, kein Schröder, auch dessen pädagogische Theorie könnte von sonst wem oder von Hamann selbst stammen?!?</eintrag>
+<eintrag>Der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />. Bezieht sich sehr wahrscheinlich auf keine reale Person, Nadler (etwa N&#x202F;VI,343 „Schröder, Heinrich, zu Hs. Zeit, Schulmeister in der Königsberger Weißgerbergasse“) hält ihn aber für real. Nachweis der historischen Person außerhalb von Maskenspielen bei Hamann nicht ermittelt. Kommt ziemlich häufig vor, neben <link ref="hamann" subref="hamann-h" linktext="true" /> v.a. in <link ref="hamann" subref="hamann-zweifel" linktext="true" />; in N&#x202F;III,174/23ff. gibt es sogar eine fingierte Liste seiner Schriften; die folgende Aussage lässt einen aber stark an der wirklichen Existenz des Schullehrers zweifeln: „Da sich aber ein Geistlicher in Schwaben ausdrücklich zur Beylage der sokratischen Denkwürdigkeiten bekannt hat, auch das wirkliche Daseyn des Schullehrers, nach den Beylagen meines gegenwärtigen Schreibens, unleugbar ist […]“ (N&#x202F;III,174/18–21); Nadler verweist auch auf eine Klotz-Rezension in den KGPZ (N&#x202F;IV,319/19, „Hauptstelle“): das ist als Beleg aber hinfällig, es wird nur ein „Schulmeister“ erwähnt, kein Schröder, die referierte pädagogische Theorie könnte von irgendwem oder von Hamann selbst stammen.</eintrag>
 </kommentar>
 
 <kommentar id="schroder-he" type="neuzeit">
@@ -13685,8 +13712,9 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <lemma>Sterne, <titel>Tristram Shandy</titel></lemma>
 <eintrag>
 <titel>The Life and Opinions of Tristram Shandy, Gentleman.</titel> Bd. 1–2 London 1760; Bd. 3–4 1761/1762; Bd. 7–8 1765; Bd. 9 1767.<line type="break" />
-Übers.: <titel>Das Leben und die Meynungen des Herrn Tristram Shandy.</titel> 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763) [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“]. Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>.
-</eintrag>.
+1. zeitgenössische Übers. (Zückert): <titel>Das Leben und die Meynungen des Herrn Tristram Shandy.</titel> 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763) [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“]. Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>.<line type="break" />
+2. zeitgenössische Übers. (<link ref="bode-jjc" linktext="false">Bode</link>): Tristram Schandis Leben und Meynungen. Zwote verbesserte Auflage (9 Bde., Hamburg: Bohn 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750318-1">BSB München: P.o. angl. 402-1/3</wwwlink>.
+</eintrag>
 </subsection>
 <subsection id="sterne-sermons" type="neuzeit" sort="20">
 <lemma>Sterne, <titel>Sermons</titel></lemma>
