@@ -4063,6 +4063,9 @@ Weimar, Goethe- und Schiller-Archiv, GSA 44/56 (Bl. 1-2).
 Walther Ziesemer: Unbekannte Hamannbriefe. In: Altpreußische Forschungen 18 (1941), 291&#x2009;f.<line type="break" />
 ZH II 380, Nr. 332.
 </app>
+<app ref="6">
+<wwwlink address="https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:242370">Goethe- und Schiller-Archiv, GSA 44/56</wwwlink>
+</app>
 </letterTradition>
 
 
@@ -5764,11 +5767,14 @@ ZH III 64&#x2009;f., Nr. 397.
 
 <letterTradition letter="398">
 <app ref="4">
-Weimar, Goethe- und Schiller-Archiv, GSA 33/303, 3–8.
+Aus Goethes Autographensammlung. Weimar, Goethe- und Schiller-Archiv, GSA 33/303, 3–8.
 </app>
 <app ref="5">
 Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, V 46–54.<line type="break" />
 ZH III 66–69, Nr. 398.
+</app>
+<app ref="6">
+<wwwlink address="https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:228402">Goethe- und Schiller-Archiv, GSA 33/303, 3–8</wwwlink>
 </app>
 <app ref="10">
 <note>Vier Entwürfe. Provenienz: Originale verschollen. Letzter bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths Hamanniana], II 77:</note><line type="break" />
@@ -6159,11 +6165,14 @@ ZH III 70, Nr. 399.
 
 <letterTradition letter="400">
 <app ref="4">
-Weimar, Goethe- und Schiller-Archiv, GSA 33/303, 9–12.
+Aus Goethes Autographensammlung. Weimar, Goethe- und Schiller-Archiv, GSA 33/303, 9–12.
 </app>
 <app ref="5">
 Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, V 54–60.<line type="break" />
 ZH III 70–73, Nr. 400.
+</app>
+<app ref="6">
+<wwwlink address="https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:228402">Goethe- und Schiller-Archiv, GSA 33/303, 9–12</wwwlink>
 </app>
 <app ref="10">
 <note>Zwei Entwürfe. Provenienz: Originale verschollen. Letzter bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths Hamanniana], II 77:</note><line type="break" />
@@ -7839,6 +7848,9 @@ Staats- und Universitätsbibliothek Hamburg, NMC : 9 : 4.
 Hans Jessen (Hg.): Matthias Claudius, Briefe, 2 Bde, I: Briefe an Freunde, Berlin 1938, 223–227.<line type="break" />
 ZH III 326–329, Nr. 491a.
 </app>
+<app ref="6">
+<wwwlink address="https://resolver.sub.uni-hamburg.de/kitodo/HANSb28861">Staats- und Universitätsbibliothek Hamburg, NMC : 9 : 4</wwwlink>
+</app>
 </letterTradition>
 
 
@@ -8243,6 +8255,9 @@ Weimar, Goethe- und Schiller-Archiv, GSA 96/1051.
 </app>
 <app ref="5">
 ZH III 387&#x2009;f., Nr. 516a.
+</app>
+<app ref="6">
+<wwwlink address="https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:279111">Goethe- und Schiller-Archiv, GSA 96/1051</wwwlink>
 </app>
 </letterTradition>
 
@@ -9405,7 +9420,7 @@ Herders Briefe an Joh. Georg Hamann. Im Originaltext hg. von Otto Hoffmann. Berl
 ZH IV 76, Nr. 553.
 </app>
 <app ref="9">
-<note>Herder legte einen von ihm abgeschriebenen Auszug aus Luthers Tischreden bei (vgl. HKB 553 [IV 76/13–15]); Provenienz: Weimar, Goethe- und Schiller-Archiv, GSA 44/41:</note><line type="break" />
+<note>Herder legte einen von ihm abgeschriebenen Auszug aus Luthers Tischreden bei (vgl. <intlink letter="553" page="76" line="13" linktext="true" />); Provenienz: <wwwlink address="https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:12300">Weimar, Goethe- und Schiller-Archiv, GSA 44/41</wwwlink>, vgl. HBGA, IX, 274–276. Er lautet:</note><line type="break" />
 <ZHText>
 <page index="1" autopsic="1" />
 <line index="1" autopsic="1" />Sprüche, die Luther mit eigner Hand, theils Creuziger
