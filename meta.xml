@@ -22655,8 +22655,8 @@
         </ZHInfo>
       </letterDesc>
 	  	      <letterDesc letter="398a">
-	        <date value="Königsberg, vmtl. Dezember 1773" />
-	        <sort value="1773-12-30" notBefore="1773-12-01" notAfter="1773-12-31" cert="low" />
+	        <date value="Königsberg, vmtl. Anfang Dezember 1773" />
+	        <sort value="1773-12-30" notBefore="1773-12-01" notAfter="1773-12-10" />
 	        <location ref="2" />
 	        <senders>
 	          <sender ref="1" />
