@@ -936,6 +936,16 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 </subsection>
 </kommentar>
 
+<kommentar id="beckher" type="neuzeit">
+<lemma>Wilhelm Heinrich Beckher</lemma>
+<eintrag>1687–1753. Ostpreußischer lutherischer Theologe, siehe <wwwlink address="https://d-nb.info/gnd/141375728">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
+<subsection id="beckher-edicte" type="neuzeit">
+<lemma>Beckher, <titel>Kurzer Auszug aus denen vornehmsten Königlichen Preußischen Edicten und Verordnungen</titel></lemma>
+<eintrag>
+<titel>Kurzer Auszug aus denen vornehmsten Königlichen Preußischen Edicten und Verordnungen</titel> welche in Kirchen-Sachen in dem Königreich Preußen publiciret worden (Berlin 1731). 2. Aufl. fortgesetzt von <link ref="bock-fs" linktext="true" /> (Königsberg und Leipzig 1769); 1773 fortgesetzt von <link ref="borowski" linktext="true" /> (Königsberg 1773) [Biga&#x202F;180/19: „W. H. Beckher’s preuss. Kirchen-Registratur, Königsb. 769. Fortsetzung von L. F. Borowski, ib. 773“]. – Digitalisat der Ausgabe Königsberg und Leipzig 1769: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3236764993">SLUB Dresden: Hist.Pruss.190</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="behm" type="neuzeit">
 <lemma>Johannes Behm</lemma>
 <eintrag>1687–1753. Prof. der Theologie und griechischen Sprache in Königsberg, siehe <wwwlink address="https://d-nb.info/gnd/139457135">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
@@ -4427,7 +4437,7 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 </kommentar>
 
 <kommentar id="friedrich-II" type="neuzeit">
-<lemma>Friedrich II. v. Preußen</lemma>
+<lemma>Friedrich II.</lemma>
 <eintrag>1712–1786.<line type="break" />
 Gustav Berthold Volz, <titel>Die Werke Friedrichs des Großen. In deutscher Übersetzung</titel> (10&#xA0;Bde., Berlin 1913f.)</eintrag>
 <subsection id="fr-memoires" type="neuzeit" sort="10">
@@ -5833,7 +5843,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <subsection id="hamann-philologische-einfalle" type="neuzeit" sort="540">
 <lemma>Hamann, <titel>Philologische Einfälle</titel></lemma>
 <eintrag>
-<titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift.</titel> Entworfen vom Magus in Norden. Im Weinmonate 1772. – Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter-jj" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift, und in Kombination mit  <link ref="hamann" subref="hamann-salomon" linktext="true" />, vgl. <intlink letter="380" page="23" line="15" linktext="true" />; zur abenteuerlichen Geschichte des Manuskripts vgl. zusammenfassend N&#x202F;III, S.&#x202F;423, zur politischen Brisanz <link ref="nad-j-1949b" linktext="true" />, S.&#x202F;205f. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
+<titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift.</titel> Entworfen vom Magus in Norden. Im Weinmonate 1772. – Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter-jj" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift, in Kombination mit <link ref="hamann" subref="hamann-salomon" linktext="true" />, vgl. <intlink letter="380" page="23" line="15" linktext="true" />; im Frühjahr 1774 sandte Hamann das Manuskript an <link ref="moser" linktext="true" /> (<intlink letter="400" page="70" line="31" linktext="true" />), der es später an <link ref="herder" linktext="true" /> gab; zur abenteuerlichen Geschichte des Manuskripts vgl. zusammenfassend N&#x202F;III, S.&#x202F;423, zur politischen Brisanz <link ref="nad-j-1949b" linktext="true" />, S.&#x202F;205f. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. – Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
 </eintrag>
 </subsection>
 <subsection id="hamann-salomon" type="neuzeit" sort="550">
@@ -5894,6 +5904,12 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <lemma>Hamann, <titel>Übersetzung von Bolingbroke und Hervey</titel></lemma>
 <eintrag>
 <titel>Heinrich St. Johann Vitzgraf Bolingbroke und Jakob Hervey etc. etc.</titel> Übersetzt von J.&#x202F;G. Hamann (Mitau: <link ref="hinz" linktext="false">Hinz</link> 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136259-8">BSB München: Var. 686 a</wwwlink>. – Übersetzung von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" /> und <link ref="hervey" subref="hervey-remarks" linktext="true" /> (Vorwort bei N&#x202F;IV,441).
+</eintrag>
+</subsection>
+<subsection id="hamann-mancherley" type="neuzeit" sort="630">
+<lemma>Hamann, <titel>Mancherley, und Etwas</titel></lemma>
+<eintrag>
+<titel>Mancherley, und Etwas zur Bolingbroke- Hervey- Hunterschen Uebersetzung,</titel> von einem Recensenten trauriger Gestalt ([Hamburg: Bode] 1774). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00006AEF00000000">Stabi Berlin: Ag 7853</wwwlink>. Zitation nach dem Erstdruck, auch gedruckt bei N&#x202F;IV,443–447.
 </eintrag>
 </subsection>
 <subsection id="hamann-ehe" type="neuzeit" sort="650">
@@ -11937,7 +11953,18 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 
 <kommentar id="reichardt-jf" type="neuzeit">
 <lemma>Johann Friedrich Reichardt</lemma>
-<eintrag>1752–1814. Sohn von <link ref="reichardt-j" linktext="true" />, Musiker und Komponist, seit 1776 preuß. Kapellmeister in Berlin, oft auf Reisen: 1783 Schweiz, Italien, Wien, Hamburg, 1785 London, Paris</eintrag>
+<eintrag>1752–1814. Sohn von <link ref="reichardt-j" linktext="true" />, Musiker und Komponist, seit 1776 preuß. Kapellmeister in Berlin, oft auf Reisen: 1783 Schweiz, Italien, Wien, Hamburg, 1785 London, Paris.</eintrag>
+</kommentar>
+
+<kommentar id="reiche" type="neuzeit">
+<lemma>Carl Christoph Reiche</lemma>
+<eintrag>1739–1793. Prediger und Buchhändler, Begründer und Leiter der Dessauer Buchhandlung der Gelehrten, siehe <wwwlink address="https://d-nb.info/gnd/1073399214">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
+<subsection id="reiche-taufe" type="neuzeit">
+<lemma>Reiche, <titel>Die Taufe der Christen, ein ehrwürdiger Gebrauch, und kein Gesetz Christi</titel></lemma>
+<eintrag>
+<titel>Die Taufe der Christen, ein ehrwürdiger Gebrauch, und kein Gesetz Christi.</titel> Man muss mich aber recht verstehen und das Ganze von Anfang bis zu Ende lesen (Berlin und Leipzig: Decker 1774) [Biga&#x202F;32/249: „Die Taufe der Christen ein ehrwürdiger Gebrauch, und kein Gesetz Christi, Berl. 774.“]. Digitalisat, Bd.&#x202F;1: <wwwlink address="http://dx.doi.org/10.25673/66430">ULB Halle: AB 101782</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="reichel" type="neuzeit">
@@ -12762,10 +12789,15 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <kommentar id="schlozer" type="neuzeit">
 <lemma>August Ludwig Schlözer</lemma>
 <eintrag>1735–1809. Göttinger Historiker und Staatsrechtler, 1761–1770 in Russland u.a. als Adjunkt der Petersburger Akademie der Wissenschaften, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118608339.html#ndbcontent">Fleischer, Dirk: Schlözer, August Ludwig von, in: <titel>NDB</titel>&#x202F;23 (2007), S.&#x202F;98f.</wwwlink></eintrag>
-<subsection id="schloezer-nordischegeschichte" type="neuzeit" sort="10">
+<subsection id="schlozer-nordischegeschichte" type="neuzeit" sort="10">
 <lemma>Schlözer, <titel>Allgemeine Nordische Geschichte</titel></lemma>
 <eintrag>
 <titel>Allgemeine Nordische Geschichte.</titel> Aus den neuesten und besten Nordischen Schriftstellern und nach eigenen Untersuchungen beschrieben, und als eine Geographische und Historische Einleitung zur richtigen Kenntniß aller Skandinavischen, Finnischen, Slavischen, Lettischen und Sibirischen Völker, besonders in alten und mittleren Zeiten, hg. von August Ludwig Schlözer (Halle: Gebauer 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11212298-5">BSB München: 4 Gs 2078</wwwlink>.</eintrag>
+</subsection>
+<subsection id="schlozer-universalhistorie" type="neuzeit" sort="20">
+<lemma>Schlözer, <titel>Vorstellung einer Universalhistorie</titel></lemma>
+<eintrag>
+August Ludwig Schlözers Prof. in Göttingen <titel>Vorstellung seiner Universal-Historie</titel> (2 Bde., Göttingen, Gotha: Dieterich 1772). Digitalisat Bd. 1: <wwwlink address="https://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-761">LB Oldenburg</wwwlink>; Digitalisat Bd. 2 (mit <link ref="herder" linktext="false">Herders</link> <titel>Beurtheilung der Schlözerischen Universalhistorie</titel> in den <link ref="frankfurter-gelehrte-anzeigen" linktext="true" />, 60.&#x202F;St. 1772 mit <titel>August Ludwig Schlözers Anmerkungen über die Kunst, Universalhistorien zu beurteilen</titel>): <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN665336047">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
