@@ -5058,6 +5058,15 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <eintrag>1747–1815 (auch Leon Gumpertz). Kaufmann in Königsberg.</eintrag>
 </kommentar>
 
+<kommentar id="gondi" type="neuzeit">
+<lemma>Jean-François Paul de Gondi</lemma>
+<eintrag>1613–1679. Kardinal von Retz, Kirchenfürst und Politiker während der Fronde.</eintrag>
+<subsection id="gondi-memoires" type="neuzeit" sort="10">
+<lemma>Gondi, <titel>Mémoires du cardinal de Retz</titel></lemma>
+<eintrag>Jean François Paul de Gondi de Retz: <titel>Mémoires du cardinal de Retz:</titel> contenant ce qui s’est passé de plus remarquable en France, pendant les premières Années du regne de Louis XIV (4 Bde., Amsterdam 1717). Digitalisat der Ausgabe Genf 1779: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10415863-7">BSB München: Gall.com. 404 n-1</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="gothan" type="neuzeit">
 <lemma>Paulus de Gothan</lemma>
 <eintrag>Studienfreund Hamanns, später Waisengerichts-Sekretär.</eintrag>
@@ -5941,7 +5950,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hamann-jc" type="neuzeit">
 <lemma>Johann Christoph Hamann (Bruder)</lemma>
-<eintrag>1732–1778. Bruder von <link ref="hamann" linktext="true" />, ab 1758 Lehrer in Riga, 1761–1765 im Löbenicht in Königsberg; litt ab etwa 1759 zunehmend an einer psychischen Krankheit (‚Melancholie‘, ‚Stupor‘) und musste wegen seiner geistigen Behinderung in Hamanns Haushalt gepflegt werden. Um seine Vormundschaft und das Vermögen führte Hamann 1769 einen Rechtsstreit mit <link ref="nuppenau-jp" linktext="true" />, danach konnte Johann Christoph Hamann wieder im Haushalt von Johann Georg leben.</eintrag>
+<eintrag>1732–1778. Bruder von <link ref="hamann" linktext="true" />, ab 1758 Lehrer in Riga, 1761–1765 im Löbenicht in Königsberg; litt ab etwa 1759 zunehmend an einer psychischen Krankheit (‚Melancholie‘, ‚Stupor‘) und musste wegen seiner geistigen Behinderung in Hamanns Haushalt gepflegt werden. Um seine Vormundschaft und das Vermögen führte Hamann 1769 einen Rechtsstreit mit <link ref="nuppenau-jp" linktext="true" />, danach konnte Johann Christoph Hamann wieder im Haushalt von Johann Georg leben, der dessen Vermögen verwaltete.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-jm" type="neuzeit">
@@ -11360,6 +11369,10 @@ Wiss. Ausg.: <titel>Plautus: Komödien. Lateinisch und deutsch</titel>, hrsg., �
 <subsection id="plautus-amphitruo" type="neuzeit">
 <lemma>Plaut. <titel>Amph.</titel></lemma>
 <eintrag><titel>Amphitruo</titel></eintrag>
+</subsection>
+<subsection id="plautus-bacchides" type="neuzeit">
+<lemma>Plaut. <titel>Bacch.</titel></lemma>
+<eintrag><titel>Bacchides</titel></eintrag>
 </subsection>
 </kommentar>
 
