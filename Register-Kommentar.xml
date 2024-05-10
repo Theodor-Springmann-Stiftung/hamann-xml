@@ -1577,7 +1577,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="boie" type="neuzeit">
 <lemma>Heinrich Christian Boie</lemma>
-<eintrag>1744–1806. Dichter und Herausgeber, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5149.html#ndbcontent">Elschenbroich, Adalbert: Boie, Heinrich Christian, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;434f</wwwlink>.
+<eintrag>1744–1806. Dichter und Herausgeber, 1770 Begründer des Göttinger Musenalmanachs und bis 1775 dessen Herausgeber, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5149.html#ndbcontent">Elschenbroich, Adalbert: Boie, Heinrich Christian, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;434f</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -10688,6 +10688,11 @@ N
 </subsection>
 </kommentar>
 
+<kommentar id="neander" type="neuzeit">
+<lemma>Christoph Friedrich Neander</lemma>
+<eintrag>1724–1802. Evang. Theologe, Pastor und Superintendent in Kurland (Grenzhof).</eintrag>
+</kommentar>
+
 <kommentar id="necker" type="neuzeit">
 <lemma>Jacques Necker</lemma>
 <eintrag>1732–1804. Schriftsteller, genfer Bankier, frz. Finanzminister von 1777–1781 und 1788–1790.</eintrag>
@@ -11378,6 +11383,10 @@ Wiss. Ausg.: <titel>Plautus: Komödien. Lateinisch und deutsch</titel>, hrsg., �
 <subsection id="plautus-bacchides" type="neuzeit">
 <lemma>Plaut. <titel>Bacch.</titel></lemma>
 <eintrag><titel>Bacchides</titel></eintrag>
+</subsection>
+<subsection id="plautus-poenulus" type="neuzeit">
+<lemma>Plaut. <titel>Poen.</titel></lemma>
+<eintrag><titel>Poenulus</titel></eintrag>
 </subsection>
 </kommentar>
 
@@ -15236,7 +15245,7 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 
 <kommentar id="weymann-d" type="neuzeit">
 <lemma>Daniel Weymann</lemma>
-<eintrag>1732–1795. Ab 1762 Konrektor an der Löbenichtschen Schule in Königsberg; Kritiker <link ref="kant" linktext="false">I. Kants</link>.
+<eintrag>1732–1795. Ab 1762 Konrektor an der Löbenichtschen Schule in Königsberg; Kritiker <link ref="kant" linktext="false">Kants</link>.
 </eintrag>
 <subsection id="weymann-diss" type="neuzeit" sort="10">
 <lemma>Weymann, <titel>Dissertatio philosophica de mundo non optimo</titel></lemma>
@@ -15247,6 +15256,17 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 <lemma>Weymann, <titel>Bedenklichkeiten über Kants Beweis des Daseyn Gottes</titel></lemma>
 <eintrag>
 <titel>Bedenklichkeiten über Kants Beweis des Daseyn Gottes</titel> (Königsberg 1763) [Biga&#x202F;117/284: „Dan. Weymann’s Bedenklichkeiten darüber, Kgsb. 763“].</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="wezel" type="neuzeit">
+<lemma>Johann Karl Wezel</lemma>
+<eintrag>1747–1819. Romancier und Lustspieldichter, 1782 Theaterdichter in Wien.
+</eintrag>
+<subsection id="wezel-knaut" type="neuzeit" sort="10">
+<lemma>Wezel, <titel>Tobias Knaut</titel></lemma>
+<eintrag>
+<titel>Lebensgeschichte Tobias Knauts des Weisen,</titel> sonst der Stammler genannt. Aus Familiennachrichten gesammelt (4 Bde., Leipzig 1773–1776) [Biga&#x202F;151/367: „Lebensgeschichte Tob. Knauts, iter Th. Leipz. 773“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123089-4">BSB München: 1592 b-1/2</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
