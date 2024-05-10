@@ -7628,9 +7628,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="399">
-        <date value="vor 13. August 1774" />
-        <sort value="1774-08-13" notAfter="1774-08-13" />
-        <location ref="-1" />
+        <date value="Bückeburg, Dezember 1773" />
+        <sort value="1773-12-15" />
+        <location ref="23" />
         <senders>
           <sender ref="41" />
         </senders>
