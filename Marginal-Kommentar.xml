@@ -49660,7 +49660,7 @@ Bibliothek [= Berlinsche Luna], Bd. 35/1, durch Nicolai und J. A. Eberhard. ?!?
 </marginal>
 
 <marginal letter="419" page="122" line="1">
-<bzg>Göthes Klavigo u. Leiden des jungen Werthers</bzg> <link ref="goethe" subref="goethe-clavigo" linktext="true" />;  <link ref="goethe" subref="goethe-werther" linktext="true" />  
+<bzg>Göthes Klavigo u. Leiden des jungen Werthers</bzg> <link ref="goethe" subref="goethe-clavigo" linktext="true" />; <link ref="goethe" subref="goethe-werther" linktext="true" />  
 </marginal>
 
 <marginal letter="419" page="122" line="2">
@@ -51813,7 +51813,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="18">
-<bzg>Juliani</bzg> Julianus Flavius, gen. Apostata (331- 363)
+<bzg>Juliani</bzg> Julianus Flavius, gen. Apostata (331-363)
 </marginal>
 
 <marginal letter="434" page="156" line="19">
@@ -52318,6 +52318,71 @@ Rouen. ?!?
 </marginal>
 
 
+Brief Nr. 439
+
+<marginal letter="439" page="165" line="31">
+<bzg>P. P.</bzg> P.[rofessori] P.[ublico]
+</marginal>
+
+<marginal letter="439" page="165" line="32">
+<bzg>Hintz</bzg> <link ref="hinz" linktext="true" />  
+</marginal>
+
+<marginal letter="439" page="165" line="33">
+<bzg>Selbstgespräch</bzg> <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> 
+</marginal>
+
+<marginal letter="439" page="165" line="34">
+<bzg>HE. N. Antwort</bzg> HE. N.[icolai] Antwort: An den Magum in Norden, N III,429f.
+</marginal>
+
+<marginal letter="439" page="166" line="7">
+<bzg>Prolegomena</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+</marginal>
+
+<marginal letter="439" page="166" line="10">
+<bzg>Deutschen Mercurs</bzg> vgl. <intlink letter="435" page="159" line="10" linktext="true" />
+</marginal>
+
+<marginal letter="439" page="166" line="11">
+<bzg>KirchenVäter</bzg> vgl. <intlink letter="434" page="156" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="439" page="166" line="12">
+<bzg>Constantin</bzg> Konstantin der Große (270–337)
+</marginal>
+
+<marginal letter="439" page="166" line="13">
+<bzg>Julian</bzg> Julianus Flavius, gen. Apostata (331-363)
+</marginal>
+
+<marginal letter="439" page="166" line="14">
+<bzg>Stelle</bzg> ?!?
+</marginal>
+
+<marginal letter="439" page="166" line="16">
+<bzg>Deduction</bzg> <link ref="hamann" subref="hamann-kermes" linktext="true" />  
+</marginal>
+
+<marginal letter="439" page="166" line="17">
+<bzg>Werthers</bzg> <link ref="goethe" subref="goethe-werther" linktext="true" />
+</marginal>
+
+<marginal letter="439" page="166" line="20">
+<bzg>qui pectus …</bzg> [bestaune ich den Dichter,] der mein Herz durch Kunst ängstet und erregt und sänftigt, der es mit Schrecknissen erfüllt, wie ein Zauberer (Hor. epist. 2,1,211ff.)
+</marginal>
+
+<marginal letter="439" page="166" line="26">
+<bzg>HE. Bode</bzg> <link ref="bode-jjc" linktext="true" />, vgl. Brief 435
+</marginal>
+
+<marginal letter="439" page="166" line="28">
+<bzg>Shandy</bzg> <link ref="sterne" subref="sterne-shandy" linktext="true" /> in der Übersetzung von <link ref="bode-jjc" linktext="true" />
+</marginal>
+
+<marginal letter="439" page="166" line="29">
+<bzg>Buchladen</bzg> <link ref="kanter-jj" linktext="true" /> 
+</marginal>
 
 </marginalien>
 </data>
