@@ -12809,7 +12809,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <subsection id="schlosser-katechismus" type="neuzeit">
 <lemma>Schlosser, <titel>Katechismus</titel></lemma>
 <eintrag>
-<titel>Katechismus der Sittenlehre für das Landvolk</titel> (Frankfurt am Main: Eichenbergs Erben 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bsz:14-db-id3209336366">SLUB Dresden</wwwlink>.</eintrag>
+<titel>Katechismus der Sittenlehre für das Landvolk</titel> (Frankfurt am Main: Eichenbergs Erben 1771). Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3209336366">SLUB Dresden</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15332,6 +15332,12 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <lemma>Wieland, <titel>Musarion</titel></lemma>
 <eintrag>
 <titel>Musarion,</titel> oder die Philosophie der Grazien. Ein Gedicht, in drey Büchern (Leipzig: Weidmanns Erben und Reich 1768) [Biga&#x202F;149/322: „Ei. Idris, ib. 768. Musarion, ib. eod.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123348-8">BSB München: P.o.germ. 1614</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="wieland-dialogen" type="neuzeit" sort="77">
+<lemma>Wieland, <titel>Sokrates mainomenos oder die Dialogen des Diogenes von Sinope</titel></lemma>
+<eintrag>
+<titel>Σοκρατης μαινομενος oder die Dialogen des Diogenes von Sinope.</titel> Aus einer alten Handschrift (Leipzig: Weidmanns Erben 1770) [Biga&#x202F;149/323: „Ei. Dialogen des Diogenes von Sinope“]. Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0002BA6700000000">Stabi Berlin</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="wieland-spiegel" type="neuzeit" sort="80">
