@@ -10912,6 +10912,13 @@ Darin werden Textauszüge aus <titel>Discourse on the Resurrection of Jesus Chri
 </subsection>
 </kommentar>
 
+<kommentar id="orlow-g" type="neuzeit">
+<lemma>Grigorij Orlow</lemma>
+<eintrag>1734–1783. Günstling von <link ref="katharina" linktext="true" />, 1772 von Kaiser Joseph II. auch zum deutschen Reichsfürsten ernannt, bald darauf aber von Potemkin in den Schatten gestellt.
+</eintrag>
+
+</kommentar>
+
 <kommentar id="orrery" type="neuzeit">
 <lemma>John Boyle of Orrery</lemma>
 <eintrag>1707–1762. Historiker. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-3129">Smith, L.: Boyle, John, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -13708,15 +13715,20 @@ Ioannis Avgvsti Starckii […] <titel>De Aeschylo et eius imprimis Tragoedia, qu
 <eintrag>
 Ioannis Avgvsti Starckii […] <titel>Sylloge Commentationum et observationum philologico-criticarum.</titel> Vol I (Königsberg: Kanter 1769) [Biga&#x202F;144/241: „J. A. Starckii Sylloge Commentationum &#x26; Obseruationum, Vol. I. Reg. 769“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=HV0YoHPxO3gC">Google Books</wwwlink>.</eintrag>
 </subsection>
-<subsection id="starck-hephaestion" type="neuzeit" sort="25">
-<lemma>Starck, <titel> Hephaestion</titel></lemma>
-<eintrag>
-<titel>Hephaestion</titel> (Königsberg 1775) [Biga&#x202F;52/557: „J. A. Starks Hephaestion. Koen. 775.“].</eintrag>
-</subsection>
 <subsection id="starck-apologie" type="neuzeit" sort="30">
 <lemma>Starck, <titel>Apologie des Ordens der Freimaurer</titel></lemma>
 <eintrag>
 <titel>Apologie des Ordens der Frey-Maurer</titel> von dem Bruder **** Mitgliede der ** Schottischen Loge zu P. *. (Philadelphia, im Jahr 5651. d.&#x202F;i. 3882  [Königsberg: Kanter 1769]) [Biga&#x202F;168/615: „Apologie des Ordens der Freymaeurer, Koenigsb. 772“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3296223826">SLUB Dresden: Soc.secr.125</wwwlink>.</eintrag>
+</subsection>
+<subsection id="starck-tralatitia" type="neuzeit" sort="35">
+<lemma>Starck, <titel>Tralatitia ex gentilismo in religionem christianam</titel></lemma>
+<eintrag>
+<titel>Tralatitia ex gentilismo in religionem christianam.</titel> Dissertatio theologico-historico-antiqvaria qvam pro loco professoris theologiae ordinario rite sibi vindicando placido ervuditorum examini svbmittit Ioannes Avgustvs Starck (Regiomonti: Hartvngii 1774). Digitalisat: <wwwlink address="https://books.google.de/books?id=uw6dw6j6XUEC">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="starck-hephaestion" type="neuzeit" sort="40">
+<lemma>Starck, <titel> Hephaestion</titel></lemma>
+<eintrag>
+<titel>Hephaestion</titel> (Königsberg 1775) [Biga&#x202F;52/557: „J. A. Starks Hephaestion. Koen. 775.“].</eintrag>
 </subsection>
 </kommentar>
 
