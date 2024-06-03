@@ -938,7 +938,7 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 
 <kommentar id="beckher" type="neuzeit">
 <lemma>Wilhelm Heinrich Beckher</lemma>
-<eintrag>1687–1753. Ostpreußischer lutherischer Theologe, siehe <wwwlink address="https://d-nb.info/gnd/141375728">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
+<eintrag>1687–1753. Ostpreußischer lutherischer Theologe, siehe <wwwlink address="https://d-nb.info/gnd/141375728">GND</wwwlink>.</eintrag>
 <subsection id="beckher-edicte" type="neuzeit">
 <lemma>Beckher, <titel>Kurzer Auszug aus denen vornehmsten Königlichen Preußischen Edicten und Verordnungen</titel></lemma>
 <eintrag>
@@ -948,7 +948,7 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 
 <kommentar id="behm" type="neuzeit">
 <lemma>Johannes Behm</lemma>
-<eintrag>1687–1753. Prof. der Theologie und griechischen Sprache in Königsberg, siehe <wwwlink address="https://d-nb.info/gnd/139457135">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
+<eintrag>1687–1753. Prof. der Theologie und griechischen Sprache in Königsberg, siehe <wwwlink address="https://d-nb.info/gnd/139457135">GND</wwwlink>.</eintrag>
 <subsection id="behm-gesangbuch" type="neuzeit">
 <lemma>Behm, <titel>New Preussisches vollständiges Gesangbuch</titel></lemma>
 <eintrag>
@@ -2046,7 +2046,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="bulau" type="neuzeit">
 <lemma>Johann Jakob Bülau</lemma>
-<eintrag>1725–1774. Hofrat und Gymnasialprofessor in Zerbst, siehe <wwwlink address="https://d-nb.info/gnd/101079974">Katalog der Deutschen Nationalbibliothek</wwwlink>.dnb.</eintrag>
+<eintrag>1725–1774. Hofrat und Gymnasialprofessor in Zerbst, siehe <wwwlink address="https://d-nb.info/gnd/101079974">GND</wwwlink>.</eintrag>
 <subsection id="bulau-nationalgeist" type="neuzeit">
 <lemma>Bülau, <titel>Noch etwas zum Deutschen Nationalgeiste</titel></lemma>
 <eintrag>
@@ -8711,6 +8711,18 @@ Die Verf. weisen nach, dass <link ref="pope" linktext="false">Popes</link> Dicht
 Gotthold Ephraim Lessings <titel>vermischte Schriften.</titel> Erste Theil (Berlin: Voß 1771) [Biga&#x202F;136/97: „Lessing's vermischte Schriften, 1. Th. Berl. 771“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=wM7IkTHs5JcC">Google Books</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="lessing-geschichtelitteratur" type="neuzeit" sort="120">
+<lemma>Lessing, <titel>Zur Geschichte und Litteratur</titel></lemma>
+<eintrag>
+<titel>Zur Geschichte und Litteratur.</titel> Aus den Schätzen der Herzoglichen Bibliothek zu Wolfenbüttel von Gotthold Ephraim Lessings (6 Beyträge, Braunschweig: Waysenhaus 1773, 1773, 1774, 1777, 1781, 1781) [Biga&#x202F;90/253: „G. E. Lessing’s Beytrag I. II. III. zur Geschichte und Literatur, Braunschw. 773. 774“ und 136/104: „Ei. Beytrage zur Geschichte und Litteratur, 1. 2. 3tes St. Braunschw. 774“]. – Bekannt vor allem für die von Lessing durch Begleitschriften flankierte Publikation von <link ref="reimarus" subref="reimarus-fragmente" linktext="true" /> (Fragmentenstreit).<line type="break" />
+Digitalisat Beytrag 1 (Januar 1773): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10604292-2">BSB München: Opp. 526-1/2</wwwlink>.
+Digitalisat Beytrag 2 (Obtober 1773): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10604293-7">BSB München: Opp. Opp. 526-1/2</wwwlink>.
+Digitalisat Beytrag 3 (Herbst 1774): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10604294-3">BSB München: Opp. 526-3/4</wwwlink>.
+Digitalisat Beytrag 4 (1777): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10604295-8">BSB München: Opp. 526-3/4</wwwlink>.
+Digitalisat Beytrag 5 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10604296-3">BSB München: Opp. 526-5/6</wwwlink>.
+Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10604297-9">BSB München: Opp. 526-5/6</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="leuchsenring" type="neuzeit">
@@ -11192,6 +11204,17 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <eintrag>1721–1774. Erste Frau von <link ref="hessen-ludwig-landgraf" linktext="true" />.</eintrag>
 </kommentar>
 
+
+<kommentar id="pfanner" type="neuzeit">
+<lemma>Tobias Pfanner</lemma>
+<eintrag>1641–1716. Gelehrter Jurist, Historiker und Theologe, Archivar, siehe <wwwlink address="https://d-nb.info/gnd/122898435">GND</wwwlink>.</eintrag>
+<subsection id="pfanner-gentilis" type="neuzeit">
+<lemma>Pfeffel, <titel>Systema Theologiae Gentilis Purioris</titel></lemma>
+<eintrag>
+<titel>Tobiae Pfanneri Systema Theologiae Gentilis Purioris: Quâ Quàm propè ad veram Religionem Gentiles accesserint, per cuncta fere eius Capita, ex ipsis praecipue illorum scriptis ostenditur (Basilea: Widerholdi 1679) [Biga&#x202F;25/148: „Tob. Pfanneri Systema Theologiae Gentilis, Bas. 679“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:23-drucke/ho-2046">HAB Wolfenbüttel: Ho 204</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="pfeffel" type="neuzeit">
 <lemma>Gottlieb Konrad Pfeffel</lemma>
 <eintrag>1736–1809. Erzähler, Dramatiker, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118740709.html#adbcontent">Martin: Pfeffel, Konrad, in: <titel>ADB</titel>&#x202F;25 (1887), S.&#x202F;614–618</wwwlink>.</eintrag>
@@ -11203,7 +11226,7 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <subsection id="pfeffel-philemon" type="neuzeit">
 <lemma>Pfeffel, <titel>Philemon und Baucis</titel></lemma>
 <eintrag>
-<titel>Philemon und Baucis. Ein Schauspiel in Versen von einem Aufzug</titel> (Straßburg 1763). [Biga&#x202F;152/401: „Philemon und Baucis, Strassb. 763“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116146-7">BSB München: P.o.germ. 1065 y</wwwlink>.</eintrag>
+<titel>Philemon und Baucis. Ein Schauspiel in Versen von einem Aufzug</titel> (Straßburg 1763). [Biga&#x202F;152/401: „Philemon und Baucis, Strassb. 763“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116146-7">BSB München: P.o.germ. 1065 y</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -11224,7 +11247,7 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 
 <kommentar id="philippi-ja" type="neuzeit">
 <lemma>Johann Albrecht Philippi</lemma>
-<eintrag>1721–1791. Polizeidirektor und Stadtpräsident von Berlin, siehe <wwwlink address="https://d-nb.info/gnd/115741208">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
+<eintrag>1721–1791. Polizeidirektor und Stadtpräsident von Berlin, siehe <wwwlink address="https://d-nb.info/gnd/115741208">GND</wwwlink>.</eintrag>
 <subsection id="philippi-briefe" type="neuzeit" sort="10">
 <lemma>Philippi, <titel>Anmuthige und Satyrische Briefe</titel></lemma>
 <eintrag>
@@ -11239,7 +11262,7 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 
 <kommentar id="philippi-waf" type="neuzeit">
 <lemma>Wilhelm Albrecht Ferdinand Philippi</lemma>
-<eintrag>1752–1828. 1772 Student in Königsberg, Sohn von <link ref="philippi-ja" linktext="true" /> später Regierungsrat in Magdeburg und Berliner Stadtpräsident, siehe <wwwlink address="https://d-nb.info/gnd/14364422X">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
+<eintrag>1752–1828. 1772 Student in Königsberg, Sohn von <link ref="philippi-ja" linktext="true" /> später Regierungsrat in Magdeburg und Berliner Stadtpräsident, siehe <wwwlink address="https://d-nb.info/gnd/14364422X">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="philon" type="neuzeit">
@@ -11992,7 +12015,7 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 
 <kommentar id="reiche" type="neuzeit">
 <lemma>Carl Christoph Reiche</lemma>
-<eintrag>1739–1793. Prediger und Buchhändler, Begründer und Leiter der Dessauer Buchhandlung der Gelehrten, siehe <wwwlink address="https://d-nb.info/gnd/1073399214">Katalog der Deutschen Nationalbibliothek</wwwlink>.</eintrag>
+<eintrag>1739–1793. Prediger und Buchhändler, Begründer und Leiter der Dessauer Buchhandlung der Gelehrten, siehe <wwwlink address="https://d-nb.info/gnd/1073399214">GND</wwwlink>.</eintrag>
 <subsection id="reiche-taufe" type="neuzeit">
 <lemma>Reiche, <titel>Die Taufe der Christen, ein ehrwürdiger Gebrauch, und kein Gesetz Christi</titel></lemma>
 <eintrag>
@@ -12027,6 +12050,22 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <eintrag>
 <titel>Versuch einer Einleitung in die Historiam Literariam Insgemein und derer Teutschen insonderheit in VI. verschiedene Tomos verfasset und dergestalt eingerichtet ist daß in dem Tomo I. Eine Einleitung in die Historiam Literariam insgemein. Tomo II. Die Alte und Mitlere Historia Literaria [...] Tomo III. Die neue Historia Literaria [...], und sonderlich der Theologie und Philosophie [...], Tomo IV. Die Historia Metaphysicæ und Matheseos [...] Tomo V. Die Historia Politices und Historiæ Civilis, Ecclesiasticæ, Naturalis und Literariæ, [...] Tomo VI. Die Historia Jurisprudentiæ und Medicinæ [...], begriffen [...] und als ein dreyfacher Anhang mit beygefüget ist: I. Ein kurtzer Auszug aus allen diesen Tomis [...] II. Die Historia Literaria Antediluviana. III. Eine Critique über Baile Dictionaire historique</titel> (Halle: Renger 1708–13).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="reimarus" type="neuzeit">
+<lemma>Hermann Samuel Reimarus</lemma>
+<eintrag>1694–1768. Deistischer Theologe und Gymnasiallehrer in Hamburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz110509.html#ndbcontent">Fleischer, Dirk: Reimarus, Hermann Samuel, in: <titel>NDB</titel>&#x202F;21 (2003), S.&#x202F;337.</wwwlink>.</eintrag>
+<subsection id="reimarus-fragmente" type="neuzeit">
+<lemma>Reimarus, <titel>Fragmente eines Ungenannten</titel></lemma>
+<eintrag>
+<titel>Apologie oder Schutzschrift für die vernünftigen Verehrer Gottes.</titel> Von Lessing als <titel>Fragmente eines Ungenannten</titel> im 3. und 4. Beytrag von <link ref="lessing" subref="lessing-geschichtelitteratur" linktext="true" /> veröffentlicht sowie in der Separatpublikation <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10945692-1">Von dem Zwecke Jesu und seiner Jünger. Noch ein Fragment des Wolfenbüttelschen Ungenannten, hg. v. Gotthold Ephraim Lessing (Braunschweig 1778)</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+
+<kommentar id="reinesius" type="neuzeit">
+<lemma>Thomas Reinesius</lemma>
+<eintrag>1578–1667. Der Arzt und Philologe.</eintrag>
 </kommentar>
 
 <kommentar id="reinesius" type="neuzeit">
@@ -12319,7 +12358,7 @@ Außerdem kursierte eine Übers. der Kinderphysik als <titel>Carl Rollins Natur-
 
 <kommentar id="rose" type="neuzeit">
 <lemma>Johann Wilhelm Rose</lemma>
-<eintrag>1742–1801. Protestantischer Theologe, Lyriker und Dramatiker in Ansbach, siehe <wwwlink address="https://d-nb.info/gnd/115534776">Katalog der DNB</wwwlink>.</eintrag>
+<eintrag>1742–1801. Protestantischer Theologe, Lyriker und Dramatiker in Ansbach, siehe <wwwlink address="https://d-nb.info/gnd/115534776">GND</wwwlink>.</eintrag>
 <subsection id="rose-naemi" type="neuzeit">
 <lemma>Rose, <titel>Der Tod der Naemi</titel></lemma>
 <eintrag>
