@@ -2788,6 +2788,12 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 </subsection>
 </kommentar>
 
+<kommentar id="coccejus-j" type="neuzeit">
+<lemma>Johannes Coccejus</lemma>
+<eintrag>1603–1669. Protestantischer Theologe, einer der Hauptvertreter der Föderaltheologie, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118676504.html#ndbcontent"> Walter Hollweg: Coccejus, Johannes, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;302f</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="cohausen" type="neuzeit">
 <lemma>Johann Heinrich Cohausen</lemma>
 <eintrag>1665–1750. Arzt in Münster, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz8555.html#adbcontent">Hirsch, August: Cohausen, Johann Heinrich, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;394</wwwlink>..
@@ -10198,8 +10204,9 @@ Zweite vermehrte Ausgabe 1775 in 6 Bde. [Biga&#x202F;65/103 u. 69/187: „J. D. 
 <eintrag>1608–1674. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18800">Campbell, G.: Milton, John, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
 <subsection id="milton-lost" type="neuzeit" sort="5">
 <lemma>Milton, <titel>Paradise Lost</titel></lemma>
-<eintrag><titel>Paradise Lost. A Poem Written in Ten Books</titel> (London: Parker 1667). <line type="break" />
-Übers.: <titel>Johann Miltons Verlust des Paradieses. Ein Helden-Gedicht. In ungebundener Rede übersetzet</titel>, übers. v. <link ref="bodmer" linktext="true" /> (Zürich: Rordorf 1732). 2. Aufl.: Zürich/Leipzig 1742; 3. Aufl.: Zürich 1754.
+<eintrag><titel>Paradise Lost. A Poem Written in Ten Books</titel> (London: Parker 1667). Die zweite Ausgabe von 1674 hat zwölf Gesänge.<line type="break" />
+Übers.: <titel>Johann Miltons Verlust des Paradieses. Ein Helden-Gedicht. In ungebundener Rede übersetzet</titel>, übers. v. <link ref="bodmer" linktext="true" /> (Zürich: Rordorf 1732). 2. Aufl.: Zürich/Leipzig 1742; 3. Aufl.: Zürich 1754.<line type="break"/>
+Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons in Reimfreye Verse übersetzt, und mit eignen sowohl als andrer Anmerkungen begleitet</titel> von <link ref="zachariae" linktext="true" /> (2&#xA0;Bde., Altona 1760).
 </eintrag>
 </subsection>
 <subsection id="milton-regained" type="neuzeit" sort="10">
