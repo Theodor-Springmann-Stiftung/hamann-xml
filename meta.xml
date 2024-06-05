@@ -7533,9 +7533,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="394">
-        <date value="Zwischen Ende August und Mitte November 1773" />
+        <date value="Bückeburg, zwischen Ende August und Mitte November 1773" />
         <sort value="1773-09-01" notBefore="1773-08-28" notAfter="1773-11-13" />
-        <location ref="-1" />
+        <location ref="23" />
         <senders>
           <sender ref="41" />
         </senders>
@@ -7609,9 +7609,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="398">
-        <date value="1. Dezember 1773" />
+        <date value="Königsberg, 1. Dezember 1773" />
         <sort value="1773-12-01" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -7704,9 +7704,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="403">
-        <date value="6. April 1774" />
+        <date value="Königsberg, 6. April 1774" />
         <sort value="1774-04-06" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="31" />
         </senders>
@@ -7742,9 +7742,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="405">
-        <date value="8. April 1774" />
+        <date value="Königsberg, 8. April 1774" />
         <sort value="1774-04-08" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="31" />
         </senders>
@@ -7761,9 +7761,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="406">
-        <date value="April 1774" />
-        <sort value="1774-04-09" notBefore="1774-04-01" notAfter="1774-04-30" />
-        <location ref="-1" />
+        <date value="Königsberg, nach 8. April 1774" />
+        <sort value="1774-04-09" notBefore="1774-04-08" notAfter="1774-04-30" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
