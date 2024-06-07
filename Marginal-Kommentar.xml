@@ -53031,7 +53031,7 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="167" line="35">
-<bzg>T‥ zu Wandsbeck … Assmus omnia secum portans</bzg> <link ref="claudius" linktext="true" /> 
+<bzg>T‥ zu Wandsbeck … Assmus omnia secum portans</bzg> <link ref="claudius" subref="claudius-werke" linktext="true" />
 </marginal>
 
 <marginal letter="440" page="168" line="1">
@@ -53077,7 +53077,7 @@ Allgemeinen deutschen Bibliothek, Bd. 25/1, 1775, S. 23- 61 über Herders Bd I; 
 </marginal>
 
 <marginal letter="440" page="168" line="30">
-<bzg>Commißions Rath Assmus</bzg> 
+<bzg>Commißions Rath Assmus</bzg> <link ref="claudius" linktext="true" />
 </marginal>
 
 <marginal letter="440" page="168" line="36">
@@ -53600,7 +53600,7 @@ Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
 </marginal>
 
 <marginal letter="444" page="176" line="26">
-<bzg>Gevatter Assmus omnia secum portans</bzg> ?!?
+<bzg>Gevatter Assmus omnia secum portans</bzg> <link ref="claudius" subref="claudius-werke" linktext="true" />
 </marginal>
 
 <marginal letter="444" page="176" line="29">
@@ -53753,6 +53753,32 @@ Goethes Satiren. ?!?
 </marginal>
 
 
+Brief Nr. 446
+
+<marginal letter="446" page="179" line="19">
+<bzg>Drama</bzg> Vertonung des Gedichts von  <link ref="claudius" linktext="true" /> „An die Nachtigall“, <link ref="claudius" subref="claudius-werke" linktext="true" /> I/II, S. 56
+</marginal>
+
+<marginal letter="446" page="179" line="22">
+<bzg>poetische Probe</bzg> vgl. <intlink letter="447" page="183" line="27" linktext="true" /> 
+</marginal>
+
+<marginal letter="446" page="179" line="25">
+<bzg>Assmus omnia secum …</bzg> <link ref="claudius" subref="claudius-werke" linktext="true" />, 1. u. 2. Teil
+</marginal>
+
+<marginal letter="446" page="179" line="27">
+<bzg>Kanterschen</bzg> <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="446" page="179" line="33">
+<bzg>NB.</bzg> nota bene, dt. wohlgemerkt
+</marginal>
+
+<marginal letter="446" page="180" line="4">
+<bzg>musicalischen Briefe</bzg> reichardt-jf, Briefe eines aufmerksam Reisenden, die Musik betreffend. Frankfurt und Leipzig
+1774, teil 1, https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599277-5; teil 2 1776: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599278-0
+</marginal>
 
 </marginalien>
 </data>
