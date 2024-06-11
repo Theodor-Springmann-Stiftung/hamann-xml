@@ -46,7 +46,7 @@
 </kommentar>
 
 <kommentar id="ale-w-1965" type="forschung">
-<keyworf ref="hamann-metakritik"/>
+<keyword ref="hamann-metakritik"/><keyword ref="kant"/><keyword ref="hume"/>
 <lemma>Alexander, William M.: Metacritic of Kant. In: Journal of the History of Ideas 27 (1965), S.&#x202F;137&#x2013;144.</lemma>
 </kommentar>
 
@@ -203,6 +203,7 @@
 </kommentar>
 
 <kommentar id="bay-o-1986" type="forschung">
+<keyword ref="hamann-metakritik"/><keyword ref="hamann-kreuzzuege"/> <keyword ref="kant"/>
 <lemma>Bayer, Oswald: Vernunftautorität und Bibelkritik in der Kontroverse zwischen J.&#x00A0;G. Hamann und Immanuel Kant. In: Neue Zeitschrift für systematische Theologie 28, H 2 (1986), S.&#x202F;179&#x2013;197.</lemma>
 </kommentar>
 
