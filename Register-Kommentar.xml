@@ -946,6 +946,16 @@ M. Wilhelm Heinrich Beckher, <titel>Preußische Kirchenregistratur</titel> oder:
 </subsection>
 </kommentar>
 
+<kommentar id="beger" type="neuzeit">
+<lemma>Lorenz Beger</lemma>
+<eintrag>1653–1705. Oberaufseher der Kunst- und Raritätenkammer in Berlin, seit 1693 Verwalter der gesammten königlichen Sammlungen, Herausgeber des Katalogs der Antikensammlung des preußischen Herrscherhauses, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz2652.html#adbcontent">Kenner, Friedrich von: Beger, Lorenz, in: <titel>ADB</titel>&#x202F;2 (1875), S.&#x202F;271f.</wwwlink></eintrag>
+<subsection id="beger-thesaurus" type="neuzeit">
+<lemma>Beger, <titel>Thesaurus Brandenburgicus selectus</titel></lemma>
+<eintrag>
+<titel>Thesaurus Brandenburgicus selectus</titel> (3 Bde., Berlin 1696–1701). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-34576">UB Heidelberg: C 5700 Gross RES</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="behm" type="neuzeit">
 <lemma>Johannes Behm</lemma>
 <eintrag>1687–1753. Prof. der Theologie und griechischen Sprache in Königsberg, siehe <wwwlink address="https://d-nb.info/gnd/139457135">GND</wwwlink>.</eintrag>
@@ -995,7 +1005,7 @@ M. Wilhelm Heinrich Beckher, <titel>Preußische Kirchenregistratur</titel> oder:
 
 <kommentar id="bengel" type="neuzeit">
 <lemma>Johann Albrecht Bengel</lemma>
-<eintrag>1687–1752. Schwäbischer lutherischer Theologe, ab 1749 Konsistorialrat und Prälat in Alpirsbach; siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118655477.html#adbcontent">Goltz, Alexander Frh. v.d.: Bengel, Albrecht, in: <titel>ADB</titel>&#x202F;2 (1875), S.&#x202F;331–333</wwwlink>. Siehe auch <link ref="ern-p-1935" linktext="false">Paul (1935)</link>.
+<eintrag>1687–1752. Schwäbischer lutherischer Theologe, ab 1749 Konsistorialrat und Prälat in Alpirsbach; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118655477.html#adbcontent">Goltz, Alexander Frh. v.d.: Bengel, Albrecht, in: <titel>ADB</titel>&#x202F;2 (1875), S.&#x202F;331–333</wwwlink>. Siehe auch <link ref="ern-p-1935" linktext="false">Paul (1935)</link>.
 </eintrag>
 <subsection id="bengel-johannis" type="neuzeit" sort="10">
 <lemma>Bengel, <titel>Erklärte Offenbarung Johannis und viel mehr Jesu Christi</titel></lemma>
