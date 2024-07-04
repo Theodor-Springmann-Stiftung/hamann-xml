@@ -49757,7 +49757,7 @@ Der Brief wurde mit einigen Änderungen von Hamann zum Druck in <link ref="haman
 Brief Nr. 414
 
 <marginal letter="414" page="108" line="31">
-<bzg>Erstgebornen</bzg> Wilhelm Christian Gottfried Herder (1774–1806)
+<bzg>Erstgebornen</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="414" page="108" line="32">
@@ -49821,11 +49821,11 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="16">
-<bzg>Corpora delicti</bzg> wohl An Prediger und Auch eine Philosophie ?!?
+<bzg>Corpora delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" />  und Auch eine Philosophie ?!?
 </marginal>
 
 <marginal letter="414" page="110" line="19">
-<bzg>Michaelis aus der Urkunde</bzg> <link ref="michaelis" linktext="true" />, was genau ?!?
+<bzg>Michaelis aus der Urkunde</bzg> <link ref="michaelis" linktext="true" /> aus <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> ?!?
 </marginal>
 
 <marginal letter="414" page="110" line="20">
@@ -49857,7 +49857,7 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="35">
-<bzg>Wilhelm Christian Gottfried</bzg>  Wilhelm Christian Gottfried Herder (1774–1806)
+<bzg>Wilhelm Christian Gottfried</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="414" page="110" line="37">
@@ -49985,7 +49985,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="11">
-<bzg>Christian</bzg> Wilhelm Christian Gottfried Herder (1774–1806)
+<bzg>Christian</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="113" line="13">
@@ -50025,11 +50025,11 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="31">
-<bzg>des kleinen Herders</bzg> Wilhelm Christian Gottfried Herder (1774–1806)
+<bzg>des kleinen Herders</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="114" line="4">
-<bzg>Corpora Delicti</bzg> wohl An Prediger und Auch eine Philosophie ?!?
+<bzg>Corpora Delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" /> und Auch eine Philosophie ?!?
 </marginal>
 
 <marginal letter="416" page="114" line="6">
@@ -50112,7 +50112,7 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="115" line="22">
-<bzg>Verf. der Provinzialblätter</bzg>  An Prediger. Funfzehn Provinzialblätter. Leipzig 1774. Biga 195/50 u. 52/551. ?!?
+<bzg>Verf. der Provinzialblätter</bzg>  <link ref="herder" subref="herder-prediger" linktext="true" />
 </marginal>
 
 <marginal letter="417" page="115" line="23">
@@ -50351,7 +50351,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="120" line="13">
-<bzg>andre 2.</bzg> An Prediger, Auch eine Philosophie ?!?
+<bzg>andre 2.</bzg> <link ref="herder" subref="herder-prediger" linktext="true" /> und  Auch eine Philosophie ?!?
 </marginal>
 
 <marginal letter="419" page="120" line="15">
@@ -50383,11 +50383,11 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="121" line="5">
-<bzg>Weib u. Kind</bzg> <link ref="herder-c" linktext="true" /> und Wilhelm Christian Gottfried Herder (1774–1806)
+<bzg>Weib u. Kind</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="121" line="10">
-<bzg>corpora delicti</bzg> wohl An Prediger und Auch eine Philosophie ?!?
+<bzg>corpora delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" /> und Auch eine Philosophie ?!?
 </marginal>
 
 <marginal letter="419" page="121" line="15">
@@ -50534,7 +50534,7 @@ Brief Nr. 420
 </marginal>
 
 <marginal letter="420" page="123" line="23">
-<bzg>3. Spalding u. Luther …</bzg> <link ref="spalding" linktext="true" /> und <link ref="luther" linktext="true" />; in An Prediger. ?!?
+<bzg>3. Spalding u. Luther …</bzg> <link ref="spalding" linktext="true" /> und <link ref="luther" linktext="true" />; in <link ref="herder" subref="herder-prediger" linktext="true" />
 </marginal>
 
 <marginal letter="420" page="123" line="25">
@@ -50611,7 +50611,7 @@ Concertmeister Bach [= Johann Christoph Friedrich] zu Bückeburg, 1774. ?!?
 </marginal>
 
 <marginal letter="420" page="124" line="19">
-<bzg>Weib u. Kinde</bzg> <link ref="herder-c" linktext="true" /> und Wilhelm Christian Gottfried Herder (1774–1806)
+<bzg>Weib u. Kinde</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="420" page="124" line="20">
@@ -50941,7 +50941,7 @@ Histor. und andere merkwürdige Seltsamkeiten. Hamburg 1683/91. ?!?
 Brief Nr. 424
 
 <marginal letter="424" page="129" line="19">
-<bzg>Frau … Liebling</bzg> <link ref="herder-c" linktext="true" /> und Wilhelm Christian Gottfried Herder (1774–1806)
+<bzg>Frau … Liebling</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="129" line="22">
@@ -51270,7 +51270,7 @@ Fassung von 1766, und Philoktetes. Scenen mit Gesang, 1774. ?!?
 </marginal>
 
 <marginal letter="424" page="133" line="35" sort="1">
-<bzg>Babe</bzg> Wilhelm Christian Gottfried Herder (1774–1806)
+<bzg>Babe</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="133" line="35" sort="2">
@@ -52431,7 +52431,7 @@ und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="154" line="30" sort="2">
-<bzg>Weib … Bube</bzg> <link ref="herder-c" linktext="true" /> u. Wilhelm Christian Gottfried, geb. 1774 
+<bzg>Weib … Bube</bzg> <link ref="herder-c" linktext="true" /> u. <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="433" page="154" line="33" sort="1">
@@ -52455,7 +52455,7 @@ und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="155" line="1">
-<bzg>Sp. Briefw.</bzg> wegen Herders Schrift An Prediger vgl Brief 420
+<bzg>Sp. Briefw.</bzg> wegen <link ref="herder" subref="herder-prediger" linktext="true" />, vgl Brief 420
 und 131,10f.
 </marginal>
 
@@ -52483,7 +52483,7 @@ ebenso zitiert in Lessings berühmtem 17. Literaturbrief vom 16. Februar 1759 ?!
 </marginal>
 
 <marginal letter="433" page="155" line="11">
-<bzg>Prov. Bl.</bzg> Prov.[inzial] Bl.[ätter]: An Prediger. ?!?
+<bzg>Prov. Bl.</bzg> Prov.[inzial] Bl.[ätter]: <link ref="herder" subref="herder-prediger" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="155" line="12">
@@ -53283,7 +53283,7 @@ Westfalen, war 1736 einige Monate frei gewählter König von Korsika. Er wird u.
 </marginal>
 
 <marginal letter="440" page="169" line="19">
-<bzg>Mohrkopf</bzg> Wilhelm Christian Gottfried Herder, geb. 1774
+<bzg>Mohrkopf</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="440" page="169" line="21" sort="1">
@@ -53445,7 +53445,7 @@ Eleusinischen Geheimnisse. Leipzig 1776.
 </marginal>
 
 <marginal letter="441" page="171" line="22">
-<bzg>Bube</bzg> Wilhelm Christian Gottfried Herder, geb. 1774
+<bzg>Bube</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="441" page="171" line="25">
@@ -53471,7 +53471,7 @@ Zimmermann u. J. G. Herder nach bisher ungedruckten Briefen. Worms 1910.
 </marginal>
 
 <marginal letter="441" page="171" line="33">
-<bzg>Provinzialbl.</bzg> An Prediger
+<bzg>Provinzialbl.</bzg> <link ref="herder" subref="herder-prediger" linktext="true" />
 </marginal>
 
 <marginal letter="441" page="171" line="34">
@@ -53570,7 +53570,7 @@ Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
 </marginal>
 
 <marginal letter="442" page="174" line="3">
-<bzg>Säugling</bzg> Wilhelm Christian Gottfried Herder, geb. 1774
+<bzg>Säugling</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 
@@ -53793,7 +53793,7 @@ Brief Nr. 445
 </marginal>
 
 <marginal letter="445" page="177" line="15">
-<bzg>beide Söhne</bzg>  Wilhelm Christian Gottfried Herder, geb. 1774  und Neumann, Johann Christoph (1763-nach 1788), Sohn der Anna Luise Neumann, geb. Herder
+<bzg>beide Söhne</bzg> <link ref="herder-w" linktext="true" />  und Neumann, Johann Christoph (1763-nach 1788), Sohn der Anna Luise Neumann, geb. Herder
 (1741- 1767), Herders Neffe, Kaufmannslehre, Juni 1782 nach Riga, 1783 Angestellter eines
 Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
 </marginal>
@@ -53823,7 +53823,7 @@ Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
 </marginal>
 
 <marginal letter="445" page="178" line="2">
-<bzg>Provinz. Bl.</bzg> An Prediger
+<bzg>Provinz. Bl.</bzg> <link ref="herder" subref="herder-prediger" linktext="true" />
 </marginal>
 
 <marginal letter="445" page="178" line="4">
@@ -54322,8 +54322,7 @@ rechnet (wegen dessen Meditation Die Magi aus Morgenlande ?!?
 
 <marginal letter="448" page="185" line="21">
 <bzg>beinah verworfen</bzg> auf Anraten des
-korrekturlesenden Zollikofer waren, nach der Erfahrung mit dem Streit um die
-Provinzialblätter, polemische Sätze, z. B. die gegen Teller, getilgt worden. ?!?
+korrekturlesenden Zollikofer waren, nach der Erfahrung mit dem Streit um <link ref="herder" subref="herder-prediger" linktext="true" /> polemische Sätze, z. B. die gegen Teller, getilgt worden. ?!?
 </marginal>
 
 <marginal letter="448" page="185" line="28">
@@ -55205,7 +55204,7 @@ und Nicolai.
 </marginal>
 
 <marginal letter="452" page="197" line="3">
-<bzg>Tellerschen Briefes</bzg> der Streit um die Schrift An Prediger und
+<bzg>Tellerschen Briefes</bzg> der Streit um  <link ref="herder" subref="herder-prediger" linktext="true" />  und
 Gefundene Blätter aus den neuesten deutschen Litteraturannalen; nachdem
 Gleims Versuch, Herder als Nachfolger Michaelis' nach Halberstadt zu holen, durch v.
 Zedlitz abgelehnt worden war, machte sich Herder Hoffnungen auf die Göttinger
@@ -55869,18 +55868,16 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="207" line="7">
-<bzg>Höle</bzg> vgl. 155,20
+<bzg>Höle</bzg> vgl. <intlink letter="433" page="155" line="20" linktext="true" /> 
 </marginal>
 
 <marginal letter="456" page="207" line="9">
-<bzg>Spanische Gaul … Pegasus … Hippogryph</bzg> Rosinante, das mythologische geflügelte Pferd, das auf dem
-Helikon den Brunnen Hippokrene mit einem Hufschlag entspringen ließ, Bild
-dichterischer Inspiration (wörtlich ein Pferde- Schreiber, wegen des Pferde-
-Brunnens).
+<bzg>Spanische Gaul … Pegasus … Hippogryph</bzg> Rosinante aus <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />; Pegasus: mythologische geflügeltes Pferd; Hippogryph: Mischwesen aus Greif und Pferd
 </marginal>
 
 <marginal letter="456" page="207" line="19">
-<bzg>Prof. Kopp. von Mitau</bzg> Johann Benjamin K.
+<bzg>Prof. Kopp. von Mitau</bzg> Koppe (Kopp, Köppen, Kopka, Kopke), Johann Benjamin (1750- 1791), 1774 Prof. der griechischen
+Sprache in Mitau, 1784 Generalintendant in Gotha, 1787 in Hannover
 </marginal>
 
 <marginal letter="456" page="207" line="24">
@@ -55897,15 +55894,17 @@ III,52,20ff.
 </marginal>
 
 <marginal letter="456" page="207" line="29">
-<bzg>Krötengehack in Berl.</bzg>
+<bzg>Krötengehack in Berl.</bzg> die Gruppe um <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="207" line="34">
-<bzg>Prof. Heine</bzg> Christian Gottlob Heyne
+<bzg>Prof. Heine</bzg> Heyne, Christian Gottlob (1729- 1812), Prof. der klassischen Philologie und Direktor der
+Universitätsbibliothek in Göttingen, seit 1770 Sekretär der Göttinger Sozietät der Wissenschaften,
+Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="207" line="35">
-<bzg>Geh. Rath Bremer</bzg>
+<bzg>Geh. Rath Bremer</bzg> Benedikt Karl Christian Bremer (1717-1779), Geheimrat und Statsminister der Landesregierung von Hannover
 </marginal>
 
 <marginal letter="456" page="207" line="36">
@@ -55913,24 +55912,23 @@ III,52,20ff.
 </marginal>
 
 <marginal letter="456" page="208" line="1">
-<bzg>Prinz Karl von Mecklenb.</bzg> Charlotte, Prinzessin von Mecklenburg- Strelitz, die
-Gemahlin Georgs III. Wilhelm Friedrich von Hannover, König von Großbritannien
+<bzg>Prinz Karl von Mecklenb.</bzg> Karl zu Mecklenburg-Strelitz (1708–1752), Bruder von Charlotte, Prinzessin von Mecklenburg-Strelitz (1769–1818), Frau von Georg III. Wilhelm Friedrich von Hannover, König von Großbritannien (1738–1820)
 </marginal>
 
 <marginal letter="456" page="208" line="2">
-<bzg>neulich par hasard</bzg> am 5. Sonntag nach Trinitatis, den 16. Juli
+<bzg>neulich par hasard</bzg> zufällig, am 16. Juli
 </marginal>
 
 <marginal letter="456" page="208" line="12">
-<bzg>L. dor</bzg>
+<bzg>L. dor</bzg> Louis d’or; frz. Goldmünze, entspricht ca. 5 Talern bzw. 9 Gulden.
 </marginal>
 
 <marginal letter="456" page="208" line="18">
-<bzg>Glocke der Vettel</bzg>
+<bzg>Glocke der Vettel</bzg> nicht ermittelt
 </marginal>
 
 <marginal letter="456" page="208" line="22">
-<bzg>Penzel</bzg>
+<bzg>Penzel</bzg> <link ref="penzel" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="208" line="24">
@@ -55943,11 +55941,7 @@ Morgenländischen Quelle.
 </marginal>
 
 <marginal letter="456" page="208" line="28">
-<bzg>δουλια του αιωνος τουτου</bzg> Knechtschaft dieses Aeons.
-</marginal>
-
-<marginal letter="456" page="208" line="28">
-<bzg>δουλια του αιωνος τουτου</bzg> Knechtschaft dieses Aeons.
+<bzg>δουλια του αιωνος τουτου</bzg> Knechtschaft dieses Aeons
 </marginal>
 
 <marginal letter="456" page="208" line="32">
@@ -55955,8 +55949,7 @@ Morgenländischen Quelle.
 </marginal>
 
 <marginal letter="456" page="208" line="33">
-<bzg>Rec. der Urk. in der A. D. B</bzg> Rec.[ension] der Urk.[unde] in der A.[llgemeinen] D.[eutschen] B.[ibliothek]:
-Bd 25/1, S. 23- 61
+<bzg>Rec. der Urk. in der A. D. B</bzg> Rec.[ension] der Urk.[unde] in der A.[llgemeinen] D.[eutschen] B.[ibliothek], <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 25/1, S. 23- 61
 </marginal>
 
 <marginal letter="456" page="208" line="34">
@@ -55964,53 +55957,51 @@ Bd 25/1, S. 23- 61
 </marginal>
 
 <marginal letter="456" page="208" line="36">
-<bzg>hämische Beurtheil. der Prov. Bl.</bzg> Prov.[incial] Bl.[ätter]: Bd 23/2, S. 346- 375.
+<bzg>hämische Beurtheil. der Prov. Bl.</bzg> Prov.[incial] Bl.[ätter], <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 23/2, S. 346-375
 </marginal>
 
 <marginal letter="456" page="208" line="37">
-<bzg>Nickel</bzg> halte Nicolai etc. für ein und denselben,
+<bzg>Nickel</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="208" line="38">
-<bzg>Hd, u. Dh. … unum idemque</bzg> 
+<bzg>Hd, u. Dh. … unum idemque</bzg> KPRZEL ?!? dt. ein und derselbe
 </marginal>
 
 <marginal letter="456" page="209" line="1">
-<bzg>Trescho geneckt</bzg> 203,31
+<bzg>Trescho geneckt</bzg> <link ref="trescho-sf" linktext="true" />, vgl. <intlink letter="455" page="203" line="31" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="209" line="2">
-<bzg>Blatt</bzg> der Königsbergschen .. Zeitungen
+<bzg>Blatt</bzg> <link ref="kgpz" linktext="true" /> 
 </marginal>
 
 <marginal letter="456" page="209" line="5">
-<bzg>Layenbr.</bzg> bezieht sich wohl auf die Gespräche mit v. Moser in Darmstadt
-(202,6ff.), es sei denn, daß ein Brief an diesen verschollen ist; es ging wohl um
-Claudius' Versorgung
+<bzg>Layenbr.</bzg> <link ref="moser" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="209" line="7">
-<bzg>sub Rosa</bzg> 
+<bzg>sub Rosa</bzg> Unter dem Siegel der Verschwiegenheit
 </marginal>
 
 <marginal letter="456" page="209" line="8">
-<bzg>Operibus piis</bzg> 
+<bzg>Operibus piis</bzg> dt. fromme Werke 
 </marginal>
 
 <marginal letter="456" page="209" line="12">
-<bzg>Gleim u. seine Nichte</bzg> 
+<bzg>Gleim u. seine Nichte</bzg> <link ref="gleim" linktext="true" /> und Sophia Gleim (1732-1810)
 </marginal>
 
 <marginal letter="456" page="209" line="16">
-<bzg>ingenuus homo</bzg> 
+<bzg>ingenuus homo</bzg> dt. edelmütiger Mensch
 </marginal>
 
 <marginal letter="456" page="209" line="17">
-<bzg>Witwe</bzg> Frau von Beschefer, 249,26f
+<bzg>Witwe</bzg> Sophie Christiane Eleonore v., Beschefer, geb. v. Oheim, Taufpatin der Söhne Herders, 249,26f
 </marginal>
 
 <marginal letter="456" page="209" line="19">
-<bzg>Grafen</bzg> Schaumburg- Lippe.
+<bzg>Grafen</bzg> <link ref="schaumburg-lippe-wilhelm" linktext="true" /> 
 </marginal>
 
 <marginal letter="456" page="209" line="20">
@@ -56018,11 +56009,11 @@ Claudius' Versorgung
 </marginal>
 
 <marginal letter="456" page="209" line="21">
-<bzg>Zanthier</bzg>
+<bzg>Zanthier</bzg> Friedrich Wilhelm v. Zanthier (1741-1781), schaumburg-lipp. Kapitänleutnant
 </marginal>
 
 <marginal letter="456" page="209" line="22">
-<bzg>Kleuker … Zoroasters</bzg>
+<bzg>Kleuker … Zoroasters</bzg> ?!?
 </marginal>
 
 <marginal letter="456" page="209" line="24">
@@ -56030,11 +56021,11 @@ Claudius' Versorgung
 </marginal>
 
 <marginal letter="456" page="209" line="25">
-<bzg>Horst … verst. Kön. in Dännemark</bzg>
+<bzg>Horst … verst. Kön. in Dännemark</bzg> Julius August Friedrich Frh. v. Horst (gest. 1791), Geheimer Etats- , Kriegs- , dirigierender Minister, 1774 entlassen; König: Friedrich V. (1732–1766)
 </marginal>
 
 <marginal letter="456" page="209" line="29">
-<bzg>Mendelsohn</bzg> 122,14f.
+<bzg>Mendelsohn</bzg> <link ref="mendelssohn" linktext="true" />, vgl. 122,14f.
 </marginal>
 
 <marginal letter="456" page="209" line="31">
@@ -56042,15 +56033,15 @@ Claudius' Versorgung
 </marginal>
 
 <marginal letter="456" page="209" line="32">
-<bzg>Sap. Sat!</bzg> Sap.[ienti] sat.
+<bzg>Sap. Sat!</bzg> Sap.[ienti] sat, lat. sprichw. für: für den Verständigen genug
 </marginal>
 
 <marginal letter="456" page="209" line="33" sort="1">
-<bzg>Malagrida</bzg> 
+<bzg>Malagrida</bzg> Gabriel Malagrida (1688-1761), ital. Jesuitenpater, Missionar in Brasilien
 </marginal>
 
 <marginal letter="456" page="209" line="33" sort="2">
-<bzg>Wilkes in carric.</bzg> in carric.[atur].
+<bzg>Wilkes in carric.</bzg> <link ref="wilkes" linktext="true" /> in carric.[atur]
 </marginal>
 
 <marginal letter="456" page="209" line="36">
@@ -56064,19 +56055,20 @@ Hs letztes Bild), zu reproduzieren.
 </marginal>
 
 <marginal letter="456" page="209" line="37">
-<bzg>Marggr. v. Baden</bzg>
+<bzg>Marggr. v. Baden</bzg> Karl Friedrich von Baden (1728–1811)
 </marginal>
 
 <marginal letter="456" page="210" line="1">
-<bzg>Jung</bzg> Jung [-Stilling].
+<bzg>Jung</bzg> Jung, Johann Heinrich, gen. Jung- Stilling (1740- 1817), Augenarzt, Kameralist, Prof. der
+Kameralistik in Kaiserslautern u. Marburg
 </marginal>
 
 <marginal letter="456" page="210" line="4">
-<bzg>Merkur</bzg> 
+<bzg>Merkur</bzg> <link ref="teutsche-merkur" linktext="true" /> 
 </marginal>
 
 <marginal letter="456" page="210" line="5">
-<bzg>Joseph u. Potiphars p oder Asna-Neitha</bzg> 
+<bzg>Joseph u. Potiphars p oder Asna-Neitha</bzg> Ase- Neitha. Eine Erzählung, in: Der Teutsche Merkur 1773. (3 u. 4)
 </marginal>
 
 <marginal letter="456" page="210" line="6" sort="1">
@@ -56084,19 +56076,20 @@ Hs letztes Bild), zu reproduzieren.
 </marginal>
 
 <marginal letter="456" page="210" line="6" sort="2">
-<bzg>Oettinger</bzg> 
+<bzg>Oettinger</bzg> Oetinger, Friedrich Christoph (1702- 1782), evang. Theologe und Theosoph, Abt von Murrhardt
 </marginal>
 
 <marginal letter="456" page="210" line="7">
-<bzg>Klockenbring</bzg> 
+<bzg>Klockenbring</bzg> Klockenbring, Friedrich Arnold (1742- 1795), 1769- 1771 Redakteur der Hannoverschen Anzeigen und
+des Hannoverschen Magazins.
 </marginal>
 
 <marginal letter="456" page="210" line="8" sort="1">
-<bzg>Homer</bzg> 
+<bzg>Homer</bzg> <link ref="homer" linktext="true" /> 
 </marginal>
 
 <marginal letter="456" page="210" line="8" sort="2">
-<bzg>Rameau</bzg> 
+<bzg>Rameau</bzg> Jean-Philippe Rameau, (1683-1764), frz. Komponist und Musiktheoretiker
 </marginal>
 
 <marginal letter="456" page="210" line="11">
@@ -56104,12 +56097,7 @@ Hs letztes Bild), zu reproduzieren.
 </marginal>
 
 <marginal letter="456" page="210" line="13">
-<bzg>Judas Ischarioth Merk</bzg> 99,6ff.; Mercks Frau hatte, als er die
-Großherzogin nach Rußland begleitete, eine Affaire mit einem französischen Offizier;
-das Kind aus dieser Verbindung war weggegeben worden, es starb nach wenigen
-Monaten, was Merck beinahe eine Vernachlässigungsklage und eine Geldstrafe
-eingetragen hätte; sein leiblicher 2. Sohn starb 1775 an Diabetes, er selbst war krank
-und erlebte zahlreiche Niederlagen im Amt (Prang, S. 107 und 111).
+<bzg>Judas Ischarioth Merk</bzg>  Mercks Frau hatte eine Affaire mit einem französischen Offizier; das Kind aus dieser Verbindung war weggegeben worden, es starb nach wenigen Monaten, was Merck beinahe eine Vernachlässigungsklage und eine Geldstrafe eingetragen hätte
 </marginal>
 
 <marginal letter="456" page="210" line="16">
@@ -56117,15 +56105,15 @@ und erlebte zahlreiche Niederlagen im Amt (Prang, S. 107 und 111).
 </marginal>
 
 <marginal letter="456" page="210" line="17" sort="1">
-<bzg>compesce mentem!</bzg>
+<bzg>compesce mentem!</bzg> bezähme deinen Unmut (Hor. c. 1,16,22)
 </marginal>
 
 <marginal letter="456" page="210" line="17" sort="2">
-<bzg>Nikkels</bzg> mit seiner Rezension von An Prediger, 208,35f
+<bzg>Nikkels</bzg><link ref="nicolai" linktext="true" />  mit seiner Rezension von <link ref="herder" subref="herder-prediger" linktext="true" />, 208,35f
 </marginal>
 
 <marginal letter="456" page="210" line="18">
-<bzg>Ostracism</bzg> 
+<bzg>Ostracism</bzg> Ostrakismos, Verbannung von Politikern aus Athen, die tyrannischer Ambitionen verdächtigt wurden
 </marginal>
 
 <marginal letter="456" page="210" line="20">
