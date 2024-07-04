@@ -49821,7 +49821,7 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="16">
-<bzg>Corpora delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" />  und Auch eine Philosophie ?!?
+<bzg>Corpora delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" />  und <link ref="herder" subref="herder-auch" linktext="true" />  
 </marginal>
 
 <marginal letter="414" page="110" line="19">
@@ -49841,7 +49841,7 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="21" sort="3">
-<bzg>Sulzers Wink</bzg>  Sulzers Wink: an Zimmermann und andere Korrespondenten, HAYM I,617ff. Anm. 2. ?!?
+<bzg>Sulzers Wink</bzg> <link ref="sulzer" linktext="true" />  an Zimmermann und andere Korrespondenten, HAYM I,617ff. Anm. 2. ?!?
 </marginal>
 
 <marginal letter="414" page="110" line="23">
@@ -49888,9 +49888,7 @@ Brief Nr. 415
 </marginal>
 
 <marginal letter="415" page="111" line="17" sort="1">
-<bzg>Fulda Wurzelbuch</bzg> Fulda, Friedrich Karl (1724- 1788), evang. Theologe, Historiker
-Preißschrift über die beiden Hauptdialekte der Teutschen Sprache, welche von der königl. Societät der
-Wissenschaften zu Göttingen den 9. November 1771 ist gekrönet worden. Leipzig 1773. ?!?
+<bzg>Fulda Wurzelbuch</bzg> <link ref="fulda" subref="fulda-preißschrift" linktext="true" />  
 </marginal>
 
 <marginal letter="415" page="111" line="17" sort="2">
@@ -49953,7 +49951,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="112" line="18">
-<bzg>Man hu! Man hu!</bzg> dt. „Was ist das?“ , vgl. 2 Mos 16
+<bzg>Man hu! Man hu!</bzg> dt. „Was ist das?“ , vgl. <link ref="at-mo2" subref="at-mo2-16" linktext="false">2 Mo 16</link>
 </marginal>
 
 <marginal letter="416" page="112" line="19">
@@ -49961,7 +49959,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="112" line="20">
-<bzg>Geistlicher in Schwaben</bzg>  das Pseudonym der Beylage zun Denkwürdigkeiten des seligen Sokrates. ?!?
+<bzg>Geistlicher in Schwaben</bzg>  das Pseudonym von <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="112" line="29">
@@ -50017,7 +50015,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="29" sort="1">
-<bzg>Ankündigung</bzg> nicht ermittelt; FULDA ?!?
+<bzg>Ankündigung</bzg> <link ref="fulda" subref="fulda-preißschrift" linktext="true" /> ; nicht ermittelt
 </marginal>
 
 <marginal letter="416" page="113" line="29" sort="2">
@@ -50029,7 +50027,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="4">
-<bzg>Corpora Delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" /> und Auch eine Philosophie ?!?
+<bzg>Corpora Delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" /> und <link ref="herder" subref="herder-auch" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="114" line="6">
@@ -50041,7 +50039,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="16" sort="2">
-<bzg>Sohn</bzg> Philipp Christoph, Jacob Wilhelm oder Johann Jacob Daniel Kanter
+<bzg>Sohn</bzg> Philipp Christoph, Jacob Wilhelm oder Johann Jacob Daniel Kanter ?!?
 </marginal>
 
 <marginal letter="416" page="114" line="19">
@@ -50151,16 +50149,12 @@ Brief Nr. 417
 <bzg>Salomon</bzg> <link ref="at-pr" subref="at-pr9" linktext="false">Pr 9,11</link> 
 </marginal>
 
-<marginal letter="417" page="116" line="34">
-<bzg>Frey Jahr</bzg> Jer 34,8, Grimm DW 4,116; hier wohl ein Feierjahr als Vater. ?!?
-</marginal>
-
 <marginal letter="417" page="116" line="35">
 <bzg>Hintz</bzg> <link ref="hinz" linktext="true" />
 </marginal>
 
 <marginal letter="417" page="116" line="36">
-<bzg>Mitausche Aussichten</bzg> Herders mögliche Berufung 
+<bzg>Mitausche Aussichten</bzg> mögliche Berufung von <link ref="herder" linktext="true" />
 </marginal>
 
 <marginal letter="417" page="117" line="3">
@@ -50174,6 +50168,7 @@ Brief Nr. 417
 <marginal letter="417" page="117" line="22">
 <bzg>Dritte</bzg> Kind
 </marginal>
+
 
 Brief Nr. 417a
 
@@ -50204,7 +50199,7 @@ Brief Nr. 418
 </marginal>
 
 <marginal letter="418" page="118" line="10" sort="2">
-<bzg>guten Advokaten sagen quod …</bzg> H., wegen des übernommenen quod scripsi, scripsi am Schluß der PROLEGOMENA, N III,133 ?!?
+<bzg>guten Advokaten sagen quod …</bzg> vgl. quod scripsi, scripsi am Schluß von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />, N III,133 ?!?
 </marginal>
 
 <marginal letter="418" page="118" line="19">
@@ -50236,7 +50231,7 @@ Brief Nr. 418
 </marginal>
 
 <marginal letter="418" page="119" line="2">
-<bzg>Jacobi</bzg> Friedrich Conrad Jacobi (1752-1816)
+<bzg>Jacobi</bzg> Friedrich Conrad Jacobi (1752–1816)
 </marginal>
 
 <marginal letter="418" page="119" line="3">
@@ -50291,6 +50286,7 @@ Brief Nr. 418
 <bzg>Ohlius</bzg> <link ref="ohlius" linktext="true" />
 </marginal>
 
+
 Brief Nr. 419
 
 <marginal letter="419" page="119" line="13" sort="1">
@@ -50298,7 +50294,7 @@ Brief Nr. 419
 </marginal>
 
 <marginal letter="419" page="119" line="13" sort="2">
-<bzg>Proleg.</bzg> Prolegomena
+<bzg>Proleg.</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="119" line="14">
@@ -50306,12 +50302,12 @@ Brief Nr. 419
 </marginal>
 
 <marginal letter="419" page="119" line="21" sort="1">
-<bzg>Buch</bzg> ?!?
+<bzg>Buch</bzg> wohl <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="119" line="21" sort="2">
 <bzg>Maulwurf</bzg> den Schluß des Ersten Antwortschreibens, das Hamlet- Zitat:
-Well said, old Mole! , N III,129.
+Well said, old Mole! , N III,129. ?!?
 </marginal>
 
 <marginal letter="419" page="119" line="22">
@@ -50343,7 +50339,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="120" line="11">
-<bzg>in magnis voluisse</bzg> N III,126,15f.
+<bzg>in magnis voluisse</bzg> N III,126,15f. ?!?
 </marginal>
 
 <marginal letter="419" page="120" line="12">
@@ -50351,7 +50347,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="120" line="13">
-<bzg>andre 2.</bzg> <link ref="herder" subref="herder-prediger" linktext="true" /> und  Auch eine Philosophie ?!?
+<bzg>andre 2.</bzg> <link ref="herder" subref="herder-prediger" linktext="true" /> und <link ref="herder" subref="herder-auch" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="120" line="15">
@@ -50359,7 +50355,7 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="120" line="18">
-<bzg>Die in Berlin</bzg> ?!?
+<bzg>Berlin</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="419" page="120" line="22">
@@ -50387,13 +50383,11 @@ Well said, old Mole! , N III,129.
 </marginal>
 
 <marginal letter="419" page="121" line="10">
-<bzg>corpora delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" /> und Auch eine Philosophie ?!?
+<bzg>corpora delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" /> und <link ref="herder" subref="herder-auch" linktext="true" />
 </marginal>
 
 <marginal letter="419" page="121" line="15">
-<bzg>Luna</bzg> im allgemeinen die aufklärerischen Berliner; im
-besonderen die Rezension der Aeltesten Urkunde in der Allgemeine[n] deutschen
-Bibliothek [= Berlinsche Luna], Bd. 35/1, durch Nicolai und J. A. Eberhard. ?!?
+<bzg>Luna</bzg> der Kreis um <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="419" page="121" line="17">
@@ -50425,8 +50419,7 @@ Bibliothek [= Berlinsche Luna], Bd. 35/1, durch Nicolai und J. A. Eberhard. ?!?
 </marginal>
 
 <marginal letter="419" page="122" line="4">
-<bzg>2. Stücke W.</bzg> <link ref="leisewitz" linktext="true" />, 2 Dialoge, in: Poetische Blumenlese auf das Jahr
-1775
+<bzg>2. Stücke W.</bzg> <link ref="leisewitz" linktext="true" />, 2 Dialoge, in: Poetische Blumenlese auf das Jahr 1775 ?!?
 </marginal>
 
 <marginal letter="419" page="122" line="6">
@@ -50563,7 +50556,7 @@ die Briefe 91, 102 und 112; ?!?
 </marginal>
 
 <marginal letter="420" page="123" line="35">
-<bzg>Posauner</bzg> <link ref="teller" linktext="true" /> hatte dem <link ref="jerusalem-jfw" linktext="true" /> in Braunschweig Mitteilung gemacht, <link ref="sulzer" linktext="true" /> und <link ref="nicolai" linktext="true" />
+<bzg>Posauner</bzg> <link ref="teller" linktext="true" /> hatte <link ref="jerusalem-jfw" linktext="true" /> in Braunschweig Mitteilung gemacht, <link ref="sulzer" linktext="true" /> und <link ref="nicolai" linktext="true" />
 teilten Ts Meinung und verbreiteten sie mit allerhand Gerüchten weiter.
 </marginal>
 
@@ -50588,7 +50581,7 @@ teilten Ts Meinung und verbreiteten sie mit allerhand Gerüchten weiter.
 </marginal>
 
 <marginal letter="420" page="124" line="9">
-<bzg>Bogen in Makulatur</bzg> Erläuterungen zum Neuen Testament.
+<bzg>Bogen in Makulatur</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" /> 
 </marginal>
 
 <marginal letter="420" page="124" line="12">
@@ -50745,7 +50738,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="127" line="4">
-<bzg>das erste</bzg> Auch eine Geschichte ?!?
+<bzg>das erste</bzg> <link ref="herder" subref="herder-auch" linktext="true" />
 </marginal>
 
 <marginal letter="421" page="127" line="7">
@@ -52472,7 +52465,7 @@ und 131,10f.
 </marginal>
 
 <marginal letter="433" page="155" line="9">
-<bzg>Buch</bzg> Erläuterungen zum Neuen Testament;
+<bzg>Buch</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />
 mit diesem Zitat wohl anspielend auf Bodmers Schrift Sinnliche Erzählung von der
 mechanischen Verfertigung des deutschen Originalstücks, des Gottschedischen Cato,
 ebenso zitiert in Lessings berühmtem 17. Literaturbrief vom 16. Februar 1759 ?!?
@@ -53181,7 +53174,7 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="167" line="28">
-<bzg>mit Kleister und Scheere fertige Buch</bzg> Erläuterungen zum Neuen Testament, 155,9.
+<bzg>mit Kleister und Scheere fertige Buch</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />, 155,9.
 </marginal>
 
 <marginal letter="440" page="167" line="30">
@@ -53429,7 +53422,7 @@ Eleusinischen Geheimnisse. Leipzig 1776.
 </marginal>
 
 <marginal letter="441" page="171" line="14">
-<bzg>letzten Schrift … vidi</bzg> Erläuterungen zum Neuen Testament
+<bzg>letzten Schrift … vidi</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />
 </marginal>
 
 <marginal letter="441" page="171" line="15">
@@ -53479,7 +53472,7 @@ Zimmermann u. J. G. Herder nach bisher ungedruckten Briefen. Worms 1910.
 </marginal>
 
 <marginal letter="441" page="171" line="35">
-<bzg>Philos</bzg> Auch eine Geschichte der Philosophie
+<bzg>Philos</bzg> <link ref="herder" subref="herder-auch" linktext="true" />
 </marginal>
 
 <marginal letter="441" page="172" line="4">
@@ -53803,7 +53796,7 @@ Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
 </marginal>
 
 <marginal letter="445" page="177" line="29">
-<bzg>Magier aus Morgenland</bzg> Erläuterungen zum Neuen Testament, SWS VII,353ff.
+<bzg>Magier aus Morgenland</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />, SWS VII,353ff.
 </marginal>
 
 <marginal letter="445" page="177" line="30">
@@ -54229,7 +54222,7 @@ Konstantin, Helmstedt 1753, Biga 80/94- 96; auch N V,314,15ff
 </marginal>
 
 <marginal letter="447" page="184" line="12">
-<bzg>Bückeburger … Zendavest</bzg> Herders Erläuterungen zum Neuen Testament, SWS VII,335-
+<bzg>Bückeburger … Zendavest</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />, SWS VII,335-
 470, 185,8ff.
 </marginal>
 
@@ -54311,7 +54304,7 @@ Brief Nr. 448
 </marginal>
 
 <marginal letter="448" page="185" line="17">
-<bzg>Magier</bzg> in den Erläuterungen zum Neuen Testament das Kapitel Von den
+<bzg>Magier</bzg> in <link ref="herder" subref="herder-erlaeuterungen" linktext="true" /> das Kapitel Von den
 Weisen aus Morgenlande, SWS VII,397ff., weil Herder mit Hs besonderem Interesse
 rechnet (wegen dessen Meditation Die Magi aus Morgenlande ?!?
 </marginal>
@@ -54339,7 +54332,7 @@ zum Druck in die Meyersche Buchhandlung
 </marginal>
 
 <marginal letter="448" page="185" line="33" sort="2">
-<bzg>Prov. u. Phil.</bzg> Auch eine Philosophie der Geschichte zur Bildung
+<bzg>Prov. u. Phil.</bzg> <link ref="herder" subref="herder-auch" linktext="true" />
 der Menschheit.
 </marginal>
 
@@ -54875,7 +54868,7 @@ recensieren ?!?
 </marginal>
 
 <marginal letter="450" page="192" line="1">
-<bzg>Magier</bzg> Erläuterungen zum Neuen Testament.
+<bzg>Magier</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="192" line="2">
@@ -55589,8 +55582,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="202" line="27">
-<bzg>Arbeiten</bzg> Briefe zweener Jünger Jesu, Erläuterungen zum Neuen
-Testament; Ursachen des gesunknen Geschmacks ?!?
+<bzg>Arbeiten</bzg> Briefe zweener Jünger Jesu, <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />; Ursachen des gesunknen Geschmacks ?!?
 </marginal>
 
 <marginal letter="455" page="202" line="28">
@@ -55602,7 +55594,7 @@ Testament; Ursachen des gesunknen Geschmacks ?!?
 </marginal>
 
 <marginal letter="455" page="203" line="8">
-<bzg>Erläuterungen</bzg>  ?!?
+<bzg>Erläuterungen</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="203" line="15">
@@ -55797,7 +55789,7 @@ sentimentalisierte und verkleinerte Griechentum.
 </marginal>
 
 <marginal letter="455" page="205" line="34">
-<bzg>Erläuterungen</bzg> 
+<bzg>Erläuterungen</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="205" line="35">
@@ -55936,8 +55928,7 @@ Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="208" line="26">
-<bzg>Erläuter.</bzg> zum Neuen Testament aus einer neueröfneten
-Morgenländischen Quelle.
+<bzg>Erläuter.</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="208" line="28">
