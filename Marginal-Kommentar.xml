@@ -50908,7 +50908,7 @@ der Parsen aufbehalten sind. A. d. Frz. [ v. J. F. Kleuker]. 3 Thle. Riga 1776/8
 </marginal>
 
 <marginal letter="423" page="129" line="10">
-<bzg>Sibylle mit einer Magdalene</bzg> <link ref="schumacher-ar" linktext="true" /> und die neugeborene Tochter Magdalena Catharina 
+<bzg>Sibylle mit einer Magdalene</bzg> <link ref="schumacher-ar" linktext="true" /> und die neugeborene Tochter <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="423" page="129" line="11">
@@ -51006,7 +51006,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="21">
-<bzg>Heinr. Schröder</bzg> ?!?
+<bzg>Heinr. Schröder</bzg> der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="22">
@@ -51026,7 +51026,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="28">
-<bzg>Tochter</bzg> Magdalena Catharina 
+<bzg>Tochter</bzg> <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="130" line="30">
@@ -51241,7 +51241,7 @@ Toskanische Sprachlehre. Leipzig 1750. Biga 71/200. ?!?
 </marginal>
 
 <marginal letter="424" page="133" line="29">
-<bzg>Käthchen</bzg> Magdalena Catharina Hamann, geb. 1774
+<bzg>Käthchen</bzg> <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="133" line="30" sort="1">
@@ -51275,7 +51275,7 @@ Fassung von 1766, und Philoktetes. Scenen mit Gesang, 1774. ?!?
 </marginal>
 
 <marginal letter="424" page="133" line="37">
-<bzg>Lehnchen Käthe</bzg> Magdalena Catharina Hamann, geb. 1774
+<bzg>Lehnchen Käthe</bzg> <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="134" line="1">
@@ -51694,7 +51694,7 @@ aber unwissend.
 </marginal>
 
 <marginal letter="425" page="140" line="19">
-<bzg>Lehnchen</bzg> Magdalena Catharina Hamann, geb. 1774
+<bzg>Lehnchen</bzg> <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="425" page="140" line="21">
@@ -51842,7 +51842,7 @@ er bis zur Reife in Jupiters Schenkel genäht.
 </marginal>
 
 <marginal letter="426" page="142" line="19">
-<bzg>in alienam messem</bzg> <link ref="nt-jo" subref="nt-jo4" linktext="false">Joh 4,38</link>, mit Anspielung auf die Buchmesse.
+<bzg>in alienam messem</bzg> <link ref="nt-jo" subref="nt-jo4" linktext="false">Joh 4,38</link>, mit Anspielung auf die Buchmesse
 </marginal>
 
 <marginal letter="426" page="142" line="21">
@@ -51850,13 +51850,11 @@ er bis zur Reife in Jupiters Schenkel genäht.
 </marginal>
 
 <marginal letter="426" page="142" line="22">
-<bzg>Schlötzers</bzg>dessen Skoliodoxievorwurf gegen Herder H. in der Besprechung von Schlözers Vorstellung einer Universalhistorie in den
-Königsbergschen ... Zeitungen, Januar 1774, persifliert hatte, 98,31 und 143,27 ?!?
+<bzg>Schlötzers</bzg> dessen Skoliodoxievorwurf gegen <link ref="herder" linktext="true" /> H. in der Besprechung von <link ref="schlozer" subref="schlozer-universalhistorie" linktext="true" /> in <link ref="kgpz" linktext="true" />, Januar 1774, persifliert hatte ?!?
 </marginal>
 
 <marginal letter="426" page="142" line="24">
-<bzg>Vigor meiner Muse und ihres uteri</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />, die H. Bode zum
-Verlag anzubieten gedachte
+<bzg>Vigor meiner Muse und ihres uteri</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />
 </marginal>
 
 <marginal letter="426" page="142" line="31">
@@ -51892,7 +51890,7 @@ Verlag anzubieten gedachte
 </marginal>
 
 <marginal letter="426" page="143" line="6">
-<bzg>Claudia und Claudilla</bzg>  Claudius, Anna Rebecca, geb. Behn (1754- 1832), dessen Frau (seit 1772) und Claudius, Christiana Augusta Maria (1775- 1796) ?!?
+<bzg>Claudia und Claudilla</bzg> <link ref="claudius-r" linktext="true" /> und <link ref="claudius-ch" linktext="true" />
 </marginal>
 
 <marginal letter="426" page="143" line="8">
@@ -51932,7 +51930,7 @@ Verlag anzubieten gedachte
 </marginal>
 
 <marginal letter="426" page="143" line="24" sort="1">
-<bzg>Amicus Matthias Claudius, amicus Bodius Magnus</bzg> Freund Matthias Claudius, Freund großer Bode
+<bzg>Amicus Matthias Claudius, amicus Bodius Magnus</bzg> Freund <link ref="claudius" linktext="true" />, Freund großer <link ref="bode-jjc" linktext="true" />
 </marginal>
 
 <marginal letter="426" page="143" line="24" sort="2">
@@ -51944,12 +51942,8 @@ Verlag anzubieten gedachte
 </marginal>
 
 <marginal letter="426" page="143" line="28">
-<bzg>SchnickSchnack</bzg> Anspielung auf Claudius' Rezension von Schlözers Vorstellung
-einer Universalhistorie im Wandsbecker Boten, wo es gegen Ende heißt: der Rezensent
-gebe seinen Schnickschnack für nichts mehr als für Schnickschnack [aus], für eine
-kleine Übereilung, die aber heilsam und fast unentbehrlich war, bis Hr. Prof. S. den
-2. Teil seiner Vorstellung für eine große Übereilung erklärt, ihn mit Stumpf und Stiel
-ausrottet, und den Boden bei einer zwoten Auflage mit historischem Salz bestreut. ?!?
+<bzg>SchnickSchnack</bzg> Anspielung auf die Rezension durch <link ref="claudius" linktext="true" /> von <link ref="schlozer" subref="schlozer-universalhistorie" linktext="true" /> in <link ref="claudius" subref="claudius-bothe" linktext="true" />: „der Rezensent gebe seinen Schnickschnack für nichts mehr als für Schnickschnack [aus], für eine
+kleine Übereilung, die aber heilsam und fast unentbehrlich war, bis Hr. Prof. S. den 2. Teil seiner Vorstellung für eine große Übereilung erklärt, ihn mit Stumpf und Stiel ausrottet, und den Boden bei einer zwoten Auflage mit historischem Salz bestreut.“
 </marginal>
 
 <marginal letter="426" page="143" line="31">
@@ -51981,7 +51975,7 @@ Onesimus soll der Legende nach Bischof vermutlich von Ephesos oder von Byzantium
 </marginal>
 
 <marginal letter="426" page="144" line="2">
-<bzg>Claudia … Claudilla</bzg> Claudius, Anna Rebecca, geb. Behn (1754- 1832), dessen Frau (seit 1772) und Claudius, Christiana Augusta Maria (1775- 1796) ?!?
+<bzg>Claudia … Claudilla</bzg> <link ref="claudius-r" linktext="true" /> und <link ref="claudius-ch" linktext="true" />
 </marginal>
 
 <marginal letter="426" page="144" line="3">
@@ -52165,7 +52159,7 @@ König in einem Gedicht besungen hatte. ?!?
 </marginal>
 
 <marginal letter="429" page="147" line="25" sort="2">
-<bzg>Lehne Käthe</bzg> Magdalena Catharina Hamann, geb. 1774
+<bzg>Lehne Käthe</bzg> <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="429" page="147" line="26">
@@ -52266,7 +52260,7 @@ Brief Nr. 432
 </marginal>
 
 <marginal letter="432" page="151" line="7">
-<bzg>Lehnchen Käthe</bzg> Magdalena Catharina Hamann, geb. 1774
+<bzg>Lehnchen Käthe</bzg> <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="432" page="151" line="10">
@@ -52420,7 +52414,7 @@ und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="154" line="30" sort="1">
-<bzg>Tochter</bzg> Magdalena Catharina Hamann, geb. 1774
+<bzg>Tochter</bzg> <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="433" page="154" line="30" sort="2">
@@ -53210,7 +53204,7 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="168" line="17">
-<bzg>Physiognomisten</bzg> <link ref="lavater" linktext="true" />
+<bzg>Physiognomisten</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" /> 
 </marginal>
 
 <marginal letter="440" page="168" line="18">
@@ -53911,7 +53905,7 @@ Goethes Satiren. ?!?
 Brief Nr. 446
 
 <marginal letter="446" page="179" line="19">
-<bzg>Drama</bzg> Vertonung des Gedichts von  <link ref="claudius" linktext="true" /> „An die Nachtigall“, <link ref="claudius" subref="claudius-werke" linktext="true" /> I/II, S. 56
+<bzg>Drama</bzg> Vertonung des Gedichts von <link ref="claudius" linktext="true" /> „An die Nachtigall“, <link ref="claudius" subref="claudius-werke" linktext="true" /> I/II, S. 56
 </marginal>
 
 <marginal letter="446" page="179" line="22">
@@ -54103,8 +54097,7 @@ stehen
 </marginal>
 
 <marginal letter="447" page="183" line="2">
-<bzg>Kriegsrath Hennings, Hoffrath (von) Ehrenreich</bzg> <link ref="hennings" linktext="true" />; Ehrenreich, Johann Eberhard Ludwig (1722- 1803), ehemaliger Leibarzt des schwedischen Königs,
-gründete 1776 eine Steingut- und Fayencefabrik
+<bzg>Kriegsrath Hennings, Hoffrath (von) Ehrenreich</bzg> <link ref="hennings" linktext="true" />; Johann Eberhard Ludwig Ehrenreich (1722-1803), ehemaliger Leibarzt des schwedischen Königs, gründete 1776 eine Steingut- und Fayencefabrik
 </marginal>
 
 <marginal letter="447" page="183" line="5">
@@ -54128,7 +54121,7 @@ gründete 1776 eine Steingut- und Fayencefabrik
 </marginal>
 
 <marginal letter="447" page="183" line="11">
-<bzg>Grafen Anhalt</bzg> Anhalt, Friedrich Graf v. (1732- 1794), Generalmajor im Heere Friedrichs II. von Preußen.
+<bzg>Grafen Anhalt</bzg> Friedrich Graf v. Anhalt (1732- 1794), Generalmajor im Heere Friedrichs II. von Preußen
 </marginal>
 
 <marginal letter="447" page="183" line="13">
@@ -54136,22 +54129,15 @@ gründete 1776 eine Steingut- und Fayencefabrik
 </marginal>
 
 <marginal letter="447" page="183" line="15">
-<bzg>Rebecca und Ihre kleine Tochter und mein kleiner Pathe</bzg> <link ref="claudius-r" linktext="true" /> ?!?
+<bzg>Rebecca und Ihre kleine Tochter und mein kleiner Pathe</bzg> <link ref="claudius-r" linktext="true" />, <link ref="claudius-m" linktext="true" /> und <link ref="claudius-ch" linktext="true" />?!?
 </marginal>
 
 <marginal letter="447" page="183" line="16">
-<bzg>Lehnchen Käthe</bzg> Magdalena Catharina Hamann, geb. 1774
+<bzg>Lehnchen Käthe</bzg> <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="447" page="183" line="16">
 <bzg>Mutter</bzg> <link ref="hamann-mm" linktext="true" />
-</marginal>
-
-<marginal letter="447" page="183" line="21">
-<bzg>Scherz</bzg> Matthias Claudius hatte wohl vom Melken seiner Ziege
-Amalthea geschrieben, N IV, 387,44, (Amalthea genannt nach jener Nymphe, die den
-jungen Zeus mit der Milch ihrer Ziege aufzuziehen hatte, bzw. selbst dessen nährende
-Ziege war, mit Hörnern, die Ambrosia und Nectar spendeten
 </marginal>
 
 <marginal letter="447" page="183" line="22">
@@ -54205,7 +54191,7 @@ Opuscula ad historiam et jurisprudentiam spectantia. Collegit et praefatus est C
 <marginal letter="447" page="184" line="5">
 <bzg>Adelgunde</bzg> Pseudonym seines geplanten Konxompax, weil H. am 30. Januar
 1775, dem Namenstag Adelgundes, das erste Exemplar seines Versuch einer Sibylle
-über die Ehe erhalten hatte
+über die Ehe erhalten hatte ?!?
 </marginal>
 
 <marginal letter="447" page="184" line="9" sort="1">
@@ -54546,7 +54532,7 @@ Altertumsforscher, 1610 Prof. der Geschichte in Leiden
 </marginal>
 
 <marginal letter="449" page="188" line="24">
-<bzg>Mohrenkopf</bzg> Wilhelm Ch. G. Herder
+<bzg>Mohrenkopf</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="449" page="188" line="25">
@@ -54602,7 +54588,7 @@ es ein apokryphisches, und das Buch der Weisheit war, N II,187f., Anm. 1. ?!?
 </marginal>
 
 <marginal letter="449" page="189" line="13">
-<bzg>zu Wandsbeck Gevatter</bzg> für die Tochter Christiana Augusta, die dann in der Tat Hs Patenkind wurde
+<bzg>zu Wandsbeck Gevatter</bzg> für <link ref="claudius-ch" linktext="true" /> 
 </marginal>
 
 <marginal letter="449" page="189" line="14">
@@ -54618,8 +54604,7 @@ es ein apokryphisches, und das Buch der Weisheit war, N II,187f., Anm. 1. ?!?
 </marginal>
 
 <marginal letter="449" page="189" line="20">
-<bzg>Creutzfeld</bzg> Kreutzfeld (Creutzfeld), Johann Gottlieb (1745- 1784), deren Sohn, seit 1776 Prof. der Poesie an der
-Universität Königsberg als Nachfolger v. J. G. Lindner,
+<bzg>Creutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
 </marginal>
 
 <marginal letter="449" page="189" line="21">
@@ -54666,7 +54651,7 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="190" line="6">
-<bzg>lahme Wansb.</bzg> claudius
+<bzg>lahme Wansb.</bzg> <link ref="claudius" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="190" line="7">
@@ -54782,7 +54767,7 @@ universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740.
 </marginal>
 
 <marginal letter="450" page="191" line="16" sort="2">
-<bzg>alter Ruprecht</bzg> Zitat aus der Dedikation des Asmus ?!?
+<bzg>alter Ruprecht</bzg> Zitat aus der Dedikation von <link ref="claudius" subref="claudius-werke" linktext="true" />  ?!?
 </marginal>
 
 <marginal letter="450" page="191" line="18">
@@ -54836,7 +54821,7 @@ recensieren ?!?
 </marginal>
 
 <marginal letter="450" page="191" line="30" sort="1">
-<bzg>Mohrenkopf</bzg> Herders Sohn
+<bzg>Mohrenkopf</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="191" line="30" sort="2">
@@ -54896,7 +54881,7 @@ recensieren ?!?
 </marginal>
 
 <marginal letter="450" page="192" line="12">
-<bzg>Kreuzfeld</bzg> Creutzfeld
+<bzg>Kreuzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="192" line="13">
@@ -55022,7 +55007,7 @@ nach ihrer Geburt, gen Cyprus geschwemmt wurde.
 </marginal>
 
 <marginal letter="452" page="194" line="11">
-<bzg>Mohrenkopf</bzg> Wilhelm Ch. G. Herder
+<bzg>Mohrenkopf</bzg> <link ref="herder-w" linktext="true" /> 
 </marginal>
 
 <marginal letter="452" page="194" line="14">
@@ -55106,7 +55091,7 @@ nach ihrer Geburt, gen Cyprus geschwemmt wurde.
 </marginal>
 
 <marginal letter="452" page="195" line="27">
-<bzg>Kopfs</bzg> aus Lavaters Physiognomische[n] Fragmente[n], wo im
+<bzg>Kopfs</bzg> aus <link ref="lavater" subref="lavater-fragmente" linktext="true" />, wo im
 zweyten Versuch, 1776, im 36. Fragment, das Religiöse, Schwärmer, Theosophen,
 Seher enthält, gegenüber von S. 285 das Bild Hs zu sehen ist (Stich von Lips) mit Ls
 physiognomisch gegründeter emphatischer Charakterdeutung, an die sich auf S. 286
@@ -55129,7 +55114,7 @@ Episode in Hs Leben, die ihm lange zu schaffen machte; vgl 453 an Kant und Herde
 </marginal>
 
 <marginal letter="452" page="195" line="34">
-<bzg>CAROLINE</bzg> im XVII. Fragment des Ersten Versuchs, 1755, unter E.
+<bzg>CAROLINE</bzg> im XVII. Fragment des Ersten Bands von <link ref="lavater" subref="lavater-fragmente" linktext="true" />  unter E.
 Vier Silhouetten möglicherweise die 4.; da in dem Exemplar, das zum Faksimile-
 Neudruck des Verlags Orell Füssli, 1986, als Vorlage diente, sich die zeitgenössische
 Notiz Herdern [Herderin?] findet.
@@ -55176,7 +55161,7 @@ Notiz Herdern [Herderin?] findet.
 </marginal>
 
 <marginal letter="452" page="196" line="28">
-<bzg>2ten Theil seiner Physiognomien</bzg> ?!?
+<bzg>2ten Theil seiner Physiognomien</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, 1776
 </marginal>
 
 <marginal letter="452" page="196" line="29">
@@ -55263,7 +55248,7 @@ unterstellt. ?!?
 </marginal>
 
 <marginal letter="452" page="197" line="35">
-<bzg>Creutzfeld</bzg> ?!?
+<bzg>Creutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
 </marginal>
 
 <marginal letter="452" page="197" line="36">
@@ -55278,7 +55263,7 @@ Brief Nr. 453
 </marginal>
 
 <marginal letter="453" page="198" line="4">
-<bzg>Fragmente</bzg> H. vermutet, daß Kant den Ersten Versuch von 1775 kenne, und
+<bzg>Fragmente</bzg> H. vermutet, daß Kant den Ersten Versuch von 1775 in <link ref="lavater" subref="lavater-fragmente" linktext="true" />   kenne, und
 irrtümlich, daß darin sein ärgerliches Porträt, die erwähnte Umrißzeichnung zu finden
 sei.
 </marginal>
@@ -55323,8 +55308,7 @@ bezieht (Biga 10/159).
 </marginal>
 
 <marginal letter="453" page="199" line="3">
-<bzg>St. Lips</bzg> Lips, Johann Heinrich (1758- 1817), Kupferstecher in Zürich, arbeitete für Lavaters Physiognomische
-Fragmente, auch das Hamann- Porträt.
+<bzg>St. Lips</bzg> Lips, Johann Heinrich (1758- 1817), Kupferstecher in Zürich, arbeitete für <link ref="lavater" subref="lavater-fragmente" linktext="true" /> , auch das Hamann- Porträt.
 </marginal>
 
 <marginal letter="453" page="199" line="5">
@@ -55345,8 +55329,7 @@ Quelle: Hor. epist. 1,10,24-25
 </marginal>
 
 <marginal letter="453" page="199" line="17">
-<bzg>Cicisbeo</bzg> Lips, Johann Heinrich (1758- 1817), Kupferstecher in Zürich, arbeitete für Lavaters Physiognomische
-Fragmente, auch das Hamann- Porträt. gemeint ist der Zürcher Kupferstecher Lips, Cicisbeo:
+<bzg>Cicisbeo</bzg> Lips, Johann Heinrich (1758- 1817), Kupferstecher in Zürich, arbeitete für<link ref="lavater" subref="lavater-fragmente" linktext="true" /> , auch das Hamann- Porträt. gemeint ist der Zürcher Kupferstecher Lips, Cicisbeo:
 Fremdenführer und Damenbegleiter, zugleich in doppeltem Sinne Hausfreund, nämlich
 Lavaters. Er ist auch der Stecher von Hs Porträt, 196,27 und 201,1ff., wovon H. (Zeile
 21) erfuhr.
@@ -55440,7 +55423,7 @@ Brief Nr. 454
 </marginal>
 
 <marginal letter="454" page="201" line="3">
-<bzg>Ich u. mein Weib</bzg> im IX. Fragment Herder; im XVII. Fragment sind 4 Silhouetten
+<bzg>Ich u. mein Weib</bzg> im IX. Fragment von <link ref="lavater" subref="lavater-fragmente" linktext="true" /> Herder; im XVII. Fragment sind 4 Silhouetten
 zu sehen und unter der 4. hat Lavater in seinem Exemplar notiert Herdern; auch im
 Zweyten Versuch, 1776, ist Herder in einem Schattenriß, S. 102, vertreten. ?!?
 </marginal>
@@ -55646,7 +55629,7 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 </marginal>
 
 <marginal letter="455" page="204" line="9">
-<bzg>Lavaters phys. Fragmente</bzg> ?!?
+<bzg>Lavaters phys. Fragmente</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="204" line="11">
@@ -55666,7 +55649,7 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 </marginal>
 
 <marginal letter="455" page="204" line="14">
-<bzg>Göthe</bzg> <link ref="goethe" linktext="true" />, IX Abschnitt, VI. Fragment
+<bzg>Göthe</bzg> <link ref="goethe" linktext="true" />, <link ref="lavater" subref="lavater-fragmente" linktext="true" />, IX Abschnitt, VI. Fragment
 </marginal>
 
 <marginal letter="455" page="204" line="14">
@@ -55703,7 +55686,7 @@ Einfälle
 </marginal>
 
 <marginal letter="455" page="205" line="3">
-<bzg>Paentzel, Krause und Kreutzfeld</bzg> <link ref="penzel" linktext="true" />, <link ref="kraus" linktext="true" />, ?!?
+<bzg>Paentzel, Krause und Kreutzfeld</bzg> <link ref="penzel" linktext="true" />, <link ref="kraus" linktext="true" /> und <link ref="kreutzfeld" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="205" line="5">
