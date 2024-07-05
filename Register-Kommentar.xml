@@ -2722,8 +2722,18 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 </kommentar>
 
 <kommentar id="claudius-r" type="neuzeit">
-<lemma>Rebecca Claudius</lemma>
+<lemma>Anna Rebecca Claudius</lemma>
 <eintrag>1754–1832. Geb. Behn, seit März 1772 Ehefrau von <link ref="claudius" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="claudius-m" type="neuzeit">
+<lemma>Maria Caroline Elisabeth Claudius</lemma>
+<eintrag>1774-1821. Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="claudius-ch" type="neuzeit">
+<lemma>Christiana Augusta Maria Claudius</lemma>
+<eintrag>1775-1796. Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="clausnitzer" type="neuzeit">
@@ -5999,6 +6009,11 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <eintrag>27. September 1769 bis 12. Dezember 1813. Sohn von <link ref="hamann" linktext="true" />. Studierte Medizin und begleitete seinen Vater auf der Reise nach Pempelfort; später angesehener Pädagoge am Altstädtischen Gymnasium und Lyriker</eintrag>
 </kommentar>
 
+<kommentar id="hamann-mc" type="neuzeit">
+<lemma>Magdalena Catharina Hamann</lemma>
+<eintrag>1774–1849. Tochter von <link ref="hamann" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="hamann-vjc" type="neuzeit">
 <lemma>Johann Christoph Hamann (Vater)</lemma>
 <eintrag>1697–1766. Vater von <link ref="hamann" linktext="true" /> und <link ref="hamann-jc" linktext="true" />, Bader bzw. Wundarzt in Königsberg; zur Familiengeschichte s. <link ref="kno-r-1988" linktext="false">Knoll 1988</link>.</eintrag>
@@ -8215,6 +8230,13 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 </subsection>
 </kommentar>
 
+
+<kommentar id="kreutzfeld" type="neuzeit">
+<lemma>Johann Gottlieb Kreutzfeld</lemma>
+<eintrag>1745–1784. Seit 1776 Prof. der Poesie an der Universität Königsberg.</eintrag>
+</kommentar>
+
+
 <kommentar id="krickende" type="neuzeit">
 <lemma>Samuel Krickende</lemma>
 <eintrag>1736–1797. Hauslehrer in Berlin bei <link ref="sussmilch" linktext="true" />, 1765 Feldprediger in Schlesien, später Pastor zu Tschöplowitz.</eintrag>
@@ -8539,6 +8561,12 @@ Herrn Carl Bonnets […] <titel>philosophische Untersuchung der Beweise für das
 <eintrag>
 <titel>Antwort an den Herrn Moses Mendelssohn</titel> von Johann Caspar Lavater. Nebst einer Nacherinnerung von Moses Mendelssohn (Berlin, Stettin: Nicolai 1770) [Biga&#x202F;119/301: „Des letzteren Antwort, nebst einer Nacherinnerung von Moses Mendelssohn, ib. eod.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10777516-5">BSB München: Polem. 3022,8</wwwlink>.</eintrag>
 </subsection>
+<subsection id="lavater-fragmente" type="neuzeit" sort="30">
+<lemma>Lavater, <titel>Physiognomische Fragmente</titel></lemma>
+<eintrag>
+<titel>Physiognomische Fragmente zur Beförderung der Menschenkenntnis und Menschenliebe</titel> (4 Bde., Leipzig, Winterthur: Weidmanns Erben 1775–1778). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-1099">ETH-Bibliothek Zürich: Rar 9206</wwwlink>.</eintrag>
+</subsection>
+
 </kommentar>
 
 <kommentar id="lavater-l" type="neuzeit">
