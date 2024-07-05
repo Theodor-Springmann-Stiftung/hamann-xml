@@ -6511,6 +6511,19 @@ Leipz. 774“ u. „An Prediger, funfzehn Provincial-Blaetter, Lips. 774. Don. A
 des N. T. aus einer morgenländischen Urquelle, Riga 775“]. – SWS VII, S.&#x202F;335–469.
 </eintrag>
 </subsection>
+<subsection id="herder-briefebruder" type="neuzeit" sort="390">
+<lemma>Herder, <titel>Briefe zweener Brüder Jesu in unserm Kanon</titel></lemma>
+<eintrag>
+<titel>Briefe zweener Brüder Jesu in unserm Kanon. Nebst einer Probe nichtiger Conjekturen übers N. T. zum Anhange</titel> (Lemgo: in der Meyerschen Buchhandlung 1775) [Biga&#x202F;41/384 u. 51/546: „Briefe zweener Brüder JEsu in unserm Kanon, Lemg. 775“ u. „Briefe zweener Brüder Jesu in unserm Kanon, Lemgo 775. Donum AVCTORIS“]. – Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.490927">UB Heidelberg: Q 910-8 RES</wwwlink>. SWS VII, S.&#x202F;471–561.
+</eintrag>
+</subsection>
+<subsection id="herder-geschmack" type="neuzeit" sort="395">
+<lemma>Herder, <titel>Ursachen des gesunknen Geschmacks</titel></lemma>
+<eintrag>
+<titel>Ursachen des gesunknen Geschmacks bei den verschiednen Völkern, da er geblühet. Eine Abhandlung, welche den von der Kgl. Academie der Wissenschaften für das Jahr 1773 gesetzten Preis erhalten hat. Motto: Multa renascentur, quae iam cecidere. Vieles, was schon untergegangen, wird wieder erstehen. [Hor. ars 70].</titel> (Berlin: Voß 1775) [Biga&#x202F;156/448: „Herders Preisschrift über die Ursache
+des gesunkenen Geschmacks, Berl. 776“]. – Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573993-4">München, Bayerische Staatsbibliothek: L.eleg.g. 186</wwwlink>. – SWS V, S.&#x202F;595–665.
+</eintrag>
+</subsection>
 <subsection id="herder-plastik" type="neuzeit" sort="400">
 <lemma>Herder, <titel>Plastik</titel></lemma>
 <eintrag>
@@ -10807,7 +10820,7 @@ N
 
 <kommentar id="neue-hallische-zeitungen" type="neuzeit">
 <lemma>Neue Hallische Gelehrte Zeitungen</lemma>
-<eintrag>Bde. 1-27, Halle: Curt 1766–92, hg. von  <link ref="klotz" linktext="true" />; <wwwlink address="https://digitale.bibliothek.uni-halle.de/urn/urn:nbn:de:gbv:3:1-696871">Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt, 2016</wwwlink>.
+<eintrag>Bde. 1-27, Halle: Curt 1766–92, hg. von <link ref="klotz" linktext="true" />; <wwwlink address="https://digitale.bibliothek.uni-halle.de/urn/urn:nbn:de:gbv:3:1-696871">Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt, 2016</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -10820,6 +10833,11 @@ N
 <kommentar id="neumann" type="neuzeit">
 <lemma>David Neumann</lemma>
 <eintrag>1734–1807. Preuß. Generalmajor. Hofmeister der beiden Söhne von <link ref="korff-fa" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="neumann-j" type="neuzeit">
+<lemma>Johann Christoph Neumann</lemma>
+<eintrag>1763– nach 1788. Neffe von <link ref="herder" linktext="true" />. Kaufmannslehre, Juni 1782 nach Riga, 1783 Angestellter eines Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
 </kommentar>
 
 <kommentar id="newton" type="neuzeit">
