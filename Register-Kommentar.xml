@@ -4562,6 +4562,17 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 </subsection>
 </kommentar>
 
+<kommentar id="fulda" type="neuzeit">
+<lemma>Friedrich Karl Fulda</lemma>
+<eintrag>1724–1788. Evang. Theologe, Historiker, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118703536.html#adbcontent">Inama von Sternegg, Theodor: Fulda, Friedrich Karl, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;192&#x2013;194</wwwlink>.</eintrag>
+<subsection id="fulda-preißschrift" type="neuzeit">
+<lemma>Fulda, <titel>Preißschrift über die beiden Hauptdialekte der Teutschen Sprache</titel></lemma>
+<eintrag>
+<titel>Preißschrift über die beiden Hauptdialekte der Teutschen Sprache, welche von der königl. Societät der Wissenschaften zu Göttingen den 9. November 1771 ist gekrönet worden</titel>  (Leipzig 1773).
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="funck" type="neuzeit">
 <lemma>Johann Daniel Funck</lemma>
 <eintrag>1721–1764. Professor beider Rechte, Privatdozent an der Universität Königsberg.</eintrag>
@@ -6465,6 +6476,26 @@ Vgl. <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true"
 <titel>Aelteste Urkunde des Menschengeschlechts.</titel> Eine nach Jahrhunderten enthüllte heilige Schrift. Erster Band, welcher den Ersten, Zweiten und Dritten Theil enthält (Riga: Hartknoch 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354782-6">BSB München: 4 Exeg. 909-1/2</wwwlink>. – SWS,&#x202F;VI, S.&#x202F;193–511. – Zweiter Band, welcher den Viertel Theil enthält (Riga: Hartknoch 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354783-2">BSB München: 4 Exeg. 909-1/2</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="herder-prediger" type="neuzeit" sort="250">
+<lemma>Herder, <titel>An Prediger</titel></lemma>
+<eintrag>
+<titel>An Prediger. Funfzehn Provinzialblätter</titel> (Leipzig 1774) [Biga&#x202F;195/50 u. 52/551: „An Prediger; funfzehn Provinzialblatter,
+Leipz. 774“ u. „An Prediger, funfzehn Provincial-Blaetter, Lips. 774. Don. AUCT.“]. Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.49090#0001">UB Heidelberg: Q 8157 RES</wwwlink>. – SWS,&#x202F;VII, S.&#x202F;225–312.
+</eintrag>
+</subsection>
+<subsection id="herder-auch" type="neuzeit" sort="260">
+<lemma>Herder, <titel>Auch eine Philosophie der Geschichte</titel></lemma>
+<eintrag>
+<titel>Auch eine Philosophie der Geschichte zur Bildung der Menschheit. Beytr. zu vielen Beyträgen des Jahrhunderts</titel> (anonym, Riga 1774) [Biga&#x202F;70/193, 124/364 u. 195/49: „Auch eine Philosophie der Geschichte zur Bildung der Menschheit 774“, „Auch eine Philosophie der Geschichte zur Bildung der Menschheit, 774. Donum AVCTORIS“ u. „Auch eine Philosophie der Geschichte zur Bildung der Menschheit, 774“]. Digitalisat: <wwwlink address="http://www.nbn-resolving.org/urn/resolver.pl?urn=urn:nbn:de:kobv:b4-200905199304">HAB Wolfenbüttel: M: Ga 149</wwwlink>. – SWS,&#x202F;V, S.&#x202F;475–593.
+</eintrag>
+</subsection>
+<subsection id="herder-erlaeuterungen" type="neuzeit" sort="380">
+<lemma>Herder, <titel>Erläuterungen zum Neuen Testament</titel></lemma>
+<eintrag>
+<titel>Erläuterungen zum Neuen Testament aus einer neueröffneten Morgenländischen Quelle</titel> (Riga 1775) [Biga&#x202F;25/151 u. 60/50: „Erläuterungen zum Neuen Testament aus einer neueröfneten Morgenländischen Quelle, Riga 775. Donum AVCTORIS“ u. „Erläuterungen
+des N. T. aus einer morgenländischen Urquelle, Riga 775“]. – SWS VII, S.&#x202F;335–469.
+</eintrag>
+</subsection>
 <subsection id="herder-plastik" type="neuzeit" sort="400">
 <lemma>Herder, <titel>Plastik</titel></lemma>
 <eintrag>
@@ -6477,6 +6508,11 @@ Vgl. <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true"
 <titel>Adrastea.</titel> Herausgegeben von J. G. Herder (Leipzig: Hartknoch 1801–1803/4). – SWS XXIII und XXIV.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="herder-w" type="neuzeit">
+<lemma>Wilhelm Christian Gottfried Herder</lemma>
+<eintrag>1774–1806. Sohn von <link ref="herder" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Schellhas, Walter: Herder, August Freiherr von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;594f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="herder-a" type="neuzeit">
@@ -11139,7 +11175,7 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 
 <kommentar id="penzel" type="neuzeit">
 <lemma>Abraham Jakob Penzel</lemma>
-<eintrag>1749–1819. Abenteurer und zeitweiliger Freund Hamanns; klassischer Philologe, Student in Leipzig, Halle, Würzburg, 1775–1778 Musketier des Regimentes Alt- Stutterheim in Königsberg, 1777 Factotum der Kanterschen Buchhandlung, Privatdozent für alte Geschichte, desertierte 1778, konvertierte 1782 in Krakau, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202F; 25 (1887), S.&#x202F;363f.</wwwlink> und Hans Köppe: Abraham Jakob Penzels Lebensirrfahrten. Eine Menschen- und Kulturtragödie aus dem 18. Jahrhundert (Leipzig 1937).</eintrag>
+<eintrag>1749–1819. Abenteurer und zeitweiliger Freund Hamanns; klassischer Philologe, Student in Leipzig, Halle, Würzburg, 1775–1778 Musketier des Regimentes Alt-Stutterheim in Königsberg, 1777 Factotum der Kanterschen Buchhandlung, Privatdozent für alte Geschichte, desertierte 1778, konvertierte 1782 in Krakau, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202F; 25 (1887), S.&#x202F;363f.</wwwlink> und Hans Köppe: Abraham Jakob Penzels Lebensirrfahrten. Eine Menschen- und Kulturtragödie aus dem 18. Jahrhundert (Leipzig 1937).</eintrag>
 </kommentar>
 
 <kommentar id="percy" type="neuzeit">
