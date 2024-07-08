@@ -50134,7 +50134,7 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="116" line="19">
-<bzg>Preisschrifft</bzg> ?!?
+<bzg>Preisschrifft</bzg> <link ref="herder" subref="herder-geschmack" linktext="true" /> 
 </marginal>
 
 <marginal letter="417" page="116" line="20">
@@ -51066,9 +51066,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="131" line="7" sort="2">
-<bzg>No 45</bzg> wohl ironische Anspielung auf das 45.
-Scholion des Selbstgespräch[s] eines Autors, das sich auf den Schwanengesang
-(Hor.c..2,20,) bezieht, N III,79,35ff. Hamann wird im Jahr darauf 45 Jahre alt. ?!?
+<bzg>No 45</bzg> wohl ironische Anspielung auf das 45. Scholion von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />, das sich auf den Schwanengesang (Hor.c..2,20,) bezieht, N III,79,35ff. Hamann wird im Jahr darauf 45 Jahre alt. ?!?
 </marginal>
 
 <marginal letter="424" page="131" line="9" sort="1">
@@ -51690,7 +51688,7 @@ aber unwissend.
 </marginal>
 
 <marginal letter="425" page="140" line="18">
-<bzg>Mann</bzg>  H. C. Toussaint ?!?
+<bzg>Mann</bzg> ?!?
 </marginal>
 
 <marginal letter="425" page="140" line="19">
@@ -52198,7 +52196,7 @@ Brief Nr. 430
 </marginal>
 
 <marginal letter="430" page="148" line="17">
-<bzg>Patient</bzg> Johann Michael Hamann
+<bzg>Patient</bzg> <link ref="hamann-jm" linktext="true" /> 
 </marginal>
 
 <marginal letter="430" page="148" line="19">
@@ -52264,7 +52262,7 @@ Brief Nr. 432
 </marginal>
 
 <marginal letter="432" page="151" line="10">
-<bzg>Toussaint</bzg> 
+<bzg>Toussaint</bzg> <link ref="magnier" linktext="true" /> 
 </marginal>
 
 <marginal letter="432" page="151" line="13">
@@ -52288,11 +52286,11 @@ Brief Nr. 432
 </marginal>
 
 <marginal letter="432" page="152" line="1">
-<bzg>objecta consummationis ordriae</bzg> gemeine Konsumgüter
+<bzg>objecta consummationis ordriae</bzg> dt. gemeine Konsumgüter
 </marginal>
 
 <marginal letter="432" page="152" line="3">
-<bzg>Epicureismo</bzg> <link ref="epikur" linktext="true" /> 
+<bzg>Epicureismo</bzg> vgl. die Lehre von <link ref="epikur" linktext="true" /> 
 </marginal>
 
 <marginal letter="432" page="152" line="4">
@@ -52300,7 +52298,7 @@ Brief Nr. 432
 </marginal>
 
 <marginal letter="432" page="152" line="5">
-<bzg>medius terminus</bzg> ?!?
+<bzg>medius terminus</bzg> dt. Mittel
 </marginal>
 
 <marginal letter="432" page="152" line="7">
@@ -52308,9 +52306,8 @@ Brief Nr. 432
 </marginal>
 
 <marginal letter="432" page="152" line="12">
-<bzg>rothen Wangen und pechschwarzen Augen</bzg> bezieht sich auf das Titelblatt des Versuch einer Sibylle, wo die Wörter Versuch,
-Sibylle und die beiden Querstriche in rot gedruckt sich vom übrigen schwarz
-Gedruckten abheben; H. wollte es zunächst prächtiger, 113,19
+<bzg>rothen Wangen und pechschwarzen Augen</bzg> bezieht sich auf das Titelblatt von <link ref="hamann" subref="hamann-ehe" linktext="true" />, wo die Wörter Versuch, Sibylle und die beiden Querstriche in rot gedruckt sich vom übrigen schwarz
+Gedruckten abheben
 </marginal>
 
 <marginal letter="432" page="152" line="18">
@@ -52362,7 +52359,7 @@ Gedruckten abheben; H. wollte es zunächst prächtiger, 113,19
 </marginal>
 
 <marginal letter="432" page="153" line="20">
-<bzg>Selbstgesprächs … nicolaitischen Antwort No. 1</bzg> ?!?
+<bzg>Selbstgesprächs … nicolaitischen Antwort No. 1</bzg> <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> ?!?
 </marginal>
 
 <marginal letter="432" page="153" line="21">
@@ -52374,7 +52371,7 @@ Gedruckten abheben; H. wollte es zunächst prächtiger, 113,19
 </marginal>
 
 <marginal letter="432" page="153" line="26">
-<bzg>Manne</bzg> vgl Brief 427
+<bzg>Manne</bzg> vgl. Brief 427
 </marginal>
 
 <marginal letter="432" page="153" line="33">
@@ -52382,7 +52379,7 @@ Gedruckten abheben; H. wollte es zunächst prächtiger, 113,19
 </marginal>
 
 <marginal letter="432" page="153" line="36">
-<bzg>Waarenlager über den Articul</bzg> Schürze von Feigenblättern
+<bzg>Waarenlager über den Articul</bzg> Schürze von Feigenblättern ?!?
 </marginal>
 
 <marginal letter="432" page="154" line="2">
@@ -52394,7 +52391,7 @@ Gedruckten abheben; H. wollte es zunächst prächtiger, 113,19
 </marginal>
 
 <marginal letter="432" page="154" line="8">
-<bzg>Volkslieder</bzg> 131,21
+<bzg>Volkslieder</bzg> vgl. <intlink letter="424" page="131" line="21" linktext="true" /> 
 </marginal>
 
 <marginal letter="432" page="154" line="9">
@@ -52466,7 +52463,7 @@ ebenso zitiert in Lessings berühmtem 17. Literaturbrief vom 16. Februar 1759 ?!
 </marginal> 
 
 <marginal letter="433" page="155" line="10">
-<bzg>Volkslieder</bzg> ?!?
+<bzg>Volkslieder</bzg> vgl. <intlink letter="424" page="131" line="21" linktext="true" /> 
 </marginal>
 
 <marginal letter="433" page="155" line="11">
@@ -52482,7 +52479,7 @@ ebenso zitiert in Lessings berühmtem 17. Literaturbrief vom 16. Februar 1759 ?!
 </marginal>
 
 <marginal letter="433" page="155" line="15">
-<bzg>Neffen</bzg> nicht ermittelt
+<bzg>Neffen</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="433" page="155" line="19">
@@ -52986,7 +52983,7 @@ herzlich Dank.“ (HBGA III, Brief 133, S. 157).
 Brief Nr. 438
 
 <marginal letter="438" page="165" line="4">
-<bzg>Schwägerin</bzg> Rappolt, Eleonore Henriette, geb. Toussaint (1747- 1820), dessen Frau (seit 1767)
+<bzg>Schwägerin</bzg> Eleonore Henriette Rappolt, geb. Toussaint (1747-1820)
 </marginal>
 
 <marginal letter="438" page="165" line="5">
@@ -53494,10 +53491,7 @@ Herzoglichen Bibliothek in Wolfenbüttel: Von Duldung der Deisten
 Brief Nr. 442
 
 <marginal letter="442" page="172" line="21">
-<bzg>Schwester mit Ihrem künftigen Pensionnair</bzg>Güldenhorn, Katharina Dorothea (1748- 1793), geb. Herder, und
-Neumann, Johann Christoph (1763-nach 1788), Sohn der Anna Luise Neumann, geb. Herder
-(1741- 1767), Herders Neffe, Kaufmannslehre, Juni 1782 nach Riga, 1783 Angestellter eines
-Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
+<bzg>Schwester mit Ihrem künftigen Pensionnair</bzg>Güldenhorn, Katharina Dorothea (1748- 1793), geb. Herder, und <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="442" page="172" line="24">
@@ -53580,7 +53574,7 @@ Brief Nr. 443
 </marginal>
 
 <marginal letter="443" page="174" line="19">
-<bzg>Johann Christoph</bzg> ?!? Neumann
+<bzg>Johann Christoph</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="443" page="174" line="20">
@@ -53604,7 +53598,7 @@ Brief Nr. 443
 </marginal>
 
 <marginal letter="443" page="174" line="25">
-<bzg>Toussaint</bzg> <link ref="magnier" linktext="true" />  ?!?
+<bzg>Toussaint</bzg> <link ref="magnier" linktext="true" /> 
 </marginal>
 
 
@@ -53703,9 +53697,7 @@ Brief Nr. 444
 </marginal>
 
 <marginal letter="444" page="176" line="8">
-<bzg>Johann Christoph</bzg> Johann Christoph (1763-nach 1788), Sohn der Anna Luise Neumann, geb. Herder
-(1741- 1767), Herders Neffe, Kaufmannslehre, Juni 1782 nach Riga, 1783 Angestellter eines
-Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
+<bzg>Johann Christoph</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="444" page="176" line="9">
@@ -53780,17 +53772,15 @@ Brief Nr. 445
 </marginal>
 
 <marginal letter="445" page="177" line="15">
-<bzg>beide Söhne</bzg> <link ref="herder-w" linktext="true" />  und Neumann, Johann Christoph (1763-nach 1788), Sohn der Anna Luise Neumann, geb. Herder
-(1741- 1767), Herders Neffe, Kaufmannslehre, Juni 1782 nach Riga, 1783 Angestellter eines
-Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
+<bzg>beide Söhne</bzg> <link ref="herder-w" linktext="true" /> und <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="445" page="177" line="28">
-<bzg>Brüder Jesu</bzg> Briefe zweener Brüder Jesu in unserm Kanon, SWS VII,471ff.
+<bzg>Brüder Jesu</bzg> <link ref="herder" subref="herder-briefebruder" linktext="true" /> 
 </marginal>
 
 <marginal letter="445" page="177" line="29">
-<bzg>Magier aus Morgenland</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />, SWS VII,353ff.
+<bzg>Magier aus Morgenland</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />
 </marginal>
 
 <marginal letter="445" page="177" line="30">
@@ -53818,8 +53808,7 @@ Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
 </marginal>
 
 <marginal letter="445" page="178" line="5">
-<bzg>Fr. Bruder</bzg> Flachsland, Friedrich Si(e)gmund (1743- 1784), deren älterer Bruder, hess.- darmstädt. Geh.
-Regierungssekretär
+<bzg>Fr. Bruder</bzg> Friedrich Sigmund Flachsland(1743-1784), hess.-darmstädt. Geh. Regierungssekretär
 </marginal>
 
 <marginal letter="445" page="178" line="6">
@@ -53829,9 +53818,7 @@ Bildungsreise durch Frankreich u. England ?!?
 </marginal>
 
 <marginal letter="445" page="178" line="11">
-<bzg>Neffen</bzg> Neumann, Johann Christoph (1763-nach 1788), Sohn der Anna Luise Neumann, geb. Herder
-(1741- 1767), Herders Neffe, Kaufmannslehre, Juni 1782 nach Riga, 1783 Angestellter eines
-Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga
+<bzg>Neffen</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="445" page="178" line="14">
@@ -54262,15 +54249,15 @@ deutscher Gelehrtenrepublik in den Königsbergschen ... Zeitungen, N IV,409ff.
 Brief Nr. 448
 
 <marginal letter="448" page="185" line="7">
-<bzg>Hkn. mit Ihrer Claudius</bzg> <link ref="hartknoch" linktext="true" /> mit Claudius [-Anzeige], N IV,386ff. ?!?
+<bzg>Hkn. mit Ihrer Claudius</bzg> <link ref="hartknoch" linktext="true" /> mit der Anzeige von <link ref="claudius" subref="claudius-werke" linktext="true" /> in <link ref="kgpz" linktext="true" />, N IV,386ff.
 </marginal>
 
 <marginal letter="448" page="185" line="9">
-<bzg>Beyträgen zur φφie, Prov. Blättern den Briefen der Brüder Jesu</bzg>  ?!?
+<bzg>Beyträgen zur φφie, Prov. Blättern den Briefen der Brüder Jesu</bzg>  ?!? <link ref="herder" subref="herder-prediger" linktext="true" />, <link ref="herder" subref="herder-briefebruder" linktext="true" /> 
 </marginal>
 
 <marginal letter="448" page="185" line="10">
-<bzg>Erl. des N. T.</bzg>  ?!?
+<bzg>Erl. des N. T.</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />  
 </marginal>
 
 <marginal letter="448" page="185" line="11">
@@ -54278,7 +54265,7 @@ Brief Nr. 448
 </marginal>
 
 <marginal letter="448" page="185" line="12">
-<bzg>Neffen</bzg> J. Ch. Neumann.
+<bzg>Neffen</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="448" page="185" line="13">
@@ -54309,8 +54296,7 @@ korrekturlesenden Zollikofer waren, nach der Erfahrung mit dem Streit um <link r
 </marginal>
 
 <marginal letter="448" page="185" line="30">
-<bzg>Brüder Jesu […]] nach Lemgo</bzg> Briefe zweener Brüder Jesu, 1775 (SWS VII,471- 560); nach Lemgo:
-zum Druck in die Meyersche Buchhandlung
+<bzg>Brüder Jesu</bzg> <link ref="herder" subref="herder-briefebruder" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="185" line="33" sort="1">
@@ -54318,8 +54304,7 @@ zum Druck in die Meyersche Buchhandlung
 </marginal>
 
 <marginal letter="448" page="185" line="33" sort="2">
-<bzg>Prov. u. Phil.</bzg> <link ref="herder" subref="herder-auch" linktext="true" />
-der Menschheit.
+<bzg>Prov. u. Phil.</bzg> <link ref="herder" subref="herder-prediger" linktext="true" /> und <link ref="herder" subref="herder-auch" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="186" line="1">
@@ -54331,7 +54316,7 @@ der Menschheit.
 </marginal>
 
 <marginal letter="448" page="186" line="4" sort="1">
-<bzg>Mäcen</bzg> <link ref="guichard" linktext="true" />, vgl. 184,19.
+<bzg>Mäcen</bzg> <link ref="guichard" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="186" line="4" sort="2">
@@ -54347,11 +54332,11 @@ der Menschheit.
 </marginal>
 
 <marginal letter="448" page="186" line="12">
-<bzg>Weib u. Knabe</bzg> <link ref="herder-c" linktext="true" /> u. ?!?
+<bzg>Weib u. Knabe</bzg> <link ref="herder-c" linktext="true" /> u. <link ref="herder-w" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="186" line="13">
-<bzg>Ankömmling</bzg> J. Ch. Neumann.
+<bzg>Ankömmling</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="448" page="186" line="17">
@@ -54403,7 +54388,7 @@ Flörkesche Nachdruck. ?!?
 </marginal>
 
 <marginal letter="448" page="186" line="31" sort="1">
-<bzg>Lav. Phys.</bzg> ?!?
+<bzg>Lav. Phys.</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="186" line="31" sort="2">
@@ -54487,7 +54472,7 @@ Quelle: Hor. c. 3,25,8-12.
 </marginal>
 
 <marginal letter="449" page="188" line="1" sort="2">
-<bzg>Ankündigung</bzg> er Sämmtlichen Werke in <link ref="kgpz" linktext="true" />,  N IV,386ff.
+<bzg>Ankündigung</bzg> von <link ref="claudius" subref="claudius-werke" linktext="true" /> in <link ref="kgpz" linktext="true" />, N IV,386ff.
 </marginal>
 
 <marginal letter="449" page="188" line="6" sort="1">
@@ -54833,7 +54818,7 @@ recensieren ?!?
 </marginal>
 
 <marginal letter="450" page="191" line="32">
-<bzg>Joh. Χstoph Neum.</bzg> Neumann
+<bzg>Joh. Χstoph Neum.</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="191" line="35">
@@ -55236,7 +55221,7 @@ unterstellt. ?!?
 </marginal>
 
 <marginal letter="452" page="197" line="28">
-<bzg>Johann Χstoph</bzg> Neumann.
+<bzg>Johann Χstoph</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="452" page="197" line="30">
@@ -55379,7 +55364,7 @@ Brief Nr. 454
 </marginal>
 
 <marginal letter="454" page="200" line="16" sort="1">
-<bzg>Weib u. Kind, Hans u. Gottfr.</bzg> <link ref="herder-c" linktext="true" />; Sohn; J. Ch. Neumann; ?!?
+<bzg>Weib u. Kind, Hans u. Gottfr.</bzg> <link ref="herder-c" linktext="true" />; <link ref="neumann-j" linktext="true" />, <link ref="herder-w" linktext="true" />
 </marginal>
 
 <marginal letter="454" page="200" line="16" sort="2">
@@ -55534,7 +55519,7 @@ Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern verseh
 </marginal>
 
 <marginal letter="454" page="202" line="12">
-<bzg>Johann</bzg> Neffe Neumann
+<bzg>Johann</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="454" page="202" line="14">
@@ -55565,7 +55550,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="202" line="27">
-<bzg>Arbeiten</bzg> Briefe zweener Jünger Jesu, <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />; Ursachen des gesunknen Geschmacks ?!?
+<bzg>Arbeiten</bzg> Briefe zweener Jünger Jesu, <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />; <link ref="herder" subref="herder-geschmack" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="202" line="28">
@@ -55585,7 +55570,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="203" line="17">
-<bzg>Briefe der Brüder Jesu</bzg> 
+<bzg>Briefe der Brüder Jesu</bzg> <link ref="herder" subref="herder-briefebruder" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="203" line="31">
@@ -55764,7 +55749,7 @@ sentimentalisierte und verkleinerte Griechentum.
 </marginal>
 
 <marginal letter="455" page="205" line="33" sort="1">
-<bzg>Preißschrift</bzg> Ursachen des gesunknen Geschmacks
+<bzg>Preißschrift</bzg> <link ref="herder" subref="herder-geschmack" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="205" line="33" sort="2">
