@@ -51993,11 +51993,7 @@ Onesimus soll der Legende nach Bischof vermutlich von Ephesos oder von Byzantium
 </marginal>
 
 <marginal letter="426" page="144" line="7">
-<bzg>Nabal … Vetter zu Böhmisch Breda</bzg>  Nicolai mit Anklang von 1 Sm 25,3 und
-Anspielung auf die Posse des Deutschfranzosen Friedrich Melchior Grimm, mit der er
-1753 im Stil jüdischer Chroniken die französische Oper verspottete (NADLER); zu den
-kleinen Propheten von Böhmisch- Breda Neue Apologie des Buchstaben h von ihm
-selbst, N III,105 ?!?
+<bzg>Nabal … Vetter zu Böhmisch Breda</bzg> <link ref="nicolai" linktext="true" /> unter Anspielung auf <link ref="at-sam1" subref="at-sam1-25" linktext="false">1 Sam 25,3</link> sowie <link ref="grimm-fm" subref="grimm-fm-petit" linktext="true" />  
 </marginal>
 
 <marginal letter="426" page="144" line="12">
@@ -52023,7 +52019,7 @@ Stier verwandelte König Nabuchodonozor nur zusehen darf ?!?
 </marginal>
 
 <marginal letter="426" page="144" line="26">
-<bzg>Augustus seinen Horatz</bzg> Horaz als Hofpoet
+<bzg>Augustus seinen Horatz</bzg> <link ref="horaz" linktext="true" /> als Hofpoet
 </marginal>
 
 <marginal letter="426" page="144" line="28">
@@ -52035,11 +52031,11 @@ Stier verwandelte König Nabuchodonozor nur zusehen darf ?!?
 </marginal>
 
 <marginal letter="426" page="144" line="30">
-<bzg>Ulubraner</bzg> Sumpfbewohner nach Hor. epist. 1,11,30
+<bzg>Ulubraner</bzg> Sumpfbewohner nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,11,30
 </marginal>
 
 <marginal letter="426" page="144" line="32">
-<bzg>Marius</bzg> Gaius Marius’ Trauer auf den Ruinen Karthagos waren ein beliebtes literarisches Motiv
+<bzg>Marius</bzg> Konsul Gaius Marius’ (158 v. Chr.–86 v. Chr.) Trauer auf den Ruinen Karthagos waren ein beliebtes literarisches Motiv
 </marginal>
 
 <marginal letter="426" page="144" line="33">
@@ -52067,15 +52063,15 @@ Stier verwandelte König Nabuchodonozor nur zusehen darf ?!?
 </marginal>
 
 <marginal letter="426" page="145" line="5">
-<bzg>dreyzackichter Mamamuschi</bzg> statt Poseidons Dreizacks als Mamamuschi mit drei Schwanzfedern, vgl Zweytes Antwortschreiben von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+<bzg>dreyzackichter Mamamuschi</bzg> statt Poseidons Dreizacks als Mamamuschi mit drei Schwanzfedern, vgl. Zweytes Antwortschreiben von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal>
 
 <marginal letter="426" page="145" line="6">
-<bzg>holtzerner Delphin</bzg> statt des Schiffes in Hor. c. 1,3,5-8
+<bzg>holtzerner Delphin</bzg> statt des Schiffes in <link ref="horaz" subref="horaz-oden" linktext="true" />, 1,3,5-8
 </marginal>
 
 <marginal letter="426" page="145" line="7">
-<bzg>qui tibi creditum …</bzg> dt. bring anvertrauten Vergil ungefährdet an Attikas Ufer! ich behüte die Hälfte meiner Seele (Hor. c. 1,3,5-8)
+<bzg>qui tibi creditum …</bzg> dt. bring anvertrauten Vergil ungefährdet an Attikas Ufer! ich behüte die Hälfte meiner Seele (<link ref="horaz" subref="horaz-oden" linktext="true" />, 1,3,5-8)
 </marginal>
 
 <marginal letter="426" page="145" line="12">
@@ -52230,7 +52226,7 @@ Brief Nr. 431
 Brief Nr. 432
 
 <marginal letter="432" page="150" line="21">
-<bzg>ab ouo vsque ad poma</bzg> vom Ei bis zu den Äpfeln [d.h. vom Anfang bis zum Quelle: Hor. s. 1,3,6f.
+<bzg>ab ouo vsque ad poma</bzg> vom Ei bis zu den Äpfeln [d.h. vom Anfang bis zum Quelle: <link ref="horaz" subref="horaz-saturae" linktext="true" />, 1,3,6f.
 </marginal>
 
 <marginal letter="432" page="150" line="24" sort="1">
@@ -52383,7 +52379,7 @@ Gedruckten abheben
 </marginal>
 
 <marginal letter="432" page="154" line="2">
-<bzg>splendida bilis</bzg> glänzende Galle (Hor. s. 2,3,141)
+<bzg>splendida bilis</bzg> glänzende Galle (<link ref="horaz" subref="horaz-saturae" linktext="true" />, 2,3,141)
 </marginal>
 
 <marginal letter="432" page="154" line="6">
@@ -52487,7 +52483,7 @@ ebenso zitiert in Lessings berühmtem 17. Literaturbrief vom 16. Februar 1759 ?!
 </marginal>
 
 <marginal letter="433" page="155" line="20">
-<bzg>velut aegri somnia in Platos Höle</bzg> dt. wie Träume eines Kranken (Hor. ars 7); <link ref="platon" subref="plat-rep" linktext="true" />, 514 A
+<bzg>velut aegri somnia in Platos Höle</bzg> dt. wie Träume eines Kranken (<link ref="horaz" subref="horaz-poetica" linktext="true" />, 7); <link ref="platon" subref="plat-rep" linktext="true" />, 514 A
 </marginal>
 
 <marginal letter="433" page="155" line="21">
@@ -52570,8 +52566,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="25">
-<bzg>Aequa potestas … hanc …</bzg> Und doch hatten Maler und Dichter seit je gleiche wagen, was sie nur wollen.Ich weiß das, und erbitte ich selbst und gewähre sie anderen.
-Quelle: Hor. ars 9-11.
+<bzg>Aequa potestas … hanc …</bzg> Und doch hatten Maler und Dichter seit je gleiche wagen, was sie nur wollen.Ich weiß das, und erbitte ich selbst und gewähre sie anderen. (<link ref="horaz" subref="horaz-poetica" linktext="true" />, 9–11)
 </marginal>
 
 <marginal letter="434" page="156" line="27">
@@ -53110,7 +53105,7 @@ Brief Nr. 439
 </marginal>
 
 <marginal letter="439" page="166" line="20">
-<bzg>qui pectus …</bzg> [bestaune ich den Dichter,] der mein Herz durch Kunst ängstet und erregt und sänftigt, der es mit Schrecknissen erfüllt, wie ein Zauberer (Hor. epist. 2,1,211ff.)
+<bzg>qui pectus …</bzg> [bestaune ich den Dichter,] der mein Herz durch Kunst ängstet und erregt und sänftigt, der es mit Schrecknissen erfüllt, wie ein Zauberer (<link ref="horaz" subref="horaz-epistel" linktext="true" />, 2,1,211ff.)
 </marginal>
 
 <marginal letter="439" page="166" line="26">
@@ -53137,11 +53132,11 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="167" line="6">
-<bzg>Glückwunsch</bzg> <link ref="stockmar" linktext="true" /> betreffend, vgl. 133,5ff
+<bzg>Glückwunsch</bzg> <link ref="stockmar" linktext="true" /> betreffend, vgl. <intlink letter="424" page="133" line="5" linktext="true" />
 </marginal>
 
 <marginal letter="440" page="167" line="10">
-<bzg>Höle</bzg> vgl. 155,20
+<bzg>Höle</bzg> vgl. <intlink letter="433" page="155" line="20" linktext="true" />
 </marginal>
 
 <marginal letter="440" page="167" line="11">
@@ -53149,7 +53144,7 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="167" line="12">
-<bzg>Raben</bzg> vgl. 105,27.
+<bzg>Raben</bzg> vgl. <intlink letter="412" page="105" line="27" linktext="true" />
 </marginal>
 
 <marginal letter="440" page="167" line="16">
@@ -53157,15 +53152,15 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="167" line="17">
-<bzg>pindarischen Spruch</bzg> vgl. 162,31f.
+<bzg>pindarischen Spruch</bzg> vgl. <intlink letter="437" page="162" line="31" linktext="true" />
 </marginal>
 
 <marginal letter="440" page="167" line="22">
-<bzg>Artzt hilft dir selber</bzg> Lk 4,23;
+<bzg>Artzt hilft dir selber</bzg> <link ref="nt-lk" subref="nt-lk4" linktext="false">Lk 4,23</link>
 </marginal>
 
 <marginal letter="440" page="167" line="28">
-<bzg>mit Kleister und Scheere fertige Buch</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />, 155,9.
+<bzg>mit Kleister und Scheere fertige Buch</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />, vgl. <intlink letter="433" page="155" line="9" linktext="true" /> 
 </marginal>
 
 <marginal letter="440" page="167" line="30">
@@ -53181,7 +53176,7 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="168" line="1">
-<bzg>Exempl. an die Darmstädter</bzg> von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />, vgl. 154,33f.
+<bzg>Exempl. an die Darmstädter</bzg> von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />, vgl. <intlink letter="433" page="154" line="11" linktext="true" /> 
 </marginal>
 
 <marginal letter="440" page="168" line="4">
@@ -53189,7 +53184,7 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="168" line="7">
-<bzg>Kannengießerey</bzg> vgl. 52,8f.
+<bzg>Kannengießerey</bzg> vgl. <intlink letter="390" page="52" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="440" page="168" line="11">
@@ -53213,9 +53208,7 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="168" line="20">
-<bzg>Vetter Nabal zu Böhmisch Breda</bzg> in der Rezension der Ältesten Urkunde, in der
-Allgemeinen deutschen Bibliothek, Bd. 25/1, 1775, S. 23- 61 über Herders Bd I; Bd.
-30, 1777, S. 53- 69 über Bd. II, von J. A. Eberhard.
+<bzg>Vetter Nabal zu Böhmisch Breda</bzg> <link ref="nicolai" linktext="true" /> unter Anspielung auf <link ref="at-sam1" subref="at-sam1-25" linktext="false">1 Sam 25,3</link> sowie <link ref="grimm-fm" subref="grimm-fm-petit" linktext="true" />  
 </marginal>
 
 <marginal letter="440" page="168" line="29">
@@ -53384,9 +53377,7 @@ Philologen, N II,174, 23f
 </marginal>
 
 <marginal letter="441" page="171" line="1">
-<bzg>Vetter Nabal</bzg> in der Rezension der Ältesten Urkunde, in der
-Allgemeinen deutschen Bibliothek, Bd. 25/1, 1775, S. 23- 61 über Herders Bd I; Bd.
-30, 1777, S. 53- 69 über Bd. II, von J. A. Eberhard.
+<bzg>Vetter Nabal</bzg> <link ref="nicolai" linktext="true" /> unter Anspielung auf <link ref="at-sam1" subref="at-sam1-25" linktext="false">1 Sam 25,3</link> sowie <link ref="grimm-fm" subref="grimm-fm-petit" linktext="true" />  
 </marginal>
 
 <marginal letter="441" page="171" line="5">
@@ -53629,11 +53620,11 @@ Brief Nr. 444
 </marginal>
 
 <marginal letter="444" page="175" line="11">
-<bzg>Vnde mihi lapidem? …</bzg> dt. woher bekomme ich einen Stein, woher Pfeile? (Hor. s. 2,7,116)
+<bzg>Vnde mihi lapidem? …</bzg> dt. woher bekomme ich einen Stein, woher Pfeile? (<link ref="horaz" subref="horaz-saturae" linktext="true" />, 2,7,116)
 </marginal>
 
 <marginal letter="444" page="175" line="14">
-<bzg>aut insanit homo …</bzg> dt. entweder ist der Mensch nicht bei Sinnen oder er schreibt Verse (Hor. s. 2,7,117)
+<bzg>aut insanit homo …</bzg> dt. entweder ist der Mensch nicht bei Sinnen oder er schreibt Verse (<link ref="horaz" subref="horaz-saturae" linktext="true" />, 2,7,117)
 </marginal>
 
 <marginal letter="444" page="175" line="15">
@@ -53971,7 +53962,7 @@ erweitertes Zitat aus Claudius' Dedikation des 1. u. 2. Teil von <link ref="clau
 </marginal>
 
 <marginal letter="447" page="180" line="33">
-<bzg>sub iudice lis est</bzg> dt. noch liegt der Fall vor Gericht (Hor. ars 78)
+<bzg>sub iudice lis est</bzg> dt. noch liegt der Fall vor Gericht (<link ref="horaz" subref="horaz-poeticae" linktext="true" />, 78)
 </marginal>
 
 <marginal letter="447" page="180" line="34">
@@ -53991,7 +53982,7 @@ erweitertes Zitat aus Claudius' Dedikation des 1. u. 2. Teil von <link ref="clau
 </marginal>
 
 <marginal letter="447" page="181" line="8">
-<bzg>Mire sagacis falleret …</bzg> dt. wunderbar würde er die Götter täuschen in ihrem durch die aufgelösten Locken und dem doppeldeutigen (Hor. c. 2,5,22)
+<bzg>Mire sagacis falleret …</bzg> dt. wunderbar würde er die Götter täuschen in ihrem durch die aufgelösten Locken und dem doppeldeutigen (<link ref="horaz" subref="horaz-oden" linktext="true" />, 2,5,22)
 </marginal>
 
 <marginal letter="447" page="181" line="11">
@@ -54320,7 +54311,7 @@ korrekturlesenden Zollikofer waren, nach der Erfahrung mit dem Streit um <link r
 </marginal>
 
 <marginal letter="448" page="186" line="4" sort="2">
-<bzg>quando invenies parem</bzg> dt. wann wirst du einen finden, der ihm gliche? (Hor. c. 1,24,8)
+<bzg>quando invenies parem</bzg> dt. wann wirst du einen finden, der ihm gliche? (<link ref="horaz" subref="horaz-oden" linktext="true" />, 1,24,8)
 </marginal>
 
 <marginal letter="448" page="186" line="10">
@@ -54427,8 +54418,7 @@ Flörkesche Nachdruck. ?!?
 Brief Nr. 449
 
 <marginal letter="449" page="187" line="11">
-<bzg>– – Non secus in …</bzg> nicht anders staunt die rastlose Euias, wenn sie schneeschimmernde Thrakien und das vom Fuß durchstreifte Rhodopegebirge vor sich sieht, gerade hier
-Quelle: Hor. c. 3,25,8-12.
+<bzg>– – Non secus in …</bzg> nicht anders staunt die rastlose Euias, wenn sie schneeschimmernde Thrakien und das vom Fuß durchstreifte Rhodopegebirge vor sich sieht, gerade hier (<link ref="horaz" subref="horaz-oden" linktext="true" />, 3,25,8–12)
 </marginal>
 
 <marginal letter="449" page="187" line="16">
@@ -54545,7 +54535,7 @@ Altertumsforscher, 1610 Prof. der Geschichte in Leiden
 </marginal>
 
 <marginal letter="449" page="189" line="1">
-<bzg>puero centum artium</bzg> ein Jüngling, der tausend Künste versteht (Hor. c.IV,1,15)
+<bzg>puero centum artium</bzg> ein Jüngling, der tausend Künste versteht (<link ref="horaz" subref="horaz-oden" linktext="true" />, IV,1,15)
 </marginal>
 
 <marginal letter="449" page="189" line="2">
@@ -54646,7 +54636,7 @@ heiligen Geistes (am Pfingstfest), in: Der Wandsbecker Bothe, Nr. 89, vom 6. Jun
 </marginal>
 
 <marginal letter="450" page="190" line="8">
-<bzg>Motto</bzg> Multa renascentur quae iam cecidere, Hor. ars 70
+<bzg>Motto</bzg> Multa renascentur quae iam cecidere (<link ref="horaz" subref="horaz-poetica" linktext="true" />, 70)
 </marginal>
 
 <marginal letter="450" page="190" line="10">
@@ -55301,8 +55291,7 @@ bezieht (Biga 10/159).
 </marginal>
 
 <marginal letter="453" page="199" line="11">
-<bzg>Naturam expellas …</bzg> die Natur magst du mit der Heugabel austreiben, gleichwohl zurückkehren und heimlich allen Widerwillen brechen
-Quelle: Hor. epist. 1,10,24-25
+<bzg>Naturam expellas …</bzg> die Natur magst du mit der Heugabel austreiben, gleichwohl zurückkehren und heimlich allen Widerwillen brechen (<link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,10,24–25)
 </marginal>
 
 <marginal letter="453" page="199" line="16">
@@ -55325,7 +55314,7 @@ Lavaters. Er ist auch der Stecher von Hs Porträt, 196,27 und 201,1ff., wovon H.
 </marginal>
 
 <marginal letter="453" page="199" line="25">
-<bzg>Nabal zu Böhmisch Breda</bzg> <link ref="nicolai" linktext="true" /> 
+<bzg>Nabal zu Böhmisch Breda</bzg> <link ref="nicolai" linktext="true" /> unter Anspielung auf <link ref="at-sam1" subref="at-sam1-25" linktext="false">1 Sam 25,3</link> sowie <link ref="grimm-fm" subref="grimm-fm-petit" linktext="true" />  
 </marginal>
 
 <marginal letter="453" page="199" line="35">
@@ -55663,7 +55652,7 @@ Einfälle
 </marginal>
 
 <marginal letter="455" page="204" line="34">
-<bzg>Vetter Nabal zu B. B.</bzg> <link ref="nicolai" linktext="true" />
+<bzg>Vetter Nabal zu B. B.</bzg> <link ref="nicolai" linktext="true" /> unter Anspielung auf <link ref="at-sam1" subref="at-sam1-25" linktext="false">1 Sam 25,3</link> sowie <link ref="grimm-fm" subref="grimm-fm-petit" linktext="true" />  
 </marginal>
 
 <marginal letter="455" page="204" line="35">
@@ -55988,7 +55977,7 @@ Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="209" line="31">
-<bzg>Vir bonus …</bzg> nach Hor. epist. 1,7,22; 122,10ff
+<bzg>Vir bonus …</bzg> nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,7,22; 122,10ff
 </marginal>
 
 <marginal letter="456" page="209" line="32">
@@ -56064,7 +56053,7 @@ des Hannoverschen Magazins.
 </marginal>
 
 <marginal letter="456" page="210" line="17" sort="1">
-<bzg>compesce mentem!</bzg> bezähme deinen Unmut (Hor. c. 1,16,22)
+<bzg>compesce mentem!</bzg> bezähme deinen Unmut (<link ref="horaz" subref="horaz-oden" linktext="true" />, 1,16,22)
 </marginal>
 
 <marginal letter="456" page="210" line="17" sort="2">
