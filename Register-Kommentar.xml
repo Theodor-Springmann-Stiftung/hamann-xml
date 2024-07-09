@@ -322,6 +322,11 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <kommentar id="anquetil-duperron" type="neuzeit">
 <lemma>Abraham Hyacinthe Anquetil-Duperron</lemma>
 <eintrag>1731–1805. Frz. Orientalist, Begründer der Iranistik und des Zend-Studiums.</eintrag>
+<subsection id="anquetil-duperron-zend" type="neuzeit">
+<lemma>Anquetil-Duperron, <titel>Zend-Avesta, Zoroaster’s lebendiges Wort</titel></lemma>
+<eintrag><titel>Zend-Avesta, Zoroaster’s lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes der Parsen aufbehalten sind. A. d. Frz. [v. J. F. <link ref="kleuker" linktext="true" />]</titel> (3 Thle. Riga: Hartknoch 1776/8).
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="anstey" type="neuzeit">
@@ -9983,6 +9988,19 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 </subsection>
 </kommentar>
 
+<kommentar id="meiners" type="neuzeit">
+<lemma>Christoph Meiners</lemma>
+<eintrag>1747–1810. Historiker und Psychologe, 1772 Prof. der Philosophie, Kulturgeschichte u. Psychologie in Göttingen; <wwwlink address="https://www.deutsche-biographie.de/pnd116863498.html#adbcontent">Prantl, Carl von: Meiners, Christoph, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;224–226</wwwlink>.
+</eintrag>
+<subsection id="meiners-vermischte" type="neuzeit">
+<lemma>Meiners, <titel>Vermischte philosophische Schriften</titel></lemma>
+<eintrag>
+<titel>Vermischte philosophische Schriften</titel> (3 Bde., Leipzig: in der Weygandschen Buchhandlung 1775/76). Digitalisat, Bd. 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046443-6">München, Bayerische Staatsbibliothek: Ph.u. 343-3</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+
 <kommentar id="meister" type="neuzeit">
 <lemma>Leonhard Meister</lemma>
 <eintrag>1741–1811. Theologe; <wwwlink address="https://www.deutsche-biographie.de/sfz60180.html#adbcontent">Breitinger: Meister, Leonhard, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;261–263</wwwlink>.
@@ -10406,6 +10424,17 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <lemma>Molière, <titel>Les fourberies de Scapin</titel></lemma>
 <eintrag>
 <titel>Les fourberies de Scapin, Comédie</titel> (1671). [Biga&#x202F;123/355: „Les Oeuvres de Moliere, Tom. I–VII. Par. 674. 75“]. Digitalisat (Ausgabe 1750): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10103707-2">BSB München:  P.o.gall. P.o.gall. 2655 g</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="molter" type="neuzeit">
+<lemma>Friedrich Molter</lemma>
+<eintrag>1722–1808. Direktor der Hofbibliothek und des Kunstkabinetts in Karlsruhe.
+</eintrag>
+<subsection id="molter-sprachlehre" type="neuzeit">
+<lemma>Molter, <titel>Toskanische Sprachlehre</titel></lemma>
+<eintrag><titel>Toskanische Sprachlehre</titel> (Leipzig 1750) [Biga&#x202F;19/47: „Fr. Molter’s toscanische Sprachlehre, Leipz. 750“].
 </eintrag>
 </subsection>
 </kommentar>
@@ -12992,13 +13021,19 @@ August Ludwig Schlözers <titel>Vorstellung seiner Universal-Historie</titel> (2
 <subsection id="schmid-zusatze" type="neuzeit" sort="20">
 <lemma>Schmid, <titel>Zusätze zur Theorie der Poesie</titel></lemma>
 <eintrag>
-M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachrichten von den besten Dichtern</titel> (4 Bde., Leipzig 1768/1769) ]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10812780-0">BSB München: L.eleg.g. 357-2,1/4</wwwlink>.</eintrag>
+M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachrichten von den besten Dichtern</titel> (4 Bde., Leipzig 1768/1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10812780-0">BSB München: L.eleg.g. 357-2,1/4</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
 <kommentar id="schmidlin" type="neuzeit">
 <lemma>Johann Joseph Schmidlin</lemma>
 <eintrag>1728–1779. Hamburger Lexikograph, siehe <wwwlink address="https://d-nb.info/gnd/1012302644">GND</wwwlink>.</eintrag>
+<subsection id="schmidlin-catholicon" type="neuzeit" sort="20">
+<lemma>Schmidlin, <titel>Catholicon ou Dictionnaire universel de la Langue Françoise</titel></lemma>
+<eintrag>
+<titel>Catholicon ou Dictionnaire universel de la Langue Françoise. A. B. C. D. E.</titel> (Hamburg 1771) [Biga&#x202F;64/97: „Catholicon ou Dictionnaire universel de la Langue Francoise
+par Mr. Schmidlin A. B. C. D. E. Hamb. 771“].</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="schmidt-fs" type="neuzeit">
