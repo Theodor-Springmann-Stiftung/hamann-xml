@@ -51106,8 +51106,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="131" line="21">
-<bzg>Volkslieder</bzg> Alte Volkslieder. Erster Theil. Englisch und Deutsch, Altenburg
-1774; Zweiter Theil. Englisch- Nordisch und Deutsch `!
+<bzg>Volkslieder</bzg> <link ref="herder" subref="herder-volkslieder" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="131" line="23">
@@ -53827,7 +53826,7 @@ Rezensionen von Goethes Die Leiden des jungen Werthers, S. 16. Wagner. Nicolai ?
 </marginal>
 
 <marginal letter="445" page="178" line="29">
-<bzg>Bahrdts Offenb. u. die Götter, Helden u. Wieland</bzg> Prolog zu Bahrdts Offenb.[arungen] u. die Götter, Helden und Wieland:
+<bzg>Bahrdts Offenb. u. die Götter, Helden u. Wieland</bzg> Prolog zu Bahrdts Offenb.[arungen] u. die <link ref="goethe" subref="goethe-gotter" linktext="true" /> 
 Goethes Satiren. ?!?
 </marginal>
 
@@ -53840,7 +53839,7 @@ Goethes Satiren. ?!?
 </marginal>
 
 <marginal letter="445" page="178" line="34" sort="1">
-<bzg>Pyrmonter</bzg> ?!? kuraufenthalt
+<bzg>Pyrmonter</bzg> Kuraufenthalt
 </marginal>
 
 <marginal letter="445" page="178" line="34" sort="2">
@@ -53887,8 +53886,7 @@ Brief Nr. 446
 </marginal>
 
 <marginal letter="446" page="180" line="4">
-<bzg>musicalischen Briefe</bzg> reichardt-jf, Briefe eines aufmerksam Reisenden, die Musik betreffend. Frankfurt und Leipzig
-1774, teil 1, https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599277-5; teil 2 1776: https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599278-0
+<bzg>musicalischen Briefe</bzg> <link ref="reichardt-jf" subref="reichardt-jf-briefe" linktext="true" />
 </marginal>
 
 
@@ -54842,8 +54840,7 @@ recensieren ?!?
 </marginal>
 
 <marginal letter="450" page="192" line="13">
-<bzg>Litth. Lieder in der Preuß. Saml.</bzg> Preußische Blumenlese. Königsberg 1775; daraus 3 litauische Volkslieder, in Herders Volkslieder-
-Sammlung aufgenommen: Die kranke Braut; Abschiedslied eines Mädchens; Der versunkne Brautring
+<bzg>Litth. Lieder in der Preuß. Saml.</bzg> <link ref="kreutzfeld" subref="kreutzfeld-blumenlese" linktext="true" />; in <link ref="herder" subref="herder-volkslieder" linktext="true" /> aufgenommen: Die kranke Braut; Abschiedslied eines Mädchens; Der versunkne Brautring
 </marginal>
 
 <marginal letter="450" page="192" line="17">
@@ -55650,7 +55647,7 @@ Einfälle
 </marginal>
 
 <marginal letter="455" page="205" line="7">
-<bzg>Dainos</bzg> litauische Volkslieder, für Herders Sammlung
+<bzg>Dainos</bzg> litauische Volkslieder, für <link ref="herder" subref="herder-volkslieder" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="205" line="9">
@@ -55670,25 +55667,11 @@ Einfälle
 </marginal>
 
 <marginal letter="455" page="205" line="19">
-<bzg>Gouverneur</bzg> Stutternheim, Joachim Friedrich v. (1714- 1783), Generallieutenant, Gouverneur von Memel und
-Pillau
-</marginal>
-
-<marginal letter="455" page="205" line="19">
-<bzg>Collegia priuatissima</bzg> Penzel blieb weiterhin in preußischen Diensten, war aber
-Freiwächter, also ein Soldat, der sich in der Garnison seinen Lebensunterhalt selbst
-verdienen durfte und vom Wachdienst befreit war. So blieb der Strabo sein
-Hauptgeschäft, er verdiente an seiner Mitarbeit bei den Königsbergschen ...
-Zeitungen, sein Sold floß aber größtenteils in die Regimentskasse, vgl B. GAJEK in:
-Jahrbuch des Freien Deutschen Hochstifts 1986, S. 34ff.; dort auch Penzels Brief an
-den Freund Ignaz Schmidt in Würzburg, zitiert S. 36
+<bzg>Gouverneur</bzg> Joachim Friedrich v. Stutternheim (1714-–1783), Generallieutenant, Gouverneur von Memel und Pillau
 </marginal>
 
 <marginal letter="455" page="205" line="22">
-<bzg>Klotzens</bzg> <link ref="klotz" linktext="true" /> protegierte ihn und ließ ihn Rezensionen für
-die Bibliothek der schönen Wissenschaften schreiben; er disputierte unter Klotzens
-Vorsitz und wurde 1772 in Halle zum doctorem philosophiae promoviert. Später kam
-es zum Bruch.
+<bzg>Klotzens</bzg> <link ref="klotz" linktext="true" /> protegierte <link ref="penzel" linktext="true" /> und ließ ihn Rezensionen für <link ref="bibl-wiss-kuenste" linktext="true" /> schreiben
 </marginal>
 
 <marginal letter="455" page="205" line="25" sort="1">
@@ -55696,9 +55679,7 @@ es zum Bruch.
 </marginal>
 
 <marginal letter="455" page="205" line="25" sort="2">
-<bzg>D. Reccard</bzg> Reccard, Gotthilf Christian (1735- 1798), evang. Theologe, seit 1772 Konsistorialrat und seit 1775
-Direktor des Fridericianums in Königsberg, Schwiegersohn des J. Ch. Buchholtz. Reccard war mit Caroline Buchholtz, der ältesten Tochter des Kirchenrats aus dessen
-erster Ehe, Starck mit einer jüngeren Tochter verheiratet
+<bzg>D. Reccard</bzg> <link ref="reccard" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="205" line="25" sort="3">
@@ -55710,13 +55691,7 @@ erster Ehe, Starck mit einer jüngeren Tochter verheiratet
 </marginal>
 
 <marginal letter="455" page="205" line="29">
-<bzg>Göthens Arlequinspeitsche</bzg> Götter, Helden und Wieland. Eine Farce
-</marginal>
-
-<marginal letter="455" page="205" line="30">
-<bzg>Barbarey</bzg> das von Wieland in der Rivalität zu Euripides angeblich
-verlebendigte und aktualisierte, aber - nicht nur in Hs und Goethes Kritik -
-sentimentalisierte und verkleinerte Griechentum.
+<bzg>Göthens Arlequinspeitsche</bzg> <link ref="goethe" subref="goethe-gotter" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="205" line="33" sort="1">

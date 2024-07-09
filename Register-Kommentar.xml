@@ -5076,6 +5076,12 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <eintrag>
 <titel>Die Leiden des jungen Werthers</titel> (Leipzig 1774) [Biga&#x202F;158/479: „Leyden des jungen Werthers, Freyst. 775“]. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/goethe_werther02_1774">Deutsches Textarchiv</wwwlink>.</eintrag>
 </subsection>
+<subsection id="goethe-gotter" type="neuzeit" sort="40">
+<lemma>[anonym], <titel>Götter, Helden und Wieland</titel></lemma>
+<eintrag>
+<titel>Götter, Helden und Wieland. Eine Farce. Satirisches Gespräch</titel> (Leipzig 1774) [Biga&#x202F;141/192: „Götter, Helden und Wieland, 774.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10109251-9">München, Bayerische Staatsbibliothek: P.o.germ. 490 b</wwwlink>.</eintrag>
+</subsection>
+
 </kommentar>
 
 
@@ -6533,6 +6539,12 @@ des gesunkenen Geschmacks, Berl. 776“]. – Digitalisat: <wwwlink address="htt
 <lemma>Herder, <titel>Plastik</titel></lemma>
 <eintrag>
 <titel>Plastik.</titel> Einige Wahrnehmungen aus Pygmalions bildendem Traume (Riga: Hartknoch 1778). – SWS VIII, S.&#x202F;1–163.
+</eintrag>
+</subsection>
+<subsection id="herder-volkslieder" type="neuzeit" sort="500">
+<lemma>Herder, <titel>Volkslieder</titel></lemma>
+<eintrag>
+<titel>Volkslieder</titel> (2 Bde., Leipzig: Weygand 1778/9). – SWS XXV, S.&#x202F;127–546.
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
@@ -8252,6 +8264,12 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <kommentar id="kreutzfeld" type="neuzeit">
 <lemma>Johann Gottlieb Kreutzfeld</lemma>
 <eintrag>1745–1784. Seit 1776 Prof. der Poesie an der Universität Königsberg.</eintrag>
+<subsection id="kreutzfeld-blumenlese" type="neuzeit">
+<lemma>Kreutzfeld, <titel>Preußische Blumenlese</titel></lemma>
+<eintrag>
+<titel>Preußische Blumenlese</titel> (Königsberg 1775).
+</eintrag>
+</subsection>
 </kommentar>
 
 
@@ -12145,6 +12163,11 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 </subsection>
 </kommentar>
 
+<kommentar id="reccard" type="neuzeit">
+<lemma>Gotthilf Christian Reccard</lemma>
+<eintrag>1735–1798. Evang. Theologe, seit 1772 Konsistorialrat und seit 1775 Direktor des Fridericianums in Königsberg, Schwiegersohn von <link ref="bucholtz-k-jc" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="reichardt-j" type="neuzeit">
 <lemma>Johann Reichardt</lemma>
 <eintrag>1720–1780. Lautenist und Oboist in der preuß. Armee; Lautenlehrer, Stadtmusikus, Lehrer Hamanns in Königsberg, Vater <link ref="reichardt-jf" linktext="true" />.</eintrag>
@@ -12153,6 +12176,12 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <kommentar id="reichardt-jf" type="neuzeit">
 <lemma>Johann Friedrich Reichardt</lemma>
 <eintrag>1752–1814. Sohn von <link ref="reichardt-j" linktext="true" />, Musiker und Komponist, seit 1776 preuß. Kapellmeister in Berlin, oft auf Reisen: 1783 Schweiz, Italien, Wien, Hamburg, 1785 London, Paris.</eintrag>
+<subsection id="reichardt-jf-briefe" type="neuzeit">
+<lemma>Reichardt, <titel>Briefe eines aufmerksam Reisenden</titel></lemma>
+<eintrag>
+<titel>Briefe eines aufmerksam Reisenden, die Musik betreffend</titel> (2 Bde., Frankfurt und Leipzig 1774–1776). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599277-5">München, Bayerische Staatsbibliothek: Mus.th. 2735-1</wwwlink>; Bd.&#x202F;2: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599278-0">München, Bayerische Staatsbibliothek: Mus.th. 2735-2</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="reiche" type="neuzeit">
