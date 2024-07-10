@@ -48263,7 +48263,7 @@ Brief Nr. 395
 </marginal>
 
 <marginal letter="395" page="62" line="15">
-<bzg>debrouiller les origines de votre Patrie </bzg> nicht ermittelt?!?
+<bzg>L’homme…</bzg> nicht ermittelt, mglw. <link ref="nicolai" linktext="true" /> oder <link ref="eberhard-ja" linktext="true" />?!?
 </marginal>
 
 Brief Nr. 396
@@ -52748,8 +52748,7 @@ Brief Nr. 436
 </marginal>
 
 <marginal letter="436" page="159" line="34">
-<bzg>Nicolai Leiden</bzg>Nicolai, Christoph Friedrich (1733- 1811), Freuden des jungen Werthers, Leiden und Freuden Werthers des Mannes. Voran und zuletzt ein
-Gespräch. Berlin 1775. Biga 158/480.
+<bzg>Nicolai Leiden</bzg> <link ref="nicolai" subref="nicolai-freuden" linktext="true" /> 
 </marginal>
 
 <marginal letter="436" page="160" line="1">
@@ -53321,9 +53320,8 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="170" line="14">
-<bzg>Bucephalus</bzg> das wilde Lieblingspferd Alexanders des Großen
-(nach Gell. noct. att. 5,2), metonymisch für Hs Neigungen, vgl Kreuzzüge des
-Philologen, N II,174, 23f
+<bzg>Bucephalus</bzg> das wilde Lieblingspferd Alexanders des Großen, metonymisch für Hs Neigungen, vgl Kreuzzüge des
+Philologen, N II,174, 23f ?!?
 </marginal>
 
 <marginal letter="441" page="170" line="16">
@@ -53351,7 +53349,7 @@ Philologen, N II,174, 23f
 </marginal>
 
 <marginal letter="441" page="170" line="29">
-<bzg>Werther</bzg> Nicolais Freuden des jungen W
+<bzg>Werther</bzg> <link ref="nicolai" subref="nicolai-freuden" linktext="true" /> 
 </marginal>
 
 <marginal letter="441" page="170" line="34">
@@ -53449,7 +53447,7 @@ Zimmermann u. J. G. Herder nach bisher ungedruckten Briefen. Worms 1910. ?!?
 </marginal>
 
 <marginal letter="441" page="172" line="7">
-<bzg>Fr. Nikolai“ Die Freuden des jungen Werth.</bzg> 
+<bzg>Fr. Nikolai“ Die Freuden des jungen Werth.</bzg> <link ref="nicolai" subref="nicolai-freuden" linktext="true" /> 
 </marginal>
 
 <marginal letter="441" page="172" line="12">
@@ -53465,7 +53463,7 @@ Herzoglichen Bibliothek in Wolfenbüttel: Von Duldung der Deisten
 Brief Nr. 442
 
 <marginal letter="442" page="172" line="21">
-<bzg>Schwester mit Ihrem künftigen Pensionnair</bzg>Güldenhorn, Katharina Dorothea (1748- 1793), geb. Herder, und <link ref="neumann-j" linktext="true" /> 
+<bzg>Schwester mit Ihrem künftigen Pensionnair</bzg> <link ref="herder-cd-g" linktext="true" /> und <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="442" page="172" line="24">
@@ -53734,7 +53732,7 @@ Brief Nr. 445
 </marginal>
 
 <marginal letter="445" page="177" line="8">
-<bzg>Schwester</bzg> Güldenhorn, Katharina Dorothea (1748- 1793), geb. Herder
+<bzg>Schwester</bzg> <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
 <marginal letter="445" page="177" line="9">
@@ -53826,8 +53824,7 @@ Rezensionen von Goethes Die Leiden des jungen Werthers, S. 16. Wagner. Nicolai ?
 </marginal>
 
 <marginal letter="445" page="178" line="29">
-<bzg>Bahrdts Offenb. u. die Götter, Helden u. Wieland</bzg> Prolog zu Bahrdts Offenb.[arungen] u. die <link ref="goethe" subref="goethe-gotter" linktext="true" /> 
-Goethes Satiren. ?!?
+<bzg>Bahrdts Offenb. u. die Götter, Helden u. Wieland</bzg> Prolog zu Bahrdts Offenb.[arungen] u. <link ref="goethe" subref="goethe-gotter" linktext="true" /> 
 </marginal>
 
 <marginal letter="445" page="178" line="30" sort="1">
@@ -54628,7 +54625,7 @@ heiligen Geistes (am Pfingstfest), in <link ref="claudius" subref="claudius-both
 </marginal>
 
 <marginal letter="450" page="190" line="13">
-<bzg>HErn Nickels</bzg> <link ref="nicolai-f" linktext="true" /> 
+<bzg>HErn Nickels</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="190" line="15">
@@ -55434,8 +55431,7 @@ Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern verseh
 </marginal>
 
 <marginal letter="454" page="201" line="28">
-<bzg>Rec. der Prov. Bl. in der D. B.</bzg> Rec.[ension] der Prov.[incial] Bl.[ätter] in der D.[eutschen] B.[ibliothek]:
-<link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 23/2, S. 346-375
+<bzg>Rec. der Prov. Bl. in der D. B.</bzg> Rec.[ension] von <link ref="herder" subref="herder-prediger" linktext="true" /> in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 23/2, S. 346-375
 </marginal>
 
 <marginal letter="454" page="201" line="29">
@@ -55586,7 +55582,7 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 </marginal>
 
 <marginal letter="455" page="204" line="11">
-<bzg>Caroline</bzg> vgl. 201,3f.; 209,33
+<bzg>Caroline</bzg> vgl. <intlink letter="456" page="209" line="33" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="204" line="12">
@@ -55594,7 +55590,7 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 </marginal>
 
 <marginal letter="455" page="204" line="13" sort="1">
-<bzg>H – n p. 196</bzg> vgl. 209,35.
+<bzg>H – n p. 196</bzg> vgl. <intlink letter="456" page="209" line="35" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="204" line="13" sort="2">
@@ -55606,7 +55602,7 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 </marginal>
 
 <marginal letter="455" page="204" line="14">
-<bzg>Vision</bzg> 196,21ff. und Brief 453
+<bzg>Vision</bzg> vgl. Brief 453
 </marginal>
 
 <marginal letter="455" page="204" line="20">
@@ -55626,8 +55622,7 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 </marginal>
 
 <marginal letter="455" page="204" line="33">
-<bzg>Tichten und Trachten</bzg> mit 1 Mo 6,5 die Vorbereitung seiner Zweifel und
-Einfälle
+<bzg>Tichten und Trachten</bzg> vgl. <link ref="at-mo1" subref="at-mo1-6" linktext="false">1 Mo 6,5</link> 
 </marginal>
 
 <marginal letter="455" page="204" line="34">
@@ -55707,7 +55702,7 @@ Einfälle
 </marginal>
 
 <marginal letter="455" page="205" line="35">
-<bzg>wachsen … abnehmen</bzg> Jh 3,30.
+<bzg>wachsen … abnehmen</bzg> <link ref="nt-jo" subref="nt-jo3" linktext="false">Joh 3,30</link>
 </marginal>
 
 <marginal letter="455" page="206" line="1">
@@ -55715,11 +55710,11 @@ Einfälle
 </marginal>
 
 <marginal letter="455" page="206" line="5">
-<bzg>Layenbruder und Claudius</bzg> vgl. 202,6ff.
+<bzg>Layenbruder und Claudius</bzg> vgl. <intlink letter="453" page="202" line="6" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="206" line="7">
-<bzg>Nickel und seine beyde Gesellen</bzg> vgl. 204,6.
+<bzg>Nickel und seine beyde Gesellen</bzg> vgl. <intlink letter="455" page="204" line="6" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="206" line="10" sort="1">
@@ -55759,7 +55754,7 @@ Einfälle
 </marginal>
 
 <marginal letter="455" page="206" line="26">
-<bzg>Caroline, Gottfriedchen, Johann Christoph</bzg> <link ref="herder-c" linktext="true" />, ?!?
+<bzg>Caroline, Gottfriedchen, Johann Christoph</bzg> <link ref="herder-c" linktext="true" />, <link ref="herder-w" linktext="true" />, <link ref="neumann-j" linktext="true" />
 </marginal>
 
 
@@ -55782,8 +55777,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="207" line="19">
-<bzg>Prof. Kopp. von Mitau</bzg> Koppe (Kopp, Köppen, Kopka, Kopke), Johann Benjamin (1750- 1791), 1774 Prof. der griechischen
-Sprache in Mitau, 1784 Generalintendant in Gotha, 1787 in Hannover
+<bzg>Prof. Kopp. von Mitau</bzg> Johann Benjamin  Koppe (17501791), 1774 Prof. der griechischen Sprache in Mitau
 </marginal>
 
 <marginal letter="456" page="207" line="24">
