@@ -13581,6 +13581,10 @@ Englische Erstausgabe von <titel>Soliloquy: or, Advice to an Author</titel> 1710
 <eintrag>
 <titel>The Plays of William Shakespeare. In eight volumes with the corrections and illustrations of various commentators to wich are added notes by <link ref="johnson" linktext="false">Sam. Johnson</link></titel> (8&#xA0;Bde., London: Woodfall 1768; 2 Suppl.&#xA0;Bde., London: Bathurs 1780) [Biga&#x202F;159/497: „The Play’s of William Shakespeare by Samuel Johnson, Vol. I–VIII. London 768]“.</eintrag>
 </subsection>
+<subsection id="shakespeare-midsummer" type="neuzeit" sort="35">
+<lemma>Shakespeare, <titel>A Midsummer Night’s Dream</titel></lemma>
+<eintrag><titel>A Midsummer Night’s Dream</titel> (1600).</eintrag>
+</subsection>
 <subsection id="shakespeare-hamlet" type="neuzeit" sort="40">
 <lemma>Shakespeare, <titel>Hamlet</titel></lemma>
 <eintrag><titel>The Tragical History of Hamlet, Prince of Denmark</titel> (1603).</eintrag>
@@ -13821,6 +13825,12 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <titel>Antigone: Ein Trauerspiel des Sophokles, nebst Pindars vierter und fünfter Ode</titel>, übers. v. <link ref="steinbruchel" linktext="true" /> (Zürich: Geßner 1760).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="sophron" type="neuzeit">
+<lemma>Sophron von Syrakus</lemma>
+<eintrag>5. Jhd. v. Chr. Griech. Dichter. Seine komischen Szenen sind nur fragmentarisch überliefert.
+</eintrag>
 </kommentar>
 
 <kommentar id="sozomenos" type="neuzeit">
