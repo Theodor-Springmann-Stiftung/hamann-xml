@@ -52941,7 +52941,7 @@ herzlich Dank.“ (HBGA III, Brief 133, S. 157).
 Brief Nr. 438
 
 <marginal letter="438" page="165" line="4">
-<bzg>Schwägerin</bzg> Eleonore Henriette Rappolt, geb. Toussaint (1747-1820)
+<bzg>Schwägerin</bzg> Eleonore Henriette Rappolt, geb. Toussaint (1747–1820)
 </marginal>
 
 <marginal letter="438" page="165" line="5">
@@ -52957,7 +52957,7 @@ Brief Nr. 438
 </marginal>
 
 <marginal letter="438" page="165" line="9">
-<bzg>Propheten</bzg> Mt 13,57.
+<bzg>Propheten</bzg> <link ref="nt-mt" subref="nt-mt13" linktext="false">Mt 13,57</link>
 </marginal>
 
 <marginal letter="438" page="165" line="12">
@@ -52965,7 +52965,7 @@ Brief Nr. 438
 </marginal>
 
 <marginal letter="438" page="165" line="14">
-<bzg>Brief pour battre …</bzg> ?!?
+<bzg>Brief pour battre …</bzg> dt. das Eisen muss man schlagen, solange es heiß ist
 </marginal>
 
 <marginal letter="438" page="165" line="17">
@@ -52974,7 +52974,7 @@ Brief Nr. 438
 
 <marginal letter="438" page="165" line="20">
 <bzg>Heinr. Sch. in der Weisgärber Gaße et qui fabricauerat illum</bzg> Heinrich Schröder, fiktiver Verfasser von <link ref="hamann" subref="hamann-h" linktext="true" />; 
-et qui ...: dt. und der jenen verfertigt hatte
+et qui ...: dt. und der jenen verfertigt hatte; Weisgebergasse: nordöstlich des Schlosses, zum Schlossteich hin führend
 </marginal>
 
 <marginal letter="438" page="165" line="21">
@@ -52986,11 +52986,7 @@ et qui ...: dt. und der jenen verfertigt hatte
 </marginal>
 
 <marginal letter="438" page="165" line="23" sort="1">
-<bzg>Geschichte der Gelehrten von St. Maur</bzg> assin, René (1697- 1777), frz. Benediktiner
-Histoire littéraire de la Congrégation de Saint- Maur, ordre de S. Benoît. Brüssel 1770.
-Dom Renatus Taßins, Mitglieds und Priesters der Congregation von St. Maur und vornehmsten Verfassers
-des neuen Lehrgebäudes der Diplomatick, Gelehrtengeschichte der Congregation von St. Maur,
-Benediktinerordens . A. d. Frz. 2 Bde. 1773/4. ?!?
+<bzg>Geschichte der Gelehrten von St. Maur</bzg> <link ref="tassin" subref="tassin-histoire" linktext="true" /> 
 </marginal>
 
 <marginal letter="438" page="165" line="23" sort="2">
@@ -53006,10 +53002,6 @@ Rouen. ?!?
 
 <marginal letter="438" page="165" line="25">
 <bzg>KinderPhysik</bzg> vgl. Briefe 168 und 169
-</marginal>
-
-<marginal letter="438" page="165" line="26">
-<bzg>Mosaische Geschichte</bzg> indem H., im Blick auf Herder, an seine ideelle Priorität erinnert ?!?
 </marginal>
 
 <marginal letter="438" page="165" line="28">
@@ -53032,7 +53024,7 @@ Brief Nr. 439
 </marginal>
 
 <marginal letter="439" page="165" line="34">
-<bzg>HE. N. Antwort</bzg> HE. N.[icolai] Antwort: An den Magum in Norden, N III,429f.
+<bzg>HE. N. Antwort</bzg> von <link ref="nicolai" linktext="true" /> in Nr. 21 von <link ref="kgpz" linktext="true" /> angekündigt, vgl. N III,429f.; <link ref="nicolai" subref="nicolai-magum" linktext="true" />  ?!?
 </marginal>
 
 <marginal letter="439" page="166" line="7">
@@ -53052,7 +53044,7 @@ Brief Nr. 439
 </marginal>
 
 <marginal letter="439" page="166" line="13">
-<bzg>Julian</bzg> Julianus Flavius, gen. Apostata (331-363)
+<bzg>Julian</bzg> Julianus Flavius, gen. Apostata (331–363)
 </marginal>
 
 <marginal letter="439" page="166" line="14">
@@ -53195,19 +53187,15 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="169" line="4">
-<bzg>Deutschen Mercur</bzg> <link ref="teutsche-merkur" linktext="true" />, vgl. 159,10; 162,23ff.; 165,27
+<bzg>Deutschen Mercur</bzg> <link ref="teutsche-merkur" linktext="true" />, vgl. <intlink letter="435" page="159" line="10" linktext="true" /> 
 </marginal>
 
 <marginal letter="440" page="169" line="8">
-<bzg>Fürsten Orlow Labore et virtute</bzg> Grigorij Orlow, der Günstling Katharinas II., 1772 von
-Kaiser Joseph II. auch zum deutschen Reichsfürsten ernannt, bald darauf aber von
-Potemkin in den Schatten gestellt 
+<bzg>Fürsten Orlow Labore et virtute</bzg> Grigorij Orlow (1734–1783), Günstling Katharinas II.; Labore et virtute: dt. durch Arbeit und Tugend
 </marginal>
 
 <marginal letter="440" page="169" line="9">
-<bzg>Theodor oder Paoli</bzg> Baron Theodor v. Neuhoff (1694–1756), Abenteurer aus
-Westfalen, war 1736 einige Monate frei gewählter König von Korsika. Er wird u.a. in <link ref="voltaire" subref="voltaire-candide" linktext="true" /> verspottet; Pasquale Paoli (1725–1807) war Diktator in Korsika, bis er 1769 der französischen
-Übermacht weichen mußte.
+<bzg>Theodor oder Paoli</bzg> Baron Theodor v. Neuhoff (1694–1756), Abenteurer aus Westfalen, war 1736 einige Monate gewählter König von Korsika. Er wird u.a. in <link ref="voltaire" subref="voltaire-candide" linktext="true" /> verspottet; Pasquale Paoli (1725–1807) war Diktator in Korsika, bis er 1769 von den Franzosen vertrieben wurde.
 </marginal>
 
 <marginal letter="440" page="169" line="9">
@@ -53231,7 +53219,7 @@ Westfalen, war 1736 einige Monate frei gewählter König von Korsika. Er wird u.
 </marginal>
 
 <marginal letter="440" page="169" line="21" sort="2">
-<bzg>Palmenfreund</bzg> 134,33.
+<bzg>Palmenfreund</bzg> <intlink letter="424" page="134" line="33" linktext="true" />
 </marginal>
 
 
@@ -53298,8 +53286,7 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="170" line="14">
-<bzg>Bucephalus</bzg> das wilde Lieblingspferd Alexanders des Großen, metonymisch für Hs Neigungen, vgl Kreuzzüge des
-Philologen, N II,174, 23f ?!?
+<bzg>Bucephalus</bzg> das wilde Lieblingspferd Alexanders des Großen, vgl <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" />, N II,174, 23f.
 </marginal>
 
 <marginal letter="441" page="170" line="16">
@@ -53319,7 +53306,7 @@ Philologen, N II,174, 23f ?!?
 </marginal>
 
 <marginal letter="441" page="170" line="25">
-<bzg>HE. Fr. Nikol. … Weimars</bzg>  parodiert Wieland mit Jes 44,4, 162,25 und 169,4
+<bzg>HE. Fr. Nikol. … Weimars</bzg> <link ref="nicolai" linktext="true" />; Weide: <link ref="wieland" linktext="true" />. Anspielung auf <link ref="at-jes" subref="at-jes44" linktext="false">Jes 44,4</link>
 </marginal>
 
 <marginal letter="441" page="170" line="28">
@@ -53409,7 +53396,7 @@ Zimmermann u. J. G. Herder nach bisher ungedruckten Briefen. Worms 1910. ?!?
 </marginal>
 
 <marginal letter="441" page="171" line="34">
-<bzg>Nachbar</bzg> J. Ch. W. Meier, Superintendent in Stadthagen
+<bzg>Nachbar</bzg> Johann Christian Wilhelm Meier (1731–1775), Superintendent in Stadthagen
 </marginal>
 
 <marginal letter="441" page="171" line="35">
@@ -53429,8 +53416,7 @@ Zimmermann u. J. G. Herder nach bisher ungedruckten Briefen. Worms 1910. ?!?
 </marginal>
 
 <marginal letter="441" page="172" line="12">
-<bzg>Leßing</bzg> Zur Geschichte und Litteratur. Aus den Schätzen der
-Herzoglichen Bibliothek in Wolfenbüttel: Von Duldung der Deisten
+<bzg>Leßing</bzg> <link ref="lessing" subref="lessing-geschichtelitteratur" linktext="true" /> 
 </marginal>
 
 <marginal letter="441" page="172" line="19">
