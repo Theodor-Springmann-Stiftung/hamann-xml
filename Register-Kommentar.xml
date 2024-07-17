@@ -692,6 +692,18 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 <eintrag>1668–1707. Ital. Arzt.</eintrag>
 </kommentar>
 
+<kommentar id="bahrdt" type="neuzeit">
+<lemma>Carl Friedrich Bahrdt</lemma>
+<eintrag>1741–1792. 1771–1775 Prof. der Theologie in Gießen, Schriftsteller, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz69389.html#adbcontent">Frank, G.: Bahrdt, Carl Friedrich, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;772&#x2013;774</wwwlink>.
+</eintrag>
+<subsection id="bahrdt-offenbarungen" type="neuzeit" sort="10">
+<lemma>Bahrdt, <titel>Die neusten Offenbarungen Gottes</titel></lemma>
+<eintrag>
+<titel>Die neusten Offenbarungen Gottes in Briefen und Erzählungen verdeutscht durch D. Carl Friedrich Bahrdt, der Theologie ordentlicher Lehrer, des Consistorii Assessor, Definitor und Prediger an der St. Pankratiuskirche zu Giessen</titel> (4 Bde., Riga: Hartknoch 1773/4) [Biga&#x202F;26/164: „J. F. Bahrdts neueste Offenbarungen Gottes, 1—4 Th. Riga 773“ u. 52/556: „neueste Offenbarungen Gottes, Riga Th. I—IV. 773—74. Donum LIBRAR“].
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="ballstadt" type="neuzeit">
 <lemma>Adolf Ludwig Ballstädt</lemma>
 <eintrag>Gest. 1759. Prediger.
@@ -14332,7 +14344,7 @@ T
 <kommentar id="tassin" type="neuzeit">
 <lemma>René Tassin</lemma>
 <eintrag>1697–1777, frz. Benediktiner.</eintrag>
-<subsection id="tassin-histoire " type="neuzeit">
+<subsection id="tassin-histoire" type="neuzeit">
 <lemma>Tassin, <titel>Histoire littéraire de la Congrégation de Saint-Maur</titel></lemma>
 <eintrag>
 <titel>Histoire littéraire de la Congrégation de Saint-Maur, ordre de S. Benoît</titel> (Brüssel 1770.)<line type="break" />
@@ -15320,6 +15332,16 @@ W
 <lemma>Wagner, <titel>Sprachlehre der Griechen</titel></lemma>
 <eintrag>
 <titel>Sprachlehre der Griechen nach ihren Gründen untersucht</titel> (Frankfurt, Leipzig 1754) [Biga&#x202F;68/166: „J. E. Wagners Sprachlehre der Griechen nach ihren Gründen untersucht. Frft. 754. mit weissen Papier durchschossen“].</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="wagner-hl" type="neuzeit">
+<lemma>Heinrich Leopold Wagner</lemma>
+<eintrag>1747–1779. Schriftsteller des Sturm und Drang, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz84229.html#adbcontent">Schmidt, Erich: Wagner, Heinrich Leopold, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;502&#x2013;506</wwwlink>.</eintrag>
+<subsection id="wagner-prometheus" type="neuzeit" sort="10">
+<lemma>Wagner, <titel>Prometheus, Deukalion und seine Rezensenten</titel></lemma>
+<eintrag>
+<titel>Prometheus, Deukalion und seine Recensenten. Voran ein Prologus und zuletzt ein Epilogus</titel> (Freystadt 1775). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN870170953">SUB Göttingen: DD91 A 33226</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
