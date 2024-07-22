@@ -548,7 +548,7 @@ In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202F;2, S.&#x202F;177�
 <titel>Mémoires du Chevalier d’Arvieux, contenant ses Voyages à Constantinople, dans l’Asie, la Syrie, la Palestine, l’Egypte, la Barbarie, la description de ces Païs, les Religions, les murs, les Coûtumes, le Négoce de ces Peuples, leurs Gouvernemens, l’Histoire naturelle et les événemens les plus considerables, recüeillis de ses Memoires origineaux, et mis en ordre avec des réfléxions par le Jean-Baptiste Labat</titel> (Paris 1735). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:180-digad-4803">UB Mannheim: Sch 054/095-1</wwwlink>.
 <line type="break" />
 Übers.: <titel>Des Herrn von Arvieux hinterlassene merkwürdige Nachrichten, worinnen er sowol seine Reise nach Constantinopel, in Asien, Syrien, dem gelobten Lande, Egypten, und der Barbarei, als auch die Beschaffenheit dieser Länder, die Religion, Sitten, Gebräuche, und Handlung dieser Völker, nebst der Regierungsart, der natürlichen Historie, und den besondern in diesen Gegenden vorgefallenen Begebenheiten, genau und richtig beschreibet, im Franz, hg. von Labat und iezt ins Dt. übers.</titel> (6 Bde., Kopenhagen, Leipzig 1753–56). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-54366">UB Heidelberg: A 3548 RES</wwwlink>.</eintrag>
-</subsection>
+</subsection>r
 </kommentar>
 
 <kommentar id="askew" type="neuzeit">
@@ -7710,8 +7710,14 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 <subsection id="kant-mundisensibilis" type="neuzeit" sort="90">
 <lemma>Kant, <titel>De mundi sensibilis atque intelligibilis forma et principiis</titel></lemma>
 <eintrag>
-<titel>De mundi sensibilis atque intelligibilis forma et principiis </titel> (Königsberg: Kanter 1770).<line type="break" />
+<titel>De mundi sensibilis atque intelligibilis forma et principiis</titel> (Königsberg: Kanter 1770).<line type="break" />
 <titel>AA</titel>&#xA0;II: Vorkritische Schriften II, S.&#x202F;385–419.</eintrag>
+</subsection>
+<subsection id="kant-rassen" type="neuzeit" sort="90">
+<lemma>Kant, <titel>Von den verschiedenen Rassen der Menschen</titel></lemma>
+<eintrag>
+<titel>Von den verschiedenen Rassen der Menschen</titel> (Königsberg: Kanter 1775).<line type="break" />
+<titel>AA</titel>&#xA0;II: Vorkritische Schriften II, S.&#x202F;427–445.</eintrag>
 </subsection>
 <subsection id="kant-grundlegung" type="neuzeit" sort="300">
 <lemma>Kant, <titel>Grundlegung zur Metaphysik der Sitten</titel></lemma>
@@ -7989,7 +7995,7 @@ Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt</wwwlink>.
 </kommentar>
 
 <kommentar id="kleuker" type="neuzeit">
-<lemma>Kleuker, Johann Friedrich</lemma>
+<lemma>Johann Friedrich Kleuker</lemma>
 <eintrag>1749–1827. Evangelischer Theologe, Orientalist, Hauslehrer in Bückeburg, 1778 Rektor in Osnabrück, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz42769.html#ndbcontent">Göbell, Walter: Kleuker, Johann Friedrich, in: <titel>NDB</titel>&#x202F;12 (1977), S.&#x202F;56f.</wwwlink></eintrag>
 </kommentar>
 
@@ -15384,6 +15390,12 @@ W
 <kommentar id="warburton" type="neuzeit">
 <lemma>William Warburton</lemma>
 <eintrag>1698–1779. Engl. Theologe, 1757 Dechant in Bristol, 1759 Bischof von Gloucester. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-28680">B. W. Young: Warburton, William, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
+<subsection id="warburton-moses" type="neuzeit">
+<lemma>Warburton, <titel>The Divine Legation of Moses</titel></lemma>
+<eintrag>
+<titel>The Divine Legation of Moses. Demonstrated on the principles of a religious deist, from the omission of the doctrine of a future state of reward and punishment in the jewish dispensation</titel> (3 Bde., 1738–1741).<line type="break"/>
+Übers.: <titel>Göttliche Sendung Mosis aus den Grundsätzen der Deisten erwiesen mit Anmerkungen von Johann Christian Schmidt</titel> (3 Bde., Frankfurt/Leipzig, 1751&#x2013;1753).</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="warner" type="neuzeit">

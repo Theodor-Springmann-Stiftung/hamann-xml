@@ -54516,15 +54516,15 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="190" line="3">
-<bzg>non poss. dicere quid?</bzg> 187,18.
+<bzg>non poss. dicere quid?</bzg> vgl. <intlink letter="459" page="187" line="18" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="190" line="4">
-<bzg>Loth</bzg> 1 Mo 19,1
+<bzg>Loth</bzg> <link ref="at-mo1" subref="at-mo1-19" linktext="false">1 Mo 19,1</link> 
 </marginal>
 
 <marginal letter="450" page="190" line="5">
-<bzg>Oetinger theol. ex id. vitae deductae</bzg> 
+<bzg>Oetinger theol. ex id. vitae deductae</bzg> ?!?
 </marginal>
 
 <marginal letter="450" page="190" line="6">
@@ -54545,28 +54545,12 @@ heiligen Geistes (am Pfingstfest), in <link ref="claudius" subref="claudius-both
 <bzg>Weibe</bzg> <link ref="herder-c" linktext="true" />
 </marginal>
 
-<marginal letter="450" page="190" line="12">
-<bzg>Theilnehmer …Korrespond.</bzg> 
-</marginal>
-
 <marginal letter="450" page="190" line="13">
 <bzg>HErn Nickels</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="190" line="15">
-<bzg>Wansb. Asmus</bzg> wohl ein Zitat aus einem Brief Claudius' an Herder aus dem Herbst
-1771 (Jessen Nr. 52), wo es heißt: Die Neckereien zwischen Ihrem Freunde Alberti und
-Ihrem Freunde Goeze in Hamburg dauern noch fort. Der eine hat kürzlich ein Buch
-zum Unterricht der Jugend geschrieben [von Claudius im Bothen angezeigt] und der
-andere dagegen einen Text ausgehaucht, der einen so übeln Ruch an sich hat, daß
-auch die Nase des Hamburger Rates und des Collegii der Sechziger ihn nicht ertragen
-mochte .... Der Anlaß: Der Hamburger Pastor Alberti ließ aus dem Kirchengebet die
-Psalmworte 79,6 weg, sein Amtsbruder Goeze wandte sich dagegen. Albertis Schrift
-hieß Anleitung zum Gespräch über die Religion der Jugend. Goezes beschlagnahmter
-Text am 5ten Sonntage nach Epiphanias verteidigte gegen Alberti die orthodoxe
-Auffassung vom Satan. C.[laudius] schrieb im vermittelnden Sinne eine Disputation
-zwischen den Herren W. und X. und einem Fremden .... Die Schrift erschien
-zunächst einzeln, später auch im Asmus T. 1/2. (H. Jessen, S. 437).
+<bzg>Wansb. Asmus</bzg> <link ref="claudius" subref="claudius-bothe" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="190" line="24">
@@ -54574,28 +54558,23 @@ zunächst einzeln, später auch im Asmus T. 1/2. (H. Jessen, S. 437).
 </marginal>
 
 <marginal letter="450" page="190" line="24">
-<bzg>Sulzer</bzg> <link ref="sulzer" linktext="true" />, vgl. 188,22ff.
+<bzg>Sulzer</bzg> <link ref="sulzer" linktext="true" />, vgl. <intlink letter="459" page="188" line="22" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="190" line="29">
-<bzg>Weguelin</bzg> <link ref="wegelin" linktext="true" />, vgl. 188,22ff.
+<bzg>Weguelin</bzg> <link ref="wegelin" linktext="true" />, vgl. <intlink letter="459" page="188" line="22" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="190" line="30">
-<bzg>Betracht. über Sparta</bzg> Politische und moralische Betrachtungen
+<bzg>Betracht. über Sparta</bzg> <link ref="wegelin" subref="wegelin-lykurg" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="190" line="31">
-<bzg>Religiose Gespr. im R. der T.</bzg> Gespr.[äche] im R.[eich] der T.[odten], damit Sie in den
-Königsb.[ergschen] einst begannen: Hs Rezension im 27. St. vom 4. Mai 1764, N IV,293-
-295
+<bzg>Religiose Gespr. im R. der T.</bzg> <link ref="wegelin" subref="wegelin-gespraeche" linktext="true" />; <link ref="kgpz" linktext="true" />, Hs Rezension im 27. St. vom 4. Mai 1764, N IV,293–295
 </marginal>
 
 <marginal letter="450" page="190" line="32">
-<bzg>Sokrat. Gespr. von W.</bzg> Sokrat.[ischen] Gespr.[äche] von W.[ieland] ... sich dran für unschuldig
-erklärte: Die letzten Gespräche Socratis und seiner Freunde; Mendelssohns Kritik
-stand im 7. Teil der Briefe die Neueste Litteratur betreffend, 115.- 118. Brief, Berlin
-1760.
+<bzg>Sokrat. Gespr. von W.</bzg> Sokrat.[ischen] Gespr.[äche] von W.[ieland]; <link ref="wegelin" subref="wegelin-sokrates" linktext="true" />; die Kritik von <link ref="mendelssohn" linktext="true" /> im 7. Teil von <link ref="literatur-briefe" linktext="true" />, 115.–118. Brief, 1760
 </marginal>
 
 <marginal letter="450" page="190" line="34">
@@ -54604,11 +54583,11 @@ stand im 7. Teil der Briefe die Neueste Litteratur betreffend, 115.- 118. Brief,
 
 <marginal letter="450" page="190" line="35">
 <bzg>Plane zur Politischen …</bzg> Römerhistorie: Plan raisonné d'une histoire
-universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740.
+universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740. ?!?
 </marginal>
 
 <marginal letter="450" page="190" line="37">
-<bzg>Politisch-historisch Werk</bzg> Histoire universelle et diplomatique
+<bzg>Politisch-historisch Werk</bzg> Histoire universelle et diplomatique ?!?
 </marginal>
 
 <marginal letter="450" page="191" line="6">
@@ -54628,7 +54607,7 @@ universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740.
 </marginal>
 
 <marginal letter="450" page="191" line="11">
-<bzg>Br. 2er Br. Jesu</bzg> ?!?
+<bzg>Br. 2er Br. Jesu</bzg> <link ref="herder" subref="herder-briefebruder" linktext="true" />  
 </marginal>
 
 <marginal letter="450" page="191" line="13">
@@ -54636,7 +54615,7 @@ universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740.
 </marginal>
 
 <marginal letter="450" page="191" line="15">
-<bzg>Hain</bzg> ?!?
+<bzg>Hain</bzg> ?!? der in <link ref="claudius" subref="claudius-werke" linktext="true" /> enthaltene Kupferstich des Knochenmanns mit Hippe
 </marginal>
 
 <marginal letter="450" page="191" line="16" sort="1">
@@ -54644,7 +54623,7 @@ universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740.
 </marginal>
 
 <marginal letter="450" page="191" line="16" sort="2">
-<bzg>alter Ruprecht</bzg> Zitat aus der Dedikation von <link ref="claudius" subref="claudius-werke" linktext="true" />  ?!?
+<bzg>alter Ruprecht</bzg> Zitat aus der Dedikation von <link ref="claudius" subref="claudius-werke" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="191" line="18">
@@ -54652,9 +54631,7 @@ universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740.
 </marginal>
 
 <marginal letter="450" page="191" line="20">
-<bzg>Sense</bzg> N IV,387,10: will doch des Dedicanten Asmus Herzenswunsch
-erfüllen, seinen Lohn dem Boten geben, mit meiner Hippe, ihn ebenso sanft zu
-recensieren ?!?
+<bzg>Sense</bzg> vgl. der in <link ref="claudius" subref="claudius-werke" linktext="true" /> enthaltene Kupferstich des Knochenmanns mit Hippe
 </marginal>
 
 <marginal letter="450" page="191" line="21">
@@ -54666,11 +54643,11 @@ recensieren ?!?
 </marginal>
 
 <marginal letter="450" page="191" line="24">
-<bzg>Warburt. Send. Mos.</bzg> Warburt.[ons] ?!?
+<bzg>Warburt. Send. Mos.</bzg> <link ref="warburton" subref="warburton-moses" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="191" line="25">
-<bzg>Gronovschen Samml.</bzg> J. Gronovius, The-saurus graecarum antiquitatum
+<bzg>Gronovschen Samml.</bzg> J. Gronovius, Thesaurus graecarum antiquitatum ?!?
 </marginal>
 
 <marginal letter="450" page="191" line="26" sort="1">
@@ -54682,7 +54659,7 @@ recensieren ?!?
 </marginal>
 
 <marginal letter="450" page="191" line="26" sort="3">
-<bzg>Zorns Opusc. u. Bibl. sacra antiqu. sacr.</bzg> Opus.[cula] u. Bibl.[liotheca] antiqu.[aria] sacr.[a].
+<bzg>Zorns Opusc. u. Bibl. sacra antiqu. sacr.</bzg> Opus.[cula] u. Bibl.[liotheca] antiqu.[aria] sacr.[a]. ?!?
 </marginal>
 
 <marginal letter="450" page="191" line="27">
@@ -54746,7 +54723,7 @@ recensieren ?!?
 </marginal>
 
 <marginal letter="450" page="192" line="7" sort="2">
-<bzg>Füßlischen Br.</bzg> aus Rom an Lavater ?!?
+<bzg>Füßlischen Br.</bzg> Brief über Klopstock, an Lavater, Rom, März 1775 (Handschrift in Krakau). ?!?
 </marginal>
 
 <marginal letter="450" page="192" line="8">
@@ -54785,7 +54762,7 @@ Brief Nr. 451
 </marginal>
 
 <marginal letter="451" page="192" line="26">
-<bzg>Hiesigen Zeitungen</bzg> wohl <link ref="kgpz" linktext="true" /> ?!?
+<bzg>Hiesigen Zeitungen</bzg> wohl <link ref="kgpz" linktext="true" /> 
 </marginal>
 
 <marginal letter="451" page="193" line="1">
@@ -54793,7 +54770,7 @@ Brief Nr. 451
 </marginal>
 
 <marginal letter="451" page="193" line="3">
-<bzg>putissimus</bzg> dt. der Lauterste; aus der suetonischen Tradition der vita Horatii 
+<bzg>putissimus</bzg> dt. der Lauterste
 </marginal>
 
 <marginal letter="451" page="193" line="4">
@@ -54801,7 +54778,7 @@ Brief Nr. 451
 </marginal>
 
 <marginal letter="451" page="193" line="6">
-<bzg>Beichtvaters</bzg> nach Abgang J. G. Lindners, vgl. <intlink letter="452" page="195" line="22" linktext="true" />
+<bzg>Beichtvaters</bzg> nach Abgang von <link ref="lindner-jg" linktext="true" /> , vgl. <intlink letter="452" page="195" line="22" linktext="true" />
 </marginal>
 
 <marginal letter="451" page="193" line="11">
@@ -54820,9 +54797,9 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="193" line="19">
-<bzg>Strabo … M. Paentzel</bzg>  [Übers] Des Strabo allgemeine Erdbeschreibung .... Durch-gehend von neuem disponiert, mit
+<bzg>Strabo … M. Paentzel</bzg>  [Übers] Des Strabo allgemeine Erdbeschreibung. Durchgehend von neuem disponiert, mit
 Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern versehen. 4 Bde. Lemgo
-1775/7. Biga 85/177, 178. <link ref="penzel" linktext="true" /> 
+1775/7. Biga 85/177, 178. ?!?  <link ref="penzel" linktext="true" /> 
 </marginal>
 
 <marginal letter="452" page="193" line="21">
@@ -54834,25 +54811,11 @@ Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern verseh
 </marginal>
 
 <marginal letter="452" page="193" line="23">
-<bzg>Quintus</bzg> Guichards; es ist wohl Brief 395, den er Penzel wird
-gezeigt haben, um die Aussichtslosigkeit von dessen Entlassungsgesuch aus dem
-Militärdienst samt der unternommenen Hilfsgesuche an Personen in der Umgebung des
-Königs wie Guichard (der inzwischen gestorben war), seinen Nachfolger de Pauw und
-Jean Bernoulli, 218,3ff. zu demonstrieren. Friedrich II. lehnte denn auch die
-Entlassung ab, 218,5ff.
+<bzg>Quintus</bzg><link ref="guichard" linktext="true" />
 </marginal>
 
 <marginal letter="452" page="193" line="25">
-<bzg>Vorfall zu Würtzburg</bzg> Penzel war, wohl um seinen strengen Vater
-zu kränken, zum katholischen Glauben übergetreten. Er nutzte die Gunst des
-Fürstbischofs zum Studium in der Würzburger Universitätsbibliothek, verscherzte sich
-aber binnen eines Jahres alle Gunst und mußte die Stadt wegen Wein, Weiber und
-Schulden verlassen. Angeblich kam ein Duell mit einem Soldaten der Würzburger
-Garnison dazu. In Wertheim traf er mit Soldaten des Regiments Alt- Stutternheim aus
-Königsberg zusammen und ließ sich für den preußischen Kriegsdienst anwerben, um
-kostenlos nach Königsberg zu kommen, wo er seine geographischen Studien durch die
-polnische, slawonische, lettische, litauische und altpreußische Sprache zu fördern
-hoffte.
+<bzg>Vorfall zu Würtzburg</bzg> Konversion zum katholischen Glauben 
 </marginal>
 
 <marginal letter="452" page="193" line="25">
@@ -54860,7 +54823,7 @@ hoffte.
 </marginal>
 
 <marginal letter="452" page="193" line="29">
-<bzg>Predigers</bzg> Johann Jakob Penzel
+<bzg>Predigers</bzg> Johann Jakob Penzel 
 </marginal>
 
 <marginal letter="452" page="193" line="30">
@@ -54868,10 +54831,7 @@ hoffte.
 </marginal>
 
 <marginal letter="452" page="193" line="31">
-<bzg>Venus Erycina</bzg> Eryx, ein Berg an der nordwestlichen Spitze Siziliens mit einem
-berühmten Tempel der Venus; ihr Mythos verbindet dessen Stiftung mit Eryx, einem
-Bruder des Aeneas, sowie mit jener concha erycina, der Perlmuschel, in der Venus,
-nach ihrer Geburt, gen Cyprus geschwemmt wurde.
+<bzg>Venus Erycina</bzg> Eryx, Berg in Sizilien mit Tempel der Venus
 </marginal>
 
 <marginal letter="452" page="194" line="1">
@@ -54903,7 +54863,7 @@ nach ihrer Geburt, gen Cyprus geschwemmt wurde.
 </marginal>
 
 <marginal letter="452" page="194" line="20">
-<bzg>Racen der Menschen zu Ratzen</bzg> Von den verschiedenen Rassen der Menschen ?!?; Ratzen: Ratten
+<bzg>Racen der Menschen zu Ratzen</bzg> <link ref="kant" subref="kant-rassen" linktext="true" />; Ratzen: Ratten
 </marginal>
 
 <marginal letter="452" page="194" line="22">
@@ -54967,14 +54927,7 @@ nach ihrer Geburt, gen Cyprus geschwemmt wurde.
 </marginal>
 
 <marginal letter="452" page="195" line="27">
-<bzg>Kopfs</bzg> aus <link ref="lavater" subref="lavater-fragmente" linktext="true" />, wo im
-zweyten Versuch, 1776, im 36. Fragment, das Religiöse, Schwärmer, Theosophen,
-Seher enthält, gegenüber von S. 285 das Bild Hs zu sehen ist (Stich von Lips) mit Ls
-physiognomisch gegründeter emphatischer Charakterdeutung, an die sich auf S. 286
-ein Umriß von Hs Kopf anschließt. Hamann ist beide Male mit Kopftuch abgebildet, das
-in zwei Zipfel geknotet ist. H. deutet sie als Eselsohren, 196,12. Damit beginnt eine
-Episode in Hs Leben, die ihm lange zu schaffen machte; vgl 453 an Kant und Herders
-454, bes. 200,32ff.
+<bzg>Kopfs</bzg> aus <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 2, S. 285 unter „Religiöse, Schwärmer, Theosophen, Seher“ 
 </marginal>
 
 <marginal letter="452" page="195" line="28" sort="1">
@@ -54990,10 +54943,7 @@ Episode in Hs Leben, die ihm lange zu schaffen machte; vgl 453 an Kant und Herde
 </marginal>
 
 <marginal letter="452" page="195" line="34">
-<bzg>CAROLINE</bzg> im XVII. Fragment des Ersten Bands von <link ref="lavater" subref="lavater-fragmente" linktext="true" />  unter E.
-Vier Silhouetten möglicherweise die 4.; da in dem Exemplar, das zum Faksimile-
-Neudruck des Verlags Orell Füssli, 1986, als Vorlage diente, sich die zeitgenössische
-Notiz Herdern [Herderin?] findet.
+<bzg>CAROLINE</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 1,  XVII. Fragment, Nr. 4 
 </marginal>
 
 <marginal letter="452" page="195" line="35">
@@ -55029,7 +54979,7 @@ Notiz Herdern [Herderin?] findet.
 </marginal>
 
 <marginal letter="452" page="196" line="24">
-<bzg>Stahlbaum</bzg> Stahlbaum, Christian Friedrich (1752- 1788), Verleger in Berlin
+<bzg>Stahlbaum</bzg> Christian Friedrich Stahlbaum (1752–1788), Verleger in Berlin
 </marginal>
 
 <marginal letter="452" page="196" line="25">
@@ -55045,7 +54995,7 @@ Notiz Herdern [Herderin?] findet.
 </marginal>
 
 <marginal letter="452" page="196" line="32">
-<bzg>Johannes</bzg> ?!?
+<bzg>Johannes</bzg> <link ref="hamann-jm" linktext="true" />
 </marginal>
 
 <marginal letter="452" page="196" line="36">
@@ -55058,13 +55008,7 @@ und Nicolai.
 </marginal>
 
 <marginal letter="452" page="197" line="3">
-<bzg>Tellerschen Briefes</bzg> der Streit um  <link ref="herder" subref="herder-prediger" linktext="true" />  und
-Gefundene Blätter aus den neuesten deutschen Litteraturannalen; nachdem
-Gleims Versuch, Herder als Nachfolger Michaelis' nach Halberstadt zu holen, durch v.
-Zedlitz abgelehnt worden war, machte sich Herder Hoffnungen auf die Göttinger
-Generalsuperintendentur; seiner abschätzigen Beurteilung der Brandenburgischen
-Theologen in den Litteraturannalen wurden durch Teller u. a. persönliche Motive
-unterstellt. ?!?
+<bzg>Tellerschen Briefes</bzg> <link ref="teller-wa" linktext="true" />; der Streit um  <link ref="herder" subref="herder-prediger" linktext="true" />
 </marginal>
 
 <marginal letter="452" page="197" line="5">
@@ -55104,7 +55048,7 @@ unterstellt. ?!?
 </marginal>
 
 <marginal letter="452" page="197" line="24">
-<bzg>Zeitungen</bzg> in der Rezension der Fünfzehn Provincialblätter durch <link ref="trescho-sf" linktext="true" /> im 59. St der <link ref="kgpz" linktext="false">Königsbergschen Gelehrten und Politischen Zeitungen</link> vom 24. 7. 1775; die Claudius- Rezension, ebenfalls von Trescho?
+<bzg>Zeitungen</bzg> in der Rezension von <link ref="herder" subref="herder-prediger" linktext="true" /> durch <link ref="trescho-sf" linktext="true" /> im 59. St der <link ref="kgpz" linktext="false">Königsbergschen Gelehrten und Politischen Zeitungen</link> vom 24. 7. 1775; die Claudius- Rezension, ebenfalls von Trescho?
 </marginal>
 
 <marginal letter="452" page="197" line="25">
@@ -55139,9 +55083,7 @@ Brief Nr. 453
 </marginal>
 
 <marginal letter="453" page="198" line="4">
-<bzg>Fragmente</bzg> H. vermutet, daß Kant den Ersten Versuch von 1775 in <link ref="lavater" subref="lavater-fragmente" linktext="true" />   kenne, und
-irrtümlich, daß darin sein ärgerliches Porträt, die erwähnte Umrißzeichnung zu finden
-sei.
+<bzg>Fragmente</bzg> H. vermutet, daß Kant den Ersten Versuch von 1775 in <link ref="lavater" subref="lavater-fragmente" linktext="true" /> kennt, und irrtümlich, daß darin sein ärgerliches Porträt zu finden sei.
 </marginal>
 
 <marginal letter="453" page="198" line="6" sort="1">
@@ -55165,14 +55107,7 @@ sei.
 </marginal>
 
 <marginal letter="453" page="198" line="31">
-<bzg>Lucullischen Hor. Lib. I Ep. 6 u Leipziger Apparatu</bzg> H. will das Geheimnis seiner (wegen des Mangels an Geld für eine Perücke)
-unbedeckten Ohren, als seiner organa sapientiae der vernehmenden Vernunft
-(geistliches oder symbolisches Ohr), ungern derjenigen Probe aussetzen, wie das in
-der angespielten horazischen Epode VI einer der dort genannten Hunde tut: (aure
-sublate), mit hochgerecktem Ohre, durch tiefen Schnee, jedes wilde Tier, das mir
-aufstößt, verfolgen (Übers. Uz), wobei H. sich auf die üppig ausgestattete
-Horazausgabe (Lucullischen Hor. .. Leipziger Apparatu) Bentleys, Leipzig 1752,
-bezieht (Biga 10/159).
+<bzg>Lucullischen Hor. Lib. I Ep. 6 u Leipziger Apparatu</bzg> vgl. den Hund mit hochgerecktem Ohr ebenda; Anspielung auf Hamanns unbedeckte Ohren im Porträt
 </marginal>
 
 <marginal letter="453" page="198" line="32">
@@ -55184,7 +55119,7 @@ bezieht (Biga 10/159).
 </marginal>
 
 <marginal letter="453" page="199" line="3">
-<bzg>St. Lips</bzg> Lips, Johann Heinrich (1758- 1817), Kupferstecher in Zürich, arbeitete für <link ref="lavater" subref="lavater-fragmente" linktext="true" /> , auch das Hamann- Porträt.
+<bzg>St. Lips</bzg> Johann Heinrich Lips (1758–1817), Kupferstecher in Zürich, arbeitete für <link ref="lavater" subref="lavater-fragmente" linktext="true" />
 </marginal>
 
 <marginal letter="453" page="199" line="5">
@@ -55204,10 +55139,7 @@ bezieht (Biga 10/159).
 </marginal>
 
 <marginal letter="453" page="199" line="17">
-<bzg>Cicisbeo</bzg> Lips, Johann Heinrich (1758- 1817), Kupferstecher in Zürich, arbeitete für<link ref="lavater" subref="lavater-fragmente" linktext="true" /> , auch das Hamann- Porträt. gemeint ist der Zürcher Kupferstecher Lips, Cicisbeo:
-Fremdenführer und Damenbegleiter, zugleich in doppeltem Sinne Hausfreund, nämlich
-Lavaters. Er ist auch der Stecher von Hs Porträt, 196,27 und 201,1ff., wovon H. (Zeile
-21) erfuhr.
+<bzg>Cicisbeo</bzg> gemeint ist Johann Heinrich Lips (1758–1817), Kupferstecher in Zürich, arbeitete für <link ref="lavater" subref="lavater-fragmente" linktext="true" />
 </marginal>
 
 <marginal letter="453" page="199" line="22">
@@ -55219,8 +55151,7 @@ Lavaters. Er ist auch der Stecher von Hs Porträt, 196,27 und 201,1ff., wovon H.
 </marginal>
 
 <marginal letter="453" page="199" line="35">
-<bzg>Fortsetzung</bzg>die Zweifel und Einfälle über eine
-vermischte Nachricht der allgemeinen deutschen Bibliothek, N III,171ff
+<bzg>Fortsetzung</bzg> <link ref="hamann" subref="hamann-zweifel" linktext="true" /> 
 </marginal>
 
 <marginal letter="453" page="200" line="1">
@@ -55228,18 +55159,11 @@ vermischte Nachricht der allgemeinen deutschen Bibliothek, N III,171ff
 </marginal>
 
 <marginal letter="453" page="200" line="5">
-<bzg>Verwandlung</bzg> auf dem Umriß von Hs Kopf auf S. 286 im
-Zweyten Versuchs war in der Tat nur das rechte Ohr zu sehen; die zum gültigen
-Kupferstich auf S. 285 kontrastierende Hintanstellung begründete Lavater dort so: Der
-Umriß hier - ein ganz anderer Mund - ohn' all das feingeistige prophetische Salz - und
-das Untertheil des Gesichtes zu kurz und nicht so harmonisch mit dem Charakter des
-übrigen
+<bzg>Verwandlung</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 2, S. 286 ist auf dem Umriß von Hs Kopf t nur das rechte Ohr zu sehen
 </marginal>
 
 <marginal letter="453" page="200" line="6">
-<bzg>ad modum Apulejus</bzg> also zweifache Esel, da in seinen
-Metamorphoseon libri XI die Abenteuer des in einen Esel verwandelten Lucius erzählt
-werden.
+<bzg>ad modum Apulejus</bzg> <link ref="apuleius" linktext="true" />, Metamorphoseon libri XI
 </marginal>
 
 <marginal letter="453" page="200" line="12">
@@ -55270,7 +55194,7 @@ Brief Nr. 454
 </marginal>
 
 <marginal letter="454" page="200" line="24">
-<bzg>Brief</bzg> HBGA 3,189
+<bzg>Brief</bzg> HBGA 3,189 ?!?
 </marginal>
 
 <marginal letter="454" page="200" line="26">
@@ -55299,8 +55223,7 @@ Brief Nr. 454
 
 <marginal letter="454" page="201" line="3">
 <bzg>Ich u. mein Weib</bzg> im IX. Fragment von <link ref="lavater" subref="lavater-fragmente" linktext="true" /> Herder; im XVII. Fragment sind 4 Silhouetten
-zu sehen und unter der 4. hat Lavater in seinem Exemplar notiert Herdern; auch im
-Zweyten Versuch, 1776, ist Herder in einem Schattenriß, S. 102, vertreten. ?!?
+zu sehen und unter der 4. hat Lavater in seinem Exemplar notiert Herdern. ?!?
 </marginal>
 
 <marginal letter="454" page="201" line="7">
@@ -55308,13 +55231,11 @@ Zweyten Versuch, 1776, ist Herder in einem Schattenriß, S. 102, vertreten. ?!?
 </marginal>
 
 <marginal letter="454" page="201" line="8">
-<bzg>Meierschen Buchdr.</bzg> Meyer, Johann Henrich (1701- 1754), Buchdrucker und Verleger in Lemgo. Seine Witwe gab ihrem
-Schwiegersohn, Ch. F. Helwing, den Auftrag, die Meyersche Buchhandlung weiterzuführen
+<bzg>Meierschen Buchdr.</bzg> Johann Henrich Meyer (1701–1754), Buchdrucker und Verleger in Lemgo
 </marginal>
 
 <marginal letter="454" page="201" line="9">
-<bzg>Regner Lodbrogs Sterbeliede</bzg> für seine Rezension der Übersetzung dieses Lied durch
-P. H. Mallet in der Histoire de Danemark, vgl auch SWS I,75 u. SWS III,24f.
+<bzg>Regner Lodbrogs Sterbeliede</bzg> für seine Rezension der Übersetzung des Lieds in <link ref="mallet-ph" subref="mallet-ph-geschichte" linktext="true" />
 </marginal>
 
 <marginal letter="454" page="201" line="11">
@@ -55324,7 +55245,7 @@ P. H. Mallet in der Histoire de Danemark, vgl auch SWS I,75 u. SWS III,24f.
 <marginal letter="454" page="201" line="14">
 <bzg>Strabo</bzg>  [Übers] Des Strabo allgemeine Erdbeschreibung .... Durch-gehend von neuem disponiert, mit
 Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern versehen. 4 Bde. Lemgo
-1775/7. Biga 85/177, 178. 
+1775/7. Biga 85/177, 178.  ?!?
 </marginal>
 
 <marginal letter="454" page="201" line="17">
@@ -55352,7 +55273,7 @@ Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern verseh
 </marginal>
 
 <marginal letter="454" page="201" line="26">
-<bzg>Sirach</bzg> ?!?
+<bzg>Sirach</bzg> <link ref="apo-sir" subref="apo-sir37" linktext="false">Sir 37,8</link>
 </marginal>
 
 <marginal letter="454" page="201" line="28">
@@ -55381,10 +55302,6 @@ Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern verseh
 
 <marginal letter="454" page="201" line="36">
 <bzg>Göthe</bzg> <link ref="goethe" linktext="true" />
-</marginal>
-
-<marginal letter="454" page="202" line="2">
-<bzg>reiben</bzg> Plan der Anekdote zu den Freuden des jungen Werther. ?!?
 </marginal>
 
 <marginal letter="454" page="202" line="3">
@@ -55427,11 +55344,11 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="202" line="20">
-<bzg>Hartknoch … Brief</bzg> vgl. 200,17f
+<bzg>Hartknoch … Brief</bzg> vgl. <intlink letter="454" page="200" line="17" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="202" line="22">
-<bzg>Sohn</bzg> ?!?
+<bzg>Sohn</bzg> nicht ermittelt 
 </marginal>
 
 <marginal letter="455" page="202" line="23">
@@ -55439,7 +55356,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="202" line="27">
-<bzg>Arbeiten</bzg> Briefe zweener Jünger Jesu, <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />; <link ref="herder" subref="herder-geschmack" linktext="true" /> 
+<bzg>Arbeiten</bzg> <link ref="herder" subref="herder-briefebruder" linktext="true" />, <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />; <link ref="herder" subref="herder-geschmack" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="202" line="28">
@@ -55447,7 +55364,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="203" line="3">
-<bzg>hieroph. Briefen</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />, vgl. 194,28 
+<bzg>hieroph. Briefen</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="203" line="8">
@@ -55455,7 +55372,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="203" line="15">
-<bzg>Homo sum</bzg> Mensch bin ich, nichts Menschliches achte ich als Quelle: Ter. Heaut. 77.
+<bzg>Homo sum</bzg> Mensch bin ich, nichts Menschliches achte ich als fremd (<link ref="terenz" subref="terenz-heaut" linktext="true" />, 77)
 </marginal>
 
 <marginal letter="455" page="203" line="17">
@@ -55463,7 +55380,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="203" line="31">
-<bzg>Zeitungen … Trescho</bzg> vgl. 197,24
+<bzg>Zeitungen … Trescho</bzg> vgl. vgl. <intlink letter="452" page="197" line="24" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="203" line="32">
@@ -55483,7 +55400,7 @@ Brief Nr. 455
 de religione et theologia Aegyptiorum
 Jablonski, Paul Ernst (1693- 1757), reform. Theologe, Orientalist und Akademiemitglied
 Pantheon Aegyptiorum, sive de Diis eorum Commentarius, cum Prolegomenis de religionibus et
-theologia Aegyptiorum. I: 1750; II, III: 1752. Frankfurt. Biga 66/124, 69/183.
+theologia Aegyptiorum. I: 1750; II, III: 1752. Frankfurt. Biga 66/124, 69/183. ?!?
 </marginal>
 
 <marginal letter="455" page="204" line="4">
@@ -55491,15 +55408,15 @@ theologia Aegyptiorum. I: 1750; II, III: 1752. Frankfurt. Biga 66/124, 69/183.
 der Rezension von Ch. Meiners.
 Philologische Bibliothek. Hg. unter der Aufsicht Sr. Hochwürden Walch. 1- 3. Göttingen 1770/7
 Walch, Christian Wilhelm Franz (1726- 1784), evang. Theologe, 1757 Prof. der Theologie in
-Göttingen, 1772 großbritannischer Konsistorialrat.
+Göttingen, 1772 großbritannischer Konsistorialrat. ?!?
 </marginal>
 
 <marginal letter="455" page="204" line="5">
-<bzg>Nicolai … Zacchaei</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 25/1,S. 292- 296
+<bzg>Nicolai … Zacchaei</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 25/1,S. 292–296
 </marginal>
 
 <marginal letter="455" page="204" line="6">
-<bzg>Hd. Dh.</bzg> Kürzel der Rezensenten in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 24/1, S. 287- 296, 208,36f.
+<bzg>Hd. Dh.</bzg> Kürzel der Rezensenten in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 24/1, S. 287–296
 </marginal>
 
 <marginal letter="455" page="204" line="9">
@@ -55516,10 +55433,6 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 
 <marginal letter="455" page="204" line="13" sort="1">
 <bzg>H – n p. 196</bzg> vgl. <intlink letter="456" page="209" line="35" linktext="true" /> 
-</marginal>
-
-<marginal letter="455" page="204" line="13" sort="2">
-<bzg> p. 232. 233. und 258</bzg> ?!?
 </marginal>
 
 <marginal letter="455" page="204" line="14">
@@ -55555,7 +55468,7 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 </marginal>
 
 <marginal letter="455" page="204" line="35">
-<bzg>Hd. Dh.</bzg> Kürzel der Rezensenten in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 24/1, S. 287- 296, 208,36f.
+<bzg>Hd. Dh.</bzg> Kürzel der Rezensenten in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 24/1, S. 287–296
 </marginal>
 
 <marginal letter="455" page="205" line="3">
@@ -55568,10 +55481,6 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 
 <marginal letter="455" page="205" line="7">
 <bzg>Dainos</bzg> litauische Volkslieder, für <link ref="herder" subref="herder-volkslieder" linktext="true" />
-</marginal>
-
-<marginal letter="455" page="205" line="9">
-<bzg>Kr. Buchholtzes Schwestersohn</bzg> ?!?
 </marginal>
 
 <marginal letter="455" page="205" line="11">
@@ -55587,7 +55496,7 @@ Göttingen, 1772 großbritannischer Konsistorialrat.
 </marginal>
 
 <marginal letter="455" page="205" line="19">
-<bzg>Gouverneur</bzg> Joachim Friedrich v. Stutternheim (1714-–1783), Generallieutenant, Gouverneur von Memel und Pillau
+<bzg>Gouverneur</bzg> Joachim Friedrich v. Stutternheim (1714-1783), Generallieutenant, Gouverneur von Memel und Pillau
 </marginal>
 
 <marginal letter="455" page="205" line="22">
@@ -55702,12 +55611,11 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="207" line="19">
-<bzg>Prof. Kopp. von Mitau</bzg> Johann Benjamin  Koppe (17501791), 1774 Prof. der griechischen Sprache in Mitau
+<bzg>Prof. Kopp. von Mitau</bzg> Johann Benjamin Koppe (1750– 1791), 1774 Prof. der griechischen Sprache in Mitau
 </marginal>
 
 <marginal letter="456" page="207" line="24">
-<bzg>im Testament vermacht</bzg> am Ende von Philologische Einfälle und Zweifel, N
-III,52,20ff.
+<bzg>im Testament vermacht</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N III,52,20ff.
 </marginal>
 
 <marginal letter="456" page="207" line="27" sort="1">
@@ -55723,17 +55631,17 @@ III,52,20ff.
 </marginal>
 
 <marginal letter="456" page="207" line="34">
-<bzg>Prof. Heine</bzg> Heyne, Christian Gottlob (1729- 1812), Prof. der klassischen Philologie und Direktor der
+<bzg>Prof. Heine</bzg> Christian Gottlob Heyne (1729-1812), Prof. der klassischen Philologie und Direktor der
 Universitätsbibliothek in Göttingen, seit 1770 Sekretär der Göttinger Sozietät der Wissenschaften,
-Redakteur der Göttingischen Anzeigen
+Redakteur der Göttingischen Anzeigen ?!?
 </marginal>
 
 <marginal letter="456" page="207" line="35">
-<bzg>Geh. Rath Bremer</bzg> Benedikt Karl Christian Bremer (1717-1779), Geheimrat und Statsminister der Landesregierung von Hannover
+<bzg>Geh. Rath Bremer</bzg> Benedikt Karl Christian Bremer (1717–1779), Geheimrat und Statsminister der Landesregierung von Hannover
 </marginal>
 
 <marginal letter="456" page="207" line="36">
-<bzg>Schirm u. Schild</bzg> Ps 91,4.
+<bzg>Schirm u. Schild</bzg> <link ref="at-ps" subref="at-ps91" linktext="false">Ps 71,4</link>
 </marginal>
 
 <marginal letter="456" page="208" line="1">
@@ -55773,15 +55681,15 @@ Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="208" line="33">
-<bzg>Rec. der Urk. in der A. D. B</bzg> Rec.[ension] der Urk.[unde] in der A.[llgemeinen] D.[eutschen] B.[ibliothek], <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 25/1, S. 23- 61
+<bzg>Rec. der Urk. in der A. D. B</bzg> Rec.[ension] der Urk.[unde] in der A.[llgemeinen] D.[eutschen] B.[ibliothek], <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 25/1, S. 23–61
 </marginal>
 
 <marginal letter="456" page="208" line="34">
-<bzg>Walchischen</bzg> Philologische Bibliothek, 204,4
+<bzg>Walchischen</bzg> Philologische Bibliothek, 204,4 ?!?
 </marginal>
 
 <marginal letter="456" page="208" line="36">
-<bzg>hämische Beurtheil. der Prov. Bl.</bzg> Prov.[incial] Bl.[ätter], <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 23/2, S. 346-375
+<bzg>hämische Beurtheil. der Prov. Bl.</bzg> <link ref="herder" subref="herder-prediger" linktext="true" />, <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 23/2, S. 346-375
 </marginal>
 
 <marginal letter="456" page="208" line="37">
@@ -55789,7 +55697,7 @@ Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="208" line="38">
-<bzg>Hd, u. Dh. … unum idemque</bzg> KPRZEL ?!? dt. ein und derselbe
+<bzg>Hd, u. Dh. … unum idemque</bzg> Kürzel der Rezensenten in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 24/1, S. 287–296; dt. ein und derselbe
 </marginal>
 
 <marginal letter="456" page="209" line="1">
@@ -55813,7 +55721,7 @@ Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="209" line="12">
-<bzg>Gleim u. seine Nichte</bzg> <link ref="gleim" linktext="true" /> und Sophia Gleim (1732-1810)
+<bzg>Gleim u. seine Nichte</bzg> <link ref="gleim" linktext="true" /> und Sophia Gleim (1732–1810)
 </marginal>
 
 <marginal letter="456" page="209" line="16">
@@ -55821,7 +55729,7 @@ Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="209" line="17">
-<bzg>Witwe</bzg> Sophie Christiane Eleonore v., Beschefer, geb. v. Oheim, Taufpatin der Söhne Herders, 249,26f
+<bzg>Witwe</bzg> Sophie Christiane Eleonore v., Beschefer, geb. v. Oheim, Taufpatin der Söhne Herders
 </marginal>
 
 <marginal letter="456" page="209" line="19">
@@ -55833,15 +55741,15 @@ Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="209" line="21">
-<bzg>Zanthier</bzg> Friedrich Wilhelm v. Zanthier (1741-1781), schaumburg-lipp. Kapitänleutnant
+<bzg>Zanthier</bzg> Friedrich Wilhelm v. Zanthier (1741–1781), schaumburg-lipp. Kapitänleutnant
 </marginal>
 
 <marginal letter="456" page="209" line="22">
-<bzg>Kleuker … Zoroasters</bzg> ?!?
+<bzg>Kleuker</bzg> <link ref="kleuker" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="209" line="24">
-<bzg>Lav. Physion. … Fr. v. Ompteda</bzg>
+<bzg>Lav. Physion. … Fr. v. Ompteda</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 1, S. 191; Catharina Charlotte Ompteda (gest. 1811), Oberhofmeisterin der Königin Karoline Mathilde von Dänemark
 </marginal>
 
 <marginal letter="456" page="209" line="25">
@@ -55849,11 +55757,11 @@ Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="209" line="29">
-<bzg>Mendelsohn</bzg> <link ref="mendelssohn" linktext="true" />, vgl. 122,14f.
+<bzg>Mendelsohn</bzg> <link ref="mendelssohn" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="209" line="31">
-<bzg>Vir bonus …</bzg> nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,7,22; 122,10ff
+<bzg>Vir bonus …</bzg> nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,7,22
 </marginal>
 
 <marginal letter="456" page="209" line="32">
@@ -55861,21 +55769,11 @@ Redakteur der Göttingischen Anzeigen
 </marginal>
 
 <marginal letter="456" page="209" line="33" sort="1">
-<bzg>Malagrida</bzg> Gabriel Malagrida (1688-1761), ital. Jesuitenpater, Missionar in Brasilien
+<bzg>Malagrida</bzg> Gabriel Malagrida (1688–1761), ital. Jesuitenpater, Missionar in Brasilien
 </marginal>
 
 <marginal letter="456" page="209" line="33" sort="2">
 <bzg>Wilkes in carric.</bzg> <link ref="wilkes" linktext="true" /> in carric.[atur]
-</marginal>
-
-<marginal letter="456" page="209" line="36">
-<bzg>H–e S.</bzg>  204,13, also Verschreibung Herders; vgl S. SUDHOF in: Deutsche
-Vierteljahrsschrift ..., Jg. 34, 1960, Heft 2, S. 244ff.), der nachwies, daß es sich um
-den Stuttgarter Hof- und Domänenrat Johann Georg Hartmann handelte (Lavater
-brachte sein Porträt im Zweyten Versuch, S. 196); die Unterschrift Hamann auf dem
-Porträt, von welcher Hand auch immer, verleitete Nadler dazu, in seiner Hamann-
-Biographie dem Titelblatt gegenüber, in der Annahme, es sei ein Hamannporträt (als
-Hs letztes Bild), zu reproduzieren.
 </marginal>
 
 <marginal letter="456" page="209" line="37">
@@ -55884,7 +55782,7 @@ Hs letztes Bild), zu reproduzieren.
 
 <marginal letter="456" page="210" line="1">
 <bzg>Jung</bzg> Jung, Johann Heinrich, gen. Jung- Stilling (1740- 1817), Augenarzt, Kameralist, Prof. der
-Kameralistik in Kaiserslautern u. Marburg
+Kameralistik in Kaiserslautern u. Marburg ?!?
 </marginal>
 
 <marginal letter="456" page="210" line="4">
@@ -55892,7 +55790,7 @@ Kameralistik in Kaiserslautern u. Marburg
 </marginal>
 
 <marginal letter="456" page="210" line="5">
-<bzg>Joseph u. Potiphars p oder Asna-Neitha</bzg> Ase- Neitha. Eine Erzählung, in: Der Teutsche Merkur 1773. (3 u. 4)
+<bzg>Joseph u. Potiphars p oder Asna-Neitha</bzg> Ase-Neitha. Eine Erzählung, in: Der Teutsche Merkur 1773. (3 u. 4) ?!?
 </marginal>
 
 <marginal letter="456" page="210" line="6" sort="1">
@@ -55900,12 +55798,12 @@ Kameralistik in Kaiserslautern u. Marburg
 </marginal>
 
 <marginal letter="456" page="210" line="6" sort="2">
-<bzg>Oettinger</bzg> Oetinger, Friedrich Christoph (1702- 1782), evang. Theologe und Theosoph, Abt von Murrhardt
+<bzg>Oettinger</bzg> Friedrich Christoph Oetinger (1702-1782), evang. Theologe und Theosoph, Abt von Murrhardt ?!?
 </marginal>
 
 <marginal letter="456" page="210" line="7">
-<bzg>Klockenbring</bzg> Klockenbring, Friedrich Arnold (1742- 1795), 1769- 1771 Redakteur der Hannoverschen Anzeigen und
-des Hannoverschen Magazins.
+<bzg>Klockenbring</bzg> Friedrich Arnold Klockenbring (1742-1795), 1769- 1771 Redakteur der Hannoverschen Anzeigen und
+des Hannoverschen Magazins. ?!?
 </marginal>
 
 <marginal letter="456" page="210" line="8" sort="1">
@@ -55913,7 +55811,7 @@ des Hannoverschen Magazins.
 </marginal>
 
 <marginal letter="456" page="210" line="8" sort="2">
-<bzg>Rameau</bzg> Jean-Philippe Rameau, (1683-1764), frz. Komponist und Musiktheoretiker
+<bzg>Rameau</bzg> Jean-Philippe Rameau, (1683–1764), frz. Komponist und Musiktheoretiker
 </marginal>
 
 <marginal letter="456" page="210" line="11">
@@ -55921,7 +55819,7 @@ des Hannoverschen Magazins.
 </marginal>
 
 <marginal letter="456" page="210" line="13">
-<bzg>Judas Ischarioth Merk</bzg>  Mercks Frau hatte eine Affaire mit einem französischen Offizier; das Kind aus dieser Verbindung war weggegeben worden, es starb nach wenigen Monaten, was Merck beinahe eine Vernachlässigungsklage und eine Geldstrafe eingetragen hätte
+<bzg>Judas Ischarioth Merk</bzg>Die Ehefrau von <link ref="merck" linktext="true" /> Frau hatte ein uneheliches Kind einem französischen Offizier
 </marginal>
 
 <marginal letter="456" page="210" line="16">
@@ -55933,7 +55831,7 @@ des Hannoverschen Magazins.
 </marginal>
 
 <marginal letter="456" page="210" line="17" sort="2">
-<bzg>Nikkels</bzg><link ref="nicolai" linktext="true" />  mit seiner Rezension von <link ref="herder" subref="herder-prediger" linktext="true" />, 208,35f
+<bzg>Nikkels</bzg><link ref="nicolai" linktext="true" /> mit seiner Rezension von <link ref="herder" subref="herder-prediger" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="210" line="18">
@@ -55941,11 +55839,7 @@ des Hannoverschen Magazins.
 </marginal>
 
 <marginal letter="456" page="210" line="20">
-<bzg>Kreuzfeld</bzg>  205,7
-</marginal>
-
-<marginal letter="456" page="210" line="23">
-<bzg>Hans</bzg> 
+<bzg>Kreuzfeld</bzg> vgl. <intlink letter="455" page="205" line="7" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="210" line="24">
