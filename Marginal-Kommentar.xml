@@ -54532,8 +54532,7 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="190" line="7">
-<bzg>Voßische Geistode</bzg> J. H. Voß, Auf die Ausgießung des
-heiligen Geistes (am Pfingstfest), in <link ref="claudius" subref="claudius-bothe" linktext="true" />, Nr. 89, vom 6. Juni
+<bzg>Voßische Geistode</bzg> <link ref="voss" linktext="true" />, Auf die Ausgießung des heiligen Geistes (am Pfingstfest), in <link ref="claudius" subref="claudius-bothe" linktext="true" />, Nr. 89, vom 6. Juni
 1775.
 </marginal>
 
@@ -55396,19 +55395,11 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="204" line="1">
-<bzg>Proleg. des Jablonsky</bzg> Prol.[egomenis] des Jablonsky: Pantheon Aegyptiorum ... cum prolegomenis
-de religione et theologia Aegyptiorum
-Jablonski, Paul Ernst (1693- 1757), reform. Theologe, Orientalist und Akademiemitglied
-Pantheon Aegyptiorum, sive de Diis eorum Commentarius, cum Prolegomenis de religionibus et
-theologia Aegyptiorum. I: 1750; II, III: 1752. Frankfurt. Biga 66/124, 69/183. ?!?
+<bzg>Proleg. des Jablonsky</bzg> <link ref="jablonski" subref="jablonski-pantheon" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="204" line="4">
-<bzg>Walchs Bibliothek</bzg> Philologische Bibliothek, Bd 3,1. und 2. St., mit
-der Rezension von Ch. Meiners.
-Philologische Bibliothek. Hg. unter der Aufsicht Sr. Hochwürden Walch. 1- 3. Göttingen 1770/7
-Walch, Christian Wilhelm Franz (1726- 1784), evang. Theologe, 1757 Prof. der Theologie in
-Göttingen, 1772 großbritannischer Konsistorialrat. ?!?
+<bzg>Walchs Bibliothek</bzg> <link ref="walch" subref="walch-bibliothek" linktext="true" />, Bd 3,1. und 2. St., mit der Rezension von Ch. Meiners. ?!?
 </marginal>
 
 <marginal letter="455" page="204" line="5">
@@ -55631,9 +55622,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="207" line="34">
-<bzg>Prof. Heine</bzg> Christian Gottlob Heyne (1729-1812), Prof. der klassischen Philologie und Direktor der
-Universitätsbibliothek in Göttingen, seit 1770 Sekretär der Göttinger Sozietät der Wissenschaften,
-Redakteur der Göttingischen Anzeigen ?!?
+<bzg>Prof. Heine</bzg> <link ref="heyne" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="207" line="35">
@@ -55685,7 +55674,7 @@ Redakteur der Göttingischen Anzeigen ?!?
 </marginal>
 
 <marginal letter="456" page="208" line="34">
-<bzg>Walchischen</bzg> Philologische Bibliothek, 204,4 ?!?
+<bzg>Walchischen</bzg> <link ref="walch" subref="walch-bibliothek" linktext="true" />, 204,4 ?!?
 </marginal>
 
 <marginal letter="456" page="208" line="36">
@@ -55781,8 +55770,7 @@ Redakteur der Göttingischen Anzeigen ?!?
 </marginal>
 
 <marginal letter="456" page="210" line="1">
-<bzg>Jung</bzg> Jung, Johann Heinrich, gen. Jung- Stilling (1740- 1817), Augenarzt, Kameralist, Prof. der
-Kameralistik in Kaiserslautern u. Marburg ?!?
+<bzg>Jung</bzg> <link ref="jung" linktext="true" /> 
 </marginal>
 
 <marginal letter="456" page="210" line="4">
@@ -55790,7 +55778,7 @@ Kameralistik in Kaiserslautern u. Marburg ?!?
 </marginal>
 
 <marginal letter="456" page="210" line="5">
-<bzg>Joseph u. Potiphars p oder Asna-Neitha</bzg> Ase-Neitha. Eine Erzählung, in: Der Teutsche Merkur 1773. (3 u. 4) ?!?
+<bzg>Joseph u. Potiphars p oder Asna-Neitha</bzg> <link ref="jung" linktext="true" /> , Ase-Neitha. Eine Erzählung, in <link ref="teutsche-merkur" linktext="true" /> 1773, 3 u. 4 ?!?
 </marginal>
 
 <marginal letter="456" page="210" line="6" sort="1">
@@ -55798,12 +55786,11 @@ Kameralistik in Kaiserslautern u. Marburg ?!?
 </marginal>
 
 <marginal letter="456" page="210" line="6" sort="2">
-<bzg>Oettinger</bzg> Friedrich Christoph Oetinger (1702-1782), evang. Theologe und Theosoph, Abt von Murrhardt ?!?
+<bzg>Oettinger</bzg> <link ref="oetinger " linktext="true" />
 </marginal>
 
 <marginal letter="456" page="210" line="7">
-<bzg>Klockenbring</bzg> Friedrich Arnold Klockenbring (1742-1795), 1769- 1771 Redakteur der Hannoverschen Anzeigen und
-des Hannoverschen Magazins. ?!?
+<bzg>Klockenbring</bzg> Friedrich Arnold Klockenbring (1742-1795), 1769-1771 Redakteur der Hannoverschen Anzeigen und des Hannoverschen Magazins. ?!?
 </marginal>
 
 <marginal letter="456" page="210" line="8" sort="1">
