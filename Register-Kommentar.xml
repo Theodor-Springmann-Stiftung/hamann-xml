@@ -6772,6 +6772,11 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <eintrag>Lebensdaten nicht ermittelt. 1770 Licentrat im <link ref="admiralitaetskollegium" linktext="true" />; vmtl. 1771 gestorben, da Hamann sich 1771/1772 um die Nachfolge auf seine Stelle bemüht, vgl. <intlink letter="376" page="8" line="24" linktext="true" />.</eintrag>
 </kommentar>
 
+<kommentar id="heyne" type="neuzeit">
+<lemma>Christian Gottlob Heyne</lemma>
+<eintrag>1729–1812. Prof. der klassischen Philologie und Direktor der Universitätsbibliothek in Göttingen, seit 1770 Sekretär der Göttinger Sozietät der Wissenschaften, Redakteur von <link ref="goettingische-anzeigen" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="hieronymus" type="neuzeit">
 <lemma>Hieronymus</lemma>
 <eintrag>347–420. Kirchenlehrer, Heiliger.</eintrag>
@@ -7287,6 +7292,17 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 
 J
 
+<kommentar id="jablonski" type="neuzeit">
+<lemma>Paul Ernst Jablonski</lemma>
+<eintrag>1693–1757, reform. Theologe, Orientalist, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz36586.html#adbcontent">Redslob, Gustav Moritz: Jablonski, Paul Ernst, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;526–527</wwwlink>.</eintrag>
+<subsection id="jablonski-pantheon" type="neuzeit" sort="10">
+<lemma>Jablonski, <titel>Pantheon Aegyptiorum</titel></lemma>
+<eintrag>
+<titel>Pantheon Aegyptiorum, sive de Diis eorum Commentarius, cum Prolegomenis de religionibus et theologia Aegyptiorum</titel> (2 Bde., Frankfurt 1750–1752) [Biga&#x202F;66/124: „P. E. Jablonsky Pantheon Aegyptiorum, Franc. 750—52“].</eintrag>
+</subsection>
+</kommentar>
+
+
 <kommentar id="jacobaer" type="neuzeit">
 <lemma>Friedrich Gotthold Jacobäer</lemma>
 <eintrag>Gest. 1780, ab 1747 als Buchdrucker in Leipzig belegt, siehe <wwwlink address="https://d-nb.info/gnd/117032247">GND</wwwlink>.
@@ -7345,9 +7361,6 @@ J
 <titel>Romanzen aus dem Spanischen des Gongora übersetzt</titel> (Halle: Gebauer 1767). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11343047-1">Passau, Staatliche Bibliothek: S nv/Lg (b) 42</wwwlink></eintrag>
 </subsection>
 </kommentar>
-
-
-
 
 
 <kommentar id="jacquet" type="neuzeit">
@@ -7542,6 +7555,12 @@ Jüdischer Krieg, lat. de bello Iudaico, griech. Περὶ τοῦ Ἰουδαι
  </eintrag>
  </kommentar>
 
+
+<kommentar id="jung" type="neuzeit">
+<lemma>Johann Heinrich Jung, gen. Jung-Stilling</lemma>
+<eintrag>1740–1817, Augenarzt, Kameralist, Prof. der Kameralistik in Kaiserslautern u. Marburg siehe <wwwlink address="https://www.deutsche-biographie.de/sfz61166.html#adbcontent">Wagner, Eduard: Jung-Stilling, Johann Heinrich, in: <titel>ADB</titel>&#x202F;14 (1881), S.&#x202F;697–704</wwwlink>.
+</eintrag>
+</kommentar>
 
 <kommentar id="justi" type="neuzeit">
 <lemma>Johann Heinrich Gottlob v. Justi</lemma>
@@ -11112,6 +11131,11 @@ O
 Darin werden Textauszüge aus <titel>Discourse on the Resurrection of Jesus Christ</titel> (1714) des engl. Mathematikers Humphry Ditton (1675–1715) in Übersetzung wiedergegeben und dessen Thesen zur Immaterialität der Seele kommentiert.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="oetinger" type="neuzeit">
+<lemma>Friedrich Christoph Oetinger</lemma>
+<eintrag>1702–1782, evang. Theologe und Theosoph, Abt von Murrhardt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz73136.html#adbcontent">Ritschl, Albrecht: Oetinger, Friedrich Christoph, in: <titel>ADB</titel>&#x202F;24 (1887), S.&#x202F;538&#x2013;541</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="ohlius" type="neuzeit">
@@ -15386,6 +15410,17 @@ W
 <titel>Prometheus, Deukalion und seine Recensenten. Voran ein Prologus und zuletzt ein Epilogus</titel> (Freystadt 1775). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN870170953">SUB Göttingen: DD91 A 33226</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
+
+<kommentar id="walch" type="neuzeit">
+<lemma>Christian Wilhelm Franz Walch</lemma>
+<eintrag>1726–1784). Evang. Theologe, 1757 Prof. der Theologie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz34685.html#adbcontent">Tschackert, Paul: Walch, Christian Wilhelm Franz, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;646&#x2013;650</wwwlink>.</eintrag>
+<subsection id="walch-bibliothek" type="neuzeit" sort="10">
+<lemma>Walch (Hg.) <titel>Philologische Bibliothek</titel></lemma>
+<eintrag>
+<titel>Philologische Bibliothek</titel> (3 Bde., Göttingen 1770–1777).</eintrag>
+</subsection>
+</kommentar>
+
 
 <kommentar id="warburton" type="neuzeit">
 <lemma>William Warburton</lemma>
