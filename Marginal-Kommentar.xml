@@ -10596,6 +10596,14 @@ vmtl. Anspielung auf <link ref="berens-ca" linktext="true" /> und das Heiratsver
 <bzg>fluchte er</bzg> <link ref="sueton" linktext="false">Suet.</link>, <titel>Caes.</titel> 82
 </marginal>
 
+<marginal letter="143" page="323" line="37">
+<link ref="nt-lk" subref="nt-lk6" linktext="false">Lk 6,45</link> u. <link ref="at-ps" subref="at-ps147" linktext="false">Ps 147,9</link>
+</marginal>
+
+<marginal letter="143" page="324" line="1">
+<link ref="at-ps" subref="at-ps127" linktext="false">Ps 127,5</link>
+</marginal>
+
 <marginal letter="143" page="324" line="4">
 <bzg>auf Menschen</bzg> <link ref="at-ps" subref="at-ps118" linktext="false">Ps 118,8</link>
 </marginal>
@@ -13878,6 +13886,10 @@ aus <link ref="terenz" subref="terenz-heaut" linktext="true" /> 77; auch <link r
 (siehe unten: J.G. Lindners Anm. in „Zusätze ZH“)
 </marginal>
 
+<marginal letter="155" page="389" line="25">
+    <link ref="at-ps" subref="at-ps34" linktext="false">Ps 34,22f.</link>
+    </marginal>
+
 <marginal letter="155" page="389" line="28">
 <bzg>Zuhörer</bzg> Ein Schüler J. G. Lindners aus Riga – oder einer, der vor 1755 dessen Vorlesungen über Rhetorik in Königsberg gehört hat; in <intlink letter="152" page="372" line="24" linktext="true" /> meint Hamann damit sich selbst. 
 </marginal>
@@ -13910,9 +13922,13 @@ aus <link ref="terenz" subref="terenz-heaut" linktext="true" /> 77; auch <link r
 (siehe unten: J.G. Lindners Anm. in „Zusätze ZH“)
 </marginal>
 
-<marginal letter="155" page="390" line="6">
+<marginal letter="155" page="390" line="6" sort="1">
 <bzg>laßen</bzg> müden
 </marginal>
+
+<marginal letter="155" page="390" line="6" sort="2">
+    <link ref="nt-heb" subref="nt-heb12" linktext="false">Hebr 12,12</link>
+    </marginal>
 
 <marginal letter="155" page="390" line="10" sort="1">
 <link ref="nt-jo" subref="nt-jo14" linktext="false">Joh 14,17 u. 26f.</link>
