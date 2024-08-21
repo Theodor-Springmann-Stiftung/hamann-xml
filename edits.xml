@@ -774,9 +774,11 @@
 					  		Korrekturvorschlag ZH 2. Aufl. (1988): der mir
 					  		</editreason>
 					  		<editreason index="216">
+							Geändert nach Druck von Nicolai; ZH: <zh>Amona</zh>
 					  		Korrekturvorschlag ZH 2. Aufl. (1988): Amana
 					  		</editreason>
 					  		<editreason index="217">
+							Geändert nach Druck von Nicolai; ZH: <zh>Ihr</zh>
 					  		Korrekturvorschlag ZH 2. Aufl. (1988): ihr<added>er</added>
 					  		</editreason>
 					  		<editreason index="218">
@@ -3293,7 +3295,7 @@
 					 Geändert nach der Handschrift; ZH: <zh><del>der große</del></zh>
 					 </editreason>
 					 <editreason index="1038">
-					 Geändert nach der Handschrift; ZH: <zh><del>+ + + / Menschenfeind</del></zh>
+					 Geändert nach der Handschrift; ZH: <zh><del>† † † / Menschenfeind</del></zh>
 					 </editreason>
 					 <editreason index="1039">
 					 Geändert nach der Handschrift; ZH: <zh><del><aq>P.</aq></del></zh>
@@ -8584,7 +8586,7 @@
 					 Geändert nach der Handschrift; ZH: <zh>und</zh>
 					 </editreason>
 					 <editreason index="2842">
-					 Geändert nach der Handschrift: Absatzwechsel.
+					 In der Handschrift des Briefes untereinander geschrieben, um die Assonanz hervorzuheben; so auch in ZH wiedergegeben.
 					 </editreason>
 					 <editreason index="2843">
 					 Geändert nach der Handschrift; ZH: <zh>Hemsterhuis</zh>
@@ -16100,28 +16102,187 @@
 					 Geändert nach der Handschrift; ZH: <zh>Kreuzfeld</zh>
 					 </editreason>
 					 <editreason index="5773">
-					 Geändert nach dem Druck bei Roth; ZH: <zh>Königsberg</zh>
-					 </editreason>
-					 <editreason index="5774">
-					 Geändert nach dem Druck bei Roth; ZH: <zh>unserm</zh>
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Königsberg</zh>
 					 </editreason>
 					 <editreason index="5775">
-					 Geändert nach dem Druck bei Roth; ZH: <zh>Unbekannten</zh>
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Unbekannten</zh>
 					 </editreason>
 					 <editreason index="5776">
-					 Geändert nach dem Druck bei Roth; ZH: <zh>mitzuteilen</zh>
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>mitzuteilen</zh>
 					 </editreason>
 					 <editreason index="5777">
-					 Geändert nach dem Druck bei Roth; ZH: <zh>buchstabieren</zh>
-					 </editreason>
-					 <editreason index="5778">
-					 Geändert nach dem Druck bei Roth; ZH: <zh>unserm</zh>
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>buchstabieren</zh>
 					 </editreason>
 					 <editreason index="5779">
-					 Geändert nach dem Druck bei Roth; ZH: <zh><ul>Damaskus</ul></zh>
+					 Geändert nach dem Druck von Nicolai; ZH: <zh><ul>Damaskus</ul></zh>
 					 </editreason>
 					 <editreason index="5780">
-					 Geändert nach dem Druck bei Roth; ZH: <zh>Friedens</zh>
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Friedens</zh>
+					 </editreason>
+					 <editreason index="8371">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>zweier</zh>
+					 </editreason>
+					 <editreason index="8372">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Spiele</zh>
+					 </editreason>
+					 <editreason index="8373">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>rufen</zh>
+					 </editreason>
+					 <editreason index="8374">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>einen Ungenannten</zh>
+					 </editreason>
+					 <editreason index="8375">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Geschäften</zh>
+					 </editreason>
+					 <editreason index="8376">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>gesetzt</zh>
+					 </editreason>
+					 <editreason index="8377">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Werke.</zh>
+					 </editreason>
+					 <editreason index="8378">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>schätzbaren</zh>
+					 </editreason>
+					 <editreason index="8379">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Verrätherey</zh>
+					 </editreason>
+					 <editreason index="8380">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>gewinnen,</zh>
+					 </editreason>
+					 <editreason index="8381">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Gegen-Erklärung</zh>
+					 </editreason>
+					 <editreason index="8382">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Ungenannten</zh>
+					 </editreason>
+					 <editreason index="8383">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Mißbrauch</zh>
+					 </editreason>
+					 <editreason index="8384">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>welche</zh>
+					 </editreason>
+					 <editreason index="8385">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>einigermaßen</zh>
+					 </editreason>
+					 <editreason index="8386">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Maßregeln</zh>
+					 </editreason>
+					 <editreason index="8387">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>seyn,</zh>
+					 </editreason>
+					 <editreason index="8388">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Titel</zh>
+					 </editreason>
+					 <editreason index="8389">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh><ul>gehört</ul>,</zh>
+					 </editreason>
+					 <editreason index="8390">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>lebe</zh>
+					 </editreason>
+					 <editreason index="8391">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Fremdling</zh>
+					 </editreason>
+					 <editreason index="8392">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Gebiete</zh>
+					 </editreason>
+					 <editreason index="8393">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>alten</zh>
+					 </editreason>
+					 <editreason index="8394">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>eingefallen ist</zh>
+					 </editreason>
+					 <editreason index="8395">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>zu lesen</zh>
+					 </editreason>
+					 <editreason index="8396">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Das</zh>
+					 </editreason>
+					 <editreason index="8397">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Rechten</zh>
+					 </editreason>
+					 <editreason index="8398">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>selbst</zh>
+					 </editreason>
+					 <editreason index="8399">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Ungenannte</zh>
+					 </editreason>
+					 <editreason index="8400">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>auf, Nordwind</zh>
+					 </editreason>
+					 <editreason index="8401">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Soufleurs</zh>
+					 </editreason>
+					 <editreason index="8402">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>schätzbaren</zh>
+					 </editreason>
+					 <editreason index="8403">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Alpengebirge,</zh>
+					 </editreason>
+					 <editreason index="8404">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>befestigt</zh>
+					 </editreason>
+					 <editreason index="8405">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Siberier</zh>
+					 </editreason>
+					 <editreason index="8406">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>unserem</zh>
+					 </editreason>
+					 <editreason index="8407">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Pregel</zh>
+					 </editreason>
+					 <editreason index="8408">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>deutsch</zh>
+					 </editreason>
+					 <editreason index="8409">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>ansah</zh>
+					 </editreason>
+					 <editreason index="8410">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Israel?</zh>
+					 </editreason>
+					 <editreason index="8411">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh><ul>nordwärts</ul></zh>
+					 </editreason>
+					 <editreason index="8412">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>wird</zh>
+					 </editreason>
+					 <editreason index="8413">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Erzbischofs</zh>
+					 </editreason>
+					 <editreason index="8414">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>kommen,</zh>
+					 </editreason>
+					 <editreason index="8415">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Heimat</zh>
+					 </editreason>
+					 <editreason index="8416">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Geschichte</zh>
+					 </editreason>
+					 <editreason index="8417">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>weiß</zh>
+					 </editreason>
+					 <editreason index="8418">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>Ihren <aq>XI.</aq></zh>
+					 </editreason>
+					 <editreason index="8419">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>zwei</zh>
+					 </editreason>
+					 <editreason index="8420">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>hiedurch</zh>
+					 </editreason>
+					 <editreason index="8421">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh><ul>Schirm</ul></zh>
+					 </editreason>
+					 <editreason index="8422">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh><ul>Leinwand</ul></zh>
+					 </editreason>
+					 <editreason index="8423">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>seyn,</zh>
+					 </editreason>
+					 <editreason index="8424">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>kalter</zh>
+					 </editreason>
+					 <editreason index="8425">
+					 Geändert nach dem Druck von Nicolai; ZH: <zh>kann,</zh>
 					 </editreason>
 					 <editreason index="5781">
 					 Geändert nach der Handschrift; ZH: <zh><added>„</added><ul>Er</ul></zh>
@@ -23861,6 +24022,27 @@
 					 </editreason>
 					 <editreason index="8370">
 					 Geändert nach der Handschrift; ZH: <zh><aq>fließen</aq></zh>
+					 </editreason>
+					 <editreason index="8426">
+					 Nach dem Druck von Roth; im Druck bei <link ref="abbt" subref="abbt-correspondenz" linktext="true" />, 87 lautet das Datum: „27. März 1761“ – schon das Jahr ist aber offensichtlich falsch, wie die Nummerierung und die Briefe im Umfeld zeigen
+					 </editreason>
+					 <editreason index="8427">
+					 Geändert nach der Handschrift; ZH: <zh>März</zh>
+					 </editreason>
+					 <editreason index="8428">
+					 Geändert nach der Handschrift; ZH: <zh><aq>Contract</aq></zh>
+					 </editreason>
+					 <editreason index="8429">
+					 Geändert nach der Handschrift; ZH: <zh><aq>Fra Plato</aq></zh>
+					 </editreason>
+					 <editreason index="8430">
+					 ZH: <zh><del>Layenbr.</del></zh> – In der Handschrift gestrichen, jedoch vmtl. nachträglich von fremder Hand, aus Diskretionsgründen
+					 </editreason>
+					 <editreason index="8431">
+					 Geändert nach der Handschrift; ZH: <zh>mind</zh>
+					 </editreason>
+					 <editreason index="8432">
+					 Geändert nach der Handschrift; ZH: <zh><del>m</del> U. L. F. Albertin<added>a</added></zh>
 					 </editreason>
 			</edits>
 	</data>

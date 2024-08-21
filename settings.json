@@ -1,20 +1,20 @@
 {
     "Logging": {
-      "LogLevel": {
-        "Default": "Information",
-        "Microsoft.AspNetCore": "Warning"
-      }
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft.AspNetCore": "Warning"
+        }
     },
     "FeatureManagement": {
-      "AdminService":  true,
-      "LocalPublishService": false,
-      "SyntaxCheck": false,
-      "Notifications": false
+        "AdminService": true,
+        "LocalPublishService": false,
+        "SyntaxCheck": false,
+        "Notifications": false
     },
     "FileSizeLimit": 52428800,
     "AvailableStartYear": 1700,
     "AvailableEndYear": 1784,
     "LettersOnPage": 80,
     "RepositoryBranch": "Release",
-    "RepositoryURL": "https://github.com/Theodor-Springmann-Stiftung/hamann-xml",
+    "RepositoryURL": "https://github.com/Theodor-Springmann-Stiftung/hamann-xml"
 }

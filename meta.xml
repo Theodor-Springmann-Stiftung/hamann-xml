@@ -4186,7 +4186,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="219">
-        <date value="Vmtl. Königsberg, 11. Februar 1762" />
+        <date value="Königsberg, 11. Februar 1762" />
         <sort value="1762-02-11" />
         <location ref="2" />
         <senders>
@@ -4224,7 +4224,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="221">
-        <date value="Vmtl. Berlin, 2. März 1762" />
+        <date value="Berlin, 2. März 1762" />
         <sort value="1762-03-02" />
         <location ref="1" />
         <senders>
@@ -6657,8 +6657,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="349">
-        <date value="Riga, April 1768" />
-        <sort value="1768-04-08" notBefore="1768-04-01" notAfter="1768-04-30" />
+        <date value="Riga, Ende April 1768" />
+        <sort value="1768-04-20" notBefore="1768-04-15" notAfter="1768-04-30" />
         <location ref="6" />
         <senders>
           <sender ref="41" />
@@ -7056,7 +7056,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="369">
-        <date value="Nantes, EndeAugust 1769" />
+        <date value="Nantes, Ende August 1769" />
         <sort value="1769-08-25" notBefore="1769-08-15" notAfter="1769-08-31" />
         <location ref="18" />
         <senders>
@@ -7151,8 +7151,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="374">
-        <date value="Königsberg, 1771/1772" />
-        <sort value="1771-12-01" notBefore="1771-01-01" notAfter="1772-12-31" />
+        <date value="Königsberg, Sommer 1772" />
+        <sort value="1772-06-01" notBefore="1771-04-12" notAfter="1772-08-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -7204,15 +7204,15 @@
         <isProofread value="false" />
         <isDraft value="false" />
         <ZHInfo inZH="true">
-          <dateChanged value="true" />
+          <dateChanged value="false" />
           <begin vol="3" page="8" />
           <alternativeLineNumbering value="true" />
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="377">
-        <date value="1. August 1772" />
-        <sort value="1772-08-01" />
-        <location ref="-1" />
+        <date value="Bückeburg, 1.–25 August 1772" />
+        <sort value="1772-08-25" />
+        <location ref="23" />
         <senders>
           <sender ref="41" />
         </senders>
@@ -7267,9 +7267,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="380">
-        <date value="13. Oktober 1772" />
+        <date value="Königsberg, 13. Oktober 1772" />
         <sort value="1772-10-13" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -7295,9 +7295,9 @@
         <receivers>
           <receiver ref="50" />
         </receivers>
-        <hasOriginal value="true" />
+        <hasOriginal value="false" />
         <isProofread value="false" />
-        <isDraft value="false" />
+        <isDraft value="true" />
         <ZHInfo inZH="true">
           <dateChanged value="false" />
           <begin vol="3" page="25" />
@@ -7343,9 +7343,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="384">
-        <date value="24. Januar 1773" />
+        <date value="Königsberg, 24. Januar 1773" />
         <sort value="1773-01-24" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -7400,14 +7400,14 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="387">
-        <date value="25. März 1773" />
+        <date value="Vmtl. Königsberg, 25. März 1773" />
         <sort value="1773-03-25" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
         <receivers>
-          <receiver ref="-1" />
+          <receiver ref="35" />
         </receivers>
         <hasOriginal value="true" />
         <isProofread value="true" />
@@ -7495,9 +7495,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="392">
-        <date value="19. August 1773" />
+        <date value="Königsberg, 19. August 1773" />
         <sort value="1773-08-19" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -7506,7 +7506,7 @@
         </receivers>
         <hasOriginal value="true" />
         <isProofread value="true" />
-        <isDraft value="false" />
+        <isDraft value="true" />
         <ZHInfo inZH="true">
           <dateChanged value="false" />
           <begin vol="3" page="54" />
@@ -7533,9 +7533,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="394">
-        <date value="September 1773" />
-        <sort value="1773-09-01" notBefore="1773-09-01" notAfter="1773-09-30" />
-        <location ref="-1" />
+        <date value="Bückeburg, zwischen Ende August und Mitte November 1773" />
+        <sort value="1773-09-01" notBefore="1773-08-28" notAfter="1773-11-13" />
+        <location ref="23" />
         <senders>
           <sender ref="41" />
         </senders>
@@ -7609,9 +7609,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="398">
-        <date value="1. Dezember 1773" />
+        <date value="Königsberg, 1. Dezember 1773" />
         <sort value="1773-12-01" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -7628,9 +7628,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="399">
-        <date value="vor 13. August 1774" />
-        <sort value="1773-08-13" notAfter="1773-08-13" />
-        <location ref="-1" />
+        <date value="Bückeburg, Dezember 1773" />
+        <sort value="1773-12-15" />
+        <location ref="23" />
         <senders>
           <sender ref="41" />
         </senders>
@@ -7704,9 +7704,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="403">
-        <date value="6. April 1774" />
+        <date value="Königsberg, 6. April 1774" />
         <sort value="1774-04-06" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="31" />
         </senders>
@@ -7742,9 +7742,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="405">
-        <date value="8. April 1774" />
+        <date value="Königsberg, 8. April 1774" />
         <sort value="1774-04-08" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="31" />
         </senders>
@@ -7761,9 +7761,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="406">
-        <date value="April 1774" />
-        <sort value="1774-04-09" notBefore="1774-04-01" notAfter="1774-04-30" />
-        <location ref="-1" />
+        <date value="Königsberg, 10 April 1774" />
+        <sort value="1774-04-10" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -22655,8 +22655,8 @@
         </ZHInfo>
       </letterDesc>
 	  	      <letterDesc letter="398a">
-	        <date value="Königsberg, vmtl. Dezember 1773" />
-	        <sort value="1773-12-30" notBefore="1773-12-01" notAfter="1773-12-31" cert="low" />
+	        <date value="Königsberg, vmtl. Anfang Dezember 1773" />
+	        <sort value="1773-12-30" notBefore="1773-12-01" notAfter="1773-12-10" />
 	        <location ref="2" />
 	        <senders>
 	          <sender ref="1" />

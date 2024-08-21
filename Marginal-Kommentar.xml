@@ -21,7 +21,6 @@ Brief Nr. 0
 <bzg>Jesuiten Knittels</bzg> Kaspar Knittel (1644–1702), deutsch-böhmischer Jesuit, Philosoph und Mathematiker; Rektor der Karlsuniversität Prag
 </marginal> 
 
-
 Brief Nr. 1
 <marginal letter="1" page="1" line="9">
 <link ref="hamann" subref="daphne" linktext="true" />
@@ -734,7 +733,7 @@ vll. Johann Adolf Faustinus Weiss
 </marginal>
 
 <marginal letter="8" page="22" line="12">
-<bzg>Fed. d’or</bzg> Friedrich d’or, Goldmünze benannt nach Friedrich dem Großen; entspricht 5 Reichstalern (eine im ganzen dt-sprachigen Raum übliche Silbermünze).
+<bzg>Fed. d’or</bzg> Friedrich d’or, Goldmünze benannt nach <link ref="friedrich-II" linktext="true" />; entspricht 5 Reichstalern (eine im ganzen dt-sprachigen Raum übliche Silbermünze).
 </marginal>
 
 Brief Nr. 9
@@ -938,7 +937,7 @@ vll. <link ref="sahme-gj" linktext="true" />
 </marginal>
 
 <marginal letter="10" page="26" line="31">
-<bzg>Erzählung</bzg> <link ref="wieland-cm" subref="wieland-erzaehlung" linktext="true" />
+<bzg>Erzählung</bzg> <link ref="wieland" subref="wieland-erzaehlung" linktext="true" />
 </marginal>
 
 <marginal letter="10" page="26" line="32" sort="1">
@@ -2061,7 +2060,25 @@ Brief Nr. 23
 
 Brief Nr. 24
 
+<marginal letter="24" page="64" line="32">
+<bzg>Mr. votre Epoux</bzg> <link ref="lindner-jg" linktext="true" />
+</marginal>
 
+<marginal letter="24" page="65" line="4">
+<bzg>vapeurs de Suisse</bzg> Schwindel? Schweiß? außerhalb von Hamann nicht redensartlich überliefert?!?
+</marginal>
+
+<marginal letter="24" page="65" line="25">
+<bzg>Votre frere</bzg> wohl ihr Schwager <link ref="lindner-jef" linktext="true" />
+</marginal>
+
+<marginal letter="24" page="65" line="32">
+<bzg>Mdme la Comtesse</bzg> <link ref="witten-a" linktext="true" />
+</marginal>
+
+<marginal letter="24" page="66" line="1">
+<bzg>Mr. le General</bzg> <link ref="witten-cw" linktext="true" />
+</marginal>
 
 Brief Nr. 25
 
@@ -2921,6 +2938,10 @@ Brief Nr. 38
 <link ref="alembert" subref="alembert-melanges" linktext="true" />
 </marginal>
 
+<marginal letter="38" page="96" line="12">
+Übersetzung (von Joscha Sörös): Bessere Hälfte meines Freundes, wie steht Ihnen die livländische Frisur? Finden Sie Gefallen am neuen Kreis der Schwestern im Café, und wie kommen Sie mit Ihrem Haushalt zurecht? Verzeihen Sie meine unverschämte Neugier und betrachten Sie diese als ein stürmisches Verlangen, Sie zufrieden und wohlauf zu wissen. Aber genug der Worte, die meine Gefühle verhöhnen! Denn mit einer so respektvollen wie zärtlichen Freundschaft bin und werde ich immer sein Ihr sehr ergebener und treuer Diener Hamann
+</marginal>
+
 Brief Nr. 39
 
 <marginal letter="39" page="96" line="21">
@@ -3123,6 +3144,10 @@ vll. <link ref="lindner-jef" linktext="true" />
 
 Brief Nr. 41
 
+<marginal letter="41" page="103" line="21">
+<bzg>Votre epoux</bzg> <link ref="lindner-jg" linktext="true" />
+</marginal>
+
 <marginal letter="41" page="103" line="25">
 <bzg>Vallon d’Apollonie</bzg> Gutsbesitz der v. Wittens; wohl Meijas muiža (Maihof/Meyhof) oder dort in der Nachbarschaft; in Jelgava/Mitau, Lettland [56° 39’ N, 23° 42’ O]
 </marginal>
@@ -3146,7 +3171,7 @@ Brief Nr. 42
 </marginal>
 
 <marginal letter="42" page="104" line="10">
-<link ref="wilde" linktext="true" />, der als Nachfolger Hamanns als Hofmeister bei den v. Witten vorgeschlagen war (wohl mit Lindners Vermittlung).
+<link ref="wilde" linktext="true" />, der als Nachfolger Hamanns als Hofmeister bei den v. Witten vorgeschlagen war (wohl durch Lindners Vermittlung).
 </marginal>
 
 <marginal letter="42" page="104" line="13">
@@ -3155,6 +3180,12 @@ Brief Nr. 42
 
 <marginal letter="42" page="104" line="15">
 <link ref="hamann-jc" linktext="true" />
+</marginal>
+
+<marginal letter="42" page="104" line="23">
+Der Brief ist in sehr holprigem und fehlerhaftem Französisch verfasst. Übersetzung (von Joscha Sörös): „Ich bin ein preußischer Edelmann, dessen katholischer Vater Geheimrat des Königs war. Ich habe mich also mit christlicher Verbundenheit zu diesem Glauben bekannt und da ich an verschiedenen Universitäten studiert habe, habe ich mit Zustimmung meines Vaters verschiedene fremde Länder gesehen. Als ich nach drei Jahren von meiner Reise zurückkehrte, bin ich auf Befehl seiner Majestät des Königs von Preußen in den Militärdienst bei einem Kürassierregiment eingetreten. Ich war gezwungen, diesen Dienst zu quittieren, da ich keinen Vorteil darin sah. Danach habe ich nach Anstellungen gesucht und bin beim königlichen General Herrn Pranitzki als Hauptmann in den Dienst getreten. Da ich nach fünf Jahren keine Beförderung erhalten hatte, habe ich den Dienst quittiert und mir wurde vom Herrn Prinzen Radziwill, Pfalzgraf von Nowgorod, angeboten, der Erzieher des minderjährigen Prinzen Radziwill zu werden. Diese Stelle habe ich angenommen, aber unglücklicherweise ist dieser Graf bankrottgegangen und drei Monate nachdem die Eltern den jungen Prinzen in ein College gegeben haben, gestorben. Folglich bin ich ohne Beschäftigung. Falls ich also die Ehre habe, Eurer Exzellenz durch mein Wissen zu gefallen, ich beherrsche Latein, Französisch und Deutsch sowie die anderen Wissenschaften, die einem jungen Kavalier von hoher Geburt nützlich sind, und die angemessene Erziehung eines jungen Herrn.<line type="break" />
+Was mein Betragen betrifft, so kann ich ohne Eitelkeit sagen, dass ich mich in meinen Ämtern stets gut betragen habe, wie es Eure Exzellenz an meinen beglaubigten Nachweisen erkennen wird. Ich kann kaum ausdrücken, wie viel Freude es mir bereiten würde, in den Dienst eines liebenswerten Herrn einzutreten, von dem man so viel Gutes erzählt und dessen Haus so wohlgeordnet ist.<line type="break" />
+Was die Vergütung betrifft, wäre es mir gemäß meiner bescheidenen Umstände unmöglich, Ihnen für weniger als 160 Silbertaler zu dienen, dazu 100 Dukaten. In Ermangelung eines ehrbaren Mannes ist das nicht zu teuer, falls Eure Kinder Nutzen aus der Begabung ziehen wollen, die ich durch die Gnade Gottes erhalten habe. Ich bitte Eure Exzellenz die Güte zu haben, so schnell wie möglich zustimmend zu antworten, denn Ihre liebenswerte Antwort an die Adresse von Monseigneur de Negelein, Hauptmann des Königs von Polen, wird über meine Reise nach Warschau entscheiden. Ich empfehle mich etc. etc.“
 </marginal>
 
 <marginal letter="42" page="105" line="17">
@@ -4795,7 +4826,7 @@ vll. <link ref="trescho-sf" subref="trescho-erdbeben" linktext="true" />, <intli
 </marginal>
 
 <marginal letter="60" page="148" line="3">
-<bzg>Salamalec</bzg> <link ref="smollet" subref="smollet-pickle" linktext="true" />, Bd.&#x202F;3, S.&#x202F;166f.: „Tout ce qu’il y avoit de gens un peu comme il faut me vinrent faire leur salamalec“. <intlink letter="64" page="162" line="15" linktext="true" /> 
+<bzg>Salamalec</bzg> <link ref="smollett" subref="smollett-pickle" linktext="true" />, Bd.&#x202F;3, S.&#x202F;166f.: „Tout ce qu’il y avoit de gens un peu comme il faut me vinrent faire leur salamalec“. <intlink letter="64" page="162" line="15" linktext="true" /> 
 </marginal>
 
 <marginal letter="60" page="148" line="4">
@@ -5359,7 +5390,7 @@ Frau von <link ref="kade" linktext="true" />
 </marginal>
 
 <marginal letter="64" page="162" line="18">
-<bzg>Salamalec</bzg> <link ref="smollet" subref="smollet-pickle" linktext="true" />, Bd.&#x202F;3, S.&#x202F;166f.: „Tout ce qu’il y avoit de gens un peu comme il faut me vinrent faire leur salamalec“. <intlink letter="60" page="148" line="3" linktext="true" />; vgl. <link ref="hamann" subref="hamann-kleeblatt" linktext="true" />, N&#x202F;II S.&#x202F;172/25–29. 
+<bzg>Salamalec</bzg> <link ref="smollett" subref="smollett-pickle" linktext="true" />, Bd.&#x202F;3, S.&#x202F;166f.: „Tout ce qu’il y avoit de gens un peu comme il faut me vinrent faire leur salamalec“. <intlink letter="60" page="148" line="3" linktext="true" />; vgl. <link ref="hamann" subref="hamann-kleeblatt" linktext="true" />, N&#x202F;II S.&#x202F;172/25–29. 
 </marginal>
 
 <marginal letter="64" page="162" line="25">
@@ -5835,7 +5866,7 @@ wohl <link ref="hollmann" linktext="true" />
 </marginal>
 
 <marginal letter="72" page="181" line="2" sort="1">
-vll. <link ref="crusius-ca" linktext="true" />
+vll. <link ref="crusius-ca" linktext="true" /> 
 </marginal>
 
 <marginal letter="72" page="181" line="2" sort="2">
@@ -6537,7 +6568,7 @@ Brief Nr. 77
 </marginal>
 
 <marginal letter="77" page="200" line="8">
-Kaiser Augustus
+<link ref="augustus" linktext="true" />
 </marginal>
 
 <marginal letter="77" page="200" line="12">
@@ -6641,7 +6672,7 @@ Textverlust; es geht um die Idee, <link ref="berens-g" linktext="false">G. Beren
 </marginal>
 
 <marginal letter="77" page="203" line="27">
-<bzg>purus putus</bzg> lat. für: ganz und gar
+<bzg>purus putus</bzg>  dt.: ein ganz Reiner; d.h. einer, der nur sein eigenes Fach kennt
 </marginal>
 
 <marginal letter="77" page="204" line="8">
@@ -7533,11 +7564,11 @@ Es ist nicht eindeutig zu klären, wann Hamann seine Übers. aus <link ref="shaf
 </marginal>
 
 <marginal letter="105" page="229" line="9" sort="1">
-<link ref="arnaud" subref="arnaud-oeuvres" linktext="true" />
+<link ref="arnaud-ft" subref="arnaud-oeuvres" linktext="true" />
 </marginal>
 
 <marginal letter="105" page="229" line="9" sort="2">
-<link ref="arnaud" subref="arnaud-oeuvres" linktext="true" />, Bd.&#x202F;1: <titel>Coligny, ou la St. Barthelemi</titel>
+<link ref="arnaud-ft" subref="arnaud-oeuvres" linktext="true" />, Bd.&#x202F;1: <titel>Coligny, ou la St. Barthelemi</titel>
 </marginal>
 
 <marginal letter="105" page="229" line="10">
@@ -7549,7 +7580,7 @@ Es ist nicht eindeutig zu klären, wann Hamann seine Übers. aus <link ref="shaf
 </marginal>
 
 <marginal letter="105" page="229" line="19">
-<link ref="arnaud" linktext="true" /> hatte zwei Texte über das Werk von Voltaire publiziert.
+<link ref="arnaud-ft" linktext="true" /> hatte zwei Texte über das Werk von Voltaire publiziert.
 </marginal>
 
 <marginal letter="105" page="229" line="20">
@@ -8375,7 +8406,7 @@ Brief Nr. 118
 </marginal>
 
 <marginal letter="118" page="257" line="3">
-<bzg>Maus&#x202F;… Berg</bzg> vgl. <link ref="horaz" subref="horaz-poetica" linktext="true" /> 139
+<bzg>Maus&#x202F;… Berg</bzg> auf <link ref="horaz" subref="horaz-poetica" linktext="true" />, 139 zurückgehende Redensart („Parturient montes, nascetur ridiculus mus“, dt. der Berg kreißte und gebahr eine lächerliche Maus)
 </marginal>
 
 <marginal letter="118" page="257" line="13">
@@ -8784,7 +8815,7 @@ vmtl. <link ref="hobbes" subref="hobbes-opera" linktext="true" />
 
 
 <marginal letter="128" page="276" line="1" sort="1">
-<bzg>Heumann</bzg> <link ref="heumann" subref="heumann-acta" linktext="true" />, dort, im 1.&#x202F;St., das Kap. „Ehren-Rettung der <link ref="sokrates" subref="xanthippe" linktext="false">Xanthippe</link>“, S.&#x202F;103ff.
+<bzg>Heumann</bzg> <link ref="heumann" subref="heumann-acta" linktext="true" />, dort, im 1.&#x202F;St., das Kap. „Ehren-Rettung der <link ref="xanthippe" linktext="true"/>“, S.&#x202F;103ff.
 </marginal>
 
 <marginal letter="128" page="276" line="1" sort="2">
@@ -10565,6 +10596,14 @@ vmtl. Anspielung auf <link ref="berens-ca" linktext="true" /> und das Heiratsver
 <bzg>fluchte er</bzg> <link ref="sueton" linktext="false">Suet.</link>, <titel>Caes.</titel> 82
 </marginal>
 
+<marginal letter="143" page="323" line="37">
+<link ref="nt-lk" subref="nt-lk6" linktext="false">Lk 6,45</link> u. <link ref="at-ps" subref="at-ps147" linktext="false">Ps 147,9</link>
+</marginal>
+
+<marginal letter="143" page="324" line="1">
+<link ref="at-ps" subref="at-ps127" linktext="false">Ps 127,5</link>
+</marginal>
+
 <marginal letter="143" page="324" line="4">
 <bzg>auf Menschen</bzg> <link ref="at-ps" subref="at-ps118" linktext="false">Ps 118,8</link>
 </marginal>
@@ -11833,7 +11872,7 @@ Brief Nr. 148
 </marginal>
 
 <marginal letter="148" page="349" line="17">
-<link ref="wieland-cm" subref="wieland-abraham" linktext="true" />
+<link ref="wieland" subref="wieland-abraham" linktext="true" />
 </marginal>
 
 <marginal letter="148" page="349" line="36">
@@ -12577,7 +12616,7 @@ Hamann ist nicht mit der Landschaft, sondern mit den häuslich-sozialen Verhält
 </marginal>
 
 <marginal letter="152" page="363" line="36" sort="1">
-<bzg>Wirths</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Wirths</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="152" page="363" line="36" sort="2">
@@ -12825,15 +12864,15 @@ Von Klopstock sind darin gedruckt: <link ref="klopstock" subref="klopstock-julia
 </marginal>
 
 <marginal letter="152" page="368" line="15">
-<bzg>Kein Bergmann</bzg> <link ref="bergmann" linktext="true" />; <link ref="lessing" linktext="true" /> hatte dessen Übersetzung von <link ref="bolinbroke" subref="bolinbroke-history" linktext="true" /> im 4. der <link ref="briefe-literatur" linktext="false"><titel>Briefe die neueste Litteratur betreffend</titel></link> kritisiert und im 30. wiederum dessen uneinsichtige Antwort.
+<bzg>Kein Bergmann</bzg> <link ref="bergmann" linktext="true" />; <link ref="lessing" linktext="true" /> hatte dessen Übersetzung von <link ref="bolingbroke" subref="bolingbroke-history" linktext="true" /> im 4. der <link ref="briefe-literatur" linktext="false"><titel>Briefe die neueste Litteratur betreffend</titel></link> kritisiert und im 30. wiederum dessen uneinsichtige Antwort.
 </marginal>
 
 <marginal letter="152" page="368" line="16">
-<bzg>Wieland</bzg> <link ref="wieland-cm" linktext="true" /> war vor allem im 7. bis 14. der <titel>Briefe die neueste Litteratur betreffend</titel> im Visier der Kritik <link ref="lessing" linktext="false">Lessings</link>.
+<bzg>Wieland</bzg> <link ref="wieland" linktext="true" /> war vor allem im 7. bis 14. der <titel>Briefe die neueste Litteratur betreffend</titel> im Visier der Kritik <link ref="lessing" linktext="false">Lessings</link>.
 </marginal>
 
 <marginal letter="152" page="368" line="18">
-<bzg>Academie</bzg> Insbesondere ging es in der Kritik <link ref="lessing" linktext="false">Lessings</link> um die Akademie-Pläne in <link ref="wieland-cm" subref="wieland-academie" linktext="true" /> und deren Bezug auf griechische Philosophie (10. bis 14. der <link ref="briefe-literatur" linktext="true" />).
+<bzg>Academie</bzg> Insbesondere ging es in der Kritik <link ref="lessing" linktext="false">Lessings</link> um die Akademie-Pläne in <link ref="wieland" subref="wieland-academie" linktext="true" /> und deren Bezug auf griechische Philosophie (10. bis 14. der <link ref="briefe-literatur" linktext="true" />).
 </marginal>
 
 <marginal letter="152" page="368" line="19">
@@ -13204,7 +13243,7 @@ nach <link ref="ovid" subref="ovid-epist" linktext="true" />, Sappho an Phaon, V
 </marginal>
 
 <marginal letter="153" page="376" line="15">
-<bzg>Xantippen</bzg> Chr. A. Heumann meinte, um die Weisheit des Sokrates zu beweisen, auch seinen Hausstand, und eben auch <link ref="sokrates" subref="xanthippe" linktext="false">Xanthippe</link>, als weise bzw. tugendhaft zeigen zu müssen: <link ref="heumann" subref="heumann-acta" linktext="true" />, 1.&#x202F;St., Kap. „Ehren-Rettung der Xanthippe“ (S.&#x202F;103ff.). Das Argument ist: Sie litt mit dem unschuldigen Sokrates ob dessen Verurteilung zum Tode, also war sie tugendhaft. In <link ref="hamann" subref="sokratischedenk" linktext="true" />, SD S.&#x202F;41/1ff., N&#x202F;II S.&#x202F;79/11ff., ED S.&#x202F;59, wird darauf ebenfalls angespielt.
+<bzg>Xantippen</bzg> Chr. A. Heumann meinte, um die Weisheit des Sokrates zu beweisen, auch seinen Hausstand, und eben auch <link ref="xanthippe" linktext="true"/>, als weise bzw. tugendhaft zeigen zu müssen: <link ref="heumann" subref="heumann-acta" linktext="true" />, 1.&#x202F;St., Kap. „Ehren-Rettung der Xanthippe“ (S.&#x202F;103ff.). Das Argument ist: Sie litt mit dem unschuldigen Sokrates ob dessen Verurteilung zum Tode, also war sie tugendhaft. In <link ref="hamann" subref="sokratischedenk" linktext="true" />, SD S.&#x202F;41/1ff., N&#x202F;II S.&#x202F;79/11ff., ED S.&#x202F;59, wird darauf ebenfalls angespielt.
 </marginal>
 
 <marginal letter="153" page="376" line="19" sort="1">
@@ -13384,7 +13423,7 @@ Ob hier ein direktes Zitat vorliegt, ist nicht ermittelt; vll. ist aber auch auf
 </marginal>
 
 <marginal letter="153" page="378" line="30">
-<link ref="at-ps" subref="at-ps104" linktext="false">PS 104,26</link>
+<link ref="at-ps" subref="at-ps104" linktext="false">Ps 104,26</link>
 </marginal>
 
 <marginal letter="153" page="378" line="31">
@@ -13847,6 +13886,10 @@ aus <link ref="terenz" subref="terenz-heaut" linktext="true" /> 77; auch <link r
 (siehe unten: J.G. Lindners Anm. in „Zusätze ZH“)
 </marginal>
 
+<marginal letter="155" page="389" line="25">
+    <link ref="at-ps" subref="at-ps34" linktext="false">Ps 34,22f.</link>
+    </marginal>
+
 <marginal letter="155" page="389" line="28">
 <bzg>Zuhörer</bzg> Ein Schüler J. G. Lindners aus Riga – oder einer, der vor 1755 dessen Vorlesungen über Rhetorik in Königsberg gehört hat; in <intlink letter="152" page="372" line="24" linktext="true" /> meint Hamann damit sich selbst. 
 </marginal>
@@ -13879,9 +13922,13 @@ aus <link ref="terenz" subref="terenz-heaut" linktext="true" /> 77; auch <link r
 (siehe unten: J.G. Lindners Anm. in „Zusätze ZH“)
 </marginal>
 
-<marginal letter="155" page="390" line="6">
+<marginal letter="155" page="390" line="6" sort="1">
 <bzg>laßen</bzg> müden
 </marginal>
+
+<marginal letter="155" page="390" line="6" sort="2">
+    <link ref="nt-heb" subref="nt-heb12" linktext="false">Hebr 12,12</link>
+    </marginal>
 
 <marginal letter="155" page="390" line="10" sort="1">
 <link ref="nt-jo" subref="nt-jo14" linktext="false">Joh 14,17 u. 26f.</link>
@@ -14152,6 +14199,10 @@ u.a. <link ref="klopstock" subref="klopstock-sprache" linktext="true" />, in: <l
 
 <marginal letter="156" page="395" line="33">
 <link ref="klopstock" subref="klopstock-allgegen" linktext="true" />, S.&#x202F;393
+</marginal>
+
+<marginal letter="156" page="395" line="37">
+<link ref="nt-jo" subref="nt-jo20" linktext="false">Joh 20,15</link> 
 </marginal>
 
 Brief Nr. 157
@@ -14534,6 +14585,10 @@ Brief Nr. 158
 <link ref="nt-kor2" subref="nt-kor2-5" linktext="false">2 Kor 5,17</link>, <link ref="nt-off" subref="nt-off21" linktext="false">Offb 21,1</link> u.ö.
 </marginal>
 
+<marginal letter="158" page="402" line="6">
+<link ref="at-ps" subref="at-ps91" linktext="false">Ps 91,11f.</link> 
+</marginal>
+
 <marginal letter="158" page="402" line="7">
 <link ref="nt-mt" subref="nt-mt4" linktext="false">Mt 4,6</link>
 </marginal>
@@ -14677,7 +14732,7 @@ vll. <link ref="logau" subref="logau-sinngedichte" linktext="true" />
 </marginal>
 
 <marginal letter="159" page="403" line="29">
-<link ref="wieland-cm" subref="wieland-gray" linktext="true" />
+<link ref="wieland" subref="wieland-gray" linktext="true" />
 </marginal>
 
 <marginal letter="159" page="403" line="32">
@@ -14907,7 +14962,7 @@ Brief Nr. 160
 </marginal>
 
 <marginal letter="160" page="408" line="35" sort="2">
-<link ref="bolinbroke" linktext="true" />
+<link ref="bolingbroke" linktext="true" />
 </marginal>
 
 
@@ -15104,7 +15159,7 @@ Brief Nr. 160
 </marginal>
 
 <marginal letter="160" page="410" line="15">
-<bzg>Bollingbroke&#x202F;…</bzg> ebd.; <link ref="bolinbroke" linktext="true" />, <link ref="shaftesbury" linktext="true" />
+<bzg>Bollingbroke&#x202F;…</bzg> ebd.; <link ref="bolingbroke" linktext="true" />, <link ref="shaftesbury" linktext="true" />
 </marginal>
 
 <marginal letter="160" page="410" line="19">
@@ -15779,7 +15834,7 @@ Sprichwort: canis festinans parit caecos catulos / eiliger Hund gebiert blinde H
 </marginal>
 
 <marginal letter="163" page="426" line="20">
-<link ref="wieland-cm" subref="wieland-freundin" linktext="true" /> (1754; 1758 war eine Neuauflage in Berlin/Leipzig erschienen)
+<link ref="wieland" subref="wieland-freundin" linktext="true" /> (1754; 1758 war eine Neuauflage in Berlin/Leipzig erschienen)
 </marginal>
 
 <marginal letter="163" page="426" line="22">
@@ -16913,7 +16968,7 @@ im Unterschied zum Sprichwort: „Man muss zuvor viele Scheffel Salz miteinander
 </marginal>
 
 <marginal letter="170" page="449" line="29" sort="1">
-<bzg>Battologist</bzg> abgeleitet vom griech. Wort für Schwätzer (bzw. dem entspr. Verb); vgl. <link ref="nt-mt" subref="nt-mt6" linktext="false">Mt 6,7</link> (von <link ref="michaelis-jd" linktext="true" /> gibt es eine <titel>commentatio de battologia ad Matth. VI, 7</titel>, Göttingen 1753); in <link ref="luther" linktext="false">Luthers</link> Auslegung des 1. Buchs Mose wird das Wort in Bezug auf <link ref="at-ps" subref="at-ps5" linktext="false">Ps 5</link> verwendet und mit „unnütze Wescher“ übersetzt.
+<bzg>Battologist</bzg> abgeleitet vom griech. Wort für Schwätzer (bzw. dem entspr. Verb); vgl. <link ref="nt-mt" subref="nt-mt6" linktext="false">Mt 6,7</link> (von <link ref="michaelis" linktext="true" /> gibt es eine <titel>commentatio de battologia ad Matth. VI, 7</titel>, Göttingen 1753); in <link ref="luther" linktext="false">Luthers</link> Auslegung des 1. Buchs Mose wird das Wort in Bezug auf <link ref="at-ps" subref="at-ps5" linktext="false">Ps 5</link> verwendet und mit „unnütze Wescher“ übersetzt.
 </marginal>
 
 <marginal letter="170" page="449" line="29" sort="2">
@@ -18448,11 +18503,11 @@ Brief Nr. 182
 </marginal>
 
 <marginal letter="182" page="23" line="5" sort="3">
-<bzg>Michaelis</bzg> vmtl. <link ref="michaelis-jd" subref="michaelis-jd-meinungen" linktext="true" />
+<bzg>Michaelis</bzg> vmtl. <link ref="michaelis" subref="michaelis-meinungen" linktext="true" />
 </marginal>
 
 <marginal letter="182" page="23" line="6">
-<bzg>Beurtheilung</bzg> <link ref="michaelis-jd" subref="michaelis-jd-mittel" linktext="true" />
+<bzg>Beurtheilung</bzg> <link ref="michaelis" subref="michaelis-mittel" linktext="true" />
 </marginal>
 
 <marginal letter="182" page="23" line="7">
@@ -18623,7 +18678,7 @@ Brief Nr. 183
 </marginal>
 
 <marginal letter="183" page="25" line="25" sort="2">
-<bzg>Michaelis Einl. und Beurth.</bzg> vmtl. <link ref="michaelis-jd" subref="michaelis-einleitung" linktext="true" /> und <link ref="michaelis-jd" subref="michaelis-jd-mittel" linktext="true" />
+<bzg>Michaelis Einl. und Beurth.</bzg> vmtl. <link ref="michaelis" subref="michaelis-einleitung" linktext="true" /> und <link ref="michaelis" subref="michaelis-mittel" linktext="true" />
 </marginal>
 
 <marginal letter="183" page="25" line="28">
@@ -18710,7 +18765,7 @@ Brief Nr. 184
 </marginal>
 
 <marginal letter="184" page="27" line="5" sort="2">
-<bzg>Michaelis</bzg> <link ref="michaelis-jd" linktext="true" />
+<bzg>Michaelis</bzg> <link ref="michaelis" linktext="true" />
 </marginal>
 
 <marginal letter="184" page="27" line="6">
@@ -20298,6 +20353,10 @@ Brief Nr. 199
 <bzg>Daentler</bzg> nicht ermittelt
 </marginal>
 
+<marginal letter="199" page="57" line="16">
+<bzg>Bibliotheque de Gesner</bzg> vmtl. <link ref="gesner-k" subref="gesner-bibliotheca" linktext="true" />
+</marginal>
+
 <marginal letter="199" page="57" line="29">
 <bzg>Mr. M.</bzg> vmtl. <link ref="moser" linktext="true" />; wohl bezogen auf Hamanns satirische Polemik gegen diesen in der <link ref="hamann" subref="hamann-anmerkungen" linktext="false"><titel>Wortfügung</titel></link>
 </marginal>
@@ -20328,11 +20387,11 @@ Brief Nr. 200
 <bzg>Kleinigkeit</bzg> <link ref="hamann" subref="hamann-klaggedicht" linktext="true" />
 </marginal>
 
-<marginal letter="200" page="58" line="18">
+<marginal letter="200" page="58" line="16">
 <bzg>Frauenzimmers</bzg> <link ref="berens-ca" linktext="true" /> 
 </marginal>
 
-<marginal letter="200" page="58" line="16">
+<marginal letter="200" page="58" line="18">
 <bzg>schwarzem Lack</bzg> Nachrichten zu Trauerfällen wurden oft schwarz versiegelt. 
 </marginal>
 
@@ -20361,7 +20420,7 @@ Brief Nr. 200
 </marginal> 
 
 <marginal letter="200" page="59" line="5">
-<bzg>Parasche</bzg> Parascha: Abschnitt im masoretischen Teil der Tora
+<bzg>Parasche</bzg> Parascha: Wochenabschnitt der Tora
 </marginal> 
 
 <marginal letter="200" page="59" line="10">
@@ -20526,7 +20585,7 @@ Brief Nr. 202
 </marginal> 
 
 <marginal letter="202" page="62" line="4">
-<bzg>Verleger der Wolken</bzg> Die <link ref="hamann" subref="hamann-wolken" linktext="false"><titel>Wolken</titel></link> wurden vmtl. von <link ref="kanter-jj" linktext="true" /> vertrieben. Im Druck ist Altona als Verlagsort angegeben, eine Fiktion, welche die Gegnerschaft zu Hamburg symbolisiert (wo <link ref="ziegra" subref="ziegra-hamburgische" linktext="false">Ziegras Verriss</link> der <titel>Sokratischen Denkwürdigkeiten</titel> erschienen war). Im Weiteren führt Hamann das literarische Spiel mit dem Druckort fort, indem er fingiert, dass die gedruckten Exemplare der Wolken von Altona nach Lübeck gebracht und von dort über den Seeweg nach Königsberg transportiert wurden. 
+<bzg>Verleger der Wolken</bzg> Die <link ref="hamann" subref="hamann-wolken" linktext="false"><titel>Wolken</titel></link> wurden vmtl. von <link ref="kanter" linktext="true" /> vertrieben. Im Druck ist Altona als Verlagsort angegeben, eine Fiktion, welche die Gegnerschaft zu Hamburg symbolisiert (wo <link ref="ziegra" subref="ziegra-hamburgische" linktext="false">Ziegras Verriss</link> der <titel>Sokratischen Denkwürdigkeiten</titel> erschienen war). Im Weiteren führt Hamann das literarische Spiel mit dem Druckort fort, indem er fingiert, dass die gedruckten Exemplare der Wolken von Altona nach Lübeck gebracht und von dort über den Seeweg nach Königsberg transportiert wurden. 
 </marginal> 
 
 <marginal letter="202" page="62" line="5">
@@ -20948,7 +21007,7 @@ Brief Nr. 203
 </marginal>
 
 <marginal letter="203" page="69" line="2" sort="2">
-<bzg>Wieland</bzg> <link ref="wieland-cm" subref="wieland-academie" linktext="true" />
+<bzg>Wieland</bzg> <link ref="wieland" subref="wieland-academie" linktext="true" />
 </marginal>
 
 <marginal letter="203" page="69" line="4">
@@ -21032,7 +21091,7 @@ Brief Nr. 203
 </marginal>
 
 <marginal letter="203" page="71" line="11">
-<bzg>praerogativ</bzg> Vorrecht
+<bzg>praerogativ</bzg> Vorrecht; vgl. <link ref="at-mo1" subref="at-mo1-2" linktext="false">1&#x202F;Mo 2,19</link>.
 </marginal>
 
 <marginal letter="203" page="71" line="12">
@@ -21087,6 +21146,10 @@ Brief Nr. 203
 <bzg>Kindern des Lichts&#x202F;…</bzg> <link ref="nt-eph" subref="nt-eph5" linktext="false">Eph 5,9</link> u. <link ref="nt-jo" subref="nt-jo12" linktext="false">Joh 12,36</link>
 </marginal>
 
+<marginal letter="203" page="72" line="6">
+<link ref="at-ps" subref="at-ps37" linktext="false">Ps 37,6</link> 
+</marginal>
+
 <marginal letter="203" page="72" line="7">
 <bzg>Werken der Finsternis&#x202F;…</bzg> <link ref="nt-eph" subref="nt-eph5" linktext="false">Eph 5,11</link>
 </marginal>
@@ -21121,6 +21184,10 @@ Brief Nr. 203
 
 <marginal letter="203" page="72" line="17" sort="2">
 <bzg>Brüder</bzg> <link ref="lindner-jef" linktext="true" /> u. <link ref="lindner-gi" linktext="true" />  
+</marginal>
+
+<marginal letter="203" page="72" line="20" >
+<bzg>Kind des Lichts</bzg> <link ref="nt-th1" subref="nt-th1-5" linktext="false">1&#x202F;Th 5,5</link> u.ö.
 </marginal>
 
 <marginal letter="203" page="72" line="27">
@@ -21398,7 +21465,7 @@ Brief Nr. 204
 </marginal>
 
 <marginal letter="204" page="76" line="33">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="204" page="76" line="34" sort="1">
@@ -21514,16 +21581,11 @@ Brief Nr. 204
 </marginal>
 
 <marginal letter="204" page="78" line="31">
-<bzg>Natur der Dinge</bzg> <link ref="lukrez" subref="lukrez-natur" linktext="true" />
+<bzg>Natur der Dinge</bzg> <link ref="wieland" subref="wieland-natur" linktext="true" />
 </marginal>
-
 
 <marginal letter="204" page="78" line="32">
 <bzg>Die Schweitzer</bzg> bes. <link ref="bodmer" linktext="true" /> u. <link ref="breitinger" linktext="true" />
-</marginal>
-
-<marginal letter="204" page="78" line="34">
-<bzg>Pygmalion</bzg> wie bspw. in <link ref="bodmer" subref="bodmer-pygmalion" linktext="true" /> geschildert
 </marginal>
 
 <marginal letter="204" page="79" line="1">
@@ -21799,11 +21861,11 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="84" line="28">
-<bzg>sagt Diderot</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />, S.&#x202F;401: „Unter den Leidenschaften sind diejenigen, die man sich am leichtesten zu haben stellen kann, auch die leichtesten zu schildern. Dahin gehöret die Großmuth; die überall etwas Erlogenes und Uebertriebenes verträgt.“
+<bzg>sagt Diderot</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;401: „Unter den Leidenschaften sind diejenigen, die man sich am leichtesten zu haben stellen kann, auch die leichtesten zu schildern. Dahin gehöret die Großmuth; die überall etwas Erlogenes und Uebertriebenes verträgt.“
 </marginal>
 
 <marginal letter="206" page="84" line="36">
-<bzg>Gleichnis des Diderots</bzg> Ebd., S.&#x202F;339: „Die von der dramatischen Dichtkunst geschrieben haben, gleichen einem Menschen, der indem er auf Mittel sänne, wie er eine ganze Familie in Unruhe stürzen könne, diese Mittel nicht nach dieser Unruhe selbst, sondern nach dem abwägen wollte, was die Nachbarn davon sagen würden. O kümmert euch doch nicht um die Nachbaren; peiniget nur eure Personen recht, und seyd versichert, daß diese keinen Verdruß haben werden, an dem jene nicht Antheil nehmen!“
+<bzg>Gleichnis des Diderots</bzg> Ebd., Tl.&#x202F;2, S.&#x202F;339: „Die von der dramatischen Dichtkunst geschrieben haben, gleichen einem Menschen, der indem er auf Mittel sänne, wie er eine ganze Familie in Unruhe stürzen könne, diese Mittel nicht nach dieser Unruhe selbst, sondern nach dem abwägen wollte, was die Nachbarn davon sagen würden. O kümmert euch doch nicht um die Nachbaren; peiniget nur eure Personen recht, und seyd versichert, daß diese keinen Verdruß haben werden, an dem jene nicht Antheil nehmen!“
 </marginal>
 
 <marginal letter="206" page="85" line="6">
@@ -21811,7 +21873,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="85" line="7">
-<bzg>Racine</bzg> <link ref="racine" linktext="true" />, vgl. bspw. <link ref="diderot" subref="diderot-theater" linktext="true" />, S.&#x202F;402: „Wie man mit vieler Arbeit eine Scene machen kann, wie sie Corneille gemacht hat, ohne selbst ein Corneille zu seyn, das kann ich begreiffen: aber nie habe ich es begreiffen können, wie man eine Racinische Scene machen kann, ohne selbst ein Racine zu seyn.“
+<bzg>Racine</bzg> <link ref="racine" linktext="true" />, vgl. bspw. <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;402: „Wie man mit vieler Arbeit eine Scene machen kann, wie sie Corneille gemacht hat, ohne selbst ein Corneille zu seyn, das kann ich begreiffen: aber nie habe ich es begreiffen können, wie man eine Racinische Scene machen kann, ohne selbst ein Racine zu seyn.“
 </marginal>
 
 <marginal letter="206" page="85" line="23">
@@ -22159,7 +22221,7 @@ Brief Nr. 208
 </marginal>
 
 <marginal letter="208" page="93" line="30" sort="1">
-<bzg>Kanterschen</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanterschen</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="208" page="93" line="30" sort="2">
@@ -22509,7 +22571,7 @@ Brief Nr. 209
 Brief Nr. 210
 
 <marginal letter="210" page="101" line="3">
-<link ref="kanter-jj" linktext="true" />
+<link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="210" page="101" line="6">
@@ -23219,7 +23281,7 @@ Brief Nr. 214
 </marginal>
 
 <marginal letter="214" page="115" line="34">
-<bzg>Cabbala</bzg> Ebd., Buch&#x202F;2, Sp.&#x202F;507ff.
+<bzg>Cabbala</bzg> Ebd., Buch&#x202F;2, Sp.&#x202F;425-439.
 </marginal>
 
 <marginal letter="214" page="115" line="35">
@@ -23433,7 +23495,7 @@ Brief Nr. 215
 </marginal>
 
 <marginal letter="215" page="119" line="8">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="215" page="119" line="13">
@@ -23501,7 +23563,7 @@ Brief Nr. 215
 </marginal>
 
 <marginal letter="215" page="120" line="6" sort="2">
-<bzg>Michaelis</bzg> <link ref="michaelis-jd" linktext="true" />
+<bzg>Michaelis</bzg> <link ref="michaelis" linktext="true" />
 </marginal>
 
 <marginal letter="215" page="120" line="7" sort="1">
@@ -23811,7 +23873,7 @@ Brief Nr. 217
 </marginal>
 
 <marginal letter="217" page="123" line="30">
-<bzg>Auf! auf!&#x202F;…</bzg> Hamann zitiert ein Billet an <link ref="kanter-jj" linktext="true" />
+<bzg>Auf! auf!&#x202F;…</bzg> Hamann zitiert ein Billet an <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="217" page="123" line="31">
@@ -24007,7 +24069,7 @@ Brief Nr. 217
 </marginal>
 
 <marginal letter="217" page="126" line="2">
-<bzg>Freund K –––</bzg> vll. <link ref="kanter-jj" linktext="true" />
+<bzg>Freund K –––</bzg> vll. <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="217" page="126" line="4">
@@ -24024,8 +24086,20 @@ Brief Nr. 218 [Vielleicht handelt es sich um Trescho, 124,36f]
 <bzg>comme St. Paul</bzg> <link ref="nt-kor1" subref="nt-kor1-12" linktext="false">1 Kor 12,22f.</link>
 </marginal>
 
+<marginal letter="218" page="126" line="24">
+<bzg>L’Hercule</bzg> Vgl. zu ‚Hercule‘ <link ref="hamann" subref="hamann-lettre" linktext="true" />, § 6, zu ‚Enigme‘ und ‚Sphinge‘ ebd. § 7, zu ‚enseigner‘ ebd. § 11.
+</marginal>
+
 <marginal letter="218" page="127" line="3">
 <bzg>feuille volante</bzg> <link ref="at-hi" subref="at-hi13" linktext="false">Hi 13,25</link> 
+</marginal>
+
+<marginal letter="218" page="127" line="6">
+<bzg>toms</bzg> vmtl. falsche Lesung für „termes“
+</marginal>
+
+<marginal letter="218" page="127" line="8">
+<bzg>Dictionnaire</bzg> <link ref="desfontaines" subref="desfontaines-dictionnaire" linktext="true" />
 </marginal>
 
 <marginal letter="218" page="127" line="17">
@@ -24096,7 +24170,7 @@ Brief Nr. 219
 </marginal>
 
 <marginal letter="219" page="128" line="18" sort="2">
-<bzg>Abälards</bzg> Unter dem Pseudonym Abälardus Virbius erschien Hamanns <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Beylage zum zehnten Theile der Briefe die Neueste Litteratur betreffend</titel></link>. Der Name ist gewählt in Anspielung auf <link ref="abaelardus" linktext="true" /> (1079–1142), dessen Liebesbeziehung zu seiner Schülerin Heloisa Vorbild für Rousseaus <titel>Neue Heloise</titel> war. Der Beiname Virbius (von lat. bis virum, dt. zweimal Mann) wird in Verg. <titel>Aen.</titel> 7,761–7,769 und Ov. <titel>met.</titel> 15,540–546 dem Hyppolit beigelegt, nachdem er, zunächst von Pferden zerrissen, durch die Heilkunst des Päons und die Liebe Dianas wieder zum Leben erweckt wurde. Abelaerd wurde zwar nicht zerrissen, auf Betreiben Fulberts aber kastriert.
+<bzg>Abälards</bzg> Unter dem Pseudonym Abälardus Virbius erschien Hamanns <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Beylage zum zehnten Theile der Briefe die Neueste Litteratur betreffend</titel></link>. Der Name ist gewählt in Anspielung auf <link ref="abaelardus" linktext="true" /> (1079–1142), dessen Liebesbeziehung zu seiner Schülerin Heloisa Vorbild für Rousseaus <titel>Neue Heloise</titel> war. Der Beiname Virbius (von lat. bis virum, dt. zweimal Mann) wird in <link ref="vergil" subref="vergil-aeneis" linktext="true" />, 7,761–7,769 und <link ref="ovid" subref="ovid-met" linktext="true" />, 15,540–546 dem Hyppolit beigelegt, nachdem er, zunächst von Pferden zerrissen, durch die Heilkunst des Päons und die Liebe Dianas wieder zum Leben erweckt wurde. Abelaerd wurde zwar nicht zerrissen, auf Betreiben Fulberts aber kastriert.
 </marginal>
 
 <marginal letter="219" page="128" line="20">
@@ -24271,7 +24345,7 @@ Brief Nr. 220
 </marginal>
 
 <marginal letter="220" page="130" line="31">
-<bzg>Brief mit Nicolai Pettschaft</bzg> mit dem Siegel von <link ref="nicolai-f" linktext="true" />. Auf diesen antwortete Hamann wohl mit Brief Nr.&#x202F;219 an Mendelssohn.
+<bzg>Brief mit Nicolai Pettschaft</bzg> mit dem Siegel von <link ref="nicolai" linktext="true" />. Auf diesen antwortete Hamann wohl mit Brief Nr.&#x202F;219 an Mendelssohn.
 </marginal>
 
 <marginal letter="220" page="130" line="32">
@@ -24283,7 +24357,7 @@ Brief Nr. 220
 </marginal>
 
 <marginal letter="220" page="131" line="9" sort="1">
-<bzg>Abälard</bzg> Unter dem Pseudonym Abälardus Virbius erschien Hamanns <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Beylage zum zehnten Theile der Briefe die Neueste Litteratur betreffend</titel></link>. Der Name ist gewählt in Anspielung auf <link ref="abaelardus" linktext="true" /> (1079–1142), dessen Liebesbeziehung zu seiner Schülerin Heloisa Vorbild für Rousseaus <titel>Neue Heloise</titel> war. Der Beiname Virbius (von lat. bis virum, dt. zweimal Mann) wird in Verg. <titel>Aen.</titel> 7,761–7,769 und Ov. <titel>met.</titel> 15,540–546 dem Hyppolit beigelegt, nachdem er, zunächst von Pferden zerrissen, durch die Heilkunst des Päons und die Liebe Dianas wieder zum Leben erweckt wurde. Abelaerd wurde zwar nicht zerrissen, auf Betreiben Fulberts aber kastriert. Vgl. dazu im vorangegangenen Brief an Mendelssohn, <intlink letter="219" page="128" line="18" linktext="true" />
+<bzg>Abälard</bzg> Unter dem Pseudonym Abälardus Virbius erschien Hamanns <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Beylage zum zehnten Theile der Briefe die Neueste Litteratur betreffend</titel></link>. Der Name ist gewählt in Anspielung auf <link ref="abaelardus" linktext="true" /> (1079–1142), dessen Liebesbeziehung zu seiner Schülerin Heloisa Vorbild für Rousseaus <titel>Neue Heloise</titel> war. Der Beiname Virbius (von lat. bis virum, dt. zweimal Mann) wird in <link ref="vergil" subref="vergil-aeneis" linktext="true" />, 7,761–7,769 und <link ref="ovid" subref="ovid-met" linktext="true" />, 15,540–546 dem Hyppolit beigelegt, nachdem er, zunächst von Pferden zerrissen, durch die Heilkunst des Päons und die Liebe Dianas wieder zum Leben erweckt wurde. Abelaerd wurde zwar nicht zerrissen, auf Betreiben Fulberts aber kastriert. Vgl. dazu im vorangegangenen Brief an Mendelssohn, <intlink letter="219" page="128" line="18" linktext="true" />
 </marginal>
 
 <marginal letter="220" page="131" line="9" sort="2">
@@ -24423,7 +24497,7 @@ Brief Nr. 220
 </marginal>
 
 <marginal letter="220" page="133" line="31">
-<bzg>Michaelis Grundsätzen</bzg> <link ref="michaelis-jd" subref="michaelis-jd-mittel" linktext="true" /> 
+<bzg>Michaelis Grundsätzen</bzg> <link ref="michaelis" subref="michaelis-mittel" linktext="true" /> 
 </marginal>
 
 <marginal letter="220" page="133" line="32">
@@ -24501,7 +24575,7 @@ Brief Nr. 221
 </marginal>
 
 <marginal letter="221" page="134" line="18" sort="2">
-<bzg>Abälard</bzg> Unter dem Pseudonym Abälardus Virbius erschien Hamanns <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Beylage zum zehnten Theile der Briefe die Neueste Litteratur betreffend</titel></link>. Der Name ist gewählt in Anspielung auf <link ref="abaelardus" linktext="true" /> (1079–1142), dessen Liebesbeziehung zu seiner Schülerin Heloisa Vorbild für Rousseaus <titel>Neue Heloise</titel> war. Der Beiname Virbius (von lat. bis virum, dt. zweimal Mann) wird in Verg. <titel>Aen.</titel> 7,761–7,769 und Ov. <titel>met.</titel> 15,540–546 dem Hyppolit beigelegt, nachdem er, zunächst von Pferden zerrissen, durch die Heilkunst des Päons und die Liebe Dianas wieder zum Leben erweckt wurde. Abelaerd wurde zwar nicht zerrissen, auf Betreiben Fulberts aber kastriert. Vgl. <intlink letter="219" page="128" line="18" linktext="true" /> und <intlink letter="220" page="131" line="9" linktext="true" />.
+<bzg>Abälard</bzg> Unter dem Pseudonym Abälardus Virbius erschien Hamanns <link ref="hamann" subref="hamann-einfalle" linktext="false"><titel>Beylage zum zehnten Theile der Briefe die Neueste Litteratur betreffend</titel></link>. Der Name ist gewählt in Anspielung auf <link ref="abaelardus" linktext="true" /> (1079–1142), dessen Liebesbeziehung zu seiner Schülerin Heloisa Vorbild für Rousseaus <titel>Neue Heloise</titel> war. Der Beiname Virbius (von lat. bis virum, dt. zweimal Mann) wird in <link ref="vergil" subref="vergil-aeneis" linktext="true" />, 7,761–7,769 und <link ref="ovid" subref="ovid-met" linktext="true" /> 15,540–546 dem Hyppolit beigelegt, nachdem er, zunächst von Pferden zerrissen, durch die Heilkunst des Päons und die Liebe Dianas wieder zum Leben erweckt wurde. Abelaerd wurde zwar nicht zerrissen, auf Betreiben Fulberts aber kastriert. Vgl. <intlink letter="219" page="128" line="18" linktext="true" /> und <intlink letter="220" page="131" line="9" linktext="true" />.
 </marginal>
 
 <marginal letter="221" page="134" line="18" sort="3">
@@ -24521,7 +24595,7 @@ Brief Nr. 221
 </marginal>
 
 <marginal letter="221" page="134" line="26">
-<bzg>Herausgeber</bzg> <link ref="nicolai-f" linktext="true" /> 
+<bzg>Herausgeber</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="221" page="134" line="32" sort="1">
@@ -24541,7 +24615,7 @@ Brief Nr. 221
 </marginal>
 
 <marginal letter="221" page="135" line="2">
-<bzg>Brawe FABULLUS</bzg> <link ref="lessing" linktext="true" />, der ab November 1760 im Dienst des Generalleutnants von Tauentzien stand. Brawe: lies Brave. Die Rede von den „glänzenden Wafen“ geht zurück auf „arma radiantia“ (Verg. <titel>Aen.</titel> 8,616).
+<bzg>Brawe FABULLUS</bzg> <link ref="lessing" linktext="true" />, der ab November 1760 im Dienst des Generalleutnants von Tauentzien stand. Brawe: lies Brave. Die Rede von den „glänzenden Wafen“ geht zurück auf „arma radiantia“ (<link ref="vergil" subref="vergil-aeneis" linktext="true" />, 8,616).
 </marginal>
 
 <marginal letter="221" page="135" line="4" sort="1">
@@ -24553,7 +24627,7 @@ Brief Nr. 221
 </marginal>
 
 <marginal letter="221" page="135" line="5">
-<bzg>R.</bzg> <link ref="nicolai-f" linktext="true" /> 
+<bzg>R.</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="221" page="135" line="6" sort="1">
@@ -24625,7 +24699,7 @@ Brief Nr. 221
 </marginal>
 
 <marginal letter="221" page="135" line="33">
-<bzg>Nicodemus</bzg> <link ref="nicolai-f" linktext="true" /> 
+<bzg>Nicodemus</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="221" page="135" line="34">
@@ -24735,7 +24809,7 @@ Brief Nr. 222
 </marginal>
 
 <marginal letter="222" page="138" line="19">
-<bzg>Cunegonde</bzg> die westfälische Prinzessin Cunégonde, die Geliebte Candides, von der dieser vertrieben wird.
+<bzg>Cunegonde</bzg> die westfälische Prinzessin Cunégonde, die Geliebte Candides, von der dieser vertrieben wird
 </marginal>
 
 <marginal letter="222" page="139" line="2">
@@ -24809,7 +24883,7 @@ Brief Nr. 222
 Brief Nr. 223
 
 <marginal letter="223" page="140" line="17" sort="1">
-<bzg>Pettschaft</bzg> Mit dem Siegel von <link ref="nicolai-f" linktext="true" />, vgl. <intlink letter="220" page="130" line="31" linktext="true" />
+<bzg>Pettschaft</bzg> Mit dem Siegel von <link ref="nicolai" linktext="true" />, vgl. <intlink letter="220" page="130" line="31" linktext="true" />
 </marginal>
 
 <marginal letter="223" page="140" line="17" sort="2">
@@ -24821,7 +24895,7 @@ Brief Nr. 223
 </marginal>
 
 <marginal letter="223" page="140" line="19">
-<bzg>Mediateur</bzg> <intlink letter="224" linktext="true" /> geht ebenfalls über <link ref="nicolai-f" linktext="true" /> an <link ref="mendelssohn" linktext="true" />.
+<bzg>Mediateur</bzg> <intlink letter="224" linktext="true" /> geht ebenfalls über <link ref="nicolai" linktext="true" /> an <link ref="mendelssohn" linktext="true" />.
 </marginal>
 
 <marginal letter="223" page="140" line="21">
@@ -25133,7 +25207,7 @@ Brief Nr. 225
 </marginal>
 
 <marginal letter="225" page="145" line="30">
-<bzg>Nicolai</bzg> <link ref="nicolai-f" linktext="true" /> 
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="225" page="145" line="31">
@@ -25388,7 +25462,7 @@ Prediger des Kreuzes sagt, was die Sache wirklich ist.“ Zitat bei <link ref="g
 </marginal>
 
 <marginal letter="226" page="149" line="12" sort="2">
-<bzg>Nicolai</bzg> <link ref="nicolai-f" linktext="true" />, vgl. <intlink letter="223" page="140" line="17" linktext="true" />
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />, vgl. <intlink letter="223" page="140" line="17" linktext="true" />
 </marginal>
 
 <marginal letter="226" page="149" line="13">
@@ -25598,12 +25672,12 @@ Brief Nr. 227
 <bzg>Gedichte</bzg> <link ref="hamann" subref="hamann-gedichte" linktext="true" />
 </marginal>
 
-<marginal letter="227" page="153" line="2">
-<bzg>gießt heut wohl thätig</bzg> Vgl. die 2. Strophe des Gedichts <link ref="hamann" subref="hamann-gedichte" linktext="false">„Freundschaftlicher Gesang“</link> in <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" /> (N&#x202F;II S.&#x202F;229/1, ED S.&#x202F;236): „Wohlthätige Freundschaft träufelt mir, statt Polyhymnien, heute / Gelehrtes Schwärmen ins Herz, ins Ohr harmonisches Säuseln.“
+<marginal letter="227" page="153" line="1">
+<bzg>Freundschaft</bzg> Vgl. die 2. Strophe des Gedichts <link ref="hamann" subref="hamann-gedichte" linktext="false">„Freundschaftlicher Gesang“</link> in <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" /> (N&#x202F;II S.&#x202F;229/1, ED S.&#x202F;236): „Wohlthätige Freundschaft träufelt mir, statt Polyhymnien, heute / Gelehrtes Schwärmen ins Herz, ins Ohr harmonisches Säuseln.“ Im Erstdruck von 1755 lautet der erste Vers: „Nicht Polyhymnie, nein! die Freundschaft güßt heut wohlthätig“.
 </marginal>
 
 <marginal letter="227" page="153" line="3">
-<bzg>Schaudern&#x202F;…</bzg> ebd. N&#x202F;II S.&#x202F;229/12, ED S.&#x202F;236
+<bzg>Schaudern&#x202F;…</bzg> Vgl. die 4. Strophe des Gedichts <link ref="hamann" subref="hamann-gedichte" linktext="false">„Freundschaftlicher Gesang“</link> in <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" /> (N&#x202F;II S.&#x202F;229/12, ED S.&#x202F;236).
 </marginal>
 
 <marginal letter="227" page="153" line="7" sort="1">
@@ -25793,7 +25867,7 @@ Brief 228
 </marginal>
 
 <marginal letter="228" page="156" line="8" sort="3">
-<bzg>Wielands Gedichten</bzg> <link ref="wieland-cm" subref="wieland-poetische" linktext="true" />
+<bzg>Wielands Gedichten</bzg> <link ref="wieland" subref="wieland-poetische" linktext="true" />
 </marginal>
 
 <marginal letter="228" page="156" line="9">
@@ -25857,7 +25931,7 @@ Brief 228
 </marginal>
 
 <marginal letter="228" page="157" line="20" sort="1">
-<bzg>Ich weiß, daß mein Erlöser lebt</bzg> <link ref="at-hi" subref="at-hi19" linktext="false">Hi 19,25</link> 
+<bzg>Ich weiß, daß mein Erlöser lebt</bzg> <link ref="at-hi" subref="at-hi19" linktext="false">Hi 19,25</link>
 </marginal>
 
 <marginal letter="228" page="157" line="20" sort="2">
@@ -25953,7 +26027,7 @@ Brief Nr. 230
 </marginal>
 
 <marginal letter="230" page="160" line="16" sort="2">
-<bzg>Kanters Laden</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanters Laden</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="230" page="160" line="17">
@@ -26143,7 +26217,7 @@ Brief Nr. 231
 </marginal>
 
 <marginal letter="231" page="162" line="25">
-<bzg>purus putus</bzg> dt.: ein ganz Reiner; d.h. einer, der nur sein eigenes Fach kennt.
+<bzg>purus putus</bzg> dt.: ein ganz Reiner; d.h. einer, der nur sein eigenes Fach kennt
 </marginal>
 
 <marginal letter="231" page="162" line="26">
@@ -26205,7 +26279,7 @@ Brief Nr. 232
 </marginal>
 
 <marginal letter="232" page="163" line="21">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="232" page="163" line="22">
@@ -26297,7 +26371,7 @@ Brief Nr. 232
 </marginal>
 
 <marginal letter="232" page="164" line="35" sort="1">
-<bzg>Nicolai</bzg> <link ref="nicolai-f" linktext="true" />, Brief nicht ermittelt.
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />, Brief nicht ermittelt.
 </marginal>
 
 <marginal letter="232" page="164" line="35" sort="2">
@@ -26305,7 +26379,7 @@ Brief Nr. 232
 </marginal>
 
 <marginal letter="232" page="165" line="1" sort="1">
-<link ref="kanter-jj" linktext="true" />
+<link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="232" page="165" line="1" sort="2">
@@ -26439,7 +26513,7 @@ Brief Nr. 233
 </marginal>
 
 <marginal letter="233" page="167" line="2">
-<bzg>Nachricht</bzg> <link ref="nicolai-f" linktext="true" /> hat Hamann vermutlich erneut zur Mitarbeit eingeladen.
+<bzg>Nachricht</bzg> <link ref="nicolai" linktext="true" /> hat Hamann vermutlich erneut zur Mitarbeit eingeladen.
 </marginal>
 
 <marginal letter="233" page="167" line="13">
@@ -26633,7 +26707,7 @@ Brief Nr. 234
 </marginal>
 
 <marginal letter="234" page="170" line="4">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="234" page="170" line="5">
@@ -26665,7 +26739,7 @@ Brief Nr. 234
 </marginal>
 
 <marginal letter="234" page="170" line="15">
-<bzg>Guischardt</bzg> <link ref="guichard" linktext="true" />
+<bzg>Guischardt…</bzg> <link ref="guichard" linktext="true" />; einer populären Anekdote über <link ref="friedrich-II" linktext="false">Friedrich II.</link> zufolge erwähnte er 1758 in einer Gesprächsrunde den Centurio ‚Quintus Icilius‘ lobend und wurde von Guichard korrigiert, er habe Quintus Caecilius geheißen; daraufhin habe Friedrich bestimmt, Guichard solle fortan Quintus Icilius heißen, unter welchem Namen er ein Majorspatent bekam
 </marginal>
 
 <marginal letter="234" page="170" line="20">
@@ -26811,7 +26885,7 @@ Brief Nr. 235
 </marginal>
 
 <marginal letter="235" page="172" line="24" sort="1">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="235" page="172" line="24" sort="2">
@@ -26993,7 +27067,7 @@ Brief Nr. 236
 </marginal>
 
 <marginal letter="236" page="177" line="30">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="236" page="177" line="31">
@@ -27067,7 +27141,7 @@ Brief Nr. 237
 </marginal>
 
 <marginal letter="237" page="178" line="29">
-<bzg>an N.</bzg> <link ref="nicolai-f" linktext="true" />, vgl. <intlink letter="239" linktext="true" />.
+<bzg>an N.</bzg> <link ref="nicolai" linktext="true" />, vgl. <intlink letter="239" linktext="true" />.
 </marginal>
 
 <marginal letter="237" page="178" line="30">
@@ -27127,7 +27201,7 @@ Brief Nr. 237
 </marginal>
 
 <marginal letter="237" page="179" line="18" sort="2">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="237" page="179" line="19">
@@ -27157,7 +27231,7 @@ Brief Nr. 238
 </marginal>
 
 <marginal letter="238" page="180" line="9">
-<bzg>Zachariae</bzg> <link ref="zachariae" linktext="true" /> als Redakteur (1761–1777) der <titel>Gelehrte[n] Beyträge zu den Braunschweigischen Anzeigen</titel>, auch zum Vertrieb von Neuerscheinungen und für Subskriptionsvermittlungen. Darauf bezieht sich wohl die Einlage im Brief an <link ref="nicolai-f" linktext="true" />, vgl. <intlink letter="239" page="182" line="23" linktext="true" />.
+<bzg>Zachariae</bzg> <link ref="zachariae" linktext="true" /> als Redakteur (1761–1777) der <titel>Gelehrte[n] Beyträge zu den Braunschweigischen Anzeigen</titel>, auch zum Vertrieb von Neuerscheinungen und für Subskriptionsvermittlungen. Darauf bezieht sich wohl die Einlage im Brief an <link ref="nicolai" linktext="true" />, vgl. <intlink letter="239" page="182" line="23" linktext="true" />.
 </marginal>
 
 <marginal letter="238" page="180" line="10" sort="1">
@@ -27259,7 +27333,7 @@ Brief Nr. 239
 </marginal>
 
 <marginal letter="239" page="181" line="17">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="239" page="181" line="23">
@@ -27321,7 +27395,7 @@ Brief Nr. 239
 Brief Nr. 240
 
 <marginal letter="240" page="183" line="3">
-<bzg>Götting. Recension</bzg> Rezension von <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" /> durch <link ref="michaelis-jd" linktext="true" />, im 68. St. der <link ref="goettingische-anzeigen" linktext="false">Göttingischen Anzeigen von gelehrten Sachen</link> (1762), S.&#x202F;593–595
+<bzg>Götting. Recension</bzg> Rezension von <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" /> durch <link ref="michaelis" linktext="true" />, im 68. St. der <link ref="goettingische-anzeigen" linktext="false">Göttingischen Anzeigen von gelehrten Sachen</link> (1762), S.&#x202F;593–595
 </marginal>
 
 <marginal letter="240" page="183" line="7">
@@ -27329,11 +27403,11 @@ Brief Nr. 240
 </marginal>
 
 <marginal letter="240" page="183" line="10">
-<bzg>Michaelis Fragen an die arabischen Gelehrten</bzg> <link ref="michaelis-jd" subref="michaelis-jd-fragen" linktext="true" /> 
+<bzg>Michaelis Fragen an die arabischen Gelehrten</bzg> <link ref="michaelis" subref="michaelis-fragen" linktext="true" /> 
 </marginal>
 
 <marginal letter="240" page="183" line="12">
-<bzg>Aufsatz</bzg> <link ref="michaelis-jd" subref="michaelis-jd-meinungen" linktext="true" />; vmtl. handelt es sich um die 1762 in Bremen erschienene franz. Übersetzung. 
+<bzg>Aufsatz</bzg> <link ref="michaelis" subref="michaelis-meinungen" linktext="true" />; vmtl. handelt es sich um die 1762 in Bremen erschienene franz. Übersetzung. 
 </marginal>
 
 <marginal letter="240" page="183" line="13">
@@ -27355,7 +27429,11 @@ Brief Nr. 240
 </marginal>
 
 <marginal letter="240" page="183" line="24">
-<bzg>Mich.</bzg> <link ref="michaelis-jd" linktext="true" />
+<bzg>Mich.</bzg> <link ref="michaelis" linktext="true" />
+</marginal>
+
+<marginal letter="240" page="183" line="26">
+<bzg>unpartheyische [...] worden</bzg> Vgl. <link ref="michaelis" linktext="true" />, im 68. St. der <link ref="goettingische-anzeigen" linktext="false">Göttingischen Anzeigen von gelehrten Sachen</link> (1762), S.&#x202F;594f. und <link ref="hamann" subref="hamann-hamburgische" linktext="true" />, ED S.&#x202F;31-34 
 </marginal>
 
 <marginal letter="240" page="183" line="29">
@@ -27367,11 +27445,11 @@ Brief Nr. 240
 </marginal>
 
 <marginal letter="240" page="183" line="31" sort="1">
-<bzg>Nicol.</bzg> <link ref="nicolai-f" linktext="true" />, siehe <intlink letter="239" page="181" line="4" linktext="true" /> 
+<bzg>Nicol.</bzg> <link ref="nicolai" linktext="true" />, siehe <intlink letter="239" page="181" line="4" linktext="true" /> 
 </marginal>
 
 <marginal letter="240" page="183" line="31" sort="2">
-<bzg>Maculatur</bzg> <link ref="hinz" subref="hinz-makulatur" linktext="true" />darin eine Übersetzung Hamanns (nicht überliefert), vgl. <intlink letter="235" page="172" line="27" linktext="true" />.
+<bzg>Maculatur</bzg> <link ref="hinz" subref="hinz-makulatur" linktext="true" />, darin eine Übersetzung Hamanns (nicht überliefert), vgl. <intlink letter="235" page="172" line="27" linktext="true" />.
 </marginal>
 
 <marginal letter="240" page="183" line="31" sort="3">
@@ -27471,7 +27549,7 @@ Brief Nr. 240
 </marginal>
 
 <marginal letter="240" page="184" line="31">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="240" page="184" line="33">
@@ -27597,7 +27675,7 @@ Brief Nr. 241
 </marginal>
 
 <marginal letter="241" page="187" line="10">
-<bzg>Michaelis</bzg> <link ref="michaelis-jd" linktext="true" />
+<bzg>Michaelis</bzg> <link ref="michaelis" linktext="true" />
 </marginal>
 
 <marginal letter="241" page="187" line="11" sort="1">
@@ -27661,7 +27739,7 @@ Brief Nr. 241
 </marginal>
 
 <marginal letter="241" page="187" line="23" sort="1">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="241" page="187" line="23" sort="2">
@@ -27717,7 +27795,7 @@ Brief Nr. 241
 </marginal>
 
 <marginal letter="241" page="188" line="3">
-<bzg>an N.</bzg> <link ref="nicolai-f" linktext="true" />, vgl. Brief 239
+<bzg>an N.</bzg> <link ref="nicolai" linktext="true" />, vgl. Brief 239
 </marginal>
 
 <marginal letter="241" page="188" line="5" sort="1">
@@ -27729,7 +27807,7 @@ Brief Nr. 241
 </marginal>
 
 <marginal letter="241" page="188" line="10" sort="1">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="241" page="188" line="10" sort="2">
@@ -27765,7 +27843,7 @@ Brief Nr. 241
 </marginal>
 
 <marginal letter="241" page="188" line="24">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="241" page="188" line="25">
@@ -27891,7 +27969,7 @@ Brief Nr. 242
 </marginal>
 
 <marginal letter="242" page="190" line="6">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="242" page="190" line="7">
@@ -27899,7 +27977,7 @@ Brief Nr. 242
 </marginal>
 
 <marginal letter="242" page="190" line="14">
-<bzg>Phryges […] non putaram</bzg> dt. „Phryger kommen spät zu Verstand“ (nach Livius Andronicus, Equos Troianus); dt. „Damit habe ich nicht gerechnet“ (<link ref="cicero" subref="cic-off" linktext="true" />, 1,81)
+<bzg>Phryges […] non putaram</bzg> dt. „Phryger kommen spät zu Verstand“ (nach Livius Andronicus, <titel>Equos Troianus</titel>, überliefert bei <link ref="cicero" subref="cic-fam" linktext="true" />, 7,16,1); dt. „Damit habe ich nicht gerechnet“ (<link ref="cicero" subref="cic-off" linktext="true" />, 1,81)
 </marginal>
 
 <marginal letter="242" page="190" line="16">
@@ -27923,7 +28001,7 @@ Brief Nr. 242
 </marginal>
 
 <marginal letter="242" page="190" line="20" sort="2">
-<bzg>alten halben Fr. d’or</bzg> Friedrich d’or, Goldmünze benannt nach Friedrich dem Großen; entspricht 5 Reichstalern (eine im ganzen dt-sprachigen Raum übliche Silbermünze). Ab 1749 wurden halbe Friedrich d’or geprägt.
+<bzg>alten halben Fr. d’or</bzg> Friedrich d’or, Goldmünze benannt nach <link ref="friedrich-II" linktext="true" />; entspricht 5 Reichstalern (eine im ganzen dt-sprachigen Raum übliche Silbermünze). Ab 1749 wurden halbe Friedrich d’or geprägt.
 </marginal>
 
 <marginal letter="242" page="190" line="21">
@@ -27979,7 +28057,7 @@ Brief Nr. 242
 </marginal>
 
 <marginal letter="242" page="191" line="4">
-<bzg>Fr. d’or</bzg> Friedrich d’or, Goldmünze benannt nach Friedrich dem Großen; entspricht 5 Reichstalern (eine im ganzen dt-sprachigen Raum übliche Silbermünze). 
+<bzg>Fr. d’or</bzg> Friedrich d’or, Goldmünze benannt nach <link ref="friedrich-II" linktext="true" />; entspricht 5 Reichstalern (eine im ganzen dt-sprachigen Raum übliche Silbermünze).
 </marginal>
 
 <marginal letter="242" page="191" line="10" sort="1">
@@ -28091,7 +28169,7 @@ Brief Nr. 242
 </marginal>
 
 <marginal letter="242" page="193" line="30" sort="3">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" /> 
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" /> 
 </marginal>
 
 <marginal letter="242" page="193" line="35" sort="1">
@@ -28149,7 +28227,7 @@ Brief Nr. 242
 Brief Nr. 243
 
 <marginal letter="243" page="194" line="23">
-<bzg>Litteratur-Briefe</bzg> <link ref="briefe-literatur" linktext="true" />
+<bzg>Litteratur-Briefe</bzg> <link ref="briefe-literatur" linktext="true" />, XV. Theil, 1763
 </marginal>
 
 <marginal letter="243" page="194" line="24">
@@ -28157,7 +28235,7 @@ Brief Nr. 243
 </marginal>
 
 <marginal letter="243" page="194" line="26">
-<bzg>Zuschrift nebst Beylage</bzg> nicht ermittelt
+<bzg>Zuschrift nebst Beylage</bzg> nicht ermittelt; Beilage war wohl: <link ref="briefe-literatur" linktext="true" />, XV. Theil, 1763
 </marginal>
 
 <marginal letter="243" page="194" line="28" sort="1">
@@ -28175,6 +28253,12 @@ Brief Nr. 243
 <marginal letter="243" page="194" line="30">
 <bzg>Kreuzzüge</bzg> <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" />
 </marginal>
+
+<marginal letter="243" page="194" line="33">
+<bzg>beurtheilt</bzg> »Beurtheilung der Kreuzzüge des Philologen« in: <link ref="briefe-literatur" linktext="true" />, XV. Theil, 254. Brief, S. 172–188.
+    </marginal>
+
+
 
 <marginal letter="243" page="195" line="1">
 <bzg>Provinzialscherz</bzg> vgl. <link ref="hamann" subref="hamann-hamburgische" linktext="true" />, ED S.&#x202F;67.
@@ -28221,7 +28305,7 @@ Brief Nr. 243
 </marginal>
 
 <marginal letter="243" page="195" line="36" sort="1">
-<bzg>Uebersetzer</bzg> Hamann denkt wohl an <link ref="wieland-cm" linktext="true" /> 
+<bzg>Uebersetzer</bzg> Hamann denkt wohl an <link ref="wieland" linktext="true" /> 
 </marginal>
 
 <marginal letter="243" page="195" line="36" sort="2">
@@ -28297,7 +28381,7 @@ Brief Nr. 243
 </marginal>
 
 <marginal letter="243" page="197" line="9">
-<bzg>Spinnen&#x202F;… Spinoza</bzg> Vergleich der Geometrie des Spinnennetzes mit dem more geometrico-System von <link ref="spinoza" linktext="true" />. Die Pflanzung von Maulbeerbäumen zur Produktion von Seide hatte <link ref="friedrich-II" linktext="true" /> verordnet.
+<bzg>Spinnen&#x202F;… Spinoza</bzg> Vgl. die bspw. bei <link ref="colerus" subref="colerus-spinoza" linktext="true" />, S.&#x202F;47f. überlieferte Anekdote, <link ref="spinoza" linktext="true" /> habe Spinnen gefangen und ihrem Überlebenskampf mit Vergnügen zugesehen.
 </marginal>
 
 <marginal letter="243" page="197" line="11">
@@ -28317,11 +28401,15 @@ Brief Nr. 243
 </marginal>
 
 <marginal letter="243" page="197" line="21">
-<bzg>guten Freund</bzg> <link ref="kanter-jj" linktext="true" />, vgl. <intlink letter="247" page="206" line="9" linktext="true" />
+<bzg>guten Freund</bzg> <link ref="kanter" linktext="true" />, vgl. <intlink letter="247" page="206" line="9" linktext="true" />
 </marginal>
 
 <marginal letter="243" page="197" line="23">
 <bzg>HE M u den Verfaßer der Beurtheilung</bzg> <link ref="mendelssohn" linktext="true" /> und <link ref="abbt" linktext="true" />
+</marginal>
+
+<marginal letter="243" page="197" line="25">
+<bzg>Grünen Donnerstage</bzg> Donnerstag, 30. März 1763
 </marginal>
 
 Brief Nr. 244
@@ -28351,7 +28439,7 @@ Brief Nr. 244
 </marginal>
 
 <marginal letter="244" page="198" line="2" sort="2">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="244" page="198" line="3">
@@ -28367,7 +28455,7 @@ Brief Nr. 244
 </marginal>
 
 <marginal letter="244" page="198" line="11">
-<bzg>Nachbar</bzg> <link ref="kanter-jj" linktext="true" /> sucht seinen Verlag in Riga, Kurland, zu etablieren.
+<bzg>Nachbar</bzg> <link ref="kanter" linktext="true" /> sucht seinen Verlag in Riga, Kurland, zu etablieren.
 </marginal>
 
 <marginal letter="244" page="198" line="12" sort="1">
@@ -28427,11 +28515,11 @@ Brief Nr. 244
 </marginal>
 
 <marginal letter="244" page="199" line="10" sort="1">
-<bzg>Herr N.</bzg> <link ref="nicolai-f" linktext="true" />
+<bzg>Herr N.</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="244" page="199" line="10" sort="2">
-<bzg>Briefe</bzg> <link ref="briefe-literatur" linktext="true" />, XV. Theil, 1763
+<bzg>Briefe</bzg> <link ref="briefe-literatur" linktext="true" />, Tl.15, 1763
 </marginal>
 
 <marginal letter="244" page="199" line="14">
@@ -28439,11 +28527,11 @@ Brief Nr. 244
 </marginal>
 
 <marginal letter="244" page="199" line="20" sort="1">
-<bzg>Castratehen</bzg> Anspielung auf <titel>Vertheidigung der Briefe die neueste Litteratur betreffend wider verschiedene ungegründete Anschuldigungen,</titel> von <link ref="nicolai-f" linktext="true" />, 243. Brief der <link ref="briefe-literatur" linktext="true" />: „Einige Leute meinen, daß unsere Briefe allzuwitzig geschrieben wären. Dieser Vorwurf kommt mehrenteils von Leuten her That envy wits as eunuchs envy lovers. Diese Leute verbinden mit dem Worte Witz einen weitschweifigen Begriff, und geben zu verstehen, daß wir als bloße Witzlinge, keine ernsthafte Urtheile fällen könnten.“
+<bzg>Castratehen</bzg> Wohl eine Fehllesung in ZH; eigentlich: »Lustralehen«. Vgl. den 249. der <link ref="briefe-literatur" linktext="true" /> (Tl.15, 1763), S.115: „Von den Ehen auf 5 Jahren oder wenn sie so wollen, Lustral-Ehen läßt sich ein gleiches [sittliches] Urtheil fällen. Durch Gesetze sie einzuführen, wäre rasend. Ausnahmen finden sich ofte: aber sie überwiegen die Allgemeinheit nicht.“ Das Wort „lustral“ ist abgeleitet von „lustrum“ für einen Fünfjahreszyklus in der antiken römischen Politik. Die Rezension bezieht sich hier auf <link ref="sussmilch" subref="goettlicheordnung" linktext="true" />, Bd.&#x202F;2, §&#x202F;364, S.&#x202F;159f., worin gegen Erwägungen, eine Liberalisierung der Ehegesetze könne sinnvoll ein Bevölkerungswachstum befördern, die Position verfochten wird, dass solche Liberalisierungen der sittlichen Ordnung zuwider seien und dass vielmehr Vermeidung von Krieg und Luxusökonomie sowie Förderung der Landwirtschaft der Vermehrung dienen. Die Idee einer Ehe auf Zeit hatte Moritz von Sachsen in <link ref="moritz-sachsen" subref="moritz-reveries" linktext="false">Les Rêveries ou Mémoires sur l’art de la guerre</link> publik gemacht auf der Basis der mit Montesquieu geteilten Vermutung, dass die christliche Moral ein Hindernis für das Bevölkerungswachstum sei.
 </marginal>
 
 <marginal letter="244" page="199" line="20" sort="2">
-<bzg>Vertheidigung gegen Reimarus</bzg> Im 130. und 131. der <link ref="briefe-literatur" linktext="true" /> (Tl.8, 1761) wurden Reimarus’ <titel>Betrachtungen über die Triebe der Thiere</titel> besprochen; im 88. Stück (Juni 1761) des <link ref="hamb-correspondenten" linktext="false">Hamburgischen Correspondenten</link>, direkt im Anschluss an den Verriss von Hamanns <titel>Wolken</titel>, wurde behauptet, die Rezension in Berlin gehe an der Absicht des Autors vorbei; in „Vertheidigung wider die lieblose Gesinnungen die Hr. Reimarus dem Recensenten seiner Betrachtungen über die Tiere schuldgegeben hat“, reagiert wiederum <link ref="abbt" linktext="true" /> im 242. der <link ref="briefe-literatur" linktext="true" /> darauf.  
+<bzg>Vertheidigung gegen Reimarus</bzg> Im 130. und 131. der <link ref="briefe-literatur" linktext="true" /> (Tl.8, 1761) wurden <link ref="reimarus" linktext="false">Reimarus’</link> <titel>Betrachtungen über die Triebe der Thiere</titel> besprochen; im 88. Stück (Juni 1761) des <link ref="hamb-correspondenten" linktext="false">Hamburgischen Correspondenten</link>, direkt im Anschluss an den Verriss von Hamanns <titel>Wolken</titel>, wurde behauptet, die Rezension in Berlin gehe an der Absicht des Autors vorbei; in „Vertheidigung wider die lieblose Gesinnungen die Hr. Reimarus dem Recensenten seiner Betrachtungen über die Tiere schuldgegeben hat“, reagiert wiederum <link ref="abbt" linktext="true" /> im 242. der <link ref="briefe-literatur" linktext="true" /> (Tl.15, 1763) darauf.  
 </marginal>
 
 <marginal letter="244" page="199" line="21">
@@ -28451,27 +28539,27 @@ Brief Nr. 244
 </marginal>
 
 <marginal letter="244" page="199" line="22">
-<bzg>allgemeine Vertheidigung</bzg> <titel>Vertheidigung der Briefe die neueste Litteratur betreffend wider verschiedene ungegründete Anschuldigungen</titel>, von <link ref="nicolai-f" linktext="true" />, 243. der <link ref="briefe-literatur" linktext="true" />
+<bzg>allgemeine Vertheidigung</bzg> <titel>Vertheidigung der Briefe die neueste Litteratur betreffend wider verschiedene ungegründete Anschuldigungen</titel>, von <link ref="nicolai" linktext="true" />, 243. der <link ref="briefe-literatur" linktext="true" /> (Tl.15, 1763).
 </marginal>
 
 <marginal letter="244" page="199" line="23">
-<bzg>Betrachtungen über das Genie</bzg> <titel>Einige allgemeine Anmerkungen über das Genie der Deutschen und den Zustand der deutschen Litteratur</titel>, von <link ref="abbt" linktext="true" />, 244. der <link ref="briefe-literatur" linktext="true" />
+<bzg>Betrachtungen über das Genie</bzg> <titel>Einige allgemeine Anmerkungen über das Genie der Deutschen und den Zustand der deutschen Litteratur</titel>, von <link ref="abbt" linktext="true" />, 244. der <link ref="briefe-literatur" linktext="true" /> (Tl.15, 1763)
 </marginal>
 
 <marginal letter="244" page="199" line="25" sort="1">
-<bzg>Süßmilchs göttl.[iche] Ordnung</bzg> 245–250. der <link ref="briefe-literatur" linktext="true" />, über <link ref="sussmilch" subref="goettlicheordnung" linktext="true" />
+<bzg>Süßmilchs göttl.[iche] Ordnung</bzg> 245.–250. der <link ref="briefe-literatur" linktext="true" /> (Tl.15, 1763), über <link ref="sussmilch" subref="goettlicheordnung" linktext="true" />
 </marginal>
 
 <marginal letter="244" page="199" line="25" sort="2">
-<bzg>Anpreisung</bzg> <link ref="valentin" subref="valentin-patriotische" linktext="true" />, durch <link ref="abbt" linktext="true" />, 252. <titel>Literaturbrief</titel>
+<bzg>Anpreisung</bzg> <link ref="valentin" subref="valentin-patriotische" linktext="true" />, durch <link ref="abbt" linktext="true" />, 252. der <link ref="briefe-literatur" linktext="true" /> (Tl.15, 1763)
 </marginal>
 
 <marginal letter="244" page="199" line="26">
-<bzg>Beurtheilung des Sonderlings</bzg> <titel>Beurtheilung der Schrift: Der Sonderling</titel>, durch <link ref="abbt" linktext="true" />, 253. der <link ref="briefe-literatur" linktext="true" />, über <link ref="lynar" subref="lynar-sonderling" linktext="true" />
+<bzg>Beurtheilung des Sonderlings</bzg> <titel>Beurtheilung der Schrift: Der Sonderling</titel>, durch <link ref="abbt" linktext="true" />, 253. der <link ref="briefe-literatur" linktext="true" /> (Tl.15, 1763), über <link ref="lynar" subref="lynar-sonderling" linktext="true" />
 </marginal>
 
 <marginal letter="244" page="199" line="27">
-<bzg>Kreuzzüge</bzg> <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" />, rezensiert im 254. der <link ref="briefe-literatur" linktext="true" />
+<bzg>Kreuzzüge</bzg> <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" />, rezensiert im 254. der <link ref="briefe-literatur" linktext="true" /> (Tl.15, 1763)
 </marginal>
 
 <marginal letter="244" page="199" line="29">
@@ -28543,7 +28631,7 @@ Brief Nr. 246
 </marginal>
 
 <marginal letter="246" page="202" line="5">
-<bzg>Kanterschen Laden</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanterschen Laden</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="246" page="202" line="6">
@@ -28559,7 +28647,7 @@ Brief Nr. 246
 </marginal>
 
 <marginal letter="246" page="202" line="11">
-<bzg>Verleger der Litt. Br.</bzg> <link ref="nicolai-f" linktext="true" />, als Verleger der <link ref="briefe-literatur" linktext="true" />
+<bzg>Verleger der Litt. Br.</bzg> <link ref="nicolai" linktext="true" />, als Verleger der <link ref="briefe-literatur" linktext="true" />
 </marginal>
 
 <marginal letter="246" page="202" line="12">
@@ -28567,7 +28655,7 @@ Brief Nr. 246
 </marginal>
 
 <marginal letter="246" page="202" line="13">
-<bzg>Verlegers</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verlegers</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="246" page="202" line="14">
@@ -28575,7 +28663,7 @@ Brief Nr. 246
 </marginal>
 
 <marginal letter="246" page="202" line="16">
-<bzg>Dach zur Kanzel</bzg><link ref="nt-mt" subref="nt-mt10" linktext="false">Mt 10,27</link>,<link ref="nt-lk" subref="nt-lk12" linktext="false">Lk 12,3</link>
+<bzg>Dach zur Kanzel</bzg><link ref="nt-mt" subref="nt-mt10" linktext="false">Mt 10,27</link>, <link ref="nt-lk" subref="nt-lk12" linktext="false">Lk 12,3</link>
 </marginal>
 
 <marginal letter="246" page="202" line="17">
@@ -28583,7 +28671,7 @@ Brief Nr. 246
 </marginal>
 
 <marginal letter="246" page="202" line="18">
-<bzg>einige Stellen</bzg> vgl. <intlink letter="243" page="194" line="20" linktext="true" /> an <link ref="nicolai-f" linktext="true" />
+<bzg>einige Stellen</bzg> vgl. <intlink letter="243" page="194" line="20" linktext="true" /> an <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="246" page="202" line="19">
@@ -28667,7 +28755,7 @@ Brief Nr. 246
 </marginal>
 
 <marginal letter="246" page="204" line="10">
-<bzg>guten Freund</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>guten Freund</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="246" page="204" line="14">
@@ -28737,7 +28825,7 @@ Brief Nr. 247
 </marginal>
 
 <marginal letter="247" page="205" line="14">
-<bzg>Kanters</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanters</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="247" page="205" line="16">
@@ -28789,11 +28877,11 @@ Brief Nr. 247
 </marginal>
 
 <marginal letter="247" page="206" line="9">
-<bzg>K.</bzg> <link ref="kanter-jj" linktext="true" />, seine Briefe sind nicht überliefert.
+<bzg>K.</bzg> <link ref="kanter" linktext="true" />, seine Briefe sind nicht überliefert.
 </marginal>
 
 <marginal letter="247" page="206" line="10">
-<bzg>Nicolais</bzg> <link ref="nicolai-f" linktext="true" /> 
+<bzg>Nicolais</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="247" page="206" line="13" sort="1">
@@ -28841,7 +28929,7 @@ Brief Nr. 247
 </marginal>
 
 <marginal letter="247" page="206" line="32">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="247" page="206" line="35">
@@ -28853,7 +28941,7 @@ Brief Nr. 247
 </marginal>
 
 <marginal letter="247" page="207" line="2" sort="1">
-<bzg>Verleger der Litteratur Briefe</bzg> <link ref="nicolai-f" linktext="true" /> als Verleger der <link ref="briefe-literatur" linktext="true" />
+<bzg>Verleger der Litteratur Briefe</bzg> <link ref="nicolai" linktext="true" /> als Verleger der <link ref="briefe-literatur" linktext="true" />
 </marginal>
 
 <marginal letter="247" page="207" line="2" sort="2">
@@ -29021,7 +29109,7 @@ Brief Nr. 247
 </marginal>
 
 <marginal letter="247" page="208" line="34" sort="1">
-<bzg>Kanterschen</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanterschen</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="247" page="208" line="34" sort="2">
@@ -29083,7 +29171,7 @@ Brief Nr. 248
 </marginal>
 
 <marginal letter="248" page="209" line="19" sort="3">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="248" page="209" line="21">
@@ -29107,7 +29195,7 @@ Brief Nr. 248
 </marginal>
 
 <marginal letter="248" page="209" line="27" sort="2">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="248" page="209" line="28">
@@ -29289,7 +29377,7 @@ Brief Nr. 249
 </marginal>
 
 <marginal letter="249" page="212" line="24">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="249" page="212" line="26">
@@ -29301,7 +29389,7 @@ Brief Nr. 249
 </marginal>
 
 <marginal letter="249" page="212" line="29">
-<bzg>Nicolai</bzg> <link ref="nicolai-f" linktext="true" />
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="249" page="212" line="31">
@@ -29389,19 +29477,19 @@ Brief Nr. 249
 </marginal>
 
 <marginal letter="249" page="213" line="31">
-<bzg>Michaelis Erklärung</bzg> <link ref="michaelis-jd" subref="michaelis-jd-hebraer" linktext="true" /> 
+<bzg>Michaelis Erklärung</bzg> <link ref="michaelis" subref="michaelis-hebraer" linktext="true" /> 
 </marginal>
 
 <marginal letter="249" page="213" line="32">
-<bzg>Commentationes</bzg> <link ref="michaelis-jd" subref="michaelis-commentationes" linktext="true" /> 
+<bzg>Commentationes</bzg> <link ref="michaelis" subref="michaelis-commentationes" linktext="true" /> 
 </marginal>
 
 <marginal letter="249" page="213" line="33" sort="1">
-<bzg>deutschen Abhandlungen</bzg> vgl. <link ref="michaelis-jd" linktext="true" />
+<bzg>deutschen Abhandlungen</bzg> vgl. <link ref="michaelis" linktext="true" />
 </marginal>
 
 <marginal letter="249" page="213" line="33" sort="2">
-<bzg>Preißschrift</bzg> <link ref="michaelis-jd" subref="michaelis-jd-meinungen" linktext="true" /> 
+<bzg>Preißschrift</bzg> <link ref="michaelis" subref="michaelis-meinungen" linktext="true" /> 
 </marginal>
 
 <marginal letter="249" page="213" line="34">
@@ -29461,7 +29549,7 @@ Brief Nr. 249
 </marginal>
 
 <marginal letter="249" page="214" line="19" sort="1">
-<bzg>Kanterschen</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanterschen</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="249" page="214" line="19" sort="2">
@@ -29493,11 +29581,11 @@ Brief Nr. 249
 </marginal>
 
 <marginal letter="249" page="214" line="26">
-<bzg>Recueil</bzg> Voltaires Sammlung vermischter Schriften <link ref="voltaire" subref="voltaire-sixieme-recuel" linktext="true" /> ist auch im <link ref="messkatalog" subref="messkatalog-ostern1763" linktext="true" />, S.&#x202F;370 angekündigt; <link ref="nicolai-f" linktext="true" /> ist hier wohl nur als Verkäufer gemeint, nicht als Verleger.
+<bzg>Recueil</bzg> Voltaires Sammlung vermischter Schriften <link ref="voltaire" subref="voltaire-sixieme-recuel" linktext="true" /> ist auch im <link ref="messkatalog" subref="messkatalog-ostern1763" linktext="true" />, S.&#x202F;370 angekündigt; <link ref="nicolai" linktext="true" /> ist hier wohl nur als Verkäufer gemeint, nicht als Verleger.
 </marginal>
 
 <marginal letter="249" page="214" line="27">
-<bzg>Nicolai</bzg> <link ref="nicolai-f" linktext="true" />
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="249" page="214" line="28" sort="1">
@@ -29603,7 +29691,7 @@ Brief Nr. 250
 </marginal>
 
 <marginal letter="250" page="216" line="27">
-<bzg>Nicolai</bzg> <link ref="nicolai-f" linktext="true" />
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="250" page="216" line="29" sort="1">
@@ -29611,7 +29699,7 @@ Brief Nr. 250
 </marginal>
 
 <marginal letter="250" page="216" line="29" sort="2">
-<bzg>Michaelis</bzg> <link ref="michaelis-jd" linktext="true" />
+<bzg>Michaelis</bzg> <link ref="michaelis" linktext="true" />
 </marginal>
 
 <marginal letter="250" page="216" line="30">
@@ -29619,7 +29707,7 @@ Brief Nr. 250
 </marginal>
 
 <marginal letter="250" page="216" line="31">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="250" page="216" line="32">
@@ -29793,7 +29881,7 @@ Brief Nr. 250
 Brief Nr. 251
 
 <marginal letter="251" page="218" line="35">
-<bzg>Fortsetzung ihres Katalogs</bzg> Hier ist wohl eine interne Fortsetzung des Katalogs der Ostermesse vonseiten der <link ref="kanter-jj" linktext="false">Kanterschen Buchhandlung</link> gemeint; später im <link ref="messkatalog" subref="messkatalog-michaelis1763" linktext="true" />, S.&#x202F;402 ist der Titel dann auch offiziell verzeichnet.
+<bzg>Fortsetzung ihres Katalogs</bzg> Hier ist wohl eine interne Fortsetzung des Katalogs der Ostermesse vonseiten der <link ref="kanter" linktext="false">Kanterschen Buchhandlung</link> gemeint; später im <link ref="messkatalog" subref="messkatalog-michaelis1763" linktext="true" />, S.&#x202F;402 ist der Titel dann auch offiziell verzeichnet.
 </marginal>
 
 <marginal letter="251" page="219" line="3">
@@ -29855,7 +29943,7 @@ Brief Nr. 252
 </marginal>
 
 <marginal letter="252" page="220" line="23">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="252" page="220" line="24">
@@ -29915,7 +30003,7 @@ Brief Nr. 252
 </marginal>
 
 <marginal letter="252" page="221" line="13">
-<bzg>Kanterschen</bzg> <bzg>Fortsetzung ihres Katalogs</bzg> Hier ist wohl eine interne Fortsetzung des Katalogs der Ostermesse vonseiten der <link ref="kanter-jj" linktext="false">Kanterschen Buchhandlung</link> gemeint; später im <link ref="messkatalog" subref="messkatalog-michaelis1763" linktext="true" />, S.&#x202F;402 ist der Titel dann auch offiziell verzeichnet.
+<bzg>Kanterschen</bzg> <bzg>Fortsetzung ihres Katalogs</bzg> Hier ist wohl eine interne Fortsetzung des Katalogs der Ostermesse vonseiten der <link ref="kanter" linktext="false">Kanterschen Buchhandlung</link> gemeint; später im <link ref="messkatalog" subref="messkatalog-michaelis1763" linktext="true" />, S.&#x202F;402 ist der Titel dann auch offiziell verzeichnet.
 </marginal>
 
 <marginal letter="252" page="221" line="16">
@@ -29979,11 +30067,11 @@ Brief Nr. 252
 </marginal>
 
 <marginal letter="252" page="222" line="29">
-<bzg>Journal etranger</bzg> <titel>Journal Étranger, ouvrage periodique</titel>. 45&#x202F;Bde., Paris 1754–1762 
+<bzg>Journal etranger</bzg> <link ref="journal-etranger" linktext="true" />
 </marginal>
 
 <marginal letter="252" page="222" line="31">
-<bzg>Arnauld</bzg> François Arnaud (1721–1784), frz. Publizist, ab 1760 Herausgeber des Journal Étranger
+<bzg>Arnauld</bzg> <link ref="arnaud-f" linktext="true" />
 </marginal>
 
 <marginal letter="252" page="222" line="33">
@@ -30003,7 +30091,7 @@ Brief Nr. 252
 </marginal>
 
 <marginal letter="252" page="223" line="1" sort="3">
-<bzg>Kanters</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanters</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="252" page="223" line="2">
@@ -30178,7 +30266,7 @@ Brief Nr. 254
 </marginal>
 
 <marginal letter="254" page="226" line="31">
-<bzg>Nicolai</bzg> <link ref="nicolai-f" linktext="true" /> 
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="254" page="226" line="32" sort="1">
@@ -30296,7 +30384,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal letter="254a" page="XX" line="7">
-<bzg>Kanzelley</bzg> <link ref="magistrat" linktext="true" />
+<bzg>Magistrats</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
 
 <marginal letter="254a" page="XX" line="9">
@@ -30400,7 +30488,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal letter="254a" page="XXI" line="31" sort="2">
-<bzg>Maintenon</bzg> wohl Françoise d’ Aubigné, Marquise de Maintenon (1635–1719), Maitresse Ludwigs XIV. von Frankreich und seit 1684 dessen zweite Frau
+<bzg>Maintenon</bzg> wohl <link ref="maintenon" linktext="true" />
 </marginal>
 
 <marginal letter="254a" page="XXI" line="32">
@@ -30476,7 +30564,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal letter="254a" page="XXIV" line="2">
-<bzg>Coccejer</bzg> Carl Joseph Maximilian von Fürst und Kupferberg (1717–1790), hier benannt nach dem Großkanzler Samuel von Cocceji (1679–1755), mit dem er in Preußen eine Justizreform durchführte. 
+<bzg>Coccejer</bzg> <link ref="coccejus-j" linktext="true" />, der die heilsgeschichtliche Föderaltheologie systematisierte. 
 </marginal>
 
 <marginal letter="254a" page="XXIV" line="14">
@@ -30504,7 +30592,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal letter="254a" page="XXV" line="24" sort="1">
-<bzg>Nicolaiten</bzg> Berliner Kreis um <link ref="nicolai-f" linktext="true" /> 
+<bzg>Nicolaiten</bzg> Berliner Kreis um <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="254a" page="XXV" line="24" sort="2">
@@ -30598,7 +30686,7 @@ Brief Nr. 255
 </marginal>
 
 <marginal letter="255" page="231" line="13">
-<bzg>Brief nach Berl.</bzg> vll. an <link ref="nicolai-f" linktext="true" />
+<bzg>Brief nach Berl.</bzg> vll. an <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="255" page="231" line="14">
@@ -30624,7 +30712,7 @@ Brief Nr. 255a (letter 1188)
 </marginal>
 
 <marginal letter="255a" page="XXVII" line="2">
-<bzg>Berlinschen Kunstrichtern</bzg> der Kreis um <link ref="nicolai-f" linktext="true" />
+<bzg>Berlinschen Kunstrichtern</bzg> der Kreis um <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="255a" page="XXVII" line="5">
@@ -30792,7 +30880,7 @@ Brief Nr. 255a (letter 1188)
 </marginal>
 
 <marginal letter="255a" page="XXX" line="14" sort="2">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" /> 
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" /> 
 </marginal>
 
 <marginal letter="255a" page="XXX" line="25">
@@ -30816,7 +30904,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="232" line="26" sort="2">
-<bzg>sine die et Consule</bzg> dt. ohne Briefdatum
+<bzg>sine die et Consule</bzg> ohne Tag und Jahreszahl (die Römer benannten die Jahre nach den regierenden Konsuln)
 </marginal>
 
 <marginal letter="257" page="232" line="27">
@@ -30868,7 +30956,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="233" line="25">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="257" page="233" line="27">
@@ -30936,7 +31024,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="234" line="16" sort="2">
-<bzg>Philippi Briefe</bzg> <link ref="philippi" subref="philippi-briefe" linktext="true" />; eine Rezension erschien in <link ref="kgpz" linktext="true" />, 2.&#x202F;St. vom 6.2.1764
+<bzg>Philippi Briefe</bzg> <link ref="philippi-ja" subref="philippi-briefe" linktext="true" />; eine Rezension erschien in <link ref="kgpz" linktext="true" />, 2.&#x202F;St. vom 6.2.1764
 </marginal>
 
 <marginal letter="257" page="234" line="18" sort="1">
@@ -31020,11 +31108,11 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="235" line="23" sort="1">
-<bzg>Verlegers</bzg> <link ref="kanter-jj" linktext="true" /> 
+<bzg>Verlegers</bzg> <link ref="kanter" linktext="true" /> 
 </marginal>
 
 <marginal letter="257" page="235" line="23" sort="2">
-<bzg>Artikel von Philippi</bzg> Rezension von <link ref="philippi" subref="philippi-briefe" linktext="true" /> in <link ref="kgpz" linktext="true" />, 2.&#x202F;St. vom 6.2.1764
+<bzg>Artikel von Philippi</bzg> Rezension von <link ref="philippi-ja" subref="philippi-briefe" linktext="true" /> in <link ref="kgpz" linktext="true" />, 2.&#x202F;St. vom 6.2.1764
 </marginal>
 
 <marginal letter="257" page="235" line="24">
@@ -31040,7 +31128,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="235" line="27">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" /> 
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" /> 
 </marginal>
 
 <marginal letter="257" page="235" line="28">
@@ -31134,7 +31222,7 @@ Brief Nr. 258
 </marginal>
 
 <marginal letter="258" page="237" line="31" sort="2">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="258" page="237" line="32">
@@ -31178,7 +31266,7 @@ Brief Nr. 258
 </marginal>
 
 <marginal letter="258" page="238" line="11" sort="2">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="258" page="238" line="11" sort="3">
@@ -31190,7 +31278,7 @@ Brief Nr. 258
 </marginal>
 
 <marginal letter="258" page="238" line="16">
-<bzg>alten Plan</bzg> nicht ermittelt
+<bzg>alten Plan</bzg> nach Frankfurt zu <link ref="moser" linktext="true" /> zu gehen
 </marginal>
 
 <marginal letter="258" page="238" line="20" sort="1">
@@ -31206,7 +31294,7 @@ Brief Nr. 258
 </marginal>
 
 <marginal letter="258" page="238" line="23">
-<bzg>für ihn verschloßen</bzg> für <link ref="kanter-jj" linktext="true" />
+<bzg>für ihn verschloßen</bzg> für <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="258" page="238" line="24">
@@ -31226,7 +31314,7 @@ Brief Nr. 258
 </marginal>
 
 <marginal letter="258" page="238" line="37">
-<bzg>Nachbar</bzg> <link ref="kanter-jj" linktext="true" /> 
+<bzg>Nachbar</bzg> <link ref="kanter" linktext="true" /> 
 </marginal>
 
 <marginal letter="258" page="239" line="4" sort="1">
@@ -31327,7 +31415,7 @@ Die Rezension erschien in: <link ref="kgpz" linktext="true" />, 8.&#x202F;St. vo
 </marginal>
 
 <marginal letter="258" page="239" line="34">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="258" page="239" line="35">
@@ -31607,7 +31695,7 @@ Brief Nr. 260
 </marginal>
 
 <marginal letter="260" page="244" line="25" sort="1">
-<bzg>Kanterschen Sache</bzg> <link ref="kanter-jj" linktext="true" />; wohl die Lizenz für <link ref="kgpz" linktext="true" />
+<bzg>Kanterschen Sache</bzg> <link ref="kanter" linktext="true" />; wohl die Lizenz für <link ref="kgpz" linktext="true" />
 </marginal>
 
 <marginal letter="260" page="244" line="25" sort="2">
@@ -31667,7 +31755,7 @@ Brief Nr. 260
 </marginal>
 
 <marginal letter="260" page="245" line="31">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="260" page="245" line="32">
@@ -31703,7 +31791,7 @@ Brief Nr. 260
 </marginal>
 
 <marginal letter="260" page="246" line="16">
-<bzg>Kanters Schwester</bzg> Die Schwester von <link ref="kanter-jj" linktext="true" />, Maria Margarethe (1744–1764)
+<bzg>Kanters Schwester</bzg> Die Schwester von <link ref="kanter" linktext="true" />, Maria Margarethe (1744–1764)
 </marginal>
 
 <marginal letter="260" page="246" line="22">
@@ -31717,7 +31805,7 @@ Brief Nr. 261
 </marginal>
 
 <marginal letter="261" page="246" line="26" sort="2">
-<bzg>Verleger der Kgsb. polit. und gel. Zeitungen</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger der Kgsb. polit. und gel. Zeitungen</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="261" page="246" line="29">
@@ -31751,7 +31839,7 @@ Brief Nr. 261
 Brief Nr. 262
 
 <marginal letter="262" page="247" line="16">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="262" page="247" line="23">
@@ -31849,7 +31937,7 @@ Brief Nr. 262
 Brief Nr. 263
 
 <marginal letter="263" page="250" line="23">
-<bzg>Verleger</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Verleger</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="263" page="250" line="24">
@@ -31949,7 +32037,7 @@ Brief Nr. 263
 </marginal>
 
 <marginal letter="263" page="251" line="27" sort="3">
-<bzg>Michaelis zweyter Theil der Hebr.</bzg> <link ref="michaelis-jd" subref="michaelis-jd-hebraer" linktext="true" />. Hamanns Rezension erschien im 22.&#x202F;und 25.&#x202F;St. vom 16. und 27. 4. 1764 der <link ref="kgpz" linktext="true" /> (N&#x202F;IV,284–289).
+<bzg>Michaelis zweyter Theil der Hebr.</bzg> <link ref="michaelis" subref="michaelis-hebraer" linktext="true" />. Hamanns Rezension erschien im 22.&#x202F;und 25.&#x202F;St. vom 16. und 27. 4. 1764 der <link ref="kgpz" linktext="true" /> (N&#x202F;IV,284–289).
 </marginal>
 
 <marginal letter="263" page="251" line="32">
@@ -32019,7 +32107,7 @@ Brief Nr. 264
 </marginal>
 
 <marginal letter="264" page="252" line="33">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="264" page="252" line="34">
@@ -32071,7 +32159,7 @@ Brief Nr. 264
 </marginal>
 
 <marginal letter="264" page="253" line="16">
-<bzg>Göttingschen Homiletik</bzg> <link ref="michaelis-jd" subref="michaelis-jd-hebraer" linktext="true" /> 
+<bzg>Göttingschen Homiletik</bzg> <link ref="michaelis" subref="michaelis-hebraer" linktext="true" /> 
 </marginal>
 
 <marginal letter="264" page="253" line="17">
@@ -32133,7 +32221,7 @@ Brief Nr. 265
 </marginal>
 
 <marginal letter="265" page="254" line="21">
-<bzg>Welt Feindschaft</bzg> vgl. <link ref="nt-jak" subref="nt-jak4" linktext="false">Jak 4,4</link> 
+<bzg>Welt Feindschaft</bzg> vgl. <link ref="nt-jak" subref="nt-jak4" linktext="false">Jak 4,4</link>
 </marginal>
 
 <marginal letter="265" page="254" line="25">
@@ -32141,7 +32229,7 @@ Brief Nr. 265
 </marginal>
 
 <marginal letter="265" page="254" line="26" sort="1">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="265" page="254" line="26" sort="2">
@@ -32578,7 +32666,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal letter="271" page="263" line="1">
-<bzg>HE. Kanter</bzg> <link ref="kanter-jj" linktext="true" /> 
+<bzg>HE. Kanter</bzg> <link ref="kanter" linktext="true" /> 
 </marginal>
 
 <marginal letter="271" page="263" line="2">
@@ -32610,7 +32698,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal letter="271" page="263" line="31">
-<bzg>R. Pere – – Chauve-souris</bzg> Révérend Pere – – Chauve souris; dt. ehrwürdiger Vater – – Fledermaus. Vgl. <link ref="hamann" subref="hamann-lettre" linktext="true" />, §7, wo die Fledermaus für die von Christian August Crusius angestoßene Mode-Theologie steht. 
+<bzg>R. Pere – – Chauve-souris</bzg> Révérend Pere – – Chauve souris; dt. ehrwürdiger Vater – – Fledermaus. Vgl. <link ref="hamann" subref="hamann-lettre" linktext="true" />, §7, wo die Fledermaus für die von Christian August Crusius angestoßene Modetheologie steht. 
 </marginal>
 
 <marginal letter="271" page="263" line="32">
@@ -32686,7 +32774,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal letter="271" page="264" line="32">
-<bzg>Simon</bzg> Schuhmacher in Athen, dessen Werkstatt Sokrates oft besucht haben soll. Vgl. <link ref="hamann" subref="sokratischedenk" linktext="true" />, ED S.27.
+<bzg>Simon</bzg> Schuhmacher in Athen, dessen Werkstatt Sokrates oft besucht haben soll. Vgl. <link ref="hamann" subref="sokratischedenk" linktext="true" />, ED S.&#x202F;27.
 </marginal>
 
 <marginal letter="271" page="264" line="35">
@@ -32710,7 +32798,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal letter="271" page="265" line="7">
-<bzg>Steidel</bzg> <link ref="steidel" linktext="true" />, Ladendiener von <link ref="kanter-jj" linktext="true" />; übernahm 1769 mit die Mitauer Buchhandlung von <link ref="hartknoch" linktext="true" /> 
+<bzg>Steidel</bzg> <link ref="steidel" linktext="true" />, Ladendiener von <link ref="kanter" linktext="true" />; übernahm 1769 mit die Mitauer Buchhandlung von <link ref="hartknoch" linktext="true" /> 
 </marginal>
 
 <marginal letter="271" page="265" line="10">
@@ -32766,7 +32854,7 @@ Brief Nr. 271
 </marginal>
 
 <marginal letter="271" page="265" line="33">
-<bzg>Michaelis</bzg> <link ref="michaelis-jd" linktext="true" />
+<bzg>Michaelis</bzg> <link ref="michaelis" linktext="true" />
 </marginal>
 
 <marginal letter="271" page="265" line="35">
@@ -32992,7 +33080,7 @@ Brief Nr. 273
 </marginal>
 
 <marginal letter="273" page="269" line="17">
-<bzg>HE Nicolai</bzg> <link ref="nicolai-f" linktext="true" /> 
+<bzg>HE Nicolai</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="273" page="269" line="19">
@@ -33124,7 +33212,7 @@ Brief Nr. 275
 </marginal>
 
 <marginal letter="275" page="271" line="35" sort="1">
-<bzg>Nicolai</bzg> <link ref="nicolai-f" linktext="true" />
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="275" page="271" line="35" sort="2">
@@ -33254,7 +33342,7 @@ Brief Nr. 276
 </marginal>
 
 <marginal letter="276" page="274" line="16">
-<bzg>Schwiegervater des Buchdrucker Kanters, Godau</bzg> Schwiegervater von <link ref="kanter-jj" linktext="true" />, vll. Christian Godau, Manufakturenhändler
+<bzg>Schwiegervater des Buchdrucker Kanters, Godau</bzg> Schwiegervater von <link ref="kanter" linktext="true" />, vll. Christian Godau, Manufakturenhändler
 </marginal>
 
 <marginal letter="276" page="274" line="17">
@@ -33324,7 +33412,7 @@ Brief Nr. 277
 </marginal>
 
 <marginal letter="277" page="275" line="20">
-<bzg>HE. Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE. Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="277" page="275" line="21">
@@ -33712,7 +33800,7 @@ Brief Nr. 281
 </marginal>
 
 <marginal letter="281" page="285" line="18" sort="2">
-<bzg>HE. Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE. Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="281" page="285" line="21">
@@ -34213,7 +34301,7 @@ Brief Nr. 285
 </marginal>
 
 <marginal letter="285" page="295" line="27">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="285" page="295" line="30">
@@ -34275,7 +34363,7 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="296" line="25">
-<bzg>HE Steidel</bzg> <link ref="steidel" linktext="true" />, Ladendiener von <link ref="kanter-jj" linktext="true" />; übernahm 1769 mit die Mitauer Buchhandlung von <link ref="hartknoch" linktext="true" /> 
+<bzg>HE Steidel</bzg> <link ref="steidel" linktext="true" />, Ladendiener von <link ref="kanter" linktext="true" />; übernahm 1769 mit die Mitauer Buchhandlung von <link ref="hartknoch" linktext="true" /> 
 </marginal>
 
 <marginal letter="286" page="296" line="27" sort="1">
@@ -34355,7 +34443,7 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="298" line="16" sort="1">
-<bzg>sero</bzg> sero sapiunt Phryges, dt. die Phryger kommen spät zu Verstand (nach Livius Andronicus, Equos Troianus)
+<bzg>sero</bzg> sero sapiunt Phryges, dt. die Phryger kommen spät zu Verstand (nach Livius Andronicus, <titel>Equos Troianus</titel>, überliefert bei <link ref="cicero" subref="cic-fam" linktext="true" />, 7,16,1)
 </marginal>
 
 <marginal letter="286" page="298" line="16" sort="2">
@@ -34622,7 +34710,7 @@ Brief Nr. 287
 </marginal>
 
 <marginal letter="287" page="303" line="22">
-<bzg>Kanter</bzg> <link ref="kanter-jj" linktext="true" /> 
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" /> 
 </marginal>
 
 <marginal letter="287" page="303" line="25">
@@ -34768,7 +34856,7 @@ Brief Nr. 288
 </marginal>
 
 <marginal letter="288" page="305" line="33">
-<bzg>HE Kanters</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanters</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="288" page="306" line="1">
@@ -34925,7 +35013,7 @@ Brief Nr. 290
 </marginal>
 
 <marginal letter="290" page="308" line="16" sort="1">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="290" page="308" line="16" sort="2">
@@ -35043,7 +35131,7 @@ Brief Nr. 291
 </marginal>
 
 <marginal letter="291" page="310" line="16">
-<bzg>HE Kanter und seiner Frau</bzg> <link ref="kanter-jj" linktext="true" /> u. Sophia Kanter geb. Meelbeck (1745–1803)
+<bzg>HE Kanter und seiner Frau</bzg> <link ref="kanter" linktext="true" /> u. Sophia Kanter geb. Meelbeck (1745–1803)
 </marginal>
 
 <marginal letter="291" page="310" line="17">
@@ -35195,7 +35283,7 @@ Brief Nr. 293
 </marginal>
 
 <marginal letter="293" page="314" line="17" sort="1">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="293" page="314" line="17" sort="2">
@@ -35269,7 +35357,7 @@ Brief Nr. 294
 </marginal>
 
 <marginal letter="294" page="315" line="21">
-<bzg>redde mihi litteras!</bzg> dt. „gib mir meine Briefe wieder!“ Allusion des Ausrufs von Kaiser Augustus nach der Varus-Schlacht im Teutoburger Wald (9. n. Chr.): „Quinctili Vare, legiones redde!“
+<bzg>redde mihi litteras!</bzg> dt. „gib mir meine Briefe wieder!“ Allusion des Ausrufs von <link ref="augustus" linktext="true" /> nach der Varus-Schlacht im Teutoburger Wald (9. n. Chr.): „Quinctili Vare, legiones redde!“
 </marginal>
 
 <marginal letter="294" page="315" line="27">
@@ -35431,7 +35519,7 @@ Brief Nr. 295
 </marginal>
 
 <marginal letter="295" page="318" line="23">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="295" page="318" line="24">
@@ -35549,7 +35637,7 @@ Brief Nr. 296
 </marginal>
 
 <marginal letter="296" page="320" line="21">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="296" page="320" line="22" sort="1">
@@ -35719,11 +35807,11 @@ Brief Nr. 297
 </marginal>
 
 <marginal letter="297" page="323" line="4">
-<bzg>Nicolai</bzg> <link ref="nicolai-f" linktext="true" />
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="297" page="323" line="5">
-<bzg>Buchführer</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Buchführer</bzg> <link ref="kanter" linktext="true" />
 </marginal> 
 
 <marginal letter="297" page="323" line="6">
@@ -35907,7 +35995,7 @@ Brief Nr. 299
 </marginal>
 
 <marginal letter="299" page="327" line="22">
-<bzg>Michaelis</bzg> <link ref="michaelis-jd" linktext="true" />
+<bzg>Michaelis</bzg> <link ref="michaelis" linktext="true" />
 </marginal>
 
 <marginal letter="299" page="327" line="24">
@@ -35951,7 +36039,7 @@ Brief Nr. 299
 </marginal>
 
 <marginal letter="299" page="328" line="2" sort="1">
-<bzg>Berlin</bzg> wohl von <link ref="nicolai-f" linktext="true" /> 
+<bzg>Berlin</bzg> wohl von <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="299" page="328" line="2" sort="2">
@@ -36135,7 +36223,7 @@ Brief Nr. 301
 </marginal>
 
 <marginal letter="301" page="331" line="26" sort="1">
-<bzg>Michaelis</bzg> <link ref="michaelis-jd" linktext="true" />
+<bzg>Michaelis</bzg> <link ref="michaelis" linktext="true" />
 </marginal>
 
 <marginal letter="301" page="331" line="26" sort="2">
@@ -36175,11 +36263,11 @@ Brief Nr. 301
 </marginal>
 
 <marginal letter="301" page="332" line="5">
-<bzg>Fielding mit lateinischen Buchstaben</bzg> <link ref="fielding-eduard" subref="fielding-baum" linktext="true" />
+<bzg>Fielding mit lateinischen Buchstaben</bzg> <link ref="fielding-eduard" subref="fielding-baum" linktext="true" /> ist in Antiqua gedruckt
 </marginal>
 
 <marginal letter="301" page="332" line="6">
-<bzg>Beverlandsche Hypothese</bzg> <link ref="fielding-eduard" subref="fielding-baum" linktext="true" />, Bearbeitung von Adrian Beverland: <titel>Peccatum Originale kat’ exochên sic nuncupatum, philologice problêmatikôs elucubratum a Themidis Alumno</titel> (Leiden 1678). Beverland hatte darin eine Deutung der Ursünde in Bezug auf den Sexualtrieb vorgelegt; er schlägt vor, die Prostitution zu legalisieren, zumindest für die gebildete Bevölkerungsschicht, da sie fähig sei, den Trieb vernünftig zu kanalisieren. Aufgrund seiner Thesen wurde Beverland aus Leiden verbannt. 
+<bzg>Beverlandsche Hypothese</bzg> über den Zusammenhang von Sündenfall und Sexualität, vor allem in <link ref="beverland" subref="beverland-peccatum" linktext="true" /> vorgebracht
 </marginal>
 
 <marginal letter="301" page="332" line="11">
@@ -36223,11 +36311,11 @@ Brief Nr. 301
 </marginal>
 
 <marginal letter="301" page="332" line="20" sort="1">
-<bzg>Mosers Daniel</bzg> „Kritische Beurteilung [...] seines Daniels in der Löwengrube“, über <link ref="moser" subref="moser-daniel" linktext="true" />. Rezension von <link ref="nicolai-f" linktext="true" /> (Chiffre S.) im 299. Brief der <link ref="briefe-literatur" linktext="true" />, 20. Theil 1764.
+<bzg>Mosers Daniel</bzg> „Kritische Beurteilung [...] seines Daniels in der Löwengrube“, über <link ref="moser" subref="moser-daniel" linktext="true" />. Rezension von <link ref="nicolai" linktext="true" /> (Chiffre S.) im 299. Brief der <link ref="briefe-literatur" linktext="true" />, 20. Theil 1764.
 </marginal>
 
 <marginal letter="301" page="332" line="20" sort="2">
-<bzg>Basedow</bzg> „Von dem beschwerlichen Urtheil über Hr. Basedows Philalethie“, über <link ref="basedow" subref="basedow-philalethie" linktext="true" />. Rezension von <link ref="nicolai-f" linktext="true" /> (Chiffre S.) im 300./301. Brief der <link ref="briefe-literatur" linktext="true" />, 20. Theil 1764.
+<bzg>Basedow</bzg> „Von dem beschwerlichen Urtheil über Hr. Basedows Philalethie“, über <link ref="basedow" subref="basedow-philalethie" linktext="true" />. Rezension von <link ref="nicolai" linktext="true" /> (Chiffre S.) im 300./301. Brief der <link ref="briefe-literatur" linktext="true" />, 20. Theil 1764.
 </marginal>
 
 <marginal letter="301" page="332" line="24">
@@ -36333,7 +36421,7 @@ Brief Nr. 302
 </marginal>
 
 <marginal letter="302" page="335" line="37">
-<bzg>Phrygier</bzg> gemäß dem Sprichwort: sero sapiunt Phryges, dt. die Phryger kommen spät zu Verstand (nach Livius Andronicus, Equos Troianus)
+<bzg>Phrygier</bzg> gemäß dem Sprichwort: sero sapiunt Phryges, dt. die Phryger kommen spät zu Verstand (nach Livius Andronicus, <titel>Equos Troianus</titel>, überliefert bei <link ref="cicero" subref="cic-fam" linktext="true" />, 7,16,1)
 </marginal>
 
 <marginal letter="302" page="336" line="10">
@@ -36424,7 +36512,7 @@ Brief Nr. 303
 </marginal>
 
 <marginal letter="303" page="337" line="16">
-<bzg>Reisegefährte</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Reisegefährte</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="303" page="337" line="18">
@@ -36494,7 +36582,7 @@ Brief Nr. 304
 </marginal>
 
 <marginal letter="304" page="338" line="27">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="304" page="338" line="28">
@@ -36570,7 +36658,7 @@ Brief Nr. 304
 </marginal>
 
 <marginal letter="304" page="340" line="6">
-<bzg>Vale et fave</bzg> dt. leb wohl und sei mir gewogen
+<bzg>Vale et fave</bzg> dt. lebe wohl und sei mir gewogen
 </marginal>
 
 <marginal letter="304" page="340" line="9">
@@ -36620,7 +36708,7 @@ Brief Nr. 305
 </marginal>
 
 <marginal letter="305" page="341" line="8">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="305" page="341" line="11" sort="1">
@@ -36675,7 +36763,7 @@ Brief Nr. 306
 </marginal>
 
 <marginal letter="306" page="342" line="4" sort="1">
-<bzg>Vegesackshof</bzg> Fēgezaka muiža
+<bzg>Vegesackshof</bzg> heute Fēgezaka muiža
 </marginal>
 
 <marginal letter="306" page="342" line="6">
@@ -36683,7 +36771,7 @@ Brief Nr. 306
 </marginal>
 
 <marginal letter="306" page="342" line="24">
-<bzg>Kantern</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kantern</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="306" page="342" line="28">
@@ -36769,7 +36857,7 @@ Brief Nr. 307
 </marginal>
 
 <marginal letter="307" page="344" line="1">
-<bzg>HE Kanter</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>HE Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="307" page="344" line="5">
@@ -36871,7 +36959,7 @@ Brief Nr. 308
 </marginal>
 
 <marginal letter="308" page="347" line="17">
-<bzg>Kantern</bzg> <link ref="kanter-jj" linktext="true" />
+<bzg>Kantern</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="308" page="347" line="18">
@@ -36968,7 +37056,7 @@ Brief Nr. 310
 </marginal>
 
 <marginal letter="310" page="351" line="32">
-<bzg>Berlinschen</bzg> <link ref="nicolai-f" linktext="true" />
+<bzg>Berlinschen</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="310" page="351" line="33">
@@ -37091,6 +37179,112 @@ Brief Nr. 313
 
 <marginal letter="313" page="354" line="23">
 <bzg>Ritters d’Origny Egypte ancienne</bzg> <link ref="origny" subref="origny-egypte" linktext="true" /> 
+</marginal>
+
+Brief Nr. 314
+
+<marginal letter="314" page="354" line="26">
+<bzg>Mitau</bzg> heute Jelgava, Lettland [56° 39′ N, 23° 43′ O] (40&#x202F;km südwestlich von Riga)
+</marginal>
+
+<marginal letter="314" page="354" line="27">
+<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="354" line="28">
+<bzg>kleinen Reise</bzg> Hamann besuchte Herder in Riga im Januar 1766; Herder lud ihn im Mai zu sich ein, vgl. <intlink letter="302" page="335" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="354" line="29" sort="1">
+<bzg>vapeurs</bzg> Blähungen
+</marginal>
+
+<marginal letter="314" page="354" line="29" sort="2">
+<bzg>Der Dritte</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="314" page="354" line="29" sort="3">
+<bzg>Karschin […] Palemon</bzg> An Palemon (gr. Meergott, der auf einem Delfin reitend Schiffe sicher in den Hafen leitet) sind viele Gedichte in <link ref="karsch" subref="karsch-gedichte" linktext="true" /> gerichtet; literarischer Name von <link ref="bachmann" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="4">
+<bzg>gemeinschaftl. Freunde</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="5" sort="1">
+<bzg>Winkelmanns Schriften</bzg> <link ref="winckelmann" linktext="true" />, Schrift nicht ermittelt 
+</marginal>
+
+<marginal letter="314" page="355" line="5" sort="2">
+<bzg>Matinées</bzg> <link ref="friedrich-II" subref="fr-matinees" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="5" sort="3">
+<bzg>kleinen Auszüge…</bzg> wohl zirkulierende Exzerpte Hamanns von <link ref="swedenborg" linktext="true" />, vgl. <intlink letter="321" page="365" line="26" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="8">
+<bzg>Pastor Gericke</bzg> <link ref="gericke-jcs" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="11">
+<bzg>Ein Verzeichnis dieser Schriften</bzg> von <link ref="swedenborg" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="12">
+<bzg>Machenau</bzg> vmtl. Johann Philipp Machenau (1736–1794), Sekretär von <link ref="domhardt" linktext="true" />, arbeitete von 1760–1766 teilweise bei der <link ref="kriegs-und-domaenenkammer" linktext="true" />, von wo ihn Hamann aus seiner Zeit als Kopist (August 1763 bis Februar 1764) gekannt haben kann
+</marginal>
+
+<marginal letter="314" page="355" line="13">
+<bzg>Kanters Samml.</bzg> <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="17">
+<bzg>Arend Berensschen Hause</bzg> <link ref="berens-a" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="18" sort="1">
+<bzg>Georg B.</bzg> <link ref="berens-g" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="18" sort="2">
+<bzg>Bout. Engl. Oel</bzg> Bouteillen (Flaschen); wohl gemeint: Ale bzw. Bier, vgl. <intlink letter="315" page="356" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="23">
+<bzg>Fr. Hartmannin</bzg> Herders Wirtin in Riga
+</marginal>
+
+<marginal letter="314" page="355" line="26">
+<bzg>Buchladen</bzg> wohl die Dependance des <link ref="kanter" linktext="false">Kanterschen Buchladens</link> in Mitau
+</marginal>
+
+<marginal letter="314" page="355" line="28">
+<bzg>Memoires des Eon</bzg> <link ref="beaumont" subref="beaumont-finances" linktext="true" /> oder <link ref="beaumont" subref="beaumont-memoires" linktext="true" />; er führte ein schillerndes Leben als Spion.
+</marginal>
+
+<marginal letter="314" page="355" line="31">
+<bzg>Adv. Tesch</bzg> Andreas Johann Tesch (1723–1789), Jurist, Konsulent und Stadtanwalt in Riga
+</marginal>
+
+<marginal letter="314" page="355" line="33">
+<bzg>mitgenommenen Buchs</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="314" page="355" line="35">
+<bzg>Frau D. Lindner</bzg> <link ref="lindner-ha" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="355" line="36">
+<bzg>Bruders</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="314" page="356" line="2">
+<bzg>HE. Hofr.</bzg> <link ref="tottien-ca" linktext="true" />; zu Tottiens Prozess in Warschau vgl. <intlink letter="311" page="352" line="27" linktext="true" />
+</marginal>
+
+<marginal letter="314" page="356" line="8">
+<bzg>Vives</bzg> <link ref="vives" linktext="true" /> Schrift nicht ermittelt, Herder übersendet sie im März 1766, vgl. <intlink letter="320" page="363" line="23" linktext="true" />
 </marginal>
 
 </marginalien>

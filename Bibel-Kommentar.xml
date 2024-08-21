@@ -12,7 +12,7 @@
 
 <kommentar id="at-mo2" type="bibel" sort="20">
 <lemma>2. Buch Mose</lemma>
-<subsection id="at-mo2-1"><lemma>2 Mo 1</lemma></subsection> <subsection id="at-mo2-2"><lemma>2 Mo 2</lemma></subsection> <subsection id="at-mo2-3"><lemma>2 Mo 3</lemma></subsection> <subsection id="at-mo2-4"><lemma>2 Mo 4</lemma></subsection> <subsection id="at-mo2-7"><lemma>2 Mo 7</lemma></subsection> <subsection id="at-mo2-8"><lemma>2 Mo 8</lemma></subsection> <subsection id="at-mo2-9"><lemma>2 Mo 9</lemma></subsection> <subsection id="at-mo2-10"><lemma>2 Mo 10</lemma></subsection> <subsection id="at-mo2-14"><lemma>2 Mo 14</lemma></subsection> <subsection id="at-mo2-15"><lemma>2 Mo 15</lemma></subsection> <subsection id="at-mo2-20"><lemma>2 Mo 20</lemma></subsection> <subsection id="at-mo2-23"><lemma>2 Mo 23</lemma></subsection> <subsection id="at-mo2-27"><lemma>2 Mo 27</lemma></subsection> <subsection id="at-mo2-32"><lemma>2 Mo 32</lemma></subsection> <subsection id="at-mo2-33"><lemma>2 Mo 33</lemma></subsection> <subsection id="at-mo2-34"><lemma>2 Mo 34</lemma></subsection>
+<subsection id="at-mo2-1"><lemma>2 Mo 1</lemma></subsection> <subsection id="at-mo2-2"><lemma>2 Mo 2</lemma></subsection> <subsection id="at-mo2-3"><lemma>2 Mo 3</lemma></subsection> <subsection id="at-mo2-4"><lemma>2 Mo 4</lemma></subsection> <subsection id="at-mo2-7"><lemma>2 Mo 7</lemma></subsection> <subsection id="at-mo2-8"><lemma>2 Mo 8</lemma></subsection> <subsection id="at-mo2-9"><lemma>2 Mo 9</lemma></subsection> <subsection id="at-mo2-10"><lemma>2 Mo 10</lemma></subsection> <subsection id="at-mo2-14"><lemma>2 Mo 14</lemma></subsection> <subsection id="at-mo2-15"><lemma>2 Mo 15</lemma></subsection> <subsection id="at-mo2-16"><lemma>2 Mo 16</lemma></subsection> <subsection id="at-mo2-20"><lemma>2 Mo 20</lemma></subsection> <subsection id="at-mo2-23"><lemma>2 Mo 23</lemma></subsection> <subsection id="at-mo2-24"><lemma>2 Mo 24</lemma></subsection> <subsection id="at-mo2-27"><lemma>2 Mo 27</lemma></subsection> <subsection id="at-mo2-28"><lemma>2 Mo 28</lemma></subsection> <subsection id="at-mo2-30"><lemma>2 Mo 30</lemma></subsection> <subsection id="at-mo2-32"><lemma>2 Mo 32</lemma></subsection> <subsection id="at-mo2-33"><lemma>2 Mo 33</lemma></subsection> <subsection id="at-mo2-34"><lemma>2 Mo 34</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-mo3" type="bibel" sort="30">
@@ -22,7 +22,7 @@
 
 <kommentar id="at-mo4" type="bibel" sort="40">
 <lemma>4. Buch Mose</lemma>
-<subsection id="at-mo4-12"><lemma>4 Mo 12</lemma></subsection> <subsection id="at-mo4-16"><lemma>4 Mo 16</lemma></subsection> <subsection id="at-mo4-21"><lemma>4 Mo 21</lemma></subsection> <subsection id="at-mo4-22"><lemma>4 Mo 22</lemma></subsection> <subsection id="at-mo4-23"><lemma>4 Mo 23</lemma></subsection>
+<subsection id="at-mo4-12"><lemma>4 Mo 12</lemma></subsection> <subsection id="at-mo4-16"><lemma>4 Mo 16</lemma></subsection> <subsection id="at-mo4-18"><lemma>4 Mo 18</lemma></subsection> <subsection id="at-mo4-21"><lemma>4 Mo 21</lemma></subsection> <subsection id="at-mo4-22"><lemma>4 Mo 22</lemma></subsection> <subsection id="at-mo4-23"><lemma>4 Mo 23</lemma></subsection> <subsection id="at-mo4-32"><lemma>4 Mo 32</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-mo5" type="bibel" sort="50">
@@ -37,17 +37,22 @@
 
 <kommentar id="at-ri" type="bibel" sort="70">
 <lemma>Richter</lemma>
-<subsection id="at-ri5"><lemma>Ri 5</lemma></subsection> <subsection id="at-ri6"><lemma>Ri 6</lemma></subsection>  <subsection id="at-ri9"><lemma>Ri 9</lemma></subsection> <subsection id="at-ri11"><lemma>Ri 11</lemma></subsection> <subsection id="at-ri12"><lemma>Ri 12</lemma></subsection> <subsection id="at-ri13"><lemma>Ri 13</lemma></subsection> <subsection id="at-ri14"><lemma>Ri 14</lemma></subsection> <subsection id="at-ri16"><lemma>Ri 16</lemma></subsection>
+<subsection id="at-ri5"><lemma>Ri 5</lemma></subsection> <subsection id="at-ri6"><lemma>Ri 6</lemma></subsection> <subsection id="at-ri7"><lemma>Ri 7</lemma></subsection>  <subsection id="at-ri9"><lemma>Ri 9</lemma></subsection> <subsection id="at-ri11"><lemma>Ri 11</lemma></subsection> <subsection id="at-ri12"><lemma>Ri 12</lemma></subsection> <subsection id="at-ri13"><lemma>Ri 13</lemma></subsection> <subsection id="at-ri14"><lemma>Ri 14</lemma></subsection> <subsection id="at-ri16"><lemma>Ri 16</lemma></subsection>
+</kommentar>
+
+<kommentar id="at-rut" type="bibel" sort="75">
+<lemma>Rut</lemma>
+<subsection id="at-rut1"><lemma>Rut 1</lemma></subsection> <subsection id="at-rut3"><lemma>Rut 3</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-sam1" type="bibel" sort="80">
 <lemma>1. Samuel</lemma>
-<subsection id="at-sam1-1"><lemma>1 Sam 1</lemma></subsection> <subsection id="at-sam1-3"><lemma>1 Sam 3</lemma></subsection> <subsection id="at-sam1-7"><lemma>1 Sam 7</lemma></subsection> <subsection id="at-sam1-10"><lemma>1 Sam 10</lemma></subsection> <subsection id="at-sam1-17"><lemma>1 Sam 17</lemma></subsection> <subsection id="at-sam1-18"><lemma>1 Sam 18</lemma></subsection> <subsection id="at-sam1-19"><lemma>1 Sam 19</lemma></subsection> <subsection id="at-sam1-20"><lemma>1 Sam 20</lemma></subsection> <subsection id="at-sam1-22"><lemma>1 Sam 22</lemma></subsection> <subsection id="at-sam1-25"><lemma>1 Sam 25</lemma></subsection> <subsection id="at-sam1-26"><lemma>1 Sam 26</lemma></subsection> <subsection id="at-sam1-30"><lemma>1 Sam 30</lemma></subsection>
+<subsection id="at-sam1-1"><lemma>1 Sam 1</lemma></subsection> <subsection id="at-sam1-3"><lemma>1 Sam 3</lemma></subsection> <subsection id="at-sam1-6"><lemma>1 Sam 6</lemma></subsection> <subsection id="at-sam1-7"><lemma>1 Sam 7</lemma></subsection> <subsection id="at-sam1-10"><lemma>1 Sam 10</lemma></subsection> <subsection id="at-sam1-14"><lemma>1 Sam 14</lemma></subsection> <subsection id="at-sam1-17"><lemma>1 Sam 17</lemma></subsection> <subsection id="at-sam1-18"><lemma>1 Sam 18</lemma></subsection> <subsection id="at-sam1-19"><lemma>1 Sam 19</lemma></subsection> <subsection id="at-sam1-20"><lemma>1 Sam 20</lemma></subsection> <subsection id="at-sam1-22"><lemma>1 Sam 22</lemma></subsection> <subsection id="at-sam1-25"><lemma>1 Sam 25</lemma></subsection> <subsection id="at-sam1-26"><lemma>1 Sam 26</lemma></subsection> <subsection id="at-sam1-30"><lemma>1 Sam 30</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-sam2" type="bibel" sort="90">
 <lemma>2. Samuel</lemma>
-<subsection id="at-sam2-1"><lemma>2 Sam 1</lemma></subsection> <subsection id="at-sam2-6"><lemma>2 Sam 6</lemma></subsection> <subsection id="at-sam2-11"><lemma>2 Sam 11</lemma></subsection> <subsection id="at-sam2-12"><lemma>2 Sam 12</lemma></subsection> <subsection id="at-sam2-14"><lemma>2 Sam 14</lemma></subsection> <subsection id="at-sam2-16"><lemma>2 Sam 16</lemma></subsection> <subsection id="at-sam2-19"><lemma>2 Sam 19</lemma></subsection>  <subsection id="at-sam2-21"><lemma>2 Sam 21</lemma></subsection> <subsection id="at-sam2-23"><lemma>2 Sam 23</lemma></subsection>
+<subsection id="at-sam2-1"><lemma>2 Sam 1</lemma></subsection> <subsection id="at-sam2-6"><lemma>2 Sam 6</lemma></subsection> <subsection id="at-sam2-11"><lemma>2 Sam 11</lemma></subsection> <subsection id="at-sam2-12"><lemma>2 Sam 12</lemma></subsection> <subsection id="at-sam2-14"><lemma>2 Sam 14</lemma></subsection> <subsection id="at-sam2-15"><lemma>2 Sam 15</lemma></subsection> <subsection id="at-sam2-16"><lemma>2 Sam 16</lemma></subsection> <subsection id="at-sam2-19"><lemma>2 Sam 19</lemma></subsection>  <subsection id="at-sam2-21"><lemma>2 Sam 21</lemma></subsection> <subsection id="at-sam2-23"><lemma>2 Sam 23</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-koe1" type="bibel" sort="100">
@@ -57,12 +62,12 @@
 
 <kommentar id="at-koe2" type="bibel" sort="110">
 <lemma>2. Könige</lemma>
-<subsection id="at-koe2-2"><lemma>2 Kön 2</lemma></subsection> <subsection id="at-koe2-4"><lemma>2 Kön 4</lemma></subsection> <subsection id="at-koe2-5"><lemma>2 Kön 5</lemma></subsection> <subsection id="at-koe2-9"><lemma>2 Kön 9</lemma></subsection> <subsection id="at-koe2-10"><lemma>2 Kön 10</lemma> </subsection> <subsection id="at-koe2-19"><lemma>2 Kön 19</lemma></subsection> <subsection id="at-koe2-20"><lemma>2 Kön 20</lemma></subsection>
+<subsection id="at-koe2-2"><lemma>2 Kön 2</lemma></subsection> <subsection id="at-koe2-4"><lemma>2 Kön 4</lemma></subsection> <subsection id="at-koe2-5"><lemma>2 Kön 5</lemma></subsection> <subsection id="at-koe2-6"><lemma>2 Kön 6</lemma></subsection> <subsection id="at-koe2-9"><lemma>2 Kön 9</lemma></subsection> <subsection id="at-koe2-10"><lemma>2 Kön 10</lemma></subsection> <subsection id="at-koe2-11"><lemma>2 Kön 11</lemma></subsection> <subsection id="at-koe2-19"><lemma>2 Kön 19</lemma></subsection> <subsection id="at-koe2-20"><lemma>2 Kön 20</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-chr2" type="bibel" sort="120">
 <lemma>2. Chronik</lemma>
-<subsection id="at-chr2-9"><lemma>2 Chr 9</lemma></subsection>  <subsection id="at-chr2-18"><lemma>2 Chr 18</lemma></subsection> 
+<subsection id="at-chr2-9"><lemma>2 Chr 9</lemma></subsection> <subsection id="at-chr2-18"><lemma>2 Chr 18</lemma></subsection> <subsection id="at-chr2-23"><lemma>2 Chr 23</lemma></subsection> 
 </kommentar> 
 
 <kommentar id="at-neh" type="bibel" sort="125">
@@ -92,7 +97,7 @@
 
 <kommentar id="at-pr" type="bibel" sort="160">
 <lemma>Prediger</lemma>
-<subsection id="at-pr1"><lemma>Pred 1</lemma></subsection> <subsection id="at-pr2"><lemma>Pred 2</lemma></subsection> <subsection id="at-pr3"><lemma>Pred 3</lemma></subsection> <subsection id="at-pr7"><lemma>Pred 7</lemma></subsection> <subsection id="at-pr8"><lemma>Pred 8</lemma></subsection> <subsection id="at-pr9"><lemma>Pred 9</lemma></subsection> <subsection id="at-pr10"><lemma>Pred 10</lemma></subsection> <subsection id="at-pr12"><lemma>Pred 12</lemma></subsection>
+<subsection id="at-pr1"><lemma>Pred 1</lemma></subsection> <subsection id="at-pr2"><lemma>Pred 2</lemma></subsection> <subsection id="at-pr3"><lemma>Pred 3</lemma></subsection> <subsection id="at-pr5"><lemma>Pred 5</lemma></subsection><subsection id="at-pr7"><lemma>Pred 7</lemma></subsection> <subsection id="at-pr8"><lemma>Pred 8</lemma></subsection> <subsection id="at-pr9"><lemma>Pred 9</lemma></subsection> <subsection id="at-pr10"><lemma>Pred 10</lemma></subsection> <subsection id="at-pr12"><lemma>Pred 12</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-hld" type="bibel" sort="170">
@@ -102,17 +107,17 @@
 
 <kommentar id="at-jes" type="bibel" sort="180">
 <lemma>Jesaja</lemma>
-<subsection id="at-jes1"><lemma>Jes 1</lemma></subsection> <subsection id="at-jes2"><lemma>Jes 2</lemma></subsection>  <subsection id="at-jes5"><lemma>Jes 5</lemma></subsection>  <subsection id="at-jes6"><lemma>Jes 6</lemma></subsection> <subsection id="at-jes7"><lemma>Jes 7</lemma></subsection> <subsection id="at-jes8"><lemma>Jes 8</lemma></subsection> <subsection id="at-jes11"><lemma>Jes 11</lemma></subsection> <subsection id="at-jes19"><lemma>Jes 19</lemma></subsection> <subsection id="at-jes22"><lemma>Jes 22</lemma></subsection> <subsection id="at-jes23"><lemma>Jes 23</lemma></subsection> <subsection id="at-jes25"><lemma>Jes 25</lemma></subsection> <subsection id="at-jes28"><lemma>Jes 28</lemma></subsection> <subsection id="at-jes29"><lemma>Jes 29</lemma></subsection>  <subsection id="at-jes30"><lemma>Jes 30</lemma></subsection> <subsection id="at-jes31"><lemma>Jes 31</lemma></subsection> <subsection id="at-jes33"><lemma>Jes 33</lemma></subsection> <subsection id="at-jes37"><lemma>Jes 37</lemma></subsection> <subsection id="at-jes40"><lemma>Jes 40</lemma></subsection> <subsection id="at-jes41"><lemma>Jes 41</lemma></subsection> <subsection id="at-jes44"><lemma>Jes 44</lemma></subsection> <subsection id="at-jes48"><lemma>Jes 48</lemma></subsection>  <subsection id="at-jes53"><lemma>Jes 53</lemma></subsection> <subsection id="at-jes54"><lemma>Jes 54</lemma></subsection>  <subsection id="at-jes57"><lemma>Jes 57</lemma></subsection> <subsection id="at-jes58"><lemma>Jes 58</lemma></subsection> <subsection id="at-jes60"><lemma>Jes 60</lemma></subsection> <subsection id="at-jes63"><lemma>Jes 63</lemma></subsection> 
+<subsection id="at-jes1"><lemma>Jes 1</lemma></subsection> <subsection id="at-jes2"><lemma>Jes 2</lemma></subsection>  <subsection id="at-jes5"><lemma>Jes 5</lemma></subsection>  <subsection id="at-jes6"><lemma>Jes 6</lemma></subsection> <subsection id="at-jes7"><lemma>Jes 7</lemma></subsection> <subsection id="at-jes8"><lemma>Jes 8</lemma></subsection> <subsection id="at-jes11"><lemma>Jes 11</lemma></subsection> <subsection id="at-jes14"><lemma>Jes 14</lemma></subsection> <subsection id="at-jes19"><lemma>Jes 19</lemma></subsection> <subsection id="at-jes22"><lemma>Jes 22</lemma></subsection> <subsection id="at-jes23"><lemma>Jes 23</lemma></subsection> <subsection id="at-jes24"><lemma>Jes 24</lemma></subsection> <subsection id="at-jes25"><lemma>Jes 25</lemma></subsection> <subsection id="at-jes27"><lemma>Jes 27</lemma></subsection> <subsection id="at-jes28"><lemma>Jes 28</lemma></subsection> <subsection id="at-jes29"><lemma>Jes 29</lemma></subsection>  <subsection id="at-jes30"><lemma>Jes 30</lemma></subsection> <subsection id="at-jes31"><lemma>Jes 31</lemma></subsection> <subsection id="at-jes33"><lemma>Jes 33</lemma></subsection> <subsection id="at-jes37"><lemma>Jes 37</lemma></subsection> <subsection id="at-jes40"><lemma>Jes 40</lemma></subsection> <subsection id="at-jes41"><lemma>Jes 41</lemma></subsection> <subsection id="at-jes44"><lemma>Jes 44</lemma></subsection> <subsection id="at-jes48"><lemma>Jes 48</lemma></subsection>  <subsection id="at-jes53"><lemma>Jes 53</lemma></subsection> <subsection id="at-jes54"><lemma>Jes 54</lemma></subsection>  <subsection id="at-jes57"><lemma>Jes 57</lemma></subsection> <subsection id="at-jes58"><lemma>Jes 58</lemma></subsection> <subsection id="at-jes60"><lemma>Jes 60</lemma></subsection> <subsection id="at-jes63"><lemma>Jes 63</lemma></subsection> 
 </kommentar>
 
 <kommentar id="at-jer" type="bibel" sort="190">
 <lemma>Jeremia</lemma>
-<subsection id="at-jer2"><lemma>Jer 2</lemma></subsection> <subsection id="at-jer5"><lemma>Jer 5</lemma></subsection> <subsection id="at-jer7"><lemma>Jer 7</lemma></subsection> <subsection id="at-jer8"><lemma>Jer 8</lemma></subsection> <subsection id="at-jer9"><lemma>Jer 9</lemma> </subsection> <subsection id="at-jer12"><lemma>Jer 12</lemma></subsection> <subsection id="at-jer13"><lemma>Jer 13</lemma></subsection> <subsection id="at-jer17"><lemma>Jer 17</lemma></subsection> <subsection id="at-jer18"><lemma>Jer 18</lemma></subsection> <subsection id="at-jer19"><lemma>Jer 19</lemma></subsection> <subsection id="at-jer20"><lemma>Jer 20</lemma></subsection> <subsection id="at-jer29"><lemma>Jer 29</lemma></subsection> <subsection id="at-jer38"><lemma>Jer 38</lemma></subsection> <subsection id="at-jer45"><lemma>Jer 45</lemma></subsection> <subsection id="at-jer48"><lemma>Jer 48</lemma></subsection>
+<subsection id="at-jer2"><lemma>Jer 2</lemma></subsection> <subsection id="at-jer5"><lemma>Jer 5</lemma></subsection> <subsection id="at-jer7"><lemma>Jer 7</lemma></subsection> <subsection id="at-jer8"><lemma>Jer 8</lemma></subsection> <subsection id="at-jer9"><lemma>Jer 9</lemma> </subsection> <subsection id="at-jer12"><lemma>Jer 12</lemma></subsection> <subsection id="at-jer13"><lemma>Jer 13</lemma></subsection> <subsection id="at-jer17"><lemma>Jer 17</lemma></subsection> <subsection id="at-jer18"><lemma>Jer 18</lemma></subsection> <subsection id="at-jer19"><lemma>Jer 19</lemma></subsection> <subsection id="at-jer20"><lemma>Jer 20</lemma></subsection> <subsection id="at-jer25"><lemma>Jer 25</lemma></subsection> <subsection id="at-jer29"><lemma>Jer 29</lemma></subsection> <subsection id="at-jer38"><lemma>Jer 38</lemma></subsection> <subsection id="at-jer45"><lemma>Jer 45</lemma></subsection> <subsection id="at-jer48"><lemma>Jer 48</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-klg" type="bibel" sort="200">
 <lemma>Klagelieder</lemma>
-<subsection id="at-klg3"><lemma>Klgl 3</lemma></subsection>
+<subsection id="at-klg2"><lemma>Klgl 2</lemma></subsection> <subsection id="at-klg3"><lemma>Klgl 3</lemma></subsection> <subsection id="at-klg4"><lemma>Klgl 4</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-hes" type="bibel" sort="210">
@@ -122,12 +127,12 @@
 
 <kommentar id="at-dan" type="bibel" sort="215">
 <lemma>Daniel</lemma>
-<subsection id="at-dan2"><lemma>Dan 2</lemma></subsection>
+<subsection id="at-dan2"><lemma>Dan 2</lemma></subsection> <subsection id="at-dan3"><lemma>Dan 3</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-hos" type="bibel" sort="220">
 <lemma>Hosea</lemma>
-<subsection id="at-hos5"><lemma>Hos 5</lemma></subsection>
+<subsection id="at-hos5"><lemma>Hos 5</lemma></subsection> <subsection id="at-hos9"><lemma>Hos 9</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-jon" type="bibel" sort="225">
@@ -157,12 +162,12 @@
 
 <kommentar id="apo-jud" type="bibel" sort="270">
 <lemma>Judit</lemma>
-<subsection id="apo-jud14"><lemma>Jdt 14</lemma></subsection>
+<subsection id="apo-jud13"><lemma>Jdt 13</lemma></subsection> <subsection id="apo-jud14"><lemma>Jdt 14</lemma></subsection>
 </kommentar>
 
 <kommentar id="apo-weish" type="bibel" sort="275">
 <lemma>Weisheit Salomos</lemma>
-<subsection id="apo-weish11"><lemma>Weish 11</lemma></subsection>
+<subsection id="apo-weish10"><lemma>Weish 10</lemma></subsection> <subsection id="apo-weish11"><lemma>Weish 11</lemma></subsection>
 </kommentar>
 
 <kommentar id="apo-tob" type="bibel" sort="280">
@@ -172,12 +177,12 @@
 
 <kommentar id="apo-sir" type="bibel" sort="290">
 <lemma>Jesus Sirach</lemma>
-<subsection id="apo-sir6"><lemma>Sir 6</lemma></subsection> <subsection id="apo-sir11"><lemma>Sir 11</lemma></subsection> <subsection id="apo-sir18"><lemma>Sir 18</lemma></subsection> <subsection id="apo-sir22"><lemma>Sir 22</lemma></subsection> <subsection id="apo-sir31"><lemma>Sir 31</lemma></subsection> <subsection id="apo-sir33"><lemma>Sir 33</lemma></subsection> <subsection id="apo-sir35"><lemma>Sir 35</lemma></subsection> <subsection id="apo-sir43"><lemma>Sir 43</lemma></subsection> <subsection id="apo-sir50"><lemma>Sir 50</lemma></subsection>
+<subsection id="apo-sir6"><lemma>Sir 6</lemma></subsection> <subsection id="apo-sir11"><lemma>Sir 11</lemma></subsection> <subsection id="apo-sir18"><lemma>Sir 18</lemma></subsection> <subsection id="apo-sir22"><lemma>Sir 22</lemma></subsection> <subsection id="apo-sir29"><lemma>Sir 29</lemma></subsection> <subsection id="apo-sir31"><lemma>Sir 31</lemma></subsection> <subsection id="apo-sir33"><lemma>Sir 33</lemma></subsection> <subsection id="apo-sir35"><lemma>Sir 35</lemma></subsection> <subsection id="apo-sir36"><lemma>Sir 36</lemma></subsection> <subsection id="apo-sir43"><lemma>Sir 43</lemma></subsection> <subsection id="apo-sir50"><lemma>Sir 50</lemma></subsection>
 </kommentar>
 
 <kommentar id="apo-makk2" type="bibel" sort="292">
 <lemma>2. Makkabäer</lemma>
-<subsection id="apo-makk2-1"><lemma>2 Makk 1</lemma></subsection>
+<subsection id="apo-makk2-1"><lemma>2 Makk 1</lemma></subsection> <subsection id="apo-makk2-15"><lemma>2 Makk 15</lemma></subsection>
 </kommentar>
 
 <kommentar id="apo-std" type="bibel" sort="300">
@@ -187,7 +192,7 @@
 
 <kommentar id="nt-mt" type="bibel" sort="310">
 <lemma>Matthäus</lemma>
-<subsection id="nt-mt1"><lemma>Mt 1</lemma></subsection> <subsection id="nt-mt2"><lemma>Mt 2</lemma></subsection> <subsection id="nt-mt3"><lemma>Mt 3</lemma></subsection> <subsection id="nt-mt4"><lemma>Mt 4</lemma></subsection> <subsection id="nt-mt5"><lemma>Mt 5</lemma></subsection> <subsection id="nt-mt6"><lemma>Mt 6</lemma></subsection> <subsection id="nt-mt7"><lemma>Mt 7</lemma></subsection> <subsection id="nt-mt8"><lemma>Mt 8</lemma></subsection> <subsection id="nt-mt9"><lemma>Mt 9</lemma></subsection> <subsection id="nt-mt10"><lemma>Mt 10</lemma></subsection> <subsection id="nt-mt11"><lemma>Mt 11</lemma></subsection> <subsection id="nt-mt12"><lemma>Mt 12</lemma></subsection> <subsection id="nt-mt13"><lemma>Mt 13</lemma></subsection> <subsection id="nt-mt14"><lemma>Mt 14</lemma></subsection> <subsection id="nt-mt15"><lemma>Mt 15</lemma></subsection> <subsection id="nt-mt16"><lemma>Mt 16</lemma></subsection> <subsection id="nt-mt18"><lemma>Mt 18</lemma></subsection> <subsection id="nt-mt19"><lemma>Mt 19</lemma></subsection> <subsection id="nt-mt21"><lemma>Mt 21</lemma></subsection> <subsection id="nt-mt22"><lemma>Mt 22</lemma></subsection> <subsection id="nt-mt23"><lemma>Mt 23</lemma></subsection> <subsection id="nt-mt24"><lemma>Mt 24</lemma></subsection> <subsection id="nt-mt25"><lemma>Mt 25</lemma></subsection> <subsection id="nt-mt26"><lemma>Mt 26</lemma></subsection> <subsection id="nt-mt27"><lemma>Mt 27</lemma></subsection> <subsection id="nt-mt28"><lemma>Mt 28</lemma></subsection>
+<subsection id="nt-mt1"><lemma>Mt 1</lemma></subsection> <subsection id="nt-mt2"><lemma>Mt 2</lemma></subsection> <subsection id="nt-mt3"><lemma>Mt 3</lemma></subsection> <subsection id="nt-mt4"><lemma>Mt 4</lemma></subsection> <subsection id="nt-mt5"><lemma>Mt 5</lemma></subsection> <subsection id="nt-mt6"><lemma>Mt 6</lemma></subsection> <subsection id="nt-mt7"><lemma>Mt 7</lemma></subsection> <subsection id="nt-mt8"><lemma>Mt 8</lemma></subsection> <subsection id="nt-mt9"><lemma>Mt 9</lemma></subsection> <subsection id="nt-mt10"><lemma>Mt 10</lemma></subsection> <subsection id="nt-mt11"><lemma>Mt 11</lemma></subsection> <subsection id="nt-mt12"><lemma>Mt 12</lemma></subsection> <subsection id="nt-mt13"><lemma>Mt 13</lemma></subsection> <subsection id="nt-mt14"><lemma>Mt 14</lemma></subsection> <subsection id="nt-mt15"><lemma>Mt 15</lemma></subsection> <subsection id="nt-mt16"><lemma>Mt 16</lemma></subsection> <subsection id="nt-mt17"><lemma>Mt 17</lemma></subsection> <subsection id="nt-mt18"><lemma>Mt 18</lemma></subsection> <subsection id="nt-mt19"><lemma>Mt 19</lemma></subsection> <subsection id="nt-mt20"><lemma>Mt 20</lemma></subsection> <subsection id="nt-mt21"><lemma>Mt 21</lemma></subsection> <subsection id="nt-mt22"><lemma>Mt 22</lemma></subsection> <subsection id="nt-mt23"><lemma>Mt 23</lemma></subsection> <subsection id="nt-mt24"><lemma>Mt 24</lemma></subsection> <subsection id="nt-mt25"><lemma>Mt 25</lemma></subsection> <subsection id="nt-mt26"><lemma>Mt 26</lemma></subsection> <subsection id="nt-mt27"><lemma>Mt 27</lemma></subsection> <subsection id="nt-mt28"><lemma>Mt 28</lemma></subsection>
 </kommentar>
 
 <kommentar id="nt-mk" type="bibel" sort="320">
@@ -257,7 +262,7 @@
 
 <kommentar id="nt-tim1" type="bibel" sort="450">
 <lemma>1. Timotheus</lemma>
-<subsection id="nt-tim1-1"><lemma>1 Tim 1</lemma></subsection> <subsection id="nt-tim1-4"><lemma>1 Tim 4</lemma></subsection> <subsection id="nt-tim1-5"><lemma>1 Tim 5</lemma></subsection> <subsection id="nt-tim1-6"><lemma>1 Tim 6</lemma></subsection>
+<subsection id="nt-tim1-1"><lemma>1 Tim 1</lemma></subsection> <subsection id="nt-tim1-2"><lemma>1 Tim 2</lemma></subsection> <subsection id="nt-tim1-4"><lemma>1 Tim 4</lemma></subsection> <subsection id="nt-tim1-5"><lemma>1 Tim 5</lemma></subsection> <subsection id="nt-tim1-6"><lemma>1 Tim 6</lemma></subsection>
 </kommentar>
 
 <kommentar id="nt-tim2" type="bibel" sort="460">
@@ -272,7 +277,12 @@
 
 <kommentar id="nt-heb" type="bibel" sort="480">
 <lemma>Hebräer</lemma>
-<subsection id="nt-heb1"><lemma>Hebr 1</lemma></subsection> <subsection id="nt-heb3"><lemma>Hebr 3</lemma></subsection> <subsection id="nt-heb4"><lemma>Hebr 4</lemma></subsection> <subsection id="nt-heb9"><lemma>Hebr 9</lemma></subsection> <subsection id="nt-heb10"><lemma>Hebr 10</lemma></subsection> <subsection id="nt-heb11"><lemma>Hebr 11</lemma></subsection> <subsection id="nt-heb12"><lemma>Hebr 12</lemma></subsection> <subsection id="nt-heb13"><lemma>Hebr 13</lemma></subsection>
+<subsection id="nt-heb1"><lemma>Hebr 1</lemma></subsection> <subsection id="nt-heb3"><lemma>Hebr 3</lemma></subsection> <subsection id="nt-heb4"><lemma>Hebr 4</lemma></subsection> <subsection id="nt-heb7"><lemma>Hebr 7</lemma></subsection> <subsection id="nt-heb9"><lemma>Hebr 9</lemma></subsection> <subsection id="nt-heb10"><lemma>Hebr 10</lemma></subsection> <subsection id="nt-heb11"><lemma>Hebr 11</lemma></subsection> <subsection id="nt-heb12"><lemma>Hebr 12</lemma></subsection> <subsection id="nt-heb13"><lemma>Hebr 13</lemma></subsection>
+</kommentar>
+
+<kommentar id="nt-philemon" type="bibel" sort="485">
+<lemma>Philemon</lemma>
+<subsection id="nt-philemon1"><lemma>Phlm 1</lemma></subsection> 
 </kommentar>
 
 <kommentar id="nt-jak" type="bibel" sort="490">
