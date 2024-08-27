@@ -54827,9 +54827,7 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="193" line="19">
-<bzg>Strabo … M. Paentzel</bzg>  [Übers] Des Strabo allgemeine Erdbeschreibung. Durchgehend von neuem disponiert, mit
-Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern versehen. 4 Bde. Lemgo
-1775/7. Biga 85/177, 178. ?!?  <link ref="penzel" linktext="true" /> 
+<bzg>Strabo … M. Paentzel</bzg>  <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />
 </marginal>
 
 <marginal letter="452" page="193" line="21">
@@ -55273,9 +55271,7 @@ zu sehen und unter der 4. hat Lavater in seinem Exemplar notiert Herdern. ?!?
 </marginal>
 
 <marginal letter="454" page="201" line="14">
-<bzg>Strabo</bzg>  [Übers] Des Strabo allgemeine Erdbeschreibung .... Durch-gehend von neuem disponiert, mit
-Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern versehen. 4 Bde. Lemgo
-1775/7. Biga 85/177, 178.  ?!?
+<bzg>Strabo</bzg> <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />
 </marginal>
 
 <marginal letter="454" page="201" line="17">

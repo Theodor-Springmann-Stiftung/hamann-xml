@@ -14258,7 +14258,13 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="strabon" type="neuzeit">
 <lemma>Strabon</lemma>
-<eintrag>63 v.&#x202F;Chr.&#x202F;–&#x202F;nach 23 n.&#xA0;Chr.</eintrag>
+<eintrag>63 v.&#x202F;Chr.&#x202F;–&#x202F;nach 23 n.&#xA0;Chr. Geschichtsschreiber und Geograph.</eintrag>
+<subsection id="strabon-erdbeschreibung" type="neuzeit" sort="10">
+<lemma>Strabon, <titel>Erdbeschreibung</titel></lemma>
+<eintrag>
+Übers.: <titel>Des Strabo eines alten stoischen Weltweisen aus der Stadt Amasia gebürtig allgemeine Erdbeschreibung. Durchgehend von neuem disponiert, mit Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern versehen</titel> [von <link ref="penzel" linktext="true" />] (4 Bde., Lemgo: Meyersche Buchhandlung 1775&#x2013;1777) [Biga&#x202F;85/177: „A. J. Penzel's Strabo, 1. 2. Th. Lemgo 775“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10238302-0">BSB München: A.gr.b. 3155-1</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="straton" type="neuzeit">
