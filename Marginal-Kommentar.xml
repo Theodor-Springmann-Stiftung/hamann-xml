@@ -55900,11 +55900,11 @@ Brief Nr. 458
 Brief Nr. 459
 
 <marginal letter="459" page="211" line="31">
-<bzg>p.</bzg> passim
+<bzg>p.</bzg> 
 </marginal>
 
 <marginal letter="459" page="211" line="33">
-<bzg>Freundin</bzg> C. D. Güldenhorn.
+<bzg>Freundin</bzg> <link ref="herder-cd-g" linktext="true" /> 
 </marginal>
     
 <marginal letter="459" page="212" line="1">
@@ -55928,19 +55928,19 @@ Brief Nr. 459
    </marginal>
         
    <marginal letter="459" page="212" line="14">
-    <bzg>Hartknoch</bzg> Brief nicht ermittelt
+    <bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />; Brief nicht ermittelt
    </marginal>
 
    <marginal letter="459" page="212" line="19">
-    <bzg>Kreutzfeld</bzg> Brief nicht ermittelt
+    <bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
    </marginal>
 
    <marginal letter="459" page="212" line="20">
-    <bzg>Reichard</bzg> friedrich II. hatte 1775 J. F. Reichardt  als Kgl.  preußischen Kapellmeister nach Berlin berufen.
+    <bzg>Reichard</bzg> <link ref="friedrich-II" linktext="true" /> hatte 1775 <link ref="reichardt-jf" linktext="true" /> als Kgl. preußischen Kapellmeister nach Berlin berufen.
    </marginal>
 
    <marginal letter="459" page="212" line="23">
-    <bzg>Vater</bzg> 
+    <bzg>Vater</bzg> <link ref="reichardt-j" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="212" line="26">
@@ -55952,11 +55952,11 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="212" line="27" sort="2">
-    <bzg>Xbre</bzg> 
+    <bzg>Xbre</bzg> Dezember
    </marginal>
 
    <marginal letter="459" page="212" line="28">
-    <bzg>Nicolai</bzg> 
+    <bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="212" line="29">
@@ -55976,7 +55976,7 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="213" line="1">
-    <bzg>Verleger</bzg> hartknoch
+    <bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" />  
    </marginal>
 
    <marginal letter="459" page="213" line="2">
@@ -55984,7 +55984,7 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="213" line="4">
-    <bzg>Gevatterbrief</bzg> Claudius
+    <bzg>Gevatterbrief</bzg> <link ref="claudius" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="213" line="6">
@@ -55992,7 +55992,7 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="213" line="8">
-    <bzg>Layenbruder</bzg> 
+    <bzg>Layenbruder</bzg> <link ref="moser" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="213" line="9">
@@ -56001,7 +56001,7 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="213" line="10">
-    <bzg>Caroline</bzg> 
+    <bzg>Caroline</bzg> <link ref="herder-c" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="213" line="12" sort="1">
@@ -56022,11 +56022,11 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="213" line="18">
-    <bzg>Pentzel … Weihgesang</bzg> nicht ermittelt
+    <bzg>Pentzel … Weihgesang</bzg> <link ref="penzel" linktext="true" />; nicht ermittelt
    </marginal>
 
    <marginal letter="459" page="213" line="19">
-    <bzg>Stockmar</bzg>
+    <bzg>Stockmar</bzg> <link ref="stockmar" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="213" line="23">
@@ -56099,11 +56099,11 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="214" line="10">
-    <bzg>Weib … Mohrenkopf</bzg>
+    <bzg>Weib … Mohrenkopf</bzg> <link ref="herder-c" linktext="true" />; <link ref="herder-w" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="214" line="11" sort="1">
-    <bzg>Johann Christoph</bzg>
+    <bzg>Johann Christoph</bzg> <link ref="neumann-j" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="214" line="11" sort="2">
@@ -56153,7 +56153,8 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="214" line="35">
-    <bzg>Kopp … Selim Halicum</bzg>  Koppe; wohl bewußte Parodie des Salem aleikum
+    <bzg>Kopp … Selim Halicum</bzg>  Koppe (Kopp, Köppen, Kopka, Kopke), Johann Benjamin (1750- 1791), 1774 Prof. der griechischen
+    Sprache in Mitau, 1784 Generalintendant in Gotha, 1787 in Hannover Koppe; wohl bewußte Parodie des Salem aleikum
    </marginal>
 
    <marginal letter="459" page="214" line="36">
@@ -56161,11 +56162,95 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="214" line="37" sort="1">
-    <bzg>Verleger</bzg>  hartknoch
+    <bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="214" line="37" sort="2">
     <bzg>Passagier</bzg>  Koppe
+   </marginal>
+
+   <marginal letter="459" page="215" line="1">
+    <bzg>Zeitungen</bzg> Königsbergschen
+   </marginal>
+
+   <marginal letter="459" page="215" line="3">
+    <bzg>medius terminus</bzg> 
+   </marginal>
+
+   <marginal letter="459" page="215" line="9">
+    <bzg>Urkunde</bzg> 
+   </marginal>
+
+   <marginal letter="459" page="215" line="11">
+    <bzg>Systeme de la Nature</bzg> von Holbach
+   </marginal>
+
+   <marginal letter="459" page="215" line="12">
+    <bzg>Systeme Social</bzg> von Holbach
+   </marginal>
+
+   <marginal letter="459" page="215" line="13" sort="1">
+    <bzg>Oeuvres morales</bzg> 
+   </marginal>
+
+   <marginal letter="459" page="215" line="13" sort="2">
+    <bzg>Bonsens</bzg> von Holbach
+   </marginal>
+
+   <marginal letter="459" page="215" line="15">
+    <bzg>propter compendium</bzg> gemeint: wegen der profitlichen Kurzfassung
+   </marginal>
+
+   <marginal letter="459" page="215" line="19">
+    <bzg>Anti-Hephaestion</bzg>
+   </marginal>
+
+   <marginal letter="459" page="215" line="20">
+    <bzg>Psalter</bzg> Starck, aliorumque poetarum Hebraeorum
+    carminum libri V.
+   </marginal>
+
+   <marginal letter="459" page="215" line="21">
+    <bzg>von der Erziehung</bzg> 
+   </marginal>
+
+   <marginal letter="459" page="215" line="22">
+    <bzg>Anmerkungen über den Styl</bzg> 213,29f
+   </marginal>
+
+   <marginal letter="459" page="215" line="23">
+    <bzg>Ohlius</bzg> <link ref="ohlius" linktext="true" /> 
+   </marginal>
+
+   <marginal letter="459" page="215" line="28">
+    <bzg>Kanter ist mit meinem Director</bzg> Stockmar, 213,19.
+   </marginal>
+
+   <marginal letter="459" page="215" line="29" sort="1">
+    <bzg>Eberhards Mäcen</bzg> <link ref=" eberhard-ja" linktext="true" />; Zedlitz, Carl Abraham Frh. v. (1731- 1793), 1771- 1788 Kultus- und Unterrichtsminister in Berlin,
+    Oberkurator aller preuß. Universitäten,
+   </marginal>
+
+   <marginal letter="459" page="215" line="29" sort="2">
+    <bzg>2te Aufgabe</bzg> Allgemeine Theorie des Denkens und
+    Empfindens
+   </marginal>
+
+   <marginal letter="459" page="215" line="31">
+    <bzg>Nabal</bzg> mit Zweifel und Einfälle über eine
+    vermischte Nachricht.
+   </marginal>
+
+   <marginal letter="459" page="215" line="34">
+    <bzg>Hänschen … seinem Freunde</bzg> <link ref="hamann-jm" linktext="true" />; <link ref="herder-w" linktext="true" /> 
+   </marginal>
+
+   <marginal letter="459" page="216" line="2">
+    <bzg>regnen laßen</bzg> 1 Kö 17,14.
+   </marginal>
+
+   <marginal letter="459" page="216" line="5">
+    <bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" /> 
    </marginal>
 
 
