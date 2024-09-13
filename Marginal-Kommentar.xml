@@ -50113,7 +50113,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="33">
-<bzg>hierophantischen Briefen</bzg>  <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
+<bzg>hierophantischen Briefen</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="114" line="34">
@@ -56303,7 +56303,7 @@ Brief Nr. 460
    </marginal>
 
    <marginal letter="460" page="217" line="22">
-    <bzg>Erleut Pr</bzg> Erleut.[ertes] Pr.[eußen]: von Michael Lilienthal
+    <bzg>Erleut Pr</bzg> <link ref="lilienthal-m" subref="erl-preussen" linktext="true" /> 
    </marginal>
 
 
@@ -56397,8 +56397,54 @@ Brief Nr. 460
 
 Brief Nr. 462
 
+   <marginal letter="462" page="220" line="24">
+    <bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />
+   </marginal>
 
+   <marginal letter="462" page="220" line="26">
+    <bzg>Erl. Pr.</bzg> <link ref="lilienthal-m" subref="erl-preussen" linktext="true" /> 
+   </marginal>
 
+   <marginal letter="462" page="220" line="27">
+    <bzg>Pf. Strauch</bzg> Bernhard Matthias Strauch (1741–1776), evang. Theologe, Pfarrer an der Altroßgärtschen Kirche; kleine Unmündige: wahrscheinlich die
+Tochter des verstorbenen Pfarrers Strauch und seiner Ehefrau, der jüngeren Schwester von <link ref="lindner-jg" linktext="true" />
+   </marginal>
+
+  <marginal letter="462" page="220" line="28" sort="1"> 
+    <bzg>Schwäger</bzg> Toussaints ?!?
+   </marginal>
+
+  <marginal letter="462" page="220" line="28" sort="2">
+    <bzg>Abschrift</bzg> Hvon <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
+   </marginal>
+
+ <marginal letter="462" page="220" line="29">
+    <bzg>Bruder</bzg> <link ref="hamann-jc" linktext="true" />
+   </marginal>
+
+ <marginal letter="462" page="220" line="35">
+    <bzg>Brief</bzg> nicht ermittelt
+   </marginal>
+
+ <marginal letter="462" page="220" line="36">
+    <bzg>Freunde L.</bzg> <link ref="lindner-jg" linktext="true" />
+   </marginal>
+
+ <marginal letter="462" page="221" line="3">
+    <bzg>Mst.</bzg> Manuskript von <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
+   </marginal>
+
+ <marginal letter="462" page="221" line="8">
+    <bzg>Hintz </bzg> <link ref="hinz" linktext="true" />
+   </marginal>
+
+    <marginal letter="462" page="221" line="11" sort="1">
+    <bzg>Arndt</bzg> <link ref="arndt-cg" linktext="true" /> 
+   </marginal>
+
+       <marginal letter="462" page="221" line="11" sort="2">
+    <bzg>Bückeb.</bzg> Bückeburg; von <link ref="herder" linktext="true" />
+   </marginal>
 
 
 </marginalien>
