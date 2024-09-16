@@ -4860,7 +4860,7 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 <subsection id="georg-hexameron" type="neuzeit" sort="10">
 <lemma>Georg von Pisidien, <titel>Hexameron seu cosmurgia</titel></lemma>
 <eintrag>
-<titel>Hexameron seu cosmurgia opus six dierum sive mundi officium poema. Eiusdem senarii de vanitate vitae</titel> (Paris: Morel 1584).</eintrag>
+<titel>Hexameron seu cosmurgia opus six dierum sive mundi officium poema. Eiusdem senarii de vanitate vitae</titel> (Paris: Morel 1584). Digitalisat: <wwwlink address="https://catalog.hathitrust.org/Record/009326538">Universidad Complutense de Madrid</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -10896,6 +10896,17 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 </subsection>
 </kommentar>
 
+ <kommentar id="mun" type="neuzeit">
+<lemma>Thomas Mun</lemma>
+<eintrag>1571–1641. Englischer Ökonom.</eintrag>
+<subsection id="mun-trade" type="neuzeit" sort="10">
+<lemma>Mun, <titel>England’s Treasure by Foreign Trade</titel></lemma>
+<eintrag>
+<titel>England’s Treasure by Foreign Trade; or, The balance of our foreign trade is the rule of our treasure.</titel> (Glasgow 1755; Erstausgabe 1655) [Biga&#x202F;128/430: Th. Mun’s England’s Treasure by foreign Trade, Glasg. 755]. Digitalisat: <wwwlink address="https://catalog.hathitrust.org/Record/008605801">New York Public Library</wwwlink>
+</eintrag>
+</subsection>
+</kommentar> 
+
 <kommentar id="munnich" type="neuzeit">
 <lemma>Burchard Christoph v. Münnich</lemma>
 <eintrag>1683–1767. Graf. Seit 1741 Reichsgraf v.; bildete das russische Heer nach preußischem Vorbild aus, stürzte im Polnischen Erbfolgekrieg die Regierung <link ref="biron" linktext="false">Biron</link>. Von Kaiserin Elisabeth 1742 nach Sibirien verbannt, 1762 wieder zurückberufen; Vater von <link ref="mengden-ce" linktext="true" />. <titel>Allgemeines Schriftsteller- und Gelehrten-Lexikon der Provinzen Livland, Esthland und Kurland</titel> (Mitau 1831, Bd.&#x202F;3), S.&#x202F;284ff.</eintrag>
@@ -11458,7 +11469,7 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <eintrag>1623–1687. Engl. Politiker und Ökonom. <wwwlink address="https://doi.org/10.1093/ref:odnb/22069">Barnard, Toby: Petty, Sir William, in: <titel>Oxford DNB</titel></wwwlink>.
 </eintrag>
 <subsection id="petty-essays" type="neuzeit">
-<lemma>Petty, <titel>Essays in political Arithmetick with Memoire of the Author’s Life</titel></lemma>
+<lemma>Petty, <titel>Essays in political Arithmetick</titel></lemma>
 <eintrag>
 <titel>Essays in political Arithmetick with Memoire of the Author’s Life</titel> (London 1755). [Biga&#x202F;113/253: „Will. Petty’s Essays in political Arithmetick with Memoire of the Author’s Life, Lond. 755“].
 </eintrag>
