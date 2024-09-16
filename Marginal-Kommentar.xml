@@ -33827,6 +33827,10 @@ Brief Nr. 281
 <bzg>Herder</bzg> <link ref="herder" linktext="true" />
 </marginal>
 
+<marginal letter="281" page="285" line="34">
+<bzg>Herder</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
 <marginal letter="281" page="286" line="1">
 <bzg>HE Doctor</bzg> <link ref="lindner-jef" linktext="true" />
 </marginal>
@@ -33974,6 +33978,10 @@ Brief Nr. 282
 <bzg>mich auch gewißermaßen angeht</bzg> Im Vorwort von <titel>Die Kunst glücklich zu leben</titel> zitiert Trescho aus einem Brief von Susanne von Klettenberg: „Diese Kunst [zu leben] bestehet in dem Umgange mit dem Heilande. Ein Herz, das in eine wahre personelle Connexion, nach dem einem gewissen seligen Lehrer gewöhnlichen Ausdruck, der S.30 in den sokratischen Denkwürdigkeiten den vielbedeutenden Namen eines feinen und richtig denkenden Schwärmers führt [Klopstock], mit dem Heilande gekommen ist, kann nichts anders unter allen Berufsgeschäften, bey Wachen und Schlafen thun, als vor seinen Augen schweben, und in seinen Wunden leben; und es ist jede Viertelstunde unglücklich, in welcher es diese Seligkeit vermissen muß.“
 </marginal>
 
+<marginal letter="282" page="289" line="19">
+<bzg>Herder</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
 <marginal letter="282" page="289" line="22">
 <bzg>Collaborator</bzg> <link ref="herder" linktext="true" />
 </marginal>
@@ -34016,6 +34024,10 @@ Brief Nr. 283
 <bzg>solum papaveriferum, somniferum</bzg> dt. schläfernder Mohn (<link ref="ovid" subref="ovid-amores" linktext="true" /> II,6,31)
 </marginal>
 
+<marginal letter="283" page="290" line="16">
+<bzg>Stachellecken</bzg> <link ref="nt-apg" subref="nt-apg9" linktext="false">Apg 9,5</link>, <link ref="nt-apg" subref="nt-apg26" linktext="false">Apg 26,14</link>
+</marginal> 
+
 <marginal letter="283" page="290" line="17">
 <bzg>Lübeck</bzg> wohl Brief Nr. 269
 </marginal>
@@ -34045,7 +34057,7 @@ Brief Nr. 283
 </marginal>
 
 <marginal letter="283" page="290" line="24" sort="2">
-<bzg>Ob die Gottesläugnung den Sitten p.</bzg> <link ref="thourneysser" subref="thourneysser-lettre" linktext="true" />
+<bzg>Ob die Gottesläugnung den Sitten p.</bzg> <link ref="thourneyser" subref="thourneyser-lettre" linktext="true" />
 </marginal>
 
 <marginal letter="283" page="290" line="26" sort="1">
@@ -34135,27 +34147,15 @@ Brief Nr. 284
 </marginal>
 
 <marginal letter="284" page="292" line="21">
-<bzg>Vorrede des D. Semlers zu Baumgarten 3ten Theil</bzg> <link ref="semler" linktext="true" />, in <link ref="baumgarten-sj" subref="baumgarten-glaubenslehre" linktext="true" />
-</marginal>
-
-<marginal letter="284" page="292" line="22">
-<bzg>Diaconus</bzg> <link ref="trescho-sf" linktext="true" /> 
+<bzg>Vorrede des D. Semlers ... Diaconus</bzg> <link ref="semler" linktext="true" />, in <link ref="baumgarten-sj" subref="baumgarten-glaubenslehre" linktext="true" />. In der Vorrede zum 3. Teil, bes. S.&#xA0;5-9, wehrt sich Baumgarten gegen die publizistische Agitation des Diakons Trescho in <link ref="trescho-sf" subref="trescho-briefe" linktext="true" />, wonach Bs. Meinung von der Gottnatur Jesu ihn als Sozinianer entlarve.
 </marginal>
 
 <marginal letter="284" page="292" line="26">
 <bzg>neue Uebersetzung</bzg> <link ref="damm" subref="damm-testament" linktext="true" />
 </marginal>
 
-<marginal letter="284" page="292" line="28" sort="1">
-<bzg>Layenbruder</bzg> <link ref="moser" linktext="true" /> 
-</marginal>
-
 <marginal letter="284" page="292" line="28" sort="2">
 <bzg>Thrl</bzg> Taler, meist ist der 24 Silbergroschen entsprechende Reichstaler, eine im ganzen dt-sprachigen Raum übliche Silbermünze, gemeint (Groschen: Silbermünze [ca. 24. Teil eines Talers] oder Kupfermünze [ca. 90. Teil eines Talers]; in Königsberg war der Kupfergroschen üblich; für 8 Groschen gab es ca. zwei Pfund Schweinefleisch).
-</marginal>
-
-<marginal letter="284" page="292" line="31">
-<bzg>SchulCollegen</bzg> die Schulden von <link ref="hamann-jc" linktext="true" /> 
 </marginal>
 
 <marginal letter="284" page="292" line="34">
@@ -34379,7 +34379,7 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="296" line="33">
-<bzg>Buch</bzg> <link ref="thourneysser" subref="thourneysser-lettre" linktext="true" />
+<bzg>Buch</bzg> <link ref="thourneyser" subref="thourneyser-lettre" linktext="true" />
 </marginal>
 
 <marginal letter="286" page="297" line="1">
@@ -34880,7 +34880,7 @@ Brief Nr. 288
 </marginal>
 
 <marginal letter="288" page="306" line="10" sort="2">
-<bzg>ein Buch</bzg> <link ref="thourneysser" subref="thourneysser-lettre" linktext="true" />
+<bzg>ein Buch</bzg> <link ref="thourneyser" subref="thourneyser-lettre" linktext="true" />
 </marginal>
 
 <marginal letter="288" page="306" line="11">
@@ -34942,7 +34942,7 @@ Brief Nr. 289
 </marginal>
 
 <marginal letter="289" page="307" line="4" sort="2">
-<bzg>Buchs</bzg> <link ref="thourneysser" subref="thourneysser-lettre" linktext="true" />
+<bzg>Buchs</bzg> <link ref="thourneyser" subref="thourneyser-lettre" linktext="true" />
 </marginal>
 
 <marginal letter="289" page="307" line="5">
