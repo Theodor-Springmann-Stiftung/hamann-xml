@@ -36287,7 +36287,7 @@ Brief Nr. 301
 </marginal>
 
 <marginal letter="301" page="332" line="16" sort="2">
-<bzg>Bayle</bzg> Vorrede zu <link ref="bayle" subref="bayle-dictionnaire" linktext="true" /> 
+<bzg>Bayle</bzg> <link ref="friedrich-II" subref="fr-bayle" linktext="true" /> 
 </marginal>
 
 <marginal letter="301" page="332" line="18">
@@ -36453,10 +36453,6 @@ dem XXIII. Theil
 <bzg>Recensent</bzg> Hamanns Rezension von <link ref="kant" subref="kant-beobachtungen" linktext="true" /> in <link ref="kgpz" linktext="true" />, 26.&#x202F;St. vom 30.4.1764 (N&#x202F;IV,289–292)
 </marginal>
 
-<marginal letter="302" page="336" line="28">
-<bzg>Schweizerlobes</bzg> in der Denkart von <link ref="rousseau" linktext="true" />
-</marginal>
-
 <marginal letter="302" page="336" line="29">
 <bzg>Rousseauische</bzg> <link ref="rousseau" linktext="true" />
 </marginal>
@@ -36594,7 +36590,11 @@ Brief Nr. 304
 </marginal>
 
 <marginal letter="304" page="339" line="7">
-<bzg>Edda</bzg> vgl. <intlink letter="294" page="317" line="15" linktext="true" /> 
+<bzg>Edda</bzg> <link ref="mallet-ph" subref="mallet-ph-celts" linktext="true" />; vgl. <intlink letter="294" page="317" line="15" linktext="true" /> 
+</marginal>
+
+<marginal letter="304" page="339" line="8">
+<bzg>vaterlandsche Geschichte</bzg> <link ref="mallet-ph" subref="mallet-ph-geschichte" linktext="true" /> 
 </marginal>
 
 <marginal letter="304" page="339" line="10">
@@ -36646,11 +36646,15 @@ Brief Nr. 304
 </marginal>
 
 <marginal letter="304" page="340" line="4">
-<bzg>Jacobi Catechismus</bzg> <link ref="jacobi-jf" subref="jacobi-katechismus" linktext="true" />, vgl. <link ref="messkatalog" subref="messkatalog-ostern1765" linktext="true" />, 560.
+<bzg>Jacobi Catechismus</bzg> <link ref="jacobi-jf" subref="jacobi-katechismus" linktext="true" />
 </marginal>
 
 <marginal letter="304" page="340" line="6">
 <bzg>Vale et fave</bzg> dt. lebe wohl und sei mir gewogen
+</marginal>
+
+<marginal letter="304" page="340" line="8">
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="304" page="340" line="9">
@@ -36837,7 +36841,7 @@ Brief Nr. 307
 </marginal>
 
 <marginal letter="307" page="343" line="18" sort="2">
-<bzg>Rumthal zum Herzog</bzg> nicht ermittelt 
+<bzg>Rumthal zum Herzog</bzg> <link ref="biron" linktext="true" />, Herzog von Kurland, der in Schloss Rundāle/Ruhenthal in Semgallen residierte (heute Lettland, Bauskas novads, 56° 24′ N, 24° 11′ O).
 </marginal>
 
 <marginal letter="307" page="343" line="25">
@@ -39207,7 +39211,7 @@ Brief Nr. 333
 </marginal>
 
 <marginal letter="333" page="382" line="19" sort="1">
-<bzg>Linsen zu werfen</bzg> Nach <link ref="quintilian" linktext="true" /> belohnte Alexander der Große einen Künstler, der eine Linse durch ein Nadelöhr warf, mit einem Scheffel Linsen; vgl. N&#x202F;II,64, 32ff. (<link ref="hamann" subref="sokratischedenk" linktext="true" />)
+<bzg>Linsen zu werfen</bzg> Nach <link ref="quintilian" linktext="true" /> belohnte Alexander der Große einen Künstler, der eine Linse durch ein Nadelöhr warf, mit einem Scheffel Linsen; vgl. <link ref="hamann" subref="sokratischedenk" linktext="true" />, SD S.&#x202F;18/1, N&#x202F;II,64/32ff.
 </marginal>
 
 <marginal letter="333" page="382" line="19" sort="2">
