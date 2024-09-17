@@ -33827,6 +33827,10 @@ Brief Nr. 281
 <bzg>Herder</bzg> <link ref="herder" linktext="true" />
 </marginal>
 
+<marginal letter="281" page="285" line="34">
+<bzg>Herder</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
 <marginal letter="281" page="286" line="1">
 <bzg>HE Doctor</bzg> <link ref="lindner-jef" linktext="true" />
 </marginal>
@@ -33974,6 +33978,10 @@ Brief Nr. 282
 <bzg>mich auch gewißermaßen angeht</bzg> Im Vorwort von <titel>Die Kunst glücklich zu leben</titel> zitiert Trescho aus einem Brief von Susanne von Klettenberg: „Diese Kunst [zu leben] bestehet in dem Umgange mit dem Heilande. Ein Herz, das in eine wahre personelle Connexion, nach dem einem gewissen seligen Lehrer gewöhnlichen Ausdruck, der S.30 in den sokratischen Denkwürdigkeiten den vielbedeutenden Namen eines feinen und richtig denkenden Schwärmers führt [Klopstock], mit dem Heilande gekommen ist, kann nichts anders unter allen Berufsgeschäften, bey Wachen und Schlafen thun, als vor seinen Augen schweben, und in seinen Wunden leben; und es ist jede Viertelstunde unglücklich, in welcher es diese Seligkeit vermissen muß.“
 </marginal>
 
+<marginal letter="282" page="289" line="19">
+<bzg>Herder</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
 <marginal letter="282" page="289" line="22">
 <bzg>Collaborator</bzg> <link ref="herder" linktext="true" />
 </marginal>
@@ -34016,6 +34024,10 @@ Brief Nr. 283
 <bzg>solum papaveriferum, somniferum</bzg> dt. schläfernder Mohn (<link ref="ovid" subref="ovid-amores" linktext="true" /> II,6,31)
 </marginal>
 
+<marginal letter="283" page="290" line="16">
+<bzg>Stachellecken</bzg> <link ref="nt-apg" subref="nt-apg9" linktext="false">Apg 9,5</link>, <link ref="nt-apg" subref="nt-apg26" linktext="false">Apg 26,14</link>
+</marginal> 
+
 <marginal letter="283" page="290" line="17">
 <bzg>Lübeck</bzg> wohl Brief Nr. 269
 </marginal>
@@ -34045,7 +34057,7 @@ Brief Nr. 283
 </marginal>
 
 <marginal letter="283" page="290" line="24" sort="2">
-<bzg>Ob die Gottesläugnung den Sitten p.</bzg> <link ref="thourneysser" subref="thourneysser-lettre" linktext="true" />
+<bzg>Ob die Gottesläugnung den Sitten p.</bzg> <link ref="thourneyser" subref="thourneyser-lettre" linktext="true" />
 </marginal>
 
 <marginal letter="283" page="290" line="26" sort="1">
@@ -34135,27 +34147,15 @@ Brief Nr. 284
 </marginal>
 
 <marginal letter="284" page="292" line="21">
-<bzg>Vorrede des D. Semlers zu Baumgarten 3ten Theil</bzg> <link ref="semler" linktext="true" />, in <link ref="baumgarten-sj" subref="baumgarten-glaubenslehre" linktext="true" />
-</marginal>
-
-<marginal letter="284" page="292" line="22">
-<bzg>Diaconus</bzg> <link ref="trescho-sf" linktext="true" /> 
+<bzg>Vorrede des D. Semlers ... Diaconus</bzg> <link ref="semler" linktext="true" />, in <link ref="baumgarten-sj" subref="baumgarten-glaubenslehre" linktext="true" />. In der Vorrede zum 3. Teil, bes. S.&#xA0;5-9, wehrt sich Baumgarten gegen die publizistische Agitation des Diakons Trescho in <link ref="trescho-sf" subref="trescho-briefe" linktext="true" />, wonach Bs. Meinung von der Gottnatur Jesu ihn als Sozinianer entlarve.
 </marginal>
 
 <marginal letter="284" page="292" line="26">
 <bzg>neue Uebersetzung</bzg> <link ref="damm" subref="damm-testament" linktext="true" />
 </marginal>
 
-<marginal letter="284" page="292" line="28" sort="1">
-<bzg>Layenbruder</bzg> <link ref="moser" linktext="true" /> 
-</marginal>
-
 <marginal letter="284" page="292" line="28" sort="2">
 <bzg>Thrl</bzg> Taler, meist ist der 24 Silbergroschen entsprechende Reichstaler, eine im ganzen dt-sprachigen Raum übliche Silbermünze, gemeint (Groschen: Silbermünze [ca. 24. Teil eines Talers] oder Kupfermünze [ca. 90. Teil eines Talers]; in Königsberg war der Kupfergroschen üblich; für 8 Groschen gab es ca. zwei Pfund Schweinefleisch).
-</marginal>
-
-<marginal letter="284" page="292" line="31">
-<bzg>SchulCollegen</bzg> die Schulden von <link ref="hamann-jc" linktext="true" /> 
 </marginal>
 
 <marginal letter="284" page="292" line="34">
@@ -34371,7 +34371,7 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="296" line="27" sort="2">
-<bzg>HE Rect.</bzg> Johann Christoph Thack (gest. 1776), Rektor der Löbenichtschen Schule in Königsberg
+<bzg>HE Rect.</bzg> <link ref="lindner-jg" linktext="true" />
 </marginal>
 
 <marginal letter="286" page="296" line="32">
@@ -34379,11 +34379,11 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="296" line="33">
-<bzg>Buch</bzg> <link ref="thourneysser" subref="thourneysser-lettre" linktext="true" />
+<bzg>Buch</bzg> <link ref="thourneyser" subref="thourneyser-lettre" linktext="true" />
 </marginal>
 
 <marginal letter="286" page="297" line="1">
-<bzg>eignen Msts</bzg> vgl. <intlink letter="283" page="290" line="21" linktext="true" /> 
+<bzg>eignen Msts</bzg> <titel>Fragmente einer Abhandlung über die Ode</titel>, vgl. <intlink letter="283" page="290" line="21" linktext="true" /> 
 </marginal>
 
 <marginal letter="286" page="297" line="11">
@@ -34435,7 +34435,7 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="298" line="6">
-<bzg>heißt es&#x202F;…</bzg> <link ref="nt-heb" subref="nt-heb10" linktext="false">Hebr 10</link> 1. Zitat Vers 38; 2. Zitat Vers 39; 3. Zitat Vers 36
+<bzg>heißt es&#x202F;…</bzg> <link ref="nt-heb" subref="nt-heb10" linktext="false">Hebr 10</link> 1. Zitat Vers 38; 2. Zitat Vers 39; 3. Zitat Vers 36: „[36]Geduld aber ist euch not, auf dass ihr den Willen Gottes tut und die Verheißung empfanget. [37] Denn „noch über eine kleine Weile, so wird kommen, der da kommen soll, und nicht verziehen. [38] Der Gerechte aber wird des Glaubens leben. Wer aber weichen wird, an dem wird meine Seele keinen Gefallen haben.“ [39] Wir aber sind nicht von denen, die da weichen und verdammt werden, sondern von denen, die da glauben und die Seele erretten.“
 </marginal>
 
 <marginal letter="286" page="298" line="14">
@@ -34487,11 +34487,11 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="298" line="32">
-<bzg>La connoissance de l’existence réelle&#x202F;…</bzg> <titel>Nouveaux essais sur l’entendement humain</titel>, 4. Buch, Kap.&#x202F;3, §&#x202F;21, S.&#x202F;352
+<bzg>La connoissance de l’existence réelle&#x202F;…</bzg> ebd., 4. Buch, Kap.&#x202F;3, §&#x202F;21, S.&#x202F;352
 </marginal>
 
 <marginal letter="286" page="298" line="35">
-<bzg>L’apperception&#x202F;…</bzg> <titel>Nouveaux essais sur l’entendement humain</titel>, 4. Buch, Kap.&#x202F;9, §&#x202F;2, S.&#x202F;400f.
+<bzg>L’apperception&#x202F;…</bzg> ebd., 4. Buch, Kap.&#x202F;9, §&#x202F;2, S.&#x202F;400f.
 </marginal>
 
 <marginal letter="286" page="299" line="10">
@@ -34499,19 +34499,19 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="299" line="12">
-<bzg>Il faut&#x202F;…</bzg> <titel>Nouveaux essais sur l’entendement humain</titel>, 2. Buch, Kap.20, § 6, S.&#x202F;123
+<bzg>Il faut&#x202F;…</bzg> ebd., 2. Buch, Kap.20, § 6, S.&#x202F;123
 </marginal>
 
 <marginal letter="286" page="299" line="13">
-<bzg>quelque&#x202F;…</bzg> <titel>Nouveaux essais sur l’entendement humain</titel>, 2. Buch, Kap.20, § 13, S.&#x202F;127
+<bzg>quelque&#x202F;…</bzg> ebd., 2. Buch, Kap.20, § 13, S.&#x202F;127
 </marginal>
 
 <marginal letter="286" page="299" line="16">
-<bzg>On a&#x202F;…</bzg> <titel>Nouveaux essais sur l’entendement humain</titel>, 2. Buch, Kap.21, § 14, S.&#x202F;128
+<bzg>On a&#x202F;…</bzg> ebd., 2. Buch, Kap.21, § 14, S.&#x202F;128
 </marginal>
 
 <marginal letter="286" page="299" line="19">
-<bzg>La grandeur&#x202F;…</bzg> <titel>Nouveaux essais sur l’entendement humain</titel>, 2. Buch, Kap.21, § 66, S.&#x202F;165
+<bzg>La grandeur&#x202F;…</bzg> ebd., 2. Buch, Kap.21, § 66, S.&#x202F;165
 </marginal>
 
 <marginal letter="286" page="299" line="26">
@@ -34519,7 +34519,7 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="299" line="35">
-<bzg>Il s’en&#x202F;…</bzg> <titel>Nouveaux essais sur l’entendement humain</titel>, 4. Buch, Kap.2, § 2, S.&#x202F;333
+<bzg>Il s’en&#x202F;…</bzg> ebd., 4. Buch, Kap.2, § 2, S.&#x202F;333
 </marginal>
 
 <marginal letter="286" page="300" line="1">
@@ -34527,27 +34527,27 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="300" line="4">
-<bzg>Comme Vieta&#x202F;…</bzg> <titel>Nouveaux essais sur l’entendement humain</titel>, 4. Buch, Kap. 7, § 6, S.&#x202F;376
+<bzg>Comme Vieta&#x202F;…</bzg> ebd., 4. Buch, Kap. 7, § 6, S.&#x202F;376
 </marginal>
 
 <marginal letter="286" page="300" line="10">
-<bzg>L’invention&#x202F;…</bzg> <titel>Nouveaux essais sur l’entendement humain</titel>, 4. Buch, Kap. 17, § 4, S.&#x202F;446
+<bzg>L’invention&#x202F;…</bzg> ebd., 4. Buch, Kap. 17, § 4, S.&#x202F;446
 </marginal>
 
 <marginal letter="286" page="300" line="16">
-<bzg>Examen&#x202F;…</bzg> <link ref="leibniz" subref="leibniz-ouvres" linktext="true" />, <titel>Remarques sur le sentiment du P. Malebranche, que nous voyons tout en Dieu, concernans l’examen que Mr. Locke en a fait</titel>, S.&#x202F;498–504
+<bzg>Examen&#x202F;…</bzg> ebd., <titel>Remarques sur le sentiment du P. Malebranche, que nous voyons tout en Dieu, concernans l’examen que Mr. Locke en a fait</titel>, S.&#x202F;498–504
 </marginal>
 
 <marginal letter="286" page="300" line="18">
-<bzg>Dialogus&#x202F;…</bzg> <link ref="leibniz" subref="leibniz-ouvres" linktext="true" />, <titel>Dialogus de connexione inter res et verba</titel>, S.&#x202F;505–512
+<bzg>Dialogus&#x202F;…</bzg> ebd., <titel>Dialogus de connexione inter res et verba</titel>, S.&#x202F;505–512
 </marginal>
 
 <marginal letter="286" page="300" line="19">
-<bzg>Difficultates&#x202F;…</bzg> <link ref="leibniz" subref="leibniz-ouvres" linktext="true" />, <titel>Difficultates quaedam logicae</titel>, S.&#x202F;513–520
+<bzg>Difficultates&#x202F;…</bzg> ebd., <titel>Difficultates quaedam logicae</titel>, S.&#x202F;513–520
 </marginal>
 
 <marginal letter="286" page="300" line="20">
-<bzg>Discours&#x202F;…</bzg> <link ref="leibniz" subref="leibniz-ouvres" linktext="true" />, <titel>Discours touchant la methode de la certitude et l’art d’inventer</titel>, S.&#x202F;521–532
+<bzg>Discours&#x202F;…</bzg> ebd., <titel>Discours touchant la methode de la certitude et l’art d’inventer</titel>, S.&#x202F;521–532
 </marginal>
 
 <marginal letter="286" page="300" line="24">
@@ -34559,7 +34559,7 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="300" line="30">
-<bzg>Historia&#x202F;…</bzg> <link ref="leibniz" subref="leibniz-ouvres" linktext="true" />, <titel>Historia et commendatio linguae charactericae universalis</titel>, S.&#x202F;533–540
+<bzg>Historia&#x202F;…</bzg> ebd., <titel>Historia et commendatio linguae charactericae universalis</titel>, S.&#x202F;533–540
 </marginal>
 
 <marginal letter="286" page="300" line="32">
@@ -34599,15 +34599,15 @@ Brief Nr. 286
 </marginal>
 
 <marginal letter="286" page="301" line="20">
-<bzg>Adern des Marmors</bzg> <link ref="leibniz" subref="leibniz-ouvres" linktext="true" />, S.&#x202F;7
+<bzg>Adern des Marmors</bzg> ebd., S.&#x202F;7
 </marginal>
 
 <marginal letter="286" page="301" line="25">
-<bzg>Aprés&#x202F;…</bzg> <link ref="leibniz" subref="leibniz-ouvres" linktext="true" />, S.&#x202F;57
+<bzg>Aprés&#x202F;…</bzg> ebd., S.&#x202F;57
 </marginal>
 
 <marginal letter="286" page="301" line="31">
-<bzg>Keils vier Theile von Luthers merkwürdigen Lebensumständen</bzg> <link ref="keil" subref="keil-luther" linktext="true" /> 
+<bzg>Keils vier Theile von Luthers merkwürdigen Lebensumständen</bzg> <link ref="keil" subref="keil-luther" linktext="true" /> (<link ref="luther" linktext="true" />)
 </marginal>
 
 <marginal letter="286" page="301" line="33">
@@ -34640,10 +34640,6 @@ Brief Nr. 286
 
 <marginal letter="286" page="302" line="8" sort="1">
 <bzg>Brentius</bzg> Johann Brenz (1499–1570), Reformator
-</marginal>
-
-<marginal letter="286" page="302" line="8" sort="2">
-<bzg>Amos</bzg> <link ref="comenius" linktext="true" />
 </marginal>
 
 <marginal letter="286" page="302" line="8" sort="3">
@@ -34793,7 +34789,7 @@ Brief Nr. 287
 <bzg>Muclasche Kirchenhaus</bzg> NN Mulak (Mulac, Mulack)
 </marginal>
 
-<marginal letter="287" page="304" line="22">
+<marginal letter="287" page="304" line="23">
 <bzg>Michaelis</bzg> 29. September
 </marginal>
 
@@ -34880,7 +34876,7 @@ Brief Nr. 288
 </marginal>
 
 <marginal letter="288" page="306" line="10" sort="2">
-<bzg>ein Buch</bzg> <link ref="thourneysser" subref="thourneysser-lettre" linktext="true" />
+<bzg>ein Buch</bzg> <link ref="thourneyser" subref="thourneyser-lettre" linktext="true" />
 </marginal>
 
 <marginal letter="288" page="306" line="11">
@@ -34942,7 +34938,7 @@ Brief Nr. 289
 </marginal>
 
 <marginal letter="289" page="307" line="4" sort="2">
-<bzg>Buchs</bzg> <link ref="thourneysser" subref="thourneysser-lettre" linktext="true" />
+<bzg>Buchs</bzg> <link ref="thourneyser" subref="thourneyser-lettre" linktext="true" />
 </marginal>
 
 <marginal letter="289" page="307" line="5">
@@ -35072,10 +35068,6 @@ Brief Nr. 291
 
 <marginal letter="291" page="309" line="23">
 <bzg>jüngsten HErren v Witten</bzg> <link ref="witten-jj" linktext="true" /> 
-</marginal>
-
-<marginal letter="291" page="309" line="24">
-<bzg>HE Leonhardt</bzg> Hofmeister bei von Witten
 </marginal>
 
 <marginal letter="291" page="309" line="26">
@@ -56445,6 +56437,165 @@ Tochter des verstorbenen Pfarrers Strauch und seiner Ehefrau, der jüngeren Schw
        <marginal letter="462" page="221" line="11" sort="2">
     <bzg>Bückeb.</bzg> Bückeburg; von <link ref="herder" linktext="true" />
    </marginal>
+
+   Brief Nr. 463
+
+<marginal letter="463" page="221" line="16">
+    <bzg>HEn Bruder</bzg> <link ref="lindner-jg" linktext="true" />
+   </marginal>
+
+ <marginal letter="463" page="221" line="21">
+    <bzg>Doctor</bzg> nicht ermittelt
+   </marginal>
+
+  <marginal letter="463" page="221" line="22">
+    <bzg>Blutsfreundin</bzg> nicht ermittelt
+   </marginal>
+
+  <marginal letter="463" page="221" line="28">
+    <bzg>Louise</bzg> wohl Dienstmagd bei Lindner
+   </marginal>
+
+  <marginal letter="463" page="221" line="30">
+    <bzg>Enkel</bzg> Fußgelenk
+   </marginal>
+
+  <marginal letter="463" page="222" line="1">
+    <bzg>d'Ailhaud Pulver</bzg> Pulver auf Basis von Skammoniumharz, als Universalheilmitte gehandelt
+   </marginal>
+
+  <marginal letter="463" page="222" line="3">
+    <bzg>Lombard</bzg> Licent-Inspektor in Königsberg
+   </marginal>
+
+  <marginal letter="463" page="222" line="4" sort="1">
+    <bzg>Buttler</bzg> <link ref="buttlar-hs" linktext="true" /> 
+   </marginal>
+
+  <marginal letter="463" page="222" line="4" sort="2">
+    <bzg>Traité de l’Origine des Maladies</bzg> Ailhaud, Jean (gest. 1756) und Jean- Gaspard (gest. 1800), dessen Sohn, frz. Mediziner;Traité de l'origine des maladies et des efforts de la poudre purgative. Paris 1740.
+   </marginal>
+
+     <marginal letter="463" page="222" line="5">
+    <bzg>Dictionnaire des maladies</bzg> ?!?
+   </marginal>
+
+     <marginal letter="463" page="222" line="6">
+    <bzg>Sohns L’ami des Malades</bzg> L'ami des malades, ou Discours historique et apologétique sur la poudre purgative de M. d'Ailhaud,
+depuis son origine jusquà présent. Paris 1770 [von J. G. d'Ailhaud].
+   </marginal>
+
+     <marginal letter="463" page="222" line="10">
+    <bzg>Mama</bzg> <link ref="lindner-aa" linktext="true" />
+   </marginal>
+
+     <marginal letter="463" page="222" line="18">
+    <bzg>Lavements</bzg> Einläufe
+   </marginal>
+
+   <marginal letter="463" page="222" line="23">
+    <bzg>huj.</bzg> huius, d.i. diesen [Monats]
+   </marginal>
+
+   <marginal letter="463" page="222" line="30">
+    <bzg>Lauson</bzg> <link ref="lauson" linktext="true" />
+   </marginal>
+
+      <marginal letter="463" page="223" line="3">
+    <bzg>Nuppenau</bzg> <link ref="nuppenau-jp" linktext="true" /> 
+   </marginal>
+
+      <marginal letter="463" page="223" line="19">
+    <bzg>Lebenssatt</bzg> das letzte Wort des Buches Hiob (nach 1 Mo 25,8) ?!?
+   </marginal>
+
+      <marginal letter="463" page="223" line="21">
+    <bzg>Justchen</bzg> wohl die jüngere Schwester, die Witwe Strauch, vgl. <intlink letter="464" page="224" line="27" linktext="true" />
+   </marginal>
+
+      <marginal letter="463" page="223" line="23">
+    <bzg>Bruder</bzg> <link ref="lindner-gi" linktext="true" /> 
+   </marginal>
+
+      <marginal letter="463" page="223" line="27">
+    <bzg>Kanterschen</bzg> <link ref="kanter" linktext="true" />
+   </marginal>
+
+      <marginal letter="463" page="223" line="29">
+    <bzg>Mitow</bzg> Mitau, heute Jelgava, Lettland [56° 39′ N, 23° 43′ O] (40&#x202F;km südwestlich von Riga)
+   </marginal>
+
+      <marginal letter="463" page="223" line="30">
+    <bzg>Mummel</bzg> Memel, heute Klaipėda [55° 42′ N, 21° 8′ O]
+   </marginal>
+
+Brief Nr. 464
+
+      <marginal letter="464" page="224" line="3">
+    <bzg>Freundes</bzg> <link ref="lindner-jg" linktext="true" />
+   </marginal>
+
+      <marginal letter="464" page="224" line="7">
+    <bzg>Strauchin</bzg> die jüngere Schwester; Witwe von Strauch, Bernhard Matthias (1741- 1776), evang. Theologe, Pfarrer an der Altroßgärtschen Kirche ?!?
+   </marginal>
+
+      <marginal letter="464" page="224" line="13">
+    <bzg>HEn Brüder</bzg> <link ref="lindner-gi" linktext="true" /> und <link ref="lindner-jef" linktext="true" /> 
+   </marginal>
+
+        <marginal letter="464" page="224" line="22">
+    <bzg>Pulver</bzg> vgl. <intlink letter="463" page="222" line="1" linktext="true" />
+   </marginal>
+
+        <marginal letter="464" page="224" line="24">
+    <bzg>Consistorialräthin</bzg> <link ref="lindner-aa" linktext="true" />  
+   </marginal>
+
+           <marginal letter="464" page="224" line="28">
+    <bzg>Kindes</bzg> vgl. <intlink letter="462" page="220" line="26" linktext="true" />
+   </marginal>
+
+        <marginal letter="464" page="224" line="31">
+    <bzg>Gutes und Barmherzigkeit</bzg> <link ref="at-ps" subref="at-ps23" linktext="false">Ps 23,6</link>
+   </marginal>
+
+           <marginal letter="464" page="225" line="3">
+    <bzg>Lauson</bzg> <link ref="lauson" linktext="true" /> 
+   </marginal>
+
+           <marginal letter="464" page="225" line="5">
+    <bzg>Pentzel</bzg> <link ref="penzel" linktext="true" /> 
+   </marginal>
+
+           <marginal letter="464" page="225" line="9">
+    <bzg>zween Briefen</bzg> vgl. <intlink letter="463" page="221" line="16" linktext="true" />
+   </marginal>
+
+          <marginal letter="464" page="225" line="10">
+    <bzg>einheimisches Leiden</bzg> Krankheit seiner Frau <link ref="lindner-ha" linktext="true" /> 
+   </marginal>
+
+             <marginal letter="464" page="225" line="17">
+    <bzg>Wenn mein Stündlein …</bzg> Lied von Nikolaus Hermann
+   </marginal>
+
+             <marginal letter="464" page="225" line="34">
+    <bzg>eiteln Lebens</bzg> <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,2</link>
+   </marginal>
+
+            <marginal letter="464" page="226" line="6">
+    <bzg>Lotterie Direction</bzg> bei <link ref="kanter" linktext="true" />
+   </marginal>
+
+            <marginal letter="464" page="226" line="20">
+    <bzg>Zeitungen</bzg> <link ref="kgpz" linktext="true" />
+   </marginal>
+
+            <marginal letter="464" page="226" line="24">
+    <bzg>Mitow</bzg> Mitau, heute Jelgava, Lettland [56° 39′ N, 23° 43′ O] (40&#x202F;km südwestlich von Riga)
+   </marginal>
+
+
 
 
 </marginalien>
