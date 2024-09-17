@@ -35413,7 +35413,7 @@ Brief Nr. 294
 </marginal>
 
 <marginal letter="294" page="316" line="27">
-<bzg>Winkelmansche Urteil</bzg> <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true" />, S.359: „Callimachus und Nicander aus der sogenannten Plejas, oder dem Siebengestirn der Dichter, an dem Hofe des Prolemäus Philadelphus, suchten mehr Gelehrte, als Dichter, zu erscheinen, und sich mit alten und fremden Worten und Redensarten zu zeigen, und sonderlich Lycophron, einer unter diesen sieben, wollte lieber besessen, als begeistert scheinen, und mit Schweiß und Pein verstanden werden, als gefallen; er scheint der erste unter den Griechen zu seyn, welcher anfieng, mit Anagrammen zu spielen.“
+<bzg>Winkelmansche Urteil</bzg> <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true" />, S.359: „Callimachus und Nicander aus der sogenannten Plejas, oder dem Siebengestirn der Dichter, an dem Hofe des Ptolemäus Philadelphus, suchten mehr Gelehrte, als Dichter, zu erscheinen, und sich mit alten und fremden Worten und Redensarten zu zeigen, und sonderlich Lycophron, einer unter diesen sieben, wollte lieber besessen, als begeistert scheinen, und mit Schweiß und Pein verstanden werden, als gefallen; er scheint der erste unter den Griechen zu seyn, welcher anfieng, mit Anagrammen zu spielen.“
 </marginal>
 
 <marginal letter="294" page="316" line="28">
@@ -35587,7 +35587,11 @@ Brief Nr. 295
 </marginal>
 
 <marginal letter="295" page="319" line="30">
-<bzg>Löbnichtsche Schule</bzg> wo der Bruder eine Anstellung hat
+<bzg>Löbnichtsche Schule</bzg> wo <link ref="hamann-jc" linktext="true" /> eine Anstellung hat
+</marginal>
+
+<marginal letter="295" page="319" line="33">
+<bzg>Vater</bzg> <link ref="hamann-vjc" linktext="true" />
 </marginal>
 
 <marginal letter="295" page="319" line="35" sort="1">
@@ -35604,6 +35608,10 @@ Brief Nr. 295
 
 <marginal letter="295" page="319" line="37">
 <bzg>Bewegungen der Goldnen Ader</bzg> Hämorrhoiden
+</marginal>
+
+<marginal letter="295" page="320" line="5">
+<bzg>Herder</bzg> <link ref="herder" linktext="true" />
 </marginal>
 
 <marginal letter="295" page="320" line="7">
@@ -35744,6 +35752,10 @@ Brief Nr. 296
 <bzg>Tottien</bzg> <link ref="tottien-ca" linktext="true" />
 </marginal>
 
+<marginal letter="296" page="322" line="4">
+<bzg>Vater</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
 <marginal letter="296" page="322" line="8">
 <bzg>Epistl.</bzg> Empfehlungsschreiben, vgl. <intlink letter="295" page="318" line="32" linktext="true" />
 </marginal>
@@ -35791,7 +35803,7 @@ Brief Nr. 297
 </marginal>
 
 <marginal letter="297" page="322" line="32">
-<bzg>manum de tabula!</bzg> dt. „Hand vom Bild!“ (im Sinne von: nicht weiter anrühren, nach <link ref="plinius" subref="plinius-natur" linktext="true" />, XXXV,36,80)
+<bzg>manum de tabula!</bzg> dt. Hand vom Bild! (im Sinne von: nicht weiter anrühren, nach <link ref="plinius" subref="plinius-natur" linktext="true" />, XXXV,36,80)
 </marginal>
 
 <marginal letter="297" page="323" line="1">
@@ -35821,7 +35833,7 @@ Brief Nr. 298
 </marginal>
 
 <marginal letter="298" page="324" line="3">
-<bzg>Mallet</bzg> <link ref="mallet-ph" subref="mallet-ph-celts" linktext="true" /> 
+<bzg>Mallet</bzg> <link ref="mallet-ph" subref="mallet-ph-geschichte" linktext="true" /> 
 </marginal>
 
 <marginal letter="298" page="324" line="6">
@@ -35869,7 +35881,7 @@ Brief Nr. 298
 </marginal>
 
 <marginal letter="298" page="324" line="34">
-<bzg>(Θεοδωπος Σαμιος)&#x202F;…</bzg> dt. „[Diese Skias soll ein Werk] des Samiers Thoedoros sein, der als erster erfand, Eisen zu gießen und daraus Bildwerke zu formen“ (<link ref="pausanias" subref="pausanias-opera" linktext="true" />, III,12,10,  Bd.&#x202F;1, S.&#x202F;296f.).
+<bzg>(Θεοδωπος Σαμιος)&#x202F;…</bzg> dt. „[Diese Skias soll ein Werk] des Samiers Theodoros sein, der als erster erfand, Eisen zu gießen und daraus Bildwerke zu formen“ (<link ref="pausanias" subref="pausanias-opera" linktext="true" />, III,12,10,  Bd.&#x202F;1, S.&#x202F;296f.).
 </marginal>
 
 <marginal letter="298" page="324" line="36">
@@ -35927,11 +35939,15 @@ Brief Nr. 299
 </marginal>
 
 <marginal letter="299" page="326" line="1">
-<bzg>Schuldiderot</bzg> <link ref="diderot" linktext="true" /> 
+<bzg>Schuldiderot</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />
 </marginal>
 
 <marginal letter="299" page="326" line="2">
 <bzg>Rikkoboni</bzg> Lodovico Riccoboni d. Ä. (1674–1753), ital. Schauspieler und Schauspieldirektor
+</marginal>
+
+<marginal letter="299" page="326" line="4">
+<bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />
 </marginal>
 
 <marginal letter="299" page="326" line="13">
@@ -36074,6 +36090,18 @@ Die adressierte Behörde ist nicht spezifiziert: In HKB 300 (II 330/3) spricht H
 
 <marginal letter="300" page="328" line="25">
 <bzg>Ostracismi</bzg> Ostrakismos, Verbannung von Politikern aus Athen, die tyrannischer Ambitionen verdächtigt wurden
+</marginal>
+
+<marginal letter="300" page="328" line="28">
+<bzg>Mutter</bzg> <link ref="hamann-mm" linktext="true" />  
+</marginal>
+
+<marginal letter="300" page="328" line="29">
+<bzg>Vater</bzg> <link ref="hamann-vjc" linktext="true" />  
+</marginal>
+
+<marginal letter="300" page="328" line="30">
+<bzg>Bruder</bzg> <link ref="hamann-jc" linktext="true" />  
 </marginal>
 
 <marginal letter="300" page="328" line="31">
