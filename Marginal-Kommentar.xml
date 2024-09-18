@@ -34147,7 +34147,7 @@ Brief Nr. 284
 </marginal>
 
 <marginal letter="284" page="292" line="21">
-<bzg>Vorrede des D. Semlers ... Diaconus</bzg> <link ref="semler" linktext="true" />, in <link ref="baumgarten-sj" subref="baumgarten-glaubenslehre" linktext="true" />. In der Vorrede zum 3. Teil, bes. S.&#xA0;5-9, wehrt sich Baumgarten gegen die publizistische Agitation des Diakons Trescho in <link ref="trescho-sf" subref="trescho-briefe" linktext="true" />, wonach Bs. Meinung von der Gottnatur Jesu ihn als Sozinianer entlarve.
+<bzg>Vorrede des D. Semlers ... Diaconus</bzg> <link ref="semler" linktext="true" />, in <link ref="baumgarten-sj" subref="baumgarten-untersuchung" linktext="true" />. In der Vorrede zum 3. Teil, bes. S.&#xA0;5-9, wehrt sich Semler gegen die publizistische Agitation des Diakons Trescho in <link ref="trescho-sf" subref="trescho-briefe" linktext="true" />, wonach Baumgartens Meinung von der Gottnatur Jesu ihn als Sozinianer entlarve.
 </marginal>
 
 <marginal letter="284" page="292" line="26">
@@ -35413,7 +35413,7 @@ Brief Nr. 294
 </marginal>
 
 <marginal letter="294" page="316" line="27">
-<bzg>Winkelmansche Urteil</bzg> <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true" />, S.359: „Callimachus und Nicander aus der sogenannten Plejas, oder dem Siebengestirn der Dichter, an dem Hofe des Prolemäus Philadelphus, suchten mehr Gelehrte, als Dichter, zu erscheinen, und sich mit alten und fremden Worten und Redensarten zu zeigen, und sonderlich Lycophron, einer unter diesen sieben, wollte lieber besessen, als begeistert scheinen, und mit Schweiß und Pein verstanden werden, als gefallen; er scheint der erste unter den Griechen zu seyn, welcher anfieng, mit Anagrammen zu spielen.“
+<bzg>Winkelmansche Urteil</bzg> <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true" />, S.359: „Callimachus und Nicander aus der sogenannten Plejas, oder dem Siebengestirn der Dichter, an dem Hofe des Ptolemäus Philadelphus, suchten mehr Gelehrte, als Dichter, zu erscheinen, und sich mit alten und fremden Worten und Redensarten zu zeigen, und sonderlich Lycophron, einer unter diesen sieben, wollte lieber besessen, als begeistert scheinen, und mit Schweiß und Pein verstanden werden, als gefallen; er scheint der erste unter den Griechen zu seyn, welcher anfieng, mit Anagrammen zu spielen.“
 </marginal>
 
 <marginal letter="294" page="316" line="28">
@@ -35587,7 +35587,11 @@ Brief Nr. 295
 </marginal>
 
 <marginal letter="295" page="319" line="30">
-<bzg>Löbnichtsche Schule</bzg> wo der Bruder eine Anstellung hat
+<bzg>Löbnichtsche Schule</bzg> wo <link ref="hamann-jc" linktext="true" /> eine Anstellung hat
+</marginal>
+
+<marginal letter="295" page="319" line="33">
+<bzg>Vater</bzg> <link ref="hamann-vjc" linktext="true" />
 </marginal>
 
 <marginal letter="295" page="319" line="35" sort="1">
@@ -35604,6 +35608,10 @@ Brief Nr. 295
 
 <marginal letter="295" page="319" line="37">
 <bzg>Bewegungen der Goldnen Ader</bzg> Hämorrhoiden
+</marginal>
+
+<marginal letter="295" page="320" line="5">
+<bzg>Herder</bzg> <link ref="herder" linktext="true" />
 </marginal>
 
 <marginal letter="295" page="320" line="7">
@@ -35744,6 +35752,10 @@ Brief Nr. 296
 <bzg>Tottien</bzg> <link ref="tottien-ca" linktext="true" />
 </marginal>
 
+<marginal letter="296" page="322" line="4">
+<bzg>Vater</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
 <marginal letter="296" page="322" line="8">
 <bzg>Epistl.</bzg> Empfehlungsschreiben, vgl. <intlink letter="295" page="318" line="32" linktext="true" />
 </marginal>
@@ -35791,7 +35803,7 @@ Brief Nr. 297
 </marginal>
 
 <marginal letter="297" page="322" line="32">
-<bzg>manum de tabula!</bzg> dt. „Hand vom Bild!“ (im Sinne von: nicht weiter anrühren, nach <link ref="plinius" subref="plinius-natur" linktext="true" />, XXXV,36,80)
+<bzg>manum de tabula!</bzg> dt. Hand vom Bild! (im Sinne von: nicht weiter anrühren, nach <link ref="plinius" subref="plinius-natur" linktext="true" />, XXXV,36,80)
 </marginal>
 
 <marginal letter="297" page="323" line="1">
@@ -35821,7 +35833,7 @@ Brief Nr. 298
 </marginal>
 
 <marginal letter="298" page="324" line="3">
-<bzg>Mallet</bzg> <link ref="mallet-ph" subref="mallet-ph-celts" linktext="true" /> 
+<bzg>Mallet</bzg> <link ref="mallet-ph" subref="mallet-ph-geschichte" linktext="true" /> 
 </marginal>
 
 <marginal letter="298" page="324" line="6">
@@ -35869,7 +35881,7 @@ Brief Nr. 298
 </marginal>
 
 <marginal letter="298" page="324" line="34">
-<bzg>(Θεοδωπος Σαμιος)&#x202F;…</bzg> dt. „[Diese Skias soll ein Werk] des Samiers Thoedoros sein, der als erster erfand, Eisen zu gießen und daraus Bildwerke zu formen“ (<link ref="pausanias" subref="pausanias-opera" linktext="true" />, III,12,10,  Bd.&#x202F;1, S.&#x202F;296f.).
+<bzg>(Θεοδωπος Σαμιος)&#x202F;…</bzg> dt. „[Diese Skias soll ein Werk] des Samiers Theodoros sein, der als erster erfand, Eisen zu gießen und daraus Bildwerke zu formen“ (<link ref="pausanias" subref="pausanias-opera" linktext="true" />, III,12,10,  Bd.&#x202F;1, S.&#x202F;296f.).
 </marginal>
 
 <marginal letter="298" page="324" line="36">
@@ -35927,11 +35939,15 @@ Brief Nr. 299
 </marginal>
 
 <marginal letter="299" page="326" line="1">
-<bzg>Schuldiderot</bzg> <link ref="diderot" linktext="true" /> 
+<bzg>Schuldiderot</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />
 </marginal>
 
 <marginal letter="299" page="326" line="2">
 <bzg>Rikkoboni</bzg> Lodovico Riccoboni d. Ä. (1674–1753), ital. Schauspieler und Schauspieldirektor
+</marginal>
+
+<marginal letter="299" page="326" line="4">
+<bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />
 </marginal>
 
 <marginal letter="299" page="326" line="13">
@@ -36074,6 +36090,18 @@ Die adressierte Behörde ist nicht spezifiziert: In HKB 300 (II 330/3) spricht H
 
 <marginal letter="300" page="328" line="25">
 <bzg>Ostracismi</bzg> Ostrakismos, Verbannung von Politikern aus Athen, die tyrannischer Ambitionen verdächtigt wurden
+</marginal>
+
+<marginal letter="300" page="328" line="28">
+<bzg>Mutter</bzg> <link ref="hamann-mm" linktext="true" />  
+</marginal>
+
+<marginal letter="300" page="328" line="29">
+<bzg>Vater</bzg> <link ref="hamann-vjc" linktext="true" />  
+</marginal>
+
+<marginal letter="300" page="328" line="30">
+<bzg>Bruder</bzg> <link ref="hamann-jc" linktext="true" />  
 </marginal>
 
 <marginal letter="300" page="328" line="31">
@@ -36287,7 +36315,7 @@ Brief Nr. 301
 </marginal>
 
 <marginal letter="301" page="332" line="16" sort="2">
-<bzg>Bayle</bzg> Vorrede zu <link ref="bayle" subref="bayle-dictionnaire" linktext="true" /> 
+<bzg>Bayle</bzg> <link ref="friedrich-II" subref="fr-bayle" linktext="true" /> 
 </marginal>
 
 <marginal letter="301" page="332" line="18">
@@ -36453,10 +36481,6 @@ dem XXIII. Theil
 <bzg>Recensent</bzg> Hamanns Rezension von <link ref="kant" subref="kant-beobachtungen" linktext="true" /> in <link ref="kgpz" linktext="true" />, 26.&#x202F;St. vom 30.4.1764 (N&#x202F;IV,289–292)
 </marginal>
 
-<marginal letter="302" page="336" line="28">
-<bzg>Schweizerlobes</bzg> in der Denkart von <link ref="rousseau" linktext="true" />
-</marginal>
-
 <marginal letter="302" page="336" line="29">
 <bzg>Rousseauische</bzg> <link ref="rousseau" linktext="true" />
 </marginal>
@@ -36594,7 +36618,11 @@ Brief Nr. 304
 </marginal>
 
 <marginal letter="304" page="339" line="7">
-<bzg>Edda</bzg> vgl. <intlink letter="294" page="317" line="15" linktext="true" /> 
+<bzg>Edda</bzg> <link ref="mallet-ph" subref="mallet-ph-celts" linktext="true" />; vgl. <intlink letter="294" page="317" line="15" linktext="true" /> 
+</marginal>
+
+<marginal letter="304" page="339" line="8">
+<bzg>vaterlandsche Geschichte</bzg> <link ref="mallet-ph" subref="mallet-ph-geschichte" linktext="true" /> 
 </marginal>
 
 <marginal letter="304" page="339" line="10">
@@ -36646,11 +36674,15 @@ Brief Nr. 304
 </marginal>
 
 <marginal letter="304" page="340" line="4">
-<bzg>Jacobi Catechismus</bzg> <link ref="jacobi-jf" subref="jacobi-katechismus" linktext="true" />, vgl. <link ref="messkatalog" subref="messkatalog-ostern1765" linktext="true" />, 560.
+<bzg>Jacobi Catechismus</bzg> <link ref="jacobi-jf" subref="jacobi-katechismus" linktext="true" />
 </marginal>
 
 <marginal letter="304" page="340" line="6">
 <bzg>Vale et fave</bzg> dt. lebe wohl und sei mir gewogen
+</marginal>
+
+<marginal letter="304" page="340" line="8">
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="304" page="340" line="9">
@@ -36837,7 +36869,7 @@ Brief Nr. 307
 </marginal>
 
 <marginal letter="307" page="343" line="18" sort="2">
-<bzg>Rumthal zum Herzog</bzg> nicht ermittelt 
+<bzg>Rumthal zum Herzog</bzg> <link ref="biron" linktext="true" />, Herzog von Kurland, der in Schloss Rundāle/Ruhenthal in Semgallen residierte (heute Lettland, Bauskas novads, 56° 24′ N, 24° 11′ O).
 </marginal>
 
 <marginal letter="307" page="343" line="25">
@@ -39207,7 +39239,7 @@ Brief Nr. 333
 </marginal>
 
 <marginal letter="333" page="382" line="19" sort="1">
-<bzg>Linsen zu werfen</bzg> Nach <link ref="quintilian" linktext="true" /> belohnte Alexander der Große einen Künstler, der eine Linse durch ein Nadelöhr warf, mit einem Scheffel Linsen; vgl. N&#x202F;II,64, 32ff. (<link ref="hamann" subref="sokratischedenk" linktext="true" />)
+<bzg>Linsen zu werfen</bzg> Nach <link ref="quintilian" linktext="true" /> belohnte Alexander der Große einen Künstler, der eine Linse durch ein Nadelöhr warf, mit einem Scheffel Linsen; vgl. <link ref="hamann" subref="sokratischedenk" linktext="true" />, SD S.&#x202F;18/1, N&#x202F;II,64/32ff.
 </marginal>
 
 <marginal letter="333" page="382" line="19" sort="2">
