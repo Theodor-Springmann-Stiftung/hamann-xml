@@ -56626,7 +56626,45 @@ Brief Nr. 464
             <marginal letter="464" page="226" line="24">
     <bzg>Mitow</bzg> Mitau, heute Jelgava, Lettland [56° 39′ N, 23° 43′ O] (40&#x202F;km südwestlich von Riga)
    </marginal>
+   
 
+Brief Nr. 465
+
+ <marginal letter="465" page="226" line="26">
+    <bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />
+   </marginal>
+
+ <marginal letter="465" page="227" line="1">
+    <bzg>Claudius und Schmidlin … Hintz</bzg> <link ref="claudius" linktext="true" />, <link ref="schmidlin" linktext="true" />; <link ref="hinz" linktext="true" />
+   </marginal>
+
+ <marginal letter="465" page="227" line="2">
+    <bzg>Gevatter</bzg> <link ref="kanter" linktext="true" />
+   </marginal>
+
+    <marginal letter="465" page="227" line="4" sort="1">
+    <bzg>Assmus</bzg> <link ref="claudius" subref="claudius-werke" linktext="true" />
+   </marginal>
+
+       <marginal letter="465" page="227" line="4" sort="2">
+    <bzg>hier. Briefe</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />
+   </marginal>
+
+       <marginal letter="465" page="227" line="8">
+    <bzg>Herder</bzg> <link ref="herder" linktext="true" />
+   </marginal>
+
+          <marginal letter="465" page="227" line="20">
+    <bzg>Erl. Pr.</bzg> <link ref="lilienthal-m" subref="erl-preussen" linktext="true" /> 
+   </marginal>
+
+          <marginal letter="465" page="227" line="21">
+    <bzg>Schwäger</bzg> Toussaint, Frédéric (1751- 1809), Kaufmann und Kommerzienrat und ?!?
+   </marginal> 
+
+          <marginal letter="465" page="227" line="22">
+    <bzg>Abschrift des Bogens</bzg> vgl. <intlink letter="462" page="220" line="28" linktext="true" />
+   </marginal>
 
 
 
