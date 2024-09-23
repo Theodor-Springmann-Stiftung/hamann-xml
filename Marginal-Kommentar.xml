@@ -41690,6 +41690,10 @@ Brief Nr. 351
 <marginal letter="351" page="420" line="7">
 <bzg>Monument seiner Autorschaft</bzg> Spielt auf die ironische Titelgebung als „Torso“ an in Herders <link ref="herder" subref="herder-torso" linktext="false">Ueber Thomas Abbts Schriften. Der Torso von einem Denkmaal</link>. <link ref="abbt" linktext="true" /> war im 28. Lebensjahr gestorben, die Herausgabe seiner Werke (<link ref="abbt" subref="abbt-werke" linktext="true" />) begann zwei Jahre später (1768), also im fiktiv 30. Lebensjahr. <link ref="klotz" linktext="true" /> wiederum wurde 1768 tatsächlich 30 Jahre alt. Mit „Adam Trescho“ ist wohl Herder gemeint, der von <link ref="trescho-sf" linktext="true" /> als Schüler unterrichtet wurde, sich von dem Lehrer aber abwandte, also von ihm abgefallen ist. 
 </marginal>
+ 
+ <marginal letter="351" page="420" line="9">
+  <bzg>Gemmen</bzg> <link ref="klotz" subref="klotz-steine" linktext="true" />
+ </marginal>
 
 <marginal letter="351" page="420" line="13"> 
 <bzg>Archiv</bzg> <link ref="bodmer" subref="bodmer-archiv" linktext="true" />
@@ -41752,7 +41756,7 @@ Brief Nr. 351
 </marginal>
 
 <marginal letter="351" page="421" line="6" sort="2"> 
-<bzg>Kantens Metaphysik der Moral</bzg> <link ref="kant" subref="kant-grundlegung" linktext="true" /> erschien erst 1785; er erwähnte aber schon lange vorher daran zu arbeiten, vgl. <intlink letter="339" page="390" line="9" linktext="true" />
+<bzg>Kantens Metaphysik der Moral</bzg> <link ref="kant" subref="kant-grundlegung" linktext="true" /> erschien erst 1785; er erwähnte aber schon lange vorher daran zu arbeiten, vgl. <intlink letter="339" page="390" line="9" linktext="true" />.
 </marginal>
 
 <marginal letter="351" page="421" line="7" sort="1"> 
@@ -41768,7 +41772,7 @@ Brief Nr. 351
 </marginal>
 
 <marginal letter="351" page="421" line="10"> 
-<bzg>Cramer</bzg> <link ref="cramer-ja" linktext="true" />, Werk nicht ermittelt
+<bzg>Cramer</bzg> vll. <link ref="cramer-ja" subref="cramer-unterricht"
 </marginal>
 
 <marginal letter="351" page="421" line="12">
@@ -41804,7 +41808,7 @@ Brief Nr. 351
 </marginal>
 
 <marginal letter="351" page="421" line="32"> 
-<bzg>Verdacht des Kurellaschen Gedichts…</bzg> es geht darum, wie <link ref="klotz" linktext="false">Klotz</link> an Herders Jugendgedicht „Fragment zweener dunklen Abendgespräche“ kam (an Herders Jugendfreund, den Sohn von <link ref="kurella" linktext="true" />, vgl. <intlink letter="347" page="404" line="3" linktext="true" />), das Klotz in seiner Herder-Rezension in <link ref="deutsche-bibliothek" linktext="true" />, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;162f. satirisch abdruckte
+<bzg>Verdacht des Kurellaschen Gedichts…</bzg> Es geht darum, wie <link ref="klotz" linktext="false">Klotz</link> an Herders Jugendgedicht „Fragment zweener dunklen Abendgespräche“ kam (an Herders Jugendfreund, den Sohn von <link ref="kurella" linktext="true" />, vgl. <intlink letter="347" page="404" line="3" linktext="true" />), das Klotz in seiner Herder-Rezension in <link ref="deutsche-bibliothek" linktext="true" />, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;162f. satirisch abdruckte.
 </marginal>
 
 <marginal letter="351" page="421" line="34" sort="1">
@@ -41834,11 +41838,11 @@ Brief Nr. 352
 </marginal>
 
 <marginal letter="352" page="422" line="15"> 
-<bzg>Riedel…</bzg> Hamann las vmtl. in <link ref="riedel" subref="riedel-publicum" linktext="true" />, S.&#x202F;217 den Verweis auf die „neue Auflage“ von <link ref="herder" subref="herder-fragmente" linktext="true" /> (sowie polemisch gewendete Zitate daraus bei <link ref="riedel" subref="riedel-publicum" linktext="true" />, S.&#x202F;204 und S.&#x202F;214); Herder erklärte sich das so, dass Riedel sich auf unrechtmässige Weise Bogen seiner Fragmente aus der Druckerei verschaffte, vgl. die in SWS IV,&#x202F;337–341 abgedruckten öffentlichen Bezichtigungen und <intlink letter="358" page="437" line="29" linktext="true" />
+<bzg>Riedel…</bzg> Hamann las vmtl. in <link ref="riedel" subref="riedel-publicum" linktext="true" />, S.&#x202F;217 den Verweis auf die „neue Auflage“ von <link ref="herder" subref="herder-fragmente" linktext="true" /> (sowie polemisch gewendete Zitate daraus bei <link ref="riedel" subref="riedel-publicum" linktext="true" />, S.&#x202F;204 und S.&#x202F;214). Herder erklärte sich das so, dass Riedel sich auf unrechtmässige Weise Bogen seiner Fragmente aus der Druckerei verschaffte, vgl. die in SWS IV,&#x202F;337–341 abgedruckten öffentlichen Bezichtigungen und <intlink letter="358" page="437" line="29" linktext="true" />.
 </marginal>
 
 <marginal letter="352" page="422" line="17"> 
-<bzg>Latitudinarium</bzg> meint eigentlich eine tolerante bzw. liberale Haltung in der englischen Theologie des 18. Jhd.; auch pejorativ verwendet, wenn jemand sein Gewissen dehnt, um einen persönlichen Vorteil zu erlangen
+<bzg>Latitudinarium</bzg> Meint eigentlich eine gegenüber der Religionsausübung tolerante bzw. liberale Haltung in der englischen Theologie des 18. Jhd.; auch pejorativ verwendet, wenn jemand sein Gewissen dehnt, um einen persönlichen Vorteil zu erlangen.
 </marginal>
 
 <marginal letter="352" page="422" line="18" sort="1"> 
@@ -41888,15 +41892,15 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="423" line="12">
-<bzg>Krieg</bzg> das Russische Reich, zu dem Riga gehörte, führte seit 1768 Krieg mit der Türkei (die Kriegsschauplätze waren aber eher am schwarzen Meer); zugleich bereitete erhöhter, auch militärischer Druck auf Polen die erste Teilung von 1772 vor
+<bzg>Krieg</bzg> Das Russische Reich, zu dem Riga gehörte, führte seit 1768 Krieg mit der Türkei (die Kriegsschauplätze waren aber eher am schwarzen Meer); zugleich bereitete erhöhter, auch militärischer Druck auf Polen die erste Teilung von 1772 vor.
 </marginal>
 
 <marginal letter="353" page="423" line="13">
-<bzg>Zwingel</bzg> <link ref="zwingli" linktext="true" /> kam als Feldprediger in der Schlacht bei Kappel um
+<bzg>Zwingel</bzg> <link ref="zwingli" linktext="true" /> kam als Feldprediger in der Schlacht bei Kappel um.
 </marginal>
 
 <marginal letter="353" page="423" line="14">
-<bzg>Nachtrag zu den Briefen der Montague</bzg> <link ref="montague" subref="montague-nachtrag" linktext="true" /> (die <link ref="montague" subref="montague-letters" linktext="false">Briefe der Lady Montague</link> handelten auch von den Sitten der Türken; Hamann behandelte sie in <link ref="kgpz" linktext="true" />, vgl. <intlink letter="264" page="253" line="17" linktext="true" />)
+<bzg>Nachtrag zu den Briefen der Montague</bzg> <link ref="montague" subref="montague-nachtrag" linktext="true" /> (die <link ref="montague" subref="montague-letters" linktext="false">Briefe der Lady Montague</link> handelten auch von den Sitten der Türken; Hamann behandelte sie in <link ref="kgpz" linktext="true" />, vgl. <intlink letter="264" page="253" line="17" linktext="true" />).
 </marginal>
 
 <marginal letter="353" page="423" line="15" sort="1">
@@ -41904,14 +41908,14 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="423" line="15" sort="2">
-<bzg>Loder</bzg> Johann Loder (1687–1775), protestantischer Theologe in Riga und Oberkonsistorialrath; Herder verließ Riga 1769 als dessen designierter Nachfolger
+<bzg>Loder</bzg> Johann Loder (1687–1775), protestantischer Theologe in Riga und Oberkonsistorialrath. Herder verließ Riga 1769 als dessen designierter Nachfolger.
 </marginal>
 
 <marginal letter="353" page="423" line="24">
 <bzg>Lindner…</bzg> <link ref="lindner-jg" linktext="true" />, vgl. <intlink letter="324" page="367" line="27" linktext="true" />
 </marginal>
 
-<marginal letter="353" page="423" line="26">
+<marginal letter="353" page="423" line="27">
 <bzg>Willamov</bzg> <link ref="willamovius" linktext="true" />
 </marginal>
 
@@ -41940,7 +41944,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="424" line="14">
-<bzg>Vikar</bzg> die im 4. Buch von <link ref="rousseau" subref="rousseau-emile" linktext="true" /> eingeschobene „Profession de foi du vicaire savoyard“ war eine der umstrittensten Passagen und der Hauptgrund für die Zensur des Buches
+<bzg>Vikar</bzg> Die im 4. Buch von <link ref="rousseau" subref="rousseau-emile" linktext="true" /> eingeschobene „Profession de foi du vicaire savoyard“ war eine der umstrittensten Passagen und der Hauptgrund für die Zensur des Buches.
 </marginal>
 
 <marginal letter="353" page="424" line="15" sort="1">
@@ -42000,7 +42004,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="425" line="7">
-<bzg>Abhandlung vom Geschmack</bzg> die „Introduction On Taste“ zu <link ref="burke" subref="burke-enquiry" linktext="true" /> war bereits in der <wwwlink address="https://books.google.de/books?id=UjQVAAAAQAAJ">2. Auflage von 1759</wwwlink> enthalten, ebenso in allen weiteren
+<bzg>Abhandlung vom Geschmack</bzg> Die „Introduction on Taste“ zu <link ref="burke" subref="burke-enquiry" linktext="true" /> war bereits in der <wwwlink address="https://books.google.de/books?id=UjQVAAAAQAAJ">2. Auflage von 1759</wwwlink> enthalten, ebenso in allen weiteren.
 </marginal>
 
 <marginal letter="353" page="425" line="8">
@@ -42008,7 +42012,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="425" line="12">
-<bzg>Darjes-Riedel-Hutchesonschen Aesthetik</bzg> Joachim Georg Darjes (1714–1791), schriftstellernder Jurist; <link ref="riedel" subref="riedel-theorie" linktext="true" />; <link ref="hutcheson" subref="hutcheson-beauty" linktext="true" />
+<bzg>Darjes-Riedel-Hutchesonschen Aesthetik</bzg> <link ref="darjes" subref="darjes-sitten" linktext="true" />; <link ref="riedel" subref="riedel-theorie" linktext="true" />; <link ref="hutcheson" subref="hutcheson-beauty" linktext="true" />
 </marginal>
 
 <marginal letter="353" page="425" line="13">
@@ -42016,8 +42020,8 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="425" line="14">
-<bzg>Rußischen Platon…</bzg> <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399177-0"><titel>Rechtgläubige Lehre, oder kurzer Auszug der christlichen Theologie</titel> […] verfasset von Seiner Kaiserlichen Hoheit Lehrer, dem Jeromonach Platon, nunmehrigen Archimandriten des Troitzschen Klosters.</wwwlink> Aus dem Rußischen (Riga: Hartknoch 1770); vgl. Herders Vorrede SWS XXXII,&#x202F;202
-</marginal>Homilien des Chrysostoms 
+<bzg>Rußischen Platon…</bzg> <link ref="levsin" subref="levsin-lehre" linktext="true" />; vgl. Herders Vorrede SWS XXXII,&#x202F;202
+</marginal> 
 
 <marginal letter="353" page="425" line="17">
 <bzg>Homilien des Chrysostoms</bzg> <link ref="chrysostomus" subref="chrysostomus-predigten" linktext="true" />
@@ -42088,7 +42092,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="426" line="18" sort="1">
-<bzg>Gay’schen Oden</bzg> Verschreibung für <link ref="gray" linktext="true" />
+<bzg>Gay’schen Oden</bzg> Verschreibung für Gray. <link ref="gray" subref="gray-poems" linktext="true" />
 </marginal>
 
 <marginal letter="353" page="426" line="18" sort="2">
@@ -42100,7 +42104,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="426" line="21">
-<bzg>Royalfolio</bzg> etwa 20&#x202F;inches bzw. 51&#x202F;cm Blatthöhe
+<bzg>Royalfolio</bzg> Großfolio-Format, hier 38,4 cm Blatthöhe
 </marginal>
 
 <marginal letter="353" page="426" line="24">
@@ -42192,7 +42196,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="427" line="29">
-<bzg>zweiten Stück über Abbt</bzg> gemeint ist der zweite Teil von <link ref="herder" subref="herder-torso" linktext="true" />, der aber nicht veröffentlicht wurde; Herder rechnete öffentlich mit Klotz ab in <link ref="herder" subref="herder-waelder" linktext="true" />
+<bzg>zweiten Stück über Abbt</bzg> Gemeint ist der zweite Teil von <link ref="herder" subref="herder-torso" linktext="true" />, der aber nicht veröffentlicht wurde; Herder rechnete öffentlich mit Klotz ab in <link ref="herder" subref="herder-waelder" linktext="true" />.
 </marginal>
 
 <marginal letter="353" page="427" line="30">
@@ -42204,7 +42208,7 @@ Brief Nr. 353
 </marginal>
 
 <marginal letter="353" page="427" line="34" sort="1">
-<bzg>halben Bogen anlegen</bzg> Herder war mit dem Schreiben des Briefs am unteren Ende der Seite angelangt und quetschte das PS in die Marginalie
+<bzg>halben Bogen anlegen</bzg> Herder war mit dem Schreiben des Briefs am unteren Ende der Seite angelangt und quetschte das PS in die Marginalie.
 </marginal>
 
 <marginal letter="353" page="427" line="34" sort="2">
@@ -42279,10 +42283,6 @@ Brief Nr. 355
 <bzg>sine die et consule</bzg> ohne Tag und Jahreszahl (die Römer benannten die Jahre nach den regierenden Konsuln); gemeint ist <intlink letter="353" page="423" line="2" linktext="true" /> (vorher schrieb Herder im April 1768)
 </marginal>
 
-<marginal letter="355" page="430" line="27" sort="2">
-<bzg>die Beyl.</bzg> wohl den abgeschriebenen corvée-Artikel aus <link ref="encyclopedie" linktext="true" />, vgl. <intlink letter="353" page="428" line="1" linktext="true" />
-</marginal>
-
 <marginal letter="355" page="430" line="31">
 <bzg>Klotzianer</bzg> Angänger von <link ref="klotz" linktext="true" />; vgl. <intlink letter="353" page="427" line="21" linktext="true" />
 </marginal>
@@ -42304,11 +42304,11 @@ Brief Nr. 355
 </marginal>
 
 <marginal letter="355" page="431" line="14" sort="2">
-<bzg>Hamb. Nachrichters Geschwätz</bzg> in den <link ref="ziegra" subref="ziegra-hamburgische" linktext="false">Hamburgischen Nachrichten aus dem Reiche der Gelehrsamkeit</link>, 48.&#x202F;St. vom 21.7.1968, S.&#x202F;391–393 wird Herders Schreibart in <link ref="herder" subref="herder-torso" linktext="true" /> verspottet; im 59.&#x202F;St. vom 29.7.1768, S.&#x202F;477–482 wird Klotz’ Spott von den Hamännchen und der Königsberger Sekte wieder herausgeholt und Herder weiter verspottet
+<bzg>Hamb. Nachrichters Geschwätz</bzg> In den <link ref="ziegra" subref="ziegra-hamburgische" linktext="false">Hamburgischen Nachrichten aus dem Reiche der Gelehrsamkeit</link>, 48.&#x202F;St. vom 21.7.1968, S.&#x202F;391–393 wird Herders Schreibart in <link ref="herder" subref="herder-torso" linktext="true" /> verspottet; im 59.&#x202F;St. vom 29.7.1768, S.&#x202F;477–482 wird Klotz’ Spott von den Hamännchen und der Königsberger Sekte wieder herausgeholt und Herder weiter verspottet.
 </marginal>
 
 <marginal letter="355" page="431" line="15">
-<bzg>Berl. ihrs</bzg> die Anzeige mit Invektive gegen Klotz in <link ref="allgemeine-deutsche-bib" linktext="true" />,12.&#x202F;Bd., 2.&#x202F;St. (1770), S.&#x202F;284f., Kürzel S (Nicolai), passt zeitlich nicht; mglw. ist die Rezension in der <link ref="berlinische" linktext="false">Vossischen Zeitung</link> gemeint, die Hamann auch in <intlink letter="359" page="445" line="11" linktext="true" /> erwähnt
+<bzg>Berl. ihrs</bzg> Die Anzeige mit Invektive gegen Klotz in <link ref="allgemeine-deutsche-bib" linktext="true" />,12.&#x202F;Bd., 2.&#x202F;St. (1770), S.&#x202F;284f., Kürzel S (Nicolai), passt zeitlich nicht; mglw. ist die Rezension in der <link ref="berlinische" linktext="false">Vossischen Zeitung</link> gemeint, die Hamann auch in <intlink letter="359" page="445" line="11" linktext="true" /> erwähnt.
 </marginal>
 
 <marginal letter="355" page="431" line="20">
@@ -42332,7 +42332,7 @@ Brief Nr. 355
 </marginal>
 
 <marginal letter="355" page="431" line="25" sort="1">
-<bzg>4ten Theil</bzg> Herder kündigte einen vierten Teil von <link ref="herder" subref="herder-fragmente" linktext="true" /> verschiedentlich an, publizierte ihn aber nie
+<bzg>4ten Theil</bzg> Herder kündigte einen vierten Teil von <link ref="herder" subref="herder-fragmente" linktext="true" /> verschiedentlich an, publizierte ihn aber nie.
 </marginal>
 
 <marginal letter="355" page="431" line="25" sort="2">
@@ -42360,7 +42360,7 @@ Brief Nr. 355
 </marginal>
 
 <marginal letter="355" page="431" line="36" sort="1">
-<bzg>Sylbe von Ihrem Verf. erfahren soll</bzg> Herder war sehr bedacht auf die Anonymität seiner Publikationen, besonders nach den Indiskretionen der Klotzianer
+<bzg>Sylbe von Ihrem Verf. erfahren soll</bzg> Herder war sehr bedacht auf die Anonymität seiner Publikationen, besonders nach den Indiskretionen der Klotzianer.
 </marginal>
 
 <marginal letter="355" page="431" line="36" sort="2">
@@ -42368,11 +42368,11 @@ Brief Nr. 355
 </marginal>
 
 <marginal letter="355" page="432" line="3">
-<bzg>bruit</bzg> Gerücht; die Rede von einer Königsberger Sekte und den Hamännchen wurde von <link ref="klotz" linktext="false">Klotz</link> bzw. <link ref="riedel" linktext="false">Riedel</link> in <link ref="deutsche-bibliothek" linktext="true" />, 1.&#x202F;Bd. in die Welt gesetzt und etwa in <link ref="ziegra" subref="ziegra-hamburgische" linktext="true"/>, 59.&#x202F;St. vom 29.7.1768, S.&#x202F;477–482 wiederholt
+<bzg>bruit</bzg> Gerücht. Die Rede von einer Königsberger Sekte und den Hamännchen wurde von <link ref="klotz" linktext="false">Klotz</link> bzw. <link ref="riedel" linktext="false">Riedel</link> in <link ref="deutsche-bibliothek" linktext="true" />, 1.&#x202F;Bd. in die Welt gesetzt und etwa in <link ref="ziegra" subref="ziegra-hamburgische" linktext="true"/>, 59.&#x202F;St. vom 29.7.1768, S.&#x202F;477–482 wiederholt.
 </marginal>
 
 <marginal letter="355" page="432" line="11">
-<bzg>China China</bzg> die chininhaltige Chinarinde wurde zur Fiebersenkung verwendet
+<bzg>China China</bzg> Die chininhaltige Chinarinde wurde zur Fiebersenkung verwendet.
 </marginal>
 
 <marginal letter="355" page="432" line="13">
@@ -42380,7 +42380,7 @@ Brief Nr. 355
 </marginal>
 
 <marginal letter="355" page="432" line="15">
-<bzg>Corvée</bzg> der abgeschriebene corvée-Artikel aus der <link ref="encyclopedie" linktext="false">Encyclopédie</link>, vgl. <intlink letter="353" page="428" line="1" linktext="true" />
+<bzg>Corvée</bzg> der abgeschriebene corvée-Artikel, <link ref="argis" subref="argis-corvee" linktext="true" />, vgl. <intlink letter="353" page="428" line="1" linktext="true" />
 </marginal>
 
 <marginal letter="355" page="432" line="19">
@@ -42482,7 +42482,7 @@ Brief Nr. 356
 </marginal>
 
 <marginal letter="356" page="434" line="3">
-<bzg>Verschwiegenheit</bzg> Herder verschwieg zuvor seine Arbeit an den <link ref="herder" subref="herder-waelder" linktext="false"><titel>Kritischen Wäldern</titel></link>; ebenso leugnete er nachher beharrlich seine Autorschaft sowohl im Privaten (vgl. <intlink letter="358" page="439" line="35" linktext="true" />) als auch in öffentlichen Erklärungen (vgl. SWS IV, S.&#x202F;340f.)
+<bzg>Verschwiegenheit</bzg> Herder verschwieg zuvor seine Arbeit an den <link ref="herder" subref="herder-waelder" linktext="false"><titel>Kritischen Wäldern</titel></link>; ebenso leugnete er nachher beharrlich seine Autorschaft sowohl im Privaten (vgl. <intlink letter="358" page="439" line="35" linktext="true" />) als auch in öffentlichen Erklärungen (vgl. SWS IV, S.&#x202F;340f.).
 </marginal>
 
 <marginal letter="356" page="434" line="4" sort="1">
@@ -42536,7 +42536,7 @@ Brief Nr. 357
 </marginal>
 
 <marginal letter="357" page="434" line="34">
-<bzg>Schmähschrift</bzg> <link ref="riedel" linktext="true" /> (ein Freund von <link ref="klotz" linktext="false">Klotz</link>) veröffentlichte in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 9.&#x202F;St. (1769, dem ersten dieses Jahres), S.&#x202F;119–138 eine Polemik gegen <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, und zwar bevor diese ausgeliefert wurde; Herder vermutete einen Diebstahl in der Druckerei und andere Intrigen (vgl. <intlink letter="358" page="439" line="25" linktext="true" />); die Auflage wurde schließlich einbehalten und makuliert, wohl auch um die <link ref="deutsche-bibliothek" linktext="true" /> in die unangenehme Situation zu bringen, ein nicht erschienenes Buch rezensiert zu haben
+<bzg>Schmähschrift</bzg> <link ref="riedel" linktext="true" /> (ein Freund von <link ref="klotz" linktext="false">Klotz</link>) veröffentlichte in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 9.&#x202F;St. (1769, dem ersten dieses Jahres), S.&#x202F;119–138 eine Polemik gegen <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, und zwar bevor diese ausgeliefert wurde; Herder vermutete einen Diebstahl in der Druckerei und andere Intrigen (vgl. <intlink letter="358" page="439" line="25" linktext="true" />); die Auflage wurde schließlich einbehalten und makuliert, wohl auch um die <link ref="deutsche-bibliothek" linktext="true" /> in die unangenehme Situation zu bringen, ein nicht erschienenes Buch rezensiert zu haben.
 </marginal>
 
 <marginal letter="357" page="435" line="2">
@@ -42552,7 +42552,7 @@ Brief Nr. 357
 </marginal>
 
 <marginal letter="357" page="435" line="6">
-<bzg>Blindekuhspiel</bzg> Herder wird mit diesem fortfahren, vgl. <intlink letter="358" page="439" line="35" linktext="true" />, und zwar, wie Hamann schon vermutet, zu seinem Nachteil
+<bzg>Blindekuhspiel</bzg> Herder wird mit diesem fortfahren, vgl. <intlink letter="358" page="439" line="35" linktext="true" />, und zwar, wie Hamann schon vermutet, zu seinem Nachteil.
 </marginal>
 
 <marginal letter="357" page="435" line="10">
@@ -42564,7 +42564,7 @@ Brief Nr. 357
 </marginal>
 
 <marginal letter="357" page="435" line="15">
-<bzg>Kirchen u Schulamt zu verwalten</bzg> in der vorherigen Besprechung der <link ref="herder" subref="herder-fragmente" linktext="false">Fragmente</link> in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;161 wurde neben Herders Namen auch seine Stellung als „Collaborator an einer Classe zu Riga“ enthüllt
+<bzg>Kirchen u Schulamt zu verwalten</bzg> In der vorherigen Besprechung der <link ref="herder" subref="herder-fragmente" linktext="false">Fragmente</link> in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;161 wurde neben Herders Namen auch seine Stellung als „Collaborator an einer Classe zu Riga“ enthüllt.
 </marginal>
 
 <marginal letter="357" page="435" line="30">
@@ -42624,7 +42624,7 @@ Brief Nr. 357
 </marginal>
 
 <marginal letter="357" page="436" line="25">
-<bzg>Pindar…</bzg> Herder bat wohl zuvor Hamann mündlich über <link ref="hartknoch" linktext="true" /> um eine <link ref="pindar" linktext="true" />-Ausgabe; Hamann sandte aber wohl doch seine eigene Ausgabe, jedenfalls schickte Herder sie bald darauf zurück, vgl. <intlink letter="360" page="449" line="33" linktext="true" />
+<bzg>Pindar…</bzg> Herder bat wohl zuvor Hamann mündlich über <link ref="hartknoch" linktext="true" /> um eine <link ref="pindar" linktext="true" />-Ausgabe; Hamann sandte aber wohl doch seine eigene Ausgabe, jedenfalls schickte Herder sie bald darauf zurück, vgl. <intlink letter="360" page="449" line="33" linktext="true" />.
 </marginal>
 
 <marginal letter="357" page="436" line="28">
@@ -42668,13 +42668,13 @@ Brief Nr. 357
 </marginal>
 
 <marginal letter="357" page="437" line="7">
-<bzg>Hintz…</bzg> <link ref="hinz" linktext="true" /> übernahm 1769 mit <link ref="steidel" linktext="true" /> die Mitauer Filiale der <link ref="hartknoch" linktext="false">Hartknochschen Buchhandlung</link>; Hinz betätigte sich aber zu eifrig als Freimaurer (wie Hamann tadelt); schon in seiner Königsberger Zeit betätigte er sich als ‚Redner‘ in der Loge ‚Zu den drei Kronen‘ und bekleidete ein solches Amt auch in Mitau
+<bzg>Hintz…</bzg> <link ref="hinz" linktext="true" /> übernahm 1769 mit <link ref="steidel" linktext="true" /> die Mitauer Filiale der <link ref="hartknoch" linktext="false">Hartknochschen Buchhandlung</link>; Hinz betätigte sich aber zu eifrig als Freimaurer (wie Hamann tadelt); schon in seiner Königsberger Zeit betätigte er sich als ‚Redner‘ in der Loge ‚Zu den drei Kronen‘ und bekleidete ein solches Amt auch in Mitau.
 </marginal>
 
 Brief Nr. 358
 
 <marginal letter="358" page="437" line="11">
-<bzg>Briefen</bzg> Hamann erhielt Herders Brief am <intlink letter="359" page="443" line="10" linktext="false">31. März 1769</intlink>; Herders Brief ist eine Antwort auf <intlink letter="355" page="430" line="25" linktext="false">HKB 355</intlink> und <intlink letter="356" page="433" line="30" linktext="false">HKB 356</intlink>; <intlink letter="357" page="434" line="18" linktext="false">HKB 357</intlink> lag ihm beim Verfassen wohl noch nicht vor
+<bzg>Briefen</bzg> Hamann erhielt Herders Brief am <intlink letter="359" page="443" line="10" linktext="false">31. März 1769</intlink>; Herders Brief ist eine Antwort auf <intlink letter="355" page="430" line="25" linktext="false">HKB 355</intlink> und <intlink letter="356" page="433" line="30" linktext="false">HKB 356</intlink>; <intlink letter="357" page="434" line="18" linktext="false">HKB 357</intlink> lag ihm beim Verfassen wohl noch nicht vor.
 </marginal> 
 
 <marginal letter="358" page="437" line="12">
@@ -42686,11 +42686,11 @@ Brief Nr. 358
 </marginal>
 
 <marginal letter="358" page="437" line="20">
-<bzg>Unvorsichtigkeiten Ihrer Freunde…</bzg> Herder, der eigentlich auf die Anonymität seiner Schriften bedacht war, fühlte sich durch die Veröffentlichung seiner persönlichen Umstände, den Nachdruck privater Gedichte und die Rezension seiner <link ref="herder" subref="herder-fragmente" linktext="false">überarbeiteten Fragmente</link> vor ihrem Erscheinen in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 9.&#x202F;St., S.&#x202F;119–138 verfolgt; eine Quelle der Indiskretionen vermutete er auch im königsberger Tratsch, vgl. zu <intlink letter="357" page="435" line="5" linktext="true" />
+<bzg>Unvorsichtigkeiten Ihrer Freunde…</bzg> Herder, der eigentlich auf die Anonymität seiner Schriften bedacht war, fühlte sich durch die Veröffentlichung seiner persönlichen Umstände, den Nachdruck privater Gedichte und die Rezension seiner <link ref="herder" subref="herder-fragmente" linktext="false">überarbeiteten Fragmente</link> vor ihrem Erscheinen in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 9.&#x202F;St., S.&#x202F;119–138 verfolgt; eine Quelle der Indiskretionen vermutete er auch im königsberger Tratsch, vgl. zu <intlink letter="357" page="435" line="5" linktext="true" />.
 </marginal>
 
 <marginal letter="358" page="437" line="27">
-<bzg>Schrift über das Publikum</bzg> <link ref="herder" subref="herder-publikum" linktext="true" /> wurde zuerst 1765 in Riga bei Frölich gedruckt; die Hamburger Monatsschrift <titel>Unterhaltungen</titel> (hg. von Daniel Schiebeler und Johann Joachim Eschenburg, Hamburg 1766–1770) druckte sie im Januar 1768 nach, offenbar ohne Erlaubnis des Autors
+<bzg>Schrift über das Publikum</bzg> <link ref="herder" subref="herder-publikum" linktext="true" /> wurde zuerst 1765 in Riga bei Frölich gedruckt; die Hamburger Monatsschrift <titel>Unterhaltungen</titel> (hg. von Daniel Schiebeler und Johann Joachim Eschenburg, Hamburg 1766–1770) druckte sie im Januar 1768 nach, offenbar ohne Erlaubnis des Autors.
 </marginal>
 
 <marginal letter="358" page="437" line="28" sort="1">
@@ -42710,7 +42710,7 @@ Brief Nr. 358
 </marginal>
 
 <marginal letter="358" page="437" line="31">
-<bzg>Klotzischen Bibliothek</bzg> <link ref="riedel" linktext="true" /> (ein Freund von <link ref="klotz" linktext="false">Klotz</link>) veröffentlichte in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 9.&#x202F;St., S.&#x202F;119–138 eine Polemik gegen <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, und zwar bevor diese ausgeliefert wurde
+<bzg>Klotzischen Bibliothek</bzg> <link ref="riedel" linktext="true" /> (ein Freund von <link ref="klotz" linktext="false">Klotz</link>) veröffentlichte in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 9.&#x202F;St., S.&#x202F;119–138 eine Polemik gegen <link ref="herder" subref="herder-fragmente" linktext="true" />, 1.&#x202F;Sammlung, 2.&#x202F;Auflage, und zwar bevor diese ausgeliefert wurde.
 </marginal>
 
 <marginal letter="358" page="437" line="35">
@@ -42726,7 +42726,7 @@ Brief Nr. 358
 </marginal>
 
 <marginal letter="358" page="438" line="8">
-<bzg>Citation im Torso</bzg> vgl. <link ref="herder" subref="herder-torso" linktext="true" />, S.&#x202F;600: „[…] wenn Philologen auf abenteuerlichen Kreuzzügen, nicht Bilder unsrer Religion, sondern bloß der Orientalischen Seite unserer Religion geben: nicht sie geben, um in einer edlen, bekannten und nachdrücklichen Sprache, sondern um seltsam, fremde, oder gar possierlich zu reden: so mag dies Mißbrauch sein […]“; der Vorwurf des leichtsinnigen Missbrauchs der biblischen Ausdrücke gegenüber <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" /> wurde seinerzeit auch von <link ref="michaelis" linktext="true" /> erhoben, vgl. HKW: Kreuzzüge/Essays,351
+<bzg>Citation im Torso</bzg> vgl. <link ref="herder" subref="herder-torso" linktext="true" />, S.&#x202F;600: „[…] wenn Philologen auf abenteuerlichen Kreuzzügen, nicht Bilder unsrer Religion, sondern bloß der Orientalischen Seite unserer Religion geben: nicht sie geben, um in einer edlen, bekannten und nachdrücklichen Sprache, sondern um seltsam, fremde, oder gar possierlich zu reden: so mag dies Mißbrauch sein […]“. Der Vorwurf des leichtsinnigen Missbrauchs biblischer Ausdrücke gegenüber <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" /> wurde seinerzeit auch von <link ref="michaelis" linktext="true" /> erhoben, vgl. HKW: Kreuzzüge, 225 (N II,253).
 </marginal>
 
 <marginal letter="358" page="438" line="10">
@@ -42802,15 +42802,15 @@ Brief Nr. 358
 </marginal> 
 
 <marginal letter="358" page="439" line="14">
-<bzg>Versuch über das Ideal des Menschen…</bzg> der Jahrgang 1769 der <link ref="kgpz" linktext="false">Königsbergschen Gelehrten und Politischen Zeitungen</link> ist verschollen; der Aufsatz ist nicht in der <link ref="kant" linktext="false">Akademieausgabe</link> enthalten; Otto Hoffmann (Hg.): Herders Briefe an Joh. Georg Hamann (Berlin 1889), S.&#x202F;244 kommentiert: „Königsb. Ztg. Beylage zum 5. Stück vom 16. Jan. 1769 bringt ‚moralische Betrachtungen, der Mensch nach der Natur. Ein philos. Ideal von J.&#x202F;J. Rousseau.‘ Herr Dr. Reicke hat durch diese Briefstelle seine Vermutung, daß dies ein Kantscher Aufsatz sei, bestätigt gefunden.“
+<bzg>Versuch über das Ideal des Menschen…</bzg> Der Jahrgang 1769 der <link ref="kgpz" linktext="false">Königsbergschen Gelehrten und Politischen Zeitungen</link> ist verschollen; der Aufsatz ist nicht in der <link ref="kant" linktext="false">Akademieausgabe</link> enthalten; Otto Hoffmann (Hg.): Herders Briefe an Joh. Georg Hamann (Berlin 1889), S.&#x202F;244 kommentiert: „Königsb. Ztg. Beylage zum 5. Stück vom 16. Jan. 1769 bringt ‚moralische Betrachtungen, der Mensch nach der Natur. Ein philos. Ideal von J.&#x202F;J. Rousseau.‘ Herr Dr. Reicke hat durch diese Briefstelle seine Vermutung, daß dies ein Kantscher Aufsatz sei, bestätigt gefunden.“
 </marginal>
 
 <marginal letter="358" page="439" line="15">
-<bzg>Auszug aus den Denkwürdigkeiten Petrarchs…</bzg> in seiner Rezension von <link ref="sanseverino" subref="sanseverino-italienischebiographie" linktext="true" /> schreibt Hamann v.a. über Petrarch und Laura, in: <link ref="kgpz" linktext="true" />, 9.&#x202F;St. vom 30.1.1769 (N&#x202F;IV,326–328); am Ende wird auch der Preis genannt: „kostet in der Kanterschen Buchhandlung 2&#x202F;fl, 15&#x202F;gr.“ (fl.: Gulden, Goldmünze, hier aber vmtl. 2 polnische Gulden, eine Silbermünze, entsprach 30 Groschen; gr.: Groschen, Kupfermünze [ca. 90. Teil eines Talers]; für 8 Groschen gab es ca. zwei Pfund Schweinefleisch)
+<bzg>Auszug aus den Denkwürdigkeiten Petrarchs…</bzg> In seiner Rezension von <link ref="sanseverino" subref="sanseverino-italienischebiographie" linktext="true" /> schreibt Hamann v.a. über Petrarch und Laura, in: <link ref="kgpz" linktext="true" />, 9.&#x202F;St. vom 30.1.1769 (N&#x202F;IV,326–328).
 </marginal>
 
 <marginal letter="358" page="439" line="17">
-<bzg>Blatt über die Verjüngung…</bzg> obwohl Hamann sich darauf verließ, schickte Herder nie einen Aufsatz (vgl. <intlink letter="359" page="444" line="32" linktext="true" />); er konzipierte ihn aber im <link ref="herder" subref="herder-reise1769" linktext="false">Journal meiner Reise im Jahr 1769</link>, S.&#x202F;112–126
+<bzg>Blatt über die Verjüngung…</bzg> Obwohl Hamann sich darauf verließ, schickte Herder nie einen Aufsatz (vgl. <intlink letter="359" page="444" line="32" linktext="true" />); er konzipierte ihn aber im <link ref="herder" subref="herder-reise1769" linktext="false">Journal meiner Reise im Jahr 1769</link>, S.&#x202F;112–126.
 </marginal> 
 
 <marginal letter="358" page="439" line="20">
@@ -42830,11 +42830,11 @@ Brief Nr. 358
 </marginal>
 
 <marginal letter="358" page="439" line="28">
-<bzg>Dtsch. und V R</bzg> unter der Sigle „Dtsch.“ erschienen die Rezensionen von <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> und <link ref="herder" subref="herder-fragmente" linktext="true" /> in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St. (1768), S.&#x202F;50–60, und S.&#x202F;161–180; unter der Sigle V&#x202F;R erschien im 9.&#x202F;St. (1769), S.&#x202F;119–138 die Polemik gegen die 2. Auflage der Fragmente; ob <link ref="klotz" linktext="false">Klotz</link> oder <link ref="riedel" linktext="false">Riedel</link> hinter den Siglen standen, ist unsicher
+<bzg>Dtsch. und V R</bzg> unter der Sigle „Dtsch.“ erschienen die Rezensionen von <link ref="lindner-jg" subref="lindner-lehrbuch" linktext="true" /> und <link ref="herder" subref="herder-fragmente" linktext="true" /> in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St. (1768), S.&#x202F;50–60, und S.&#x202F;161–180; unter der Sigle V&#x202F;R erschien im 9.&#x202F;St. (1769), S.&#x202F;119–138 die Polemik gegen die 2. Auflage der Fragmente; ob <link ref="klotz" linktext="false">Klotz</link> oder <link ref="riedel" linktext="false">Riedel</link> hinter den Siglen standen, ist unsicher.
 </marginal>
 
 <marginal letter="358" page="439" line="30">
-<bzg>Weiße hats mir geschrieben…</bzg> vgl. den Brief von <link ref="weise" linktext="true" /> an Herder, 30.121768 (<titel>Johann Gottfried von Herder’s Lebensbild,</titel> I,3,2, S.&#x202F;527); die Entzweiung war aber tatsächlich nur ein Gerücht, wenn auch weit verbreitet
+<bzg>Weiße hats mir geschrieben…</bzg> vgl. den Brief von <link ref="weise" linktext="true" /> an Herder, 30.121768 (<titel>Johann Gottfried von Herder’s Lebensbild,</titel> I,3,2, S.&#x202F;527). Die Entzweiung war aber tatsächlich nur ein Gerücht, wenn auch weit verbreitet.
 </marginal>
 
 <marginal letter="358" page="439" line="31">
