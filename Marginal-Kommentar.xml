@@ -56858,7 +56858,7 @@ Probleme, Fragment eines Programms, N IV,413ff
    </marginal>
 
              <marginal letter="466" page="232" line="1">
-    <bzg>Hinz</bzg> 
+    <bzg>Hinz</bzg> <link ref="hinz" linktext="true" /> 
    </marginal>
 
                 <marginal letter="466" page="232" line="2">
@@ -56880,7 +56880,7 @@ VII,1ff.
    </marginal>
 
                 <marginal letter="466" page="232" line="10">
-    <bzg>Moser, Claudius</bzg> 
+    <bzg>Moser, Claudius</bzg> <link ref="moser" linktext="true" />, <link ref="claudius" linktext="true" /> 
    </marginal>
 
                 <marginal letter="466" page="232" line="11">
@@ -56896,8 +56896,7 @@ Krambambuli
    </marginal>
 
  <marginal letter="466" page="232" line="25">
-    <bzg>Klaudius</bzg> Claudius, auf der Reise nach Darmstadt, Anfang
-Apri
+    <bzg>Klaudius</bzg> <link ref="claudius" linktext="true" />  auf der Reise nach Darmstadt Anfang April
    </marginal>
 
 <marginal letter="466" page="232" line="28">
@@ -56962,7 +56961,7 @@ omnium animalium quadrupedum
    </marginal>
 
                             <marginal letter="466" page="233" line="18">
-    <bzg>Penzel</bzg> 
+    <bzg>Penzel</bzg> <link ref="penzel" linktext="true" /> 
    </marginal>
 
                             <marginal letter="466" page="233" line="19">
@@ -56978,14 +56977,124 @@ omnium animalium quadrupedum
 5, hg. durch die Bremische Deutsche Gesellschaft. 1767/1771
    </marginal>
 
-                            <marginal letter="466" page="233" line="27" sort="1"> 
+ <marginal letter="466" page="233" line="27" sort="1"> 
     <bzg>neues Buch</bzg>
    </marginal>
 
-                            <marginal letter="466" page="233" line="27" sort="2"> 
+  <marginal letter="466" page="233" line="27" sort="2"> 
     <bzg>Preisschrift</bzg> über die beiden Hauptdialekte der Teutschen
 Sprache
    </marginal>
+
+  <marginal letter="466" page="233" line="29" sort="1"> 
+    <bzg>sub Rosa</bzg>
+   </marginal>
+
+  <marginal letter="466" page="233" line="29" sort="2"> 
+    <bzg>Krone</bzg> mit der Schrift Vom Erkennen und Empfinden der
+menschlichen Seele.
+   </marginal>
+
+   <marginal letter="466" page="233" line="30">
+    <bzg>Sulzer</bzg> <link ref="sulzer" linktext="true" /> 
+   </marginal>
+
+   <marginal letter="466" page="233" line="32">
+    <bzg>aufgeschoben</bzg> die Akademie hatte die
+Preisverteilung suspendiert und die Einsender gebeten, bis zu einem neuen Termin
+ergänzende Zusätze zu liefern
+   </marginal>
+
+   <marginal letter="466" page="233" line="34">
+    <bzg>Eberhard</bzg> mit der Schrift Allgemeine Theorie des Denkens und
+Empfindens
+   </marginal>
+
+      <marginal letter="466" page="233" line="36">
+    <bzg>2ten Th. von Lavaters Phys.</bzg> H. auf S. 285ff.; die
+Affenschädel und - köpfe S. 174- 180
+   </marginal>
+
+         <marginal letter="466" page="234" line="2">
+    <bzg>Popens Einfall auf Newton</bzg> vgl die Abfertigung in der Beylage zum 37sten Stück
+der Königsbergschen ... Zeitung, 1772, N III,21,20ff: Mithin ist die sinnreiche
+Hypothese, welche den Ursprung der Sprache menschlicher Erfindung unterschiebt, im
+Grunde ein loser Einfall einiger Newtonianer dießeit des Wassers, die alle, wie Pope
+meint, zum poßierlichen Affengeschlechte gehören, und neuerlich mit dem
+Grundsatze des Widerspruchs alle Besonnenheit scheinen beynahe verleugnet zu
+haben; retorquirt: mit den eigenen Waffen bekämpft.
+   </marginal>
+
+         <marginal letter="466" page="234" line="4">
+    <bzg>Silhouette</bzg> 
+   </marginal>
+
+         <marginal letter="466" page="234" line="5">
+    <bzg>Frau</bzg> <link ref="herder-c" linktext="true" /> 
+   </marginal>
+
+         <marginal letter="466" page="234" line="11">
+    <bzg>Käuzlein</bzg> Ps 102,7.
+   </marginal>
+
+         <marginal letter="466" page="234" line="12">
+    <bzg>Cana in Galiläa</bzg> 
+   </marginal>
+
+         <marginal letter="466" page="234" line="21" sort="1">
+    <bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" /> 
+   </marginal>
+
+         <marginal letter="466" page="234" line="21" sort="2">
+    <bzg>Lindners</bzg> <link ref="lindner-jg" linktext="true" /> 
+   </marginal>
+
+         <marginal letter="466" page="234" line="23" sort="1">
+    <bzg>Hinz</bzg> <link ref="hinz" linktext="true" /> 
+   </marginal>
+
+         <marginal letter="466" page="234" line="23" sort="2">
+    <bzg>Abhandl. vom Geschmack</bzg> 
+   </marginal>
+
+         <marginal letter="466" page="234" line="24">
+    <bzg>Kant</bzg> <link ref="kant" linktext="true" /> 
+   </marginal>
+
+            <marginal letter="466" page="234" line="25" sort="1">
+    <bzg>Klaudius</bzg> <link ref="claudius" linktext="true" /> 
+   </marginal>
+
+            <marginal letter="466" page="234" line="25" sort="2">
+    <bzg>Tönnies</bzg> 
+   </marginal>
+
+            <marginal letter="466" page="234" line="26">
+    <bzg>Offenbahr. Joh.</bzg> 
+   </marginal>
+
+               <marginal letter="466" page="234" line="28">
+    <bzg>Leßing …</bzg> in: Philosophische
+Aufsätze von Karl Wilhelm Jerusalem; herausgegeben von Gotthold Ephraim Lessing,
+1776, wo er zu Jerusalems Aufsatz Daß die Sprache dem ersten Menschen durch
+Wunder nicht mitgetheilt seyn kann angemerkt: Die Sprache kann den ersten
+Menschen seyn gelehret worden: er kann eben so dazu gelangt seyn, wie noch itzt alle
+Kinder dazu gelangen müssen. Fragt man: wodurch? durch wen? Durch Umgang mit
+höhern Geschöpfen; durch Herablassung des Schöpfers selbst: können die Vertheidiger
+dieser Meynung antworten. Laßt es seyn, können sie sagen, daß dieser Umgang, diese
+Herablassung selbst ein Wunder war: das, was durch dieses Wunder bewirket wurde,
+war doch kein Wunder, und es gieng alles dabey so natürlich zu, als es bey
+Vocalmachung der Kinder noch zugeht. Dieses, wenn man billig seyn will, muß man
+gelten lassen. Die Sache ist nur, daß sodann die ganze Aufgabe von dem Ursprunge
+der Sprache keiner reinen philosophischen Auflösung mehr fähig ist, indem der
+mittlere Fall sich lediglich durch historische Gründe erhärten oder verwerfen läßt
+... (Lachmann, X, 4f.).
+   </marginal>
+
+                  <marginal letter="466" page="234" line="31">
+    <bzg>Kunst zu sehen</bzg> 242,15
+   </marginal>
+
 
 
 
