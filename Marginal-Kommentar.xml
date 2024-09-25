@@ -45390,10 +45390,6 @@ Der Brief wurde als Beilage zu <intlink letter="379" page="18" line="17" linktex
 <bzg>erste und vielleicht letzte Arbeit</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, damit kombiert <link ref="hamann" subref="hamann-salomon" linktext="true" />
 </marginal>
 
-<marginal letter="378" page="15" line="30" sort="2">
-<bzg>ausfertigte</bzg> Henkel: »Hamann fingiert wohl die Fertigstellung der Philologischen Einfälle vor dem Empfang des Briefes am 5. Oktober« – scheint nicht falsch, aber wie belegt man das?!? schauen, ob die Reinschriften datiert sind, sonst streichen
-</marginal>
-
 <marginal letter="378" page="15" line="31">
 <bzg>aus der Preße komt…</bzg> Hamann versuchte <link ref="nicolai" linktext="true" /> als Verleger zu gewinnen, was aber misslang (vgl. N&#x202F;III,35/19: „Hier kommt der Drucker der allg. Bibliothek“; zum letztlich gescheiterten Druck der Schrift zu Lebzeiten vgl. N&#x202F;III, S.&#x202F;423f.
 </marginal>
@@ -45407,7 +45403,7 @@ Der Brief wurde als Beilage zu <intlink letter="379" page="18" line="17" linktex
 </marginal>
 
 <marginal letter="378" page="16" line="26">
-<bzg>scriptum est, weil litera scripta manet</bzg> es ist geschrieben, weil der Buchstabe bzw. Brief geschrieben bleibt?!?
+<bzg>scriptum est, weil litera scripta manet</bzg> es ist geschrieben, weil der Buchstabe bzw. Brief geschrieben bleibt
 </marginal>
 
 <marginal letter="378" page="16" line="31">
@@ -45581,7 +45577,7 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="18" line="36">
-<bzg>Hofprediger des Salomons in Norden</bzg> Der Salomon in Norden ist <link ref="friedrich-II" linktext="true" />, nach <link ref="hamann" subref="hamann-salomon" linktext="true" />, dessen Hofprediger wohl <link ref="spalding" linktext="true" />, auf dessen Schrift <link ref="spalding" subref="spalding-nutzbarkeit" linktext="false">Über die Nutzbarkeit des Predigtamtes</link> Hamann anspielt.
+<bzg>Hofprediger des Salomons in Norden</bzg> Der Salomon in Norden ist <link ref="friedrich-II" linktext="true" />, nach <link ref="hamann" subref="hamann-salomon" linktext="true" />, dessen Hofprediger wohl <link ref="spalding" linktext="true" />, auf dessen Schrift <link ref="spalding" subref="spalding-nutzbarkeit" linktext="true" /> Hamann anspielt.
 </marginal>
 
 <marginal letter="379" page="19" line="1">
@@ -45634,6 +45630,10 @@ Brief Nr. 379
 <marginal letter="379" page="19" line="24">
 <bzg>Homer im Galatonschen Gemälde</bzg> Galaton soll, so überliefert <link ref="aelian" subref="aelian-varhist" linktext="true" />, 13,21, Homer erbrechend gemalt haben und dazu andere Dichter, die sich des Erbrochenen bedienten; vgl. <link ref="hamann" subref="hamann-leser" linktext="true" />, HKW: Kreuzzüge/Essays S.&#x202F;286/12, N&#x202F;II S.&#x202F;344/6, ED S.&#x202F;8
 </marginal>
+ 
+ <marginal letter="379" page="19" line="30">
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />
+</marginal>
 
 <marginal letter="379" page="19" line="31">
 <bzg>Simon Magus</bzg> <link ref="nt-apg" subref="nt-apg8" linktext="false">Apg 8,9–24</link>
@@ -45656,7 +45656,7 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="20" line="1">
-<bzg>kleiner Held Zachäus</bzg> frühe Erwähnung des Pseudonyms von <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> hier noch zu Zachäus, vgl. N&#x202F;III,439?!? [Henkel: »Zachäus siebenfach: das Pseudonym der CHRISTIANI ZACCHAEI TELONARCHAE PROLEGOMENA in zweyen Antwortschreiben, wird seine Antwort gemäß den sieben Tagen der Schöpfungswoche geben, im Anschluß an Herders Hermesfigur, die sieben Punkte verbindet« – was meint er? löschen?!?]
+<bzg>kleiner Held Zachäus</bzg> <link ref="nt-lk" subref="nt-lk19" linktext="false">Lk 19,8</link>. Hamanns Pseudonym in <link ref="hamann" subref="hamann-prolegomena" linktext="true" />; vgl. N&#x202F;III,439.
 </marginal>
 
 <marginal letter="379" page="20" line="3">
@@ -45667,12 +45667,8 @@ Brief Nr. 379
 <bzg>mit 2 Schlüßeln…</bzg> <link ref="nt-mt" subref="nt-mt16" linktext="false">Mt 16,19</link>
 </marginal>
 
-<marginal letter="379" page="20" line="4" sort="2">
-<bzg>lahmen Hand zum Schreiben</bzg> ironisiert Nicolais spärliche Korrespondenz mit ihm und dessen wenig inspirierte Autorschaft
-</marginal>
-
 <marginal letter="379" page="20" line="5">
-<bzg>invalide Flügelmann Belisar</bzg> nach <link ref="marmontel" subref="marmontel-belisaire" linktext="true" />, dem umstrittenen Helden des Romans, der, unschuldig geblendet, neben Freund und Feind immerfort seine überragende Tugend beweist
+<bzg>invalide Flügelmann Belisar</bzg> der umstrittene Held in <link ref="marmontel" subref="marmontel-belisaire" linktext="true" />, der, unschuldig geblendet, neben Freund und Feind immerfort seine überragende Tugend beweist
 </marginal>
 
 <marginal letter="379" page="20" line="7" sort="1">
@@ -45683,40 +45679,37 @@ Brief Nr. 379
 <bzg>halbe Mond glänzendes Haupt</bzg> <link ref="at-mo2" subref="at-mo2-34" linktext="false">2 Mo 34,29f.</link>
 </marginal>
 
-<marginal letter="379" page="20" line="8" sort="1">
-<bzg>Verdeckt wie Agamemnons</bzg> Agamemnon soll laut <link ref="lycophron" linktext="true" /> bei seiner Ermordung im Bad ein Hemd gereicht bekommen haben, bei dem Kopf und Ärmel zugenäht waren, vgl. <wwwlink address="https://woerterbuchnetz.de/?sigle=Hederich&#x26;lemid=A00300">Hederich: Gründliches mythologisches Lexikon, (Leipzig 1770), I, Sp.&#x202F;138, s.v. Agamemnon</wwwlink>?!?
-</marginal>
-
 <marginal letter="379" page="20" line="8" sort="2">
-<bzg>daß der Maler</bzg> Der eliptische Satz spielt auf das Wandbild mit der Opferung der Iphigenie in Pompeji an, das den verhüllten Agamemnon zeigt, vmtl. nach dem in <link ref="plinius" subref="plinius-natur" linktext="true" />, XXXV,36,73 angeführten Gemälde des Timanthes.
-</marginal>
-
-<marginal letter="379" page="20" line="9" sort="1">
-<bzg>Wucherer wie dein Bruder</bzg> vmtl. <link ref="herz" linktext="true" />, vgl. <intlink letter="378" page="17" line="26" linktext="true" />
+<bzg>daß der Maler</bzg> Auf einem in <link ref="plinius" subref="plinius-natur" linktext="true" />, XXXV,36,73 angeführten Gemälde des Timanthes wird die Opferung der Iphigenie in Pompeji dargestellt, worauf Agamemnons Haupt verhüllt sei.
 </marginal>
 
 <marginal letter="379" page="20" line="9" sort="2">
-<bzg>Algebristen der Realitäten</bzg> vgl. <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N&#x202F;III,51/10f.: „[…] in einem moralischen Jahrhundert, das mit gespitzten Ohren auf die Algebra der Realitäten horcht, zu der die Synagoge bereits ihr Imprimatur gegeben […]“; „Algebristen“ steht lautlich und inhaltlich im Zusammenhang der darauf von Hamann zitierten Maxime von <link ref="algarotti" subref="algarotti-oeuvres" linktext="true" />, V,&#x202F;S.&#x202F;292: „Toutes les actions de la vie se réduissent à autant de problèmes de maximis et minimis“
+<bzg>Algebristen der Realitäten</bzg> vgl. <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N&#x202F;III,51/10f.: „[…] in einem moralischen Jahrhundert, das mit gespitzten Ohren auf die Algebra der Realitäten horcht, zu der die Synagoge bereits ihr Imprimatur gegeben […]“; „Algebristen“ steht lautlich und inhaltlich im Zusammenhang der darauf von Hamann zitierten Maxime von <link ref="algarotti" subref="algarotti-oeuvres" linktext="true" />, V,&#x202F;S.&#x202F;292: „Toutes les actions de la vie se réduissent à autant de problèmes de maximis et minimis“.
 </marginal>
 
 <marginal letter="379" page="20" line="10">
-<bzg>Agio</bzg> Anspielung wohl im Zusammenhang des ‚Aufgeldes‘ auf die Reisekosten, die Mendelssohn Hamann 1764 bei der Rückkehr vorgeschossen hat, vgl. <intlink letter="273" page="268" line="24" linktext="true" /> und <intlink letter="372" page="4" line="3" linktext="true" />
+<bzg>Agio</bzg> Aufpreis, vgl. zu Hamanns Schulden bei Mendelssohn <intlink letter="273" page="268" line="24" linktext="true" /> und <intlink letter="372" page="4" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="379" page="20" line="12">
-<bzg>Wallfisch</bzg> <link ref="at-ps" subref="at-ps104" linktext="false">Ps 104,26</link>?!?
+<bzg>Wallfisch</bzg> <link ref="at-ps" subref="at-ps104" linktext="false">Ps 104,26</link>
 </marginal>
 
-<marginal letter="379" page="20" line="14">
-<bzg>Soyons amis…</bzg> dt. Seien wir Freunde, verehrter Vater (Reverendus Pater), lassen Sie uns diesen kleinen Globus teilen, und mich dabei den Pluto spielen.
+<marginal letter="379" page="20" line="14" sort="1">
+<bzg>Soyons amis…</bzg> dt. Seien wir Freunde, verehrter Vater (Reverendus Pater), lassen Sie uns diesen kleinen Globus teilen, und mich dabei den Pluto spielen. „Soyons amis“ war zeitgenössisch ein gängiges Sprichwort für eine großzügige Geste gegenüber einem Feind; es folgt Pierre Corneilles Augustus-Figur in  <titel>Cinna ou la Clémence d’Auguste</titel> (Akt 5, Szene 3). Auch Mendelssohn zitiert es (<link ref="mendelssohn" subref="mendelssohn-schriften" linktext="true" />, 1. Aufl., Bd.&#x202F;2, S.&#x202F;181) als ein Beispiel nachdrücklicher Kürze als Ausdruck erhabener Gesinnung. 
+</marginal>
+ 
+ 
+<marginal letter="379" page="20" line="14" sort="2">
+<bzg>Pluton</bzg> Nach griech. Mythologie war Pluto Herrscher der Unterwelt. Nachdem Jupiter den gemeinsamen Vater Saturnus entmachtet hatte, teilte er die Herrschaft über die Welt zwischen Neptunus und Pluto auf; siehe unten <intlink letter="379" page="21" line="23" linktext="true" /> und 21/25.
 </marginal>
 
 <marginal letter="379" page="20" line="16">
-<bzg>gallischen Schwert</bzg> Henkel: »mit einem gallischen Schwert: Moliere-Zitat (Soyons amis) als martialische Geste (Alexanders), friedlich abgelöst durch die bourbonische Lilie und moduliert (Zeile 20) in die Lilie von Mt 6,26« – was soll man damit machen?!? ein Moliere-Zitat ist das nicht, der Rest stimmt schon so ungefähr
+<bzg>gallischen Schwert</bzg> Im Sinne des Corneille-Zitats, „Soyons amis“, ist wohl eine befriedende Geste gemeint. 
 </marginal>
 
 <marginal letter="379" page="20" line="19">
-<bzg>50 papierne Thlr</bzg> Hamanns Monatsgehalt  bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" /> betrug 25 Reichsthaler, vgl. <intlink letter="378" page="18" line="2" linktext="true" />; fordert er hier das Doppelte als Prämie für <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />?!?
+<bzg>50 papierne Thlr</bzg> Wofür dieser Betrag steht, konnte nicht ermittelt werden.
 </marginal>
 
 <marginal letter="379" page="20" line="20">
@@ -45736,7 +45729,7 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="20" line="29">
-<bzg>evangelische Supplicant</bzg> Zachäus (nach <link ref="nt-lk" subref="nt-lk19" linktext="false">Lk 19,8</link>) bzw. Hamann selbst
+<bzg>evangelische Supplicant</bzg> Zachäus, nach <link ref="nt-lk" subref="nt-lk19" linktext="false">Lk 19,8</link>
 </marginal>
 
 <marginal letter="379" page="20" line="30">
@@ -45772,7 +45765,7 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="21" line="12" sort="2">
-<bzg>durch meinen Gnomen</bzg> Henkel: »noch in der Pluto-Rolle, auch Zeile 20 (Ader) und Zeile 22 (Feuerprobe und Brüder: Götter)«?!?
+<bzg>Gnomen</bzg> Sinnspruch
 </marginal>
 
 <marginal letter="379" page="21" line="13">
@@ -45800,19 +45793,11 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="21" line="20">
-<bzg>deine Ader und deinen Nacken, wie eisern wie felsen sie sind</bzg> nicht ermittelt, Bedeutung unklar?!?
+<bzg>deine Ader und deinen Nacken, wie eisern wie felsen sie sind</bzg> <link ref="apo-jes" subref="apo-jes48" linktext="false">Jes 48,4</link>
 </marginal>
 
 <marginal letter="379" page="21" line="21">
 <bzg>dritte Theil</bzg> wohl Anspielung auf die kürzlich erschienene verbesserte Auflage von <link ref="mendelssohn" subref="mendelssohn-schriften" linktext="true" /> (ein dritter Bd. erschien nicht)
-</marginal>
-
-<marginal letter="379" page="21" line="22">
-<bzg>Brüder Jupiter und Neptun</bzg> nicht ermittelt?!?
-</marginal>
-
-<marginal letter="379" page="21" line="25">
-<bzg>sokratische Unterwelt […] sokratischen Oberwelt</bzg> nicht ermittelt?!?
 </marginal>
 
 <marginal letter="379" page="21" line="27">
@@ -45820,7 +45805,7 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="21" line="29">
-<bzg>jovialischen Töchtern der Philister</bzg> Henkel: »den Anhängern des Jupiter Nicolai« – aber der Brief ist doch in Teilen an Nicolai und Mendelssohn gerichtet?!?
+<bzg>jovialischen Töchtern der Philister</bzg> <link ref="at-ri" subref="at-ri18" linktext="false">Ri 21,18</link>
 </marginal>
 
 <marginal letter="379" page="21" line="30">
