@@ -115,7 +115,11 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 <lemma>Johann Christoph Adelung</lemma>
 <eintrag>1732–1806. Sprach- und Kulturhistoriker, Lexikograph und Übersetzer, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz239.html#ndbcontent">Basler, Otto: Adelung, Johann Christoph, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;63–65</wwwlink>.
 </eintrag>
-<subsection id="adelung-worterbuch" type="neuzeit">
+ <subsection id="adelung-weltgeschichte" type="neuzeit" sort="10">
+<lemma>Adelung/Franzen, <titel>Einleitung zur Allgemeinen Weltgeschichte</titel></lemma>
+<eintrag>Von Adam Wilhelm Franzen (1718–1766)  begonnen und von Adelung fortgesetzt: <titel>Einleitung zur Allgemeinen Weltgeschichte in welcher von der Geschichte überhaupt, von der mathematischen und historischen Zeitrechnung, und von der mathematischen und natürlichen Erdbeschreibung, gründlich gehandelt wird. Mit einer Vorrede begleitet von D. Anton <link ref="busching" linktext="false">Büsching</link></titel> (2 Bde., Berlin 1769). Digitalisat: Tl. 1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-729983">UB Halle: AB B 7285 (1)</wwwlink>.</eintrag>
+</subsection>
+<subsection id="adelung-worterbuch" type="neuzeit" sort="20">
 <lemma>Adelung, <titel>Grammatisch-kritisches Wörterbuch der Hochdeutschen Mundart</titel></lemma>
 <eintrag>
 <titel>Versuch eines vollständigen grammatisch-kritischen Wörterbuches der Hochdeutschen Mundart,</titel> mit beständiger Vergleichung der übrigen Mundarten, besonders aber der oberdeutschen (5 Bde., Leipzig: Breitkopf 1774–1786) [Biga&#x202F;130/8: „J. C. Adelung’s Wörterbuch der hochdeutschen Mundart, 1 Th. Leipz. 774“ und Biga&#x202F;131/27: „Adelungs Wörterbuch, Th. 1. Leipz. 774“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523232-5">BSB München: 4 L.germ. 1-1.</wwwlink></eintrag>
@@ -930,7 +934,7 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 <subsection id="beaumont-memoires" type="neuzeit" sort="30">
 <lemma>Beaumont, <titel>Lettres, Memoires &amp; Negotiations particulieres du Chevalier d’Eon</titel></lemma>
 <eintrag>
-<titel>Lettres, Memoires &amp; Negotiations particulieres du Chevalier d’Eon,</titel> Ministre Plénipotentiaire de France aupres du Roi de la Grande Bretagne (London: Impime chez l’auteur 1764). Digitalisat: <wwwlink address="https://books.google.de/books?id=ZgsCTXCvZBwC">Google Books</wwwlink></eintrag>
+<titel>Lettres, Memoires &amp; Negotiations particulieres du Chevalier d’Eon, Ministre Plénipotentiaire de France aupres du Roi de la Grande Bretagne</titel> (London: Impime chez l’auteur 1764). Digitalisat: <wwwlink address="https://books.google.de/books?id=ZgsCTXCvZBwC">Google Books</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -1881,7 +1885,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <subsection id="brooke-fool" type="neuzeit">
 <lemma>Brooke, <titel>The Fool of quality</titel></lemma>
 <eintrag>
-<titel>The Fool of quality;</titel> or: The history of Henri Earl of Moreland (6 Bde., Dublin/London 1765–70). Digitalisat Bd. 1: <wwwlink address="https://books.google.de/books?id=pxI2AQAAMAAJ">Google Books</wwwlink>.</eintrag>
+<titel>The Fool of quality; or: The history of Henri Earl of Moreland</titel> (6 Bde., Dublin/London 1765–70). Digitalisat Bd. 1: <wwwlink address="https://books.google.de/books?id=pxI2AQAAMAAJ">Google Books</wwwlink>.</eintrag>
 </subsection>
 <subsection id="brooke-grenville" type="neuzeit">
 <lemma>Brooke, <titel>Juliet Grenville</titel></lemma>
@@ -2203,13 +2207,9 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <lemma>Büsching, <titel>Gelehrte Abhandlungen und Nachrichten aus und von Rußland</titel></lemma>
 <eintrag><titel>Gelehrte Abhandlungen und Nachrichten aus und von Rußland, geliefert von der Schule der Sprachen, Künste und Wissenschaften bey der evangelischen St. Peterskirche zu St. Petersburg, und herausgegeben von derselben Director D. Anton Friedrich Büsching</titel> (2 Bde., Leipzig, Königsberg und Mitau: Kanter 1764–1765). Digitalisat: Tl. 1 (1764): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10731616-0">BSB München: H.lit.p. 74-1,1/2</wwwlink>; Tl. 2 (1765): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10731617-6">BSB München: H.lit.p. 74-1,1/2</wwwlink>.</eintrag>
 </subsection>
-<subsection id="busching-weltgeschichte" type="neuzeit" sort="30">
-<lemma>Büsching, <titel>Einleitung zur Allgemeinen Weltgeschichte</titel></lemma>
-<eintrag><titel>Einleitung zur Allgemeinen Weltgeschichte</titel> in welcher von der Geschichte überhaupt, von der mathematischen und historischen Zeitrechnung, und von der mathematischen und natürlichen Erdbeschreibung, gründlich gehandelt wird. Mit einer Vorrede begleitet von D. Anton Büsching (2 Bde., Berlin 1769). Digitalisat: Tl. 1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-729983">UB Halle: AB B 7285 (1)</wwwlink>.</eintrag>
-</subsection>
 <subsection id="busching-nachrichten" type="neuzeit" sort="40">
 <lemma>Büsching, <titel>Wöchentliche Nachrichten</titel></lemma>
-<eintrag>D. Anton Friedrich Büschings Königl. Preuß. Oberconsistorialraths, auch Directors des vereinigten Berlinischen und Cölnischen Gymnasii <titel>Wöchentliche Nachrichten von neuen Landcharten, geographischen, statistischen und historischen Büchern und Sachen</titel> (12 Bde., Berlin: Haude und Spener 1773–1785). Digitalisat: Tl. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10429060-2">BSB München: Res/Geo.u. 53 l-1</wwwlink>.</eintrag>
+<eintrag><titel>Wöchentliche Nachrichten von neuen Landcharten, geographischen, statistischen und historischen Büchern und Sachen</titel> (12 Bde., Berlin: Haude und Spener 1773–1785). Digitalisat: Tl. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10429060-2">BSB München: Res/Geo.u. 53 l-1</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -4155,7 +4155,7 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 <subsection id="evans-specimens" type="neuzeit" sort="10">
 <lemma>Evans, <titel>Some specimens of the Poetry of the antient Welsh Bards</titel></lemma>
 <eintrag>
-<titel>Some specimens of the Poetry of the antient Welsh Bards</titel> translated into english, with Explanatory Notes on the Historical Passages and a short Account of Men and Places mentioned by the Bards […] By the Revd Mr. Evan Evans (London 1764). [Biga 132/42: „Some Specimens of the Poetry of the ancient Welsh Bards by Mr. Evan Evans, Lond. 764“]. Digitalisat: <wwwlink address="http://hdl.handle.net/10107/4788816">The National Library of Wales</wwwlink>.</eintrag>
+<titel>Some specimens of the Poetry of the antient Welsh Bards translated into english, with Explanatory Notes on the Historical Passages and a short Account of Men and Places mentioned by the Bards […] By the Revd Mr. Evan Evans</titel> (London 1764). [Biga 132/42: „Some Specimens of the Poetry of the ancient Welsh Bards by Mr. Evan Evans, Lond. 764“]. Digitalisat: <wwwlink address="http://hdl.handle.net/10107/4788816">The National Library of Wales</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -4863,7 +4863,7 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 
 <kommentar id="general-akzise-und-zoll-direktion" type="neuzeit">
 <lemma>General-Akzise- und Zoll-Direktion</lemma>
-<eintrag>Zentrale königlich-preußische Akzise- und Zollbehörde in Berlin, eines der Departements im <link ref="generaldirektorium" linktext="true" />, von Hamann meist Generaladministration (Gen. Adm.) oder Generalregie genannt; ihm unterstanden die provinziellen Akzise- und Zollbehörden wie die <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />; 1766 von <link ref="friedrich-II" linktext="true" /> eingeführt und bis zu seinem Tod nach dem Vorbild des französischen Akzisesystems bestehend, 1766–1772 geleitet von <link ref="launay" linktext="true" /> und <link ref="lattre" linktext="true" />, 1772 bis zum Tod Friedrich II. von de Launay allein; nach der Auflösung der französischen Finanzverwaltung gelitet von <link ref="werder" linktext="true" />. Vgl. <wwwlink address="https://books.google.de/books/about/Geschichte_der_Preussischen_Regieverwalt.html?id=yg1YAAAAcAA">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1898.</wwwlink></eintrag>
+<eintrag>Zentrale königlich-preußische Akzise- und Zollbehörde in Berlin, eines der Departements im <link ref="generaldirektorium" linktext="true" />, von Hamann meist Generaladministration (Gen. Adm.) oder Generalregie genannt; ihm unterstanden die provinziellen Akzise- und Zollbehörden wie die <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />; 1766 von <link ref="friedrich-II" linktext="true" /> eingeführt und bis zu seinem Tod nach dem Vorbild des französischen Akzisesystems bestehend, zunächst geleitet von <link ref="horst" linktext="true" /> und fünf Generalregisseuren, darunter <link ref="launay" linktext="true" /> und <link ref="lattre" linktext="true" />. Nach Friedrichs Tod und der Auflösung der französischen Finanzverwaltung geleitet von <link ref="werder" linktext="true" />. Vgl. <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1888.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="generaldirektorium" type="neuzeit">
@@ -5616,7 +5616,7 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 <subsection id="haller-offenbarungsbriefe" type="neuzeit" sort="10">
 <lemma>Haller, <titel>Briefe über die wichtigsten Wahrheiten der Offenbarung</titel></lemma>
 <eintrag>
-<titel>Briefe über die wichtigsten Wahrheiten der Offenbarung.</titel> Zum Drucke befördert durch den Herausgeber der Geschichte Usongs (Bern: Neue Buchhandlung 1772) [Biga&#x202F;150/340: „Ei. Briefe über die wichtigsten Wahrheiten der Offenbarung 772“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-147729">ULB Halle: Ig 3150 z</wwwlink>.</eintrag>
+<titel>Briefe über die wichtigsten Wahrheiten der Offenbarung. Zum Drucke befördert durch den Herausgeber der Geschichte Usongs</titel> (Bern: Neue Buchhandlung 1772) [Biga&#x202F;150/340: „Ei. Briefe über die wichtigsten Wahrheiten der Offenbarung 772“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-147729">ULB Halle: Ig 3150 z</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -5959,7 +5959,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <lemma>Hamann, <titel>Zwo Recensionen</titel></lemma>
 <eintrag>
 <titel>Zwo Recensionen nebst einer Beylage, betreffend den Ursprung der Sprache</titel> (Dodsley [recte Kanter]: [Königsberg] 1772) [Biga&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235968">ULB Münster: N. Hamann Bd.&#x202F;26</wwwlink>.<line type="break" />
-Sammlung von zuvor in <link ref="kgpz" linktext="true" />, 104.&#x202F;St. vom 27.12.1771, 26.&#x202F;St. vom 30.4.1772, und als Beilage zum 37.&#x202F;St. (vmtl. von Anfang Juni 1772) erschienenen Rezensionen Hamanns von <link ref="tiedemann" subref="tiedemann-ursprung" linktext="true" />, <link ref="herder" subref="herder-ursprung" linktext="true" /> sowie eine fingierte „Abfertigung“ Hamanns gegenüber seiner Herder-Rezension [wohl erhalten, aber zur Zeit nicht erreichbar].<line type="break" />
+Sammlung von zuvor in <link ref="kgpz" linktext="true" />, 104.&#x202F;St. vom 27.12.1771, 26.&#x202F;St. vom 30.4.1772, und als Beilage zum 37.&#x202F;St. vom 8.5.1772 erschienenen Rezensionen Hamanns von <link ref="tiedemann" subref="tiedemann-ursprung" linktext="true" />, <link ref="herder" subref="herder-ursprung" linktext="true" /> sowie eine fingierte „Abfertigung“ Hamanns gegenüber seiner Herder-Rezension.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;13–24.
 </eintrag>
 </subsection>
@@ -6644,7 +6644,7 @@ des gesunkenen Geschmacks, Berl. 776“]. – Digitalisat: <wwwlink address="htt
 <subsection id="herder-plastik" type="neuzeit" sort="400">
 <lemma>Herder, <titel>Plastik</titel></lemma>
 <eintrag>
-<titel>Plastik.</titel> Einige Wahrnehmungen aus Pygmalions bildendem Traume (Riga: Hartknoch 1778). – SWS VIII, S.&#x202F;1–163.
+<titel>Plastik. Einige Wahrnehmungen aus Pygmalions bildendem Traume</titel> (Riga: Hartknoch 1778). – SWS VIII, S.&#x202F;1–163.
 </eintrag>
 </subsection>
 <subsection id="herder-volkslieder" type="neuzeit" sort="500">
@@ -7183,6 +7183,11 @@ Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Fl
 <eintrag>Satiren, lat. saturae/sermones.<line type="break" />
 Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Flaccus, Sämtliche Werke. Lateinisch/Deutsch</titel> (Stuttgart 2006).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="horst" type="neuzeit">
+<lemma>Julius August von der Horst</lemma>
+<eintrag>1723–1791. Preußischer Minister, ab 1766 einer der Leiter der <link ref="general-akzise-und-zoll-direktion" linktext="true" />. Vgl. <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1888.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="hoyer-dh" type="neuzeit">
@@ -9639,7 +9644,7 @@ Wiss. Ausg.: Philipp Rippel, <titel>Machiavelli, Niccolò: Il Principe / Der Fü
 <subsection id="macpherson-dissertations" type="neuzeit">
 <lemma>Macpherson, <titel>Critical Dissertations</titel></lemma>
 <eintrag>
-<titel>Critical Dissertations on the Origin, Antiquities, Language, Government, Manners, Religion of the Ancient Caledonians, their Posterity, the Picts, and the British and Irish Scots.</titel> (London 1768) [Biga&#x202F;64/90: „John Macpherson’s Critical Observations on the Origin, Antiquities, Language, Governement, Manners and Religion of the Ancient Caledonians, their Posterity the Picts and the British and Irish Scots, Lond. 768“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10225278-3">BSB München: 4 Brit. 73</wwwlink>.
+<titel>Critical Dissertations on the Origin, Antiquities, Language, Government, Manners, Religion of the Ancient Caledonians, their Posterity, the Picts, and the British and Irish Scots</titel> (London 1768) [Biga&#x202F;64/90: „John Macpherson’s Critical Observations on the Origin, Antiquities, Language, Governement, Manners and Religion of the Ancient Caledonians, their Posterity the Picts and the British and Irish Scots, Lond. 768“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10225278-3">BSB München: 4 Brit. 73</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -10247,7 +10252,7 @@ Die Verf. weisen nach, dass <link ref="pope" linktext="false">Popes</link> Dicht
 <subsection id="mendelssohn-fulberti" type="neuzeit" sort="40">
 <lemma>Mendelssohn, <titel>Fulberti Kulmii Antwort</titel></lemma>
 <eintrag>
-<titel>Fulberti Kulmii Antwort an Abaelardum Virbium: im Namen des Verfassers der fünf Briefe, die neue Heloise betreffend</titel> in: 192. <link ref="briefe-literatur" linktext="true" />, 12. Teil, 22. Oktober 1761 (Berlin 1761), S.&#x202F; 191–220.<line type="break" />
+<titel>Fulberti Kulmii Antwort an Abaelardum Virbium: im Namen des Verfassers der fünf Briefe, die neue Heloise betreffend</titel> in: 192. <link ref="briefe-literatur" linktext="true" />, 12. Teil, 22. Oktober 1761 (Berlin 1761), S.&#x202F;191–220.<line type="break" />
 Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Herausgeberfiktion versehen, ein Fremder habe ihn im Namen der Briefsteller verfasst.
 </eintrag>
 </subsection>
@@ -10492,12 +10497,12 @@ Zweite vermehrte Ausgabe 1775 in 6 Bde. [Biga&#x202F;65/103 u. 69/187: „J. D. 
 </subsection>
 <subsection id="michaelis-altestestament" type="neuzeit" sort="90">
 <lemma>Michaelis, <titel>Deutsche Übersetzung des Alten Testaments</titel></lemma>
-<eintrag>Johann David Michaelis <titel>Deutsche Uebersetzung des Alten Testaments</titel> mit Anmerkung für Ungelehrte. (13 Tle., Göttingen: Vandenhoeck 1769–1783) [Biga&#x202F;19/34: „J. V. Michaelis Übersetzung des A. Testam. 1–5 Th. Gött. 769–74“]. Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11225202-9">BSB München: 4 Th Ex 261</wwwlink>.
+<eintrag><titel>Deutsche Uebersetzung des Alten Testaments mit Anmerkung für Ungelehrte</titel> (13 Tle., Göttingen: Vandenhoeck 1769–1783) [Biga&#x202F;19/34: „J. V. Michaelis Übersetzung des A. Testam. 1–5 Th. Gött. 769–74“]. Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11225202-9">BSB München: 4 Th Ex 261</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="michaelis-bibliothek" type="neuzeit" sort="100">
 <lemma>Michaelis, <titel>Orientalische und exegetische Bibliothek</titel></lemma>
-<eintrag>Johann David Michaelis <titel>Orientalische und exegetische Bibliothek</titel> (24 Tle., Frankfurt am Mayn: Garbe 1771–1789) [Biga&#x202F;69/186: „J. D. Michaelis Orientalische und Exegetische Bibliothek, Th. I–VI. Frft. 771–74“]. Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10411918-9">BSB München: Exeg. 746-1/2</wwwlink>.
+<eintrag><titel>Orientalische und exegetische Bibliothek</titel> (24 Tle., Frankfurt am Mayn: Garbe 1771–1789) [Biga&#x202F;69/186: „J. D. Michaelis Orientalische und Exegetische Bibliothek, Th. I–VI. Frft. 771–74“]. Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10411918-9">BSB München: Exeg. 746-1/2</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -10546,10 +10551,10 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <lemma>Jean Rousset de Missy</lemma>
 <eintrag>1686–1762, frz. Publizist.
 </eintrag>
-<subsection id="missy-memoires" type="neuzeit">
-<lemma>Rousset de Missy, <titel>Memoires du regne de Catherine</titel></lemma>
+<subsection id="missy-geschichte" type="neuzeit">
+<lemma>Rousset de Missy, <titel>Geschichte der Kriege zwischen Frankreich und dem Hause Oesterreich im Grundrisse</titel></lemma>
 <eintrag>
-<titel>Memoires du regne de Catherine, imperatrice et souveraine de toute la Russie</titel> (Den Haag: vander Kloot, 1728). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10783336-0">BSB München: Russ. 132 qt</wwwlink>.
+<titel>Geschichte der Kriege zwischen Frankreich und dem Hause Oesterreich im Grundrisse, vom Jahre 1516 bis zum Jahre 1748.</titel> Herausgegeben und mit Anmerkungen versehen von Herrn Rousset. Ersten Bandes erster Theil. Aus dem Französischen übersetzt (Mitau, Leipzig: Steidel 1770). Digitalisat: <wwwlink address="https://books.google.de/books?id=THJgAAAAcAAJ">Google Books</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -10654,7 +10659,7 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 </subsection>
 <subsection id="montaigne-voyage" type="neuzeit" sort="20">
 <lemma>Montaigne, <titel>Journal du voyage</titel></lemma>
-<eintrag><titel>Journal de voyage</titel> de Michel de Montaigne en Italie, Par la Suisse et l’Allemagne en 1580 et 1581. Avec des Notes par M. de Querlon (3&#xA0;Bde.; Rom: le Jay1774). 
+<eintrag><titel>Journal de voyage de Michel de Montaigne en Italie, Par la Suisse et l’Allemagne en 1580 et 1581. Avec des Notes par M. de Querlon</titel> (3&#xA0;Bde.; Rom: le Jay1774). 
 </eintrag>
 </subsection>
 </kommentar>
@@ -11100,13 +11105,13 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 <subsection id="nicolai-abbt" type="neuzeit" sort="10">
 <lemma>Nicolai, <titel>Ehrengedächtnis Herrn Thomas Abbt</titel></lemma>
 <eintrag>
-<titel>Ehrengedächtnis Herrn Thomas Abbt.</titel> An Herrn D. Johann George Zimmermann von Friedrich Nicolai (Berlin/Stettin 1767). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10887644-5">BSB München: Res/4 Biogr. 275,1</wwwlink>.
+<titel>Ehrengedächtnis Herrn Thomas Abbt. An Herrn D. Johann George Zimmermann von Friedrich Nicolai</titel> (Berlin/Stettin 1767). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10887644-5">BSB München: Res/4 Biogr. 275,1</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="nicolai-magum" type="neuzeit" sort="20">
 <lemma>Nicolai, <titel>An den Magum in Norden</titel></lemma>
 <eintrag>
-<titel>An den Magum in Norden</titel> Haussäßig am alten Graben No. 758. Sonst auch zu erfragen im Kanterschen Buchladen zu Königsberg, in Preußen. (Berlin/Stettin 1767). Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-240879">ULB Münster, N. Hamann Bd.&#x202F;71–75</wwwlink>. – Gedruckte Antwort auf <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />. </eintrag>
+<titel>An den Magum in Norden Haussäßig am alten Graben No. 758. Sonst auch zu erfragen im Kanterschen Buchladen zu Königsberg, in Preußen</titel> (Berlin/Stettin 1767). Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-240879">ULB Münster, N. Hamann Bd.&#x202F;71–75</wwwlink>. – Gedruckte Antwort auf <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />. </eintrag>
 </subsection>
 <subsection id="nicolai-nothanker" type="neuzeit" sort="30">
 <lemma>Nicolai, <titel>Sebaldus Nothanker</titel></lemma>
@@ -11439,13 +11444,13 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 <subsection id="pauw-americains" type="neuzeit" sort="10">
 <lemma>de Pauw, <titel>Recherches philosophiques sur les Américains</titel></lemma>
 <eintrag>
-<titel>Recherches philosophiques sur Américains,</titel> ou Mémoires intéressants pour servir à l’Histoire de l’Espèce humaine. Par Mr. de P*** (2 Bde., Berlin 1772) [Biga&#x202F;123/357: „Recherches philosophiques sur les Americains par Mr. de P*** Tom. I. II. Berl. 772“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10253448-2">BSB München: Am.a. 1790</wwwlink>.
+<titel>Recherches philosophiques sur Américains, ou Mémoires intéressants pour servir à l’Histoire de l’Espèce humaine. Par Mr. de P***</titel> (2 Bde., Berlin 1772) [Biga&#x202F;123/357: „Recherches philosophiques sur les Americains par Mr. de P*** Tom. I. II. Berl. 772“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10253448-2">BSB München: Am.a. 1790</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="pauw-chinois" type="neuzeit" sort="20">
 <lemma>de Pauw, <titel>Recherches philosophiques sur les Égyptiens et les Chinois</titel></lemma>
 <eintrag>
-<titel>Recherches philosophiques sur les Égyptiens et les Chinois.</titel> Par Mr. de P*** (2 Bde., Berlin 1773) [Biga&#x202F;123/359: „Ei. Recherches philosophiques sur les Egyptiens &#x26; les Chinois, Tom. I. II. ib. 773“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10432032-0">BSB München: H.afr. 763</wwwlink>.
+<titel>Recherches philosophiques sur les Égyptiens et les Chinois. Par Mr. de P***</titel> (2 Bde., Berlin 1773) [Biga&#x202F;123/359: „Ei. Recherches philosophiques sur les Egyptiens &#x26; les Chinois, Tom. I. II. ib. 773“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10432032-0">BSB München: H.afr. 763</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11466,7 +11471,7 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 <subsection id="percy-reliques" type="neuzeit">
 <lemma>Percy, <titel>Reliques</titel></lemma>
 <eintrag>
-<titel>Reliques of ancient English Poetry:</titel> consisting of Old Heroic Ballads, Songs and other Pieces of our earlier Poets, (Chiefly of the Lyric kind.) Together with some few of a later Date (3 Bde., London 1765–1775). Digitalisat Bd. 1: <wwwlink address="https://books.google.de/books?id=DtkFAAAAQAAJ">Google Books</wwwlink>.</eintrag>
+<titel>Reliques of ancient English Poetry: consisting of Old Heroic Ballads, Songs and other Pieces of our earlier Poets, (Chiefly of the Lyric kind.) Together with some few of a later Date</titel> (3 Bde., London 1765–1775). Digitalisat: <wwwlink address=" http://data.onb.ac.at/rec/AC10188522">ÖNB: 73.M.208</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -11503,7 +11508,7 @@ nicht ermittelt: Biga&#x202F;15/240: „Juvenalis et Persius ex ed. Farnabii, Ha
 <subsection id="pesselier-finances" type="neuzeit">
 <lemma>Pesselier, <titel>Idée générale des finances</titel></lemma>
 <eintrag>
-<titel>Idée générale des finances</titel> considérées relativement a toutes les matières qui appartiennent à cette portion de l’administration (Paris 1759).</eintrag>
+<titel>Idée générale des finances considérées relativement a toutes les matières qui appartiennent à cette portion de l’administration</titel> (Paris 1759).</eintrag>
 </subsection>
 </kommentar>
 
@@ -12235,7 +12240,7 @@ R
 <subsection id="rabelais-oevres" type="neuzeit">
 <lemma>Rabelais, <titel>Œuvres de Maitre François Rabelais</titel></lemma>
 <eintrag>
-<titel>Œuvres de Maitre François Rabelais,</titel>, publiées sous le titre de faits et dis du géant Gargantua et de son fils Pantagruel, avec la Prognostication Pantagruéline, l’épître du Limosin, la Crême Philosophale et deux épîtres. Nouvelle édition où on l’a ajouté des remarques historiques et critiques, hg. von <link ref="duchat" linktext="true" /> (6 Bde., Erstausgabe Amsterdam 1711, darauf mehrere Auflagen) [Biga&#x202F;164/561: „Oeuvres de Maitre Fr. Rabelais,
+<titel>Œuvres de Maitre François Rabelais, publiées sous le titre de faits et dis du géant Gargantua et de son fils Pantagruel, avec la Prognostication Pantagruéline, l’épître du Limosin, la Crême Philosophale et deux épîtres. Nouvelle édition où on l’a ajouté des remarques historiques et critiques</titel>, hg. von <link ref="duchat" linktext="true" /> (6 Bde., Erstausgabe Amsterdam 1711, darauf mehrere Auflagen) [Biga&#x202F;164/561: „Oeuvres de Maitre Fr. Rabelais,
 Tom. I–VI, Amst. 725“]. Digitalisat der Ausgabe 1732: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10096398-5">BSB München: P.o.gall. 1777-1</wwwlink>. – Andere Rabelais-Ausgaben in Hamanns Besitz: Biga&#x202F;89/233: „Les Epitres de Rabelais, avec des Observations historiques, Par. 651“,  Biga&#x202F;170/646: „Oeuvres de Rabelais avec l’explication de tous le mots difficiles &#x26; la Clef. 675“, Biga&#x202F;177/761: „Les Oeuvres de Rabelais, 596“
 </eintrag>
 </subsection>
@@ -12357,7 +12362,7 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <subsection id="raynal-indes" type="neuzeit">
 <lemma>Raynal, <titel>Histoire des deux Indes</titel></lemma>
 <eintrag>
-<titel>Histoire philosophique et politique</titel> Des Établissements &#x26; du Commerce des Européens dans les deux Indes (6 Bde., Amsterdam 1770). – Anonym publiziert, schnell in mehrfachen Auflagen; neben Raynal auch <link ref="diderot" linktext="true" /> zugeschrieben. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k109687x.r">Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, G-28071.</wwwlink>
+<titel>Histoire philosophique et politique Des Établissements &#x26; du Commerce des Européens dans les deux Indes</titel> (6 Bde., Amsterdam 1770). – Anonym publiziert, schnell in mehrfachen Auflagen; neben Raynal auch <link ref="diderot" linktext="true" /> zugeschrieben. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k109687x.r">Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, G-28071.</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -13229,7 +13234,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <subsection id="schlozer-nordischegeschichte" type="neuzeit" sort="10">
 <lemma>Schlözer, <titel>Allgemeine Nordische Geschichte</titel></lemma>
 <eintrag>
-<titel>Allgemeine Nordische Geschichte.</titel> Aus den neuesten und besten Nordischen Schriftstellern und nach eigenen Untersuchungen beschrieben, und als eine Geographische und Historische Einleitung zur richtigen Kenntniß aller Skandinavischen, Finnischen, Slavischen, Lettischen und Sibirischen Völker, besonders in alten und mittleren Zeiten, hg. von August Ludwig Schlözer (Halle: Gebauer 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11212298-5">BSB München: 4 Gs 2078</wwwlink>.</eintrag>
+<titel>Allgemeine Nordische Geschichte. Aus den neuesten und besten Nordischen Schriftstellern und nach eigenen Untersuchungen beschrieben, und als eine Geographische und Historische Einleitung zur richtigen Kenntniß aller Skandinavischen, Finnischen, Slavischen, Lettischen und Sibirischen Völker, besonders in alten und mittleren Zeiten</titel> (Halle: Gebauer 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11212298-5">BSB München: 4 Gs 2078</wwwlink>.</eintrag>
 </subsection>
 <subsection id="schlozer-universalhistorie" type="neuzeit" sort="20">
 <lemma>Schlözer, <titel>Vorstellung einer Universalhistorie</titel></lemma>
@@ -13891,7 +13896,7 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 <subsection id="smollett-clinker" type="neuzeit" sort="20">
 <lemma>Smollett, <titel>Humphry Clinker</titel></lemma>
 <eintrag><titel>The expedition of Humphry Clinker</titel> (3 Bde., London 1771).<line type="break" />
-Übers.: Humphrey Klinkers Reise. Aus dem Englischen von <link ref="bode-jjc" linktext="true" /> (3 Bde., Leipzig: Weidmanns Erben 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750222-9">BSB München: P.o.angl. 387</wwwlink>.
+Übers.: <titel>Humphrey Klinkers Reise. Aus dem Englischen von <link ref="bode-jjc" linktext="true" /></titel> (3 Bde., Leipzig: Weidmanns Erben 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750222-9">BSB München: P.o.angl. 387</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14056,7 +14061,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <subsection id="spalding-nutzbarkeit" type="neuzeit" sort="20">
 <lemma>Spalding, <titel>Über die Nutzbarkeit des Predigtamtes</titel></lemma>
 <eintrag>
-<titel>Ueber die Nutzbarkeit des Predigtamtes</titel> und deren Beförderung (Berlin: Voß 1772). Digitalisat: <wwwlink address="https://books.google.de/books?id=BYkNAQAAIAAJ">Google Books</wwwlink>.
+<titel>Ueber die Nutzbarkeit des Predigtamtes und deren Beförderung</titel> (Berlin: Voß 1772). Digitalisat: <wwwlink address="https://books.google.de/books?id=BYkNAQAAIAAJ">Google Books</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14757,22 +14762,22 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 
 <kommentar id="thummel" type="neuzeit">
 <lemma>Moritz August von Thümmel</lemma>
-<eintrag>1738–1817. Einer der meistgelesenen deutschsprachigen Romanautoren des 18. Jh., Geh. Rat und Minister von Sachsen- Koburg in Gotha.</eintrag>
+<eintrag>1738–1817. Einer der meistgelesenen deutschsprachigen Romanautoren des 18. Jh., Geh. Rat und Minister von Sachsen-Coburg in Gotha.</eintrag>
 <subsection id="thummel-wilhelmine" type="neuzeit">
 <lemma>Thümmel, <titel>Wilhelmine</titel></lemma>
 <eintrag>
-<titel>Wilhelmine</titel> oder der vermählte Pedant. ein prosaisch comisches Gedicht (o.&#x202F;O. 1764) [Biga&#x202F;153/404: „Wilhelmine (764)“]. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/thuemmel_wilhelmine_1764">Deutsches Textarchiv.</wwwlink>
+<titel>Wilhelmine oder der vermählte Pedant. Ein prosaisch comisches Gedicht</titel> (o.&#x202F;O. 1764) [Biga&#x202F;153/404: „Wilhelmine (764)“]. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/thuemmel_wilhelmine_1764">Deutsches Textarchiv.</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
 
 <kommentar id="thunmann" type="neuzeit">
 <lemma>Hans Erik Thunmann</lemma>
-<eintrag>1746–1778. Schwedischer Historiker, 1772 Prof. der Bererdsamkeit in Halle.</eintrag>
+<eintrag>1746–1778. Schwedischer Historiker, 1772 Prof. der Beredsamkeit in Halle.</eintrag>
 <subsection id="thunmann-untersuchungen" type="neuzeit">
 <lemma>Thunmann, <titel>Untersuchungen über die alte Geschichte der Nordischen Völker</titel></lemma>
 <eintrag>
-M. Johann Thunmanns <titel>Untersuchungen über die alte Geschichte einiger Nordischen Völker.</titel> Mit einer Vorrede hg. von D. Anton Friedrich Büsching (Berlin: Buchhandlung der Realschule 1772) [Biga&#x202F;70/197: „Thunmanns Untersuchungen über die alte Geschichte einiger nordischen Voelker, Berl. 772“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10452657-7">BSB München: H.sept. 193</wwwlink>.
+<titel>Untersuchungen über die alte Geschichte einiger Nordischen Völker. Mit einer Vorrede hg. von D. Anton Friedrich <link ref="busching" linktext="false">Büsching</link></titel> (Berlin: Buchhandlung der Realschule 1772) [Biga&#x202F;70/197: „Thunmanns Untersuchungen über die alte Geschichte einiger nordischen Voelker, Berl. 772“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10452657-7">BSB München: H.sept. 193</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
