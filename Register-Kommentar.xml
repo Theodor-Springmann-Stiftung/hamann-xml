@@ -6029,7 +6029,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;89–108.
 <subsection id="hamann-herder-litteraturannalen" type="neuzeit" sort="596">
 <lemma>Hamann und Herder, <titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773</titel></lemma>
 <eintrag>
-<titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773.</titel> In: <link ref="kgpz" linktext="true" />, Beilage zum 10., 12. und 14. St., 3., 10. und 17. Februar 1774 (verschollener Jahrgang).<line type="break" /> 
+<titel>Gefundene Blätter aus den neuesten deutschen Litteraturannalen von 1773.</titel> In: <link ref="kgpz" linktext="true" />, Beilage zum 10., 12. und 14. St., 3., 10. und 17. Februar 1774 (verschollener Jahrgang).<line type="break" />
 Nachdruck verfügbar in <wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb11045682_00525_u001/1">Rudolf Haym: Wiedergefundene Blätter zu Herders Schriften. In: Im neuen Reich 3,2 (1873), S.&#x202F;516–524</wwwlink>; zu den Hintergründen von Herders Rezension, deren Anfang und Ende von Hamann hinzugefügt wurde, und deren handschriftliche Vorlage von Herder sich ebenso erhalten hat, vgl. <wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb11045682_00525_u001/1">ebd., 513–515</wwwlink> und <wwwlink address="https://archive.org/details/herdernachseine00haymgoog/page/598/mode/2up">Rudolf Haym: Herder nach seinem Leben und seinen Werken dargestellt, I, S.&#x202F;598</wwwlink>; ebenso vollständig abgedruckt in SWS V, S.&#x202F;258–270, zum Abdruck vgl. ebd., S.&#x202F;xxii, ebenso die Anmerkungen ebd., 723–727; nur Hamanns Anteile abgedruckt in N&#x202F;IV, S.&#x202F;385 (vgl. S.&#x202F;491), ebenso in Roth VIII/1, S.&#x202F;248–251.
 </eintrag>
 </subsection>
@@ -6037,7 +6037,7 @@ Nachdruck verfügbar in <wwwlink address="https://digipress.digitale-sammlungen.
 <lemma>Hamann, <titel>Prolegomena</titel></lemma>
 <eintrag>
 <titel>Christiani Zacchaei Telonarchae προλεγομενα über die neueste Auslegung der ältesten Urkunde des menschlichen Geschlechts. In zweyen Antwortschreiben an Apollonium Philosophum (1774)</titel> [Hamburg: <link ref="bode-jjc" linktext="false">Bode</link>]. Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-236029">ULB Münster</wwwlink>.<line type="break" /> 
-Zur Druckgeschichte vgl. <intlink letter="439" page="166" line="7" linktext="true" />.<line type="break" /> 
+Erweiterter Abdruck der Briefe <intlink letter="404" page="82" line="20" linktext="false">HKB 404</intlink> und <intlink letter="406" page="87" line="11" linktext="false">HKB 404</intlink>; zur Druckgeschichte vgl. <intlink letter="439" page="166" line="7" linktext="true" />.<line type="break" /> 
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 </eintrag>
 </subsection>
@@ -6596,8 +6596,14 @@ Fragmente zu einer <titel>Archäologie des Morgenlandes.</titel> Nicht veröffen
 Vgl. <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true" />.
 </eintrag>
 </subsection>
-<subsection id="herder-brutus" type="neuzeit" sort="140">
-<lemma>[anonym], <titel>Brutus</titel></lemma>
+<subsection id="herder-johannes" type="neuzeit" sort="150">
+<lemma>Herder, <titel>Johannes</titel></lemma>
+<eintrag>
+<titel>Johannes, Versuch einer Erläuterung.</titel> Entwurf 1774. – SWS&#x202F;VII, S.&#x202F;313–334.
+</eintrag>
+</subsection>
+<subsection id="herder-brutus" type="neuzeit" sort="160">
+<lemma>Herder, <titel>Brutus</titel></lemma>
 <eintrag>
 <titel>Brutus. Ein Drama zur Musik. In Musik gesetzt von dem Concertmeister Bach zu Bückeburg</titel> (1774) [Biga&#x202F;162/535: „Brutus, ein Drama zur Music, 774. Donum AVCTORIS.“]. – SWS,&#x202F;XXVIII, S.&#x202F;52–68.
 </eintrag>
@@ -6661,9 +6667,9 @@ des gesunkenen Geschmacks, Berl. 776“]. – Digitalisat: <wwwlink address="htt
 </subsection>
 </kommentar>
 
-<kommentar id="herder-w" type="neuzeit">
+<kommentar id="herder-g" type="neuzeit">
 <lemma>Wilhelm Christian Gottfried Herder</lemma>
-<eintrag>1774–1806. Sohn von <link ref="herder" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Schellhas, Walter: Herder, August Freiherr von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;594f.</wwwlink></eintrag>
+<eintrag>1774–1806. Sohn von <link ref="herder" linktext="true" />, siehe <wwwlink address="https://d-nb.info/gnd/116732385">GND</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="herder-a" type="neuzeit">
@@ -11099,7 +11105,7 @@ N
 
 <kommentar id="nicolai" type="neuzeit">
 <lemma>Friedrich Nicolai</lemma>
-<eintrag>1733–1811. Schriftsteller, Verlagsbuchhändler, Kritiker; Mitherausgeber u.a. von <link ref="briefe-literatur" linktext="true" />, <link ref="bibl-wiss-kuenste" linktext="true" /> und der <link ref="allgemeine-deutsche-bib" linktext="true">Allgemeinen deutschen Bibliothek</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118587668.html#adbcontent">Muncker, Franz: Nicolai, Friedrich, in: <titel>ADB</titel>&#x202F;23 (1886), S.&#x202F;580–590</wwwlink>.<line type="break" />
+<eintrag>1733–1811. Schriftsteller, Verlagsbuchhändler, Kritiker; Mitherausgeber u.a. von <link ref="briefe-literatur" linktext="true" />, <link ref="bibl-wiss-kuenste" linktext="true" /> und der <link ref="allgemeine-deutsche-bib" linktext="false">Allgemeinen deutschen Bibliothek</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118587668.html#adbcontent">Muncker, Franz: Nicolai, Friedrich, in: <titel>ADB</titel>&#x202F;23 (1886), S.&#x202F;580–590</wwwlink>.<line type="break" />
 Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. Falk, I. Gombocz, H.-G. Roloff und J. Weber (Bern/Stuttgart 1991ff.)
 </eintrag>
 <subsection id="nicolai-abbt" type="neuzeit" sort="10">
