@@ -49873,7 +49873,43 @@ Brief Nr. 407
 </marginal>
 
 <marginal letter="407" page="93" line="8">
-<bzg>originibus des Menschl. Geschl.</bzg> 
+<bzg>originibus des Menschl. Geschl.</bzg> im Zusammenhang von verschiedenen Ankündigungen Hamanns, vgl. <intlink letter="402" page="76" line="34" linktext="true" /> und <intlink letter="383" page="34" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="13" sort="1">
+<bzg>Heidenlehrer</bzg> <link ref="starck" linktext="true" />, vgl. <intlink letter="402" page="78" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="13" sort="2">
+<bzg>Aeschylus</bzg> <link ref="starck" subref="starck-aeschylo" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="14">
+<bzg>Disput.</bzg> <link ref="starck" subref="starck-tralatitia" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="15">
+<bzg>dogmat.</bzg> als gedachte Fortsetzung <link ref="starck" subref="starck-tralatitia" linktext="true" />, vgl. <intlink letter="402" page="78" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="16">
+<bzg>alnetanae quaest. des Huet</bzg> <link ref="huet" subref="huet-alnetanae" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="17" sort="1">
+<bzg>demonstr. evang</bzg> <link ref="huet" subref="huet-demonstratio" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="17" sort="2">
+<bzg>Cudworth</bzg> <link ref="cudworth" subref="cudworth-systema" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="18">
+<bzg>Jurieu</bzg> <link ref="jurieu" subref="jurieu-histoire" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="20">
+<bzg>Mornaeus</bzg> <link ref="mornay" subref="mornay-mystere" linktext="true" />
 </marginal>
 
 

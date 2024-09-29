@@ -3193,6 +3193,11 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 <lemma>Ralph Cudworth</lemma>
 <eintrag>1617–1688. Engl. Geistlicher und Orientalist, gehörte zur Gruppe der Cambridger Platoniker. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-6864">David A. Pailin: Cudworth, Ralph, in: <titel>Oxford DNB</titel></wwwlink>
 </eintrag>
+<subsection id="cudworth-systema" type="neuzeit">
+<lemma>Cudworth, <titel>Systema intellectuale huius universi</titel></lemma>
+<eintrag>
+<titel>Systema intellectuale huius universi.</titel> (2 Bde., Jena 1733) [Biga&#x202F;96/1: „Rad. Cudworthi Systema intellectuale &#x26;c. ex ed. Moshemii, Jen. 733“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10944059-1">BSB München: 2 Ph.sp. 11-1</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="cupner" type="neuzeit">
@@ -7235,10 +7240,22 @@ Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Fl
 <kommentar id="huet" type="neuzeit">
 <lemma>Pierre-Daniel Huet</lemma>
 <eintrag>1630–1721. Frz. Theologe und Literaturtheoretiker.</eintrag>
-<subsection id="huet-origine" type="neuzeit">
+<subsection id="huet-origine" type="neuzeit" sort="10">
 <lemma>Huet, <titel>Origine Fabularum Romanensium</titel></lemma>
 <eintrag>
 <titel>Petri Danielis Huetii liber de Origine Fabularum Romanensium ad Joannem Renaldum Segræsium. Ex Gallico Latinè reddidit Gulielmus Pyrrho</titel> (Leipzig 1683) [Biga&#x202F;72/14: „P. D. Huetii de Interpretatione Libri II. &#x26; de fabularum Romanensium Origine, Hag. 683“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10403821-0">BSB München: Epist. 760-1/2#Beibd.2</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="huet-demonstratio" type="neuzeit" sort="20">
+<lemma>Huet, <titel>Demonstratio Evangelica</titel></lemma>
+<eintrag>
+<titel>Petri Danielis Hvetii Episcopi Abrincensis Demonstratio Evangelica, ad Serenissimvm Delphinvm</titel> (Leipzig: Gross 1694) [Biga&#x202F;23/109: „P. D. Huetii Demonstratio Euangelica, Lips. 694.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11069905-6">BSB München: 999/4Theol.syst.149</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="huet-alnetanae" type="neuzeit" sort="30">
+<lemma>Huet, <titel>Alnetanae questiones de concordia rationis et fidei</titel></lemma>
+<eintrag>
+<titel>Petri Danielis Hvetii Episcopi Abrincensis Alnetanae Qvaestiones de Concordia Rationis et Fidei</titel> (Leipzig: Gross 1692) [Biga&#x202F;23/109: „Ei. Alnetanae Quaestiones, 692“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10350923-7">BSB München: 4 Dogm. 284</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -7627,6 +7644,18 @@ Jüdischer Krieg, lat. de bello Iudaico, griech. Περὶ τοῦ Ἰουδαι
 <lemma>Johann Heinrich Jung, gen. Jung-Stilling</lemma>
 <eintrag>1740–1817, Augenarzt, Kameralist, Prof. der Kameralistik in Kaiserslautern u. Marburg siehe <wwwlink address="https://www.deutsche-biographie.de/sfz61166.html#adbcontent">Wagner, Eduard: Jung-Stilling, Johann Heinrich, in: <titel>ADB</titel>&#x202F;14 (1881), S.&#x202F;697–704</wwwlink>.
 </eintrag>
+</kommentar>
+
+<kommentar id="jurieu" type="neuzeit">
+<lemma>Pierre Jurieu</lemma>
+<eintrag>1637–1713. frz. reform. Theologe, flüchtetet nach dem Edikt von Nantes nach Amsterdam, siehe <wwwlink address="https://d-nb.info/gnd/118558900">GND</wwwlink>.
+</eintrag>
+<subsection id="jurieu-histoire" type="neuzeit" sort="10">
+<lemma>Jurieu, <titel>Histoire critique des dogmes et des cultes</titel></lemma>
+<eintrag>
+<titel>Histoire Critique Des Dogmes Et Des Cultes, bons &#x26; mauvais, qui ont été dans l’Eglise depuis Adam jusqu’à Jesus-Christ où l’on trouve l’origine de toutes les Idolatries de l’ancien Paganisme, expliquées par rapport A Celles Des Juifs</titel> (Amsterdam: l’Honoré, 1704). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10350938-0">BSB München: 4 Dogm. 307</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="justi" type="neuzeit">
@@ -10782,7 +10811,13 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <kommentar id="mornay" type="neuzeit">
 <lemma>Philippe de Mornay, Seigneur du Plessis–Marly</lemma>
 <eintrag>1549–1623. Reformierter Theologe und Politiker.</eintrag>
-<subsection id="mornay-mystere" type="neuzeit" sort="10">
+<subsection id="mornay-veritate" type="neuzeit" sort="10">
+<lemma>Mornay, <titel>De veritate christianae religione</titel></lemma>
+<eintrag>
+<titel>De veritate religionis christianae liber</titel> (Antwerpen 1583). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10194252-4">BSB München: Polem. 1886</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="mornay-mystere" type="neuzeit" sort="20">
 <lemma>Mornay, <titel>Le mystère d’Iniquités</titel></lemma>
 <eintrag>
 <titel>Le mystère d’Iniquité, c’est à dire, L’Histoire de la papauté […] où sont aussi défendus les droicts des empereurs, rois et princes chrestiens contre les assertions des cardinaux Bellarmin et Baronius</titel> (Genf 1612) [Biga&#x202F;53/561: „Le Mystere ou d’Inquité l’Histoire de la Papauté par Ph. de Mornay, Gen. 612“]. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k3144086.image">Bibliothèque Nationale de France: D2-4189</wwwlink>.
