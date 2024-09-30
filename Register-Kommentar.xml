@@ -328,7 +328,7 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <eintrag>1731–1805. Frz. Orientalist, Begründer der Iranistik und des Zend-Studiums.</eintrag>
 <subsection id="anquetil-duperron-zend" type="neuzeit">
 <lemma>Anquetil-Duperron, <titel>Zend-Avesta, Zoroaster’s lebendiges Wort</titel></lemma>
-<eintrag><titel>Zend-Avesta, Zoroaster’s lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes der Parsen aufbehalten sind. A. d. Frz. [v. J. F. <link ref="kleuker" linktext="true" />]</titel> (3 Tle. Riga: Hartknoch 1776/8).
+<eintrag><titel>Zend-Avesta, Zoroaster’s lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes der Parsen aufbehalten sind. A. d. Frz. [v. <link ref="kleuker" linktext="true" />]</titel> (3 Tle. Riga: Hartknoch 1776/8).
 </eintrag>
 </subsection>
 </kommentar>
@@ -1245,6 +1245,12 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 </eintrag>
 </kommentar>
 
+<kommentar id="bescheffer" type="neuzeit">
+<lemma>Sophie Christiana Eleonore von Bescheffer</lemma>
+<eintrag>Gest. vor Juni 1787, Freundin von <link ref="herder" linktext="true" /> in Bückeburg und Patin seiner Kinder.
+</eintrag>
+</kommentar>
+
 <kommentar id="beverland" type="neuzeit">
 <lemma>Adrian Beverland</lemma>
 <eintrag>1650–1716. Niederl.-engl. humanistischer Gelehrter, Skandalautor, Sammler und Pornograph; die ‚Beverlandsche Hypothese‘ bezeichnet den Zusammenhang von Sündenfall und Sexualität; siehe Eric John Dingwall: <wwwlink address="https://archive.org/details/VeryPeculiarPeople"><titel>Very Peculiar People: Portrait Studies in the Queer, the Abnormal and the Uncanny</titel></wwwlink> (London 1950), S.&#x202F;145–177.
@@ -1275,6 +1281,10 @@ ULB Halle: Dd 5485 (2)</wwwlink>
 </subsection>
 </kommentar>
 
+<kommentar id="bianchini" type="neuzeit">
+<lemma>Giuseppe Bianchini</lemma>
+<eintrag>1704–1754. Geistlicher und Altertumsforscher in Rom.</eintrag>
+</kommentar>
 
 <kommentar id="bibl-wiss-kuenste" type="neuzeit">
 <lemma>Bibliothek der schönen Wissenschaften und der freyen Künste</lemma>
@@ -2785,6 +2795,12 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 <titel>Predigten von der Erhöhung Jesu; mit einer Vorrede, Von den Vorzügen der christlichen Beredsamkeit vor der heidnischen, begleitet von <link ref="schlegel-ja" linktext="false">Johann Adolf Schlegeln</link></titel> (Leipzig: Dyk 1753).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="clemens" type="neuzeit">
+<lemma>Clemens von Alexandria</lemma>
+<eintrag>Um 150 bis um 215 n.&#x202F;Chr. Frühchristlicher Philosoph.
+</eintrag>
 </kommentar>
 
 <kommentar id="cless" type="neuzeit">
@@ -4491,6 +4507,11 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 <eintrag>Erschienen 1772–1790, wichtiges literaturkritisches Organ des Sturm und Drang vor allem 1772, für das u.&#x202F;a. <link ref="herder" linktext="true" /> schrieb; anfänglich redigiert u.&#x202F;a. von <link ref="merck" linktext="true" />. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-695430">ULB Halle</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="freret" type="neuzeit">
+<lemma>Nicolas Fréret</lemma>
+<eintrag>1688–1749. Frz. Historiker, siehe <wwwlink address="https://d-nb.info/gnd/118703056">GND</wwwlink>.
+</kommentar>
+
 <kommentar id="freron" type="neuzeit">
 <lemma>Élie Catherine Fréron</lemma>
 <eintrag>1718–1776. Frz. Literat und Publizist. Herausgeber der (ab 1749) <titel>Lettres sur quelques écrits de ce temps</titel>, ab 1754 <titel>L’Année littéraire</titel>. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;16, 1816), S.&#x202F;37–42.</eintrag>
@@ -5137,6 +5158,12 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <lemma>Goethe, <titel>Götz von Berlichingen</titel></lemma>
 <eintrag>
 <titel>Götz von Berlichingen mit der eisernen Hand. Ein Schauspiel</titel> (anonym, 1773). Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/goethe_goetz_1773">HAB Wolfenbüttel: M: Lo 2078</wwwlink>.</eintrag>
+</subsection>
+Prolog zu den neuesten Offenbarungen Gottes. Verteutscht durch Dr. Carl Friedrich Bahrdt. Giessen 1774. Darmstadt 1774. 
+<subsection id="goethe-prolog" type="neuzeit" sort="17">
+<lemma>Goethe, <titel>Prolog zu den neusten Offenbarungen Gottes</titel></lemma>
+<eintrag>
+<titel>Prolog zu den neusten Offenbarungen Gottes.</titel> Verdeutscht durch Dr. Carl Friedrich Bahrdt (Giessen [i.e. Darmstadt] 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00071188-4">BSB München: Rar. 913</wwwlink>.</eintrag>
 </subsection>
 <subsection id="goethe-clavigo" type="neuzeit" sort="20">
 <lemma>Goethe, <titel>Clavigo</titel></lemma>
@@ -6257,7 +6284,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hartmann-gd" type="neuzeit">
 <lemma>Gottlob David Hartmann</lemma>
-<eintrag>1752–1775. 1774 Gymnasialprof. der Philosophie am akademischen Gymnasium in Mitau</eintrag>
+<eintrag>1752–1775. 1774 Gymnasialprof. der Philosophie am akademischen Gymnasium in Mitau.</eintrag>
 </kommentar>
 
 <kommentar id="hartung-gl" type="neuzeit">
@@ -6804,6 +6831,11 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </subsection>
 </kommentar>
 
+<kommentar id="hesychius" type="neuzeit">
+<lemma>Hesychius von Alexandreia </lemma>
+<eintrag>5. Jh. Griech. Grammatiker und Lexikograph.</eintrag>
+</kommentar>
+
 <kommentar id="heumann" type="neuzeit">
 <lemma>Christoph August Heumann</lemma>
 <eintrag>1681–1764. Prof. der evang. Theologie in Göttingen; siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd119028123.html#adbcontent">Halm, Karl Ritter von: Heumann, Christoph August, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;327–330</wwwlink>.
@@ -7078,6 +7110,16 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </subsection>
 </kommentar>
 
+<kommentar id="holbach" type="neuzeit">
+<lemma>Paul Henri Thiry d’Holbach</lemma>
+<eintrag>1723–1789. Frz. Philosoph, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118706403.html#ndbcontent">Sauter, Hermann: Holbach, Paul Freiherr von, in: <titel>NDB</titel>&#x202F;9 (1972), S.&#x202F;510–512</wwwlink>.</eintrag>
+<subsection id="holbach-devoile" type="neuzeit" >
+<lemma>Holbach, <titel>Le Christianisme devoilé</titel></lemma>
+<eintrag><titel>Le Christianisme dévoilé, ou Examen des principes et des effets de la religion chrétienne.</titel> Par Feu M. Boulanger (London 1756 [vmtl. recte 1766]) [Biga&#x202F;53/559: „Le Christianisme devoilé ou Examen des Principes &amp; des Effets de la Religion Chretienne (par Boulanger) Lond. 767. Donum Hartknochii nostri.“]. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1521151w">Bibliothèque nationale de France</wwwlink>. – Das Werk fingiert <link ref="boulanger" linktext="true" /> auf dem Titelblatt als Autor, wurde aber aller Wahrscheinlichkeit nach von Holbach verfasst.
+</eintrag>
+</subsection>
+</kommentar>
+
 
 <kommentar id="holdermann" type="neuzeit">
 <lemma>Jean-Baptiste Holdermann</lemma>
@@ -7346,6 +7388,11 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 <lemma>Der Hypochondrist </lemma>
 <eintrag>Eine holsteinische Wochenschrift von Herrn Zacharias Jernstrup. Hg. von <link ref="gerstenberg" linktext="true" /> unter dem Pseudonym Zacharias Jernstrup mit Jacob Friedrich Schmidt in Bremen/Schleswig bei Cramer u. Hansen von 1762–71 [Biga&#x202F;159/501: „Der Hypochondrist, eine Holsteinische Wochenschrift, Schlesw. 762“; Biga&#x202F;159/502: „Der Hypochondrist, Th. I. II. Bremen 771“; Biga&#x202F;137/126: „Der Hypochondrist, 1. 2. Th. Brem. 771“].
 </eintrag>
+</kommentar>
+
+<kommentar id="iamblichos" type="neuzeit">
+<lemma>Iamblichos von Chalkis</lemma>
+<eintrag>Um 240/245 bis um 320/325 n. Chr. Neuplatonischer Philosoph.</eintrag>
 </kommentar>
 
 <kommentar id="igelstrom" type="neuzeit">
@@ -14472,6 +14519,11 @@ in vier Aufzügen, Kopp. 767“].
 </subsection>
 </kommentar>
 
+<kommentar id="suda" type="neuzeit">
+<lemma>Suda</lemma>
+<eintrag>Byzantinisches Wörterbuch und Konversationslexikon, umfangreichstes Nachschlagewerk über die griech. Antike.</eintrag>
+</kommentar>
+
 <kommentar id="sulzer" type="neuzeit">
 <lemma>Johann Georg Sulzer</lemma>
 <eintrag>1720–1799. Schweizer. Philosoph und Ästhetiker, 1750 Akademiemitglied, 1763 an der Ritterakademie zu Berlin, 1776 Direktor der philosoph. Klasse; veranlasste die ersten Übersetzungen des Werkes von <link ref="hume" linktext="true" /> ins Deutsche; siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd11879941X.html#adbcontent">Liebmann, Otto: Sulzer, Johann Georg, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;144–147</wwwlink>. Hamann lernte Sulzer wohl 1756 in Berlin kennen, vgl. <link ref="hamann" subref="gedanken-lebenslauf" linktext="true" />, LS S.&#x202F;333/34.<line type="break" />
@@ -14604,7 +14656,15 @@ Torquato Tasso: <titel>Aminta.</titel> Uraufführung 1573, Druck 1580.<line type
 <eintrag>1734–1804. 1761 Prof. der Theologie in Helmstedt, 1767 Oberkonsistorialrat und Probst in Berlin, 1786 Akademiemitglied, siehe: <wwwlink address="https://www.deutsche-biographie.de/sfz82289.html#adbcontent">Tschackert, Paul: Teller, Wilhelm, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;556–558</wwwlink>.</eintrag>
 <subsection id="teller-uebersetzungen" type="neuzeit" sort="10">
 <lemma>Teller, <titel>Uebersetzungen des Seegen Jacobs und Mosis</titel></lemma>
-<eintrag><titel>Uebersetzungen des Seegen Jacobs und Mosis ingleichen des Lieds der Israeliten und der Debora mit beygefügten practischen Anmerkungen</titel> (Halle und Helmstädt: Hemmerde 1766). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id323075010">SLUB Dresden: Exeg.B.1072,1</wwwlink>.</eintrag>
+<eintrag><titel>Uebersetzungen des Seegen Jacobs und Mosis ingleichen des Lieds der Israeliten und der Debora mit beygefügten practischen Anmerkungen</titel> (Halle und Helmstedt: Hemmerde 1766). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id323075010">SLUB Dresden: Exeg.B.1072,1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="teller-woerterbuch" type="neuzeit" sort="20">
+<lemma>Teller, <titel>Wörterbuch des Neuen Testaments</titel></lemma>
+<eintrag>Wilhelm Abraham Tellers <titel>Wörterbuch des Neuen Testaments zur Erklärung der christlichen Lehre</titel> (Berlin: Mylius 1772). Digitalisat (2. Aufl. 1773): <wwwlink address="http://dx.doi.org/10.25673/70716">ULB Halle AB 71 A 10/h, 13 (1)</wwwlink>.</eintrag>
+</subsection>
+<subsection id="teller-zusaetze" type="neuzeit" sort="30">
+<lemma>Teller, <titel>Zusätze zu seinem Wörterbuch des Neuen Testaments</titel></lemma>
+<eintrag>Wilhelm Abraham Tellers <titel>Zusätze zu seinem Wörterbuch des Neuen Testaments</titel> (Berlin: Mylius 1773). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN644248483">Th. Bibl. 482 45</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15779,6 +15839,11 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 <lemma>Christian Friedrich Gotthard Westfeld</lemma>
 <eintrag>1746–1823. Mineraloge und schaumburg-lippischer Kamerrat und Polizeidirektor, 1773 hannoveranischer Beamter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz85234.html">Koch, Max: Wieland, Christoph Martin, in: <titel>ADB</titel>&#x202F;42 (1897), S.&#x202F;191f</wwwlink>.
 </eintrag>
+</kommentar>
+
+<kommentar id="wettstein" type="neuzeit">
+<lemma>Johann Jakob Wettstein</lemma>
+<eintrag>1693–1754. Schweiz. reformierter Theologe und 1731 Professor der Philosophie und Geschichte in Amsterdam</eintrag>
 </kommentar>
 
 <kommentar id="weymann-d" type="neuzeit">
