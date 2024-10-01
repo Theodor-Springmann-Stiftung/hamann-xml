@@ -10701,12 +10701,17 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 </kommentar>
 
 <kommentar id="molter" type="neuzeit">
-<lemma>Friedrich Molter</lemma>
+<lemma>Friedrich Valentin Molter</lemma>
 <eintrag>1722–1808. Direktor der Hofbibliothek und des Kunstkabinetts in Karlsruhe.
 </eintrag>
-<subsection id="molter-sprachlehre" type="neuzeit">
+<subsection id="molter-sprachlehre" type="neuzeit" sort="10">
 <lemma>Molter, <titel>Toskanische Sprachlehre</titel></lemma>
 <eintrag><titel>Toskanische Sprachlehre</titel> (Leipzig 1750) [Biga&#x202F;19/47: „Fr. Molter’s toscanische Sprachlehre, Leipz. 750“].
+</eintrag>
+</subsection>
+ <subsection id="molter-scherze" type="neuzeit" sort="20">
+<lemma>Molter, <titel>Scherze</titel></lemma>
+<eintrag><titel>Scherze</titel> (Leipzig 1752) [Biga&#x202F;157/460: „(Molters) Scherze, ib. 752“]. Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11433036">StaBi Bamberg: Bip.L.g.o.165</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -10940,7 +10945,13 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <subsection id="moser-nationalgeist" type="neuzeit" sort="70">
 <lemma>Moser, <titel>Von dem Deutschen Nationalgeist</titel></lemma>
 <eintrag>
-<titel>Von dem Deutschen Nationalgeist.</titel> Von Friderich Carl von Moser (s.&#x202F;l. 1765 oder 1766) [Biga&#x202F;103/05: „Vom deutschen Nationalgeist, 765.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11100855-3">Regensburg, Staatliche Bibliothek: 999/Jur.1017</wwwlink>.   
+<titel>Von dem Deutschen Nationalgeist</titel> (s.&#x202F;l. 1765 oder 1766) [Biga&#x202F;103/105: „Vom deutschen Nationalgeist, 765.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11100855-3">Regensburg, Staatliche Bibliothek: 999/Jur.1017</wwwlink>.   
+</eintrag>
+</subsection>
+ <subsection id="moser-reliquien" type="neuzeit" sort="80">
+<lemma>Moser, <titel>Reliquien</titel></lemma>
+<eintrag>
+<titel>Reliquien</titel> (Frankfurt und Leipzig 1766) [Biga&#x202F;103/105: „Reliquien, Frft. 766.“]. Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11278621">SSB Augsburg:  S 1115</wwwlink>.   
 </eintrag>
 </subsection>
 </kommentar>
