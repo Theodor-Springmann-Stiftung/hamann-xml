@@ -5138,7 +5138,7 @@ Brief Nr. 62
 </marginal>
 
 <marginal letter="62" page="156" line="17">
-<bzg>Molters</bzg> vll. <titel>Toscanische Sprachlehre: nach Anleitung des ehemaligen öffentlichen Lehrers zu Siena, Girolamo Gigli [1660–1722], abgefasset, und mit den Mustern der klassischen Schriftsteller bestättiget</titel>, übers. v. Friedrich Molter (1722–1808) (Leipzig: Dyck 1750)
+<bzg>Molters</bzg> vll. <link ref="molter" subref="molter-sprachlehre" linktext="true" />
 </marginal>
 
 <marginal letter="62" page="156" line="21">
@@ -48479,7 +48479,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="66" line="18">
-<bzg>Adventssonntage den Preußischen… unerlaubten Schleichhandel</bzg> Hamann meint wohl, dass er Moser während des Adventsgottesdienstes in Königsberg abpasste und versuchte, ihm Manuskripte zu übergeben und den Handel wegen seines Porträts im Kanterschen Buchladen vorzuschlagen.
+<bzg>Adventssonntage … unerlaubten Schleichhandel</bzg> Moser hatte am Adventssonntag, womöglich während der kirchlichen Messe, als keine Handelstätigkeit erlaubt war, bei einem Hausierer ein Insekt im Bernstein gekauft. Hamann hatte das wohl beobachtet wie auch die Großzügigkeit Mosers, den Wucherpreis hinzunehmen. Vgl. im Briefentwurf: <intlink letter="398" page="409" line="34" linktext="true" />, <intlink letter="398" page="412" line="7" linktext="true" />, <intlink letter="398" page="412" line="25" linktext="true" />, <intlink letter="398" page="416" line="34" linktext="true" />. Diese Anekdote brachte Hamann womöglich darauf, sein Porträt Moser im Sinne eines Allmosenkaufs anzubieten. Dazu gehört, Mosers christlich fundierte politische Publizistik persiflierend, ihn als Heiligen zu adressieren, vgl. <intlink letter="398" page="410" line="19" linktext="true" /> .
 </marginal>
 
 <marginal letter="398" page="66" line="24">
@@ -48487,7 +48487,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="66" line="25">
-<bzg>einen armen Beseßenen</bzg> wiederum Hamann selbst
+<bzg>einen armen Beseßenen</bzg> Hamann selbst
 </marginal>
 
 <marginal letter="398" page="66" line="28">
@@ -49574,7 +49574,7 @@ Der Brief wurde mit einigen Änderungen von Hamann zum Druck in <link ref="haman
 </marginal>
 
 <marginal letter="406" page="87" line="18">
-<bzg>katanthropischen Antwort</bzg> wohl ein gräzisierendes Wortspiel: an den Menschen Kant gerichtete Antwort (das Kofferwort ist ein hapax legomenon)
+<bzg>katanthropischen Antwort</bzg> griech. kat’ anthropon, lat. ad hominem: die Meinung eines bestimmten Menschen antezipierend 
 </marginal>
 
 <marginal letter="406" page="87" line="19">
@@ -57357,6 +57357,30 @@ mittlere Fall sich lediglich durch historische Gründe erhärten oder verwerfen 
     <bzg>Kunst zu sehen</bzg> vgl. <intlink letter="467" page="242" line="15" linktext="true" />  
    </marginal>
 
+
+
+
+Brief 398, Entwurf
+
+<marginal letter="398" page="408" line="17">
+<bzg>Sache selbst hienieden … Aberglaubens … Reliquie</bzg> Hamann lehnt sich, vll. ironisch, an Mosers Verteidigung des Aberglaubens als eine Reliquie der menschlichen Weisheit an: „Es ist hundertmal von den Spöttern des Christenthums selbst bezeugt und zum Vorwurf gemacht worden; daß der von ihnen so genannte Aberglaube nur zum Schrecken diene. Es seye dann so! .. werden deßwegen hundertfache politische Anstalten und Einrichtungen verwerflich, weil sie blos zum Schrecken dienen? weil man mit vielen Menschen zu thun hat, die durch keine sanftere Bande geleitet werden können.“ <link ref="moser" subref="moser-reliquien" linktext="true" />, S.&#xA0;3.
+</marginal>
+
+<marginal letter="398" page="408" line="20">
+<bzg>markantoninischer</bzg> nach Marcus Antonius bzw. seiner literarisch vielfach dargestellten Leidenschaft für Kleopatra
+</marginal>
+ 
+<marginal letter="398" page="408" line="25">
+<bzg>Die ihr des mitleids …</bzg> <link ref="molter" subref="molter-scherze" linktext="true" />, S.&#xA0;20f.
+</marginal>
+
+<marginal letter="398" page="408" line="30">
+<bzg>anakreontischen</bzg> Molters Gedichte und Lieder sind anakreontisch gerahmt.
+</marginal>
+ 
+ <marginal letter="398" page="410" line="25">
+<bzg>Pindar</bzg> <link ref="pindar" linktext="true" />
+</marginal>
 
 
 
