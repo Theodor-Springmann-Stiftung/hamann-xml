@@ -1983,6 +1983,17 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="bruinvisch-e" type="neuzeit">
+<lemma>Arien Ernst Bruinvisch</lemma>
+<eintrag>Gest. 1789. Arzt in Königsberg, vgl. Fritz Gause: Der Grundbesitz der Familie Saturgus in Königsberg. In: Unsere
+ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg. 2, Nr. 3, Sommer 1956, 9–10.; tritt der Vorrede von <link ref="hamann" subref="hamann-mancherley" linktext="true" /> als „Dr. Hütentüth“ auf (vgl. <intlink letter="573" page="138" line="1" linktext="true" />).
+</kommentar>
+
+<kommentar id="bruinvisch-g" type="neuzeit">
+<lemma>Georg Bruinvisch</lemma>
+<eintrag>Gest. 1789. Kaufmann in Königsberg, Bruder von <link ref="bruinvisch-e" linktext="true" />, vgl. .
+</kommentar>
+
 <kommentar id="brumoy" type="neuzeit">
 <lemma>Pierre Brumoy</lemma>
 <eintrag>1688–1743. Altertumsforscher, Theologe, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd132900122.html">Deutsche Biographie</wwwlink>.
@@ -11882,6 +11893,10 @@ Wiss. Ausg.: <titel>Plautus: Komödien. Lateinisch und deutsch</titel>, hrsg., �
 <subsection id="plautus-bacchides" type="neuzeit">
 <lemma>Plaut. <titel>Bacch.</titel></lemma>
 <eintrag><titel>Bacchides</titel></eintrag>
+</subsection>
+<subsection id="plautus-curculio" type="neuzeit">
+<lemma>Plaut. <titel>Curc.</titel></lemma>
+<eintrag><titel>Curculio</titel></eintrag>
 </subsection>
 <subsection id="plautus-poenulus" type="neuzeit">
 <lemma>Plaut. <titel>Poen.</titel></lemma>

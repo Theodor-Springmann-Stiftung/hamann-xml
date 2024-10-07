@@ -50093,12 +50093,16 @@ Brief Nr. 408
 <bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="407" page="90" line="33" linktext="true" />
 </marginal>
 
+<marginal letter="408" page="95" line="23">
+<bzg>erste Aufwallungen</bzg> vgl. <intlink letter="402" page="74" line="3" linktext="true" />
+</marginal>
+
 <marginal letter="408" page="95" line="31">
 <bzg>ältesten Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
 </marginal>
 
-<marginal letter="408" page="95" line="32">
-<bzg>bald Das lesen</bzg> wohl Anspielung auf <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+<marginal letter="408" page="95" line="33">
+<bzg>stamina</bzg> Fäden, wohl Anspielung auf <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal>
 
 <marginal letter="408" page="95" line="34">
@@ -50114,19 +50118,23 @@ Brief Nr. 408
 </marginal>
 
 <marginal letter="408" page="96" line="11">
-<bzg>verdammen</bzg> <link ref="hamann" subref="hamann-zworecensionen" linktext="true" />
+<bzg>verdammen</bzg> vgl. <link ref="hamann" subref="hamann-zworecensionen" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="96" line="11">
+<bzg>Caroline</bzg> <link ref="herder-c" linktext="true" />
 </marginal>
 
 <marginal letter="408" page="96" line="20">
-<bzg>aufgestanden1)</bzg> Bedeutung der Annotationszahlen unbekannt, ebenso, ob sie von Hamann oder fremder Hand stammen; sie werden in dem überlieferten Brief nicht aufgelöst.
+<bzg>aufgestanden 1)</bzg> Bedeutung der Annotationszahlen nicht ermittelt; auch nicht, ob sie von Hamann oder von fremder Hand stammen; sie werden in dem überlieferten Brief nicht aufgelöst.
 </marginal>
 
 <marginal letter="408" page="96" line="21">
-<bzg>polnische Reichstag</bzg> sprichwörtlich für chaotische Zustände, wohl mit Hamanns Kindern
+<bzg>polnische Reichstag</bzg> sprichwörtlich für chaotische Zustände und lautes Schreien, hier wohl auf Hamanns Kinder bezogen
 </marginal>
 
 <marginal letter="408" page="96" line="22">
-<bzg>Waschmaschienen</bzg> solche waren bereits im Umlauf, die <link ref="kgpz" linktext="true" />, St.&#x202F;56 vom 15.7.1765 brachte sogar eine Abbildung mit Erklärungen zur Kontruktion
+<bzg>Waschmaschienen</bzg> solche waren bereits im Umlauf, die <link ref="kgpz" linktext="true" />, St.&#x202F;56 vom 15.7.1765 brachte sogar eine Abbildung mit Erklärungen zur Konstruktion
 </marginal>
 
 <marginal letter="408" page="96" line="24">
@@ -50134,11 +50142,11 @@ Brief Nr. 408
 </marginal>
 
 <marginal letter="408" page="96" line="26">
-<bzg>Mitauschen Professoren</bzg> Henkel: im Herbst 1772 ging die Nachricht durch die Zeitungen, man wolle in Kurland eine Universität errichten; Claudius ließ in seinem Boten verlauten, der erste, den man dorthin berufen gedenke, sei Herder; dessen Befürworter war der Lavaterianer Hartmann, 104,30ff.?!?
+<bzg>Mitauschen Professoren</bzg> Henkel: im Herbst 1772 ging die Nachricht durch die Zeitungen, man wolle in Kurland eine Universität errichten; Claudius ließ in seinem Boten verlauten, der erste, den man dorthin berufen gedenke, sei Herder; dessen Befürworter war der Lavaterianer Hartmann, 104,30ff. [in KGPZ und Wandsbecker Bothen nichts von solchen Nachrichten gefunden; Kommentar löschen?!?
 </marginal>
 
 <marginal letter="408" page="96" line="28" sort="1">
-<bzg>Claudio Vlubrano</bzg> <link ref="claudius" linktext="true" />, nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,11,29f. 
+<bzg>Claudio Vlubrano</bzg> <link ref="claudius" linktext="true" />, nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,11,29f. („quod petis, hic est, / est Ulubris, animus si te non deficit aequus“, dt. „Was du suchst, ist hier, ist in Ulubrae, wenn dir nicht der Gleichmut fehlt.“)
 </marginal>
 
 <marginal letter="408" page="96" line="28" sort="2">
@@ -50162,7 +50170,7 @@ Brief Nr. 408
 </marginal>
 
 <marginal letter="408" page="96" line="33" sort="2">
-<bzg>Ihre Beylagen</bzg> Henkel: wohl die Herders, die im Wandsbecker Bothen erschienen waren, darunter (SWS V 427) die scharfe Rezension vom Versuch einer prosaischen Übersetzung der griechischen Lieder des Pindar, Berlin und Leipzig, in der Ringmacherschen Buchhandlung 1771, die in der Nummer vom 1. Mai 1772 erschien. – – nicht auch <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true" />, über die Herder sich in <intlink letter="407" page="91" line="32" linktext="true" /> beschwerte?!?
+<bzg>Ihre Beylagen</bzg> Henkel: wohl die Herders, die im Wandsbecker Bothen erschienen waren, darunter (SWS V 427) die scharfe Rezension vom Versuch einer prosaischen Übersetzung der griechischen Lieder des Pindar, Berlin und Leipzig, in der Ringmacherschen Buchhandlung 1771, die in der Nummer vom 1. Mai 1772 erschien?!?
 </marginal>
 
 <marginal letter="408" page="96" line="33" sort="3">
@@ -50174,19 +50182,39 @@ Brief Nr. 408
 </marginal>
 
 <marginal letter="408" page="96" line="34" sort="2">
-<bzg>Dr. Bruwisch</bzg> Bruwisch: Bruinvisch, N IV,495 und N VI,183: Hütenthüt.?!?
+<bzg>Dr. Bruwisch</bzg> <link ref="bruinvisch" linktext="true" />, vgl. den „Vorbericht“ von <link ref="hamann" subref="hamann-mancherley" linktext="true" /> 
 </marginal>
 
-<marginal letter="408" page="96" line="34" sort="2">
+<marginal letter="408" page="96" line="35">
 <bzg>Motherby</bzg> <link ref="motherby" linktext="true" />
 </marginal>
 
-<marginal letter="408" page="96" line="34" sort="2">
+<marginal letter="408" page="97" line="1">
 <bzg>kleinen Nazir</bzg> <link ref="hamann-jm" linktext="true" />
 </marginal>
 
-<marginal letter="408" page="97" line="1">
+<marginal letter="408" page="97" line="3"  sort="1">
 <bzg>Kanter…</bzg> <link ref="kanter" linktext="true" />: gemeint ist wohl, dass Pränumeranten (bzw. Abbonenten) der <link ref="kgpz" linktext="true" /> abspringen, wenn deren wöchentliche Beilage in diesem polemischen Stil weitergeführt wird (Jahrgang nicht überliefert)
+</marginal>
+
+<marginal letter="408" page="97" line="3"  sort="2">
+<bzg>Beyl.</bzg> Henkel: Hamanns von der Art des Mancherley und Etwas.
+</marginal>
+
+<marginal letter="408" page="97" line="6" sort="1">
+<bzg>mit einem Hiebe</bzg> <link ref="hamann" subref="hamann-mancherley" linktext="true" />, vgl. Gildemeister II, 129?!?
+</marginal>
+
+<marginal letter="408" page="97" line="6" sort="2">
+<bzg>tremula anus</bzg> dt. zitternde alte Frau; nach dem Titelmotto aus <link ref="plautus" subref="plautus-curculio" linktext="true" />, 160 in <link ref="hamann" subref="hamann-mancherley" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="97" line="7"  sort="1">
+<bzg>Frau Consistorialräthin</bzg> <link ref="herder-c" linktext="true" />; Herder berichtete zuvor von ihrer Schwangerschaft, vgl. <intlink letter="407" page="92" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="97" line="7"  sort="2">
+<bzg>Hexe von Kadmonbor</bzg> nach <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />
 </marginal>
 
 
