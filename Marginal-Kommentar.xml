@@ -5138,7 +5138,7 @@ Brief Nr. 62
 </marginal>
 
 <marginal letter="62" page="156" line="17">
-<bzg>Molters</bzg> vll. <titel>Toscanische Sprachlehre: nach Anleitung des ehemaligen öffentlichen Lehrers zu Siena, Girolamo Gigli [1660–1722], abgefasset, und mit den Mustern der klassischen Schriftsteller bestättiget</titel>, übers. v. Friedrich Molter (1722–1808) (Leipzig: Dyck 1750)
+<bzg>Molters</bzg> vll. <link ref="molter" subref="molter-sprachlehre" linktext="true" />
 </marginal>
 
 <marginal letter="62" page="156" line="21">
@@ -47559,7 +47559,7 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="50" line="26">
-<bzg>Caßianer</bzg> der als streng bekannte Richter Lucius Cassius Longinus Ravilla (127 v. Chr. röm. Konsul) stellte nach <link ref="cicero" subref="cic-srosc" linktext="true" />, 84 häufig die Frage „Cui Bono“ und gilt als ihr Urheber
+<bzg>Caßianer</bzg> Der als streng bekannte Richter Lucius Cassius Longinus Ravilla (127 v. Chr. röm. Konsul) stellte nach <link ref="cicero" subref="cic-srosc" linktext="true" />, 84 häufig die Frage „Cui Bono“ und gilt als ihr Urheber.
 </marginal>
 
 <marginal letter="390" page="50" line="28" sort="1">
@@ -47590,20 +47590,16 @@ Brief Nr. 390
 <bzg>circumforanei</bzg> Leute, die auf dem Markt borgen
 </marginal>
 
-<marginal letter="390" page="50" line="35">
-<bzg>triefenden Augen</bzg> <link ref="martial" subref="martial-epigramme" linktext="true" />?!?
-</marginal>
-
 <marginal letter="390" page="51" line="5">
 <bzg>I’d be a Dog…</bzg> <link ref="rochester" subref="rochester-poems" linktext="true" />, S.&#x202F;6
 </marginal>
 
-<marginal letter="390" page="51" line="7">
+<marginal letter="390" page="51" line="8">
 <bzg>römischen Duton</bzg> gewohnheitsmäßige Anrede mit du
 </marginal>
 
 <marginal letter="390" page="51" line="10">
-<bzg>Lectori Bibliopola!</bzg> dt. dem Leser ein Buchhändler; nicht ermittelt
+<bzg>Lectori Bibliopola!</bzg> dt. dem Leser ein Buchhändler
 </marginal>
 
 <marginal letter="390" page="51" line="11" sort="1">
@@ -47619,7 +47615,7 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="51" line="15">
-<bzg>mit einem L. Calpurnius Piso von Unsterblichkeit?</bzg> Zusammenhang nicht ermittelt; L. Calpurnius Piso Caesoninus ist der Adressat der <link ref="horaz" subref="horaz-poetica" linktext="false">ars poetica</link> und der <link ref="cicero" subref="cic-pis" linktext="false">Invektivrede Ciceros</link> (vielleicht selbstreflexiv zu verstehen, weil Cicero den Piso beschimpft wie Hamann hier Hinz und dabei ständig großspurig die eigenen Verdienste als Kontrast setzt?!?)
+<bzg>mit einem L. Calpurnius Piso von Unsterblichkeit?</bzg> L. Calpurnius Piso Caesoninus ist der Adressat der <link ref="horaz" subref="horaz-poetica" linktext="false">ars poetica</link> und der <link ref="cicero" subref="cic-pis" linktext="false">Invektivrede Ciceros</link>.
 </marginal>
 
 <marginal letter="390" page="51" line="17" sort="1">
@@ -47655,7 +47651,7 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="52" line="9">
-<bzg>gantze System</bzg> wohl mit Bezug auf die erhoffte Wirkung von <link ref="hamann" subref="hamann-salomon" linktext="true" />; gemeint ist demnach das französische Finanzsystem <link ref="friedrich-II" linktext="false">Friedrich II.</link>, vgl. <intlink letter="389" page="48" line="8" linktext="true" />
+<bzg>gantze System</bzg> wohl mit Bezug auf die erhoffte Wirkung von <link ref="hamann" subref="hamann-salomon" linktext="true" />; gemeint ist demnach das französische Finanzsystem unter <link ref="friedrich-II" linktext="false">Friedrich II.</link>, vgl. <intlink letter="389" page="48" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="390" page="52" line="21">
@@ -47671,7 +47667,7 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="52" line="33" sort="2">
-<bzg>Eberhard</bzg> <link ref="eberhard-ja" linktext="true" />, vgl. <intlink letter="392" page="56" line="6" linktext="true" /> und <intlink letter="393" page="58" line="20" linktext="true" />
+<bzg>Eberhard</bzg> <link ref="eberhard-ja" linktext="true" />, vgl. <intlink letter="392" page="56" line="6" linktext="true" /> und <intlink letter="393" page="58" line="20" linktext="true" />. Eberhard erhielt aber die Stelle in Charlottenburg.
 </marginal>
 
 <marginal letter="390" page="52" line="34">
@@ -47737,7 +47733,7 @@ Brief Nr. 391
 </marginal>
 
 <marginal letter="391" page="54" line="13">
-<bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" />; es ging um die Subskriptionsliste von Bodes Neuübersetzung von <link ref="sterne" subref="sterne-shandy" linktext="true" />, auf der Hamann schließlich landere, außerdem mglw. um eine Rezension in <link ref="kgpz" linktext="true" />; vgl. <intlink letter="393" page="57" line="21" linktext="true" /> und <intlink letter="397" page="64" line="22" linktext="true" />
+<bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" />; es ging um die Subskriptionsliste von Bodes Neuübersetzung von <link ref="sterne" subref="sterne-shandy" linktext="true" />, auf der Hamann schließlich landete, außerdem mglw. um eine Rezension in <link ref="kgpz" linktext="true" />; vgl. <intlink letter="393" page="57" line="21" linktext="true" /> und <intlink letter="397" page="64" line="22" linktext="true" />.
 </marginal>
 
 <marginal letter="391" page="54" line="14">
@@ -47767,7 +47763,7 @@ nicht abgesandt, vgl. <intlink letter="393" page="56" line="31" linktext="false"
 </marginal>
 
 <marginal letter="392" page="54" line="23">
-<bzg>ander Testament</bzg> Hamanns Plan, seine Kinder an Herder zur Adoption zu geben, vgl. <intlink letter="375" page="8" line="18" linktext="true" />; „Testament“ bezieht sich auf <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N&#x202F;III,52/24
+<bzg>ander Testament</bzg> Hamanns brieflich und publik betriebene Fiktion, dass er angesichts des Hungerlohns seine Kinder in Adoption geben muss und dazu Herder auswählt, vgl. <intlink letter="375" page="8" line="18" linktext="true" /> und <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N&#x202F;III,52/24
 </marginal>
 
 <marginal letter="392" page="54" line="24">
@@ -47831,7 +47827,7 @@ nicht abgesandt, vgl. <intlink letter="393" page="56" line="31" linktext="false"
 </marginal>
 
 <marginal letter="392" page="55" line="27">
-<bzg>Die Bedürfniße meiner Dunkelheit…</bzg> wohl eine Anspielung auf die Möglichkeit, dass die Zensur ein Schreibverbot über ihn verhängt.
+<bzg>Die Bedürfniße meiner Dunkelheit…</bzg> Wohl eine Anspielung auf die Möglichkeit, dass die Zensur ein Schreibverbot über ihn verhängt.
 </marginal>
 
 <marginal letter="392" page="55" line="29">
@@ -47843,7 +47839,7 @@ nicht abgesandt, vgl. <intlink letter="393" page="56" line="31" linktext="false"
 </marginal>
 
 <marginal letter="392" page="55" line="34">
-<bzg>Oesfeld und Leßing</bzg> <link ref="oesfeld" linktext="true" /> und <link ref="lessing" linktext="true" />, Zusammenhang nicht ermittelt; vgl. <intlink letter="393" page="57" line="35" linktext="true" />
+<bzg>Oesfeld und Leßing</bzg> <link ref="oesfeld" linktext="true" /> und <link ref="lessing" linktext="true" />, Oesfeld widerlegte Eberhards Sokrates-Apologie, ohne jedoch den Autor anzugreifen; Hamanns Beitrag zur Kontroverse erwähnte er nicht (<link ref="oesfeld" subref="oesfeld-apologie" linktext="true" />). Vgl. auch <intlink letter="393" page="57" line="35" linktext="true" />
 </marginal>
 
 <marginal letter="392" page="56" line="3" sort="1">
@@ -47851,11 +47847,11 @@ nicht abgesandt, vgl. <intlink letter="393" page="56" line="31" linktext="false"
 </marginal>
 
 <marginal letter="392" page="56" line="3" sort="2">
-<bzg>Schleich Saltz</bzg> vgl. <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="true" />, N&#x202F;III,117/11
+<bzg>Schleich Saltz</bzg> vgl. ebd., N&#x202F;III,117/11
 </marginal>
 
 <marginal letter="392" page="56" line="5">
-<bzg>Meßtischel</bzg> vgl. <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="true" />, N&#x202F;III,119/21
+<bzg>Meßtischel</bzg> vgl. ebd., N&#x202F;III,119/21
 </marginal>
 
 <marginal letter="392" page="56" line="6">
@@ -47921,7 +47917,7 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="57" line="5">
-<bzg>Qverstrich durch mein Testament</bzg> Hamanns Plan, seine Kinder an Herder zur Adoption zu geben, vgl. <intlink letter="375" page="8" line="18" linktext="true" />; „Testament“ bezieht sich auf <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N&#x202F;III,52/24
+<bzg>Qverstrich durch mein Testament</bzg> Hamanns brieflich und publik betriebene Fiktion, dass er angesichts des Hungerlohns seine Kinder in Adoption geben muss und dazu Herder auswählt, vgl. <intlink letter="375" page="8" line="18" linktext="true" /> und <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N&#x202F;III,52/24
 </marginal>
 
 <marginal letter="393" page="57" line="6">
@@ -47961,7 +47957,7 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="57" line="26">
-<bzg>Hofprediger Lindner</bzg> <link ref="lindner-jg" linktext="true" />, nicht überliefert
+<bzg>Hofprediger Lindner</bzg> <link ref="lindner-jg" linktext="true" />, nicht überliefert, ebenso das Compliment.
 </marginal>
 
 <marginal letter="393" page="57" line="28">
@@ -47977,7 +47973,7 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="57" line="35" sort="1">
-<bzg>Oesfeld und Leßing</bzg> <link ref="oesfeld" linktext="true" /> und <link ref="lessing" linktext="true" />; Zusammenhang nicht ermittelt, mglw. teilten sie Hamanns negative Bewertung von <link ref="eberhard-ja" linktext="true" /> in <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="true" />?!? 
+<bzg>Oesfeld und Leßing</bzg> <link ref="oesfeld" linktext="true" /> und <link ref="lessing" linktext="true" />; Oesfeld widerlegte Eberhards Sokrates-Apologie, ohne jedoch den Autor anzugreifen; Hamanns Beitrag zur Kontroverse erwähnte er nicht (<link ref="oesfeld" subref="oesfeld-apologie" linktext="true" />). 
 </marginal>
 
 <marginal letter="393" page="57" line="35" sort="2">
@@ -47989,7 +47985,7 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="58" line="3">
-<bzg>Meßtischel</bzg> vgl. <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="true" />, N&#x202F;III,119/21
+<bzg>Meßtischel</bzg> vgl. ebd., N&#x202F;III,119/21
 </marginal>
 
 <marginal letter="393" page="58" line="7">
@@ -48112,7 +48108,7 @@ Brief Nr. 393
 <bzg>2 Schriften</bzg> <link ref="aken" subref="aken-opfer" linktext="true" /> und <link ref="aken" subref="aken-briefe" linktext="true" />
 </marginal>
 
-<marginal letter="393" page="59" line="24">
+<marginal letter="393" page="59" line="29">
 <bzg>Hintz die Commission</bzg> <link ref="hinz" linktext="true" />, vgl. <intlink letter="401" page="73" line="25" linktext="true" />
 </marginal>
 
@@ -48141,7 +48137,7 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="60" line="23">
-<bzg>Mr. G. ist im Deutschen Mercurio</bzg> vgl. <intlink letter="392" page="55" line="21" linktext="true" />
+<bzg>Mr. G. ist im Deutschen Mercurio</bzg> <link ref="teutsche-merkur" linktext="true" />, 2.&#x202F;Bd., 3.&#x202F;Stück (Juni 1773), S.&#x202F;207; vgl. <intlink letter="392" page="55" line="21" linktext="true" />
 </marginal>
 
 Brief Nr. 394
@@ -48155,7 +48151,7 @@ Brief Nr. 394
 </marginal>
 
 <marginal letter="394" page="60" line="33" sort="1">
-<bzg>mit blauen Augen u. braunen Haaren </bzg> vgl. Hamanns Rezension von <link ref="kant" subref="kant-beobachtungen" linktext="true" />, in: <link ref="kgpz" linktext="true" />, 26.&#x202F;St. vom 30.4.1764: „Gleich blauen Augen und braunen Haaren, wird das Erhabene und Schöne auf ein zweydeutig Mittelding eingeschränkt, das nicht zu grob, aber auch nicht gar zu fein seyn muß.“ (bezieht sich auf <link ref="kant" subref="kant-beobachtungen" linktext="true" />, AA&#x202F;213: „Selbst die bräunliche Farbe und schwarze Augen sind dem Erhabenen, blaue Augen und blonde Farbe dem Schönen näher verwandt.“)
+<bzg>mit blauen Augen u. braunen Haaren </bzg> vgl. Hamanns Rezension in: <link ref="kgpz" linktext="true" />, 26.&#x202F;St. vom 30.4.1764: „Gleich blauen Augen und braunen Haaren, wird das Erhabene und Schöne auf ein zweydeutig Mittelding eingeschränkt, das nicht zu grob, aber auch nicht gar zu fein seyn muß.“ Bezieht sich auf <link ref="kant" subref="kant-beobachtungen" linktext="true" />, AA&#x202F;213: „Selbst die bräunliche Farbe und schwarze Augen sind dem Erhabenen, blaue Augen und blonde Farbe dem Schönen näher verwandt.“
 </marginal>
 
 <marginal letter="394" page="60" line="33" sort="2">
@@ -48234,10 +48230,6 @@ Brief Nr. 394
 <bzg>König. Zeit. ein Blatt zu setzen</bzg> die handschriftliche Vorlage zu <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true" />
 </marginal>
 
-<marginal letter="394" page="61" line="25">
-<bzg>Du Magus aus Norden</bzg> Beiname Hamanns nach <link ref="moser" subref="moser-schreiben" linktext="true" />
-</marginal>
-
 Brief Nr. 395
 
 <marginal letter="395" page="61" line="32">
@@ -48268,14 +48260,10 @@ Brief Nr. 395
 <bzg>Le Salomon du Nord</bzg> <link ref="friedrich-II" linktext="true" />, nach <link ref="hamann" subref="hamann-salomon" linktext="true" />
 </marginal>
 
-<marginal letter="395" page="62" line="15">
-<bzg>L’homme…</bzg> nicht ermittelt, mglw. <link ref="nicolai" linktext="true" /> oder <link ref="eberhard-ja" linktext="true" />?!?
-</marginal>
-
 Brief Nr. 396
 
 <marginal letter="396" page="62" line="23">
-<bzg>Merk</bzg> <link ref="merck" linktext="true" /> kam auf der Rückreise aus Russland durch Königsberg; er reiste als Rechnungsführer im Gefolge der Landgräfin Caroline von Hessen-Darmstadt, die ihre Tochter Wilhelmine an Großfürst Paul, den Sohn von <link ref="katharina" linktext="true" /> verheiratete; vgl. <link ref="sch-y-2001" linktext="true" />, 108–111.
+<bzg>Merk</bzg> <link ref="merck" linktext="true" /> kam auf der Rückreise aus Russland durch Königsberg; er reiste als Rechnungsführer im Gefolge der Landgräfin Caroline von Hessen-Darmstadt, die ihre Tochter Wilhelmine an Großfürst Paul, den Sohn von <link ref="katharina" linktext="true" />, verheiratete; vgl. <link ref="sch-y-2001" linktext="true" />, 108–111.
 </marginal>
 
 <marginal letter="396" page="62" line="24">
@@ -48315,7 +48303,7 @@ Brief Nr. 396
 </marginal>
 
 <marginal letter="396" page="63" line="6" sort="2">
-<bzg>Pisa in Preußen</bzg> Pisa ist der fingierte Druckort von <link ref="hamann" subref="hamann-h" linktext="true" />
+<bzg>Pisa in Preußen</bzg> Pisa ist der fingierte Druckort von <link ref="hamann" subref="hamann-h" linktext="true" />. Der Deckname geht zurück auf ein satirisches Gedicht über Königsberg von <link ref="rappolt-ch" linktext="true" />, <titel>Pisonis sermo ad Pisones</titel>, wobei Pisones für Erbsen steht, einem Grundnahrungsmittel in Preußen.
 </marginal>
 
 <marginal letter="396" page="63" line="9">
@@ -48355,7 +48343,7 @@ Brief Nr. 396
 </marginal>
 
 <marginal letter="396" page="63" line="35" sort="2">
-<bzg>impertinente gedruckte Antwort</bzg> <link ref="nicolai" subref="nicolai-magum" linktext="true" />
+<bzg>impertinente gedruckte Antwort</bzg> <link ref="nicolai" subref="nicolai-magum" linktext="true" />; als Reaktion darauf und als Kommentar zu <link ref="nicolai" subref="nicolai-nothanker" linktext="false">Sebaldus Nothanker</link>: <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />
 </marginal>
 
 <marginal letter="396" page="63" line="37">
@@ -48387,7 +48375,7 @@ Brief Nr. 396
 </marginal>
 
 <marginal letter="396" page="64" line="11">
-<bzg>Link-boy…</bzg> einer offenbar nicht sehr bekannten Anekdote über <link ref="pope" linktext="true" /> zufolge habe dieser sich einmal von einem Fackeljungen (link boy) nach Hause leuchten lassen; als er nicht genug Kleingeld dabei hatte und dem Fackeljungen weniger gab als dieser erwartete, murmelte er aus Irritation „God mend me!“, woraufhin der Fackeljunge beim weggehen hörbar murmelte: „God mend me, God mend me, quotha! Five hundred such as I might me made before one such a crooked Son of a B–h as you would be mended!“ Für seinen Witz belohnte Pope ihn mit einer halben Krone. Vgl. <wwwlink address="https://books.google.de/books?id=yJThq9KFJNkC&#x26;pg=PA34">Tom Gay’s <titel>Comical Jester</titel> or the Wit’s Merry Medley (London 1770), S.&#x202F;34</wwwlink>.
+<bzg>Link-boy…</bzg> Einer offenbar nicht sehr bekannten Anekdote über <link ref="pope" linktext="true" /> zufolge habe dieser sich einmal von einem Fackeljungen (link boy) nach Hause leuchten lassen; als er nicht genug Kleingeld dabei hatte und dem Fackeljungen weniger gab, als dieser erwartete, murmelte er aus Irritation „God mend me!“, woraufhin der Fackeljunge beim weggehen hörbar flüsterte: „God mend me, God mend me, quotha! Five hundred such as I might me made before one such a crooked Son of a B–h as you would be mended!“ Für seinen Witz belohnte Pope ihn mit einer halben Krone. Vgl. <wwwlink address="https://books.google.de/books?id=yJThq9KFJNkC&#x26;pg=PA34"><titel>Tom Gay’s Comical Jester or the Wit’s Merry Medley</titel> (London 1770), S.&#x202F;34</wwwlink>.
 </marginal>
 
 <marginal letter="396" page="64" line="13">
@@ -48479,11 +48467,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="66" line="12" sort="1">
-<bzg>treuherzigen Layenbruder</bzg> Moser, nach <link ref="moser" subref="moser-schreiben" linktext="true" />
-</marginal>
-
-<marginal letter="398" page="66" line="12" sort="2">
-<bzg>Corpus delicti</bzg> <link ref="moser" subref="moser-schreiben" linktext="true" />
+<bzg>treuherzigen Layenbruder</bzg> <link ref="moser" subref="moser-schreiben" linktext="true" />
 </marginal>
 
 <marginal letter="398" page="66" line="12" sort="3">
@@ -48495,7 +48479,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="66" line="18">
-<bzg>Adventssonntage den Preußischen… unerlaubten Schleichhandel</bzg> Hamann meint wohl, dass er Moser während des Adventsgottesdienstes in Königsberg abpasste und versuchte, ihm Manuskripte zu übergeben und den Handel wegen seines Porträts im Kanterschen Buchladen vorzuschlagen.
+<bzg>Adventssonntage … unerlaubten Schleichhandel</bzg> Moser hatte am Adventssonntag, womöglich während der kirchlichen Messe, als keine Handelstätigkeit erlaubt war, bei einem Hausierer ein Insekt im Bernstein gekauft. Hamann hatte das wohl beobachtet wie auch die Großzügigkeit Mosers, den Wucherpreis hinzunehmen. Vgl. im Briefentwurf: <intlink letter="398" page="409" line="34" linktext="true" />, <intlink letter="398" page="412" line="7" linktext="true" />, <intlink letter="398" page="412" line="25" linktext="true" />, <intlink letter="398" page="416" line="34" linktext="true" />. Diese Anekdote brachte Hamann womöglich darauf, sein Porträt Moser im Sinne eines Allmosenkaufs anzubieten. Dazu gehört, Mosers christlich fundierte politische Publizistik persiflierend, ihn als Heiligen zu adressieren, vgl. <intlink letter="398" page="410" line="19" linktext="true" /> .
 </marginal>
 
 <marginal letter="398" page="66" line="24">
@@ -48503,7 +48487,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="66" line="25">
-<bzg>einen armen Beseßenen</bzg> wiederum Hamann selbst
+<bzg>einen armen Beseßenen</bzg> Hamann selbst
 </marginal>
 
 <marginal letter="398" page="66" line="28">
@@ -48535,7 +48519,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="67" line="12">
-<bzg>lutherschen Katechismus</bzg> ?!?
+<bzg>lutherschen Katechismus</bzg> <link ref="luther" linktext="true" />
 </marginal>
 
 <marginal letter="398" page="67" line="16">
@@ -48555,19 +48539,15 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="67" line="26">
-<bzg>Arithmetique politique</bzg> vgl. <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N&#x202F;III,52/5f.; auf <link ref="petty" subref="petty-essays" linktext="true" /> zurückgehende Bezeichnung für statistische Berechnungen als Grundlage der Wirtschaftspolitik (vgl. <link ref="encyclopedie" linktext="true" />, s.&#x202F;v. ‚Arithmetique politique‘); bei Hamann Chiffre für die Finanzpolitik von <link ref="friedrich-II" linktext="true" />
+<bzg>Arithmetique politique</bzg> Bezogen auf die Gehaltsreduktion, vgl. <intlink letter="379" page="20" line="30" linktext="true" />, die Hamann in <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> thematisierte (N&#x202F;III,52/5f.). Arithmetique politique ist eine auf <link ref="petty" subref="petty-essays" linktext="true" /> zurückgehende Bezeichnung für statistische Berechnungen als Grundlage der Wirtschaftspolitik (vgl. <link ref="encyclopedie" linktext="true" />, s.&#x202F;v. ‚Arithmetique politique‘); bei Hamann Chiffre für die Finanzpolitik von <link ref="friedrich-II" linktext="true" />.
 </marginal>
 
 <marginal letter="398" page="67" line="28">
 <bzg>Weinmonat 72</bzg> vgl. <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N&#x202F;III,35/18 und <intlink letter="378" page="16" line="16" linktext="true" />
 </marginal>
 
-<marginal letter="398" page="67" line="29">
-<bzg>treuherzige Layenbruder…StaatsMinister</bzg> Anspielung auf Mosers Doppelrolle als <link ref="moser" subref="moser-schreiben" linktext="false">Layenbruder</link> und hessen-darmstädtischer Staatsmann
-</marginal>
-
 <marginal letter="398" page="67" line="32" sort="1">
-<bzg>nach Baumelle</bzg> <link ref="beaumelle" linktext="true" />, nicht ermittelt?!?
+<bzg>nach Baumelle</bzg> <link ref="beaumelle" linktext="true" />
 </marginal>
 
 <marginal letter="398" page="67" line="32" sort="2">
@@ -48579,7 +48559,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="68" line="4">
-<bzg>unglückl. Bruder</bzg> <link ref="hamann-jc" linktext="true" /> fertigte die überlieferte Abschrift von <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, worauf Hamann offenbar besonderen Wert legte.
+<bzg>unglückl. Bruder</bzg> <link ref="hamann-jc" linktext="true" /> fertigte die überlieferte Abschrift von <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, worauf dieser offenbar besonderen Wert legte.
 </marginal>
 
 <marginal letter="398" page="68" line="11">
@@ -48607,7 +48587,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="68" line="25">
-<bzg>letzten Heimkunft nach meines seel. Vaters Tode</bzg> Hamann lebte seit 1767 und dem Tod seines <link ref="hamann-vjc" linktext="false">Vaters</link>  im Herbst 1766 wieder in Königsberg
+<bzg>letzten Heimkunft nach meines seel. Vaters Tode</bzg> Hamann lebte seit 1767 und dem Tod seines <link ref="hamann-vjc" linktext="false">Vaters</link>  im Herbst 1766 wieder in Königsberg.
 </marginal>
 
 <marginal letter="398" page="68" line="26">
@@ -48834,7 +48814,7 @@ Brief Nr. 400
 </marginal>
 
 <marginal letter="400" page="71" line="13">
-<bzg>prophetische Wort: Nebucadnezar, mein Knecht…</bzg> <link ref="at-jer" subref="at-jer25" linktext="false">Jer 25,9</link>; Hamann will wohl darauf hinaus, dass der prophetische Aspekt und springende Punkt von <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> und <link ref="hamann" subref="hamann-salomon" linktext="true" /> (und der unzeitigen Geburt dieser Schriften) sei, dass nach der siebzigjährigen Herrschaft Babels über das strafbar gewordene Gottesvolk jenes Babel (Berlin) durch den Zorn Gottes vernichtet werde.?!?
+<bzg>prophetische Wort: Nebucadnezar, mein Knecht…</bzg> <link ref="at-jer" subref="at-jer25" linktext="false">Jer 25,9</link>. Der prophetische Aspekt und springende Punkt von <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> und <link ref="hamann" subref="hamann-salomon" linktext="true" /> (und beider unzeitigen Geburt) ist wohl die Sorge, dass Babel/Berlin nach der siebzigjährigen Herrschaft über das strafbar gewordene Gottesvolk durch den Zorn Gottes vernichtet werde. 1701 wurde Preußen mit Friedrich I. zum Königtum; die politische Expansion des Hauses Brandenburgs würde, nach Hamanns Prophetie, 1771 in einem Zusammenbruch münden. 
 </marginal>
 
 <marginal letter="400" page="71" line="21">
@@ -48862,7 +48842,7 @@ Brief Nr. 400
 </marginal>
 
 <marginal letter="400" page="72" line="5">
-<bzg>Cardinal von Retz noch Julius Caesar</bzg> <link ref="gondi" linktext="true" /> beantwortete einmal den Vorwurf, er würde zu verschwenderisch Geld ausgeben damit, dass Cäsar in seinem Alter sechs Mal mehr Schulden hatte als er (<link ref="gondi" subref="gondi-memoires" linktext="true" />, I 107: „Le bon homme Mr. de Morangis me disant dans la cellule du Prieur des Chartreuse, que je faisois trop de dépenses, ce qui n’étoit que trop vrai, que je la faisois excessive: je lui répondis fort étourdiment: J’ai bien supputé, César à mon âge devait six fois plus que moi.
+<bzg>Cardinal von Retz noch Julius Caesar</bzg> <link ref="gondi" linktext="true" /> beantwortete einmal den Vorwurf, er würde zu verschwenderisch Geld ausgeben, damit, dass Cäsar in seinem Alter sechs Mal mehr Schulden hatte als er. <link ref="gondi" subref="gondi-memoires" linktext="true" />, I 107: „Le bon homme Mr. de Morangis me disant dans la cellule du Prieur des Chartreuse, que je faisois trop de dépenses, ce qui n’étoit que trop vrai, que je la faisois excessive: je lui répondis fort étourdiment: J’ai bien supputé, César à mon âge devait six fois plus que moi.“
 </marginal>
 
 <marginal letter="400" page="72" line="11">
@@ -48947,10 +48927,6 @@ Brief Nr. 401
 <bzg>Quam mare…</bzg> wie ruhig das Meer einst war, wenn dort der Eisvogel seine Jungen aufzieht, <link ref="plautus" subref="plautus-poenulus" linktext="true" />, 356
 </marginal>
 
-<marginal letter="401" page="73" line="33">
-<bzg>wie ein Schaaf blöken</bzg> parodiert Herders naturalistische Theorie vom Ursprung der Sprache?!?
-</marginal>
-
 <marginal letter="401" page="73" line="35">
 <bzg>Anti-Knaut</bzg> nach <link ref="wezel" subref="wezel-knaut" linktext="true" />, vgl. <intlink letter="402" page="74" line="33" linktext="true" />
 </marginal>
@@ -48958,7 +48934,7 @@ Brief Nr. 401
 Brief Nr. 402
 
 <marginal letter="402" page="74" line="2">
-<bzg>Sokrates Mainomene oder Maiomene</bzg> Anspielung auf <link ref="wieland" subref="wieland-dialogen" linktext="true" /> und dessen Herausgeberfiktion „Aus einer alten Handschrift“; in der <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10123201?page=46,47">Ausgabe letzter Hand (1795), xxxix</wwwlink> erklärt Wieland den Titel: „Σοκρατης μαινομενος, Socrates delirans, ein aberwitzig gewordener Sokrates“, sei ein halb spöttischer Spitzname, welchen Platon <link ref="diogenes-s" linktext="true" /> gegeben habe; Sokrates Maiomene spielt auf dessen Hebammenkunst an.
+<bzg>Sokrates Mainomene oder Maiomene</bzg> Anspielung auf <link ref="wieland" subref="wieland-dialogen" linktext="true" /> und dessen Herausgeberfiktion „Aus einer alten Handschrift“. In der <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10123201?page=46,47">Ausgabe letzter Hand (1795), xxxix</wwwlink> erklärt Wieland den Titel: „Σοκρατης μαινομενος, Socrates delirans, ein aberwitzig gewordener Sokrates“, sei ein halb spöttischer Spitzname, welchen Platon <link ref="diogenes-s" linktext="true" /> gegeben habe; Sokrates Maiomene spielt auf dessen Hebammenkunst an.
 </marginal>
 
 <marginal letter="402" page="74" line="3">
@@ -49010,7 +48986,7 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="74" line="16" sort="1">
-<bzg>Herder den alten Hamann…</bzg> Herder wurde vielfältig die Nachahmung Hamanns vorgeworfen, bereits von <link ref="klotz" linktext="false">Klotz</link>
+<bzg>Herder den alten Hamann…</bzg> Herder wurde vielfältig die Nachahmung Hamanns vorgeworfen, bereits von <link ref="klotz" linktext="false">Klotz</link>.
 </marginal>
 
 <marginal letter="402" page="74" line="16" sort="2">
@@ -49026,11 +49002,7 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="74" line="18" sort="2">
-<bzg>romantische animalcula</bzg> Animalcula ist eigentlich eine auf Antoni van Leeuwenhoek (1632–1723) zurückgehende Bezeichnung für mikrospoisch kleine Organismen; romantische animalcula meint hier wohl Herders Schriften, mglw. mit Anspielung auf den klapprigen Rosinante.
-</marginal>
-
-<marginal letter="402" page="74" line="19">
-<bzg>Sprichwörter</bzg> die Sprichwörter des Sancho Panza, etwa das von Hamann gern zitierte „Gott versteht mich“, vgl. auch <intlink letter="397" page="65" line="14" linktext="true" />
+<bzg>romantische animalcula</bzg> Animalcula ist eigentlich eine auf Antoni van Leeuwenhoek (1632–1723) zurückgehende Bezeichnung für mikrospoisch kleine Organismen.
 </marginal>
 
 <marginal letter="402" page="74" line="23">
@@ -49045,7 +49017,7 @@ Brief Nr. 402
 <bzg>Preisschrift</bzg> <link ref="herder" subref="herder-ursprung" linktext="true" />
 </marginal>
 
-<marginal letter="402" page="74" line="23" sort="2">
+<marginal letter="402" page="74" line="25" sort="2">
 <bzg>deutscher Art u Kunst</bzg> <link ref="herder" subref="herder-deutsch" linktext="true" />
 </marginal>
 
@@ -49054,7 +49026,7 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="74" line="27" sort="2">
-<bzg>3 Recensionen</bzg> für <link ref="kgpz" linktext="true" />, vgl. <intlink letter="400" page="71" line="1" linktext="true" />
+<bzg>3 Recensionen</bzg> vgl. <intlink letter="400" page="71" line="1" linktext="true" />
 </marginal>
 
 <marginal letter="402" page="74" line="33">
@@ -49066,7 +49038,7 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="75" line="1">
-<bzg>sceptischen Epoche</bzg> <link ref="hamann" subref="sokratischedenk" linktext="true" /> und die umliegenden Schriften?!?
+<bzg>sceptischen Epoche</bzg> wohl im Sinne der Zurückhaltung im Urteilen
 </marginal>
 
 <marginal letter="402" page="75" line="9" sort="1">
@@ -49146,7 +49118,7 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="76" line="7">
-<bzg>actio, actio, actio</bzg> nach der Demosthenes-Anekdote über die Bedeutung der actio bei <link ref="cicero" subref="cic-brut" linktext="true" /> 3,38,142
+<bzg>actio, actio, actio</bzg> nach der Demosthenes-Anekdote über die Bedeutung der actio bei <link ref="cicero" subref="cic-brut" linktext="true" /> 3,38,142; siehe <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" /> KdP 6/23 (N II,116).
 </marginal>
 
 <marginal letter="402" page="76" line="11">
@@ -49159,6 +49131,10 @@ Brief Nr. 402
 
 <marginal letter="402" page="76" line="15" sort="2">
 <bzg>analogon und Saltzsäule</bzg> <link ref="apo-weish" subref="apo-weish10" linktext="false">Weish 10,7</link>
+</marginal>
+ 
+ <marginal letter="402" page="76" line="17">
+<bzg>Layenbruders</bzg> <link ref="moser" linktext="true" />
 </marginal>
 
 <marginal letter="402" page="76" line="18">
@@ -49202,11 +49178,15 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="76" line="30">
-<bzg>Pisa-Kapernaum</bzg> Pisa ist der fingierte Druckort von <link ref="hamann" subref="hamann-h" linktext="true" />; zu Kapernaum vgl. <link ref="nt-jo" subref="nt-jo4" linktext="false">Joh 4,46</link> [Henkel: »Hamann ahmt den Scherz seines Lehrers Rappolt nach, über Kalauer mit der Erbsenstadt Königsberg (NADLER)«?!?]
+<bzg>Pisa-Kapernaum</bzg> zu Kapernaum vgl. <link ref="nt-jo" subref="nt-jo4" linktext="false">Joh 4,46</link>. Pisa ist der fingierte Druckort von <link ref="hamann" subref="hamann-h" linktext="true" />. Der Deckname geht zurück auf ein satirisches Gedicht über Königsberg von <link ref="rappolt-ch" linktext="true" />, <titel>Pisonis sermo ad Pisones</titel>, wobei Pisones für Erbsen steht, einem Grundnahrungsmittel in Preußen.
 </marginal>
 
-<marginal letter="402" page="76" line="31">
+<marginal letter="402" page="76" line="31" sort="1">
 <bzg>Fritz u Orlov</bzg> wohl <link ref="friedrich-II" linktext="true" /> und <link ref="orlow-g" linktext="true" />
+</marginal>
+ 
+ <marginal letter="402" page="76" line="31" sort="2">
+<bzg>Brodt jungen Hunden</bzg> vgl. <link ref="hamann" subref="hamann-glose" linktext="true" />, ED S.45, N II,293.
 </marginal>
 
 <marginal letter="402" page="76" line="32" sort="1">
@@ -49222,7 +49202,7 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="76" line="33" sort="2">
-<bzg>exitus à la Mosaique</bzg> Anspielung auf <link ref="hamann" subref="hamann-essais" linktext="true" />, hier „Encore deux lettres perdues“ gemeint, <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, N&#x202F;II, 313–315?!?
+<bzg>exitus à la Mosaique</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />
 </marginal>
 
 <marginal letter="402" page="76" line="34">
@@ -49294,7 +49274,7 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="77" line="31">
-<bzg>Boulanger’s Christianisme developpé</bzg> wohl irrtümlich für <link ref="boulanger" subref="boulanger-devoile" linktext="true" /> oder eine irrtümlich angenommene Fortsetzung
+<bzg>Boulanger’s Christianisme developpé</bzg> wohl irrtümlich für <link ref="holbach" subref="holbach-devoile" linktext="true" />; das vmtl. 1766 erschienene Werk fingierte <link ref="boulanger" linktext="true" /> auf dem Titelblatt als Autor
 </marginal>
 
 <marginal letter="402" page="77" line="36">
@@ -49316,6 +49296,10 @@ Brief Nr. 402
 <marginal letter="402" page="78" line="12">
 <bzg>eine zweyte</bzg> Starck setzte seine Thesen in <link ref="starck" subref="starck-hephaestion" linktext="true" /> auf Deutsch fort, was einen ziemlichen Skandal in Königsberg hervorrief.
 </marginal>
+ 
+ <marginal letter="402" page="78" line="14">
+<bzg>gentilisch tralatitisches</bzg> 1. heidnisch; 2. metaphorisch, wohl im Sinne von reich an Metaphern
+</marginal> 
 
 <marginal letter="402" page="78" line="15">
 <bzg>commilito b. Klotzii</bzg> dt. ein Verwandter des seligen <link ref="klotz" linktext="false">Klotz</link>
@@ -49366,11 +49350,11 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="79" line="3">
-<bzg>Lavater hat an Kant</bzg> <link ref="lavater" linktext="true" /> an <link ref="kant" linktext="true" />, 8. Februar 1774; vgl. <wwwlink address="http://kant.korpora.org/Band10/148.html">Kant: AA X, S.&#x202F;148–150</wwwlink>
+<bzg>Lavater hat an Kant</bzg> <link ref="lavater" linktext="true" /> an <link ref="kant" linktext="true" />, 8. Februar 1774; vgl. Kant: AA X, S.&#x202F;148–150
 </marginal>
 
 <marginal letter="402" page="79" line="5">
-<bzg>Verf des Musenalmanachs</bzg> <link ref="boie" linktext="true" />, nicht überliefert (vgl. vgl. <wwwlink address="http://kant.korpora.org/Band10/152.html">Kant: AA X, S.&#x202F;152</wwwlink>)
+<bzg>Verf des Musenalmanachs</bzg> <link ref="boie" linktext="true" />, nicht überliefert (vgl. Kant: AA X, S.&#x202F;152)
 </marginal>
 
 <marginal letter="402" page="79" line="6">
@@ -49451,10 +49435,6 @@ Brief Nr. 403
 <bzg>Hermesfigur</bzg> vgl. <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, SWS,&#x202F;VI, S.&#x202F;407
 </marginal>
 
-<marginal letter="403" page="81" line="3">
-<bzg>methodo tabellari</bzg> Henkel: die Definition in Kants Logik § 118: Tabellarisch heißt diejenige Methode, nach welcher ein schon fertiges Lehrgebäude in seinem ganzen Zusammenhange dargestellt wird, also in Tabellenform?!?
-</marginal>
-
 Brief Nr. 404
 
 <marginal letter="404" page="82" line="20" sort="1">
@@ -49494,7 +49474,7 @@ Der Brief wurde mit einigen Änderungen von Hamann zum Druck in <link ref="haman
 </marginal>
 
 <marginal letter="404" page="83" line="18">
-<bzg>Punctation</bzg> Vorvertrag, wohl in der Absicht, auch Kants zu publizieren, wie seine eigenen in <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+<bzg>Punctation</bzg> Vorvertrag; im Sinne eines Konzepts von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal>
 
 <marginal letter="404" page="83" line="20">
@@ -49502,7 +49482,7 @@ Der Brief wurde mit einigen Änderungen von Hamann zum Druck in <link ref="haman
 </marginal>
 
 <marginal letter="404" page="83" line="22">
-<bzg>Buchdrucker zu Marienwerder</bzg> <link ref="kanter" linktext="true" />; Kwidzyn
+<bzg>Buchdrucker zu Marienwerder</bzg> <link ref="kanter" linktext="true" />; heute Kwidzyn
 </marginal>
 
 <marginal letter="404" page="83" line="25">
@@ -49538,11 +49518,11 @@ Der Brief wurde mit einigen Änderungen von Hamann zum Druck in <link ref="haman
 </marginal>
 
 <marginal letter="404" page="83" line="36">
-<bzg>verbis tralatitiis ex Gentilismo praetereaque nihil</bzg> dt. in übertragenen Worten aus dem Heidentum und sonst nichts?!?
+<bzg>verbis tralatitiis ex Gentilismo praetereaque nihil</bzg> dt. in übertragenen Worten aus dem Heidentum und sonst nichts
 </marginal>
 
 <marginal letter="404" page="84" line="4">
-<bzg>vterus zu Zwillingen Raum haben wird</bzg> Es ist wohl gemeint, dass er unsicher ist, ob er noch einen zweiten Brief wird schreiben können.
+<bzg>vterus zu Zwillingen Raum haben wird</bzg> Es ist wohl gemeint, dass er unsicher ist, ob er noch einen zweite Publikation wird schreiben können.
 </marginal>
 
 <marginal letter="404" page="84" line="6">
@@ -49594,7 +49574,7 @@ Der Brief wurde mit einigen Änderungen von Hamann zum Druck in <link ref="haman
 </marginal>
 
 <marginal letter="406" page="87" line="18">
-<bzg>katanthropischen Antwort</bzg> wohl ein gräzisierendes Wortspiel: an den Menschen Kant gerichtete Antwort (das Kofferwort ist ein hapax legomenon)
+<bzg>katanthropischen Antwort</bzg> griech. kat’ anthropon, lat. ad hominem: die Meinung eines bestimmten Menschen antezipierend 
 </marginal>
 
 <marginal letter="406" page="87" line="19">
@@ -49666,11 +49646,11 @@ Der Brief wurde mit einigen Änderungen von Hamann zum Druck in <link ref="haman
 </marginal>
 
 <marginal letter="406" page="89" line="5">
-<bzg>Newton Gesandschaften…</bzg> Auf Anregung der Pariser Akademie erbrachten Forschungsexpeditionen in den Anden 1735–1743 eine empirische Bestätigung, dass die Erde an den Polen abgeplattet und nicht zugespitzt ist, und bestätigten dadurch deie Thesen <link ref="newton" linktext="newton">Newton</link>.
+<bzg>Newton Gesandschaften</bzg> Auf Anregung der Pariser Akademie erbrachten Forschungsexpeditionen in den Anden 1735–1743 eine empirische Bestätigung, dass die Erde an den Polen abgeplattet und nicht zugespitzt ist, und bestätigten dadurch die Thesen <link ref="newton" linktext="newton">Newtons</link>.
 </marginal>
 
 <marginal letter="406" page="89" line="6">
-<bzg>armen Archimedes immer an einem Standort gefehlt</bzg> nach dem Ausspruch des <link ref="archimedes" linktext="true" /> „Δός μοι ποῦ στῶ, καὶ τὴν γῆν κινήσω“, dt. gib mir, wo ich Stehen kann und ich will die Welt aus den Angeln heben]; Ausruf des 
+<bzg>Archimedes immer an einem Standort</bzg> nach dem Ausspruch des <link ref="archimedes" linktext="true" /> „Δός μοι ποῦ στῶ, καὶ τὴν γῆν κινήσω“, dt. gib mir, wo ich Stehen kann und ich will die Welt aus den Angeln heben. 
 </marginal>
 
 <marginal letter="406" page="89" line="15">
@@ -49722,7 +49702,7 @@ Der Brief wurde mit einigen Änderungen von Hamann zum Druck in <link ref="haman
 </marginal>
 
 <marginal letter="406" page="90" line="11">
-<bzg>Buchdrucker zu Marienwerder</bzg> <link ref="kanter" linktext="true" />; Kwidzyn
+<bzg>Buchdrucker zu Marienwerder</bzg> <link ref="kanter" linktext="true" />; heute Kwidzyn
 </marginal>
 
 <marginal letter="406" page="90" line="12" >
@@ -49761,11 +49741,461 @@ Der Brief wurde mit einigen Änderungen von Hamann zum Druck in <link ref="haman
 <bzg>Quod scripsi, scripsi!</bzg> <link ref="nt-jo" subref="nt-jo19" linktext="false">Joh 19,22</link>: Was ich geschrieben habe, das habe ich geschrieben.
 </marginal>
 
+Brief Nr. 407
+
+<marginal letter="407" page="90" line="29" sort="1">
+<bzg>Mit welchem Maas…</bzg> <link ref="nt-mt" subref="nt-mt7" linktext="false">Mt 7,2</link>, <link ref="nt-mt" subref="nt-mk4" linktext="false">Mk 4,24</link>, <link ref="nt-mt" subref="nt-lk6" linktext="false">Lk 6,38</link>
+</marginal>
+
+<marginal letter="407" page="90" line="29" sort="2">
+<bzg>großer Bogen</bzg> Wie auch <intlink letter="402" page="74" line="1" linktext="false">HKB 402</intlink> ist dieser Brief auf einem großen, nicht halbierten Folio-Bogen geschrieben.
+</marginal>
+
+<marginal letter="407" page="90" line="30">
+<bzg>mein Buch gefallen</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, vgl. <intlink letter="402" page="74" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="90" line="31">
+<bzg>link</bzg> unbeholfen, mit der linken Hand
+</marginal>
+
+<marginal letter="407" page="90" line="33">
+<bzg>Hartkn.</bzg> <link ref="hartknoch" linktext="true" />, dem Herder auch diesen Brief mitgab
+</marginal>
+
+<marginal letter="407" page="90" line="34" sort="1">
+<bzg>Preisschr.</bzg> <link ref="herder" subref="herder-ursprung" linktext="true" />, vgl. <intlink letter="402" page="74" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="90" line="34" sort="2">
+<bzg>deutsche Art</bzg> <link ref="herder" subref="herder-deutsch" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="90" line="34" sort="3">
+<bzg>Brutus</bzg> <link ref="herder" subref="herder-brutus" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="90" line="35">
+<bzg>Pontius Pilatus…</bzg> <link ref="kant" linktext="true" />, vgl. <intlink letter="402" page="74" line="11" linktext="true" /> und <intlink letter="406" page="90" line="19" linktext="true" /> sowie <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="91" line="5">
+<bzg>Weizenkorn</bzg> <link ref="nt-jo" subref="nt-jo12" linktext="false">Joh 12,24</link>
+</marginal>
+
+<marginal letter="407" page="91" line="6">
+<bzg>Schlaube</bzg> niederdt. ‚Hülse‘
+</marginal>
+
+<marginal letter="407" page="91" line="12">
+<bzg>Vater Silenus</bzg> vgl. <intlink letter="408" page="100" line="9" linktext="true" /> und <intlink letter="398" page="67" line="10" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="91" line="14">
+<bzg>Ihres Wunsches</bzg> vgl. <intlink letter="402" page="74" line="24" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="91" line="23">
+<bzg>7. Wißenschaften der A. u. 1000. der N. Welt</bzg> 7 Wissenschaften (artes liberales) der alten und 1000 der neuen Welt
+</marginal>
+
+<marginal letter="407" page="91" line="24">
+<bzg>fetten Kühe Pharaons</bzg> <link ref="at-mo1" subref="at-mo1-41" linktext="false">1 Mo 41,1–5</link>
+</marginal>
+
+<marginal letter="407" page="91" line="32">
+<bzg>Beitrag zur Kön. Z.</bzg> <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true" /> in <link ref="kgpz" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="91" line="34">
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />; Herder meint Kanters geschwätzige Aufdeckung seiner anonymen Autorschaft, vgl. <intlink letter="408" page="97" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="91" line="35">
+<bzg>Lav. citirt…</bzg> ein Zitat <link ref="lavater" linktext="false">Lavaters</link> in einem Brief an Herder (vgl. HBGA&#x202F;XI, 504): Kant schreibt, Herders Freunde sollten ihn davon abhalten, weitere Literaturkritiken zu schreiben.
+</marginal>
+
+<marginal letter="407" page="91" line="37">
+<bzg>Natter…</bzg> <link ref="at-ps" subref="at-ps58" linktext="false">Ps 58,5</link>
+</marginal>
+
+<marginal letter="407" page="92" line="6">
+<bzg>Etwas anders</bzg> vmtl. <link ref="herder" subref="herder-johannes" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="92" line="7">
+<bzg>entfernt…</bzg> vgl. <intlink letter="402" page="74" line="31" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="92" line="10">
+<bzg>Buchst. H.</bzg> <link ref="hamann" subref="hamann-h" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="92" line="11"  sort="1">
+<bzg>Lettre perdue</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="92" line="11"  sort="2">
+<bzg>Hexe</bzg> <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="92" line="11"  sort="3">
+<bzg>Behemoth</bzg> mglw. <link ref="hamann" subref="hamann-rosencreuz" linktext="true" />, vgl. N&#x202F;III,27/4
+</marginal>
+
+<marginal letter="407" page="92" line="18">
+<bzg>Nazir</bzg> <link ref="hamann-jm" linktext="true" />, vgl. <intlink letter="408" page="98" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="92" line="20">
+<bzg>Weiblein</bzg> <link ref="herder-c" linktext="true" /> brachte am 28. August 1774 <link ref="herder-g" linktext="true" /> zur Welt.
+</marginal>
+
+<marginal letter="407" page="92" line="25">
+<bzg>Knaut</bzg> <link ref="wezel" subref="wezel-knaut" linktext="true" />, vgl. <intlink letter="402" page="74" line="33" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="92" line="28">
+<bzg>malae notae</bzg> übles Merkmal, Wortspiel mit dem Namen von <link ref="merck" linktext="true" />; vgl. <intlink letter="402" page="75" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="92" line="32">
+<bzg>Ihren Brief</bzg> wohl <intlink letter="396" page="64" line="20" linktext="false">HKB 396</intlink>
+</marginal>
+
+<marginal letter="407" page="93" line="6">
+<bzg>HE. Fr. Nikolai</bzg> <link ref="nicolai" linktext="true" />, durch einen Besuch in Berlin und Rezensionen für die <link ref="allgemeine-deutsche-bib" linktext="false">Allgemeine deutsche Bibliothek</link>
+</marginal>
+
+<marginal letter="407" page="93" line="8">
+<bzg>originibus des Menschl. Geschl.</bzg> im Zusammenhang von verschiedenen Ankündigungen Hamanns, vgl. <intlink letter="402" page="76" line="34" linktext="true" /> und <intlink letter="383" page="34" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="13" sort="1">
+<bzg>Heidenlehrer</bzg> <link ref="starck" linktext="true" />, vgl. <intlink letter="402" page="78" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="13" sort="2">
+<bzg>Aeschylus</bzg> <link ref="starck" subref="starck-aeschylo" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="14">
+<bzg>Disput.</bzg> <link ref="starck" subref="starck-tralatitia" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="15">
+<bzg>dogmat.</bzg> als gedachte Fortsetzung <link ref="starck" subref="starck-tralatitia" linktext="true" />, vgl. <intlink letter="402" page="78" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="16">
+<bzg>alnetanae quaest. des Huet</bzg> <link ref="huet" subref="huet-alnetanae" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="17" sort="1">
+<bzg>demonstr. evang</bzg> <link ref="huet" subref="huet-demonstratio" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="17" sort="2">
+<bzg>Cudworth</bzg> <link ref="cudworth" subref="cudworth-systema" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="18">
+<bzg>Jurieu</bzg> <link ref="jurieu" subref="jurieu-histoire" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="20">
+<bzg>Mornaeus</bzg> <link ref="mornay" subref="mornay-mystere" linktext="true" />
+</marginal>
+ 
+ <marginal letter="407" page="93" line="20">
+<bzg>Therapevt</bzg> Betrifft die Frage, ob die Essener aufgrund ihrer Reinheitsgebote und des Tempeldienstes als griech. Therapeutaí und somit als Vorläufer des Mönchtums einzuordnen seien. 
+</marginal>
+
+<marginal letter="407" page="93" line="25">
+<bzg>Boulanger’s</bzg> <link ref="boulanger" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="26" sort="1">
+<bzg>Voltäre</bzg> <link ref="voltaire" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="26" sort="2">
+<bzg>Frerets</bzg> <link ref="freret" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="26" sort="3">
+<bzg>Boul.</bzg> <link ref="holbach" subref="holbach-devoile" linktext="true" />, vgl. <intlink letter="402" page="77" line="31" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="27">
+<bzg>antiquité devoilée</bzg> <link ref="boulanger" subref="boulanger-antiquite" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="31">
+<bzg>Ihr N. T.</bzg> vgl. <intlink letter="402" page="76" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="33">
+<bzg>Leß.</bzg> <link ref="lessing" linktext="true" />, vgl. <intlink letter="402" page="78" line="37" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="35">
+<bzg>Lav.</bzg> <link ref="lavater" linktext="true" />, vgl. <intlink letter="402" page="79" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="93" line="36">
+<bzg>duo vel nemo</bzg> nach dem Titelmotto von <link ref="hamann" subref="sokratischedenk" linktext="true" /> (aus <link ref="persius" subref="persius-satiren" linktext="true" />, 1,1–3): Zwei oder niemand
+</marginal>
+
+<marginal letter="407" page="94" line="1">
+<bzg>εν εδαφω</bzg> angeblich in <link ref="starck" subref="starck-tralatitia" linktext="true" />, vgl. <intlink letter="402" page="79" line="15" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="3">
+<bzg>Urkunde</bzg> vgl. <intlink letter="402" page="79" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="4">
+<bzg>Svidas</bzg> <link ref="suda" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="5" sort="1">
+<bzg>Hesych.</bzg> <link ref="hesychius" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="5" sort="2">
+<bzg>Semler</bzg> <link ref="semler" linktext="true" />, vgl. <intlink letter="402" page="79" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="6">
+<bzg>Teller</bzg> <link ref="teller-wa" subref="teller-woerterbuch" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="8">
+<bzg>Beil.</bzg> <link ref="teller-wa" subref="teller-zusaetze" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="9">
+<bzg>Seml. Ern.</bzg> <link ref="semler" linktext="true" /> und  <link ref="ernesti" linktext="true" />, als Vertreter der historisch-grammatischen Bibelkritik
+</marginal>
+
+<marginal letter="407" page="94" line="11">
+<bzg>Erste Laufbahn…</bzg> Herders Kurs im Griechischen soll aus Septuaginta und apokryphen Geheimschriften bestehen.
+</marginal>
+
+<marginal letter="407" page="94" line="12" sort="1">
+<bzg>Pythagor.</bzg> <link ref="pythagoras" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="12" sort="2">
+<bzg>Jamblichus</bzg> <link ref="iamblichos" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="14" sort="1">
+<bzg>Clemens</bzg> <link ref="clemens" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="14" sort="2">
+<bzg>Philo</bzg> <link ref="philon" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="15">
+<bzg>Sextus</bzg> <link ref="sextus" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="18">
+<bzg>anderthalb Freundinnen</bzg> <link ref="schaumburg-lippe-maria" linktext="true" /> und <link ref="bescheffer" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="22">
+<bzg>Romant. Br.</bzg> <link ref="meister" subref="meister-briefe" linktext="true" />, vgl. <intlink letter="402" page="79" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="23">
+<bzg>Göthe</bzg> <link ref="goethe" subref="goethe-goetz" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="24">
+<bzg>Pasq.</bzg> <link ref="goethe" subref="goethe-prolog" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="25">
+<bzg>Klopst.</bzg> <link ref="klopstock" subref="klopstock-messias" linktext="true" />, vgl. <intlink letter="402" page="79" line="28" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="26">
+<bzg>N. Werk</bzg> <link ref="klopstock" subref="klopstock-gelehrtenrepublik" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="32">
+<bzg>Hans</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="33">
+<bzg>Winkelm. posth.</bzg> wohl eine Neuausgabe von <link ref="winckelmann" subref="winckelmann-geschichte" linktext="true" />, die <link ref="riedel" linktext="true" /> plante
+</marginal>
+
+<marginal letter="407" page="94" line="34">
+<bzg>Kennikott </bzg> <link ref="kennicott" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="94" line="36">
+<bzg>Wetstein u. Bianchini</bzg> <link ref="wettstein" linktext="true" /> und <link ref="bianchini" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="95" line="2">
+<bzg>sub Rosa</bzg> Herder meint (unter dem Mantel der Verschwiegenheit), zur <link ref="herder" subref="herder-altesteurkunde" linktext="false">Ältesten Urkunde</link> haben ihm Studien in Göttingen und Büchersendungen durch <link ref="heyne" linktext="true" /> verholfen.
+</marginal>
+
+<marginal letter="407" page="95" line="4">
+<bzg>Zendavesta</bzg> die Übersetzung übernahm schließlich <link ref="kleuker" linktext="true" />, vgl. <link ref="anquetil-duperron" subref="anquetil-duperron-zend" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="95" line="5" sort="1">
+<bzg>Sadi</bzg> Herder übersetzte Teile von Sadiis <titel>Rosengarten</titel> und übernahm sie später für die Passage in den <titel>Blumen aus morgenländischen Dichtern gesammlet</titel> (<titel>Zerstreute Blätter, 4. Sammlung,</titel> Gotha 1792, SWS&#x202F;XVI, S,&#x202F;14–17)
+</marginal>
+
+<marginal letter="407" page="95" line="5" sort="2">
+<bzg>lente</bzg> langsam
+</marginal>
+
+<marginal letter="407" page="95" line="7">
+<bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" />, vgl. <intlink letter="402" page="76" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="95" line="9">
+<bzg>Klaudius […] schlechter Commißionär</bzg> <link ref="claudius" linktext="true" />; nachlässig in der Erfüllung von Aufträgen
+</marginal>
+
+<marginal letter="407" page="95" line="10">
+<bzg>Vetter von Nikolai</bzg> Artverwandt mit <link ref="nicolai" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="95" line="11">
+<bzg>Heinr. Füßli</bzg> <link ref="fuessli-jh" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="95" line="13">
+<bzg>Mengs</bzg> <link ref="mengs" linktext="true" />
+</marginal>
+
+<marginal letter="407" page="95" line="14">
+<bzg>junger Hartmann</bzg> <link ref="hartmann-gd" linktext="true" />; zu Lavaters Brief an Herder vgl. HBGA&#x202F;XI, 508
+</marginal>
+
+<marginal letter="407" page="95" line="17">
+<bzg>Pfenninger</bzg> <link ref="pfenninger" subref="pfenninger-vorlesungen" linktext="true" />  
+</marginal>
+
+Brief Nr. 408
+
+<marginal letter="408" page="95" line="23">
+<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="407" page="90" line="33" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="95" line="31">
+<bzg>ältesten Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="95" line="32">
+<bzg>bald Das lesen</bzg> wohl Anspielung auf <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="95" line="34">
+<bzg>Charfreytage</bzg> nachdem Hamann sein Exemplar von <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> zunächst an <link ref="kant" linktext="true" /> gab, vgl. <intlink letter="402" page="74" line="11" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="96" line="8">
+<bzg>Preisschrift</bzg> <link ref="herder" subref="herder-ursprung" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="96" line="9">
+<bzg>Fell allein trocken</bzg> <link ref="at-ri" subref="at-ri6" linktext="false">Ri 6,36–40</link>
+</marginal>
+
+<marginal letter="408" page="96" line="11">
+<bzg>verdammen</bzg> <link ref="hamann" subref="hamann-zworecensionen" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="96" line="20">
+<bzg>aufgestanden1)</bzg> Bedeutung der Annotationszahlen unbekannt, ebenso, ob sie von Hamann oder fremder Hand stammen; sie werden in dem überlieferten Brief nicht aufgelöst.
+</marginal>
+
+<marginal letter="408" page="96" line="21">
+<bzg>polnische Reichstag</bzg> sprichwörtlich für chaotische Zustände, wohl mit Hamanns Kindern
+</marginal>
+
+<marginal letter="408" page="96" line="22">
+<bzg>Waschmaschienen</bzg> solche waren bereits im Umlauf, die <link ref="kgpz" linktext="true" />, St.&#x202F;56 vom 15.7.1765 brachte sogar eine Abbildung mit Erklärungen zur Kontruktion
+</marginal>
+
+<marginal letter="408" page="96" line="24">
+<bzg>große Schwansfeder</bzg> vgl. <intlink letter="406" page="90" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="96" line="26">
+<bzg>Mitauschen Professoren</bzg> Henkel: im Herbst 1772 ging die Nachricht durch die Zeitungen, man wolle in Kurland eine Universität errichten; Claudius ließ in seinem Boten verlauten, der erste, den man dorthin berufen gedenke, sei Herder; dessen Befürworter war der Lavaterianer Hartmann, 104,30ff.?!?
+</marginal>
+
+<marginal letter="408" page="96" line="28" sort="1">
+<bzg>Claudio Vlubrano</bzg> <link ref="claudius" linktext="true" />, nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,11,29f. 
+</marginal>
+
+<marginal letter="408" page="96" line="28" sort="2">
+<bzg>Billet doux</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="408" page="96" line="29">
+<bzg>ein paar Zeilen</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="408" page="96" line="31" sort="1">
+<bzg>Mancherley u Etwas</bzg> <link ref="hamann" subref="hamann-mancherley" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="96" line="31" sort="2">
+<bzg>3 köpfichten Uebersezung</bzg> <link ref="hamann" subref="hamann-bolingbroke-hervey" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="96" line="33" sort="1">
+<bzg>Herrn Urians</bzg> sprichwörtlich für einen unerwünschten Gast, auch von Claudius gern verwendet, dessen Stil Hamann im „Vorbericht“ von <link ref="hamann" subref="hamann-mancherley" linktext="true" /> parodiert (Claudius’ bekanntes Gedicht <titel>Urians Reise um die Welt</titel> erschien jedoch erst später)
+</marginal>
+
+<marginal letter="408" page="96" line="33" sort="2">
+<bzg>Ihre Beylagen</bzg> Henkel: wohl die Herders, die im Wandsbecker Bothen erschienen waren, darunter (SWS V 427) die scharfe Rezension vom Versuch einer prosaischen Übersetzung der griechischen Lieder des Pindar, Berlin und Leipzig, in der Ringmacherschen Buchhandlung 1771, die in der Nummer vom 1. Mai 1772 erschien. – – nicht auch <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true" />, über die Herder sich in <intlink letter="407" page="91" line="32" linktext="true" /> beschwerte?!?
+</marginal>
+
+<marginal letter="408" page="96" line="33" sort="3">
+<bzg>übersetzten Stelle aus dem Pindar</bzg> im „Vorbericht“ von <link ref="hamann" subref="hamann-mancherley" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="96" line="34" sort="1">
+<bzg>Epimetheus</bzg> mit Anspielung auf die Verse 27f. der 5. pythischen Ode: (Epimaueow ocinoy, des spät Wissenden), ist Herder gemeint?!?
+</marginal>
+
+<marginal letter="408" page="96" line="34" sort="2">
+<bzg>Dr. Bruwisch</bzg> Bruwisch: Bruinvisch, N IV,495 und N VI,183: Hütenthüt.?!?
+</marginal>
+
+<marginal letter="408" page="96" line="34" sort="2">
+<bzg>Motherby</bzg> <link ref="motherby" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="96" line="34" sort="2">
+<bzg>kleinen Nazir</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="97" line="1">
+<bzg>Kanter…</bzg> <link ref="kanter" linktext="true" />: gemeint ist wohl, dass Pränumeranten (bzw. Abbonenten) der <link ref="kgpz" linktext="true" /> abspringen, wenn deren wöchentliche Beilage in diesem polemischen Stil weitergeführt wird (Jahrgang nicht überliefert)
+</marginal>
+
+
+
 
 Brief Nr. 414
 
 <marginal letter="414" page="108" line="31">
-<bzg>Erstgebornen</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Erstgebornen</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="414" page="108" line="32">
@@ -49865,7 +50295,7 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="35">
-<bzg>Wilhelm Christian Gottfried</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Wilhelm Christian Gottfried</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="414" page="110" line="37">
@@ -49991,7 +50421,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="11">
-<bzg>Christian</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Christian</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="113" line="13">
@@ -50031,7 +50461,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="31">
-<bzg>des kleinen Herders</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>des kleinen Herders</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="114" line="4">
@@ -50382,7 +50812,7 @@ Brief Nr. 419
 </marginal>
 
 <marginal letter="419" page="121" line="5">
-<bzg>Weib u. Kind</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-w" linktext="true" /> 
+<bzg>Weib u. Kind</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="121" line="10">
@@ -50603,7 +51033,7 @@ mitzuständig und hatte sich gegen Herder ausgesprochen; Loos werfen: u.a. <link
 </marginal>
 
 <marginal letter="420" page="124" line="19">
-<bzg>Weib u. Kinde</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-w" linktext="true" /> 
+<bzg>Weib u. Kinde</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="420" page="124" line="20">
@@ -50926,7 +51356,7 @@ Brief Nr. 423
 Brief Nr. 424
 
 <marginal letter="424" page="129" line="19">
-<bzg>Frau … Liebling</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-w" linktext="true" /> 
+<bzg>Frau … Liebling</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="129" line="22">
@@ -50978,7 +51408,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="11">
-<bzg>Kanter … in Marienwerder</bzg> <link ref="kanter" linktext="true" />; Kwidzyn
+<bzg>Kanter … in Marienwerder</bzg> <link ref="kanter" linktext="true" />; heute Kwidzyn
 </marginal>
 
 <marginal letter="424" page="130" line="12">
@@ -50994,7 +51424,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="20">
-<bzg>Gumb. und Marienw.</bzg> Gumb.[innen] (Gussew) und Marienw.[erder] (Kwidzyn)
+<bzg>Gumb. und Marienw.</bzg> Gumb.[innen] (Gussew) und Marienw.[erder] (heute Kwidzyn)
 </marginal>
 
 <marginal letter="424" page="130" line="21">
@@ -51242,7 +51672,7 @@ Amsterdam 1774. ?!?
 </marginal>
 
 <marginal letter="424" page="133" line="35" sort="1">
-<bzg>Babe</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Babe</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="133" line="35" sort="2">
@@ -52381,7 +52811,7 @@ und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="154" line="30" sort="2">
-<bzg>Weib … Bube</bzg> <link ref="herder-c" linktext="true" /> u. <link ref="herder-w" linktext="true" /> 
+<bzg>Weib … Bube</bzg> <link ref="herder-c" linktext="true" /> u. <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="433" page="154" line="33" sort="1">
@@ -53204,7 +53634,7 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="169" line="19">
-<bzg>Mohrkopf</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Mohrkopf</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="440" page="169" line="21" sort="1">
@@ -53359,7 +53789,7 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="171" line="22">
-<bzg>Bube</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Bube</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="441" page="171" line="25">
@@ -53480,7 +53910,7 @@ Brief Nr. 442
 </marginal>
 
 <marginal letter="442" page="174" line="4">
-<bzg>Säugling</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Säugling</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 
@@ -53701,7 +54131,7 @@ Brief Nr. 445
 </marginal>
 
 <marginal letter="445" page="177" line="15">
-<bzg>beide Söhne</bzg> <link ref="herder-w" linktext="true" /> und <link ref="neumann-j" linktext="true" /> 
+<bzg>beide Söhne</bzg> <link ref="herder-g" linktext="true" /> und <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
 <marginal letter="445" page="177" line="28">
@@ -54231,7 +54661,7 @@ Brief Nr. 448
 </marginal>
 
 <marginal letter="448" page="186" line="12">
-<bzg>Weib u. Knabe</bzg> <link ref="herder-c" linktext="true" /> u. <link ref="herder-w" linktext="true" />
+<bzg>Weib u. Knabe</bzg> <link ref="herder-c" linktext="true" /> u. <link ref="herder-g" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="186" line="13">
@@ -54410,7 +54840,7 @@ Brief Nr. 449
 </marginal>
 
 <marginal letter="449" page="188" line="24">
-<bzg>Mohrenkopf</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Mohrenkopf</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="449" page="188" line="25">
@@ -54667,7 +55097,7 @@ universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740. ?
 </marginal>
 
 <marginal letter="450" page="191" line="30" sort="1">
-<bzg>Mohrenkopf</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Mohrenkopf</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="191" line="30" sort="2">
@@ -54833,7 +55263,7 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="194" line="11">
-<bzg>Mohrenkopf</bzg> <link ref="herder-w" linktext="true" /> 
+<bzg>Mohrenkopf</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="452" page="194" line="14">
@@ -54909,7 +55339,7 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="195" line="25">
-<bzg>Marienwerder</bzg> Kwidzyn
+<bzg>Marienwerder</bzg> heute Kwidzyn
 </marginal>
 
 <marginal letter="452" page="195" line="26">
@@ -55168,7 +55598,7 @@ Brief Nr. 454
 </marginal>
 
 <marginal letter="454" page="200" line="16" sort="1">
-<bzg>Weib u. Kind, Hans u. Gottfr.</bzg> <link ref="herder-c" linktext="true" />; <link ref="neumann-j" linktext="true" />, <link ref="herder-w" linktext="true" />
+<bzg>Weib u. Kind, Hans u. Gottfr.</bzg> <link ref="herder-c" linktext="true" />; <link ref="neumann-j" linktext="true" />, <link ref="herder-g" linktext="true" />
 </marginal>
 
 <marginal letter="454" page="200" line="16" sort="2">
@@ -55568,7 +55998,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="206" line="26">
-<bzg>Caroline, Gottfriedchen, Johann Christoph</bzg> <link ref="herder-c" linktext="true" />, <link ref="herder-w" linktext="true" />, <link ref="neumann-j" linktext="true" />
+<bzg>Caroline, Gottfriedchen, Johann Christoph</bzg> <link ref="herder-c" linktext="true" />, <link ref="herder-g" linktext="true" />, <link ref="neumann-j" linktext="true" />
 </marginal>
 
 
@@ -56051,7 +56481,7 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="214" line="10">
-    <bzg>Weib … Mohrenkopf</bzg> <link ref="herder-c" linktext="true" />; <link ref="herder-w" linktext="true" /> 
+    <bzg>Weib … Mohrenkopf</bzg> <link ref="herder-c" linktext="true" />; <link ref="herder-g" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="214" line="11" sort="1">
@@ -56198,7 +56628,7 @@ Brief Nr. 459
    </marginal>
 
    <marginal letter="459" page="215" line="34">
-    <bzg>Hänschen … seinem Freunde</bzg> <link ref="hamann-jm" linktext="true" />; <link ref="herder-w" linktext="true" /> 
+    <bzg>Hänschen … seinem Freunde</bzg> <link ref="hamann-jm" linktext="true" />; <link ref="herder-g" linktext="true" /> 
    </marginal>
 
    <marginal letter="459" page="216" line="2">
@@ -56333,7 +56763,7 @@ Brief Nr. 460
    </marginal>
 
    <marginal letter="461" page="219" line="19">
-    <bzg>Kanter … Marienwerder</bzg> <link ref="kanter" linktext="true" />; Kwidzyn
+    <bzg>Kanter … Marienwerder</bzg> <link ref="kanter" linktext="true" />; heute Kwidzyn
    </marginal>
 
    <marginal letter="461" page="219" line="20">
@@ -56695,7 +57125,7 @@ Brief Nr. 466
    </marginal>
 
    <marginal letter="466" page="229" line="10">
-    <bzg>Generalsuperint.</bzg> Johann Christian Wilhelm Meier (1731–1775), evang. Theologe, seit 1758 Konsistorial-Superintendent in Stadthagen, starb, die Stelle wurde eingespart.
+    <bzg>Generalsuperint.</bzg> Johann Christian Wilhelm Meier (1731–1775), evang. Theologe, seit 1758 Konsistorial-Superintendent in Stadthagen, seine Stelle wurde eingespart.
    </marginal>
 
       <marginal letter="466" page="229" line="18">
@@ -56723,7 +57153,7 @@ Brief Nr. 466
    </marginal>
 
         <marginal letter="466" page="230" line="3">
-    <bzg>Colloq.</bzg> nachdem das Hannöversche Ministerium von der Göttinger Theologischen Fakultät wegen angeblicher Heterodoxie Herders ein Gutachten angefordert und erhalten hatte, sollte Herder sich einem Colloquium stellen
+    <bzg>Colloq.</bzg> nachdem das Ministerium  wegen angeblicher Heterodoxie Herders ein Gutachten angefordert hatte, sollte Herder sich einem Colloquium stellen
    </marginal>
 
            <marginal letter="466" page="230" line="5">
@@ -56731,7 +57161,7 @@ Brief Nr. 466
    </marginal>
 
            <marginal letter="466" page="230" line="12">
-    <bzg>tesserae</bzg> eigentl. Würfel, dann Wahrzeichen.
+    <bzg>tesserae</bzg> eigentl. Würfel, dann Wahrzeichen ?!?
    </marginal>
 
            <marginal letter="466" page="230" line="19">
@@ -56747,7 +57177,7 @@ Brief Nr. 466
    </marginal>
 
    <marginal letter="466" page="230" line="31">
-    <bzg>von Lynker</bzg> ?!?
+    <bzg>von Lynker</bzg> Karl Friedrich Ernst Frh. v. Lyncker (1726–1801), 1775 Präsident des Oberkonsistoriums in Weimar
    </marginal>
 
   <marginal letter="466" page="230" line="33">
@@ -56759,7 +57189,7 @@ Brief Nr. 466
    </marginal>
 
   <marginal letter="466" page="230" line="35">
-    <bzg>Gastpredigt</bzg> Da es sich um eine städtische Stelle handelte, verlangte der Magistrat der Stadt Weimar eine Probepredigt, auf die man jedoch verzichtete, nachdem Herzog Carl August die Berufung Herders am 12. Juni verfügt hatte.
+    <bzg>Gastpredigt</bzg> Der Magistrat der Stadt Weimar verlangte eine Probepredigt, auf die man jedoch verzichtete, nachdem Herzog Carl August die Berufung Herders am 12. Juni verfügt hatte.
    </marginal>
 
      <marginal letter="466" page="230" line="36">
@@ -56791,17 +57221,11 @@ Brief Nr. 466
    </marginal>
 
        <marginal letter="466" page="231" line="22">
-    <bzg>Wirbelwind</bzg> die Affäre mit dem Candidaten Stock, der durchs Examen gefallen
-und mit einem Lotteriegewinnn von 4000 Reichstalern als Darlehen an die
-schaumburgisch- lippische Rentkammer - also durch Simonie - auf die Stadthagener
-Adjunctur gekommen war; obwohl ein Examen vor dem Bückeburger Consistorium
-anberaumt war, hatte der Graf den Befehl gegeben, Stock ohne Examen zu ordinieren.
-Herder verfaßte daraufhin ein Promemoria und ließ sich in einen Streit mit dem
-Grafen ein - bis zu einem Urlaubsgesuch
+    <bzg>Wirbelwind</bzg> Affäre um den Candidaten Stock, der ohne Examen durch Simonie auf die Stadthagener Adjunctur gekommen war
    </marginal>
 
        <marginal letter="466" page="231" line="24">
-    <bzg>Moser sagt</bzg> 
+    <bzg>Moser sagt</bzg> <link ref="moser" linktext="true" />; nicht ermittelt
    </marginal>
    
        <marginal letter="466" page="231" line="32">
@@ -56809,12 +57233,12 @@ Grafen ein - bis zu einem Urlaubsgesuch
    </marginal>
 
           <marginal letter="466" page="231" line="36">
-    <bzg>Beilagen</bzg> Hs Klopstockrezension, N IV,409ff
+    <bzg>Beilagen</bzg> Hs Klopstockrezension, N IV,409ff ?!?
    </marginal>
 
              <marginal letter="466" page="231" line="37">
     <bzg>Rec.</bzg> Rec.[ension] über den Bonsens u. die Republick: Kleiner Versuch über große
-Probleme, Fragment eines Programms, N IV,413ff
+Probleme, Fragment eines Programms, N IV,413ff ?!?
    </marginal>
 
              <marginal letter="466" page="232" line="1">
@@ -56826,17 +57250,15 @@ Probleme, Fragment eines Programms, N IV,413ff
    </marginal>
 
                 <marginal letter="466" page="232" line="4">
-    <bzg>„Feigen“</bzg> vgl Schluß der Zweifel und Einfälle, N III,196,3 nach Jer 24,2ff.
+    <bzg>„Feigen“</bzg> vgl. den Schluß von <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N III,196,3 nach <link ref="at-jer" subref="at-jer24" linktext="false">Jer 24,2</link>
    </marginal>
 
                 <marginal letter="466" page="232" line="7">
-    <bzg>Rec. in der Bibl.</bzg> die Nicolaische in der Allgemeinen deutschen Bibliothek, Bd
-24/1.
+    <bzg>Rec. in der Bibl.</bzg> <link ref="nicolai" linktext="true" />  in  <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 24/1, ?!?
    </marginal>
 
                 <marginal letter="466" page="232" line="9">
-    <bzg>Urk. Th. 4.</bzg> Zweiter Band, welcher den Vierten Theil enthält, SWS
-VII,1ff.
+    <bzg>Urk. Th. 4.</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, Bd. 2
    </marginal>
 
                 <marginal letter="466" page="232" line="10">
@@ -56844,7 +57266,7 @@ VII,1ff.
    </marginal>
 
                 <marginal letter="466" page="232" line="11">
-    <bzg>Harling</bzg> 
+    <bzg>Harling</bzg> Johann Friedrich von Harling (1718–1786), Fürstlich Anhalt-Dessauischer Geheimrat
    </marginal>
 
                 <marginal letter="466" page="232" line="17">
@@ -56852,72 +57274,70 @@ VII,1ff.
 35,5 und 14 variiert: feurige Jünglinge, die gleich dem Priester zu Anathoth im Lande
 Benjamin Becher voll Weins und Schaalen vorsetzten, den Kindern von der Rechabiter
 Hause sagen: Trinkt Punsch, Bischoff und Cardinal nebst glühenden Weinen und
-Krambambuli
+Krambambuli ?!?
    </marginal>
 
  <marginal letter="466" page="232" line="25">
-    <bzg>Klaudius</bzg> <link ref="claudius" linktext="true" />  auf der Reise nach Darmstadt Anfang April
+    <bzg>Klaudius</bzg> <link ref="claudius" linktext="true" /> auf der Reise nach Darmstadt Anfang April
    </marginal>
 
 <marginal letter="466" page="232" line="28">
-    <bzg>Verjüngung</bzg> Ps 103,5.
+    <bzg>Verjüngung</bzg> <link ref="at-ps" subref="at-p103" linktext="false">Ps 103,5</link>  
    </marginal>
 
-
 <marginal letter="466" page="232" line="31">
-    <bzg>Spiel</bzg> dem lässigen Claudius, der in Verhandlungen
-stand, die Berufung nach Darmstadt schmackhaft zu machen, 252,11ff.
+    <bzg>Spiel</bzg> vgl. <intlink letter="469" page="252" line="11" linktext="true" /> 
    </marginal>
 
  <marginal letter="466" page="232" line="36">
-    <bzg>Bube</bzg> 
+    <bzg>Bube</bzg> <link ref="herder-g" linktext="true" /> 
    </marginal>
 
                 <marginal letter="466" page="233" line="3">
-    <bzg>Buffon</bzg> Naturgeschichte der vierfüßigen Tiere aus Büffon, u.a., mit
-illuminierten Kupferstichen, aus dem Frz. v. F. H. W. Martini
+    <bzg>Buffon</bzg> Naturgeschichte der vierfüßigen Tiere nach Büffon u.a. mit illuminierten Kupferstichen, aus dem
+Französischen von F. H. W. Martini. 23 Bde. Berlin 1772- 1802.
    </marginal>
 
                 <marginal letter="466" page="233" line="4">
-    <bzg>Johnson</bzg> Johnstone, Johannes Theatrum universale historiae naturalis
-omnium animalium quadrupedum
+    <bzg>Johnson</bzg> Johnstone (Johnson), Johannes (1603- 1675), Arzt u. Naturforscher schottischer Herkunft
+Theatrum univerale historiae naturalis omnium animalium quadrupedum, cum tabulis ab Merian aeri
+incisis. Heilbronn 1755.
    </marginal>
 
                 <marginal letter="466" page="233" line="5">
-    <bzg>Püttel</bzg> 
+    <bzg>Püttel</bzg> ?!?
    </marginal>
 
                    <marginal letter="466" page="233" line="6">
-    <bzg>Pyrmonter</bzg> 
+    <bzg>Pyrmonter</bzg> Heilwasser
    </marginal>
 
                    <marginal letter="466" page="233" line="10">
-    <bzg>Schausystem</bzg> Über den Ursprung der Sprache.
+    <bzg>Schausystem</bzg> <link ref="herder" subref="herder-ursprung" linktext="true" />
    </marginal>
 
                    <marginal letter="466" page="233" line="11">
-    <bzg>Zweite</bzg> Sohn, August Wolfgang, 235,15.
+    <bzg>Zweite</bzg> <link ref="herder-a" linktext="true" /> 
    </marginal>
 
                       <marginal letter="466" page="233" line="13">
-    <bzg>Jakob …</bzg> 1 Mo c. 27.
+    <bzg>Jakob …</bzg> vgl. <link ref="at-mo1" subref="at-mo1-27" linktext="false">1 Mo 27</link>
    </marginal>
 
                          <marginal letter="466" page="233" line="14">
-    <bzg>Kreuzfeld mit der Urk.</bzg> 
+    <bzg>Kreuzfeld mit der Urk.</bzg> <link ref="kreutzfeld" linktext="true" />, Zusendung von <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> ?!?  
    </marginal>
 
                             <marginal letter="466" page="233" line="15">
-    <bzg>Reichard</bzg> J. F. Reichardt.
+    <bzg>Reichard</bzg> <link ref="reichardt-jf" linktext="true" /> 
    </marginal>
 
                             <marginal letter="466" page="233" line="16">
-    <bzg>Albertine</bzg> die (hier geschmähte) Königsberger Universität.
+    <bzg>Albertine</bzg> die Königsberger Universität
    </marginal>
 
-   
                             <marginal letter="466" page="233" line="17">
-    <bzg>Hephäst. … Carm. Davidis</bzg> von J. A. Starck.
+    <bzg>Hephäst. … Carm. Davidis</bzg> <link ref="starck" subref="starck-hephaestion" linktext="true" /> u. ?!?
    </marginal>
 
                             <marginal letter="466" page="233" line="18">
@@ -56925,34 +57345,29 @@ omnium animalium quadrupedum
    </marginal>
 
                             <marginal letter="466" page="233" line="19">
-    <bzg>Lemg. Bibl.</bzg> Auserlesene Bibliothek, 259,17.
-   </marginal>
-
-                            <marginal letter="466" page="233" line="23">
-    <bzg>Katastrophe</bzg> 217f.
+    <bzg>Lemg. Bibl.</bzg> <link ref="auserlesene-bibliothek" linktext="true" />, vgl. <intlink letter="470" page="259" line="17" linktext="true" />
    </marginal>
 
                             <marginal letter="466" page="233" line="25">
-    <bzg>Niedersächsische Wörterbuch</bzg> Bremisch- Niedersächsisches Wörterbuch. Bd 1-
-5, hg. durch die Bremische Deutsche Gesellschaft. 1767/1771
+    <bzg>Niedersächsische Wörterbuch</bzg> Bremisch- Niedersächsisches Wörterbuch. Hg v. d. Bremisch- Deutschen Gesellschaft. 1- 5. 1767/71.
    </marginal>
 
  <marginal letter="466" page="233" line="27" sort="1"> 
-    <bzg>neues Buch</bzg>
+    <bzg>neues Buch</bzg> Sammlung und Abstammung Germanischen Wurzel- Wörter, nach der Reihe menschlicher Begriffe, zum
+Erweis der Tabelle, die der Preisschrift über die zween Hauptdialekte der Teutschen Sprache angefügt
+worden ist, von dem Verfasser derselbigen; hg. von Johann Georg Meusel. Halle 1776.
    </marginal>
 
   <marginal letter="466" page="233" line="27" sort="2"> 
-    <bzg>Preisschrift</bzg> über die beiden Hauptdialekte der Teutschen
-Sprache
+    <bzg>Preisschrift</bzg> <link ref="fulda" subref="fulda-preißschrift" linktext="true" /> 
    </marginal>
 
   <marginal letter="466" page="233" line="29" sort="1"> 
-    <bzg>sub Rosa</bzg>
+    <bzg>sub Rosa</bzg> Unter dem Siegel der Verschwiegenheit
    </marginal>
 
   <marginal letter="466" page="233" line="29" sort="2"> 
-    <bzg>Krone</bzg> mit der Schrift Vom Erkennen und Empfinden der
-menschlichen Seele.
+    <bzg>Krone</bzg> mit  Vom Erkennen und Empfinden der menschlichen Seele. Bemerkungen und Träume. Riga 1778.
    </marginal>
 
    <marginal letter="466" page="233" line="30">
@@ -56960,33 +57375,25 @@ menschlichen Seele.
    </marginal>
 
    <marginal letter="466" page="233" line="32">
-    <bzg>aufgeschoben</bzg> die Akademie hatte die
-Preisverteilung suspendiert und die Einsender gebeten, bis zu einem neuen Termin
-ergänzende Zusätze zu liefern
+    <bzg>aufgeschoben</bzg> Die Akademie hatte die Preisverteilung suspendiert und die Einsender gebeten, ergänzende Zusätze zu liefern.
    </marginal>
 
    <marginal letter="466" page="233" line="34">
-    <bzg>Eberhard</bzg> mit der Schrift Allgemeine Theorie des Denkens und
-Empfindens
+    <bzg>Eberhard</bzg> Allgemeine Theorie des Denkens und Empfindens. Eine Abhandlung, welche den von der Königl.
+Akademie der Wissenschaften in Berlin auf das Jahr 1776 ausgesetzten Preis erhalten hat. Berlin 1776.
    </marginal>
 
       <marginal letter="466" page="233" line="36">
-    <bzg>2ten Th. von Lavaters Phys.</bzg> H. auf S. 285ff.; die
-Affenschädel und - köpfe S. 174- 180
+    <bzg>2ten Th. von Lavaters Phys.</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 2;  H. auf S. 285ff.; die Affenschädel und -köpfe S. 174–180
    </marginal>
 
          <marginal letter="466" page="234" line="2">
     <bzg>Popens Einfall auf Newton</bzg> vgl die Abfertigung in der Beylage zum 37sten Stück
-der Königsbergschen ... Zeitung, 1772, N III,21,20ff: Mithin ist die sinnreiche
-Hypothese, welche den Ursprung der Sprache menschlicher Erfindung unterschiebt, im
-Grunde ein loser Einfall einiger Newtonianer dießeit des Wassers, die alle, wie Pope
-meint, zum poßierlichen Affengeschlechte gehören, und neuerlich mit dem
-Grundsatze des Widerspruchs alle Besonnenheit scheinen beynahe verleugnet zu
-haben; retorquirt: mit den eigenen Waffen bekämpft.
+von <link ref="kpgz" linktext="true" />, 1772, N III,21,20ff
    </marginal>
 
          <marginal letter="466" page="234" line="4">
-    <bzg>Silhouette</bzg> 
+    <bzg>Silhouette</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 2, S. 102
    </marginal>
 
          <marginal letter="466" page="234" line="5">
@@ -56994,11 +57401,11 @@ haben; retorquirt: mit den eigenen Waffen bekämpft.
    </marginal>
 
          <marginal letter="466" page="234" line="11">
-    <bzg>Käuzlein</bzg> Ps 102,7.
+    <bzg>Käuzlein</bzg> <link ref="at-ps" subref="at-p103" linktext="false">Ps 102,7</link> 
    </marginal>
 
          <marginal letter="466" page="234" line="12">
-    <bzg>Cana in Galiläa</bzg> 
+    <bzg>Cana in Galiläa</bzg> ?!?
    </marginal>
 
          <marginal letter="466" page="234" line="21" sort="1">
@@ -57014,7 +57421,7 @@ haben; retorquirt: mit den eigenen Waffen bekämpft.
    </marginal>
 
          <marginal letter="466" page="234" line="23" sort="2">
-    <bzg>Abhandl. vom Geschmack</bzg> 
+    <bzg>Abhandl. vom Geschmack</bzg> ?!?
    </marginal>
 
          <marginal letter="466" page="234" line="24">
@@ -57026,17 +57433,16 @@ haben; retorquirt: mit den eigenen Waffen bekämpft.
    </marginal>
 
             <marginal letter="466" page="234" line="25" sort="2">
-    <bzg>Tönnies</bzg> 
+    <bzg>Tönnies</bzg> Tönnies, Johann Heinrich (1725- 1784), evang. Theologe, Prof. der Philosophie in Kiel
    </marginal>
 
             <marginal letter="466" page="234" line="26">
-    <bzg>Offenbahr. Joh.</bzg> 
+    <bzg>Offenbahr. Joh.</bzg> Auszug der Geschichte zur Erklärung der Offenbarung Johannis; nebst einem Anhange, welcher einige
+Anekdoten zur neuern Braunschweigischen Kirchengeschichte liefert. Leipzig 1776.
    </marginal>
 
                <marginal letter="466" page="234" line="28">
-    <bzg>Leßing …</bzg> in: Philosophische
-Aufsätze von Karl Wilhelm Jerusalem; herausgegeben von Gotthold Ephraim Lessing,
-1776, wo er zu Jerusalems Aufsatz Daß die Sprache dem ersten Menschen durch
+    <bzg>Leßing …</bzg> in: Philosophische Aufsätze von Karl Wilhelm Jerusalem; herausgegeben von Gotthold Ephraim Lessing, 1776, wo er zu Jerusalems Aufsatz Daß die Sprache dem ersten Menschen durch
 Wunder nicht mitgetheilt seyn kann angemerkt: Die Sprache kann den ersten
 Menschen seyn gelehret worden: er kann eben so dazu gelangt seyn, wie noch itzt alle
 Kinder dazu gelangen müssen. Fragt man: wodurch? durch wen? Durch Umgang mit
@@ -57048,13 +57454,37 @@ Vocalmachung der Kinder noch zugeht. Dieses, wenn man billig seyn will, muß man
 gelten lassen. Die Sache ist nur, daß sodann die ganze Aufgabe von dem Ursprunge
 der Sprache keiner reinen philosophischen Auflösung mehr fähig ist, indem der
 mittlere Fall sich lediglich durch historische Gründe erhärten oder verwerfen läßt
-... (Lachmann, X, 4f.).
+... (Lachmann, X, 4f.). ?!?
    </marginal>
 
                   <marginal letter="466" page="234" line="31">
-    <bzg>Kunst zu sehen</bzg> 242,15
+    <bzg>Kunst zu sehen</bzg> vgl. <intlink letter="467" page="242" line="15" linktext="true" />  
    </marginal>
 
+
+
+
+Brief 398, Entwurf
+
+<marginal letter="398" page="408" line="17">
+<bzg>Sache selbst hienieden … Aberglaubens … Reliquie</bzg> Hamann lehnt sich, vll. ironisch, an Mosers Verteidigung des Aberglaubens als eine Reliquie der menschlichen Weisheit an: „Es ist hundertmal von den Spöttern des Christenthums selbst bezeugt und zum Vorwurf gemacht worden; daß der von ihnen so genannte Aberglaube nur zum Schrecken diene. Es seye dann so! .. werden deßwegen hundertfache politische Anstalten und Einrichtungen verwerflich, weil sie blos zum Schrecken dienen? weil man mit vielen Menschen zu thun hat, die durch keine sanftere Bande geleitet werden können.“ <link ref="moser" subref="moser-reliquien" linktext="true" />, S.&#xA0;3.
+</marginal>
+
+<marginal letter="398" page="408" line="20">
+<bzg>markantoninischer</bzg> nach Marcus Antonius bzw. seiner literarisch vielfach dargestellten Leidenschaft für Kleopatra
+</marginal>
+ 
+<marginal letter="398" page="408" line="25">
+<bzg>Die ihr des mitleids …</bzg> <link ref="molter" subref="molter-scherze" linktext="true" />, S.&#xA0;20f.
+</marginal>
+
+<marginal letter="398" page="408" line="30">
+<bzg>anakreontischen</bzg> Molters Gedichte und Lieder sind anakreontisch gerahmt.
+</marginal>
+ 
+ <marginal letter="398" page="410" line="25">
+<bzg>Pindar</bzg> <link ref="pindar" linktext="true" />
+</marginal>
 
 
 
