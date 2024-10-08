@@ -1983,6 +1983,17 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="bruinvisch-ae" type="neuzeit">
+<lemma>Arien Ernst Bruinvisch</lemma>
+<eintrag>Gest. 1789. Arzt in Königsberg, vgl. Fritz Gause: <titel>Der Grundbesitz der Familie Saturgus in Königsberg.</titel> In: Unsere
+ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg. 2, Nr. 3, Sommer 1956, 9–10.; tritt im „Vorbericht“ von <link ref="hamann" subref="hamann-mancherley" linktext="true" /> als „Dr. Hütentüth“ auf (vgl. <intlink letter="573" page="138" line="1" linktext="true" />).</eintrag>
+</kommentar>
+
+<kommentar id="bruinvisch-g" type="neuzeit">
+<lemma>Georg Bruinvisch</lemma>
+<eintrag>Gest. 1789. Kaufmann in Königsberg, Bruder von <link ref="bruinvisch-e" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="brumoy" type="neuzeit">
 <lemma>Pierre Brumoy</lemma>
 <eintrag>1688–1743. Altertumsforscher, Theologe, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd132900122.html">Deutsche Biographie</wwwlink>.
@@ -6039,7 +6050,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;67–79.
 <lemma>Hamann, <titel>Lettre perdue d’un sauvage du nord</titel></lemma>
 <eintrag>
 <titel>Lettre perdue d’un sauvage du nord à un financier de Pe-Kim</titel> ([Mitau: <link ref="hinz" linktext="false">Hinz</link>] 1773). Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235998">ULB Münster: N. Hamann Bd.&#x202F;49</wwwlink>.<line type="break" />  
-Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;419f.<line type="break" /> 
+Die Schrift erschien zunächst im März 1773 ohne Verlag und ohne Ort, dann in 2. Auf. im August 1773 mit dem fingierten Verlagsort Amsterdam; in der zweiten Auflage wurden auch die „Encore deux lettre perdues“ eingefügt. Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;419f.<line type="break" /> 
 Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;299–305.
 </eintrag>
 </subsection>
@@ -11882,6 +11893,10 @@ Wiss. Ausg.: <titel>Plautus: Komödien. Lateinisch und deutsch</titel>, hrsg., �
 <subsection id="plautus-bacchides" type="neuzeit">
 <lemma>Plaut. <titel>Bacch.</titel></lemma>
 <eintrag><titel>Bacchides</titel></eintrag>
+</subsection>
+<subsection id="plautus-curculio" type="neuzeit">
+<lemma>Plaut. <titel>Curc.</titel></lemma>
+<eintrag><titel>Curculio</titel></eintrag>
 </subsection>
 <subsection id="plautus-poenulus" type="neuzeit">
 <lemma>Plaut. <titel>Poen.</titel></lemma>
