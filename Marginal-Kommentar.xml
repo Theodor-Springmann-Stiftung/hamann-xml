@@ -40898,11 +40898,11 @@ Brief Nr. 347
 <bzg>Abus</bzg> <link ref="laurens" subref="laurens-abus" linktext="true" />
 </marginal>
 
-<marginal letter="347" page="406" line="25">
+<marginal letter="347" page="406" line="25" sort="1">
 <bzg>Beschuldigung</bzg> vgl. <link ref="laurens" subref="laurens-abus" linktext="true" />, S.&#x202F; xii, Anmerkung: „Mr. Rousseau a pris son Contract-Social, mot pour mot, d’Ulrici Huberti de Jure civitatis, Lib. III. Imprimé à Franequeur en Frise en 1684, &amp; réimprimé à Francfort en 1718. Ce Livre est dans toutes les grandes Bibliotheques; on peut vérifier cette accusation.“
 </marginal>
 
-<marginal letter="347" page="406" line="25">
+<marginal letter="347" page="406" line="25" sort="2">
 <bzg>Rousseau</bzg> <link ref="rousseau" linktext="true" />
 </marginal>
 
@@ -44945,7 +44945,7 @@ Brief Nr. 375
 </marginal>
 
 <marginal letter="375" page="8" line="16">
-<bzg>Johann Michel Mannah</bzg> <link ref="hamann-jm" linktext="true" />;  „Mannah“ nach dem himmlischen Brot (u.a.  <link ref="nt-joh" subref="nt-joh6" linktext="false">Joh 6,30–35</link>. (Nadler behauptet in <titel>Johann Georg Hamann (1730–1788). Der Zeuge des Corpus mysticum,</titel> S.&#x202F;172, Hamann habe diesen Namen, ein Buchstabenspiel mit dem eigentlichen, auch ins Taufregister der Garnisonskirche eingetragen. Ein Beleg dafür ist nicht bekannt.)
+<bzg>Johann Michel Mannah</bzg> <link ref="hamann-jm" linktext="true" />;  „Mannah“ nach dem himmlischen Brot (u.a.  <link ref="nt-jo" subref="nt-jo6" linktext="false">Joh 6,30–35</link>. (Nadler behauptet in <titel>Johann Georg Hamann (1730–1788). Der Zeuge des Corpus mysticum,</titel> S.&#x202F;172, Hamann habe diesen Namen, ein Buchstabenspiel mit dem eigentlichen, auch ins Taufregister der Garnisonskirche eingetragen. Ein Beleg dafür ist nicht bekannt.)
 </marginal>
 
 Brief Nr. 376
@@ -45793,7 +45793,7 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="21" line="20">
-<bzg>deine Ader und deinen Nacken, wie eisern wie felsen sie sind</bzg> <link ref="apo-jes" subref="apo-jes48" linktext="false">Jes 48,4</link>
+<bzg>deine Ader und deinen Nacken, wie eisern wie felsen sie sind</bzg> <link ref="at-jes" subref="at-jes48" linktext="false">Jes 48,4</link>
 </marginal>
 
 <marginal letter="379" page="21" line="21">
@@ -49907,7 +49907,7 @@ Brief Nr. 407
 <bzg>Mornaeus</bzg> <link ref="mornay" subref="mornay-mystere" linktext="true" />
 </marginal>
  
- <marginal letter="407" page="93" line="20">
+ <marginal letter="407" page="93" line="21">
 <bzg>Therapevt</bzg> Betrifft die Frage, ob die Essener aufgrund ihrer Reinheitsgebote und des Tempeldienstes als griech. Therapeutaí und somit als Vorläufer des Mönchtums einzuordnen seien. 
 </marginal>
 
@@ -50093,7 +50093,7 @@ Brief Nr. 408
 <bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="407" page="90" line="33" linktext="true" />
 </marginal>
 
-<marginal letter="408" page="95" line="23">
+<marginal letter="408" page="95" line="30">
 <bzg>erste Aufwallungen</bzg> vgl. <intlink letter="402" page="74" line="3" linktext="true" />
 </marginal>
 
@@ -50238,7 +50238,7 @@ Brief Nr. 408
 </marginal>
 
 <marginal letter="408" page="97" line="22">
-<bzg>Lettre perdue</bzg> <link ref="hamann-lettreperdue" subref="hamann-lettreperdue" linktext="true" />
+<bzg>Lettre perdue</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />
 </marginal>
 
 <marginal letter="408" page="97" line="24">
