@@ -37,7 +37,7 @@
 
 <kommentar id="at-ri" type="bibel" sort="70">
 <lemma>Richter</lemma>
-<subsection id="at-ri5"><lemma>Ri 5</lemma></subsection> <subsection id="at-ri6"><lemma>Ri 6</lemma></subsection> <subsection id="at-ri7"><lemma>Ri 7</lemma></subsection>  <subsection id="at-ri9"><lemma>Ri 9</lemma></subsection> <subsection id="at-ri11"><lemma>Ri 11</lemma></subsection> <subsection id="at-ri12"><lemma>Ri 12</lemma></subsection> <subsection id="at-ri13"><lemma>Ri 13</lemma></subsection> <subsection id="at-ri14"><lemma>Ri 14</lemma></subsection> <subsection id="at-ri16"><lemma>Ri 16</lemma></subsection> <subsection id="at-ri16"><lemma>Ri 18</lemma></subsection>
+<subsection id="at-ri5"><lemma>Ri 5</lemma></subsection> <subsection id="at-ri6"><lemma>Ri 6</lemma></subsection> <subsection id="at-ri7"><lemma>Ri 7</lemma></subsection>  <subsection id="at-ri9"><lemma>Ri 9</lemma></subsection> <subsection id="at-ri11"><lemma>Ri 11</lemma></subsection> <subsection id="at-ri12"><lemma>Ri 12</lemma></subsection> <subsection id="at-ri13"><lemma>Ri 13</lemma></subsection> <subsection id="at-ri14"><lemma>Ri 14</lemma></subsection> <subsection id="at-ri16"><lemma>Ri 16</lemma></subsection> <subsection id="at-ri18"><lemma>Ri 18</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-rut" type="bibel" sort="75">
@@ -65,10 +65,15 @@
 <subsection id="at-koe2-2"><lemma>2 Kön 2</lemma></subsection> <subsection id="at-koe2-4"><lemma>2 Kön 4</lemma></subsection> <subsection id="at-koe2-5"><lemma>2 Kön 5</lemma></subsection> <subsection id="at-koe2-6"><lemma>2 Kön 6</lemma></subsection> <subsection id="at-koe2-9"><lemma>2 Kön 9</lemma></subsection> <subsection id="at-koe2-10"><lemma>2 Kön 10</lemma></subsection> <subsection id="at-koe2-11"><lemma>2 Kön 11</lemma></subsection> <subsection id="at-koe2-19"><lemma>2 Kön 19</lemma></subsection> <subsection id="at-koe2-20"><lemma>2 Kön 20</lemma></subsection>
 </kommentar>
 
+<kommentar id="at-chr1" type="bibel" sort="115">
+<lemma>1. Chronik</lemma>
+<subsection id="at-chr1-12"><lemma>1 Chr 12</lemma></subsection>
+</kommentar>
+
 <kommentar id="at-chr2" type="bibel" sort="120">
 <lemma>2. Chronik</lemma>
 <subsection id="at-chr2-9"><lemma>2 Chr 9</lemma></subsection> <subsection id="at-chr2-18"><lemma>2 Chr 18</lemma></subsection> <subsection id="at-chr2-23"><lemma>2 Chr 23</lemma></subsection> 
-</kommentar> 
+</kommentar>
 
 <kommentar id="at-neh" type="bibel" sort="125">
 <lemma>Nehemia</lemma>

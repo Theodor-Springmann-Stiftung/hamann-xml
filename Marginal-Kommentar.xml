@@ -40898,11 +40898,11 @@ Brief Nr. 347
 <bzg>Abus</bzg> <link ref="laurens" subref="laurens-abus" linktext="true" />
 </marginal>
 
-<marginal letter="347" page="406" line="25">
+<marginal letter="347" page="406" line="25" sort="1">
 <bzg>Beschuldigung</bzg> vgl. <link ref="laurens" subref="laurens-abus" linktext="true" />, S.&#x202F; xii, Anmerkung: „Mr. Rousseau a pris son Contract-Social, mot pour mot, d’Ulrici Huberti de Jure civitatis, Lib. III. Imprimé à Franequeur en Frise en 1684, &amp; réimprimé à Francfort en 1718. Ce Livre est dans toutes les grandes Bibliotheques; on peut vérifier cette accusation.“
 </marginal>
 
-<marginal letter="347" page="406" line="25">
+<marginal letter="347" page="406" line="25" sort="2">
 <bzg>Rousseau</bzg> <link ref="rousseau" linktext="true" />
 </marginal>
 
@@ -44945,7 +44945,7 @@ Brief Nr. 375
 </marginal>
 
 <marginal letter="375" page="8" line="16">
-<bzg>Johann Michel Mannah</bzg> <link ref="hamann-jm" linktext="true" />;  „Mannah“ nach dem himmlischen Brot (u.a.  <link ref="nt-joh" subref="nt-joh6" linktext="false">Joh 6,30–35</link>. (Nadler behauptet in <titel>Johann Georg Hamann (1730–1788). Der Zeuge des Corpus mysticum,</titel> S.&#x202F;172, Hamann habe diesen Namen, ein Buchstabenspiel mit dem eigentlichen, auch ins Taufregister der Garnisonskirche eingetragen. Ein Beleg dafür ist nicht bekannt.)
+<bzg>Johann Michel Mannah</bzg> <link ref="hamann-jm" linktext="true" />;  „Mannah“ nach dem himmlischen Brot (u.a.  <link ref="nt-jo" subref="nt-jo6" linktext="false">Joh 6,30–35</link>. (Nadler behauptet in <titel>Johann Georg Hamann (1730–1788). Der Zeuge des Corpus mysticum,</titel> S.&#x202F;172, Hamann habe diesen Namen, ein Buchstabenspiel mit dem eigentlichen, auch ins Taufregister der Garnisonskirche eingetragen. Ein Beleg dafür ist nicht bekannt.)
 </marginal>
 
 Brief Nr. 376
@@ -45793,7 +45793,7 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="21" line="20">
-<bzg>deine Ader und deinen Nacken, wie eisern wie felsen sie sind</bzg> <link ref="apo-jes" subref="apo-jes48" linktext="false">Jes 48,4</link>
+<bzg>deine Ader und deinen Nacken, wie eisern wie felsen sie sind</bzg> <link ref="at-jes" subref="at-jes48" linktext="false">Jes 48,4</link>
 </marginal>
 
 <marginal letter="379" page="21" line="21">
@@ -49907,7 +49907,7 @@ Brief Nr. 407
 <bzg>Mornaeus</bzg> <link ref="mornay" subref="mornay-mystere" linktext="true" />
 </marginal>
  
- <marginal letter="407" page="93" line="20">
+ <marginal letter="407" page="93" line="21">
 <bzg>Therapevt</bzg> Betrifft die Frage, ob die Essener aufgrund ihrer Reinheitsgebote und des Tempeldienstes als griech. Therapeutaí und somit als Vorläufer des Mönchtums einzuordnen seien. 
 </marginal>
 
@@ -50093,7 +50093,7 @@ Brief Nr. 408
 <bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="407" page="90" line="33" linktext="true" />
 </marginal>
 
-<marginal letter="408" page="95" line="23">
+<marginal letter="408" page="95" line="30">
 <bzg>erste Aufwallungen</bzg> vgl. <intlink letter="402" page="74" line="3" linktext="true" />
 </marginal>
 
@@ -50121,7 +50121,11 @@ Brief Nr. 408
 <bzg>verdammen</bzg> vgl. <link ref="hamann" subref="hamann-zworecensionen" linktext="true" />
 </marginal>
 
-<marginal letter="408" page="96" line="11">
+<marginal letter="408" page="96" line="13">
+<bzg>zuzujauchzen</bzg> vgl. Herders handschriftliche Notiz auf dem Brief „Dein sind wir und mit dir halten wirs…“, nach <link ref="at-chr1" subref="at-chr1-12" linktext="false">1 Chr 12,19</link>
+</marginal>
+
+<marginal letter="408" page="96" line="17">
 <bzg>Caroline</bzg> <link ref="herder-c" linktext="true" />
 </marginal>
 
@@ -50230,11 +50234,11 @@ Brief Nr. 408
 </marginal>
 
 <marginal letter="408" page="97" line="17">
-<bzg>neuen Republik</bzg> <link ref="klopstock" subref="klopstock-gelehrtenrepublik" linktext="true" />, die Hamann im folgenden Concetto persifliert (Maria, bethlehemitischer Kindermord, Pythia, Mosis Gesetzestafeln, Pumpernickel).
+<bzg>neuen Republik</bzg> nach <link ref="klopstock" subref="klopstock-gelehrtenrepublik" linktext="true" />, die Hamann im folgenden Concetto persifliert (Maria, bethlehemitischer Kindermord, Pythia, Mosis Gesetzestafeln, Pumpernickel).
 </marginal>
 
 <marginal letter="408" page="97" line="22">
-<bzg>Lettre perdue</bzg> <link ref="hamann-lettreperdue" subref="hamann-lettreperdue" linktext="true" />
+<bzg>Lettre perdue</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />
 </marginal>
 
 <marginal letter="408" page="97" line="24">
@@ -50250,7 +50254,7 @@ Brief Nr. 408
 </marginal>
 
 <marginal letter="408" page="97" line="31">
-<bzg>Handschrift</bzg> <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true" />
+<bzg>Handschrift</bzg> von <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true" />
 </marginal>
 
 <marginal letter="408" page="97" line="33">
@@ -50267,6 +50271,122 @@ Brief Nr. 408
 
 <marginal letter="408" page="97" line="37">
 <bzg>mouchen</bzg> frz. Schönheitspflaster
+</marginal>
+
+<marginal letter="408" page="98" line="4">
+<bzg>Klopstock u die Bardenpoesie</bzg> vgl. den 1. Abschnitt in <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="98" line="6">
+<bzg>Verf. des Knaut</bzg> <link ref="wezel" subref="wezel-knaut" linktext="true" /> vgl. <intlink letter="407" page="92" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="98" line="7">
+<bzg>Director</bzg> <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="98" line="8">
+<bzg>Jänisch</bzg> <link ref="jensch-cf" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="98" line="9">
+<bzg>Recension</bzg> in <link ref="kgpz" linktext="true" />, nicht ermittelt
+</marginal>
+
+<marginal letter="408" page="98" line="10">
+<bzg>Hartley u Unzer</bzg> <link ref="hartley" subref="hartley-betrachtungen" linktext="true" /> und <link ref="unzer" subref="unzer-physiologie" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="98" line="12">
+<bzg>Hirtenbrief an Lavater</bzg> <link ref="lavater" linktext="true" />, vgl. <intlink letter="407" page="91" line="35" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="98" line="13">
+<bzg>Wirth des Miethmanns</bzg> <link ref="kanter" linktext="true" /> als Hauswirt <link ref="kant" linktext="true" />, vgl. auch Herders handschriftliche Notiz
+</marginal>
+
+<marginal letter="408" page="98" line="25">
+<bzg>Nazir</bzg> vgl. <intlink letter="407" page="92" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="98" line="31">
+<bzg>Schlötzerschen Misthaufen</bzg> Herders Rezension von <link ref="schlozer" subref="schlozer-universalhistorie" linktext="true" /> in <link ref="frankfurter-gelehrte-anzeigen" linktext="true" />, St.&#x202F;60 vom 28.7.1772 (SWS&#x202F;V, S.&#x202F;436–440) 
+</marginal>
+
+<marginal letter="408" page="98" line="33">
+<bzg>Ihnen die Königsbergsche Recension</bzg> Hamanns Rezension von <link ref="schlozer" subref="schlozer-universalhistorie" linktext="true" /> in <link ref="kgpz" linktext="true" />, St.&#x202F;7 vom 24.1.1774 (N&#x202F;IV,381f.) 
+</marginal>
+
+<marginal letter="408" page="98" line="34">
+<bzg>Wandsbecksche</bzg> <link ref="claudius" linktext="false">Claudius’</link> Rezension von <link ref="schlozer" subref="schlozer-universalhistorie" linktext="true" /> in <link ref="claudius" subref="claudius-bothe" linktext="true" />, St.&#x202F;208 vom 31.12.1773, St.&#x202F;3 vom 5.1.1774 und St.&#x202F;5 vom 8.1.1774
+</marginal>
+
+<marginal letter="408" page="98" line="36">
+<bzg>Bückeburgschen Consistorialrath</bzg> nach der pompösen Titulierung in Schlözers Entgegnung und Wiederabdruck von Herders Rezension (vgl. <link ref="schlozer" subref="schlozer-universalhistorie" linktext="true" />, Bd. 2)
+</marginal>
+
+<marginal letter="408" page="99" line="3">
+<bzg>Name seines Götzen</bzg> <link ref="goethe" subref="goethe-goetz" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="99" line="6">
+<bzg>Name eines Lügners</bzg> <link ref="merck" linktext="true" />, vgl. <intlink letter="407" page="92" line="28" linktext="true" /> und Herders handschriftliche Notiz
+</marginal>
+
+<marginal letter="408" page="99" line="7">
+<bzg>edelsten und unschuldigsten Charakter</bzg> <link ref="moser" linktext="true" />, vgl. <intlink letter="394" page="61" line="10" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="99" line="14">
+<bzg>B. u. D.</bzg> Bückeburg und Darmstadt
+</marginal>
+
+<marginal letter="408" page="99" line="18"  sort="1">
+<bzg>schrieb nach Berlin</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="408" page="99" line="18" sort="2">
+<bzg>treuherzigen Bruder</bzg> <link ref="moser" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="99" line="21">
+<bzg>Frau</bzg> <link ref="claudius-r" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="99" line="24" sort="1">
+<bzg>Euagrius</bzg> <link ref="euagrios" linktext="true" />, vgl. <link ref="hamann" subref="hamann-prolegomena" linktext="true" />, N&#xA0;III,128/37
+</marginal>
+
+<marginal letter="408" page="99" line="24" sort="2">
+<bzg>Eusebii</bzg> <link ref="eusebios" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="99" line="29" sort="1">
+<bzg>Augustino</bzg> <link ref="augustinus" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="99" line="29" sort="2">
+<bzg>Tertul Hieronymo</bzg> <link ref="tertullian" linktext="true" />, <link ref="hieronymus" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="99" line="31">
+<bzg>Zacchai</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="99" line="37">
+<bzg>Wink über das erste Buch</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="100" line="3">
+<bzg>Hieronimo’s…</bzg> Leser wie Kant, vgl. <intlink letter="403" page="82" line="11" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="100" line="9">
+<bzg>Feuer eines Silens</bzg> vgl. <intlink letter="407" page="91" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="408" page="100" line="10">
+<bzg>inuito processit vesper Olympo</bzg> dt. der Abend ist gegen den Willen des Olymps heraufgezogen; Übersetzung?!? <link ref="vergil" subref="vergil-bucol" linktext="true" />, 6,86 (aus dem Lied des Silenus)
 </marginal>
 
 
