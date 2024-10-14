@@ -35677,7 +35677,7 @@ Brief Nr. 296
 </marginal>
 
 <marginal letter="296" page="321" line="6">
-<bzg>Remus und Seyfried</bzg> Remuß Erben, Caffee und Gast-Haus im Kneiphofe, No. 273
+<bzg>Remus und Seyfried</bzg> <link ref="remus" linktext="true" />
 </marginal>
 
 <marginal letter="296" page="321" line="8">
@@ -50449,7 +50449,103 @@ Brief Nr. 410
 <bzg>L.</bzg> Leipzig
 </marginal>
 
+<marginal letter="410" page="101" line="18">
+<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />
+</marginal>
 
+<marginal letter="410" page="101" line="20" sort="1">
+<bzg>H</bzg> <link ref="herder" linktext="true" />, vgl. <intlink letter="408" page="97" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="101" line="20" sort="2">
+<bzg>treuherzigen Layenbruder</bzg> <link ref="moser" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="101" line="22" sort="1">
+<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="101" line="22" sort="2">
+<bzg>Selbstgespräche und Nicolaitische Antworten</bzg> wohl Exemplare von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> und <link ref="nicolai" subref="nicolai-magum" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="101" line="24">
+<bzg>Boulanger</bzg> <link ref="holbach" subref="holbach-devoile" linktext="true" />, vgl. <intlink letter="407" page="93" line="26" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="101" line="25">
+<bzg>Pegelow</bzg> <link ref="pegelow" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="101" line="27">
+<bzg>Kopke</bzg> <link ref="koppe" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="101" line="28">
+<bzg>Philologum in nuce</bzg> Hamann selbst
+</marginal>
+
+<marginal letter="410" page="101" line="30">
+<bzg>neuer Namenstag</bzg> nach dem Namenstag des Zachäus am 23. August, dem fingiertem Autor von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="101" line="34">
+<bzg>kleinen Sohns</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="101" line="37">
+<bzg>Mien-Man-Hoam</bzg> nach dem fingierten Autor von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />
+</marginal>
+
+Brief Nr. 411
+
+<marginal letter="410" page="102" line="3">
+<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="410" page="101" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="102" line="8">
+<bzg>Regie</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="102" line="9">
+<bzg>Gh. R. Jacobi</bzg> <link ref="jacobi-jc" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="102" line="10">
+<bzg>Johann Michel</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="102" line="11">
+<bzg>130ψ</bzg> <link ref="at-ps" subref="at-ps130" linktext="false">Ps 130</link>
+</marginal>
+
+<marginal letter="410" page="102" line="13">
+<bzg>Albertinchen</bzg> <link ref="hartknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="102" line="16">
+<bzg>Brief</bzg> <intlink letter="399" page="70" line="2" linktext="false">HKB 399</intlink>
+</marginal>
+
+<marginal letter="410" page="102" line="19">
+<bzg>Remus</bzg> <link ref="remus" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="102" line="21">
+<bzg>Pegelow</bzg> <link ref="pegelow" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="102" line="25" sort="1">
+<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="102" line="25" sort="2">
+<bzg>Bauer Mädchen</bzg> <link ref="claudius-r" linktext="true" />
+</marginal>
+
+<marginal letter="410" page="102" line="28">
+<bzg>Pyrmont</bzg> Herder war im Juni auf Kur in Pyrmont, vgl. <intlink letter="419" page="120" line="22" linktext="true" />
+</marginal>
 
 Brief Nr. 414
 
