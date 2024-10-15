@@ -5830,7 +5830,7 @@ den 1. Teil von <link ref="buffon" subref="histoirenaturelle" linktext="true" />
 </marginal>
 
 <marginal letter="72" page="180" line="33" sort="1">
-<link ref="faber" subref="faber-thesaurus" linktext="true" />
+<link ref="faber-b" subref="faber-thesaurus" linktext="true" />
 </marginal>
 
 <marginal letter="72" page="180" line="33" sort="2">
@@ -8879,7 +8879,7 @@ Brief <intlink letter="126" linktext="true" />
 </marginal>
 
 <marginal letter="128" page="278" line="23">
-<link ref="faber" subref="faber-thesaurus" linktext="true" />; <link ref="vergil" linktext="true" />
+<link ref="faber-b" subref="faber-thesaurus" linktext="true" />; <link ref="vergil" linktext="true" />
 </marginal>
 
 <marginal letter="128" page="278" line="24">
@@ -12150,7 +12150,7 @@ siehe dazu auch die Überlegungen zu Augustinus <intlink letter="145" page="336"
 </marginal>
 
 <marginal letter="149" page="355" line="26">
-<bzg>Remus</bzg> vll. Remis (Unentschieden)
+<bzg>Remus</bzg> <link ref="remus" linktext="true" />
 </marginal>
 
 <marginal letter="149" page="355" line="28">
@@ -33714,7 +33714,7 @@ Brief Nr. 280
 </marginal>
 
 <marginal letter="280" page="284" line="1">
-<bzg>Faber</bzg> vll. <link ref="faber" subref="faber-thesaurus" linktext="true" />
+<bzg>Faber</bzg> vll. <link ref="faber-b" subref="faber-thesaurus" linktext="true" />
 </marginal>
 
 <marginal letter="280" page="284" line="7">
@@ -50545,6 +50545,70 @@ Brief Nr. 411
 
 <marginal letter="411" page="102" line="28">
 <bzg>Pyrmont</bzg> Herder war im Juni auf Kur in Pyrmont, vgl. <intlink letter="419" page="120" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="411" page="102" line="30">
+<bzg>Recension</bzg> <link ref="hamb-correspondenten" linktext="true" />, Beyträge zum gelehrten Artikel, 3tes Stück (16.8.1774)
+</marginal>
+
+<marginal letter="411" page="102" line="31">
+<bzg>Bereschits</bzg> für <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, nach <link ref="at-mo1" subref="at-mo1-1" linktext="false">1 Mo 1</link>
+</marginal>
+
+<marginal letter="411" page="102" line="30">
+<bzg>רקיע von רקק</bzg> rakia hebr.: das Himmelsgewölbe, und rakak: spucken?!? vgl. <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, SWS&#x202F;VI, S.&#x202F;234–237 und Herders Replik <intlink letter="412" page="106" line="15" linktext="true" />
+</marginal>
+
+<marginal letter="411" page="102" line="34">
+<bzg>Kieler Recension</bzg> Rezension von <link ref="hamann" subref="hamann-h" linktext="true" /> in <link ref="kielische-gelehrte-zeitung" linktext="true" />, 29.&#x202F;St. vom 13.4.1774, S.&#x202F;232
+</marginal>
+
+<marginal letter="411" page="102" line="36">
+<bzg>C. T. D.</bzg> <link ref="damm" linktext="true" />
+</marginal>
+
+<marginal letter="411" page="103" line="6">
+<bzg>Sie sollen… beurtheilt seyn</bzg> Rezension von <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> in <link ref="kielische-gelehrte-zeitung" linktext="true" />, 31.&#x202F;St. vom 20.4.1774, S.&#x202F;241–245
+</marginal>
+
+<marginal letter="411" page="103" line="7">
+<bzg>Recension worauf der liebe Commissions Rath Asmus zielt</bzg> Hamann geht wohl auf Claudius’ Bemerkung in seiner Rezension von <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> in  <link ref="claudius" subref="claudius-bothe" linktext="true" />, Nr.&#x202F;92 vom 10.6.1774, S.&#x202F;3 ein: „[…] zumal wir aus eines Herrn Collegen Spruch, dem ersten und einzigen der uns über die ‚Urkunde‘ bisher zu Gesicht gekommen ist, ersehen, daß darin viel Finsterniß und Dunkel seyn soll.“
+</marginal>
+
+<marginal letter="411" page="103" line="8">
+<bzg>einige Stücke nachher…</bzg> In <link ref="kielische-gelehrte-zeitung" linktext="true" />, 38.&#x202F;St. vom 14.5.1774, S.&#x202F;304 wird in einem kurzen Beitrag zugleich Herders Autorschaft an der <link ref="herder" subref="herder-altesteurkunde" linktext="false"><titel>Aeltesten Urkunde</titel><link/> und Hamanns am <link ref="hamann" subref="hamann-h" linktext="false"><titel>Buchstaben H</titel></link> und weiteren offengelegt.
+</marginal>
+
+<marginal letter="411" page="103" line="10">
+<bzg>was Gott zusammenfügt</bzg> <link ref="nt-mt" subref="nt-mt19" linktext="false">Mt 19,6</link>, <link ref="nt-mk" subref="nt-mk10" linktext="false">Mk 10,9</link>
+</marginal>
+
+<marginal letter="411" page="103" line="12">
+<bzg>Judittschen Mühle</bzg> Juditten war ein Vorort westlich von Königsberg, heute als Mendelejewo Stadtteil von Kaliningrad
+</marginal>
+
+<marginal letter="411" page="103" line="14">
+<bzg>Wink</bzg> vgl. <intlink letter="407" page="91" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="411" page="103" line="20">
+<bzg>K. und W…</bzg> Künste und Wissenschaften, in <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, ED 154; vgl. <intlink letter="421" page="106" line="34" linktext="true" />; merkwürdigerweise in einer Anmerkung zu <link ref="goguet" subref="goguet-origine" linktext="true" />, das Hamann kannte
+</marginal>
+
+<marginal letter="411" page="103" line="21" sort="1">
+<bzg>Kant u Wieland</bzg> <link ref="kant" linktext="true" />, <link ref="wieland" linktext="true" />
+</marginal>
+
+<marginal letter="411" page="103" line="21" sort="2">
+<bzg>Meiners</bzg> <link ref="meiners" linktext="true" />
+</marginal>
+
+<marginal letter="411" page="103" line="21">
+<bzg>heb. Sprachlehre</bzg> <link ref="meiner" subref="meiner-hebraeisch" linktext="true" />
+</marginal>
+
+<marginal letter="411" page="103" line="25">
+<bzg>Ausleger der 7 Augen im Stein</bzg> <link ref="faber-je" linktext="true" />, vgl. <intlink letter="412" page="107" line="8" linktext="true" />
 </marginal>
 
 Brief Nr. 414
