@@ -4192,7 +4192,7 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 </kommentar>
 
 F
-<kommentar id="faber" type="neuzeit">
+<kommentar id="faber-b" type="neuzeit">
 <lemma>Basilius Faber</lemma>
 <eintrag>1520–1576. Gen. Soranus. Pädagoge in Quedlinburg und Magdeburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd12444282X.html#adbcontent">Kämmel, Heinrich: Faber, Basilius, in: <titel>ADB</titel>&#x202F;6 (1877), S.&#x202F;488–490</wwwlink>.
 </eintrag>
@@ -4200,6 +4200,18 @@ F
 <lemma>Faber, <titel>Thesaurus eruditionis scholasticae</titel></lemma>
 <eintrag>
 <titel>Basilii Fabri Sorani Thesavrvs Ervditionis Scholasticæ omnivm vsvi et disciplinis omnibvs accommodatvs, post celeberrimorvm virorvm Bvchneri, Cellarii, Graevii, Operas et Adnotationes et Mvltiplices Andreae Stv̈bellii cvras itervm recensitvs, emendatvs, locvpletatvs, a Io. Matthia Gesnero</titel> (1.&#x202F;Aufl. 1571) [Biga&#x202F;58/7: Leipzig 1735]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-420606">UB Heidelberg: D 9896 A Folio RES</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="faber-je" type="neuzeit">
+<lemma>Johann Ernst Faber</lemma>
+<eintrag>1745–1774. 1772 Prof. für morgenländische Sprachen in Jena, siehe siehe <wwwlink address="https://www.deutsche-biographie.de/sfz14003.html">Redslob, Gustav Moritz: Faber, Johann Ernst, in: <titel>ADB</titel>&#x202F;6 (1877), S.&#x202F;495f</wwwlink>.
+</eintrag>
+<subsection id="faber-augen" type="neuzeit">
+<lemma>Faber, <titel>Die 7 Augen des Prophetischen Steins</titel></lemma>
+<eintrag>
+<titel>Die 7 Augen des Prophetischen Steins.</titel> Programmschrift Jena 1772.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6080,14 +6092,14 @@ Nachdruck verfügbar in <wwwlink address="https://digipress.digitale-sammlungen.
 <lemma>Hamann, <titel>Prolegomena</titel></lemma>
 <eintrag>
 <titel>Christiani Zacchaei Telonarchae προλεγομενα über die neueste Auslegung der ältesten Urkunde des menschlichen Geschlechts. In zweyen Antwortschreiben an Apollonium Philosophum (1774)</titel> [Hamburg: <link ref="bode-jjc" linktext="false">Bode</link>]. Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-236029">ULB Münster</wwwlink>.<line type="break" /> 
-Erweiterter Abdruck der Briefe <intlink letter="404" page="82" line="20" linktext="false">HKB 404</intlink> und <intlink letter="406" page="87" line="11" linktext="false">HKB 404</intlink>; zur Druckgeschichte vgl. <intlink letter="439" page="166" line="7" linktext="true" />.<line type="break" /> 
+Erweiterter Abdruck der Briefe <intlink letter="404" page="82" line="20" linktext="false">HKB 404</intlink> und <intlink letter="406" page="87" line="11" linktext="false">HKB 404</intlink> über <link ref="herder" subref="herder-altesteurkunde" linktext="true" />; zur Druckgeschichte vgl. <intlink letter="439" page="166" line="7" linktext="true" />.<line type="break" /> 
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 </eintrag>
 </subsection>
 <subsection id="hamann-kermes" type="neuzeit" sort="610">
 <lemma>Hamann, <titel>Le Kermes du Nord</titel></lemma>
 <eintrag>
-<titel>Le Kermes du Nord</titel> [Mitau: <link ref="hinz" linktext="false">Hinz</link>] 1774. Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235945">ULB Münster</wwwlink>.<line type="break" />
+<titel>Le Kermes du Nord ou la Cochenille de Pologne</titel> [Mitau: <link ref="hinz" linktext="false">Hinz</link>] 1774. Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235945">ULB Münster</wwwlink>.<line type="break" />
 Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;422–424.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;317–322.
 </eintrag>
@@ -6666,7 +6678,7 @@ Vgl. <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true"
 <subsection id="herder-altesteurkunde" type="neuzeit" sort="200">
 <lemma>Herder, <titel>Aelteste Urkunde</titel></lemma>
 <eintrag>
-<titel>Aelteste Urkunde des Menschengeschlechts. Eine nach Jahrhunderten enthüllte heilige Schrift. Erster Band, welcher den Ersten, Zweiten und Dritten Theil enthält</titel> (Riga: Hartknoch 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354782-6">BSB München: 4 Exeg. 909-1/2</wwwlink>. – SWS,&#x202F;VI, S.&#x202F;193–511. – Zweiter Band, welcher den Viertel Theil enthält (Riga: Hartknoch 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354783-2">BSB München: 4 Exeg. 909-1/2</wwwlink>.
+<titel>Aelteste Urkunde des Menschengeschlechts. Eine nach Jahrhunderten enthüllte heilige Schrift. Erster Band, welcher den Ersten, Zweiten und Dritten Theil enthält</titel> (Riga: Hartknoch 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354782-6">BSB München: 4 Exeg. 909-1/2</wwwlink>. – SWS,&#x202F;VI, S.&#x202F;193–511. – Zweiter Band, welcher den Viertel Theil enthält (Riga: Hartknoch 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354783-2">BSB München: 4 Exeg. 909-1/2</wwwlink>. – SWS,&#x202F;VII, S.&#x202F;1–172. 
 </eintrag>
 </subsection>
 <subsection id="herder-prediger" type="neuzeit" sort="250">
@@ -7508,7 +7520,7 @@ J
 
 <kommentar id="jacobi-jh" type="neuzeit">
 <lemma>Johann Georg Jacobi</lemma>
-<eintrag>1740–1814. Bruder von <link ref="jacobi" linktext="true" />, 1768-74 Kanonicus in Halberstadt, seit 1784 Prof. in Freiburg. <wwwlink address="https://www.deutsche-biographie.de/sfz36643.html#adbcontent">Jacoby, Daniel: Jacobi, Johann Georg, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;587–592</wwwlink></eintrag>
+<eintrag>1740–1814. Bruder von <link ref="jacobi" linktext="true" />, 1768–1774 Kanonicus in Halberstadt, seit 1784 Prof. in Freiburg. <wwwlink address="https://www.deutsche-biographie.de/sfz36643.html#adbcontent">Jacoby, Daniel: Jacobi, Johann Georg, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;587–592</wwwlink></eintrag>
 <subsection id="jacobi-jh-gongora" type="neuzeit" sort="10">
 <lemma>Johann Georg Jacobi, <titel>Romanzen aus dem Spanischen des Gongora übersetzt</titel></lemma>
 <eintrag>
@@ -8022,6 +8034,13 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <eintrag>1750–1826. Geb. Anna Elisabeth Ziegler, seit 1778 Eherau von <link ref="kaufmann-c" linktext="true" />; Patin von <link ref="courtan-sm" linktext="true" />.</eintrag>
 </kommentar>
 
+<kommentar id="kgpz" type="neuzeit">
+<lemma>Königsbergsche Gelehrte und Politische Zeitungen</lemma>
+<eintrag>1764–1796, erschienen montags und freitags im Buchladen von <link ref="kanter" linktext="true" />, später die Dengelsche Zeitungen. Hamann war von Januar bis Mai 1764 Redaktuer der Zeitungen und lieferte auch danach immer wieder Beiträge und Rezensionen für sie [Biga&#x202F;179/10: „Königsbergsche gelehrte und politische Zeitungen von 767–75“; Biga 182/47: „Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.“ u. Biga 199/115: „Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.“].<line type="break" />
+Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelblaska.pl/dlibra/publication/68995#structure">Biblioteka Elbląska</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="koepken" type="neuzeit">
 <lemma>Arnd von Koepken</lemma>
 <eintrag>1732–1789, auch Arend Köpke. Königlich-preußischer Oberfinanz-, Kriegs- und Domänenrat. Ab 1786 Mitglied der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> und bis zu seinem Tod im <link ref="generaldirektorium" linktext="true" /> tätig.</eintrag>
@@ -8052,10 +8071,9 @@ J. G. Lindner konnte sein Buch zur <link ref="lindner-jg" subref="schreibart" li
 <eintrag>„Intelligenzblatt“, erschien ab 1727, herausgegeben vom Königsberger Adress-Kontor, ab 1752 von <link ref="hartung-hj" linktext="true" /> gedruckt, Anzeigenblatt mit privaten und amtlichen Bekanntmachungen in Königsberg sowie kürzerern wissenschaftlichen Beiträgen der Universitätsprofessoren (seit 1729 waren diese dazu verpflichtet); auch <link ref="knutzen" linktext="true" />, <link ref="kypke" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="kant" linktext="true" /> veröffentlichte darin. Letzterer schon 1754 zur Bewerbung auf eine Professur, 1756 schrieb er dort ausführlich über das Erdbeben in Lissabon. <link ref="hamann" linktext="false">Hamann</link> veröffentlichte 1760 die <link ref="hamann" subref="hamann-versuch" linktext="false"><titel>Akad. Frage</titel></link>, die <link ref="hamann" subref="hamann-anmerkungen" linktext="false"><titel>Wortfügung</titel></link> und die <link ref="hamann" subref="hamann-magi" linktext="false"><titel>Magi</titel></link> darin.</eintrag>
 </kommentar>
 
-<kommentar id="kgpz" type="neuzeit">
-<lemma>Königsbergsche Gelehrte und Politische Zeitungen</lemma>
-<eintrag>1764–1796, erschienen montags und freitags im Buchladen von <link ref="kanter" linktext="true" />, später die Dengelsche Zeitungen. Hamann war von Januar bis Mai 1764 Redaktuer der Zeitungen und lieferte auch danach immer wieder Beiträge und Rezensionen für sie [Biga&#x202F;179/10: „Königsbergsche gelehrte und politische Zeitungen von 767–75“; Biga 182/47: „Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.“ u. Biga 199/115: „Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.“].<line type="break" />
-Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelblaska.pl/dlibra/publication/68995#structure">Biblioteka Elbląska</wwwlink>.
+<kommentar id="kortum" type="neuzeit">
+<lemma>Johann Benjamin Koppe</lemma>
+<eintrag>1750–1791. 1774 Prof. der griechischen Sprache in Mitau, 1784 Generalintendant in Gotha, 1787 in Hannover, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44518.html">Wagenmann, Julius August: Wagenmann, Julius August, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;692f.</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -8129,6 +8147,12 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 <titel>Johann Georg Keyßlers Mitglieds der Königl. Groß-Brittann. Societät Neüeste Reise durch Teütschland, Böhmen, Ungarn, die Schweitz, Italien, und Lothringen worin der Zustand und das merckwürdigste dieser Länder beschrieben, und vermittelst der Natürl-Gelehrten, und Politischen Geschichte, der Mechanick, Mahler- Bau- und Bildhauerkunst, Müntzen und Alterthümer erläutert wird mit Kupffern</titel> (Hannover: Förster 1740); <titel>Fortsetzung Neuester Reisen, durch Teutschland, Böhmen, Ungarn, die Schweitz, Jtalien und Lothringen, worinn der Zustand und das merckwürdigste dieser Länder beschrieben wird; 3: Verzeichniß Der Post-Wechslungen auf der vorbeschriebenen Reise nebst andern Bemerckungen der Weite eines Ortes von den andern nebst vollständigen Register über alle beyde Theile</titel> (Hannover: Förster 1741); (2. Auflage, hg.&#xA0;v. G. Schütze, Hannover 1751). Digitalisat, 2.Tl.: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:32-1-10002864863">HAAB Weimar: F 39 (b)</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="kielische-gelehrte-zeitung" type="neuzeit">
+<lemma>Kielische Gelehrte Zeitung</lemma>
+<eintrag>Jg. 1–4 als <titel>Gelehrte Zeitung.</titel> herausgegeben zu Kiel (Kiel: Bartsch 1771–1774). Digitalisat: <wwwlink address="https://resolver.staatsbibliothek-berlin.de/SBB0002A67A00000000">Stabi Berlin: Dt.Zs.1067-1.1771 bis Dt.Zs.1067-4.1774</wwwlink>. – Jg. 5–7 als <titel>Kielische Gelehrte Zeitung</titel> (Kiel: Bartsch 1775–1777). <wwwlink address="https://resolver.staatsbibliothek-berlin.de/SBB0002A67B00000000">Stabi Berlin: Dt.Zs.1067-5.1775 bis Dt.Zs.1067-7.1777</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="kirchweger" type="neuzeit">
@@ -10271,9 +10295,26 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 </subsection>
 </kommentar>
 
+<kommentar id="meiner" type="neuzeit">
+<lemma>Johann Werner Meiner</lemma>
+<eintrag>1723–1789. Seit 1751 Rektor in Langensalza, siehe <wwwlink address="https://d-nb.info/gnd/104273747">GND</wwwlink>.</eintrag>
+<subsection id="meiner-hebraeisch" type="neuzeit">
+<lemma>Meiner, <titel>Die wahren Eigenschaften der Hebräischen Sprache</titel></lemma>
+<eintrag>
+<titel>Die wahren Eigenschaften der Hebräischen Sprache,</titel> aus richtigen Gründen, mit gehöriger Schärfe untersucht und aufgeklärt durch Johann Werner Meiner (Leipzig: Breitkopf 1748) [Biga&#x202F;69/176: „J. W. Meiners Eigenschaften der hebraeischen Sprache, Leipz. 748.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10572138-1">BSB München: L.as. 241</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="meiners" type="neuzeit">
+<lemma>Christoph Meiners</lemma>
+<eintrag>1747–1810. Historiker und Psychologe, 1772 Professor der Philosophie, Kulturgeschichte und Psychologie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116863498.html">Prantl, Carl von: Meiners, Christoph, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;224–226</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="meinhard" type="neuzeit">
 <lemma>Johann Nicolaus Meinhard</lemma>
-<eintrag>1727–1767. Literarhistoriker und Übersetzer; <wwwlink address="https://www.deutsche-biographie.de/sfz59998.html#adbcontent">Muncker, Franz: Meinhard, Johann Nicolaus, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;232–234</wwwlink>.
+<eintrag>1727–1767. Literarhistoriker und Übersetzer, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz59998.html#adbcontent">Muncker, Franz: Meinhard, Johann Nicolaus, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;232–234</wwwlink>.
 </eintrag>
 <subsection id="meinhard-versuche" type="neuzeit">
 <lemma>Meinhard, <titel>Versuche über den Charakter und die Werke der besten Italienischen Dichter</titel></lemma>
@@ -12619,6 +12660,11 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <kommentar id="reiske" type="neuzeit">
 <lemma>Johann Jakob Reiske</lemma>
 <eintrag>1716–1774. Altphilologe, bedeutender Arabist und Gräzist in Leipzig.</eintrag>
+</kommentar>
+
+<kommentar id="remus" type="neuzeit">
+<lemma>Remuß</lemma>
+<eintrag>1770 Remuß Erben, Kaffee- und Gasthaus im Kneiphof, Nr. 273.</eintrag>
 </kommentar>
 
 <kommentar id="riccoboni" type="neuzeit">
