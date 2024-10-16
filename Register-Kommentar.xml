@@ -7374,7 +7374,13 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 
 <kommentar id="hummius" type="neuzeit">
 <lemma>Karl Ferdinand Hummius</lemma>
-<eintrag>1757–1788. Arzt und Bekannter Hamanns in Mitau, aus Preußen eingewandert.
+<eintrag>1757–1788. Arzt und Bekannter Hamanns in Mitau; dort aus Preußen eingewandert.
+</eintrag>
+</kommentar>
+
+<kommentar id="hummius-jf" type="neuzeit">
+<lemma>Johanna Christiana Hummius</lemma>
+<eintrag>1738–1803. Geb. Mehmel, seit 1757 Ehefrau von <link ref="hummius" linktext="true" /> und Bekannte von <link ref="hartknoch" linktext="true" /> und Hamann.
 </eintrag>
 </kommentar>
 
@@ -12518,6 +12524,16 @@ Hamann hat diesen Text übersetzt, <link ref="hamann" subref="hamann-rapin" link
 <lemma>Karl Heinrich Rappolt</lemma>
 <eintrag>1702–1753. 1731–1733 Prof. für Physik in Königsberg, hielt aber auch Vorlesungen über engl. Sprache und Literatur; Wolffianer und Gegner der Pietisten. Siehe: Johann Gottlieb Bujack, <titel>Ueber preußische Naturforscher des 16ten, 17ten und 18ten Jahrhunderts. Biographisch-literarische Skizzen. Melchior Guilandin, Christian und Carl Heinrich Rappolt, in: Preußische Provinzial-Blätter.</titel> Band 23 (Königsberg 1840), S.&#x202F;5–26.<line type="break" />
 Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. Lilienthals</link>, früh darüber auch mit <link ref="hamann" linktext="true" /> Kontakt (s. LS S.&#x202F;322), der vermutlich englische Buchtitel aus Rappolts Bibliothek beziehen konnte.</eintrag>
+</kommentar>
+
+<kommentar id="rappolt-cs" type="neuzeit">
+<lemma>Christian Samuel Rappolt</lemma>
+<eintrag>Gest. 1781. Kaufmann, Schwager von <link ref="hartknoch" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="rappolt-eh" type="neuzeit">
+<lemma>Eleonore Henriette Rappolt</lemma>
+<eintrag>Geb. Toussaint (1747–1820), seit 1767 Ehefrau von <link ref="rappolt-cs" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="raspe" type="neuzeit">
