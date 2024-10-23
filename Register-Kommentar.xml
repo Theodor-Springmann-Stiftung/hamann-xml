@@ -3687,7 +3687,7 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 </eintrag>
 </kommentar>
 
-<kommentar id="dorow-jf" type="neuzeit">
+<kommentar id="dorow-s" type="neuzeit">
 <lemma>Sophie Dorow</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Geb. Reichardt, jüngste Schwester von <link ref="reichardt-jf" linktext="true" />; seit etwa 1777 Ehefrau von <link ref="dorow-jf" linktext="true" />.
 </eintrag>
@@ -8089,7 +8089,7 @@ J. G. Lindner konnte sein Buch zur <link ref="lindner-jg" subref="schreibart" li
 <eintrag>„Intelligenzblatt“, erschien ab 1727, herausgegeben vom Königsberger Adress-Kontor, ab 1752 von <link ref="hartung-hj" linktext="true" /> gedruckt, Anzeigenblatt mit privaten und amtlichen Bekanntmachungen in Königsberg sowie kürzerern wissenschaftlichen Beiträgen der Universitätsprofessoren (seit 1729 waren diese dazu verpflichtet); auch <link ref="knutzen" linktext="true" />, <link ref="kypke" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="kant" linktext="true" /> veröffentlichte darin. Letzterer schon 1754 zur Bewerbung auf eine Professur, 1756 schrieb er dort ausführlich über das Erdbeben in Lissabon. <link ref="hamann" linktext="false">Hamann</link> veröffentlichte 1760 die <link ref="hamann" subref="hamann-versuch" linktext="false"><titel>Akad. Frage</titel></link>, die <link ref="hamann" subref="hamann-anmerkungen" linktext="false"><titel>Wortfügung</titel></link> und die <link ref="hamann" subref="hamann-magi" linktext="false"><titel>Magi</titel></link> darin.</eintrag>
 </kommentar>
 
-<kommentar id="kortum" type="neuzeit">
+<kommentar id="koppe" type="neuzeit">
 <lemma>Johann Benjamin Koppe</lemma>
 <eintrag>1750–1791. 1774 Prof. der griechischen Sprache in Mitau, 1784 Generalintendant in Gotha, 1787 in Hannover, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44518.html">Wagenmann, Julius August: Wagenmann, Julius August, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;692f.</wwwlink>
 </eintrag>
@@ -10350,6 +10350,12 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 <titel>Kurzer Abriß der Psychologie</titel> zum Gebrauche seiner Vorlesungen von Christoph Meiners (Göttingen, Gotha: Dieterich 1773). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0001CFC200000000">Stabi Berlin: </wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="meiners-vermischte" type="neuzeit" sort="30">
+<lemma>Meiners, <titel>Vermischte philosophische Schriften</titel></lemma>
+<eintrag>
+<titel>Vermischte philosophische Schriften</titel> (3 Bde., Leipzig: in der Weygandschen Buchhandlung 1775/76). Digitalisat, Bd. 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046443-6">München, Bayerische Staatsbibliothek: Ph.u. 343-3</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="meinhard" type="neuzeit">
@@ -10363,19 +10369,6 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 </eintrag>
 </subsection>
 </kommentar>
-
-<kommentar id="meiners" type="neuzeit">
-<lemma>Christoph Meiners</lemma>
-<eintrag>1747–1810. Historiker und Psychologe, 1772 Prof. der Philosophie, Kulturgeschichte u. Psychologie in Göttingen; <wwwlink address="https://www.deutsche-biographie.de/pnd116863498.html#adbcontent">Prantl, Carl von: Meiners, Christoph, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;224–226</wwwlink>.
-</eintrag>
-<subsection id="meiners-vermischte" type="neuzeit">
-<lemma>Meiners, <titel>Vermischte philosophische Schriften</titel></lemma>
-<eintrag>
-<titel>Vermischte philosophische Schriften</titel> (3 Bde., Leipzig: in der Weygandschen Buchhandlung 1775/76). Digitalisat, Bd. 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046443-6">München, Bayerische Staatsbibliothek: Ph.u. 343-3</wwwlink>.
-</eintrag>
-</subsection>
-</kommentar>
-
 
 <kommentar id="meister" type="neuzeit">
 <lemma>Leonhard Meister</lemma>
