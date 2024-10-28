@@ -50828,7 +50828,7 @@ Brief Nr. 412
 </marginal>
 
 <marginal letter="412" page="106" line="31">
-<bzg>nach Mitau</bzg> vgl. <intlink letter="411" page="104" line="" linktext="true" />
+<bzg>nach Mitau</bzg> vgl. <intlink letter="411" page="104" line="30" linktext="true" />
 </marginal>
 
 <marginal letter="412" page="106" line="32">
@@ -50882,7 +50882,7 @@ Brief Nr. 412
 Brief Nr. 413
 
 <marginal letter="413" page="107" line="17">
-<bzg>Einlage</bzg> vmtl. der Brief <link ref="herder" linktext="false">Herders</link> an Hartknoch, 10. September 1774 (HBGA, Bd.&#x202F;3, S.&#x202F;116f.)
+<bzg>Einlage</bzg> der Brief <link ref="herder" linktext="false">Herders</link> an Hartknoch, 10. September 1774 (HBGA, Bd.&#x202F;3, S.&#x202F;116f.)
 </marginal>
 
 <marginal letter="413" page="107" line="18">
@@ -50951,12 +50951,24 @@ Brief Nr. 413
 
 Brief Nr. 414
 
-<marginal letter="414" page="108" line="31">
+<marginal letter="414" page="108" line="31" sort="1">
+<bzg>Nachricht</bzg> <intlink letter="412" page="105" line="23" linktext="false">HKB 412</intlink>
+</marginal>
+
+<marginal letter="414" page="108" line="31" sort="2">
 <bzg>Erstgebornen</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="414" page="108" line="32">
-<bzg>Einlage nach Morungen und Riga</bzg> an Herders Schwester <link ref="herder-cd-g" linktext="true" /> und an <link ref="hartknoch" linktext="true" /> 
+<bzg>Einlage nach Morungen und Riga</bzg> an Herders Schwester <link ref="herder-cd-g" linktext="true" /> und an <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="413" page="107" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="414" page="108" line="33">
+<bzg>Tages Arbeit</bzg> bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
+<marginal letter="414" page="109" line="2">
+<bzg>Brief…</bzg> Hamann öffnete versehentlich den Brief von Hartknoch an Herder, 28. September 1774 <wwwlink address="https://books.google.de/books?id=F_4p94semywC">(Düntzer [Hg.], <titel>Ungedruckte Briefe aus Herders Nachlaß</titel>. Leipzig 1761, Bd.&#x202F;II, S.&#x202F;65f.)</wwwlink>; vgl. auch <intlink letter="416" page="112" line="7" linktext="true" />
 </marginal>
 
 <marginal letter="414" page="109" line="2">
@@ -50967,7 +50979,11 @@ Brief Nr. 414
 <bzg>Hausmutter</bzg> <link ref="schumacher-ar" linktext="true" />
 </marginal>
 
-<marginal letter="414" page="109" line="12">
+<marginal letter="414" page="109" line="12" sort="1">
+<bzg>große Billet</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="414" page="109" line="12" sort="2">
 <bzg>Quid pro quo</bzg> dt. Verwechslung
 </marginal>
 
@@ -50980,23 +50996,27 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="109" line="23">
-<bzg>Herr Consistorial-Rath</bzg> war <link ref="herder" linktext="true" /> seit 1771
+<bzg>Herr Consistorial-Rath</bzg> Herder
 </marginal>
 
 <marginal letter="414" page="109" line="26">
-<bzg>Ecce! des Sauvage du Nord</bzg> vgl. <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />
+<bzg>Ecce! des Sauvage du Nord</bzg> vgl. <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, N&#x202F;II,307–311
 </marginal>
 
 <marginal letter="414" page="109" line="27">
 <bzg>loco communi</bzg> dt. Gemeinplatz
 </marginal>
 
+<marginal letter="414" page="109" line="29">
+<bzg>Berens</bzg> <link ref="berens-g" linktext="true" />; Hartknoch sandte mit seinem Brief an Herder (28.9.1774) einen Wechsel von Georg Berens an Herder
+</marginal>
+
 <marginal letter="414" page="109" line="32">
-<bzg>Verpflanzung</bzg> die Berufung nach Mitau, heute Jelgava [56° 39′ N, 23° 43′ O] (40&#x202F;km südwestlich von Riga); als q[uidam]
+<bzg>Verpflanzung</bzg> die Berufung nach Mitau, vgl. <intlink letter="412" page="106" line="31" linktext="true" />
 </marginal>
 
 <marginal letter="414" page="109" line="34">
-<bzg>Hartm.</bzg> <link ref="hartmann-gd" linktext="true" />
+<bzg>Hartm.</bzg> <link ref="hartmann-gd" linktext="true" />; vgl. <wwwlink address="https://books.google.de/books?id=F_4p94semywC">Hartknoch an Herder, 28.9.1773 (Düntzer [Hg.], <titel>Ungedruckte Briefe aus Herders Nachlaß</titel>. Leipzig 1761, Bd.&#x202F;II, S.&#x202F;65f.):</wwwlink> „Du hast an Sulzer keinen Freund, wie ich aus seinem Briefe an Hartmann sehe, und das durch die Provincialblätter. Er schließt auf deinen Charakter durch Deine unverständlichen Briefe an Spalding und diese Schrift, und schließ damit, daß, wenn dieser auch unentschieden bliebe, doch der Academie mit so einem Manne, wie Du, wenig gedient wäre, den der Gelehrte selbst kaum oder gar nicht verstünde; Du hättest eine wilde Phantasie. Sulzer gilt alles beim Herzoge, und also wird das schwer gehn. Hartmann wird indeß alles thun; wenn er nur mehr gölte, und in seiner Enthusiasterei und Unbesonnenheit nicht manchen Streich schon hätte auslaufen lassen! Laß dir von diesem allem indeß nichts merken. Hartmann wies mir diesen Brief im höchsten Vertrauen.“
 </marginal>
 
 <marginal letter="414" page="110" line="2">
@@ -51004,7 +51024,11 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="4">
-<bzg>Stockmar</bzg> <link ref="stockmar" linktext="true" /> und Johann Georg Stockmar (gest. 1759), Hofmaler in Darmstadt
+<bzg>Stockmar</bzg> <link ref="stockmar" linktext="true" />  
+</marginal>
+
+<marginal letter="414" page="110" line="4">
+<bzg>Vater Hofmaler</bzg> Johann Georg Stockmar (gest. 1759), Hofmaler in Darmstadt
 </marginal>
 
 <marginal letter="414" page="110" line="10">
@@ -51020,11 +51044,11 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="19">
-<bzg>Michaelis aus der Urkunde</bzg> <link ref="michaelis" linktext="true" /> aus <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> ?!?
+<bzg>Michaelis aus der Urkunde</bzg> die ausführliche Kritik an <link ref="michaelis" linktext="true" /> in <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, vgl. <intlink letter="412" page="106" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="414" page="110" line="20">
-<bzg>Palingenesie</bzg> (Entstehung, Schöpfung, Geburt) <link ref="hamann" subref="sokratischedenk" linktext="true" />, SD S.&#x202F;37, N&#x202F;II S.&#x202F;76, ED S.&#x202F;55 
+<bzg>Palingenesie</bzg> Wiedergeburt, auch Seelenwanderung, vgl. <link ref="hamann" subref="sokratischedenk" linktext="true" />, SD S.&#x202F;37, N&#x202F;II S.&#x202F;76, ED S.&#x202F;55 
 </marginal>
 
 <marginal letter="414" page="110" line="21" sort="1">
@@ -51036,7 +51060,7 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="21" sort="3">
-<bzg>Sulzers Wink</bzg> <link ref="sulzer" linktext="true" /> an u.a. <link ref="zimmermann-jg" linktext="true" /> HAYM I,617ff. Anm. 2. ?!?
+<bzg>Sulzers Wink</bzg> <link ref="sulzer" linktext="true" />, vgl. <wwwlink address="https://books.google.de/books?id=F_4p94semywC">Hartknoch an Herder, 28.9.1773 (Düntzer [Hg.], <titel>Ungedruckte Briefe aus Herders Nachlaß</titel>. Leipzig 1761, Bd.&#x202F;II, S.&#x202F;66):</wwwlink> „Du hättest eine wilde Phantasie.“
 </marginal>
 
 <marginal letter="414" page="110" line="23">
@@ -51044,7 +51068,7 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="25">
-<bzg>Prolegomenis des Zacchaei</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
+<bzg>Prolegomenis des Zacchaei</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />; Hamann kündigte sie Herder gegenüber bereits an (vgl. <intlink letter="408" page="97" line="14" linktext="true" />), ihr Druck bei Bode verzögerte sich aber (vgl. <intlink letter="418" page="117" line="26" linktext="true" />)
 </marginal>
 
 <marginal letter="414" page="110" line="29">
@@ -51056,7 +51080,7 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="37">
-<bzg>Christian Zacchaeus Telonarcha</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
+<bzg>Christian Zacchaeus Telonarcha</bzg> nach dem fingierten Autor von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal>
 
 <marginal letter="414" page="111" line="1" sort="1">
@@ -51149,11 +51173,11 @@ Brief Nr. 416
 <bzg>Man hu! Man hu!</bzg> dt. „Was ist das?“ , vgl. <link ref="at-mo2" subref="at-mo2-16" linktext="false">2 Mo 16</link>
 </marginal>
 
-<marginal letter="416" page="112" line="19">
+<marginal letter="416" page="112" line="24">
 <bzg>C---- R – z – B – – –</bzg> Consistorial Rath zu Bückeburg, <link ref="herder" linktext="true" />
 </marginal>
 
-<marginal letter="416" page="112" line="20">
+<marginal letter="416" page="112" line="25">
 <bzg>Geistlicher in Schwaben</bzg>  das Pseudonym von <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="true" /> 
 </marginal>
 
