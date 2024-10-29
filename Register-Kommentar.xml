@@ -4706,7 +4706,13 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 <subsection id="fulda-preißschrift" type="neuzeit">
 <lemma>Fulda, <titel>Preißschrift über die beiden Hauptdialekte der Teutschen Sprache</titel></lemma>
 <eintrag>
-<titel>Preißschrift über die beiden Hauptdialekte der Teutschen Sprache, welche von der königl. Societät der Wissenschaften zu Göttingen den 9. November 1771 ist gekrönet worden</titel>  (Leipzig 1773).
+<titel>Preißschrift über die beiden Hauptdialekte der Teutschen Sprache, welche von der königl. Societät der Wissenschaften zu Göttingen den 9. November 1771 ist gekrönet worden</titel> (Leipzig 1773).
+</eintrag>
+</subsection>
+<subsection id="fulda-wurzelwoerter" type="neuzeit">
+<lemma>Fulda, <titel>Sammlung und Abstammung Germanischen Wurzel- Wörter</titel></lemma>
+<eintrag>
+<titel>Sammlung und Abstammung Germanischen Wurzel-Wörter, nach der Reihe menschlicher Begriffe, zum Erweis der Tabelle, die der Preisschrift über die zween Hauptdialekte der Teutschen Sprache angefügt worden ist, von dem Verfasser derselbigen; hg. von Johann Georg Meusel</titel> (Halle: Gebauer 1776). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523291-6">BSB München: 4 L.germ. 13</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6332,6 +6338,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <kommentar id="hartmann-gd" type="neuzeit">
 <lemma>Gottlob David Hartmann</lemma>
 <eintrag>1752–1775. 1774 Gymnasialprof. der Philosophie am akademischen Gymnasium in Mitau.</eintrag>
+<subsection id="hartmann-litterarische-briefe" type="neuzeit">
+<lemma>Hartmann, <titel>Litterarische Briefe an das Publikum</titel></lemma>
+<eintrag>
+<titel>Litterarische Briefe an das Publikum.</titel> 2tes Paket (Altenburg 1774).
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="hartung-gl" type="neuzeit">
@@ -10746,6 +10758,12 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <titel>Geschichte der Kriege zwischen Frankreich und dem Hause Oesterreich im Grundrisse, vom Jahre 1516 bis zum Jahre 1748.</titel> Herausgegeben und mit Anmerkungen versehen von Herrn Rousset. Ersten Bandes erster Theil. Aus dem Französischen übersetzt (Mitau, Leipzig: Steidel 1770). Digitalisat: <wwwlink address="https://books.google.de/books?id=THJgAAAAcAAJ">Google Books</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="mitauische-nachrichten" type="neuzeit">
+<lemma>Mitauische Nachrichten von Staats-, Gelehrten-, und Einheimischen Sachen</lemma>
+<eintrag>Erschienen in den 1760er und 70er Jahren, nachweislich 1766–1767 und 1771–1774 in Mitau, siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=018061540">ZDB (1766/67)</wwwlink>, <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=015603407">ZDB (1771–1774)</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="moeris" type="neuzeit">

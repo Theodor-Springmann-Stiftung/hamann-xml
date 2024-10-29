@@ -51059,7 +51059,7 @@ Brief Nr. 414
 </marginal>
 
 <marginal letter="414" page="110" line="21" sort="3">
-<bzg>Sulzers Wink</bzg> <link ref="sulzer" linktext="true" />, vgl. <wwwlink address="https://books.google.de/books?id=F_4p94semywC">Hartknoch an Herder, 28.9.1773 (Düntzer [Hg.], <titel>Ungedruckte Briefe aus Herders Nachlaß</titel>. Leipzig 1761, Bd.&#x202F;II, S.&#x202F;66):</wwwlink> „Du hättest eine wilde Phantasie.“
+<bzg>Sulzers Wink</bzg> <link ref="sulzer" linktext="true" />, vgl. <wwwlink address="https://books.google.de/books?id=F_4p94semywC">Hartknoch an Herder, 28.9.1773 (Düntzer [Hg.], <titel>Ungedruckte Briefe aus Herders Nachlaß</titel>. Leipzig 1761, Bd.&#x202F;II, S.&#x202F;66):</wwwlink> über Sulzers Einschätzung Herders: „Du hättest eine wilde Phantasie.“
 </marginal>
 
 <marginal letter="414" page="110" line="23">
@@ -51097,28 +51097,36 @@ Brief Nr. 414
 
 Brief Nr. 415
 
-<marginal letter="415" page="111" line="13">
+<marginal letter="415" page="111" line="11">
+<bzg>Series meiner Gedanken </bzg> Hamanns Einschätzung der möglichen Berufung Herders ans akademische Gymnasium in Mitau
+</marginal>
+
+<marginal letter="415" page="111" line="13" sort="1">
 <bzg>Kant</bzg> <link ref="kant" linktext="true" />
 </marginal>
 
-<marginal letter="415" page="111" line="14">
-<bzg>Hartm.</bzg> <link ref="hartmann-gd" linktext="true" />
+<marginal letter="415" page="111" line="13" sort="2">
+<bzg>Brief von Hartm.</bzg> <link ref="hartmann-gd" linktext="true" />
+</marginal>
+
+<marginal letter="415" page="111" line="13" sort="2">
+<bzg>litterarische Briefe</bzg> <link ref="hartmann-gd" subref="hartmann-litterarische-briefe" linktext="true" />
 </marginal>
 
 <marginal letter="415" page="111" line="17" sort="1">
-<bzg>Fulda Wurzelbuch</bzg> <link ref="fulda" subref="fulda-preißschrift" linktext="true" />  
+<bzg>Fulda Wurzelbuch</bzg> <link ref="fulda" subref="fulda-wurzelwoerter" linktext="true" />  
 </marginal>
 
 <marginal letter="415" page="111" line="17" sort="2">
-<bzg>Mitauschen Zeitung</bzg> nicht ermittelt 
+<bzg>Mitauschen Zeitung</bzg> <link ref="mitauische-nachrichten" linktext="true" />
 </marginal>
 
 <marginal letter="415" page="111" line="18">
 <bzg>sensus communis</bzg> dt. Allgemeinsinn
 </marginal>
 
-<marginal letter="415" page="111" line="24">
-<bzg>Hintz</bzg> <link ref="hinz" linktext="true" />
+<marginal letter="415" page="111" line="23">
+<bzg>Briefen an Hintz</bzg> <link ref="hinz" linktext="true" />, nicht überliefert
 </marginal>
 
 <marginal letter="415" page="111" line="25">
