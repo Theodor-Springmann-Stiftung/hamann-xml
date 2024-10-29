@@ -51026,7 +51026,7 @@ Brief Nr. 414
 <bzg>Stockmar</bzg> <link ref="stockmar" linktext="true" />  
 </marginal>
 
-<marginal letter="414" page="110" line="4">
+<marginal letter="414" page="110" line="5">
 <bzg>Vater Hofmaler</bzg> Johann Georg Stockmar (gest. 1759), Hofmaler in Darmstadt
 </marginal>
 
@@ -51098,7 +51098,7 @@ Brief Nr. 414
 Brief Nr. 415
 
 <marginal letter="415" page="111" line="11">
-<bzg>Series meiner Gedanken </bzg> Hamanns Einschätzung der möglichen Berufung Herders ans akademische Gymnasium in Mitau
+<bzg>Series meiner Gedanken </bzg> Hamanns Einschätzung der möglichen Berufung Herders ans akademische Gymnasium in Mitau, vgl. <intlink letter="414" page="109" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="415" page="111" line="13" sort="1">
@@ -51149,6 +51149,10 @@ Brief Nr. 415
 Brief Nr. 416
 
 <marginal letter="416" page="112" line="3">
+<bzg>Das Ding</bzg> Hamanns versehentliche Öffnung und Lektüre von Hartknochs Brief an  <link ref="herder" linktext="false">Herder</link>, 28. September 1774 <wwwlink address="https://books.google.de/books?id=F_4p94semywC">(Düntzer [Hg.], <titel>Ungedruckte Briefe aus Herders Nachlaß</titel>. Leipzig 1761, Bd.&#x202F;II, S.&#x202F;65f.)</wwwlink>, vgl. <intlink letter="414" page="109" line="2" linktext="true" />
+</marginal>
+
+<marginal letter="416" page="112" line="4">
 <bzg>entre chien et loup</bzg> dt. in der Dämmerung
 </marginal>
 
@@ -51164,6 +51168,10 @@ Brief Nr. 416
 <bzg>HE Laval</bzg> <link ref="laval" linktext="true" />
 </marginal>
 
+<marginal letter="416" page="112" line="7">
+<bzg>Advocat</bzg> nicht ermittelt, vgl. <intlink letter="414" page="109" line="12" linktext="true" />
+</marginal>
+
 <marginal letter="416" page="112" line="13" sort="1">
 <bzg>Hinz</bzg> <link ref="hinz" linktext="true" />
 </marginal>
@@ -51172,12 +51180,8 @@ Brief Nr. 416
 <bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" /> 
 </marginal>
 
-<marginal letter="416" page="112" line="15">
-<bzg>Herder</bzg> <link ref="herder" linktext="true" />
-</marginal>
-
 <marginal letter="416" page="112" line="18">
-<bzg>Man hu! Man hu!</bzg> dt. „Was ist das?“ , vgl. <link ref="at-mo2" subref="at-mo2-16" linktext="false">2 Mo 16</link>
+<bzg>Man hu! Man hu!</bzg> dt. „Was ist das?“, vgl. <link ref="at-mo2" subref="at-mo2-16" linktext="false">2 Mo 16</link>
 </marginal>
 
 <marginal letter="416" page="112" line="24">
@@ -51185,7 +51189,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="112" line="25">
-<bzg>Geistlicher in Schwaben</bzg>  das Pseudonym von <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="true" /> 
+<bzg>Geistlicher in Schwaben</bzg> nach dem fingierten Autor von <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="112" line="29">
@@ -51198,6 +51202,14 @@ Brief Nr. 416
 
 <marginal letter="416" page="112" line="34">
 <bzg>Consistorial Rath u Gevatter zu Bückeburg</bzg> <link ref="herder" linktext="true" />
+</marginal>
+
+<marginal letter="416" page="113" line="2">
+<bzg>zärtlichen Verleger und Ehmann</bzg> Hartknoch
+</marginal>
+
+<marginal letter="416" page="113" line="3">
+<bzg>Autor und Jochbruder</bzg> Herder
 </marginal>
 
 <marginal letter="416" page="113" line="6">
@@ -51225,7 +51237,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="24">
-<bzg>verpflantzen</bzg> <link ref="herder" linktext="true" /> nach Mitau
+<bzg>verpflantzen</bzg> Herders mögliche Berufung nach Mitau, vgl. <intlink letter="414" page="109" line="32" linktext="true" /> und <marginal letter="415" page="111" line="11">
 </marginal>
 
 <marginal letter="416" page="113" line="26">
@@ -51241,7 +51253,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="113" line="29" sort="1">
-<bzg>Ankündigung</bzg> <link ref="fulda" subref="fulda-preißschrift" linktext="true" /> ; nicht ermittelt
+<bzg>Ankündigung</bzg> von <link ref="fulda" subref="fulda-wurzelwoerter" linktext="true" /> in <link ref="mitauische-nachrichten" linktext="true" />, vgl. <intlink letter="415" page="111" line="17" linktext="true" />
 </marginal>
 
 <marginal letter="416" page="113" line="29" sort="2">
@@ -51252,12 +51264,16 @@ Brief Nr. 416
 <bzg>des kleinen Herders</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
+<marginal letter="416" page="114" line="1">
+<bzg>gebeten</bzg> vgl. <intlink letter="414" page="110" line="14" linktext="true" />
+</marginal>
+
 <marginal letter="416" page="114" line="4">
 <bzg>Corpora Delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" /> und <link ref="herder" subref="herder-auch" linktext="true" /> 
 </marginal>
 
 <marginal letter="416" page="114" line="6">
-<bzg>Apelles</bzg> <link ref="apelles" linktext="true" />, bei <link ref="plinius" subref="plinius-natur" linktext="true" />, 35,36,85 ist anekdotisch überliefert, dass Apelles, hinter seinen Bildern versteckt, Urteilen der Betrachter gelauscht habe. Der Kritik eines Schusters an gemalten Schenkeln, habe er entgegengesetzt: Schuster bleib bei deinen Leisten.
+<bzg>Apelles</bzg> <link ref="apelles" linktext="true" />; bei <link ref="plinius" subref="plinius-natur" linktext="true" />, 35,36,85 ist anekdotisch überliefert, dass Apelles, hinter seinen Bildern versteckt, Urteilen der Betrachter gelauscht habe. Der Kritik eines Schusters an gemalten Schenkeln, habe er entgegengesetzt: Schuster bleib bei deinen Leisten.
 </marginal>
 
 <marginal letter="416" page="114" line="16" sort="1">
@@ -51265,7 +51281,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="16" sort="2">
-<bzg>Sohn</bzg> Johann Jakob Kanter (gest. 1813) ?!?
+<bzg>Sohn</bzg> nicht ermittelt
 </marginal>
 
 <marginal letter="416" page="114" line="19">
@@ -51277,7 +51293,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="24" sort="1">
-<bzg>Lettre perdue nach B…</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />
+<bzg>Lettre perdue nach B…</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" /> nach Bückeburg, vgl. <intlink letter="408" page="97" line="22" linktext="true" />
 </marginal>
 
 <marginal letter="416" page="114" line="24" sort="2">
@@ -51301,7 +51317,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="35">
-<bzg>Meß-Catalogo</bzg>  Michaelis oder Ostern 1775 ?!?
+<bzg>Meß-Catalogo</bzg> wohl im <link ref="messkatalog" linktext="true" /> für Michaelis 1774, nicht ermittelt
 </marginal>
 
 
