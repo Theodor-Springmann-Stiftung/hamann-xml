@@ -10119,7 +10119,7 @@ von den Berens ist kein Brief überliefert
 </marginal>
 
 <marginal letter="140" page="312" line="1" sort="1">
-<bzg>HE Gouv.</bzg> <link ref="korff" linktext="true" />, Gouverneur der russ. Besatzung von Königsberg
+<bzg>HE Gouv.</bzg> <link ref="korff-nf" linktext="true" />, Gouverneur der russ. Besatzung von Königsberg
 </marginal>
 
 <marginal letter="140" page="312" line="1" sort="2">
@@ -10745,7 +10745,7 @@ vmtl. Anspielung auf <link ref="berens-ca" linktext="true" /> und das Heiratsver
 </marginal>
 
 <marginal letter="143" page="326" line="10" sort="1">
-<bzg>hohen Zuhörern</bzg> darunter der <link ref="korff" linktext="false">russ. Gouverneur v. Korff</link>
+<bzg>hohen Zuhörern</bzg> darunter der <link ref="korff-nf" linktext="false">russ. Gouverneur v. Korff</link>
 </marginal>
 
 <marginal letter="143" page="326" line="10" sort="2">
@@ -13142,7 +13142,7 @@ Brief Nr. 153
 </marginal>
 
 <marginal letter="153" page="374" line="2">
-<link ref="watson" subref="watson-abschied" linktext="true" />, vgl. <intlink letter="143" page="326" line="8" linktext="true" />, <intlink letter="140" page="311" line="37" linktext="true" />; Kant war bei der Abschiedszeremonie Watsons wahrscheinlich anwesend. Die „Redoute“ wurde wahrscheinlich vom russischen Gouverneur <link ref="korff" linktext="false">Korff</link> veranstaltet. 
+<link ref="watson" subref="watson-abschied" linktext="true" />, vgl. <intlink letter="143" page="326" line="8" linktext="true" />, <intlink letter="140" page="311" line="37" linktext="true" />; Kant war bei der Abschiedszeremonie Watsons wahrscheinlich anwesend. Die „Redoute“ wurde wahrscheinlich vom russischen Gouverneur <link ref="korff-nf" linktext="false">Korff</link> veranstaltet. 
 </marginal>
 
 <marginal letter="153" page="374" line="4">
@@ -26849,7 +26849,7 @@ Brief Nr. 235
 </marginal>
 
 <marginal letter="235" page="171" line="31">
-<bzg>wo Marianchen</bzg> Im Haus von <link ref="korff" linktext="true" />, dessen Kinder <link ref="lindner-m" linktext="true" /> in Pension genommen hatte.
+<bzg>wo Marianchen</bzg> Im Haus von <link ref="korff-nf" linktext="true" />, dessen Kinder <link ref="lindner-m" linktext="true" /> in Pension genommen hatte.
 </marginal>
 
 <marginal letter="235" page="171" line="32" sort="1">
@@ -26999,7 +26999,7 @@ Brief Nr. 236
 </marginal>
 
 <marginal letter="236" page="176" line="6">
-<bzg>aus seiner Condition</bzg> im Hause <link ref="korff" linktext="true" />
+<bzg>aus seiner Condition</bzg> im Hause <link ref="korff-nf" linktext="true" />
 </marginal>
 
 <marginal letter="236" page="176" line="10">
@@ -51269,7 +51269,7 @@ Brief Nr. 416
 </marginal>
 
 <marginal letter="416" page="114" line="4">
-<bzg>Corpora Delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" /> und <link ref="herder" subref="herder-auch" linktext="true" /> 
+<bzg>Corpora Delicti</bzg> wohl <link ref="herder" subref="herder-prediger" linktext="true" /> und <link ref="herder" subref="herder-auch" linktext="true" />, vgl. <intlink letter="414" page="110" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="416" page="114" line="6">
@@ -51324,7 +51324,7 @@ Brief Nr. 416
 Brief Nr. 417
 
 <marginal letter="417" page="115" line="11" sort="1">
-<bzg>Nachricht über Helmstädt</bzg>  vgl. Briefe 17 und 420
+<bzg>Nachricht über Helmstädt…</bzg> Der Ursprung des Gerüchts ist unklar, es stellte sich als unwahr heraus, vgl. <intlink letter="420" page="123" line="4" linktext="true" />.
 </marginal>
 
 <marginal letter="417" page="115" line="11" sort="2">
@@ -51348,7 +51348,7 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="115" line="19" sort="2">
-<bzg>Corporibus delicti</bzg> vgl. <intlink letter="414" page="110" line="16" linktext="true" />
+<bzg>Corporibus delicti</bzg> vgl. <intlink letter="416" page="114" line="4" linktext="true" />
 </marginal>
 
 <marginal letter="417" page="115" line="22">
@@ -51356,11 +51356,11 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="115" line="23">
-<bzg>Luther mit Spalding</bzg> <link ref="luther" linktext="true" /> , <link ref="spalding" linktext="true" /> 
+<bzg>Luther mit Spalding</bzg> <link ref="luther" linktext="true" />, <link ref="spalding" linktext="true" /> 
 </marginal>
 
 <marginal letter="417" page="115" line="24">
-<bzg>Belial</bzg> <link ref="bayle" linktext="true" /> 
+<bzg>Belial</bzg> <link ref="nt-kor2" subref="nt-kor2-6" linktext="false">2&#x202F;Kor 6,15</link>
 </marginal>
 
 <marginal letter="417" page="115" line="29">
@@ -51368,15 +51368,19 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="116" line="4">
-<bzg>Brandenburg</bzg> nicht ermittelt
+<bzg>Brief</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="417" page="116" line="12">
+<bzg>Bureau</bzg> bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
 </marginal>
 
 <marginal letter="417" page="116" line="13">
-<bzg>Meß-Catalog</bzg> Michaelis 1774 ?!?
+<bzg>Meß-Catalog</bzg> <link ref="messkatalog" subref="messkatalog-michaelis1774" linktext="true" />
 </marginal>
 
 <marginal letter="417" page="116" line="19">
-<bzg>Preisschrifft</bzg> <link ref="herder" subref="herder-geschmack" linktext="true" /> 
+<bzg>Preisschrifft</bzg> <link ref="herder" subref="herder-ursprung" linktext="true" /> 
 </marginal>
 
 <marginal letter="417" page="116" line="20">
@@ -51387,8 +51391,8 @@ Brief Nr. 417
 <bzg>ankündigen</bzg> vgl. <intlink letter="413" page="108" line="16" linktext="true" />
 </marginal>
 
-<marginal letter="417" page="116" line="28">
-<bzg>Salomon</bzg> <link ref="at-pr" subref="at-pr9" linktext="false">Pr 9,11</link> 
+<marginal letter="417" page="116" line="27">
+<bzg>Zeit und Glück</bzg> <link ref="at-pr" subref="at-pr9" linktext="false">Pr 9,11</link> 
 </marginal>
 
 <marginal letter="417" page="116" line="35">
@@ -51396,44 +51400,55 @@ Brief Nr. 417
 </marginal>
 
 <marginal letter="417" page="116" line="36">
-<bzg>Mitausche Aussichten</bzg> mögliche Berufung von <link ref="herder" linktext="true" />
+<bzg>Mitausche Aussichten</bzg> Herders mögliche Berufung ans akademische Gymnasium in Mitau, vgl. <intlink letter="415" page="111" line="11" linktext="true" />
 </marginal>
 
 <marginal letter="417" page="117" line="3">
 <bzg>Sachwalters</bzg> <link ref="hartmann-gd" linktext="true" />
 </marginal>
 
-<marginal letter="417" page="117" line="17">
-<bzg>Trappen-Feder</bzg> Feder einer Laufgans
+<marginal letter="417" page="117" line="13">
+<bzg>besten Hälfte</bzg> <link ref="hartknoch-a" linktext="true" />
 </marginal>
 
+<marginal letter="417" page="117" line="17">
+<bzg>Trappen-Feder</bzg> Feder einer Trappgans; vgl. <link ref="hamann" subref="hamann-prolegomena" linktext="true" />, ED, S.&#x202F;12 bzw. <intlink letter="406" page="90" line="12" linktext="true" />
+</marginal>
 
 Brief Nr. 417a
 
 <marginal letter="417a" page="1" line="5">
-<bzg>Manuscript</bzg> von <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
+<bzg>Manuscript</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
+</marginal>
+
+<marginal letter="417a" page="1" line="5">
+<bzg>abgegeben</bzg> an <link ref="bode-jjc" linktext="true" /> weitergereicht
 </marginal>
 
 Brief Nr. 418
+
+<marginal letter="418" page="117" line="26">
+<bzg>spät</bzg> Bode meint die entgegen Hamanns Erwartungen reichlich verspätete Drucklegung der <link ref="hamann" subref="hamann-prolegomena" linktext="false">Prolegomena</link>
+</marginal>
 
 <marginal letter="418" page="118" line="1" sort="1">
 <bzg>Beylage</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
 </marginal>
 
 <marginal letter="418" page="118" line="1" sort="2">
-<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />, vgl. Brief 417a
+<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />, vgl. <intlink letter="417a" page="1" line="1" linktext="true" />
 </marginal>
 
 <marginal letter="418" page="118" line="6">
-<bzg>Zachei</bzg> <link ref="achery" subref="achery-zachae" linktext="true" />  
+<bzg>Zachei</bzg> nach dem fingierten Autor von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal>
 
 <marginal letter="418" page="118" line="8">
-<bzg>Tristrams</bzg> <link ref="sterne" subref="sterne-shandy" linktext="true" />; die Übersetzung von <link ref="bode-jjc" linktext="true" /> erschien 1774.
+<bzg>Tristrams</bzg> <link ref="sterne" subref="sterne-shandy" linktext="true" />; Bodes Übersetzung erschien 1774.
 </marginal>
 
 <marginal letter="418" page="118" line="10" sort="1">
-<bzg>bösen Richter</bzg> Pontius Pilatus, wegen der Kreuzigung Christi
+<bzg>bösen Richter</bzg> Pontius Pilatus, nach <link ref="nt-jo" subref="nt-jo19" linktext="false">Joh 19,22</link>
 </marginal>
 
 <marginal letter="418" page="118" line="10" sort="2">
@@ -51445,7 +51460,7 @@ Brief Nr. 418
 </marginal>
 
 <marginal letter="418" page="118" line="26">
-<bzg>Rtl. 12 ggl.</bzg> Guter Groschen; Reichstaler, eine im ganzen dt-sprachigen Raum übliche Silbermünze, entspricht 24 Silbergroschen (Groschen: Silbermünze [ca. 24. Teil eines Talers] oder Kupfermünze [ca. 90. Teil eines Talers]; in Königsberg war der Kupfergroschen üblich; für 8 Groschen gab es ca. zwei Pfund Schweinefleisch).
+<bzg>Rtl. […] ggl.</bzg> Guter Groschen; Reichstaler, eine im ganzen dt-sprachigen Raum übliche Silbermünze, entspricht 24 Silbergroschen (Groschen: Silbermünze [ca. 24. Teil eines Talers] oder Kupfermünze [ca. 90. Teil eines Talers]; in Königsberg war der Kupfergroschen üblich; für 8 Groschen gab es ca. zwei Pfund Schweinefleisch).
 </marginal>
 
 <marginal letter="418" page="118" line="30">
@@ -51461,23 +51476,23 @@ Brief Nr. 418
 </marginal>
 
 <marginal letter="418" page="118" line="35">
-<bzg>Loge zu den drey Kronen</bzg> Gegründet 1760, der Loge gehörten u.a. <link ref="hippel" linktext="true" /> und <link ref="scheffner" linktext="true" /> an.
-</marginal>
-
-<marginal letter="418" page="119" line="1">
-<bzg>HE.Kriegsrath. Hennings</bzg> <link ref="hennings" linktext="true" />
+<bzg>Loge zu den drey Kronen</bzg> <link ref="dreikronenloge" linktext="true" />
 </marginal>
 
 <marginal letter="418" page="119" line="2">
-<bzg>Jacobi</bzg> <link ref="jacobi-fc" linktext="true" /> 
+<bzg>HE. Kriegsrath. Hennings</bzg> <link ref="hennings" linktext="true" />
 </marginal>
 
 <marginal letter="418" page="119" line="3">
-<bzg>Bertram</bzg> Wilhelm Heinrich Bertram, Kriegs- und Domänenrat
+<bzg>Jacobi</bzg> wohl <link ref="jacobi-fc" linktext="true" /> 
+</marginal>
+
+<marginal letter="418" page="119" line="4">
+<bzg>Bertram</bzg> wohl <link ref="bertram" linktext="true" />
 </marginal>
 
 <marginal letter="418" page="119" line="5" sort="1">
-<bzg>le Cocq.</bzg> Peter Paul Le Cocq (gest. 1781), Direktor der Tabakadministration
+<bzg>le Cocq.</bzg> wohl Peter Paul Le Cocq (gest. 1781), Direktor der Tabakadministration
 </marginal>
 
 <marginal letter="418" page="119" line="5" sort="2">
@@ -51497,15 +51512,15 @@ Brief Nr. 418
 </marginal>
 
 <marginal letter="418" page="119" line="6" sort="1">
-<bzg>von Korff</bzg> <link ref="korff" linktext="true" />
+<bzg>von Korff</bzg> <link ref="korff-fa" linktext="true" />
 </marginal>
 
 <marginal letter="418" page="119" line="6" sort="2">
-<bzg>Stolterfoth</bzg> vll. Matthias Stolterfoth, Verwalter der Logenbibliothek
+<bzg>Stolterfoth</bzg> vll. Matthias Stolterfoth, Verwalter der <link ref="dreikronenloge" linktext="false">Logenbibliothek</link>
 </marginal>
 
 <marginal letter="418" page="119" line="6" sort="3">
-<bzg>Rappold</bzg> Christian Samuel Rappolt (gest. 1781), Kaufmann, Schwager von <link ref="hartknoch" linktext="true" />
+<bzg>Rappold</bzg> <link ref="rappolt-cs" linktext="true" />
 </marginal>
 
 <marginal letter="418" page="119" line="6" sort="4">
@@ -51513,7 +51528,7 @@ Brief Nr. 418
 </marginal>
 
 <marginal letter="418" page="119" line="6" sort="5">
-<bzg>Kriting</bzg> Peter Heinrich Kriting (gest. 1777), Kaufmann und Kommerzienrat in Königsberg
+<bzg>Kriting</bzg> <link ref="kriting" linktext="true" />
 </marginal>
 
 <marginal letter="418" page="119" line="6" sort="6">

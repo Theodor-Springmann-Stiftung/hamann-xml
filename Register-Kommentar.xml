@@ -1241,7 +1241,7 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 
 <kommentar id="bertram" type="neuzeit">
 <lemma>Wilhelm Heinrich Bertram</lemma>
-<eintrag>1710–1776. Kriegs- und Domänenrat in Königsberg.
+<eintrag>1710–1776. Seit 1763 <link ref="kriegs-und-domaenenkammer" linktext="false">Kriegs- und Domänenrat in Königsberg</link>; stand von seinem 1770 bis zu seinem Tod einem der wichtigsten Ressorts vor, ihm unterstanden die Stadt Königsberg, die Akzise- Zoll- Kommerzien-, Manufaktur-, Polizei- und Judensachen (siehe Rolf Straubel: <titel>Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806</titel> (München 2009), Bd.&#x202F;1, S.&#x202F;72).
 </eintrag>
 </kommentar>
 
@@ -1271,7 +1271,7 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 
 <kommentar id="beyer" type="neuzeit">
 <lemma>Johann August v. Beyer</lemma>
-<eintrag>Kriegs- und Domänenrat in Halberstadt</eintrag>
+<eintrag>Kriegs- und Domänenrat in Halberstadt.</eintrag>
 <subsection id="beyer-vermischte" type="neuzeit" sort="10">
 <lemma>Beyer, <titel>Vermischte Poesien</titel></lemma>
 <eintrag>
@@ -1489,7 +1489,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="bock-cg" type="neuzeit">
 <lemma>Carl Gottlieb Bock</lemma>
-<eintrag>1746–1829. Kammersekretär bei der Kriegs- und Domänenkammer.
+<eintrag>1746–1829. Kammersekretär bei der <link ref="kriegs-und-domaenenkammer" linktext="true"/>.
 </eintrag>
 <subsection id="bockcg-gedichte" type="neuzeit" sort="10">
 <lemma>Bock, <titel>Gedichte</titel></lemma>
@@ -3229,7 +3229,7 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 
 <kommentar id="cupner" type="neuzeit">
 <lemma>Christoph Wilhelm Cupner</lemma>
-<eintrag>1720–1788. Kriegs- und Domänenrat in Königsberg.
+<eintrag>1720–1788. <link ref="kriegs-und-domaenenkammer" linktext="false">Kriegs- und Domänenrat in Königsberg</link>.
 </eintrag>
 </kommentar>
 
@@ -4534,7 +4534,7 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 
 <kommentar id="dreikronenloge" type="neuzeit">
 <lemma>Freimaurerloge zu den Drei Kronen in Königsberg</lemma>
-<eintrag>1760 gestiftet, bekannte Mitglieder waren u.a. <link ref="kanter" linktext="true" />, <link ref="starck" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="scheffner" linktext="true" />. Ansässig hinter der Münze, zwischen mittelstem Tragheim und Königsberger Schloss. Siehe Richard Fischer: Geschichte der Johannisloge Zu den drei Kronen. Königsberg 1910.</eintrag>
+<eintrag>1760 gestiftet, bekannte Mitglieder waren u.a. <link ref="kanter" linktext="true" />, <link ref="starck" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="scheffner" linktext="true" />. Ansässig hinter der Münze, zwischen mittelstem Tragheim und Königsberger Schloss. Siehe Richard Fischer: <titel>Geschichte der Johannisloge Zu den drei Kronen.</titel> Königsberg 1910.</eintrag>
 </kommentar>
 
 <kommentar id="frankfurter-gelehrte-anzeigen" type="neuzeit">
@@ -5182,7 +5182,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <kommentar id="goeschen-jj" type="neuzeit">
 <lemma>Johann Julius Göschen</lemma>
 <eintrag>
-1736–1798. Münzmeister in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35726.html"><titel>NDB</titel></wwwlink>.
+1736–1798. Münzmeister an der neuen Münze in Berlin, dann in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35726.html"><titel>NDB</titel></wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -7507,7 +7507,7 @@ J
 
 <kommentar id="jacobi-fc" type="neuzeit">
 <lemma>Friedrich Conrad Jacobi</lemma>
-<eintrag>1752–1816. Erbe von <link ref="jacobi-jc" linktext="true" />. 
+<eintrag>1752–1816. Neffe und Erbe von <link ref="jacobi-jc" linktext="true" />, Hamanns Gevatter. 
 </eintrag>
 </kommentar>
 
@@ -8498,7 +8498,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <eintrag>1698–1761. Königsberger Pfarrer.</eintrag>
 </kommentar>
 
-<kommentar id="korff" type="neuzeit">
+<kommentar id="korff-nf" type="neuzeit">
 <lemma>Nikolaus Friedrich v. Korff</lemma>
 <eintrag>1710–1766. Generalleutnant und Kammerherr, im Siebenjährigen Krieg nach Fermor ab 1758–60 Gouverneur des kaiserlich-russ. besetzten Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1055292683.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
@@ -8592,6 +8592,11 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <lemma>Kriegs- und Domänenkammer in Königsberg</lemma>
 <eintrag>Königlich-preußische Provinzialbehörde in Königsberg, zwischen Lokal- und Zentralregierung; abhängig von den Direktiven des <link ref="generaldirektorium" linktext="false">Generaldirektoriums</link>. Sie tagte auf dem Königsberger Schloss, Präsident war ab 1763 <link ref="domhardt" linktext="true" />. Die Kriegskammer verwaltete Steuern und Abgaben, die für die Bedürfnisse der Armee bestimmt waren, die Domänenverwaltung kümmerte sich um Pachtgelder für staatliche Güter. Sie war im Kneiphöfischen Rathaus und im Königsberger Schloss ansässig. Zum Hintergrund siehe <wwwlink address="https://kulturstiftung.org/zeitstrahl/gruendung-der-ostpreussischen-kriegs-und-domaenenkammer-zu-koenigsberg-und-die-einrichtung-einer-kammerdeputation-fuer-gumbinnen">Rita Klauschenz: Gründung der Ostpreussischen Kriegs- und Domänenkammer zu Königsberg und die Einrichtung einer Kammerdeputation für Gumbinnen</wwwlink>.<line type="break" />
 Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. „extraordinairer Cantzeley-Verwandter“ für die Kriegs- und Domainenkammer (vgl. <intlink letter="253" page="225" line="15" linktext="true" /> und <intlink letter="256" page="231" line="32" linktext="true" />).</eintrag>
+</kommentar>
+
+<kommentar id="kriting" type="neuzeit">
+<lemma>Peter Heinrich Kriting</lemma>
+<eintrag>1700–1777. Kaufmann und Kommerzienrat in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="kruger-jc" type="neuzeit">
@@ -10584,7 +10589,13 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <subsection id="messkatalog-michaelis1773" type="neuzeit" sort="70">
 <lemma>Messkatalog für Michaelis 1773</lemma>
 <eintrag>
-<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1773 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1773). 
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Michaelis des 1773 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1773). 
+</eintrag>
+</subsection>
+<subsection id="messkatalog-michaelis1774" type="neuzeit" sort="80">
+<lemma>Messkatalog für Michaelis 1774</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Michaelismesse des 1774 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1774). 
 </eintrag>
 </subsection>
 </kommentar>
@@ -12099,7 +12110,7 @@ Dt. Übers. zitiert nach: Konrat Ziegler (Übers.), <titel>Plutarch: Große Grie
 
 <kommentar id="poehling" type="neuzeit">
 <lemma>Friedrich Wilhelm Poehling</lemma>
-<eintrag>1740 Studium der Rechte Königsberg, 1745 in Halle, Mitglied der <link ref="konigliche-d-g" linktext="false">königlichen deutschen Gesellschaft zu Königsberg</link>; ab 1752 Kriegs- und Domänenrat in Königsberg.
+<eintrag>1740 Studium der Rechte Königsberg, 1745 in Halle, Mitglied der <link ref="konigliche-d-g" linktext="false">königlichen deutschen Gesellschaft zu Königsberg</link>; ab 1752 <link ref="kriegs-und-domaenenkammer" linktext="false">Kriegs- und Domänenrat in Königsberg</link>.
 </eintrag>
 </kommentar>
 
@@ -14500,7 +14511,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <eintrag>
 <titel>The Life and Opinions of Tristram Shandy, Gentleman.</titel> Bd. 1–2 London 1760; Bd. 3–4 1761/1762; Bd. 7–8 1765; Bd. 9 1767.<line type="break" />
 1. zeitgenössische Übers. (Zückert): <titel>Das Leben und die Meynungen des Herrn Tristram Shandy.</titel> 1.–6. Teil, übersetzt von Johann Friedrich Zückert (6 Bde., Berlin 1763) [Biga 149/326: „Leben und Meynungen des Tristram Shandy, 1–4ter Th. Berl. 763“ und 196/57: „Das Leben und die Meynungen des Hrn. Tristram Shandy, 9ter Th. Berl. 767. Dito 5ter Th. ib. 764“]. Digitalisat des ersten Bandes der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750309-5">BSB München: P.o.angl. 401-1/4</wwwlink>.<line type="break" />
-2. zeitgenössische Übers. (<link ref="bode-jjc" linktext="false">Bode</link>): <titel>Tristram Schandis Leben und Meynungen. Zwote verbesserte Auflage</titel> (9 Bde., Hamburg: Bohn 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750318-1">BSB München: P.o. angl. 402-1/3</wwwlink>.
+2. zeitgenössische Übers. (von <link ref="bode-jjc" linktext="false">Bode</link>): <titel>Tristram Schandis Leben und Meynungen</titel> (9 Bde., Hamburg: Bode 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10753447-1">BSB München: P.o. angl. 402-1/3</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="sterne-sermons" type="neuzeit" sort="20">
@@ -15981,7 +15992,7 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 
 <kommentar id="werner-jg" type="neuzeit">
 <lemma>Johann Gottfried v. Werner</lemma>
-<eintrag>1703–1761. Justiziar und Direktor des Collegium medicum in Königsberg, Kriegs- und Domänenrat, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1082228885.html">Deutsche Biographie</wwwlink>.</eintrag>
+<eintrag>1703–1761. Justiziar und Direktor des Collegium medicum in Königsberg, <link ref="kriegs-und-domaenenkammer" linktext="false">Kriegs- und Domänenrat</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1082228885.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="werner-sh" type="neuzeit">
