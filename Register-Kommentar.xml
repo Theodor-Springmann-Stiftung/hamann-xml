@@ -1589,6 +1589,10 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <lemma>Bodmer (Hg.), <titel>Archiv der schweitzerischen Kritick</titel></lemma>
 <eintrag><titel>Archiv der schweitzerischen Kritick. Von der Mitte des Jahrhunderts bis auf gegenwärtige Zeiten</titel> (1 Bd., Zürich 1768). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN721920209">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
+<subsection id="bodmer-noachide" type="neuzeit" sort="110">
+<lemma>Bodmer, <titel>Noachide</titel></lemma>
+<eintrag><titel>Die Noachide in Zwölf Gesängen.</titel> [hg. von <link ref="sulzer" linktext="true" />, mit Radierungen von <link ref="fuessli-jh" linktext="true" />] (Berlin: Voß 1765). Digitalisat: <wwwlink address="http://data.onb.ac.at/ABO/%2BZ168192003">ÖNB Wien</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="boerhaave" type="neuzeit">
@@ -1632,6 +1636,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <lemma>Heinrich Christian Boie</lemma>
 <eintrag>1744–1806. Dichter und Herausgeber, 1770 Begründer des Göttinger Musenalmanachs und bis 1775 dessen Herausgeber, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5149.html#ndbcontent">Elschenbroich, Adalbert: Boie, Heinrich Christian, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;434f</wwwlink>.
 </eintrag>
+<subsection id="boie-goettingermusenalm1775" type="neuzeit">
+<lemma><titel>Göttinger Musenalmanach 1775</titel></lemma>
+<eintrag>
+<titel>Poetische Blumenlese Auf das Jahr 1775.</titel>  (Göttingen, Gotha: Dieterich). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10859211-5">BSB München: 1305-1775</wwwlink>.
+</subsection>
 </kommentar>
 
 <kommentar id="bonnet" type="neuzeit">
@@ -5217,9 +5226,9 @@ Prolog zu den neuesten Offenbarungen Gottes. Verteutscht durch Dr. Carl Friedric
 <titel>Die Leiden des jungen Werthers</titel> (Leipzig 1774) [Biga&#x202F;158/479: „Leyden des jungen Werthers, Freyst. 775“]. Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/goethe_werther02_1774">Deutsches Textarchiv</wwwlink>.</eintrag>
 </subsection>
 <subsection id="goethe-gotter" type="neuzeit" sort="40">
-<lemma>[anonym], <titel>Götter, Helden und Wieland</titel></lemma>
+<lemma>Goethe, <titel>Götter, Helden und Wieland</titel></lemma>
 <eintrag>
-<titel>Götter, Helden und Wieland. Eine Farce. Satirisches Gespräch</titel> (Leipzig 1774) [Biga&#x202F;141/192: „Götter, Helden und Wieland, 774.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10109251-9">München, Bayerische Staatsbibliothek: P.o.germ. 490 b</wwwlink>.</eintrag>
+<titel>Götter, Helden und Wieland. Eine Farce. Satirisches Gespräch</titel> (anonym, Leipzig 1774) [Biga&#x202F;141/192: „Götter, Helden und Wieland, 774.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10109251-9">München, Bayerische Staatsbibliothek: P.o.germ. 490 b</wwwlink>.</eintrag>
 </subsection>
 
 </kommentar>
@@ -9049,21 +9058,21 @@ Zweisprachige Dänisch/Lateinische Ausgabe (1767): Knud Leems <titel>Beskrivelse
 <lemma>Jakob Michael Reinhold Lenz</lemma>
 <eintrag>1751–1792. Deutschbaltischer Schriftsteller des Sturm und Drang, vgl. <wwwlink address="https://www.deutsche-biographie.de/artikelADB_pnd118571656.html#adbcontent">Schmidt, Erich: Lenz, Jakob, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;272–276</wwwlink></eintrag>
 <subsection id="lenz-anmerkungen" type="neuzeit" sort="10">
-<lemma>[anonym] <titel>Anmerkungen über das Theater</titel></lemma>
+<lemma>Lenz, <titel>Anmerkungen über das Theater</titel></lemma>
 <eintrag>
-<titel>Anmerkungen über das Theater nebst angehängtem übersetzten Stück Shakespeares</titel> (Leipzig: Weygandsche Buchhandlung 1774). Digitalisat: <wwwlink address="https://lenz-archiv.de/static/selbststaendige_drucke/anmerkungen.pdf">Jakob Lenz Archiv Heidelberg</wwwlink>.
+<titel>Anmerkungen über das Theater nebst angehängtem übersetzten Stück Shakespeares</titel> (anonym, Leipzig: Weygandsche Buchhandlung 1774). Digitalisat: <wwwlink address="https://lenz-archiv.de/static/selbststaendige_drucke/anmerkungen.pdf">Jakob Lenz Archiv Heidelberg</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="lenz-hofmeister" type="neuzeit" sort="15">
-<lemma>[anonym] <titel>Der Hofmeister</titel></lemma>
+<lemma>Lenz, <titel>Der Hofmeister</titel></lemma>
 <eintrag>
-<titel>Der Hofmeister oder Vortheile der Privaterziehung</titel> (Leipzig: Weygandsche Buchhandlung 1774). Digitalisat: <wwwlink address="https://lenz-archiv.de/static/selbststaendige_drucke/hofmeister.pdf">Jakob Lenz Archiv Heidelberg</wwwlink>.
+<titel>Der Hofmeister oder Vortheile der Privaterziehung</titel> (anonym, Leipzig: Weygandsche Buchhandlung 1774). Digitalisat: <wwwlink address="https://lenz-archiv.de/static/selbststaendige_drucke/hofmeister.pdf">Jakob Lenz Archiv Heidelberg</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="lenz-menoza" type="neuzeit" sort="20">
-<lemma>[anonym] <titel>Der neue Menoza</titel></lemma>
+<lemma>Lenz, <titel>Der neue Menoza</titel></lemma>
 <eintrag>
-<titel>Der neue Menoza. Oder Geschichte des cumbanischen Prinzen Tandi</titel> (Leipzig: Weygandsche Buchhandlung 1774). Digitalisat: <wwwlink address="https://lenz-archiv.de/static/selbststaendige_drucke/menoza.pdf">Jakob Lenz Archiv Heidelberg</wwwlink>.
+<titel>Der neue Menoza. Oder Geschichte des cumbanischen Prinzen Tandi</titel> (anonym, Leipzig: Weygandsche Buchhandlung 1774). Digitalisat: <wwwlink address="https://lenz-archiv.de/static/selbststaendige_drucke/menoza.pdf">Jakob Lenz Archiv Heidelberg</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
