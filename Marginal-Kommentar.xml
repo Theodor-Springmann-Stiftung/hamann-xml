@@ -51749,12 +51749,20 @@ Brief Nr. 419
 
 Brief Nr. 420
 
+<marginal letter="420" page="122" line="32" sort="1">
+<bzg>meines Briefes</bzg> <intlink letter="419" page="119" line="12" linktext="false">HKB 419</intlink>
+</marginal>
+
+<marginal letter="420" page="122" line="32" sort="2">
+<bzg>m. l. H.</bzg> mein lieber Hamann
+</marginal>
+
 <marginal letter="420" page="122" line="33" sort="1">
 <bzg>Hartkn.</bzg> <link ref="hartknoch" linktext="true" />
 </marginal>
 
 <marginal letter="420" page="122" line="33" sort="2">
-<bzg>Briefes</bzg> Brief 417
+<bzg>ihres Briefes</bzg> <intlink letter="417" page="115" line="10" linktext="false">HKB 417</intlink>
 </marginal>
 
 <marginal letter="420" page="123" line="7">
@@ -51770,7 +51778,7 @@ Brief Nr. 420
 </marginal> 
 
 <marginal letter="420" page="123" line="11">
-<bzg>non sine vano …</bzg> dt. nicht ohne grundlos Windhauch und Wälder zu fürchten (<link ref="horaz" subref="horaz-oden" linktext="true" />, 1,23,3-4)
+<bzg>non sine vano …</bzg> dt. nicht ohne grundlos Windhauch und Wälder zu fürchten (<link ref="horaz" subref="horaz-oden" linktext="true" />, 1,23,3–4)
 </marginal>
 
 <marginal letter="420" page="123" line="14">
@@ -51782,15 +51790,11 @@ Brief Nr. 420
 </marginal>
 
 <marginal letter="420" page="123" line="23">
-<bzg>3. Spalding u. Luther …</bzg> <link ref="spalding" linktext="true" /> und <link ref="luther" linktext="true" />; in <link ref="herder" subref="herder-prediger" linktext="true" />
+<bzg>3. Spalding u. Luther …</bzg> <link ref="spalding" linktext="true" /> und <link ref="luther" linktext="true" />; in <link ref="herder" subref="herder-prediger" linktext="true" />, vgl. <intlink letter="417" page="115" line="23" linktext="true" />
 </marginal>
 
 <marginal letter="420" page="123" line="25">
 <bzg>Sie sagen</bzg> vgl. <intlink letter="417" page="115" line="24" linktext="true" />
-</marginal>
-
-<marginal letter="420" page="123" line="26">
-<bzg>Belial</bzg> <link ref="bayle" linktext="true" />
 </marginal>
 
 <marginal letter="420" page="123" line="29">
@@ -51802,12 +51806,11 @@ Brief Nr. 420
 </marginal>
 
 <marginal letter="420" page="123" line="32">
-<bzg>Briefe an Spald. sind ein egarement du coeur</bzg> dt. Wandern des Herzens; HBGA 3,97f., Brief 85 vom 15. Juni 1774; weiterhin dort
-die Briefe 91, 102 und 112; ?!?
+<bzg>Briefe an Spald. sind ein egarement du coeur</bzg> dt. Wandern des Herzens; zu Herder Briefe an <link ref="spalding" linktext="false">Spalding</link> in HBGA, Bd.&#x202F;3, S.&#x202F;97f., S.&#x202F;104–106, 118–120 und 131
 </marginal>
 
 <marginal letter="420" page="123" line="33">
-<bzg>persönlich</bzg> Brief 85 (HBGA) ?!?
+<bzg>persönlich</bzg> Herder schickte seine <link ref="herder" subref="herder-prediger" linktext="false">Provinzialblätter</link> am 15. Juni 1774 mit einem rechtfertigenden Brief an <link ref="spalding" linktext="false">Spalding</link>, HBGA, Bd.&#x202F;3, S.&#x202F;97f.
 </marginal>
 
 <marginal letter="420" page="123" line="35">
@@ -51831,7 +51834,7 @@ die Briefe 91, 102 und 112; ?!?
 </marginal>
 
 <marginal letter="420" page="124" line="8">
-<bzg>Klotz</bzg> <link ref="klotz" linktext="true" />
+<bzg>Klotz gnug belehrt</bzg> Herder war im Umfeld der <link ref="herder" subref="herder-fragmente" linktext="false">Fragmente</link> zunächst um ein gutes Verhältnis zu <link ref="klotz" linktext="true" /> bemüht, ließ sich nach kränkenden Rezensionen aber auf polemische Streitereien ein.
 </marginal>
 
 <marginal letter="420" page="124" line="9">
@@ -51847,8 +51850,7 @@ die Briefe 91, 102 und 112; ?!?
 </marginal>
 
 <marginal letter="420" page="124" line="17">
-<bzg>Hartmanns mit den Sulzers … Loos werfen</bzg> <link ref="hartmann-gd" linktext="true" />; <link ref="sulzer" linktext="true" /> war als Berater des Herzogs von Kurland für Berufungen
-mitzuständig und hatte sich gegen Herder ausgesprochen; Loos werfen: u.a. <link ref="nt-mt" subref="nt-mt27" linktext="false">Mt 27,35</link>  
+<bzg>Hartmanns mit den Sulzers … Loos werfen</bzg> <link ref="hartmann-gd" linktext="true" />; <link ref="sulzer" linktext="true" /> war als Berater des Herzogs von Kurland für Berufungen mitzuständig und hatte sich gegen Herder ausgesprochen, vgl. <intlink letter="414" page="109" line="34" linktext="true" />; Loos werfen: u.a. <link ref="nt-mt" subref="nt-mt27" linktext="false">Mt 27,35</link>  
 </marginal>
 
 <marginal letter="420" page="124" line="18">
@@ -51871,11 +51873,15 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="124" line="29" sort="1">
-<bzg>huj.</bzg> huius, d.i. diesen [Monats]
+<bzg>huj.</bzg> huius, d.i. diesen Monats, 26.11.1774
 </marginal>
 
 <marginal letter="421" page="124" line="29" sort="2">
-<bzg>Brief</bzg> Brief 419
+<bzg>Brief</bzg> <intlink letter="419" page="119" line="12" linktext="false">HKB 419</intlink>
+</marginal>
+
+<marginal letter="421" page="124" line="30">
+<bzg>ihm</bzg> <link ref="herder" linktext="true" />
 </marginal>
 
 <marginal letter="421" page="124" line="31" sort="1">
@@ -51887,7 +51893,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="124" line="33">
-<bzg>Einlage</bzg> Brief 420
+<bzg>Einlage</bzg> <intlink letter="420" page="122" line="32" linktext="false">HKB 419</intlink>
 </marginal>
 
 <marginal letter="421" page="124" line="34">
@@ -51902,20 +51908,28 @@ Brief Nr. 421
 <bzg>Flüßen</bzg> Fieber
 </marginal>
 
+<marginal letter="421" page="125" line="7">
+<bzg>Magdalena</bzg> <link ref="hamann-mc" linktext="true" /> wurde am 2. Dezember 1774 geboren.
+</marginal>
+
 <marginal letter="421" page="125" line="9">
-<bzg>Couvade</bzg> Begriff aus der Ethnologie für den Brauch, daß der Vater bei der Geburt des Kindes statt der Mutter das Bett hütet
+<bzg>Couvade</bzg> Begriff aus der Ethnologie für den Brauch, dass der Vater bei der Geburt des Kindes statt der Mutter das Bett hütet
+</marginal>
+
+<marginal letter="421" page="125" line="10">
+<bzg>Bureau</bzg> bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
 </marginal>
 
 <marginal letter="421" page="125" line="17">
-<bzg>Bode und Claudius</bzg> <link ref="bode-jjc" linktext="true" /> 
-</marginal>
-
-<marginal letter="421" page="125" line="19">
-<bzg>Ersterer</bzg> Brief 418
+<bzg>Bode und Claudius</bzg> <link ref="bode-jjc" linktext="true" /> und <link ref="claudius" linktext="true" />, vgl. <intlink letter="418" page="117" line="25" linktext="false"> HKB 418</intlink> und <intlink letter="417a" page="1" line="1" linktext="false"> HKB 417a</intlink>
 </marginal>
 
 <marginal letter="421" page="125" line="22">
 <bzg>Dorfteufel zu Wandsbek</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="421" page="125" line="23">
+<bzg>Bauer Mädchen</bzg> <link ref="claudius-r" linktext="true" />
 </marginal>
 
 <marginal letter="421" page="125" line="31">

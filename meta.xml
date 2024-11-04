@@ -8027,8 +8027,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="420">
-        <date value="vor 30. November 1774" />
-        <sort value="1774-11-15" notAfter="1774-11-30" />
+        <date value="etwa 18. November 1774" />
+        <sort value="1774-11-15" notBefore="1774-11-14" notAfter="1774-11-30" />
         <location ref="-1" />
         <senders>
           <sender ref="41" />
