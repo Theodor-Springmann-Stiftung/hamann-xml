@@ -25737,7 +25737,7 @@ Brief Nr. 227
 </marginal>
 
 <marginal letter="227" page="154" line="15">
-<bzg>in der Kriegskunst Anweisung</bzg> Gemeint ist <link ref="friedrich-II" subref="fr-kriegskunst" linktext="true" />
+<bzg>in der Kriegskunst Anweisung</bzg> Gemeint ist <link ref="friedrich-II" subref="friedrich-anweisung" linktext="true" />
 </marginal>
 
 <marginal letter="227" page="154" line="17">
@@ -51806,7 +51806,7 @@ Brief Nr. 420
 </marginal>
 
 <marginal letter="420" page="123" line="32">
-<bzg>Briefe an Spald. sind ein egarement du coeur</bzg> dt. Wandern des Herzens; zu Herder Briefe an <link ref="spalding" linktext="false">Spalding</link> in HBGA, Bd.&#x202F;3, S.&#x202F;97f., S.&#x202F;104–106, 118–120 und 131
+<bzg>Briefe an Spald. sind ein egarement du coeur</bzg> dt. Wandern des Herzens; zu Herders Briefen an <link ref="spalding" linktext="false">Spalding</link> vgl. HBGA, Bd.&#x202F;3, S.&#x202F;97f., S.&#x202F;104–106, 118–120 und 131
 </marginal>
 
 <marginal letter="420" page="123" line="33">
@@ -51932,16 +51932,24 @@ Brief Nr. 421
 <bzg>Bauer Mädchen</bzg> <link ref="claudius-r" linktext="true" />
 </marginal>
 
+<marginal letter="421" page="125" line="24">
+<bzg>Zacchaeum</bzg> nach dem fingierten Autor von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+</marginal>
+
+<marginal letter="421" page="125" line="24">
+<bzg>Versuch über die Ehe</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" />
+</marginal>
+
 <marginal letter="421" page="125" line="31">
 <bzg>Klade</bzg> Notizbuch
 </marginal>
 
-<marginal letter="421" page="126" line="2">
+<marginal letter="421" page="126" line="3">
 <bzg>Voß gedruckten Versuch der Ehe</bzg> <link ref="hippel" subref="hippel-ehe" linktext="true" />  
 </marginal>
 
 <marginal letter="421" page="126" line="8">
-<bzg>Königs Kriegeskunst im Deutschen</bzg> <link ref="friedrich-II" subref="fr-kriegskunst" linktext="true" />   
+<bzg>Königs Kriegeskunst im Deutschen</bzg> vmtl. <link ref="friedrich-II" subref="friedrich-kriegskunst" linktext="true" />   
 </marginal>
 
 <marginal letter="421" page="126" line="10">
@@ -51969,7 +51977,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="126" line="23">
-<bzg>Conspirationen in Babel</bzg> die Kritik der Berliner Theologen
+<bzg>Conspirationen in Babel</bzg> Herders Streit mit <link ref="spalding" linktext="true" /> und den Berliner Theologen, vgl. <intlink letter="420" page="124" line="11" linktext="true" />
 </marginal>
 
 <marginal letter="421" page="126" line="24" sort="1">
@@ -51984,12 +51992,12 @@ Brief Nr. 421
 <bzg>Philosophie der Geschichte</bzg> <link ref="herder" subref="herder-auch" linktext="true" /> 
 </marginal>
 
-<marginal letter="421" page="126" line="37" sort="1">
-<bzg>3 Briefe an Spalding</bzg> vgl. <intlink letter="420" page="123" line="32" linktext="true" /> 
+<marginal letter="421" page="126" line="35">
+<bzg>Torso</bzg> <link ref="herder" subref="herder-torso" linktext="true" />
 </marginal>
 
-<marginal letter="421" page="126" line="37" sort="2">
-<bzg>egarement du coeur</bzg> dt. Wandern des Herzens, vgl. <intlink letter="420" page="123" line="32" linktext="true" /> 
+<marginal letter="421" page="126" line="37" sort="1">
+<bzg>3 Briefe an Spalding…</bzg> vgl. <intlink letter="420" page="123" line="32" linktext="true" /> 
 </marginal>
 
 <marginal letter="421" page="127" line="2" sort="1">
@@ -52009,7 +52017,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="127" line="7">
-<bzg>Briefe</bzg> Brief Nr. 419
+<bzg>Briefe</bzg> <intlink letter="419" page="120" line="26" linktext="true" />
 </marginal>
 
 <marginal letter="421" page="127" line="8">
@@ -52021,7 +52029,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="127" line="13">
-<bzg>HE Rappolt</bzg> Christian Samuel Rappolt (gest. 1781), Kaufmann, Schwager von <link ref="hartknoch" linktext="true" />
+<bzg>HE Rappolt</bzg> <link ref="rappolt-cs" linktext="true" />
 </marginal>
 
 <marginal letter="421" page="127" line="14">
@@ -52036,6 +52044,10 @@ Brief Nr. 421
 <bzg>Jedermanns Ding</bzg> nach <link ref="nt-th2" subref="nt-th2-3" linktext="false">2 Thess 3,2</link>  
 </marginal>
 
+<marginal letter="421" page="127" line="17">
+<bzg>kleine Buchstabe h</bzg> Hamann, nach <link ref="hamann" subref="hamann-h" linktext="true" />
+</marginal>
+
 <marginal letter="421" page="127" line="18">
 <bzg>in spe beatus</bzg> dt. in glücklicher Hoffnung
 </marginal>
@@ -52045,11 +52057,11 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="127" line="20">
-<bzg>q in Mitau</bzg> wahrscheinlich <link ref="hinz" linktext="true" /> in Mitau, heute Jelgava [56° 39′ N, 23° 43′ O] (40&#x202F;km südwestlich von Riga); als q[uidam]
+<bzg>q in Mitau</bzg> <link ref="hinz" linktext="true" /> in Mitau, als quidam
 </marginal>
 
 <marginal letter="421" page="127" line="21">
-<bzg>Papiermüller</bzg> <link ref="kanter" linktext="true" /> in Trutenau, 15km nördlich von Königsberg
+<bzg>Papiermüller</bzg> <link ref="kanter" linktext="true" /> in Trutenau, 15 km nördlich von Königsberg
 </marginal>
 
 <marginal letter="421" page="127" line="22">
