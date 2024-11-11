@@ -51575,7 +51575,7 @@ Brief Nr. 419
 </marginal>
 
 <marginal letter="419" page="120" line="3">
-<bzg>Apollonii</bzg> Leser wie <link ref="kant" linktext="true" />, nach dem Titel von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+<bzg>Apollonii</bzg> Leser wie <link ref="kant" linktext="true" />, nach dem Titel von <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> (siehe auch <link ref="zacchaeus-c" linktext="true" />)
 </marginal>
 
 <marginal letter="419" page="120" line="5">
@@ -52233,35 +52233,35 @@ Brief Nr. 424
 </marginal>
 
 <marginal letter="424" page="129" line="32">
-<bzg>Consultationum Zacchaei Christiani …</bzg> vgl. zu <link ref="zacchaeus-c" linktext="true" />
-</marginal>
-
-<marginal letter="424" page="130" line="1">
-<bzg>d’Achery nach der neuesten Ausgabe in fol. v. 723</bzg> <link ref="achery-specilegium" linktext="true" />
+<bzg>Consultationum Zacchaei Christiani…</bzg> vgl. zu <link ref="zacchaeus-c" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="2">
+<bzg>d’Achery nach der neuesten Ausgabe in fol. v. 723</bzg> <link ref="achery-specilegium" linktext="true" />
+</marginal>
+
+<marginal letter="424" page="130" line="3">
 <bzg>Schloß Bibliotheque</bzg> Die Universitätsbibliothek war eine der größten protestantischen Bibliotheken des 16. Jahrhunderts; sie übernahm auch die Nachlässe der Königsberger Professoren. Im Jahr 1789 umfasste sie rund 16000 Bände. Sie befand sich zwischen Schlosskirche und Schlossturm in zwei Räumen und war an zwei Tagen in der Woche für drei Stunden geöffnet.
 </marginal>
 
-<marginal letter="424" page="130" line="4">
-<bzg>Tillemont … Euagrium</bzg>M. de Tillemont croit Euagrius
-qui vivoit l'an 400 de J. C. auteur des Consultation de Zachée et d'Apollonius ?!?
+<marginal letter="424" page="130" line="4" sort="1">
+<bzg>Tillemont</bzg> <link ref="tillemont" linktext="true" />
+</marginal>
+
+<marginal letter="424" page="130" line="4" sort="2">
+<bzg>Euagrium</bzg> <link ref="euagrios" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="5">
-<bzg>S. Tessini gelehrte Geschichte …</bzg> Tassin, René (1697- 1777), frz. Benediktiner
-Histoire littéraire de la Congrégation de Saint- Maur, ordre de S. Benoît. Brüssel 1770.
-Dom Renatus Taßins, Mitglieds und Priesters der Congregation von St. Maur und vornehmsten Verfassers
-des neuen Lehrgebäudes der Diplomatick, Gelehrtengeschichte der Congregation von St. Maur,
-Benediktinerordens . A. d. Frz. 2 Bde. 1773/4. ?!?
+<bzg>Tessini…</bzg> Der Eintrag zu <link ref="achery" linktext="false">d’Achery</link> in <link ref="tassin" subref="tassin-histoire" linktext="true" />, Bd.&#x202F;1 geht von S.&#x202F;155–180; auf S.&#x202F;174 heißt es: „Tillemont meynt, der Verfasser der Berathschlagungen des Zachäus und Apollonius sey Evagrius, der im Jahr 400. nach J. Christi Geburt gelebet.“
 </marginal>
 
 <marginal letter="424" page="130" line="7">
-<bzg>Dom Paul de Gallois … Velum veli DEI</bzg> Le gout du P. de Gallois pour les
-proses carrées se manifeste encore dans celle qu'il fit imprimer sous le titre de velum
-veli Dei. Le sujet est une Relique de monastère de Notre- Dame de Bonne nouvelle à
-Rouen. ?!?
+<bzg>Dom Paul de Gallois…</bzg> vgl. <link ref="tassin" subref="tassin-histoire" linktext="true" />, S.&#x202F;246: „Der Geschmack des P. le Gallois an den Innschriften äußert sich auch bey derjenigen, welche er unter der Aufschrift drucken ließ: Velum veli Dei. Der Innhalt ist eine Reliquie des Klosters zu unserer lieben Frauen von Bonnenouvelle zu Rouen.“
+</marginal>
+
+<marginal letter="424" page="130" line="8">
+<bzg>Velum veli DEI</bzg> Hülle des verborgenen Gottes, vgl. <link ref="hamann" subref="hamann-prolegomena" linktext="true" />, N III,126,35; Herder fragte danach, vgl. <intlink letter="419" page="120" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="11">
@@ -52269,11 +52269,11 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="12">
-<bzg>Trutenau</bzg> 15km nördlich von Königsberg
+<bzg>Trutenau</bzg> 15&#x202F;km nördlich von Königsberg
 </marginal>
 
 <marginal letter="424" page="130" line="18">
-<bzg>Mamamuschi … Gentilhomme bourgeois des Moliere</bzg> erfundener gesellschaftlicher Stand in <link ref="moliere" subref="moliere-bourgeois" linktext="true" /> 
+<bzg>Mamamuschi…</bzg> erfundener gesellschaftlicher Stand in <link ref="moliere" subref="moliere-bourgeois" linktext="true" />; Herder fragte danach, vgl. <intlink letter="419" page="120" line="7" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="19">
@@ -52281,19 +52281,23 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="20">
-<bzg>Gumb. und Marienw.</bzg> Gumb.[innen] (Gussew) und Marienw.[erder] (heute Kwidzyn)
+<bzg>Gumb. und Marienw.</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />, Marienwerder (heute Kwidzyn) und Gumbinnen (heute Gussew)
 </marginal>
 
 <marginal letter="424" page="130" line="21">
 <bzg>Heinr. Schröder</bzg> der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />
 </marginal>
 
-<marginal letter="424" page="130" line="22">
+<marginal letter="424" page="130" line="22" sort="1">
+<bzg>Ritter von Rosenkreutz</bzg> nach <link ref="hamann" subref="hamann-rosencreuz" linktext="true" />
+</marginal>
+
+<marginal letter="424" page="130" line="22" sort="2">
 <bzg>Baßa</bzg> <link ref="bassa" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="24">
-<bzg>Zeitungsschreiber</bzg> Hamann meint sich selbst
+<bzg>Zeitungsschreiber</bzg> Hamann selbst, als Beiträger und ehemaliger Redakteur der <link ref="konigsbergsche-gelehrte-p-z" linktext="false">Königsbergschen Gelehrten und Politischen Zeitungen</link>
 </marginal>
 
 <marginal letter="424" page="130" line="26">
@@ -52309,7 +52313,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="30">
-<bzg>hujus von D. und Hofpr. Lindner</bzg> huius, d.i. diesen [Monats]; <link ref="lindner-jg" linktext="true" />
+<bzg>hujus von D. und Hofpr. Lindner</bzg> huius, d.i. diesen Monats; <link ref="lindner-jg" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="32">
@@ -52317,7 +52321,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="130" line="33">
-<bzg>Claudius zu Vlubris</bzg> nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, I,11,29f
+<bzg>Claudius zu Vlubris</bzg> <link ref="claudius" linktext="true" />, nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, I,11,29f
 </marginal>
 
 <marginal letter="424" page="130" line="34">
@@ -52329,7 +52333,7 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="424" page="131" line="2">
-<bzg>Hartkn. Hochzeit</bzg> <link ref="hartknoch" linktext="true" /> und <link ref="hartknoch-a" linktext="true" /> am 13. September 1774
+<bzg>Hartkn. Hochzeit</bzg> <link ref="hartknoch" linktext="true" /> und <link ref="hartknoch-a" linktext="true" /> heirateten am 13. September 1774.
 </marginal>
 
 <marginal letter="424" page="131" line="5">
