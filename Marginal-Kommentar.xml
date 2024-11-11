@@ -52138,7 +52138,7 @@ Brief Nr. 423
 </marginal>
 
 <marginal letter="423" page="128" line="30">
-<bzg>Mamamuschi</bzg> erfundener gesellschaftlicher Stand in <link ref="moliere" subref="moliere-bourgeois" linktext="true" /> 
+<bzg>Mamamuschi</bzg> erfundener gesellschaftlicher Stand in <link ref="moliere" subref="moliere-bourgeois" linktext="true" />, vgl. <intlink letter="424" page="130" line="18" linktext="true" />
 </marginal>
 
 <marginal letter="423" page="128" line="31" sort="1">
@@ -52147,10 +52147,6 @@ Brief Nr. 423
 
 <marginal letter="423" page="128" line="31" sort="2">
 <bzg>Schulhalter Schr.</bzg> <link ref="schroder-h" linktext="true" />, der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />
-</marginal>
-
-<marginal letter="423" page="128" line="32">
-<bzg>Moliere Gentilhomme bourgeois</bzg> <link ref="moliere" subref="moliere-bourgeois" linktext="true" />, vgl. <intlink letter="424" page="130" line="18" linktext="true" />
 </marginal>
 
 <marginal letter="423" page="128" line="33">
@@ -52217,31 +52213,35 @@ Brief Nr. 424
 </marginal>
 
 <marginal letter="424" page="129" line="22">
-<bzg>Briefe</bzg> Briefe 419 und 420
+<bzg>Briefe</bzg> <intlink letter="419" page="119" line="12" linktext="false">HKB 419</intlink> und <intlink letter="420" page="122" line="31" linktext="false">HKB 420</intlink>
 </marginal>
 
 <marginal letter="424" page="129" line="23">
-<bzg>Riga</bzg> von <link ref="berens-g" linktext="true" />, vgl. <intlink letter="419" page="121" line="17" linktext="true" />
+<bzg>Riga</bzg> vmtl. von <link ref="berens-g" linktext="true" />, vgl. <intlink letter="419" page="121" line="17" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="129" line="29">
 <bzg>Abus</bzg> dt. Mißbrauch
 </marginal>
 
-<marginal letter="424" page="129" line="30">
-<bzg>Dom p T. die Prolegomena</bzg> Dominica post Trinitatis, dt. Sonntag nach Trinitatis; <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
+<marginal letter="424" page="129" line="30" sort="1">
+<bzg>XXIV Dom p T.</bzg> Dominica post Trinitatis, dt. 24. Sonntag nach Trinitatis (13. November 1774), vgl. <intlink letter="419" page="119" line="13" linktext="true" />
+</marginal>
+
+<marginal letter="424" page="129" line="30" sort="2">
+<bzg>Prolegomena</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="129" line="32">
-<bzg>Consultationum Zacchaei Christiani …</bzg> <link ref="achery" subref="achery-zachae" linktext="true" />
+<bzg>Consultationum Zacchaei Christiani …</bzg> vgl. zu <link ref="zacchaeus-c" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="1">
-<bzg>d’Achery nach der neuesten Ausgabe in fol. v. 723</bzg> <link ref="achery" subref="achery-veterum" linktext="true" /> 
+<bzg>d’Achery nach der neuesten Ausgabe in fol. v. 723</bzg> <link ref="achery-specilegium" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="2">
-<bzg>Schloß Bibliotheque</bzg> Die Universitätsbibliothek ist einer der größten protestantischen Bibliotheken des 16. Jahrhunderts; sie übernimmt auch die Nachlässe der Königsberger Professoren. Im Jahr 1789 umfasst sie rund 16000 Bände.  Sie befindet sich zwischen Schlosskirche und Schloßturm in zwei Räumen; sie ist an zwei Tagen die Woche für drei Stunden geöffnet.
+<bzg>Schloß Bibliotheque</bzg> Die Universitätsbibliothek war eine der größten protestantischen Bibliotheken des 16. Jahrhunderts; sie übernahm auch die Nachlässe der Königsberger Professoren. Im Jahr 1789 umfasste sie rund 16000 Bände. Sie befand sich zwischen Schlosskirche und Schlossturm in zwei Räumen und war an zwei Tagen in der Woche für drei Stunden geöffnet.
 </marginal>
 
 <marginal letter="424" page="130" line="4">

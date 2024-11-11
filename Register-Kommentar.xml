@@ -73,18 +73,13 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 </kommentar>
 
 <kommentar id="achery" type="neuzeit">
-<lemma>Dom Jean Luc de Achery</lemma>
-<eintrag>1609–1685. Frz. Benediktiner. 
+<lemma>Jean Luc d’Achery</lemma>
+<eintrag>1609–1685. Frz. Benediktiner, Bibliothekar und Kirchenhistoriker, siehe <wwwlink address="https://d-nb.info/gnd/10009872X">GND</wwwlink>.
 </eintrag>
-<subsection id="achery-veterum" type="neuzeit" sort="10">
-<lemma>Achery, <titel>Veterum aliquot scriptorum, qui in Galliae bibliothecis</titel></lemma>
+<subsection id="achery-specilegium" type="neuzeit" sort="10">
+<lemma>Achery, <titel>Specilegium</titel></lemma>
 <eintrag>
-<titel>Veterum aliquot scriptorum, qui in Galliae bibliothecis, maxime Benedictinorum latuerant, spicilegium.</titel> 13 Bde., Paris 1655-77.</eintrag>
-</subsection>
-<subsection id="achery-zachaei" type="neuzeit" sort="20">
-<lemma>Achery, <titel>Consultationum Zachaei Christiani et Apollonii Philosophi</titel></lemma>
-<eintrag>
-<titel>Consultationum Zachaei Christiani et Apollonii Philosophi libri tres. 1671.</titel></eintrag>
+<titel>Specilegium sive collectio veterum aliquot scriptorum qui in Galliae bibliothecis delituerant</titel> (13 Bde., Paris 1655–1677). Digitalisat der Ausgabe Paris 1723: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11439762-9">Stabi Bamberg: Coll.script.f.1(1</wwwlink>. – Vgl. <link ref="zacchaeus-c" linktext="true" /></eintrag>
 </subsection>
 </kommentar>
 
@@ -16512,6 +16507,16 @@ Der englische Text wird hier zitiert nach der vom Autor überarbeiteten Neuaufla
 
 
 Z
+
+
+
+<kommentar id="zacchaeus-c" type="neuzeit">
+<lemma>Christianus Zacchaeus</lemma>
+<eintrag>Einer der Dialogpartner in dem spätantiken christlichen Dialog <titel>Consultationes Zacchei christiani et Apollonii philosophi</titel> (anonym; vgl. dazu <wwwlink address="https://boris.unibe.ch/id/eprint/165403">Rahel Schär: <titel>Consultationes Zacchei christiani et Apollonii philosophi: A Literary Dialogue Arguing for Monasticism.</titel> In: Studia patristica CXXIV (2021), S.&#x202F;181–190</wwwlink>).<line type="break" />
+Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii philosophi libri tres</titel> in <link ref="achery" subref="achery-specilegium" linktext="false">d’Acherys <titel>Specilegium</titel> (1723), S.&#x202F;1–41</link> in der Königsberger Universitätsbibliothek (vgl. <intlink letter="424" page="129" line="32" linktext="true" />) und verwendete Christianus Zacchaeus als fingierten Autor seiner <link ref="hamann" subref="hamann-prolegomena" linktext="false"><titel>Prolegomena</titel></link>.
+</eintrag>
+</kommentar>
+
 <kommentar id="zachariae" type="neuzeit">
 <lemma>Just Friedrich Wilhelm Zachariae</lemma>
 <eintrag>1726–1777. Prof. der Dichtkunst am Collegium Carolinum in Braunschweig, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118808230.html#adbcontent">Schüddekopf, Carl: Zachariae, Justus Friedrich Wilhelm, in: <titel>ADB</titel>&#x202F;44 (1898), S.&#x202F;634–641</wwwlink>.
