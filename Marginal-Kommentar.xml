@@ -52053,7 +52053,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="127" line="19">
-<bzg>Wittwe</bzg> Regine Toussaint, seit 1774 verwitwet
+<bzg>Wittwe</bzg> <link ref="toussaint-r" linktext="true" />, seit 1774 verwitwet
 </marginal>
 
 <marginal letter="421" page="127" line="20">
@@ -52079,8 +52079,8 @@ Brief Nr. 422
 <bzg>Claudius</bzg> <link ref="claudius" linktext="true" />, nicht überliefert
 </marginal>
 
-<marginal letter="422" page="127" line="30">
-<bzg>Xbre</bzg> Dezember
+<marginal letter="422" page="127" line="31">
+<bzg>kleinen lieben Tochter</bzg> <link ref="hamann-mc" linktext="true" />
 </marginal>
 
 <marginal letter="422" page="127" line="33">
@@ -52108,7 +52108,7 @@ Brief Nr. 422
 </marginal>
 
 <marginal letter="422" page="128" line="14">
-<bzg>Vossischen Versuch</bzg> vgl. <intlink letter="421" page="126" line="3" linktext="true" />
+<bzg>Vossischen Versuch</bzg> <link ref="hippel" subref="hippel-ehe" linktext="true" />, vgl. <intlink letter="421" page="126" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="422" page="128" line="18">
@@ -52130,11 +52130,11 @@ Brief Nr. 423
 </marginal>
 
 <marginal letter="423" page="128" line="28">
-<bzg>in W. P.</bzg> in W.[est] P.[reußen]; <link ref="kanter" linktext="true" /> 
+<bzg>in W. P.</bzg> in West Preußen, <link ref="kanter" linktext="true" /> 
 </marginal>
 
-<marginal letter="423" page="128" line="29">
-<bzg>p. 40 lin. pen.</bzg> pagina 40 lin.[ea] pen.[ultima]; dt. vorletzte Zeile
+<marginal letter="423" page="128" line="29" sort="2">
+<bzg>p. 40 lin. pen.</bzg> pagina 40 linea penultima, dt. vorletzte Zeile; <link ref="hamann" subref="hamann-h" linktext="true" />, ED, S.&#x202F;40
 </marginal>
 
 <marginal letter="423" page="128" line="30">
@@ -52146,15 +52146,23 @@ Brief Nr. 423
 </marginal>
 
 <marginal letter="423" page="128" line="31" sort="2">
-<bzg>Schulhalter Schr.</bzg> der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />, vgl. <link ref="schroder-h" linktext="true" />
+<bzg>Schulhalter Schr.</bzg> <link ref="schroder-h" linktext="true" />, der fingierte Autor von <link ref="hamann" subref="hamann-h" linktext="true" />
 </marginal>
 
 <marginal letter="423" page="128" line="32">
-<bzg>Moliere Gentilhomme bourgeois</bzg> <link ref="moliere" subref="moliere-bourgeois" linktext="true" /> 
+<bzg>Moliere Gentilhomme bourgeois</bzg> <link ref="moliere" subref="moliere-bourgeois" linktext="true" />, vgl. <intlink letter="424" page="130" line="18" linktext="true" />
 </marginal>
 
 <marginal letter="423" page="128" line="33">
-<bzg>Kr. v. Domainen Kammern zu K. M. u. G.</bzg> vgl. <intlink letter="424" page="130" line="20" linktext="true" />
+<bzg>Kr. v. Domainen Kammern zu K. M. u. G.</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />, Marienwerder und Gumbinnen, vgl. <intlink letter="424" page="130" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="423" page="129" line="1">
+<bzg>Canal Jordan</bzg> wohl metonymisch für den Pregel; oder im Zusammenhang von Monsieur Jourdain, der Hauptfigur in <link ref="moliere" subref="moliere-bourgeois" linktext="true" />
+</marginal>
+
+<marginal letter="423" page="129" line="2">
+<bzg>Stuttereyen</bzg> Gestüte, Betriebe zur Pferdezucht
 </marginal>
 
 <marginal letter="423" page="129" line="3">
@@ -52162,7 +52170,7 @@ Brief Nr. 423
 </marginal>
 
 <marginal letter="423" page="129" line="4">
-<bzg>Tristram Bode</bzg> <link ref="bode-jjc" linktext="true" />; hat <link ref="sterne" subref="sterne-shandy" linktext="true" /> übersetzt
+<bzg>Tristram Bode</bzg> <link ref="bode-jjc" linktext="true" />, nach dessen Übersetzung von <link ref="sterne" subref="sterne-shandy" linktext="true" />
 </marginal>
 
 <marginal letter="423" page="129" line="5">
@@ -52178,15 +52186,15 @@ Brief Nr. 423
 </marginal>
 
 <marginal letter="423" page="129" line="9">
-<bzg>der jungen Frau und lieben Wittwe</bzg> <link ref="hartknoch-a" linktext="true" /> und Regine Toussaint, seit 1774 verwitwet
+<bzg>der jungen Frau und lieben Wittwe</bzg> <link ref="hartknoch-a" linktext="true" /> und <link ref="toussaint-r" linktext="true" />
 </marginal>
 
 <marginal letter="423" page="129" line="10">
-<bzg>Sibylle mit einer Magdalene</bzg> <link ref="schumacher-ar" linktext="true" /> und die neugeborene Tochter <link ref="hamann-mc" linktext="true" /> 
+<bzg>Sibylle mit einer Magdalene</bzg> <link ref="schumacher-ar" linktext="true" /> (nach <link ref="hamann" subref="hamann-ehe" linktext="true" />) und die neugeborene Tochter <link ref="hamann-mc" linktext="true" /> 
 </marginal>
 
 <marginal letter="423" page="129" line="11">
-<bzg>Sauvage du Nord</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />  
+<bzg>Sauvage du Nord</bzg> Hamann, nach <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />  
 </marginal>
 
 <marginal letter="423" page="129" line="12">
@@ -52194,7 +52202,7 @@ Brief Nr. 423
 </marginal>
 
 <marginal letter="423" page="129" line="13">
-<bzg>Relatione curiosa</bzg> <link ref="happel" subref="happel-welt" linktext="true" /> 
+<bzg>Relatione curiosa</bzg> nach <link ref="happel" subref="happel-welt" linktext="true" /> 
 </marginal>
 
 <marginal letter="423" page="129" line="15">
