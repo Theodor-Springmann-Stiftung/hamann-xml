@@ -7021,7 +7021,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <titel>Makulatur zum bewußten Gebrauch</titel> (Königsberg: Kanter 1762) [Biga&#x202F;199/109: „Maculatur zum bewußten Gebrauche, Königsberg 762“].</eintrag>
 </subsection>
 <subsection id="hinz-freimaurer" type="neuzeit" sort="30">
-<lemma>Hinz, <titel>Freimäurerreden</titel></lemma>
+<lemma>Hinz, [wohl mit <link ref="hippel" linktext="true" />] <titel>Freimäurerreden</titel></lemma>
 <eintrag>
 <titel>Freimäurerreden</titel> (Königsberg 1768), vgl. <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>.</eintrag>
 </subsection>
@@ -7052,10 +7052,9 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <titel>Galimafreen nach dem heutigen Geschmack</titel> (Königsberg: Kanter 1761) [Biga&#x202F;141/195: „Galimafre, Könb. 761“].</eintrag>
 </subsection>
 <subsection id="hippel-makulatur" type="neuzeit" sort="20">
-<lemma>Hippel, zus. mit <link ref="hinz" linktext="true" />, <titel>Makulatur zum bewußten Gebrauch</titel></lemma>
+<lemma>Hippel, [mit <link ref="hinz" linktext="true" />] <titel>Makulatur zum bewußten Gebrauch</titel></lemma>
 <eintrag>
 <titel>Makulatur zum bewußten Gebrauch</titel> (Königsberg: Kanter 1762) [Biga&#x202F;199/109: „Maculatur zum bewußten Gebrauche, Königsberg 762“].</eintrag>
-</subsection>
 <subsection id="hippel-rhapsodie" type="neuzeit" sort="30">
 <lemma>Hippel, <titel>Rhapsodie</titel></lemma>
 <eintrag>
@@ -7067,6 +7066,12 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <eintrag>
 <titel>Der Funckschen Gruft im Namen einiger Freunde gewidmet</titel> (Königsberg: Kanter 1764).
 </eintrag>
+</subsection>
+</subsection>
+<subsection id="hippel-freimaurer" type="neuzeit" sort="45">
+<lemma>Hinz, [wohl mit <link ref="hinz" linktext="true" />] <titel>Freimäurerreden</titel></lemma>
+<eintrag>
+<titel>Freimäurerreden</titel> (Königsberg: Kanter 1768).</eintrag>
 </subsection>
 <subsection id="hippel-uhr" type="neuzeit" sort="50">
 <lemma>Hippel, <titel>Der Mann nach der Uhr</titel></lemma>
