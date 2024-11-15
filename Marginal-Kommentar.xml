@@ -50150,7 +50150,7 @@ Brief Nr. 408
 </marginal>
 
 <marginal letter="408" page="96" line="26">
-<bzg>Verlegern ... Mitauschen Professoren</bzg> Vll. geht es um Planungen für eine Stelle am akademischen Gymnasium in Mitau, für die der dortige Prof. <link ref="hartmann-gd" linktext="true" /> sowie die Verleger <link ref="hartknoch" linktext="true" /> und <link ref="hinz" linktext="true" /> bspw. auch um Herder warben. 
+<bzg>Verlegern ... Mitauschen Professoren</bzg> Vll. geht es um Planungen für eine Stelle am akademischen Gymnasium in Mitau, für die der dortige Prof. <link ref="hartmann-gd" linktext="true" /> (vll. auch <link ref="koppe" linktext="true" />) sowie die Verleger <link ref="hartknoch" linktext="true" /> und <link ref="hinz" linktext="true" /> bspw. auch um Herder warben. 
 </marginal>
 
 <marginal letter="408" page="96" line="28" sort="1">
@@ -50454,7 +50454,7 @@ Brief Nr. 410
 </marginal>
 
 <marginal letter="410" page="101" line="2">
-<bzg>Christian Zacchaeus […] Telonarcha</bzg> nach dem fingierten Autor von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+<bzg>Christian Zacchaeus […] Telonarcha</bzg> der fingierte Autor von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal>
 
 <marginal letter="410" page="101" line="4">
@@ -50510,7 +50510,7 @@ Brief Nr. 410
 </marginal>
 
 <marginal letter="410" page="101" line="30">
-<bzg>neuer Namenstag</bzg> nach dem Namenstag des Zachäus am 23. August, dem fingiertem Autor von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+<bzg>neuer Namenstag</bzg> nach dem Namenstag des Zachäus am 23. August, dem fingierten Autor von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal>
 
 <marginal letter="410" page="101" line="34">
@@ -50596,12 +50596,11 @@ Brief Nr. 411
 </marginal>
 
 <marginal letter="411" page="103" line="7">
-<bzg>Recension worauf der liebe Commissions Rath Asmus zielt</bzg> Hamann geht wohl auf Claudius’ Bemerkung in seiner Rezension von <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> in  <link ref="claudius" subref="claudius-bothe" linktext="true" />, Nr.&#x202F;92 vom 10.6.1774, S.&#x202F;3 ein: „[…] zumal wir aus eines Herrn Collegen Spruch, dem ersten und einzigen der uns über die ‚Urkunde‘ bisher zu Gesicht gekommen ist, ersehen, daß darin viel Finsterniß und Dunkel seyn soll.“
-[Henkel löschen?!? »vermutlich mit der Anzeige der Preisschrift, im Wandsbecker Bothen 1772, 130/131, der reserviertesten seiner Herder- Rezensionen; zum Verhältnis Claudius- Herder vgl J.- U. FECHNER (Hg), Matthias Claudius 1740- 1815. Leben. Zeit. Werk, Tübingen 1996.« Fechner/Claudius-Bd. bestellt] 
+<bzg>Recension worauf der liebe Commissions Rath Asmus zielt</bzg> Hamann meint wohl Claudius’ Bemerkung in seiner Rezension von <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> im  <link ref="claudius" subref="claudius-bothe" linktext="false"><titel>Wandsbecker Boten</titel></link>, Nr.&#x202F;92 vom 10.6.1774, S.&#x202F;3: „[…] zumal wir aus eines Herrn Collegen Spruch, dem ersten und einzigen der uns über die ‚Urkunde‘ bisher zu Gesicht gekommen ist, ersehen, daß darin viel Finsterniß und Dunkel seyn soll.“
 </marginal>
 
 <marginal letter="411" page="103" line="8">
-<bzg>einige Stücke nachher…</bzg> In <link ref="kielische-gelehrte-zeitung" linktext="true" />, 38.&#x202F;St. vom 14.5.1774, S.&#x202F;304 wird in einem kurzen Beitrag zugleich Herders Autorschaft an der <link ref="herder" subref="herder-altesteurkunde" linktext="false"><titel>Aeltesten Urkunde</titel></link> und Hamanns am <link ref="hamann" subref="hamann-h" linktext="false"><titel>Buchstaben H</titel></link> und weiteren offengelegt.
+<bzg>einige Stücke nachher…</bzg> In <link ref="kielische-gelehrte-zeitung" linktext="true" />, 38.&#x202F;St. vom 14.5.1774, S.&#x202F;304 wird in einem kurzen Beitrag zugleich Herders Autorschaft an der <link ref="herder" subref="herder-altesteurkunde" linktext="false"><titel>Aeltesten Urkunde</titel></link> und Hamanns am <link ref="hamann" subref="hamann-h" linktext="false"><titel>Buchstaben H</titel></link> und weiteren Texten offengelegt.
 </marginal>
 
 <marginal letter="411" page="103" line="10">
@@ -50609,7 +50608,7 @@ Brief Nr. 411
 </marginal>
 
 <marginal letter="411" page="103" line="12">
-<bzg>Judittschen Mühle</bzg> Juditten war ein Vorort westlich von Königsberg, heute als Mendelejewo Stadtteil von Kaliningrad
+<bzg>Judittschen Mühle</bzg> Juditten war ein Vorort westlich von Königsberg, heute als Mendelejewo Stadtteil von Kaliningrad.
 </marginal>
 
 <marginal letter="411" page="103" line="14">
@@ -50617,11 +50616,7 @@ Brief Nr. 411
 </marginal>
 
 <marginal letter="411" page="103" line="20">
-<bzg>K. und W…</bzg> Künste und Wissenschaften, in <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, ED 154; vgl. <intlink letter="412" page="106" line="34" linktext="true" />; merkwürdigerweise in einer Anmerkung zu <link ref="goguet" subref="goguet-origine" linktext="true" />, das Hamann kannte
-</marginal>
-
-<marginal letter="411" page="103" line="21" sort="1">
-<bzg>Kant u Wieland</bzg> <link ref="kant" linktext="true" />, <link ref="wieland" linktext="true" />
+<bzg>K. und W…</bzg> Künste und Wissenschaften, im Titel von <link ref="goguet" subref="goguet-origine" linktext="true" />, auf den Herder verweist in der <link ref="herder" subref="herder-altesteurkunde" linktext="false"><titel>Ältesten Urkunde</titel></link>, ED 154; vgl. <intlink letter="412" page="106" line="34" linktext="true" />. Dass Hamann hier auf <link ref="kant" linktext="true" />, <link ref="wieland" linktext="true" /> kommt, deutet auf eine ziemlich wirre Lektüre.
 </marginal>
 
 <marginal letter="411" page="103" line="21" sort="2">
@@ -50673,7 +50668,7 @@ Brief Nr. 411
 </marginal>
 
 <marginal letter="411" page="104" line="2">
-<bzg>verbesert</bzg> Hamann war gegenüber Claudius offenbar erbost, weil dieser das Manuskript des <link ref="hamann" subref="hamann-mancherley" linktext="false"><titel>Mancherley und Etwas</titel></link> nicht sogleich an Bode weiterreichte, vgl. <intlink letter="417a" page="1" line="1" linktext="true" />; tatsächlich war aber Bode für die Verzögerung der Drucklegung verantwortlich, vgl. <intlink letter="418" page="117" line="26" linktext="true" />
+<bzg>verbesert</bzg> Hamann war über Claudius offenbar erbost, weil dieser das Manuskript von <link ref="hamann" subref="hamann-mancherley" linktext="false"><titel>Mancherley und Etwas</titel></link> nicht sogleich an Bode weiterreichte, vgl. <intlink letter="417a" page="1" line="1" linktext="true" />. Tatsächlich war aber Bode für die Verzögerung der Drucklegung verantwortlich, vgl. <intlink letter="418" page="117" line="26" linktext="true" />.
 </marginal>
 
 <marginal letter="411" page="104" line="6">
@@ -50701,15 +50696,15 @@ Brief Nr. 411
 </marginal>
 
 <marginal letter="411" page="104" line="16">
-<bzg>kreißenden Berge</bzg> <link ref="horaz" subref="horaz-poetica" linktext="true" />, 139 zurückgehende Redensart („Parturient montes, nascetur ridiculus mus“, dt. der Berg kreißte und gebahr eine lächerliche Maus)
+<bzg>kreißenden Berge</bzg> Auf <link ref="horaz" subref="horaz-poetica" linktext="true" />, 139 zurückgehende Redensart: „Parturient montes, nascetur ridiculus mus“, dt. der Berg kreißte und gebahr eine lächerliche Maus.
 </marginal>
 
 <marginal letter="411" page="104" line="20">
-<bzg>Naber Flink</bzg> niederdt. flinker Nachbar (vgl. <link ref="tiling-e" subref="tiling-versuch" linktext="true" />, Bd.&#x202F;1, S.&#x202F;422 und Bd.&#x202F;3, S.&#x202F;211 im Kontext von Hamanns Nachahmung von Claudius’ niederdeutscher Schreibweise in <link ref="hamann" subref="hamann-mancherley" linktext="true" />. Naber Flink ist wohl eine Typenbezeichnung, so etwa in dem Auftritt von <link ref="friedrich-II" linktext="true" /> als „Naber Flink“ in der niederdeutschen Bauernposse <wwwlink address="http://dx.doi.org/10.25673/78386"><titel>Ernsthafte vertrauliche Bauern-Gespräche (Berlin 1757/58)</titel></wwwlink>; in diesen gelingen ihm unter der Maske des Bauern „Naber Flink“ siegreiche Spitzen gegen die ebenfalls als Bäuerinnen auftretenden Herrscherinnen von Russland und Österreich (entstanden als profridericianische Publikation während der russischen Besatzung, die Hintergründe werden in <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10013015-1">Carl Eduard Geppert: Chronik von Berlin von Entstehung der Stadt an bis heute, Bd.&#x202F;3 (Berlin 1841), S.&#x202F;157</wwwlink> erläutert)
+<bzg>Naber Flink</bzg> niederdt. flinker Nachbar (vgl. <link ref="tiling-e" subref="tiling-versuch" linktext="true" />, Bd.&#x202F;1, S.&#x202F;422 und Bd.&#x202F;3, S.&#x202F;211). Hamann ahmt damit in <link ref="hamann" subref="hamann-mancherley" linktext="false"><titel>Mancherley und Etwas</titel></link> Claudius’ niederdeutscher Schreibweise nach. Naber Flink ist wohl eine Typenbezeichnung, so etwa in dem Auftritt von <link ref="friedrich-II" linktext="true" /> als „Naber Flink“ in der niederdeutschen Bauernposse <wwwlink address="http://dx.doi.org/10.25673/78386"><titel>Ernsthafte vertrauliche Bauern-Gespräche</titel></wwwlink> (Berlin 1757/58). Darin gelingen ihm unter der Maske des Bauern „Naber Flink“ siegreiche Spitzen gegen die ebenfalls als Bäuerinnen auftretenden Herrscherinnen von Russland und Österreich.
 </marginal>
 
 <marginal letter="411" page="104" line="22">
-<bzg>Naber mit Rath</bzg> niederdt. Nachbar mit Rat, vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584356-6">Johann Friedrich Schütze: Holsteinisches Idiotikon (Hamburg 1802), Bd.&#x202F;3, S.&#x202F;130:</wwwlink> „Naber mit Raad (Hamb. alt.): vom guten Rath sprwtlich gebraucht, den man nicht weit zu suchen hat.“ – Mglw. ein indirektes Zitat aus der nicht überlieferten Korrespondenz mit Matthias Claudius; dieser verwendete den „Naber mit Rath“ jedenfalls 1805 im Titel eines niederdeutschen Traktats, vgl. Dieter Andresen: <titel>Matthias Claudius’ Schrift An den Naber mit Rat sprach- und theologiegeschichtlich</titel>, in: Jörg-Ulrich Fechner (Hg.), Matthias Claudius 1740–1815 (Tübingen 1996), S.&#x202F;265–275.
+<bzg>Naber mit Rath</bzg> niederdt. Nachbar mit Rat, vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584356-6">Johann Friedrich Schütze: Holsteinisches Idiotikon</wwwlink> (Hamburg 1802), Bd.&#x202F;3, S.&#x202F;130: „Naber mit Raad (Hamb. alt.): vom guten Rath sprwtlich gebraucht, den man nicht weit zu suchen hat.“ – Mglw. ein indirektes Zitat aus der nicht überlieferten Korrespondenz mit Matthias Claudius; dieser verwendete den „Naber mit Rath“ jedenfalls 1805 im Titel eines niederdeutschen Traktats, vgl. Dieter Andresen: <titel>Matthias Claudius’ Schrift An den Naber mit Rat sprach- und theologiegeschichtlich</titel>, in: Jörg-Ulrich Fechner (Hg.), Matthias Claudius 1740–1815 (Tübingen 1996), S.&#x202F;265–275.
 </marginal>
 
 <marginal letter="411" page="104" line="26">
@@ -50717,15 +50712,15 @@ Brief Nr. 411
 </marginal>
 
 <marginal letter="411" page="104" line="28">
-<bzg>κατα το ετυμον.</bzg> dt. gemäß der Wortherkunft?!?
+<bzg>κατα το ετυμον.</bzg> dt. gemäß der Wortherkunft
 </marginal>
 
 <marginal letter="411" page="104" line="30">
-<bzg>Starck</bzg> <link ref="starck" linktext="true" />, vgl. Herders handschriftliche Bemerkung
+<bzg>Starck</bzg> <link ref="starck" linktext="true" />, vgl. Herders handschriftliche Bemerkung (siehe Seitenende)
 </marginal>
 
 <marginal letter="411" page="104" line="31">
-<bzg>Hartmann</bzg> <link ref="hartmann-gd" linktext="true" />; vgl. dazu Herder an Hartknoch, 23.7.1774, HBGA, Bd.&#x202F;3, S.&#x202F;103, Z.&#x202F;45
+<bzg>Hartmann</bzg> <link ref="hartmann-gd" linktext="true" />; vgl. dazu Herder an Hartknoch, 23.7.1774, HBGA, Bd.&#x202F;3, S.&#x202F;103, Z.&#x202F;45. Die Idee, dass Herder nach Mitau gehen könnte, hatte sich spätestens im November als irrig erwiesen, vgl.  <intlink letter="419" page="120" line="36" linktext="true" />.
 </marginal>
 
 <marginal letter="411" page="104" line="37">
@@ -50750,10 +50745,6 @@ Brief Nr. 411
 
 <marginal letter="411" page="105" line="10">
 <bzg>Nicolai Brief</bzg> Henkel: »an Herder vom 13. Juni 1774 (vgl O. HOFFMANN, S. 106ff.; Haym I,613f.); Hartknoch wird H. von diesem Brief Mitteilung gemacht haben (103,28), nachdem Herder ihm, Hartknoch, unter dem 23. Juli geschrieben hatte (HBGA 3,103,51ff.): Nikel hat mir einen fulminanten Brief aus der Nachtkanne geschrieben.>, I c h habe ihm Urkunde durch Sie (mit Bitte seines Urtheils vermuthl.) zugesandt [Lüge Nicolais oder eine mißbrauchte Mutmaßung, Herder habe ihm ein über Hartknoch (?) zugekommenes Exemplar der Aeltesten Urkunde dediziert!], u. das anzüglichste, dummste etc. wars, was ihm drüber zu sagen oblag: ich hab ihm noch nicht geantwortet. Das wird Herder, nach einer längeren Reflexionspause, am 29. Juli 1774 tun und damit das Verhältnis zu Nicolai abbrechen (vgl O. HOFFMANN, S. 108ff.; HBGA 3,106ff.); was Nicolai nicht hinderte, selbstbewußt zu antworten und eine unfreundliche, die briefliche Kritik wiederholende Rezension der Aeltesten Urkunde in der ADB XXXV,1 zu bringen (HAYM I,614ff.).«?!? vgl. Herders handschriftliche Notiz
-</marginal>
-
-<marginal letter="411" page="105" line="11">
-<bzg>Potsdam u Bückeburg</bzg> wohl von <link ref="friedrich-II" linktext="true" /> und Herder
 </marginal>
 
 <marginal letter="411" page="105" line="17">
