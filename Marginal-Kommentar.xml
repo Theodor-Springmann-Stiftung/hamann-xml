@@ -51610,7 +51610,7 @@ Brief Nr. 419
 </marginal>
 
 <marginal letter="419" page="120" line="18">
-<bzg>Berlin</bzg> der Kreis um <link ref="nicolai" linktext="true" />
+<bzg>Berlin</bzg> der Kreis um <link ref="spalding" linktext="true" />, vgl. <intlink letter="420" page="123" line="23" linktext="true" />
 </marginal>
 
 <marginal letter="419" page="120" line="22">
@@ -51649,16 +51649,17 @@ Brief Nr. 419
 <bzg>Wechsel</bzg> der Wechsel von <link ref="berens-g" linktext="true" /> für Herder, vgl. <intlink letter="414" page="109" line="29" linktext="true" />
 </marginal>
 
-<marginal letter="419" page="121" line="15">
+<marginal letter="419" page="121" line="15" sort="1">
 <bzg>verrätherische Luna</bzg> Anspielung Hamanns versehentliche Öffnung und nächtliche Lektüre von Herders Brief an <link ref="hartknoch" linktext="false">Hartknoch</link>, 28.9.1765, vgl. <intlink letter="414" page="109" line="11" linktext="true" />; vgl. auch Herder an Hartknoch, 15.10.1774 (HGBA III,122): „Hamann hat bei Mondschein den Brief aufgebrochen u. Alles von Hartmann u. Berens gelesen – sonderbarer Zufall!“
 </marginal>
 
+
+<marginal letter="419" page="121" line="15" sort="2">
+<bzg>Dornhecke</bzg> <link ref="at-Mo2" subref="at-Mo2-3" linktext="false">2 Mo 3,2</link>
+</marginal>
+ 
 <marginal letter="419" page="121" line="21">
 <bzg>meliora fata</bzg> dt. besseres Schicksal 
-</marginal>
-
-<marginal letter="419" page="121" line="22">
-<bzg>fahlen Pferde</bzg> der Sorge (atra cura), d.h. die mühselige Arbeit an <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="121" line="29">
@@ -51674,7 +51675,7 @@ Brief Nr. 419
 </marginal>
 
 <marginal letter="419" page="122" line="2">
-<bzg>Anmerkungen übers Theater</bzg> <link ref="lenz" subref="lenz-anmerkungen" linktext="true" /> 
+<bzg>Anmerkungen übers Theater</bzg> korrekt: <link ref="lenz" subref="lenz-anmerkungen" linktext="true" /> 
 </marginal>
 
 <marginal letter="419" page="122" line="4">
@@ -51686,7 +51687,7 @@ Brief Nr. 419
 </marginal>
 
 <marginal letter="419" page="122" line="10">
-<bzg>Mendelsohn in Pyrmont</bzg> während seines Kuraufenthaltes vom 7. bis 21. Juli begegnete Herder <link ref="mendelssohn" linktext="true" /> zum einzigen Mal
+<bzg>Mendelsohn in Pyrmont</bzg> Während seines Kuraufenthaltes vom 7. bis 21. Juli begegnete Herder <link ref="mendelssohn" linktext="true" /> zum einzigen Mal.
 </marginal>
 
 <marginal letter="419" page="122" line="11" sort="1">
