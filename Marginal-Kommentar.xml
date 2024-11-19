@@ -52097,8 +52097,12 @@ Brief Nr. 422
 <marginal letter="422" page="127" line="33">
 <bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />
 </marginal>
+ 
+ <marginal letter="422" page="128" line="1" sort="1">
+<bzg>Mutter</bzg> <link ref="hamann-mm" linktext="true" />
+</marginal>
 
-<marginal letter="422" page="128" line="1">
+<marginal letter="422" page="128" line="1" sort="2">
 <bzg>Aspasia-Catin</bzg> <link ref="aspasia" linktext="true" />; gemeint ist <link ref="berens-ca" linktext="true" /> 
 </marginal>
 
