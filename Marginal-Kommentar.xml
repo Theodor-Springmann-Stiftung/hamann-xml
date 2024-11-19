@@ -51642,7 +51642,7 @@ Brief Nr. 419
 </marginal>
 
 <marginal letter="419" page="121" line="12">
-<bzg>Flammenasche</bzg> <link ref="horaz" subref="horaz-oden" linktext="true" />, 2,1,7f.
+<bzg>Flammenasche</bzg> <link ref="horaz" subref="horaz-oden" linktext="true" />, 2,1,7f. Herder räumt dazu ein Missverständnis aus im folgenden Brief, <intlink letter="420" page="123" line="7" linktext="true" />
 </marginal>
 
 <marginal letter="419" page="121" line="14">
@@ -51652,7 +51652,6 @@ Brief Nr. 419
 <marginal letter="419" page="121" line="15" sort="1">
 <bzg>verrätherische Luna</bzg> Anspielung Hamanns versehentliche Öffnung und nächtliche Lektüre von Herders Brief an <link ref="hartknoch" linktext="false">Hartknoch</link>, 28.9.1765, vgl. <intlink letter="414" page="109" line="11" linktext="true" />; vgl. auch Herder an Hartknoch, 15.10.1774 (HGBA III,122): „Hamann hat bei Mondschein den Brief aufgebrochen u. Alles von Hartmann u. Berens gelesen – sonderbarer Zufall!“
 </marginal>
-
 
 <marginal letter="419" page="121" line="15" sort="2">
 <bzg>Dornhecke</bzg> <link ref="at-Mo2" subref="at-Mo2-3" linktext="false">2 Mo 3,2</link>
@@ -51804,6 +51803,10 @@ Brief Nr. 420
 <marginal letter="420" page="123" line="30">
 <bzg>Heerling</bzg> Weintraube, die wegen später Blüte nicht gereift ist
 </marginal>
+ 
+ <marginal letter="420" page="123" line="31">
+<bzg>Dornbusch</bzg> <link ref="at-Mo2" subref="at-Mo2-3" linktext="false">2 Mo 3,2</link>
+</marginal>
 
 <marginal letter="420" page="123" line="32">
 <bzg>Briefe an Spald. sind ein egarement du coeur</bzg> dt. Wandern des Herzens; zu Herders Briefen an <link ref="spalding" linktext="false">Spalding</link> vgl. HBGA, Bd.&#x202F;3, S.&#x202F;97f., S.&#x202F;104–106, 118–120 und 131
@@ -51818,15 +51821,19 @@ Brief Nr. 420
 </marginal>
 
 <marginal letter="420" page="123" line="36">
-<bzg>an mich u. ich schreibe</bzg> Während seiner Kur in Pyrmont schrieb Herder ein weiteres Mal an <link ref="spalding" linktext="true" /> (2. Hälfte Juli)
+<bzg>an mich u. ich schreibe</bzg> Während seiner Kur in Pyrmont schrieb Herder ein weiteres Mal an <link ref="spalding" linktext="true" /> (2. Hälfte Juli).
 </marginal>
 
 <marginal letter="420" page="123" line="37">
 <bzg>3. Br. zurückfodre</bzg> am 17. November in einem Billet
 </marginal>
 
-<marginal letter="420" page="124" line="3">
+<marginal letter="420" page="124" line="3" sort="1">
 <bzg>tacite</bzg> dt. stillschweigend
+</marginal>
+ 
+<marginal letter="420" page="124" line="3" sort="2">
+<bzg>Luft herrschend</bzg> <link ref="nt-eph" subref="nt-eph2" linktext="false">Eph 2,2</link> 
 </marginal>
 
 <marginal letter="420" page="124" line="5">
@@ -51849,8 +51856,12 @@ Brief Nr. 420
 <bzg>ecclesia pressa</bzg> dt. verfolgte Gemeinde
 </marginal>
 
-<marginal letter="420" page="124" line="17">
-<bzg>Hartmanns mit den Sulzers … Loos werfen</bzg> <link ref="hartmann-gd" linktext="true" />; <link ref="sulzer" linktext="true" /> war als Berater des Herzogs von Kurland für Berufungen mitzuständig und hatte sich gegen Herder ausgesprochen, vgl. <intlink letter="414" page="109" line="34" linktext="true" />; Loos werfen: u.a. <link ref="nt-mt" subref="nt-mt27" linktext="false">Mt 27,35</link>  
+<marginal letter="420" page="124" line="17" sort="1">
+<bzg>Hartmanns mit den Sulzers</bzg> <link ref="hartmann-gd" linktext="true" />. <link ref="sulzer" linktext="true" /> war als Berater des Herzogs von Kurland für Berufungen stimmberechtigt und hatte sich gegen Herder ausgesprochen, vgl. <intlink letter="414" page="109" line="34" linktext="true" />.  
+</marginal>
+ 
+ <marginal letter="420" page="124" line="17" sort="2">
+<bzg>Loos werfen</bzg> u.a. <link ref="nt-mt" subref="nt-mt27" linktext="false">Mt 27,35</link>  
 </marginal>
 
 <marginal letter="420" page="124" line="18">
