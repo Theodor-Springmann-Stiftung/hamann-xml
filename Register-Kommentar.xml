@@ -932,6 +932,11 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 <eintrag>
 <titel>Lettres, Memoires &amp; Negotiations particulieres du Chevalier d’Eon, Ministre Plénipotentiaire de France aupres du Roi de la Grande Bretagne</titel> (London: Impime chez l’auteur 1764). Digitalisat: <wwwlink address="https://books.google.de/books?id=ZgsCTXCvZBwC">Google Books</wwwlink></eintrag>
 </subsection>
+ <subsection id="beaumont-loisirs" type="neuzeit" sort="40">
+<lemma>Beaumont, <titel>Les loisirs du Chevalier d’Eon</titel></lemma>
+<eintrag>
+<titel>Les loisirs du Chevalier d’Eon de Beaumont sur divers sujets importans d’administration etc pendant son séjour en Angleterre</titel> (13 Bde., Amsterdam 1764). </eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="beausobre" type="neuzeit">
@@ -5291,7 +5296,12 @@ Prolog zu den neuesten Offenbarungen Gottes. Verteutscht durch Dr. Carl Friedric
 Übers.: <titel>Der Landpriester von Wakefield. Ein Märchen, das er selbst soll geschrieben haben</titel>, übersetzt von <link ref="gellius-jg" linktext="true" /> (Leipzig 1767).  [Biga&#x202F;150/339: „Der Landpriester von Wakefield, Leipz. 768“]. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:kobv:11-711694">BSB Humboldt-Universität zu Berlin: Zd 96351:F8</wwwlink>.
 </eintrag>
 </subsection>
-
+ <subsection id="goldsmith-roemer" type="neuzeit" sort="30">
+<lemma>Goldsmith, <titel>Geschichte der Römer</titel></lemma>
+<eintrag>
+<titel>Geschichte der Römer: von Erbauung der Stadt Rom bis auf den Untergang des abendländischen Kaiserthums</titel> (Leipzig  Weidmann 1774). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11097024">SB Regensburg: 999/Hist.pol.2110</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="golius" type="neuzeit">
@@ -11648,6 +11658,17 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 <lemma>Panciroli, <titel>Rerum memorabilium iam olim deperditarum</titel></lemma>
 <eintrag>
 <titel>Rerum memorabilium iam olim deperditarum et contra recens atque ingeniose inventarum</titel> (Amberg 1599). [Biga&#x202F;186/109: „Guid. Pancirolli Lib. I. rerum memorabilium olim deperditarum cet. Amb. 599“]. Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11245623-5">Augsburg, Staats- und Stadtbibliothek: Enc 527</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+ 
+ <kommentar id="pansa" type="neuzeit">
+<lemma>Muzio Pansa</lemma>
+<eintrag>1565–1628. Arzt und Schriftsteller.</eintrag>
+<subsection id="pansa-osculo" type="neuzeit">
+<lemma>Pansa, <titel>De osculo ethnicae et christianae philosophiae</titel></lemma>
+<eintrag>
+<titel>De osculo ethnicae et christianae philosophiae vnde Chaldeorum, Aegyptiorum, Persarum, Arabum, Graecorum et Latinorum Mysteria, tamquam ab Hebraeis desumpta Fidei nostrae consona deducuntur</titel> (1601). Digitalisat: <wwwlink address="https://books.google.de/books?id=1FofPCxgn2UC">Google Books</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>

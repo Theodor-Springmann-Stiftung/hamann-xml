@@ -52497,25 +52497,28 @@ erkennen zu sollen, vgl seinen Brief an Hartknoch, 2. Hälfte Mai 1772 (HBGA II,
 <bzg>Lettre perdue</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" /> 
 </marginal>
 
-<marginal letter="424" page="133" line="17">
+<marginal letter="424" page="133" line="17" sort="1">
+<bzg>Mancherley</bzg> <link ref="hamann" subref="hamann-mancherley" linktext="true" /> 
+</marginal>
+
+<marginal letter="424" page="133" line="17" sort="2">
 <bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="133" line="19">
-<bzg>Wandsbeckers Recension</bzg> in <link ref="claudius" subref="claudius-bothe" linktext="true" />; 1774 hatte <link ref="claudius" linktext="true" /> <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> angezeigt; gegen Ende ist dort in einer Fußnote die Rede von „Mutii Pansae Osculum“. 
+<bzg>Wandsbeckers Recension</bzg> 1774 ist <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> im <link ref="claudius" subref="claudius-bothe" linktext="false">Wandsbecker Boten</link>rezensiert; gegen Ende wird dort verwiesen auf: <link ref="pansa" subref="pansa-osculo" linktext="true" />. 
 </marginal>
 
 <marginal letter="424" page="133" line="21">
-<bzg>Hephästion</bzg> <link ref="starck" subref="starck-hephaestion" linktext="true" />  
+<bzg>Hephästion</bzg> <link ref="starck" subref="starck-hephaestion" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="133" line="23">
-<bzg>Loisirs d’Eon de Beaumont</bzg> Loisirs ... sur divers sujets importants d'administration etc. pendant son séjour en Angleterre.
-Amsterdam 1774. ?!?
+<bzg>Loisirs d’Eon de Beaumont</bzg> <link ref="beaumont" subref="beaumont-loisirs" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="133" line="24" sort="1">
-<bzg>Goldsmith’s römische Geschichte</bzg> ?!?
+<bzg>Goldsmith’s römische Geschichte</bzg> <link ref="goldsmith" subref="goldsmith-roemer" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="133" line="24" sort="2">
@@ -52587,7 +52590,7 @@ Amsterdam 1774. ?!?
 </marginal>
 
 <marginal letter="424" page="134" line="18">
-<bzg>Hemsterhuis bey Dietrich</bzg> den Plan, seine in Deutschland noch wenig bekannte Schriften zu übersetzen und zu kommentieren, ließ Herder im Februar 1775 fallen
+<bzg>Hemsterhuis bey Dietrich</bzg> Den Plan, seine in Deutschland noch wenig bekannte Schriften zu übersetzen und zu kommentieren, ließ Herder im Februar 1775 fallen.
 </marginal>
 
 <marginal letter="424" page="134" line="19">
@@ -52604,14 +52607,6 @@ Amsterdam 1774. ?!?
 
 <marginal letter="424" page="134" line="23">
 <bzg>Zachäus</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
-</marginal>
-
-<marginal letter="424" page="134" line="33" sort="1">
-<bzg>Palmbaum</bzg> Bild der mit einem Gewicht beschwerten Palme als Sinnbild der Stärke durch Widerstand
-</marginal>
-
-<marginal letter="424" page="134" line="33" sort="2">
-<bzg>Loose auf des Zeus Schooße</bzg> ?!?
 </marginal>
 
 <marginal letter="424" page="134" line="35">
@@ -52631,7 +52626,7 @@ Amsterdam 1774. ?!?
 </marginal>
 
 <marginal letter="424" page="135" line="6">
-<bzg>Abschrift Ihrer Sp. Correspondentz</bzg> <link ref="spalding" linktext="true" />; vgl. <intlink letter="424" page="131" line="10" linktext="true" />
+<bzg>Abschrift Ihrer Sp. Correspondentz</bzg> mit <link ref="spalding" linktext="true" />; vgl. <intlink letter="424" page="131" line="10" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="135" line="8">
