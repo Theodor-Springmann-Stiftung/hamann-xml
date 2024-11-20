@@ -6360,7 +6360,13 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <kommentar id="hartmann-gd" type="neuzeit">
 <lemma>Gottlob David Hartmann</lemma>
 <eintrag>1752–1775. 1774 Gymnasialprof. der Philosophie am akademischen Gymnasium in Mitau.</eintrag>
-<subsection id="hartmann-litterarische-briefe" type="neuzeit">
+ <subsection id="hartmann-sophron" type="neuzeit" sort="10">
+<lemma>Hartmann, <titel>Sophron, oder die Bestimmung des Jünglings</titel></lemma>
+<eintrag>
+<titel>Sophron, oder die Bestimmung des Jünglings für dieses Leben. Dem Probst Spalding gewidmet</titel> (Mitau: Hinz 1773). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-54919">Zentralbibliothek Zürich: 25.445</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="hartmann-litterarische-briefe" type="neuzeit" sort="20">
 <lemma>Hartmann, <titel>Litterarische Briefe an das Publikum</titel></lemma>
 <eintrag>
 <titel>Litterarische Briefe an das Publikum.</titel> 2tes Paket (Altenburg 1774).
