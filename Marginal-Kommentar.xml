@@ -52692,7 +52692,11 @@ erkennen zu sollen, vgl seinen Brief an Hartknoch, 2. Hälfte Mai 1772 (HBGA II,
 
 Brief Nr. 425
 
-<marginal letter="425" page="136" line="2">
+<marginal letter="425" page="136" line="2" sort="1">
+Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe" linktext="true" /> und hat vmtl. als Druckvorlage gedient. Das Exemplar des gedruckten Textes im Hamann-Nachlass in Münster, <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/4603205">Band 81</wwwlink>, enthält handschriftliche Korrekturen, hauptsächlich von Satzfehlern, und Notizen, hauptsächlich die auch hier im Kommentar notierten Bibelstellen.
+</marginal>
+ 
+ <marginal letter="425" page="136" line="2" sort="2">
 <bzg>– – Primo auolso …</bzg> <link ref="vergil" subref="vergil-aeneis" linktext="true" />, VI, 143ff.
 </marginal>
 
@@ -52717,7 +52721,7 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="136" line="20">
-<bzg>Vermehrer</bzg> <link ref="at-mo1" subref="at-mo1-1" linktext="false">1 Mo 1,28</link>
+<bzg>Immer-Vermehrer</bzg> <link ref="at-mo1" subref="at-mo1-1" linktext="false">1 Mo 1,28</link>. Im <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/4603209">Korrekturexemplar</wwwlink>, S.IV ist dazu handschriftlich notiert: „Semper-Augustus“ – das ist seit Maximilian I. Teil des Kaiser-Titulars im Deutschen Reich; zu übers. als „allzeit Mehrer des Reiches“, abgeleitet von lat. augere = vermehren.
 </marginal>
 
 <marginal letter="425" page="136" line="23">
@@ -52763,6 +52767,10 @@ Brief Nr. 425
 <marginal letter="425" page="137" line="8">
 <bzg>kein Falsch</bzg> <link ref="nt-jo" subref="nt-jo1" linktext="false">Joh 1,47</link> 
 </marginal>
+ 
+<marginal letter="425" page="137" line="11">
+<bzg>Ehgesetzen</bzg> Im <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/zoom/4603212">Korrekturexemplar</wwwlink>, S.VI ist dazu handschriftlich notiert: „Fecunda culpae secula nuptias / Primum inquinavere, et genus et domos: / Hoc fonte derivata clades / In patriam populumque fluxit. / Hor. III. Od. 6, 17-20.“ Dt.: Fruchtbar an Frevel, haben diese Zeiten die Ehen / zuerst befleckt und Geschlecht und Haus: / aus dieser Quelle hergeleitet, hat sich Verfall / auf Vaterland und Volk ergossen. (Vgl. N III, S.200)
+</marginal>
 
 <marginal letter="425" page="137" line="12">
 <bzg>Verstockung</bzg> <link ref="nt-mt" subref="nt-mt19" linktext="false">Mt 19,8</link>   
@@ -52781,11 +52789,15 @@ Brief Nr. 425
 </marginal>
 
 <marginal letter="425" page="137" line="23">
-<bzg>„geboten solche zu steinigen“</bzg> u.a. <link ref="nt-jo" subref="nt-jo8" linktext="false">Joh 8,5</link> 
+<bzg>„geboten solche zu steinigen“</bzg> u.a. <link ref="nt-jo" subref="nt-jo8" linktext="false">Joh 8,5</link>, <link ref="nt-jo" subref="nt-jo10" linktext="false">Joh 10,33–35</link>  
 </marginal>
 
 <marginal letter="425" page="137" line="24">
 <bzg>Schemen</bzg> <link ref="nt-kor1" subref="nt-kor1-7" linktext="false">1 Kor 7,31</link>
+</marginal>
+ 
+<marginal letter="425" page="137" line="25">
+<bzg>aufgelöst</bzg> <link ref="nt-mt" subref="nt-mt5" linktext="false">Mt 5,17</link>
 </marginal>
 
 <marginal letter="425" page="137" line="26">
@@ -52840,16 +52852,32 @@ Brief Nr. 425
 <bzg>Baubo</bzg> gr. Göttin der weiblichen Fruchtbarkeit und des Lachens
 </marginal>
 
-<marginal letter="425" page="138" line="1">
-<bzg>weder à la Grecourt, noch à l’enseigne de Barby</bzg> <link ref="grecourt" linktext="true" />; Aushängeschild der Herrnhuter in Barby an der Elbe
+<marginal letter="425" page="138" line="1" sort="1">
+<bzg>Grecourt</bzg> <link ref="grecourt" linktext="true" />, Autor frivoler Literatur
+</marginal>
+ 
+ <marginal letter="425" page="138" line="1" sort="2">
+<bzg>l’enseigne de Barby</bzg> dt. Aushängeschild der Herrnhuter in Barby (Kleinstadt an der Elbe, wo die Herrnhuter seit 1749 ihren Hauptsitz hatten). Die Herrnhuter pflegten eine theologisch begründete Sexualkunde.
 </marginal>
 
 <marginal letter="425" page="138" line="3">
 <bzg>Früchte</bzg> vgl. fruges consumere nati, <link ref="horaz" subref="horaz-epistel" linktext="true" /> I, 2,27
 </marginal>
+ 
+<marginal letter="425" page="138" line="4">
+<bzg>Freude</bzg> <link ref="at-pr" subref="at-pr2" linktext="false">Pred 2,2</link>  
+</marginal> 
+ 
+<marginal letter="425" page="138" line="5">
+<bzg>Traurigkeit und Verzweifelung</bzg> <link ref="nt-jo" subref="nt-jo16" linktext="false">Joh 16,22</link>,  <link ref="nt-kor2" subref="nt-kor2-7" linktext="false">2 Kor 7,10</link>,  <link ref="nt-lk" subref="nt-lk6" linktext="false">Lk 6,25</link> 
+</marginal>
 
 <marginal letter="425" page="138" line="6">
 <bzg>Höllengotts … Ceres</bzg> Proserpina, die Tochter der Ceres, der Göttin der Mutter Erde, wurde dem Mythos nach vom Gott der Unterwelt Pluto entführt und zu seiner Gemahlin gemacht.
+</marginal>
+ 
+ <marginal letter="425" page="138" line="6">
+<bzg>kluge Fabel</bzg> <link ref="nt-pet2" subref="nt-pet2-1" linktext="false">2 Petr 1,16</link>
 </marginal>
 
 <marginal letter="425" page="138" line="9">
