@@ -52769,7 +52769,7 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
  
 <marginal letter="425" page="137" line="11">
-<bzg>Ehgesetzen</bzg> Im <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/zoom/4603212">Korrekturexemplar</wwwlink>, S.VI ist dazu handschriftlich notiert: „Fecunda culpae secula nuptias / Primum inquinavere, et genus et domos: / Hoc fonte derivata clades / In patriam populumque fluxit. / Hor. III. Od. 6, 17-20.“ Dt.: Fruchtbar an Frevel, haben diese Zeiten die Ehen / zuerst befleckt und Geschlecht und Haus: / aus dieser Quelle hergeleitet, hat sich Verfall / auf Vaterland und Volk ergossen. (Vgl. N III, S.200)
+<bzg>Ehgesetzen</bzg> Im <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/zoom/4603212">Korrekturexemplar</wwwlink>, S.VI ist dazu handschriftlich notiert: „Fecunda culpae secula nuptias / Primum inquinavere, et genus et domos: / Hoc fonte derivata clades / In patriam populumque fluxit. / Hor. III. Od. 6, 17-20.“ (Vgl. N III, S.200) Dt.: Fruchtbar an Frevel, haben diese Zeiten die Ehen / zuerst befleckt und Geschlecht und Haus: / aus dieser Quelle hergeleitet, hat sich Verfall / auf Vaterland und Volk ergossen. 
 </marginal>
 
 <marginal letter="425" page="137" line="12">
@@ -52849,11 +52849,11 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
 
 <marginal letter="425" page="137" line="37" sort="2">
-<bzg>Baubo</bzg> gr. Göttin der weiblichen Fruchtbarkeit und des Lachens
+<bzg>Baubo</bzg> Griech. Göttin der weiblichen Fruchtbarkeit und des Lachens. Im <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/zoom/4603212">Korrekturexemplar</wwwlink>, S.X ist dazu handschriftlich notiert: „Ouid Metam. – vertit Baubo artes et quam serio non quibat allicere, ludibriorum statuit exhilarare miraculis – pubi affigit oculos Diua et inauditi specie solaminis pascitur. Arnobius adu. gentes Lib. V. p. 174. 175.“ (Vgl. N III, S.201). Das meint Arnobius, <titel>Disputationes adversus gentes</titel>. Buch 5. Die Episode erzählt, wie Baubo die trauernde Ceres dadurch erheitert, dass sie dieser ihr enthaartes Geschlecht zeigt. Dt., <titel>Des Afrikaner’s Arnobius sieben Bücher wider die Heiden</titel>, übers. von Franz Anton von Besnard (Landshut 1842), S.153: „[...] so änderte Baubo die Kunstgriffe und was sie ernsthaft nicht anzulocken im Stande war, beschloß sie durch unfläthigen Spaß zu erheitern. [...] Unverzüglich heftete die Göttin die Augen auf die Scham und weidete sich an der unerhörten Beschaffenheit des Trostes.“ Der Hinweis auf Ovids <titel>Metamorphosen</titel> konnte nicht aufgeschlüsselt werden. 
 </marginal>
 
 <marginal letter="425" page="138" line="1" sort="1">
-<bzg>Grecourt</bzg> <link ref="grecourt" linktext="true" />, Autor frivoler Literatur
+<bzg>Grecourt</bzg> <link ref="grecourt" linktext="true" />, Autor frivoler Literatur; gemeint ist hier Scheffners dichterische Nachahmung, <link ref="scheffner" subref="scheffner-grecourt" linktext="true" />
 </marginal>
  
  <marginal letter="425" page="138" line="1" sort="2">
@@ -52865,18 +52865,17 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
  
 <marginal letter="425" page="138" line="4">
-<bzg>Freude</bzg> <link ref="at-pr" subref="at-pr2" linktext="false">Pred 2,2</link>  
-</marginal> 
+<bzg>Freude</bzg> <link ref="at-pr" subref="at-pr2" linktext="false">Pred 2,2</link></marginal> 
  
 <marginal letter="425" page="138" line="5">
 <bzg>Traurigkeit und Verzweifelung</bzg> <link ref="nt-jo" subref="nt-jo16" linktext="false">Joh 16,22</link>,  <link ref="nt-kor2" subref="nt-kor2-7" linktext="false">2 Kor 7,10</link>,  <link ref="nt-lk" subref="nt-lk6" linktext="false">Lk 6,25</link> 
 </marginal>
 
-<marginal letter="425" page="138" line="6">
+<marginal letter="425" page="138" line="6" sort="1">
 <bzg>Höllengotts … Ceres</bzg> Proserpina, die Tochter der Ceres, der Göttin der Mutter Erde, wurde dem Mythos nach vom Gott der Unterwelt Pluto entführt und zu seiner Gemahlin gemacht.
 </marginal>
  
- <marginal letter="425" page="138" line="6">
+<marginal letter="425" page="138" line="6" sort="2">
 <bzg>kluge Fabel</bzg> <link ref="nt-pet2" subref="nt-pet2-1" linktext="false">2 Petr 1,16</link>
 </marginal>
 
@@ -52895,6 +52894,10 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 <marginal letter="425" page="138" line="20">
 <bzg>vernünftiges Thier</bzg> nach <link ref="aristoteles" linktext="true" />
 </marginal>
+ 
+ <marginal letter="425" page="138" line="21">
+<bzg>rauche</bzg> rauh, bspw. behaart
+</marginal>
 
 <marginal letter="425" page="138" line="24">
 <bzg>Milch und Honig</bzg> <link ref="at-mo5" subref="at-mo5-11" linktext="false">5 Mo 11,9</link>
@@ -52912,16 +52915,16 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 <bzg>hoch in den Wellen</bzg> <link ref="nt-eph" subref="nt-eph2" linktext="false">Eph 2,2</link>  
 </marginal>
 
-<marginal letter="425" page="138" line="35">
-<bzg>gallicanische Schminke, Kreide und Insektendotter</bzg> gallikanische Freiheiten ?!?
-</marginal>
-
 <marginal letter="425" page="139" line="6">
-<bzg>„Das ist …</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,23</link>  
+<bzg>„Das ist …</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,23</link>. Im <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/zoom/4603212">Korrekturexemplar</wwwlink>, S.XV ist zu „Knochen“ handschriftlich notiert: „Michaelis Übersetzung“ (Vgl. N III, S.202), das ist: <link ref="michaelis" subref="michaelis-altestestament" linktext="true" />.
 </marginal>
-
+ 
+<marginal letter="425" page="139" line="9">
+<bzg>hergekommen</bzg> <link ref="nt-Jo" subref="nt-Jo3" linktext="false">Joh 3,31</link>, <link ref="nt-Jo" subref="nt-Jo8" linktext="false">Joh 8,14</link>, <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,7</link>, <link ref="at-pr" subref="at-pr3" linktext="false">Pred 3,20</link>  
+</marginal> 
+ 
 <marginal letter="425" page="139" line="10" sort="1">
-<bzg>Schöpfer in guten Werken</bzg> <link ref="nt-pet1" subref="nt-pet1-4" linktext="false">1 Petr 4,19</link>  
+<bzg>Schöpfer in guten Werken</bzg> <link ref="nt-pet1" subref="nt-pet1-4" linktext="false">1 Petr 4,19</link> – im <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/zoom/4603212">Korrekturexemplar</wwwlink>, S.XV, der Hinweis: „Michaelis und Luther“ (also beider Bibel-Übersetzung).
 </marginal>
 
 <marginal letter="425" page="139" line="10" sort="2">
@@ -52929,11 +52932,11 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
 
 <marginal letter="425" page="139" line="11">
-<bzg>Maculatur</bzg> verdorbener Druck
+<bzg>Maculatur</bzg> verdorbener Druck; vll. Anspielung auf <link ref="hippel" subref="hippel-makulatur" linktext="true" />
 </marginal>
 
 <marginal letter="425" page="139" line="13">
-<bzg>Postscript</bzg> vgl. <link ref="hippel" subref="hippel-ehe" linktext="true" />, S. 141
+<bzg>Postscript</bzg> vgl. <link ref="hippel" subref="hippel-ehe" linktext="true" />, S. 141: Belustigung darüber, dass Frauen sich in Briefen nicht kurz fassen können.
 </marginal>
 
 <marginal letter="425" page="139" line="16">
@@ -52941,15 +52944,15 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
 
 <marginal letter="425" page="139" line="18">
-<bzg>Galimafree</bzg> Schnittfleisch aus Überresten
+<bzg>Galimafree</bzg> Schnittfleisch aus Überresten; gemeint ist eine Sammlung von anzüglichen Hochzeitsgedichten von Hippel und <link ref="hinz" linktext="true" />: <link ref="hippel" subref="hippel-galimafreen" linktext="false">Galimafreen nach dem heutigen Geschmack</link>.
 </marginal>
 
 <marginal letter="425" page="139" line="19">
-<bzg>Medusenbild … Minerve</bzg> Medusa, mythische Gorgone. Ihre Haare wurden von Minverva in Schlangen verwandelt. Minerva setzte ihren Kopf auf ihren Brustpanzer
+<bzg>Medusenbild … Minerve</bzg> Medusa, mythische Gorgone. Ihre Haare wurden von Minerva in Schlangen verwandelt. Minerva setzte den abgetrennten Kopf der Medusa auf ihren Brustpanzer um damit die Gegner zu schrecken.
 </marginal>
 
 <marginal letter="425" page="139" line="20">
-<bzg>– – ni docta …</bzg> <link ref="vergil" subref="vergil-aeneis" linktext="true" />, VI, 292f.
+<bzg>– – ni docta …</bzg> <link ref="vergil" subref="vergil-aeneis" linktext="true" />, VI, 292f.: „... wenn die Führerin nicht ihn kundig belehrte, dass ohne / Körper im hohlen Gebilde der Form Scheinleben nur flattre [, / Stürzt' er hinein und zerschlug umsonst mit dem Eisen die Schatten.]“
 </marginal>
 
 <marginal letter="425" page="139" line="23">
@@ -52957,7 +52960,7 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
 
 <marginal letter="425" page="139" line="33">
-<bzg>Komm ich als  …</bzg> Verse wohl von Hamann selbst
+<bzg>Komm ich als  …</bzg> <link ref="gleim" subref="gleim-versuch" linktext="true" />, „An Doris“, S.XIV: Nach der unerfüllten Sehnsucht nach Doris im Leben prophezeit das lyrische Ich, nach dem Tode als Geist weiter in der Nacht zu erscheinen.
 </marginal>
 
 <marginal letter="425" page="140" line="1">
@@ -52965,12 +52968,11 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
 
 <marginal letter="425" page="140" line="5" sort="1">
-<bzg>Voßischen Opusculo homonymo</bzg> vgl. <intlink letter="521" page="126" line="3" linktext="true" />; <link ref="hippel" subref="hippel-ehe" linktext="true" /> in der Vossischen Buchhandlung; kleines, gleichnamiges Werk; H. vermutete wohl Hippels Autorschaft, gab sich
-aber unwissend.
+<bzg>Opusculo homonymo</bzg> Dt. kleines, gleichnamiges Werk. Vgl. <intlink letter="521" page="126" line="3" linktext="true" />; gemeint ist <link ref="hippel" subref="hippel-ehe" linktext="true" />, verlegt in der Vossischen Buchhandlung; ; H. vermutete wohl Hippels Autorschaft, gab sich aber unwissend.
 </marginal>
 
 <marginal letter="425" page="140" line="5" sort="2">
-<bzg>Selbstgespräch</bzg> der fingierte Autor von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />
+<bzg>Selbstgespräch</bzg> <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />
 </marginal>
 
 <marginal letter="425" page="140" line="10">
