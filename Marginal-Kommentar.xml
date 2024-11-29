@@ -54014,7 +54014,7 @@ Brief Nr. 436
 </marginal>
 
 <marginal letter="436" page="159" line="31" sort="2">
-<bzg>Correspondenten</bzg> Staats- und Gelehrte Zeitung des Hamburgischen unpartheyischen Correspondenten
+<bzg>Correspondenten</bzg> <link ref="hamb-correspondenten" linktext="false"><titel>Staats- und Gelehrte Zeitung des Hamburgischen unpartheyischen Correspondenten</titel></link>
 </marginal>
 
 <marginal letter="436" page="159" line="32">
@@ -54027,10 +54027,6 @@ Brief Nr. 436
 
 <marginal letter="436" page="160" line="1">
 <bzg>Göthe</bzg> <link ref="goethe" linktext="true" />
-</marginal>
-
-<marginal letter="436" page="160" line="9">
-<bzg>Hamb. Zeitung</bzg> ?!?
 </marginal>
 
 
@@ -54073,7 +54069,7 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="161" line="4">
-<bzg>Relationem Happelianam</bzg> <link ref="happel" subref="happel-welt" linktext="true" /> 
+<bzg>Relationem Happelianam</bzg> Kuriositäten, sprichwörtlich nach<link ref="happel" subref="happel-welt" linktext="true" /> 
 </marginal>
 
 <marginal letter="437" page="161" line="5" sort="1">
@@ -54085,7 +54081,7 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="161" line="9">
-<bzg>heraklitisch</bzg> Heraklit, vorsokratischer Philosoph (520–460 v. Chr.); der weinende Philosoph nach <link ref="juvenal" subref="juvenal-satiren" linktext="true" />, 10,28ff.
+<bzg>heraklitisch</bzg> weinerlich; der weinende Philosoph Heraklit, vorsokratisch (520–460 v. Chr.) nach <link ref="juvenal" subref="juvenal-satiren" linktext="true" />, 10,28ff.
 </marginal>
 
 <marginal letter="437" page="161" line="11">
@@ -54129,11 +54125,11 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="162" line="24" sort="1">
-<bzg>Wandsbecker Boten</bzg> <link ref="claudius" subref="claudius-bothe" linktext="true" />, 1775,24 ?!?
+<bzg>Wandsbecker Boten</bzg> <link ref="claudius" subref="claudius-bothe" linktext="true" />, 11. Februar 1775
 </marginal>
 
 <marginal letter="437" page="162" line="24" sort="2">
-<bzg>Wieland – Weimarsche Mercur</bzg> <link ref="teutsche-merkur" linktext="true" />  
+<bzg>Wieland – Weimarsche Mercur</bzg> <link ref="teutsche-merkur" linktext="true" />, Bd.8, 2. Stück, Novemer 1774, S.174f.
 </marginal>
 
 <marginal letter="437" page="162" line="27">
@@ -54141,18 +54137,18 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="162" line="28">
-<bzg>Bode … dramatische Thavmaturg</bzg> Thavmaturg: dt. Wundermann; gemeint ist <link ref="goethe" linktext="true" />
+<bzg>Bode … dramatische Thavmaturg</bzg> <link ref="bode-jjc" linktext="true" />. Thavmaturg: dt. Wundermann; gemeint ist <link ref="goethe" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="162" line="31">
-<bzg>Pindar</bzg> <link ref="pindar" linktext="true" />, entweder 8. pythische Ode, Ep. 4 oder 7. nemeische Ode, Ant. 3. ?!?
+<bzg>Pindar</bzg> <link ref="pindar" linktext="true" />, entweder 8. pythische Ode, Ep. 4 oder 7. nemeische Ode, Ant. 3.
 </marginal>
 
 <marginal letter="437" page="163" line="3">
 <bzg>Amanuensi</bzg> lat. amanuensis: Schreiber, Sekretär
 </marginal>
 
-<marginal letter="437" page="16" line="6">
+<marginal letter="437" page="163" line="6">
 <bzg>Breloque</bzg> <link ref="hamann" subref="hamann-kermes" linktext="true" /> 
 </marginal>
 
@@ -54189,7 +54185,7 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="163" line="35">
-<bzg>Hintz</bzg> <link ref="hinz" linktext="true" />, von dem er die Exemplare von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> erwartet
+<bzg>Hintz</bzg> <link ref="hinz" linktext="true" />, von dem er die Lieferung erwartet hatte.
 </marginal>
 
 <marginal letter="437" page="163" line="36">
@@ -54201,15 +54197,19 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="164" line="2">
-<bzg>Christianisme devoilé</bzg> <link ref="boulanger" subref="boulanger-devoil" linktext="true" /> 
+<bzg>Christianisme devoilé</bzg> <link ref="boulanger" subref="boulanger-devoile" linktext="true" /> 
 </marginal>
 
 <marginal letter="437" page="164" line="4">
-<bzg>„ein Buch …</bzg> vgl. <intlink letter="433" page="155" line="9" linktext="true" />
+<bzg>„ein Buch …</bzg> zitiert aus Herders Brief, siehe <intlink letter="433" page="155" line="9" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="164" line="18">
 <bzg>Da es mir allso gehen sollte</bzg> <link ref="at-mo1" subref="at-mo1-25" linktext="false">1 Mo 25,22</link> 
+</marginal>
+ 
+ <marginal letter="437" page="164" line="20">
+<bzg>Carolina</bzg> <link ref="herder-c" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="164" line="22">
@@ -54223,10 +54223,6 @@ Brief Nr. 437
 <marginal letter="437" page="164" line="26">
 <bzg>Schlage auf die Schulter</bzg> „Hamann hat mich auf die Schulter geklopft – wenn er wüste wie viele Schuld ich mir selbst beimesse! aber was kann ein hölzernes Gefäß wie ich es bin thun? nicht einmal den sauren Schweiß auf meines Herders Gesicht abtrocknen – sagen Sie ihm aber dafür
 herzlich Dank.“ (HBGA III, Brief 133, S. 157).
-</marginal>
-
-<marginal letter="437" page="164" line="29">
-<bzg>Wäldchen</bzg> literarische Sammlungen, ungeordneter Stoff
 </marginal>
 
 <marginal letter="437" page="164" line="35">
