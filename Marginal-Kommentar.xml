@@ -53931,7 +53931,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="157" line="37">
-<bzg>mpp</bzg> evtl. multa perge perge, fahre mit vielem fort
+<bzg>mpp</bzg> evtl. multa perge perge, dt.: fahre mit vielem fort
 </marginal>
 
 <marginal letter="434" page="158" line="4">
@@ -53942,11 +53942,15 @@ Brief Nr. 434
 Brief Nr. 435
 
 <marginal letter="435" page="158" line="9">
-<bzg>Titre</bzg> Cunctator, Zögerer
+<bzg>Titre</bzg> Cunctator, Zögerer, <intlink letter="426" page="141" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="435" page="158" line="16">
-<bzg>Kanter … Tristrams</bzg> <link ref="kanter" linktext="true" />; <link ref="bode-jjc" linktext="true" /> hat <link ref="sterne" subref="sterne-shandy" linktext="true" /> übersetzt
+<bzg>Kanter … Tristrams</bzg> <link ref="kanter" linktext="true" /> bestellte <link ref="bode-jjc" linktext="false">Bodes</link> Übersetzung von <link ref="sterne" subref="sterne-shandy" linktext="true" /> übersetzt
+</marginal>
+ 
+ <marginal letter="435" page="158" line="28">
+<bzg>Mancherley</bzg> <link ref="hamann" subref="hamann-mancherley" linktext="true" />
 </marginal>
 
 <marginal letter="435" page="158" line="29" sort="1">
@@ -53956,6 +53960,11 @@ Brief Nr. 435
 <marginal letter="435" page="158" line="29" sort="2">
 <bzg>Schmidlins Chatolicon</bzg> <link ref="schmidlin" subref="schmidlin-catholicon" linktext="true" /> 
 </marginal>
+ 
+<marginal letter="435" page="159" line="3">
+<bzg>45 Tristrams</bzg> <intlink letter="426" page="142" line="14" linktext="true" />
+</marginal>
+
 
 <marginal letter="435" page="159" line="8">
 <bzg>Rabelais</bzg> <link ref="rabelais" linktext="true" />
