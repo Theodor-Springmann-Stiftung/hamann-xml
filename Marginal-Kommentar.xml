@@ -53790,12 +53790,8 @@ Brief Nr. 434
 <bzg>Claudius</bzg> <link ref="claudius" linktext="true" />, nicht überliefert
 </marginal>
 
-<marginal letter="434" page="155" line="34" sort="1">
+<marginal letter="434" page="155" line="34">
 <bzg>immediate nach Bückeburg</bzg> sofort zu <link ref="herder" linktext="true" />
-</marginal>
-
-<marginal letter="434" page="155" line="34" sort="2">
-<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="156" line="2">
@@ -53811,7 +53807,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="7">
-<bzg>Panegyricum</bzg> dt. Festrede
+<bzg>Panegyricum ... Eloge funebre</bzg> Festrede bzw. Grabrede
 </marginal>
 
 <marginal letter="434" page="156" line="10">
@@ -53823,11 +53819,11 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="18">
-<bzg>Juliani</bzg> Julianus Flavius, gen. Apostata (331–363)
+<bzg>Juliani</bzg> <link ref="julian" linktext="true" />. Im ersten Antwortschreiben von <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> weist Hamann bereits darauf hin, vgl. N III, S.125. In den <link ref="hamann" subref="hamann-hierophant" linktext="false">Hierophantischen Briefen</link> ist die Auseinandersetzung dann ausführlicher, vgl. N III, S.142, 158 u.ö. Siehe auch <intlink letter="439" page="166" line="13" linktext="true" />.
 </marginal>
 
 <marginal letter="434" page="156" line="19">
-<bzg>Cyrilli</bzg> Cyrillus (Konstantin Lukaris) (1572–1638), Patriarch von Konstantinopel
+<bzg>Cyrilli</bzg> Cyrillus (Konstantin Lukaris) (1572–1638), Patriarch von Konstantinopel; die <titel>opera</titel> las Hamann in der Ausgabe von Spanheim: <link ref="julian" subref="julian-opera" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="156" line="22">
@@ -53855,11 +53851,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="33" sort="1">
-<bzg>Gelehrten Lexicon</bzg> wohl <link ref="joecher" subref="joecher-lexicon" linktext="true" />
-</marginal>
-
-<marginal letter="434" page="156" line="33" sort="2">
-<bzg>Schürze von Feigenblättern</bzg> ?!?
+<bzg>Gelehrten Lexicon</bzg> <link ref="joecher" subref="joecher-lexicon" linktext="true" />; „Funeicus“ nicht ermittelt
 </marginal>
 
 <marginal letter="434" page="156" line="34" sort="1">
@@ -53879,8 +53871,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="157" line="3">
-<bzg>Persius</bzg><link ref="persius" subref="persius-satiren" linktext="true" />, 4,6ff: ERGO vbi commota feruet plebecula bile, /Fert animus calidae fecisse silentia turbae /Maiestate manus ---; dt. Drum, sobald sich dem Völklein die Galle erregt, daß es aufkocht,/ Drängt dich dein Herz,
-Stillschweigen dem hitzigen Schwarme zu bieten / Mit erhabner Gebärde der Hand 
+<bzg>Persius</bzg><link ref="persius" subref="persius-satiren" linktext="true" />, 4,6ff: ERGO vbi commota feruet plebecula bile, /Fert animus calidae fecisse silentia turbae /Maiestate manus ---; dt. Drum, sobald sich dem Völklein die Galle erregt, daß es aufkocht,/ Drängt dich dein Herz, Stillschweigen dem hitzigen Schwarme zu bieten / Mit erhabner Gebärde der Hand. Vgl. N III, S.123. 
 </marginal>
 
 <marginal letter="434" page="157" line="4" sort="1">
@@ -53888,7 +53879,7 @@ Stillschweigen dem hitzigen Schwarme zu bieten / Mit erhabner Gebärde der Hand
 </marginal>
 
 <marginal letter="434" page="157" line="4" sort="2">
-<bzg>Hamb. Nachrichter</bzg> <link ref="ziegra" subref="ziegra-hamburgische" linktext="true" /> 
+<bzg>Hamb. Nachrichter ... langweilig abzuschreiben</bzg> Redewendung aus Christian Ziegras Rezension der <titel>Sokratischen Denkwürdigkeiten</titel> in <link ref="ziegra" subref="ziegra-hamburgische" linktext="true" />, vgl. <link ref="hamann" subref="hamann-wolken" linktext="true" />, SD/W S.54, ED S.9, N II S.86.
 </marginal>
 
 <marginal letter="434" page="157" line="5">
@@ -53904,7 +53895,7 @@ Stillschweigen dem hitzigen Schwarme zu bieten / Mit erhabner Gebärde der Hand
 </marginal>
 
 <marginal letter="434" page="157" line="15" sort="1">
-<bzg>Irrlichter im alten Graben</bzg> die Dreikronenloge
+<bzg>Irrlichter im alten Graben</bzg> die Dreikronenloge, siehe <intlink letter="425" page="139" line="15" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="157" line="15" sort="2">
@@ -53927,16 +53918,12 @@ Stillschweigen dem hitzigen Schwarme zu bieten / Mit erhabner Gebärde der Hand
 <bzg>Vetter des A. B.</bzg> A.[lten] B.[undes]: Haman im Buch Esther; <link ref="hartknoch" linktext="true" /> hatte offenbar das doppelte nn in Hs Namen verstümmelt
 </marginal>
 
-<marginal letter="434" page="157" line="30">
-<bzg>spanischen Waare</bzg> ?!?
-</marginal>
-
 <marginal letter="434" page="157" line="32">
 <bzg>Verlages</bzg> Anmeldung von <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
 </marginal>
 
 <marginal letter="434" page="157" line="34">
-<bzg>Minerva … Aspasie</bzg> ?!? <link ref="aspasia" linktext="true" />
+<bzg>Minerva … Aspasie</bzg> Korrektur in <link ref="hamann" subref="hamann-ehe" linktext="true" />, siehe <intlink letter="432" page="152" line="31" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="157" line="35">
@@ -54336,7 +54323,7 @@ Brief Nr. 439
 </marginal>
 
 <marginal letter="439" page="166" line="11">
-<bzg>KirchenVäter</bzg> vgl. <intlink letter="434" page="156" line="18" linktext="true" />
+<bzg>KirchenVäter</bzg> Hamann studierte dieses Thema anhand von <link ref="mosheim" subref="mosheim-constantin" linktext="true" />, vgl. <link ref="hamann" subref="hamann-hierophant" linktext="true" />, N III, S.142. Vgl. auch <intlink letter="434" page="156" line="18" linktext="true" />.
 </marginal>
 
 <marginal letter="439" page="166" line="12">
@@ -54344,11 +54331,11 @@ Brief Nr. 439
 </marginal>
 
 <marginal letter="439" page="166" line="13">
-<bzg>Julian</bzg> Julianus Flavius, gen. Apostata (331–363)
+<bzg>Julian</bzg> <link ref="julian" linktext="true" />
 </marginal>
 
 <marginal letter="439" page="166" line="14">
-<bzg>Stelle</bzg> ?!?
+<bzg>Stelle</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />, N III, S.125.
 </marginal>
 
 <marginal letter="439" page="166" line="16">

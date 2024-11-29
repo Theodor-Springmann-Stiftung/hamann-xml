@@ -7784,6 +7784,18 @@ Jüdischer Krieg, lat. de bello Iudaico, griech. Περὶ τοῦ Ἰουδαι
 </eintrag>
 </subsection>
 </kommentar>
+ 
+ <kommentar id="julian" type="neuzeit">
+<lemma>Flavius Claudius Iulianus</lemma>
+<eintrag>331/332–363. Römischer Kaiser, aufgrund seiner Abwendung vom Christentum Julian Apostata genannt.
+</eintrag>
+<subsection id="julian-opera" type="neuzeit" sort="10">
+<lemma>Iulianus, <titel>Opera</titel></lemma>
+<eintrag>
+<titel>Iuliani Imp. Opera quae supersunt omnia et S. Cyrilli Alexandr. archiep. contra impium Iulianum libri decem</titel>, hg. von <link ref="spanheim" linktext="true" /> (Leipzig 1696)
+</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="juengling" type="neuzeit">
 <lemma>Der Jüngling</lemma>
@@ -11169,7 +11181,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <subsection id="mosheim-historiae" type="neuzeit" sort="20">
 <lemma>Mosheim, <titel>Institutiones Historiae Christianae Antiquioris</titel></lemma>
 <eintrag>
-<titel>Institutiones Historiae Christianae Antiquioris</titel> (Helmstedt: Weygand 1737) [Biga&#x202F;80/94: „J. L. Moshemii institutio Historiae Christianae antiquioris, Helmst. 737“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10026399-0">H.eccl. 781-1</wwwlink>.
+<titel>Institutiones Historiae Christianae Antiquioris</titel> (Helmstedt: Weygand 1737) [Biga&#x202F;80/94: „J. L. Moshemii institutio Historiae Christianae antiquioris, Helmst. 737“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10026399-0">BSB München: H.eccl. 781-1</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="mosheim-serveti" type="neuzeit" sort="25">
@@ -11179,10 +11191,16 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 Übers.: <titel>Neue Nachrichten von dem berühmten Spanischen Arzte, Michael Serveto, der zu Geneve ist verbrannt worden</titel> (Helmstedt 1750).
 </eintrag>
 </subsection>
+ <subsection id="mosheim-constantin" type="neuzeit" sort="27">
+<lemma>Mosheim, <titel>De rebus christianorum ante Constantinum Magnum</titel></lemma>
+<eintrag>
+<titel>De rebus christianorum ante Constantinum Magnum</titel> (Helmstedt: Weygand 1753). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10026399-0">SB Regensburg: 999/4Hist.eccl.37</wwwlink>
+</eintrag>
+</subsection>
 <subsection id="mosheim-pastoral" type="neuzeit" sort="30">
 <lemma>Mosheim, <titel>Pastoral-Theologie</titel></lemma>
 <eintrag>
-<titel>Pastoral-Theologie von denen Pflichten und Lehramt eines Dieners des Evangelii</titel> (Frankfurt, Leipzig 1754). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-226687">ULB Halle: Il 124</wwwlink>.
+<titel>Pastoral-Theologie von denen Pflichten und Lehramt eines Dieners des Evangelii</titel> (Frankfurt, Leipzig 1754). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11061020">ULB Halle: Il 124</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="mosheim-erklärung" type="neuzeit" sort="40">
@@ -11191,6 +11209,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Mosheims Erklärung des ersten und zweyten Briefes des heiligen Apostels Pauli an die Gemeinde zu Corinthus, von neuem übers. u. verb. v. C. E. v. Windheim</titel> (Flensburg 1762).
 </eintrag>
 </subsection>
+
 </kommentar>
 
 <kommentar id="motherby-g" type="neuzeit">
