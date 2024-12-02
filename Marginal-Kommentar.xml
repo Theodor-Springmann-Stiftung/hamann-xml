@@ -54713,7 +54713,7 @@ Brief Nr. 442
 </marginal>
 
 <marginal letter="442" page="172" line="27">
-<bzg>Philosophen ohne Sorgen</bzg> <link ref="friedrich-II" linktext="true" /> 
+<bzg>Philosophen ohne Sorgen</bzg> <link ref="friedrich-II" linktext="true" />, von sans souci, dt. ohne Sorge 
 </marginal>
 
 <marginal letter="442" page="172" line="32">
@@ -54722,14 +54722,6 @@ Brief Nr. 442
 
 <marginal letter="442" page="172" line="34">
 <bzg>Caroline</bzg> <link ref="herder-c" linktext="true" /> 
-</marginal>
-
-<marginal letter="442" page="173" line="9">
-<bzg>Autorschaft</bzg> von <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
-</marginal>
-
-<marginal letter="442" page="173" line="14">
-<bzg>Misgeschick</bzg> wohl die Ausschweifungen des Ehemanns Christoph Güldenhorn
 </marginal>
 
 <marginal letter="442" page="173" line="24">
@@ -54819,7 +54811,7 @@ Brief Nr. 444
 </marginal>
 
 <marginal letter="444" page="174" line="34">
-<bzg>S. 99</bzg> <link ref="starck" subref="starck-hephaestion" linktext="true" />, S. 99
+<bzg>S. 99</bzg> Zitat aus <link ref="starck" subref="starck-hephaestion" linktext="true" />, S. 99
 </marginal>
 
 <marginal letter="444" page="175" line="2">
@@ -54851,7 +54843,7 @@ Brief Nr. 444
 </marginal>
 
 <marginal letter="444" page="175" line="16" sort="1">
-<bzg>Jonathan</bzg> ?!?
+<bzg>Jonathan</bzg> vmtl. Hamann selbst
 </marginal>
 
 <marginal letter="444" page="175" line="16" sort="2">
@@ -54862,11 +54854,11 @@ Brief Nr. 444
 <bzg>Vetii Apagathi</bzg> des fiktiven Autors von <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
 </marginal>
 
-<marginal letter="444" page="175" line="18">
+<marginal letter="444" page="175" line="18" sort="1">
 <bzg>Aduocati Christianorum</bzg> dt. Verfechter des Christentums
 </marginal>
 
-<marginal letter="444" page="175" line="18">
+<marginal letter="444" page="175" line="18" sort="2">
 <bzg>Boulanger</bzg> <link ref="boulanger" subref="boulanger-devoil" linktext="true" /> 
 </marginal>
 
@@ -54889,13 +54881,13 @@ Brief Nr. 444
 <marginal letter="444" page="175" line="32">
 <bzg>Frau</bzg> <link ref="hartknoch-a" linktext="true" />  
 </marginal>
-
-<marginal letter="444" page="175" line="36">
-<bzg>in effigie</bzg>  dt. im Bildnis
+ 
+ <marginal letter="444" page="175" line="33">
+<bzg>Hinzens</bzg> <link ref="hinz" linktext="true" />  
 </marginal>
 
 <marginal letter="444" page="175" line="37">
-<bzg>Sibylle</bzg> mythische Prophetin
+<bzg>in effigie</bzg>  dt. im Bildnis
 </marginal>
 
 <marginal letter="444" page="176" line="1">
@@ -54938,8 +54930,12 @@ Brief Nr. 444
 <bzg>Briefe</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
 </marginal>
 
-<marginal letter="444" page="176" line="20">
-<bzg>Sapienti sat. Acti …</bzg>  lat. sprichw. für: für den Verständigen genug; dt. angenehm sind erledigte Arbeiten (Cic. fin. 2,32,105)
+<marginal letter="444" page="176" line="20" sort="1">
+<bzg>Sapienti sat</bzg>  lat. sprichw. für: für den Verständigen genug
+</marginal>
+ 
+ <marginal letter="444" page="176" line="20" sort="2">
+<bzg>Acti labores iucundi</bzg> dt. angenehm sind erledigte Arbeiten (Cic. <titel>fin.</titel> 2,32,105)
 </marginal>
 
 <marginal letter="444" page="176" line="21">
