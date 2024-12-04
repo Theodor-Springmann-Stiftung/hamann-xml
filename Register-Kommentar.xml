@@ -658,11 +658,29 @@ Dt. Übers. zitiert nach: Kurt Flasch u. Burkhard Mojsisch (Übers.), <titel>Aug
 <subsection id="auvigny-nero" type="neuzeit" sort="10">
 <lemma>d’Auvigny, <titel>Anecdotes galantes et tragiques de la cour de Neron</titel></lemma>
 <eintrag>
-vermutl. zus. mit <link ref="desfontaines" linktext="true" />, <titel>Anecdotes galantes et tragiques de la cour de Neron</titel> (Amsterdam, Paris 1735)</eintrag>
+vermutl. zus. mit <link ref="desfontaines" linktext="true" />, <titel>Anecdotes galantes et tragiques de la cour de Neron</titel> (Amsterdam, Paris 1735).</eintrag>
 </subsection>
 </kommentar>
 
 B
+
+
+<kommentar id="bach-ja" type="neuzeit">
+<lemma>Johann August Bach</lemma>
+<eintrag>1721–1758. Rechtshistoriker in Leipzig.</eintrag>
+<subsection id="bach-opuscula" type="neuzeit" sort="10">
+<lemma>Bach, <titel>Opuscula ad Historiam et Iurisprudentiam Spectantia</titel></lemma>
+<eintrag>
+<titel>Opuscula ad Historiam et Iurisprudentiam Spectantia</titel>, hg. von <link ref="klotz" linktext="true" /> (Halle: Curtius 1767). Digitalisat: <wwwlink address="https://opendata.uni-halle.de//handle/1981185920/46581">ULB Halle: Kc 1039</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="bachmann" type="neuzeit">
+<lemma>Heinrich Wilhelm Bachmann d. J.</lemma>
+<eintrag>1737–1776. Sohn eines Magdeburger Tuchhändlers, Mitbegründer der Magdeburger Mittwochsgesellschaft, Freund <link ref="gleim" linktext="false">Gleims</link> und Unterstützer von <link ref="karsch" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="bacon" type="neuzeit">
 <lemma>Francis Bacon</lemma>
 <eintrag>1561–1626. 1. Viscount St. Albans, 1. Baron Verulam; Philosoph, Jurist. <wwwlink address="https://plato.stanford.edu/archives/win2016/entries/francis-bacon/">Klein, Jürgen: Francis Bacon, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Winter 2016 Edition)</wwwlink>.
@@ -679,11 +697,6 @@ B
 Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Francis Bacon, Essays oder praktische und moralische Ratschläge</titel> (Ditzingen 2005).<line type="break" />
 <titel>Sermones fideles, ethici, politici, oeconomici: sive interiora rerum</titel> (Leiden 1644) [Biga&#x202F;129/450: „Fr. Baconis de Verulamio Sermones fidelibus, Amst. 683“].</eintrag>
 </subsection>
-</kommentar>
-
-<kommentar id="bachmann" type="neuzeit">
-<lemma>Heinrich Wilhelm Bachmann d. J.</lemma>
-<eintrag>1737–1776. Sohn eines Magdeburger Tuchhändlers, Mitbegründer der Magdeburger Mittwochsgesellschaft, Freund <link ref="gleim" linktext="false">Gleims</link> und Unterstützer von <link ref="karsch" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="baglivi" type="neuzeit">
@@ -10923,7 +10936,7 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 
 <kommentar id="montaigne" type="neuzeit">
 <lemma>Michel Eyquem de Montaigne</lemma>
-<eintrag>1533–1592. <wwwlink address="https://plato.stanford.edu/archives/spr2019/entries/montaigne/">Foglia, Marc, in: Michel de Montaigne, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Spring 2019 Edition)</wwwlink>.
+<eintrag>1533–1592. <wwwlink address="https://plato.stanford.edu/archives/spr2019/entries/montaigne/">Foglia, Marc: Michel de Montaigne, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Spring 2019 Edition)</wwwlink>.
 </eintrag>
 <subsection id="montaigne-essays" type="neuzeit" sort="10">
 <lemma>Montaigne, <titel>Essays</titel></lemma>
@@ -10933,7 +10946,7 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 </subsection>
 <subsection id="montaigne-voyage" type="neuzeit" sort="20">
 <lemma>Montaigne, <titel>Journal du voyage</titel></lemma>
-<eintrag><titel>Journal de voyage de Michel de Montaigne en Italie, Par la Suisse et l’Allemagne en 1580 et 1581. Avec des Notes par M. de Querlon</titel> (3&#xA0;Bde.; Rom: le Jay1774). 
+<eintrag><titel>Journal de voyage de Michel de Montaigne en Italie, Par la Suisse et l’Allemagne en 1580 et 1581. Avec des Notes par M. de Querlon</titel> (3&#xA0;Bde., Rom: le Jay 1774). 
 </eintrag>
 </subsection>
 </kommentar>
@@ -11897,7 +11910,7 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 
 <kommentar id="pfenninger" type="neuzeit">
 <lemma>Johann Konrad Pfenninger</lemma>
-<eintrag>1747–1792. Schweizer. reform. Theologe, 1778 Pfarrer der Waisenhauskirche, 1786 Diakon der Peterskirche in Zürich, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104318112.html#adbcontent">l. u., Pfenninger, Konrad, in: <titel>ADB</titel>&#x202F;25 (1897), S.&#x202F;660&#x2013;661</wwwlink>..</eintrag>
+<eintrag>1747–1792. Schweizer. reform. Theologe, 1778 Pfarrer der Waisenhauskirche, 1786 Diakon der Peterskirche in Zürich, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104318112.html#adbcontent">Pfenninger, Konrad, in: <titel>ADB</titel>&#x202F;25 (1897), S.&#x202F;660&#x2013;661</wwwlink>..</eintrag>
 <subsection id="pfenninger-vorlesungen" type="neuzeit">
 <lemma>Pfenninger, <titel>5 Vorlesungen</titel></lemma>
 <eintrag>
