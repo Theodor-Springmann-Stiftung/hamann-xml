@@ -55360,7 +55360,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="184" line="10">
-<bzg>Mosheim</bzg> ?!?
+<bzg>Mosheim</bzg> vmtl. <link ref="mosheim" subref="mosheim-constantin" linktext="true" />
 </marginal>
 
 <marginal letter="447" page="184" line="12">
@@ -55368,7 +55368,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="184" line="16">
-<bzg>Hinz</bzg> <link ref="hinz" linktext="true" />
+<bzg>Hartknoch ... Hinz</bzg> <link ref="hartknoch" linktext="true" />, <link ref="hinz" linktext="true" />
 </marginal>
 
 <marginal letter="447" page="184" line="17" sort="1">
@@ -55376,7 +55376,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="184" line="17" sort="2">
-<bzg>Vetium Epagathum</bzg> als Autor von <link ref="hamann" subref="hamann-hierophant" linktext="true" />  
+<bzg>Vetium Epagathum</bzg> als Autor von <link ref="hamann" subref="hamann-hierophant" linktext="true" />, vgl. N III, S.165.
 </marginal>
 
 <marginal letter="447" page="184" line="19" sort="1">
@@ -55400,7 +55400,11 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="184" line="30">
-<bzg>Naturalia non sunt turpia</bzg> dt. das Natürliche macht keine Schande (Eur. Hypsipyle, Tragic. Graec. Fragmenta 812,7ff.)
+<bzg>Naturalia non sunt turpia</bzg> dt. das Natürliche macht keine Schande. Sprichwörtl. in der cynischen Verteidigung des Körperlichen; nach <link ref="euripides" linktext="true"/>, <titel>Hypsipyle</titel>.
+</marginal>
+
+<marginal letter="447" page="184" line="30">
+<bzg>Mysterien des Hymens</bzg> Jungfernhäutchen, vgl. <titel>Versuch einer Sibylle über die Ehe</titel>, N III, S.201/3
 </marginal>
 
 <marginal letter="447" page="184" line="35">
@@ -55408,7 +55412,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="185" line="1">
-<bzg>Weib und sämtl. Schlafgesindel</bzg> aus dem Vierzeiler „Als er sein Weib und’s Kind an ihrer Brust schlafend fand“ von  <link ref="claudius" linktext="true" /> 
+<bzg>Weib und sämtl. Schlafgesindel</bzg> aus dem Vierzeiler „Als er sein Weib und’s Kind an ihrer Brust schlafend fand“ in  <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, S.20
 </marginal>
 
 
