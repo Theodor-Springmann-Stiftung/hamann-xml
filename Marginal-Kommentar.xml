@@ -55745,7 +55745,7 @@ Brief Nr. 449
 Brief Nr. 450
 
 <marginal letter="450" page="190" line="2" sort="1">
-<bzg>Olympischen oder Pythischen</bzg> vgl.<intlink letter="449" page="187" line="23" linktext="true" /> 
+<bzg>Olympischen oder Pythischen</bzg> der Akademie-Preis für <link ref="herder" subref="herder-geschmack" linktext="true" />, vgl. <intlink letter="449" page="187" line="23" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="190" line="2" sort="2">
@@ -55753,7 +55753,7 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="190" line="3">
-<bzg>non poss. dicere quid?</bzg> vgl. <intlink letter="459" page="187" line="18" linktext="true" /> 
+<bzg>non poss. dicere quid?</bzg> vgl. <intlink letter="449" page="187" line="18" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="190" line="4">
@@ -55761,16 +55761,11 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="190" line="5">
-<bzg>Oetinger theol. ex id. vitae deductae</bzg> ?!?
+<bzg>Oetinger theol. ex id. vitae deductae</bzg> <link ref="oetinger" subref="oetinger-theologia" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="190" line="6">
-<bzg>lahme Wansb.</bzg> <link ref="claudius" linktext="true" />
-</marginal>
-
-<marginal letter="450" page="190" line="7">
-<bzg>Voßische Geistode</bzg> <link ref="voss" linktext="true" />, Auf die Ausgießung des heiligen Geistes (am Pfingstfest), in <link ref="claudius" subref="claudius-bothe" linktext="true" />, Nr. 89, vom 6. Juni
-1775.
+<bzg>lahme Wansb. ... Voßische Geistode</bzg> <link ref="voss" linktext="true" />, „Auf die Ausgießung des heiligen Geistes (am Pfingstfest)“, in <link ref="claudius" subref="claudius-bothe" linktext="true" />, Nr. 89, vom 6. Juni 1775.
 </marginal>
 
 <marginal letter="450" page="190" line="8">
@@ -55786,19 +55781,19 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="190" line="15">
-<bzg>Wansb. Asmus</bzg> <link ref="claudius" subref="claudius-bothe" linktext="true" />
+<bzg>Wansb. Asmus</bzg> <titel>Wandsbecker Bothe</titel>
 </marginal>
 
 <marginal letter="450" page="190" line="24">
 <bzg>Kleck</bzg> Kladde
 </marginal>
 
-<marginal letter="450" page="190" line="24">
+<marginal letter="450" page="190" line="27">
 <bzg>Sulzer</bzg> <link ref="sulzer" linktext="true" />, vgl. <intlink letter="459" page="188" line="22" linktext="true" />
 </marginal>
 
-<marginal letter="450" page="190" line="29">
-<bzg>Weguelin</bzg> <link ref="wegelin" linktext="true" />, vgl. <intlink letter="459" page="188" line="22" linktext="true" />
+<marginal letter="450" page="190" line="28">
+<bzg>Merian</bzg> <link ref="merian " linktext="true" />
 </marginal>
 
 <marginal letter="450" page="190" line="30">
@@ -55806,32 +55801,23 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="190" line="31">
-<bzg>Religiose Gespr. im R. der T.</bzg> <link ref="wegelin" subref="wegelin-gespraeche" linktext="true" />; <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Hs Rezension im 27. St. vom 4. Mai 1764, N IV,293–295
+<bzg>Religiose Gespr. im R. der T.</bzg> <link ref="wegelin" subref="wegelin-gespraeche" linktext="true" />; <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Hamanns Rezension im 27. St. vom 4. Mai 1764, N IV,293–295
 </marginal>
 
 <marginal letter="450" page="190" line="32">
-<bzg>Sokrat. Gespr. von W.</bzg> Sokrat.[ischen] Gespr.[äche] von W.[ieland]; <link ref="wegelin" subref="wegelin-sokrates" linktext="true" />; die Kritik von <link ref="mendelssohn" linktext="true" /> im 7. Teil von <link ref="literatur-briefe" linktext="true" />, 115.–118. Brief, 1760
+<bzg>Sokrat. Gespr. von W.</bzg> <link ref="wegelin" subref="wegelin-sokrates" linktext="true" />; die Kritik von <link ref="mendelssohn" linktext="true" /> im 7. Teil von <link ref="briefe-literatur" linktext="false">Literaturbriefe</link> (115.–118. Brief, 1760).
+</marginal>
+ 
+ <marginal letter="450" page="190" line="33">
+<bzg>Wiel.</bzg> <link ref="wieland" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="190" line="34">
-<bzg>caracteres u. histoires romaines</bzg> ?!?
+<bzg>caracteres u. histoires romaines</bzg> <link ref="wegelin" subref="wegelin-caracteres" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="190" line="35">
-<bzg>Plane zur Politischen …</bzg> Römerhistorie: Plan raisonné d'une histoire
-universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740. ?!?
-</marginal>
-
-<marginal letter="450" page="190" line="37">
-<bzg>Politisch-historisch Werk</bzg> Histoire universelle et diplomatique ?!?
-</marginal>
-
-<marginal letter="450" page="191" line="6">
-<bzg>Zeit.</bzg> <link ref="claudius" subref="claudius-bothe" linktext="true" />  
-</marginal>
-
-<marginal letter="450" page="191" line="8">
-<bzg>Hierophanten</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
+<bzg>Plane zur Politischen …</bzg> <link ref="wegelin" subref="wegelin-plan" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="191" line="9">
@@ -55839,7 +55825,7 @@ universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740. ?
 </marginal>
 
 <marginal letter="450" page="191" line="10">
-<bzg>Nichts u. Etwas</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />, 3. Brief, N III,144
+<bzg>Nichts u. Etwas</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />, 3. Brief, N III, S.144
 </marginal>
 
 <marginal letter="450" page="191" line="11">
@@ -55847,35 +55833,27 @@ universelle et diplomatique de l'Europe depuis Charlemagne jusqu'à l'an 1740. ?
 </marginal>
 
 <marginal letter="450" page="191" line="13">
-<bzg>8.</bzg> Quartformat; vgl. <intlink letter="444" page="175" line="23" linktext="true" />; Brief: 444
-</marginal>
-
-<marginal letter="450" page="191" line="15">
-<bzg>Hain</bzg> ?!? der in <link ref="claudius" subref="claudius-werke" linktext="true" /> enthaltene Kupferstich des Knochenmanns mit Hippe
-</marginal>
-
-<marginal letter="450" page="191" line="16" sort="1">
-<bzg>Brief</bzg> Brief 448
+<bzg>8.</bzg> Oktavformat; vgl. <intlink letter="444" page="175" line="23" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="191" line="16" sort="2">
-<bzg>alter Ruprecht</bzg> Zitat aus der Dedikation von <link ref="claudius" subref="claudius-werke" linktext="true" />
+<bzg>alter Ruprecht</bzg> Zitat aus der Dedikation von <link ref="claudius" subref="claudius-werke" linktext="true" />, worin auch der Kupferstich von „Hain“ als Figur des Todes (Sensenmann) erläutert wird.
 </marginal>
 
 <marginal letter="450" page="191" line="18">
-<bzg>Matth. Klaud. zu Pyrm. Brunnen</bzg> <link ref="claudius" linktext="true" />; Pyrmont
+<bzg>Matth. Klaud. zu Pyrm. Brunnen</bzg> <link ref="claudius" linktext="true" /> wird zur Brunnenkur in Pyrmont eingeladen.
+</marginal>
+ 
+ <marginal letter="450" page="191" line="21" sort="1">
+<bzg>Swifts Monde</bzg> <link ref="swift" subref="swift-brunt" linktext="true" />
 </marginal>
 
-<marginal letter="450" page="191" line="20">
-<bzg>Sense</bzg> vgl. der in <link ref="claudius" subref="claudius-werke" linktext="true" /> enthaltene Kupferstich des Knochenmanns mit Hippe
+<marginal letter="450" page="191" line="21" sort="2">
+<bzg>hie sind wir</bzg> <link ref="at-hi" subref="at-hi35" linktext="false">Hi 38,35</link>
 </marginal>
 
-<marginal letter="450" page="191" line="21">
-<bzg>Swifts Monde</bzg> wahrscheinlich aus der Swift zugeschriebenen Reise nach Kaklogallinia von Sebastian Brunt ?!?
-</marginal>
-
-<marginal letter="450" page="191" line="21">
-<bzg>Myster. Buche … Meursius</bzg> vgl. <intlink letter="449" page="188" line="15" linktext="true" /> 
+<marginal letter="450" page="191" line="22">
+<bzg>Myster. Buche … Meursius</bzg> <link ref="meursius" subref="meursius-eleusinia" linktext="true" />, vgl. <intlink letter="449" page="188" line="15" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="191" line="24">
