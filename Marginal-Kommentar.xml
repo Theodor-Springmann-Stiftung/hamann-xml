@@ -55831,8 +55831,12 @@ Brief Nr. 450
 <marginal letter="450" page="191" line="11">
 <bzg>Br. 2er Br. Jesu</bzg> <link ref="herder" subref="herder-briefebruder" linktext="true" />  
 </marginal>
+ 
+ <marginal letter="450" page="191" line="13" sort="1">
+<bzg>Purganz</bzg> Reinigung, Abführmittel
+</marginal>
 
-<marginal letter="450" page="191" line="13">
+<marginal letter="450" page="191" line="13" sort="2">
 <bzg>8.</bzg> Oktavformat; vgl. <intlink letter="444" page="175" line="23" linktext="true" />
 </marginal>
 
@@ -55861,7 +55865,7 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="191" line="25">
-<bzg>Gronovschen Samml.</bzg> J. Gronovius, Thesaurus graecarum antiquitatum ?!?
+<bzg>Gronovschen Samml.</bzg> Johann Friedrich Gronovius, Titel nicht ermittelt
 </marginal>
 
 <marginal letter="450" page="191" line="26" sort="1">
@@ -55873,7 +55877,7 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="191" line="26" sort="3">
-<bzg>Zorns Opusc. u. Bibl. sacra antiqu. sacr.</bzg> Opus.[cula] u. Bibl.[liotheca] antiqu.[aria] sacr.[a]. ?!?
+<bzg>Zorns Opusc. u. Bibl. sacra antiqu. sacr.</bzg> Opus.[cula] u. Bibl.[liotheca] antiqu.[aria] sacr.[a]; nicht ermittelt
 </marginal>
 
 <marginal letter="450" page="191" line="27">
@@ -55881,7 +55885,7 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="191" line="28">
-<bzg>Hephäst.</bzg> wohl <link ref="hamann" subref="hamann-hierophant" linktext="true" />
+<bzg>Hephäst.</bzg> <link ref="starck" subref="starck-hephaestion" linktext="true" />  
 </marginal>
 
 <marginal letter="450" page="191" line="29">
