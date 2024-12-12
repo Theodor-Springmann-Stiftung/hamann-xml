@@ -1264,6 +1264,12 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 <eintrag>1710–1776. Seit 1763 <link ref="kriegs-und-domaenenkammer" linktext="false">Kriegs- und Domänenrat in Königsberg</link>; stand von seinem 1770 bis zu seinem Tod einem der wichtigsten Ressorts vor, ihm unterstanden die Stadt Königsberg, die Akzise- Zoll- Kommerzien-, Manufaktur-, Polizei- und Judensachen (siehe Rolf Straubel: <titel>Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806</titel> (München 2009), Bd.&#x202F;1, S.&#x202F;72).
 </eintrag>
 </kommentar>
+ 
+<kommentar id="bertuch" type="neuzeit">
+<lemma>Friedrich Johann Justin Bertuch</lemma>
+<eintrag>1747–1822. 1775- 96 Geh.- Sekretär und Schatullverwalter von Herzog Carl August von Sachsen-Weimar. Übersetzer des <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118510169.html#ndbcontent">Schreinert, Kurt: Bertuch, Friedrich Justin, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;171–173</wwwlink>.
+</eintrag>
+</kommentar>
 
 <kommentar id="bescheffer" type="neuzeit">
 <lemma>Sophie Christiana Eleonore von Bescheffer</lemma>
@@ -1654,12 +1660,18 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="boie" type="neuzeit">
 <lemma>Heinrich Christian Boie</lemma>
-<eintrag>1744–1806. Dichter und Herausgeber, 1770 Begründer des Göttinger Musenalmanachs und bis 1775 dessen Herausgeber, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5149.html#ndbcontent">Elschenbroich, Adalbert: Boie, Heinrich Christian, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;434f</wwwlink>.
+<eintrag>1744–1806. Dichter und Herausgeber, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5149.html#ndbcontent">Elschenbroich, Adalbert: Boie, Heinrich Christian, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;434f</wwwlink>.
 </eintrag>
-<subsection id="boie-goettingermusenalm1775" type="neuzeit">
+<subsection id="boie-goettingermusenalm1775" type="neuzeit" sort="10">
 <lemma><titel>Göttinger Musenalmanach 1775</titel></lemma>
 <eintrag>
 <titel>Poetische Blumenlese Auf das Jahr 1775.</titel>  (Göttingen, Gotha: Dieterich). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10859211-5">BSB München: 1305-1775</wwwlink>.
+</eintrag>
+</subsection>
+ <subsection id="boie-museum" type="neuzeit" sort="20">
+<lemma><titel>Deutsches Museum</titel></lemma>
+<eintrag>
+Zus. mit <titel>Deutsches Museum</titel>  (Leipzig 1776–1788). Digitalisate: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1923976/">Universitätsbibliothek Bielefeld</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -2529,7 +2541,8 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <lemma>Cervantes, <titel>Don Quijote</titel></lemma>
 <eintrag>
 <titel>Vida y Hechos del ingenioso Hidalgo Don Quixote de la Mancha, compuesta por Miguèl de Cervantes Saavedra</titel>, 4 Bde (Den Haag 1744) [Biga 164/560: „Vida y Hechos del ingenioso Hidalgo Don Quixote de la Mancha, compuesta por Miguel de Cervantes Saavedra, Tom. I–IV. Haia 744. mit Kupf.“]. Digitalisat: <wwwlink address="http://bdh.bne.es/bnesearch/detalle/bdh0000022647">Biblioteca Digital Hispánica: R/32262 V.1–jR/32265 V.4</wwwlink>.<line type="break" />
-Übers.: <titel>Des berühmten Ritters Don Quixote von Mancha lustige und sinnreiche Geschichte, abgefasset von Migvel Cervantes Saavedra</titel> (2 Bde., 2. Aufl., Leipzig 1753) [Biga 149/331: „Geschichte des Don Quixote, 1. 2. Th. Leipz. 753“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10607210-9">BSB München: P.o.hisp. 63 q-1</wwwlink>.
+Übers.: <titel>Des berühmten Ritters Don Quixote von Mancha lustige und sinnreiche Geschichte, abgefasset von Migvel Cervantes Saavedra</titel> (2 Bde., 2. Aufl., Leipzig 1753) [Biga 149/331: „Geschichte des Don Quixote, 1. 2. Th. Leipz. 753“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10607210-9">BSB München: P.o.hisp. 63 q-1</wwwlink>.<line type="break" />
+Übers.: <titel>Leben und Thaten des weisen Junkers Don Quixote von Mancha. Neue Ausgabe, aus der Urschrifft des Cervantes, nebst der Fortsetzung des Avellaneda</titel>, übers. von <link ref="bertuch" linktext="true" /> (6 Bde., Weimar, Leipzig 1775–1777). Digitalisate: <wwwlink address="https://opendata.uni-halle.de/handle/1981185920/83307">ULB Halle: Dk 1265 d</wwwlink>. Diese Übersetzung wurde von Hamanns rezensiert in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, St.19, 4.3.1776 (Beylage), siehe N IV, S.426–427.
 </eintrag>
 </subsection>
 </kommentar>
