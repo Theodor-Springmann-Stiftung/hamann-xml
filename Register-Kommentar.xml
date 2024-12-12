@@ -323,7 +323,7 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <eintrag>1731–1805. Frz. Orientalist, Begründer der Iranistik und des Zend-Studiums.</eintrag>
 <subsection id="anquetil-duperron-zend" type="neuzeit">
 <lemma>Anquetil-Duperron, <titel>Zend-Avesta, Zoroaster’s lebendiges Wort</titel></lemma>
-<eintrag><titel>Zend-Avesta, Zoroaster’s lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes der Parsen aufbehalten sind. A. d. Frz. [v. <link ref="kleuker" linktext="true" />]</titel> (3 Tle. Riga: Hartknoch 1776/8).
+<eintrag><titel>Zend-Avesta, Zoroaster’s lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes der Parsen aufbehalten sind</titel>, übers. aus dem Franz. von <link ref="kleuker" linktext="true" />] (3 Tle. Riga: Hartknoch 1776/8).
 </eintrag>
 </subsection>
 </kommentar>
@@ -789,6 +789,12 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 <lemma>Basedow, <titel>Philalethie; neue Aussichten in die Wahrheit und Religion der Vernunft</titel></lemma>
 <eintrag>
 <titel>Philalethie; neue Aussichten in die Wahrheit und Religion der Vernunft bis in die Gränzen der glaubwürdigen Offenbarung dem denkenden Publikum eröffnet</titel> (Altona: Iversen 1764).
+</eintrag>
+</subsection>
+ <subsection id="basedow-dessau" type="neuzeit" sort="30">
+<lemma>Basedow, <titel>Für Cosmopoliten etwas zu lesen</titel></lemma>
+<eintrag>
+<titel>Für Cosmopoliten etwas zu lesen, zu denken und zu thun: in Ansehung des in Anhalt-Dessau errichteten Philantropins oder Pädagogischen Seminars von ganz neuer Art, die schon alt seyn sollte ; ein Antrag an Eltern, an Studierende ... Staatsmänner</titel> (Leipzig 1775). Digitalisat: <wwwlink address=" http://data.onb.ac.at/rec/AC09684492">ÖNB Wien: *31.G.12</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -7822,8 +7828,8 @@ Jüdischer Krieg, lat. de bello Iudaico, griech. Περὶ τοῦ Ἰουδαι
 
 
 <kommentar id="jung" type="neuzeit">
-<lemma>Johann Heinrich Jung, gen. Jung-Stilling</lemma>
-<eintrag>1740–1817, Augenarzt, Kameralist, Prof. der Kameralistik in Kaiserslautern u. Marburg siehe <wwwlink address="https://www.deutsche-biographie.de/sfz61166.html#adbcontent">Wagner, Eduard: Jung-Stilling, Johann Heinrich, in: <titel>ADB</titel>&#x202F;14 (1881), S.&#x202F;697–704</wwwlink>.
+<lemma>Johann Heinrich Jung</lemma>
+<eintrag>Gen. Jung-Stilling. 1740–1817, Augenarzt, Kameralist, Prof. der Kameralistik in Kaiserslautern u. Marburg siehe <wwwlink address="https://www.deutsche-biographie.de/sfz61166.html#adbcontent">Wagner, Eduard: Jung-Stilling, Johann Heinrich, in: <titel>ADB</titel>&#x202F;14 (1881), S.&#x202F;697–704</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -8595,7 +8601,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kraus" type="neuzeit">
 <lemma>Christian Jacob Kraus</lemma>
-<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, 1781 als Nachfolger von K. A. Christiani Prof. der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von J. Ch. Buchholtz, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink></eintrag>
+<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, 1781 als Nachfolger von K. A. Christiani Prof. der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von <link ref="bucholtz-k-jc" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="krebs" type="neuzeit">
@@ -16283,7 +16289,7 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <subsection id="wieland-abderiten" type="neuzeit" sort="90">
 <lemma>Wieland, <titel>Die Abderiten</titel></lemma>
 <eintrag>
-<titel>Die Abderiten.</titel>Eine sehr wahrscheinliche Geschichte. vom Herrn Hofrath Wieland (Weimar: Hoffmann 1774) [Biga&#x202F;149/322: „Ei. goldener Spiegel, 1.–4ter Th. Leipz. 772“]. Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN629754624">SUB Göttingen: Fab. Rom. VI, 4051</wwwlink>.
+<titel>Die Abderiten. Eine sehr wahrscheinliche Geschichte</titel> (Weimar: Hoffmann 1774) [Biga&#x202F;149/322: „Ei. goldener Spiegel, 1.–4ter Th. Leipz. 772“]. Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN629754624">SUB Göttingen: Fab. Rom. VI, 4051</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>

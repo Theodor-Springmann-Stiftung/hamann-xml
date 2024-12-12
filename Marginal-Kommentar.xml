@@ -56160,7 +56160,7 @@ einem Pfarrer, zu rächen. Ende 1774 musste er Würzburg wieder verlassen, wegen
 </marginal>
 
 <marginal letter="452" page="195" line="34">
-<bzg>CAROLINE</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 1,  XVII. Fragment, Nr. 4 
+<bzg>CAROLINE</bzg> <link ref="herder-c" linktext="true" /> in <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.1,  S.192
 </marginal>
 
 <marginal letter="452" page="195" line="35">
@@ -56532,11 +56532,11 @@ Brief Nr. 454
 
 Brief Nr. 455
 
-<marginal letter="455" page="202" line="16">
+<marginal letter="455" page="202" line="17" sort="1">
 <bzg>hui</bzg> huius, d.i. diesen [Monats]
 </marginal>
 
-<marginal letter="455" page="202" line="17">
+<marginal letter="455" page="202" line="17" sort="2">
 <bzg>Einl.</bzg> an <link ref="herder-cd-g" linktext="true" /> 
 </marginal>
 
@@ -56561,7 +56561,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="203" line="3">
-<bzg>hieroph. Briefen</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />
+<bzg>Stellen ... hieroph. Briefen</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />, vgl. zu den Änderungen durch <intlink letter="452" page="194" line="28" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="203" line="8">
@@ -56577,7 +56577,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="203" line="31">
-<bzg>Zeitungen … Trescho</bzg> vgl. vgl. <intlink letter="452" page="197" line="24" linktext="true" /> 
+<bzg>Zeitungen … Trescho</bzg> vgl. <intlink letter="452" page="197" line="24" linktext="true" />. Eine Rezension von <link ref="herder" subref="herder-prediger" linktext="true" /> durch <link ref="trescho-sf" linktext="true" /> erschien im 59. Stück der <link ref="konigsbergsche-gelehrte-p-z" linktext="false">Königsbergschen Gelehrten und Politischen Zeitungen</link> vom 24.7.1775; außerdem wohl eine Claudius- Rezension ebenfalls von Trescho.
 </marginal>
 
 <marginal letter="455" page="203" line="32">
@@ -56597,23 +56597,23 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="204" line="4">
-<bzg>Walchs Bibliothek</bzg> <link ref="walch" subref="walch-bibliothek" linktext="true" />, Bd 3,1. und 2. St., mit der Rezension von Ch. Meiners. ?!?
+<bzg>Walchs Bibliothek</bzg> <link ref="walch" subref="walch-bibliothek" linktext="true" />, Bd.3/1, S.60–83. und 3/2, S.95–127
 </marginal>
 
 <marginal letter="455" page="204" line="5">
-<bzg>Nicolai … Zacchaei</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 25/1,S. 292–296
+<bzg>Nicolai … Zacchaei</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.25/1, S.292–296
 </marginal>
 
 <marginal letter="455" page="204" line="6">
-<bzg>Hd. Dh.</bzg> Kürzel der Rezensenten in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 24/1, S. 287–296
+<bzg>Hd. Dh.</bzg> Kürzel der Rezensenten in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.24/1, S.287–296
 </marginal>
 
 <marginal letter="455" page="204" line="9">
-<bzg>Lavaters phys. Fragmente</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" /> 
+<bzg>Lavaters phys. Fragmente</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, „Erster Versuch“
 </marginal>
 
 <marginal letter="455" page="204" line="11">
-<bzg>Caroline</bzg> vgl. <intlink letter="456" page="209" line="33" linktext="true" />
+<bzg>Caroline</bzg> ebd. S.192, vgl. <intlink letter="456" page="209" line="33" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="204" line="12">
@@ -56625,27 +56625,23 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="204" line="14">
-<bzg>Göthe</bzg> <link ref="goethe" linktext="true" />, <link ref="lavater" subref="lavater-fragmente" linktext="true" />, IX Abschnitt, VI. Fragment
+<bzg>Göthe</bzg> <link ref="goethe" linktext="true" />, <link ref="lavater" subref="lavater-fragmente" linktext="true" />, S.223
 </marginal>
 
-<marginal letter="455" page="204" line="14">
+<marginal letter="455" page="204" line="15">
 <bzg>Vision</bzg> vgl. Brief 453
 </marginal>
 
 <marginal letter="455" page="204" line="20">
-<bzg>K.</bzg> <link ref="kanter" linktext="true" />
+<bzg>K.</bzg> Kanter
 </marginal>
 
 <marginal letter="455" page="204" line="22">
-<bzg>Apollonio</bzg> vgl. Brief Nr. 453
+<bzg>Apollonio</bzg> <link ref="kant" linktext="true" />, vgl. Brief Nr. 453
 </marginal>
 
 <marginal letter="455" page="204" line="24">
 <bzg>H – l</bzg> vll. <link ref="hippel" linktext="true" />
-</marginal>
-
-<marginal letter="455" page="204" line="31">
-<bzg>Lavater</bzg> vll. <link ref="lavater" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="204" line="33">
@@ -56657,7 +56653,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="204" line="35">
-<bzg>Hd. Dh.</bzg> Kürzel der Rezensenten in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 24/1, S. 287–296
+<bzg>Hd. Dh.</bzg> Kürzel der Rezensenten in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.24/1, S. 287–296
 </marginal>
 
 <marginal letter="455" page="205" line="3">
@@ -56689,7 +56685,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="205" line="22">
-<bzg>Klotzens</bzg> <link ref="klotz" linktext="true" /> protegierte <link ref="penzel" linktext="true" /> und ließ ihn Rezensionen für <link ref="bibl-wiss-kuenste" linktext="true" /> schreiben
+<bzg>Klotzens</bzg> <link ref="klotz" linktext="true" /> protegierte <link ref="penzel" linktext="true" /> und ließ ihn Rezensionen für die <link ref="bibl-wiss-kuenste" linktext="true" /> schreiben.
 </marginal>
 
 <marginal letter="455" page="205" line="25" sort="1">
@@ -56705,11 +56701,11 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="205" line="28">
-<bzg>Danischmende</bzg> der Hofphilosoph in <link ref="wieland" subref="wieland-spiegel" linktext="true" />  
+<bzg>Danischmende</bzg>  Turkmenisches Herrscherhaus in Anatolien im 11. und 12. Jahrhundert. In <link ref="wieland" subref="wieland-spiegel" linktext="true" /> ist ein Hofphilosoph so benannt. Auszüge davon kannte Hamann vll. aus dem <link ref="teutsche-merkur" linktext="false">Teutschen Merkur</link>, die dort in den vier Ausgaben 1775 erschienen.
 </marginal>
 
 <marginal letter="455" page="205" line="29">
-<bzg>Göthens Arlequinspeitsche</bzg> <link ref="goethe" subref="goethe-gotter" linktext="true" /> 
+<bzg>Göthens Arlequinspeitsche</bzg> vll. <link ref="goethe" subref="goethe-gotter" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="205" line="33" sort="1">
@@ -56725,23 +56721,19 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="205" line="35">
-<bzg>wachsen … abnehmen</bzg> <link ref="nt-jo" subref="nt-jo3" linktext="false">Joh 3,30</link>
+<bzg>wachsen … abnehme</bzg> <link ref="nt-jo" subref="nt-jo3" linktext="false">Joh 3,30</link>
 </marginal>
 
 <marginal letter="455" page="206" line="1">
-<bzg>Basedows Philantropinum</bzg> <link ref="basedow" linktext="true" /> gründete 1774 in Dessau eine Reformschule
+<bzg>Basedows Philantropinum ... Cosmopoliten </bzg> Basedow gründete 1774 in Dessau eine Reformschule; <link ref="basedow" subref="basedow-dessau" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="206" line="5">
-<bzg>Layenbruder und Claudius</bzg> vgl. <intlink letter="453" page="202" line="6" linktext="true" />
+<bzg>Layenbruder und Claudius</bzg> <link ref="moser" linktext="true" /> und <link ref="claudius" linktext="true" />; vgl. <intlink letter="453" page="202" line="6" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="206" line="7">
 <bzg>Nickel und seine beyde Gesellen</bzg> vgl. <intlink letter="455" page="204" line="6" linktext="true" /> 
-</marginal>
-
-<marginal letter="455" page="206" line="10" sort="1">
-<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="206" line="10" sort="2">
@@ -56773,7 +56765,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="206" line="19" sort="2">
-<bzg>Kurtz, Hintz</bzg> ?!?, <link ref="hinz" linktext="true" /> 
+<bzg>Kurtz, Hintz</bzg> Kurtz nicht ermittelt; <link ref="hinz" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="206" line="26">
@@ -56796,7 +56788,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="207" line="9">
-<bzg>Spanische Gaul … Pegasus … Hippogryph</bzg> Rosinante aus <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />; Pegasus: mythologische geflügeltes Pferd; Hippogryph: Mischwesen aus Greif und Pferd
+<bzg>Spanische Gaul … Pegasus … Hippogryph</bzg> „Spanische Gaul“: Gangpferd, Zelter, d.i. ein zum langsamen, bequemen Reiten gezogenes Pferd; „Pegasus“: mythologische geflügeltes Pferd; „Hippogryph“: Mischwesen aus Greif und Pferd
 </marginal>
 
 <marginal letter="456" page="207" line="19">
@@ -56804,7 +56796,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="207" line="24">
-<bzg>im Testament vermacht</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N III,52,20ff.
+<bzg>im Testament vermacht</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N III, S.52/20ff.
 </marginal>
 
 <marginal letter="456" page="207" line="27" sort="1">
@@ -56832,11 +56824,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="208" line="1">
-<bzg>Prinz Karl von Mecklenb.</bzg> Karl zu Mecklenburg-Strelitz (1708–1752), Bruder von Charlotte, Prinzessin von Mecklenburg-Strelitz (1769–1818), Frau von Georg III. Wilhelm Friedrich von Hannover, König von Großbritannien (1738–1820)
-</marginal>
-
-<marginal letter="456" page="208" line="2">
-<bzg>neulich par hasard</bzg> zufällig, am 16. Juli
+<bzg>Prinz Karl von Mecklenb.</bzg> Karl II. zu Mecklenburg (1741–1816), Bruder von Sophie Charlotte, Prinzessin von Mecklenburg-Strelitz (1744–1818), Frau von Georg III. Wilhelm Friedrich von Hannover, König von Großbritannien (1738–1820)
 </marginal>
 
 <marginal letter="456" page="208" line="12">
@@ -56868,15 +56856,15 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="208" line="33">
-<bzg>Rec. der Urk. in der A. D. B</bzg> Rec.[ension] der Urk.[unde] in der A.[llgemeinen] D.[eutschen] B.[ibliothek], <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd 25/1, S. 23–61
+<bzg>Rec. der Urk. in der A. D. B</bzg> Rec.[ension] der Urk.[unde] in der A.[llgemeinen] D.[eutschen] B.[ibliothek], <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.25/1, S.23–61
 </marginal>
 
 <marginal letter="456" page="208" line="34">
-<bzg>Walchischen</bzg> <link ref="walch" subref="walch-bibliothek" linktext="true" />, 204,4 ?!?
+<bzg>Walchischen</bzg> <link ref="walch" subref="walch-bibliothek" linktext="true" />, Bd.3/1, S.60–83. und 3/2, S.95–127
 </marginal>
 
 <marginal letter="456" page="208" line="36">
-<bzg>hämische Beurtheil. der Prov. Bl.</bzg> <link ref="herder" subref="herder-prediger" linktext="true" />, <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 23/2, S. 346-375
+<bzg>hämische Beurtheil. der Prov. Bl.</bzg> <link ref="herder" subref="herder-prediger" linktext="true" />, <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.23/2, S.346–375
 </marginal>
 
 <marginal letter="456" page="208" line="37">
@@ -56900,7 +56888,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="209" line="7">
-<bzg>sub Rosa</bzg> Unter dem Siegel der Verschwiegenheit
+<bzg>sub Rosa</bzg> dt. unter dem Siegel der Verschwiegenheit
 </marginal>
 
 <marginal letter="456" page="209" line="8">
@@ -56936,11 +56924,11 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="209" line="24">
-<bzg>Lav. Physion. … Fr. v. Ompteda</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 1, S. 191; Catharina Charlotte Ompteda (gest. 1811), Oberhofmeisterin der Königin Karoline Mathilde von Dänemark
+<bzg>Lav. Physion. … Fr. v. Ompteda</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.1, S.191; Catharina Charlotte Ompteda (gest. 1811), Oberhofmeisterin der Königin Karoline Mathilde von Dänemark
 </marginal>
 
 <marginal letter="456" page="209" line="25">
-<bzg>Horst … verst. Kön. in Dännemark</bzg> Julius August Friedrich Frh. v. Horst (gest. 1791), Geheimer Etats- , Kriegs- , dirigierender Minister, 1774 entlassen; König: Friedrich V. (1732–1766)
+<bzg>Horst … verst. Kön. in Dännemark</bzg> Julius August Friedrich Frh. v. Horst (gest. 1791), Geheimer Etats-, Kriegs- und dirigierender Minister, 1774 entlassen; König: Friedrich V. (1732–1766)
 </marginal>
 
 <marginal letter="456" page="209" line="29">
@@ -56962,6 +56950,10 @@ Brief Nr. 456
 <marginal letter="456" page="209" line="33" sort="2">
 <bzg>Wilkes in carric.</bzg> <link ref="wilkes" linktext="true" /> in carric.[atur]
 </marginal>
+ 
+<marginal letter="456" page="209" line="34">
+<bzg>Frau </bzg> <link ref="herder-c" linktext="true" />
+</marginal> 
 
 <marginal letter="456" page="209" line="37">
 <bzg>Marggr. v. Baden</bzg> Karl Friedrich von Baden (1728–1811)
@@ -56976,7 +56968,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="210" line="5">
-<bzg>Joseph u. Potiphars p oder Asna-Neitha</bzg> <link ref="jung" linktext="true" /> , Ase-Neitha. Eine Erzählung, in <link ref="teutsche-merkur" linktext="true" /> 1773, 3 u. 4 ?!?
+<bzg>Joseph u. Potiphars p oder Asna-Neitha</bzg> „Ase-Neitha. Eine orientalische Erzählung“, in <link ref="teutsche-merkur" linktext="true" /> 1773, 3. und 4. Stück.
 </marginal>
 
 <marginal letter="456" page="210" line="6" sort="1">
@@ -56988,7 +56980,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="210" line="7">
-<bzg>Klockenbring</bzg> Friedrich Arnold Klockenbring (1742-1795), 1769-1771 Redakteur der Hannoverschen Anzeigen und des Hannoverschen Magazins. ?!?
+<bzg>Klockenbring</bzg> vll. Friedrich Arnold Klockenbring (1742–1795), 1769-1771 Redakteur der Hannoverschen Anzeigen und des Hannoverschen Magazins.
 </marginal>
 
 <marginal letter="456" page="210" line="8" sort="1">
@@ -57004,7 +56996,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="210" line="13">
-<bzg>Judas Ischarioth Merk</bzg>Die Ehefrau von <link ref="merck" linktext="true" /> Frau hatte ein uneheliches Kind einem französischen Offizier
+<bzg>Judas Ischarioth Merk</bzg> <link ref="merck" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="210" line="16">
@@ -57024,7 +57016,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="210" line="20">
-<bzg>Kreuzfeld</bzg> vgl. <intlink letter="455" page="205" line="7" linktext="true" />
+<bzg>Kreuzfeld</bzg> <link ref="kreutzfeld" linktext="true" />, vgl. <intlink letter="455" page="205" line="7" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="210" line="24">
