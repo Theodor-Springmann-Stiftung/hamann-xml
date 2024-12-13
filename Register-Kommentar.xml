@@ -263,6 +263,11 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <lemma>Allgemeine deutsche Bibliothek</lemma>
 <eintrag>Hrsg. v. <link ref="nicolai" linktext="true" />, Bd. 1–118 nebst Anhängen u. Reg. Bde. Berlin/Stettin [ab 1770ff. Kiel] 1765–91. [Biga&#x202F;186/113: „Allgemeine deutsche Bibliothek, Band XXIV. St. 1. Band XXV. St. 1, Berl. 775“]. Digitalisat: <wwwlink address="http://ds.ub.uni-bielefeld.de/viewer/toc/2002572/1/">Universitätsbibliothek Bielefeld</wwwlink>.</eintrag>
 </kommentar>
+ 
+<kommentar id="allgemeine-theologische-bib" type="neuzeit">
+<lemma>Allgemeine theologische Bibliothek</lemma>
+<eintrag>14 Bde., Mitau: Hinz 1774–1780. Digitalisate: <wwwlink address="https://doi.org/10.11588/diglit.22484">UB Heidelberg</wwwlink>.</eintrag>
+</kommentar>
 
 <kommentar id="alting" type="neuzeit">
 <lemma>Jacob Alting</lemma>
@@ -11487,6 +11492,17 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <lemma>The North Briton</lemma>
 <eintrag>Wochenschrift 1762–1763, die Nummern 1–46 hrsg. von <link ref="wilkes" linktext="true" />. Die Nummer 45 vom 23. April 1763 kritisierte eine Rede von König George III. Wilkes wurde angeklagt, aber schließlich vor Gericht freigesprochen. Die Nummern 47 bis 218 (1768–1771) wurden von William Bingley herausgegeben.<line type="break" />
 Digitalisat der berüchtigten Nr. 45: <wwwlink address="https://books.google.de/books?id=xr8BAAAAYAAJ">Nachdruck Dublin 1764; Nr. 45 auf S. 261–269 (Google Books)</wwwlink>. – Hamann übersetzte die Nummer in den <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 25.–27&#x202F;St. vom 29.3.–5.4.1765.</eintrag>
+</kommentar>
+ 
+<kommentar id="noesselt" type="neuzeit">
+<lemma>Johann August Nösselt</lemma>
+<eintrag>1734–1807. Theologe in Halle. , siehe <wwwlink address="https://www.deutsche-biographie.de/pnd119413280.html#adbcontent">G. Frank: Nösselt, Johann August, in: <titel>ADB</titel>&#x202F;24 (1887), S.&#x202F;25&#x2013;27</wwwlink>.</eintrag>
+<subsection id="noesselt-erziehung" type="neuzeit">
+<lemma>Nösselt, <titel>Ueber die Erziehung zur Religion</titel></lemma>
+<eintrag>
+<titel>Ueber die Erziehung zur Religion</titel> (Halle: Hemmerde 1775). Digitalisat: <wwwlink address="https://opendata.uni-halle.de/handle/1981185920/54633">ULB Halle: Ga 1791</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="nuppenau-hl" type="neuzeit">
