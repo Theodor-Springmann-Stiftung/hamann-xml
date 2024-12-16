@@ -2149,13 +2149,20 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 <kommentar id="buffon" type="neuzeit">
 <lemma>Georges-Louis Leclerc de Buffon</lemma>
 <eintrag>1707–1788. Comte. Frz. Naturforscher. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;6, 1812), S.&#x202F;234–242.</eintrag>
-<subsection id="histoirenaturelle" type="neuzeit">
+<subsection id="histoirenaturelle" type="neuzeit" sort="10">
 <lemma>Buffon, <titel>Histoire Naturelle Générale et particulière</titel></lemma>
 <eintrag>
 <titel>Histoire Naturelle Générale et particulière. Théorie de la terre; histoire naturelle de l’homme; animaux quadrupèdes. Par Buffon et Louis-Jean-Marie Daubenton</titel> (15&#xA0;Bde., Paris 1749–1767; 44&#xA0;Bde., Paris 1749–1804).<line type="break" />
 1. Übers.: <titel>Allgemeine Historie der Natur nach allen ihren besonderen Theilen abgehandelt; nebst einer Beschreibung der Naturalienkammer Sr. Majestät des Königes von Frankreich. Mit einer Vorrede Herrn Doctor <link ref="haller" linktext="false">Albrecht von Haller</link> […]</titel> (Bd.&#x202F;1–3 übers. u. mit Anm. von <link ref="kastner" linktext="true" />) (11&#xA0;Bde., Hamburg, Leipzig: Grund und Holle 1750–1774) [Biga&#x202F;97/14: „Büffon’s allgemeine Geschichte der Natur, 1–5ter Th. Hamb. 756. m. K.“]. Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id434773980">SLUB Dresden: Hist.nat.B.251-1,1ff.</wwwlink>
 <line type="break" />
 2. Übers.: <titel>Herrn von Buffons allgemeine Naturgeschichte. Eine freye mit einigen Zusätzen vermehrte Übersetzung nach der neuesten französ. Außgabe von 1769</titel>, von F. H. W. Martini (7&#xA0;Bde., Berlin 1771–1774). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://digi.ub.uni-heidelberg.de/diglit/buffon1771bd1">UB Heidelberg: O 449-3::1-2</wwwlink>.
+</eintrag>
+</subsection>
+ <subsection id="buffon-stil" type="neuzeit"  sort="20">
+<lemma>Buffon, <titel>Discours prononcé</titel></lemma>
+<eintrag>
+<titel>Discours prononcé dans l'Académie Françoise le Samedi 25 Août 1753</titel>.<line type="break" />
+Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire naturelle, générale et particulière. Nouvelle Édition</titel> (Bd.5, Paris 1769).
 </eintrag>
 </subsection>
 </kommentar>
@@ -6221,6 +6228,14 @@ Zitation nach dem Erstdruck (= ED) und N&#x202F;III, S.197–203.
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;171–196.
 </eintrag>
 </subsection>
+ <subsection id="hamann-stil" type="neuzeit" sort="682">
+<lemma>Hamann, <titel>Über den Styl</titel></lemma>
+<eintrag>
+<titel>Über den Styl</titel>. Kommentierende Übersetzung von <link ref="buffon" subref="buffon-stil" linktext="true" />. Erstdruck in: <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beilagen zum 6., 8. und 10. Stück, 18. Januar bis 1. Februar 1776.<line type="break" />
+Zweitdruck in <link ref="boie" subref="boie-museum" linktext="true" />, Leipzig 1778, Bd.2, S.254–268.<line type="break" />
+Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;419–425.
+</eintrag>
+</subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="690">
 <lemma>Hamann, <titel>Metakritik über den Purismum der Vernunft</titel></lemma>
 <eintrag>
@@ -6547,11 +6562,18 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <lemma>Claude Adrien Helvétius</lemma>
 <eintrag>1715–1771. Frz. Philosoph, Generalsteuerpächter und Kammerherr der frz. Königin. <titel>Biographie universelle ancienne et moderne</titel> (Bd.&#x202F;19, 1843), S.&#x202F;90.
 </eintrag>
-<subsection id="helvetius-esprit" type="neuzeit">
+<subsection id="helvetius-esprit" type="neuzeit" sort="10">
 <lemma>Helvétius, <titel>De l’esprit</titel></lemma>
 <eintrag>
 <titel>De l’esprit</titel> (Paris: Durand 1758). Auf Druck des frz. Staatsrats musste Helvétius die materialistischen Thesen des Buches widerrufen.<line type="break" />
 Übers.: von <link ref="gottsched" linktext="true" />, <titel>Discurs über den Geist des Menschen</titel> (Leipzig, Lignitz: Siegert 1759).
+</eintrag>
+</subsection>
+ <subsection id="helvetius-homme" type="neuzeit" sort="20">
+<lemma>Helvétius, <titel>De l’homme</titel></lemma>
+<eintrag>
+<titel>De l’homme, de ses facultés intellectuelles et de son education</titel> (London 1772). <line type="break" />
+Übers.: <titel>Herrn Johann Claudius Hadrian Helvetius hinterlassenes Werk vom Menschen, von dessen Geistes-Kräften, und von der Erziehung desselben.</titel> Übersetzt von Christian August Wichmann (Breslau: Meyer 1774. Digitalisat: <wwwlink address="	http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10255198-0">BSB München: Anthr. 54-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6560,17 +6582,17 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <lemma>Frans Hemsterhuis</lemma>
 <eintrag>1721–1790. Niederl. Philosoph und Schriftsteller, nahm später am Münsterschen Kreis teil, <wwwlink address="http://www.zeno.org/Meyers-1905/A/Hemsterhuis">Meyers Großes Konversations-Lexikon, Band 9. Leipzig 1907, S. 164</wwwlink>.
 </eintrag>
-<subsection id="hemsterhuis-desirs" type="neuzeit">
+<subsection id="hemsterhuis-desirs" type="neuzeit" sort="10">
 <lemma>Hemsterhuis, <titel>Lettre sur les désirs</titel></lemma>
 <eintrag>
 <titel>Lettre sur les désirs</titel> (Paris 1770). Digitalisat: <wwwlink address="https://books.google.de/books?id=9oAPAAAAQAAJ">Google Books</wwwlink>.</eintrag>
 </subsection>
-<subsection id="hemsterhuis-homme" type="neuzeit">
+<subsection id="hemsterhuis-homme" type="neuzeit" sort="20">
 <lemma>Hemsterhuis, <titel>Lettre sur l’homme et ses rapports</titel></lemma>
 <eintrag>
 <titel>Lettre sur l’homme et ses rapports </titel> (Paris 1772). Digitalisat: <wwwlink address="https://books.google.de/books?id=i2Kn02P2NzoC">Google Books</wwwlink>.</eintrag>
 </subsection>
-<subsection id="hemsterhuis-sculpture" type="neuzeit">
+<subsection id="hemsterhuis-sculpture" type="neuzeit" sort="30">
 <lemma>Hemsterhuis, <titel>Lettre Sur La sculpture</titel></lemma>
 <eintrag>
 <titel>Lettre Sur La sculpture</titel> à Monsieur Théod. de Smeth, Ancien Président des Echevins de la Ville d’Amsterdam  (Amsterdam: Rey 1769). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-63128">UB Heidelberg: C 2330 Folio RES, angeb.</wwwlink>.</eintrag>
@@ -7247,9 +7269,24 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <kommentar id="holbach" type="neuzeit">
 <lemma>Paul Henri Thiry d’Holbach</lemma>
 <eintrag>1723–1789. Frz. Philosoph, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118706403.html#ndbcontent">Sauter, Hermann: Holbach, Paul Freiherr von, in: <titel>NDB</titel>&#x202F;9 (1972), S.&#x202F;510–512</wwwlink>.</eintrag>
-<subsection id="holbach-devoile" type="neuzeit" >
+<subsection id="holbach-devoile" type="neuzeit" sort="10">
 <lemma>Holbach, <titel>Le Christianisme devoilé</titel></lemma>
 <eintrag><titel>Le Christianisme dévoilé, ou Examen des principes et des effets de la religion chrétienne.</titel> Par Feu M. Boulanger (London 1756 [vmtl. recte 1766]) [Biga&#x202F;53/559: „Le Christianisme devoilé ou Examen des Principes &amp; des Effets de la Religion Chretienne (par Boulanger) Lond. 767. Donum Hartknochii nostri.“]. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1521151w">Bibliothèque nationale de France</wwwlink>. – Das Werk fingiert <link ref="boulanger" linktext="true" /> auf dem Titelblatt als Autor, wurde aber aller Wahrscheinlichkeit nach von Holbach verfasst.
+</eintrag>
+</subsection>
+<subsection id="holbach-nature" type="neuzeit" sort="20">
+<lemma>Holbach, <titel>Système de la nature</titel></lemma>
+<eintrag><titel>Système de la nature ou des loix du monde physique et du monde moral. Par M. Mirabaud</titel> (1770). 
+</eintrag>
+</subsection>
+<subsection id="holbach-bonsens" type="neuzeit" sort="30">
+<lemma>Holbach, <titel>Le bon sens</titel></lemma>
+<eintrag><titel>Le bon sens, ou idées naturelles opposées aux idées surnaturelles</titel> (1772). 
+</eintrag>
+</subsection>
+<subsection id="holbach-social" type="neuzeit" sort="40">
+<lemma>Holbach, <titel>Système Social</titel></lemma>
+<eintrag><titel>Système Social, ou Principes naturels de la morale et de la Politique, avec un examen de l’influence du gouvernement sur les mœurs</titel> (1773). 
 </eintrag>
 </subsection>
 </kommentar>
@@ -14560,9 +14597,14 @@ Ioannis Avgvsti Starckii […] <titel>Sylloge Commentationum et observationum ph
 <titel>Tralatitia ex gentilismo in religionem christianam. Dissertatio theologico-historico-antiqvaria qvam pro loco professoris theologiae ordinario rite sibi vindicando placido ervuditorum examini svbmittit Ioannes Avgustvs Starck</titel> (Königsberg: Hartung 1774). Digitalisat: <wwwlink address="https://books.google.de/books?id=uw6dw6j6XUEC">Google Books</wwwlink>.</eintrag>
 </subsection>
 <subsection id="starck-hephaestion" type="neuzeit" sort="40">
-<lemma>Starck, <titel> Hephaestion</titel></lemma>
+<lemma>Starck, <titel>Hephaestion</titel></lemma>
 <eintrag>
 <titel>Hephaestion</titel> (Königsberg 1775) [Biga&#x202F;52/557: „J. A. Starks Hephaestion. Koen. 775.“]. Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0001DA9E00000000">Stabi Berlin: Nq 972</wwwlink>.</eintrag>
+</subsection>
+ <subsection id="starck-davidis" type="neuzeit" sort="50">
+<lemma>Starck, <titel>Davidis aliorumque poetarum Hebraeorum carminum</titel></lemma>
+<eintrag>
+<titel>Davidis aliorumque poetarum Hebraeorum carminum libri V</titel> (Königsberg: Hartung 1776). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10412894-9">BSB München: Exeg. 1064 x-1,1/2</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15627,6 +15669,17 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
 <kommentar id="vernezobre" type="neuzeit">
 <lemma>Salomon Vernezobre</lemma>
 <eintrag>Sohn einer hugenottischen Kaufmannsfamilie, die von Frankreich nach Preußen kam, Geschäfte u.a. in Berlin, Königsberg, Petersburg, London machte. Den Vater, Mathieu, suchte <link ref="hamann" linktext="true" /> in London im Mai 1758 auf. Sein Vater und sein Bruder hatten sich, im Versuch, sich nach Johann Georgs Aufenthalt und Befinden zu informieren, an Vernezobre gewandt (vgl. <link ref="hamann" subref="gedanken-lebenslauf" linktext="true" />, LS S.&#x202F;430).</eintrag>
+</kommentar>
+ 
+<kommentar id="verpoorten" type="neuzeit">
+<lemma>Wilhelm Paul Verpoorten</lemma>
+<eintrag>1721–1794. Lutherischer Theologe in Danzig.
+</eintrag>
+<subsection id="verpoorten-antihephästion" type="neuzeit">
+<lemma>Verpoorten, <titel>Antihephästion</titel></lemma>
+<eintrag>
+<titel>Antihephästion</titel> (Danzig: Flörke 1776). Digitalisat: <wwwlink address="https://purl.uni-rostock.de/rosdok/ppn817467157">UB Rostock: G-3038</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="vietinghoff-oh" type="neuzeit">
@@ -16710,10 +16763,22 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 </eintrag>
 </subsection>
 </kommentar>
+ 
+<kommentar id="zedlitz" type="neuzeit">
+<lemma>Karl Abraham von Zedlitz</lemma>
+<eintrag>1731–1793. Preußischer Minister, 1771–1788 Kultus- und Unterrichtsminister in Berlin, Oberkurator aller preuß. Universitäten, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118808354.html#adbcontent">Conrad Rethwisch: Zedlitz, Karl Abraham Freiherr von, in: <titel>ADB</titel>&#x202F;44 (1898), S.&#x202F;744–748</wwwlink>.
+</eintrag>
+</kommentar>
 
 <kommentar id="zeise" type="neuzeit">
 <lemma>Johann Daniel Zeise</lemma>
 <eintrag>Gest. 1766. Buchhändler in Königsberg, ab 1764 als dritter Mann von <link ref="hartung-h" linktext="true" /> Geschäftsführer der Hartungschen Buchhandlung.
+</eintrag>
+</kommentar>
+ 
+ <kommentar id="ziegenhorn" type="neuzeit">
+<lemma>Christoph Georg  Ziegenhorn</lemma>
+<eintrag>1714–1783. Justizrat in Königsberg.
 </eintrag>
 </kommentar>
 

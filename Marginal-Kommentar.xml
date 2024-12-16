@@ -35187,7 +35187,7 @@ Brief Nr. 292
 </marginal>
 
 <marginal letter="292" page="312" line="5">
-<bzg>Rath v Ziegenhorn</bzg> Christoph Georg Ziegenhorn (1714–1783), Justizrat in Königsberg
+<bzg>Rath v Ziegenhorn</bzg> <link ref="ziegenhorn" linktext="true" />
 </marginal>
 
 <marginal letter="292" page="312" line="10">
@@ -57201,15 +57201,13 @@ Brief Nr. 459
 <bzg>büffonschen Ideen über den Styl</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="false">Königsbergsche Gelehrte und Politische Zeitungen</link>, Beylage zum 6. bis 10. Stück vom 18. Jänner bis 1. Februar 1776; siehe N IV, S.419–425
 </marginal>
 
-   <marginal letter="459" page="213" line="30">
-    <bzg>Anmerkungen über den Anti Styl</bzg> ?!?
-   </marginal>
+<marginal letter="459" page="213" line="30">
+<bzg>Anmerkungen über den Anti Styl</bzg> <link ref="hamann" subref="hamann-stil" linktext="true" />
+</marginal>
 
-   <marginal letter="459" page="213" line="33">
-    <bzg>Buffons Discours</bzg> 
-    Discours prononcé dans l'Académie Françoise le Samedi 25 Août 1753, als Anhang zum 5. Teil der
-    Histoire Naturelle.
-   </marginal>
+<marginal letter="459" page="213" line="33">
+<bzg>Buffons Discours</bzg> <link ref="buffon" subref="buffon-stil" linktext="true" />
+</marginal>
 
 <marginal letter="459" page="213" line="35">
 <bzg>Freund Hayn</bzg> der Werbetext für <link ref="claudius" subref="claudius-werke" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" /> (39. Stück, 10. März 1775), N IV, S.386ff.
@@ -57291,113 +57289,93 @@ Brief Nr. 459
 <bzg>Herrn Wgs</bzg> Nach dem Tod Gottlob David Hartmanns 1775 gewährte <link ref="biron-p" linktext="true" /> dessen Vater eine Pension; der Brief, in dem der Herzog dies ankündigt, wurde publiziert, bspw. in <titel>Teutsche Chronik</titel>, 3. Jahrgang, Stück 1, 1. Januar 1776, S.6f.
 </marginal>
 
+<marginal letter="459" page="214" line="35">
+<bzg>Kopp … Selim Halicum</bzg> <link ref="koppe" linktext="true" />; lies: Salem aleikum
+</marginal>
 
+<marginal letter="459" page="214" line="36">
+<bzg>G R. v Ziegenhorn in Hintzens</bzg> <link ref="ziegenhorn" linktext="true" />, <link ref="hinz" linktext="true" /> 
+</marginal>
 
-   <marginal letter="459" page="214" line="35">
-    <bzg>Kopp … Selim Halicum</bzg> <link ref="koppe" linktext="true" />; wohl bewußte Parodie des Salem aleikum
-   </marginal>
+<marginal letter="459" page="214" line="37" sort="1">
+<bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" /> 
+</marginal>
 
-   <marginal letter="459" page="214" line="36">
-    <bzg>G R. v Ziegenhorn in Hintzens</bzg> Christoph Georg  Ziegenhorn (1714–1783), Justizrat in Königsberg; <link ref="hinz" linktext="true" /> 
-   </marginal>
+<marginal letter="459" page="215" line="3">
+<bzg>medius terminus</bzg> dt. mittlerer Begriff
+</marginal>
 
-   <marginal letter="459" page="214" line="37" sort="1">
-    <bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" /> 
-   </marginal>
+<marginal letter="459" page="215" line="9">
+<bzg>Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> 
+</marginal>
 
-   <marginal letter="459" page="214" line="37" sort="2">
-    <bzg>Passagier</bzg> <link ref="koppe" linktext="true" />
-   </marginal>
+<marginal letter="459" page="215" line="11">
+<bzg>Systeme de la Nature</bzg> <link ref="holbach" subref="holbach-nature" linktext="true" />
+</marginal>
 
-   <marginal letter="459" page="215" line="1">
-    <bzg>Zeitungen</bzg> Königsbergschen
-   </marginal>
+<marginal letter="459" page="215" line="12">
+<bzg>Systeme Social</bzg> <link ref="holbach" subref="holbach-social" linktext="true" />
+</marginal>
 
-   <marginal letter="459" page="215" line="3">
-    <bzg>medius terminus</bzg> dt. mittlerer Begriff
-   </marginal>
+<marginal letter="459" page="215" line="13" sort="1">
+<bzg>Oeuvres morales</bzg> <link ref="diderot" subref="diderot-morales" linktext="true" />
+</marginal>
 
-   <marginal letter="459" page="215" line="9">
-    <bzg>Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> 
-   </marginal>
+<marginal letter="459" page="215" line="13" sort="2">
+<bzg>Bonsens</bzg> <link ref="holbach" subref="holbach-bonsens" linktext="true" />; Hamann nimmt darauf Bezug in „Kleiner Versuch über große Probleme“, in: <link ref="konigsbergsche-gelehrte-p-z" linktext="false">Königsbergsche Gelehrte und Politische Zeitungen</link>, Beylage zum 94. Stück vom 23. November 1775; siehe N IV, S.413–416
+</marginal>
 
-   <marginal letter="459" page="215" line="11">
-    <bzg>Systeme de la Nature</bzg> von Holbach Holbach, Paul- Henri- Dietrich Baron de (1723- 1789), frz. Philosoph dt. Herkunft, Mitarbeiter der
-    Encyclopédie; Système de la nature ou des loix du monde physique et du monde moral par M. [Jean- Baptiste de]
-    Mirabaud. 1, 2. London [Amsterdam] 1770
-   </marginal>
+<marginal letter="459" page="215" line="15">
+<bzg>propter compendium</bzg> als Kurzschluss
+</marginal>
 
-   <marginal letter="459" page="215" line="12">
-    <bzg>Systeme Social</bzg> von Holbach; Système social, ou principes naturels de la morale et de la politique, avec un examen de l'influence du
-    gouvernement sur les moeurs. 1, 2. London [Amst.] 1773/4.
-   </marginal>
+<marginal letter="459" page="215" line="19">
+<bzg>Anti-Hephaestion</bzg> <link ref="verpoorten" subref="verpoorten-antihephästion" linktext="true" /> gegen <link ref="starck" subref="starck-hephaestion" linktext="true" />
+</marginal>
 
-   <marginal letter="459" page="215" line="13" sort="1">
-    <bzg>Oeuvres morales</bzg> ?!?
-   </marginal>
+<marginal letter="459" page="215" line="20">
+<bzg>Psalter</bzg> <link ref="starck" subref="starck-davidis" linktext="true" /> 
+</marginal>
 
-   <marginal letter="459" page="215" line="13" sort="2">
-    <bzg>Bonsens</bzg> von Holbach; Encyclopédie [siehe auch Boulanger, L'antiquité]
-    Système de la nature ou des loix du monde physique et du monde moral par M. [Jean- Baptiste de]
-    Mirabaud. 1, 2. London [Amsterdam] 1770, darin Le Bon Sens ou Idées naturelles opposées aux Idées
-    surnaturelles.
-   </marginal>
+<marginal letter="459" page="215" line="21">
+<bzg>von der Erziehung</bzg> <link ref="helvetius" subref="helvetius-homme" linktext="true" />
+</marginal>
 
-   <marginal letter="459" page="215" line="15">
-    <bzg>propter compendium</bzg> gemeint: wegen der profitlichen Kurzfassung
-   </marginal>
+<marginal letter="459" page="215" line="22">
+<bzg>Anmerkungen über den Styl</bzg> <link ref="hamann" subref="hamann-stil" linktext="true" />
+</marginal>
 
-   <marginal letter="459" page="215" line="19">
-    <bzg>Anti-Hephaestion</bzg> Verpoorten (Verportenn), Wilhelm Paul (1721- 1794), Rektor und Pastor in Danzig. vgl. <link ref="starck" subref="starck-hephaestion" linktext="true" /> 
-   </marginal>
+<marginal letter="459" page="215" line="23">
+<bzg>Ohlius</bzg> <link ref="ohlius" linktext="true" /> 
+</marginal>
 
-   <marginal letter="459" page="215" line="20">
-    <bzg>Psalter</bzg> Davidis aliorumque poetarum Hebraeorum Carminum libri V. Ex Codicibus Mss. et antiquis versionibus
-    adcurate recensuit et commentariis illustravit. Königsberg/Leipzig 1776
-   </marginal>
+<marginal letter="459" page="215" line="28">
+<bzg>Kanter ist mit meinem Director</bzg> <link ref="kanter" linktext="true" /> mit <link ref="stockmar" linktext="true" /> 
+</marginal>
 
-   <marginal letter="459" page="215" line="21">
-    <bzg>von der Erziehung</bzg> De l'homme, de ses facultés et de son éducation. 1772.
-    I,442 [9. Abschnitt, 7. Kap.: Über die moralische Erziehung des Menschen Anm. 1];
-   </marginal>
+<marginal letter="459" page="215" line="29" sort="1">
+<bzg>Eberhards Mäcen</bzg> <link ref="zedlitz" linktext="true" />
+</marginal>
 
-   <marginal letter="459" page="215" line="22">
-    <bzg>Anmerkungen über den Styl</bzg> vgl. <intlink letter="459" page="213" line="29" linktext="true" /> 
-   </marginal>
+<marginal letter="459" page="215" line="29" sort="2">
+<bzg>2te Aufgabe</bzg> wohl „Auflage“: <link ref="eberhard-ja" subref="eberhard-apologie" linktext="true" />
+</marginal>
 
-   <marginal letter="459" page="215" line="23">
-    <bzg>Ohlius</bzg> <link ref="ohlius" linktext="true" /> 
-   </marginal>
+<marginal letter="459" page="215" line="31">
+<bzg>Nabal</bzg> <link ref="nicolai" linktext="true" />, gegen den sich <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> richten
+</marginal>
 
-   <marginal letter="459" page="215" line="28">
-    <bzg>Kanter ist mit meinem Director</bzg> <link ref="kanter" linktext="true" /> mit <link ref="stockmar" linktext="true" /> 
-   </marginal>
+<marginal letter="459" page="215" line="34">
+<bzg>Hänschen … seinem Freunde</bzg> <link ref="hamann-jm" linktext="true" />; <link ref="herder-g" linktext="true" /> 
+</marginal>
 
-   <marginal letter="459" page="215" line="29" sort="1">
-    <bzg>Eberhards Mäcen</bzg> <link ref=" eberhard-ja" linktext="true" />; Zedlitz, Carl Abraham Frh. v. (1731- 1793), 1771- 1788 Kultus- und Unterrichtsminister in Berlin,
-    Oberkurator aller preuß. Universitäten,
-   </marginal>
+<marginal letter="459" page="216" line="2">
+<bzg>regnen laßen</bzg> <link ref="at-koe1" subref="at-koe1-17" linktext="false">1 Kön 17,14</link>
+</marginal>
 
-   <marginal letter="459" page="215" line="29" sort="2">
-    <bzg>2te Aufgabe</bzg> Allgemeine Theorie des Denkens und
-    Empfindens
-   </marginal>
-
-   <marginal letter="459" page="215" line="31">
-    <bzg>Nabal</bzg> vgl. <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />
-   </marginal>
-
-   <marginal letter="459" page="215" line="34">
-    <bzg>Hänschen … seinem Freunde</bzg> <link ref="hamann-jm" linktext="true" />; <link ref="herder-g" linktext="true" /> 
-   </marginal>
-
-   <marginal letter="459" page="216" line="2">
-    <bzg>regnen laßen</bzg> 1 Kö 17,14.
-   </marginal>
-
-   <marginal letter="459" page="216" line="5">
-    <bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" /> 
-   </marginal>
+<marginal letter="459" page="216" line="5">
+<bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" /> 
+</marginal>
 
 
 Brief Nr. 460
