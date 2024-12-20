@@ -50320,7 +50320,7 @@ Brief Nr. 408
 </marginal>
  
  <marginal letter="408" page="98" line="3">
- <bzg>Männin</bzg> <link ref="at-Mo1" subref="at-Mo1-2" linktext="false">1 Mo 2,23</link>
+ <bzg>Männin</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,23</link>
  </marginal>
 
 <marginal letter="408" page="98" line="25">
@@ -51648,7 +51648,7 @@ Brief Nr. 419
 </marginal>
 
 <marginal letter="419" page="121" line="15" sort="2">
-<bzg>Dornhecke</bzg> <link ref="at-Mo2" subref="at-Mo2-3" linktext="false">2 Mo 3,2</link>
+<bzg>Dornhecke</bzg> <link ref="at-mo2" subref="at-mo2-3" linktext="false">2 Mo 3,2</link>
 </marginal>
  
 <marginal letter="419" page="121" line="21">
@@ -51799,7 +51799,7 @@ Brief Nr. 420
 </marginal>
  
  <marginal letter="420" page="123" line="31">
-<bzg>Dornbusch</bzg> <link ref="at-Mo2" subref="at-Mo2-3" linktext="false">2 Mo 3,2</link>
+<bzg>Dornbusch</bzg> <link ref="at-mo2" subref="at-mo2-3" linktext="false">2 Mo 3,2</link>
 </marginal>
 
 <marginal letter="420" page="123" line="32">
@@ -52242,7 +52242,7 @@ Brief Nr. 424
 </marginal>
 
 <marginal letter="424" page="130" line="2">
-<bzg>d’Achery nach der neuesten Ausgabe in fol. v. 723</bzg> <link ref="achery-specilegium" linktext="true" />
+<bzg>d’Achery nach der neuesten Ausgabe in fol. v. 723</bzg> <link ref="achery" subref="achery-specilegium" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="130" line="3">
@@ -52681,11 +52681,11 @@ Brief Nr. 424
 <bzg>DEVS vobiscum!</bzg> Gott sei mit euch!
 </marginal>
 
-
 Brief Nr. 425
 
 <marginal letter="425" page="136" line="2" sort="1">
-Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe" linktext="true" /> und hat vmtl. als Druckvorlage gedient. Das Exemplar des gedruckten Textes im Hamann-Nachlass in Münster, <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/4603205">Band 81</wwwlink>, enthält handschriftliche Korrekturen, hauptsächlich von Satzfehlern, und Notizen, hauptsächlich die auch hier im Kommentar notierten Bibelstellen.
+Der Brief enthält bis <intlink letter="425" page="139" line="21" linktext="true" /> den Text von <link ref="hamann" subref="hamann-ehe" linktext="true" /> und hat wohl als Druckvorlage gedient. Auf seinem Handexemplar notierte Hamann später, wie man im <wwwlink address="https://sammlungen.ulb.uni-muenster.de/hd/content/pageview/4603205">Hamann-Nachlass in Münster, Bd. 81</wwwlink> einsehen kann, hauptsächlich Korrekturen von Satzfehlern und einige Bibelstellen (wie sie hier im Kommentar auch annotiert sind).
+
 </marginal>
  
  <marginal letter="425" page="136" line="2" sort="2">
@@ -52693,7 +52693,7 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
 
 <marginal letter="425" page="136" line="6">
-<bzg>Brautpaar</bzg> <link ref="hartknoch" linktext="true" /> und <link ref="hartknoch-a" linktext="true" />
+<bzg>Brautpaar</bzg> mögliche Referenzen sind <link ref="hartknoch" linktext="false">Johann Friedrich</link> und <link ref="hartknoch-a" linktext="true" /> oder <link ref="herder" linktext="true">Johann Gottfried</link> und <link ref="herder-c" linktext="true" />
 </marginal>
 
 <marginal letter="425" page="136" line="7">
@@ -52904,7 +52904,7 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
  
 <marginal letter="425" page="139" line="9">
-<bzg>hergekommen</bzg> <link ref="nt-Jo" subref="nt-Jo3" linktext="false">Joh 3,31</link>, <link ref="nt-Jo" subref="nt-Jo8" linktext="false">Joh 8,14</link>, <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,7</link>, <link ref="at-pr" subref="at-pr3" linktext="false">Pred 3,20</link>  
+<bzg>hergekommen</bzg> <link ref="nt-jo" subref="nt-jo3" linktext="false">Joh 3,31</link>, <link ref="nt-jo" subref="nt-jo8" linktext="false">Joh 8,14</link>, <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,7</link>, <link ref="at-pr" subref="at-pr3" linktext="false">Pred 3,20</link>  
 </marginal> 
  
 <marginal letter="425" page="139" line="10" sort="1">
@@ -52944,7 +52944,7 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
 
 <marginal letter="425" page="139" line="33">
-<bzg>Komm ich als  …</bzg> <link ref="gleim" subref="gleim-versuch" linktext="true" />, „An Doris“, S.XIV: Nach der unerfüllten Sehnsucht nach Doris im Leben prophezeit das lyrische Ich, nach dem Tode als Geist weiter in der Nacht zu erscheinen.
+<bzg>Komm ich als …</bzg> <link ref="gleim" subref="gleim-versuch" linktext="true" />, „An Doris“, S.&#x202F;xiv: Das lyrische Ich prophezeit Doris, ihr, nachdem die Sehnsucht nach ihr im Leben unerfüllt blieb, nach dem Tode als Geist in der Nacht zu erscheinen.
 </marginal>
 
 <marginal letter="425" page="140" line="1">
@@ -52952,7 +52952,7 @@ Der Brief enthält bis 139/21 den Text von <link ref="hamann" subref="hamann-ehe
 </marginal>
 
 <marginal letter="425" page="140" line="5" sort="1">
-<bzg>Opusculo homonymo</bzg> Dt. kleines, gleichnamiges Werk. Vgl. <intlink letter="521" page="126" line="3" linktext="true" />; gemeint ist <link ref="hippel" subref="hippel-ehe" linktext="true" />, verlegt in der Vossischen Buchhandlung; ; H. vermutete wohl Hippels Autorschaft, gab sich aber unwissend.
+<bzg>Opusculo homonymo</bzg> Dt. kleines, gleichnamiges Werk. Vgl. <intlink letter="421" page="126" line="3" linktext="true" />; gemeint ist <link ref="hippel" subref="hippel-ehe" linktext="true" />, verlegt in der Vossischen Buchhandlung; Hamann vermutete wohl Hippels Autorschaft, gab sich aber unwissend.
 </marginal>
 
 <marginal letter="425" page="140" line="5" sort="2">
@@ -54272,7 +54272,7 @@ et qui ...: dt. und der jenen verfertigt hatte; Weisgebergasse: nordöstlich des
 </marginal>
 
 <marginal letter="438" page="165" line="22">
-<bzg>Titels … d’Achery Spicilegio</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />; <link ref="achery" subref="achery-zachae" linktext="true" />  
+<bzg>Titels … d’Achery Spicilegio</bzg> vgl. <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> und <link ref="zacchaeus-c" linktext="true" />
 </marginal>
 
 <marginal letter="438" page="165" line="23" sort="1">
@@ -54857,7 +54857,7 @@ Brief Nr. 444
 </marginal>
 
 <marginal letter="444" page="175" line="18" sort="2">
-<bzg>Boulanger</bzg> <link ref="boulanger" subref="boulanger-devoil" linktext="true" /> 
+<bzg>Boulanger</bzg> <link ref="boulanger" subref="boulanger-devoile" linktext="true" /> 
 </marginal>
 
 <marginal letter="444" page="175" line="20" sort="1">
@@ -55242,7 +55242,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="182" line="7">
-<bzg>Bock</bzg> Rezension von <link ref="bockcg" subref="bockcg-gedichte" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 12. Mai 1775
+<bzg>Bock</bzg> Rezension von <link ref="bock-cg" subref="bockcg-gedichte" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 12. Mai 1775
 </marginal>
 
 <marginal letter="447" page="182" line="9">
@@ -55406,7 +55406,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="184" line="35">
-<bzg>matagrabolisiren</bzg> Neologismus aus <link ref="rabelai" subref="rabelais-oevres" linktext="true" />, Kapitel XIX, mit der Bedeutung von grübeln
+<bzg>matagrabolisiren</bzg> Neologismus aus <link ref="rabelais" subref="rabelais-oevres" linktext="true" />, Kapitel XIX, mit der Bedeutung von grübeln
 </marginal>
 
 <marginal letter="447" page="185" line="1">
@@ -58125,7 +58125,7 @@ Akademie der Wissenschaften in Berlin auf das Jahr 1776 ausgesetzten Preis erhal
 
          <marginal letter="466" page="234" line="2">
     <bzg>Popens Einfall auf Newton</bzg> vgl die Abfertigung in der Beylage zum 37sten Stück
-von <link ref="kpgz" linktext="true" />, 1772, N III,21,20ff
+von <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 1772, N III,21,20ff
    </marginal>
 
          <marginal letter="466" page="234" line="4">
