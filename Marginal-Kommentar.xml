@@ -52923,7 +52923,7 @@ Der Brief enthält bis <intlink letter="425" page="139" line="21" linktext="true
 </marginal>
 
 <marginal letter="425" page="139" line="16">
-<bzg>dem faulen Graben meiner benachbarten Wiesen</bzg> Anspielung auf verschiedene Königsberger Lokalitäten: Neben Hamanns Wohnhaus Am alten Graben, Nr. 758 befanden sich Wiesen; seine vorherige Wohnung im mittelsten Tragheim befand sich in der Nachbarschaft der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>; „Irrlichter“ meint die Freimaurer.
+<bzg>dem faulen Graben meiner benachbarten Wiesen</bzg> Anspielung auf verschiedene Königsberger Lokalitäten: Neben Hamanns Wohnhaus Am alten Graben, Nr. 758 befanden sich Wiesen; auch die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> befand sich zu diesem Zeitpunkt offenbar in der Nachbarschaft (vgl. <intlink letter="429" page="147" line="30" linktext="true" />); „Irrlichter“ meint die Freimaurer.
 </marginal>
 
 <marginal letter="425" page="139" line="18">
@@ -53394,8 +53394,8 @@ Der Briefentwurf steht im Zusammenhang mit <link ref="bode-jjc" linktext="false"
 
 Brief Nr. 428
 
-<marginal letter="428" page="146" line="16">
-<bzg>Knabe</bzg> wohl <link ref="hamann-jm" linktext="true" />
+<marginal letter="428" page="146" line="15">
+Der Brief wurde im Kontext der Krankheit von <link ref="hamann-jm" linktext="true" /> geschrieben, vmtl. vor <intlink letter="430" page="148" line="11" linktext="false">HKB 430</intlink>.
 </marginal>
 
 <marginal letter="428" page="146" line="21">
@@ -53410,7 +53410,6 @@ Brief Nr. 428
 <bzg>Beyl.</bzg> Beilage nicht ermittelt, wohl ein amtliches Schriftstück
 </marginal>
 
-
 Brief Nr. 429
 
 <marginal letter="429" page="147" line="9">
@@ -53418,7 +53417,7 @@ Brief Nr. 429
 </marginal>
 
 <marginal letter="429" page="147" line="23" sort="1">
-<bzg>HE Schönborn</bzg> nicht ermittelt 
+<bzg>HE Schönborn</bzg> nicht ermittelt, offenbar der Koch der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>
 </marginal>
 
 <marginal letter="429" page="147" line="23" sort="2">
@@ -53461,8 +53460,15 @@ Brief Nr. 429
 <bzg>Petitum</bzg> Bitte
 </marginal>
 
-
 Brief Nr. 430
+
+<marginal letter="430" page="148" line="11" sort="1">
+Der Brief wurde im Kontext der Krankheit von <link ref="hamann-jm" linktext="true" /> geschrieben, vmtl. nach <intlink letter="428" page="146" line="15" linktext="false">HKB 430</intlink> und ist wohl auch an <link ref="stockmar" linktext="true" /> gerichtet.
+</marginal>
+
+<marginal letter="430" page="148" line="14" sort="2">
+<bzg>P. P.</bzg> vmtl. Praemissis praemittendis (mit Vorausschickung des Vorauszuschickenden, anstatt eines Titels)
+</marginal>
 
 <marginal letter="430" page="148" line="14">
 <bzg>relatione clinico-mixta</bzg> dt. klinische Angelegenheit 
@@ -53495,10 +53501,13 @@ Brief Nr. 430
 
 Brief Nr. 431
 
+<marginal letter="431" page="149" line="28">
+Ein möglicher Adressat ist <link ref="auerswald" linktext="true" />, adeliger Offizier und ab 1774 Student in Königsberg – somit interessiert an militärhistorischer Literatur – und später mit Hamann befreundet.?!?
+</marginal>
+
 <marginal letter="431" page="149" line="29">
 <bzg>Memoires critiques et militaires</bzg> <link ref="guichard" subref="guichard-critiques" linktext="true" /> 
 </marginal>
-
 
 <marginal letter="431" page="150" line="7">
 <bzg>h</bzg> huius, d.h. diesen Monats
@@ -54964,6 +54973,10 @@ Brief Nr. 444
 
 Brief Nr. 445
 
+<marginal letter="445" page="177" line="1">
+NB in HBGA auf Mitte Mai 1775 datiert; prüfen?!?
+</marginal>
+
 <marginal letter="445" page="177" line="5">
 <bzg>Sancho Panssa sagt</bzg> häufig wiederholter Ausspruch der Romanfigur Sancho Pansa in <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />
 </marginal>
@@ -55746,6 +55759,10 @@ Brief Nr. 449
 
 
 Brief Nr. 450
+
+<marginal letter="450" page="189" line="32">
+NB in HBGA auf 18. Juni 1775 datiert; prüfen?!?
+</marginal>
 
 <marginal letter="450" page="190" line="2" sort="1">
 <bzg>Olympischen oder Pythischen</bzg> der Akademie-Preis für <link ref="herder" subref="herder-geschmack" linktext="true" />, vgl. <intlink letter="449" page="187" line="23" linktext="true" /> 

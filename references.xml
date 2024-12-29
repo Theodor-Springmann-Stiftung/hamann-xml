@@ -304,6 +304,8 @@
 				nachname="Göschen" komm="goeschen" />
 			<personDef index="132" name="Vmtl. der Vater von Christian Gottlieb Patz"
 				nachname="Patz" komm="patz-v" />
+			<personDef index="133" name="Vmtl. Carl Christoph Stockmar"
+				vorname="Carl Christoph" nachname="Stockmar" komm="stockmar" />
 		</personDefs>
 		<handDefs>
 			<handDef index="-1" name="Unbekannt" />
