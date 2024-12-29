@@ -8141,9 +8141,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="426">
-        <date value="3. Januar 1775" />
+        <date value="Königsberg, 3. Januar 1775" />
         <sort value="1775-01-03" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -8160,9 +8160,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="427">
-        <date value="Vmtl. Januar 1775" />
+        <date value="Königsberg, vmtl. Januar 1775" />
         <sort value="1775-01-05" notBefore="1775-01-01" notAfter="1775-01-31" cert="low" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -8179,9 +8179,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="428">
-        <date value="Januar 1775" />
+        <date value="Königsberg, vmtl. Januar 1775" />
         <sort value="1775-01-06" notBefore="1775-01-01" notAfter="1775-01-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
