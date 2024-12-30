@@ -4594,7 +4594,7 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 
 <kommentar id="dreikronenloge" type="neuzeit">
 <lemma>Freimaurerloge zu den Drei Kronen in Königsberg</lemma>
-<eintrag>1760 gestiftet, bekannte Mitglieder waren u.a. <link ref="kanter" linktext="true" />, <link ref="starck" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="scheffner" linktext="true" />. Ansässig hinter der Münze, zwischen mittelstem Tragheim und Königsberger Schloss. Siehe Richard Fischer: <titel>Geschichte der Johannisloge Zu den drei Kronen.</titel> Königsberg 1910.</eintrag>
+<eintrag>1760 gestiftet, bekannte Mitglieder waren u.a. <link ref="kanter" linktext="true" />, <link ref="starck" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="scheffner" linktext="true" />. Ansässig hinter der Münze, zwischen mittelstem Tragheim und Königsberger Schloss, zeitweilig auch in Hamanns Nachbarschaft am alten Graben (vgl. <intlink letter="425" page="139" line="16" linktext="true" />). Siehe Richard Fischer: <titel>Geschichte der Johannisloge Zu den drei Kronen.</titel> Königsberg 1910.</eintrag>
 </kommentar>
 
 <kommentar id="frankfurter-gelehrte-anzeigen" type="neuzeit">
@@ -6232,8 +6232,15 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;171–196.
 <lemma>Hamann, <titel>Über den Styl</titel></lemma>
 <eintrag>
 <titel>Über den Styl</titel>. Kommentierende Übersetzung von <link ref="buffon" subref="buffon-stil" linktext="true" />. Erstdruck in: <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beilagen zum 6., 8. und 10. Stück, 18. Januar bis 1. Februar 1776.<line type="break" />
-Zweitdruck in <link ref="boie" subref="boie-museum" linktext="true" />, Leipzig 1778, Bd.2, S.254–268.<line type="break" />
+Zweitdruck in <link ref="boie" subref="boie-museum" linktext="true" />, Leipzig 1778, Bd.&#x202F;2, S.&#x202F;254–268.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;419–425.
+</eintrag>
+</subsection>
+ <subsection id="hamann-schuerze" type="neuzeit" sort="683">
+<lemma>Hamann, <titel>Schürze von Feigenblättern</titel></lemma>
+<eintrag>
+<titel>Schürze von Feigenblättern</titel>. Ungedruckter Entwurf für eine Schrift ab Neujahr 1777, zur Druckgeschichte vgl. N&#xA0;III, S.&#x202F;451.<line type="break" />
+Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;205–212.
 </eintrag>
 </subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="690">
@@ -7747,8 +7754,8 @@ J
 <subsection id="joecher-lexicon" type="neuzeit" sort="10">
 <lemma>Jöcher, <titel>Allgemeines Gelehrten-Lexicon</titel></lemma>
 <eintrag>
-<titel>Compendiöses Gelehrten-Lexicon: Darinne die Gelehrten aller Stände so wohl männ- als weiblichen Geschlechts, welche vom Anfang der Welt bis auf ietztige Zeit gelebt, und sich der gelehrten Welt bekannt gemacht, nach ihrer Geburt, Absterben, Schrifften, Leben und merckwürdigen Geschichten aus denen glaubwürdigsten Scribenten nach dem Entwurff des sel. D. Joh. Burckh. Menckens in alphabetischer Ordnung beschrieben werden.</titel> (1715; 3. Aufl., 2&#x202F;Bde., Leipzig 1733).<line type="break" />
-<titel>Allgemeines Gelehrten-Lexicon. Darinne die Gelehrten aller Stände sowohl männ- als weiblichen Geschlechts, welche vom Anfange der Welt bis auf ietzige Zeit gelebt, und sich der gelehrten Welt bekannt gemacht; Nach ihrer Geburt, Leben, merckwürdigen Geschichten, Absterben und Schrifften aus den glaubwürdigsten Scribenten in alphabetischer Ordnung beschrieben werden</titel> (4&#x202F;Bde., Leipzig: Gleditsch 1750–1751) [Biga&#x202F;77/58]. Digitalisat, Tl.&#x202F;1 = A–C: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-627240">ULB Halle: Nv 155 b, 4Öʿ (1)</wwwlink>.
+<titel>Compendiöses Gelehrten-Lexicon: Darinne die Gelehrten aller Stände so wohl männ- als weiblichen Geschlechts, welche vom Anfang der Welt bis auf ietztige Zeit gelebt, und sich der gelehrten Welt bekannt gemacht, nach ihrer Geburt, Absterben, Schrifften, Leben und merckwürdigen Geschichten aus denen glaubwürdigsten Scribenten nach dem Entwurff des sel. D. Joh. Burckh. Menckens in alphabetischer Ordnung beschrieben werden.</titel> (1715; 3. Aufl., 2&#x202F;Bde., Leipzig 1733) [Biga&#x202F;90/236: „C. G. Jöchers compendieuses Gelehrten-Lexicon, ib. 733“]. Digitalisat: <wwwlink address="iulianus">BSB München: N.libr. 173 r</wwwlink>.<line type="break" />
+<titel>Allgemeines Gelehrten-Lexicon. Darinne die Gelehrten aller Stände sowohl männ- als weiblichen Geschlechts, welche vom Anfange der Welt bis auf ietzige Zeit gelebt, und sich der gelehrten Welt bekannt gemacht; Nach ihrer Geburt, Leben, merckwürdigen Geschichten, Absterben und Schrifften aus den glaubwürdigsten Scribenten in alphabetischer Ordnung beschrieben werden</titel> (4&#x202F;Bde., Leipzig: Gleditsch 1750–1751) [Biga&#x202F;77/58: „Jöchers Gelehrten-Lexicon, 1–4ter Th. Leipz. 750. 57“]. Digitalisat, Tl.&#x202F;1 = A–C: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-627240">ULB Halle: Nv 155 b, 4Öʿ (1)</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -7870,7 +7877,7 @@ Jüdischer Krieg, lat. de bello Iudaico, griech. Περὶ τοῦ Ἰουδαι
 <subsection id="julian-opera" type="neuzeit" sort="10">
 <lemma>Iulianus, <titel>Opera</titel></lemma>
 <eintrag>
-<titel>Iuliani Imp. Opera quae supersunt omnia et S. Cyrilli Alexandr. archiep. contra impium Iulianum libri decem</titel>, hg. von <link ref="spanheim" linktext="true" /> (Leipzig 1696)
+<titel>Iuliani Imp. Opera quae supersunt omnia et S. Cyrilli Alexandr. archiep. contra impium Iulianum libri decem</titel>, hg. von <link ref="spanheim" linktext="true" /> (Leipzig: Weidmann, Gleditsch 1696). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11199279-5">Stabi Augsburg: 2 LG 213</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11433,7 +11440,7 @@ N
 
 <kommentar id="neumann-j" type="neuzeit">
 <lemma>Johann Christoph Neumann</lemma>
-<eintrag>1763– nach 1788. Neffe von <link ref="herder" linktext="true" />. Kaufmannslehre, Juni 1782 nach Riga, 1783 Angestellter eines Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
+<eintrag>1763 bis nach 1788. Neffe von <link ref="herder" linktext="true" />. Kaufmannslehre, Juni 1782 nach Riga, 1783 Angestellter eines Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
 </kommentar>
 
 <kommentar id="newton" type="neuzeit">

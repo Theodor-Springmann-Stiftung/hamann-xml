@@ -52692,7 +52692,7 @@ Der Brief enthält bis <intlink letter="425" page="139" line="21" linktext="true
 </marginal>
 
 <marginal letter="425" page="136" line="6">
-<bzg>Brautpaar</bzg> mögliche Referenzen sind <link ref="hartknoch" linktext="false">Johann Friedrich</link> und <link ref="hartknoch-a" linktext="true" /> oder <link ref="herder" linktext="false">Johann Gottfried</link> und <link ref="herder-c" linktext="true" />
+<bzg>Brautpaar</bzg> Anlass für die Schrift war die Hochzeit von <link ref="hartknoch" linktext="false">Johann Friedrich</link> und <link ref="hartknoch-a" linktext="true" />, die demnach hier gemeint sind.
 </marginal>
 
 <marginal letter="425" page="136" line="7">
@@ -53547,7 +53547,7 @@ Brief Nr. 432
 <bzg>Oracul</bzg> Hauskalender
 </marginal>
 
-<marginal letter="432" page="151" line="2">
+<marginal letter="432" page="151" line="3">
 <bzg>Adelgunde</bzg> Der 30. Januar ist der Namenstag der heiligen Adelgunde (um 630 bis 684 n.&#x202F;Chr.).
 </marginal>
 
@@ -53700,12 +53700,15 @@ Brief Nr. 432
 Brief Nr. 433
 
 <marginal letter="433" page="154" line="22">
-<bzg>Inlagen</bzg> 160,32f.: ein Brief von <link ref="herder-c" linktext="true" /> an <link ref="hartknoch" linktext="true" /> (HBGA 5,156f.)
-und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />.
+<bzg>Inlagen</bzg> Ein Brief von <link ref="herder-c" linktext="true" /> an <link ref="hartknoch" linktext="true" /> (vgl. HBGA, Bd.&#x202F;5, S.&#x202F;156f.?!?) und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />, vgl. <intlink letter="437" page="160" line="31" linktext="true" />.
+</marginal>
+
+<marginal letter="433" page="154" line="25">
+<bzg>Ihren Brief</bzg> <intlink letter="424" page="129" line="18" linktext="false">HKB 424</intlink>
 </marginal>
 
 <marginal letter="433" page="154" line="30" sort="1">
-<bzg>Tochter</bzg> <link ref="hamann-mc" linktext="true" /> 
+<bzg>Tochter</bzg> <link ref="hamann-mc" linktext="true" />, vgl. <intlink letter="424" page="130" line="28" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="154" line="30" sort="2">
@@ -53733,15 +53736,15 @@ und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="155" line="1">
-<bzg>Sp. Briefw.</bzg> die Briefe an <link ref="spalding" linktext="true" /> wegen <link ref="herder" subref="herder-prediger" linktext="true" />, vgl. <intlink letter="424" page="131" line="11" linktext="true" />
+<bzg>Sp. Briefw.</bzg> Herders Briefwechsel mit <link ref="spalding" linktext="true" /> wegen <link ref="herder" subref="herder-prediger" linktext="true" />, um deren Abschrift Hamann bat, vgl. <intlink letter="424" page="131" line="11" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="155" line="3">
-<bzg>Apolloniis</bzg> gemeint sind kritische Stimmen
+<bzg>Apolloniis</bzg> kritische Stimmen wie die von <link ref="kant" linktext="true" />, vgl. <intlink letter="424" page="131" line="12" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="155" line="4">
-<bzg>Stockmars</bzg> <link ref="stockmar" linktext="true" />
+<bzg>Stockmars</bzg> <link ref="stockmar" linktext="true" />, vgl. <intlink letter="424" page="133" line="5" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="155" line="5">
@@ -53757,7 +53760,7 @@ und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="155" line="11">
-<bzg>Prov. Bl.</bzg> Prov.[inzial] Bl.[ätter]: <link ref="herder" subref="herder-prediger" linktext="true" />
+<bzg>Prov. Bl.</bzg> Provinzialblätter, <link ref="herder" subref="herder-prediger" linktext="true" />
 </marginal>
 
 <marginal letter="433" page="155" line="12">
@@ -53792,11 +53795,11 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="155" line="26">
-<bzg>Sibylle Adelgunde</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" />, vgl. Brief 432
+<bzg>Sibylle Adelgunde</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" />, vgl. <intlink letter="432" page="151" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="155" line="27">
-<bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" />
+<bzg>Verleger</bzg> Hartknoch
 </marginal>
 
 <marginal letter="434" page="155" line="31" sort="1">
@@ -53804,15 +53807,19 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="155" line="31" sort="2">
-<bzg>huj.</bzg> huius, d.i. diesen [Monats]
+<bzg>huj.</bzg> huius, d.i. diesen Monats
 </marginal>
 
 <marginal letter="434" page="155" line="32">
-<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />, nicht überliefert
+<bzg>Me Claudius</bzg> <link ref="claudius-r" linktext="true" />, nicht überliefert
 </marginal>
 
-<marginal letter="434" page="155" line="34">
+<marginal letter="434" page="155" line="34" sort="1">
 <bzg>immediate nach Bückeburg</bzg> sofort zu <link ref="herder" linktext="true" />
+</marginal>
+
+<marginal letter="434" page="155" line="34" sort="1">
+<bzg>Gevatter Claudius</bzg> <link ref="claudius" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="156" line="2">
@@ -53824,15 +53831,15 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="4">
-<bzg>Cunctatori Bode</bzg> Zögerer <link ref="bode-jjc" linktext="true" />
+<bzg>Cunctatori Bode</bzg> Zögerer <link ref="bode-jjc" linktext="true" />, vgl. <intlink letter="426" page="141" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="156" line="7">
-<bzg>Panegyricum ... Eloge funebre</bzg> Festrede bzw. Grabrede
+<bzg>Panegyricum ... Eloge funebre</bzg> Festrede bzw. Grabrede; vgl. <intlink letter="426" page="140" line="29" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="156" line="10">
-<bzg>„Sie machen …</bzg> Brief nicht überliefert
+<bzg>„Sie machen …</bzg> wohl aus Hartknochs nicht überlieferter Antwort auf <intlink letter="432" page="150" line="18" linktext="false">HKB 432</intlink> zitiert.
 </marginal>
 
 <marginal letter="434" page="156" line="17">
@@ -53852,11 +53859,11 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="23">
-<bzg>amanuensi</bzg> lat. amanuensis: Schreiber, Sekretär
+<bzg>amanuensi</bzg> lat. amanuensis: Schreiber, Sekretär, hier Verleger
 </marginal>
 
 <marginal letter="434" page="156" line="25">
-<bzg>Aequa potestas … hanc …</bzg> Und doch hatten Maler und Dichter seit je gleiche Freiheit zu wagen, was sie nur wollen. Ich weiß das, und diese Gunst erbitte ich selbst und gewähre sie andren (<link ref="horaz" subref="horaz-poetica" linktext="true" />, 9–11)
+<bzg>Aequa potestas … hanc …</bzg> „Und doch hatten Maler und Dichter seit je gleiche Freiheit zu wagen, was sie nur wollen. Ich weiß das, und diese Gunst erbitte ich selbst und gewähre sie andren“ (<link ref="horaz" subref="horaz-poetica" linktext="true" />, 9–11).
 </marginal>
 
 <marginal letter="434" page="156" line="27">
@@ -53864,7 +53871,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="31">
-<bzg>Allotrioepiscop</bzg> einer, der sich in fremde Geschäfte mischt
+<bzg>Allotrioepiscop</bzg> Jemand, der sich in fremde Geschäfte mischt; vgl. <link ref="hamann" subref="hamann-schuerze" linktext="true" />, N&#x202F;III,20/25
 </marginal>
 
 <marginal letter="434" page="156" line="32">
@@ -53872,7 +53879,11 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="33" sort="1">
-<bzg>Gelehrten Lexicon</bzg> <link ref="joecher" subref="joecher-lexicon" linktext="true" />; „Funeicus“ nicht ermittelt
+<bzg>Gelehrten Lexicon</bzg> <link ref="joecher" subref="joecher-lexicon" linktext="true" />; „Funeicus“ nicht ermittelt, mglw. Transkriptionsfehler
+</marginal>
+
+<marginal letter="434" page="156" line="33" sort="2">
+<bzg>Diese Schürze</bzg> wohl im Zusammenhang von frühen Gedanken zu <link ref="hamann" subref="hamann-schuerze" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="156" line="34" sort="1">
@@ -53892,7 +53903,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="157" line="3">
-<bzg>Persius</bzg><link ref="persius" subref="persius-satiren" linktext="true" />, 4,6ff: ERGO vbi commota feruet plebecula bile, /Fert animus calidae fecisse silentia turbae /Maiestate manus ---; dt. Drum, sobald sich dem Völklein die Galle erregt, daß es aufkocht,/ Drängt dich dein Herz, Stillschweigen dem hitzigen Schwarme zu bieten / Mit erhabner Gebärde der Hand. Vgl. N III, S.123. 
+<bzg>Motto aus dem lieben Persius</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />„ERGO vbi commota feruet plebecula bile, / Fert animus calidae fecisse silentia turbae / Maiestate manus – – –“ aus <link ref="persius" subref="persius-satiren" linktext="true" />, 4,6–8. Übers.: „Drum, sobald sich dem Völklein die Galle erregt, daß es aufkocht, / Drängt dich dein Herz, Stillschweigen dem hitzigen Schwarme zu bieten / Mit erhabner Gebärde der Hand.“ Vgl. N III, S.123. 
 </marginal>
 
 <marginal letter="434" page="157" line="4" sort="1">
@@ -53904,7 +53915,11 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="157" line="5">
-<bzg>4. An statt 45 Scholien</bzg> vgl. <link ref="hamann" subref="hamann-selbstgespraech" linktext="true" />
+<bzg>4.</bzg> Quartformat
+</marginal>
+
+<marginal letter="434" page="157" line="5">
+<bzg>An statt 45 Scholien</bzg> vgl. <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="157" line="9">
@@ -53916,7 +53931,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="157" line="15" sort="1">
-<bzg>Irrlichter im alten Graben</bzg> die Dreikronenloge, siehe <intlink letter="425" page="139" line="15" linktext="true" />
+<bzg>Irrlichter im alten Graben</bzg> die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>, siehe <intlink letter="425" page="139" line="15" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="157" line="15" sort="2">
@@ -53932,15 +53947,19 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="157" line="21">
-<bzg>E.</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" />
+<bzg>E.</bzg> Ehe, nach <link ref="hamann" subref="hamann-ehe" linktext="true" />
 </marginal>
 
-<marginal letter="434" page="157" line="25">
-<bzg>Vetter des A. B.</bzg> A.[lten] B.[undes]: Haman im Buch Esther; <link ref="hartknoch" linktext="true" /> hatte offenbar das doppelte nn in Hs Namen verstümmelt
+<marginal letter="434" page="157" line="25"> 
+<bzg>Vetter des A. B.</bzg> Alten Bundes: Haman aus <link ref="at-est" subref="at-est3" linktext="false">Est 3,1</link>; Hartknoch hatte offenbar das doppelte ‚nn‘ in Hamanns Namen falsch geschrieben.
+</marginal>
+
+<marginal letter="434" page="157" line="28">
+<bzg>P. S. 2.</bzg> zu den multiplen Postskripta vgl. <intlink letter="425" page="139" line="13" linktext="true" />
 </marginal>
 
 <marginal letter="434" page="157" line="32">
-<bzg>Verlages</bzg> Anmeldung von <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
+<bzg>Verlages</bzg> mglw. Ankündigung von <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
 </marginal>
 
 <marginal letter="434" page="157" line="34">
@@ -53952,7 +53971,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="157" line="37">
-<bzg>mpp</bzg> evtl. multa perge perge, dt.: fahre mit vielem fort
+<bzg>mpp</bzg> vmtl. multa perge perge, dt.: fahre mit vielem fort
 </marginal>
 
 <marginal letter="434" page="158" line="4">
