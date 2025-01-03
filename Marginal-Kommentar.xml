@@ -53466,7 +53466,7 @@ Brief Nr. 430
 Der Brief wurde im Kontext der Krankheit von <link ref="hamann-jm" linktext="true" /> geschrieben, vmtl. nach <intlink letter="428" page="146" line="15" linktext="false">HKB 430</intlink> und ist wohl auch an <link ref="stockmar" linktext="true" /> gerichtet.
 </marginal>
 
-<marginal letter="430" page="148" line="14" sort="2">
+<marginal letter="430" page="148" line="11" sort="2">
 <bzg>P. P.</bzg> vmtl. Praemissis praemittendis (mit Vorausschickung des Vorauszuschickenden, anstatt eines Titels)
 </marginal>
 
@@ -53700,7 +53700,7 @@ Brief Nr. 432
 Brief Nr. 433
 
 <marginal letter="433" page="154" line="22">
-<bzg>Inlagen</bzg> Ein Brief von <link ref="herder-c" linktext="true" /> an <link ref="hartknoch" linktext="true" /> (vgl. HBGA, Bd.&#x202F;5, S.&#x202F;156f.?!?) und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />, vgl. <intlink letter="437" page="160" line="31" linktext="true" />.
+<bzg>Inlagen</bzg> Ein Brief von <link ref="herder-c" linktext="true" /> an <link ref="hartknoch" linktext="true" />, 11.2.1775 (vgl. HBGA, Bd.&#x202F;3, S.&#x202F;156f.) und ein nicht überlieferter Brief an <link ref="herder-cd-g" linktext="true" />, vgl. <intlink letter="437" page="160" line="31" linktext="true" />.
 </marginal>
 
 <marginal letter="433" page="154" line="25">
@@ -54009,7 +54009,7 @@ Brief Nr. 435
 </marginal>
 
 <marginal letter="435" page="159" line="10">
-<bzg>D. Merkur</bzg> <link ref="teutsche-merkur" linktext="true" />, Bd.&#x202F;8, St.&#x202F;2, November 1774, S.&#x202F;174f.; von <link ref="schmid-ch" linktext="true" />
+<bzg>D. Merkur</bzg> <link ref="schmid-ch" linktext="true" />: <titel>Fortsetzung der kritischen Nachrichten vom Zustande des Teutschen Parnassus</titel> in <link ref="teutsche-merkur" linktext="true" />, Bd.&#x202F;8, St.&#x202F;2, November 1774, S.&#x202F;174f.
 </marginal>
 
 <marginal letter="435" page="159" line="11">
@@ -54035,7 +54035,7 @@ Brief Nr. 436
 </marginal>
 
 <marginal letter="436" page="159" line="27">
-<bzg>Recension</bzg> <link ref="teutsche-merkur" linktext="true" />, Bd.8, 2. Stück, November 1774, S.174f. durch <link ref="schmid-ch" linktext="true" />
+<bzg>Hamburgschen Recension … eingeflochten seyn soll</bzg> Hamann meint, dass er in einem Hamburger Rezensionsorgan, dass den Artikel über ihn aus dem <link ref="teutsche-merkur" linktext="false">Teutschen Merkur</link>, Bd.&#x202F;8, St.&#x202F;2, November 1774, S.&#x202F;174f. (vgl. <intlink letter="435" page="159" line="10" linktext="true" />) rezensierte, erwähnt wurde. Tatsächlich wird die „hammanische Sekte“ in der Rezension über den Teutschen Merkur in der <link ref="hamb-neuezeitungen" linktext="false">Hamburgischen neuen Zeitung</link>, St.&#x202F;20, 4.2.1775, S.&#x202F;3f. erwähnt.
 </marginal>
 
 <marginal letter="436" page="159" line="29">
@@ -54047,11 +54047,11 @@ Brief Nr. 436
 </marginal>
 
 <marginal letter="436" page="159" line="31" sort="1">
-<bzg>huj</bzg> huius, d.i. diesen [Monats]
+<bzg>huj</bzg> huius, d.i. diesen Monats
 </marginal>
 
 <marginal letter="436" page="159" line="31" sort="2">
-<bzg>Correspondenten</bzg> <link ref="hamb-correspondenten" linktext="false"><titel>Staats- und Gelehrte Zeitung des Hamburgischen unpartheyischen Correspondenten</titel></link>
+<bzg>Correspondenten</bzg> <link ref="hamb-correspondenten" linktext="false"><titel>Staats- und Gelehrte Zeitung des Hamburgischen unpartheyischen Correspondenten</titel>, St.&#x202F;21, 7.2.1775, S.&#x202F;4</link>
 </marginal>
 
 <marginal letter="436" page="159" line="32">
@@ -54063,30 +54063,37 @@ Brief Nr. 436
 </marginal>
 
 <marginal letter="436" page="160" line="1">
-<bzg>Göthe</bzg> <link ref="goethe" linktext="true" />
+<bzg>Göthe lieben Werther</bzg> <link ref="goethe" subref="goethe-werther" linktext="true" />
 </marginal>
 
+<marginal letter="436" page="160" line="9">
+<bzg>neueren Hamb. Zeitung</bzg> <link ref="hamb-neuezeitungen" linktext="true"/>, St.&#x202F;20, 4.2.1775, S.&#x202F;3f.
+</marginal>
 
 Brief Nr. 437
+
+<marginal letter="437" page="160" line="23">
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" /> 
+</marginal>
 
 <marginal letter="437" page="160" line="24">
 <bzg>Hausmutter</bzg> <link ref="schumacher-ar" linktext="true" />
 </marginal>
 
-<marginal letter="437" page="160" line="25">
-<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" /> 
-</marginal>
-
 <marginal letter="437" page="160" line="27" sort="1">
-<bzg>Herder</bzg> <link ref="herder" linktext="true" />, vgl. Brief Nr. 433
+<bzg>Herder</bzg> <link ref="herder" linktext="true" />, vgl. <intlink letter="433" page="154" line="20" linktext="false">HKB 433</intlink>
 </marginal>
 
 <marginal letter="437" page="160" line="27" sort="2">
-<bzg>12o</bzg> Duodez-Format
+<bzg>12</bzg> Duodez-Format
 </marginal>
 
 <marginal letter="437" page="160" line="28">
-<bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" />, vgl. Brief Nr. 435
+<bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" />, vgl. <intlink letter="435" page="158" line="7" linktext="false">HKB 435</intlink>
+</marginal>
+
+<marginal letter="437" page="160" line="29">
+<bzg>4 Blättchen</bzg> Quart-Format
 </marginal>
 
 <marginal letter="437" page="160" line="30">
@@ -54097,8 +54104,12 @@ Brief Nr. 437
 <bzg>Plutons</bzg> griech. Gott der Unterwelt 
 </marginal>
 
-<marginal letter="437" page="160" line="32">
+<marginal letter="437" page="160" line="32" sort="1">
 <bzg>Schwester in Mohr.</bzg> <link ref="herder-cd-g" linktext="true" /> in Mohrungen
+</marginal>
+
+<marginal letter="437" page="160" line="32" sort="2">
+<bzg>gegenwärtige</bzg> Hamann sandte mit diesem Brief Herders Einlage an Hartknoch, vgl. <intlink letter="433" page="154" line="22" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="160" line="33">
@@ -54106,11 +54117,11 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="161" line="4">
-<bzg>Relationem Happelianam</bzg> Kuriositäten, sprichwörtlich nach<link ref="happel" subref="happel-welt" linktext="true" /> 
+<bzg>Relationem Happelianam</bzg> Kuriositäten, sprichwörtlich nach <link ref="happel" subref="happel-welt" linktext="true" /> 
 </marginal>
 
 <marginal letter="437" page="161" line="5" sort="1">
-<bzg>Einlage</bzg> vom 11. Februar (HBGA III, Nr. 133) von <link ref="herder-c" linktext="true" />
+<bzg>Einlage</bzg> vgl. <intlink letter="437" page="160" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="161" line="5" sort="2">
@@ -54118,7 +54129,7 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="161" line="9">
-<bzg>heraklitisch</bzg> weinerlich; der weinende Philosoph Heraklit, vorsokratisch (520–460 v. Chr.) nach <link ref="juvenal" subref="juvenal-satiren" linktext="true" />, 10,28ff.
+<bzg>heraklitisch</bzg> weinerlich, nach dem Topos des weinenden Philosophen Heraklit (520–460 v. Chr.), etwa bei <link ref="juvenal" subref="juvenal-satiren" linktext="true" />, 10,28–30.
 </marginal>
 
 <marginal letter="437" page="161" line="11">
