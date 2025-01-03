@@ -54157,7 +54157,7 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="162" line="3">
-<bzg>Made Rappoltin</bzg> Ehefrau von <link ref="rappolt-ch" linktext="true" />  
+<bzg>Mad<super>e</super> Rappoltin</bzg> <link ref="rappolt-eh" linktext="true" />  
 </marginal>
 
 <marginal letter="437" page="162" line="16">
@@ -54165,27 +54165,27 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="162" line="18">
-<bzg>Begebenheiten auf dem Parnaß</bzg> vgl. <intlink letter="435" page="159" line="10" linktext="true" />
+<bzg>Begebenheiten auf dem Parnaß</bzg> Anspielung auf <link ref="schmid-ch" linktext="true" />: <titel>Fortsetzung der kritischen Nachrichten vom Zustande des Teutschen Parnassus</titel>, in <link ref="teutsche-merkur" linktext="true" />, Bd.&#x202F;8, St.&#x202F;2, November 1774, S.&#x202F;174f., vgl. <intlink letter="435" page="159" line="10" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="162" line="23">
-<bzg>Hamb. Zeitung</bzg> <link ref="ziegra" subref="ziegra-hamburgische" linktext="true" /> 
+<bzg>neuen Hamb. Zeitung</bzg> die Erwähnung der „hammanische Sekte“ in der Rezension über den Teutschen Merkur in der <link ref="hamb-neuezeitungen" linktext="false">Hamburgischen neuen Zeitung</link>, St.&#x202F;20, 4.2.1775, S.&#x202F;3f., vgl. <intlink letter="436" page="160" line="9" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="162" line="24" sort="1">
-<bzg>Wandsbecker Boten</bzg> <link ref="claudius" subref="claudius-bothe" linktext="true" />, 11. Februar 1775
-</marginal>
-
-<marginal letter="437" page="162" line="24" sort="2">
-<bzg>Wieland – Weimarsche Mercur</bzg> <link ref="teutsche-merkur" linktext="true" />, Bd.8, 2. Stück, November 1774, S.174f.
+<bzg>Wandsbecker Boten</bzg> Claudius’ ironische Antwort auf den Merkur-Artikel im <link ref="claudius" subref="claudius-bothe" linktext="false">Wandsbecker Bothen</link>, 24.&#x202F;St. vom 11.2.1775, S.&#x202F;3f.
 </marginal>
 
 <marginal letter="437" page="162" line="27">
 <bzg>Klopstock, Herder, der dänische Resident</bzg> <link ref="klopstock" linktext="true" />, <link ref="herder" linktext="true" />, <link ref="gerstenberg" linktext="true" />
 </marginal>
 
-<marginal letter="437" page="162" line="28">
-<bzg>Bode … dramatische Thavmaturg</bzg> <link ref="bode-jjc" linktext="true" />. Thavmaturg: dt. Wundermann; gemeint ist <link ref="goethe" linktext="true" />
+<marginal letter="437" page="162" line="28"  sort="1">
+<bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" />
+</marginal>
+
+<marginal letter="437" page="162" line="28"  sort="2">
+<bzg>dramatische Thavmaturg</bzg> Thavmaturg: dt. Wundermann, gemeint ist <link ref="goethe" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="162" line="31">
@@ -54193,11 +54193,11 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="163" line="3">
-<bzg>Amanuensi</bzg> lat. amanuensis: Schreiber, Sekretär
+<bzg>Amanuensi</bzg> lat. amanuensis: Schreiber, Sekretär, hier Verleger
 </marginal>
 
 <marginal letter="437" page="163" line="6">
-<bzg>Breloque</bzg> <link ref="hamann" subref="hamann-kermes" linktext="true" /> 
+<bzg>Breloque</bzg> wohl Texte aus dem Umfeld von <link ref="hamann" subref="hamann-kermes" linktext="true" /> (eine Breloque ist ein Uhranhänger, eine Rokoko-Mode)
 </marginal>
 
 <marginal letter="437" page="163" line="19">
@@ -54213,11 +54213,11 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="163" line="24">
-<bzg>Gewerbe zum Verlag</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
+<bzg>Gewerbe zum Verlag</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" /> oder <link ref="hamann" subref="hamann-kermes" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="163" line="31">
-<bzg>Sibylla Adelgunda</bzg> vgl. <intlink letter="432" page="153" line="33" linktext="true" />
+<bzg>Sibylla Adelgunda</bzg> nach <link ref="hamann" subref="hamann-ehe" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="163" line="32">
@@ -54225,7 +54225,7 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="163" line="33">
-<bzg>Supplement des Sophrons</bzg>  Wohl ein Teil von <link ref="hartmann-gd" subref="hartmann-sophron" linktext="true" />
+<bzg>Supplement des Sophrons</bzg> wohl ein Teil von <link ref="hartmann-gd" subref="hartmann-sophron" linktext="true" />
 </marginal>
 
 <marginal letter="437" page="163" line="34">
