@@ -54571,7 +54571,7 @@ Brief Nr. 440
 </marginal>
 
 <marginal letter="440" page="169" line="8">
-<bzg>Fürsten Orlow Labore et virtute</bzg> Grigorij Orlow (1734–1783), Liebhaber und Günstling Katharinas II.; Labore et virtute: dt. durch Arbeit und Tugend
+<bzg>Fürsten Orlow Labore et virtute</bzg> <link ref="orlow-g" linktext="true" />; Labore et virtute: dt. durch Arbeit und Tugend
 </marginal>
 
 <marginal letter="440" page="169" line="9" sort="1">
@@ -54606,7 +54606,7 @@ Brief Nr. 440
 Brief Nr. 441
 
 <marginal letter="441" page="169" line="27">
-<bzg>Brief</bzg> Brief Nr. 440
+<bzg>Brief</bzg> <intlink letter="440" page="167" line="1" linktext="false">HKB 440</intlink>
 </marginal>
 
 <marginal letter="441" page="169" line="31" sort="1">
@@ -54646,7 +54646,7 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="170" line="4">
-<bzg>Embryon unter der schwarzen Hebamme</bzg> vgl. <intlink letter="440" page="167" line="14" linktext="true" />
+<bzg>Embryon unter der schwarzen Hebamme</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />; Hamann fürchtete eine unfruchtbare Auseinandersetzung mit Herders ‚Feinden‘,vgl. <intlink letter="440" page="167" line="14" linktext="true" />
 </marginal>
 
 <marginal letter="441" page="170" line="5">
@@ -54658,7 +54658,7 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="170" line="14">
-<bzg>Bucephalus</bzg> das wilde Lieblingspferd Alexanders des Großen, vgl <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" />, N II,174, 23f.
+<bzg>Bucephalus</bzg> das wilde Lieblingspferd Alexanders des Großen, vgl. <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" />, N II,174, 23f.
 </marginal>
 
 <marginal letter="441" page="170" line="16">
@@ -54674,11 +54674,15 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="170" line="23">
-<bzg>Merkurs</bzg> <link ref="teutsche-merkur" linktext="true" />, Bd.8, 2. Stück; vgl. <intlink letter="440" page="169" line="4" linktext="true" /> 
+<bzg>Merkurs</bzg> <link ref="schmid-ch" linktext="true" />: <titel>Fortsetzung der kritischen Nachrichten vom Zustande des Teutschen Parnassus</titel>, in <link ref="teutsche-merkur" linktext="true" />, Bd.&#x202F;8, St.&#x202F;2, November 1774, S.&#x202F;174f.; vgl. <intlink letter="440" page="169" line="4" linktext="true" /> 
 </marginal>
 
 <marginal letter="441" page="170" line="25">
-<bzg>HE. Fr. Nikol. … Weimars</bzg> <link ref="nicolai" linktext="true" />; Weide: <link ref="wieland" linktext="true" />. Anspielung auf <link ref="at-jes" subref="at-jes44" linktext="false">Jes 44,4</link>
+<bzg>HE. Fr. Nikol.</bzg> <link ref="nicolai" linktext="true" />
+</marginal>
+
+<marginal letter="441" page="170" line="28">
+<bzg>Weide</bzg> <link ref="wieland" linktext="true" />, Anspielung auf <link ref="at-jes" subref="at-jes44" linktext="false">Jes 44,4</link>
 </marginal>
 
 <marginal letter="441" page="170" line="28">
@@ -54698,7 +54702,11 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="171" line="1">
-<bzg>Vetter Nabal</bzg> <link ref="nicolai" linktext="true" /> unter Anspielung auf <link ref="at-sam1" subref="at-sam1-25" linktext="false">1 Sam 25,3</link>  
+<bzg>Vetter Nabal</bzg> <link ref="nicolai" linktext="true" />, mit Anspielung auf <link ref="at-sam1" subref="at-sam1-25" linktext="false">1 Sam 25,3</link>  
+</marginal>
+
+<marginal letter="441" page="171" line="4">
+<bzg>v. v.</bzg> vice versa
 </marginal>
 
 <marginal letter="441" page="171" line="5">
@@ -54714,7 +54722,7 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="171" line="10">
-<bzg>Sibylle des Ehestandes</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
+<bzg>Sibylle des Ehestandes</bzg> nach <link ref="hamann" subref="hamann-ehe" linktext="true" /> 
 </marginal>
 
 <marginal letter="441" page="171" line="11">
@@ -54722,7 +54730,7 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="171" line="18">
-<bzg>Hartkn. zu Ihren Geburten</bzg> <intlink letter="440" page="168" line="35" linktext="true" />; <link ref="hamann" subref="hamann-kermes" linktext="true" /> 
+<bzg>Hartkn. zu Ihren Geburten</bzg> <link ref="hamann" subref="hamann-kermes" linktext="true" /> und <link ref="hamann" subref="hamann-hierophant" linktext="true" />, vgl. <intlink letter="440" page="168" line="35" linktext="true" />
 </marginal>
 
 <marginal letter="441" page="171" line="22">
@@ -54738,7 +54746,7 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="171" line="29">
-<bzg>Bauer in der Schweit…</bzg> Heinrich Boßhard an Lavater über die Älteste Urkunde, vgl. das <wwwlink address="https://www.e-manuscripta.ch/zuz/content/titleinfo/2464866">Manuskript: Zentralbibliothek Zürich, FA Lav Ms 503.109</wwwlink> und <titel>Heinrich Boßhard, eines schweizerischen Landmannes, Lebensgeschichte, von ihm selbst geschrieben</titel> (Winterthur 1804), S.89. Vgl. außerdem den Brief Herders an Lavater Mitte April 1775: <wwwlink address="https://jclavater-briefwechsel.ch/letter/1136">https://jclavater-briefwechsel.ch/letter/1136</wwwlink>.
+<bzg>Bauer in der Schweitz …</bzg> Heinrich Bosshard (1748–1815), vgl. den Bericht in <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10720766-2"><titel>Heinrich Boßhard, eines schweizerischen Landmannes, Lebensgeschichte, von ihm selbst geschrieben</titel> (Winterthur 1804)</wwwlink>, S.&#x202F;89; vgl. außerdem den Brief von Boßhard an Lavater, 26.3.1775, über Herders <link ref="herder" subref="herder-altesteurkunde" linktext="false">Älteste Urkunde</link>: <wwwlink address="https://www.e-manuscripta.ch/zuz/content/titleinfo/2464866">Manuskript: Zentralbibliothek Zürich, FA Lav Ms 503.109</wwwlink> und den Brief Herders an Lavater, Mitte April 1775: <wwwlink address="https://jclavater-briefwechsel.ch/letter/1136">https://jclavater-briefwechsel.ch/letter/1136</wwwlink>.
 </marginal>
 
 <marginal letter="441" page="171" line="30" sort="1">
@@ -54774,7 +54782,7 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="172" line="12">
-<bzg>Leßing ... Beitrage</bzg> <link ref="lessing" subref="lessing-geschichtelitteratur" linktext="true" />, Dritter Beytrag, 1774, S.195–226: „Von Duldung der Deisten: Fragment eines Ungenannten“.  
+<bzg>Leßing ... Beitrage</bzg> <link ref="lessing" subref="lessing-geschichtelitteratur" linktext="true" />, Dritter Beytrag, 1774, S.195–226: <titel>Von Duldung der Deisten: Fragment eines Ungenannten.</titel>
 </marginal>
 
 <marginal letter="441" page="172" line="19">
