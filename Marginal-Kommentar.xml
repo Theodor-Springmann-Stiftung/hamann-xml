@@ -22,6 +22,7 @@ Brief Nr. 0
 </marginal> 
 
 Brief Nr. 1
+
 <marginal letter="1" page="1" line="9">
 <link ref="hamann" subref="daphne" linktext="true" />
 </marginal>
@@ -54352,10 +54353,7 @@ Brief Nr. 438
 </marginal>
 
 <marginal letter="438" page="165" line="23" sort="2">
-<bzg>velum veli Dei</bzg>  gout du P. de Gallois pour les
-proses carrées se manifeste encore dans celle qu'il fit imprimer sous le titre de velum
-veli Dei. Le sujet est une Relique de monastère de Notre- Dame de Bonne nouvelle à
-Rouen. ?!?
+<bzg>velum veli Dei</bzg> Hülle des verborgenen Gottes, vgl. <intlink letter="424" page="130" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="438" page="165" line="24">
@@ -54367,17 +54365,17 @@ Rouen. ?!?
 </marginal>
 
 <marginal letter="438" page="165" line="27">
-<bzg>Haupt der neuesten Secte</bzg> vgl. den Artikel <titel>Fortsetzung der kritischen Nachrichten vom Zustande des Teutschen Parnassus</titel> (von <link ref="schmid-ch" linktext="true" />) über Hamann in <link ref="teutsche-merkur" linktext="true" />, Bd.&#x202F;8, St.&#x202F;2, November 1774, S.&#x202F;174f. und <intlink letter="436" page="159" line="25" linktext="true" />
+<bzg>Haupt der neuesten Secte</bzg> vgl. den Artikel <titel>Fortsetzung der kritischen Nachrichten vom Zustande des Teutschen Parnassus</titel> (von <link ref="schmid-ch" linktext="true" />) über Hamann in <link ref="teutsche-merkur" linktext="true" />, Bd.&#x202F;8, St.&#x202F;2, November 1774, S.&#x202F;174f. und <intlink letter="436" page="159" line="27" linktext="true" />
 </marginal>
 
 Brief Nr. 439
 
 <marginal letter="439" page="165" line="31">
-<bzg>P. P.</bzg> P.[rofessori] P.[ublico]
+<bzg>P. P.</bzg> Professori Publico
 </marginal>
 
 <marginal letter="439" page="165" line="32">
-<bzg>Hintz</bzg> <link ref="hinz" linktext="true" />  
+<bzg>Hintz</bzg> <link ref="hinz" linktext="true" />; zu Hamanns Warten auf die Zusendung vgl. <intlink letter="437" page="163" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="439" page="165" line="33">
@@ -54388,12 +54386,21 @@ Brief Nr. 439
 <bzg>HE. N. Antwort</bzg> <link ref="nicolai" subref="nicolai-magum" linktext="true" />
 </marginal>
 
-<marginal letter="439" page="166" line="7">
-<bzg>Prolegomena</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+<marginal letter="439" page="166" line="3">
+<bzg>Grundlage meines Entwurfs</bzg> wohl <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />
 </marginal>
 
+<marginal letter="439" page="166" line="7">
+<bzg>Prolegomena</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
+</marginal> 
+
+<marginal letter="439" page="166" line="7">
+<bzg>45 … Scholion</bzg> wie in <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> 
+</marginal>
+
+
 <marginal letter="439" page="166" line="10">
-<bzg>Deutschen Mercurs</bzg> <link ref="teutsche-merkur" linktext="true" />, Bd.8, 2. Stück, November 1774, S.174f.; vgl. <intlink letter="435" page="159" line="10" linktext="true" />
+<bzg>Idee des Deutschen Mercurs</bzg> Hamann als Haupt einer Sekte auszurufen, vgl. <link ref="schmid-ch" linktext="true" />: <titel>Fortsetzung der kritischen Nachrichten vom Zustande des Teutschen Parnassus</titel>, in <link ref="teutsche-merkur" linktext="true" />, Bd.&#x202F;8, St.&#x202F;2, November 1774, S.&#x202F;174f. und <intlink letter="436" page="159" line="27" linktext="true" />
 </marginal>
 
 <marginal letter="439" page="166" line="11">
@@ -54409,7 +54416,7 @@ Brief Nr. 439
 </marginal>
 
 <marginal letter="439" page="166" line="14">
-<bzg>Stelle</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />, N III, S.125.
+<bzg>Stelle</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />, N&#x202F;III, S.&#x202F;125.
 </marginal>
 
 <marginal letter="439" page="166" line="17">
@@ -54420,8 +54427,12 @@ Brief Nr. 439
 <bzg>qui pectus …</bzg> [bestaune ich den Dichter,] der allein mit seinen Phantasien mein Herz beängstigt, beunruhigt, besänftigt, es mit erfundenem Schrecken erfüllt wie ein Zauberer (<link ref="horaz" subref="horaz-epistel" linktext="true" />, 2,1,211ff.)
 </marginal>
 
+<marginal letter="439" page="166" line="22">
+<bzg>freymüthiges Gutachten</bzg> nicht überliefert
+</marginal>
+
 <marginal letter="439" page="166" line="26">
-<bzg>HE. Bode</bzg> <link ref="bode-jjc" linktext="true" />, vgl. Brief 435
+<bzg>HE. Bode</bzg> <link ref="bode-jjc" linktext="true" />, vgl. <intlink letter="435" page="158" line="28" linktext="false">HKB 435</intlink>
 </marginal>
 
 <marginal letter="439" page="166" line="28">
