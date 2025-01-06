@@ -8465,8 +8465,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="443">
-        <date value="Königsberg, April 1775" />
-        <sort value="1775-04-19" notBefore="1775-04-01" notAfter="1775-04-30" />
+        <date value="Königsberg, vmtl. 23. April 1775" />
+        <sort value="1775-04-23" notBefore="1775-04-23" notAfter="1775-04-25" />
         <location ref="2" />
         <senders>
           <sender ref="1" />

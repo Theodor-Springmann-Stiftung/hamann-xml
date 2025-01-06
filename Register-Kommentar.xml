@@ -5610,6 +5610,11 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 </subsection>
 </kommentar>
 
+<kommentar id="gueldenhorn-c" type="neuzeit">
+<lemma>Christoph Güldenhorn</lemma>
+<eintrag>1741 bis nach 1789. Ehemann von <link ref="herder-cd-g" linktext="true" />; Losbäcker in Mohrungen und Alkoholiker.</eintrag>
+</kommentar>
+
 <kommentar id="guichard" type="neuzeit">
 <lemma>Karl Theophil Guichard</lemma>
 <eintrag>1724–1775. Auch Quintus Icilius genannt. Militärhistoriker, 1758 Major im Dienste <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, später dessen Gesellschafter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz24609.html#adbcontent">Poten, Bernhard von: Guichard, Karl Theophil, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;104–106</wwwlink>.</eintrag>
@@ -6879,7 +6884,7 @@ des N. T. aus einer morgenländischen Urquelle, Riga 775“]. – SWS VII, S.&#x
 
 <kommentar id="herder-cd-g" type="neuzeit">
 <lemma>Catharina Dorothea Güldenhorn</lemma>
-<eintrag>1748–1793. Geb. Herder, jüngere Schwester von <link ref="herder" linktext="true" />, verheiratet mit Christoph Güldenhorn</eintrag>
+<eintrag>1748–1793. Geb. Herder, jüngere Schwester von <link ref="herder" linktext="true" />, verheiratet mit <link ref="gueldenhorn-c" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="herel" type="neuzeit">
@@ -11433,14 +11438,14 @@ N
 </eintrag> 
 </kommentar>
 
-<kommentar id="neumann" type="neuzeit">
+<kommentar id="neumann-d" type="neuzeit">
 <lemma>David Neumann</lemma>
 <eintrag>1734–1807. Preuß. Generalmajor. Hofmeister der beiden Söhne von <link ref="korff-fa" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="neumann-j" type="neuzeit">
 <lemma>Johann Christoph Neumann</lemma>
-<eintrag>1763 bis nach 1788. Neffe von <link ref="herder" linktext="true" /> (einziger Sohn von Herders Schwester Anna Luise, verh. Neumann). Im Mai 1775 von <link ref="hartknoch" linktext="false">Hartknoch</link> nach Bückeburg gebracht, Juni 1782 nach Riga, 1783 Angestellter eines Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
+<eintrag>1763 bis nach 1788. Neffe von <link ref="herder" linktext="true" /> (einziger Sohn von Herders Schwester Anna Luise, verh. Neumann). Er wurde im April/Mai 1775 durch <link ref="hartknoch" linktext="false">Hartknoch</link> von Mohrungen über Königsberg nach Bückeburg zu Herder gebracht; ab Juni 1782 in Riga, 1783 Angestellter eines Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
 </kommentar>
 
 <kommentar id="newton" type="neuzeit">
@@ -14024,6 +14029,12 @@ Sinnbildern</titel> (Wolfenbüttel: Meißner 1763) [Biga&#x202F;88/216: „J. H.
 <titel>Gesammlete Briefe über die Heinzische Widerlegung der Gottschedischen Sprach-Lehre</titel> (Leipzig: Breitkopf 1760). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10583982-3">BSB München: L.germ.&#x202F;152#Beibd.1</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="schwander-sg" type="neuzeit">
+<lemma>Sigismund Georg Schwander </lemma>
+<eintrag>1727–1784. 1753 Hofgerichtsadvokat, Hofrat in Mitau, siehe <wwwlink address="https://bbld.de/GND1098576357">BBLD</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="schwartz-jc" type="neuzeit">

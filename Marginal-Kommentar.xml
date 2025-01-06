@@ -27322,7 +27322,7 @@ Brief Nr. 239
 </marginal>
 
 <marginal letter="239" page="181" line="14" sort="1">
-<bzg>Neumann</bzg> <link ref="neumann" linktext="true" />
+<bzg>Neumann</bzg> <link ref="neumann-d" linktext="true" />
 </marginal>
 
 <marginal letter="239" page="181" line="14" sort="2">
@@ -36802,7 +36802,7 @@ Brief Nr. 306
 </marginal>
 
 <marginal letter="306" page="342" line="30" sort="2">
-<bzg>Schwander</bzg> Sigismund Georg Schwander (1727–1784), Hofgerichtsadvokat, Hofrat in Mitau
+<bzg>Schwander</bzg> <link ref="schwander-sg" linktext="true" />
 </marginal>
 
 <marginal letter="306" page="342" line="31">
@@ -54789,7 +54789,6 @@ Brief Nr. 441
 <bzg>Degradation</bzg> vgl. <intlink letter="440" page="167" line="6" linktext="true" />
 </marginal>
 
-
 Brief Nr. 442
 
 <marginal letter="442" page="172" line="21">
@@ -54816,6 +54815,10 @@ Brief Nr. 442
 <bzg>Caroline</bzg> <link ref="herder-c" linktext="true" /> 
 </marginal>
 
+<marginal letter="442" page="173" line="13">
+<bzg>Misgeschick</bzg> wohl der Alkoholismus und die Gewalttätigkeit von <link ref="gueldenhorn-c" linktext="true" />
+</marginal>
+
 <marginal letter="442" page="173" line="24">
 <bzg>folio verso</bzg> auf der Rückseite
 </marginal>
@@ -54829,11 +54832,11 @@ Brief Nr. 442
 </marginal>
 
 <marginal letter="442" page="173" line="27">
-<bzg>opusculis</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> und <link ref="hamann" subref="hamann-ehe" linktext="true" />
+<bzg>opusculis</bzg> wohl <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> und <link ref="hamann" subref="hamann-ehe" linktext="true" />
 </marginal>
 
 <marginal letter="442" page="173" line="29">
-<bzg>Dom. Quasimodogeniti</bzg> Weißer Sonntag
+<bzg>Dom. Quasimodogeniti</bzg> Weißer Sonntag, 23. April 1775
 </marginal>
 
 <marginal letter="442" page="173" line="30">
@@ -54844,12 +54847,20 @@ Brief Nr. 442
 <bzg>Joh. Christoph Neumann</bzg> vgl. <intlink letter="442" page="172" line="21" linktext="true" />
 </marginal>
 
+<marginal letter="442" page="173" line="34">
+<bzg>Reise Engel</bzg> <link ref="apo-tob" subref="apo-tob5" linktext="false">Tob 5</link>
+</marginal>
+
 <marginal letter="442" page="174" line="4">
 <bzg>Säugling</bzg> <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 
 Brief Nr. 443
+
+<marginal letter="443" page="174" line="6">
+Zur Datierung: Hamann sandte den Brief mit den Druckmanuskripten der <link ref="hamann" subref="hamann-hierophant" linktext="false"><titel>Hierophantischen Briefe</titel></link> vmtl. gleich nach Fertigstellung am 23. April 1775 an Hartknoch (vgl. <intlink letter="442" page="173" line="30" linktext="true" />), noch bevor <link ref="hinz" linktext="false">Hinz</link>Hinz tags darauf mit den Druckbögen von Starcks <link ref="starck" subref="starck-hephaestion" linktext="false"><titel>Hephaestion</titel></link> kam (vgl. <intlink letter="444" page="175" line="7" linktext="true" />).
+</marginal>
 
 <marginal letter="443" page="174" line="8">
 <bzg>Kopien</bzg> von <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
@@ -54872,7 +54883,7 @@ Brief Nr. 443
 </marginal>
 
 <marginal letter="443" page="174" line="20">
-<bzg>Tobias Engel</bzg> Im Buch Tobit wird Tobias auf einer Reise vom Erzengel Raphael begleitet.
+<bzg>Tobias Engel</bzg> In <link ref="apo-tob" subref="apo-tob5" linktext="false">Tob 5</link> wird Tobias auf einer Reise vom Erzengel Raphael begleitet.
 </marginal>
 
 <marginal letter="443" page="174" line="21">
@@ -54902,8 +54913,12 @@ Brief Nr. 444
 <bzg>Am alten Graben St. Marci</bzg> Wohnort seit 1770, in der Nähe des Lizent; Namenstag des Evangelisten Markus
 </marginal>
 
-<marginal letter="444" page="174" line="34">
-<bzg>S. 99</bzg> Zitat aus <link ref="starck" subref="starck-hephaestion" linktext="true" />, S. 99
+<marginal letter="444" page="174" line="32" sort="1">
+<bzg>ohne daß man …</bzg> Zitat aus <link ref="starck" subref="starck-hephaestion" linktext="true" />, S. 99
+</marginal>
+
+<marginal letter="444" page="174" line="32" sort="2">
+<bzg>Urkunden des menschlichen Geschlechts</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
 </marginal>
 
 <marginal letter="444" page="175" line="2">
@@ -54911,7 +54926,7 @@ Brief Nr. 444
 </marginal>
 
 <marginal letter="444" page="175" line="3">
-<bzg>Hofrath Schwander</bzg> Sigismund Georg Schwander (1727-1784), Hofgerichtsadvokat, kgl.-poln. Hofrat in Mitau
+<bzg>Hofrath Schwander</bzg> <link ref="schwander-sg" linktext="true" />
 </marginal>
 
 <marginal letter="444" page="175" line="7">
@@ -54950,7 +54965,7 @@ Brief Nr. 444
 <bzg>Aduocati Christianorum</bzg> dt. Verfechter des Christentums
 </marginal>
 
-<marginal letter="444" page="175" line="18" sort="2">
+<marginal letter="444" page="175" line="19">
 <bzg>Boulanger</bzg> <link ref="boulanger" subref="boulanger-devoile" linktext="true" /> 
 </marginal>
 
@@ -54970,6 +54985,10 @@ Brief Nr. 444
 <bzg>Zacchaei</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal>
 
+<marginal letter="444" page="175" line="29">
+<bzg>meine Rache zu weit getrieben zu haben</bzg> die Polemik gegen Starck vor der Lektüre des <link ref="starck" subref="starck-hephaestion" linktext="false"><titel>Hephaestion</titel></link> und nur auf Grundlage der <link ref="starck" subref="starck-tralatitia" linktext="false">Tralatitia</link>
+</marginal>
+
 <marginal letter="444" page="175" line="32">
 <bzg>Frau</bzg> <link ref="hartknoch-a" linktext="true" />  
 </marginal>
@@ -54986,7 +55005,7 @@ Brief Nr. 444
 <bzg>Me Hartknoch</bzg> <link ref="hartknoch-a" linktext="true" /> 
 </marginal>
 
-<marginal letter="444" page="176" line="3">
+<marginal letter="444" page="176" line="4">
 <bzg>Ihr lieben Herren! …</bzg> geistliches Volkslied, basiert auf Nachtwächterrufen mit biblischer Deutung
 </marginal>
 
@@ -55003,7 +55022,7 @@ Brief Nr. 444
 </marginal>
 
 <marginal letter="444" page="176" line="15" sort="1">
-<bzg>Leßing</bzg> <link ref="lessing" linktext="true" />
+<bzg>Leßing</bzg> <link ref="lessing" linktext="true" />, vgl. <intlink letter="440" page="168" line="13" linktext="true" />
 </marginal>
 
 <marginal letter="444" page="176" line="15" sort="2">
@@ -55027,15 +55046,15 @@ Brief Nr. 444
 </marginal>
  
  <marginal letter="444" page="176" line="20" sort="2">
-<bzg>Acti labores iucundi</bzg> dt. angenehm sind erledigte Arbeiten (Cic. <titel>fin.</titel> 2,32,105)
+<bzg>Acti labores iucundi</bzg> dt. angenehm sind erledigte Arbeiten (<link ref="cicero" subref="cic-bonorum" linktext="true" />, 2,32,105)
 </marginal>
 
 <marginal letter="444" page="176" line="21">
-<bzg>Wie gut läßt wird …</bzg> 7. Strophe des Kirchenlieds „Es kostet viel ein Christ zu sein“
+<bzg>Wie gut wird …</bzg> 8. Strophe des Kirchenlieds „Es kostet viel ein Christ zu sein“ (vgl. <link ref="quandt" subref="quandt-sammlung" linktext="true" />, S.&#x202F;214)
 </marginal>
 
 <marginal letter="444" page="176" line="23">
-<bzg>Die Sorg und Last …</bzg> 8. Strophe des Kirchenlieds „Es ist nicht schwer ein Christ zu sein“
+<bzg>Die Sorg und Last …</bzg> 8. Strophe des Kirchenlieds <titel>Es ist nicht schwer ein Christ zu sein</titel> (vgl. <link ref="quandt" subref="quandt-sammlung" linktext="true" />, S.&#x202F;214)
 </marginal>
 
 <marginal letter="444" page="176" line="26">
