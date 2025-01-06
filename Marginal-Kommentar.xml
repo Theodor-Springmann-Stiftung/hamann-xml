@@ -54106,7 +54106,7 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="160" line="32" sort="1">
-<bzg>Schwester in Mohr.</bzg> <link ref="herder-cd-g" linktext="true" /> in Mohrungen
+<bzg>Schwester in Mohr.</bzg> <link ref="herder-cd-g" linktext="true" /> in Mohrungen (heute Morąg, gut 100&#x202F;km südwestlich von Königsberg)
 </marginal>
 
 <marginal letter="437" page="160" line="32" sort="2">
@@ -54273,7 +54273,7 @@ Brief Nr. 437
 <bzg>Schlage auf die Schulter</bzg> Caroline Herder an Hartknoch, 11.2.1775: „Hamann hat mich auf die Schulter geklopft – wenn er wüste wie viele Schuld ich mir selbst beimesse! aber was kann ein hölzernes Gefäß wie ich es bin thun? nicht einmal den sauren Schweiß auf meines Herders Gesicht abtrocknen – sagen Sie ihm aber dafür herzlich Dank.“ (HBGA, Bd.&#x202F;3, S.&#x202F;157, Brief 133).
 </marginal>
 
-<marginal letter="437" page="164" line="34">
+<marginal letter="437" page="164" line="29">
 <bzg>poetische Wäldchen</bzg> ungeordneter Stoff, nach den ‚Wäldchen‘ oder ‚silvae‘ genannten Miszellen-Sammlungen (wie bspw. die <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10109837-2"><titel>Poetischen Wälder</titel> von Christian Gryphius</wwwlink>), zugleich Anspielung auf <link ref="herder" subref="herder-waelder" linktext="true" />
 </marginal>
 
@@ -54292,11 +54292,11 @@ Brief Nr. 438
 <bzg>Schwägerin</bzg> <link ref="rappolt-eh" linktext="true" /> 
 </marginal>
 
-<marginal letter="438" page="165" line="5">
+<marginal letter="438" page="165" line="5" sort="1">
 <bzg>HE Rappolt</bzg> <link ref="rappolt-cs" linktext="true" /> 
 </marginal>
 
-<marginal letter="438" page="165" line="6">
+<marginal letter="438" page="165" line="5" sort="2">
 <bzg>aus Bückeburg</bzg> von <link ref="herder" linktext="true" /> 
 </marginal>
 
@@ -54390,11 +54390,11 @@ Brief Nr. 439
 <bzg>Grundlage meines Entwurfs</bzg> wohl <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />
 </marginal>
 
-<marginal letter="439" page="166" line="7">
+<marginal letter="439" page="166" line="7" sort="1">
 <bzg>Prolegomena</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal> 
 
-<marginal letter="439" page="166" line="7">
+<marginal letter="439" page="166" line="7" sort="2">
 <bzg>45 … Scholion</bzg> wie in <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> 
 </marginal>
 
@@ -54681,7 +54681,7 @@ Brief Nr. 441
 <bzg>HE. Fr. Nikol.</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
-<marginal letter="441" page="170" line="28">
+<marginal letter="441" page="170" line="26">
 <bzg>Weide</bzg> <link ref="wieland" linktext="true" />, Anspielung auf <link ref="at-jes" subref="at-jes44" linktext="false">Jes 44,4</link>
 </marginal>
 
@@ -55077,11 +55077,11 @@ NB in HBGA auf Mitte Mai 1775 datiert; prüfen?!?
 </marginal>
 
 <marginal letter="445" page="177" line="5">
-<bzg>Sancho Panssa sagt</bzg> häufig wiederholter Ausspruch der Romanfigur Sancho Pansa in <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />
+<bzg>Sancho Panssa sagt</bzg> häufig wiederholter Ausspruch der Romanfigur Sancho Pansa in <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />; zu Missverständnissen zwischen Herder und Hamann vgl. <intlink letter="442" page="172" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="445" page="177" line="8">
-<bzg>Schwester</bzg> <link ref="herder-cd-g" linktext="true" />
+<bzg>Schwester</bzg> <link ref="herder-cd-g" linktext="true" />, vgl. <intlink letter="442" page="172" line="21" linktext="true" />
 </marginal>
 
 <marginal letter="445" page="177" line="9">
@@ -55089,11 +55089,15 @@ NB in HBGA auf Mitte Mai 1775 datiert; prüfen?!?
 </marginal>
 
 <marginal letter="445" page="177" line="13">
-<bzg>Vaterstadt</bzg> Mohrungen
+<bzg>Vaterstadt</bzg> Mohrungen (heute Morąg, gut 100&#x202F;km südwestlich von Königsberg)
 </marginal>
 
 <marginal letter="445" page="177" line="15">
 <bzg>beide Söhne</bzg> <link ref="herder-g" linktext="true" /> und <link ref="neumann-j" linktext="true" /> 
+</marginal>
+
+<marginal letter="445" page="177" line="15">
+<bzg>Neffe</bzg> <link ref="neumann-j" linktext="true" />
 </marginal>
 
 <marginal letter="445" page="177" line="28">
@@ -55105,7 +55109,7 @@ NB in HBGA auf Mitte Mai 1775 datiert; prüfen?!?
 </marginal>
 
 <marginal letter="445" page="177" line="30">
-<bzg>χρηματισμω</bzg> göttlich Warnung, bspw. in <link ref="nt-mt" subref="nt-mt2" linktext="false">Mt 2,12</link>; vgl. <intlink letter="441" page="170" line="20" linktext="true" />
+<bzg>χρηματισμω</bzg> göttliche Warnung, bspw. in <link ref="nt-mt" subref="nt-mt2" linktext="false">Mt 2,12</link>; vgl. <intlink letter="441" page="170" line="20" linktext="true" />
 </marginal>
 
 <marginal letter="445" page="177" line="31">
@@ -55129,19 +55133,19 @@ NB in HBGA auf Mitte Mai 1775 datiert; prüfen?!?
 </marginal>
 
 <marginal letter="445" page="178" line="5">
-<bzg>Fr. Bruder</bzg> Friedrich Sigmund Flachsland (1743-1784), hess.-darmstädt. Geh. Regierungssekretär
+<bzg>Fr. Bruder</bzg> Friedrich Sigmund Flachsland (1743–1784), hessisch-darmstädtischer Geheimer Regierungssekretär
 </marginal>
 
 <marginal letter="445" page="178" line="6">
-<bzg>Herzoge von Oldenburg, dem Vater meines Prinzen</bzg> Friedrich August Herzog von Holstein-Gottorp Oldenburg (1711–1785); Peter Wilhelm Friedrich von Holstein-Gottorp Oldenburg (1754–1823)
+<bzg>Herzoge von Oldenburg, dem Vater meines Prinzen</bzg> Friedrich August Herzog von Holstein-Gottorp Oldenburg (1711–1785), der Vater von <link ref="peter-fw-hg" linktext="true" />
 </marginal>
 
-<marginal letter="445" page="178" line="11">
-<bzg>Neffen</bzg> <link ref="neumann-j" linktext="true" /> 
+<marginal letter="445" page="178" line="9">
+<bzg>Ihren Brief</bzg> wohl <intlink letter="442" page="172" line="20" linktext="false" />
 </marginal>
 
 <marginal letter="445" page="178" line="14">
-<bzg>Göttingen</bzg> mit der Aussicht auf eine mit einer Professur verbundenen Predigerstelle
+<bzg>Göttingen</bzg> mit der Aussicht auf eine Predigerstelle verbunden mit einer Professur 
 </marginal>
 
 <marginal letter="445" page="178" line="19">
@@ -55160,16 +55164,20 @@ NB in HBGA auf Mitte Mai 1775 datiert; prüfen?!?
 <bzg>Zimmermann</bzg> <link ref="zimmermann-jg" linktext="true" /> 
 </marginal>
  
- <marginal letter="445" page="178" line="24">
+<marginal letter="445" page="178" line="24" sort="1">
+<bzg>des großen Nikolai …</bzg> Leicht veränderte Verse aus <link ref="wagner-hl" subref="wagner-prometheus" linktext="true" />, S.&#x202F;9 (eine anonym erschienene Literatursatire auf Rezensionen von Goethes <link ref="goethe" subref="goethe-werther" linktext="false">Werther</link>; bis zu Goethes öffentlicher Erklärung in den <link ref="frankfurter-gelehrte-anzeigen" linktext="true" />, St.&#x202F;32, 21.4.1775, S.&#x202F;274 für dessen Werk gehalten).
+</marginal>
+
+ <marginal letter="445" page="178" line="24" sort="2">
 <bzg>Nikolai</bzg> <link ref="nicolai" linktext="true" /> 
 </marginal>
 
 <marginal letter="445" page="178" line="25">
-<bzg>Todfeinds Mardochai</bzg> nach <link ref="at-est" subref="at-est5" linktext="false">Est 5,14</link> bezogen auf <link ref="mendelssohn" linktext="false">Mendelssohn</link>, vgl. <intlink letter="219" page="127" line="27" linktext="true" />. Herder war Mendelssohn in Pyrmont begegnet, hatte jedoch keinen freundschaftlichen Austausch mit ihm erlebt. 
+<bzg>Todfeinds Mardochai</bzg> der biblische ‚Haman‘ nach <link ref="at-est" subref="at-est5" linktext="false">Est 5</link>
 </marginal>
  
  <marginal letter="445" page="178" line="28">
-<bzg>Prometheus</bzg> vll. <link ref="wagner-hl" subref="wagner-prometheus" linktext="true" />, S. 9  
+<bzg>Prometheus</bzg> <link ref="wagner-hl" subref="wagner-prometheus" linktext="true" />
 </marginal>
 
 <marginal letter="445" page="178" line="29">
@@ -55185,7 +55193,7 @@ NB in HBGA auf Mitte Mai 1775 datiert; prüfen?!?
 </marginal>
 
 <marginal letter="445" page="178" line="34" sort="1">
-<bzg>Pyrmonter</bzg> Kuraufenthalt
+<bzg>Pyrmonter</bzg> heilendes Mineralwasser aus Bad Pyrmont 
 </marginal>
 
 <marginal letter="445" page="178" line="34" sort="2">
@@ -55193,7 +55201,7 @@ NB in HBGA auf Mitte Mai 1775 datiert; prüfen?!?
 </marginal>
 
 <marginal letter="445" page="178" line="34" sort="3">
-<bzg>orphisches Ei</bzg> Metapher aus der orphischen Kosmologie für die lakonische Kürze und Dichte in Hamanns Werken, vgl. <link ref="nicolai" subref="nicolai-magum" linktext="true" />, Zitat: <intlink letter="388" page="45" line="26" linktext="true" />; außerdem <link ref="hamann" subref="hamann-selbstgespraech" linktext="true" />, N&#x202F;III, S.73/8.
+<bzg>orphisches Ei</bzg> Metapher aus der orphischen Kosmologie für die lakonische Kürze und Dichte in Hamanns Werken, vgl. <link ref="nicolai" subref="nicolai-magum" linktext="true" />; Zitat: <intlink letter="388" page="45" line="26" linktext="true" />; außerdem <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />, N&#x202F;III, S.&#x202F;73/8.
 </marginal>
 
 <marginal letter="445" page="179" line="4">
@@ -55209,7 +55217,7 @@ NB in HBGA auf Mitte Mai 1775 datiert; prüfen?!?
 </marginal>
 
 <marginal letter="445" page="179" line="16">
-<bzg>Antiphon. … Sprüchw. 30,26</bzg> Antiphonie: Gegengesang; <link ref="at-spr" subref="at-spr30" linktext="false">Spr 30,26</link>: die Klippdachse – ein schwaches Volk, dennoch bauen sie ihr Haus in den Felsen
+<bzg>Antiphon. … Sprüchw. 30,26</bzg> Antiphonie: Gegengesang; <link ref="at-spr" subref="at-spr30" linktext="false">Spr 30,26</link>: „die Klippdachse – ein schwaches Volk, dennoch bauen sie ihr Haus in den Felsen“
 </marginal>
 
 
@@ -55800,11 +55808,11 @@ Brief Nr. 449
 <bzg>puero centum artium</bzg> ein Jüngling von hundert Künsten (<link ref="horaz" subref="horaz-oden" linktext="true" />, IV,1,15), im Motto von <link ref="hamann" subref="hamann-hierophant" linktext="true" />
 </marginal>
 
-<marginal letter="449" page="189" line="2">
+<marginal letter="449" page="189" line="2" sort="1">
 <bzg>Αμην, αμην</bzg> <link ref="nt-jo" subref="nt-jo12" linktext="false">Joh 12,24ff.</link>: Wahrlich, wahrlich, ich sage euch...
 </marginal>
 
-<marginal letter="449" page="189" line="2">
+<marginal letter="449" page="189" line="2" sort="2">
 <bzg>Abbtschen Correspondentz</bzg> Hamann zitiert sich selbt, vgl. <intlink letter="224" page="142" line="15" linktext="true"/>; dieser Brief an <link ref="mendelssohn" linktext="false">Mendelssohn</link>, HKB 224, war in <link ref="abbt" subref="abbt-correspondenz" linktext="true" /> (S.83) publiziert worden. 
 </marginal>
 

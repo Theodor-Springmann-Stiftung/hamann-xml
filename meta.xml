@@ -8503,8 +8503,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="445">
-        <date value="Bückeburg, Ende April 1775" />
-        <sort value="1775-04-30" notBefore="1775-04-20" notAfter="1775-04-30" />
+        <date value="Bückeburg, Mitte Mai 1775" />
+        <sort value="1775-05-10" notBefore="1775-05-01" notAfter="1775-05-30" />
         <location ref="23" />
         <senders>
           <sender ref="41" />
