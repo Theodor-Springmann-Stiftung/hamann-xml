@@ -1520,12 +1520,12 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="bock-cg" type="neuzeit">
 <lemma>Carl Gottlieb Bock</lemma>
-<eintrag>1746–1829. Kammersekretär bei der <link ref="kriegs-und-domaenenkammer" linktext="true"/>.
+<eintrag>1746–1829. Kammersekretär bei der <link ref="kriegs-und-domaenenkammer" linktext="true"/>, Jugendfreund <link ref="reichardt-jf" linktext="false">Reichardts</link>.
 </eintrag>
 <subsection id="bockcg-gedichte" type="neuzeit" sort="10">
 <lemma>Bock, <titel>Gedichte</titel></lemma>
 <eintrag>
-<titel>Gedichte eines Preußen</titel> (Danzig 1775).</eintrag>
+<titel>Gedichte eines Preußen</titel> (Danzig 1775). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10129692-1">BSB München: P.o.germ. 2066 q</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -2799,7 +2799,12 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 </subsection>
 <subsection id="cic-srosc" type="neuzeit" sort="170">
 <lemma>Cic. <titel>S. Rosc.</titel></lemma>
-<eintrag>Rede über Sextus Roscius aus Ameria, lat. pro Sex. Roscio Amerino<line type="break" />
+<eintrag>Rede für Sextus Roscius aus Ameria, lat. pro Sex. Roscio Amerino<line type="break" />
+</eintrag>
+</subsection>
+<subsection id="cic-cluent" type="neuzeit" sort="180">
+<lemma>Cic. <titel>Cluent.</titel></lemma>
+<eintrag>Rede für Aulus Cluentius Habitus, lat. pro A. Cluentio<line type="break" />
 </eintrag>
 </subsection>
 </kommentar>
@@ -6230,9 +6235,9 @@ Zitation nach dem Erstdruck (= ED) und N&#x202F;III, S.&#x202F;197–203.
 <lemma>Hamann, <titel>Freund Hain</titel></lemma>
 <eintrag>
 <titel>Freund Hain an alle „belesene und empfindsame Personen“ in Ost- und West-Preußen, welche „Noch ein Ditto beym Mondscheine zu singen“ Lust und Genüge finden.</titel> Erschienen in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, vmtl. St.&#x202F;39, 15. Mai 1775 (Jg. nicht überliefert).<line type="break" />
-Die Datierung bereitet einige Probleme: Die beste Quelle für den Text ist Roth IV, 384–390, dort jedoch undatiert. Nadler, dem Originale der Zeitung zwar noch vorlagen, der sich bei der Edition aber beinahe ausschließlich auf Roth und Unger stützte, datiert den Text auf die Beilage zum 39. Stück vom 10. März 1775 (N&#x202F;IV,386): Das kann aber nicht stimmen, da das 39. Stück am 15. Mai erschien. Kombiniert man die Datierung von Hamann am Ende des Textes, „10. Mai 1775“, mit seiner Aufforderung an Reichardt vom 11. Mai, das Stück in Kanters Zeitung unterzubringen (<intlink letter="446" page="179" line="27" linktext="true" />) – und nimmt dazu an, dass Nadler die Stücknummer richtig hatte und nur das Datum falsch –, so ist die plausibelste Datierung, dass der Text kurz darauf am 15. Mai in den KGPZ erschien.
+Die Datierung bereitet einige Probleme: Die beste Quelle für den Text ist Roth IV, 384–390, dort jedoch undatiert (abgesehen von der datierten Unterschrift „10. May 1775“). Nadler, dem Originale der Zeitung zwar noch vorlagen, der sich bei der Edition aber beinahe gänzlich auf Roth und Unger stützte, datierte den Text auf die Beilage zum „39. Stück. 10. März 1775“ (N&#x202F;IV,386): Das kann aber nicht stimmen, da das 39. Stück am 15. Mai erschien. Kombiniert man Hamanns datierte Unterschrift am Ende des Textes („10. May 1775“) mit seiner Aufforderung an Reichardt vom 11. Mai, das Stück in Kanters Zeitung unterzubringen (<intlink letter="446" page="179" line="27" linktext="true" />) – und nimmt dazu an, dass Nadler die Stücknummer richtig hatte und nur das Datum falsch –, so ist die plausibelste Datierung, dass der Text kurz darauf am 15. Mai in den KGPZ erschien. Am 21. Mai sandte Hamann die Beilage an Claudius, vgl. <intlink letter="447" page="180" line="20" linktext="true" />.
 <line type="break" />
-Zu dem Text innerhalb von Hamanns Verhältnis zu <link ref="claudius" linktext="false">Claudius</link> vgl. <link ref="kra-x-2016" linktext="true" />.
+Zum Text und Hamanns Verhältnis zu <link ref="claudius" linktext="false">Claudius</link> vgl. <link ref="kra-x-2016" linktext="true" />.
 </eintrag>
 </subsection>
 <subsection id="hamann-zweifel" type="neuzeit" sort="680">
