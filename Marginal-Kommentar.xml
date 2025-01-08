@@ -55216,10 +55216,14 @@ Brief Nr. 445
 </marginal>
 
 
+<marginal letter="447" page="183" line="25" sort="2">
+<bzg></bzg> Titel eines Gedichts von Claudius, <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, S.&#x202F;67
+</marginal>
+
 Brief Nr. 446
 
 <marginal letter="446" page="179" line="19">
-<bzg>Drama</bzg> Die Vertonung von Claudius’ Gedicht „An die Nachtigall“, <link ref="claudius" subref="claudius-werke" linktext="true" /> I/II, S.&#x202F;56, vgl. <intlink letter="447" page="183" line="27" linktext="true" />
+<bzg>Drama</bzg> Die Vertonung eines Claudius-Gedichts, wohl „Mutter bey der Wiege“, <link ref="claudius" subref="claudius-werke" linktext="true" /> I/II, S.&#x202F;67, vgl. <intlink letter="447" page="183" line="25" linktext="true" />
 </marginal>
 
 <marginal letter="446" page="179" line="22">
@@ -55286,7 +55290,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="180" line="20">
-<bzg>dato der Beyl.</bzg> 10. Mai 1775, die Datierung von <link ref="hamann" subref="hamann-freundhain" linktext="true" />; zur Feuersbrunst in Königsberg am selben Tag vgl. <link ref="baczko" linktext="true" />, S.&#x202F;129: „Am 10ten May 1775 verzehrte das Feuer die Vorstadt und den Haberberg“.
+<bzg>dato der Beyl.</bzg> 10. Mai 1775, die Datierung von <link ref="hamann" subref="hamann-freundhain" linktext="true" />; zur Feuersbrunst in Königsberg am selben Tag vgl. <link ref="baczko" linktext="false">Baczko: <titel>Versuch einer Geschichte und Beschreibung der Stadt Königsberg</titel></link>, S.&#x202F;129: „Am 10ten May 1775 verzehrte das Feuer die Vorstadt und den Haberberg“.
 </marginal>
 
 <marginal letter="447" page="180" line="21">
@@ -55402,11 +55406,19 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="182" line="27">
-<bzg>Catalogum uniuersalem</bzg> nicht ermittelt
+<bzg>Catalogum uniuersalem</bzg> wohl den Katalog der Ostermesse
 </marginal>
 
 <marginal letter="447" page="182" line="28">
 <bzg>Recensionen …  No 68 und 75</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="447" page="182" line="28">
+<bzg>Freund Hain</bzg> <link ref="hamann" subref="hamann-freundhain" linktext="true" />
+</marginal>
+
+<marginal letter="447" page="182" line="28">
+<bzg>50 à 100</bzg> Subskriptionen
 </marginal>
 
 <marginal letter="447" page="182" line="34">
@@ -55414,7 +55426,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="182" line="35">
-<bzg>Liebau in Curl.</bzg> heute Liepāja in Lettland [56° 31′ N, 21° 1′ O]
+<bzg>Liebau in Curl.</bzg> heute Liepāja in Lettland
 </marginal>
 
 <marginal letter="447" page="183" line="2">
@@ -55437,8 +55449,16 @@ Brief Nr. 447
 <bzg>Grecourt ... Scheffner</bzg> <link ref="scheffner" linktext="true" />, literarischer Nachahmer des <link ref="grecourt" linktext="true" />
 </marginal>
 
-<marginal letter="447" page="183" line="11">
-<bzg>Grafen Anhalt</bzg> Friedrich Graf v. Anhalt (1732–1794), Generalmajor im Heer von Friedrich II. von Preußen
+<marginal letter="447" page="183" line="11" sort="1">
+<bzg>Dorflieger</bzg> vgl. <link ref="hamann" subref="hamann-freundhain" linktext="true" />, N&#x202F;IV,386/13
+</marginal>
+
+<marginal letter="447" page="183" line="11" sort="2">
+<bzg>Grafen Anhalt</bzg> <link ref="anhalt" linktext="true" />
+</marginal>
+
+<marginal letter="447" page="183" line="11" sort="2">
+<bzg>der Lust …</bzg> ähnlich in <link ref="claudius" subref="claudius-werke" linktext="true" />, S.&#x202F;v
 </marginal>
 
 <marginal letter="447" page="183" line="15">
@@ -55453,20 +55473,32 @@ Brief Nr. 447
 <bzg>Mutter</bzg> <link ref="hamann-mm" linktext="true" />
 </marginal>
 
+<marginal letter="447" page="183" line="20">
+<bzg>Gevatter Matthes …</bzg> Matthias Claudius hatte wohl vom Melken seiner Ziege Amalthea geschrieben, vgl. auch <link ref="hamann" subref="hamann-freundhain" linktext="true" />, N&#x202F;IV, 387/44 (Amalthea genannt nach jener Nymphe, die den jungen Zeus mit der Milch ihrer Ziege aufzuziehen hatte, bzw. selbst dessen nährende Ziege war, mit Hörnern, die Ambrosia und Nectar spendeten).
+</marginal>
+
 <marginal letter="447" page="183" line="22">
 <bzg>lache …</bzg> wie der alte Abraham auf die Botschaft reagierte, daß ihm die alte Sara einen Sohn gebären werde, vgl. <link ref="at-mo1" subref="at-mo1-17" linktext="false">1 Mo 17,17</link>  
 </marginal>
 
-<marginal letter="447" page="183" line="25">
+<marginal letter="447" page="183" line="25" sort="1">
 <bzg>Virtuose und Dichter</bzg> <link ref="reichardt-jf" linktext="true" />
 </marginal>
 
+<marginal letter="447" page="183" line="25" sort="2">
+<bzg>Mutter bey der Wiege</bzg> Titel eines Gedichts von Claudius, <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, S.&#x202F;67, vgl. <intlink letter="446" page="179" line="19" linktext="true" />; Reichardts Vertonung siehe in <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11131386-8"><titel>Oden und Lieder von Klopstock, Stolberg, Claudius und Hölty. Mit Melodien beym Klavier zu singen.</titel> von Johann Friederich Reichardt (Berlin 1779)</wwwlink>, S. 22.
+</marginal>
+
+<marginal letter="447" page="183" line="26">
+<bzg>künftige Beyl. der Zeitung</bzg> als musikalische Beilage der <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> (nicht überliefert)
+</marginal>
+
 <marginal letter="447" page="183" line="27">
-<bzg>Nachtigall</bzg> <intlink letter="446" page="179" line="18" linktext="true" /> 
+<bzg>Nachtigall</bzg> Titel eines Gedichts von Claudius, vgl. <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, S.&#x202F;56
 </marginal>
 
 <marginal letter="447" page="183" line="30">
-<bzg>Noch ein Dito</bzg> Titel eines Gedichts von Claudius, <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, S.173–176 und vgl. N IV, S.386/7
+<bzg>Noch ein Dito</bzg> Titel eines Gedichts von Claudius, <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, S.&#x202F;176; vgl. <link ref="hamann" subref="hamann-freundhain" linktext="true" />, N&#x202F;IV,386/7
 </marginal>
 
 <marginal letter="447" page="183" line="37" sort="1">
