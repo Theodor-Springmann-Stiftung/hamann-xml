@@ -55216,10 +55216,6 @@ Brief Nr. 445
 </marginal>
 
 
-<marginal letter="447" page="183" line="25" sort="2">
-<bzg></bzg> Titel eines Gedichts von Claudius, <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, S.&#x202F;67
-</marginal>
-
 Brief Nr. 446
 
 <marginal letter="446" page="179" line="19">
@@ -55413,11 +55409,11 @@ Brief Nr. 447
 <bzg>Recensionen …  No 68 und 75</bzg> nicht ermittelt
 </marginal>
 
-<marginal letter="447" page="182" line="28">
+<marginal letter="447" page="182" line="29">
 <bzg>Freund Hain</bzg> <link ref="hamann" subref="hamann-freundhain" linktext="true" />
 </marginal>
 
-<marginal letter="447" page="182" line="28">
+<marginal letter="447" page="182" line="31">
 <bzg>50 à 100</bzg> Subskriptionen
 </marginal>
 
@@ -55457,7 +55453,7 @@ Brief Nr. 447
 <bzg>Grafen Anhalt</bzg> <link ref="anhalt" linktext="true" />
 </marginal>
 
-<marginal letter="447" page="183" line="11" sort="2">
+<marginal letter="447" page="183" line="13">
 <bzg>der Lust …</bzg> ähnlich in <link ref="claudius" subref="claudius-werke" linktext="true" />, S.&#x202F;v
 </marginal>
 
@@ -55601,7 +55597,7 @@ Brief Nr. 447
 Brief Nr. 448
 
 <marginal letter="448" page="185" line="7">
-<bzg>Hkn. mit Ihrer Claudius</bzg> <link ref="hartknoch" linktext="true" /> mit der Anzeige von <link ref="claudius" subref="claudius-werke" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" /> (39. Stück, 10. März 1775), N IV,386ff.
+<bzg>Hkn. mit Ihrer Claudius</bzg> <link ref="hartknoch" linktext="true" /> mit <link ref="hamann" subref="hamann-freundhain" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="185" line="9">
@@ -55617,7 +55613,7 @@ Brief Nr. 448
 </marginal>
 
 <marginal letter="448" page="185" line="16">
-<bzg>opp.</bzg> opera, s.o. Zeile 9f.
+<bzg>opp.</bzg> opera, siehe <intlink letter="448" page="185" line="9" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="185" line="17">
@@ -55656,8 +55652,12 @@ Brief Nr. 448
 <bzg>quando invenies parem</bzg> dt. wann je einen finden, der ihm gliche? (<link ref="horaz" subref="horaz-oden" linktext="true" />, 1,24,8)
 </marginal>
 
+<marginal letter="448" page="186" line="8">
+<bzg>Gefängniß</bzg> vgl. <link ref="shakespeare" subref="shakespeare-hamlet" linktext="true" />, Akt II, Szene 2, 239–250
+</marginal>
+
 <marginal letter="448" page="186" line="10">
-<bzg>Hamlet</bzg> vgl. <link ref="shakespeare" subref="shakespeare-hamlet" linktext="true" />, Akt II, Szene 2
+<bzg>Himmel u. Erde … Hamlet</bzg> vgl. <link ref="shakespeare" subref="shakespeare-hamlet" linktext="true" />, Akt II, Szene 2, 297–303
 </marginal>
 
 <marginal letter="448" page="186" line="11">
@@ -55672,6 +55672,10 @@ Brief Nr. 448
 <bzg>Ankömmling</bzg> <link ref="neumann-j" linktext="true" /> 
 </marginal>
 
+<marginal letter="448" page="186" line="13">
+<bzg>treu angenommen</bzg> vgl. <intlink letter="442" page="172" line="21" linktext="true" />
+</marginal>
+
 <marginal letter="448" page="186" line="17">
 <bzg>Aeskulapiushahn u. Nazirsohn</bzg> vgl. <intlink letter="444" page="176" line="9" linktext="true" /> 
 </marginal>
@@ -55681,7 +55685,7 @@ Brief Nr. 448
 </marginal>
 
 <marginal letter="448" page="186" line="20" sort="1">
-<bzg>Prol. sind an Moser u. Lavater</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> an <link ref="moser" linktext="true" /> u. <link ref="lavater" linktext="true" />
+<bzg>Prol. sind an Moser u. Lavater</bzg> <link ref="hamann" subref="hamann-prolegomena" linktext="true" /> an <link ref="moser" linktext="true" /> u. <link ref="lavater" linktext="true" />, vgl. <intlink letter="441" page="169" line="31" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="186" line="21">
@@ -55701,11 +55705,11 @@ Brief Nr. 448
 </marginal>
 
 <marginal letter="448" page="186" line="28" >
-<bzg>Pyrm.</bzg> Pyrmont
+<bzg>Pyrm.</bzg> Pyrmonter, vgl. <intlink letter="445" page="178" line="34" linktext="true" />
 </marginal>
 
 <marginal letter="448" page="186" line="29">
-<bzg>Ham.</bzg> Hamburg
+<bzg>Ham.</bzg> Hamann
 </marginal>
 
 <marginal letter="448" page="186" line="31" sort="1">
@@ -55717,7 +55721,11 @@ Brief Nr. 448
 </marginal>
 
 <marginal letter="448" page="186" line="32">
-<bzg>Nothankers 2. t. Th.</bzg> <link ref="nicolai" subref="nicolai-freuden" linktext="true" /> 
+<bzg>Nothankers 2. t. Th.</bzg> <link ref="nicolai" subref="nicolai-nothanker" linktext="true" /> 
+</marginal>
+
+<marginal letter="448" page="186" line="33">
+<bzg>Leiden u. Fr.</bzg> <link ref="nicolai" subref="nicolai-freuden" linktext="true" /> 
 </marginal>
 
 <marginal letter="448" page="186" line="34">
@@ -55742,6 +55750,10 @@ Brief Nr. 448
 
 <marginal letter="448" page="187" line="4">
 <bzg>Kopie</bzg> Das Gemälde hing in Kanters Buchladen, ehe es 1774 <link ref="moser" linktext="true" /> kaufte. Herder erhielt  eine Kopie in Öl.
+</marginal>
+
+<marginal letter="448" page="187" line="7">
+<bzg>Preuß. Pan.</bzg> vgl. <intlink letter="440" page="169" line="3" linktext="true" />
 </marginal>
 
 
