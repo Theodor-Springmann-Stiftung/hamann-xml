@@ -1789,6 +1789,12 @@ Zus. mit <titel>Deutsches Museum</titel>  (Leipzig 1776–1788). Digitalisate: <
 </subsection>
 </kommentar>
 
+<kommentar id="bosshard" type="neuzeit">
+<lemma>Heinrich Bosshard</lemma>
+<eintrag>1748–1815. Schweizer Bauer, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118894609.html ">Deutsche Biographie</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="boulainvilliers" type="neuzeit">
 <lemma>Henri de Boulainvilliers</lemma>
 <eintrag>1658–1722. Comte de Saint-Saire. Frz. Historiker. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;5, 1812), S.&#x202F;319–321.</eintrag>
@@ -6239,9 +6245,8 @@ Zitation nach dem Erstdruck (= ED) und N&#x202F;III, S.&#x202F;197–203.
 <subsection id="hamann-freundhain" type="neuzeit" sort="660">
 <lemma>Hamann, <titel>Freund Hain</titel></lemma>
 <eintrag>
-<titel>Freund Hain an alle „belesene und empfindsame Personen“ in Ost- und West-Preußen, welche „Noch ein Ditto beym Mondscheine zu singen“ Lust und Genüge finden.</titel> Erschienen in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, vmtl. St.&#x202F;39, 15. Mai 1775 (Jg. nicht überliefert).<line type="break" />
-Die Datierung bereitet einige Probleme: Die beste Quelle für den Text ist Roth IV, 384–390, dort jedoch undatiert (abgesehen von der datierten Unterschrift „10. May 1775“). Nadler, dem Originale der Zeitung zwar noch vorlagen, der sich bei der Edition aber beinahe gänzlich auf Roth und Unger stützte, datierte den Text auf die Beilage zum „39. Stück. 10. März 1775“ (N&#x202F;IV,386): Das kann aber nicht stimmen, da das 39. Stück am 15. Mai erschien. Kombiniert man Hamanns datierte Unterschrift am Ende des Textes („10. May 1775“) mit seiner Aufforderung an Reichardt vom 11. Mai, das Stück in Kanters Zeitung unterzubringen (<intlink letter="446" page="179" line="27" linktext="true" />) – und nimmt dazu an, dass Nadler die Stücknummer richtig hatte und nur das Datum falsch –, so ist die plausibelste Datierung, dass der Text kurz darauf am 15. Mai in den KGPZ erschien. Am 21. Mai sandte Hamann die Beilage an Claudius, vgl. <intlink letter="447" page="180" line="20" linktext="true" />.
-<line type="break" />
+<titel>Freund Hain an alle „belesene und empfindsame Personen“ in Ost- und West-Preußen, welche „Noch ein Ditto beym Mondscheine zu singen“ Lust und Genüge finden.</titel> – Rezensierende Ankündigung und Subskriptionsaufforderung von <link ref="claudius" subref="claudius-werke" linktext="true" />, erschienen in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, vmtl. St.&#x202F;39, 15. Mai 1775 (Jg. nicht überliefert).<line type="break" />
+Die Datierung bereitet einige Probleme: Die beste Quelle für den Text ist Roth IV, 384–390, dort jedoch undatiert (abgesehen von der datierten Unterschrift „10. May 1775“). Nadler, dem Originale der Zeitung zwar noch vorlagen, der sich bei der Edition aber beinahe gänzlich auf Roth und Unger stützte, datierte den Text auf die Beilage zum „39. Stück. 10. März 1775“ (N&#x202F;IV,386): Das kann aber nicht stimmen, da das 39. Stück am 15. Mai erschien. Kombiniert man Hamanns datierte Unterschrift am Ende des Textes („10. May 1775“) mit seiner Aufforderung an Reichardt vom 11. Mai, das Stück in Kanters Zeitung unterzubringen (<intlink letter="446" page="179" line="27" linktext="true" />) – und nimmt dazu an, dass Nadler die Stücknummer richtig hatte und nur das Datum falsch –, so ist die plausibelste Datierung, dass der Text kurz darauf am 15. Mai in den KGPZ erschien. Am 21. Mai sandte Hamann die Beilage an Claudius, vgl. <intlink letter="447" page="180" line="20" linktext="true" />.<line type="break" />
 Zum Text und Hamanns Verhältnis zu <link ref="claudius" linktext="false">Claudius</link> vgl. <link ref="kra-x-2016" linktext="true" />.
 </eintrag>
 </subsection>

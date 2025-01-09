@@ -54158,7 +54158,7 @@ Brief Nr. 437
 </marginal>
 
 <marginal letter="437" page="162" line="3">
-<bzg>Mad<super>e</super> Rappoltin</bzg> <link ref="rappolt-eh" linktext="true" />  
+<bzg>Made Rappoltin</bzg> <link ref="rappolt-eh" linktext="true" />  
 </marginal>
 
 <marginal letter="437" page="162" line="16">
@@ -54746,7 +54746,7 @@ Brief Nr. 441
 </marginal>
 
 <marginal letter="441" page="171" line="29">
-<bzg>Bauer in der Schweitz …</bzg> Heinrich Bosshard (1748–1815), vgl. den Bericht in <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10720766-2"><titel>Heinrich Boßhard, eines schweizerischen Landmannes, Lebensgeschichte, von ihm selbst geschrieben</titel> (Winterthur 1804)</wwwlink>, S.&#x202F;89; vgl. außerdem den Brief von Boßhard an Lavater, 26.3.1775, über Herders <link ref="herder" subref="herder-altesteurkunde" linktext="false">Älteste Urkunde</link>: <wwwlink address="https://www.e-manuscripta.ch/zuz/content/titleinfo/2464866">Manuskript: Zentralbibliothek Zürich, FA Lav Ms 503.109</wwwlink> und den Brief Herders an Lavater, Mitte April 1775: <wwwlink address="https://jclavater-briefwechsel.ch/letter/1136">https://jclavater-briefwechsel.ch/letter/1136</wwwlink>.
+<bzg>Bauer in der Schweitz …</bzg> <link ref="bosshard" linktext="true" />, vgl. den Bericht in <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10720766-2"><titel>Heinrich Boßhard, eines schweizerischen Landmannes, Lebensgeschichte, von ihm selbst geschrieben</titel> (Winterthur 1804)</wwwlink>, S.&#x202F;89; vgl. außerdem den Brief von Boßhard an Lavater, 26.3.1775, über Herders <link ref="herder" subref="herder-altesteurkunde" linktext="false">Älteste Urkunde</link>: <wwwlink address="https://www.e-manuscripta.ch/zuz/content/titleinfo/2464866">Manuskript: Zentralbibliothek Zürich, FA Lav Ms 503.109</wwwlink> und den Brief Herders an Lavater, Mitte April 1775: <wwwlink address="https://jclavater-briefwechsel.ch/letter/1136">https://jclavater-briefwechsel.ch/letter/1136</wwwlink>.
 </marginal>
 
 <marginal letter="441" page="171" line="30" sort="1">
@@ -55820,7 +55820,7 @@ Brief Nr. 449
 </marginal>
 
 <marginal letter="449" page="188" line="4">
-<bzg>Brief</bzg> nicht überliefert
+<bzg>Brief</bzg> Claudius’ Antwort auf HKB 447, nicht überliefert
 </marginal>
 
 <marginal letter="449" page="188" line="6" sort="1">
@@ -55832,7 +55832,7 @@ Brief Nr. 449
 </marginal>
 
 <marginal letter="449" page="188" line="8">
-<bzg>4to … 12<super>o</super></bzg> Quartformat … Duodezformat
+<bzg>4to … 12</bzg> Quartformat … Duodezformat
 </marginal>
 
 <marginal letter="449" page="188" line="9">
@@ -55852,7 +55852,7 @@ Brief Nr. 449
 </marginal>
 
 <marginal letter="449" page="188" line="22">
-<bzg>Weguelin</bzg> <link ref="wegelin" linktext="true" /> hatte sich in der Akademie entscheidend für Herder eingesetzt
+<bzg>Weguelin</bzg> <link ref="wegelin" linktext="true" /> hatte sich in der Akademie entscheidend für Herder eingesetzt.
 </marginal>
 
 <marginal letter="449" page="188" line="23">
@@ -55876,7 +55876,7 @@ Brief Nr. 449
 </marginal>
 
 <marginal letter="449" page="188" line="33">
-<bzg>Brockmann</bzg> der 1775 in der Vorstadt den armenischen Kaufmann Haggi Painter ermordet hatte
+<bzg>Brockmann</bzg> Er ermordete 1775 in der Vorstadt den armenischen Kaufmann Haggi Painter.
 </marginal>
 
 <marginal letter="449" page="188" line="35">
@@ -55888,11 +55888,11 @@ Brief Nr. 449
 </marginal>
 
 <marginal letter="449" page="188" line="37">
-<bzg>allgemeinen deutschen Bibliothek</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 24/1, S.288–296, sind die jüngsten Schriften Hamanns rezensiert. <intlink letter="454" page="201" line="30" linktext="true"/>
+<bzg>allgemeinen deutschen Bibliothek</bzg> in  <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 24/1, S.&#x202F;288–296 sind die jüngsten Schriften Hamanns rezensiert; vgl. <intlink letter="454" page="201" line="30" linktext="true"/>
 </marginal>
 
 <marginal letter="449" page="189" line="1">
-<bzg>puero centum artium</bzg> ein Jüngling von hundert Künsten (<link ref="horaz" subref="horaz-oden" linktext="true" />, IV,1,15), im Motto von <link ref="hamann" subref="hamann-hierophant" linktext="true" />
+<bzg>puero centum artium</bzg> ein Jüngling von hundert Künsten (<link ref="horaz" subref="horaz-oden" linktext="true" />, IV,1,15), aus dem Motto von <link ref="hamann" subref="hamann-h" linktext="true" />
 </marginal>
 
 <marginal letter="449" page="189" line="2" sort="1">
@@ -55900,19 +55900,23 @@ Brief Nr. 449
 </marginal>
 
 <marginal letter="449" page="189" line="2" sort="2">
-<bzg>Abbtschen Correspondentz</bzg> Hamann zitiert sich selbt, vgl. <intlink letter="224" page="142" line="15" linktext="true"/>; dieser Brief an <link ref="mendelssohn" linktext="false">Mendelssohn</link>, HKB 224, war in <link ref="abbt" subref="abbt-correspondenz" linktext="true" /> (S.83) publiziert worden. 
+<bzg>Abbtschen Correspondentz</bzg> Hamann zitiert sich selbt, vgl. <intlink letter="224" page="142" line="15" linktext="true"/>; dieser Brief an <link ref="mendelssohn" linktext="false">Mendelssohn</link> (HKB 224) ist in <link ref="abbt" subref="abbt-correspondenz" linktext="true" /> (S.&#x202F;83) publiziert worden. 
 </marginal>
 
 <marginal letter="449" page="189" line="4">
 <bzg>Hephästion</bzg> <link ref="starck" subref="starck-hephaestion" linktext="true" />  
 </marginal>
 
+<marginal letter="449" page="189" line="6">
+<bzg>25 April des Abends</bzg> vgl. <intlink letter="444" page="175" line="7" linktext="true" />
+</marginal>
+
 <marginal letter="449" page="189" line="8">
-<bzg>wie Fontaine vom Propheten Baruch</bzg> <link ref="fontaine" linktext="true" />; vgl. <link ref="hamann" subref="hamann-naschereyen" linktext="true" />, N II,187f., Anm. 1
+<bzg>wie Fontaine vom Propheten Baruch</bzg> <link ref="fontaine" linktext="true" />; vgl. <link ref="hamann" subref="hamann-naschereyen" linktext="true" />, N&#x202F;II,187f., Anm.&#x202F;1
 </marginal>
 
 <marginal letter="449" page="189" line="9">
-<bzg>Assmus, den ich den 4 May</bzg> <link ref="claudius" subref="claudius-werke" linktext="true" />; vgl. <intlink letter="449" page="188" line="4" linktext="true" /> 
+<bzg>Assmus, den ich den 4 May</bzg> <link ref="claudius" subref="claudius-werke" linktext="true" />; vgl. <intlink letter="447" page="180" line="12" linktext="true" /> 
 </marginal>
 
 <marginal letter="449" page="189" line="11">
@@ -55928,7 +55932,7 @@ Brief Nr. 449
 </marginal>
 
 <marginal letter="449" page="189" line="19">
-<bzg>Schweitzer Bauer</bzg> vgl. <intlink letter="441" page="171" line="29" linktext="true" />
+<bzg>Schweitzer Bauer</bzg> <link ref="bosshard" linktext="true" />, vgl. <intlink letter="441" page="171" line="29" linktext="true" />
 </marginal>
 
 <marginal letter="449" page="189" line="20">
@@ -55944,7 +55948,7 @@ Brief Nr. 449
 </marginal>
 
 <marginal letter="449" page="189" line="24">
-<bzg>Nothanker</bzg> Allusion an <link ref="nicolai" subref="nicolai-nothanker" linktext="true" /> 
+<bzg>Nothanker</bzg> Anspielung auf <link ref="nicolai" subref="nicolai-nothanker" linktext="true" /> 
 </marginal>
 
 <marginal letter="449" page="189" line="26">
