@@ -5583,6 +5583,17 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 </eintrag>
 </kommentar>
 
+<kommentar id="gronovius" type="neuzeit">
+<lemma>Jakob Gronovius</lemma>
+<eintrag>1645–1716. Klassischer Philologe und Altertumswissenschaftler, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104286342.html">Deutsche Bioghraphie</wwwlink>.
+</eintrag>
+<subsection id="gronovius-thesaurus" type="neuzeit">
+<lemma>Gronovius, <titel>Thesaurus Graecarum Antiquitatum</titel></lemma>
+<eintrag>
+<titel>Thesaurus Graecarum Antiquitatum,</titel> in quo continentur effigies virorum ac foeminarum illustrium […] auctore Jacobo Gronovio (13 Bde., Leiden 1697–1702). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11055363-6">Stabi Regensburg: 999/2Hist.pol.475(1</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="grulich" type="neuzeit">
 <lemma>Adolph Bogislav Grulich</lemma>
 <eintrag>1729–1798. Lutherischer Theologe.
@@ -16885,6 +16896,21 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <kommentar id="zoepfel" type="neuzeit">
 <lemma>Zöpfel</lemma>
 <eintrag>Mit den Hamanns befreundete Familie. Magdalene Dorothee Zöpfel (Lebensdaten nicht bekannt) war die Frau von <link ref="nuppenau-hl" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="zorn-p" type="neuzeit">
+<lemma>Peter Zorn</lemma>
+<eintrag>1682–1746. Universalgelehrter.</eintrag>
+<subsection id="zorn-opuscula" type="neuzeit" sort="10">
+<lemma>Zorn, <titel>Bibliotheca antiquaria et exegetica</titel></lemma>
+<eintrag>
+<titel>Petri Zornii bibliotheca antiquaria et exegetica in universam scripturam s. vet. et novi testamenti</titel> […] (12 Tle., Frankfurt: Nicolai 1725). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11285245-6">Stabi AUgsburg: Th Ex 1048</wwwlink>.</eintrag>
+</subsection>
+<subsection id="zorn-opuscula" type="neuzeit" sort="20">
+<lemma>Zorn, <titel>Opuscula sacra</titel></lemma>
+<eintrag>
+<titel>Petri Zornii opuscula Sacra</titel> […] (2 Bde., Altona: Korte 1731). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10028518-3">BSB München:  H.eccl. 1247-1</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="zosimos" type="neuzeit">

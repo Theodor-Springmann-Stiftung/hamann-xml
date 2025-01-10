@@ -8598,8 +8598,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="450">
-        <date value="Bückeburg, vor 28. Juni 1775" />
-        <sort value="1775-06-28" notAfter="1775-06-28" />
+        <date value="Bückeburg, etwa 18. Juni 1775" />
+        <sort value="1775-06-18" notBefore="1775-06-11" notAfter="1775-06-28" />
         <location ref="23" />
         <senders>
           <sender ref="41" />

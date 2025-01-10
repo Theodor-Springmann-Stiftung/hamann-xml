@@ -55958,10 +55958,6 @@ Brief Nr. 449
 
 Brief Nr. 450
 
-<marginal letter="450" page="189" line="32">
-NB in HBGA auf 18. Juni 1775 datiert; prüfen?!?
-</marginal>
-
 <marginal letter="450" page="189" line="33">
 <bzg>unerwarteten Zufall</bzg> der Akademie-Preis für <link ref="herder" subref="herder-geschmack" linktext="true" />, vgl. <intlink letter="449" page="187" line="23" linktext="true" /> 
 </marginal>
@@ -56095,7 +56091,7 @@ NB in HBGA auf 18. Juni 1775 datiert; prüfen?!?
 </marginal>
 
 <marginal letter="450" page="191" line="25">
-<bzg>Gronovschen Samml.</bzg> Johann Friedrich Gronovius, Titel nicht ermittelt
+<bzg>Gronovschen Samml.</bzg> <link ref="gronovius" subref="gronovius-thesaurus" linktext="true" /> 
 </marginal>
 
 <marginal letter="450" page="191" line="26" sort="1">
@@ -56107,11 +56103,11 @@ NB in HBGA auf 18. Juni 1775 datiert; prüfen?!?
 </marginal>
 
 <marginal letter="450" page="191" line="26" sort="3">
-<bzg>Zorns Opusc. u. Bibl. sacra antiqu. sacr.</bzg> Opus.[cula] u. Bibl.[liotheca] antiqu.[aria] sacr.[a]; nicht ermittelt
+<bzg>Zorns Opusc. u. Bibl. antiqu. sacr.</bzg> <link ref="zorn-p" subref="zorn-opuscula" linktext="true" /> und <link ref="zorn-p" subref="zorn-bibliotheca" linktext="true" />
 </marginal>
 
 <marginal letter="450" page="191" line="27">
-<bzg>Anwend. hier Collektan.</bzg> Anwend.[ungen] hier Collektan.[een]
+<bzg>Anwend. hier Collektan.</bzg> Anwendungen, hier Collektaneen
 </marginal>
 
 <marginal letter="450" page="191" line="28">
