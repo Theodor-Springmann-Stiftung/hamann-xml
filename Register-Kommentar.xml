@@ -654,7 +654,7 @@ Dt. Übers. zitiert nach: Kurt Flasch u. Burkhard Mojsisch (Übers.), <titel>Aug
 
 <kommentar id="auserlesene-bibliothek" type="neuzeit">
 <lemma><titel>Auserlesene Bibliothek der neuesten deutschen Litteratur </titel></lemma>
-<eintrag><titel>Auserlesene Bibliothek der neuesten deutschen Litteratur.</titel> Hg. von <link ref="hausen" linktext="true" />, verlegt von Christian Friedrich Helwing (20 Bde., Lemgo 1772–1781). <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3761551162">SLUB Leipzig</wwwlink>. </eintrag>
+<eintrag><titel>Auserlesene Bibliothek der neuesten deutschen Litteratur.</titel> Hg. von <link ref="hausen" linktext="true" />, verlegt von Christian Friedrich Helwing (20 Bde., Lemgo 1772–1781). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3761551162">SLUB Leipzig</wwwlink>. </eintrag>
 </kommentar>
 
 <kommentar id="ausfuehrliche-kritische-nachrichten" type="neuzeit">
@@ -11916,6 +11916,16 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 <titel>Sieben kleine Gedichte, der Venus Erycina, dem Schmerz und der Freude gesungen</titel> (Berlin 1769). 
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="penzel-jj" type="neuzeit">
+<lemma>Johann Jakob Penzel</lemma>
+<eintrag>1720–1789. Vater von <link ref="penzel" linktext="true" />, mit seinem Sohn zerstritten; Prediger in Jeßnitz.</eintrag>
+</kommentar>
+
+<kommentar id="penzel-ms" type="neuzeit">
+<lemma>Marie Sophie Penzel</lemma>
+<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, mit seinem Sohn zerstritten; Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder, 28. September–2. Oktober 1777, ab, vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 u. 37–39</wwwlink>, vgl. ebenso Hans Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten.</titel> Leipzig 1936, S.&#x202F;144–156.</eintrag>
 </kommentar>
 
 <kommentar id="percy" type="neuzeit">
