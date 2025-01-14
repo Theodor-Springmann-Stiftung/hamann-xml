@@ -48574,7 +48574,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="68" line="21">
-<bzg>abmalen zu laßen in puris naturalibus</bzg> zu dem bekannten Hamann-Portrait vgl. <link ref="fec-j-2001" linktext="true" /> (allerdings mit einigen Datierungsfehlern); <intlink letter="452" page="196" line="11" linktext="true" />
+<bzg>abmalen zu laßen in puris naturalibus</bzg> zu dem bekannten Hamann-Portrait vgl. <link ref="fec-j-2001" linktext="false">Fechner: Hamanniana aus dem Vorbesitz von Friedrich Roth</link> (allerdings mit einigen Datierungsfehlern); außerdem <intlink letter="452" page="196" line="11" linktext="true" />
 </marginal>
 
 <marginal letter="398" page="68" line="22">
@@ -56341,7 +56341,7 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="195" line="9" sort="1">
-<bzg>D. Schultz Tochter</bzg> Maria Albertine Tochter von <link ref="schultz-fa" linktext="true" /> 
+<bzg>D. Schultz Tochter</bzg> Maria Albertine, Tochter von <link ref="schultz-fa" linktext="true" /> 
 </marginal>
 
 <marginal letter="452" page="195" line="9" sort="2">
@@ -56377,7 +56377,7 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="195" line="27">
-<bzg>Kopfs</bzg> aus <link ref="lavater" subref="lavater-fragmente" linktext="true" />, siehe <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296009">ETH-Bibliothek Zürich: Rar 9206, Bd.&#x202F;2, S.&#x202F;285</wwwlink> unter „Religiöse, Schwärmer, Theosophen, Seher“ 
+<bzg>schwindlichten Kopfs in der Kappe eines Schweißtuchs</bzg> vgl. zu <intlink letter="452" page="196" line="12" linktext="true" /> 
 </marginal>
 
 <marginal letter="452" page="195" line="28" sort="1">
@@ -56393,7 +56393,7 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="195" line="34">
-<bzg>CAROLINE</bzg> <link ref="herder-c" linktext="true" /> in <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;1,  S.&#x202F;192
+<bzg>CAROLINE</bzg> <link ref="herder-c" linktext="true" />, deren Silhouette vmtl. in <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;1, S.&#x202F;192f. abgebildet und als „eine außerordentlich zarte, edle, feine, aufgeklärte, und ausgebildete Seele“ erläutert wird, deren Namen man wegen ihrer Bescheidenheit nicht nachforschen solle.
 </marginal>
 
 <marginal letter="452" page="195" line="35">
@@ -56402,6 +56402,10 @@ Brief Nr. 452
 
 <marginal letter="452" page="196" line="1">
 <bzg>Jonathan</bzg> <link ref="at-sam1" subref="at-sam1-14" linktext="false">1 Sam 14,25–29</link> 
+</marginal>
+
+<marginal letter="452" page="196" line="12">
+<bzg>Holtzschnitts betrift ein Esel Ohr</bzg> Gemeint ist das Hamann-Portrait in <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;2, siehe im <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296243">Tafelband</wwwlink> (vgl. auch Lavaters Beschreibung im  <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296008">Textband, S.&#x202F;285</wwwlink>, unter „Religiöse, Schwärmer, Theosophen, Seher“, hinter Platon). Kanter brachte offenbar Vorab-Abzüge des Stiches: Bd.&#x202F;2 der <titel>Physiognomischen Fragmente</titel> erschien erst 1776. Es handelt sich dabei um eine Kopie des vor Hamanns Reise nach Mitau 1765 erstellten Ölportraits, das Hamann im Privaten mit Kopftuch zeigt (daher die ‚Eselsohren‘); nachdem es für eine Weile im Kanterschen Buchladen hing, wurde es an <link ref="moser" linktext="true" /> verkauft, vgl. <intlink letter="398" page="68" line="19" linktext="true" /> und <link ref="fec-j-2001" linktext="false">Fechner: Hamanniana aus dem Vorbesitz von Friedrich Roth</link>.
 </marginal>
 
 <marginal letter="452" page="196" line="16">
@@ -56429,19 +56433,19 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="196" line="24">
-<bzg>Stahlbaum</bzg> Christian Friedrich Stahlbaum (1752–1788), Verleger in Berlin
-</marginal>
-
-<marginal letter="452" page="196" line="25">
-<bzg>Copey</bzg> das Bild von Hamann, das ihn, wie er selbst meinte, mit einer Schlafmütze zeigte
+<bzg>Stahlbaum</bzg> <link ref="stahlbaum-cf" linktext="true" />
 </marginal>
 
 <marginal letter="452" page="196" line="28">
-<bzg>2ten Theil seiner Physiognomien</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, 1776
+<bzg>2ten Theil seiner Physiognomien</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;2 (1776)
 </marginal>
 
-<marginal letter="452" page="196" line="29">
-<bzg>Moser</bzg> <link ref="moser" linktext="true" />, von dem Anfang 1774 erworbenen Ölbild; vgl. <intlink letter="398" page="68" line="35" linktext="true"/>
+<marginal letter="452" page="196" line="29" sort="1">
+<bzg>Moser</bzg> <link ref="moser" linktext="true" />; zum Verkauf des Ölbildes vgl. <intlink letter="398" page="68" line="35" linktext="true"/>
+</marginal>
+
+<marginal letter="452" page="196" line="29" sort="2">
+<bzg>Contour</bzg> hier im Sinne von Vorbild
 </marginal>
 
 <marginal letter="452" page="196" line="32">
@@ -56449,11 +56453,11 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="196" line="36">
-<bzg>Mercur u die allg. Bibliothek</bzg> <link ref="teutsche-merkur" linktext="true" />, <link ref="allgemeine-deutsche-bib" linktext="true" />
+<bzg>Mercur u die allg. Bibliothek</bzg> <link ref="teutsche-merkur" linktext="true" /> (vgl. <intlink letter="439" page="166" line="10" linktext="true" />) und <link ref="allgemeine-deutsche-bib" linktext="true" /> (vgl. <intlink letter="449" page="189" line="37" linktext="true" />
 </marginal>
 
 <marginal letter="452" page="197" line="1">
-<bzg>Dodecade</bzg> Zwölftel, bspw. ein Monat; vll. hier aber das dritte Stück der <titel>Allgemeinen deutschen Bibliothek</titel>
+<bzg>Dodecade</bzg> Zwölftel, bspw. ein Monat; vll. hier aber das dritte Stück der <link ref="allgemeine-deutsche-bib" linktext="false"><titel>Allgemeinen deutschen Bibliothek</titel></link> von 1775, wo Bd.&#x202F;25, S.&#x202F;23 <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
 </marginal>
 
 <marginal letter="452" page="197" line="3">
@@ -56473,11 +56477,11 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="197" line="10">
-<bzg>Klotz</bzg> <link ref="klotz" linktext="true" />
+<bzg>Klotz</bzg> wie <link ref="klotz" linktext="true" />, d.&#x202F;h. mit unlauteren Mitteln wie dem unautorisierten Abdruck von Jugendgedichten oder Verissen von Werken vor ihrem Erscheinen. 
 </marginal>
 
 <marginal letter="452" page="197" line="12">
-<bzg>Streich</bzg> <link ref="kanter" linktext="true" />, indem er das Bild Hamanns mit den Eselsohren in seinem Laden aufhängte.
+<bzg>Streich</bzg> <link ref="kanter" linktext="true" />, indem er das Ölportrait von Hamann mit den Eselsohren in seinem Laden aufhängte.
 </marginal>
 
 <marginal letter="452" page="197" line="15">
