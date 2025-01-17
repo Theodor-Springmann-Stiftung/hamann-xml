@@ -52208,7 +52208,7 @@ Brief Nr. 423
 </marginal>
 
 <marginal letter="423" page="129" line="15">
-<bzg>Trifolium</bzg> dt. Kleeblatt, Dreiblatt
+<bzg>Trifolium</bzg> dt. Kleeblatt, Dreiblatt (Hamanns drei Kinder)
 </marginal>
 
 
@@ -56805,7 +56805,7 @@ Brief Nr. 455
 <bzg>Brief</bzg> <intlink letter="445" page="177" line="4" linktext="false">HKB 445</intlink>
 </marginal>
 
-<marginal letter="455" page="202" line="23">
+<marginal letter="455" page="202" line="24">
 <bzg>meinen Brief …</bzg> vgl. <intlink letter="452" page="194" line="26" linktext="true" />
 </marginal>
 
@@ -56878,7 +56878,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="204" line="13" sort="1">
-<bzg>H–n p. 196</bzg> Im <wwwlink address="https://www.e-rara.ch/zut/content/zoom/295475">Textband</wwwlink> von <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;1, S.&#x202F;196 „H…e“ genannt, im <wwwlink address="https://www.e-rara.ch/zut/content/zoom/295623">Tafelband</wwwlink> „H…n“; vgl. <intlink letter="456" page="209" line="35" linktext="true" /> (das Bild wurde von Josef Nadler fälschlicherweise für Hamann gehalten und neben dem Titel von N&#x202F;IV abgedruckt).
+<bzg>H–n p. 196</bzg> Im <wwwlink address="https://www.e-rara.ch/zut/content/zoom/295475">Textband</wwwlink> von <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;1, S.&#x202F;196 „H…e“ genannt, im <wwwlink address="https://www.e-rara.ch/zut/content/zoom/295623">Tafelband</wwwlink> „H…n“; vgl. <intlink letter="456" page="209" line="36" linktext="true" /> (das Bild wurde von Josef Nadler fälschlicherweise für Hamann gehalten und neben dem Titel von N&#x202F;IV abgedruckt).
 </marginal>
 
 <marginal letter="455" page="204" line="14">
@@ -57146,7 +57146,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="209" line="5">
-<bzg>Layenbr.</bzg> <link ref="moser" linktext="true" />
+<bzg>Layenbr.</bzg> <link ref="moser" linktext="true" />; es ging um die vermittlung von <link ref="" subref="" linktext="true" /> nach Darmstadt, vgl. HBGA, Bd.&#x202F;11, S. 587.
 </marginal>
 
 <marginal letter="456" page="209" line="7">
@@ -57166,7 +57166,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="209" line="17">
-<bzg>Witwe</bzg> Sophie Christiane Eleonore v., Beschefer, geb. v. Oheim, Taufpatin der Söhne Herders
+<bzg>Witwe</bzg> <link ref="bescheffer" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="209" line="19">
@@ -57174,23 +57174,27 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="209" line="20">
-<bzg>Waßerflüßen Babels</bzg> Ps 137,1.
+<bzg>Waßerflüßen Babels</bzg> <link ref="at-ps" subref="at-ps137" linktext="false">Ps 137,1</link>
 </marginal>
 
 <marginal letter="456" page="209" line="21">
-<bzg>Zanthier</bzg> Friedrich Wilhelm v. Zanthier (1741–1781), schaumburg-lipp. Kapitänleutnant
+<bzg>Zanthier</bzg> Friedrich Wilhelm von Zanthier (1741–1781), schaumburg-lippischer Kapitänleutnant
 </marginal>
 
 <marginal letter="456" page="209" line="22">
-<bzg>Kleuker</bzg> <link ref="kleuker" linktext="true" />
+<bzg>Kleuker …</bzg> <link ref="kleuker" linktext="true" />, der Übersetzer von <link ref="anquetil-duperron" subref="anquetil-duperron-zend" linktext="true" />
 </marginal>
 
-<marginal letter="456" page="209" line="24">
-<bzg>Lav. Physion. … Fr. v. Ompteda</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.1, S.191; Catharina Charlotte Ompteda (gest. 1811), Oberhofmeisterin der Königin Karoline Mathilde von Dänemark
+<marginal letter="456" page="209" line="24" sort="1">
+<bzg>Lav. Physion.</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;1, S.&#x202F;191
+</marginal>
+
+<marginal letter="456" page="209" line="24" sort="2">
+<bzg>Fr. v. Ompteda … Oberhofmstrin der verst. Kön.</bzg> Catharina Charlotte Ompteda (gest. 1811), Oberhofmeisterin der kürzlich verstorbenen Königin Karoline Mathilde von Dänemark
 </marginal>
 
 <marginal letter="456" page="209" line="25">
-<bzg>Horst … verst. Kön. in Dännemark</bzg> Julius August Friedrich Frh. v. Horst (gest. 1791), Geheimer Etats-, Kriegs- und dirigierender Minister, 1774 entlassen; König: Friedrich V. (1732–1766)
+<bzg>Horst</bzg> <link ref="horst" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="209" line="29">
@@ -57198,11 +57202,11 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="209" line="31">
-<bzg>Vir bonus …</bzg> nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,7,22
+<bzg>Vir bonus …</bzg> nach <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,7,22, vgl. <intlink letter="419" page="122" line="14" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="209" line="32">
-<bzg>Sap. Sat!</bzg> Sap.[ienti] sat, lat. sprichw. für: für den Verständigen genug
+<bzg>Sap. Sat!</bzg> Sapienti sat, lat. sprichwörtlich ‚für den Verständigen genug‘
 </marginal>
 
 <marginal letter="456" page="209" line="33" sort="1">
@@ -57217,16 +57221,16 @@ Brief Nr. 456
 <bzg>Frau </bzg> <link ref="herder-c" linktext="true" />
 </marginal> 
 
+<marginal letter="456" page="209" line="36">
+<bzg>H–e S. 196</bzg> vgl. <intlink letter="455" page="204" line="13"  linktext="true" />
+</marginal>
+
 <marginal letter="456" page="209" line="37">
 <bzg>Marggr. v. Baden</bzg> Karl Friedrich von Baden (1728–1811)
 </marginal>
 
-<marginal letter="456" page="210" line="1">
-<bzg>Jung</bzg> <link ref="jung" linktext="true" /> 
-</marginal>
-
-<marginal letter="456" page="210" line="4">
-<bzg>Merkur</bzg> <link ref="teutsche-merkur" linktext="true" /> 
+<marginal letter="456" page="210" line="2">
+<bzg>Jung</bzg> <link ref="jung-stilling" linktext="true" /> 
 </marginal>
 
 <marginal letter="456" page="210" line="5">
@@ -57242,7 +57246,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="210" line="7">
-<bzg>Klockenbring</bzg> vll. Friedrich Arnold Klockenbring (1742–1795), 1769-1771 Redakteur der Hannoverschen Anzeigen und des Hannoverschen Magazins.
+<bzg>Klockenbring</bzg> vll. Friedrich Arnold Klockenbring (1742–1795), 1769–1771 Redakteur der Hannoverschen Anzeigen und des Hannoverschen Magazins.
 </marginal>
 
 <marginal letter="456" page="210" line="8" sort="1">
@@ -57251,6 +57255,10 @@ Brief Nr. 456
 
 <marginal letter="456" page="210" line="8" sort="2">
 <bzg>Rameau</bzg> Jean-Philippe Rameau, (1683–1764), frz. Komponist und Musiktheoretiker
+</marginal>
+
+<marginal letter="456" page="210" line="10">
+<bzg>Ihr Bild</bzg> vgl. <intlink letter="455" page="204" line="15" linktext="true" />
 </marginal>
 
 <marginal letter="456" page="210" line="11">
@@ -57282,7 +57290,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="210" line="24">
-<bzg>Hausmutter</bzg> <link ref="schumacher-ar" linktext="true" />
+<bzg>Hausmutter … Dreiblatt</bzg> <link ref="schumacher-ar" linktext="true" /> und die drei Kinder
 </marginal>
 
 
