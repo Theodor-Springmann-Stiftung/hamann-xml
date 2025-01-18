@@ -2797,7 +2797,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="146">
-        <date value="Vmtl. Königsberg, 5. Juni 1759" />
+        <date value="Königsberg, 5. Juni 1759" />
         <sort value="1759-06-05" />
         <location ref="2" />
         <senders>
@@ -3292,7 +3292,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="172">
-        <date value="Vmtl. Königsberg, vmtl. 1759" />
+        <date value="Vmtl. Königsberg, 1759" />
         <sort value="1759-12-17" notBefore="1759-01-01" notAfter="1759-12-31" cert="low" />
         <location ref="2" />
         <senders>
@@ -3387,7 +3387,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="177">
-        <date value="Vmtl. Königsberg, 19. Januar 1760" />
+        <date value="Königsberg, 19. Januar 1760" />
         <sort value="1760-01-19" />
         <location ref="2" />
         <senders>
@@ -3406,7 +3406,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="178">
-        <date value="Vmtl. Königsberg, 12. und 19. Februar 1760" />
+        <date value="Königsberg, 12. und 19. Februar 1760" />
         <sort value="1760-02-12" from="1760-02-12" to="1760-02-19" />
         <location ref="2" />
         <senders>
@@ -3444,7 +3444,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="180">
-        <date value="Vmtl. Königsberg, 2. April 1760" />
+        <date value="Königsberg, 2. April 1760" />
         <sort value="1760-04-02" />
         <location ref="2" />
         <senders>
@@ -3482,7 +3482,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="182">
-        <date value="Vmtl. Königsberg, 21. Mai 1760" />
+        <date value="Königsberg, 21. Mai 1760" />
         <sort value="1760-05-21" order="100" />
         <location ref="2" />
         <senders>
@@ -3501,7 +3501,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="183">
-        <date value="Vmtl. Königsberg21. Mai 1760" />
+        <date value="Königsberg, 21. Mai 1760" />
         <sort value="1760-05-21" order="200" />
         <location ref="2" />
         <senders>
@@ -3539,7 +3539,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="185">
-        <date value="Vmtl. Königsberg, Juni 1760" />
+        <date value="Königsberg, Juni 1760" />
         <sort value="1760-06-14" notBefore="1760-06-01" notAfter="1760-06-30" />
         <location ref="2" />
         <senders>
@@ -4072,7 +4072,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="213">
-        <date value="Vmtl. Königsberg, 26. August 1761" />
+        <date value="Königsberg, 26. August 1761" />
         <sort value="1761-08-26" />
         <location ref="2" />
         <senders>
@@ -4167,7 +4167,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="218">
-        <date value="Vmtl. Königsberg, vmtl. 1762" />
+        <date value="Vmtl. Königsberg, 1762" />
         <sort value="1762-01-01" notBefore="1762-01-01" notAfter="1762-12-31" cert="low" />
         <location ref="2" />
         <senders>
@@ -4680,7 +4680,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="245">
-        <date value="Vmtl. Königsberg, 17. März 1763" />
+        <date value="Königsberg, 17. März 1763" />
         <sort value="1763-03-17" />
         <location ref="2" />
         <senders>
@@ -7400,7 +7400,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="387">
-        <date value="Vmtl. Königsberg, 25. März 1773" />
+        <date value="Königsberg, 25. März 1773" />
         <sort value="1773-03-25" />
         <location ref="2" />
         <senders>

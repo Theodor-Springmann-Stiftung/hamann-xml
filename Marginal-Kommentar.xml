@@ -47099,10 +47099,6 @@ Brief Nr. 387
 <bzg>Sauvage du Nord</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />
 </marginal>
 
-<marginal letter="387" page="43" line="15" sort="2">
-<bzg>Financier de Pe-kim</bzg>
-</marginal>
-
 Brief Nr. 388
 
 <marginal letter="388" page="43" line="27">
@@ -56377,7 +56373,7 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="195" line="28" sort="2">
-<bzg>Anecdoten von M. Paentzel</bzg> <link ref="penzel" linktext="true" /> war 1774 in Würzburg vom Calvinismus zum Katholizismus konvertiert, um sich an seinem Vater, einem Pfarrer, zu rächen. Ende 1774 musste er Würzburg wieder verlassen, wegen irgendwelcher Liebschaften, Schulden und vmtl. eines Duells; im Winter 1774/1775 in Wertheim am Main ins Königsberger Regiment Alt-Stutterheim eingetreten; April 1775 Ankunft in Königsberg. 
+<bzg>Anecdoten von M. Paentzel</bzg> <link ref="penzel" linktext="true" /> war 1774 in Würzburg vom Calvinismus zum Katholizismus konvertiert, um sich an seinem Vater, einem reformierten Pfarrer, zu rächen. Ende 1774 musste er Würzburg wieder verlassen, wegen Liebschaften, Schulden und vmtl. eines Duells; im Winter 1774/1775 in Wertheim am Main ins Königsberger Regiment Alt-Stutterheim eingetreten; April 1775 Ankunft in Königsberg. 
 </marginal>
 
 <marginal letter="452" page="195" line="29">
@@ -56929,13 +56925,12 @@ Brief Nr. 455
 <bzg>Paentzel</bzg> <link ref="penzel" linktext="true" />
 </marginal>
 
-<marginal letter="455" page="205" line="19" sort="2">
-<bzg>seinen Abschied</bzg> Penzel blieb weiterhin in preußischen Diensten, war aber Freiwächter, also ein Soldat, der sich in der Garnison seinen Lebensunterhalt selbst verdienen durfte und vom Wachdienst befreit war. So blieb <link ref="strabon" linktext="true" /> sein Hauptgeschäft, er verdiente an seiner Mitarbeit bei <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, sein Sold floss aber größtenteils in die Regimentskasse, vgl B. GAJEK in: Jahrbuch des Freien Deutschen Hochstifts 1986, S. 34ff.?!?
-
-</marginal>
-
 <marginal letter="455" page="205" line="19" sort="1">
 <bzg>Gouverneur</bzg> <link ref="stutterheim" linktext="true" />
+</marginal>
+
+<marginal letter="455" page="205" line="19" sort="2">
+<bzg>seinen Abschied</bzg> Penzel blieb weiterhin in preußischer Soldat, war aber Freiwächter, also ein Soldat, der sich in der Garnison seinen Lebensunterhalt selbst verdienen durfte und vom Wachdienst befreit war. So blieb <link ref="strabon" linktext="true" /> sein Hauptgeschäft, außerdem verdiente er an seiner Mitarbeit bei den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, sein Sold floss aber größtenteils in die Regimentskasse.
 </marginal>
 
 <marginal letter="455" page="205" line="22">
