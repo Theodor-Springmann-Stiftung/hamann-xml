@@ -39146,11 +39146,11 @@ Brief Nr. 332
 
 Brief Nr. 333
 
-?!? Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwischen 332 und 334 platziert, also zwischen August und November 1766. Bei uns war er komischerweise zwischen mit „Juli 1765“ zwischen 328 und 329 eingeordnet (also auf Juli 1766 datiert). Habe das korrigiert und zwischen 304 und 305 eingeordnet, mit „vmtl. Juli 1765“. – Herder-Ausgabe datiert es ohne große Diskussion auf Juli 1765 (scheint mir erstmal nichts dagegen zu sprechen, aber schon bissl komisch). Henkel: „Die Datierung dieses sine die et consule überlieferten Briefes macht Schwierigkeiten. HBGA datiert ihn auf den Juli 1765 (dort I,45 und 340); sein Ton scheint in der Tat in jene Phase der Freundschaft zu weisen, da Herder gerade beginnt, dem Älteren selbständig, ja kritisch- ebenbürtig zu begegnen. Außerdem ist die Rede vom Manuskript einer Abhandlung über die Ode, das gewiß nicht identisch ist mit den 363,23; 373,30ff. u. 376,25 erwähnten Handschriften der ersten Sammlung der Fragmente, bzw. ihrer Umarbeitung. Andererseits könnte 333 die Antwort auf 330 sein. Dann wäre 333 auf September zu datieren, da H. bereits am 30. August 1766 auf 331 antwortete, Herder aber bei Abfassung von 333 noch keine Antwort auf 331 in Händen hatte.“
+?!? Zur Datierung: Der Brief ist von ZH mit „1766?“ datiert und war zuvor zwischen 332 und 334 platziert, also zwischen August und November 1766. Bei uns war er komischerweise mit „Juli 1765“ zwischen 328 und 329 eingeordnet (also auf Juli 1766 datiert). Habe das korrigiert und zwischen 304 und 305 eingeordnet, mit „vmtl. Juli 1765“. – Die Herder-Ausgabe datiert es ohne große Diskussion auf Juli 1765 (scheint mir erstmal nichts dagegen zu sprechen, aber schon bissl komisch). Henkel: „Die Datierung dieses sine die et consule überlieferten Briefes macht Schwierigkeiten. HBGA datiert ihn auf den Juli 1765 (dort I,45 und 340); sein Ton scheint in der Tat in jene Phase der Freundschaft zu weisen, da Herder gerade beginnt, dem Älteren selbständig, ja kritisch-ebenbürtig zu begegnen. Außerdem ist die Rede vom Manuskript einer Abhandlung über die Ode, das gewiß nicht identisch ist mit den 363,23; 373,30ff. u. 376,25 erwähnten Handschriften der ersten Sammlung der Fragmente, bzw. ihrer Umarbeitung. Andererseits könnte 333 die Antwort auf 330 sein. Dann wäre 333 auf September zu datieren, da Hamann bereits am 30. August 1766 auf 331 antwortete, Herder aber bei Abfassung von 333 noch keine Antwort auf 331 in Händen hatte.“
 – Zeitlich passt es tatsächlich wesentlich besser nach Juli 1765, da gibts einige (wenn auch wage) Konnexe zum Umfeld. – Zum Briefumfeld von Juli 1766 gibts allerdings gar keine Zusammenhänge, und in der Zeit gibts in jedem Brief irgendwelche Buch-Bestellungen oder Ermahnungen. Wir sollten also mE nach der Herder-Ausgabe gehen.
 
 <marginal letter="333" page="380" line="31">
-<bzg>Briefes…</bzg> Weder Herders letzter Brief noch Hamanns Schreiben, das der Retour der Odenabhandlung beilag, sind ermittelt.
+<bzg>Briefes…</bzg> Weder Herders letzter Brief noch Hamanns Schreiben, das der Retour der Odenabhandlung beilag, sind überliefert.
 </marginal>
 
 <marginal letter="333" page="380" line="32">
@@ -44958,11 +44958,7 @@ Brief Nr. 376
 </marginal>
 
 <marginal letter="376" page="8" line="29" sort="1">
-<bzg>Minister</bzg> vmtl. <link ref="furst" linktext="true" />, vgl. <intlink letter="371" page="2" line="38" linktext="true" /> 
-</marginal>
-
-<marginal letter="376" page="8" line="29" sort="2">
-<bzg>P. Eberhard</bzg> <link ref="eberhard-ja" linktext="true" />
+<bzg>Minister …</bzg> Wohl <link ref="horst" linktext="true" />, in dessen <link ref="eberhard-ja" linktext="true" /> als Sekretär lebte.
 </marginal>
 
 <marginal letter="376" page="9" line="6">
@@ -44978,7 +44974,7 @@ Brief Nr. 376
 </marginal>
 
 <marginal letter="376" page="10" line="1">
-<bzg>Hochgeborner ReichsFreyHerr…</bzg> der Adressat ist vmtl. <link ref="furst" linktext="true" /> – so auch Henkel, siehe oben mit der Nicolai-Connection, die recht dürr ist; von Fürst und Kupferberg war Freiherr (Reichsfreiherr heißt nur, dass man mit einem reichsunmittelbaren Territorium belehnt ist, ist nichts viel anderes, aber die Nomenklatur ist etwas sonderbar, eigentlich nicht gebräuchlich bei Anreden). Von Fürst und Kupferberg war aber nicht Kriegsminister, sondern Justizminister, Vorsitzender des Kammergerichts und Großkanzler. Das Justizministerium war eines der wenigen, das nicht unter dem <link ref="generaldirektorium" linktext="true" /> stand, und die <link ref="general-akzise-und-zoll-direktion" linktext="true" /> war aller Wahrscheinlichkeit nach die Licentratsstelle zu besetzen befugt. –  Kriegsminister war Carl Heinrich von Wedel, andere hohe Minister etwa Hertzberg oder Finckenstein, keiner von denen war aber Freiherr. Kriegs-Etats-Minister scheint auch eine Titel-Kombo zu sein, die in der Zeit schon ungebräuchlich war. – man sollte wohl bei von Fürst und Kupferberg bleiben; Hamann ist ja bei den Curialien unsicher und Kanter weiß anscheinend auch nicht Bescheid?!?
+<bzg>Hochgeborner ReichsFreyHerr…</bzg> der Adressat ist wohl <link ref="horst" linktext="true" />
 </marginal>
 
 <marginal letter="376" page="10" line="4">
@@ -45804,7 +45800,7 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="21" line="30">
-<bzg>Capitolium / Scandet…</bzg> <link ref="horaz" subref="horaz-oden" linktext="true" />, 3,30,8–9
+<bzg>Capitolium / Scandet…</bzg> <link ref="horaz" subref="horaz-oden" linktext="true" />, 3,30,8f.
 </marginal>
 
 <marginal letter="379" page="21" line="31">
@@ -45812,14 +45808,10 @@ Brief Nr. 379
 </marginal>
 
 <marginal letter="379" page="21" line="32" sort="1">
-<bzg>verdeckten Gerichten</bzg> Henkel: »gemeint ist die Autorschwangerschaft« – oder muss er gar zurück ins Amt? jedenfalls streichen oder?!?
-</marginal>
-
-<marginal letter="379" page="21" line="31" sort="2">
 <bzg>Coloqvinten</bzg> bittere Früchte einer subtropischen Kürbispflanze, vgl. <link ref="at-koe2" subref="at-koe2-4" linktext="false">2&#x202F;Kö 4,39</link> (in der vulgata)
 </marginal>
 
-<marginal letter="379" page="21" line="31" sort="3">
+<marginal letter="379" page="21" line="32" sort="2">
 <bzg>cicutis allium nocentius</bzg> <link ref="horaz" linktext="false">Hor. <titel>epod.</titel> 3,3</link>
 </marginal>
 
@@ -57146,7 +57138,7 @@ Brief Nr. 456
 </marginal>
 
 <marginal letter="456" page="209" line="5">
-<bzg>Layenbr.</bzg> <link ref="moser" linktext="true" />; es ging um die vermittlung von <link ref="" subref="" linktext="true" /> nach Darmstadt, vgl. HBGA, Bd.&#x202F;11, S. 587.
+<bzg>Layenbr.</bzg> <link ref="moser" linktext="true" />; es ging um die vermittlung von <link ref="claudius" linktext="true" /> nach Darmstadt, vgl. HBGA, Bd.&#x202F;11, S. 587.
 </marginal>
 
 <marginal letter="456" page="209" line="7">
