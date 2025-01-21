@@ -57281,7 +57281,7 @@ Brief Nr. 456
 </marginal>
 
 
-Brief Nr. 457 irrtümlich in ZH aufgenommen; ist HKB 903
+Brief Nr. 457 irrtümlich in ZH aufgenommen
 
 
 Brief Nr. 458
@@ -57299,11 +57299,15 @@ Brief Nr. 458
 </marginal>
 
 <marginal letter="458" page="211" line="12">
-<bzg>L B</bzg> vll. lieben Bruder
+<bzg>L B</bzg> vmtl. lieben Bruder
 </marginal>
 
 <marginal letter="458" page="211" line="15">
 <bzg>Briefe Jacobi und Judä</bzg> <link ref="herder" subref="herder-briefebruder" linktext="true" /> 
+</marginal>
+
+<marginal letter="458" page="211" line="16">
+<bzg>Erklärungsversuch des Evangelium Johannis</bzg> <link ref="herder" subref="herder-erlaeuterungen" linktext="true" />
 </marginal>
 
 <marginal letter="458" page="211" line="17">
@@ -57318,7 +57322,7 @@ Brief Nr. 458
 Brief Nr. 459
 
 <marginal letter="459" page="211" line="31">
-<bzg>p.</bzg> praecedentis; dt. vorausgehend
+<bzg>6 Sept. p. …</bzg> am 6. September praeterito, also des vorausgehenden Jahres, <intlink letter="456" page="206" line="30" linktext="false">HKB 456</intlink>
 </marginal>
 
 <marginal letter="459" page="211" line="33">
@@ -57326,11 +57330,11 @@ Brief Nr. 459
 </marginal>
     
 <marginal letter="459" page="212" line="1">
-<bzg>Einlage … huj.</bzg> huius, d.i. diesen [Monats]; vgl. <intlink letter="458" page="211" line="12" linktext="true" /> 
+<bzg>Einlage … huj.</bzg> huius, d.i. diesen Monats; vgl. <intlink letter="458" page="211" line="12" linktext="true"/>
 </marginal>
 
 <marginal letter="459" page="212" line="4">
-<bzg>V. Dom. p. Epiph.</bzg> 5. Sonntag nach Epiphanias
+<bzg>V. Dom. p. Epiph.</bzg> 5. Sonntag nach Epiphanias, 4. Februar 1776
 </marginal>
 
 <marginal letter="459" page="212" line="6">
@@ -57342,11 +57346,15 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="212" line="9">
-<bzg>G.</bzg> Göttingen
+<bzg>G.</bzg> Göttingen, wohin Herder berufen wurde (vgl. <intlink letter="456" page="207" line="3" linktext="true" />), was sich aber dann zerschlug; Hamann erfuhr wohl aus dem nicht überlieferten Brief Hartknochs davon.
 </marginal>
         
 <marginal letter="459" page="212" line="14">
-<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />; Brief nicht ermittelt
+<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />; Brief nicht überliefert
+</marginal>
+
+<marginal letter="459" page="212" line="16">
+<bzg>Gewächses</bzg> im Sinne von Geschwulst
 </marginal>
 
 <marginal letter="459" page="212" line="19">
@@ -57354,7 +57362,7 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="212" line="20">
-<bzg>Reichard</bzg> <link ref="friedrich-II" linktext="true" /> hatte 1775 <link ref="reichardt-jf" linktext="true" /> als Kgl. preußischen Kapellmeister nach Berlin berufen.
+<bzg>Reichard</bzg> <link ref="reichardt-jf" linktext="true" /> wurde 1775 <link ref="friedrich-II" linktext="true" /> als königlich-preußischer Kapellmeister nach Berlin berufen.
 </marginal>
 
 <marginal letter="459" page="212" line="23">
@@ -57362,20 +57370,23 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="212" line="26">
-<bzg>Prophetin</bzg> vll. Abendrot – Schönwetterbot, Morgenrot – mit Regen droht
+<bzg>Sprichwort</bzg> mglw. Abendrot – Schönwetterbot, Morgenrot – mit Regen droht
 </marginal>
 
 <marginal letter="459" page="212" line="27" sort="1">
-<bzg>Preißschrift</bzg> <link ref="herder" subref="herder-geschmack" linktext="true" /> vgl. <intlink letter="450" page="183" line="33" linktext="true" />  
+<bzg>Preißschrift</bzg> <link ref="herder" subref="herder-geschmack" linktext="true" /> vgl. <intlink letter="450" page="189" line="33" linktext="true" /> 
 </marginal>
 
 <marginal letter="459" page="212" line="27" sort="2">
 <bzg>Xbre</bzg> Dezember
 </marginal>
 
+<marginal letter="459" page="212" line="28">
+<bzg>Nachricht</bzg> Wohl mündlich: Reichardt erhielt seine Berufung am 4. Dezember 1775 und ist an Heiligabend in Berlin angekommen. 
+</marginal>
+
 <marginal letter="459" page="212" line="29">
-<bzg>Claudius Ruff</bzg> Brief nicht ermittelt; <link ref="claudius" linktext="true" /> auf die  Stelle eines Oberlandkommissarius im Range eines Wirklichen Kammerrats im hessischen
- Staatsdienst
+<bzg>Claudius Ruff</bzg> Die Berufung von <link ref="claudius" linktext="true" /> auf die Stelle eines Oberlandkommissarius im Range eines Wirklichen Kammerrats im hessischen Staatsdienst.
 </marginal>
 
 <marginal letter="459" page="212" line="33">
@@ -57391,11 +57402,11 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="213" line="2">
-<bzg>Also zaue Dich</bzg> „Also eile!“, siehe <link ref="at-sam2" subref="at-sam2-5" linktext="false">2 Sam 5,24</link>
+<bzg>Also zaue Dich</bzg> „Also eile!“, vgl. <link ref="at-sam2" subref="at-sam2-5" linktext="false">2 Sam 5,24</link> in Luthers Übersetzung
 </marginal>
 
 <marginal letter="459" page="213" line="4">
-<bzg>Gevatterbrief</bzg> vmtl. von <link ref="claudius" linktext="true" /> 
+<bzg>Gevatterbrief</bzg> von <link ref="claudius" linktext="true" />, nicht übertliefert 
 </marginal>
 
 <marginal letter="459" page="213" line="6">
@@ -57403,7 +57414,7 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="213" line="8">
-<bzg>Layenbruder</bzg> <link ref="moser" linktext="true" /> 
+<bzg>Layenbruder</bzg> <link ref="moser" linktext="true" />; dafür dass Moser und Herder Claudius nach Darmstadt vermittelten, vgl. <intlink letter="456" page="209" line="5" linktext="true" />
 </marginal>
 
 <marginal letter="459" page="213" line="10">
@@ -57411,15 +57422,19 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="213" line="12" sort="1">
-<bzg>Mördergrube</bzg> <link ref="at-ps" subref="at-ps64" linktext="false">Ps 64,7</link>
+<bzg>Mördergrube</bzg> <link ref="nt-mt" subref="nt-mt21" linktext="false">Mt 21,13</link>
 </marginal>
 
 <marginal letter="459" page="213" line="12" sort="2">
 <bzg>πρωτοκαθεδρα</bzg> dt. erster Lehrstuhl
 </marginal>
 
-<marginal letter="459" page="213" line="15" sort="2">
-<bzg>deutschen Museo … Prof. Kant</bzg> <link ref="bioe" subref="boie-museum" linktext="true" />; <link ref="kant" linktext="true" />
+<marginal letter="459" page="213" line="14">
+<bzg>gedruckter Gevatterbrief … </bzg> Mglw. ist der Brief von <link ref="stolberg" linktext="true" /> an Claudius gemeint, der in <link ref="boie" subref="boie-museum" linktext="true" />, Bd.&#x202F;1, S.&#x202F;41–49 abgedruckt ist.
+</marginal>
+
+<marginal letter="459" page="213" line="15">
+<bzg>Prof. Kant</bzg> <link ref="kant" linktext="true" />
 </marginal>
 
 <marginal letter="459" page="213" line="16">
@@ -57427,15 +57442,19 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="213" line="18">
-<bzg>Pentzel … Weihgesang</bzg> <link ref="penzel" linktext="true" />; nicht ermittelt
+<bzg>Pentzel … Weihgesang</bzg> <link ref="penzel" linktext="true" />: <titel>Sieh mit Börnstein und Kadigbeeren (Weihgesang der Götting Laima)</titel>, in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 4.&#x202F;St. 1776?!?
 </marginal>
 
 <marginal letter="459" page="213" line="19">
 <bzg>Stockmar</bzg> <link ref="stockmar" linktext="true" /> 
 </marginal>
 
-<marginal letter="459" page="213" line="23">
-<bzg>Vetter Nabal</bzg> <link ref="hamann" subref="hamann-zweifel" linktext="true" /> 
+<marginal letter="459" page="213" line="23" sort="1">
+<bzg>alten Schuld</bzg> <link ref="hamann" subref="hamann-zweifel" linktext="true" /> 
+</marginal>
+
+<marginal letter="459" page="213" line="23" sort="2">
+<bzg>Vetter Nabal</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="459" page="213" line="24" sort="1">
@@ -57443,23 +57462,19 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="213" line="24" sort="2">
-<bzg>Αμην αμην der Abbtschen Correspondentz</bzg> vgl. <intlink letter="449" page="189" line="2" linktext="true" />. Hamann zitiert sich selbt, vgl. <intlink letter="224" page="142" line="15" linktext="true"/>; dieser Brief an <link ref="mendelssohn" linktext="false">Mendelssohn</link>, HKB 224, war in <link ref="abbt" subref="abbt-correspondenz" linktext="true" /> (S.83) publiziert worden. 
+<bzg>Αμην αμην der Abbtschen Correspondentz</bzg> Hamann zitiert sich selbt, vgl. <intlink letter="224" page="142" line="15" linktext="true"/>; dieser Brief an <link ref="mendelssohn" linktext="false">Mendelssohn</link>, wurde in <link ref="abbt" subref="abbt-correspondenz" linktext="true" />, S.&#x202F;83 publiziert; vgl. auch <intlink letter="449" page="189" line="2" linktext="true" />
 </marginal>
 
 <marginal letter="459" page="213" line="26">
-<bzg>Bileam</bzg> <link ref="at-mo4" subref="at-mo4-24" linktext="false">4 Mo 24,15ff. </link>
+<bzg>Bileam …</bzg> <link ref="at-mo4" subref="at-mo4-24" linktext="false">4 Mo 24,15–23 </link>
 </marginal>
 
 <marginal letter="459" page="213" line="27">
-<bzg>Orlando furioso</bzg> zweites Motto auf dem Titelblatt von <link ref="hamann" subref="hamann-zweifel" linktext="true" />, N III, S.171; <link ref="ariost" subref="ariost-orlando" linktext="true" />, 52. Stanze des 1. Gesangs: „E fuor di quel cespuglio oscuro e cieco / Fa di se bella ed improvisa mostra, / Come de selva o fuor d’ombroso speco / Diana in scena o Citherea si mostra“.
+<bzg>Orlando furioso</bzg> Das Titelmotto von <link ref="hamann" subref="hamann-zweifel" linktext="true" />, ED, S.&#x202F;1 aus <link ref="ariost" subref="ariost-orlando" linktext="true" />, 52. Stanze des 1. Gesangs: „E fuor di quel cespuglio oscuro e cieco / Fa di se bella ed improvisa mostra, / Come de selva o fuor d’ombroso speco / Diana in scena o Citherea si mostra“.
 </marginal>
 
 <marginal letter="459" page="213" line="29">
-<bzg>büffonschen Ideen über den Styl</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="false">Königsbergsche Gelehrte und Politische Zeitungen</link>, Beylage zum 6. bis 10. Stück vom 18. Jänner bis 1. Februar 1776; siehe N IV, S.419–425
-</marginal>
-
-<marginal letter="459" page="213" line="30">
-<bzg>Anmerkungen über den Anti Styl</bzg> <link ref="hamann" subref="hamann-stil" linktext="true" />
+<bzg>büffonschen Ideen über den Styl …</bzg> <link ref="hamann" subref="hamann-stil" linktext="true" />; am nächsten Tag (1. Februar 1776) wird die letzte Beilage in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> erscheinen.
 </marginal>
 
 <marginal letter="459" page="213" line="33">
@@ -57467,35 +57482,39 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="213" line="35">
-<bzg>Freund Hayn</bzg> der Werbetext für <link ref="claudius" subref="claudius-werke" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" /> (39. Stück, 10. März 1775), N IV, S.386ff.
+<bzg>Freund Hayn</bzg> <link ref="hamann" subref="hamann-freundhain" linktext="true" />
 </marginal>
  
-<marginal letter="459" page="213" line="36">
-<bzg>8 Beyl.</bzg> ebd., siehe N IV, S.386–418
+<marginal letter="459" page="213" line="36" sort="1">
+<bzg>8 Beyl.</bzg> in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, siehe N&#x202F;IV, S.&#x202F;386–418
 </marginal>
 
-<marginal letter="459" page="213" line="36">
-<bzg>Erziehung</bzg> <link ref="noesselt" subref="noesselt-erziehung" linktext="true" /> (Rezension im 101. Stück, 18. Dezember 1775), N IV, S.417
+<marginal letter="459" page="213" line="36" sort="2">
+<bzg>Erziehung</bzg> Hamanns Rezension von <link ref="noesselt" subref="noesselt-erziehung" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, 101. Stück, 18. Dezember 1775 (N&#x202F;IV, S.&#x202F;417)
 </marginal>
  
-<marginal letter="459" page="213" line="36">
-<bzg>Ehe betreffend</bzg> Selbstanzeige von <link ref="hamann" subref="hamann-ehe" linktext="true" /> (im 101. Stück, 18. Dezember 1775), N IV, S.418
+<marginal letter="459" page="213" line="37" sort="1">
+<bzg>Ehe betreffend</bzg> die Selbstrezension von <link ref="hamann" subref="hamann-ehe" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, St.&#x202F;101, 18.12.1775 (N&#x202F;IV, S.&#x202F;418)
 </marginal>
 
-<marginal letter="459" page="213" line="37">
-<bzg>zwey da u die dritte</bzg> zu Buffon s.o.; außerdem ein Artikel und eine Beylage zu <link ref="bertuch" linktext="false">Bertuchs</link> Übersetzung von <link ref="cervantes" subref="cervantes-donquijote" linktext="true" /> (im 19. Stück, 4. März 1776, N IV, S.426–431)
+<marginal letter="459" page="213" line="37" sort="2">
+<bzg>zwey da u die dritte</bzg> Die zwei meint wohl die bereits erschienenen Beilagen mit <link ref="hamann" subref="hamann-stil" linktext="true" />, die dritte die im Entstehen begriffene dritte Beilage damit; es könnten auch der Artikel und die Beilage zu <link ref="bertuch" linktext="false">Bertuchs</link> <link ref="cervantes" subref="cervantes-donquijote" linktext="false"><titel>Don Quijote</titel>-Übersetzung</link> gemeint sein (diese erscheinen in St.&#x202F;19., 4.3.1776, N&#x202F;IV, S.&#x202F;426–431).
 </marginal>
 
 <marginal letter="459" page="214" line="2">
-<bzg>Programm ... G. R.</bzg> zu <link ref="klopstock" subref="klopstock-gelehrtenrepublik" linktext="true" /> (Beylage zum 93. Stück. 20. November 1775), N IV, S.409–412
+<bzg>Programm ... G. R.</bzg> <titel>Fragment eines Programm’s oder Zuruff von der Eule</titel>, zu <link ref="klopstock" subref="klopstock-gelehrtenrepublik" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, Beilage zu St.&#x202F;93, 20.11.1775 (N&#x202F;IV, S.&#x202F;409–412)
 </marginal>
 
 <marginal letter="459" page="214" line="4">
 <bzg>Plan</bzg> vmtl. <link ref="hamann" subref="hamann-zweifel" linktext="true" />
 </marginal>
 
+<marginal letter="459" page="214" line="4">
+<bzg>the cursed country</bzg> Hintergrund nicht ermittelt
+</marginal>
+
 <marginal letter="459" page="214" line="10">
-<bzg>Weib … Mohrenkopf</bzg> <link ref="herder-c" linktext="true" />; <link ref="herder-g" linktext="true" /> 
+<bzg>Weib … Mohrenkopf</bzg> <link ref="herder-c" linktext="true" /> und <link ref="herder-g" linktext="true" /> 
 </marginal>
 
 <marginal letter="459" page="214" line="11" sort="1">
@@ -57539,11 +57558,11 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="214" line="31">
-<bzg>Hartmanns Recension Ihrer Briefe</bzg> <link ref="hartmann-gd" linktext="true" /> rezensierte <link ref="herder" subref="herder-prediger" linktext="true" /> und <link ref="herder" subref="herder-briefebruder" linktext="true" /> in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.5, 1775, S.132 und 154.
+<bzg>Hartmanns Recension Ihrer Briefe</bzg> <link ref="hartmann-gd" linktext="true" /> rezensierte <link ref="herder" subref="herder-prediger" linktext="true" /> und <link ref="herder" subref="herder-briefebruder" linktext="true" /> in <link ref="allgemeine-theologische-bib" linktext="true" />, Bd.&#x202F;5, 1775, S.&#x202F;132–135 und 154–168.
 </marginal>
 
 <marginal letter="459" page="214" line="34">
-<bzg>Herrn Wgs</bzg> Nach dem Tod Gottlob David Hartmanns 1775 gewährte <link ref="biron-p" linktext="true" /> dessen Vater eine Pension; der Brief, in dem der Herzog dies ankündigt, wurde publiziert, bspw. in <titel>Teutsche Chronik</titel>, 3. Jahrgang, Stück 1, 1. Januar 1776, S.6f.
+<bzg>Herrn Wgs</bzg> Vmtl. ist <link ref="biron-p" linktext="true" /> gemeint, der nach dem Tod Gottlob David Hartmanns im November 1775 dessen Vater eine Pension gewährte; der Brief, in dem der Herzog dies ankündigt, wurde publiziert, bspw. in <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10611625-6"><titel>Teutsche Chronik</titel></wwwlink>, Jg.&#x202F;3, St.&#x202F;1, 1.1.1776, S.&#x202F;6f.
 </marginal>
 
 <marginal letter="459" page="214" line="35">
@@ -57551,7 +57570,7 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="214" line="36">
-<bzg>G R. v Ziegenhorn in Hintzens</bzg> <link ref="ziegenhorn" linktext="true" />, <link ref="hinz" linktext="true" /> 
+<bzg>G R. v Ziegenhorn in Hintzens</bzg> Gerichtsrat <link ref="ziegenhorn" linktext="true" />; <link ref="hinz" linktext="true" /> 
 </marginal>
 
 <marginal letter="459" page="214" line="37" sort="1">

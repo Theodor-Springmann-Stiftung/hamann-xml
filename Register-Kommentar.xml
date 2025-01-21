@@ -400,11 +400,11 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 
 <kommentar id="ariost" type="neuzeit">
 <lemma>Ludovico Ariosto</lemma>
-<eintrag>1474–1533. Ital. Renaissance-Dichter</eintrag>
+<eintrag>1474–1533. Ital. Renaissance-Dichter.</eintrag>
 <subsection id="ariost-orlando" type="neuzeit">
 <lemma>Ariost, <titel>Orlando furioso</titel></lemma>
 <eintrag>
-<titel>Orlando furioso</titel> (Venedig 1554) [Biga&#x202F;132/39: „Orlando furioso de M. Ludovico Ariosto, Ven. 554. c. fig.“].</eintrag>
+<titel>Orlando furioso</titel> (Venedig 1554) [Biga&#x202F;132/39: „Orlando furioso de M. Ludovico Ariosto, Ven. 554. c. fig.“]. <wwwlink address="https://books.google.de/books?id=2-NoAAAAcAA">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -1277,7 +1277,7 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
  
 <kommentar id="bertuch" type="neuzeit">
 <lemma>Friedrich Johann Justin Bertuch</lemma>
-<eintrag>1747–1822. 1775- 96 Geh.- Sekretär und Schatullverwalter von Herzog Carl August von Sachsen-Weimar. Übersetzer des <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118510169.html#ndbcontent">Schreinert, Kurt: Bertuch, Friedrich Justin, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;171–173</wwwlink>.
+<eintrag>1747–1822. 1775–1796 Geheimer Sekretär und Schatullverwalter von Herzog Carl August von Sachsen-Weimar. Übersetzer des <link ref="cervantes" subref="cervantes-donquijote" linktext="false"><titel>Don Quijote</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118510169.html#ndbcontent">Schreinert, Kurt: Bertuch, Friedrich Justin, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;171–173</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -1681,7 +1681,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
  <subsection id="boie-museum" type="neuzeit" sort="20">
 <lemma><titel>Deutsches Museum</titel></lemma>
 <eintrag>
-Zus. mit <titel>Deutsches Museum</titel>  (Leipzig 1776–1788). Digitalisate: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1923976/">Universitätsbibliothek Bielefeld</wwwlink>
+<titel>Deutsches Museum</titel> (Leipzig 1776–1788). Bis 1778 gemeinsam herausgegeben mit <link ref="dohm-cw" linktext="true" />. Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1923976/">Universitätsbibliothek Bielefeld</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -2564,7 +2564,7 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <eintrag>
 <titel>Vida y Hechos del ingenioso Hidalgo Don Quixote de la Mancha, compuesta por Miguèl de Cervantes Saavedra</titel>, 4 Bde (Den Haag 1744) [Biga 164/560: „Vida y Hechos del ingenioso Hidalgo Don Quixote de la Mancha, compuesta por Miguel de Cervantes Saavedra, Tom. I–IV. Haia 744. mit Kupf.“]. Digitalisat: <wwwlink address="http://bdh.bne.es/bnesearch/detalle/bdh0000022647">Biblioteca Digital Hispánica: R/32262 V.1–jR/32265 V.4</wwwlink>.<line type="break" />
 Übers.: <titel>Des berühmten Ritters Don Quixote von Mancha lustige und sinnreiche Geschichte, abgefasset von Migvel Cervantes Saavedra</titel> (2 Bde., 2. Aufl., Leipzig 1753) [Biga 149/331: „Geschichte des Don Quixote, 1. 2. Th. Leipz. 753“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10607210-9">BSB München: P.o.hisp. 63 q-1</wwwlink>.<line type="break" />
-Übers.: <titel>Leben und Thaten des weisen Junkers Don Quixote von Mancha. Neue Ausgabe, aus der Urschrifft des Cervantes, nebst der Fortsetzung des Avellaneda</titel>, übers. von <link ref="bertuch" linktext="true" /> (6 Bde., Weimar, Leipzig 1775–1777). Digitalisate: <wwwlink address="https://opendata.uni-halle.de/handle/1981185920/83307">ULB Halle: Dk 1265 d</wwwlink>. Diese Übersetzung wurde von Hamanns rezensiert in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, St.19, 4.3.1776 (Beylage), siehe N IV, S.426–427.
+Übers.: <titel>Leben und Thaten des weisen Junkers Don Quixote von Mancha. Neue Ausgabe, aus der Urschrifft des Cervantes, nebst der Fortsetzung des Avellaneda</titel>, übers. von <link ref="bertuch" linktext="true" /> (6 Bde., Weimar, Leipzig 1775–1777). Digitalisate: <wwwlink address="https://opendata.uni-halle.de/handle/1981185920/83307">ULB Halle: Dk 1265 d</wwwlink>. Diese Übersetzung wurde von Hamanns rezensiert in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beylage zu St.&#x202F;19, 4.3.1776, siehe N&#x202F;IV, S.&#x202F;426–427.
 </eintrag>
 </subsection>
 </kommentar>
@@ -3709,6 +3709,11 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 <kommentar id="dohna" type="neuzeit">
 <lemma>Friedrich Ludwig Dohna</lemma>
 <eintrag>1697&#x202F;1766. Graf auf Reichertswalde.</eintrag>
+</kommentar>
+
+<kommentar id="dohm-cw" type="neuzeit">
+<lemma>Christian Konrad Wilhelm von Dohm</lemma>
+<eintrag>1751&#x202F;1820. Geheimer Archiv- und Kriegsrat in Berlin sowie Gesandter in Köln, später bekannt für seine Schriften zur Judenemanzipation, siehe <wwwlink address="https://d-nb.info/gnd/118680145">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="domat" type="neuzeit">
@@ -6269,9 +6274,9 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;171–196.
 </eintrag>
 </subsection>
  <subsection id="hamann-stil" type="neuzeit" sort="682">
-<lemma>Hamann, <titel>Über den Styl</titel></lemma>
+<lemma>Hamann, <titel>Ueber den Styl</titel></lemma>
 <eintrag>
-<titel>Über den Styl</titel>. Kommentierende Übersetzung von <link ref="buffon" subref="buffon-stil" linktext="true" />. Erstdruck in: <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beilagen zum 6., 8. und 10. Stück, 18. Januar bis 1. Februar 1776.<line type="break" />
+<titel>Ueber den Styl</titel>. Kommentierende Übersetzung von <link ref="buffon" subref="buffon-stil" linktext="true" />. Erstdruck in: <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beilagen zum 6., 8. und 10. Stück, 18. Januar bis 1. Februar 1776.<line type="break" />
 Zweitdruck in <link ref="boie" subref="boie-museum" linktext="true" />, Leipzig 1778, Bd.&#x202F;2, S.&#x202F;254–268.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;419–425.
 </eintrag>
@@ -14862,6 +14867,11 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <eintrag>Lebensdaten nicht ermittelt. Generalmajor.</eintrag>
 </kommentar>
 
+<kommentar id="stolberg" type="neuzeit">
+<lemma>Friedrich Leopold Graf zu Stolberg</lemma>
+<eintrag>1750–1819. Dichter und Politiker; Mitglied des Göttinger Hains, 1776–1781 Gesandter des Herzogs von Oldenburg und Fürstbischofs von Lübeck am dänischen Hof, 1789–1791 dänischer Gesandter in Berlin, Amtmann zu Neuenburg/Oldenburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118755552.html#ndbcontent">Hempel, Dirk: Stolberg-Stolberg, Friedrich Leopold Graf zu, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;407–409.</eintrag>
+</kommentar>
+
 <kommentar id="stoltz-c" type="neuzeit">
 <lemma>Caroline Stoltz</lemma>
 <eintrag>1751–1792. Freundin von Elisa v. d. Recke</eintrag>
@@ -16862,8 +16872,8 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 </kommentar>
  
  <kommentar id="ziegenhorn" type="neuzeit">
-<lemma>Christoph Georg  Ziegenhorn</lemma>
-<eintrag>1714–1783. Justizrat in Königsberg.
+<lemma>Christoph Georg von Ziegenhorn</lemma>
+<eintrag>1714–1783. Justizrat in Königsberg, siehe <wwwlink address="https://bbld.de/0000000050515548">BBLd</wwwlink>..
 </eintrag>
 </kommentar>
 
