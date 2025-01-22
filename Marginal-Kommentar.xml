@@ -51975,7 +51975,7 @@ Brief Nr. 421
 </marginal>
 
 <marginal letter="421" page="126" line="24" sort="1">
-<bzg>ss 4to</bzg> seines quarto, d. i. <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> 
+<bzg>ss 4to</bzg> seines Quarto, d. i. <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> 
 </marginal>
 
 <marginal letter="421" page="126" line="24" sort="2">
@@ -56890,7 +56890,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="204" line="33">
-<bzg>Tichten und Trachten</bzg> vgl. <link ref="at-mo1" subref="at-mo1-6" linktext="false">1 Mo 6,5</link> 
+<bzg>einziges Tichten und Trachten …</bzg> vgl. <link ref="at-mo1" subref="at-mo1-6" linktext="false">1 Mo 6,5</link>; bezieht sich wohl auf Vorgedanken zu <link ref="hamann" subref="hamann-zweifel" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="204" line="34">
@@ -57665,63 +57665,67 @@ Brief Nr. 459
 Brief Nr. 460
 
 <marginal letter="460" page="216" line="11">
-    <bzg>a. p.</bzg> anno passim, dt. vergangenes Jahr; Brief nicht ermittelt 
-   </marginal>
+<bzg>a. p.</bzg> anno praeterito, letztes Jahr; Brief nicht überliefert 
+</marginal>
 
-   <marginal letter="460" page="216" line="15">
-    <bzg>Geburts</bzg> gemeint ist: <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />
-   </marginal>
+<marginal letter="460" page="216" line="11">
+<bzg>gefährlich krank</bzg> vgl. <intlink letter="459" page="212" line="15" linktext="true" />
+</marginal>
 
-   <marginal letter="460" page="216" line="17">
-    <bzg>Gevatter</bzg> <link ref="claudius" linktext="true" /> 
-   </marginal>
+<marginal letter="460" page="216" line="15">
+<bzg>Geburts Schmerzen glücklich überstanden</bzg> Gemeint ist, dass die Niederschrift <link ref="hamann" subref="hamann-zweifel" linktext="true" /> beendet hat.
+</marginal>
 
-   <marginal letter="460" page="216" line="19">
-    <bzg>allgemeinen deutschen Bibliothek</bzg> vgl <intlink letter="455" page="204" line="33" linktext="true" />
-   </marginal>
+ <marginal letter="460" page="216" line="17">
+<bzg>Gevatter zu bitten</bzg> als Verleger seiner neuesten Schrift zu gewinnen
+</marginal>
 
-   <marginal letter="460" page="216" line="21">
-    <bzg>cecidere patriae manus</bzg> dt. zweimal sank dem Vater die Hand (Verg. Aen. VI,33)
-   </marginal>
+<marginal letter="460" page="216" line="19">
+<bzg>allgemeinen deutschen Bibliothek</bzg> die Rezension in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.&#x202F;24/1, S.&#x202F;287–296, vgl. <intlink letter="455" page="204" line="33" linktext="true" />
+</marginal>
 
-   <marginal letter="460" page="216" line="26" sort="1">
-    <bzg>Philologische Zweifel und Einfälle</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />
-   </marginal>
+<marginal letter="460" page="216" line="21">
+<bzg>cecidere patriae manus</bzg> dt. zweimal sank dem Vater die Hand (<link ref="vergil" subref="vergil-aeneis" linktext="true" /> VI,33)
+</marginal>
 
-   <marginal letter="460" page="216" line="26" sort="2">
-    <bzg>Federic d’or</bzg> Frz. Goldmünze, entspricht ca. 5 Talern bzw. 9 Gulden. oder Friedrich d’or, Goldmünze benannt nach <link ref="friedrich-II" linktext="true" />; entspricht 5 Reichstalern (eine im ganzen dt-sprachigen Raum übliche Silbermünze).
-   </marginal>
+<marginal letter="460" page="216" line="26" sort="1">
+<bzg>Philologische Zweifel und Einfälle</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />
+</marginal>
 
-   <marginal letter="460" page="216" line="27">
-    <bzg>Asthetische Zweifel  …</bzg> ?!?
-   </marginal>
+<marginal letter="460" page="216" line="26" sort="2">
+<bzg>Federic d’or</bzg> Frz. Goldmünze, entspricht ca. 5 Talern bzw. 9 Gulden. oder Friedrich d’or, Goldmünze benannt nach <link ref="friedrich-II" linktext="true" />; entspricht 5 Reichstalern (eine im ganzen dt-sprachigen Raum übliche Silbermünze).
+</marginal>
 
-   <marginal letter="460" page="216" line="29">
-    <bzg>Winkelmannschen</bzg> ?!?
-   </marginal>
+<marginal letter="460" page="216" line="27">
+<bzg>Asthetische Zweifel  …</bzg> <link ref="hamann" subref="hamann-zweifel" linktext="true" />; im Redaktionsprozess strich Hamann offenbar später das „Asthetische“ am Anfang des Titels.
+</marginal>
 
-   <marginal letter="460" page="216" line="31">
-    <bzg>Hiob XXIX. 20</bzg> <link ref="at-hi" subref="at-hi29" linktext="false">Hi 29,20</link> 
-   </marginal>
+<marginal letter="460" page="216" line="29">
+<bzg>Winkelmannschen Format</bzg> <link ref="winckelmann" linktext="false">Winckelmanns</link> Schriften wurden zu Lebzeiten normalerweise in Quarto gedruckt.
+</marginal>
 
-   <marginal letter="460" page="217" line="10">
-    <bzg>HErder</bzg> <link ref="herder" linktext="true" />
-   </marginal>
+<marginal letter="460" page="216" line="31">
+<bzg>Hiob XXIX. 20</bzg> <link ref="at-hi" subref="at-hi29" linktext="false">Hi 29,20</link> 
+</marginal>
 
-   <marginal letter="460" page="217" line="11">
-    <bzg>p.</bzg> praecedentis; dt. vorausgehend
-   </marginal>
+<marginal letter="460" page="217" line="10">
+<bzg>HErder</bzg> <link ref="herder" linktext="true" />
+</marginal>
 
-   <marginal letter="460" page="217" line="21">
-    <bzg>Vale</bzg> dt. Leb wohl
-   </marginal>
+<marginal letter="460" page="217" line="11">
+<bzg>p.</bzg> praeterito, im vorhergehenden Monat, <intlink letter="459" page="211" line="29" linktext="true" />
+</marginal>
 
-   <marginal letter="460" page="217" line="22">
-    <bzg>Erleut Pr</bzg> <link ref="lilienthal-m" subref="erl-preussen" linktext="true" /> 
-   </marginal>
+<marginal letter="460" page="217" line="21">
+<bzg>Vale</bzg> dt. Leb wohl
+</marginal>
+
+<marginal letter="460" page="217" line="22">
+<bzg>Erleut Pr</bzg> <link ref="lilienthal-m" subref="erl-preussen" linktext="true" /> 
+</marginal>
 
 
-   Brief Nr. 460
+Brief Nr. 460
 
    <marginal letter="461" page="217" line="25" sort="1">
     <bzg>Dom. Reminiscere</bzg> Fastensonntag
