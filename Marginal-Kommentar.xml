@@ -56249,7 +56249,7 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="193" line="25">
-<bzg>Vorfall zu Würtzburg</bzg> vgl. zu <intlink letter="452" page="195" line="27" linktext="true" />
+<bzg>Vorfall zu Würtzburg</bzg> vgl. zu <intlink letter="452" page="195" line="28" linktext="true" />
 </marginal>
 
 <marginal letter="452" page="193" line="26">
@@ -56373,7 +56373,7 @@ Brief Nr. 452
 </marginal>
 
 <marginal letter="452" page="195" line="28" sort="2">
-<bzg>Anecdoten von M. Paentzel</bzg> <link ref="penzel" linktext="true" /> war 1774 in Würzburg vom Calvinismus zum Katholizismus konvertiert, um sich an seinem Vater, einem reformierten Pfarrer, zu rächen. Ende 1774 musste er Würzburg wieder verlassen, wegen Liebschaften, Schulden und vmtl. eines Duells; im Winter 1774/1775 in Wertheim am Main ins Königsberger Regiment Alt-Stutterheim eingetreten; April 1775 Ankunft in Königsberg. 
+<bzg>Anecdoten von M. Paentzel</bzg> <link ref="penzel" linktext="true" /> war 1774 in Würzburg vom Calvinismus zum Katholizismus konvertiert, um sich an seinem Vater, einem reformierten Pfarrer, zu rächen. Ende 1774 musste er Würzburg wieder verlassen, wegen Liebschaften, Schulden und dergleichen; im Winter 1774/1775 in Wertheim am Main ins Königsberger Regiment Alt-Stutterheim eingetreten; April 1775 Ankunft in Königsberg. 
 </marginal>
 
 <marginal letter="452" page="195" line="29">
@@ -57441,8 +57441,12 @@ Brief Nr. 459
 <bzg>Bertuchs Uebersetzung</bzg> <link ref="bertuch" linktext="true" />, Übersetzer von <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />
 </marginal>
 
-<marginal letter="459" page="213" line="18">
-<bzg>Pentzel … Weihgesang</bzg> <link ref="penzel" linktext="true" />: <titel>Sieh mit Börnstein und Kadigbeeren (Weihgesang der Götting Laima)</titel>, in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 4.&#x202F;St. 1776?!?
+<marginal letter="459" page="213" line="18" sort="1">
+<bzg>Schwieger Sohn Pentzel</bzg> <link ref="penzel" linktext="true" />, „Schwieger Sohn“ wohl wegen seiner Zuneigung zu der dreijährigen <link ref="hamann-er" linktext="true" />, vgl. <intlink letter="477" page="278" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="459" page="213" line="18" sort="1">
+<bzg>Weihgesang</bzg> Penzels <titel>Sieh mit Börnstein und Kadigbeeren (Weihgesang der Götting Laima)</titel>, in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 4.&#x202F;St. 1776?!?
 </marginal>
 
 <marginal letter="459" page="213" line="19">
@@ -57747,7 +57751,7 @@ Brief Nr. 461
 <bzg>Anwerbung</bzg> durch preußische Soldatenwerber in Würzburg, vgl. <intlink letter="452" page="193" line="26" linktext="true" />
 </marginal>
 
-   <marginal letter="461" page="218" line="2" sort="1">
+   <marginal letter="461" page="218" line="2" sort="2">
     <bzg>König</bzg> <link ref="friedrich-II" linktext="true" />
    </marginal>
 
@@ -57764,10 +57768,22 @@ Brief Nr. 461
    </marginal>
 
    <marginal letter="461" page="218" line="11">
-    <bzg>Crichton</bzg> <link ref="crichton" linktext="true" /> 
+    <bzg>Crichton</bzg> <link ref="crichton" linktext="true" /> war 1762 als Leiter des reformierten Gymnasiums in Halle Penzels Lehrer; sie trafen sich in Königsberg wieder.
    </marginal>
 
-   <marginal letter="461" page="218" line="30">
+<marginal letter="461" page="218" line="15">
+<bzg>Anerbietungen eines andern Recrouten …</bzg> Man hat offenbar versucht, den 1,85&#x202F;m großen Penzel durch einen anderen großgewachsenen Rekruten auszutauschen.
+</marginal>
+
+<marginal letter="461" page="218" line="24">
+<bzg>Bernouilli</bzg> <link ref="bernoulli-j-iii" linktext="true" />
+</marginal>
+
+<marginal letter="461" page="218" line="30" sort="1">
+<bzg>P.</bzg> <link ref="penzel" linktext="false">Penzel</link>
+</marginal>
+
+   <marginal letter="461" page="218" line="30" sort="2">
     <bzg>Dom. V. p. Trinit.</bzg> 5. Sonntag nach Trinitatis
    </marginal>
 
@@ -57776,20 +57792,19 @@ Brief Nr. 461
    </marginal>
 
    <marginal letter="461" page="218" line="35">
-    <bzg>Schicksal in Würtzburg</bzg> vgl. <intlink letter="452" page="193" line="25" linktext="true" />
+    <bzg>Schicksal in Würtzburg</bzg> vgl. zu <intlink letter="452" page="195" line="28" linktext="true" />
    </marginal>
 
    <marginal letter="461" page="219" line="4">
-    <bzg>D. Büsching</bzg> <link ref="busching" linktext="true" />
+    <bzg>D. Büsching</bzg> <link ref="busching" linktext="true" />, als dem „berühmtesten Geographen Europens“ ist auch der biographische Abriss in der Vorrede von <link ref="strabon" subref="strabon-erdbeschreibung" linktext="false">Penzels Strabon-Übersetzung, Bd.&#x202F;1</link> gewidmet.
    </marginal>
 
    <marginal letter="461" page="219" line="5">
-    <bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />
+    <bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" /> Nicolai sollte <link ref="penzel" subref="penzel-gedichte" linktext="true" /> herausgeben. Er rezensierte die Gedichte in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.&#x202F;14/1 (1771), S.&#x202F;550–552. Auf der Leipziger Buchmesse 1770 lernten sie sich persönlich kennen.
    </marginal>
 
    <marginal letter="461" page="219" line="14">
-    <bzg>ingenium sine venia</bzg> keine Begabung ist jemals anerkannt worden ohne etwas hätte vergeben müssen
-    Quelle: öfter bei Seneca, siehe epist. 114,12
+    <bzg>ingenium sine venia</bzg> dt. keine Begabung ist jemals anerkannt worden ohne sich etwas hätte vergeben zu müssen; etwa bei <link ref="seneca" subref="seneca-epist" linktext="true" />, 114,12
    </marginal>
 
    <marginal letter="461" page="219" line="18">
@@ -57813,7 +57828,7 @@ Brief Nr. 461
    </marginal>
 
    <marginal letter="461" page="219" line="28">
-    <bzg>Agio von 10 Louis d’or</bzg> kaufmannssprachlich ‚Aufgeld‘;  Louis d’or; frz. Goldmünze, entspricht ca. 5 Talern bzw. 9 Gulden.
+    <bzg>Agio von 10 Louis d’or</bzg> kaufmannssprachlich ‚Aufgeld‘, wohl im Zusammenhang der Reisekosten, die Mendelssohn Hamann 1764 bei der Rückkehr vorgeschossen hat, vgl. <intlink letter="273" page="268" line="24" linktext="true" />;  Louis d’or; frz. Goldmünze, entspricht ca. 5 Talern bzw. 9 Gulden.
    </marginal>
 
    <marginal letter="461" page="219" line="30">
