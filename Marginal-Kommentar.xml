@@ -57725,7 +57725,7 @@ Brief Nr. 460
 </marginal>
 
 
-Brief Nr. 460
+Brief Nr. 461
 
    <marginal letter="461" page="217" line="25" sort="1">
     <bzg>Dom. Reminiscere</bzg> Fastensonntag
@@ -57735,28 +57735,36 @@ Brief Nr. 460
     <bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
    </marginal>
 
-   <marginal letter="461" page="217" line="33">
-    <bzg>Penzel</bzg> <link ref="penzel" linktext="true" />
+   <marginal letter="461" page="217" line="33" sort="1">
+    <bzg>Penzel</bzg> <link ref="penzel" linktext="true" />; vgl. auch Kreutzfelds Kommentar <intlink letter="461" page="220" line="3" linktext="false">unten</intlink>
    </marginal>
 
-   <marginal letter="461" page="218" line="2">
+<marginal letter="461" page="217" line="33" sort="2">
+<bzg>gutes Glück</bzg> vgl. <intlink letter="455" page="205" line="15" linktext="true" />
+</marginal>
+
+<marginal letter="461" page="218" line="2" sort="1">
+<bzg>Anwerbung</bzg> durch preußische Soldatenwerber in Würzburg, vgl. <intlink letter="452" page="193" line="26" linktext="true" />
+</marginal>
+
+   <marginal letter="461" page="218" line="2" sort="1">
     <bzg>König</bzg> <link ref="friedrich-II" linktext="true" />
    </marginal>
 
    <marginal letter="461" page="218" line="3">
-    <bzg>Bernouilli</bzg> Bernouilli, Jean (1710- 1790), Prof. der Eloquenz und Mathematik in Basel; sein Sohn: Bernouilli, Jean (1744- 1807), dessen Sohn, Mathematiker und Geograph, seit 1764 königl. preuß.
-    Astronom in Berlin,
+    <bzg>Bernouilli</bzg> <link ref="bernoulli-j-iii" linktext="true" />
    </marginal>
 
+<marginal letter="461" page="218" line="4">
+<bzg>in Basel</bzg> <link ref="bernoulli-j-ii" linktext="true" />
+</marginal>
+
    <marginal letter="461" page="218" line="8">
-    <bzg>Gouvern.</bzg> Stutternheim, Joachim Friedrich v. (1714- 1783), Generallieutenant, Gouverneur von Memel und
-    Pillau
+    <bzg>Gouvern.</bzg> <link ref="stutterheim" linktext="true" />
    </marginal>
 
    <marginal letter="461" page="218" line="11">
-    <bzg>Crichton</bzg> Crichton (Crichthon, Krichton), Wilhelm (1732- 1805), reformierter Hofprediger in Königsberg,
-    entwarf für die Burgschule die Instruktion, die die Philosophie anstelle der Theologie als Leitbild setzte;
-    übernahm Kanters Zeitung
+    <bzg>Crichton</bzg> <link ref="crichton" linktext="true" /> 
    </marginal>
 
    <marginal letter="461" page="218" line="30">
