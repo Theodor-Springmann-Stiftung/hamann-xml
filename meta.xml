@@ -7152,7 +7152,7 @@
       </letterDesc>
       <letterDesc letter="374">
         <date value="Königsberg, Sommer 1772" />
-        <sort value="1772-06-01" notBefore="1771-04-12" notAfter="1772-08-03" />
+        <sort value="1772-06-01" notBefore="1772-04-12" notAfter="1772-08-03" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
