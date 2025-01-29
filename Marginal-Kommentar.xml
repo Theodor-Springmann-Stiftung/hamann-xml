@@ -57438,7 +57438,7 @@ Brief Nr. 459
 <bzg>Schwieger Sohn Pentzel</bzg> <link ref="penzel" linktext="true" />, „Schwieger Sohn“ wohl wegen seiner Zuneigung zu der dreijährigen <link ref="hamann-er" linktext="true" />, vgl. <intlink letter="477" page="278" line="22" linktext="true" />
 </marginal>
 
-<marginal letter="459" page="213" line="18" sort="1">
+<marginal letter="459" page="213" line="18" sort="2">
 <bzg>Weihgesang</bzg> Penzels <titel>Sieh mit Börnstein und Kadigbeeren (Weihgesang der Götting Laima)</titel>, in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 4.&#x202F;St. 1776?!?
 </marginal>
 
@@ -57574,8 +57574,8 @@ Brief Nr. 459
 <bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" /> 
 </marginal>
 
-<marginal letter="459" page="214" line="37" sort="1">
-<bzg>nachher aus den Zeitungen</bzg> Wohl aus der Rubrik „Einpaßirte Fremde“, die einmal in der Woche in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> erschien (Jg. nicht überliefert)
+<marginal letter="459" page="215" line="1">
+<bzg>nachher aus den Zeitungen</bzg> wohl aus der Rubrik „Einpaßirte Fremde“, die einmal in der Woche in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> erschien (Jg. nicht überliefert)
 </marginal>
 
 <marginal letter="459" page="215" line="3">
@@ -57639,7 +57639,7 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="215" line="29" sort="2">
-<bzg>2te Aufgabe</bzg> Wohl die Preisaufgabe der Berliner Akademie; <link ref="eberhard-ja" linktext="true" /> erhielt 1776 für seine <link ref="" subref="" linktext="false"><titel>Allgemeine Theorie des Denkens und Empfindens</titel></link> den Preis.
+<bzg>2te Aufgabe</bzg> Wohl die Preisaufgabe der Berliner Akademie; <link ref="eberhard-ja" linktext="true" /> erhielt 1776 für seine <link ref="eberhard-ja" subref="eberhard-theorie" linktext="false"><titel>Allgemeine Theorie des Denkens und Empfindens</titel></link> den Preis.
 </marginal>
 
 <marginal letter="459" page="215" line="31">
@@ -57992,19 +57992,23 @@ Brief Nr. 463
 Brief Nr. 464
 
       <marginal letter="464" page="224" line="3">
-    <bzg>Freundes</bzg> <link ref="lindner-jg" linktext="true" />
+    <bzg>Freundes</bzg> <link ref="lindner-jg" linktext="true" />, der im Sterben lag; vgl. <intlink letter="463" page="223" line="16" linktext="true" />
    </marginal>
 
       <marginal letter="464" page="224" line="7">
-    <bzg>Strauchin</bzg> die jüngere Schwester; Witwe von Strauch, Bernhard Matthias (1741- 1776), evang. Theologe, Pfarrer an der Altroßgärtschen Kirche ?!?
+    <bzg>Strauchin</bzg> <link ref="strauch-j" linktext="true" />
    </marginal>
 
       <marginal letter="464" page="224" line="13">
     <bzg>HEn Brüder</bzg> <link ref="lindner-gi" linktext="true" /> und <link ref="lindner-jef" linktext="true" /> 
    </marginal>
 
+<marginal letter="464" page="224" line="17">
+<bzg>Bureau</bzg> bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
         <marginal letter="464" page="224" line="22">
-    <bzg>Pulver</bzg> vgl. <intlink letter="463" page="222" line="1" linktext="true" />
+    <bzg>Pulver</bzg> vgl. <intlink letter="463" page="222" line="2" linktext="true" />
    </marginal>
 
         <marginal letter="464" page="224" line="24">
@@ -58023,6 +58027,10 @@ Brief Nr. 464
     <bzg>Lauson</bzg> <link ref="lauson" linktext="true" /> 
    </marginal>
 
+<marginal letter="464" page="225" line="4">
+<bzg>Catalogum</bzg> Aus diesem Auftrag wird der <link ref="biga" linktext="true" /> entstehen.
+</marginal>
+
            <marginal letter="464" page="225" line="5">
     <bzg>Pentzel</bzg> <link ref="penzel" linktext="true" /> 
    </marginal>
@@ -58032,23 +58040,27 @@ Brief Nr. 464
    </marginal>
 
           <marginal letter="464" page="225" line="10">
-    <bzg>einheimisches Leiden</bzg> Krankheit seiner Frau <link ref="lindner-ha" linktext="true" /> 
+    <bzg>einheimisches Leiden</bzg> die Krankheit seiner Frau <link ref="lindner-ha" linktext="true" /> 
    </marginal>
 
              <marginal letter="464" page="225" line="17">
-    <bzg>Wenn mein Stündlein …</bzg> Lied von Nikolaus Hermann
+    <bzg>Wenn mein Stündlein …</bzg> Lied von <link ref="herman-n" linktext="true" />
    </marginal>
 
              <marginal letter="464" page="225" line="34">
     <bzg>eiteln Lebens</bzg> <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,2</link>
    </marginal>
 
+<marginal letter="464" page="226" line="5">
+<bzg>HE Bruder</bzg> <link ref="lindner-gi" linktext="true" />
+</marginal>
+
             <marginal letter="464" page="226" line="6">
     <bzg>Lotterie Direction</bzg> bei <link ref="kanter" linktext="true" />
    </marginal>
 
             <marginal letter="464" page="226" line="20">
-    <bzg>Zeitungen</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />
+    <bzg>Zeitungen</bzg> Der Nachruf für <link ref="lindner-jg" linktext="true" /> erschien in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 27.&#x202F;St. vom 1.4.1776.
    </marginal>
 
             <marginal letter="464" page="226" line="24">
