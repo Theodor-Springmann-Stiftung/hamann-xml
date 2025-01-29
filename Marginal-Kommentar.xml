@@ -58110,12 +58110,16 @@ Brief Nr. 465
    Brief Nr. 465a
 
              <marginal letter="465a" page="227" line="31">
-    <bzg>2ten Theil</bzg> vgl. <intlink letter="461" page="219" line="20" linktext="true" />
+    <bzg>2ten Theil</bzg> von <link ref="nicolai" subref="nicolai-nothanker" linktext="true" />, vgl. <intlink letter="461" page="219" line="20" linktext="true" />
    </marginal>
 
-             <marginal letter="465a" page="227" line="32">
+             <marginal letter="465a" page="227" line="32" sort="1">
     <bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
    </marginal>
+
+<marginal letter="465a" page="227" line="32" sort="2">
+<bzg>Palmen Sonntag</bzg> 31. März 1776; aus dem Brief an <intlink letter="461" page="219" line="20" linktext="false">Reichardt</intlink> wird ersichtlich, dass die Übergabe schon wesentlich früher stattfand; unklar, ob dem eine Verwechslung oder ein irgendwie taktisch geartetes Vorgehen zugrunde liegt.
+</marginal>
 
              <marginal letter="465a" page="228" line="4">
     <bzg>Dictionaire</bzg> <link ref="pesselier" subref="pesselier-finances" linktext="true" />  
@@ -58130,34 +58134,35 @@ Brief Nr. 465
    </marginal>
 
              <marginal letter="465a" page="228" line="8">
-    <bzg>Apologie</bzg> Dabei hatte H. 1772,
-anonym (Von einem Geistlichen in Schwaben) in der 1773 gedruckten Beylage zun
-Denkwürdigkeiten des seligen Sokrates, N III,111ff., eine hochironische Abfertigung
-von Eberhards Neuer Apologie geliefert hatte, auch N III,437.
+    <bzg>neue Auflage sr Apologie</bzg> <link ref="eberhard-ja" subref="eberhard-apologie" linktext="true" />, 2. Auflage 
    </marginal>
 
+<marginal letter="465a" page="228" line="9">
+<bzg>die erste weder besitze noch gelesen habe</bzg> Hamann kannte die 1. Auflage natürlich und hatte dagegen (anonym) in der <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="false"><titel>Beylage zun Denkwürdigkeiten des seligen Sokrates</titel></link> polemisiert.
+</marginal>
+
              <marginal letter="465a" page="228" line="10">
-    <bzg>abstemius</bzg> dt. enthaltsam, vgl. Hor. epist. 1,12,7
+    <bzg>abstemius</bzg> dt. enthaltsam, vgl. <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,12,7
    </marginal>
+
+<marginal letter="465a" page="228" line="11">
+<bzg>Versuchung des leidigen Fleisches und Blutes</bzg> im Zusammenhang der Katalogisierung und des angestrebten Verkaufs seiner Bücher im <link ref="hamann" subref="hamann-biga" linktext="true" />
+</marginal>
 
              <marginal letter="465a" page="228" line="14">
     <bzg>A. D. B.</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />
    </marginal>
 
              <marginal letter="465a" page="228" line="16">
-    <bzg>Campe</bzg> Campe, Johann Heinrich (1746- 1818), Pädagoge, Verleger, Mitbegründer und Leiter des Dessauer
-Philanthropins
+    <bzg>Campe</bzg> <link ref="campe-jh" linktext="true" />
    </marginal>
 
              <marginal letter="465a" page="228" line="17">
-    <bzg>Congreß der Philanthrophie</bzg> was Nicolai plante, ist nicht zu ermitteln;
-aber wenn H. sich nicht verschrieb, sondern das griechische Pi durch ein Phi ersetzte,
-wird aus der Menschenliebe eine Art Menschenfütterung, womit jener Congreß
-deutlich ironisiert wird.
+    <bzg>Congreß der Philanthrophie</bzg> Nicht ermittelt, auf welches Vorhaben Nikolais Hamann sich bezieht; die Falschschreibung „Philanthrophie“ könnte eine bewusste Wortmischung von ‚Philanthropie‘ (Menschenliebe) mit ‚Atrophie‘ (Auszehrung) sein.
    </marginal>
 
              <marginal letter="465a" page="228" line="18">
-    <bzg>Domestica</bzg> lokale Literaturproduktion
+    <bzg>Domestica und Litteraria</bzg> Häusliches und Litterarisches
    </marginal>
 
              <marginal letter="465a" page="228" line="19">
@@ -58165,7 +58170,7 @@ deutlich ironisiert wird.
    </marginal>
 
              <marginal letter="465a" page="228" line="20">
-    <bzg>Mündlich</bzg> evtl. Reiseplan, vgl. <intlink letter="461" page="219" line="25" linktext="true" /> u. <intlink letter="467" page="242" line="6" linktext="true" />
+    <bzg>Mündlich</bzg> spielt wohl auf einen (nicht ausgeführten) Reiseplan Hamanns an, vgl. <intlink letter="461" page="219" line="25" linktext="true" /> und <intlink letter="467" page="242" line="5" linktext="true" />
    </marginal>
 
 
