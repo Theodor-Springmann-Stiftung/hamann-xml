@@ -196,6 +196,34 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 </subsection>
 </kommentar>
 
+<kommentar id="ailhaud-j" type="neuzeit">
+<lemma>Jean d’Ailhaud</lemma>
+<eintrag>1675–1756. Frz. Arzt Scharlatan; Erfinder des Ailhaud’schen Pulvers, eines auf Skammonium basierenden Purgativs und Allheilmittels.</eintrag>
+<subsection id="ailhaud-traite" type="neuzeit" sort="10">
+<lemma>Ailhaud, <titel>Traité de l’origine des maladies</titel></lemma>
+<eintrag>
+<titel>Traité de l’origine des maladies et de l’usage de la poudre purgative</titel> (zuerst Paris 1740). – In vielen Auflagen gedruckt, die im Anhang eine zunehmende Flut von Dankesschreiben über die Wirkung des Allheilmittels druckte. Digitalisat (Avignon 1755): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10285125-5">BSB München:  M.med. 15#Beibd.1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="ailhaud-dictionnaire" type="neuzeit" sort="20">
+<lemma>Ailhaud, <titel>Dictionnaire abrégé des maladies guéries par le remède universel</titel></lemma>
+<eintrag>
+<titel>Dictionnaire abrégé des maladies guéries par le remède universel</titel> (Strasbourg 1769). – Vmtl. entweder geschrieben oder herausgegeben von <link ref="ailhaud-jg" linktext="true" />.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="ailhaud-jg" type="neuzeit">
+<lemma>Jean-Gaspard d’Ailhaud</lemma>
+<eintrag>Gest. 1800. Sohn von <link ref="ailhaud-j" linktext="true" />, führte das Werk seines Vaters fort.</eintrag>
+<subsection id="ailhaud-ami" type="neuzeit">
+<lemma>Ailhaud, <titel>L’ami des malades</titel></lemma>
+<eintrag>
+<titel>L’ami des malades ou Discours historique et apologétique sur la Poudre purgative de M. Ailhaud, depuis son origine jusqu’à présent</titel> (Carpentras 1770). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10285150-4">BSB München: M.med. 36 m</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="aischylos" type="neuzeit">
 <lemma>Aischylos</lemma>
 <eintrag>525/524&#x202F;v.&#x202F;Chr.&#x202F;–&#x202F;456/455&#x202F;v.&#x202F;Chr.</eintrag>
@@ -3114,7 +3142,7 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 
 <kommentar id="courtan-pj" type="neuzeit">
 <lemma>Pierre Jérémie Courtan</lemma>
-<eintrag>Bruder von <link ref="lindner-m" linktext="true" />.
+<eintrag>Bruder von <link ref="lindner-m" linktext="true" />, Ehemann von <link ref="courtan-sm" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -9678,7 +9706,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 </eintrag>
 <subsection id="linguet-cacomonade" type="neuzeit">
 <lemma>Linguet, <titel>La Cacomonade</titel></lemma>
-<titel>La Cacomonade.Histoire Politique et Morale. Traduite De l'Allemand du Docteur Pangloss, par le Docteur lui-même, depuis son retour de Constantinople</titel> (Cologne 1766). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1198851f"> Bibliothèque nationale de France, département Sciences et techniques: 8-TD43-317</wwwlink>.
+<eintrag><titel>La Cacomonade. Histoire Politique et Morale. Traduite de l’Allemand du Docteur Pangloss, par le Docteur lui-même, depuis son retour de Constantinople</titel> (Cologne 1766). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1198851f"> Bibliothèque nationale de France, département Sciences et techniques: 8-TD43-317</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -9781,7 +9809,6 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <eintrag>1750–1827. Miniaturmaler.</eintrag>
 </kommentar>
 
-
 <kommentar id="logau" type="neuzeit">
 <lemma>Friedrich v. Logau</lemma>
 <eintrag>1604–1655. Freiherr. <wwwlink address="https://www.deutsche-biographie.de/pnd11872889X.html#adbcontent">Eitner, Robert: Logau, Friedrich von, in: <titel>ADB</titel>&#x202F;19 (1884), S.&#x202F;107–110</wwwlink>.
@@ -9796,6 +9823,11 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <eintrag>
 <titel>Sinngedichte. 12 Bücher mit Anmerkungen über die Sprache des Dichters v. K. W. Ramler u. <link ref="lessing" linktext="false">G. E. Lessing</link></titel> (Leipzig: Weidmann 1759) [Biga&#x202F;162/520: „Fr. von Logau’s Sinngedichte, Leipz. 759“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="lombard" type="neuzeit">
+<lemma>Lombard</lemma>
+<eintrag>Lizent-Inspektor in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="lossius" type="neuzeit">
@@ -14926,6 +14958,16 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <titel>Stratonis Epigrammata</titel> gr., hg. von <link ref="klotz" linktext="false" /> (Altenburg: Officina Richteria 1764). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10234257-7">BSB München: -- A.gr.a. 2413</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="strauch-mb" type="neuzeit">
+<lemma>Matthias Bernhard Strauch</lemma>
+<eintrag>1741 bis um 1776, Pfarrer an der Altroßgärtschen Kirche und Ehemann von <link ref="strauch-j" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="strauch-j" type="neuzeit">
+<lemma>Justchen Strauch</lemma>
+<eintrag>Lebensdaten nicht ermittelt, geb. Lindner, wohl eine jüngere Schwester von <link ref="lindner-jg" linktext="true" />; Ehefrau von <link ref="strauch-mb" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="strimesius" type="neuzeit">

@@ -57665,12 +57665,12 @@ Brief Nr. 460
 <bzg>a. p.</bzg> anno praeterito, letztes Jahr; Brief nicht überliefert 
 </marginal>
 
-<marginal letter="460" page="216" line="11">
+<marginal letter="460" page="216" line="12">
 <bzg>gefährlich krank</bzg> vgl. <intlink letter="459" page="212" line="15" linktext="true" />
 </marginal>
 
 <marginal letter="460" page="216" line="15">
-<bzg>Geburts Schmerzen glücklich überstanden</bzg> Gemeint ist, dass die Niederschrift <link ref="hamann" subref="hamann-zweifel" linktext="true" /> beendet hat.
+<bzg>Geburts Schmerzen glücklich überstanden</bzg> Gemeint ist, dass er die Niederschrift der <link ref="hamann" subref="hamann-zweifel" linktext="false"><titel>Zweifel und Einfälle über eine Vermischte Nachricht</titel></link> beendet hat.
 </marginal>
 
  <marginal letter="460" page="216" line="17">
@@ -57718,7 +57718,7 @@ Brief Nr. 460
 </marginal>
 
 <marginal letter="460" page="217" line="22">
-<bzg>Erleut Pr</bzg> <link ref="lilienthal-m" subref="erl-preussen" linktext="true" /> 
+<bzg>Erleut Pr</bzg> <link ref="lilienthal-m" subref="erl-preussen" linktext="true" />, vgl. <intlink letter="462" page="220" line="26" linktext="true" /> 
 </marginal>
 
 
@@ -57793,7 +57793,7 @@ Brief Nr. 461
    </marginal>
 
    <marginal letter="461" page="219" line="5">
-    <bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" /> Nicolai sollte <link ref="penzel" subref="penzel-gedichte" linktext="true" /> herausgeben. Er rezensierte die Gedichte in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.&#x202F;14/1 (1771), S.&#x202F;550–552. Auf der Leipziger Buchmesse 1770 lernten sie sich persönlich kennen.
+    <bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" /> sollte <link ref="penzel" subref="penzel-gedichte" linktext="true" /> herausgeben. Er rezensierte die Gedichte in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.&#x202F;14/1 (1771), S.&#x202F;550–552. Auf der Leipziger Buchmesse 1770 lernten sie sich persönlich kennen.
    </marginal>
 
    <marginal letter="461" page="219" line="14">
@@ -57831,25 +57831,36 @@ Brief Nr. 461
 
 Brief Nr. 462
 
-   <marginal letter="462" page="220" line="24">
-    <bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />
+<marginal letter="462" page="220" line="22">
+<bzg>Nachrichten</bzg> nicht überliefert; zu Hartknochs Krankheit vgl. <intlink letter="462" page="220" line="24" linktext="true" />
+</marginal>
+
+<marginal letter="462" page="220" line="24">
+<bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />; er starb am 29. März 1776.
+</marginal>
+
+<marginal letter="462" page="220" line="25">
+<bzg>Waßersucht</bzg> vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Wassersucht 
+</marginal>
+
+   <marginal letter="462" page="220" line="26" sort="1">
+    <bzg>Erl. Pr.</bzg> <link ref="lilienthal-m" subref="erl-preussen" linktext="true" />, vgl. <intlink letter="460" page="217" line="22" linktext="true" />
    </marginal>
 
-   <marginal letter="462" page="220" line="26">
-    <bzg>Erl. Pr.</bzg> <link ref="lilienthal-m" subref="erl-preussen" linktext="true" /> 
-   </marginal>
+<marginal letter="462" page="220" line="26" sort="2">
+<bzg>kleine Unmündige</bzg> wohl die Tochter von <link ref="strauch-j" linktext="true" />
+</marginal>
 
    <marginal letter="462" page="220" line="27">
-    <bzg>Pf. Strauch</bzg> Bernhard Matthias Strauch (1741–1776), evang. Theologe, Pfarrer an der Altroßgärtschen Kirche; kleine Unmündige: wahrscheinlich die
-Tochter des verstorbenen Pfarrers Strauch und seiner Ehefrau, der jüngeren Schwester von <link ref="lindner-jg" linktext="true" />
+    <bzg>Pf. Strauch</bzg> <link ref="strauch-mb" linktext="true" />
    </marginal>
 
   <marginal letter="462" page="220" line="28" sort="1"> 
-    <bzg>Schwäger</bzg> Toussaints ?!?
+    <bzg>Schwäger</bzg> ein Bruder von <link ref="hartknoch-a" linktext="true" />, geb. Toussaint
    </marginal>
 
   <marginal letter="462" page="220" line="28" sort="2">
-    <bzg>Abschrift</bzg> Hvon <link ref="hamann" subref="hamann-hierophant" linktext="true" /> 
+    <bzg>Abschrift</bzg> Von <link ref="hamann" subref="hamann-hierophant" linktext="true" />; Hartknoch bat offenbar um ein Exemplar oder eine Abschrift, mglw. erwog er eine neue Auflage.
    </marginal>
 
  <marginal letter="462" page="220" line="29">
@@ -57880,11 +57891,15 @@ Tochter des verstorbenen Pfarrers Strauch und seiner Ehefrau, der jüngeren Schw
     <bzg>Bückeb.</bzg> Bückeburg; von <link ref="herder" linktext="true" />
    </marginal>
 
-   Brief Nr. 463
+Brief Nr. 463
 
 <marginal letter="463" page="221" line="16">
-    <bzg>HEn Bruder</bzg> <link ref="lindner-jg" linktext="true" />
+    <bzg>HEn Bruder</bzg> <link ref="lindner-jg" linktext="true" />, der schwer krank war und zwei Tage darauf, am 29. März sterben wird
    </marginal>
+
+<marginal letter="463" page="221" line="17">
+<bzg>Antwort</bzg> Johann Ehregott an Johann Gotthelf Lindner, nicht ermittelt
+</marginal>
 
  <marginal letter="463" page="221" line="21">
     <bzg>Doctor</bzg> nicht ermittelt
@@ -57894,20 +57909,24 @@ Tochter des verstorbenen Pfarrers Strauch und seiner Ehefrau, der jüngeren Schw
     <bzg>Blutsfreundin</bzg> nicht ermittelt
    </marginal>
 
+<marginal letter="463" page="221" line="24">
+<bzg>Einl.</bzg> Einlage, wohl beiligend in Johann Ehregott Lindners Brief aus Mitau, mit medizinischen Ratschlägen für seinen Bruder
+</marginal>
+
   <marginal letter="463" page="221" line="28">
-    <bzg>Louise</bzg> wohl Dienstmagd bei Lindner
+    <bzg>Louise</bzg> wohl eine Dienstmagd bei Lindner oder Pflegerin
    </marginal>
 
   <marginal letter="463" page="221" line="30">
     <bzg>Enkel</bzg> Fußgelenk
    </marginal>
 
-  <marginal letter="463" page="222" line="1">
-    <bzg>d'Ailhaud Pulver</bzg> Pulver auf Basis von Skammoniumharz, als Universalheilmitte gehandelt
+  <marginal letter="463" page="222" line="2">
+    <bzg>d’Ailhaud Pulver</bzg> Pulver auf Basis von Skammoniumharz, zunächst von dem Arzt und Scharlatan <link ref="ailhaud-j" linktext="true" /> vertrieben und später als Universalheilmittel gehandelt
    </marginal>
 
   <marginal letter="463" page="222" line="3">
-    <bzg>Lombard</bzg> Licent-Inspektor in Königsberg
+    <bzg>Lombard</bzg> <link ref="lombard" linktext="true" />
    </marginal>
 
   <marginal letter="463" page="222" line="4" sort="1">
@@ -57915,16 +57934,15 @@ Tochter des verstorbenen Pfarrers Strauch und seiner Ehefrau, der jüngeren Schw
    </marginal>
 
   <marginal letter="463" page="222" line="4" sort="2">
-    <bzg>Traité de l’Origine des Maladies</bzg> Ailhaud, Jean (gest. 1756) und Jean- Gaspard (gest. 1800), dessen Sohn, frz. Mediziner;Traité de l'origine des maladies et des efforts de la poudre purgative. Paris 1740.
+    <bzg>Traité de l’Origine des Maladies</bzg> <link ref="ailhaud-j" subref="ailhaud-traite" linktext="true" />
    </marginal>
 
      <marginal letter="463" page="222" line="5">
-    <bzg>Dictionnaire des maladies</bzg> ?!?
+    <bzg>Dictionnaire des maladies</bzg> <link ref="ailhaud-j" subref="ailhaud-dictionnaire" linktext="true" />
    </marginal>
 
      <marginal letter="463" page="222" line="6">
-    <bzg>Sohns L’ami des Malades</bzg> L'ami des malades, ou Discours historique et apologétique sur la poudre purgative de M. d'Ailhaud,
-depuis son origine jusquà présent. Paris 1770 [von J. G. d'Ailhaud].
+    <bzg>Sohns L’ami des Malades</bzg> <link ref="ailhaud-jg" subref="ailhaud-ami" linktext="true" />
    </marginal>
 
      <marginal letter="463" page="222" line="10">
@@ -57936,7 +57954,7 @@ depuis son origine jusquà présent. Paris 1770 [von J. G. d'Ailhaud].
    </marginal>
 
    <marginal letter="463" page="222" line="23">
-    <bzg>huj.</bzg> huius, d.i. diesen [Monats]
+    <bzg>huj.</bzg> huius, d.i. diesen Monats
    </marginal>
 
    <marginal letter="463" page="222" line="30">
@@ -57948,11 +57966,11 @@ depuis son origine jusquà présent. Paris 1770 [von J. G. d'Ailhaud].
    </marginal>
 
       <marginal letter="463" page="223" line="19">
-    <bzg>Lebenssatt</bzg> das letzte Wort des Buches Hiob (nach 1 Mo 25,8) ?!?
+    <bzg>Lebenssatt</bzg> vgl. <link ref="at-mo1" subref="at-mo1-25" linktext="false">1 Mo 25,8</link> und <link ref="at-hi" subref="at-hi42" linktext="false">Hi 42,17</link>
    </marginal>
 
       <marginal letter="463" page="223" line="21">
-    <bzg>Justchen</bzg> wohl die jüngere Schwester, die Witwe Strauch, vgl. <intlink letter="464" page="224" line="27" linktext="true" />
+    <bzg>Justchen</bzg> <link ref="strauch-j" linktext="true" />, vgl. <intlink letter="464" page="224" line="27" linktext="true" />
    </marginal>
 
       <marginal letter="463" page="223" line="23">
@@ -57960,7 +57978,7 @@ depuis son origine jusquà présent. Paris 1770 [von J. G. d'Ailhaud].
    </marginal>
 
       <marginal letter="463" page="223" line="27">
-    <bzg>Kanterschen</bzg> <link ref="kanter" linktext="true" />
+    <bzg>Kanterschen Buchladen</bzg> siehe <link ref="kanter" linktext="true" />
    </marginal>
 
       <marginal letter="463" page="223" line="29">
