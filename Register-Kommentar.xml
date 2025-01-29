@@ -1396,10 +1396,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 </subsection>
 </kommentar>
 
-<kommentar id="biga" type="neuzeit">
-<lemma>Biga bibliothecarum</lemma>
-<eintrag>Dt. zweispännige Bibliothek: Hamann bekam Ende März 1776 von dem sterbenden <link ref="lindner-jg" linktext="true" /> den Auftrag, dessen Bibliothek zu katalogisieren und zu verkaufen; seine eigene Bibliothek, die er aus Geld- und Raumnot meinte veräußern zu müssen, katalogisierte er aus Verbundenheit mit dem Verstorbenen und seinen Büchern zugleich mit, entschied sich aber letztlich gegen einen Verkauf der eigenen Bücher; vgl. ausführlicher <link ref="nad-j-1949b" linktext="false">Nadler: <titel>Zeuge des Corpus mysticum</titel>,</link> S.&#x202F;262–269. Der gemeinsame Katalog der Bibliotheken wurde 1776 gedruckt und kann als Überblick für Hamanns Lektüren dienen; siehe das Exemplar der <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235764">ULB Münster</wwwlink>, vgl. auch die Edition in N&#x202F;V,13–121.</eintrag>
-</kommentar>
+
 
 <kommentar id="bion" type="neuzeit">
 <lemma>Bion von Smyrna</lemma>
@@ -6329,7 +6326,7 @@ Zum Text und Hamanns Verhältnis zu <link ref="claudius" linktext="false">Claudi
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;171–196.
 </eintrag>
 </subsection>
- <subsection id="hamann-stil" type="neuzeit" sort="682">
+<subsection id="hamann-stil" type="neuzeit" sort="682">
 <lemma>Hamann, <titel>Ueber den Styl</titel></lemma>
 <eintrag>
 <titel>Ueber den Styl</titel>. Kommentierende Übersetzung von <link ref="buffon" subref="buffon-stil" linktext="true" />. Erstdruck in: <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beilagen zum 6., 8. und 10. Stück, 18. Januar bis 1. Februar 1776.<line type="break" />
@@ -6337,7 +6334,11 @@ Zweitdruck in <link ref="boie" subref="boie-museum" linktext="true" />, Leipzig 
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;419–425.
 </eintrag>
 </subsection>
- <subsection id="hamann-schuerze" type="neuzeit" sort="683">
+ <subsection id="hamann-biga" type="neuzeit" sort="683">
+<lemma><titel>Biga bibliothecarum</titel></lemma>
+<eintrag>Dt. zweispännige Bibliothek: Hamann bekam Ende März 1776 von dem sterbenden <link ref="lindner-jg" linktext="true" /> den Auftrag, dessen Bibliothek zu katalogisieren und zu verkaufen (gelegentlich assistiert von <link ref="lauson" linktext="false">Lauson</link> und <link ref="penzel" linktext="false">Penzel</link>). Hamanns eigene Bibliothek, die er aus Geld- und Raumnot meinte veräußern zu müssen, katalogisierte er aus Verbundenheit mit dem Verstorbenen und seinen Büchern zugleich mit, entschied sich aber letztlich gegen einen Verkauf der eigenen Bücher. Vgl. ausführlicher <link ref="nad-j-1949b" linktext="false">Nadler: <titel>Zeuge des Corpus mysticum</titel>,</link> S.&#x202F;262–269. Der gemeinsame Katalog der Bibliotheken wurde 1776 gedruckt und kann als Überblick für Hamanns Lektüren dienen; siehe das Exemplar der <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235764">ULB Münster</wwwlink>, vgl. auch die Edition in N&#x202F;V,13–121.</eintrag>
+</subsection>
+ <subsection id="hamann-schuerze" type="neuzeit" sort="684">
 <lemma>Hamann, <titel>Schürze von Feigenblättern</titel></lemma>
 <eintrag>
 <titel>Schürze von Feigenblättern</titel>. Ungedruckter Entwurf für eine Schrift ab Neujahr 1777, zur Druckgeschichte vgl. N&#xA0;III, S.&#x202F;451.<line type="break" />
@@ -15510,6 +15511,12 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <titel>La Vérité vengée en faveur de Saint Thomas par Saint Thomas même</titel> (1762). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10744201-8">BSB München: P.lat. 1947 dc</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="toussaint-f" type="neuzeit">
+<lemma>Frédéric Toussaint</lemma>
+<eintrag>1751–1809. Sohn von <link ref="toussaint-jc" linktext="true" /> und <link ref="toussaint-r" linktext="true" />, Kaufmann und Kommerzienrat in Königsberg.
+</eintrag>
 </kommentar>
 
 <kommentar id="toussaint-jc" type="neuzeit">

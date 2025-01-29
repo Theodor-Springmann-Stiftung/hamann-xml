@@ -57856,11 +57856,11 @@ Brief Nr. 462
    </marginal>
 
   <marginal letter="462" page="220" line="28" sort="1"> 
-    <bzg>Schwäger</bzg> ein Bruder von <link ref="hartknoch-a" linktext="true" />, geb. Toussaint
+    <bzg>Schwäger</bzg> ein Bruder von <link ref="hartknoch-a" linktext="true" />, geb. Toussaint, vmtl. <link ref="toussaint-f" linktext="true" />
    </marginal>
 
   <marginal letter="462" page="220" line="28" sort="2">
-    <bzg>Abschrift</bzg> Von <link ref="hamann" subref="hamann-hierophant" linktext="true" />; Hartknoch bat offenbar um ein Exemplar oder eine Abschrift, mglw. erwog er eine neue Auflage.
+    <bzg>Abschrift</bzg> vmtl. von <link ref="hamann" subref="hamann-hierophant" linktext="true" />; Hartknoch bat wohl um ein Exemplar oder eine Abschrift, mglw. erwog er eine neue Auflage.
    </marginal>
 
  <marginal letter="462" page="220" line="29">
@@ -58028,7 +58028,7 @@ Brief Nr. 464
    </marginal>
 
 <marginal letter="464" page="225" line="4">
-<bzg>Catalogum</bzg> Aus diesem Auftrag wird der <link ref="biga" linktext="true" /> entstehen.
+<bzg>Catalogum</bzg> Aus diesem Auftrag wird der <link ref="hamann-biga" linktext="true" /> entstehen.
 </marginal>
 
            <marginal letter="464" page="225" line="5">
@@ -58071,22 +58071,22 @@ Brief Nr. 464
 Brief Nr. 465
 
  <marginal letter="465" page="226" line="26">
-    <bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />
+    <bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />, vgl. <intlink letter="464" page="224" line="15" linktext="true" />
    </marginal>
 
+<marginal letter="465" page="226" line="26">
+<bzg>Nachrichten von Ihrer Beßerung</bzg> nicht überliefert, vgl. <intlink letter="462" page="220" line="22" linktext="true" />
+</marginal>
+
  <marginal letter="465" page="227" line="1">
-    <bzg>Claudius und Schmidlin … Hintz</bzg> <link ref="claudius" linktext="true" />, <link ref="schmidlin" linktext="true" />; <link ref="hinz" linktext="true" />
+    <bzg>Claudius und Schmidlin … Hintz</bzg> <link ref="claudius" linktext="true" />, <link ref="schmidlin" linktext="true" /> und <link ref="hinz" linktext="true" />
    </marginal>
 
  <marginal letter="465" page="227" line="2">
-    <bzg>Gevatter</bzg> <link ref="kanter" linktext="true" />
+    <bzg>Gevatter</bzg> wohl <link ref="claudius" linktext="true" />, noch in der Sache um den Vertrieb von <link ref="claudius" subref="claudius-werke" linktext="true" /> in Königsberg und Umgebung, vgl. <intlink letter="447" page="181" line="23" linktext="true" />
    </marginal>
 
-    <marginal letter="465" page="227" line="4" sort="1">
-    <bzg>Assmus</bzg> <link ref="claudius" subref="claudius-werke" linktext="true" />
-   </marginal>
-
-       <marginal letter="465" page="227" line="4" sort="2">
+       <marginal letter="465" page="227" line="5">
     <bzg>hier. Briefe</bzg> <link ref="hamann" subref="hamann-hierophant" linktext="true" />
    </marginal>
 
@@ -58099,7 +58099,7 @@ Brief Nr. 465
    </marginal>
 
           <marginal letter="465" page="227" line="21">
-    <bzg>Schwäger</bzg> Toussaint, Frédéric (1751- 1809), Kaufmann und Kommerzienrat und ?!?
+    <bzg>Schwäger</bzg> vmtl. <link ref="toussaint-f" linktext="true" />, vgl. <intlink letter="462" page="220" line="28" linktext="true" />
    </marginal> 
 
           <marginal letter="465" page="227" line="22">
