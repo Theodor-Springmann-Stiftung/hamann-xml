@@ -58177,7 +58177,7 @@ Brief Nr. 465
 Brief Nr. 466
 
 <marginal letter="466" page="228" line="29">
-<bzg>Endlich&#x202F;…</bzg> Herders letzter Brief lag länger zurück, auch <intlink letter="460" page="216" line="9" linktext="false">HKB 460</intlink> war noch nicht beantwortet; Hamann äußerte Hartknoch gegenüber Sorgen, vgl. <intlink letter="465" page="227" line="9" linktext="true" />.
+<bzg>Endlich&#x202F;…</bzg> Herders letzter Brief lag länger zurück, auch Hamanns letzter Brief, <intlink letter="459" page="211" line="29" linktext="false">HKB 460</intlink>, war noch nicht beantwortet; Hamann äußerte Hartknoch gegenüber Sorgen, vgl. <intlink letter="465" page="227" line="9" linktext="true" />.
 </marginal>
 
 <marginal letter="466" page="228" line="31">
@@ -58260,16 +58260,20 @@ Brief Nr. 466
     <bzg>Frau, eine Träumerin, trotz Joseph</bzg> <link ref="herder-c" linktext="true" />, vgl. <intlink letter="456" page="208" line="11" linktext="true" />; Anspielung auf <link ref="at-mo1" subref="at-mo1-37" linktext="false">1 Mo 37,5</link>
    </marginal>
 
+<marginal letter="466" page="230" line="30">
+<bzg>General Sup.</bzg> Generalsuperintendantur
+</marginal>
+
    <marginal letter="466" page="230" line="31">
-    <bzg>von Lynker</bzg> Karl Friedrich Ernst Frh. v. Lyncker (1726–1801), 1775 Präsident des Oberkonsistoriums in Weimar
+    <bzg>von Lynker</bzg> <link ref="lynker-kf" linktext="true" />
    </marginal>
 
   <marginal letter="466" page="230" line="33">
-    <bzg>Oberhofpred., Oberkonsist.</bzg> Oberhofpred.[iger], Oberkonsist.[orialrat]
+    <bzg>Oberhofpred., Oberkonsist.</bzg> Oberhofprediger, Oberkonsistorialrat
    </marginal>
 
   <marginal letter="466" page="230" line="34">
-    <bzg>Generalsuperint. u. Past. prim.</bzg> Generalsuperint.[endent] und Past.[or] prim.[arius]
+    <bzg>Generalsuperint. u. Past. prim.</bzg> Generalsuperintendent und Pastor primarius
    </marginal>
 
   <marginal letter="466" page="230" line="35">
@@ -58277,11 +58281,11 @@ Brief Nr. 466
    </marginal>
 
      <marginal letter="466" page="230" line="36">
-    <bzg>Niederkunft</bzg> Geburt von <link ref="herder-a" linktext="true" /> 
+    <bzg>Niederkunft</bzg> <link ref="herder-a" linktext="true" /> wurde am 18. August 1776 geboren.
    </marginal>
 
      <marginal letter="466" page="231" line="2">
-    <bzg>Gräfin</bzg> <link ref="schaumburg-lippe-maria" linktext="true" />  
+    <bzg>Gräfin</bzg> <link ref="schaumburg-lippe-maria" linktext="true" />, vgl. <intlink letter="382" page="30" line="8" linktext="true" />
    </marginal>
 
     <marginal letter="466" page="231" line="7">
@@ -58301,11 +58305,11 @@ Brief Nr. 466
    </marginal>
 
        <marginal letter="466" page="231" line="20">
-    <bzg>Don Quixot</bzg> der regierende schaumburgisch- lippische Graf, mit der sprichwörtlichen spanischen Abneigung gegen den portugiesischen Nachbarn. ?!?
+    <bzg>Don Quixot</bzg> <link ref="schaumburg-lippe-wilhelm" linktext="true" />, nach <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />
    </marginal>
 
        <marginal letter="466" page="231" line="22">
-    <bzg>Wirbelwind</bzg> Affäre um den Candidaten Stock, der ohne Examen durch Simonie auf die Stadthagener Adjunctur gekommen war
+    <bzg>Wirbelwind</bzg> Die Affäre Stock; er sollte ohne Examen durch Simonie vom Bückeburger Consistorium bestätigt werden, wogegen Herder energisch protestierte, vgl. <link ref="haym-r-1880" linktext="false">Haym: Herder nach seinem Leben und seinen Werken dargestellt,</link> I, 725–729.
    </marginal>
 
        <marginal letter="466" page="231" line="24">
@@ -58317,28 +58321,31 @@ Brief Nr. 466
    </marginal>
 
           <marginal letter="466" page="231" line="36">
-    <bzg>Beilagen</bzg> Hs Klopstockrezension, N IV,409ff ?!?
+    <bzg>Beilagen</bzg> Hamanns Beiträge zur <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> der letzten Jahre, vgl. <intlink letter="459" page="214" line="1" linktext="true" />
    </marginal>
 
-             <marginal letter="466" page="231" line="37">
-    <bzg>Rec.</bzg> Rec.[ension] über den Bonsens u. die Republick: Kleiner Versuch über große
-Probleme, Fragment eines Programms, N IV,413ff ?!?
+             <marginal letter="466" page="231" line="37" sort="1">
+    <bzg>Rec. über den Bon-Sens</bzg> nicht ermittelt
    </marginal>
+
+<marginal letter="466" page="231" line="37" sort="2">
+<bzg>Republick</bzg> Hamanns Rezension von <link ref="klopstock" subref="klopstock-gelehrtenrepublik" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 93.&#x202F;St. vom 20.11.1775
+</marginal>
 
              <marginal letter="466" page="232" line="1">
     <bzg>Hinz</bzg> <link ref="hinz" linktext="true" /> 
    </marginal>
 
                 <marginal letter="466" page="232" line="2">
-    <bzg>Zweifel u. Einfälle</bzg> <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />
+    <bzg>Zweifel u. Einfälle</bzg> <link ref="hamann" subref="hamann-zweifel" linktext="true" />
    </marginal>
 
                 <marginal letter="466" page="232" line="4">
-    <bzg>„Feigen“</bzg> vgl. den Schluß von <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, N III,196,3 nach <link ref="at-jer" subref="at-jer24" linktext="false">Jer 24,2</link>
+    <bzg>„Feigen“</bzg> vgl. den Schluß von <link ref="hamann" subref="hamann-zweifel" linktext="true" />, N III,196/3 nach <link ref="at-jer" subref="at-jer24" linktext="false">Jer 24,2</link>
    </marginal>
 
                 <marginal letter="466" page="232" line="7">
-    <bzg>Rec. in der Bibl.</bzg> <link ref="nicolai" linktext="true" />  in  <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 24/1, ?!?
+    <bzg>Rec. in der Bibl.</bzg> die <link ref="nicolai" linktext="false">Nicolai</link> zugeschriebene Rezension  in  <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.&#x202F;24/1, S.&#x202F;287–296
    </marginal>
 
                 <marginal letter="466" page="232" line="9">

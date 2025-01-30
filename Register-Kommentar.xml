@@ -6909,7 +6909,8 @@ Vgl. <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true"
 <subsection id="herder-altesteurkunde" type="neuzeit" sort="200">
 <lemma>Herder, <titel>Aelteste Urkunde</titel></lemma>
 <eintrag>
-<titel>Aelteste Urkunde des Menschengeschlechts. Eine nach Jahrhunderten enthüllte heilige Schrift. Erster Band, welcher den Ersten, Zweiten und Dritten Theil enthält</titel> (Riga: Hartknoch 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354782-6">BSB München: 4 Exeg. 909-1/2</wwwlink>. – SWS,&#x202F;VI, S.&#x202F;193–511. – Zweiter Band, welcher den Viertel Theil enthält (Riga: Hartknoch 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354783-2">BSB München: 4 Exeg. 909-1/2</wwwlink>. – SWS,&#x202F;VII, S.&#x202F;1–172. 
+<titel>Aelteste Urkunde des Menschengeschlechts. Eine nach Jahrhunderten enthüllte heilige Schrift. Erster Band, welcher den Ersten, Zweiten und Dritten Theil enthält</titel> (Riga: Hartknoch 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354782-6">BSB München: 4 Exeg. 909-1/2</wwwlink>. – SWS,&#x202F;VI, S.&#x202F;193–511.<line type="break" />
+<titel>Zweiter Band, welcher den Viertel Theil enthält</titel> (Riga: Hartknoch 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354783-2">BSB München: 4 Exeg. 909-1/2</wwwlink>. – SWS,&#x202F;VII, S.&#x202F;1–172. 
 </eintrag>
 </subsection>
 <subsection id="herder-prediger" type="neuzeit" sort="250">
@@ -8339,7 +8340,7 @@ J. G. Lindner konnte sein Buch zur <link ref="lindner-jg" subref="schreibart" li
 
 <kommentar id="konigsbergsche-gelehrte-p-z" type="neuzeit">
 <lemma>Königsbergsche Gelehrte und Politische Zeitungen</lemma>
-<eintrag>1764–1796, erschienen montags und freitags im Buchladen von <link ref="kanter" linktext="true" />, später die Dengelsche Zeitungen. Hamann war von Januar bis Mai 1764 Redakteur der Zeitungen und lieferte auch danach immer wieder Beiträge und Rezensionen für sie [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;179/10: „Königsbergsche gelehrte und politische Zeitungen von 767–75“; <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 182/47: „Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.“ u. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 199/115: „Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.“].<line type="break" />
+<eintrag>1764–1796, erschienen montags und freitags (ab 1773 oder 1774 montags und donnerstags) im Buchladen von <link ref="kanter" linktext="true" />, später die Dengelsche Zeitungen. Hamann war von Januar bis Mai 1764 Redakteur der Zeitungen und lieferte auch danach immer wieder Beiträge und Rezensionen für sie [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;179/10: „Königsbergsche gelehrte und politische Zeitungen von 767–75“; <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 182/47: „Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.“ u. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 199/115: „Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.“].<line type="break" />
 Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelblaska.pl/dlibra/publication/68995#structure">Biblioteka Elbląska</wwwlink>.
 </eintrag>
 </kommentar>
@@ -10019,6 +10020,11 @@ WA 30, 2, S.&#x202F;632–646.
 <titel>Der Sonderling</titel> (Hannover: Richter 1761). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10114277-3">BSB München: P.o.germ. 892 i</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="lynker-kf" type="neuzeit">
+<lemma>Karl Friedrich Ernst Frherr von Lyncker</lemma>
+<eintrag>1726–1801. Seit 1774 Präsident des Oberkonsistoriums in Weimar; Herders Vorgesetzter.</eintrag>
 </kommentar>
 
 <kommentar id="lyttelton" type="neuzeit">
