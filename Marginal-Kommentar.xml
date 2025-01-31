@@ -58393,7 +58393,7 @@ Brief Nr. 466
    </marginal>
 
                 <marginal letter="466" page="233" line="4">
-    <bzg>Johnson</bzg> John Johnston (1603–1675), Universalgelehrter: <wwwlink address="https://mateo.uni-mannheim.de/camenaref/jonston.html"><titel>Historia naturalis animalium</titel> (Frankfurt: Merian 1650–1653)</wwwlink> (später häufig nachgedruckt).
+    <bzg>Johnson</bzg> John Johnston (1603–1675, Universalgelehrter): <wwwlink address="https://mateo.uni-mannheim.de/camenaref/jonston.html"><titel>Historia naturalis animalium</titel> (Frankfurt: Merian 1650–1653)</wwwlink> (später häufig nachgedruckt).
 
    </marginal>
 
@@ -58434,21 +58434,23 @@ Brief Nr. 466
    </marginal>
 
                             <marginal letter="466" page="233" line="18">
-    <bzg>Penzel</bzg> <link ref="penzel" linktext="true" /> 
+    <bzg>Schwiegersohn Penzel</bzg> <link ref="penzel" linktext="true" />, zu Schwiegersohn vgl. <intlink letter="459" page="213" line="18" linktext="true" />
    </marginal>
 
                             <marginal letter="466" page="233" line="19">
     <bzg>Lemg. Bibl.</bzg> <link ref="auserlesene-bibliothek" linktext="true" />, vgl. <intlink letter="470" page="259" line="17" linktext="true" />
    </marginal>
 
+<marginal letter="466" page="233" line="23">
+<bzg>Katastrophe</bzg> hier im wörtlichen Sinne von Wendung (zum Guten)
+</marginal>
+
                             <marginal letter="466" page="233" line="25">
-    <bzg>Niedersächsische Wörterbuch</bzg> Bremisch- Niedersächsisches Wörterbuch. Hg v. d. Bremisch- Deutschen Gesellschaft. 1- 5. 1767/71.
+    <bzg>Niedersächsische Wörterbuch</bzg> <link ref="tiling-e" subref="tiling-versuch" linktext="true" />
    </marginal>
 
  <marginal letter="466" page="233" line="27" sort="1"> 
-    <bzg>neues Buch</bzg> Sammlung und Abstammung Germanischen Wurzel- Wörter, nach der Reihe menschlicher Begriffe, zum
-Erweis der Tabelle, die der Preisschrift über die zween Hauptdialekte der Teutschen Sprache angefügt
-worden ist, von dem Verfasser derselbigen; hg. von Johann Georg Meusel. Halle 1776.
+    <bzg>neues Buch</bzg> <link ref="fulda" subref="fulda-wurzelwoerter" linktext="true" />
    </marginal>
 
   <marginal letter="466" page="233" line="27" sort="2"> 
@@ -58460,7 +58462,7 @@ worden ist, von dem Verfasser derselbigen; hg. von Johann Georg Meusel. Halle 17
    </marginal>
 
   <marginal letter="466" page="233" line="29" sort="2"> 
-    <bzg>Krone</bzg> mit  Vom Erkennen und Empfinden der menschlichen Seele. Bemerkungen und Träume. Riga 1778.
+    <bzg>Krone</bzg> mit <link ref="herder" subref="herder-erkennen-empfinden" linktext="true" />, Fassung von 1775
    </marginal>
 
    <marginal letter="466" page="233" line="30">
@@ -58472,25 +58474,35 @@ worden ist, von dem Verfasser derselbigen; hg. von Johann Georg Meusel. Halle 17
    </marginal>
 
    <marginal letter="466" page="233" line="34">
-    <bzg>Eberhard</bzg> Allgemeine Theorie des Denkens und Empfindens. Eine Abhandlung, welche den von der Königl.
-Akademie der Wissenschaften in Berlin auf das Jahr 1776 ausgesetzten Preis erhalten hat. Berlin 1776.
+    <bzg>Eberhard</bzg> <link ref="eberhard-ja" subref="eberhard-theorie" linktext="true" />
    </marginal>
 
-      <marginal letter="466" page="233" line="36">
-    <bzg>2ten Th. von Lavaters Phys.</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 2;  H. auf S. 285ff.; die Affenschädel und -köpfe S. 174–180
+      <marginal letter="466" page="233" line="37">
+    <bzg>2ten Th. von Lavaters Phys.</bzg> siehe das Hamann-Porträt in <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;2 im <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296243">Tafelband</wwwlink>, vgl. auch die Beschreibung und den Umriss im  <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296008">Textband, S.&#x202F;285f.</wwwlink>;  H. auf S. 285ff.; die Affenschädel und -köpfe S. 174–180 
    </marginal>
 
-         <marginal letter="466" page="234" line="2">
-    <bzg>Popens Einfall auf Newton</bzg> vgl die Abfertigung in der Beylage zum 37sten Stück
-von <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 1772, N III,21,20ff
+<marginal letter="466" page="234" line="1">
+<bzg>Affen Ahnlichkeit</bzg> Herders Bemerkung bezieht sich wohl auf den kurz vor Hamann in der Rubrik „Religiöse, Schwärmer, Theosophen, Seher“ abgebildeten „M. Theosophus“ (vgl. <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296239">Tafelband</wwwlink> und <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296006">Textband, S.&#x202F;283f.</wwwlink>), dessen „Gesicht eins von denen sey, die einigermassen ins Affengeschlecht sehen“.
+</marginal>
+
+         <marginal letter="466" page="234" line="2" sort="1">
+    <bzg>Popens Einfall auf Newton</bzg> vgl. <link ref="hamann" subref="hamann-zworecensionen" linktext="true" />, N&#x202F;III,21/19–24 (in der „Abfertigung“): „Mithin ist die sinnreiche Hypothese, welche den Ursprung der Sprache menschlicher Erfindung unterschiebt, im Grunde ein loser Einfall einiger Newtonianer dießeit des Wassers, die alle, wie Pope meynt, zum poßierlichen Affengeschlechte gehören, und neuerlich mit dem Grundsatze des Widerspruchs alle Besonnenheit scheinen beynahe verleugnet zu haben.“
    </marginal>
+
+<marginal letter="466" page="234" line="2" sort="2">
+<bzg>retorquirt</bzg> umgekehrt, erwiedert, entstellt
+</marginal>
+
+<marginal letter="466" page="234" line="4">
+<bzg>können Sie zufrieden</bzg> vgl. zu Hamanns Reaktion <intlink letter="467" page="240" line="32" linktext="true" />
+</marginal>
 
          <marginal letter="466" page="234" line="4">
-    <bzg>Silhouette</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 2, S. 102
+    <bzg>Silhouette</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;2, <wwwlink address="https://www.e-rara.ch/zut/content/zoom/295825">Textband, S.&#x202F;102</wwwlink>
    </marginal>
 
          <marginal letter="466" page="234" line="5">
-    <bzg>Frau</bzg> <link ref="herder-c" linktext="true" /> 
+    <bzg>Frau</bzg> <link ref="herder-c" linktext="true" />, vgl. <intlink letter="452" page="195" line="34" linktext="true" />
    </marginal>
 
          <marginal letter="466" page="234" line="11">
@@ -58498,7 +58510,7 @@ von <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 1772, N III,21,2
    </marginal>
 
          <marginal letter="466" page="234" line="12">
-    <bzg>Cana in Galiläa</bzg> ?!?
+    <bzg>Cana in Galiläa</bzg> <link ref="nt-jo" subref="nt-jo2" linktext="false">Joh 2,1–10</link>
    </marginal>
 
          <marginal letter="466" page="234" line="21" sort="1">
@@ -58506,7 +58518,7 @@ von <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 1772, N III,21,2
    </marginal>
 
          <marginal letter="466" page="234" line="21" sort="2">
-    <bzg>Lindners</bzg> <link ref="lindner-jg" linktext="true" /> 
+    <bzg>Lindners</bzg> <link ref="lindner-jg" linktext="true" />; Herder erfuhr wohl von <link ref="hinz" linktext="false">Hinz</link> davon, vgl. <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;III, S.&#x202F;266f.
    </marginal>
 
          <marginal letter="466" page="234" line="23" sort="1">
@@ -58514,7 +58526,7 @@ von <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 1772, N III,21,2
    </marginal>
 
          <marginal letter="466" page="234" line="23" sort="2">
-    <bzg>Abhandl. vom Geschmack</bzg> ?!?
+    <bzg>Abhandl. vom Geschmack</bzg> <link ref="herz" subref="herz-geschmack" linktext="true" />
    </marginal>
 
          <marginal letter="466" page="234" line="24">
@@ -58526,28 +58538,15 @@ von <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 1772, N III,21,2
    </marginal>
 
             <marginal letter="466" page="234" line="25" sort="2">
-    <bzg>Tönnies</bzg> Tönnies, Johann Heinrich (1725- 1784), evang. Theologe, Prof. der Philosophie in Kiel
+    <bzg>Tönnies</bzg> <link ref="tonnies" linktext="true" />
    </marginal>
 
             <marginal letter="466" page="234" line="26">
-    <bzg>Offenbahr. Joh.</bzg> Auszug der Geschichte zur Erklärung der Offenbarung Johannis; nebst einem Anhange, welcher einige
-Anekdoten zur neuern Braunschweigischen Kirchengeschichte liefert. Leipzig 1776.
+    <bzg>Offenbahr. Joh.</bzg> <link ref="tonnies" subref="tonnies-johannis" linktext="true" />
    </marginal>
 
                <marginal letter="466" page="234" line="28">
-    <bzg>Leßing …</bzg> in: Philosophische Aufsätze von Karl Wilhelm Jerusalem; herausgegeben von Gotthold Ephraim Lessing, 1776, wo er zu Jerusalems Aufsatz Daß die Sprache dem ersten Menschen durch
-Wunder nicht mitgetheilt seyn kann angemerkt: Die Sprache kann den ersten
-Menschen seyn gelehret worden: er kann eben so dazu gelangt seyn, wie noch itzt alle
-Kinder dazu gelangen müssen. Fragt man: wodurch? durch wen? Durch Umgang mit
-höhern Geschöpfen; durch Herablassung des Schöpfers selbst: können die Vertheidiger
-dieser Meynung antworten. Laßt es seyn, können sie sagen, daß dieser Umgang, diese
-Herablassung selbst ein Wunder war: das, was durch dieses Wunder bewirket wurde,
-war doch kein Wunder, und es gieng alles dabey so natürlich zu, als es bey
-Vocalmachung der Kinder noch zugeht. Dieses, wenn man billig seyn will, muß man
-gelten lassen. Die Sache ist nur, daß sodann die ganze Aufgabe von dem Ursprunge
-der Sprache keiner reinen philosophischen Auflösung mehr fähig ist, indem der
-mittlere Fall sich lediglich durch historische Gründe erhärten oder verwerfen läßt
-... (Lachmann, X, 4f.). ?!?
+    <bzg>Leßing …</bzg> in den „Zusätzen des Herausgebers“ von <link ref="jerusalem" subref="jerusalem-philosophische-aufsätze" linktext="true" />, S.&#x202F;105–111 äußert sich <link ref="lessing" linktext="false">Lessing</link> zu den Gesprächen mit Karl Wilhelm Jerusalem, die dessen Aufsatz „Daß die Sprache dem ersten Menschen durch Wunder nicht mitgetheilt seyn kann“ begleiteten und, wie <link ref="herder" subref="herder-ursprung" linktext="false"><titel>Herders Preisschrift</titel></link> und Hamanns Reaktionen (etwa in den <link ref="hamann" subref="hamann-zworecensionen" linktext="false"><titel>Zwo Recensionen</titel></link>), die Akademiefrage über den Ursprung der Sprache behandelten. 
    </marginal>
 
                   <marginal letter="466" page="234" line="31">

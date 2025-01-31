@@ -2220,7 +2220,7 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
  <subsection id="buffon-4fuesse" type="neuzeit"  sort="30">
 <lemma>Buffon, <titel>Naturgeschichte der vierfüßigen Thiere</titel></lemma>
 <eintrag>
-<titel>Herrn von Büffons Naturgeschichte der vierfüßigen Thiere</titel> (23 Bde., Berlin 1772–1802).<wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10928761-5">BSB München: Res/Zool. 634 z</wwwlink>.
+<titel>Herrn von Büffons Naturgeschichte der vierfüßigen Thiere</titel> (23 Bde., Berlin 1772–1802). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10928761-5">BSB München: Res/Zool. 634 z</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6204,7 +6204,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <lemma>Hamann, <titel>Zwo Recensionen</titel></lemma>
 <eintrag>
 <titel>Zwo Recensionen nebst einer Beylage, betreffend den Ursprung der Sprache</titel> (Dodsley [recte Kanter]: [Königsberg] 1772) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;188/149: „Zwo Recensionen nebst einer Beilage, betreffend den Ursprung der Sprache, 772. Des Ritters von Rosencreutz letzte Willensmeinung, 770. Beylage zun Denkwürdigkeiten des seligen Socrates, Hall. 773. Versuch einer Sibylle über die Ehe, 775. V. E. R. hierophantische Briefe, eod. Donum.“]. Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235968">ULB Münster: N. Hamann Bd.&#x202F;26</wwwlink>.<line type="break" />
-Sammlung von zuvor in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 104.&#x202F;St. vom 27.12.1771, 26.&#x202F;St. vom 30.4.1772, und als Beilage zum 37.&#x202F;St. vom 8.5.1772 erschienenen Rezensionen Hamanns von <link ref="tiedemann" subref="tiedemann-ursprung" linktext="true" /> und <link ref="herder" subref="herder-ursprung" linktext="true" /> sowie eine fingierte „Abfertigung“ gegn Hamanns Herder-Rezension.<line type="break" />
+Sammlung von zuvor in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 104.&#x202F;St. vom 27.12.1771, 26.&#x202F;St. vom 30.4.1772, und als Beilage zum 37.&#x202F;St. vom 8.5.1772 erschienenen Rezensionen Hamanns von <link ref="tiedemann" subref="tiedemann-ursprung" linktext="true" /> und <link ref="herder" subref="herder-ursprung" linktext="true" /> sowie eine fingierte „Abfertigung“ gegen Hamanns Herder-Rezension.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;13–24.
 </eintrag>
 </subsection>
@@ -6951,6 +6951,13 @@ des N. T. aus einer morgenländischen Urquelle, Riga 775“]. <wwwlink address="
 <titel>Ursachen des gesunknen Geschmacks bei den verschiednen Völkern, da er geblühet.</titel> Eine Abhandlung, welche den von der Kgl. Academie der Wissenschaften für das Jahr 1773 gesetzten Preis erhalten hat (Berlin: Voß 1775) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;156/448: „Herders Preisschrift über die Ursache des gesunkenen Geschmacks, Berl. 776“]. – Digitalisat Ausg. 1775, Berlin: <wwwlink address="http://data.onb.ac.at/rep/1063C663">ÖNB: *31.E.38 ALT PRUNK</wwwlink>. Digitalisat Ausg. 1776 Leipzig/Mitau: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573993-4">München, Bayerische Staatsbibliothek: L.eleg.g. 186</wwwlink>. – SWS V, S.&#x202F;595–665.
 </eintrag>
 </subsection>
+<subsection id="herder-erkennen-empfinden" type="neuzeit" sort="397">
+<lemma>Herder, <titel>Vom Erkennen und Empfinden der menschlichen Seele</titel></lemma>
+<eintrag>
+<titel>Vom Erkennen und Empfinden der menschlichen Seele. Bemerkungen und Träume</titel> (Riga: Hartknoch 1778). – SWS VIII, S.&#x202F;165–235. – Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10044996-7">BSB München: Ph.sp. 1083 q</wwwlink>.<line type="break" />
+Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Menschlichen Seele</titel> (1774; vgl. SWS VIII, S.&#x202F;236–262) und <titel>Vom Erkennen und Empfinden den zwo Hauptkräften der Menschlichen Seele</titel> (1775; SWS VIII, S.&#x202F;263–333).
+</eintrag>
+</subsection>
 <subsection id="herder-plastik" type="neuzeit" sort="400">
 <lemma>Herder, <titel>Plastik</titel></lemma>
 <eintrag>
@@ -7070,9 +7077,13 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <kommentar id="herz" type="neuzeit">
 <lemma>Marcus Herz</lemma>
 <eintrag>1747–1803. Arzt und Aufklärer, Schüler von <link ref="kant" linktext="true" /> und Freund von <link ref="mendelssohn" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118933876.html#ndbcontent">Stürzbecher, Manfred: Herz, Markus, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;729</wwwlink>.</eintrag>
-<subsection id="herz-betrachtungen" type="neuzeit">
+<subsection id="herz-betrachtungen" type="neuzeit" sort="10">
 <lemma>Herz, <titel>Betrachtungen</titel></lemma>
 <eintrag><titel>Betrachtungen aus der spekulativen Weltweisheit von Markus Herz, der Arzneygelahrheit Beflissenen</titel> (Königsberg: Kanter 1771) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;105/139: „(Marc. Herz) Betrachtungen aus der speculativen Weltweisheit, Königsb. 771“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043441-1">BSB München: Ph.sp. 359</wwwlink>.</eintrag>
+</subsection>
+<subsection id="herz-geschmack" type="neuzeit" sort="20">
+<lemma>Herz, <titel>Versuch über die Ursachen der Verschiedenheit des Geschmacks</titel></lemma>
+<eintrag><titel>Versuch über die Ursachen der Verschiedenheit des Geschmacks</titel> (Mitau, Leipzig: Hinz 1776) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;122/340: „Versuch über den Geschmack und die Ursachen seiner Verschiedenheit, Leipz. 776. Dona.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273189-3">BSB München: Phil 1587</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -7830,17 +7841,28 @@ J
 
 <kommentar id="jerusalem-jfw" type="neuzeit">
 <lemma>Johann Friedrich Wilhelm Jerusalem</lemma>
-<eintrag>1709–1789. Evang. Theologe, Prinzenerzieher in Braunschweig. <wwwlink address="https://www.deutsche-biographie.de/sfz37220.html#adbcontent">Wagenmann, Julius August: Jerusalem, Johann Friedrich Wilhelm, in: <titel>ADB</titel> 13 (1881), S.&#x202F;779–783</wwwlink>.
+<eintrag>1709–1789. Evang. Theologe, Prinzenerzieher in Braunschweig, 1771 Konsistorialvizepräsident in Wolfenbüttel. <wwwlink address="https://www.deutsche-biographie.de/sfz37220.html#adbcontent">Wagenmann, Julius August: Jerusalem, Johann Friedrich Wilhelm, in: <titel>ADB</titel> 13 (1881), S.&#x202F;779–783</wwwlink>.
 </eintrag>
 <subsection id="jerusalem-jfw-briefe" type="neuzeit" sort="10">
 <lemma>Jerusalem, <titel>Briefe über die Mosaischen Schriften und Philosophie</titel></lemma>
 <eintrag>
-<titel>Briefe über die Mosaischen Schriften und Philosophie</titel> (Braunschweig 1762). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 47/469: „Briefe über die mosaische Schriften und Philosophie, Br. 762“]. Digitalisat: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/jerusalem1762 ">UB Heidelberg: Q 613-8 RES</wwwlink></eintrag>
+<titel>Briefe über die Mosaischen Schriften und Philosophie</titel> (Braunschweig 1762). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 47/469: „Briefe über die mosaische Schriften und Philosophie, Br. 762“]. Digitalisat: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/jerusalem1762">UB Heidelberg: Q 613-8 RES</wwwlink></eintrag>
 </subsection>
 <subsection id="jerusalem-jfw-betrachtungen" type="neuzeit" sort="20">
 <lemma>Jerusalem, <titel>Betrachtungen</titel></lemma>
 <eintrag>
 <titel>Betrachtungen über die vornehmsten Wahrheiten der Religion</titel> (2 Bde., Braunschweig 1768–1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10702295-3">Bayerische Staatsbibliothek: 40.5484-1</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="jerusalem-kw" type="neuzeit">
+<lemma>Karl Wilhelm Jerusalem</lemma>
+<eintrag>1747–1772. Sohn von <link ref="jerusalem-jfw" linktext="true" />, Jurist, Schriftsteller und Vorbild für <link ref="goethe" subref="goethe-werther" linktext="false">Goethes Werther</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz37220.html#adbcontent">Elschenbroich, Adalbert: Jerusalem, Karl Wilhelm, in: <titel>NDB</titel> 10 (1974), S.&#x202F;416–418</wwwlink>.
+</eintrag>
+<subsection id="jerusalem-philosophische-aufsätze" type="neuzeit" >
+<lemma>Jerusalem, <titel>Philosophische Aufsätze</titel></lemma>
+<eintrag>
+<titel>Philosophische Aufsätze</titel> von Karl Wilhelm Jerusalem: herausgegeben von <link ref="lessing" linktext="true" /> (Braunschweig: Waisenhaus 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046141-0">BSB München: Ph.u. 272</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15459,7 +15481,7 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <subsection id="tiling-versuch" type="neuzeit">
 <lemma>Tiling, <titel>Versuch eines bremisch-niedersächsischen Wörterbuchs</titel></lemma>
 <eintrag>
-<titel>Versuch eines bremisch-niedersächsischen Wörterbuchs, worin nicht nur die in und um Bremen, sondern auch fast in ganz Niedersachsen gebräuchliche eingenthümliche Mundart nebst den schon veralteten Wörtern und Redensarten, in bremischen Gesetzen, Urkunden, und Diplomen, gesammelt, zugleich auch nach einer behutsamen Sprachforschung, und aus Vergleichung alter und neuer verwandter Dialekte, erkläret sind: herausgegeben von der bremischen deutschen Gesellschaft</titel> (4 Bde., Bremen: Förster 1767–1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584492-6">BSB München:  L.germ. 273</wwwlink>.
+<titel>Versuch eines bremisch-niedersächsischen Wörterbuchs, worin nicht nur die in und um Bremen, sondern auch fast in ganz Niedersachsen gebräuchliche eingenthümliche Mundart nebst den schon veralteten Wörtern und Redensarten, in bremischen Gesetzen, Urkunden, und Diplomen, gesammelt, zugleich auch nach einer behutsamen Sprachforschung, und aus Vergleichung alter und neuer verwandter Dialekte, erkläret sind: herausgegeben von der bremischen deutschen Gesellschaft</titel> (5 Bde., Bremen: Förster 1767–1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584492-6">BSB München:  L.germ. 273</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -15492,6 +15514,18 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <lemma>Tiphaigne de la Roche, <titel>Giphantie</titel></lemma>
 <eintrag>
 <titel>Giphantie. A Babylone</titel> (Paris 1760).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="tonnies" type="neuzeit">
+<lemma>Johann Heinrich Tönnies</lemma>
+<eintrag>1725–1784. Prediger, Professor der Philosophie in Kiel, siehe <wwwlink address="http://d-nb.info/gnd/118041959">GND</wwwlink>.
+</eintrag>
+<subsection id="tonnies-johannis" type="neuzeit">
+<lemma>Tönnies, <titel>Auszug der Geschichte zur Erklärung der Offenbarung Johannis</titel></lemma>
+<eintrag>
+<titel>Johan Henrich Tönniens Auszug der Geschichte zur Erklärung der Offenbarung Johannis. Nebst einem Anhang welcher einige Anecdoten zur neuern Braunschweigischen Kirchengeschichte liefert</titel> (Leipzig: Böhme 1776). Digitalisat: <wwwlink address="http://diglib.hab.de/drucke/td-333/start.htm">UB Kiel</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 
