@@ -58561,7 +58561,7 @@ Brief Nr. 467
 </marginal>
 
 <marginal letter="467" page="235" line="12">
-<bzg>Wort baar machen</bzg> <intlink letter="466" page="228" line="28" linktext="false">HKB 466</link> zu bringen
+<bzg>Wort baar machen</bzg> <intlink letter="466" page="228" line="28" linktext="false">HKB 466</intlink> zu bringen
 </marginal>
 
 <marginal letter="467" page="235" line="16">
@@ -58633,7 +58633,71 @@ Brief Nr. 467
 </marginal>
 
 <marginal letter="467" page="236" line="14">
-<bzg>Patriarchen und Davide</bzg>
+<bzg>Patriarchen und Davide</bzg> <link ref="at-sam2" subref="at-sam2-15" linktext="false">2 Sam 15</link>
+</marginal>
+
+<marginal letter="467" page="236" line="16" sort="1">
+<bzg>Johann Christoph</bzg> <link ref="neumann-j" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="236" line="16" sort="2">
+<bzg>Frau Schwester</bzg> <link ref="herder-cd-g" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="236" line="17">
+<bzg>Hand auf Ihrem Couvert</bzg> Das Kuvert zu HKB 466 ist nicht überliefert; gemeint ist <link ref="herder-c" linktext="false">Caroline Herders</link> Handschrift, vgl. <intlink letter="469" page="251" line="9" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="236" line="18">
+<bzg>8 Tage an einem Briefe geschrieben</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="467" page="236" line="20" sort="1">
+<bzg>4ten Theil</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, Tl.&#x202F;4 (Bd.&#x202F;2)
+</marginal>
+
+<marginal letter="467" page="236" line="20" sort="2">
+<bzg>Hintz</bzg> <link ref="hinz" linktext="true" />, vgl. <intlink letter="466" page="232" line="8" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="236" line="26">
+<bzg>Preisschrift</bzg> <link ref="herder" subref="herder-geschmack" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="236" line="28">
+<bzg>Abhandl. in Hintzens</bzg> <link ref="herz" subref="herz-geschmack" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="236" line="29">
+<bzg>Relata refero</bzg> dt. Ich berichte über Gehörtes.
+</marginal>
+
+<marginal letter="467" page="236" line="35">
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />, vgl. <intlink letter="466" page="233" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="2">
+<bzg>Landsmann in Potsdam</bzg> <link ref="reichardt-jf" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="3">
+<bzg>zwo Zeilen</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="467" page="237" line="3">
+<bzg>langen Brief</bzg> <intlink letter="461" page="217" line="33" linktext="false">HKB 461</intlink>
+</marginal>
+
+<marginal letter="467" page="237" line="3">
+<bzg>Dritten</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="3">
+<bzg>Königs</bzg> <link ref="friedrich-II" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="3">
+<bzg>Mara Exempel statuirt</bzg> <link ref="mara-ge" linktext="true" />; vgl. zu dem ‚Exempel‘ den <wwwlink address="https://www.deutsche-biographie.de/pnd118599100.html#adbcontent ">ADB-Eintrag zu Reichardt</wwwlink>
 </marginal>
 
 Brief 398, Entwurf
