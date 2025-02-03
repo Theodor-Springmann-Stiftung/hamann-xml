@@ -6347,7 +6347,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;419–425.
 </subsection>
  <subsection id="hamann-biga" type="neuzeit" sort="683">
 <lemma><titel>Biga bibliothecarum</titel></lemma>
-<eintrag>Dt. zweispännige Bibliothek: Hamann bekam Ende März 1776 von dem sterbenden <link ref="lindner-jg" linktext="true" /> den Auftrag, dessen Bibliothek zu katalogisieren und zu verkaufen (gelegentlich assistiert von <link ref="lauson" linktext="false">Lauson</link> und <link ref="penzel" linktext="false">Penzel</link>). Hamanns eigene Bibliothek, die er aus Geld- und Raumnot meinte veräußern zu müssen, katalogisierte er aus Verbundenheit mit dem Verstorbenen und seinen Büchern zugleich mit, entschied sich aber letztlich gegen einen Verkauf der eigenen Bücher. Vgl. ausführlicher <link ref="nad-j-1949b" linktext="false">Nadler: <titel>Zeuge des Corpus mysticum</titel>,</link> S.&#x202F;262–269, außerdem <link ref="ime-n-1938" linktext="false">Imendörffer: <titel>Johann Georg Hamann und seine Bücherei</titel></link>. Der gemeinsame Katalog der Bibliotheken wurde 1776 gedruckt und kann als Überblick für Hamanns Lektüren dienen; siehe das Exemplar der <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235764">ULB Münster</wwwlink>, vgl. auch die Edition in N&#x202F;V,13–121.</eintrag>
+<eintrag>Dt. zweispännige Bibliothek: Hamann bekam Ende März 1776 von dem sterbenden <link ref="lindner-jg" linktext="true" /> den Auftrag, dessen Bibliothek zu katalogisieren und zu verkaufen (gelegentlich assistiert vmtl. von <link ref="lauson" linktext="false">Lauson</link> und <link ref="richter-jg" linktext="true" />). Hamanns eigene Bibliothek, die er aus Geld- und Raumnot meinte veräußern zu müssen, katalogisierte er aus Verbundenheit mit dem Verstorbenen und seinen Büchern zugleich mit, entschied sich aber letztlich gegen einen Verkauf der eigenen Bücher. Vgl. ausführlicher <link ref="nad-j-1949b" linktext="false">Nadler: <titel>Zeuge des Corpus mysticum</titel>,</link> S.&#x202F;262–269, außerdem <link ref="ime-n-1938" linktext="false">Imendörffer: <titel>Johann Georg Hamann und seine Bücherei</titel></link>. Der gemeinsame Katalog der Bibliotheken wurde 1776 gedruckt und kann als Überblick für Hamanns Lektüren dienen; siehe das Exemplar der <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235764">ULB Münster</wwwlink>, vgl. auch die Edition in N&#x202F;V,13–121.</eintrag>
 </subsection>
  <subsection id="hamann-schuerze" type="neuzeit" sort="684">
 <lemma>Hamann, <titel>Schürze von Feigenblättern</titel></lemma>
@@ -8512,7 +8512,12 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 
 <kommentar id="kleuker" type="neuzeit">
 <lemma>Johann Friedrich Kleuker</lemma>
-<eintrag>1749–1827. Evangelischer Theologe, Orientalist, Hauslehrer in Bückeburg, 1778 Rektor in Osnabrück, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz42769.html#ndbcontent">Göbell, Walter: Kleuker, Johann Friedrich, in: <titel>NDB</titel>&#x202F;12 (1977), S.&#x202F;56f.</wwwlink></eintrag>
+<eintrag>1749–1827. Evangelischer Theologe, Orientalist, Hauslehrer in Bückeburg, 1775 Prorektor am Gymnasium in Lemgo, 1778 Rektor in Osnabrück; Übersetzer des <link ref="anquetil-duperron" subref="anquetil-duperron-zend" linktext="false"><titel>Zend-Avesta</titel></link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz42769.html#ndbcontent">Göbell, Walter: Kleuker, Johann Friedrich, in: <titel>NDB</titel>&#x202F;12 (1977), S.&#x202F;56f.</wwwlink></eintrag>
+<subsection id="kleuker-genius" type="neuzeit" sort="10">
+<lemma>Kleuker, <titel>Genius e scriptis antiquitatis monumentis hauriendus</titel></lemma>
+<eintrag><titel>Genius e scriptis antiquitatis monumentis hauriendus</titel>. In auspicium obeundarum prorectoris gymnasii lemgoniensis partium scrpsit Joannes Fridericus Kleuker (Lemgo: Meyer 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10961544-5">BSB München: 4 Diss. 3334,7</wwwlink>.<line type="break" /> 
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="klingstaedt" type="neuzeit">
@@ -9731,7 +9736,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 
 <kommentar id="lindner-gi" type="neuzeit">
 <lemma>Gottlob Immanuel Lindner</lemma>
-<eintrag>1734–1818. Bruder von <link ref="lindner-jg" linktext="true" />, Studium der Theologie in Königsberg; Hamanns Nachfolger als Hofmeister bei den <link ref="witten" linktext="false">v. Witten</link> in Grünhof u. Platohnen; später Studium der Medizin, Arzt in Halle, Wien und Jena.</eintrag>
+<eintrag>1734–1818. Bruder von <link ref="lindner-jg" linktext="true" />, Studium der Theologie in Königsberg; Hamanns Nachfolger als Hofmeister bei den <link ref="witten" linktext="false">v. Witten</link> in Grünhof und Platohnen; später Studium der Medizin, Arzt in Halle, Wien und Jena.</eintrag>
 </kommentar>
 
 <kommentar id="lindner-m" type="neuzeit">
@@ -13134,6 +13139,11 @@ Dt. Übers.: <titel>Briefe der Milady Juliane Catesby an die Milady Henriette Ca
 </subsection>
 </kommentar>
 
+<kommentar id="richter-jg" type="neuzeit">
+<lemma>Johann Gottlieb Richter</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Sohn des Pfarrers Gottlieb Richter (1709–1775); Sekretär bei der Kriegs- und Domänenkammer in Königsberg.</eintrag>
+</kommentar>
+
 <kommentar id="riedel" type="neuzeit">
 <lemma>Friedrich Justus Riedel</lemma>
 <eintrag>1742–1785. 1768 Prof. in Erfurt, 1772 Prof. an der Wiener Kunstakademie.</eintrag>
@@ -13643,6 +13653,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>
 <titel>Lexicon graeco-latinum in quo ex Primitivorum et Simplicium fontibus Derivata atque Composita Ordine non minus Naturali, quam Alphabetico, breviter et dilucide deducuntur e probatis auctoribus locupletatum, cum indicibus et Græco et Latino, auctis et correctis additum auctarium dialectorum, in tabulas compendiose redactarum accedunt lexicon etymologicum, cum thematibus investigatu difficilioribus et anomalis et Joannis Meursii Glossarium contractum, hactenus desideratum</titel> (1. Aufl., Basel 1580) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;58/5: Basel 1589; <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;59/19: Basel 1605].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="scarron" type="neuzeit">
+<lemma>Paul Scarron</lemma>
+<eintrag>1610–1660. Frz. Schriftsteller nach spanischem Vorbild, mittellos, gelähmt seit 1640.</eintrag>
 </kommentar>
 
 <kommentar id="scultetus" type="neuzeit">

@@ -58680,25 +58680,122 @@ Brief Nr. 467
 <bzg>Landsmann in Potsdam</bzg> <link ref="reichardt-jf" linktext="true" />
 </marginal>
 
-<marginal letter="467" page="237" line="3">
+<marginal letter="467" page="237" line="3" sort="1">
 <bzg>zwo Zeilen</bzg> nicht überliefert
 </marginal>
 
-<marginal letter="467" page="237" line="3">
+<marginal letter="467" page="237" line="3" sort="2">
 <bzg>langen Brief</bzg> <intlink letter="461" page="217" line="33" linktext="false">HKB 461</intlink>
 </marginal>
 
-<marginal letter="467" page="237" line="3">
+<marginal letter="467" page="237" line="4">
 <bzg>Dritten</bzg> <link ref="penzel" linktext="true" />
 </marginal>
 
-<marginal letter="467" page="237" line="3">
+<marginal letter="467" page="237" line="9">
 <bzg>Königs</bzg> <link ref="friedrich-II" linktext="true" />
 </marginal>
 
-<marginal letter="467" page="237" line="3">
+<marginal letter="467" page="237" line="14">
 <bzg>Mara Exempel statuirt</bzg> <link ref="mara-ge" linktext="true" />; vgl. zu dem ‚Exempel‘ den <wwwlink address="https://www.deutsche-biographie.de/pnd118599100.html#adbcontent ">ADB-Eintrag zu Reichardt</wwwlink>
 </marginal>
+
+<marginal letter="467" page="237" line="16" sort="1">
+<bzg>Freund</bzg> <link ref="kleuker" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="16" sort="2">
+<bzg>Zend-Avesta</bzg> <link ref="anquetil-duperron" subref="anquetil-duperron-zend" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="18">
+<bzg>kleine inaugural Schrift seines Conrectorats</bzg> vmtl. <link ref="kleuker" subref="kleuker-genius" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="19">
+<bzg>an mich geschrieben</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="467" page="237" line="20">
+<bzg>einer Arbeit</bzg> <link ref="hamann" subref="hamann-biga" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="24">
+<bzg>Lindner</bzg> <link ref="lindner-jg" linktext="true" />, vgl. <intlink letter="464" page="224" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="26">
+<bzg>ευκαιρως ακαιρως</bzg> zur Zeit oder zur Unzeit, <link ref="nt-tim2" subref="nt-tim2-4" linktext="false">2 Tim 4,2</link>  
+</marginal>
+
+<marginal letter="467" page="237" line="30">
+<bzg>Lauson</bzg> <link ref="lauson" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="33">
+<bzg>Bruder</bzg> <link ref="lindner-jef" linktext="true" />, nicht überliefert, vgl. <intlink letter="463" page="221" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="467" page="237" line="34">
+<bzg>heroisches Mittel</bzg> das <link ref="ailhaud-j" linktext="false">Ailhau’sche Pulver</link>, vgl. <intlink letter="463" page="222" line="2" linktext="true" />
+</marginal>
+
+<marginal letter="468" page="238" line="6">
+<bzg>jüngsten Bruder</bzg> <link ref="lindner-jef" linktext="true" />
+</marginal>
+
+<marginal letter="468" page="238" line="13">
+<bzg>Fideicomiss</bzg> eigentlich eine formlose letztwillige Verfügung, deren Erfüllung nur dem Gewissen (fidei) des Erben überlassen und deren Vollzug nicht erzwingbar war; hier allgemeiner für Lindners letztwilligen Auftrag, Hamann möge seine Bibliothek katalogisieren und verkaufen
+</marginal>
+
+<marginal letter="468" page="238" line="17">
+<bzg>Fleihen</bzg> in Ordnung bringen
+</marginal>
+
+<marginal letter="468" page="238" line="20">
+<bzg>Candidaten</bzg> <link ref="richter-jg" linktext="true" />
+</marginal>
+
+<marginal letter="468" page="238" line="21">
+<bzg>Catalogum</bzg> Auktionsverzeichnis der nachgelassenen Bücher, wie 
+</marginal>
+
+<marginal letter="468" page="238" line="22">
+<bzg>Adjunctur</bzg> in die Helferrolle bei der Erstellung des <link ref="hamann" subref="hamann-biga" linktext="false"><titel>Biga bibliothecarum</titel></link>
+</marginal>
+
+<marginal letter="468" page="238" line="26">
+<bzg>gelehrten Arbeiten</bzg> <link ref="penzel" linktext="false">Penzel</link> war zu der Zeit Redakteur der <link ref="konigsbergsche-gelehrte-p-z" linktext="false"><titel>Königsbergschen Gelehrten und Politischen Zeitungen</titel></link>
+</marginal>
+
+<marginal letter="468" page="238" line="31">
+<bzg>plastischer Industrie</bzg> gestaltender Fleißes
+</marginal>
+
+<marginal letter="468" page="238" line="34">
+<bzg>s. v.</bzg> sit venia erbo, entschuldigen Sie den Ausdruck
+</marginal>
+
+<marginal letter="468" page="238" line="36">
+<bzg>Weiber in der platonischen Republick</bzg> <link ref="platon" subref="plat-rep" linktext="true" />, 457D
+</marginal>
+
+<marginal letter="468" page="239" line="7">
+<bzg>dreyer Hände</bzg> neben seiner eigenen offenbar der Hände von <link ref="lauson" linktext="true" /> und <link ref="richter-jg" linktext="true" />
+</marginal>
+
+<marginal letter="468" page="239" line="14">
+<bzg>versudelter Catalogus</bzg><link ref="hamann" subref="hamann-biga" linktext="false"><titel>Biga bibliothecarum</titel></link>
+</marginal>
+
+<marginal letter="468" page="239" line="18">
+<bzg>Scarron&#x202F;…</bzg> <link ref="scarron" linktext="true" />, Henkel: »angeblich ein Sonett im 7. Band seiner Oeuvres complètes«, 1752, <wwwlink address="https://books.google.de/books?id=1_BjAAAAcAAJ">Google Books</wwwlink>?!?
+</marginal>
+
+<marginal letter="468" page="239" line="23">
+<bzg>Perfecit opus </bzg>
+</marginal>
+
 
 Brief 398, Entwurf
 
