@@ -14324,7 +14324,11 @@ D. Joh. Salomo Semlers <titel>Abhandlung von freier Untersuchung des Canon nebst
 <titel>Annaei Senecae tum rhetoris tum philosophi opera omnia ab Andrea Schotto [ad veterum exemplarium fidem] castigata, Graecis etiam iatibus expletis</titel> (Genf 1665) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;9/132: „Senecae Opera, Tom. I. II. Gen. 665“; und: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;11/172: „Ann. Senecae tum Rhetoris tum Philosophi Opera, Gen. 665“].<line type="break" />
 <titel>L. et M. Annaei Senecae Tragoediae, cum notis Th. Farnabii</titel> (Amsterdam 1665) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;15/242: „L. &amp; A. Senecae Tragoediae ex ed. Farnabii, Amst. 665“].</eintrag>
 </subsection>
-<subsection id="seneca-epist" type="neuzeit" sort="20">
+<subsection id="seneca-benef" type="neuzeit" sort="20">
+<lemma>Sen. <titel>benef.</titel></lemma>
+<eintrag>de beneficiis.</eintrag>
+</subsection>
+<subsection id="seneca-epist" type="neuzeit" sort="30">
 <lemma>Sen. <titel>epist.</titel></lemma>
 <eintrag>epistulae morales ad Lucilium.</eintrag>
 </subsection>
