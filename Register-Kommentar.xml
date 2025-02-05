@@ -1696,7 +1696,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="bohme" type="neuzeit">
 <lemma>Jacob Böhme</lemma>
-<eintrag>1575–1624. Schuhmachermeister und Mystiker; in späten Studienheften machte sich Hamann Notizen zu Böhmes Werk (N&#xA0;V S.&#x202F;324f.). Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5003.html#adbcontent">Hamberger, Julius: Böhme, Jacob, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;65–72</wwwlink>.</eintrag>
+<eintrag>1575–1624. Schuhmachermeister und Mystiker; in späten Studienheften machte sich Hamann Notizen zu Böhmes Werk (N&#xA0;V S.&#x202F;324f.), wohl im <intlink letter="467" page="242" line="26" linktext="false">Sommer 1776</intlink>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5003.html#adbcontent">Hamberger, Julius: Böhme, Jacob, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;65–72</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bohmer" type="neuzeit">
@@ -8809,7 +8809,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kraus" type="neuzeit">
 <lemma>Christian Jacob Kraus</lemma>
-<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, 1781 als Nachfolger von K. A. Christiani Prof. der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von <link ref="bucholtz-k-jc" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink></eintrag>
+<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, 1781 als Nachfolger von K. A. Christiani Professor der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von <link ref="bucholtz-k-jc" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="krebs" type="neuzeit">
@@ -12577,6 +12577,17 @@ Dt. Übers. zitiert nach: Konrat Ziegler (Übers.), <titel>Plutarch: Große Grie
 </subsection>
 </kommentar>
 
+<kommentar id="pordage" type="neuzeit">
+<lemma>John Pordage</lemma>
+<eintrag>1607–1681. Anglikanischer Priester, Wundarzt und Mystiker, Anhänger von <link ref="bohme" linktext="true" />; vgl. die späten Studienhefte (wohl von <intlink letter="467" page="242" line="26" linktext="false">Sommer 1776</intlink>), N&#xA0;V S.&#x202F;326f. Siehe <wwwlink address="https://d-nb.info/gnd/128636696">GND</wwwlink>.</eintrag>
+<subsection id="pordage-metaphysica" type="neuzeit" >
+<lemma>Pordage, <titel>Göttliche und Wahre Metaphysica</titel></lemma>
+<eintrag>
+ <titel>Göttliche und Wahre Metaphysica, Oder Wunderbahre, durch eigene Erfahrung erlangte Wissenschafft Der unsichtbaren und ewigen Dinge […] durch Johann Pordäschen</titel> (3Bde., Frankfurt, Leipzig: Hagen 1715). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10266435-1">BSB München: Asc. 3869-1</wwwlink>.
+ </eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="porsch" type="neuzeit">
 <lemma>Arnold Heinrich Porsch</lemma>
 <eintrag>Hofmeister.</eintrag>
@@ -16109,7 +16120,7 @@ Voltaire nimmt darin Partei für Johann Samuel König (der zuvor ans gelehrte Pu
 <subsection id="voltaire-micromegas" type="neuzeit" sort="75">
 <lemma>Voltaire, <titel>Micromégas</titel></lemma>
 <eintrag>
-<titel>Le Micromégas de Mr. de Voltaire. Avec une histoire des croisades et un nouveau plan de l’histoire de l’esprit humain par le meme</titel> (Berlin 1753). Digitalisat: <wwwlink address=" 	http://resolver.staatsbibliothek-berlin.de/SBB00022CA800000000">Stabi Berlin: Xy 3162<a></wwwlink>.
+<titel>Le Micromégas de Mr. de Voltaire. Avec une histoire des croisades et un nouveau plan de l’histoire de l’esprit humain par le meme</titel> (Berlin 1753). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00022CA800000000">Stabi Berlin: Xy 3162a</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="voltaire-annales" type="neuzeit" sort="80">
@@ -16955,6 +16966,18 @@ Der englische Text wird hier zitiert nach der vom Autor überarbeiteten Neuaufla
 <eintrag>
 <titel>The brothers. A tragedy. Acted at the Theatre-Royal in Drury-Lane</titel> (London 1753).<line type="break" />
 Übers.: <titel>Die Brüder. Ein Trauerspiel</titel> (Frankfurt, Leipzig 1756), übers. von <link ref="bodmer" linktext="true" />. Digitalisat: <wwwlink address="http://doi.org/10.3931/e-rara-66242">ZH Zürich: 3.308,2</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="young-a" type="neuzeit">
+<lemma>Arthur Young</lemma>
+<eintrag>1741–1820. Englischer Volkswirt und Agrarschriftsteller, siehe <wwwlink address="https://d-nb.info/gnd/118970550">GND</wwwlink>.</eintrag>
+<subsection id="young-political-arithmatic" type="neuzeit" >
+<lemma>Young, <titel>Political arithmatic</titel></lemma>
+<eintrag>
+<titel>Political arithmetic. Containing observations on the present state of Great Britain, and the principles of her policy in the encouragement of agriculture […]. By Arthur Young</titel> (London: Nicoll 1753).<line type="break" />
+Übersetzung: <titel>Arthur Youngs Politische Arithmetik: enthaltend Bemerkungen über den gegenwärtigen Zustand Großbrittaniens, und über die Grundsätze der Verwaltung dieses Staats in Absicht auf Beförderung des Ackerbaues. Aus dem Englischen übersetzt und mit Anmerkungen begleitet</titel> [von <link ref="kraus" linktext="true" />] (Königsberg: Kanter 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10282369-8">BSB München: Brit. 554</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
