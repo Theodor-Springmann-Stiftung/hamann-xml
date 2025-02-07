@@ -813,9 +813,14 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 </subsection>
 </kommentar>
 
+<kommentar id="barckhausen" type="neuzeit">
+<lemma>Heinrich Ludwig Willibald Barckhausen</lemma>
+<eintrag>1742–1813. Preußischer Jurist (Dr. jur., 1770 Kriegs- und Domänenrat in Hohenstein) und gelegentlicher Schriftsteller und Übersetzer, siehe <wwwlink address="https://d-nb.info/gnd/104356936">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="basedow" type="neuzeit">
 <lemma>Johann Bernhard Basedow</lemma>
-<eintrag>1724–1790. Ab 1761 Prof. der Moral und schönen Wissenschaften in Altona, 1774 Gründer der pädagogischen Privatakademie ‚Philanthropin‘ in Dessau. <wwwlink address="https://www.deutsche-biographie.de/sfz68160.html#adbcontent">Müller, Max: Basedow, Johann Bernhard, in: <titel>ADB</titel>&#x202F;2 (1875), S.&#x202F;113–124</wwwlink>
+<eintrag>1724–1790. Ab 1761 Prof. der Moral und schönen Wissenschaften in Altona, 1774 Gründer der pädagogischen Privatakademie ‚Philanthropin‘ in Dessau. <wwwlink address="https://www.deutsche-biographie.de/sfz68160.html#adbcontent">Müller, Max: Basedow, Johann Bernhard, in: <titel>ADB</titel>&#x202F;2 (1875), S.&#x202F;113–124.</wwwlink>
 </eintrag>
 <subsection id="basedow-methoden" type="neuzeit" sort="10">
 <lemma>Basedow, <titel>Ueberzeugende Methoden der auf das bürgerliche Leben angewendeten Arithmetik</titel></lemma>
@@ -1142,6 +1147,11 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 <eintrag>
 <titel>Abhandlungen und Betrachtungen über einige wichtige Wahrheiten der Religion. Aus dem Englischen übersetzt von Johann Peter Bamberger</titel> (Halle 1763).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="benzler" type="neuzeit">
+<lemma>Johann Lorenz Benzler</lemma>
+<eintrag>1747–1817. Übersetzer, 1773 Redakteur des Lippischen Intelligenzblattes, seit 1783 Bibliothekar des Grafen Stolberg-Wernigerode.</eintrag>
 </kommentar>
 
 <kommentar id="berens-a" type="neuzeit">
@@ -4574,10 +4584,9 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <eintrag>Kaufmann in Königsberg.</eintrag>
 </kommentar>
 
-
-<kommentar id="fleming-p" type="neuzeit">
-<lemma>Paul Fleming</lemma>
-<eintrag>1609–1640. Siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118533908.html#adbcontent">Kolde, Theodor: Fleming, Paul, in: <titel>ADB</titel>&#x202F;7 (1878), S.&#x202F;115–117</wwwlink>.
+<kommentar id="flachsland-fs" type="neuzeit">
+<lemma>Friedrich Siegmund Flachsland</lemma>
+<eintrag>1743–1784. Bruder von <link ref="herder-c" linktext="true" />, hessen-darmstädtischer Geheimer Regierungssekretär.
 </eintrag>
 </kommentar>
 
