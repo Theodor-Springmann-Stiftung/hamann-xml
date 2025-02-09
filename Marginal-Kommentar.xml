@@ -59473,11 +59473,15 @@ Brief Nr. 469
 </marginal>
 
 <marginal letter="469" page="252" line="12" sort="1">
-<bzg>Präsid.</bzg> <link ref="moser" linktext="true" />, vgl Claudius’ Brief an Herder vom 10. August 1776 (<link ref="claudius" linktext="false"> Jessen (Hg.): <title>Claudius: Briefe an Freunde</title>,</link> Nr. 145)?!?
+<bzg>Präsid.</bzg> <link ref="moser" linktext="true" />
 </marginal>
 
-<marginal letter="469" page="252" line="12" sort="1">
+<marginal letter="469" page="252" line="12" sort="2">
 <bzg>Gewerb</bzg> als einer der drei Oberlandkommissare
+</marginal>
+
+<marginal letter="469" page="252" line="13">
+<bzg>Irrungen</bzg> vgl. Claudius’ Brief an Herder vom 10. August 1776 (<link ref="claudius" linktext="false"> Jessen (Hg.): <title>Claudius: Briefe an Freunde</title>,</link> Nr. 145), in dem es heißt: „die Luft dahier conveniert mir nicht“?!?
 </marginal>
 
 <marginal letter="469" page="252" line="13">
@@ -59493,7 +59497,7 @@ Brief Nr. 469
 </marginal>
 
 <marginal letter="469" page="252" line="21">
-<bzg>fuimus Troes!</bzg> <link ref="vergil" subref="vergil-aeneis" linktext="true" />, 2,325
+<bzg>fuimus Troes!</bzg> dt. wir sind Troer gewesen <link ref="vergil" subref="vergil-aeneis" linktext="true" />, 2,325
 </marginal>
 
 <marginal letter="469" page="252" line="22">
@@ -59579,7 +59583,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="254" line="1" >
-<bzg>schwerhaltiger Brief</bzg> Brief Nr. 469
+<bzg>schwerhaltiger Brief</bzg> Brief Nr. 469 <intlink letter="469" page="248" line="27" linktext="false">HKB 469</intlink>
 </marginal>
 
 <marginal letter="470" page="254" line="3" >
@@ -59591,11 +59595,11 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="254" line="13" >
-<bzg>Compere Matthieu</bzg> nicht überliefert ?!?
+<bzg>Compere Matthieu</bzg> <link ref="claudius" linktext="true" />, nicht überliefert
 </marginal>
 
 <marginal letter="470" page="254" line="17">
-<bzg>Darmstädtern</bzg> vgl. 252,18; 274,12ff. ?!?
+<bzg>Darmstädtern</bzg> vgl. <intlink letter="469" page="252" line="13" linktext="true" /> und <intlink letter="474" page="274" line="12" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="254" line="22" >
@@ -59611,12 +59615,11 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="255" line="1">
-<bzg>Guasco de l’usage des Statues</bzg> Guasco, Abbé Octavien de (1712- 1781), auswärtiges Mitglied der Berliner Akademie der
-Wissenschaften, De l'usage des statues chez les anciens, essai historique. Brüssel 1768. Biga 63/83
+<bzg>Guasco de l’usage des Statues</bzg> <link ref="guasco" subref="guasco-usage" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="255" line="2">
-<bzg>Griechen</bzg> Porphyrius de antro Nympharum gr. et lat. ex ed. van Goens, Trai. 765.
+<bzg>Griechen</bzg> <link ref="porphyrios" subref="porphyrios-nympharum" linktext="true" />, vgl. den Biga-Eintrag dazu
 </marginal>
 
 <marginal letter="470" page="255" line="3" sort="1">
@@ -59632,22 +59635,72 @@ Wissenschaften, De l'usage des statues chez les anciens, essai historique. Brüs
 </marginal>
 
 <marginal letter="470" page="255" line="12">
-<bzg>Gener. Adm.</bzg> General Administration; Brief nicht überliefert; möglicherweise hatte H. seine Bücher auch dort angeboten, um zu einer Reise nach
-Berlin Gelegenheit zu haben (und weiter nach Weimar kommen zu können), 257,2f.; 254,22ff.
+<bzg>Gener. Adm.</bzg> <link ref="general-akzise-und-zoll-direktion" linktext="true" /> Brief nicht überliefert; möglicherweise hatte Hamann seine Bücher auch dort angeboten, um zu einer Reise nach Berlin Gelegenheit zu haben (und weiter nach Weimar kommen zu können), <intlink letter="470" page="257" line="2" linktext="true" />s.o. und <intlink letter="470" page="254" line="22" linktext="false">s.u.</intlink>
 </marginal>
 
 <marginal letter="470" page="255" line="17">
-<bzg>Brief</bzg> Brief Nr. 469
+<bzg>Brief</bzg> <intlink letter="469" page="250" line="20" linktext="false">HKB 469</intlink>
 </marginal>
 
 <marginal letter="470" page="255" line="26">
 <bzg>Magd … Hausmutter</bzg> Magd nicht ermittelt; <link ref="schumacher-ar" linktext="true" />
 </marginal>
 
-<marginal letter="470" page="255" line="37">
-<bzg>China</bzg> Chinarinde
+<marginal letter="470" page="255" line="37" sort="1">
+<bzg>China</bzg> Die chininhaltige Chinarinde wurde normalerweise zur Fiebersenkung verwendet.
 </marginal>
 
+<marginal letter="470" page="255" line="37" sort="2">
+<bzg>Rhabarber</bzg> Chinesischer Rhabarber wurde lange Zeit als Heilmittel eingesetzt, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Rhabarber</wwwlink>, s.v. Wassersucht 
+</marginal>
+
+<marginal letter="470" page="256" line="2">
+<bzg>Materialisten</bzg> Händler mit Material-Waren, also „rohe und seltene Waaren aus dem Mineral- und Pflanzenreiche, so wie sie in den Küchen, Apotheken, von den Färbern, Mahlern u. s. f. weiter verarbeitet werden; wohin die Spezereyen, Gewürze, rohe Farbenkörper u.s.f. gehören“ (Adelung, Bd.&#x202F;3, Sp.&#x202F;111, s.v. <wwwlink address="https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009133_1_0_674">Material-Waare</wwwlink>
+</marginal>
+
+<marginal letter="470" page="256" line="26">
+<bzg>Brief nach Berl.</bzg> <intlink letter="470" page="255" line="12" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="470" page="256" line="33">
+<bzg>HE Dir.</bzg> <link ref="stockmar" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="256" line="34">
+<bzg>Lauson</bzg> <link ref="lauson" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="256" line="36">
+<bzg>Gen. Adm.</bzg> <link ref="general-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="257" line="2">
+<bzg>Chef Mr. de la Haye de Launay</bzg> <link ref="launay" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="257" line="2">
+<bzg>von meinen&#x202F;…&#x202F;Büchern</bzg> aus dem <link ref="hamann" subref="hamann-biga" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="257" line="15">
+<bzg>Hofraths</bzg> <link ref="lindner-jef" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="257" line="25">
+<bzg>Ihr euch meines Trübsals angenommen</bzg> vgl. zu Herders Hypothek, um Hamann vom Verkauf seiner Bücher abzubringen, <intlink letter="469" page="250" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="257" line="26">
+<bzg>nicht daß ich…&#x202F;</bzg> <link ref="nt-phil" subref="nt-phil4" linktext="false">Phil 4,17</link>
+</marginal>
+
+<marginal letter="470" page="257" line="28">
+<bzg>arrham</bzg> dt. Pfand
+</marginal>
+
+<marginal letter="470" page="257" line="29">
+<bzg>Netzchen über der Karte</bzg> vgl. <intlink letter="469" page="253" line="12" linktext="true" />
+</marginal>
 
 
 </marginalien>

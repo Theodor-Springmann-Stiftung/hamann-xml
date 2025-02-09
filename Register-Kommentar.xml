@@ -5722,6 +5722,16 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 </subsection>
 </kommentar>
 
+<kommentar id="guasco" type="neuzeit">
+<lemma>Octavien de Guasco</lemma>
+<eintrag>1712–1781. Abbé, auswärtiges Mitglied der Berliner Akademie der Wissenschaften, siehe <wwwlink address="http://d-nb.info/gnd/122341902">GND</wwwlink>.</eintrag>
+<subsection id="guasco-usage" type="neuzeit" sort="10">
+<lemma>Guasco, <titel>De l’usage des statues chez les anciens</titel></lemma>
+<eintrag>
+<titel>De l’usage des statues chez les anciens. Essai historique</titel> (Brüssel 1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;63/83: „De l’Usage des Statues chez les Anciens (par l’Abbé de Guasco, frere du Comte, à qui le polype attira ici une mort apoplectique) Brux. 768. Porphyrius de antro Nympharum gr. et lat. ex ed. van Goens, Trai. 765. Explication historique d’un Tableau en relief (par feu l’Eveque de Varmie Mr. de Grabowsky) Koenigsb. 725. m. Kupf.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222100-4 ">BSB München: 4 Arch. 211</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="gueldenhorn-c" type="neuzeit">
 <lemma>Christoph Güldenhorn</lemma>
 <eintrag>1741 bis nach 1789. Ehemann von <link ref="herder-cd-g" linktext="true" />; Losbäcker in Mohrungen und Alkoholiker.</eintrag>
@@ -6363,7 +6373,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;419–425.
 </subsection>
  <subsection id="hamann-biga" type="neuzeit" sort="683">
 <lemma><titel>Biga bibliothecarum</titel></lemma>
-<eintrag>Dt. zweispännige Bibliothek: Hamann bekam Ende März 1776 von dem sterbenden <link ref="lindner-jg" linktext="true" /> den Auftrag, dessen Bibliothek zu katalogisieren und zu verkaufen (gelegentlich assistiert vmtl. von <link ref="lauson" linktext="false">Lauson</link> und <link ref="richter-jg" linktext="true" />). Hamanns eigene Bibliothek, die er aus Geld- und Raumnot meinte veräußern zu müssen, katalogisierte er aus Verbundenheit mit dem Verstorbenen und seinen Büchern zugleich mit, entschied sich aber letztlich wegen Herders Unterstützung gegen einen Verkauf der eigenen Bücher. Vgl. ausführlicher <link ref="nad-j-1949b" linktext="false">Nadler: <titel>Zeuge des Corpus mysticum</titel>,</link> S.&#x202F;262–269, außerdem <link ref="ime-n-1938" linktext="false">Imendörffer: <titel>Johann Georg Hamann und seine Bücherei</titel></link>. Der gemeinsame Katalog der Bibliotheken wurde 1776 gedruckt und kann als Überblick für Hamanns Lektüren dienen; siehe das Exemplar der <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235764">ULB Münster</wwwlink>, vgl. auch die Edition in N&#x202F;V,13–121.</eintrag>
+<eintrag>Dt. zweispännige Bibliothek: Hamann bekam Ende März 1776 von dem sterbenden <link ref="lindner-jg" linktext="true" /> den Auftrag, dessen Bibliothek zu katalogisieren und zu verkaufen (gelegentlich assistiert vmtl. von <link ref="lauson" linktext="false">Lauson</link> und <link ref="richter-jg" linktext="true" />). Hamanns eigene Bibliothek, die er aus Geld- und Raumnot meinte veräußern zu müssen, katalogisierte er aus Verbundenheit mit dem Verstorbenen und seinen Büchern zugleich mit, entschied sich aber letztlich, auch wegen einer Unterstützung Herders, gegen einen Verkauf der eigenen Bücher. Vgl. ausführlicher <link ref="nad-j-1949b" linktext="false">Nadler: <titel>Zeuge des Corpus mysticum</titel>,</link> S.&#x202F;262–269, außerdem <link ref="ime-n-1938" linktext="false">Imendörffer: <titel>Johann Georg Hamann und seine Bücherei</titel></link>. Der gemeinsame Katalog der Bibliotheken wurde 1776 gedruckt und kann als Überblick für Hamanns Lektüren dienen; siehe das Exemplar der <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235764">ULB Münster</wwwlink>, vgl. auch die Edition in N&#x202F;V,13–121.</eintrag>
 </subsection>
  <subsection id="hamann-schuerze" type="neuzeit" sort="684">
 <lemma>Hamann, <titel>Schürze von Feigenblättern</titel></lemma>
@@ -12623,7 +12633,13 @@ Dt. Übers. zitiert nach: Konrat Ziegler (Übers.), <titel>Plutarch: Große Grie
 
 <kommentar id="porphyrios" type="neuzeit">
 <lemma>Porphyrios</lemma>
-<eintrag>233–301. Griech. Philosoph.</eintrag>
+<eintrag>233–301. Griechischer Philosoph.</eintrag>
+<subsection id="porphyrios-nympharum" type="neuzeit" >
+<lemma>Porphyrios, <titel>De Antro Nympharum</titel></lemma>
+<eintrag>
+ <titel>De Antro Nympharum</titel> (Utrecht1765) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;63/83: „De l’Usage des Statues chez les Anciens (par l’Abbé de Guasco, frere du Comte, à qui le polype attira ici une mort apoplectique) Brux. 768. Porphyrius de antro Nympharum gr. et lat. ex ed. van Goens, Trai. 765. Explication historique d’un Tableau en relief (par feu l’Eveque de Varmie Mr. de Grabowsky) Koenigsb. 725. m. Kupf.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10216336-7">BSB München: 4 A.gr.b. 1192#Beibd.1</wwwlink>.
+ </eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="posselius" type="neuzeit">
@@ -15033,7 +15049,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="stockmar" type="neuzeit">
 <lemma>Carl Christoph Stockmar</lemma>
-<eintrag>Um 1740 bis nach 1812. Licent-Direktor am ostpreußischen Department in Königsberg; Provincial-, Akzise- und Zolldirektor seit Oktober 1774; Hamanns Vorgesetzter und Nachbar. Vgl. Gerlach: Lebensläufe Zeitläufte. Freimaurer im Alten Preußen 1738–1815 (Innsbruck 2024).</eintrag>
+<eintrag>Um 1740 bis nach 1812. Licent-Direktor am ostpreußischen Department in Königsberg; Provincial-, Akzise- und Zolldirektor seit Oktober 1774; Hamanns Vorgesetzter und Nachbar. Vgl. Gerlach: <titel>Lebensläufe Zeitläufte.</titel> Freimaurer im Alten Preußen 1738–1815 (Innsbruck 2024).</eintrag>
 </kommentar>
 
 <kommentar id="stoffel-c" type="neuzeit">
