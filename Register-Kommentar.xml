@@ -2899,7 +2899,8 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 
 <kommentar id="claudius" type="neuzeit">
 <lemma>Matthias Claudius</lemma>
-<eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der <titel>Hamburgischen Adreß- Comptoir- Nachrichten</titel>, 1771–1775 Redakteur des <titel>Wandsbecker Bothen</titel>, 1776–1777 Mitglied der Oberlandkommission in Darmstadt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink></eintrag>
+<eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der <titel>Hamburgischen Adreß- Comptoir- Nachrichten</titel>, 1771–1775 Redakteur des <titel>Wandsbecker Bothen</titel>, 1776–1777 Mitglied der Oberlandkommission in Darmstadt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink><line type="break" />
+Briefe Teilweise ediert bei: <title>Matthias Claudius: Briefe an Freunde</title>, hg. von Hans Jessen (Berlin 1938).</eintrag>
 <subsection id="claudius-bothe" type="neuzeit" sort="10">
 <lemma>Claudius, <titel>Der Wandsbecker Bothe</titel></lemma>
 <eintrag>
@@ -8013,7 +8014,14 @@ Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/cb32801271b/dat
 </eintrag>
 </kommentar>
 
+<kommentar id="journal-litteraire" type="neuzeit">
+<lemma>Journal littéraire</lemma>
+<eintrag>
+<titel>Journal littéraire dedié au roi, par une societé d’academiciens</titel> (Berlin: Decker 1772–1776). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k9813800q">Bibliothèque nationale de France, département Littérature et art, Z-52192-52215</wwwlink>. 
+</eintrag>
+</kommentar>
 
+journal littéraire dedié au roi: par une societé d’academiciens
 <kommentar id="josephus" type="neuzeit">
 <lemma>Flavius Josephus</lemma>
 <eintrag>37- nach 100, römisch-jüdischer Geschichtsschreiber.
@@ -8531,6 +8539,11 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 <subsection id="kleuker-genius" type="neuzeit" sort="10">
 <lemma>Kleuker, <titel>Genius e scriptis antiquitatis monumentis hauriendus</titel></lemma>
 <eintrag><titel>Genius e scriptis antiquitatis monumentis hauriendus</titel>. In auspicium obeundarum prorectoris gymnasii lemgoniensis partium scrpsit Joannes Fridericus Kleuker (Lemgo: Meyer 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10961544-5">BSB München: 4 Diss. 3334,7</wwwlink>.<line type="break" /> 
+</eintrag>
+</subsection>
+<subsection id="kleuker-sohn-gottes" type="neuzeit" sort="20">
+<lemma>Kleuker, <titel>Menschlicher Versuch über den Sohn Gottes und der Menschen</titel></lemma>
+<eintrag><titel>Menschlicher Versuch über den Sohn Gottes und der Menschen</titel> (Bremen: Cramer 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399809-4">BSB München: Dogm. 1053</wwwlink>.<line type="break" /> 
 </eintrag>
 </subsection>
 </kommentar>

@@ -50781,7 +50781,7 @@ Brief Nr. 412
 </marginal>
 
 <marginal letter="412" page="106" line="3" sort="2">
-<bzg>hab ihm schon gesagt</bzg> Herder verwendete das Wortspiel von Asmus für Claudius (nach <link ref="claudius" subref="claudius-werke" linktext="true" />) und asinus (lat. Esel) auch in einem Brief an denselben, wie man aus dessen Antwort („nennt mir nicht noch einmal Asinus!“) schließen kann; vgl. Claudius an Herder (1774), in: <title>Matthias Claudius: Briefe an Freunde</title>, hg. von Hans Jessen. Berlin 1938, S.&#x202F;96.
+<bzg>hab ihm schon gesagt</bzg> Herder verwendete das Wortspiel von Asmus für Claudius (nach <link ref="claudius" subref="claudius-werke" linktext="true" />) und asinus (lat. Esel) auch in einem Brief an denselben, wie man aus dessen Antwort („nennt mir nicht noch einmal Asinus!“) schließen kann; vgl. Claudius an Herder (1774), in: <link ref="claudius" linktext="false"> Jessen (Hg.): <title>Claudius: Briefe an Freunde</title>,</link>, S.&#x202F;96.
 </marginal>
 
 <marginal letter="412" page="106" line="4" sort="1">
@@ -56674,7 +56674,7 @@ Brief Nr. 454
 </marginal>
 
 <marginal letter="454" page="201" line="3">
-<bzg>Ich u. mein Weib</bzg> In <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;1; zu <link ref="herder-c" linktext="false">Caroline Herders</link> Umriss vgl. zu <intlink letter="452" page="195" line="34" linktext="true" />; dass Herder auch abgebildet sei, verneint er andernorts, vgl. <intlink letter="456" page="210" line="9" linktext="true" />.
+<bzg>Ich u. mein Weib</bzg> In <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;1; zu <link ref="herder-c" linktext="false">Caroline Herders</link> Umriss vgl. zu <intlink letter="452" page="195" line="34" linktext="true" />; dass Herder auch abgebildet sei, verneint er andernorts, vgl. <intlink letter="456" page="210" line="9" linktext="true" />, später nimmt er es wieder an, vgl. <intlink letter="469" page="253" line="7" linktext="true" />
 </marginal>
 
 <marginal letter="454" page="201" line="7">
@@ -59266,7 +59266,7 @@ Brief Nr. 468
 </marginal>
 
 <marginal letter="468" page="247" line="33">
-<bzg>apokalyptische Zahl</bzg> 666, vgl. <link ref="nicolai" subref="nicolai-nothanker" linktext="true" />, Bd.&#x202F;3, S.&#x202F;98
+<bzg>apokalyptische Zahl</bzg> 666 (<link ref="nt-off" subref="nt-off13" linktext="false">Offb 13,18</link>), vgl. <link ref="nicolai" subref="nicolai-nothanker" linktext="true" />, Bd.&#x202F;3, S.&#x202F;98
 </marginal>
 
 <marginal letter="468" page="248" line="1">
@@ -59445,7 +59445,11 @@ Brief Nr. 469
 </marginal>
 
 <marginal letter="469" page="252" line="1">
-<bzg>Wilkes</bzg> ?!?
+<bzg>Wilkes</bzg> <link ref="wilkes" linktext="true" /> verwendete als Pamphletist Zahlen als Siglen.
+</marginal>
+
+<marginal letter="469" page="252" line="1">
+<bzg>Thiers 666</bzg> nach <link ref="nt-off" subref="nt-off13" linktext="false">Offb 13,18</link>
 </marginal>
 
 <marginal letter="469" page="252" line="3">
@@ -59461,11 +59465,95 @@ Brief Nr. 469
 </marginal>
 
 <marginal letter="469" page="252" line="7">
-<bzg>Reihen über Tönnies</bzg> vgl. <link ref="auserlesene-bibliothek" linktext="true" />, Bd.&#x202F;10, S.&#x202F;365ff, <wwwlink address="https://hdl.handle.net/2027/hvd.hxj3zr?urlappend=%3Bseq=403%3Bownerid=27021597767387230-423">Hathi Trust</wwwlink>?!?
+<bzg>Reihen über Tönnies</bzg> vgl. Herders Kurzrezension von <link ref="tonnies" subref="tonnies-johannis" linktext="true" /> in <link ref="auserlesene-bibliothek" linktext="true" />, Bd.&#x202F;10, S.&#x202F;365–367, unter der Sigle „666“
 </marginal>
 
 <marginal letter="469" page="252" line="8">
 <bzg>Klaudius</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="252" line="12" sort="1">
+<bzg>Präsid.</bzg> <link ref="moser" linktext="true" />, vgl Claudius’ Brief an Herder vom 10. August 1776 (<link ref="claudius" linktext="false"> Jessen (Hg.): <title>Claudius: Briefe an Freunde</title>,</link> Nr. 145)?!?
+</marginal>
+
+<marginal letter="469" page="252" line="12" sort="1">
+<bzg>Gewerb</bzg> als einer der drei Oberlandkommissare
+</marginal>
+
+<marginal letter="469" page="252" line="13">
+<bzg>ersten Mitgliede der Commißion</bzg> Landkammerrat Eymes?!?
+</marginal>
+
+<marginal letter="469" page="252" line="18">
+<bzg>Lilie auf dem Felde</bzg> <link ref="nt-mt" subref="nt-mt6" linktext="false">Mt 6,28</link>
+</marginal>
+
+<marginal letter="469" page="252" line="20">
+<bzg>Pathen u. Ihre Gevatterin</bzg> <link ref="herder-a" linktext="true" /> und <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="252" line="21">
+<bzg>fuimus Troes!</bzg> <link ref="vergil" subref="vergil-aeneis" linktext="true" />, 2,325
+</marginal>
+
+<marginal letter="469" page="252" line="22">
+<bzg>Urk.</bzg> Die Fortsetzungen von Herders <link ref="herder" subref="herder-altesteurkunde" linktext="false">Aeltester Urkunde des Menschengeschlechts</link>; nach dem 4.&#x202F;Teil erschien allerdings keiner mehr.
+</marginal>
+
+<marginal letter="469" page="252" line="29">
+<bzg>Merkur&#x202F;…&#x202F;Hutten</bzg> Herders Beitrag über Ulrich von Hutten im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, 3.&#x202F;Viertelj. 1776, S.&#x202F;3–34
+</marginal>
+
+<marginal letter="469" page="252" line="32">
+<bzg>Kleuker</bzg> <link ref="kleuker" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="252" line="34">
+<bzg>Menschlicher Versuch&#x202F;…</bzg> <link ref="kleuker" subref="kleuker-sohn-gottes" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="253" line="2">
+<bzg>gehöfelt</bzg> wohl im Sinne von gehobelt, sodass sich zu geschliffenere Manieren einstellen werden
+</marginal>
+
+<marginal letter="469" page="253" line="4">
+<bzg>Göttingscher Theol. Philos. Polyhistorie</bzg> Kleuker studierte von 1770 bis 1773 in Göttingen
+</marginal>
+
+<marginal letter="469" page="253" line="5">
+<bzg>Lavat.</bzg> <link ref="lavater" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="253" line="6">
+<bzg>Ihr Bild zu so guter Stunde kam</bzg> das Hamann-Porträt in den <link ref="lavater" subref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmenten</titel></link>, vgl. <intlink letter="467" page="240" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="253" line="7">
+<bzg>soll auch drinn seyn</bzg> vgl. <intlink letter="454" page="201" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="253" line="8">
+<bzg>Schatten&#x202F;…&#x202F;auch unsre</bzg> Hamann wird sie später erhalten, vgl. <intlink letter="500" page="344" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="253" line="12">
+<bzg>näht mit eigner Hand</bzg> vgl. <intlink letter="470" page="257" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="253" line="16">
+<bzg>Eberh. Preisschr.</bzg> <link ref="eberhard-ja" subref="eberhard-theorie" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="253" line="17">
+<bzg>Sulzers Hypoth.</bzg> <link ref="sulzer" linktext="false">Sulzers</link> Heypothese
+</marginal>
+
+<marginal letter="469" page="253" line="20">
+<bzg>Journal lit. dedié au Roi</bzg> <link ref="journal-litteraire" linktext="true" />
+</marginal>
+
+<marginal letter="469" page="253" line="25">
+<bzg>hier</bzg> in Bückeburg, vor der Abreise nach Weimar 
 </marginal>
 
 
