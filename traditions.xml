@@ -8491,7 +8491,7 @@
 			<app ref="6">Digitalisat des Anhanges: <wwwlink address="https://www.jbc.bj.uj.edu.pl/publication/856480">Hamann-Handschriften in der Jagiellonenbibliothek, Krakau.</wwwlink>
 			</app>
 			<app ref="9">
-				<note>Dem Brief lag ein gefaltetes Oktavblatt bei (vgl. <intlink letter="470" page="254" line="22" linktext="true" />, das auf vier Seiten anfänglich Abschriften von Hamanns Schreiben an die Generaladministration, 18. August und 1. September 1776, enthielt; später notierte Hamann zusätzlich einen Begleittext an Herder als PS zu <intlink letter="470" page="263" line="28" linktext="false">HKB 470</intlink> in den breiten Platz zwischen Anrede und Text.</note>
+				<note>Dem Brief lag ein gefaltetes Oktavblatt bei (vgl. <intlink letter="470" page="254" line="22" linktext="true" />, das auf vier Seiten anfänglich Abschriften von Hamanns Schreiben an die <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>, 18. August und 1. September 1776, enthielt; später notierte Hamann zusätzlich einen Begleittext an Herder als PS zu <intlink letter="470" page="263" line="28" linktext="false">HKB 470</intlink> in den breiten Platz zwischen Anrede und Text.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="434" autopsic="434" />
@@ -8516,16 +8516,9 @@
 <line index="18" autopsic="18" /><edit ref="5611"><note>Quer
 					am Rand:</note> Gott mit Ihnen allesamt klein u groß. Amen!</edit>
 <line type="empty" />
-<line
-						index="19" autopsic="19" /><align pos="right">Ksberg le 18 <aq>Août</aq> 76.</align>
-<line
-						index="20" autopsic="20" /><align pos="right">
-						<added>
-							<aq>I</aq>
-						</added>
-					</align>
-<line index="21" autopsic="21" /><aq>
-					Mrs,</aq>
+<line index="19" autopsic="19" /><note>Das erste Schreiben an die Generaladministration:</note>
+<line index="20" autopsic="20" /><align pos="right">Ksberg le 18 <aq>Août</aq> 76.</align>
+<line index="21" autopsic="21" /><aq>Mrs,</aq>
 <line index="22" autopsic="22" tab="1" /><aq>J’ai été depuis 767 interprete
 					excedé de travail et malgré la <line index="23" autopsic="23" />deduction de 5 Ecus par
 					mois executée sur mes appointemens <line index="24" autopsic="24" />par l’Etat de 772 je
