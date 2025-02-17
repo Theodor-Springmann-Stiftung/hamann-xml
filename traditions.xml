@@ -8479,26 +8479,23 @@
 
 		<letterTradition letter="470">
 			<app ref="4">
-				Staatsbibliothek zu Berlin, Ms. Germ. quart. 1304, 144–147.
+				Provenienz des Hauptbriefes an Herder: Staatsbibliothek zu Berlin, Ms. Germ. quart. 1304, 144–147.<line type="break" />
+				Provenienz des Anhanges: Krakau, Jagiellonenbibliothek, Slg. Autographa der ehemaligen Preußischen Staatsbibliothek zu Berlin (ehemalige Berliner Signatur: Acc. ms. 10787, Nr. 1).
 </app>
-			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, V
-				185–194.<line type="break" /> ZH III 253–263, Nr. 470. </app>
+			<app ref="5">Drucke des Hauptbriefes an Herder: <line type="break" />
+			Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, V 185–194.
+			<line type="break" />ZH III 253–263, Nr. 470.<line type="break" />
+			Drucke des Anhanges:<line type="break" />
+			Karl Hermann Gildemeister (Hg.): Johann Georg Hamann’s, des Magus im Norden, Leben und Schriften. 6 Bde. Gotha 1857–1868
+			</app>
+			<app ref="6">Digitalisat des Anhanges: <wwwlink address="https://www.jbc.bj.uj.edu.pl/publication/856480">Hamann-Handschriften in der Jagiellonenbibliothek, Krakau.</wwwlink>
+			</app>
 			<app ref="9">
-				<note>Johann Georg Hamann an Johann Gottfried Herder, zunächst Fortsetzung von ZH 470, dann
-					Abschrift der Schreiben an die Generaladministration vom 18. August und 1. September 1776.<line
-						type="break" /> Provenienz: Krakau, Jagiellonenbibliothek, Slg. Autographa der
-					ehemaligen Preußischen Staatsbibliothek zu Berlin (ehemalige Berliner Signatur: Acc. ms.
-					10787, Nr. 1).<line type="break" /> Bisherige Drucke: Karl Hermann Gildemeister (Hg.):
-					Johann Georg Hamann’s, des Magus im Norden, Leben und Schriften. 6 Bde. Gotha 1857–1868,
-					II 202–206.<line type="break" /> Digitalisat: <wwwlink
-						address="https://www.jbc.bj.uj.edu.pl/publication/856480">Hamann-Handschriften in der
-					Jagiellonenbibliothek, Krakau.</wwwlink></note>
+				<note>Dem Brief lag ein gefaltetes Oktavblatt bei (vgl. <intlink letter="470" page="254" line="22" linktext="true" />, das auf vier Seiten anfänglich Abschriften von Hamanns Schreiben an die Generaladministration, 18. August und 1. September 1776, enthielt; später notierte Hamann zusätzlich einen Begleittext an Herder als PS zu <intlink letter="470" page="263" line="28" linktext="false">HKB 470</intlink> in den breiten Platz zwischen Anrede und Text.
 				<line type="break" />
 				<ZHText>
 					<page index="434" autopsic="434" />
-<line index="8" autopsic="8" /><note>Von Hamann später
-					als Begleittext an Herder mit anderer Tinte in den breiten Platz zwischen Anrede und Text
-					gesetzt:</note><line type="break" />
+<line index="8" autopsic="8" /><note>Der Begleittext an Herder (als PS zu HKB 470):</note><line type="break" />
 <line index="9" autopsic="9" /><align pos="right"><edit
 							ref="5608">den 15 <aq>Oct</aq></edit> des Abends.</align>
 <line index="10"
