@@ -58440,7 +58440,7 @@ Brief Nr. 466
    </marginal>
 
                          <marginal letter="466" page="233" line="14">
-    <bzg>Kreuzfeld mit der Urk.</bzg> <link ref="kreutzfeld" linktext="true" /> war besonders an der Fortsetzung der <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> im 4.&#x202F;Tl. gelegen, vgl. <intlink letter="459" page="213" line="2" linktext="true" />; Herder wird die Zusendung später nachholen, vgl. <intlink letter="480" page="289" line="35" linktext="true" />
+    <bzg>Kreuzfeld mit der Urk.</bzg> <link ref="kreutzfeld" linktext="true" /> war besonders an der Fortsetzung der <link ref="herder" subref="herder-altesteurkunde" linktext="false"><titel>Ältesten Urkunde</titel></link> im 4.&#x202F;Tl. gelegen, vgl. <intlink letter="459" page="213" line="2" linktext="true" />; Herder wird die Zusendung später nachholen, vgl. <intlink letter="480" page="289" line="35" linktext="true" />
    </marginal>
 
                             <marginal letter="466" page="233" line="15">
@@ -59771,11 +59771,79 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="259" line="3">
-<bzg>Waßersucht&#x202F;…kalten Brand</bzg> die Gebrechen Lindners, vgl. etwa <intlink letter="465" page="226" line="27" linktext="true" />
+<bzg>Waßersucht&#x202F;…&#x202F;kalten Brand</bzg> die Gebrechen Lindners, vgl. etwa <intlink letter="465" page="226" line="27" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="259" line="5">
 <bzg>neue Apologie</bzg> <link ref="eberhard-ja" subref="eberhard-apologie" linktext="true" /> (wohl den ersten Bd. der 2. Aufl.)
+</marginal>
+
+<marginal letter="470" page="259" line="6">
+<bzg>freymüthigen Briefen</bzg> nicht ausgeführter Plan; vgl. <intlink letter="470" page="263" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="259" line="7">
+<bzg>intabescantque relicta!</bzg> dt. mögen sie [die Tyrannen] die Tugend sehen und über ihren Verlust sich verzehren, <link ref="persius" subref="persius-satiren" linktext="true" />, 3,38 (ganz: virtutem videant intabescantque relicta)
+</marginal>
+
+<marginal letter="470" page="259" line="11">
+<bzg>Catalogum</bzg> <link ref="hamann" subref="hamann-biga" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="259" line="12" sort="1">
+<bzg>Freundschaft dießeits und jenseits dem Grabe</bzg> eine Reflexion auf <link ref="lindner-jg" linktext="false">Lindners</link> letzten Wunsch, vgl. <intlink letter="467" page="237" line="27" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="259" line="12" sort="2">
+<bzg>Neopseudo Socratismum</bzg> <link ref="eberhard-ja" subref="eberhard-apologie" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="259" line="17">
+<bzg>Lemgoer Bibliothek</bzg> <link ref="auserlesene-bibliothek" linktext="true" />, vgl. <intlink letter="469" page="251" line="35" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="259" line="18">
+<bzg>Penzel</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="259" line="19" sort="1">
+<bzg>No 13.</bzg> vgl. zu <intlink letter="469" page="251" line="36" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="259" line="19" sort="2">
+<bzg>ersten Stück</bzg> ?!?
+</marginal>
+
+<marginal letter="470" page="259" line="27">
+<bzg>Kanters Buchladen</bzg> <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="259" line="29">
+<bzg>Landesherrn</bzg> Leopold III. von Anhalt-Dessau?!?
+</marginal>
+
+<marginal letter="470" page="260" line="7">
+<bzg>Kant</bzg> <link ref="kant" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="260" line="8">
+<bzg>Stark</bzg> <link ref="starck" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="260" line="11">
+<bzg>Prof. Kreutzfeld</bzg> <link ref="kreuzfeld" linktext="true" />, Nachfolger <link ref="lindner-jg" linktext="false">Lindners</link> als Professor der Poesie
+</marginal>
+
+<marginal letter="470" page="260" line="12">
+<bzg>Prof. de cap a pied</bzg> Professor von Kopf bis Sohle
+</marginal>
+
+<marginal letter="470" page="260" line="18">
+<bzg>2ten Theil Ihrer Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, vgl. <intlink letter="466" page="233" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="260" line="19">
+<bzg>Disputation&#x202F;…&#x202F;de fictionibus</bzg> nicht ermittelt
 </marginal>
 
 
