@@ -2429,6 +2429,12 @@ C
 <kommentar id="campanella" type="neuzeit">
 <lemma>Thomas Campanella</lemma>
 <eintrag>1568–1639. Ital. Dominikaner, Naturphilosoph.</eintrag>
+<subsection id="campanella-philosophia" type="neuzeit">
+<lemma>Campanella, <titel>Realis philosophia epilogisticae</titel></lemma>
+<eintrag>
+<titel>Thomae Campanellae Realis philosophiae epilogisticae partes quartour, Hoc est de rerum natura, hominum moribus, politica, cui civitas solis iuncta est et oeconomica, Cum Adnotationibus Physiologicis a Thobia Adami</titel> (Frankfurt 1623) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> &#x202F;97/23: „Ei. Realis Philosophia Epilogistica, ib. 623“]. Digitalisat: <wwwlink address="https://sammlungen.ub.uni-frankfurt.de/urn:nbn:de:hebis:30:2-13126">UB Frankfurt</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="campenhausen-jc" type="neuzeit">
@@ -2651,6 +2657,16 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <lemma>Cesarotti, <titel>Ossian</titel></lemma>
 <eintrag>
 <titel>Poesie di Ossian Figlio di Fingal antico Poeta Celtico ultimamente scoperte e tradotte in prosa Inglese da Jacopo Macpherson</titel> […] (Padua 1763).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="cherbury" type="neuzeit">
+<lemma>Edward Herbert of Cherbury</lemma>
+<eintrag>1583–1648. Brittische Politiker, Schriftsteller und Religionsphilosoph, siehe <wwwlink address="https://d-nb.info/gnd/11899039X">GND</wwwlink>.</eintrag>
+<subsection id="cherbury-veritate" type="neuzeit">
+<lemma>Cherbury, <titel>De Veritate</titel></lemma>
+<eintrag>
+<titel>De veritate, prout distinguitur a revelatione, a verisimili, a possibili, et a falso</titel> (o.O. 1656). <wwwlink address="http://data.onb.ac.at/rep/10959112">ÖNB Wien</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -4166,6 +4182,16 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 <kommentar id="epiktet" type="neuzeit">
 <lemma>Epiktet</lemma>
 <eintrag>Um 50 bis 138&#x202F;n.&#x202F;Chr. Kaiserzeitlicher stoischer Philosoph.</eintrag>
+</kommentar>
+
+<kommentar id="epiphanius" type="neuzeit">
+<lemma>Epiphanius von Salamis</lemma>
+<eintrag>Um 315 bis 403&#x202F;n.&#x202F;Chr. Bischof von Salamis und Gegner des Origines.</eintrag>
+<subsection id="epiphanius-opera" type="neuzeit">
+<lemma>Epiphanios, <titel>Opera</titel></lemma>
+<eintrag><titel>Epiphanii Opera graece et latine editio Petaui</titel> (Köln 1672) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;1/5: „Epiphanii Opera gr. et lat. ex ed. Petauii, Tom. I. II. Col. 672“]. Ausgabe nicht ermittelt.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="epikur" type="neuzeit">
@@ -7760,7 +7786,12 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 <subsection id="irenaeus-haereses" type="neuzeit" sort="10">
 <lemma>Irenaeus, <titel>Conra omnes Haereses</titel></lemma>
 <eintrag>
-<titel>S. Irenaei Contra omnes Haereses</titel> libri quinque. Hg. von Johannes Ernst Grabe, gr./lat. (Oxford: Bennet 1702) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;1/4: „Irenaeus contra Haereses gr. et lat. ex ed. Grabii, Oxon: 702“]. <wwwlink address="http://data.onb.ac.at/rep/10B402D5">ÖNB Wien</wwwlink>.</eintrag>
+<titel>S. Irenaei Contra omnes Haereses</titel> libri quinque. Hg. von Johannes Ernst Grabe, gr./lat. (Oxford: Bennet 1702) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;1/4: „Irenaeus contra Haereses gr. et lat. ex ed. Grabii, Oxon: 702“]. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/10B402D5">ÖNB Wien</wwwlink>.</eintrag>
+</subsection>
+<subsection id="irenaeus-fragmenta" type="neuzeit" sort="20">
+<lemma>Irenaeus, <titel>Fragmenta</titel></lemma>
+<eintrag>
+<titel>S. Irenaei Fragmenta anecdota, quae latina versione notisque donavit duabus dissertationibus de oblatione et consecratione eucharistiae illustravit, liturgia graece Jo. Ern. Grabii et dissertatione de praejudiciis theologicis auxit Christophorus Matthaeus Pfaffius</titel> (Den Haag 1715) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;7/93: „Irenaei fragmenta anecdota ex ed. Pfaffii, Hag. 715“]. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/10294CA4">ÖNB Wien</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -10070,6 +10101,11 @@ WA = <titel>D. Martin Luthers Werke</titel>, hg.&#x202F;v. Rudolf Hermann, Gerha
 <eintrag><titel>Der [...] Teil aller Bücher vnd Schrifften des thewren, seligen Mans Doct: Mart: Lutheri</titel> (1555–?) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;18/27: „Martin Luther’s Schriften, Th. I. II. IV–VIII. Jen. 555–62“].
 </eintrag>
 </subsection>
+<subsection id="luther-colloquia" type="neuzeit" sort="15">
+<lemma>Luther, <titel>Colloquia</titel></lemma>
+<eintrag><titel>Colloquia, meditationes, consolationes, consilia, iudicia, sententiae, narrationes, responsa, facetiae</titel> (2 Bde., Frankfurt 1651) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;157/466: „Colloquia, meditationes, Consolationes, Consilia, iudicia, sententiae, narrationes, responsa, faceuae D. M. Luther T. I. II. Francof, 651. Liber rarus“].
+</eintrag>
+</subsection>
 <subsection id="luther-grcate" type="neuzeit" sort="20">
 <lemma>Luther, <titel>Großer Catechismus</titel></lemma>
 <eintrag><titel>Der grosse Catechismus des seel. D. Martin Lutheri, mit grober Schrift von neuem Gedruckt und mit nothigen Erklarungen auch dienlichen Anmerckungen</titel> (Königsberg: Stelter/Hartung 1734) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;29/204: „Mart. Luthers großer Catechismus herausgegeben von Arnoldt, Königsb. 734“].<line type="break" />
@@ -11153,9 +11189,21 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 2.&#x202F;Jhd. n.&#x202F;Chr. Griechischer Grammatiker.
 </eintrag>
 <subsection id="moeris-lexikon" type="neuzeit">
-<lemma>Moeris, lexicon Atticum</lemma>
+<lemma>Moeris, <titel>Lexicon Atticum</titel></lemma>
 <eintrag>
 <titel>Moiridos Attikistou lexeis Attikōn kai Hellēnōn kata stoikheton = Moeridis Atticistae lexicon Atticum cum Jo. Hudsoni, Steph. Bergleri, Claud. Salierii</titel> (Leiden: van der Eyk u. Pecker 1759; Erstausgabe 1711). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 12/183: „Moeridis Atticistae &amp; Timaei Sophistae Lexica graeca, ex ed. J. F. Fischeri, Lips. 756“]. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/1042638E">ÖNB Wien: 756727-B</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="moine" type="neuzeit">
+<lemma>Stephanus le Moine</lemma>
+<eintrag>1624–1689. Reformierter Theologe, siehe <wwwlink address="https://d-nb.info/gnd/124997457">GND</wwwlink>.
+</eintrag>
+<subsection id="moine-sacra" type="neuzeit">
+<lemma>Moine, <titel>Varia sacra</titel></lemma>
+<eintrag>
+<titel>Varia sacra seu sylloge variorum opusculorum graecorum ad rem ecclesiasticam spectantium</titel>. Cura et Studio Stephani le Moyne (2 Bde, Leiden: 1685). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 5/74: „Steph. le Moyne Varia sacra ceu Sylloge variorum Opusculorum ad rem ecclesiasticam spectantium gr. et lat. cum Notis et Observationibus, Tom. I. II. Lugd. 685“]. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/10294879">ÖNB Wien</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -13657,12 +13705,23 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 </subsection>
 </kommentar>
 
+<kommentar id="salvianus" type="neuzeit">
+<lemma>Salvianus Massiliensis</lemma>
+<eintrag>Um 400 bis um 475 n.&#x202F;Chr. Christlicher Schriftsteller und Kirchenvater.
+ </eintrag>
+<subsection id="salvianus-vincentius-opera-commonitorium" type="neuzeit">
+<lemma>Salvianus, <titel>Opera</titel>; Vincentius, <titel>Commonitorium</titel></lemma>
+<eintrag>
+<titel>S. Presbyterorum Salviani Massiliensis opera. Cum libro commentario Conradi Rittershusii, ac notis integris Johannis Weitzii, Tobiae Adami, Theodori Sitzmanni, Johannis Alexandri Brassicani, Stephani Baluzii. Et Vincentii Lirinensis Commonitorium</titel> (Bremen 1688). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11759803-2">Stabi Bamberg</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="sammler" type="neuzeit">
 <lemma>Der Sammler zum Zeitvertreib und Nutzen der Teutschen</lemma>
 <eintrag>Erlangen: Heyder 1764f., hrsg. von Peter von Hohenthal (1726–1794), Digitalisat: <wwwlink address=" https://digi.ub.uni-heidelberg.de/diglit/sammler_zeitvertreibe1764/0005">UB Heidelberg</wwwlink>.
  </eintrag>
 </kommentar>
-
 
 <kommentar id="sanadon" type="neuzeit">
 <lemma>Noël-Étienne Sanadon</lemma>
@@ -15073,6 +15132,17 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <subsection id="sticotti-chef" type="neuzeit" sort="50">
 <lemma>Sticotti, <titel>Mon chef-d’oeuvre</titel></lemma>
 <titel>Mon chef-d’oeuvre. Mit gestoch. Titelvign.</titel> (Berlin: Wever 1762).
+</subsection>
+</kommentar>
+
+<kommentar id="stobaeus" type="neuzeit">
+<lemma>Johannes Stobaeus</lemma>
+<eintrag>5.&#x202F;Jh. n.&#x202F;Chr. Spätantiker Kompilator.</eintrag>
+<subsection id="stobaeus-sententiae" type="neuzeit" sort="10">
+<lemma>Stobaeus, <titel>Sententiae ex thesauris graecorum delectae</titel></lemma>
+<eintrag>
+<titel>Sententiae Ex Thesauris Graecorum Delectae</titel> gr./lat. (Genf: 1609) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;1/14: „Jo. Stobaei Sententiae et Eclogae gr. et lat. ib. 609“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10209776-7">BSB München</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 

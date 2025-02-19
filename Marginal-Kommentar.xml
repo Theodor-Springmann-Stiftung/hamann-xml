@@ -59911,27 +59911,23 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="262" line="4" sort="3">
-<bzg>Epiphanius</bzg>
+<bzg>Epiphanius</bzg> <link ref="epiphanius" subref="epiphanius-opera" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="262" line="5" sort="1">
-<bzg>Stobaeus</bzg>
+<bzg>Stobaeus</bzg> <link ref="stobaeus" subref="stobaeus-sententiae" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="262" line="5" sort="2">
-<bzg>Saluianus</bzg>
+<bzg>Saluianus et Vincentius</bzg> <link ref="salvianus" subref="salvianus-vincentius-opera-commonitorium" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="262" line="5" sort="3">
-<bzg>Vincentius</bzg>
-</marginal>
-
-<marginal letter="470" page="262" line="5" sort="4">
-<bzg>Le Moine Varia sacra</bzg>
+<bzg>Le Moine Varia sacra</bzg> <link ref="moine" subref="moine-sacra" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="262" line="6" sort="1">
-<bzg>Irenaei Fragmenta</bzg>
+<bzg>Irenaei Fragmenta</bzg> <link ref="irenaeus" subref="irenaeus-fragmenta" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="262" line="6" sort="1">
@@ -59939,15 +59935,15 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="262" line="8">
-<bzg>Lutheri Colloquia</bzg>
+<bzg>Lutheri Colloquia</bzg> <link ref="luther" subref="luther-colloquia" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="262" line="9" sort="1">
-<bzg>Cherbury</bzg>
+<bzg>Cherbury</bzg> <link ref="cherbury" subref="cherbury-veritate" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="262" line="9" sort="2">
-<bzg>Campanellae Philosophia p</bzg>
+<bzg>Campanellae Philosophia</bzg> <link ref="" subref="" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="262" line="10">
@@ -59972,6 +59968,66 @@ Brief Nr. 470
 
 <marginal letter="470" page="262" line="14" sort="2">
 <bzg>Bruder</bzg> <link ref="lenz" linktext="true" /> folgte im März 1776 Goethe nach Weimar, wird aber im Dezember desselben Jahres ausgewiesen.
+</marginal>
+
+<marginal letter="470" page="262" line="17">
+<bzg>Pathen</bzg> <link ref="herder-a" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="262" line="22">
+<bzg>Wandsbeckerin</bzg> <link ref="claudius-ch" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="262" line="25">
+<bzg>fruchtbarer Weinstock&#x202F;…</bzg> <link ref="at-ps" subref="at-ps128" linktext="false">Ps 128,3–5</link>
+</marginal>
+
+<marginal letter="470" page="262" line="31">
+<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="262" line="34">
+<bzg>halbschlächtig</bzg> unentschieden, schwankend
+</marginal>
+
+<marginal letter="470" page="262" line="35">
+<bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="263" line="2">
+<bzg>gesetzmäßig als in Pr.</bzg> ?!?
+</marginal>
+
+<marginal letter="470" page="263" line="8">
+<bzg>Bauermädchen</bzg> <link ref="schumacher-ar" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="263" line="12">
+<bzg>Vater</bzg> <link ref="hamann-vjc" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="263" line="20">
+<bzg>Bruders</bzg> <link ref="hamann-jc" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="263" line="23">
+<bzg>Leiden und Anis</bzg> mglw. im Zusammen der <intlink letter="470" page="259" line="6" linktext="false">oben</intlink> erwähnten Schrift
+</marginal>
+
+<marginal letter="470" page="263" line="24">
+<bzg>Tantum&#x202F;…</bzg> So weit die, verzeihen Sie, Träume eines Kranken (<link ref="horaz" subref="horaz-poetica" linktext="true" />, 7)
+</marginal>
+
+<marginal letter="470" page="263" line="25">
+<bzg>schlimmer Tag</bzg> 16. Oktober, Hintergrund nicht ermittelt
+</marginal>
+
+<marginal letter="470" page="263" line="27" sort="1">
+<bzg>Tutterpapper</bzg> vgl. <intlink letter="269" page="249" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="263" line="27" sort="2">
+<bzg>Lehnchen</bzg> <link ref="hamann-mc" linktext="true" />
 </marginal>
 
 
