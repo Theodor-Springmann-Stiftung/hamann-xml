@@ -58831,7 +58831,7 @@ Brief Nr. 467
 </marginal>
 
 <marginal letter="467" page="239" line="32">
-<bzg>granum salis</bzg> dt. Korn Salz (<intlink letter="467" page="242" line="18" linktext="false">s.u.</intlink>)
+<bzg>granum salis</bzg> dt. Korn Salz (<intlink letter="467" page="242" line="23" linktext="false">s.u.</intlink>)
 </marginal>
 
 <marginal letter="467" page="239" line="34">
@@ -58998,7 +58998,7 @@ Brief Nr. 467
 <bzg>Analogon quid</bzg> etwas Entsprechendes, also wenn Hamann von Penzel oder jemand anderem berichtet hätte, dieser schreibe an einer ‚Kunst des Sehens‘ [oder bedeutet ‚Analogon quid‘ etwas Alchemistisches?!?]
 </marginal>
 
-<marginal letter="467" page="242" line="18">
+<marginal letter="467" page="242" line="23">
 <bzg>granum salis</bzg> dt. Korn Salz (<intlink letter="467" page="239" line="32" linktext="false">s.o.</intlink>); oder wieder etwas Alchemistisches?!?
 </marginal>
 
@@ -59099,7 +59099,7 @@ Brief Nr. 467
 </marginal>
 
 <marginal letter="467" page="244" line="9">
-<bzg>Catalog</bzg> <link ref="hamann-biga" linktext="true" />
+<bzg>Catalog</bzg> <link ref="hamann" subref="hamann-biga" linktext="true" />
 </marginal>
 
 <marginal letter="467" page="244" line="13">
@@ -59177,7 +59177,7 @@ Brief Nr. 468
 <bzg>Perfecit opus&#x202F;…</bzg> vollendet hat Phidias sein Werk, wenngleich er es nicht verkaufen konnte (<link ref="seneca" subref="seneca-benef" linktext="true" />, 2,33).
 </marginal>
 
-<marginal letter="468" page="246" line="2">
+<marginal letter="468" page="246" line="1">
 <bzg>p. 5. no. 79</bzg> im <link ref="hamann" subref="hamann-biga" linktext="true" />
 </marginal>
 
@@ -59385,7 +59385,7 @@ Brief Nr. 469
 </marginal>
 
 <marginal letter="469" page="251" line="4">
-<bzg>Ballast&#x202F;…</bzg> überflüssige Bücher bei der Gelegenheit der Auktion von <link ref="linder-jg" linktext="false">Lindners</link> Bibliothek zu verkaufen
+<bzg>Ballast&#x202F;…</bzg> überflüssige Bücher bei der Gelegenheit der Auktion von <link ref="lindner-jg" linktext="false">Lindners</link> Bibliothek zu verkaufen
 </marginal>
 
 <marginal letter="469" page="251" line="6">
@@ -59448,7 +59448,7 @@ Brief Nr. 469
 <bzg>Wilkes</bzg> <link ref="wilkes" linktext="true" /> verwendete als Pamphletist Zahlen als Siglen.
 </marginal>
 
-<marginal letter="469" page="252" line="1">
+<marginal letter="469" page="252" line="2">
 <bzg>Thiers 666</bzg> nach <link ref="nt-off" subref="nt-off13" linktext="false">Offb 13,18</link>
 </marginal>
 
@@ -59480,11 +59480,11 @@ Brief Nr. 469
 <bzg>Gewerb</bzg> als einer der drei Oberlandkommissare
 </marginal>
 
-<marginal letter="469" page="252" line="13">
+<marginal letter="469" page="252" line="13" sort="1">
 <bzg>Irrungen</bzg> vgl. Claudius’ Brief an Herder vom 10. August 1776 (<link ref="claudius" linktext="false"> Jessen (Hg.): <title>Claudius: Briefe an Freunde</title>,</link> Nr. 145), in dem es heißt: „die Luft dahier conveniert mir nicht“?!?
 </marginal>
 
-<marginal letter="469" page="252" line="13">
+<marginal letter="469" page="252" line="13" sort="2">
 <bzg>ersten Mitgliede der Commißion</bzg> Landkammerrat Eymes?!?
 </marginal>
 
@@ -59559,9 +59559,6 @@ Brief Nr. 469
 <marginal letter="469" page="253" line="25">
 <bzg>hier</bzg> in Bückeburg, vor der Abreise nach Weimar 
 </marginal>
-
-
-
 
 
 Brief Nr. 470
@@ -59827,7 +59824,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="260" line="11">
-<bzg>Prof. Kreutzfeld</bzg> <link ref="kreuzfeld" linktext="true" />, Nachfolger <link ref="lindner-jg" linktext="false">Lindners</link> als Professor der Poesie
+<bzg>Prof. Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />, Nachfolger <link ref="lindner-jg" linktext="false">Lindners</link> als Professor der Poesie
 </marginal>
 
 <marginal letter="470" page="260" line="12">
@@ -59930,7 +59927,7 @@ Brief Nr. 470
 <bzg>Irenaei Fragmenta</bzg> <link ref="irenaeus" subref="irenaeus-fragmenta" linktext="true" />
 </marginal>
 
-<marginal letter="470" page="262" line="6" sort="1">
+<marginal letter="470" page="262" line="6" sort="2">
 <bzg>Patres</bzg> Kirchenväter
 </marginal>
 
@@ -59943,7 +59940,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="262" line="9" sort="2">
-<bzg>Campanellae Philosophia</bzg> <link ref="" subref="" linktext="true" />
+<bzg>Campanellae Philosophia</bzg> <link ref="campanella" subref="campanella-philosophia" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="262" line="10">
@@ -60023,7 +60020,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="263" line="27" sort="1">
-<bzg>Tutterpapper</bzg> vgl. <intlink letter="269" page="249" line="19" linktext="true" />
+<bzg>Tutterpapper</bzg> vgl. <intlink letter="469" page="249" line="19" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="263" line="27" sort="2">
@@ -60041,7 +60038,7 @@ Brief Nr. 470 Anhang
 </marginal>
 
 <marginal letter="470" page="434" line="12">
-<bzg>Kreutzfeld</bzg> <link ref="" subref="" linktext="true" />, vgl. <intlink letter="470" page="260" line="18" linktext="true" />
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />, vgl. <intlink letter="470" page="260" line="18" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="434" line="15">
@@ -60049,7 +60046,7 @@ Brief Nr. 470 Anhang
 </marginal>
 
 <marginal letter="470" page="434" line="17">
-<bzg>Arrha</bzg> Dt. Pfand; gemeint ist Herders Hypothek, um Hamann vom Verkauf seiner Bücher abzubringen, die Hamann annahm, aber nicht auszuweiten bat, vgl. <intlink letter="470" page="257" line="36" linktext="true" />.
+<bzg>Arrha</bzg> dt. Pfand; gemeint ist Herders Hypothek, um Hamann vom Verkauf seiner Bücher abzubringen, die Hamann annahm, aber nicht auszuweiten bat, vgl. <intlink letter="470" page="257" line="36" linktext="true" />.
 </marginal>
 
 <marginal letter="470" page="434" line="20">
@@ -60064,7 +60061,7 @@ zur Übersetzung der Schreiben vgl. <link ref="fin-l-1987" linktext="false">Fink
 <bzg>deduction de 5 Ecus</bzg> vgl. <intlink letter="379" page="20" line="30" linktext="true" />
 </marginal>
 
-<marginal letter="470" page="434" line="23">
+<marginal letter="470" page="434" line="25">
 <bzg>Copiste</bzg> im Zusammenhang von Hamanns Kopistentätigkeit für <link ref="stockmar" linktext="true" />, vgl. <intlink letter="414" page="110" line="6" linktext="true" />
 </marginal>
 
@@ -60157,7 +60154,7 @@ zur Übersetzung der Schreiben vgl. <link ref="fin-l-1987" linktext="false">Fink
 </marginal>
 
 <marginal letter="470" page="436" line="3">
-<bzg>Memoires secrets&#x202F;…</bzg> Anspielung auf den Titel <link ref="toussaint" subref="toussaint-perse" linktext="true" />, eine Satire auf Ludwig XV. 
+<bzg>Memoires secrets&#x202F;…</bzg> Anspielung auf den Titel <link ref="toussaint-jc" subref="toussaint-perse" linktext="true" />, eine Satire auf Ludwig XV. 
 </marginal>
 
 <marginal letter="470" page="436" line="4" sort="1">
@@ -60169,7 +60166,11 @@ zur Übersetzung der Schreiben vgl. <link ref="fin-l-1987" linktext="false">Fink
 </marginal>
 
 <marginal letter="470" page="436" line="11">
-<bzg> Lettre du 2 Fevr . 72</bzg> nicht überliefert; wohl Gesuche Hamanns, um an die freigewordene Licenratstelle im <link ref="admiralitaetskollegium" linktext="true" /> gelangen, vgl. <intlink letter="381" page="26" line="10" linktext="true" />
+<bzg>Lettre du 2 Fevr . 72</bzg> nicht überliefert; wohl Gesuche Hamanns, um an die freigewordene Licenratstelle im <link ref="admiralitaetskollegium" linktext="true" /> gelangen, vgl. <intlink letter="381" page="26" line="10" linktext="true" />
+</marginal>
+
+<marginal letter="470" page="436" line="18">
+<bzg>les brochures</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" /> und <link ref="hamann-kermes" linktext="true" />
 </marginal>
 
 
