@@ -8440,6 +8440,17 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <eintrag>1732–1789, auch Arend Köpke. Königlich-preußischer Oberfinanz-, Kriegs- und Domänenrat. Ab 1786 Mitglied der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> und bis zu seinem Tod im <link ref="generaldirektorium" linktext="true" /> tätig.</eintrag>
 </kommentar>
 
+<kommentar id="koeppen" type="neuzeit">
+<lemma>Carl Friedrich Köppen</lemma>
+<eintrag>1737–1798. Preußischer Kriegsrat und Gründer des freimaurerischen Ordens der Afrikanischen Bauherren.</eintrag>
+<subsection id="koeppen-art-royal" type="neuzeit" sort="10">
+<lemma>Köppen, <titel>l’Art Royal du chevalier de Rose-Croix</titel></lemma>
+<eintrag>
+<titel>l’Art Royal du chevalier de Rose-Croix</titel> (Jerusalem [Berlin] 1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;190/164: „Art Royal du Chevalier de Rosecroix, Londr. 750. Diese kleine Brochure muss durch den seel. Hrn. Kirchenrath jemanden verliehen worden seyn, von dem sie der wahre Eigenthümer zurück erwartet“]. Vgl. <link ref="vel-h-1988" linktext="false">Veldhuis (Hg.): Art Royal du Chevalier du Rosecroix  (publié par F. Koeppen)</link>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="konfuzius" type="neuzeit">
 <lemma>Konfuzius</lemma>
 <eintrag>Vmtl. 551 v. Chr. bis 479 v. Chr. Chinesischer Philosoph.</eintrag>
@@ -15766,10 +15777,22 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 </eintrag>
 </kommentar>
 
+<kommentar id="toussaint-fv" type="neuzeit">
+<lemma>François-Vincent Toussaint</lemma>
+<eintrag>1715–1772. Rechtsanwalt, Schriftsteller, Enzyklopädist, siehe <wwwlink address="https://d-nb.info/gnd/117628921">GND</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="toussaint-jc" type="neuzeit">
 <lemma>Jean-Claude Toussaint</lemma>
 <eintrag>1709–1774. Kaufmann in Königsberg, Sohn des aus Frankreich nach Magdeburg eingewanderten Pierre Toussaint. Vater von <link ref="courtan-sm" linktext="true" />.
 </eintrag>
+<subsection id="toussaint-perse" type="neuzeit">
+<lemma><titel>Mémoires secrets pour servir à l’histoire de Perse</titel></lemma>
+<eintrag>
+<titel>Mémoires secrets pour servir à l’histoire de Perse</titel> (Berlin 1759) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;95/312: „Memoires secrets pour servir à l’Histoire de Perse, Berl. 1759]. – Erstmals 1745 in Amsterdam erschienen; auch Voltaire oder Antoine Pecquet zugeschrieben. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/106ED1D1">ÖNB Wien</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="toussaint-r" type="neuzeit">
