@@ -8479,14 +8479,15 @@
 
 		<letterTradition letter="470">
 			<app ref="4">
-				Provenienz des Hauptbriefes an Herder: Staatsbibliothek zu Berlin, Ms. Germ. quart. 1304, 144–147.<line type="break" />
+				Provenienz des Briefes an Herder: Staatsbibliothek zu Berlin, Ms. Germ. quart. 1304, 144–147.<line type="break" />
 				Provenienz des Anhanges: Krakau, Jagiellonenbibliothek, Slg. Autographa der ehemaligen Preußischen Staatsbibliothek zu Berlin (ehemalige Berliner Signatur: Acc. ms. 10787, Nr. 1).
 </app>
-			<app ref="5">Drucke des Hauptbriefes an Herder: <line type="break" />
+			<app ref="5">Drucke des Briefes an Herder: <line type="break" />
 			Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, V 185–194.
 			<line type="break" />ZH III 253–263, Nr. 470.<line type="break" />
 			Drucke des Anhanges:<line type="break" />
-			Karl Hermann Gildemeister (Hg.): Johann Georg Hamann’s, des Magus im Norden, Leben und Schriften. 6 Bde. Gotha 1857–1868
+			Karl Hermann Gildemeister (Hg.): Johann Georg Hamann’s, des Magus im Norden, Leben und Schriften. 6 Bde. Gotha 1857–1868.<line type="break" />
+			Johann Georg Hamann: Sämtliche Werke. Historisch-kritische Ausgabe. Hg. von Josef Nadler. 6 Bde. Wien 1949–57, II 323–326.
 			</app>
 			<app ref="6">Digitalisat des Anhanges: <wwwlink address="https://www.jbc.bj.uj.edu.pl/publication/856480">Hamann-Handschriften in der Jagiellonenbibliothek, Krakau.</wwwlink>
 			</app>
@@ -8565,7 +8566,7 @@
 					MUSE,</edit> pour avoir été la duppe d’un Serpent Sophiste, <line index="14" autopsic="14" />toutes
 					les vanités du Siecle expireront dans un:</aq>
 <line index="15" autopsic="15" tab="2" /><aq>QUANTUS
-					ARTIFEX PEREO!</aq><line type="break" />
+					ARTIFEX PEREO!</aq>
 <line index="16" autopsic="16" /><aq>et un <ul>
 					Quinquennium</ul> vaudra mieux que toutes les Editions <line index="17" autopsic="17" />Variantes
 					et Traductions Panglosses d’Anti-Machiavel –</aq>
@@ -8584,8 +8585,7 @@
 							autopsic="29" tab="1" />S’il faut mourir de faim, de rage et de <edit ref="5619">
 					desespoir,</edit> que le reste <line index="30" autopsic="30" />d’une vie plus infame que
 					la fin de mes pendards d’ancetres soit <line index="31" autopsic="31" /><edit ref="5620">
-							<ul>vice cotis cruentae</ul>
-						</edit>, <edit ref="5621">c’est-à</edit> dire,
+							<ul>vice cotis cruentae</ul></edit>, <edit ref="5621">c’est-à</edit> dire,
 					une pierre à aiguiser le rasoir, <line index="32" autopsic="32" />qui fera la barbe des
 					Maltotiers Manceaux, Normands et <line index="33" autopsic="33" />Gascons; car toute la
 					suffisance de leurs tours de baton se reduit à <line index="34" autopsic="34" />un abus
@@ -8655,12 +8655,7 @@
 <line
 						type="empty" />
 <line index="1" autopsic="1" />Beyl. waren die <aq>Lettres perdues</aq>
-					u. die <aq>Cochenille.</aq>
-<line type="empty" />
-<line index="2" autopsic="2" /><note>Am
-					Rande der ersten Seite:</note>
-<line index="3" autopsic="3" />Gott mit Ihnen <ul>allesamt</ul>
-					klein u. groß. Amen!</ZHText>
+					u. die <aq>Cochenille.</aq></ZHText>
 			</app>
 		</letterTradition>
 
