@@ -60177,7 +60177,7 @@ zur Übersetzung der Schreiben vgl. <link ref="fin-l-1987" linktext="false">Fink
 Brief Nr. 470a
 
 <marginal letter="470a" page="263" line="31">
-<bzg>Wandsbecks</bzg> Wohnort vor dem Umzug nach Darmstadt 1776
+<bzg>Wandsbecks</bzg> Wohnort vor dem Umzug nach Darmstadt im April 1776; zu neuen Situation vgl. <intlink letter="467" page="241" line="33" linktext="true" />
 </marginal>
 
 <marginal letter="470a" page="263" line="32" sort="1">
@@ -60193,7 +60193,7 @@ Brief Nr. 470a
 </marginal>
 
 <marginal letter="470a" page="264" line="1" >
-<bzg>Mann</bzg> <link ref="claudius" linktext="true" />; Brief nicht überliefert
+<bzg>Mann</bzg> <link ref="claudius" linktext="true" />, Brief nicht überliefert
 </marginal>
 
 <marginal letter="470a" page="264" line="4" >
@@ -60217,15 +60217,19 @@ Brief Nr. 470a
 </marginal>
 
 <marginal letter="470a" page="264" line="19" sort="1">
-<bzg>Rheinwein</bzg> Claudius, Rheinweinlied, in: [Vossischer] Musenalmanach 1776, S. 147. ?!?
+<bzg>Rheinwein</bzg> Claudius’ „Rheinweinlied“ erschien zuerst Ende 1775 im <link ref="voss" subref="voss-musenalmanach1776" linktext="false"><titel>Vossischen Musenalmanach auf das Jahr 1776</titel></link>, S.&#x202F;147f.
 </marginal>
 
 <marginal letter="470a" page="264" line="19" sort="2">
 <bzg>Abieser</bzg> <link ref="at-ri" subref="at-ri8" linktext="false">Ri 8,2</link>
 </marginal>
 
+<marginal letter="470a" page="264" line="21" >
+<bzg>Uebersetzer-Kahnchen&#x202F;…&#x202F;Charons</bzg> Meint wohl Hamanns Übersetzerdienste bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />; Charon ist eine Chiffre für seine mühselige Arbeit dort, vgl. <intlink letter="389" page="48" line="10" linktext="true" /> und N&#x202F;III,333/28.
+</marginal>
+
 <marginal letter="470a" page="264" line="22" >
-<bzg>Charons oder Compere Bodens Silberflotten</bzg> ?!?
+<bzg>oder Compere Bodens Silberflotten</bzg> nach <link ref="bode-jjc" linktext="true" />, Übersetzer des <link ref="sterne" subref="sterne-shandy" linktext="false"><titel>Tristram Shandy</titel></link>
 </marginal>
 
 <marginal letter="470a" page="264" line="29" >
@@ -60233,7 +60237,7 @@ Brief Nr. 470a
 </marginal>
 
 <marginal letter="470a" page="264" line="31" >
-<bzg>Landsmanns Braut</bzg> Frau von <link ref="reichardt-j" linktext="true" />
+<bzg>Landsmanns Braut</bzg> die Frau von <link ref="reichardt-j" linktext="true" />
 </marginal>
 
 <marginal letter="470a" page="265" line="1" >
@@ -60241,14 +60245,18 @@ Brief Nr. 470a
 </marginal>
 
 <marginal letter="470a" page="265" line="8" >
-<bzg>Dito’s beym Mondschein</bzg> vgl. <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, 2,18-22 ?!?
+<bzg>Dito’s beym Mondschein</bzg> nach dem Gedicht in <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, S.&#x202F;173–176; vgl. auch <link ref="hamann" subref="hamann-freundhain" linktext="true" />, N&#x202F;IV,386/7
 </marginal>
 
 <marginal letter="470a" page="265" line="10" >
-<bzg>Fitzliputzli</bzg> mit Mephistopheles verwandte Teufelsfigur ?!?
+<bzg>Fitzliputzli</bzg> Kinderschreckfigur, wohl nach dem atzekischen Götzen, vgl. etwa <wwwlink address="https://books.google.de/books?id=LzFmAAAAcAAJ">Geschichte der verschiedenen Völker des Erdbodens (Bd. 5, Hof, Leipzig 1777), S.&#x202F;151</wwwlink>.
 </marginal>
 
-<marginal letter="470a" page="265" line="13" >
+<marginal letter="470a" page="265" line="13" sort="1" >
+<bzg>Pathin</bzg> <link ref="claudius-ch" linktext="true" />
+</marginal>
+
+<marginal letter="470a" page="265" line="13" sort="2" >
 <bzg>Schwestern</bzg> <link ref="claudius-m" linktext="true" /> 
 </marginal>
 
