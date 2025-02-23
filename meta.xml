@@ -9035,9 +9035,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="471">
-        <date value="25. November 1776" />
+        <date value="Königsberg, 25. November 1776" />
         <sort value="1776-11-25" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -9073,9 +9073,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="473">
-        <date value="10. Dezember 1776" />
+        <date value="Mohrungen, 10. Dezember 1776" />
         <sort value="1776-12-10" />
-        <location ref="-1" />
+        <location ref="20" />
         <senders>
           <sender ref="63" />
         </senders>

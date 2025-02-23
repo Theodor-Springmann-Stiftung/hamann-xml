@@ -60177,7 +60177,7 @@ zur Übersetzung der Schreiben vgl. <link ref="fin-l-1987" linktext="false">Fink
 Brief Nr. 470a
 
 <marginal letter="470a" page="263" line="31">
-<bzg>Wandsbecks</bzg> Wohnort vor dem Umzug nach Darmstadt im April 1776; zu neuen Situation vgl. <intlink letter="467" page="241" line="33" linktext="true" />
+<bzg>Wandsbecks</bzg> Wohnort vor dem Umzug nach Darmstadt im April 1776; zu der neuen Situation vgl. <intlink letter="467" page="241" line="33" linktext="true" />
 </marginal>
 
 <marginal letter="470a" page="263" line="32" sort="1">
@@ -60271,8 +60271,12 @@ Brief Nr. 471
 <bzg>Penzel</bzg> <link ref="penzel" linktext="true" /> 
 </marginal>
 
+<marginal letter="471" page="265" line="24" >
+<bzg>die Sache</bzg> <intlink letter="471" page="437" line="28" linktext="false">s.&#x202F;u.</intlink>
+</marginal>
+
 <marginal letter="471" page="265" line="25" >
-<bzg>genuino – ab ouo</bzg> Lies gemino nach Hor. ars 147: nec gemino bellum Troianum orditur ab ovo
+<bzg>genuino – ab ouo</bzg> Lies „gemino“, nach <link ref="horaz" subref="horaz-poetica" linktext="true" />, 147 „nec gemino bellum Troianum orditur ab ovo“, dt. „er beginnt nicht den Trojanischen Krieg mit dem Zwillingsei“
 </marginal>
 
 <marginal letter="471" page="265" line="28" >
@@ -60287,12 +60291,12 @@ Brief Nr. 471
 <bzg>fl.</bzg> Gulden, Goldmünze, hier aber vmtl. 1 polnischer Gulden, eine Silbermünze, entsprach 30 Groschen oder weniger. 
 </marginal>
 
-<marginal letter="471" page="266" line="3" >
-<bzg>Briefwechsel mit HE Bode</bzg> <link ref="bode-jjc" linktext="true" /> 
+<marginal letter="471" page="265" line="29" sort="2">
+<bzg>Verfaßer zu schreiben</bzg> Briefwechsel mit <link ref="schmidlin" linktext="true" /> nicht überliefert
 </marginal>
 
-<marginal letter="471" page="266" line="4" >
-<bzg>H R Schmidlin</bzg> ?!?
+<marginal letter="471" page="266" line="3" >
+<bzg>Briefwechsel mit HE Bode</bzg> <link ref="bode-jjc" linktext="true" /> 
 </marginal>
 
 <marginal letter="471" page="266" line="8" >
@@ -60335,6 +60339,10 @@ Brief Nr. 471
 <bzg>Lauson</bzg> <link ref="lauson" linktext="true" />  
 </marginal>
 
+<marginal letter="471" page="267" line="12" >
+<bzg>Auction</bzg> die Auktion von Lindners Büchern ab dem 9. September 1776, für die Hamann den <link ref="hamann" subref="hamann-biga" linktext="true" /> erstellte
+</marginal>
+
 <marginal letter="471" page="267" line="24" >
 <bzg>jüngste Bruder</bzg> <link ref="lindner-gi" linktext="true" /> 
 </marginal>
@@ -60344,11 +60352,15 @@ Brief Nr. 471
 </marginal>
 
 <marginal letter="471" page="267" line="25" sort="2">
-<bzg>16 p erst den 31 ej.</bzg> passim … ejus; vergangenen Monats … dieses Monats
+<bzg>16 p erst den </bzg> praeterito, d.&#x202F;h. vergangenen Monats, 16. Oktober 1776; nicht überliefert
+</marginal>
+
+<marginal letter="471" page="267" line="25" sort="3">
+<bzg>31 ej.</bzg> ejus, d.&#x202F;h. diesen Monats, also wohl am 31. Okotber 1776
 </marginal>
 
 <marginal letter="471" page="267" line="27" >
-<bzg>summum Ius</bzg> Recht auf die Spitze getrieben wird Unrecht (Cic. off. 1,10,33)
+<bzg>summum Ius</bzg> Recht auf die Spitze getrieben wird Unrecht (<link ref="cicero" subref="cic-off" linktext="true" />, 1,10,33)
 </marginal>
 
 <marginal letter="471" page="267" line="28" >
@@ -60356,7 +60368,11 @@ Brief Nr. 471
 </marginal>
 
 <marginal letter="471" page="267" line="31" >
-<bzg>Eyern … Aepfeln</bzg> Hor. s. 1,3,6f.
+<bzg>Eyern … Aepfeln</bzg> <link ref="horaz" subref="horaz-saturae" linktext="true" /> 1,3,6f.
+</marginal>
+
+<marginal letter="471" page="437" line="33" >
+<bzg>Schmidlinschen Catholicons</bzg> <link ref="schmidlin" subref="schmidlin-catholicon" linktext="true" /> 
 </marginal>
 
 
@@ -60364,11 +60380,11 @@ Brief Nr. 471
 Brief Nr. 472
 
 <marginal letter="472" page="268" line="20" >
-<bzg>Schreiben</bzg> vgl. <intlink letter="471" page="267" line="25" linktext="true" /> 
+<bzg>Schreiben</bzg> praeterito, d.&#x202F;h. vergangenen Monats, 16. Oktober 1776; nicht überliefert; vgl. <intlink letter="471" page="267" line="25" linktext="true" /> 
 </marginal>
 
 <marginal letter="472" page="268" line="21" >
-<bzg>ej.</bzg> ejus; diesen Monats
+<bzg>ej.</bzg> ejus, d.&#x202F;h. diesen Monats, also wohl am 31. Okotber 1776
 </marginal>
 
 <marginal letter="472" page="268" line="25" >
@@ -60388,7 +60404,7 @@ Brief Nr. 472
 </marginal>
 
 <marginal letter="472" page="269" line="5" sort="1" >
-<bzg>Catholicon</bzg> <link ref="schmidlin" subref="schmidlin-catholicon" linktext="true" />, vgl. Brief 471
+<bzg>Catholicon</bzg> <link ref="schmidlin" subref="schmidlin-catholicon" linktext="true" />, vgl. <intlink letter="471" page="265" line="24" linktext="false">HKB 471</intlink>
 </marginal>
 
 <marginal letter="472" page="269" line="5" sort="2" >
@@ -60412,7 +60428,7 @@ Brief Nr. 472
 </marginal>
 
 <marginal letter="472" page="269" line="19" >
-<bzg>Commissaire en Chef</bzg> der von den Erben Lindners bestellte Vollstrecker
+<bzg>Commissaire en Chef</bzg> der von den Erben <link ref="lindner-jg" linktext="false">Lindners</link> bestellte Vollstrecker
 </marginal>
 
 <marginal letter="472" page="269" line="25" >
@@ -60424,7 +60440,7 @@ Brief Nr. 472
 </marginal>
 
 <marginal letter="472" page="269" line="35" >
-<bzg>Einlage … Mama</bzg> nicht ermittelt; <link ref="lindner-aa" linktext="true" /> 
+<bzg>Einlage&#x202F;…&#x202F;Mama</bzg> nicht ermittelt; <link ref="lindner-aa" linktext="true" /> 
 </marginal>
 
 <marginal letter="472" page="269" line="37" >
@@ -60432,7 +60448,7 @@ Brief Nr. 472
 </marginal>
 
 <marginal letter="472" page="270" line="5" >
-<bzg>Oberhofprediger … Mitau ans Petrinum</bzg> <link ref="starck" linktext="true" /> nach Jelgava ans Gymnasium Academia Petrina
+<bzg>Oberhofprediger&#x202F;…&#x202F;Petrinum</bzg> <link ref="starck" linktext="true" /> nach Mitau ans Gymnasium Academia Petrina
 </marginal>
 
 <marginal letter="472" page="270" line="10" >
@@ -60444,11 +60460,15 @@ Brief Nr. 472
 </marginal>
 
 <marginal letter="472" page="270" line="13" >
-<bzg>Vale et faue</bzg> dt. leb wohl und sei mir gewogen
+<bzg>Vale et faue</bzg> dt. lebe wohl und sei mir gewogen
 </marginal>
 
 
 Brief Nr. 473
+
+<marginal letter="473" page="270" line="21" >
+<bzg>alle Beide </bzg> die Krankheit von Hamann und <link ref="schumacher-ar" linktext="true" /> im Herbst 1776
+</marginal>
 
 <marginal letter="473" page="271" line="2" >
 <bzg>Bruder</bzg> <link ref="herder" linktext="true" /> 
