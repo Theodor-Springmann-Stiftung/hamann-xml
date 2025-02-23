@@ -60489,28 +60489,32 @@ Brief Nr. 473
 
 Brief Nr. 474
 
-<marginal letter="474" page="271" line="25" >
-<bzg>Fiat voluntas TVA!</bzg> dt. so geschehe es!
+<marginal letter="474" page="271" line="25"  sort="1">
+<bzg>Fiat voluntas TVA!</bzg> dt. dein Wille geschehe!
+</marginal>
+
+<marginal letter="474" page="271" line="25"  sort="2">
+<bzg>vollendete Mutter</bzg> <link ref="reichardt-cd" linktext="true" />
 </marginal>
 
 <marginal letter="474" page="271" line="26" >
-<bzg>Frau</bzg> nicht ermittelt 
+<bzg>Frau</bzg> <link ref="reichardt-jul" linktext="true" /> 
 </marginal>
 
-<marginal letter="474" page="271" line="28" >
-<bzg>poetischen Blumenlese</bzg> J. H. Voß, Musenalmanach oder poetische Blumenlese ?!?
+<marginal letter="474" page="271" line="29" >
+<bzg>Schwester im Apoll&#x202F;…</bzg> Im <link ref="voss" subref="voss-musenalmanach1777" linktext="true" />, S.&#x202F;37 und 133 sind Reichardts Vertonungen der Lieder „Aufmunterung zur Freude“ und „Morgenlied“, ebd., S.&#x202F;100 ist Juliana Bendas Vertonung des Liedes „Dora“ abgedruckt.
 </marginal>
 
 <marginal letter="474" page="271" line="31" >
-<bzg>Curialien pro praeterito et futuro</bzg> dt. Formeln für Vergangenes und Künftiges
+<bzg>Curialien pro praeterito et futuro</bzg> dt. Anredeformeln für Vergangenes und Künftiges
 </marginal>
 
 <marginal letter="474" page="271" line="32" sort="1">
-<bzg>Hündin vom Nil</bzg> ut canis e Nilo (Philippi, II, 235.), oberflächliche Behandlung  ?!?
+<bzg>Hündin vom Nil</bzg> nach ut canis e Nilo, dt. wie ein Hund aus dem Nil; ägyptische Hunde sollen nach <link ref="solinus" subref="solinus-collectanea" linktext="true" />, 15,12 nur im schnellen Laufen aus dem Nil lecken.
 </marginal>
 
 <marginal letter="474" page="271" line="32" sort="2">
-<bzg>Briefes</bzg> Brief Nr. 461
+<bzg>Briefes</bzg> <intlink letter="461" page="217" line="23" linktext="false">HKB 461</intlink>
 </marginal>
 
 <marginal letter="474" page="272" line="2" >
@@ -60519,6 +60523,10 @@ Brief Nr. 474
 
 <marginal letter="474" page="272" line="8" >
 <bzg>am alten Graben</bzg> Wohnort seit 1770, in der Nähe des Lizent
+</marginal>
+
+<marginal letter="474" page="272" line="8" >
+<bzg>Quovsque tandem</bzg> dt. wie lange noch? <link ref="cicero" subref="cic-cat" linktext="true" />, 1,1
 </marginal>
 
 <marginal letter="474" page="272" line="11" >
@@ -60541,7 +60549,7 @@ Brief Nr. 474
 <bzg>Mäßig geschwind</bzg> Anspielung auf Allegro moderato
 </marginal>
 
-<marginal letter="474" page="272" line="31" >
+<marginal letter="474" page="272" line="32" >
 <bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" /> als Literaturtheoretiker und als Befürworter Pentzels
 </marginal>
 
@@ -60550,7 +60558,7 @@ Brief Nr. 474
 </marginal>
 
 <marginal letter="474" page="273" line="4" >
-<bzg>Recensent</bzg> In <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd. 29/2, war eine Rezension von <link ref="lavater" subref="lavater-fragmente" linktext="true" />  erschienen, wahrscheinlich von Nicolai. ?!?
+<bzg>Recensent</bzg> die Rezension von <link ref="lavater" subref="lavater-fragmente" linktext="true" /> in <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.&#x202F;29, S.&#x202F;379–414
 </marginal>
 
 <marginal letter="474" page="273" line="11" >
@@ -60562,8 +60570,7 @@ Brief Nr. 474
 </marginal>
 
 <marginal letter="474" page="273" line="17" >
-<bzg>dasige Academie</bzg> <link ref="bernoulli-j-iii" linktext="true" /> hatte an <link ref="friedrich-II" linktext="true" /> geschrieben und eine abschlägige Antwort bekommen. So übernahm es die Berliner Akademie der
-Wissenschaften, Bernouillis Petition zu unterstützen und P. vom Militärdienst zu befreien. ?!?
+<bzg>dasige Academie</bzg> <link ref="bernoulli-j-iii" linktext="true" /> hatte an <link ref="friedrich-II" linktext="true" /> geschrieben und eine abschlägige Antwort bekommen. So übernahm es die Berliner Akademie der Wissenschaften, Bernouillis Petition zu unterstützen und Penzel vom Militärdienst zu befreien. ?!?
 </marginal>
 
 <marginal letter="474" page="273" line="22" >
