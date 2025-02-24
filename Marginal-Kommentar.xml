@@ -60744,7 +60744,7 @@ Brief Nr. 476
 </marginal>
 
 <marginal letter="476" page="277" line="7" sort="3" >
-<bzg>harmonische Mythologie</bzg> nicht ermittelt
+<bzg>harmonische Mythologie</bzg> <link ref="behrisch" subref="behrisch-harmonie" linktext="true" />
 </marginal>
 
 <marginal letter="476" page="277" line="8" sort="1" >
@@ -60759,8 +60759,12 @@ Brief Nr. 476
 <bzg>Koran&#x202F;…</bzg> <link ref="behrisch" subref="behrisch-koran" linktext="true" />
 </marginal>
 
-<marginal letter="476" page="277" line="9" >
+<marginal letter="476" page="277" line="9" sort="1" >
 <bzg>Geschichte der Glückl.</bzg> <link ref="behrisch" subref="behrisch-geschichte" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="9" sort="2" >
+<bzg>Gallerie der schönen Seelen</bzg> <link ref="behrisch" subref="behrisch-gallerie" linktext="true" />
 </marginal>
 
 <marginal letter="476" page="277" line="10" >
@@ -60776,37 +60780,51 @@ Brief Nr. 476
 </marginal>
 
 <marginal letter="476" page="277" line="16" >
-<bzg>Lavaters Bluttheologia</bzg> J. C. Lavaters neue philosophische Bluttheologie in nuce. 1776. N V,328. [L. zugeschrieben, der jedoch
-erklärte, keinen dieser Aufsätze verfaßt zu haben, in: AdB 28/1, S. 306f.].?!?
+<bzg>Lavaters Bluttheologia</bzg> <link ref="bluttheologie" linktext="true" />
 </marginal>
 
 <marginal letter="476" page="277" line="17" >
-<bzg>Zufällige Gedanken …</bzg> ?!? Zufällige Gedanken über Herrn Lavaters physiognomische Fragmente : 1. Theil / B., Prediger aufm Lande,Halle : Hendel, 1776 , https://www.e-rara.ch/sbs/content/titleinfo/29204923?query=Lavater
+<bzg>Zufällige Gedanken …</bzg> <link ref="zufaellige-gedanken" linktext="true" />
 </marginal>
 
 <marginal letter="476" page="277" line="18" >
-<bzg>Man muß auch …</bzg> Runge, Konrad Heinrich (1731- 1792), reform. Theologe, Pfarrer in Bremen
-Man muß dem Teufel auch nicht zu viel aufbürden. Bremen 1777. ?!?
+<bzg>Man muß auch&#x202F;…</bzg> <link ref="runge" subref="runge-teufel" linktext="true" />
 </marginal>
 
 <marginal letter="476" page="277" line="19" >
-<bzg>Gray’s Gedichte</bzg> <link ref="gray" subref="gray-poems" linktext="true" />  
+<bzg>Gray’s Gedichte</bzg> <link ref="gray" subref="gray-poems" linktext="true" /> (Übersetzung 1776)
 </marginal>
 
 <marginal letter="476" page="277" line="21" >
-<bzg>Theorie du Paradoxe</bzg> Abbé Morellet, Théorie du paradoxe. Amsterdam [Paris] 1775. ?!?
+<bzg>Theorie du Paradoxe</bzg> <link ref="morellet" subref="morellet-paradoxe" linktext="true" />
 </marginal>
 
 <marginal letter="476" page="277" line="22" >
-<bzg>Mr. L**</bzg> <link ref="linguet" linktext="true" />
+<bzg>Lettres</bzg> <link ref="linguet" subref="linguet-loix" linktext="true" />
 </marginal>
 
-<marginal letter="476" page="277" line="24" >
-<bzg>Journal de politique … Geschichte</bzg> ?!?
+<marginal letter="476" page="277" line="23" sort="1" >
+<bzg>Rep. aux Doct. Mod.</bzg> <link ref="linguet" subref="linguet-reponse" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="23" sort="2" >
+<bzg>Histoire des Jesuites</bzg> <link ref="linguet" subref="linguet-jesuites" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="24" sort="1">
+<bzg> Journal de politique et Litterature</bzg> <link ref="linguet" subref="linguet-journal" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="24" sort="2" >
+<bzg>Geschichte der Römischen Revolutionen</bzg> <link ref="linguet" subref="linguet-revolutions" linktext="true" />
 </marginal>
 
 <marginal letter="476" page="277" line="28" >
-<bzg>Pack</bzg> <link ref="schmidlin" subref="schmidlin-catholicon" linktext="true" /> 
+<bzg>Pack</bzg> <link ref="schmidlin" subref="schmidlin-catholicon" linktext="true" />, vgl. <intlink letter="471" page="437" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="278" line="2" >
+<bzg>Shak.</bzg> <link ref="shakespeare" linktext="true" />
 </marginal>
 
 

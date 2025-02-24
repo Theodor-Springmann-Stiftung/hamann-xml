@@ -1096,7 +1096,12 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 <eintrag>
 <titel>Freundschaften</titel> (Leipzig: Weygand 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10039894-3">BSB München: Ph.pr. 126 i</wwwlink>.</eintrag>
 </subsection>
-<subsection id="behrisch-reisen" type="neuzeit" sort="10">
+<subsection id="behrisch-harmonie" type="neuzeit" sort="12">
+<lemma>Behrisch, <titel>Einleitung zur allgemeinen Harmonie der Götterlehren aller Völker und Zeiten</titel></lemma>
+<eintrag>
+<titel>Einleitung zur allgemeinen Harmonie der Götterlehren aller Völker und Zeiten </titel> (Leipzig: Müller 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10434923-2">BSB München: H.g.hum. 48 r</wwwlink>.</eintrag>
+</subsection>
+<subsection id="behrisch-reisen" type="neuzeit" sort="11">
 <lemma>Behrisch, <titel>Reisen der Tugend</titel></lemma>
 <eintrag>
 <titel>Reisen der Tugend </titel> (Leipzig: Hilscher 1776). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/61638">ULB Halle: Ung III B 30</wwwlink>.</eintrag>
@@ -1114,12 +1119,17 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 <subsection id="behrisch-farao" type="neuzeit" sort="20">
 <lemma>Behrisch, <titel>Farao für die Könige</titel></lemma>
 <eintrag>
-<titel>Farao für die Könige</titel> (3 Bde., Leipzig: Weygand 1776–1777). Vgl. Hamanns Exzerpt N&#x202F;V,329. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10768950-1">BSB München: Pol.g. 298-1/3</wwwlink>.</eintrag>
+<titel>Farao für die Könige</titel> (3 Bde., Leipzig: Weygand 1776–1777). Vgl. Hamanns Exzerpt N&#x202F;V,329. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10768951-6">BSB München: Pol.g. 298-1/3</wwwlink>.</eintrag>
 </subsection>
 <subsection id="behrisch-analogien" type="neuzeit" sort="30">
 <lemma>Behrisch, <titel>Analogien großer Männer</titel></lemma>
 <eintrag>
 <titel>Tempel der Unsterblichen, oder Analogien und Apologien großer Männer, aus der alten und neuen Welt.</titel> In dreyen Theilen (Münster, Leipzig: Perrenon 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10071039-7">BSB München: Biogr.c. 309 p</wwwlink>.</eintrag>
+</subsection>
+<subsection id="behrisch-gallerie" type="neuzeit" sort="30">
+<lemma>Behrisch, <titel>Gallerie der schönen Seelen</titel></lemma>
+<eintrag>
+<titel>Gallerie der schönen Seelen</titel> (Münster1777).</eintrag>
 </subsection>
 </kommentar>
 
@@ -1607,6 +1617,11 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <kommentar id="blom-wy" type="neuzeit">
 <lemma>Wybrand Blom</lemma>
 <eintrag>Gest. 1777, Licenthausinspektor in Königsberg, Hamanns Vorgänger am Licent, Antecesseur</eintrag>
+</kommentar>
+
+<kommentar id="bluttheologie" type="neuzeit">
+<lemma>Anonym, <titel>Johann Caspar Lavaters neue philosophische Bluttheologie in Nuce</titel></lemma>
+<eintrag><titel>Johann Caspar Lavaters neue philosophische Bluttheologie in Nuce</titel> (o.O. 1776). Digitalisat: <wwwlink address="https://books.google.de/books?id=O3FcAAAAcAAJ">Google Books</wwwlink>. <link ref="lavater" linktext="false">Lavater</link> zugeschrieben, der jedoch erklärte, keinen dieser Aufsätze verfasst zu haben, vgl. <link ref="allgemeine-deutsche-bib" linktext="true" />, Bd.&#x202F;29, S.&#x202F;306f. und Bd.&#x202F;35, S.&#x202F;100f.</eintrag>
 </kommentar>
 
 <kommentar id="bochart" type="neuzeit">
@@ -5659,7 +5674,9 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 </subsection>
 <subsection id="gray-poems" type="neuzeit">
 <lemma>Gray, <titel>Poems</titel></lemma>
-<eintrag><titel>Poems</titel> by Mr. Gray (London: Dodsley 1768). Digitalisat der Ausgabe 1770: <wwwlink address="http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-1552">LB Oldenburg</wwwlink>.</eintrag>
+<eintrag><titel>Poems</titel> by Mr. Gray (London: Dodsley 1768). Digitalisat der Ausgabe 1770: <wwwlink address="http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-1552">LB Oldenburg</wwwlink>.<line type="break" />
+Übersetzung: <titel>Herrn Gray’s Gedichte.</titel> Mit einer vorangesetzten Nachrichten von seinen Lebensumständen und Schriften herausgegeben von W. Mason. Aus dem Englischen übersetzt (Leipzig: Weidmann, Reich 1776). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN658922149">SUB Göttingen</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 
@@ -9930,9 +9947,29 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <lemma>Simon-Nicolas-Henri Linguet</lemma>
 <eintrag>1736–1794. Franz. Jurist und politischer Schriftsteller.
 </eintrag>
-<subsection id="linguet-cacomonade" type="neuzeit">
+<subsection id="linguet-cacomonade" type="neuzeit" sort="10">
 <lemma>Linguet, <titel>La Cacomonade</titel></lemma>
 <eintrag><titel>La Cacomonade. Histoire Politique et Morale. Traduite de l’Allemand du Docteur Pangloss, par le Docteur lui-même, depuis son retour de Constantinople</titel> (Cologne 1766). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1198851f"> Bibliothèque nationale de France, département Sciences et techniques: 8-TD43-317</wwwlink>.</eintrag>
+</subsection>
+<subsection id="linguet-revolutions" type="neuzeit" sort="12">
+<lemma>Linguet, <titel>Histoire des révolutions de l’Empire romain</titel></lemma>
+<eintrag><titel>Histoire des révolutions de l’Empire romain depuis Auguste jusqu’à Constantin</titel> (2 Bde., Paris 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10432727-7">BSB München: H.ant. 240-1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="linguet-jesuites" type="neuzeit" sort="15">
+<lemma>Linguet, <titel>Histoire des Jésuites</titel></lemma>
+<eintrag><titel>Histoire impartiale des Jésuites depuis leur établissement jusqu’à leur première expulsion.</titel> Tome premier (o.O. 1768). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10568273-5">BSB München: Jes. 434-1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="linguet-loix" type="neuzeit" sort="20">
+<lemma>Linguet, <titel>Lettres sur la théorie des loix civiles</titel></lemma>
+<eintrag><titel>Lettres sur la théorie des loix civiles,</titel> etc. […] (Amsterdam 1770). Digitalisat: <wwwlink address="https://digi.bib.uni-mannheim.de/resolve?id=45335212X">UB Mannheim: Sch 055/003</wwwlink>.</eintrag>
+</subsection>
+<subsection id="linguet-reponse" type="neuzeit" sort="30">
+<lemma>Linguet, <titel>Réponse aux docteurs modernes</titel></lemma>
+<eintrag><titel>Réponse aux docteurs modernes, ou apologie pour l’auteur de la Théorie des lois, et des Lettres sur cette théorie avec la réfutation du système des philosophes économistes.</titel> Par Simon-Nicolas-Henri Linguet (2 Bde., London 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10769741-7">BSB München: Pol.g. 517-1/3</wwwlink>.</eintrag>
+</subsection>
+<subsection id="linguet-journal" type="neuzeit" sort="30">
+<lemma>Linguet (Hg.), <titel>Journal de politique et de litteratures</titel></lemma>
+<eintrag><titel>Journal de politique et de litteratures contenant les principaux évènements de toutes les cours, les nouvelles de la republique de lettres etc. </titel> (Brüssel 1774–1778). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/cb344724208/date">Bibliothèque nationale de France</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -11449,7 +11486,13 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <subsection id="morellet-memoire" type="neuzeit">
 <lemma>Morellet, <titel>Mémoire sur la situation actuelle de la Compagnie des Indes</titel></lemma>
 <eintrag>
-<titel>Mémoire sur la situation actuelle de la Compagnie des Indes</titel> (Paris 1769).
+<titel>Mémoire sur la situation actuelle de la Compagnie des Indes</titel> (Paris 1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10359609-5">BSB München: Res/4 H.as. 561</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="morellet-paradoxe" type="neuzeit">
+<lemma>Morellet, <titel>Théorie du paradoxe</titel></lemma>
+<eintrag>
+<titel>Théorie du paradoxe</titel> (Amsterdam 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574984-4">BSB München: L.eleg.g. 520 c</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -13671,6 +13714,19 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 <lemma>Joseph Leberecht Runtze</lemma>
 <eintrag>1729–1798. Erzieher der Söhne des Grafen v. Münnich.</eintrag>
 </kommentar>
+ (), reform. Theologe, 
+. ?!?
+
+<kommentar id="runge" type="neuzeit">
+<lemma>Conrad Heinrich Runge</lemma>
+<eintrag>1731–1792. Reformierter Pfarrer in Bremen, siehe <wwwlink address="http://d-nb.info/gnd/121913805">GND</wwwlink>.</eintrag>
+<subsection id="runge-teufel" type="neuzeit" >
+<lemma>Runge, <titel>Man muß dem Teufel auch nicht zu viel aufbürden</titel></lemma>
+<eintrag>
+<titel>Man muß dem Teufel auch nicht zu viel aufbürden</titel> (Bremen: Cramer 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10776820-8">BSB München: Polem. 2687 s</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="ruprecht-sa" type="neuzeit">
 <lemma>Samuel Albrecht Ruprecht</lemma>
@@ -14729,8 +14785,8 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 </kommentar>
 
 <kommentar id="simon-weib" type="neuzeit">
-<lemma>Simon! Siehest du dies Weib?</lemma>
-<eintrag>Erbauungsroman, erschienen Halle: Hesse 1776. Vgl. das Exzerpt N&#x202F;V,328. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/42593">ULB Halle</wwwlink>.
+<lemma>Anonym, <titel>Simon! Siehest du dies Weib?</titel></lemma>
+<eintrag>Erbauungsroman, erschienen in Halle: Hesse 1776. Vgl. das Exzerpt N&#x202F;V,328. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/42593">ULB Halle</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -17454,6 +17510,11 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <kommentar id="zosimos" type="neuzeit">
 <lemma>Zosimos</lemma>
 <eintrag>Spätantiker paganer Geschichtsschreiber, verfasste um 500 n. Chr. die <titel>Historia nea</titel>.</eintrag>
+</kommentar>
+
+<kommentar id="zufaellige-gedanken" type="neuzeit">
+<lemma>Anonym, <titel>Zufällige Gedanken über Herrn Lavaters physiognomische Fragmente</titel></lemma>
+<eintrag>Zufällige Gedanken über Herrn Lavaters physiognomische Fragmente. 1. Theil. Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-116061">Stadtbibliothek Schaffhausen, EC 55</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="zwingli" type="neuzeit">
