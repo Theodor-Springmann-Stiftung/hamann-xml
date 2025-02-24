@@ -60626,7 +60626,7 @@ Brief Nr. 474
 </marginal>
 
 <marginal letter="474" page="274" line="19" >
-<bzg>Dein Brunn&#x202F;…</bzg> <link ref="at-spr" subref="at-spr5" linktext="false">Spr 5,18</link>, jedoch mit „Werk“ anstatt „Frau“
+<bzg>Dein Brunn&#x202F;…</bzg> <link ref="at-spr" subref="at-spr5" linktext="false">Spr 5,18</link>; Hamann interpoliert jedoch „Werk“ anstatt „Frau“
 </marginal>
 
 
@@ -60636,11 +60636,8 @@ Brief Nr. 475
 <bzg>Εχαρην δε …</bzg> <link ref="nt-phil" subref="nt-phil4" linktext="false">Phil 4,10 u. 17</link>   
 </marginal>
 
-<marginal letter="475" page="274" line="28" >
-<bzg>Daniel Seuberlich’s … Almanach</bzg> Nicolai, Eyn feyner kleyner ALMANACH Vol schönerr echterr liblicherr Volckslieder, lustigerr Reyen vnndt
-kleglicher Mordgeschichte, gesungen von Gabriel Wunderlich weyl. Benkelsengernn zu Dessaw,
-herausgegeben von Daniel Seuberlich, Schusternn tzu Ritzmück ann der Elbe. 1. u. 2. Jahrgang. Berlynn
-vnndt Stettyn 1777/8 ?!?
+<marginal letter="475" page="274" line="30" >
+<bzg>Daniel Seuberlich’s&#x202F;…&#x202F;Almanach</bzg> <link ref="nicolai" subref="nicolai-seuberlich" linktext="true" />
 </marginal>
 
 <marginal letter="475" page="274" line="31" >
@@ -60648,19 +60645,27 @@ vnndt Stettyn 1777/8 ?!?
 </marginal>
 
 <marginal letter="475" page="274" line="33" >
-<bzg>Recension</bzg> Königsbergschen Zeitungen ?!?
+<bzg>Recension</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, für die Penzel zur Zeit arbeitete; Jg. nicht überliefert
+</marginal>
+
+<marginal letter="475" page="275" line="8" >
+<bzg>malcontenten</bzg> Nörgler, auch als typisierte Bühnenfigur
 </marginal>
 
 <marginal letter="475" page="275" line="13" >
-<bzg>Verkauf</bzg> vgl. Brief Nr. 468
+<bzg>Verkauf</bzg> vgl. Hamanns Übersendung des <link ref="hamann" subref="hamann-biga" linktext="true" /> und die Absichtserklärung zum Verkauf seiner Bibliothek in <intlink letter="468" page="245" line="17" linktext="false">HKB 468</intlink>
 </marginal>
 
 <marginal letter="475" page="275" line="19" >
-<bzg>Gevatter Brief</bzg> von <link ref="herder" linktext="true" />, Brief Nr. 469
+<bzg>Gevatter Brief</bzg> von <link ref="herder" linktext="true" />, <intlink letter="469" page="250" line="20" linktext="false">HKB 469</intlink>
 </marginal>
 
 <marginal letter="475" page="275" line="22" >
 <bzg>arrham</bzg> dt. Pfand
+</marginal>
+
+<marginal letter="475" page="275" line="31" >
+<bzg>Recidiv</bzg> Rückfall
 </marginal>
 
 <marginal letter="475" page="275" line="35" >
@@ -60676,7 +60681,7 @@ vnndt Stettyn 1777/8 ?!?
 </marginal>
 
 <marginal letter="475" page="276" line="7" >
-<bzg>huj.</bzg>  huius, d.i. diesen Monats
+<bzg>huj.</bzg> huius, d.i. diesen Monats
 </marginal>
 
 <marginal letter="475" page="276" line="8" >
@@ -60688,7 +60693,7 @@ vnndt Stettyn 1777/8 ?!?
 </marginal>
 
 <marginal letter="475" page="276" line="10" >
-<bzg>Leibnitzens Theodicée</bzg> <link ref="leibniz" subref="leibniz-theodize" linktext="true" /> 
+<bzg>Leibnitzens Theodicée</bzg> <link ref="leibniz" subref="leibniz-theodizee" linktext="true" />
 </marginal>
 
 <marginal letter="475" page="276" line="13" >
@@ -60708,7 +60713,7 @@ vnndt Stettyn 1777/8 ?!?
 </marginal>
 
 <marginal letter="475" page="276" line="31" >
-<bzg>authentique Althertum</bzg> wohl <link ref="boulanger" subref="boulanger-antiquite" linktext="true" /> 
+<bzg>authentique Althertum</bzg> nicht ermittelt, mglw. <link ref="boulanger" subref="boulanger-antiquite" linktext="true" /> 
 </marginal>
 
 <marginal letter="475" page="276" line="37" >
