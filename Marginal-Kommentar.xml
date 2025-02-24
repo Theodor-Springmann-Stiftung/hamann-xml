@@ -60724,18 +60724,55 @@ Brief Nr. 475
 Brief Nr. 476
 
 <marginal letter="476" page="277" line="2" >
-<bzg>Farao für die Könige</bzg> Behrisch (Beris, Berisch), Heinrich Wolfgang v. (1744- 1825), Schriftsteller.
-Farao für die Könige. 1ster und 2ter Theil Leipzig 1776. 3ter Theil 1777?!?
+<bzg>Farao für die Könige</bzg> <link ref="behrisch" subref="behrisch-farao" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="5" >
+<bzg>Analogien&#x202F;</bzg> <link ref="behrisch" subref="behrisch-analogien" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="6" >
+<bzg>Reisen der Tugend</bzg> <link ref="behrisch" subref="behrisch-reisen" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="7" sort="1" >
+<bzg>Freundschaften</bzg> <link ref="behrisch" subref="behrisch-freundschaften" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="7" sort="2" >
+<bzg>Biographien der Sachsen</bzg> <link ref="behrisch" subref="behrisch-sachsen" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="7" sort="3" >
+<bzg>harmonische Mythologie</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="476" page="277" line="8" sort="1" >
+<bzg>Erbauungsstunden</bzg> <link ref="behrisch" subref="behrisch-erbauung" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="8" sort="2" >
+<bzg>Predigten&#x202F;…</bzg> <link ref="behrisch" subref="behrisch-predigten" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="8" sort="3" >
+<bzg>Koran&#x202F;…</bzg> <link ref="behrisch" subref="behrisch-koran" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="9" >
+<bzg>Geschichte der Glückl.</bzg> <link ref="behrisch" subref="behrisch-geschichte" linktext="true" />
+</marginal>
+
+<marginal letter="476" page="277" line="10" >
+<bzg>Wanderungen der Philosophen und Dichter</bzg> <link ref="behrisch" subref="behrisch-wanderungen" linktext="true" />
 </marginal>
 
 <marginal letter="476" page="277" line="11" >
-<bzg>Warum ist der …</bzg> Warum ist der Sohn Gottes in die Welt gekommen - -: und hat doch die
-Menschen bey ihren Irrthümern gelassen, Breslau 1776?!?
+<bzg>Warum ist der …</bzg> <link ref="weber-kf" subref="weber-sohngottes" linktext="true" /> 
 </marginal>
 
 <marginal letter="476" page="277" line="13" >
-<bzg>Simon! …</bzg> Simon, Siehest Du dies Weib oder Geschichte einer Engelländerin, Halle
-[Waysenhaus] 1776, N V,328 ?!?
+<bzg>Simon! …</bzg> <link ref="simon-weib" linktext="true" />
 </marginal>
 
 <marginal letter="476" page="277" line="16" >
