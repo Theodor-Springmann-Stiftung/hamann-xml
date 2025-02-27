@@ -6433,11 +6433,17 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 <eintrag>
 <titel>Le Kermes du Nord ou la Cochenille de Pologne</titel> [Mitau: <link ref="hinz" linktext="false">Hinz</link>] 1774. – Zur Druckgeschichte vgl. N&#x202F;II, S.&#x202F;422–424. – Zitation im Briefkommentar nach N&#xA0;II, S.&#x202F;317–322.
 <line type="empty" />
-Scan: <wwwlink address="https://jbc.bj.uj.edu.pl/publication/337957">Bibliotheka Jagiellońska</wwwlink>.<line type="break" />
-Handexemplare, teilweise mit Annotationen Hamanns: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235945">ULB Münster: N. Hamann Bd.&#x202F;33 (Exemplar Aachen; sporadische Korrekturen und unterstreichungen, keine Annotationen), Bd.&#x202F;34 (Exemplar Berlin; genannt „He“; mit handschriftlichen Annotationen vmtl. von Hamann), Bd.&#x202F;35 (Exemplar Bonn, genannt „Bo“, keine Annotationen), Bd.&#x202F;36 (angeblich „Handschrift. 1774. SB Berlin, Samml. Meusebach. 43 Bl.“, so Nadler: Hamann-Ausgabe, S.&#x202F;10*; hier aber ein Druck wohl aus Berlin, Stempel „Gildemeister“, Ms 2553 I no 14, keine Annotationen), Bd.&#x202F;121 (Johann Georg Müller-Sammelband, keine Annotationen).</wwwlink><line type="break" />
-Außerdem vorhanden laut Nadler: Hamann-Ausgabe, S.&#x202F;10* (Scan nicht verfügbar): ULB Münster: N. Hamann Bd.&#x202F;31: Le Kermes du Nord ou la Cochenille de Pologne. Handschr. 1774. SB Berlin, Samml. Meusebach. 43 Bl. Nadler II, 317–322. – N. Hamann Bd.&#x202F;32: Le Kermes du Nord III. Entwürfe. Handschr. 6 Bl. Nadler II 317–322.<line type="break" />
+Scan: <wwwlink address="https://jbc.bj.uj.edu.pl/publication/337957">Bibliotheka Jagiellońska, Yy 5341 R; laut Ex libris ehemals SB Berlin, Bibliothek Meusebach, keine Schlussvignette</wwwlink>.<line type="break" />
+Handexemplare, teilweise mit Annotationen: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235945">ULB Münster: N. Hamann Bd.&#x202F;33, 34, 35, 36, 121.</wwwlink><line type="break" />
+Bd.&#x202F;33: Exemplar Aachen; sporadische Korrekturen und Unterstreichungen von unbekannter Hand, keine Annotationen, mit Schlussvignette. Vmtl. der „Korrekturdruck“ bzw. das „Exemplar aus der Bibliothek Hammers = Ha“ (N&#x202F;II,423). <line type="break" />
+Bd.&#x202F;34: Exemplar Berlin; genannt „He“; mit handschriftlichen Annotationen vmtl. von Herder, mit Schlussvignette.<line type="break" />
+Bd.&#x202F;35: Exemplar Bonn, genannt „Bo“, keine Annotationen, keine Schlussvignette.<line type="break" />
+Bd.&#x202F;36: angeblich „Handschrift. 1774. SB Berlin, Samml. Meusebach. 43 Bl.“, so <wwwlink address="nad-j-1930">Nadler: Hamann-Ausgabe</wwwlink>, S.&#x202F;10*; im Scan aus Münster aber ein Druck aus Königsberg, Stempel „Gildemeister“, Ms 2553 I 14, keine Annotationen, keine Schlussvignette.<line type="break" />
+Bd.&#x202F;121: Johann Georg Müller-Sammelband, keine Annotationen, keine Schlussvignette.<line type="break" />
+Handschriftliche Entwürfe:<line type="break" />
+ULB Münster: N. Hamann Bd.&#x202F;31: Le Kermes du Nord ou la Cochenille de Pologne. Handschr. 1774. SB Berlin, Samml. Meusebach. 43 Bl. Nadler II, 317–322 (<wwwlink address="nad-j-1930">Nadler: Hamann-Ausgabe</wwwlink>, S.&#x202F;10*; Scan nicht verfügbar). – Vmtl. das Konvolut aus der Sammlung Meusebach, das sich mittlerweile in der <wwwlink address="https://www.jbc.bj.uj.edu.pl/publication/856480">Jagiellonenbibliothek, Krakau</wwwlink> befindet.<line type="break" />
+ULB Münster: N. Hamann Bd.&#x202F;32: Le Kermes du Nord III. Entwürfe. Handschr. 6 Bl. Nadler II 317–322. – Vmtl. die in <wwwlink address="nad-j-1930">Nadler: Hamann-Ausgabe</wwwlink>, S.&#x202F;211 genannten „Zwei Entwürfe zum 3. Brief: Königsberg St. u. UB. R. II 89 (vgl. auch N&#x202F;III,423).<line type="break" />
 Scan eines Konvoluts von Hamann-Handschriften aus der Sammlung Meusebach verfügbar in: <wwwlink address="https://www.jbc.bj.uj.edu.pl/publication/856480">Hamann-Handschriften in der Jagiellonenbibliothek, Krakau.</wwwlink><line type="break" />
- 
 </eintrag>
 </subsection>
 <subsection id="hamann-bolingbroke-hervey" type="neuzeit" sort="620">
@@ -9308,7 +9314,7 @@ L
 
 <kommentar id="lattre" type="neuzeit">
 <lemma>Nicolas Constantin de Lattre</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Geheimer Rat, ab 1766 Finanzrat und einer der fünf <link ref="general-akzise-und-zoll-direktion" linktext="false">Generalregisseure</link> in der französischen Finanzverwaltung von <link ref="friedrich-II" linktext="true" />, 1772 bei der Reform der Generalregie entlassen; richtete ab 1772 in Königsberg im Auftrag Friedrich II. die <link ref="seehandlungskompanie" linktext="true" /> ein.</eintrag>
+<eintrag>Lebensdaten nicht ermittelt. Geheimer Rat, ab 1766 Finanzrat und einer der fünf <link ref="general-akzise-und-zoll-direktion" linktext="false">Generalregisseure</link> in der französischen Finanzverwaltung von <link ref="friedrich-II" linktext="true" />, 1772 bei der Reform der Generalregie entlassen; richtete ab 1772 in Königsberg im Auftrag Friedrich II. die <link ref="seehandlungskompanie" linktext="true" /> ein, vgl. <link ref="gaj-b-1987b" linktext="false">Gajek (Hg.): Hamann und Frankreich</link>, S.&#x202F;154f.</eintrag>
 </kommentar>
 
 <kommentar id="lau-tl" type="neuzeit">
