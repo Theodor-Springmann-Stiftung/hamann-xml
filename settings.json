@@ -6,7 +6,7 @@
 		}
 	},
 	"FeatureManagement": {
-		"AdminService": true,
+		"AdminService": false,
 		"LocalPublishService": false,
 		"Syntax-Check": false,
 		"Notifications": true
