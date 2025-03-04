@@ -1,0 +1,40 @@
+name: Lint XML
+
+on:
+  push:
+    branches:
+      - main
+      - '**'         # Or specify branches as needed
+  pull_request:
+    branches:
+      - main
+      - '**'
+
+jobs:
+  lint-xml:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install lxml
+
+      - name: Lint XML references
+        run: |
+          # Adjust the command/path to your script as needed
+          python scripts/lint_verweise.py \
+            meta.xml \
+            references.xml \
+            briefe.xml \
+            edits.xml \
+            traditions.xml \
+            Marginal-Kommentar.xml \
+            --register Register-Kommentar.xml Bibel-Kommentar.xml forschung.xml
