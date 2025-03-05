@@ -27,7 +27,7 @@
 
 <kommentar id="at-mo5" type="bibel" sort="50">
 <lemma>5. Buch Mose</lemma>
-<subsection id="at-mo5-1"><lemma>5 Mo 1</lemma></subsection> <subsection id="at-mo5-8"><lemma>5 Mo 8</lemma></subsection> <subsection id="at-mo5-9"><lemma>5 Mo 9</lemma></subsection> <subsection id="at-mo5-10"><lemma>5 Mo 10</lemma></subsection>  <subsection id="at-mo5-11"><lemma>5 Mo 11</lemma></subsection> <subsection id="at-mo5-12"><lemma>5 Mo 12</lemma></subsection> <subsection id="at-mo5-18"><lemma>5 Mo 18</lemma></subsection> <subsection id="at-mo5-21"><lemma>5 Mo 21</lemma></subsection> <subsection id="at-mo5-22"><lemma>5 Mo 22</lemma></subsection> <subsection id="at-mo5-28"><lemma>5 Mo 28</lemma></subsection> <subsection id="at-mo5-31"><lemma>5 Mo 31</lemma></subsection> <subsection id="at-mo5-33"><lemma>5 Mo 33</lemma></subsection>
+<subsection id="at-mo5-1"><lemma>5 Mo 1</lemma></subsection> <subsection id="at-mo5-8"><lemma>5 Mo 8</lemma></subsection> <subsection id="at-mo5-9"><lemma>5 Mo 9</lemma></subsection> <subsection id="at-mo5-10"><lemma>5 Mo 10</lemma></subsection>  <subsection id="at-mo5-11"><lemma>5 Mo 11</lemma></subsection> <subsection id="at-mo5-12"><lemma>5 Mo 12</lemma></subsection> <subsection id="at-mo5-18"><lemma>5 Mo 18</lemma></subsection> <subsection id="at-mo5-21"><lemma>5 Mo 21</lemma></subsection> <subsection id="at-mo5-22"><lemma>5 Mo 22</lemma></subsection> <subsection id="at-mo5-24"><lemma>5 Mo 24</lemma></subsection> <subsection id="at-mo5-28"><lemma>5 Mo 28</lemma></subsection> <subsection id="at-mo5-31"><lemma>5 Mo 31</lemma></subsection> <subsection id="at-mo5-33"><lemma>5 Mo 33</lemma></subsection>
 </kommentar>
 
 <kommentar id="at-jos" type="bibel" sort="60">
@@ -74,6 +74,11 @@
 <lemma>2. Chronik</lemma>
 <subsection id="at-chr2-9"><lemma>2 Chr 9</lemma></subsection> <subsection id="at-chr2-18"><lemma>2 Chr 18</lemma></subsection> <subsection id="at-chr2-23"><lemma>2 Chr 23</lemma></subsection> 
 </kommentar>
+
+<kommentar id="at-esra" type="bibel" sort="123">
+<lemma>Esra</lemma>
+<subsection id="at-esra3"><lemma>Esra 3</lemma></subsection>  
+</kommentar> 
 
 <kommentar id="at-neh" type="bibel" sort="125">
 <lemma>Nehemia</lemma>

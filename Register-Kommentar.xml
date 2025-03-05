@@ -1616,7 +1616,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="blom-wy" type="neuzeit">
 <lemma>Wybrand Blom</lemma>
-<eintrag>Gest. 1777, königlicher Licentrath und Packhofinspector in Königsberg, Hamanns Vorgänger (Antecesseur).</eintrag>
+<eintrag>Gest. am 1. Januar 1777, königlicher Licentrath und Packhofinspector in Königsberg, Hamanns Vorgänger (Antecesseur).</eintrag>
 </kommentar>
 
 <kommentar id="bluttheologie" type="neuzeit">
@@ -13082,7 +13082,13 @@ Q
 
 <kommentar id="quintilian" type="neuzeit">
 <lemma>Quintilian</lemma>
-<eintrag>Marcus Fabius Quintilianus. 36–96.</eintrag>
+<eintrag>Marcus Fabius Quintilianus. Um 35–96 n.&#x202F;Chr. Antiker Rhetoriker.</eintrag>
+<subsection id="quintilian-institutiones" type="neuzeit" sort="10">
+<lemma>Quint. <titel>Inst.</titel></lemma>
+<eintrag>
+<titel>Institutio oratoria.</titel> 12 Bücher. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;9/150: „M. Fab. Quintiliani Institutiones Oratoriae et Declamationes, Lugd. 546“].
+</eintrag>
+</subsection>
 </kommentar>
 
 R

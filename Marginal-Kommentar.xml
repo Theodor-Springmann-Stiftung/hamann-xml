@@ -60492,7 +60492,7 @@ Brief Nr. 474
 </marginal>
 
 <marginal letter="474" page="271" line="29" >
-<bzg>Schwester im Apoll&#x202F;…</bzg> Im <link ref="voss" subref="voss-musenalmanach1777" linktext="false"><titel>Vossischen Musenalmanach auf das Jahr 1777</titel></link>, S.&#x202F;37 und 133 sind Reichardts Vertonungen der Lieder „Aufmunterung zur Freude“ und „Morgenlied“, ebd., S.&#x202F;100 ist Juliana Bendas Vertonung des Liedes „Dora“ abgedruckt.
+<bzg>Schwester im Apoll&#x202F;…</bzg> Im <link ref="voss" subref="voss-musenalmanach1777" linktext="false"><titel>Vossischen Musenalmanach auf das Jahr 1777</titel></link>, S.&#x202F;37 und 133 sind Reichardts Vertonungen der Lieder „Aufmunterung zur Freude“ und <link ref="claudius" linktext="false">Claudius’</link> „Morgenlied eines Bauern“ abgedruckt; ebd., S.&#x202F;100 Juliana Bendas Vertonung des Liedes „Dora“.
 </marginal>
 
 <marginal letter="474" page="271" line="31" >
@@ -60824,7 +60824,7 @@ Brief Nr. 477
 <bzg>Antwort</bzg> nicht überliefert; Antwort auf <intlink letter="474" page="271" line="20" linktext="false">HKB 474</intlink> (eine Antwort Reichardts auf <intlink letter="461" page="217" line="23" linktext="false">HKB 461</intlink> war zuvor ausgeblieben); zum Inhalt von Reichardts Antwort <intlink letter="477" page="280" line="19" linktext="false">s.&#x202F;u.</intlink>
 </marginal>
 
-<marginal letter="477" page="278" line="13" >
+<marginal letter="477" page="278" line="12" >
 <bzg>Licent-Buchhalters </bzg> Hamann war bloß Übersetzer bzw. zeitweilig Sekretär bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
 </marginal>
 
@@ -60861,7 +60861,7 @@ Brief Nr. 477
 </marginal>
 
 <marginal letter="477" page="278" line="35" sort="2">
-<bzg>ersten Cammerdiener&#x202F;…</bzg> Im außerbiblischen <wwwlink address="https://de.wikisource.org/wiki/Esdras_drittes_Buch">3. Buch Esra, Kap. 3</wwwlink> geht es um den Wettstreit der Kammerdiener des Königs Dareios, und darum, was das stärkste ist, der Wein, der König, die Weiber oder die Wahrheit; der erste Kammerdiener schreibt auf einen Zettel: „Der Wein ist am mächtigsten.“ (3 Esr 3,10)
+<bzg>ersten Cammerdiener&#x202F;…</bzg> Im apogryphen <wwwlink address="https://www.bibelbuch.de/apokryphe-schriften/3-esra/">3. Buch Esra, Kap. 3</wwwlink> geht es um den Wettstreit der Kammerdiener des Königs Dareios, und darum, was das stärkste ist, der Wein, der König, die Weiber oder die Wahrheit; der erste Kammerdiener schreibt auf einen Zettel: „Der Wein ist am mächtigsten.“ (3 Esr 3,10)
 </marginal>
 
 <marginal letter="477" page="279" line="2" sort="1" >
@@ -60872,11 +60872,11 @@ Brief Nr. 477
 <bzg>Prov. XXXI. v. 6. 7.</bzg> <link ref="at-spr" subref="at-spr31" linktext="false">Spr 31,6</link>: „Gebt Bier denen, die am Umkommen sind, und Wein den betrübten Seelen, dass sie trinken und ihres Elends vergessen und ihres Unglücks nicht mehr gedenken.“
 </marginal>
 
-<marginal letter="477" page="279" line="4" >
+<marginal letter="477" page="279" line="4" sort="1" >
 <bzg>Optimus Maximus</bzg> dt. der beste, größte (Jupiter)
 </marginal>
 
-<marginal letter="477" page="279" line="4" >
+<marginal letter="477" page="279" line="4" sort="2" >
 <bzg>P.</bzg> <link ref="penzel" linktext="false">Penzel</link>
 </marginal>
 
@@ -60892,8 +60892,16 @@ Brief Nr. 477
 <bzg>Magnier</bzg> <link ref="magnier" linktext="true" />
 </marginal>
 
+<marginal letter="477" page="279" line="16" >
+<bzg>gedruckten Documenten</bzg> Hamann thematisierte seine finanzielle Situation und die Gehaltskürzung verschiedentlich in seinen Schriften, vgl. etwa das „Tableau de mes Finances“ in <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, N&#x202F;II,309
+</marginal>
+
 <marginal letter="477" page="279" line="17" >
 <bzg>rth</bzg> Reichstaler, eine im ganzen dt-sprachigen Raum übliche Silbermünze, entspricht 24 Silbergroschen (Groschen: Silbermünze [ca. 24. Teil eines Talers] oder Kupfermünze [ca. 90. Teil eines Talers]; in Königsberg war der Kupfergroschen üblich; für 8 Groschen gab es ca. zwei Pfund Schweinefleisch).
+</marginal>
+
+<marginal letter="477" page="279" line="19" >
+<bzg>Garde-Magazin</bzg> Packhofverwalter
 </marginal>
 
 <marginal letter="477" page="279" line="20" >
@@ -60905,15 +60913,19 @@ Brief Nr. 477
 </marginal>
 
 <marginal letter="477" page="279" line="31" >
-<bzg>Gen. Adm.</bzg> vgl. <intlink letter="470" page="255" line="10" linktext="true" /> 
+<bzg>Gen. Adm.</bzg> an die <link ref="general-akzise-und-zoll-direktion" linktext="true" /> vgl. <intlink letter="470" page="255" line="10" linktext="true" /> 
+</marginal>
+
+<marginal letter="477" page="279" line="32" >
+<bzg>Teufel</bzg> vgl. <intlink letter="470" page="435" line="1" linktext="true" /> 
 </marginal>
 
 <marginal letter="477" page="279" line="34" >
-<bzg>licentiam poeticam</bzg> dichterische Freiheit (Quint. inst. 2,4,3)
+<bzg>licentiam poeticam</bzg> dichterische Freiheit (<link ref="quintilian" subref="quintilian-institutiones" linktext="true" /> 2,4,3)
 </marginal>
 
 <marginal letter="477" page="279" line="35" >
-<bzg>drey Briefe</bzg> vgl. <intlink letter="253" page="225" line="15" linktext="false">HKB 253</intlink>, <intlink letter="256" page="231" line="32" linktext="false">HKB 256</intlink>, <intlink letter="300" page="328" line="24" linktext="false">HKB 256</intlink>
+<bzg>drey Briefe</bzg> Neben den beiden kürzlich verfassten Briefen an die <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link> (vgl. <intlink letter="470" page="434" line="20" linktext="true" /> und <intlink letter="470" page="436" line="9" linktext="true" />) ist als dritter vermutlich das Gesuch um die Licentratsteller <link ref="heusinger" linktext="false">Heusingers</link> von 1772 gemeint, vgl. <intlink letter="376" page="9" line="15" linktext="true" />.
 </marginal>
 
 <marginal letter="477" page="279" line="36" >
@@ -60921,7 +60933,11 @@ Brief Nr. 477
 </marginal>
 
 <marginal letter="477" page="280" line="3" >
-<bzg>Secretaire-Interprete …</bzg> ?!?
+<bzg>Secretaire-Interprete&#x202F;…</bzg> dt. Herr Hamann, Sekretär und Übersetzer dieser Direktion, ersucht lebhaft um diese Stelle 
+</marginal>
+
+<marginal letter="477" page="280" line="5" >
+<bzg>par la voye&#x202F;…</bzg> dt. auf dem Wege eines Postskriptums
 </marginal>
 
 <marginal letter="477" page="280" line="8" >
@@ -60932,8 +60948,16 @@ Brief Nr. 477
 <bzg>Mosaischen Rechte</bzg> <link ref="at-mo5" subref="at-mo5-24" linktext="false">5 Mo 24,5</link>
 </marginal>
 
-<marginal letter="477" page="280" line="19" >
-<bzg>Antwort</bzg> vgl. <intlink letter="477" page="278" line="9" linktext="true" /> 
+<marginal letter="477" page="280" line="16" >
+<bzg>Braut mit 12000 rth</bzg> nicht ermittelt; Köppe?!?
+</marginal>
+
+<marginal letter="477" page="280" line="19" sort="1" >
+<bzg>Antwort</bzg> vgl. <intlink letter="477" page="278" line="9" linktext="false">s.o.</intlink> 
+</marginal>
+
+<marginal letter="477" page="280" line="19" sort="2" >
+<bzg>alten Freundes und würdigen Reichardt</bzg> <link ref="reichardt-j" linktext="true" />
 </marginal>
 
 <marginal letter="477" page="280" line="23" >
@@ -60945,22 +60969,11 @@ Brief Nr. 477
 </marginal>
 
 <marginal letter="477" page="280" line="25" >
-<bzg>Morgenliede</bzg> von Reichardt vertont ?!?
+<bzg>Morgenliede</bzg> von Reichardt im <link ref="voss" subref="voss-musenalmanach1777" linktext="false"><titel>Vossischen Musenalmanach</titel></link> vertont, vgl. zu <intlink letter="474" page="271" line="29" linktext="true" />
 </marginal>
 
 <marginal letter="477" page="280" line="26" >
-<bzg>ätherischen Bebungen</bzg> [in der demokritischen Überlieferung]: Reichardt berichtet in seinen Lebenserinnerungen:
-Bei Claudius machte ich zuerst die Erfahrung, daß man auf einem gänzlich
-verstimmten Instrumente mit Wohlgefallen und ungestört musizieren kann, sobald
-man davon zum Voraus unterrichtet ist; während man über einen unerwartet
-anklingenden falschen Ton im übrigens wohlgestimmten Instrumente empfindlich
-zusammenfährt. Des Dichters schlechtes, kaum halbbesaitetes Klavier war fast immer
-verstimmt und doch sangen und spielten wir oft mit wahrer Freude stundenlang
-zusammen. Damals kam mir zuerst der Gedanke, daß die eigentliche Kunst der Musik
-wohl in dem Bewußtwerden des innern geheimen Kalküls der Seele bestehe, der
-ununterbrochen in ihr, den übrigen unbewußt, fortgeht. Bach wollte das nie
-zugestehen, aber Cartesius und ... Leibniz haben denselben Gedanken
-ausgesprochen. ?!?
+<bzg>ätherischen Bebungen [Vibrato am Clavichord] … cartesianische Wirbel [in der demokritischen Überlieferung]</bzg> Reichardt berichtet in seinen Lebenserinnerungen: „Bei Claudius machte ich zuerst die Erfahrung, daß man auf einem gänzlich verstimmten Instrumente mit Wohlgefallen und ungestört musizieren kann, sobald man davon zum Voraus unterrichtet ist; während man über einen unerwartet anklingenden falschen Ton im übrigens wohlgestimmten Instrumente empfindlich zusammenfährt. Des Dichters schlechtes, kaum halbbesaitetes Klavier war fast immer verstimmt und doch sangen und spielten wir oft mit wahrer Freude stundenlang zusammen. Damals kam mir zuerst der Gedanke, daß die eigentliche Kunst der Musik wohl in dem Bewußtwerden des innern geheimen Kalküls der Seele bestehe, der ununterbrochen in ihr, den übrigen unbewußt, fortgeht. Bach wollte das nie zugestehen, aber Cartesius und ... Leibniz haben denselben Gedanken ausgesprochen.“ [Henkel-Kommentar einfach löschen? zu interpretativ und wenig zielführend?!? – cartesianische Wirbel Kommentieren? vgl. <wwwlink address="http://www.zeno.org/Pierer-1857/A/Cartesianische+Wirbel">Pierer III,717</wwwlink>: „Cartesianische Wirbel, Hypothese, von Descartes ausgebildet, um die Planeten- u. Trabantenbewegungen um Sonne u. Planeten, bes. die Übereinstimmung der Richtung der Bahnen derselben, zu erklären, indem er eine höchst feine Materie in den Himmelsräumen annahm, die sich um jene Körper wie um einen Mittelpunkt bewegte u. nun die untergeordneten Körper mit sich fortriß u. umtrieb.“]
 </marginal>
 
 <marginal letter="477" page="280" line="28" sort="1">
@@ -60978,7 +60991,7 @@ Darmstädtischen privilegirten Landzeitung, 1777, 1,5,14 ?!?
 </marginal>
 
 <marginal letter="477" page="280" line="29" sort="2">
-<bzg>Salomo</bzg> <link ref="friedrich-II" linktext="true" /> 
+<bzg>Salomo</bzg> <link ref="friedrich-II" linktext="true" />, nach <link ref="hamann" subref="hamann-salomon" linktext="true" /> 
 </marginal>
 
 <marginal letter="477" page="280" line="33" >
@@ -60986,21 +60999,27 @@ Darmstädtischen privilegirten Landzeitung, 1777, 1,5,14 ?!?
 </marginal>
 
 <marginal letter="477" page="280" line="34" >
-<bzg>wahren Schöpfer Ihres zeitlichen Glücks</bzg> gemeint ist wohl die potenzierte Harmonie von Claudius' Dichtung und
-Reichardts Musik, im Dienste am Hause des HErrn, wie Serubabel nach Esr 3,2; 4,2;
-5,2; Neh 12,47 ?!?
+<bzg>wahren Schöpfer Ihres zeitlichen Glücks</bzg> gemeint ist wohl die potenzierte Harmonie von Claudius’ Dichtung und Reichardts Musik
 </marginal>
 
 <marginal letter="477" page="281" line="2" >
-<bzg>dritten</bzg> Serubabel, vgl. Esr 3,2 ?!?
+<bzg>dritten</bzg> mit dem dritten Kammerdiener in deren Wettstreit im apogryphen <wwwlink address="https://www.bibelbuch.de/apokryphe-schriften/3-esra/">3. Buch Esra, Kap. 3–4</wwwlink> (<intlink letter="477" page="278" line="35" linktext="false">s.o.</intlink>), der für die Macht der Frauen und der Wahrheit eintritt; ebd., Kap. 3., V. 13 wird er mit Serubabel identifiziert, der auch in <link ref="at-esra" subref="at-esra3" linktext="false">Esra 3,2</link> u.ö. auftritt 
 </marginal>
 
 <marginal letter="477" page="281" line="3" >
-<bzg>Der Wein …</bzg> vgl Zeile 9, apokryphische Citationen. ?!?
+<bzg>Der Wein&#x202F;…</bzg> <wwwlink address="https://www.bibelbuch.de/apokryphe-schriften/3-esra/">3. Buch Esra, Kap. 4, V. 31–40</wwwlink>
+</marginal>
+
+<marginal letter="477" page="281" line="4" sort="1" >
+<bzg>Juliane</bzg> <link ref="reichardt-jul" linktext="true" />
+</marginal>
+
+<marginal letter="477" page="281" line="4" sort="2" >
+<bzg>zolllustigen Sünder</bzg> Hamann selbst; anscheinend eine Reaktion auf eine Lobrede auf Hamann in Reichardts Antwortschreiben 
 </marginal>
 
 <marginal letter="477" page="281" line="18" >
-<bzg>Operations-Plan</bzg> für das Gesuch um die Ratsstelle, vgl. <intlink letter="484" page="300" line="13" linktext="true" /> 
+<bzg>Operations-Plan</bzg> für das Gesuch um die Licentratsstelle von <link ref="blom-wy" linktext="true" />, vgl. <intlink letter="484" page="300" line="14" linktext="true" /> 
 </marginal>
 
 <marginal letter="477" page="281" line="21" >
