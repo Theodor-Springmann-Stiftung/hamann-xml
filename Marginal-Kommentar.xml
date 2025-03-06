@@ -58605,7 +58605,7 @@ Brief Nr. 467
 </marginal>
 
 <marginal letter="467" page="235" line="30">
-<bzg>Aspecten des Mercurs</bzg> zum Wandel des Verhältnisses zwischen Herder und <link ref="wieland" linktext="true">Wieland</link> sowie zu Herders Beitrag über Ulrich von Hutten im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, 3.&#x202F;Viertelj. 1776, S.&#x202F;3–34 vgl. <link ref="haym-r-1880" linktext="false">Haym: <titel>Herder nach seinem Leben und seinen Werken dargestellt</titel></link>, Bd.&#x202F;2, S.&#x202F;29–35
+<bzg>Aspecten des Mercurs</bzg> zum Wandel des Verhältnisses zwischen Herder und <link ref="wieland" linktext="false">Wieland</link> sowie zu <link ref="herder" subref="herder-hutten" linktext="false">Herders Beitrag</link> über Ulrich von Hutten im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, 3.&#x202F;Viertelj. 1776, S.&#x202F;3–34 vgl. <link ref="haym-r-1880" linktext="false">Haym: <titel>Herder nach seinem Leben und seinen Werken dargestellt</titel></link>, Bd.&#x202F;2, S.&#x202F;29–35
 </marginal>
 
 <marginal letter="467" page="235" line="31">
@@ -59495,7 +59495,7 @@ Brief Nr. 469
 </marginal>
 
 <marginal letter="469" page="252" line="29">
-<bzg>Merkur&#x202F;…&#x202F;Hutten</bzg> Herders Beitrag über Ulrich von Hutten im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, 3.&#x202F;Viertelj. 1776, S.&#x202F;3–34
+<bzg>Merkur&#x202F;…&#x202F;Hutten</bzg> Herders <link ref="herder" subref="herder-hutten" linktext="false">Beitrag über Ulrich von Hutten</link> im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>
 </marginal>
 
 <marginal letter="469" page="252" line="32">
@@ -61203,7 +61203,7 @@ Brief Nr. 479
 </marginal>
 
 <marginal letter="479" page="285" line="33" >
-<bzg>Königstag</bzg> wohl Dreikönigstag (Epiphanias), 6.1.1777
+<bzg>Königstag</bzg> Dreikönigstag (Epiphanias), 6.1.1777
 </marginal>
 
 <marginal letter="479" page="286" line="34" >
@@ -61282,12 +61282,64 @@ Brief Nr. 479
 <bzg>Hartkn.</bzg> <link ref="hartknoch" linktext="true" />
 </marginal>
 
-<marginal letter="479" page="287" line="26" sort="1" >
-<bzg>Schriften Postells</bzg> in der Weimarer Fürstlichen Bibliothek sind acht Bände von <link ref="postel" linktext="true" /> vorhanden?!?
+<marginal letter="479" page="287" line="28" sort="1" >
+<bzg>Schriften Postells</bzg> zu einer Liste der in der ehemaligen Weimarer Fürstlichen Bibliothek befindlichen Bände der Schriften von <link ref="postel" linktext="true" /> vgl. <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;21
 </marginal>
 
-<marginal letter="479" page="287" line="26" sort="2" >
-<bzg>Geiler von Kaisersberg</bzg>
+<marginal letter="479" page="287" line="28" sort="2" >
+<bzg>Geiler von Kaisersberg</bzg> <link ref="geiler" linktext="true" />; zu den in der Fürstlichen Bibliothek damals befindlichen Bänden vgl. ebd.
+</marginal>
+
+<marginal letter="479" page="287" line="29" >
+<bzg>absit invidia verbo</bzg> möge frei von Neid die Rede sein, <link ref="livius" subref="livius-urbe" linktext="true" />, IX,19,15
+</marginal>
+
+<marginal letter="479" page="287" line="32" >
+<bzg>Hutten</bzg> <link ref="herder" subref="herder-hutten" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="287" line="32" >
+<bzg>Kopernikus</bzg> <link ref="herder" subref="herder-kopernikus" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="287" line="33" >
+<bzg>Philosophei u. Schwärmerei&#x202F;…</bzg> <link ref="herder" subref="herder-philosophei-schwaermerei" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="288" line="1" >
+<bzg>Dahlberg</bzg> <link ref="dalberg" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="288" line="9" >
+<bzg>Sorbonnenmauer</bzg> wie die Pariser Universität
+</marginal>
+
+<marginal letter="479" page="288" line="12" >
+<bzg>Kaufmann</bzg> <link ref="kaufmann-c" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="288" line="14" >
+<bzg>jungen Rußen</bzg> Chunstoff, vgl. <intlink letter="502" page="352" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="288" line="16" >
+<bzg>kranken Schwager</bzg> <link ref="flachsland-fs" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="288" line="18" >
+<bzg>Lavaters</bzg> <link ref="lavater" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="288" line="19" >
+<bzg>Ihr Pathe</bzg> <link ref="herder-a" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="288" line="22" >
+<bzg>Neumann</bzg> <link ref="neumann-j" linktext="true" />
+</marginal>
+
+<marginal letter="479" page="288" line="24" >
+<bzg>angetreten</bzg> mit der Homilie des Gleichnisses vom Gastmahl des Königs, vgl. SWS XXXI,433–449
 </marginal>
 
 Brief Nr. 480
