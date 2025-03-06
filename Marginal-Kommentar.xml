@@ -59950,7 +59950,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="262" line="14" sort="1">
-<bzg>Lenz</bzg> welcher Lenz, der jüngere Bruder Karl?!?
+<bzg>Lenz</bzg> <link ref="lenz-kh" linktext="true" />?!?
 </marginal>
 
 <marginal letter="470" page="262" line="14" sort="2">
@@ -60588,7 +60588,7 @@ Brief Nr. 474
 </marginal>
 
 <marginal letter="474" page="274" line="7" >
-<bzg>Quartanfieber</bzg> viertägiges Fieber
+<bzg>Quartanfieber</bzg> viertägig wiederkehrendes Fieber, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Quartan: „viertägig, als Quartanfieber, ein Fieber, welches sich jederzeit am vierten Tage wieder einstellt, nähmlich den ersten Fiebertag immer wieder mitgerechnet, so daß also zwischen 2 Fieberanfällen 2 gute Tage gezählt werden.“
 </marginal>
 
 <marginal letter="474" page="274" line="10" >
@@ -61342,10 +61342,75 @@ Brief Nr. 479
 <bzg>angetreten</bzg> mit der Homilie des Gleichnisses vom Gastmahl des Königs, vgl. SWS XXXI,433–449
 </marginal>
 
+
 Brief Nr. 480
+
+<marginal letter="480" page="288" line="28" sort="1" >
+<bzg>Mutter</bzg> <link ref="hartknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="288" line="28" sort="2" >
+<bzg>Ainsi soit-il</bzg> dt. so sei es (amen)
+</marginal>
+
+<marginal letter="480" page="288" line="30" >
+<bzg>Quartanfieber</bzg> viertägig wiederkehrendes Fieber, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Quartan: „viertägig, als Quartanfieber, ein Fieber, welches sich jederzeit am vierten Tage wieder einstellt, nähmlich den ersten Fiebertag immer wieder mitgerechnet, so daß also zwischen 2 Fieberanfällen 2 gute Tage gezählt werden.“
+</marginal>
+
+<marginal letter="480" page="288" line="31" >
+<bzg>leibl. Bruder</bzg> <link ref="hamann-jc" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="288" line="33" >
+<bzg>termino der Auction</bzg> dem Termin der Versteigerung von <link ref="lindner-jg" linktext="false">Lindners</link> Bibliothek, vgl. <intlink letter="470" page="255" line="21" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="288" line="34" >
+<bzg>lusus naturae</bzg> dt. Spiel der Natur
+</marginal>
+
+<marginal letter="480" page="289" line="3" >
+<bzg>HE Lentz</bzg> <link ref="lenz-kh" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="289" line="7" >
+<bzg>Mutter</bzg> Hausmutter, <link ref="schumacher-ar" linktext="true" />
+</marginal>
 
 <marginal letter="480" page="289" line="8" >
 <bzg>heutigen Krönungstag</bzg> am 18. Januar wurde in Preußen das Krönungsfest begangen, zurückgehend auf die Krönung Friedrichs I. 1701 in Königsberg
+</marginal>
+
+<marginal letter="480" page="289" line="11" >
+<bzg>Fersenpunct</bzg> auch Nadir, Gegenstück zum Zenith; gemeint ist wohl ein Sinken der Fieberkurve
+</marginal>
+
+<marginal letter="480" page="289" line="13" >
+<bzg>Msta Dona und Xenia</bzg> Manuskripte, Geschenke und Gastgeschenke; gemeint ist wohl Hamanns Bibliothek, die er zuvor im <link ref="hamann" subref="hamann-biga" linktext="true" /> erfasste 
+</marginal>
+
+<marginal letter="480" page="289" line="15" >
+<bzg>Pfründe wegen in Schwaben</bzg> wohl nach dem fingierten Autor der <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="false"><titel>Beylage zun Denkwürdigkeiten des seligen Sokrates</titel></link>
+</marginal>
+
+<marginal letter="480" page="289" line="17" >
+<bzg>erhielt ich den 6 des Herbstmonaths</bzg> <intlink letter="469" page="289" line="17" linktext="false"></intlink>
+</marginal>
+
+<marginal letter="480" page="289" line="20" >
+<bzg>Joseph Gedeon</bzg> der fingierte Autor von <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773785-6">BSB München: Polem. 1110 h</wwwlink>?!?; gemeint ist <link ref="herder" linktext="true" /> 
+</marginal>
+
+<marginal letter="480" page="289" line="22" >
+<bzg>pias fraudes</bzg> frommen Betrügereien, nach <link ref="ovid" subref="ovid-met" linktext="true" />, 9,711
+</marginal>
+
+<marginal letter="480" page="289" line="25" >
+<bzg>arrham</bzg> dt. Pfand
+</marginal>
+
+<marginal letter="480" page="289" line="29" >
+<bzg>Penzel</bzg> <link ref="penzel" linktext="true" />
 </marginal>
 
 
