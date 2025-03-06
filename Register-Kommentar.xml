@@ -1404,7 +1404,7 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
  
 <kommentar id="bertuch" type="neuzeit">
 <lemma>Friedrich Johann Justin Bertuch</lemma>
-<eintrag>1747–1822. 1775–1796 Geheimer Sekretär und Schatullverwalter von Herzog Carl August von Sachsen-Weimar. Übersetzer des <link ref="cervantes" subref="cervantes-donquijote" linktext="false"><titel>Don Quijote</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118510169.html#ndbcontent">Schreinert, Kurt: Bertuch, Friedrich Justin, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;171–173</wwwlink>.
+<eintrag>1747–1822. 1775–1796 Geheimer Sekretär und Schatullverwalter von <link ref="carl-august" linktext="true" />. Übersetzer des <link ref="cervantes" subref="cervantes-donquijote" linktext="false"><titel>Don Quijote</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118510169.html#ndbcontent">Schreinert, Kurt: Bertuch, Friedrich Justin, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;171–173</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -5623,6 +5623,11 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <eintrag>
 <titel>Grundlegung einer deutschen Sprachkunst. Nach den Mustern der besten Schriftsteller des vorigen und jetzigen Jahrhunderts abgefasset</titel> (Leipzig 1748); <titel>Kern der deutschen Sprachkunst, aus der ausführlichen Sprachkunst, zum Gebrauche der Jugend</titel> (Leipzig 1754); <titel>Vollständigere neu erläuterte deutsche Sprachkunst</titel> (Leipzig 1757).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="gottschalg" type="neuzeit">
+<lemma>Johann Sebastian Gottschalg</lemma>
+<eintrag>1722–1793. Oberkonsistorialrat und 1. Hofdiakon in Weimar, <link ref="herder" linktext="false">Herders</link> Vikar und Kollege.</eintrag>
 </kommentar>
 
 <kommentar id="gotz-jn" type="neuzeit">
@@ -10171,6 +10176,12 @@ Dt. Übers. zitiert nach: Wilhelm Ehlers (Übers.), <titel>Lucanus, Marcus Annae
 </subsection>
 </kommentar>
 
+<kommentar id="luise-swe" type="neuzeit">
+<lemma>Luise von Sachsen-Weimar-Eisenach</lemma>
+<eintrag>1757–1830. Geb. Prinzessin von Hessen-Darmstadt, seit 1775 die Frau von <link ref="carl-august" linktext="true" />.
+</eintrag>
+</kommentar>
+
 <kommentar id="lukian" type="neuzeit">
 <lemma>Lukian</lemma>
 <eintrag>Lukian von Samosata. ca.&#x202F;120&#x202F;–&#x202F;ca.&#x202F;180/200&#x202F;n.&#x202F;Chr.</eintrag>
@@ -12862,6 +12873,12 @@ Dt. Übers. zitiert nach: Konrat Ziegler (Übers.), <titel>Plutarch: Große Grie
 <titel>Syntaxis Græca : Utilissimis Exemplis illustrata ; Accessit Doctrina de Accentibus perspicuâ brevitate tradita ; Annexi sunt Indices necessarii</titel> (Leipzig, Frankfurt: Lesch 1725). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;68/165: „Jo. Posselii Syntaxis graeca, Lips. 725“]. Digitalisat: <wwwlink address="https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00037866">ThULB Jena: 8 Gl.III,39</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="postel" type="neuzeit">
+<lemma>Guillaume Postel</lemma>
+<eintrag>1510–1581. Französischer humanistischer Orientalist und Schriftsteller, vgl. N&#x202F;V,261.
+</eintrag>
 </kommentar>
 
 <kommentar id="poullain" type="neuzeit">
@@ -17020,6 +17037,16 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <titel>Die Abderiten. Eine sehr wahrscheinliche Geschichte</titel> (Weimar: Hoffmann 1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;149/322: „Ei. goldener Spiegel, 1.–4ter Th. Leipz. 772“]. Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN629754624">SUB Göttingen: Fab. Rom. VI, 4051</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="wieland-ad" type="neuzeit">
+<lemma>Anna Dorothea Wieland</lemma>
+<eintrag>1746–1801. Geb. von Hillenbrand, seit 1765 die Frau von <link ref="wieland" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="wieland-rk" type="neuzeit">
+<lemma>Regina Katharina Wieland</lemma>
+<eintrag>1715–1789. Geb. Kick. Mutter von <link ref="wieland" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="wilde" type="neuzeit">
