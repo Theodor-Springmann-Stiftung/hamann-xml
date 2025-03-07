@@ -329,6 +329,17 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <eintrag>1732–1794. Generalmajor im Heer Friedrich II, siehe <wwwlink address="https://d-nb.info/gnd/102638403">GND</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="andersen" type="neuzeit">
+<lemma>Adam Anderson</lemma>
+<eintrag>1692/93–1765. Schottischer Ökonom, siehe <wwwlink address="https://en.m.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Adam_Anderson">Encyclopædia Britannica</wwwlink>.</eintrag>
+<subsection id="andersen-handel" type="neuzeit">
+<lemma>Andersen, <titel>Geschichte des Handels</titel></lemma>
+<eintrag>
+<titel> A. Andersons historische und chronologische Geschichte des Handels von den ältesten bis auf jezzige Zeiten</titel>. Aus dem Englischen übersezt (7 Bde., Riga: Hartknoch 1773–1779). Digitalisat Bd. 4: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11765565-5">Stabi Bamberg: R.merc.o.9(4</wwwlink>.
+</eintrag> 
+</subsection>
+</kommentar>
+
 <kommentar id="andre" type="neuzeit">
 <lemma>Yves Marie André</lemma>
 <eintrag>1675–1764. Jesuit, Prof. der Mathematik in Caen. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;2, 1811), S.&#x202F;128f.</eintrag>
@@ -7278,6 +7289,11 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <eintrag><titel>Hesiodu Askraiu Ta Heuriskomena, Hesiodi Ascræi qvæ extant cum notis, ex probatissimis quibusdam Autoribus, brevissimis, selectissimisque, accedit insuper Pasoris index, auctior multo hac novissima editione, &amp; multo correctior, Opera &amp; studio Cornelii Schrevelii</titel> (Amsterdam: Elzevir 1657) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;14/218: „Hesiodus gr. &amp; lat. ex ed. Corn. <link ref="schrevel" linktext="false">Schreuelii</link>, Amst. 657“].<line type="break" />
 <titel>Hēsiodu Askraiu Ta Heuriskomena cum notis, ex probatissimis quibusdam Autoribus, brevissimis, selectissimisque, Hesiodi Ascraei quae extant, Ta Heuriskomena, in Hesiodi Theogoniam Commentarius luculentus</titel> (Augsburg 1658) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;14/219: „Id. ex ed. ej. cum commentario Lamb. Barlaci, ib. 658“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hessen-darmstaedtische-landeszeitung" type="neuzeit">
+<lemma>Hessen-Darmstädtische privilegierte Landeszeitung</lemma>
+<eintrag>Gegründet 1770, unter diesem Titel bis 1790 geführt, danach unter verschiedenen anderen Namen bis 1935, siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=015150755">ZDB</wwwlink>; <link ref="claudius" linktext="true" /> publizierte darin. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-319211">UB Heidelberg</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hessen-ludwig-erbprinz" type="neuzeit">
@@ -15135,6 +15151,30 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 <lemma>Baruch de Spinoza</lemma>
 <eintrag>1632–1677. <wwwlink address="https://plato.stanford.edu/archives/spr2019/entries/spinoza/">Nadler, Steven: Baruch Spinoza, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Spring 2019 Edition)</wwwlink>.
 </eintrag>
+</kommentar>
+
+<kommentar id="springer" type="neuzeit">
+<lemma>Johann Christoph Erich Springer</lemma>
+<eintrag>1727–1798. Jurist und Nationalökonom, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100275648.html#adbcontent">Zuckerkandl, Robert: Springer, Johann Christoph Erich, in: <titel>ADB</titel>&#x202F;35 (1893), S.&#x202F;318</wwwlink>.
+</eintrag>
+<subsection id="springer-kammerpraesident" type="neuzeit" sort="5">
+<lemma>Springer, <titel>An einen teutschen Kammerpräsidenten, 2. Abschnitt</titel></lemma>
+<eintrag>
+<titel>An einen teutschen Kammerpräsidenten. Ein Teutscher Bürger. Zweyter Abschnitt. Von den Einnahmen des Staats aus den Domänen</titel> (Riga, Leipzig: Hartknoch 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11757140-3">Stabi Bamberg: Oec.p.o.189#2,1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="springer-betrachtungen" type="neuzeit" sort="10">
+<lemma>Springer, <titel>Betrachtungen</titel></lemma>
+<eintrag>
+<titel>Betrachtungen teutschen Patrioten</titel> (Frankfurt, Leipzig 1776). Digitalisat: <wwwlink address="https://books.google.de/books?id=ktVCAQAAMAAJ">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="springer-briefe" type="neuzeit" sort="20">
+<lemma>Springer, <titel>Briefe</titel></lemma>
+<eintrag>
+<titel>Briefe an junge teutsche Standespersonen über die Gesetze des bürgerlichen Rechts, nach der Ordnung der Institutionen und der Pandekten</titel> (Riga, Leipzig: Hartknoch 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566200-3">BSB München: J.rom.c. 405 m</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="stahl" type="neuzeit">
