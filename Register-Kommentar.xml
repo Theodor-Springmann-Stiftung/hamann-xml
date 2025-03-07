@@ -14199,6 +14199,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <kommentar id="schlegel-g" type="neuzeit">
 <lemma>Gottlieb Schlegel</lemma>
 <eintrag>1739–1810. Theologe, Lehrer am Fridericianum in Königsberg, ab 1765–1780 Rektor der Domschule in Riga, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz78432.html">Häckermann, Adolf: Schlegel, Gottlieb, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;376f.</wwwlink></eintrag>
+<subsection id="schlegel-aufsaetze" type="neuzeit">
+<lemma>Schlegel (Hg.), <titel>Vermischte Aufsätze</titel></lemma>
+<eintrag>
+<titel>Vermischte Aufsätze und Urtheile über gelehrte Werke ans Licht gestellet von unterschiedenen Verfassern in und um Liefland</titel> (Riga: Hartknoch 1774–1780). – Digitalisat Bd. 1, St. 1 (1774): <wwwlink address="http://hdl.handle.net/10062/6008">UB Tartu</wwwlink>. – Bd. 1, St. 2 (1776): <wwwlink address="https://books.google.de/books?id=P8tbAAAAcAAJ">Google Books</wwwlink>. – Bd. 2, St. 1 (1780): <wwwlink address="http://hdl.handle.net/10062/6007">UB Tartu</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="schlieben" type="neuzeit">
@@ -15395,7 +15400,18 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="stoltz-c" type="neuzeit">
 <lemma>Caroline Stoltz</lemma>
-<eintrag>1751–1792. Freundin von Elisa v. d. Recke</eintrag>
+<eintrag>1751–1792. Freundin von <link ref="recke-e" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="stolz-jj" type="neuzeit">
+<lemma>Johann Jakob Stolz</lemma>
+<eintrag>1753–1821/23. Prediger und theologischer Schriftsteller, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz69047.html#adbcontent">Iken: Stolz, Johann Jacob, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;764f</wwwlink>.</eintrag>
+<subsection id="stolz-schwaermerey" type="neuzeit" sort="10">
+<lemma>Stolz, <titel>Schwärmerey, Toleranz und Predigtwesen</titel></lemma>
+<eintrag>
+<titel>Ueber Schwärmerey, Toleranz und Predigtwesen. Von Joseph Gedeon Kr. Pfarrer im Magdeburgischen</titel> (Upsal 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773785-6">BSB München: Polem. 1110 h</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="strabon" type="neuzeit">
@@ -16631,13 +16647,13 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <lemma>Johann Heinrich Voß</lemma>
 <eintrag>1751–1826. Philologe, Übersetzer, Mitglied des Göttinger Hains, 1778 Rektor in Otterndorf, 1782 in Eutin, 1786 Hofrat, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz48828.html#adbcontent">Muncker, Franz: Voß, Johann, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;334–349</wwwlink>.</eintrag>
  <subsection id="voss-musenalmanach1776" type="neuzeit" sort="10">
-<lemma>Voß (Hg.), <titel>Musenalmanach 1776</titel></lemma>
+<lemma>Voß (Hg.), <titel>(Hamburger) Musenalmanach 1776</titel></lemma>
 <eintrag>
 <titel>Poetische Blumenlese Für das Jahr 1776.</titel> Von den Verfassern der bisherigen Göttinger Blumenlese, nebst einem Anhange die Freymaurerey betreffend; Herausgegeben von J.&#x202F;H.&#x202F;Voß (Lauenburg 1776 [1775]). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;178/777: „Poetische Blumenlese, Goett. 776. Donum EDITORIS.“]. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDD4">ÖNB Wien</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="voss-musenalmanach1777" type="neuzeit" sort="20">
-<lemma>Voß (Hg.), <titel>Musenalmanach 1777</titel></lemma>
+<lemma>Voß (Hg.), <titel>(Hamburger) Musenalmanach 1777</titel></lemma>
 <eintrag>
 <titel>Poetische Blumenlese für das Jahr 1777.</titel> Herausgegeben von Jo.&#x202F;Heinr.&#x202F;Voß (Hamburg: Bohn 1777 [1776]). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDED">ÖNB Wien</wwwlink>.
 </eintrag>

@@ -61394,11 +61394,11 @@ Brief Nr. 480
 </marginal>
 
 <marginal letter="480" page="289" line="17" >
-<bzg>erhielt ich den 6 des Herbstmonaths</bzg> <intlink letter="469" page="289" line="17" linktext="false"></intlink>
+<bzg>erhielt ich den 6 des Herbstmonaths</bzg> <intlink letter="469" page="289" line="17" linktext="false">HKB 469</intlink>
 </marginal>
 
 <marginal letter="480" page="289" line="20" >
-<bzg>Joseph Gedeon</bzg> der fingierte Autor von <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773785-6">BSB München: Polem. 1110 h</wwwlink>?!?; gemeint ist <link ref="herder" linktext="true" /> 
+<bzg>Pfarrer&#x202F;…&#x202F;Joseph Gedeon</bzg> der fingierte Autor von <link ref="stolz" subref="stolz-schwaermerey" linktext="true" />; Hamann hielt <link ref="herder" linktext="false">Herder</link> für den Autor (vgl. <intlink letter="484" page="299" line="5" linktext="true" />), mglw. wegen dessen Aufsatz über <link ref="herder" subref="herder-philosophei-schwaermerei" linktext="false"><titel>Philosophei und Schwärmerei</titel></link>
 </marginal>
 
 <marginal letter="480" page="289" line="22" >
@@ -61411,6 +61411,38 @@ Brief Nr. 480
 
 <marginal letter="480" page="289" line="29" >
 <bzg>Penzel</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="289" line="33" sort="1" >
+<bzg>15 Oct. a. p.</bzg> anno praeterito, vorigen Jahres (15.10.1776), nicht überliefert
+</marginal>
+
+<marginal letter="480" page="289" line="33" sort="2" >
+<bzg>C. R. Kritings Bedienten</bzg> des Bedienten von <link ref="kriting" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="289" line="35" >
+<bzg>ältesten Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="289" line="36" >
+<bzg>Prof. Poeseos</bzg> <link ref="kreuzfeld" linktext="true" />, vgl. <intlink letter="466" page="233" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="290" line="2" >
+<bzg>Heinrich Sch..</bzg> <link ref="schroder-h" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="290" line="4" >
+<bzg>Zend-Avesta</bzg> <link ref="anquetil-duperron" subref="anquetil-duperron-zend" linktext="true" />
+</marginal>
+
+<marginal letter="480" page="290" line="5" >
+<bzg>Verf.</bzg> im Sinne von Übersetzer: <link ref="kleuker" linktext="true" />
+</marginal>schlegel-aufsaetze
+
+<marginal letter="480" page="290" line="5" >
+<bzg>zweyte Stück&#x202F;…&#x202F;Urtheile</bzg> <link ref="schlegel-g" subref="schlegel-aufsaetze" linktext="true" />, Bd. 1, St. 2 (1776)
 </marginal>
 
 
