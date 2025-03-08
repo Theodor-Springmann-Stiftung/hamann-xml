@@ -453,6 +453,11 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <eintrag>125–180. Griech. Schriftsteller, Sophist.</eintrag>
 </kommentar>
 
+<kommentar id="aretino" type="neuzeit">
+<lemma>Pietro Aretino</lemma>
+<eintrag>1492–1556. Italienischer Renaissance-Schriftsteller.</eintrag>
+</kommentar>
+
 <kommentar id="aristainetos" type="neuzeit">
 <lemma>Aristainetos</lemma>
 <eintrag>Griechischer Schriftsteller im 5. Jahrhundert n.&#x202F;Chr. Überliefert ist eine Sammlung erotischer Briefe.</eintrag>
@@ -775,6 +780,12 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 <titel>Die neusten Offenbarungen Gottes in Briefen und Erzählungen verdeutscht durch D. Carl Friedrich Bahrdt, der Theologie ordentlicher Lehrer, des Consistorii Assessor, Definitor und Prediger an der St. Pankratiuskirche zu Giessen</titel> (4 Bde., Riga: Hartknoch 1773/4) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;26/164: „J. F. Bahrdts neueste Offenbarungen Gottes, 1—4 Th. Riga 773“ u. 52/556: „neueste Offenbarungen Gottes, Riga Th. I—IV. 773—74. Donum LIBRAR“].
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="ballath" type="neuzeit">
+<lemma>Christian Ferdinand Ballath</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Sekretär in Königsberg.
+</eintrag>
 </kommentar>
 
 <kommentar id="ballstadt" type="neuzeit">
@@ -10342,7 +10353,7 @@ WA 30, 2, S.&#x202F;632–646.
 </kommentar>
 
 <kommentar id="lynker-kf" type="neuzeit">
-<lemma>Karl Friedrich Ernst Frherr von Lyncker</lemma>
+<lemma>Karl Friedrich Ernst Freiherr von Lyncker</lemma>
 <eintrag>1726–1801. Seit 1774 Präsident des Oberkonsistoriums in Weimar; <link ref="herder" linktext="false">Herders</link> Vorgesetzter.</eintrag>
 </kommentar>
 
@@ -12996,9 +13007,11 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 
 <kommentar id="provinzial-akzise-und-zoll-direktion" type="neuzeit">
 <lemma>Provinzial-Akzise- und Zoll-Direktion in Königsberg</lemma>
-<eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> in Berlin unter <link ref="launay" linktext="true" />. Ansässig bis Februar 1767 in der Junkergasse, danach im Billetschen Haus am Schlossberg (<intlink letter="339" page="389" line="19" linktext="true" />). Hamann arbeitete aber wohl zuemeist im Licenthaus am Pregel (Laak). 1766–1774 unter der Führung von <link ref="magnier" linktext="true" />, seit 1774 unter <link ref="stockmar" linktext="true" />.<line type="break" />
-Hamann war in der Akzise- und Zolldirektion seit Juni 1767 vor allem als Übersetzer bzw. ‚Secrétaire-Traducteur‘ tätig (vgl. <intlink letter="343" page="395" line="3" linktext="true" />). Anfänglich verdiente er 16 Reichstaler im Monat, 1769 25 (<intlink letter="367" page="477" line="18" linktext="true" />), 1770 30 (<intlink letter="372" page="4" line="22" linktext="true" />), 1772 ist er auf 25 reduziert (<intlink letter="378" page="18" line="2" linktext="true" />).<line type="break" />
-Die Herabsetzung des Gehalts und eine allgemeinere Kritik Hamanns am französischen Finanzsystem <link ref="friedrich-II" linktext="true" /> waren Anlass für einige Schriften der frühen 1770er Jahre, etwa <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />. Zum französischen Finanzsystem vgl. <wwwlink address="https://books.google.de/books/about/Geschichte_der_Preussischen_Regieverwalt.html?id=yg1YAAAAcAA">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1898.</wwwlink>.</eintrag>
+<eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> in Berlin unter <link ref="launay" linktext="true" />. Ansässig bis Februar 1767 in der Junkergasse, danach im Billetschen Haus am Schlossberg (<intlink letter="339" page="389" line="19" linktext="true" />). Hamann arbeitete aber wohl zuemeist im Licenthaus am Pregel (Laak). 1766–1774 unter der Führung von <link ref="magnier" linktext="true" />, seit 1774 unter <link ref="stockmar" linktext="true" />. Vgl. <link ref="" subref="baczko" linktext="false" />Baczko: <titel>Versuch einer Geschichte und Beschreibung der Stadt Königsberg</titel>, IV,&#x202F;345–348.<line type="break" />
+Hamann war in der Akzise- und Zolldirektion seit Juni 1767 vor allem als Übersetzer ins Französische tätig, zeitweilig auch als Sekretär (‚Secrétaire-Traducteur‘) (vgl. <intlink letter="343" page="395" line="3" linktext="true" />). Anfänglich verdiente er 16 Reichstaler im Monat, 1769 25 (<intlink letter="367" page="477" line="18" linktext="true" />), 1770 30 (<intlink letter="372" page="4" line="22" linktext="true" />), 1772 wurde sein Verdienst auf 25 reduziert (<intlink letter="378" page="18" line="2" linktext="true" />), vgl. auch das „Tableau de mes Finances“ in <link ref="hamann" subref="hamann-lettreperdue" linktext="false"><titel>Lettre perdues</titel></link>, N&#x202F;II,309.<line type="break" />
+Die Herabsetzung des Gehalts und eine allgemeinere Kritik Hamanns am französischen Finanzsystem <link ref="friedrich-II" linktext="true" /> waren Anlass für einige Schriften der 1770er Jahre (vor die Französischsprachigen). Zum französischen Finanzsystem vgl. <wwwlink address="https://books.google.de/books/about/Geschichte_der_Preussischen_Regieverwalt.html?id=yg1YAAAAcAA">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1898.</wwwlink>.<line type="break" />
+Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag</link>) wurde Hamann als Nachfolger von <link ref="blom" linktext="true" /> zum Packhof-Inspector ernannt (vgl. <intlink letter="480" page="291" line="5" linktext="true" />), auch dank der Vermittlung von <link ref="reichardt" linktext="false">Reichardt</link> in Berlin. Titel auch Licentrath, wie Blom? Gehalt?!? Wohnungsadresse?!? Kleiner Kommentar zu Fooi-Geldern?
+</eintrag>
 </kommentar>
 
 <kommentar id="prevost" type="neuzeit">
