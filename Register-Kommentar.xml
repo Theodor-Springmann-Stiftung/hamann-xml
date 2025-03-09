@@ -3006,6 +3006,11 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 <eintrag>Rede für Aulus Cluentius Habitus, lat. pro A. Cluentio<line type="break" />
 </eintrag>
 </subsection>
+<subsection id="cic-prodomo" type="neuzeit" sort="180">
+<lemma>Cic. <titel>Dom.</titel></lemma>
+<eintrag>Rede über sein eigenes Haus, lat. oratio pro domo oder de domo sua<line type="break" />
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="clairaut" type="neuzeit">
@@ -11598,6 +11603,11 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 </subsection>
 </kommentar>
 
+<kommentar id="morinval" type="neuzeit">
+<lemma>Carl Peter Morinval</lemma>
+<eintrag>Lebensdaten nicht ermittelt. 1772 einer der neuen Unterregisseure in der <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>; Geheimer Finanzrat in Berlin für Ostpreußen, Litauen und Pommern.</eintrag>
+</kommentar>
+
 <kommentar id="moritz-sachsen" type="neuzeit">
 <lemma>Moritz von Sachsen</lemma>
 <eintrag>1696–1750. Sächsisch-französischer Feldherr und Kriegstheoretiker, illegitimer Sohn August des Starken, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz65512.html">Wartenberg, Günther: Moritz, in: <titel>ADB</titel>&#x202F;18 (1997), S.&#x202F;141–143</wwwlink>.</eintrag>
@@ -13007,10 +13017,11 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 
 <kommentar id="provinzial-akzise-und-zoll-direktion" type="neuzeit">
 <lemma>Provinzial-Akzise- und Zoll-Direktion in Königsberg</lemma>
-<eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> in Berlin unter <link ref="launay" linktext="true" />. Ansässig bis Februar 1767 in der Junkergasse, danach im Billetschen Haus am Schlossberg (<intlink letter="339" page="389" line="19" linktext="true" />). Hamann arbeitete aber wohl zuemeist im Licenthaus am Pregel (Laak). 1766–1774 unter der Führung von <link ref="magnier" linktext="true" />, seit 1774 unter <link ref="stockmar" linktext="true" />. Vgl. <link ref="" subref="baczko" linktext="false" />Baczko: <titel>Versuch einer Geschichte und Beschreibung der Stadt Königsberg</titel>, IV,&#x202F;345–348.<line type="break" />
+<eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> in Berlin unter <link ref="launay" linktext="true" />. Ansässig bis Februar 1767 in der Junkergasse, danach im Billetschen Haus am Schlossberg (<intlink letter="339" page="389" line="19" linktext="true" />). Hamann arbeitete aber wohl zumeist im Licenthaus am Pregel (Laak). 1766–1774 unter der Führung von <link ref="magnier" linktext="true" />, seit 1774 unter <link ref="stockmar" linktext="true" />. Vgl. <link ref="" subref="baczko" linktext="false" />Baczko: <titel>Versuch einer Geschichte und Beschreibung der Stadt Königsberg</titel>, IV,&#x202F;345–348.<line type="break" />
 Hamann war in der Akzise- und Zolldirektion seit Juni 1767 vor allem als Übersetzer ins Französische tätig, zeitweilig auch als Sekretär (‚Secrétaire-Traducteur‘) (vgl. <intlink letter="343" page="395" line="3" linktext="true" />). Anfänglich verdiente er 16 Reichstaler im Monat, 1769 25 (<intlink letter="367" page="477" line="18" linktext="true" />), 1770 30 (<intlink letter="372" page="4" line="22" linktext="true" />), 1772 wurde sein Verdienst auf 25 reduziert (<intlink letter="378" page="18" line="2" linktext="true" />), vgl. auch das „Tableau de mes Finances“ in <link ref="hamann" subref="hamann-lettreperdue" linktext="false"><titel>Lettre perdues</titel></link>, N&#x202F;II,309.<line type="break" />
 Die Herabsetzung des Gehalts und eine allgemeinere Kritik Hamanns am französischen Finanzsystem <link ref="friedrich-II" linktext="true" /> waren Anlass für einige Schriften der 1770er Jahre (vor die Französischsprachigen). Zum französischen Finanzsystem vgl. <wwwlink address="https://books.google.de/books/about/Geschichte_der_Preussischen_Regieverwalt.html?id=yg1YAAAAcAA">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1898.</wwwlink>.<line type="break" />
-Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag</link>) wurde Hamann als Nachfolger von <link ref="blom" linktext="true" /> zum Packhof-Inspector ernannt (vgl. <intlink letter="480" page="291" line="5" linktext="true" />), auch dank der Vermittlung von <link ref="reichardt" linktext="false">Reichardt</link> in Berlin. Titel auch Licentrath, wie Blom? Gehalt?!? Wohnungsadresse?!? Kleiner Kommentar zu Fooi-Geldern?
+Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag</link>) wurde Hamann als Nachfolger von <link ref="blom-wy" linktext="true" /> zum Packhof-Inspector ernannt (vgl. <intlink letter="480" page="291" line="5" linktext="true" />), auch dank der Vermittlung von <link ref="reichardt" linktext="false">Reichardt</link> in Berlin. Titel auch Licentrath, wie Blom?!? Gehalt?!? Wohnungsadresse?!? Kleiner Kommentar zu Fooi-Geldern?
+Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag</link>) wurde Hamann als Nachfolger von <link ref="blom-wy" linktext="true" /> zum Packhof-Inspector ernannt (vgl. <intlink letter="480" page="291" line="5" linktext="true" />), auch dank der Vermittlung von <link ref="reichardt" linktext="false">Reichardt</link> in Berlin. Titel auch Licentrath, wie Blom?!? Gehalt?!? Wohnungsadresse?!? Kleiner Kommentar zu Fooi-Geldern?
 </eintrag>
 </kommentar>
 
@@ -17138,6 +17149,12 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <lemma>Wieland, <titel>Die Abderiten</titel></lemma>
 <eintrag>
 <titel>Die Abderiten. Eine sehr wahrscheinliche Geschichte</titel> (Weimar: Hoffmann 1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;149/322: „Ei. goldener Spiegel, 1.–4ter Th. Leipz. 772“]. Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN629754624">SUB Göttingen: Fab. Rom. VI, 4051</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="wieland-bonifaz" type="neuzeit" sort="100">
+<lemma>Wieland, <titel>Bonifaz Schleicher</titel></lemma>
+<eintrag>
+<titel>Bonifaz Schleicher oder kann man ein Heuchler sein ohne es selbst zu wissen? Eine gesellschaftliche Unterhaltung,</titel> in: <link ref="teutsche-merkur" linktext="true" />, 2. Vierteljahr 1776, S.&#x202F;249ff., 3. Vierteljahr, S.&#x202F;136ff und 220ff.
 </eintrag>
 </subsection>
 </kommentar>
