@@ -1908,6 +1908,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <eintrag>1680–1764. Jurist, Bürgermeister von Königsberg 1750–53.</eintrag>
 </kommentar>
 
+<kommentar id="bondeli" type="neuzeit">
+<lemma>Juliane Charlotte Sophie Baronesse von Bondeli</lemma>
+<eintrag>1740–1796. Tochter von <link ref="bondeli-fj" linktext="true" />; Ende der 1760er Jahre Wirtin und Schülerin Hamanns (vgl. <intlink letter="602" page="302" line="30" linktext="true" />), in den 1780er Jahren die Erzieherin von <link ref="hamann" subref="hamann-er" linktext="false">Lisette Reinette</link>.</eintrag>
+</kommentar>
+
 <kommentar id="bondeli-fj" type="neuzeit">
 <lemma>Friedrich Julius Baron von Bondeli</lemma>
 <eintrag>1702–1771. Oberappellations-Gerichts- und Pupillen-Rat in Königsberg; Hamann wohnte bei ihm von Mitte August 1768–1770 im mittelsten Tragheim.</eintrag>
@@ -11635,6 +11640,11 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 </subsection>
 </kommentar>
 
+<kommentar id="morstein" type="neuzeit">
+<lemma>Fräulein von Morstein</lemma>
+<eintrag>Lebensdaten und Vorname nicht bekannt. Gesellschafterin von <link ref="bondeli" linktext="true" />, in den 1780er Jahren Erzieherin in ihrem Institut.</eintrag>
+</kommentar>
+
 <kommentar id="moschus" type="neuzeit">
 <lemma>Moschus</lemma>
 <eintrag>Moschus Syracusanus. Griechischer Bukoliendichter und Grammatiker, 2. Jhd.&#x202F;v.&#x202F;Chr.<line type="break" />
@@ -11932,6 +11942,11 @@ N
 <kommentar id="neumann-j" type="neuzeit">
 <lemma>Johann Christoph Neumann</lemma>
 <eintrag>1763 bis nach 1788. Neffe von <link ref="herder" linktext="true" /> (einziger Sohn von Herders Schwester Anna Luise, verh. Neumann). Er wurde im April/Mai 1775 durch <link ref="hartknoch" linktext="false">Hartknoch</link> von <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> über Königsberg nach Bückeburg zu Herder gebracht; ab Juni 1782 in Riga, 1783 Angestellter eines Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
+</kommentar>
+
+<kommentar id="neumann-jd" type="neuzeit">
+<lemma>Johann David Neumann</lemma>
+<eintrag>1742–1803. Pfarrer, Kirchen- und Schulrat an der Altstädtischen Kirche in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="newton" type="neuzeit">
