@@ -59886,7 +59886,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="262" line="2">
-<bzg>Pertinenzien</bzg> vgl. Adelung, Bd.&#x202F;3, Sp.&#x202F;694, s.v. <wwwlink address="https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009133_4_0_506">Pertinenzien</wwwlink>: „was zu einem Dinge, als ein wesentlicher Theil gehöret, das Zubehör; besonders von solchen Theilen eines Gutes, Hauses, oder andern unbeweglichen Dinges.“ 
+<bzg>Pertinenzien</bzg> vgl. <wwwlink address="https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009133_4_0_506">Adelung, Bd.&#x202F;3, Sp.&#x202F;694, s.v. Pertinenzien</wwwlink>: „was zu einem Dinge, als ein wesentlicher Theil gehöret, das Zubehör; besonders von solchen Theilen eines Gutes, Hauses, oder andern unbeweglichen Dinges.“ 
 </marginal>
 
 <marginal letter="470" page="262" line="4" sort="1">
@@ -61569,6 +61569,10 @@ Brief Nr. 480
 <bzg>rothe Batavier&#x202F;…</bzg> <link ref="blom-wy" linktext="true" />, wohl im Sinne von rothaariger Niederländer
 </marginal>
 
+<marginal letter="480" page="291" line="16" >
+<bzg>Storch</bzg> <link ref="storch" linktext="true" />
+</marginal>
+
 <marginal letter="480" page="291" line="17" >
 <bzg>Zeisich Futter</bzg> schmale Kost (vgl. <wwwlink address="http://woerterbuchnetz.de/DWB/">DWB</wwwlink>, s.v. zeisigfutter)
 </marginal>
@@ -61677,11 +61681,11 @@ Brief Nr. 481
 </marginal>
 
 <marginal letter="481" page="293" line="4" >
-<bzg>No 8&#x202F;…</bzg> <link ref="teutsche-merkur" linktext="true" />, 3. Vierteljahr 1776?!?
+<bzg>No 8&#x202F;…</bzg> das August-Heft des <link ref="teutsche-merkur" linktext="false">Teutschen Merkurs</link>: S.&#x202F;97–192 im 3.&#x202F;Vierteljahr 1776
 </marginal>
 
 <marginal letter="481" page="293" line="7" sort="1" >
-<bzg>Bonifacius Schleicher II.</bzg> nach Wielands Erzählung <link ref="wieland" subref="wieland-bonifaz" linktext="false"><titel>Bonifaz Schleicher oder kann man ein Heuchler sein ohne es selbst zu wissen?</titel></link> (Erstreckung, siehe Register?!?); vgl. auch <link ref="hamann" subref="hamann-schuerze" linktext="true" />, N&#x202F;III,6–12
+<bzg>Bonifacius Schleicher II.</bzg> nach Wielands Erzählung <link ref="wieland" subref="wieland-bonifaz" linktext="false"><titel>Bonifaz Schleicher oder kann man ein Heuchler sein ohne es selbst zu wissen?</titel></link>; vgl. auch <link ref="hamann" subref="hamann-schuerze" linktext="true" />, N&#x202F;III,6–12
 </marginal>
 
 <marginal letter="481" page="293" line="7" sort="2" >
@@ -61705,7 +61709,7 @@ Brief Nr. 481
 </marginal>
 
 <marginal letter="481" page="293" line="18" >
-<bzg>Vacantz</bzg> der Posten als Packhof-Inspector des verstorbenen <link ref="blom-wy" linktext="true" />, um den Hamann sich bemüeht hatte
+<bzg>Vacantz</bzg> der Posten als Packhof-Inspector des verstorbenen <link ref="blom-wy" linktext="true" />, um den Hamann sich bemüht hatte
 </marginal>
 
 <marginal letter="481" page="293" line="23" >
@@ -61781,7 +61785,7 @@ Brief Nr. 481
 </marginal>
 
 <marginal letter="481" page="294" line="33" >
-<bzg>Goldwaßer</bzg> vgl. Adelung, s.v. Goldwasser: „ein abgezogener Branntwein, in welchem geschlagene Goldblättchen schwimmen; dergleichen vornehmlich in Danzig verfertiget wird.“
+<bzg>Goldwaßer</bzg> vgl. <wwwlink address="https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_2_2680">Adelung, Bd.&#x202F;2, Sp.&#x202F;751, s.v. Goldwasser</wwwlink>: „ein abgezogener Branntwein, in welchem geschlagene Goldblättchen schwimmen; dergleichen vornehmlich in Danzig verfertiget wird.“
 </marginal>
 
 <marginal letter="481" page="294" line="35" >
@@ -61845,15 +61849,79 @@ Brief Nr. 481
 </marginal>
 
 <marginal letter="481" page="295" line="18" >
-<bzg>Aufziehung&#x202F;…</bzg> <link ref="sterne" subref="sterne-shandy" linktext="true" />, 1. Kapitel?!?
+<bzg>Aufziehung&#x202F;…</bzg> vgl. die anzüglichen Stellen in <link ref="sterne" subref="sterne-shandy" linktext="true" />, 1.&#x202F;und 4.&#x202F;Kapitel (in Bodes Übersetzung Bd.&#x202F;1, S.&#x202F;3f. und 11–14)
 </marginal>
 
-<marginal letter="481" page="295" line="27" >
-<bzg>K. R. Hennings</bzg> Kriegsrat <link ref="hennings" linktext="false">Hennings</link>
+<marginal letter="481" page="295" line="19" >
+<bzg>Caffé Schenken</bzg> <link ref="hennings" linktext="true" />
 </marginal>
 
 <marginal letter="481" page="295" line="28" >
 <bzg>Neumann</bzg> <link ref="neumann-jd" linktext="true" />
+</marginal>
+
+<marginal letter="481" page="295" line="29" >
+<bzg>Mein Herz und Sinn&#x202F;…</bzg> vmtl. „Mein Geist und Sinn ist hocherfreut“ von Johann Friedrich Starck (1680–1756)
+</marginal>
+
+<marginal letter="481" page="295" line="30" >
+<bzg>Joh III</bzg> <link ref="nt-joh1" subref="nt-joh1-3" linktext="false">1 Joh 3</link>
+</marginal>
+
+<marginal letter="481" page="296" line="2" >
+<bzg>Heinz</bzg> <link ref="heintz-kr" linktext="true" />
+</marginal>
+
+<marginal letter="481" page="296" line="4" >
+<bzg>Virgilium</bzg> <link ref="vergil" linktext="true" />
+</marginal>
+
+<marginal letter="481" page="296" line="5" >
+<bzg>12</bzg> Duodezformat
+</marginal>
+
+<marginal letter="481" page="296" line="6" >
+<bzg>Relationes curiosas</bzg> nach <link ref="happel" subref="happel-welt" linktext="true" />
+</marginal>
+
+<marginal letter="481" page="296" line="7" >
+<bzg>designirten Prof.</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="481" page="296" line="8" >
+<bzg>biga Dissertationum de Fictionibus</bzg> nicht ermittelt, vgl. <intlink letter="470" page="260" line="19" linktext="true" /> („biga“ wohl im Sinne von doppelt nach <link ref="hamann" subref="hamann-biga" linktext="true" />)
+</marginal>
+
+<marginal letter="481" page="296" line="9" >
+<bzg>bon mot eines meiner Vorfahren&#x202F;…</bzg> <link ref="storch" linktext="true" />, vgl. <intlink letter="480" page="291" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="481" page="296" line="11" >
+<bzg>Zeisigfutter</bzg> schmale Kost (vgl. <wwwlink address="http://woerterbuchnetz.de/DWB/">DWB</wwwlink>, s.v. zeisigfutter)
+</marginal>
+
+<marginal letter="481" page="296" line="15" sort="1" >
+<bzg>nolens volens</bzg> nichtwollend wollend
+</marginal>
+
+<marginal letter="481" page="296" line="15" sort="2" >
+<bzg>Penzels</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="481" page="296" line="16" >
+<bzg>Hecht</bzg> <link ref="hecht" linktext="true" />
+</marginal>
+
+<marginal letter="481" page="296" line="22" >
+<bzg>vierten Schreiben</bzg> ein viertes Schreiben an Reichardt; das erste meint den verworfenen Entwurf (vgl. <intlink letter="481" page="292" line="26" linktext="true" />), das zweite ist das Schreiben vom 24.1.1777 (<intlink letter="481" page="292" line="24" linktext="false">s.o.</intlink>) und das dritte ist vom 26.1.1777 (hier)
+</marginal>
+
+<marginal letter="481" page="296" line="25" >
+<bzg>unglückl. Freundes</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="481" page="296" line="27" >
+<bzg>Protectrice</bzg> <link ref="reichardt-j" linktext="true" />
 </marginal>
 
 
