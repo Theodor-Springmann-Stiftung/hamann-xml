@@ -52561,7 +52561,7 @@ Brief Nr. 424
 </marginal>
 
 <marginal letter="424" page="134" line="10">
-<bzg>Commerce Rath Toussaint</bzg> <link ref="magnier" linktext="true" /> 
+<bzg>Commerce Rath Toussaint</bzg> <link ref="toussaint-f" linktext="true" /> 
 </marginal>
 
 <marginal letter="424" page="134" line="13">
@@ -53547,7 +53547,7 @@ Brief Nr. 432
 </marginal>
 
 <marginal letter="432" page="151" line="10">
-<bzg>Toussaint</bzg> <link ref="magnier" linktext="true" /> 
+<bzg>Toussaint</bzg> <link ref="toussaint-f" linktext="true" /> 
 </marginal>
 
 <marginal letter="432" page="151" line="13">
@@ -54892,7 +54892,7 @@ Zur Datierung: Hamann sandte den Brief mit den Druckmanuskripten der <link ref="
 </marginal>
 
 <marginal letter="443" page="174" line="25">
-<bzg>Toussaint</bzg> <link ref="magnier" linktext="true" /> 
+<bzg>Toussaint</bzg> <link ref="toussaint-f" linktext="true" /> 
 </marginal>
 
 
@@ -56999,7 +56999,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="206" line="12">
-<bzg>Toussaint</bzg> <link ref="magnier" linktext="true" /> 
+<bzg>Toussaint</bzg> <link ref="toussaint-f" linktext="true" /> 
 </marginal>
 
 <marginal letter="455" page="206" line="14" sort="1">
@@ -57868,7 +57868,7 @@ Brief Nr. 462
    </marginal>
 
   <marginal letter="462" page="220" line="28" sort="1"> 
-    <bzg>Schwäger</bzg> ein Bruder von <link ref="hartknoch-a" linktext="true" />, geb. Toussaint, vmtl. <link ref="toussaint-f" linktext="true" />
+    <bzg>Schwäger</bzg> <link ref="toussaint-f" linktext="true" />
    </marginal>
 
   <marginal letter="462" page="220" line="28" sort="2">
@@ -58111,7 +58111,7 @@ Brief Nr. 465
    </marginal>
 
           <marginal letter="465" page="227" line="21">
-    <bzg>Schwäger</bzg> vmtl. <link ref="toussaint-f" linktext="true" />, vgl. <intlink letter="462" page="220" line="28" linktext="true" />
+    <bzg>Schwäger</bzg> <link ref="toussaint-f" linktext="true" />
    </marginal> 
 
           <marginal letter="465" page="227" line="22">
@@ -61394,11 +61394,11 @@ Brief Nr. 480
 </marginal>
 
 <marginal letter="480" page="289" line="17" >
-<bzg>erhielt ich den 6 des Herbstmonaths</bzg> <intlink letter="469" page="289" line="17" linktext="false">HKB 469</intlink>
+<bzg>erhielt ich den 6 des Herbstmonaths</bzg> <intlink letter="469" page="248" line="27" linktext="false">HKB 469</intlink>
 </marginal>
 
 <marginal letter="480" page="289" line="20" >
-<bzg>Pfarrer&#x202F;…&#x202F;Joseph Gedeon</bzg> der fingierte Autor von <link ref="stolz" subref="stolz-schwaermerey" linktext="true" />; Hamann hielt <link ref="herder" linktext="false">Herder</link> für den Autor (vgl. <intlink letter="484" page="299" line="5" linktext="true" />), mglw. wegen dessen Aufsatz über <link ref="herder" subref="herder-philosophei-schwaermerei" linktext="false"><titel>Philosophei und Schwärmerei</titel></link>
+<bzg>Pfarrer&#x202F;…&#x202F;Joseph Gedeon</bzg> der fingierte Autor von <link ref="stolz-jj" subref="stolz-schwaermerey" linktext="true" />; Hamann hielt <link ref="herder" linktext="false">Herder</link> für den Autor (vgl. <intlink letter="484" page="299" line="5" linktext="true" />), mglw. wegen dessen Aufsatz über <link ref="herder" subref="herder-philosophei-schwaermerei" linktext="false"><titel>Philosophei und Schwärmerei</titel></link>
 </marginal>
 
 <marginal letter="480" page="289" line="22" >
@@ -61426,7 +61426,7 @@ Brief Nr. 480
 </marginal>
 
 <marginal letter="480" page="289" line="36" >
-<bzg>Prof. Poeseos</bzg> <link ref="kreuzfeld" linktext="true" />, vgl. <intlink letter="466" page="233" line="14" linktext="true" />
+<bzg>Prof. Poeseos</bzg> <link ref="kreutzfeld" linktext="true" />, vgl. <intlink letter="466" page="233" line="14" linktext="true" />
 </marginal>
 
 <marginal letter="480" page="290" line="2" >
@@ -61936,7 +61936,7 @@ Brief Nr. 482
 </marginal>
 
 <marginal letter="482" page="297" line="6" >
-<bzg>Gevatter und Freund antworten</bzg> Henkel: <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="483" page="297" line="17" linktext="false">HKB 483</intlink><line type="break" />
+<bzg>Gevatter und Freund antworten</bzg> Henkel: <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="483" page="297" line="17" linktext="false">HKB 483</intlink>
 – Das kann eigentlich nicht sein, auf Hartknoch wird sonst nie mit „Gevatter und Freund“ referiert. Gevatter (und Freund) sind Herder, Claudius und Kanter; in HKB 483 ist von keinem Gefallen für die Courtans die Rede, zwischen HKB 480 und HKB 483 schrieb Hartknoch offenbar auch nicht (vgl. <intlink letter="483" page="297" line="21" linktext="true" />). Da es um die Buchmesse und einen Gefallen geht und die Briefe von Herder und Claudius erst am 29. Januar ankommen (vgl. <intlink letter="480" page="290" line="30" linktext="true" />), kann es sich eigentlich nur um Kanter handeln. – »vmtl. <link ref="kanter" linktext="true" />, nicht überliefert« eintragen?!?
 </marginal>
 
@@ -61952,7 +61952,7 @@ Brief Nr. 482
 Brief Nr. 483
 
 <marginal letter="483" page="297" line="19" >
-<bzg>HE Toussaint</bzg> <link ref="magnier" linktext="true" /> 
+<bzg>HE Toussaint</bzg> <link ref="toussaint-f" linktext="true" /> 
 </marginal>
 
 <marginal letter="483" page="297" line="20" >
@@ -61971,8 +61971,8 @@ Brief Nr. 483
 <bzg>China</bzg> Die chininhaltige Chinarinde wurde zur Fiebersenkung verwendet.
 </marginal>
 
-<marginal letter="483" page="297" line="33" >
-<bzg>Freunde</bzg> <link ref="reichardt-j" linktext="true" />?!? (im nächsten Brief an Reichardt erwähnt Hamann davon nichts)
+<marginal letter="483" page="297" line="34" >
+<bzg>Freunde</bzg> vmtl. <link ref="reichardt-jf" linktext="true" />
 </marginal>
 
 <marginal letter="483" page="298" line="1" >
@@ -61999,7 +61999,7 @@ Brief Nr. 483
 <bzg>denn die Einsame …</bzg> <link ref="at-jes" subref="at-jes54" linktext="false">Jes 54,1</link>
 </marginal>
 
-<marginal letter="483" page="298" line="27" >
+<marginal letter="483" page="298" line="28" >
 <bzg>beantw. d 8</bzg> nicht überliefert
 </marginal>
 
