@@ -5978,6 +5978,13 @@ H
 <kommentar id="haefeli" type="neuzeit">
 <lemma>Johann Kaspar Häfeli</lemma>
 <eintrag>1754–1811, auch Häfelin, Hafelin. Reformierter schweiz. Theologe in Zürich, seit 1784 anhalt-dessauischer Hofkaplan in Wörlitz, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz25119.html">Wyß, Georg von: Häfelin, Johann Kaspar, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;314–316.</wwwlink></eintrag>
+<subsection id="haefeli-merkur" type="neuzeit" sort="10">
+<lemma>Häfeli, <titel>Antwort auf eines Ungenannten</titel></lemma>
+<eintrag>
+<titel>Eines Ungenannten Antwort auf die Frage: „Wird durch die Bemühungen kaltblütiger Philosophen und Lucianischer Geister gegen das, was sie Enthusiasmus und Schwärmerey nennen, mehr Böses als Gutes gestiftet? und in welchen Schranken müßten sich die Antiplatoniker und Luciane halten, um nützlich zu seyn?“</titel>. In: <link ref="teutsche-merkur" linktext="false">Teutscher Merkur</link>, 3. Vierteljahr 1776, S.&#x202F;111–131 (Augustheft) und S.&#x202F;207–220 (Septemberheft).<line type="break" />
+Für den Autor des anonymen Merkur-Beitrags, der Hamanns <link ref="hamann" subref="hamann-schuerze" linktext="false">Schürze von Feigenblättern</link> veranlasste, hielt Hamann zunächst <link ref="herder" linktext="false">Herder</link>, vgl. <intlink letter="505" page="360" line="14" linktext="true" />). Letztlich bekannte sich Häfeli dazu, vgl. <intlink letter="585" page="173" line="17" linktext="true" />, ebenso Hamanns Antwort <intlink letter="594" page="201" line="2" linktext="true" />.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="hagedorn" type="neuzeit">
@@ -6550,7 +6557,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
  <subsection id="hamann-schuerze" type="neuzeit" sort="684">
 <lemma>Hamann, <titel>Schürze von Feigenblättern</titel></lemma>
 <eintrag>
-<titel>Schürze von Feigenblättern</titel>. Ungedruckter Entwurf für eine Schrift aus dem Neujahr 1777, zur Druckgeschichte vgl. N&#xA0;III, S.&#x202F;451.<line type="break" />
+<titel>Schürze von Feigenblättern</titel>. Ungedruckter Entwurf für eine Schrift von Neujahr 1777 bis 1779, vgl. N&#xA0;III, S.&#x202F;451.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;205–212.
 </eintrag>
 </subsection>
@@ -16743,13 +16750,13 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
  <subsection id="voss-musenalmanach1776" type="neuzeit" sort="10">
 <lemma>Voß (Hg.), <titel>(Hamburger) Musenalmanach 1776</titel></lemma>
 <eintrag>
-<titel>Poetische Blumenlese Für das Jahr 1776.</titel> Von den Verfassern der bisherigen Göttinger Blumenlese, nebst einem Anhange die Freymaurerey betreffend; Herausgegeben von J.&#x202F;H.&#x202F;Voß (Lauenburg 1776 [1775]). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;178/777: „Poetische Blumenlese, Goett. 776. Donum EDITORIS.“]. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDD4">ÖNB Wien</wwwlink>.
+<titel>Poetische Blumenlese Für das Jahr 1776.</titel> Von den Verfassern der bisherigen Göttinger Blumenlese, nebst einem Anhange die Freymaurerey betreffend; Herausgegeben von J.&#x202F;H.&#x202F;Voß (Lauenburg 1776 [1775]). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;178/777: „Poetische Blumenlese, Goett. 776. Donum EDITORIS.“]. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDD4">ÖNB Wien</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/109/">Musenalm</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="voss-musenalmanach1777" type="neuzeit" sort="20">
 <lemma>Voß (Hg.), <titel>(Hamburger) Musenalmanach 1777</titel></lemma>
 <eintrag>
-<titel>Poetische Blumenlese für das Jahr 1777.</titel> Herausgegeben von Jo.&#x202F;Heinr.&#x202F;Voß (Hamburg: Bohn 1777 [1776]). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDED">ÖNB Wien</wwwlink>.
+<titel>Poetische Blumenlese für das Jahr 1777.</titel> Herausgegeben von Jo.&#x202F;Heinr.&#x202F;Voß (Hamburg: Bohn 1777 [1776]). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDED">ÖNB Wien</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/104/">Musenalm</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
