@@ -5979,10 +5979,10 @@ H
 <lemma>Johann Kaspar Häfeli</lemma>
 <eintrag>1754–1811, auch Häfelin, Hafelin. Reformierter schweiz. Theologe in Zürich, seit 1784 anhalt-dessauischer Hofkaplan in Wörlitz, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz25119.html">Wyß, Georg von: Häfelin, Johann Kaspar, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;314–316.</wwwlink></eintrag>
 <subsection id="haefeli-merkur" type="neuzeit" sort="10">
-<lemma>Häfeli, <titel>Antwort auf eines Ungenannten</titel></lemma>
+<lemma>Häfeli, <titel>Antwort eines Ungenannten</titel></lemma>
 <eintrag>
 <titel>Eines Ungenannten Antwort auf die Frage: „Wird durch die Bemühungen kaltblütiger Philosophen und Lucianischer Geister gegen das, was sie Enthusiasmus und Schwärmerey nennen, mehr Böses als Gutes gestiftet? und in welchen Schranken müßten sich die Antiplatoniker und Luciane halten, um nützlich zu seyn?“</titel>. In: <link ref="teutsche-merkur" linktext="false">Teutscher Merkur</link>, 3. Vierteljahr 1776, S.&#x202F;111–131 (Augustheft) und S.&#x202F;207–220 (Septemberheft).<line type="break" />
-Für den Autor des anonymen Merkur-Beitrags, der Hamanns <link ref="hamann" subref="hamann-schuerze" linktext="false">Schürze von Feigenblättern</link> veranlasste, hielt Hamann zunächst <link ref="herder" linktext="false">Herder</link>, vgl. <intlink letter="505" page="360" line="14" linktext="true" />). Letztlich bekannte sich Häfeli dazu, vgl. <intlink letter="585" page="173" line="17" linktext="true" />, ebenso Hamanns Antwort <intlink letter="594" page="201" line="2" linktext="true" />.
+Für den Autor des anonymen Merkur-Beitrags, der Hamanns <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> veranlasste, hielt Hamann zunächst <link ref="herder" linktext="false">Herder</link>, vgl. <intlink letter="505" page="360" line="14" linktext="true" />). Letztlich bekannte sich Häfeli dazu, vgl. <intlink letter="585" page="173" line="17" linktext="true" />, ebenso Hamanns Antwort <intlink letter="594" page="201" line="2" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6583,7 +6583,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;205–212.
 
 <kommentar id="hamann-er" type="neuzeit">
 <lemma>Elisabeth Regina Hamann</lemma>
-<eintrag>12. April 1772 bis 5. Februar 1838. Tochter von <link ref="hamann" linktext="true" />, Lisette Reinette genannt; später verehelichte Rosenberg.
+<eintrag>12. April 1772 bis 5. Februar 1838. Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />, Lisette Reinette genannt; später verehelichte Rosenberg.
 Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink address="https://books.google.de/books?id=zO9fAAAAcAAJ">Gustav Poel: Johann Georg Hamann der Magus im Norden. Sein Leben und Mittheilungen aus seinen Schriften in zwei Theilen, I 413–432</wwwlink>; außerdem Arthur Warda: Zwei Briefe von J. G. Hamanns Tochter Elisabeth Regina und ein Brief seiner Tochter Magdalena Catharina. In: <wwwlink address="https://books.google.de/books?id=VsQOAAAAYAAJ">Altpreußische Monatsschrift 43 (1906), S.&#x202F;229–254</wwwlink>.</eintrag>
 </kommentar>
 
@@ -6594,12 +6594,12 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hamann-jm" type="neuzeit">
 <lemma>Johann Michael Hamann</lemma>
-<eintrag>27. September 1769 bis 12. Dezember 1813. Sohn von <link ref="hamann" linktext="true" />. Studierte Medizin und begleitete seinen Vater auf der Reise nach Pempelfort; später angesehener Pädagoge am Altstädtischen Gymnasium und Lyriker.</eintrag>
+<eintrag>27. September 1769 bis 12. Dezember 1813. Sohn von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />. Studierte Medizin und begleitete seinen Vater auf der Reise nach Pempelfort; später angesehener Pädagoge am Altstädtischen Gymnasium und Lyriker.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-mc" type="neuzeit">
 <lemma>Magdalena Catharina Hamann</lemma>
-<eintrag>2. Dezember 1774 bis 30. April 1849. Tochter von <link ref="hamann" linktext="true" />.</eintrag>
+<eintrag>2. Dezember 1774 bis 30. April 1849. Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />, Patin von <link ref="claudius" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-vjc" type="neuzeit">
@@ -6610,6 +6610,11 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <kommentar id="hamann-mm" type="neuzeit">
 <lemma>Maria Magdalena Hamann</lemma>
 <eintrag>1699–1756. Mutter von <link ref="hamann" linktext="true" /> und <link ref="hamann-jc" linktext="true" />, geb. Nuppenau aus Lübeck; zur Familiengeschichte s. <link ref="kno-r-1988" linktext="false">Knoll 1988</link>.</eintrag>
+</kommentar>
+
+<kommentar id="hamann-ms" type="neuzeit">
+<lemma>Marianne Sophie Hamann</lemma>
+<eintrag>1779–1855. Die letzte Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />; heiratete später Theodor Nicolovius.</eintrag>
 </kommentar>
 
 <kommentar id="hamberger" type="neuzeit">
@@ -7218,7 +7223,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 
 <kommentar id="herder-a" type="neuzeit">
 <lemma>August Herder</lemma>
-<eintrag>1776–1838. Sohn von <link ref="herder" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Schellhas, Walter: Herder, August Freiherr von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;594f.</wwwlink></eintrag>
+<eintrag>1776–1838. Sohn von <link ref="herder" linktext="true" /> und Pate Hamanns, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Schellhas, Walter: Herder, August Freiherr von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;594f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="herder-ae" type="neuzeit">
@@ -10621,6 +10626,11 @@ In der <link ref="hamann" subref="h-dangeuil" linktext="false"><titel>Beylage zu
 <eintrag>1749–1833. Geb. Schmeling; Opernsängerin, 1776 in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118921088.html#adbcontent">Kürschner, Joseph: Mara, Elisabeth, in: <titel>ADB</titel>&#x202F;20 (1884), S.&#x202F;286–289.</wwwlink></eintrag>
 </kommentar>
 
+<kommentar id="marvilliers" type="neuzeit">
+<lemma>Louis-François Jauduin de Marvilliers</lemma>
+<eintrag>Lebensdaten nicht ermittelt. General-Accise- und Licent-Inspektor in Königsberg, Hamanns Nachbar zur Linken.</eintrag>
+</kommentar>
+
 <kommentar id="marcellus" type="neuzeit">
 <lemma>Marcus Claudius Marcellus</lemma>
 <eintrag>268–208 v. Chr. Römischer Feldherr und Konsul aus der Zeit der punischen Kriege. Eroberte Syrakus trotz der Kriegsmaschinen des <link ref="archimedes" linktext="true" /></eintrag>
@@ -12285,6 +12295,11 @@ Dt. Übers. zit. nach: Georg Luck (Übers.:), <titel>Tristia</titel> (2&#x202F;B
 <eintrag>Liebesgedichte, lat. amores.
 </eintrag>
 </subsection>
+<subsection id="ovid-remedia" type="neuzeit" sort="70">
+<lemma>Ov. <titel>rem.</titel></lemma>
+<eintrag>Heilmittel gegen die Liebe, lat. remedia amores.
+</eintrag>
+</subsection>
 </kommentar>
 
 P
@@ -12615,6 +12630,11 @@ Hamann zitiert daraus in der <link ref="hamann" subref="h-dangeuil" linktext="fa
 [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;14/223: „Ej. Carmina ex interpretatione latina emendatiore cura ej. Goett. 774“].
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="pynnow" type="neuzeit">
+<lemma>Carl Friedrich Pynnow</lemma>
+<eintrag>Gest. 1779. Licent-Buchhalter in Königsberg, Stellvertreter des Packhofverwalters.</eintrag>
 </kommentar>
 
 <kommentar id="pisanski" type="neuzeit">
@@ -13049,11 +13069,11 @@ In 3 Teilen wurde das Werk gedruckt, wobei nur die ersten beiden de Prades Disse
 </kommentar>
 
 <kommentar id="provinzial-akzise-und-zoll-direktion" type="neuzeit">
-<lemma>Provinzial-Akzise- und Zoll-Direktion in Königsberg</lemma>
+<lemma>Provinzial-Akzise-, Zoll- und Lizent-Direktion in Königsberg</lemma>
 <eintrag>Königlich-preußisches provinzielles Zollamt in Königsberg, abhängig von den Direktiven der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> in Berlin unter <link ref="launay" linktext="true" />. Ansässig bis Februar 1767 in der Junkergasse, danach im Billetschen Haus am Schlossberg (<intlink letter="339" page="389" line="19" linktext="true" />). Hamann arbeitete aber wohl zumeist im Licenthaus am Pregel (Laak). 1766–1774 unter der Führung von <link ref="magnier" linktext="true" />, seit 1774 unter <link ref="stockmar" linktext="true" />. Vgl. <link ref="baczko" linktext="false" />Baczko: <titel>Versuch einer Geschichte und Beschreibung der Stadt Königsberg</titel>, IV,&#x202F;345–348.<line type="break" />
 Hamann war in der Akzise- und Zolldirektion seit Juni 1767 vor allem als Übersetzer ins Französische tätig, zeitweilig auch als Sekretär (‚Secrétaire-Traducteur‘) (vgl. <intlink letter="343" page="395" line="3" linktext="true" />). Anfänglich verdiente er 16 Reichstaler im Monat, 1769 25 (<intlink letter="367" page="477" line="18" linktext="true" />), 1770 30 (<intlink letter="372" page="4" line="22" linktext="true" />), 1772 wurde sein Verdienst auf 25 reduziert (<intlink letter="378" page="18" line="2" linktext="true" />), vgl. auch das „Tableau de mes Finances“ in <link ref="hamann" subref="hamann-lettreperdue" linktext="false"><titel>Lettre perdues</titel></link>, N&#x202F;II,309.<line type="break" />
 Die Herabsetzung des Gehalts und eine allgemeinere Kritik Hamanns am französischen Finanzsystem <link ref="friedrich-II" linktext="true" /> waren Anlass für einige Schriften der 1770er Jahre (vor die Französischsprachigen). Zum französischen Finanzsystem vgl. <wwwlink address="https://books.google.de/books/about/Geschichte_der_Preussischen_Regieverwalt.html?id=yg1YAAAAcAA">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1898.</wwwlink>.<line type="break" />
-Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag</link>) wurde Hamann als Nachfolger von <link ref="blom-wy" linktext="true" /> zum Packhof-Inspector ernannt (vgl. <intlink letter="480" page="291" line="5" linktext="true" />), auch dank der Vermittlung von <link ref="reichardt-jf" linktext="false">Reichardt</link> in Berlin. Titel auch Licentrath, wie Blom?!? Nein! vgl. <intlink letter="484" page="302" line="2" linktext="true" /> Gehalt?!? Wohnungsadresse?!? – Licentdirektion ist etwas anderes als Accisedirektion, wenn auch unter der gleichen Führung! (vgl. Adressbuch, S. 3f und 59, Baczko?) – Kleiner Kommentar zu Fooi-Geldern?
+Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag</link>) wurde Hamann als Nachfolger von <link ref="blom-wy" linktext="true" /> zum Packhof-Inspector am Licent ernannt (vgl. <intlink letter="480" page="291" line="5" linktext="true" />), auch dank der Vermittlung von <link ref="reichardt-jf" linktext="false">Reichardt</link> in Berlin. Sein Gehalt blieb das gleiche wie zuvor (300 Reichstaler im Jahr), dazu kam aber freie Wohnung und Garten am Licent (Wohnungsadresse?!?) und etwa 100 Reichstaler jährlich an Fooi- bzw. Biergeldern, deren späterer Wegfall ihm zusetzte.
 </eintrag>
 </kommentar>
 

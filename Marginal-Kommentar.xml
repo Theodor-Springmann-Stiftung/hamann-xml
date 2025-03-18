@@ -47368,7 +47368,7 @@ Brief Nr. 389
 </marginal>
 
 <marginal letter="389" page="48" line="4">
-<bzg>Herodianer</bzg> nach <link ref="nt-mt" subref="nt-mt2" linktext="false">Mt 2</link> und <link ref="nt-mk" subref="nt-mk1" linktext="false">Mk 6,14–29</link>
+<bzg>Herodianer</bzg> nach <link ref="nt-mt" subref="nt-mt2" linktext="false">Mt 2</link> und <link ref="nt-mk" subref="nt-mk6" linktext="false">Mk 6,14–29</link>
 </marginal>
 
 <marginal letter="389" page="48" line="8" sort="1">
@@ -61586,7 +61586,7 @@ Brief Nr. 480
 </marginal>
 
 <marginal letter="480" page="291" line="19" sort="2" >
-<bzg>Lavater</bzg>
+<bzg>Lavater</bzg> <link ref="lavater" linktext="true" />
 </marginal>
 
 <marginal letter="480" page="291" line="20" >
@@ -62067,7 +62067,7 @@ Brief Nr. 484
 </marginal>
 
 <marginal letter="484" page="299" line="24" sort="2" >
-<bzg>Licent-Inspectors</bzg> Anton Payan (1772 Zoll- und Licent-Inspector bei der Königlichen Zoll- und Licent-Direction)?!?
+<bzg>Licent-Inspectors</bzg> <link ref="marvilliers" linktext="true" />
 </marginal>
 
 <marginal letter="484" page="299" line="29" >
@@ -62123,7 +62123,7 @@ Brief Nr. 484
 </marginal>
 
 <marginal letter="484" page="300" line="24" >
-<bzg>zwo Hirtenbriefe</bzg> Henkel: die Lettre néologique und Glose Philippique aus den Essais à la Mosaique – nicht die <intlink letter="470" page="438" line="20" linktext="false">Briefe an die Generaladministration</intlink>?!?
+<bzg>zwo Hirtenbriefe</bzg> Henkel: die Lettre néologique und Glose Philippique aus den Essais à la Mosaique – nicht die <intlink letter="470" page="434" line="20" linktext="false">Briefe an die Generaladministration</intlink>?!?
 </marginal>
 
 <marginal letter="484" page="300" line="25" sort="1" >
@@ -62139,15 +62139,15 @@ Brief Nr. 484
 </marginal>
 
 <marginal letter="484" page="300" line="27" >
-<bzg>15 Jan.</bzg> das nicht überlieferte Schreiben Reichardts, auf das Hamann in <intlink letter="481" page="292" line="202" linktext="false">HKB 481</intlink> antwortet
+<bzg>15 Jan.</bzg> das nicht überlieferte Schreiben Reichardts, auf das Hamann in <intlink letter="481" page="292" line="20" linktext="false">HKB 481</intlink> antwortet
 </marginal>
 
 <marginal letter="484" page="300" line="28" >
 <bzg>Morinval</bzg> <link ref="morinval" linktext="true" />
 </marginal>
 
-<marginal letter="484" page="299" line="30" >
-<bzg>Licent Inspector&#x202F;…</bzg> vmtl. Anton Payan (1772 Zoll- und Licent-Inspector bei der Königlichen Zoll- und Licent-Direction) sowie dessen Schwiegervater?!?
+<marginal letter="484" page="300" line="30" >
+<bzg>Licent Inspector&#x202F;…</bzg> <link ref="marvilliers" linktext="true" /> sowie dessen Schwiegervater
 </marginal>
 
 <marginal letter="484" page="300" line="32" >
@@ -62167,7 +62167,7 @@ Brief Nr. 484
 </marginal>
 
 <marginal letter="484" page="301" line="2" sort="1" >
-<bzg>Adm Colleg.</bzg> wohl das <link ref="admiralitaetskollegium" linktext="true" />
+<bzg>Adm Colleg.</bzg> <link ref="admiralitaetskollegium" linktext="true" />
 </marginal>
 
 <marginal letter="484" page="301" line="2" sort="2" >
@@ -62201,6 +62201,223 @@ Brief Nr. 484
 <marginal letter="484" page="301" line="14" >
 <bzg>opusculo</bzg> <link ref="hamann-schuerze" linktext="true" />
 </marginal>
+
+<marginal letter="484" page="301" line="16" >
+<bzg>Nachhelf eines Vocativs</bzg> <link ref="hamann-schuerze" linktext="true" />, N&#x202F;III,209–212
+</marginal>
+
+<marginal letter="484" page="301" line="17" >
+<bzg>Claudius Nachtwächter</bzg> <link ref="claudius" linktext="false">Claudius’ Gedicht </link> „Wächter und Bürgermeister“ (<wwwlink address="https://musenalm.de/beitrag/5169">vgl. Musenalm</wwwlink>)
+</marginal>
+
+<marginal letter="484" page="301" line="19" sort="1" >
+<bzg>Dir.</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="301" line="19" sort="2" >
+<bzg>Gen. Adm.</bzg> <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>
+</marginal>
+
+<marginal letter="484" page="301" line="23" sort="1" >
+<bzg>Nebenbuler</bzg> <link ref="ballath" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="301" line="23" sort="2" >
+<bzg>Nachfolger</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="484" page="301" line="27" >
+<bzg>Regisseurs</bzg> wohl <link ref="morinval" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="301" line="31" >
+<bzg>Sous les heureux&#x202F;…</bzg> Übersetzung Joscha?!? [deepl: Unter den glücklichen Umständen eines Tages wie heute habe ich soeben von der besonderen Gunst erfahren, mit der Sie mir die Vakanz eines Gardemagazins am hiesigen Zoll übertragen haben, und wie ich Grund habe, mir zu schmeicheln, unter den gleichen Bedingungen, wie sie mein Vorgänger genossen hat. Um Ihrer Wahl Erfolg zu verschaffen, dem Gipfel all meiner Wünsche, werde ich die letzten Anstrengungen meines Lebens unternehmen und die Genuität meiner Dankbarkeit und die Redlichkeit meines Eifers durch die respektvollste und vollkommenste Unterwerfung auszeichnen, mit der ich die Ehre habe, etc.]
+</marginal>
+
+<marginal letter="484" page="302" line="4" >
+<bzg>Antworten u Nachrichten&#x202F;…</bzg> von <link ref="herder" linktext="false">Herder</link> aus Weimar (<intlink letter="479" page="283" line="27" linktext="false">HKB 479</intlink>) und <link ref="claudius" linktext="claudius">Claudius</link> aus Darmstadt (nicht überliefert)
+</marginal>
+
+<marginal letter="484" page="302" line="6" >
+<bzg>Morungen u Riga</bzg> nach Mohrungen zu <link ref="herder-cd-g" linktext="true" /> und nach Riga zu <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="302" line="8" >
+<bzg>Admiralitäts Collegium</bzg> <intlink letter="484" page="301" line="2" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="484" page="302" line="14" >
+<bzg>des vorigen</bzg> als Sekretär bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="302" line="20" >
+<bzg>Dictum factum</bzg> dt. gesagt, getan
+</marginal>
+
+<marginal letter="484" page="302" line="27" >
+<bzg>von Hartknoch</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="484" page="302" line="28" >
+<bzg>Penzel</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="302" line="31" >
+<bzg>2ten Theil der Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, vgl. <intlink letter="480" page="289" line="35" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="302" line="32" >
+<bzg>Hintz</bzg> <link ref="hintz" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="303" line="1" >
+<bzg>Ihrige</bzg> vgl. <intlink letter="479" page="284" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="303" line="4" >
+<bzg>Meinen Mann</bzg> <link ref="pynnow" linktext="true" />, vgl. <intlink letter="486" page="311" line="21" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="303" line="7" >
+<bzg>Licent Inspector</bzg> <link ref="marvilliers" linktext="true" />, <intlink letter="484" page="300" line="30" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="484" page="303" line="17" >
+<bzg>jüngste Tochter</bzg> <link ref="hamann-mc" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="303" line="18" >
+<bzg>inoculirt</bzg> gegen die Pocken geimpft worden
+</marginal>
+
+<marginal letter="484" page="303" line="22" > 
+<bzg>kleinen Pathen</bzg> <link ref="herder-a" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="303" line="24" > 
+<bzg>voriges Jahr&#x202F;…</bzg> wegen <link ref="lindner-jg" linktext="false">Lindners</link> Tod, der Erstellung des <link ref="hamann" subref="hamann-biga" linktext="true" /> und der Krankheit
+</marginal>
+
+<marginal letter="484" page="303" line="27" > 
+<bzg>obstando principiis</bzg> dt. den Anfängen ist entgegenzutreten, sprichwörtlich nach <link ref="ovid" subref="ovid-remedia" linktext="true" />, 91
+</marginal>
+
+<marginal letter="484" page="303" line="28" > 
+<bzg>Frau Gevatterin</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="303" line="31" > 
+<bzg>Dein Weib&#x202F;…</bzg> <link ref="at-ps" subref="at-ps128" linktext="false">Ps 128,3–5</link>
+</marginal>
+
+<marginal letter="484" page="304" line="1" > 
+<bzg>Quartane</bzg> nach dem viertägig wiederkehrenden Quartanfieber, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Quartan
+</marginal>
+
+<marginal letter="484" page="304" line="2" > 
+<bzg>Laetare&#x202F;…&#x202F;Hausmutter</bzg> um <link ref="schumacher-ar" linktext="true" />, <intlink letter="484" page="298" line="34" linktext="false">s.o.</intlink> 
+</marginal>
+
+<marginal letter="484" page="304" line="4" > 
+<bzg>Schleicher</bzg> Hamann selbst, nach <link ref="wieland" subref="wieland-bonifaz" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="304" line="8" > 
+<bzg>Adm.</bzg> <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>
+</marginal>
+
+<marginal letter="484" page="304" line="28" > 
+<bzg>ersten Gedichts</bzg> <link ref="kreutzfeld" linktext="false">Kreutzfeld</link> oblag als proffessor poeseos die Aufgabe, zu offiziellen Anlässen, etwa am Krönungsfest (18. Januar) oder zu Königsgeburtstag (24. Januar), öffentlich selbst verfasste Panegyrik vorzutragen.
+</marginal>
+
+<marginal letter="484" page="304" line="29" > 
+<bzg>Friedr Wilhelm</bzg> Friedrich Wilhelm von Brandenburg (1620–1688), der ‚große Kurfürst‘
+</marginal>
+
+<marginal letter="484" page="304" line="32" > 
+<bzg>Disputationes&#x202F;…</bzg> nicht ermittelt, vgl. <intlink letter="481" page="296" line="8" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="304" line="34" > 
+<bzg>Krause</bzg> <link ref="kraus" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="7" > 
+<bzg>ein gedultiger&#x202F;…</bzg> <link ref="at-spr" subref="at-spr16" linktext="false">Spr 16,32</link> 
+</marginal>
+
+<marginal letter="484" page="305" line="8" > 
+<bzg>Urtheil in Ansehung des W&#x202F;…</bzg> <link ref="wieland" linktext="true" />, vgl. <intlink letter="479" page="284" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="9" sort="1" > 
+<bzg>Göthe</bzg> <link ref="goethe" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="9" sort="2" > 
+<bzg>T. M.</bzg> <link ref="teutsche-merkur" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="10" sort="1" > 
+<bzg>Fant St. Veit&#x202F;…</bzg> wohl <link ref="lavater" linktext="true" /> mit dem Hamann-Porträt, vgl. <intlink letter="467" page="240" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="10" sort="2" > 
+<bzg>Layenbruder</bzg> <link ref="moser" linktext="true" />, derzeit Besitzer des Porträts
+</marginal>
+
+<marginal letter="484" page="305" line="11" sort="1" > 
+<bzg>Starkens</bzg> <link ref="starck" linktext="true" />, als Oberhofprediger
+</marginal>
+
+<marginal letter="484" page="305" line="11" sort="2" > 
+<bzg>Rambach</bzg> <link ref="rambach-jj" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="14" > 
+<bzg>Herzog</bzg> <link ref="biron-p" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="17" > 
+<bzg>französischen Briefwechsel</bzg> mit Hamanns Briefen an die <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>, deren Abschrift Hamann <intlink letter="470" page="434" line="20" linktext="false">HKB 470</intlink> beilegte
+</marginal>
+
+<marginal letter="484" page="305" line="19" > 
+<bzg>Abdruckbogen</bzg> <link ref="hamann" subref="hamann-schuerze" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="21" > 
+<bzg>Capuciner Charfreytagsbuße</bzg> ebd., vgl. &#x202F;III,206
+</marginal>
+
+<marginal letter="484" page="305" line="22" >
+<bzg>Brücke ohne Lehnen</bzg> Ebenfalls ein projektierter Abschnitt der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link>, der sich aber so nicht in den erhaltenen Manuskripten findet; die Formulierung stammt aus der <link ref="haefeli" subref="haefeli-merkur" linktext="false"><titel>Antwort eines Ungenannten</titel></link>, S.&#x202F;218: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614103?page=214,215">„Wer voraus geht, trage Sorge bey der Brücke ohne Lehnen!“</wwwlink>
+</marginal>
+
+<marginal letter="484" page="305" line="26" >
+<bzg>Ihrer Auflösung</bzg> Hamann hielt Herder für den Autor der <link ref="haefeli" subref="haefeli-merkur" linktext="false"><titel>Antwort eines Ungenannten</titel></link>, vgl. <intlink letter="505" page="360" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="30" > 
+<bzg>Er hat einen unsaubern Geist</bzg> <link ref="nt-mk" subref="nt-mk1" linktext="false">Mk 1,23</link> u.ö.
+</marginal>
+
+<marginal letter="484" page="305" line="31" > 
+<bzg>Nov des t. M.</bzg> das November-Heft des <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> (4.&#x202F;Vierteljahr, S.&#x202F;97–194
+</marginal>
+
+<marginal letter="484" page="305" line="34" > 
+<bzg>Octob. Xbre</bzg> das Oktober- und Dezember-Heft des <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> (4.&#x202F;Vierteljahr, S.&#x202F;1–96 bzw. S.&#x202F;193–282
+</marginal>
+
+<marginal letter="484" page="305" line="35" > 
+<bzg>Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="305" line="36" > 
+<bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
 
 
 
