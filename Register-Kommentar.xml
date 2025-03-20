@@ -1633,7 +1633,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="blom-w" type="neuzeit">
 <lemma>Witwe Blom</lemma>
-<eintrag>Vorname und Lebensdaten unbekannt. Witwe von <link ref="blom-wy" linktext="true" /></eintrag>
+<eintrag>Vorname und Lebensdaten unbekannt. Witwe von <link ref="blom-wy" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="blom-wy" type="neuzeit">
@@ -7799,6 +7799,11 @@ Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Fl
 <eintrag>1769/70 Commerzienrat und Gerichtsverwandter in Königsberg.</eintrag>
 </kommentar>
 
+<kommentar id="hoyer-d" type="neuzeit">
+<lemma>David Hoyer</lemma>
+<eintrag>Hofrat und Hofgerichts-Advokat, Sohn von <link ref="hoyer-dh" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="hoyer-r" type="neuzeit">
 <lemma>Reinhold Hoyer</lemma>
 <eintrag>Comissions-Sekretär in Königsberg.</eintrag>
@@ -9406,7 +9411,7 @@ L
 
 <kommentar id="laubmeyer-jb" type="neuzeit">
 <lemma>Johann Benjamin Laubmeyer</lemma>
-<eintrag>1750–1795. Ältester Sohn von <link ref="laubmeyer-jc" linktext="true" />, Apotheker. Spitzname: gewesener Widersacher</eintrag>
+<eintrag>1750–1795. Ältester Sohn von <link ref="laubmeyer-jc" linktext="true" />, Apotheker; heiratete in zweiter Ehe (1776) die jüngste Tochter <link ref="blom-wy" linktext="false">Blom</link>, seine erste Frau war die älteste Tochter Blom.</eintrag>
 </kommentar>
 
 <kommentar id="launay" type="neuzeit">
@@ -10225,6 +10230,11 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <titel>De sacra Poesi Hebraeorum. Praelectiones academicae Oxoniae habitae. Notas et epimetra adiecit J. D. Michaelis</titel> (Göttingen: Dietrich 1758/61). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:hebis:30:1-113420">UB Frankfurt</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="luebeck" type="neuzeit">
+<lemma>Johanna Charlotte Lübeck</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Witwe eines Licenteinnehmers und Kriegsrats Lübeck.</eintrag>
 </kommentar>
 
 <kommentar id="loubere" type="neuzeit">
@@ -12404,6 +12414,11 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 <titel>Recherches philosophiques sur les Égyptiens et les Chinois. Par Mr. de P***</titel> (2 Bde., Berlin 1773) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;123/359: „Ei. Recherches philosophiques sur les Egyptiens &#x26; les Chinois, Tom. I. II. ib. 773“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10432032-0">BSB München: H.afr. 763</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="peckock" type="neuzeit">
+<lemma>Philip Reinhold Peckock</lemma>
+<eintrag>Kontrolleur und Estimateur bei der provinzial-akzise-und-zoll-direktion.</eintrag>
 </kommentar>
 
 <kommentar id="pegelow" type="neuzeit">
@@ -15599,6 +15614,12 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <titel>Historisch-geographisch- und genealogische Anmerkungen über verschiedene in den neusten Zeitungen vorkommende besondere Sachen</titel> (3&#xA0;Bde., Königsberg 1723–1734).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="stuertz" type="neuzeit">
+<lemma>Christian Gottlieb Stuertz</lemma>
+<eintrag>Geb. 1746. Amtmann und Generalpächter in <wwwlink address="https://www.geonames.org/13157349">Capustigall</wwwlink>, heiratete 1776 Charlotte Blom, die Tochter von <link ref="blom-wy" linktext="true" />.
+</eintrag>
 </kommentar>
 
 <kommentar id="sturz" type="neuzeit">
