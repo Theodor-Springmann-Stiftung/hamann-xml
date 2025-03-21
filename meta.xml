@@ -9377,9 +9377,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="489">
-        <date value="nach 17. April 1777" />
-        <sort value="1777-04-28" notBefore="1777-04-17" />
-        <location ref="-1" />
+        <date value="Königsberg, zwischen 17. und 29. April 1777" />
+        <sort value="1777-04-28" notBefore="1777-04-17" notAfter="1777-04-29" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -9491,9 +9491,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="494">
-        <date value="29. April 1777" />
+        <date value="Königsberg, 29. April 1777" />
         <sort value="1777-04-29" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -9510,9 +9510,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="495">
-        <date value="1. Mai 1777" />
+        <date value="Königsberg, 1. Mai 1777" />
         <sort value="1777-05-01" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -9548,9 +9548,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="497">
-        <date value="Mai 1777" />
+        <date value="Königsberg, vmtl. Mai 1777" />
         <sort value="1777-05-06" order="200" notBefore="1777-05-01" notAfter="1777-05-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
