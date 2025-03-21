@@ -784,7 +784,7 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 
 <kommentar id="ballath" type="neuzeit">
 <lemma>Christian Ferdinand Ballath</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Sekretär in Königsberg.
+<eintrag>Lebensdaten nicht ermittelt. Sekretär in Königsberg, vmtl. Schwiegervater von <link ref="marvilliers" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -4268,6 +4268,13 @@ Cha–Consécration: Oktober 1753; Conseil–Dizier, Saint: Oktober 1754; Do–E
 Online-Ausgabe: <wwwlink address="http://enccre.academie-sciences.fr/encyclopedie/">Édition Numérique Collaborative et Critique de l’Encyclopédie</wwwlink>.
 </eintrag>
 </kommentar>
+,  (), Schriftsteller, seit 1776 Prof. der Moralphilosophie am Joachimsthalschen Gymnasium in Berlin, Prinzenerzieher am preuß. Hof, Akademiemitglied
+
+<kommentar id="engel" type="neuzeit">
+<lemma>Johann Jakob Engel</lemma>
+<eintrag>1741–1802. Schriftsteller, seit 1776 Professor der Moralphilosophie am Joachimsthalschen Gymnasium in Berlin, Prinzenerzieher am preußischen Hof und Akademiemitglied, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11868468X.html#ndbcontent">Elschenbroich, Adalbert: Engel, Johann Jakob, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;504f</wwwlink>.
+</eintrag>
+</kommentar>
 
 <kommentar id="engelbrecht" type="neuzeit">
 <lemma>Hans Engelbrecht</lemma>
@@ -5319,6 +5326,12 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 <kommentar id="gericke-jcs" type="neuzeit">
 <lemma>Johann Christoph Gericke</lemma>
 <eintrag>1728–1782. Hamanns Jugendfreund, 1747 in Königsberg, 1755 in Göttingen immatrikuliert, seit 1759 Pfarrer an der Gertrudenkirche in Riga, Kollege <link ref="herder" linktext="false">Herders</link>.
+</eintrag>
+</kommentar>
+
+<kommentar id="gerlach" type="neuzeit">
+<lemma>Karl Philipp Gerlach</lemma>
+<eintrag>Um 1730 bis 1814. Regimentsfeldscher beim 6. Dragonerregiment in Königsberg, Schwiegersohn der <link ref="blom-w" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -13432,10 +13445,14 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 </subsection>
 </kommentar>
 
-
 <kommentar id="reichardt-jul" type="neuzeit">
 <lemma>Juliane Reichardt</lemma>
 <eintrag>1752–1783. Geb. Benda, Sängerin, Komponistin, Ehefrau von <link ref="reichardt-jf" linktext="true" /> seit 1776.</eintrag>
+</kommentar>
+
+<kommentar id="reichardt-jul" type="neuzeit">
+<lemma>Wilhelm Reichardt</lemma>
+<eintrag>1777–1782. Sohn von <link ref="reichardt-jf" linktext="true" /> und <link ref="reichardt-jul" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="reiche" type="neuzeit">

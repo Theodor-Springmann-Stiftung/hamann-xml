@@ -62147,7 +62147,11 @@ Brief Nr. 484
 </marginal>
 
 <marginal letter="484" page="300" line="30" >
-<bzg>Licent Inspector&#x202F;…</bzg> <link ref="marvilliers" linktext="true" /> sowie dessen Schwiegervater
+<bzg>Licent Inspector&#x202F;…</bzg> <link ref="marvilliers" linktext="true" />
+</marginal>
+
+<marginal letter="484" page="300" line="31" >
+<bzg>Schwiegervater</bzg> wohl <link ref="ballath" linktext="true" />
 </marginal>
 
 <marginal letter="484" page="300" line="32" >
@@ -62705,7 +62709,7 @@ Brief Nr. 486
 </marginal>
 
 <marginal letter="486" page="311" line="31" >
-<bzg>Amtmann Stürz</bzg>
+<bzg>Amtmann Stürz</bzg> <link ref="stuertz" linktext="true" />
 </marginal>
 
 <marginal letter="486" page="312" line="3" >
@@ -62744,11 +62748,15 @@ Brief Nr. 486
 <bzg>HE Doctor</bzg> <link ref="laubmeyer-jb" linktext="true" />
 </marginal>
 
+<marginal letter="486" page="313" line="21" >
+<bzg>Billet doux</bzg> dt. süßer Brief, gemeint ist ein kurzes Schriftstück
+</marginal>
+
 <marginal letter="486" page="313" line="23" >
 <bzg>9 huj.</bzg> 9. dieses Monats (April)
 </marginal>
 
-<marginal letter="486" page="313" line="32" >
+<marginal letter="486" page="313" line="31" >
 <bzg>Storchschen Erben</bzg> den Angehörigen von <link ref="storch" linktext="true" />
 </marginal>
 
@@ -62756,8 +62764,92 @@ Brief Nr. 486
 <bzg>Fr. Kr. R. Lübeckin</bzg> <link ref="luebeck" linktext="true" />
 </marginal>
 
+<marginal letter="486" page="314" line="2" >
+<bzg>Marvilliers</bzg> <link ref="marvilliers" linktext="true" />
+</marginal>
+
 <marginal letter="486" page="314" line="3" >
 <bzg>gegenwärtige Licent Einnehmer</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="486" page="314" line="6" >
+<bzg>General-Adm.</bzg> <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>, vgl. <intlink letter="487" page="317" line="1" linktext="false">HKB 487</intlink>
+</marginal>
+
+<marginal letter="486" page="314" line="7" >
+<bzg>Morinval</bzg> <link ref="morinval" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="314" line="11" >
+<bzg>Direction</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="314" line="12" >
+<bzg>Blom&#x202F;…</bzg> <link ref="blom-wy" linktext="true" /> hatte den Rang eines Licentinspectors und war Packhofverwalter, Hamann wurde nur zum Packhofverwalter ernannt.
+</marginal>
+
+<marginal letter="486" page="314" line="15" >
+<bzg>Director</bzg> <link ref="stockmar" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="314" line="21" >
+<bzg>Regimentsfeldscherer Gerlach</bzg> <link ref="gerlach" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="314" line="22" >
+<bzg>spoliiren</bzg> plündern
+</marginal>
+
+<marginal letter="486" page="314" line="26" >
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="314" line="29" >
+<bzg>Penzel</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="314" line="33" >
+<bzg>Direct.</bzg> <link ref="stockmar" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="314" line="34" >
+<bzg>Gen. Inspector</bzg> <link ref="marvilliers" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="315" line="5" >
+<bzg>Schwiegervater</bzg> wohl <link ref="ballath" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="315" line="7" >
+<bzg>Pinnow</bzg> <link ref="pynnow" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="315" line="19" >
+<bzg>Magnier</bzg> <link ref="magnier" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="315" line="29" >
+<bzg>Magistrat</bzg> <link ref="magistrat" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="316" line="24" >
+<bzg>Kgl. Administration</bzg> <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>
+</marginal>
+
+<marginal letter="486" page="316" line="27" >
+<bzg>HErn Vater</bzg> <link ref="reichardt-j" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="316" line="31" sort="1" >
+<bzg>Frau Gemalin</bzg> <link ref="reichardt-jul" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="316" line="31" sort="2" >
+<bzg>kleine Benjamin</bzg> vmtl. <link ref="" subref="" linktext="true" />
+</marginal>
+
+<marginal letter="486" page="316" line="32" >
+<bzg>Prof. Engel</bzg> <link ref="engel" linktext="true" />
 </marginal>
 
 </marginalien>
