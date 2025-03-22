@@ -1633,7 +1633,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="blom-w" type="neuzeit">
 <lemma>Witwe Blom</lemma>
-<eintrag>Vorname und Lebensdaten unbekannt. Witwe von <link ref="blom-wy" linktext="true" />.</eintrag>
+<eintrag>Vorname und Lebensdaten unbekannt, geb. <link ref="hoyer-d" linktext="false">Hoyer</link>. Witwe von <link ref="blom-wy" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="blom-wy" type="neuzeit">
@@ -7814,7 +7814,7 @@ Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Fl
 
 <kommentar id="hoyer-d" type="neuzeit">
 <lemma>David Hoyer</lemma>
-<eintrag>Hofrat und Hofgerichts-Advokat, Sohn von <link ref="hoyer-dh" linktext="true" />; Schwiegervater von .</eintrag>
+<eintrag>Hofrat und Hofgerichts-Advokat, Vater von <link ref="blom-w" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="hoyer-r" type="neuzeit">
