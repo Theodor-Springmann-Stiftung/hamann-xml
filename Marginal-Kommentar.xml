@@ -60425,8 +60425,12 @@ Brief Nr. 472
 <bzg>Penzel</bzg> <link ref="penzel" linktext="true" />
 </marginal>
 
-<marginal letter="472" page="269" line="27" >
-<bzg>Strabo</bzg> <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />; Verleger Hellwing?!?
+<marginal letter="472" page="269" line="27" sort="1" >
+<bzg>Verleger</bzg> <link ref="helwing" linktext="true" />
+</marginal>
+
+<marginal letter="472" page="269" line="27" sort="2" >
+<bzg>Strabo</bzg> <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />
 </marginal>
 
 <marginal letter="472" page="269" line="35" >
@@ -62638,7 +62642,7 @@ Brief Nr. 485
 </marginal>
 
 <marginal letter="485" page="310" line="21" >
-<bzg>Verleger</bzg> Hellwing ?!?
+<bzg>Verleger</bzg> <link ref="helwing" linktext="true" />
 </marginal>
 
 <marginal letter="485" page="310" line="22" >
@@ -63264,6 +63268,137 @@ Hamann schrieb den Entwurf für das Billet im Zuge der Rechtsstreitigkeit mit de
 
 <marginal letter="497" page="337" line="16" >
 <bzg>HE D. Laubmeier</bzg> <link ref="laubmeyer-jb" linktext="true" />
+</marginal>
+
+
+Brief Nr. 498
+
+<marginal letter="498" page="337" line="21" >
+<bzg>Herdern</bzg> <link ref="herder" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="337" line="24" sort="1" >
+<bzg>Magus</bzg> Hamann, nach <link ref="moser" subref="moser-schreiben" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="337" line="24" sort="2" >
+<bzg>Sopha</bzg> vgl. <intlink letter="506" page="363" line="5" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="337" line="26" >
+<bzg>Baurenfünfer</bzg> ungehobelter Mensch („spöttische Bezeichnung für das Landvolk“, <wwwlink address="https://digital.idiotikon.ch/idtkn/id1.htm#!page/10853/mode/1up"><titel>Schweizer Idiotikon</titel></wwwlink>, Sp.&#x202F;854)
+</marginal>
+
+<marginal letter="498" page="337" line="28" >
+<bzg>Bothen zu Wannsbek</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="338" line="3" >
+<bzg>Lotterie-Direktor</bzg> <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="338" line="4" >
+<bzg>Selzer Waßer</bzg> kohlensäurehaltiges Mineralwasser, Selter (<wwwlink address="https://digital.idiotikon.ch/idtkn/id1.htm#!page/10853/mode/1up"><titel>Schweizer Idiotikon</titel></wwwlink>, Sp.&#x202F;1832)
+</marginal>
+
+<marginal letter="498" page="338" line="7" sort="1" >
+<bzg>Memel</bzg> <wwwlink address="https://www.geonames.org/598098">heute Klaipėda</wwwlink>
+</marginal>
+
+<marginal letter="498" page="338" line="7" sort="2" >
+<bzg>HE Simson</bzg> <link ref="simpson" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="338" line="9" >
+<bzg>Mietau</bzg> heute <wwwlink address="https://www.geonames.org/459279">Jelgava</wwwlink>, Lettland (40&#x202F;km südwestlich von Riga)
+</marginal>
+
+<marginal letter="498" page="338" line="10" >
+<bzg>Schwonder</bzg> <link ref="schwander-sg" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="338" line="11" >
+<bzg>Viatikum</bzg> Reisegeld, Zehrpfennig
+</marginal>
+
+<marginal letter="498" page="338" line="16" >
+<bzg>Faquinsuniform</bzg> Halunkenaufmachung; Kaufmann reiste meist kraftstrotzend in bäuerlicher Tracht, offenem Hemd und mit wehendem Haar 
+</marginal>
+
+<marginal letter="498" page="338" line="17" >
+<bzg>versußter</bzg> versüßter, verwöhnter
+</marginal>
+
+<marginal letter="498" page="338" line="33" >
+<bzg>Hanschen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="338" line="34" >
+<bzg>Lischen und Lehnchen</bzg> <link ref="hamann-er" linktext="true" /> und <link ref="hamann-mc" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="338" line="37" >
+<bzg>coagulirt</bzg> gerinnt, erstarrt (Ausdruck aus der Alchemie)
+</marginal>
+
+<marginal letter="498" page="339" line="2" >
+<bzg>vom 25 Merz</bzg> Hamanns Brief vom 25. März 1777 nicht überliefert
+</marginal>
+
+<marginal letter="498" page="339" line="5" >
+<bzg>ihr</bzg> <link ref="herder-c" linktext="true" />, vgl. <intlink letter="500" page="350" line="9" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="339" line="6" sort="1" >
+<bzg>Quartaners</bzg> viertägig wiederkehrendes Fieber, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Quartan
+</marginal>
+
+<marginal letter="498" page="339" line="6" sort="2" >
+<bzg>kalte Fieber</bzg> viertägig wiederkehrendes Fieber, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Fieber: „Ein Wechsel-Fieber, L. Febris intermittens, Fr. Fièvre intermittente, nennt man dasjenige, wobey die Fieberhitze nicht in Einem fortdauert, und der Patient bis zur Wiederkunft des Fieberanfalles (Paroxysmus) ruhige Zwischenzeiten hat; oder, bey welchem der Anfall allemahl zu gewissen Zeiten kommt, und hernach wieder nachläßt. Gemeiniglich nennt man ein solches Fieber das kalte Fieber“ 
+</marginal>
+
+<marginal letter="498" page="339" line="9" >
+<bzg>Touss.</bzg> <link ref="toussaint-f" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="339" line="11" >
+<bzg>Tochter</bzg> <link ref="hamann-mc" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="339" line="12" >
+<bzg>Penzel</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="339" line="13" >
+<bzg>Hellwing</bzg> <link ref="helwing" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="339" line="14" sort="1" >
+<bzg>Peyssonel u </bzg> vmtl. <link ref="peyssonel" subref="peyssonel-observations" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="339" line="14" sort="2" >
+<bzg>Stritter</bzg> <link ref="stritter" linktext="true" />, Werk nicht ermittelt
+</marginal>
+
+<marginal letter="498" page="339" line="26" >
+<bzg>geantw den 19.</bzg> Hamanns Antwort vom 19. Mai 1777 nicht überliefert
+</marginal>
+
+<marginal letter="498" page="339" line="27" >
+<bzg>Pfingst heil. Abend.</bzg> 18. Mai 1777
+</marginal>
+
+<marginal letter="498" page="339" line="28" >
+<bzg>Einl. aus Riga</bzg> Hamann sandte den Brief offenbar weiter an <link ref="ehrmann" linktext="true" />
+</marginal>
+
+<marginal letter="498" page="339" line="31" >
+<bzg>22 pr.</bzg> praeterito, voriger Monat, 22. April 1777
+</marginal>
+
+<marginal letter="498" page="340" line="11" >
+<bzg>Philanthropin</bzg> vgl. <link ref="basedow" linktext="true" />
 </marginal>
 
 
