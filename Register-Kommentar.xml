@@ -3035,7 +3035,7 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 
 <kommentar id="claudius" type="neuzeit">
 <lemma>Matthias Claudius</lemma>
-<eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der <titel>Hamburgischen Adreß- Comptoir- Nachrichten</titel>, 1771–1775 Redakteur des <titel>Wandsbecker Bothen</titel>, 1776–1777 Mitglied der Oberlandkommission in Darmstadt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink><line type="break" />
+<eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der <link ref="hamb-adresscomtoir" linktext="false">Hamburgische Adreß-Comtoir-Nachrichten</link>, 1771–1775 Redakteur des <titel>Wandsbecker Bothen</titel>, 1776–1777 Mitglied der Oberlandkommission in Darmstadt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink><line type="break" />
 Briefe Teilweise ediert bei: <title>Matthias Claudius: Briefe an Freunde</title>, hg. von Hans Jessen (Berlin 1938).</eintrag>
 <subsection id="claudius-bothe" type="neuzeit" sort="10">
 <lemma>Claudius, <titel>Der Wandsbecker Bothe</titel></lemma>
@@ -3051,6 +3051,11 @@ Briefe Teilweise ediert bei: <title>Matthias Claudius: Briefe an Freunde</title>
 </subsection>
 </kommentar>
 
+<kommentar id="claudius-afp" type="neuzeit">
+<lemma>Anna Friederica Petrina Claudius</lemma>
+<eintrag>1777–1856. Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="claudius-r" type="neuzeit">
 <lemma>Anna Rebecca Claudius</lemma>
 <eintrag>1754–1832. Geb. Behn, seit März 1772 Ehefrau von <link ref="claudius" linktext="true" />.</eintrag>
@@ -3061,9 +3066,14 @@ Briefe Teilweise ediert bei: <title>Matthias Claudius: Briefe an Freunde</title>
 <eintrag>1774-1821. Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
 </kommentar>
 
+<kommentar id="claudius-ma" type="neuzeit">
+<lemma>Marie Claudius</lemma>
+<eintrag>1718–1780. Geb. Lorck, Mutter von <link ref="claudius" linktext="true" /></eintrag>
+</kommentar>
+
 <kommentar id="claudius-ch" type="neuzeit">
 <lemma>Christiana Augusta Maria Claudius</lemma>
-<eintrag>1775-1796. Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
+<eintrag>1775–1796. Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />, Patin von Hamann.</eintrag>
 </kommentar>
 
 <kommentar id="clausnitzer" type="neuzeit">
@@ -6643,6 +6653,12 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <eintrag>
 <titel>Das gelehrte Teutschland</titel> oder Lexicon der jetzt lebenden deutschen Schriftsteller (Lemgo 1767, 1767, 1770).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hamb-adresscomtoir" type="neuzeit">
+<lemma>Hamburgische Adreß-Comtoir-Nachrichten</lemma>
+<eintrag>Erschienen in Hamburg, 1767–1826, siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=011376236">ZDB</wwwlink>. Digitalisat: <wwwlink address="https://www.deutsche-digitale-bibliothek.de/newspaper/2918855-6">Deutsches Zeitungsportal</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="hamb-beytraege" type="neuzeit">
@@ -14423,6 +14439,11 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <eintrag>
 <titel>Ragout a la Mode oder des Neologischen Wörter-Buchs erste Zugabe, von Mir Selbst</titel> (1755) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;199/112]. Schönaich begann mit diesem fiktiven Dialog („Schul-Examen über einige zur Dichtkunst gehörige Sachen“) gegen <link ref="klopstock" linktext="true" /> und dessen ‚schwärmerischen‘ Dichtungsgeschmack satirisch vorzugehen. Die Satire beginnt mit <titel>Die ganze Aesthetik in einer Nuss, oder Neologisches Wörterbuch; als sicherer Kunstgriff, in 24 Stunden ein geistvoller Dichter und Redner zu werden, und sich über alle schale und hirnlose Reimer zu schwingen, alles aus den Accenten der heil. Männer und Barden des itzigen überreichlich begeisterten Jahrhunderts zusammen getragen, und den grössten Wort-Schöpfern unter denselben aus dunkler Ferne geheiliget von demüthigen Verehrern der sehraffischen Dichtkunst</titel> (1754) und wird fortgesetzt im <titel>Ragout</titel>, sowie: <titel>Der ganzen Aesthetik in einer Nusz; oder des neologischen Wörterbuches erster Anhang</titel> (ebenfalls 1755) (worin auf <link ref="oest" linktext="false">Johann Heinrich Oests</link> <titel>Schlüsse eines Materialisten</titel> des öfteren Bezug genommen wird; <titel>Erläuterungen über die ganze Aesthetik in einer Nuss in einigen Briefen den Liebhabern der neuen ästhetischen Schreib- und Dichtungsart mitgetheilet</titel> (Frey-Singen 1755), <titel>Die Ganze Aesthetik in einer Nuß, in ein Nüßchen gebracht; oder Nachlese der Neologie</titel> (1755), <titel>Versuch einer gefallenden Satire oder Etwas zum Lobe der Aesthetik</titel> (1755). Diese Schreib- und publizistische Wut hat Schönaich schnell zum Paria gemacht. Nicht nur die Titelgebung, sondern auch der satirische Stil wie auch die typographische Wildheit der Publikationen Schönaichs waren für Hamann inspirierend.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="schonborn" type="neuzeit">
+<lemma>Gottlieb Friedrich Ernst Schönborn</lemma>
+<eintrag>1747–1817. Dänischer Konsulats-Sekretär in Algier.</eintrag>
 </kommentar>
 
 <kommentar id="scholz" type="neuzeit">
