@@ -9548,8 +9548,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="497">
-        <date value="Königsberg, Anfang Mai 1777" />
-        <sort value="1777-05-06" order="200" notBefore="1777-05-01" notAfter="1777-05-15" />
+        <date value="Königsberg, 7. Mai 1777" />
+        <sort value="1777-05-07" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -9561,7 +9561,7 @@
         <isProofread value="false" />
         <isDraft value="true" />
         <ZHInfo inZH="true">
-          <dateChanged value="false" />
+          <dateChanged value="true" />
           <begin vol="3" page="337" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
