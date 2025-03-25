@@ -2162,7 +2162,7 @@ vll. Otto Christopher v. Howen
 Brief Nr. 26
 
 <marginal letter="26" page="69" line="30">
-<link ref="unzer" subref="unzer-erzaehl" linktext="true" />, 1.&#x202F;Tl, S.&#x202F;16
+<link ref="unzer-ja" subref="unzer-erzaehl" linktext="true" />, 1.&#x202F;Tl, S.&#x202F;16
 </marginal>
 
 <marginal letter="26" page="69" line="35">
@@ -18355,7 +18355,7 @@ Brief Nr. 181
 </marginal>
 
 <marginal letter="181" page="19" line="14">
-<bzg>Der Artzt</bzg> vmtl. <link ref="unzer" subref="unzer-arzt" linktext="true" />
+<bzg>Der Artzt</bzg> vmtl. <link ref="unzer-ja" subref="unzer-arzt" linktext="true" />
 </marginal>
 
 
@@ -27980,7 +27980,7 @@ Brief Nr. 242
 </marginal>
 
 <marginal letter="242" page="190" line="18">
-<bzg>Arzt</bzg> <link ref="unzer" subref="unzer-arzt" linktext="true" />
+<bzg>Arzt</bzg> <link ref="unzer-ja" subref="unzer-arzt" linktext="true" />
 </marginal>
 
 <marginal letter="242" page="190" line="20" sort="1">
@@ -31001,7 +31001,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="234" line="16" sort="1">
-<bzg>Lausons vom letzten Theil des Artzts</bzg> <link ref="lauson" linktext="true" />, wohl eine Rezension von <link ref="unzer" subref="unzer-arzt" linktext="true" />
+<bzg>Lausons vom letzten Theil des Artzts</bzg> <link ref="lauson" linktext="true" />, wohl eine Rezension von <link ref="unzer-ja" subref="unzer-arzt" linktext="true" />
 </marginal>
 
 <marginal letter="257" page="234" line="16" sort="2">
@@ -45097,7 +45097,7 @@ Brief Nr. 377
 </marginal>
 
 <marginal letter="377" page="12" line="1">
-<bzg>Unzer …</bzg> <link ref="unzer" subref="unzer-physiologie" linktext="true" />, von Herder zitiert nach der Rezension von <link ref="haller" linktext="true" /> in <link ref="goettingische-anzeigen" linktext="true" />, 65.&#x202F;St. vom 30.5.1772, S.&#x202F;548–553
+<bzg>Unzer …</bzg> <link ref="unzer-ja" subref="unzer-physiologie" linktext="true" />, von Herder zitiert nach der Rezension von <link ref="haller" linktext="true" /> in <link ref="goettingische-anzeigen" linktext="true" />, 65.&#x202F;St. vom 30.5.1772, S.&#x202F;548–553
 </marginal>
 
 <marginal letter="377" page="12" line="6">
@@ -49035,7 +49035,7 @@ Brief Nr. 402
 </marginal>
 
 <marginal letter="402" page="75" line="9" sort="2">
-<bzg>Unzerschen Physiologie</bzg> <link ref="unzer" subref="unzer-physiologie" linktext="true" />, von Herder zitiert nach der Rezension von <link ref="haller" linktext="true" /> in <link ref="goettingische-anzeigen" linktext="true" />, 65.&#x202F;St. vom 30.5.1772, S.&#x202F;548–553
+<bzg>Unzerschen Physiologie</bzg> <link ref="unzer-ja" subref="unzer-physiologie" linktext="true" />, von Herder zitiert nach der Rezension von <link ref="haller" linktext="true" /> in <link ref="goettingische-anzeigen" linktext="true" />, 65.&#x202F;St. vom 30.5.1772, S.&#x202F;548–553
 </marginal>
 
 <marginal letter="402" page="75" line="10">
@@ -50299,7 +50299,7 @@ Brief Nr. 408
 </marginal>
 
 <marginal letter="408" page="98" line="10">
-<bzg>Hartley u Unzer</bzg> <link ref="hartley" subref="hartley-betrachtungen" linktext="true" /> und <link ref="unzer" subref="unzer-physiologie" linktext="true" />
+<bzg>Hartley u Unzer</bzg> <link ref="hartley" subref="hartley-betrachtungen" linktext="true" /> und <link ref="unzer-ja" subref="unzer-physiologie" linktext="true" />
 </marginal>
 
 <marginal letter="408" page="98" line="12">
@@ -63025,7 +63025,11 @@ Hamann schrieb den undatierten Entwurf, der mit <intlink letter="494" page="334"
 
 Brief Nr. 490
 
-<marginal letter="490" page="322" line="7" >
+<marginal letter="490" page="322" line="7" sort="1" >
+Hamann schrieb den Entwurf, als einen von vielen, im Zuge der Rechtsstreitigkeit mit der Witwe seines Vorgängers <link ref="blom-wy" linktext="true" /> und deren Familie um seine neue Dienstwohnung als <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Packhofverwalter</link> am Holländer Baum und besonders um deren Garten; zum Hintergrund vgl. <intlink letter="486" page="314" line="10" linktext="false">HKB 486</intlink>, zu Hamanns Einstellung gegenüber der Witwe Blom <intlink letter="486" page="313" line="19" linktext="true" />. – Hamann schickte letztlich keine Eingabe an die Generaladministration ab, vgl. <intlink letter="499" page="341" line="1" linktext="true" />.
+</marginal>
+
+<marginal letter="490" page="322" line="7" sort="2" >
 Rohübersetzung (deepl), ohne Streichungen (?!?):
 Mrs. Die neue Anstellung als Magazingard, die Sie mir die Gnade erwiesen haben zu konferieren und die ich als Hafen meines Lebens verehrt habe, ist zu meiner Ruhe und zur Quelle von tausend Kummern und Missgunst geworden. Die Witwe meines Vorgängers ist die Tochter eines unserer namhaftesten Anwälte und Staatsanwälte, Stiefmutter eines Bailli du Roi und eines Doktor der Medizin und Schwägerin eines Chirurg-Majors im Regiment der Dragoner. Diese ganze Familie fiel mir auf die Arme und ich wurde ganz allein ihren Schikanen, Gewalttätigkeiten und Schikanen überlassen - Nachdem ich die extreme Salbung meiner alten Stelle erhalten hatte, erlag ich schließlich einer komplizierten Krankheit und dem Wiederaufflammen des Quartafiebers; so war ich erst am Osterdienstag in der Lage, meinen ersten Besuch bei der Dᵉ Blome zu bezahlen, um meine neue Unterkunft in Augenschein zu nehmen und ihr mein Bedürfnis, dort zu wohnen, zu bezeugen. Sie bat mich um die kleinste Ecke für eine Woche, weil ihr Gastgeber Reparaturen vorgenommen hatte, deren Frische ihrer Gesundheit nicht zuträglich sein würde. Aber gleichzeitig gefiel mir diese Frau durch ihren Geist und ihren Charakter so sehr, dass ich Angst hatte, mit ihr unter einem Dach zu wohnen; daher gewährte ich ihr die achttägige Verzögerung durch das in Kopie beigefügte Ticket, aber unter der ausdrücklichen Bedingung, dass ich erst nach ihrer Unterbringung in den Besitz der Wohnung gelangen würde. Aber nachdem mir ihre vagen Ansprüche auf Boni die Ohren heiß gemacht hatten, bat ich sie um eine detaillierte Aufstellung, deren Gesamtbetrag sich laut ihrer im Original beigefügten Antwort auf 176 fl belief. Da diese Frau den Geist gehabt hatte, mir weismachen zu wollen, dass ihr verstorbener Mann seinem Vorgänger 500 fl. für den zum Freihaus gehörenden Garten gezahlt hatte, und da dieser Artikel, den sie bei meinem Besuch so sehr hervorgehoben hatte, in ihrer Spezifikation völlig ausgelassen worden war, musste ich ihr einen zweiten Brief schreiben, und aus ihrer Antwort geht hervor, dass sie für den Garten 972 fl. verlangte und dass die Summe ihrer Forderungen 1100 fl. übersteigt. –
 Meine Herren, Sie wissen, dass die Stelle des Garde-Magazins nichts zu meinen Bezügen hinzugefügt hat und dass das Franc Logis, das damit verbunden ist, fast das einzige und größte Emolument dieses Postens ist, den ich Ihren guten Gnaden verdanke. Ein Garten ist die Zugehörigkeit und Abhängigkeit dieses Hauses des Königs. Es gibt keinen anderen Besitztitel als den, durch den das Haus. Die Witwe und die Erben meines Vorgängers versuchen, mich aus diesem Garten auszuschließen und haben nicht nur den Schlüssel dazu behalten, sondern üben sogar alle Handlungen des direkten Eigentums aus. Ich habe ihnen erlaubt, alles, was sie können, aus den Blumenbeeten und den Bauernwindeln zu entfernen, und sie haben sich dieses Einverständnis zunutze gemacht, um mich vollständig aus diesem Garten auszuschließen, den niemand betreten kann, außer durch meinen Hinterhof. Es gibt keinen anderen Besitztitel als den, dass das Haus, in dem ich arbeitete, mir gehörte. Der einzige Vorwand der Witwe ist eine Gutschrift, die ihr verstorbener Mann einem Erben, ihrem Vorerben, gemacht hat und deren Summe nach den besten Informationen, die ich daraus entnehmen konnte, nur 20 ECU betrug; aber man verlangt von mir 326 ECU, wie ich anhand der Banknoten feststellen kann. Diese Ungerechtigkeit veranlasst mich, mein freiwilliges Angebot zurückzuziehen und Ihren Schutz zu erbitten, um in den Besitz all meiner Rechte in Bezug auf den fraglichen Garten versetzt zu werden. –
@@ -63035,13 +63039,17 @@ Meine Herren, Sie wissen, dass die Stelle als Magazingard, die Sie mir gnädiger
 
 Brief Nr. 491
 
-<marginal letter="491" page="325" line="26" >
+<marginal letter="491" page="325" line="26" sort="1" >
+Hamann schrieb den Entwurf, als einen von vielen, im Zuge der Rechtsstreitigkeit mit der Witwe seines Vorgängers <link ref="blom-wy" linktext="true" /> und deren Familie um seine neue Dienstwohnung als <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Packhofverwalter</link> am Holländer Baum und besonders um deren Garten; zum Hintergrund vgl. <intlink letter="486" page="314" line="10" linktext="false">HKB 486</intlink>, zu Hamanns Einstellung gegenüber der Witwe Blom <intlink letter="486" page="313" line="19" linktext="true" />. – Hamann schickte letztlich keine Eingabe an die Generaladministration ab, vgl. <intlink letter="499" page="341" line="1" linktext="true" />.
+</marginal>
+
+<marginal letter="491" page="325" line="26" sort="2" >
 Rohübersetzung (deepl), ohne Streichungen (?!?):
 Die Anstellung als Magazinwächter hat nichts zu meinen Bezügen beigetragen; Aber die größte und fast einzige Belohnung dieser Stelle, die Sie mir zu verleihen die Gnade erwiesen haben und die ich als den Hafen meines Lebens verehre, besteht in der freien Wohnung und der Zugehörigkeit und Abhängigkeit eines Gartens, den man nur über den Hinterhof meines Hauses betreten kann, den meine Vorgesetzten, Frau Direktor und der Generalinspektor, deren Zwischennachbar zu sein ich die Ehre habe, haben. Ich habe eine einzige Hintertür, die sogar zu einer Wiese führt, von der aus ich kommunizieren kann. Die Familie meines Vorgängers versucht, mich zu berauben, indem sie den Schlüssel zurückhält und alle Handlungen eines direkten Eigentums ausübt, ohne das Territorium des Königs oder die Bedingungen eines Nießbrauchs zu respektieren, der durch den Tod des Eigentümers abgelaufen ist, der weder seine Verbesserungen abreißen, noch die Materialien mitnehmen oder seine willkürlichen und wollüstigen Ausgaben wiederholen darf, wobei er die prekäre Qualität seines Besitzes vergisst. Trotz meiner Unterwerfung, alles, was möglich ist, entfernen zu lassen und sogar einen Bonus von 20 ECU zu zahlen, den mein Vorgänger den Erben seines Vorgängers gezahlt hat, hält man hartnäckig daran fest, dieses Emolument von meinem Platz und der Zugehörigkeit des Herrenhauses des Königs zu usurpieren und verlangt von mir die exorbitante Summe von 326 ECU, Die Zettel, die mir de la Dᵉ Blom darüber geschrieben hat, ohne den Beweis für diese Tatsachen. Ich bin jedoch nicht der Herr, weder den Garten zu betreten noch irgendeinen Gebrauch davon zu machen. Das Wohnrecht ist die größte und fast einzige Ehre der Stelle, die Sie mir zu verleihen die Gnade erwiesen haben und die ich nie aufhören werde, als den letzten Hafen meines Lebens zu verehren. Ein Garten ist die Zugehörigkeit und Abhängigkeit dieser privilegierten Unterkunft, die mit meiner Anstellung als Magazingardist verbunden ist. Die Witwe und Familie meines Vorgängers versucht, mir die Schlüssel zu entziehen und übt alle Handlungen einer direkten Domäne aus, ohne das Territorium des Königs oder mein Recht auf eine nützliche Domäne zu respektieren. Der einzige Vorwand für diese Usurpation besteht in einer angeblichen Gutschrift von 20 ECU, die der verstorbene Rat des Licent Blom an die Erben seines Nachfolgers gezahlt hat und die ich zurückzahlen wollte.
 </marginal>
 
 
-Brief Nr. 491
+Brief Nr. 491a
 
 <marginal letter="491a" page="326" line="32" >
 <bzg>Auction</bzg> Gemeint sind wohl der Einrichtungsgegenstände und Möbel, da Claudius mit seiner Familie nach Wandsbeck zurückkehrt; in diesem tagebuchartigen Brief berichtet Claudius von der Reise.
@@ -63179,9 +63187,19 @@ Brief Nr. 491
 <bzg>Schönborn</bzg> <link ref="schonborn" linktext="true" />
 </marginal>
 
+Brief Nr. 492
+
+<marginal letter="492" page="329" line="32" >
+Hamann schrieb den Entwurf, als einen von vielen, im Zuge der Rechtsstreitigkeit mit der Witwe seines Vorgängers <link ref="blom-wy" linktext="true" /> und deren Familie um seine neue Dienstwohnung als <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Packhofverwalter</link> am Holländer Baum und besonders um deren Garten; zum Hintergrund vgl. <intlink letter="486" page="314" line="10" linktext="false">HKB 486</intlink>, zu Hamanns Einstellung gegenüber der Witwe Blom <intlink letter="486" page="313" line="19" linktext="true" />. – Hamann schickte letztlich keine Eingabe an die Generaladministration ab, vgl. <intlink letter="499" page="341" line="1" linktext="true" />.
+</marginal>
+
 Brief Nr. 493
 
-<marginal letter="493" page="330" line="30" >
+<marginal letter="493" page="330" line="30" sort="1" >
+Hamann schrieb den Entwurf, als einen von vielen, im Zuge der Rechtsstreitigkeit mit der Witwe seines Vorgängers <link ref="blom-wy" linktext="true" /> und deren Familie um seine neue Dienstwohnung als <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Packhofverwalter</link> am Holländer Baum und besonders um deren Garten; zum Hintergrund vgl. <intlink letter="486" page="314" line="10" linktext="false">HKB 486</intlink>, zu Hamanns Einstellung gegenüber der Witwe Blom <intlink letter="486" page="313" line="19" linktext="true" />. – Hamann schickte letztlich keine Eingabe an die Generaladministration ab, vgl. <intlink letter="499" page="341" line="1" linktext="true" />.
+</marginal>
+
+<marginal letter="493" page="330" line="30"  sort="2">
 Rohübersetzung (deepl), ohne Streichungen (?!?):
 Ein geheimes Memorandum. Am Aschermittwoch kam mein Auftrag an und ich erhielt mit der extremen Salbung meines alten Angestellten die Erlaubnis, am nächsten Tag zu meinem neuen Posten zu gehen. Drei Tage später erkrankte ich erneut an Fieber. Trotz meiner Schmerzen zwang ich mich, die ganze nächste Woche auszugehen, weil der Schwiegervater meines Vorgängers, einer unserer berühmten Rechtsanwälte und Prokuristen, mich von einem Tag auf den anderen warten ließ, um mir die Übergabe der königlichen Effekten zu machen. Am Mittag des 22. Februar erlag ich meinem Leiden und war nicht mehr in der Lage, mich auf meinen Füßen zu halten. Ich wollte am 24. desselben Monats das Unmögliche versuchen, aufzustehen, als Herr de Marvilliers und Herr Pinnow, Buchhalter und Vikar meines Büros (das wegen der Verbindung unserer Expeditionen an das seine grenzt) die Aufmerksamkeit hatten, mich durch einen der Träger des Licent davon abzuhalten, hinauszugehen, indem sie mich beruhigten, meine Gesundheit nicht zu gefährden und dass meine Not weder für die Expeditionen in der toten Jahreszeit noch für die Übergabe notwendig sei. Nachdem ich drei Wochen lang mein Bett und mein Zimmer behalten hatte, machte ich am 17. März den ersten Versuch, das Haus zu verlassen, wo ich erfuhr, dass die Übergabe des kleinen Depots mit den beschlagnahmten Gegenständen während der ersten Tage meiner Krankheit von dem Vogt Sturz vorgenommen worden war, Ein Schwiegersohn meines Vorgängers übergab mir sofort das Protokoll und die darin genannten Gegenstände, wobei er mich darauf hinwies, dass die Erben das Buch über die Einnahmen aus den Enmagazinierungsgeldern mit den dazugehörigen Belegen noch in ihrer Obhut behielten. Der Vogt hatte ein altes und hässliches Taschenmesser entfernt, das nach der Vermutung von den Kosten des Büros geliefert worden war, weshalb ich mich bei Herrn de Marvilliers in Gegenwart aller Angestellten seines Büros darüber beschwerte; aber da der wahre Besitz dieser Kleinigkeit von einem Dritten öffentlich eingefordert worden war, war die ganze Spielerei zumindest nützlich, um den Charakter meiner neuen Welt zu erraten. Von allen Seiten ermutigt, der Witwe meines Vorgängers den Besuch zu bezahlen, argumentierte ich mit meiner empfindlichen Konstitution und den kleinen Pocken, die ich meiner jüngsten Tochter hatte impfen lassen, wurde aber am Dienstag der Karwoche von dem anderen Schwiegersohn meines Vorgängers, Doktor Laubmeier, gewarnt.  Da unsere Väter eine sehr herzliche Freundschaft pflegten, war ich von seinem ungeplanten Besuch entzückt und machte ihm mit gutgläubiger Begeisterung alle möglichen Angebote. Der Arzt gestand mir, dass es ihm peinlich sei, sich länger in einem ansteckenden Zimmer aufzuhalten, und dass er aufs Land gefahren sei, wo er ein Stück Land besitze, als ich am Ostermontag nach der Predigt an seinem Haus vorbeikam, um mein Kompliment zu erwidern. Am 1. des Monats machte ich meinen ersten Besuch bei De Blom, um die Beschaffenheit meines Hauses zu prüfen. Ich hatte Anlass, den Verlust von zwei Appartments, die durch die neuen Arrangements des Herrn des Königs für das Büro der Buchhalter und die Einrichtung eines neuen Magazins verwendet wurden, sehr zu bedauern. Die Witwe meines Vorgängers überhäufte mich mit Höflichkeiten, bat um einen Aufschub von acht Tagen, bat mich um die kleinste Ecke des Hauses und überließ mir alles andere, da ihr die neuen Öfen etc. in ihrer neuen Wohnung nicht zusagen würden. Sie hat mir die ganze Beredsamkeit der Anwaltskammer und des Lehrstuhls entgegengebracht, die mir besser gefällt als die der Markthallen: Ich stimmte ihrer Bitte zu, aber da ich nicht den Mut hatte, mit einer Schlange unter einem Dach zu leben und nicht immer Herr meiner Zunge oder meiner Feder war, wandte ich mich an einen Freund von mir, der mir mit aller Kaltblütigkeit das beigefügte Billet in Kopie diktierte, woraufhin sie mir die beigefügte Antwort im Original gab und ich mich desselben Freundes bediente, um ihr die mit C bezeichnete Antwort zu geben. Sie antwortete darauf mit der grünen Seite. Aus diesen Originaldokumenten geht hervor, dass die Familie meines Vorgängers von mir mehr als 1000 fl. an Bonifikationen verlangt, deren Titel und Mittel ich nicht ganz nachvollziehen kann. Ich respektiere das Eigentum meiner Mitmenschen wie mein eigenes und bin weit davon entfernt, die Möbel und Paradiese meiner Vorgänger oder meiner Nachbarn umzuwandeln. Aber ich kann noch nicht das Eigentum meiner Nachfolger beeinträchtigen, denen bereits zwei Appartements entzogen wurden, die der Garde Magazin als Admiralitätsrat und der Receveur du Licent als Kriegsrat verloren haben. Ich verlange nur den Platz, den der König meinen Vorgängern zu ihrem Wohlgefallen gewährt hat, indem er mich dazu verpflichtet hat, die neuen Erwerbungen, die meine Vorläufer aus ihrer eigenen Börse getätigt haben, zu unterschreiben oder denselben Wert zu bezahlen, den mein Vorläufer an den seinen bezahlt hat, indem er den Erben erlaubt hat, alles...
 </marginal>
@@ -63545,33 +63563,118 @@ Brief Nr. 499
 <bzg>Gelach</bzg> <intlink letter="499" page="342" line="27" linktext="false">s.o.</intlink>
 </marginal>
 
-<marginal letter="499" page="347" line="7" >
+<marginal letter="499" page="344" line="7" >
 <bzg>Gemalin</bzg> <link ref="reichardt-jul" linktext="true" />, vgl. <intlink letter="491a" page="328" line="37" linktext="true" />
 </marginal>
 
-<marginal letter="499" page="347" line="8" >
+<marginal letter="499" page="344" line="8" >
 <bzg>Prof Engel.</bzg> <link ref="engel" linktext="true" />
 </marginal>
 
-<marginal letter="499" page="347" line="10" sort="1" >
+<marginal letter="499" page="344" line="10" sort="1" >
 <bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
 </marginal>
 
-<marginal letter="499" page="347" line="10" sort="2" >
+<marginal letter="499" page="344" line="10" sort="2" >
 <bzg>Krause</bzg> <link ref="kraus" linktext="true" />
 </marginal>
 
-<marginal letter="499" page="347" line="11" sort="1" >
+<marginal letter="499" page="344" line="11" sort="1" >
 <bzg>Kant</bzg> <link ref="kant" linktext="true" />
 </marginal>
 
-<marginal letter="499" page="347" line="11" sort="2" >
+<marginal letter="499" page="344" line="11" sort="2" >
 <bzg>Kayserlingk</bzg> <link ref="keyserling-h" linktext="true" />
 </marginal>
 
-<marginal letter="499" page="347" line="13" >
+<marginal letter="499" page="344" line="13" >
 <bzg>HErrn Vater</bzg> <link ref="reichardt-jf" linktext="true" />
 </marginal>
+
+
+Brief Nr. 500
+
+<marginal letter="500" page="344" line="30" sort="1" >
+<bzg>Da hängen Sie&#x202F;…</bzg> Gemeint sind Porträts seiner Freunde in Hamanns Schlafzimmer (hier Abzüge von Kupferstichen), wie auch sein eigenes Porträt bei vielen Freunden hing. Hamann beschreibt seine neue Wohnung am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Königsberger Licent</link>.
+</marginal>
+
+<marginal letter="500" page="344" line="30" sort="2" >
+<bzg>Kaufmann u Lavater</bzg> <link ref="kaufmann-c" linktext="true" /> und <link ref="lavater" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="344" line="33" >
+<bzg>Grus&#x202F;…&#x202F;Billet</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="500" page="345" line="1" sort="1" >
+<bzg>Frau Gevatterin</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="1" sort="2" >
+<bzg>beyder Zweige</bzg> <link ref="herder-g" linktext="true" /> und <link ref="herder-a" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="1" sort="3" >
+<bzg>cum die et consule</bzg> mit Tag und Jahreszahl (die Römer benannten die Jahre nach den regierenden Konsuln)
+</marginal>
+
+<marginal letter="500" page="345" line="7" >
+<bzg>Mohrenkopf</bzg> <link ref="herder-g" linktext="true" />, vgl. <intlink letter="450" page="191" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="9" sort="1" >
+<bzg>Stahlbaum</bzg> <link ref="stahlbaum-cf" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="9" sort="2" >
+<bzg>Kanterschen Buchladen</bzg> siehe <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="14" >
+<bzg>selbst schreibt&#x202F;…</bzg> vgl. <intlink letter="498" page="337" line="26" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="16" >
+<bzg>D. Martin Luther</bzg> <link ref="luther" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="17" >
+<bzg>Gevatter Kanter</bzg> <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="19" >
+<bzg>Bild mit dem Eselsohr</bzg> Vmtl. der Originalabzug des Porträt-Entwurfs von Lavater für die <link ref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmente</titel></link>, den Kanter ihm einst brachte und der Hamann so bestürzte, vgl. <intlink letter="452" page="196" line="12" linktext="true" />; vgl. ebenso Hamanns Reaktion auf den später publizierten Stich <intlink letter="467" page="240" line="34" linktext="true" />.
+</marginal>
+
+<marginal letter="500" page="345" line="21" >
+<bzg>Allzuklug&#x202F;…</bzg> <link ref="unzer-la" subref="unzer-devisen" linktext="true" />, Nr. 9: „Haman. / Alzuklug sind seine Lehren; / Alzuklug ist dumm!“ – vgl. <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />, N&#x202F;III,73/20
+</marginal>
+
+<marginal letter="500" page="345" line="23" >
+<bzg>Roche-noblot</bzg> <link ref="roche-noblot" linktext="true" />, vgl. <intlink letter="948" page="331" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="24" >
+<bzg>großer Articul in der Hiesigen Zeitung</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, vmtl. vom 11. Februar 1773 (Jg. nicht überliefert); vgl. die Meldung im <wwwlink address="https://books.google.de/books?id=q09lAAAAcAAJ"><titel>Beytrag zum Reichs-Postreuter,</titel> 15.&#x202F;St. vom 22.2.1773, S.&#x202F;2</wwwlink>.
+</marginal>
+
+<marginal letter="500" page="345" line="26" >
+<bzg>Sohn</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="27" >
+<bzg>Seher</bzg> <link ref="lavater" linktext="true" />, vgl. <intlink letter="467" page="241" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="30" >
+<bzg>Bruders</bzg> <link ref="hamann-jc" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="345" line="31" >
+<bzg>herrl. Aussicht</bzg> zu der Briefpassage und den Königsberger Lokalitäten vgl. <link ref="bab-g-2024" linktext="false">Babelotzky: Lebens- und Ereignisorte Johann Georg Hamanns in Königsberg</link>, S.&#x202F;32–34
+</marginal>
+
+
 
 
 Brief Nr. 521

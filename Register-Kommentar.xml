@@ -13781,6 +13781,11 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 </subsection>
 </kommentar>
 
+<kommentar id="roche-noblot" type="neuzeit">
+<lemma>Joseph Maximilian la Roche Noblot</lemma>
+<eintrag>Gest. am 25. Januar 1773 bei einer Schlittenfahrt auf der Düna. Bekannter Kalligraph aus Königsberg, vgl. <wwwlink address="https://books.google.de/books?id=VIFLAAAAcAAJ"><titel>Livländische Bibliothek,</titel> Bd.&#x202F;3 (Riga 1777), S.&#x202F;42</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="roeck-lp" type="neuzeit">
 <lemma>Ludwig Philipp Roeck</lemma>
 <eintrag>1697–1768. Kaufmann in Lübeck, ab 1761 Bürgermeister von Lübeck. Vater von <link ref="roeck-hh" linktext="true" />  und Ludwig Philipp Roeck (1724–1796). (Mit Dank an Sigmar von Blanckenburg für den Hinweis.)</eintrag>
@@ -16402,7 +16407,7 @@ Auszüge von dessen frz. Übers. von Hamann ins Deutsche übers., siehe <link re
 </subsection>
 </kommentar>
 
-<kommentar id="unzer" type="neuzeit">
+<kommentar id="unzer-ja" type="neuzeit">
 <lemma>Johann August Unzer</lemma>
 <eintrag>1727–1799. Arzt in Altona, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz83404.html#adbcontent">Carstens, Carsten Erich: Unzer, Johann August, in: <titel>ADB</titel>&#x202F;39 (1895), S.&#x202F;331</wwwlink>.</eintrag>
 <subsection id="unzer-erzaehl" type="neuzeit" sort="10">
@@ -16421,6 +16426,17 @@ Auszüge von dessen frz. Übers. von Hamann ins Deutsche übers., siehe <link re
 <lemma>Unzer, <titel>Erste Gründe einer Physiologie der eigentlichen thierischen Natur thierischer Körper</titel></lemma>
 <eintrag>
 <titel>Erste Gründe einer Physiologie der eigentlichen thierischen Natur thierischer Körper</titel> (Leipzig: Weidmanns Erben 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10369666-1">BSB München: Anat. 455</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="unzer-la" type="neuzeit">
+<lemma>Ludwig August Unzer</lemma>
+<eintrag>1748–1774. Freigeistiger Dichter und Kritiker, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117311235.html#adbcontent ">Jacobs, Eduard: Unzer, Ludwig August, in: <titel>ADB</titel>&#x202F;39 (1895), S.&#x202F;336–343</wwwlink>.</eintrag>
+<subsection id="unzer-devisen" type="neuzeit" sort="10">
+<lemma>Unzer, <titel>Devisen</titel></lemma>
+<eintrag>
+<titel>Devisen auf deutsche Gelehrte, Dichter und Künstler. Aus deutschen Dichtern gezogen</titel> (o.O. 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11708805-5">Stabi Bamberg: JH.Coll.vit.o.26-a#1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
