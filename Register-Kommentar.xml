@@ -4765,6 +4765,15 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 </eintrag>
 </kommentar>
 
+<kommentar id="florus" type="neuzeit">
+<lemma>Florus</lemma>
+<eintrag>Römischer Geschichtsschreiber aus der Zeit Trajans und Hadrians (98–138 n.&#x202F;Chr.), mglw. identisch mit Publius Annius Florus.</eintrag>
+<subsection id="florus-epitoma" type="neuzeit" sort="10">
+<lemma>Florus, <titel>epit.</titel></lemma>
+<eintrag>Epitoma de Tito Livio, siehe <wwwlink address="bit.ly/FlorusEpitome">bit.ly/FlorusEpitome</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="flottwell" type="neuzeit">
 <lemma>Cölestin Flottwell</lemma>
 <eintrag>1711–1759. Ab 1750 Rektor der Königsberger Domschule, an der Albertus-Universität Königsberg war er Professor für Rhetorik; 1. Direktor der unter Anleitung <link ref="gottsched" linktext="false">Gottscheds</link> 1741 in Königsberg gegründeten <link ref="konigliche-d-g" linktext="false">‚Königlichen deutschen Gesellschaft‘</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz16501.html">Deutsche Biographie</wwwlink>.</eintrag>
@@ -8636,7 +8645,7 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <lemma>Katharina II.</lemma>
 <eintrag>1729–1796. Sophie Auguste Friederike von Anhalt-Zerbst; ab Juli 1762 russische Kaiserin.</eintrag>
 <subsection id="katharina-instruction" type="neuzeit" >
-<lemma>Katharina II, <titel>Instruction</titel></lemma>
+<lemma>Katharina II., <titel>Instruction</titel></lemma>
 <eintrag>
 <titel>Katharina der Zweiten Kaiserin und Gesetzberin von Russland Instruction für die Verfertigung des Entwurfs zu einem neuen Gesetzbuche verordnete Commißion</titel> (Riga und Mitau: Hartknoch 1769). Übers. von Magister Johann Joseph Haigold [<link ref="schlozer" linktext="true" />]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564713-0">BSB München: J.rel. 1505</wwwlink>.
 </eintrag>
@@ -8645,7 +8654,13 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 
 <kommentar id="kaufmann-c" type="neuzeit">
 <lemma>Christoph Kaufmann</lemma>
-<eintrag>1753–1795. Reisender ‚Genieapostel‘ und Urheber des Ausdrucks ‚Sturm und Drang‘. Zunächst Apotheker in der Schweiz, 1774 in Straßburg; 1776 Reise durch Deutschland als Anhänger Rousseaus und der Geniebewegung: nach Weimar, Dessau, über Königsberg nach Riga und St. Petersburg; verbrachte vier Nächte auf Hamanns Sopha im April 1777 (vgl. <intlink letter="499" page="343" line="26" linktext="true" />; später in demselben Jahr wurde er Bauer in der Schweiz und 1781 Arzt in der Brüdergemeinde in Schlesien, vgl. <link ref="ehrmann" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz40180.html#ndbcontent">Menges, Franz: Kaufmann, Christoph, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;347–349</wwwlink>.</eintrag>
+<eintrag>1753–1795. Schweizer Reisender ‚Genieapostel‘ und Urheber des Ausdrucks ‚Sturm und Drang‘. Zunächst Apotheker in der Schweiz, 1774 in Straßburg; 1776 Reise durch Deutschland als Anhänger Rousseaus und der Geniebewegung: nach Weimar, Dessau, über Königsberg nach Riga und St. Petersburg; verbrachte vier Nächte auf Hamanns Sopha im April 1777 (vgl. den Bericht an Herder <intlink letter="500" page="347" line="10" linktext="true" />; später in demselben Jahr wurde er Bauer in der Schweiz und 1781 Arzt in der Brüdergemeinde in Schlesien, vgl. <link ref="ehrmann" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz40180.html#ndbcontent">Menges, Franz: Kaufmann, Christoph, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;347–349</wwwlink>.</eintrag>
+<subsection id="kaufmann-allerley" type="neuzeit" >
+<lemma>Kaufmann (mit <link ref="ehrmann" linktext="false">Ehrmann</link>), <titel>Allerley</titel></lemma>
+<eintrag>
+<titel>Allerley gesammelt aus Reden und Handschriften großer und kleiner Männer. Herausgegeben von Einem Reisenden, E. U. K. Erstes Bändchen</titel> (Frankfurt, Leipzig 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11712615-5">Stabi Bamberg: JH.Misc.o.1</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="kaufmann-e" type="neuzeit">
@@ -14280,6 +14295,10 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>1748–1813. Sekretär, Factotum und Freund von <link ref="jacobi" linktext="true" />; später bayrischer Staatsmann, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz78180.html#adbcontent">Heigel, Karl Theodor von: Schenk, Heinrich Ritter von, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;47–49</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="schenk-jp" type="neuzeit">
+<lemma>J. Philipp Schenck</lemma>
+<eintrag>Gastwirt von „Bey Schenck“ in der Königsberger Kehrwiedergasse (Gasthaus 1. Klasse), vgl. <link ref="baczko" linktext="false" />Baczko: <titel>Versuch einer Geschichte und Beschreibung der Stadt Königsberg</titel>, VII,&#x202F;583.</eintrag>
+</kommentar>
 
 <kommentar id="schieferdecker" type="neuzeit">
 <lemma>Johann David Schieferdecker</lemma>
@@ -16957,7 +16976,7 @@ W
 
 <kommentar id="walch" type="neuzeit">
 <lemma>Christian Wilhelm Franz Walch</lemma>
-<eintrag>1726–1784). Evang. Theologe, 1757 Prof. der Theologie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz34685.html#adbcontent">Tschackert, Paul: Walch, Christian Wilhelm Franz, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;646&#x2013;650</wwwlink>.</eintrag>
+<eintrag>1726–1784. Evang. Theologe, 1757 Professor der Theologie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz34685.html#adbcontent">Tschackert, Paul: Walch, Christian Wilhelm Franz, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;646&#x2013;650</wwwlink>.</eintrag>
 <subsection id="walch-bibliothek" type="neuzeit" sort="10">
 <lemma>Walch (Hg.) <titel>Philologische Bibliothek</titel></lemma>
 <eintrag>
@@ -16965,6 +16984,10 @@ W
 </subsection>
 </kommentar>
 
+<kommentar id="wannowski" type="neuzeit">
+<lemma>Stephan Wannowski</lemma>
+<eintrag>1749–1812. Rektor der reformierten Burg-Schule in Königsberg, auch gut bekannt mit <link ref="kant" linktext="true" />, siehe <wwwlink address="https://ncatlab.org/nlab/show/Stephan+Wannowski">nLab</wwwlink>.</eintrag>
+</kommentar>
 
 <kommentar id="warburton" type="neuzeit">
 <lemma>William Warburton</lemma>

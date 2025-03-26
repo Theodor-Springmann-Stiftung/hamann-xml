@@ -40917,7 +40917,7 @@ Brief Nr. 348
 </marginal>
 
 <marginal letter="348" page="407" line="18" sort="2">
-<bzg>sedentem in telonio</bzg> dt. am Zoll sitzend. vgl. u.a. <link ref="nt-mt" subref="nt-mt9" linktext="false">Mt 9,9</link>; bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
+<bzg>sedentem in telonio</bzg> dt. am Zoll sitzend, vgl. u.a. <link ref="nt-mt" subref="nt-mt9" linktext="false">Mt 9,9</link>; bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />
 </marginal>
 
 <marginal letter="348" page="407" line="24" sort="1">
@@ -61606,7 +61606,7 @@ Brief Nr. 480
 </marginal>
 
 <marginal letter="480" page="291" line="30" >
-<bzg>Diogenes Laterne</bzg> <link ref="" subref="" linktext="true" /> ging am hellichten Tag mit einer Laterne umher und sagte, er suche einen Menschen, <link ref="diogenes" subref="diogenes-opera" linktext="true" />, VI,2,41.
+<bzg>Diogenes Laterne</bzg> <link ref="diogenes-s" linktext="true" /> ging am hellichten Tag mit einer Laterne umher und sagte, er suche einen Menschen, <link ref="diogenes" subref="diogenes-opera" linktext="true" />, VI,2,41.
 </marginal>
 
 <marginal letter="480" page="292" line="1" >
@@ -62332,6 +62332,10 @@ Brief Nr. 484
 
 <marginal letter="484" page="304" line="8" >
 <bzg>Adm.</bzg> <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>
+</marginal>
+
+<marginal letter="484" page="304" line="24" >
+<bzg>kaum erwarten 4500 fl. zu bekommen</bzg> zum tatsächlichen Verkauf des Hauses am alten Graben vgl. <intlink letter="500" page="346" line="14" linktext="true" />
 </marginal>
 
 <marginal letter="484" page="304" line="28" >
@@ -63527,6 +63531,10 @@ Brief Nr. 499
 <bzg>foro fori</bzg> öffentlich vor Gericht 
 </marginal>
 
+<marginal letter="499" page="342" line="28" >
+<bzg>Loge</bzg> Hamanns Arbeitsraum am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Licent</link>, vgl. <intlink letter="484" page="306" line="18" linktext="true" />; wohl leicht ironisch-abfällige Bezeichnung (vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Loge: „eine Hütte, ein kleiner mit Brettern verschlagener Raum, ein Hundestall, eine Schiffskammer etc. etc. heißt“), ohne Bezug auf Freimaurer- oder Theaterlogen.
+</marginal>
+
 <marginal letter="499" page="343" line="2" >
 <bzg>9 u 10ten Geboth</bzg> <link ref="at-mo2" subref="at-mo2-20" linktext="false">2&#x202F;Mo 20,15f.</link>
 </marginal>
@@ -63595,7 +63603,7 @@ Brief Nr. 499
 Brief Nr. 500
 
 <marginal letter="500" page="344" line="30" sort="1" >
-<bzg>Da hängen Sie&#x202F;…</bzg> Gemeint sind Porträts seiner Freunde in Hamanns Schlafzimmer (hier Abzüge von Kupferstichen), wie auch sein eigenes Porträt bei vielen Freunden hing. Hamann beschreibt seine neue Wohnung am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Königsberger Licent</link>.
+<bzg>Da hängen Sie&#x202F;…</bzg> Gemeint sind Porträts seiner Freunde in Hamanns Schlafzimmer (hier Abzüge von Kupferstichen, Herders hat Hamann von Kaufmann, <intlink letter="500" page="347" line="22" linktext="false">s.u.</intlink>), wie auch sein eigenes Porträt bei vielen Freunden hing. Hamann beschreibt seine neue Wohnung am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Königsberger Licent</link>.
 </marginal>
 
 <marginal letter="500" page="344" line="30" sort="2" >
@@ -63674,7 +63682,185 @@ Brief Nr. 500
 <bzg>herrl. Aussicht</bzg> zu der Briefpassage und den Königsberger Lokalitäten vgl. <link ref="bab-g-2024" linktext="false">Babelotzky: Lebens- und Ereignisorte Johann Georg Hamanns in Königsberg</link>, S.&#x202F;32–34
 </marginal>
 
+<marginal letter="500" page="346" line="5" sort="1" >
+<bzg>Hofr. Hoyers</bzg> <link ref="hoyer-d" linktext="true" />
+</marginal>
 
+<marginal letter="500" page="346" line="5" sort="2" >
+<bzg>Tochter</bzg> <link ref="blom-w" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="346" line="5" sort="3" >
+<bzg>Vorweser</bzg> <link ref="blom-wy" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="346" line="9" sort="1" >
+<bzg>Director</bzg> <link ref="stockmar" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="346" line="9" sort="2" >
+<bzg>de Marvilliers</bzg> <link ref="marvilliers" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="346" line="11" >
+<bzg>med. Martii</bzg> Mitte März, <intlink letter="484" page="298" line="29" linktext="false">HKB 484</intlink>
+</marginal>
+
+<marginal letter="500" page="346" line="13" >
+<bzg>Pathen</bzg> <link ref="herder-a" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="346" line="14" >
+<bzg>alt Haus</bzg> das Haus am alten Graben
+</marginal>
+
+<marginal letter="500" page="346" line="18" sort="1" >
+<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />, vgl. <intlink letter="491a" page="326" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="346" line="18" sort="2" >
+<bzg>dazu Glück gewünscht</bzg> Brief nicht überliefert
+</marginal>
+
+<marginal letter="500" page="346" line="20" >
+<bzg>Capell Mstr</bzg> <link ref="reichardt-jf" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="346" line="22" >
+<bzg>Brutus</bzg> <link ref="herder" subref="herder-brutus" linktext="true" />, vgl. <intlink letter="499" page="343" line="34" linktext="true" /> und <intlink letter="509" page="368" line="28" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="346" line="23" >
+<bzg>Billet</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="500" page="346" line="34" >
+<bzg>Kaufmann</bzg> <link ref="kaufmann-c" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="346" line="35" >
+<bzg>Penzel&#x202F;…</bzg> <link ref="penzel" linktext="true" />; als Redakteur der <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> oblag ihm die Aufsicht über die Rubrik „Einkommende Fremde“.
+</marginal>
+
+<marginal letter="500" page="347" line="1" >
+<bzg>lange zu rathen gegeben</bzg> vgl. etwa <intlink letter="484" page="306" line="11" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="347" line="9" >
+<bzg>Zeitungen</bzg> unter „Einkommende Fremde“ in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> um den 15. März 1777 (nicht überliefert)
+</marginal>
+
+<marginal letter="500" page="347" line="10" >
+<bzg>Dom. Jubilate</bzg> wohl beim Kirchgang an Jubilate, 20. April 1777
+</marginal>
+
+<marginal letter="500" page="347" line="12" sort="1" >
+<bzg>Prof Kant</bzg> <link ref="kant" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="347" line="12" sort="2" >
+<bzg>polnisch-reformirten Prediger</bzg> <link ref="wannowski" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="347" line="14" >
+<bzg>einzigen Gevattern im Heil. Römischen Reich</bzg> Herder und <link ref="claudius" linktext="true" />, von denen Kaufmann an Hamann empfohlen wurde, vgl. <intlink letter="479" page="288" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="347" line="15" >
+<bzg>Johann Caspar</bzg> <link ref="lavater" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="500" page="347" line="21" >
+<bzg>Loge</bzg> Hamanns Arbeitsraum am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Licent</link>, vgl. <intlink letter="484" page="306" line="18" linktext="true" />; wohl leicht ironisch-abfällige Bezeichnung (vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Loge: „eine Hütte, ein kleiner mit Brettern verschlagener Raum, ein Hundestall, eine Schiffskammer etc. etc. heißt“), ohne Bezug auf Freimaurer- oder Theaterlogen.
+</marginal>
+
+<marginal letter="500" page="347" line="22" >
+<bzg>klein billet doux Ihren Kupferstich</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="500" page="347" line="23" >
+<bzg>Allerley</bzg> <link ref="kaufmann-c" subref="kaufmann-allerley" linktext="true" />; vgl. das verkürzte Zitat S.&#x202F;144–147 aus <link ref="hamann" subref="hamann-zweifel" linktext="true" />, N&#x202F;III,192,5–27 und 193,1–8
+</marginal>
+
+<marginal letter="500" page="347" line="26" >
+<bzg>Goldwaßer</bzg> vgl. <wwwlink address="https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_2_2680">Adelung, Bd.&#x202F;2, Sp.&#x202F;751, s.v. Goldwasser</wwwlink>: „ein abgezogener Branntwein, in welchem geschlagene Goldblättchen schwimmen; dergleichen vornehmlich in Danzig verfertiget wird.“
+</marginal>
+
+<marginal letter="500" page="347" line="27" >
+<bzg>à la fortune du pot</bzg> dt. was der Topf hergab; essen, was die Kelle hergibt
+</marginal>
+
+<marginal letter="500" page="347" line="32" >
+<bzg>Sopha</bzg> vgl. <intlink letter="498" page="337" line="26" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="347" line="34" >
+<bzg>Krause</bzg> <link ref="kraus" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="347" line="35" >
+<bzg>Kayserlingk</bzg> <link ref="keyserling-h" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="348" line="1" >
+<bzg>Penzels</bzg> <link ref="penzel" linktext="true" />
+</marginal>	
+
+<marginal letter="500" page="348" line="3" >
+<bzg>sedentem in telonio</bzg> dt. am Zoll sitzend, vgl. u.a. <link ref="nt-mt" subref="nt-mt9" linktext="false">Mt 9,9</link>
+</marginal>
+
+<marginal letter="500" page="348" line="4" >
+<bzg>Director</bzg> <link ref="stockmar" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="348" line="7" sort="1" >
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="348" line="7" sort="2" >
+<bzg>Trutenau</bzg> zu <link ref="kanter" linktext="true" /> in <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink> (15 km nördlich von Königsberg)
+</marginal>
+
+<marginal letter="500" page="348" line="8" >
+<bzg>Dom. Cantate</bzg> Domini Cantate, 27. April 1777
+</marginal>
+
+<marginal letter="500" page="348" line="10" >
+<bzg>Schenck</bzg> <link ref="schenk-jp" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="348" line="17" >
+<bzg>Alpenähnlich</bzg> <link ref="kaufmann-c" linktext="true" /> war Schweizer.
+</marginal>
+
+<marginal letter="500" page="348" line="20" >
+<bzg>monstrum pulcherrimum&#x202F;…</bzg> dt. sehr günstiges Omen, <link ref="florus" subref="florus-epitoma" linktext="true" />, 1,7,9
+</marginal>
+
+<marginal letter="500" page="348" line="22" sort="1" >
+<bzg>Brief von ihm aus Riga</bzg> <intlink letter="498" page="337" line="20" linktext="false">HKB 498</intlink>
+</marginal>
+
+<marginal letter="500" page="348" line="22" sort="2" >
+<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="498" page="339" line="2" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="348" line="23" >
+<bzg>Er spielt die Rolle&#x202F;…</bzg> vgl. <intlink letter="479" page="288" line="13" linktext="true" />
+</marginal>
+
+<marginal letter="500" page="348" line="30" >
+<bzg>magischen Laterne</bzg> mehrdeutig als laterna magica, Diogenes’ Laterne und die Durchleuchtung des Charakters durch Hamann, den Magus
+</marginal>
+
+<marginal letter="500" page="348" line="31" sort="1" >
+<bzg>nach Menschen sucht</bzg> <link ref="diogenes-s" linktext="true" /> ging am hellichten Tag mit einer Laterne umher und sagte, er suche einen Menschen, <link ref="diogenes" subref="diogenes-opera" linktext="true" />, VI,2,41.
+</marginal>
+
+<marginal letter="500" page="348" line="33" >
+<bzg>2 meiner Freunde</bzg> wohl <link ref="penzel" linktext="true" /> und <link ref="kreutzfeld" linktext="true" />
+</marginal>
 
 
 Brief Nr. 521
