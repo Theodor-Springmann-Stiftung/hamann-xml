@@ -162,8 +162,8 @@
 				komm="general-akzise-und-zoll-direktion" />
 			<personDef index="69" name="Witwe Blom" nachname="Blom" komm="blom-w" />
 			<personDef index="70" name="" />
-			<personDef index="71" name="Johann Benjamin Laubmeyer"
-				vorname="Johann Benjamin" nachname="Laubmeyer" komm="laubmeyer-jb" />
+			<personDef index="71" name="Vmtl. David Hoyer"
+				vorname="David" nachname="Hoyer" komm="hoyer-d" />
 			<personDef index="72" name="Christoph Kaufmann"
 				ref="https://d-nb.info/gnd/118776894" vorname="Christoph"
 				nachname="Kaufmann" komm="kaufmann-c" />
@@ -252,9 +252,9 @@
 				ref="https://d-nb.info/gnd/1118396340" vorname="Elisabeth Regina"
 				nachname="Hamann" komm="hamann-er" />
 			<personDef index="108"
-				name="Provinzial-Akzise- und Zoll-Direktion in Königsberg"
+				name="Provinzial-Akzise-, Zoll- und Lizent-Direktion in Königsberg"
 				org="true"
-				nachname="Provinzial-Akzise- und Zoll-Direktion in Königsberg"
+				nachname="Provinzial-Akzise-, Zoll- und Lizent-Direktion in Königsberg"
 				komm="provinzial-akzise-und-zoll-direktion" />
 			<personDef index="109" name="" />
 			<personDef index="110" name="Elisa von der Recke"
