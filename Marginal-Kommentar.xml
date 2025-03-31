@@ -12533,7 +12533,7 @@ Beilage vom <link ref="hamann-vjc" linktext="false">Vater</link>
 </marginal>
 
 <marginal letter="151" page="363" line="6">
-<bzg>Trutnau</bzg> nördlich von Königsberg, vgl. <intlink letter="155" page="386" line="23" linktext="true" />
+<bzg>Trutnau</bzg> <wwwlink address="https://www.geonames.org/868082">Trutenau</wwwlink> (15 km nördlich von Königsberg), vgl. <intlink letter="155" page="386" line="23" linktext="true" />
 </marginal>
 
 <marginal letter="151" page="363" line="7" sort="1">
@@ -12583,7 +12583,7 @@ von <link ref="lindner-gi" linktext="true" />, <intlink letter="156" page="391" 
 Brief Nr. 152
 
 <marginal letter="152" page="363" line="25">
-<bzg>Trutnau</bzg> wenige Kilometer nördlich von Königsberg
+<bzg>Trutnau</bzg> <wwwlink address="https://www.geonames.org/868082">Trutenau</wwwlink> (15 km nördlich von Königsberg)
 </marginal>
 
 <marginal letter="152" page="363" line="27">
@@ -13439,6 +13439,10 @@ Ob hier ein direktes Zitat vorliegt, ist nicht ermittelt; vll. ist aber auch auf
 
 <marginal letter="153" page="379" line="2">
 <bzg>Lügen</bzg> <link ref="hamann" subref="hamann-aesthaetica" linktext="true" />, N&#x202F;II S.&#x202F;205/14, ED S.&#x202F;188
+</marginal>
+
+<marginal letter="153" page="379" line="4">
+<bzg>Man muß nicht glauben&#x202F;…</bzg> vgl. <intlink letter="504" page="357" line="7" linktext="true" />; ein mögliches Vorbild ist <link ref="moliere" subref="moliere-tartuffe" linktext ="true" />, Akt 4, Auftritt 3: „Mon Dieu, le plus souvent, l’apparence decoit, / Il ne faut pas toûjours juger sur ce qu’on voit.“
 </marginal>
 
 <marginal letter="153" page="379" line="13">
@@ -64094,8 +64098,8 @@ Brief Nr. 504
 <bzg>Privat-Interesse</bzg> der Streit um den Garten von Hamanns neuer Dienstwohnung am Licent mit <link ref="blom-w" linktext ="true" />
 </marginal>
 
-<marginal letter="504" page="354" line="18" >
-<bzg>Gen. Adm.</bzg> <link ref="general-akzise-und-zoll-direktion" linktext ="true" />
+<marginal letter="504" page="354" line="17" >
+<bzg>vertrauten Freundes</bzg> Nicht ermittelt; der Rat ging wohl dahin, bei der <link ref="general-akzise-und-zoll-direktion" linktext ="false">Generaladministration</link> eine formale Beschwerde einzureichen.
 </marginal>
 
 <marginal letter="504" page="354" line="22" >
@@ -64120,6 +64124,150 @@ Brief Nr. 504
 
 <marginal letter="504" page="355" line="16" >
 <bzg>Partage-Tractat</bzg> Teilungsvertrag, wie etwa bei der Teilung Polens zwischen Preußen, Österreich und Russland
+</marginal>
+
+<marginal letter="504" page="355" line="26" >
+<bzg>vlt.</bzg> ultimo (Ende Mai)
+</marginal>
+
+<marginal letter="504" page="355" line="28" sort="1" >
+<bzg>Vicariat</bzg> die Stellvertreterschaft von <link ref="pynnow" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="355" line="28" sort="2" >
+<bzg>schlechten Product</bzg> niedrige Zolleinkünfte
+</marginal>
+
+<marginal letter="504" page="355" line="29" >
+<bzg>sub tutela</bzg> unter der Obhut
+</marginal>
+
+<marginal letter="504" page="355" line="37" >
+<bzg>Direction</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext ="true" />, vgl. <intlink letter="499" page="342" line="24" linktext="true" />
+</marginal>
+
+<marginal letter="504" page="356" line="5" >
+<bzg>General-Inspector</bzg> <link ref="marvilliers" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="356" line="15" >
+<bzg>erste Licent-Inspector</bzg> <link ref="valtier" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="356" line="17" >
+<bzg>Magnier</bzg> <link ref="magnier" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="356" line="19" sort="1" >
+<bzg>dritte und zeitige</bzg> <link ref="marvilliers" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="356" line="19" sort="2" >
+<bzg>per fas et nefas</bzg> dt. mit erlaubten und unerlaubten Mitteln
+</marginal>
+
+<marginal letter="504" page="356" line="21" >
+<bzg>Blomschen Raupen</bzg> <intlink letter="504" page="354" line="27" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="504" page="356" line="31" >
+<bzg>postes de confiance</bzg> dt. Vertrauensposten
+</marginal>
+
+<marginal letter="504" page="356" line="35" >
+<bzg>Requete</bzg> Bittschrift
+</marginal>
+
+<marginal letter="504" page="357" line="1" >
+<bzg>Faht uns&#x202F;…</bzg> <link ref="at-hld" subref="at-hld2" linktext="false">Hld 2,15</link>
+</marginal>
+
+<marginal letter="504" page="357" line="5" >
+<bzg>Shakespear</bzg> <link ref="shakespeare" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="357" line="7" >
+<bzg>Man muß nicht glauben&#x202F;…</bzg> vgl. <intlink letter="153" page="379" line="4" linktext="true" />; ein mögliches Vorbild ist <link ref="moliere" subref="moliere-tartuffe" linktext ="true" />, Akt 4, Auftritt 3: „Mon Dieu, le plus souvent, l’apparence decoit, / Il ne faut pas toûjours juger sur ce qu’on voit.“
+</marginal>
+
+<marginal letter="504" page="357" line="9" sort="1" >
+<bzg>Droits du Roi</bzg> dt. Rechte des Königs
+</marginal>
+
+<marginal letter="504" page="357" line="9" sort="2" >
+<bzg>Moses Hörner</bzg> Nach <link ref="at-mo2" subref="at-mo2-34" linktext="false">2 Mo 34,29f.</link> und den bekannten Darstellungen von Moses mit Hörnern, die auf einen Übersetzungsfehler der Vulgata zurückgehen (vgl. zu <intlink letter="203" page="71" line="19" linktext="true" />); die Rechte des Königs an den Zinsgeldern werden also als fehlerhafte Tradition angesehen.
+</marginal>
+
+<marginal letter="504" page="357" line="10" >
+<bzg>Chicane der Zaunkönige</bzg> In der Fabel vom Zaunkönig und dem Adler gewinnt der Zaunkönig durch eine List den Wettstreit der Vögel um die Königsherrschaft, indem er sich im Gefieder des Adlers versteckt und so, als dieser ermüdete, noch ein Stück höher fliegen konnte. Die Fabel wird <link ref="asop" linktext="false">Äsop</link> zugeschrieben und ist u.a. von Plutarch in seinen <titel>Praecepta gerendae rei publicae</titel>, 12 (<link ref="plutarch" subref="plut-mor" linktext="true" /> 806e–f), überliefert.
+</marginal>
+
+<marginal letter="504" page="357" line="14" sort="1" >
+<bzg>Citronen</bzg> vgl. <intlink letter="501" page="441" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="504" page="357" line="14" sort="2" >
+<bzg>verstutzen</bzg> Vgl. <wwwlink address="https://lexika.digitale-sammlungen.de/adelung/lemma/bsb00009132_2_2_2680">Adelung, Bd.&#x202F;4, Sp.&#x202F;1155f., s.v. Verstutzen</wwwlink>: „durch Abnehmung am Ende gleichsam zu einem Stutz oder kurzen Dinge machen“; gemeint ist hier wohl, Zitronen zollfrei für eine Gegenleistung durchzulassen.
+</marginal> 
+
+<marginal letter="504" page="357" line="22" >
+<bzg>Αρχιτελωνης</bzg> Oberster der Zöllner (Zachäus), <link ref="nt-lk" subref="nt-lk19" linktext="false">Lk 19,2</link>
+</marginal>
+
+<marginal letter="504" page="357" line="24" >
+<bzg>Storchsche Wäldchen</bzg> nach <link ref="storch" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="357" line="33" >
+<bzg>Ein jegliches&#x202F;…</bzg> <link ref="at-pr" subref="at-pr3" linktext="false">Pred 3,1</link>
+</marginal>
+
+<marginal letter="504" page="357" line="35" >
+<bzg>Claudius u sein Bauermädchen und mein Pathchen</bzg> <link ref="claudius" linktext ="true" />, <link ref="claudius-r" linktext ="true" /> und <link ref="claudius-ch" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="357" line="36" >
+<bzg>Klopstock</bzg> <link ref="klopstock" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="357" line="37" >
+<bzg>Bode und Passavant</bzg> <link ref="bode-jjc" linktext="true" /> und <link ref="passavant" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="358" line="1" sort="1" >
+<bzg>Hälfte&#x202F;…Engel</bzg> <link ref="reichardt-jul" linktext ="true" /> und <link ref="reichardt-w" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="358" line="1" sort="2" >
+<bzg>2 Tim II. 7.</bzg> <link ref="nt-tim2" subref="nt-tim2-2" linktext="false">2 Tim 2,7</link>
+</marginal>
+
+<marginal letter="504" page="358" line="1" sort="2" >
+<bzg>pro aris et focis</bzg> Für Altäre und Herde, Motto ähnlich wie ‚Für Vaterland und Familie‘
+</marginal>
+
+<marginal letter="504" page="358" line="4" >
+<bzg>Kreutzf.</bzg> <link ref="kreutzfeld" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="358" line="13" >
+<bzg>Direction</bzg> <link ref="provinzial-akzise-und-zoll-direktion" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="358" line="16" >
+<bzg>General Inspector</bzg> <link ref="marvilliers" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="358" line="18" >
+<bzg>Vicario</bzg> <link ref="pynnow" linktext ="true" />
+</marginal>
+
+<marginal letter="504" page="358" line="23" >
+<bzg>Judenwirthschaft</bzg> <intlink letter="504" page="355" line="33" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="504" page="358" line="26" >
+<bzg>Sapienti sat. Vale et faue! Dixi!</bzg> dt. für den Verständigen genug! Lebe wohl und sei mir gewogen! Ich habe gesprochen!
 </marginal>
 
 

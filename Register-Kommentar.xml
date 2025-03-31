@@ -11519,28 +11519,34 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <kommentar id="moliere" type="neuzeit">
 <lemma>Jean-Baptiste Poquelin Molière</lemma>
 <eintrag>1622–1673. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;29, 1821), S.&#x202F;301–315.</eintrag>
-<subsection id="moliere-maladeimaginaire" type="neuzeit" sort="10">
-<lemma>Molière, <titel>Le Malade imaginaire</titel></lemma>
-<eintrag>
-<titel>Le Malade imaginaire, Comédie en trois actes en prose</titel> (1673). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;123/355: „Les Oeuvres de Moliere, Tom. I–VII. Par. 674. 75“]. Digitalisat (Ausgabe 1774): <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10103517-7">BSB München:  P.o.gall. 2648 g</wwwlink>.
-</eintrag>
-</subsection>
-<subsection id="moliere-bourgeois" type="neuzeit" sort="20">
-<lemma>Molière, <titel>Le bourgeois gentilhomme</titel></lemma>
-<eintrag>
-<titel>Le bourgeois gentilhomme, Comedie-balet</titel> (1770). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;123/355: „Les Oeuvres de Moliere, Tom. I–VII. Par. 674. 75“]. Digitalisat (Ausgabe 1680): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094693-2">BSB München:  P.o.gall. 1481#Beibd.3</wwwlink>.
-</eintrag>
-</subsection>
-<subsection id="moliere-misanthrope" type="neuzeit" sort="30">
+<subsection id="moliere-misanthrope" type="neuzeit" sort="10">
 <lemma>Molière, <titel>Le Misanthrope</titel></lemma>
 <eintrag>
 <titel>Le Misanthrope ou l’Atrabilaire amoureux, Comédie</titel> (1666). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;123/355: „Les Oeuvres de Moliere, Tom. I–VII. Par. 674. 75“]. Digitalisat (Ausgabe 1790): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10103701-0">BSB München:  P.o.gall. P.o.gall. 2655 a</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="moliere-tartuffe" type="neuzeit" sort="20">
+<lemma>Molière, <titel>Tartuffe</titel></lemma>
+<eintrag>
+<titel>L’Imposteur ou Le Tartuffe, Comedie</titel> (1669). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;123/355: „Les Oeuvres de Moliere, Tom. I–VII. Par. 674. 75“]. Digitalisat (Ausgabe 1774): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094691-1">BSB München: P.o.gall. 1481#Beibd.1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="moliere-bourgeois" type="neuzeit" sort="30">
+<lemma>Molière, <titel>Le bourgeois gentilhomme</titel></lemma>
+<eintrag>
+<titel>Le bourgeois gentilhomme, Comedie-balet</titel> (1670). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;123/355: „Les Oeuvres de Moliere, Tom. I–VII. Par. 674. 75“]. Digitalisat (Ausgabe 1680): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094693-2">BSB München:  P.o.gall. 1481#Beibd.3</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="moliere-scapin" type="neuzeit" sort="40">
 <lemma>Molière, <titel>Les fourberies de Scapin</titel></lemma>
 <eintrag>
 <titel>Les fourberies de Scapin, Comédie</titel> (1671). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;123/355: „Les Oeuvres de Moliere, Tom. I–VII. Par. 674. 75“]. Digitalisat (Ausgabe 1750): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10103707-2">BSB München:  P.o.gall. P.o.gall. 2655 g</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="moliere-maladeimaginaire" type="neuzeit" sort="50">
+<lemma>Molière, <titel>Le Malade imaginaire</titel></lemma>
+<eintrag>
+<titel>Le Malade imaginaire, Comédie en trois actes en prose</titel> (1673). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;123/355: „Les Oeuvres de Moliere, Tom. I–VII. Par. 674. 75“]. Digitalisat (Ausgabe 1774): <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10103517-7">BSB München:  P.o.gall. 2648 g</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -12424,6 +12430,11 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 <kommentar id="passionei" type="neuzeit">
 <lemma>Domenico Silvio Passionei</lemma>
 <eintrag>1682–1761. Kardinal der römischen Kurie.</eintrag>
+</kommentar>
+
+<kommentar id="passavant" type="neuzeit">
+<lemma>Jakob Ludwig Passavant</lemma>
+<eintrag>1751–1827. Reformierter Theologe im Lavaterkreis, Prediger in Frankfurt und Hannoversch Münden siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116052147.html#adbcontent">Dechent, Hermann: Passavant, Jakob Ludwig, in: <titel>ADB</titel>&#x202F; 25 (1887), S.&#x202F;196–198.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="patz" type="neuzeit">
@@ -16522,6 +16533,11 @@ V
 <eintrag><titel>Valerii Maximi Dictorum factorumq. memorabilium lib. IX cum I. Lipsii notis et indice vberrimo</titel> (Leyden 1640) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;16/244: „Valerius Maximus, ex ed. Lipsii, Lugd. 640“].<line type="break" />
 <titel>Valerii Maximi Dictorvm Factorvmqve memorabilium Libri IX ex Museo Ioh. Isaci Pontani</titel> (Amsterdam: Janson 1639) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;16/258: „Valerius Maximus, Amst. 639“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="valtier" type="neuzeit">
+<lemma>Jacques Charles Frédéric Valtier de Valmartin</lemma>
+<eintrag>1734–1800. Licent-Inspektor und Vorgänger <link ref="marvilliers" linktext ="false">Marvilliers</link>; begünstigt durch <link ref="magnier" linktext ="false">Magnier</link>, später Provincial-Controlleur in Westpreußen.</eintrag>
 </kommentar>
 
 <kommentar id="vechner" type="neuzeit">
