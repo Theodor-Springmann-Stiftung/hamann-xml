@@ -3310,6 +3310,12 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 <eintrag>1647–1733. Marquise de Lambert. Schirmherrin eines berühmten Pariser Salons, Schriftstellerin. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;23, 1819), S.&#x202F;262f.</eintrag>
 </kommentar>
 
+<kommentar id="courtan-f" type="neuzeit">
+<lemma>Fritz Courtan</lemma>
+<eintrag>Sohn von <link ref="courtan-sm" linktext="true" /> und <link ref="courtan-pj" linktext="true" />.
+</eintrag>
+</kommentar>
+
 <kommentar id="courtan-pj" type="neuzeit">
 <lemma>Pierre Jérémie Courtan</lemma>
 <eintrag>Bruder von <link ref="lindner-m" linktext="true" />, Ehemann von <link ref="courtan-sm" linktext="true" />.
@@ -5354,6 +5360,12 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 </eintrag>
 </kommentar>
 
+<kommentar id="stgermain" type="neuzeit">
+<lemma>Graf von Saint Germain</lemma>
+<eintrag>Um 1710 bis vmtl. 1784. Abenteurer und Alchemist, um den sich viele okkulte Legenden ranken.
+</eintrag>
+</kommentar>
+
 <kommentar id="gerstenberg" type="neuzeit">
 <lemma>Heinrich Wilhelm v. Gerstenberg</lemma>
 <eintrag>1737–1823. Ab 1765 in Kopenhagen, 1775-1783 dänischer Konsul in Lübeck; Lyriker, Dramatiker und Literaturkritiker in <link ref="hamb-neuezeitungen" linktext="true" />. <wwwlink address="https://www.deutsche-biographie.de/sfz20743.html#adbcontent">Redlich: Gerstenberg, Heinrich Wilhelm von, in: <titel>ADB</titel>&#x202F;9 (1879), S.&#x202F;60–66</wwwlink>.</eintrag>
@@ -6095,10 +6107,22 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 </subsection>
 </kommentar>
 
+
+
 <kommentar id="hahn-jb" type="neuzeit">
 <lemma>Johann Bernhard Hahn</lemma>
 <eintrag>1725–1794. Prof. der Beredsamkeit und Geschichte, Orientalist.
 </eintrag>
+</kommentar>
+
+<kommentar id="hahn-pm" type="neuzeit">
+<lemma>Philipp Matthäus Hahn</lemma>
+<eintrag>1739–1790. Pfarrer in Württemberg, Erfinder von Rechenmaschinen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118544861.html#ndbcontent">Freytag Löringhoff, Bruno Baron von: Hahn, Philipp Matthäus, in: <titel>NDB</titel>&#x202F;7 (1966), S.&#x202F;496f.</wwwlink></eintrag>
+<subsection id="hahn-sammlung" type="neuzeit" sort="10">
+<lemma>Hahn, <titel>Sammlung von Betrachtungen</titel></lemma>
+<eintrag>
+<titel>Sammlung von Betrachtungen über alle Sonn- Fest- und Feyertägliche Evangelien durch das ganze Jahr nebst Sechszehn Passions-Predigten für Freunde der Wahrheit</titel> (Frankfurt, Leipzig 1774). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:21-dt-123103">UB Tübingen</wwwlink>.
+</subsection>
 </kommentar>
 
 <kommentar id="haller" type="neuzeit">
@@ -17632,7 +17656,7 @@ Digitalisat 19. Stück (1762): <wwwlink address="https://kpbc.umk.pl/dlibra/publ
 
 <kommentar id="woltersdorf" type="neuzeit">
 <lemma>Gerhard Ludwig Woltersdorf</lemma>
-<eintrag>Gest. 1759. September bis Oktober 1759 zus. mit <link ref="hartung-h" linktext="true" /> Geschäftsführer der Hartungschen Buchhandlung, nach dem Tod von <link ref="hartung-mc" linktext="true" />.</eintrag>
+<eintrag>Gest. 1759. September bis Oktober 1759 zusammen mit <link ref="hartung-h" linktext="true" /> Geschäftsführer der Hartungschen Buchhandlung, nach dem Tod von <link ref="hartung-mc" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="wood" type="neuzeit">
