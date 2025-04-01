@@ -4257,7 +4257,7 @@ E
 
 <kommentar id="ehrmann" type="neuzeit">
 <lemma>Johann Christian Ehrmann</lemma>
-<eintrag>1749–1827. Begleiter und Schreiber von <link ref="kaufmann-c" linktext="true" />.</eintrag>
+<eintrag>1749–1827. Arzt, später auch Satiriker; Begleiter und Schreiber von <link ref="kaufmann-c" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz23255.html#adbcontent">Roediger, Emil: Ehrmann, Johann Christian, in: <titel>ADB</titel>&#x202F;48 (1904), S.&#x202F;292</wwwlink>..</eintrag>
 </kommentar>
 
 <kommentar id="eliberitanus" type="neuzeit">
@@ -4277,7 +4277,7 @@ E
 
 <kommentar id="elsner" type="neuzeit">
 <lemma>Jacob Elsner</lemma>
-<eintrag>1692–1750. Reform. Theologe, 1715 Konrektor an der reform. Schule in Königsberg, 1720 Prof. der Theologie in Lingen/Westfalen, 1730 Prof. am Joachimsthalschen Gymnasium in Berlin, Mitglied der Akademie der Wissenschaften; siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd130449903.html#adbcontent">Erbkam, Wilhelm Heinrich: Elsner, Jakob, in: <titel>ADB</titel>&#x202F;6 (1877), S.&#x202F;68f</wwwlink>.
+<eintrag>1692–1750. Reform. Theologe, 1715 Konrektor an der reform. Schule in Königsberg, 1720 Prof. der Theologie in Lingen/Westfalen, 1730 Prof. am Joachimsthalschen Gymnasium in Berlin, Mitglied der Akademie der Wissenschaften; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd130449903.html#adbcontent">Erbkam, Wilhelm Heinrich: Elsner, Jakob, in: <titel>ADB</titel>&#x202F;6 (1877), S.&#x202F;68f</wwwlink>.
 </eintrag>
 <subsection id="elsner-nt" type="neuzeit" sort="10">
 <lemma>Elsner, <titel>Observationes Sacrae</titel></lemma>
@@ -8718,6 +8718,11 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <titel>Allerley gesammelt aus Reden und Handschriften großer und kleiner Männer. Herausgegeben von Einem Reisenden, E. U. K. Erstes Bändchen</titel> (Frankfurt, Leipzig 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11712615-5">Stabi Bamberg: JH.Misc.o.1</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="kaufmann-ca" type="neuzeit">
+<lemma>Christof Adrian Kaufmann</lemma>
+<eintrag>1707–1785. Statthalter in Winterthur, Vater von <link ref="kaufmann-c" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="kaufmann-e" type="neuzeit">
