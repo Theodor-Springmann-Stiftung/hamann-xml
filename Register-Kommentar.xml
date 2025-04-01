@@ -1831,7 +1831,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <subsection id="boie-goettingermusenalm1775" type="neuzeit" sort="10">
 <lemma><titel>Göttinger Musenalmanach 1775</titel></lemma>
 <eintrag>
-<titel>Poetische Blumenlese Auf das Jahr 1775.</titel>  (Göttingen, Gotha: Dieterich). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10859211-5">BSB München: 1305-1775</wwwlink>.
+<titel>Poetische Blumenlese Auf das Jahr 1775.</titel> (Göttingen, Gotha: Dieterich). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10859211-5">BSB München: 1305-1775</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="boie-museum" type="neuzeit" sort="20">
@@ -3561,7 +3561,12 @@ Siehe auch Walther Ziesemer (Hg.), <titel>Simon Dach Gedichte</titel>, Bd.&#x202
 
 <kommentar id="dalberg" type="neuzeit">
 <lemma>Carl Theodor von Dalberg</lemma>
-<eintrag>1744–1817. Von 1772 bis 1787 Statthalter der kurmainzer Exklave in Erfurt, später u.a. Erzbischof und Kurfürst von Mainz.</eintrag>
+<eintrag>1744–1817. Von 1772 bis 1787 Statthalter der kurmainzer Exklave in Erfurt, später u.a. Erzbischof und Kurfürst von Mainz, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118720961.html#ndbcontent">Lenhart, Ludwig: Dalberg, Carl Theodor Freiherr von, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;489f.</wwwlink>.</eintrag>
+<subsection id="dalberg-universum" type="neuzeit" sort="10">
+<lemma>Dalberg, <titel>Betrachtungen über das Universum</titel></lemma>
+<eintrag><titel>Betrachtungen über das Universum</titel> (Erfurt: Weber 1777). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/10499298">ÖNB Wien</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="dale" type="neuzeit">
@@ -4232,7 +4237,19 @@ E
 <lemma>Justus van Effen</lemma>
 <eintrag>1684–1735. Niederländ. Schriftsteller, der aber vornehmlich auf Französisch publizierte und Addisons <link ref="addison" subref="addison-spectator" linktext="false"><titel>Spectator</titel></link> nachahmte. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118812858.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
- 
+
+<kommentar id="ehlers" type="neuzeit">
+<lemma>Martin Ehlers</lemma>
+<eintrag>1732–1800. Professor der Philosophie in Kiel, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116379375.html#ndbcontent">Weinhandl, Ferdinand: Ehlers, Martin, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;347f</wwwlink>.</eintrag>
+<subsection id="ehlers-theorie" type="neuzeit">
+<lemma>Ehlers, <titel>Schulsammlung</titel></lemma>
+<eintrag>
+<titel>Sammlung kleiner das Schul- und Erziehungswesen betreffender Schriften von Martin Ehlers
+</titel> (Flensburg: Korten 1776). Digitalisat: <wwwlink address="http://digital.staatsbibliothek-berlin.de/dms/werkansicht/?PPN=PPN848721012">Stabi Berlin: Nc 7585</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
  <kommentar id="ehrenreich" type="neuzeit">
 <lemma>Johann Eberhard Ludwig Ehrenreich</lemma>
 <eintrag>1723–1803. Chemiker, 1747–1753 Hofzahnarzt in Stockholm, dann Porzellanfabrikant, ab 1772 in Königsberg.</eintrag>
@@ -4426,6 +4443,18 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 <lemma>Eschenbach (Hg.), <titel>Sammlung der vornehmsten Schriftsteller welche die Würklichkeit ihres eignen Körpers und der ganzen Körperwelt läugnen</titel></lemma>
 <eintrag>
 <titel>Sammlung der vornehmsten Schriftsteller welche die Würklichkeit ihres eignen Körpers und der ganzen Körperwelt läugnen. Enthaltend des Berkeleys Gespräche zwischen Hylas und Philonous und des Colliers Allgemeinen Schlüssel […]</titel> (Rostock: Roese  1756). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;101/85: „J. C. Eschenbachs Samml. der vornehmsten Schriftsteller, welche die Wirklichkeit ihres eignen Körpers und der ganzen Körperwelt leugnen, Rost. 756“ u. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;117/284: „J. C. Eschenbachs Sammlung der vornehmsten Schriftsteller, welche die Würklichkeit ihres eignen Koerpers und der ganzen Koerperwelt laeugnen, Rost. 756“]. Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043129-2">BSB München: Ph.sp. 251</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="eschenburg" type="neuzeit">
+<lemma>Johann Joachim Eschenburg</lemma>
+<eintrag>1743–1820. Literaturhistoriker und <link ref="shakespeare" linktext="false">Shakespeare</link>-Übersetzer, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118685414.html#ndbcontent">Meyen, Fritz: Eschenburg, Johann Joachim, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;642f</wwwlink>.
+</eintrag>
+<subsection id="eschenburg-shakespeare" type="neuzeit">
+<lemma>Eschenburg (Übers.), <titel>William Shakespear’s Schauspiele</titel></lemma>
+<eintrag>
+<titel>William Shakespear’s Schauspiele. Neue Ausgabe. Von Joh. Joach. Eschenburg</titel> (13 Bde., Zürich 1775–1782). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-18903">ZB Zürich: 15.231: a</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6021,7 +6050,7 @@ H
 
 <kommentar id="haefeli" type="neuzeit">
 <lemma>Johann Kaspar Häfeli</lemma>
-<eintrag>1754–1811, auch Häfelin, Hafelin. Reformierter schweiz. Theologe in Zürich, seit 1784 anhalt-dessauischer Hofkaplan in Wörlitz, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz25119.html">Wyß, Georg von: Häfelin, Johann Kaspar, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;314–316.</wwwlink></eintrag>
+<eintrag>1754–1811. Reformierter schweizer Theologe in Zürich, seit 1784 anhalt-dessauischer Hofkaplan in Wörlitz, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz25119.html">Wyß, Georg von: Häfelin, Johann Kaspar, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;314–316.</wwwlink></eintrag>
 <subsection id="haefeli-merkur" type="neuzeit" sort="10">
 <lemma>Häfeli, <titel>Antwort eines Ungenannten</titel></lemma>
 <eintrag>
@@ -6106,8 +6135,6 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 <titel>Lettres morales pour former le coeur; traduite de l’Allemand de Mr. Dusch</titel> (Königsberg: Kanter 1765).</eintrag>
 </subsection>
 </kommentar>
-
-
 
 <kommentar id="hahn-jb" type="neuzeit">
 <lemma>Johann Bernhard Hahn</lemma>
@@ -8888,19 +8915,29 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 <eintrag>1749–1827. Evangelischer Theologe, Orientalist, Hauslehrer in Bückeburg, 1775 Prorektor am Gymnasium in Lemgo, 1778 Rektor in Osnabrück; Übersetzer des <link ref="anquetil-duperron" subref="anquetil-duperron-zend" linktext="false"><titel>Zend-Avesta</titel></link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz42769.html#ndbcontent">Göbell, Walter: Kleuker, Johann Friedrich, in: <titel>NDB</titel>&#x202F;12 (1977), S.&#x202F;56f.</wwwlink></eintrag>
 <subsection id="kleuker-genius" type="neuzeit" sort="10">
 <lemma>Kleuker, <titel>Genius e scriptis antiquitatis monumentis hauriendus</titel></lemma>
-<eintrag><titel>Genius e scriptis antiquitatis monumentis hauriendus</titel>. In auspicium obeundarum prorectoris gymnasii lemgoniensis partium scrpsit Joannes Fridericus Kleuker (Lemgo: Meyer 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10961544-5">BSB München: 4 Diss. 3334,7</wwwlink>.<line type="break" /> 
+<eintrag><titel>Genius e scriptis antiquitatis monumentis hauriendus</titel>. In auspicium obeundarum prorectoris gymnasii lemgoniensis partium scrpsit Joannes Fridericus Kleuker (Lemgo: Meyer 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10961544-5">BSB München: 4 Diss. 3334,7</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="kleuker-sohn-gottes" type="neuzeit" sort="20">
 <lemma>Kleuker, <titel>Menschlicher Versuch über den Sohn Gottes und der Menschen</titel></lemma>
-<eintrag><titel>Menschlicher Versuch über den Sohn Gottes und der Menschen</titel> (Bremen: Cramer 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399809-4">BSB München: Dogm. 1053</wwwlink>.<line type="break" /> 
+<eintrag><titel>Menschlicher Versuch über den Sohn Gottes und der Menschen</titel> (Bremen: Cramer 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399809-4">BSB München: Dogm. 1053</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="kleuker-salomo" type="neuzeit" sort="30">
+<lemma>Kleuker, <titel>Salomo’s Schriften</titel></lemma>
+<eintrag><titel>Salomo’s Schriften. Erster Theil welcher den Prediger enthält von Johann Friedrich Kleuker</titel> (Leipzig: Weygand 1777). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN683143255">SUB Göttingen</wwwlink>. 
+</eintrag>
+</subsection>
+<subsection id="kleuker-beantwortungsversuch" type="neuzeit" sort="40">
+<lemma>Kleuker, <titel>Beantwortungsversuch</titel></lemma>
+<eintrag><titel>Beantwortungsversuch einer im deutschen Merkur aufgeworfenen Frage von Johann Friedrich Kleuker</titel>. In: <link ref="boie" subref="boie-museum" linktext="true" />, 1. Halbjahr 1777, S.&#x202F;223–254 und 331–346. – Zu der Frage im <link ref="teutsche-merkur" linktext="false"><title>Teutschen Merkur</title></link> vgl. zu <intlink letter="480" page="290" line="27" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
 
 <kommentar id="klingstaedt" type="neuzeit">
 <lemma>Timotheus Merzahn von Klingstädt </lemma>
-<eintrag>1710–1786. Ksl.-russ. Geheimrat in St. Petersburg.</eintrag>
+<eintrag>1710–1786. Kaiserlich-russischer Geheimrat in St. Petersburg.</eintrag>
 <subsection id="klingstaedt-samojedes" type="neuzeit" sort="10">
 <lemma>Klingstädt, <titel>Memoires sur les Samojedes el les Lappons</titel></lemma>
 <eintrag><titel>Memoires sur les Samojedes el les Lappons</titel> (Königsberg 1762). Digitalisat: <wwwlink address="https://digital.slub-dresden.de/id32424844X">SLUB Dresden: Hist.Norv.211</wwwlink>.<line type="break" /> 
@@ -14721,6 +14758,11 @@ Zweite Auflage: <titel>Lyrische, Elegische und Epische Poesien, nebst einer krit
 <eintrag>1730–1774. Zeugmachermeister in Königsberg, Schwager <link ref="kant" linktext="false">Kants</link>.</eintrag>
 </kommentar>
 
+<kommentar id="schultz-je" type="neuzeit">
+<lemma>Johann Ernst Schultz</lemma>
+<eintrag>1742–1806. 1760/67 Hofmeister bei <link ref="lilienthal-th" linktext="true" />, Nachfolger des <link ref="starck" linktext="false">Starcks</link> als Oberhofprediger und Professor der Theologie in Königsberg.</eintrag>
+</kommentar>
+
 <kommentar id="schultz-fa" type="neuzeit">
 <lemma>Franz Albert Schultz</lemma>
 <eintrag>1692–1763. Seit 1732 Prof. der Theologie in Königsberg, Direktor des Fridericianums, Dekan der Universität Königsberg zur Zeit von Hamanns Studium; in seinem Amt pietistisch-reformerisch im Sinne Preußens unter Friedrich Wilhelm I. tätig, im Konflikt mit kirchlich-konservativen Parteien in der Stadt, die einen Einfluss Preußens gering halten wollten. Siehe: <link ref="feh-j-2005" linktext="false">Fehr 2005</link>.
@@ -16518,6 +16560,18 @@ Auszüge von dessen frz. Übers. von Hamann ins Deutsche übers., siehe <link re
 </eintrag>
 </kommentar>
 
+<kommentar id="ursinus" type="neuzeit">
+<lemma>August Friedrich Ursinus</lemma>
+<eintrag>1754–1805. Jurist, 1781 Sekretär beim Generaldirektorium in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117315516.html#adbcontent">Holstein, H.: Ursinus, August Friedrich, in: <titel>ADB</titel>&#x202F;39 (1895), S.&#x202F;365</wwwlink>.
+</eintrag>
+<subsection id="ursinus-balladen" type="neuzeit">
+<lemma>Ursinus, <titel>Balladen</titel></lemma>
+<eintrag>
+<titel>Balladen und Lieder altenglischer und altschottischer Dichtart. Herausgegeben von August Friedrich Ursinus</titel> (Berlin: Himburg 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750804-0">BSB München: P.o.angl. 460</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="ussher" type="neuzeit">
 <lemma>James Ussher</lemma>
 <eintrag>1581–1656. Anglikanischer Theologe.</eintrag>
@@ -16525,7 +16579,7 @@ Auszüge von dessen frz. Übers. von Hamann ins Deutsche übers., siehe <link re
 
 <kommentar id="uz-jp" type="neuzeit">
 <lemma>Johann Peter Uz</lemma>
-<eintrag>1720–1796. Anakreont. Dichter, Jurist. <wwwlink address="https://www.deutsche-biographie.de/pnd118625756.html#adbcontent">Schmidt, Erich: Uz, Johann Peter, in: <titel>ADB</titel>&#x202F;39 (1895), S.&#x202F;443–449</wwwlink>.
+<eintrag>1720–1796. Anakreont. Dichter, Jurist, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118625756.html#adbcontent">Schmidt, Erich: Uz, Johann Peter, in: <titel>ADB</titel>&#x202F;39 (1895), S.&#x202F;443–449</wwwlink>.
 </eintrag>
 <subsection id="uz-sieg" type="neuzeit">
 <lemma>Uz, <titel>Der Sieg des Liebesgottes</titel></lemma>

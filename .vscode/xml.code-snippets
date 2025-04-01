@@ -20,8 +20,8 @@
 			"scope": "xml",
 			"prefix": "marg",
 			"body": [  
-				"<marginal index=\"${1:index}\" letter=\"${2:Brief}\" page=\"${3:Seite}\" line=\"${4:Zeile}\">",
-				"${5:Text}",
+				"<marginal letter=\"${1:Brief}\" page=\"${2:Seite}\" line=\"${3:Zeile}\">",
+				"${4:Text}",
 				"</marginal>"
 			]
 		},

@@ -64277,7 +64277,7 @@ Brief Nr. 505
 <bzg>Einlage</bzg> wohl von <link ref="herder-cd-g" linktext="true" /> an Herder, nicht überliefert
 </marginal>
 
-<marginal letter="505" page="358" line="29" >
+<marginal letter="505" page="358" line="29" sort="2" >
 <bzg>Hintz </bzg> <link ref="hinz" linktext="true" />
 </marginal>
 
@@ -64325,12 +64325,12 @@ Brief Nr. 505
 <bzg>Vicario</bzg> demnach Hamann selbst als Vertreter
 </marginal>
 
-<marginal letter="505" page="359" line="16" >
+<marginal letter="505" page="359" line="19" >
 <bzg>Hartung</bzg> <link ref="hartung-gl" linktext="true" />
 </marginal>
 
 <marginal letter="505" page="359" line="24" >
-<bzg>seel. Kirchenraths Namen</bzg> im Namen <link ref="lindnder-jg" linktext="false">Lindners</link>
+<bzg>seel. Kirchenraths Namen</bzg> im Namen <link ref="lindner-jg" linktext="false">Lindners</link>
 </marginal>
 
 <marginal letter="505" page="359" line="26" >
@@ -64386,10 +64386,148 @@ Brief Nr. 505
 </marginal>
 
 <marginal letter="505" page="360" line="4" >
-<bzg>Hahns Postille</bzg> <link ref="hahn-pm" subref="hahn-sammlung" linktext="true" />
+<bzg>Hahns Postille</bzg> <link ref="hahn-pm" subref="hahn-sammlung" linktext="true" />, vgl. <intlink letter="507a" page="366" line="34" linktext="true" />
 </marginal>
 
+<marginal letter="505" page="360" line="8" sort="1" >
+<bzg>Kleuker</bzg> <link ref="kleuker" linktext="true" />
+</marginal>
 
+<marginal letter="505" page="360" line="8" sort="2" >
+<bzg>Zend-Auesta</bzg> <link ref="anquetil-duperron" subref="anquetil-duperron-zend" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="9">
+<bzg>ersten Theil von Salomo</bzg> <link ref="kleuker" subref="kleuker-salomo" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="10">
+<bzg>Fest Trinitatis</bzg> 25. Mai 1777
+</marginal>
+
+<marginal letter="505" page="360" line="11" sort="1">
+<bzg>Kant</bzg> <link ref="kant" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="11" sort="2">
+<bzg>deutschen Musäi</bzg> <link ref="boie" subref="boie-museum" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="12" sort="1">
+<bzg>er</bzg> Kleuker, vgl. dessen <link ref="kleuker" subref="kleuker-beantwortungsversuch" linktext="false"><title>Beantwortungsversuch</title></link>
+</marginal>
+
+<marginal letter="505" page="360" line="12" sort="2">
+<bzg>Frage des Mercurs</bzg> <link ref="teutsche-merkur" linktext="false"><title>Teutscher Merkur</title></link>, vgl. zu <intlink letter="480" page="290" line="27" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="15">
+<bzg>Beantwortung im Mercur</bzg> <link ref="haefeli" subref="haefeli-merkur" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="18">
+<bzg>Brücke ohne Lehnen</bzg> Der Titel des dritten projektierten Abschnittes der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link>, der jedoch nie über die Überschrift hinaus ausgeführt wurde; die Formulierung stammt aus der <link ref="haefeli" subref="haefeli-merkur" linktext="false"><titel>Antwort eines Ungenannten</titel></link>, S.&#x202F;218: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614103?page=214,215">„Wer voraus geht, trage Sorge bey der Brücke ohne Lehnen!“</wwwlink>
+</marginal>
+
+<marginal letter="505" page="360" line="24">
+<bzg>2 fehlenden Fladen</bzg> Anspielung auf die biblischen Schaubrote, <link ref="at-mo3" subref="at-mo3-2" linktext="false">3 Mo 2,4</link> u.ö. Gemeint sind die beiden noch nicht ausgeführten Abschnitte der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link>, „Brücke ohne Lehnen“ und „Charfreitagsbuße für Capuziner“, vgl. <intlink letter="594" page="201" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="26">
+<bzg>Penzel</bzg> <link ref="penzel" linktext="true" />, nach einer Parade
+</marginal>
+
+<marginal letter="505" page="360" line="27" sort="1">
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="27" sort="2">
+<bzg>Recension der Ehlerschen Schulsamml</bzg> Rezension Kreutzfelds von <link ref="ehlers" subref="ehlers-theorie" linktext="true" />, vmtl. in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> Jg. 1777 nicht überliefert
+</marginal>
+
+<marginal letter="505" page="360" line="30">
+<bzg>Hofnung loß zu kommen</bzg> aus dem Militärdienst entlassen zu werden
+</marginal>
+
+<marginal letter="505" page="360" line="31">
+<bzg>Krause ist im Gräfl. Kayserlingschen Hause</bzg> <link ref="kraus" linktext="true" /> bei <link ref="keyserling-h" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="32">
+<bzg>Mendelssohn</bzg> <link ref="mendelssohn" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="33">
+<bzg>Memel</bzg> <wwwlink address="https://www.geonames.org/598098">heute Klaipėda</wwwlink>
+</marginal>
+
+<marginal letter="505" page="360" line="34">
+<bzg>Kaufmann&#x202F;…</bzg> <link ref="kaufmann-c" linktext="true" />, <intlink letter="505" page="360" line="1" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="505" page="360" line="36">
+<bzg>Ursinus Balladen</bzg> <link ref="ursinus" subref="ursinus-balladen" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="37">
+<bzg>Percy Reliquien der alten Poesie</bzg> <link ref="percy" subref="percy-reliques" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="361" line="1" sort="1">
+<bzg>neueste Ausgabe von Shakespeare</bzg> vmtl. die zehnbändige variorum-edition von George Steevens und Samuel Johnson (1773), vgl. <wwwlink address="https://shakedsetc.org/18th-century-editions">18th century Shakespeare-editions</wwwlink>
+</marginal>
+
+<marginal letter="505" page="361" line="1" sort="2">
+<bzg>meiner in 8</bzg> Hamann besaß  <link ref="shakespeare" subref="shakespeare-plays" linktext="false">Samuel Johnsons’ achtbändige Ausgabe von 1768</link>, vgl. <intlink letter="378" page="17" line="32" linktext="true" />.
+</marginal>
+
+<marginal letter="505" page="361" line="2">
+<bzg>Eschenburgs Uebersetzung</bzg> <link ref="eschenburg" subref="eschenburg-shakespeare" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="361" line="4">
+<bzg>kleiner Pathe</bzg> <link ref="herder-a" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="361" line="6">
+<bzg>Gevatterin</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="361" line="7">
+<bzg>aus meinem Wäldchen</bzg> vgl. <intlink letter="484" page="303" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="361" line="11">
+<bzg>Einlage</bzg> <intlink letter="505" page="358" line="29" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="505" page="361" line="12">
+<bzg>an. Ihres Freundes Gedanken über das Universum</bzg> <link ref="dalberg" subref="dalberg-universum" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="361" line="13" sort="1">
+<bzg>Hartungschen Laden</bzg> der Buchladen von <link ref="hartung-gl" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="361" line="13" sort="2">
+<bzg>Kantersche</bzg> der Buchladen von <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="361" line="14">
+<bzg>Michaelis</bzg> zur letzten Buchmesse im Herbst 1776
+</marginal>
+
+<marginal letter="505" page="361" line="15">
+<bzg>Papiermühle</bzg> Kanters derzeitiges Projekt in <link ref="kanter" linktext="true" /> in <wwwlink address="https://www.geonames.org/868082">Trutenau</wwwlink> (15 km nördlich von Königsberg)
+</marginal>
+
+<marginal letter="505" page="361" line="17">
+<bzg>Oberhofprediger Stelle</bzg> nach dem Weggang <link ref="starck" linktext="false">Starcks</link>
+</marginal>
+
+<marginal letter="505" page="361" line="21">
+<bzg>Landsmanns des Kapellmeisters</bzg> <link ref="reichardt-jf" linktext="true" />, vgl. <intlink letter="500" page="346" line="22" linktext="true" />
+</marginal>
 
 
 Brief Nr. 521
