@@ -24065,6 +24065,12 @@
 					 <editreason index="8440">
 					 Geändert nach der Handschrift; ZH: <zh><aq>La Roche-Nollet</aq></zh>
 					 </editreason>
+					 <editreason index="8441">
+					 Geändert nach der Handschrift; ZH: <zh><added>8</added></zh>
+					 </editreason>
+					 <editreason index="8442">
+					 Geändert nach der Handschrift; ZH: <zh><del><nr>&#x2003;</del></nr></zh>
+					 </editreason>
 			</edits>
 	</data>
 </opus>

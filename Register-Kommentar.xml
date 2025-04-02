@@ -324,9 +324,14 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <eintrag>6. Jahrhundert v.&#x202F;Chr. Griechischer Lyriker.</eintrag>
 </kommentar>
 
-<kommentar id="anhalt" type="neuzeit">
+<kommentar id="anhalt-f" type="neuzeit">
 <lemma>Friedrich Graf von Anhalt</lemma>
-<eintrag>1732–1794. Generalmajor im Heer Friedrich II, siehe <wwwlink address="https://d-nb.info/gnd/102638403">GND</wwwlink>.</eintrag>
+<eintrag>1732–1794. Generalmajor im Heer Friedrich II., siehe <wwwlink address="https://d-nb.info/gnd/102638403">GND</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="anhalt-l" type="neuzeit">
+<lemma>Leopold III. Friedrich Franz, Fürst und Herzog von Anhalt-Dessau</lemma>
+<eintrag>1740–1817. <link ref="penzel" linktext="false">Penzels</link> Landesherr.</eintrag>
 </kommentar>
 
 <kommentar id="andersen" type="neuzeit">
@@ -5996,6 +6001,11 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <kommentar id="gueldenhorn-c" type="neuzeit">
 <lemma>Christoph Güldenhorn</lemma>
 <eintrag>1741 bis nach 1789. Ehemann von <link ref="herder-cd-g" linktext="true" />; Losbäcker in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> und Alkoholiker.</eintrag>
+</kommentar>
+
+<kommentar id="gugenheim-j" type="neuzeit">
+<lemma>Joseph Gugenheim</lemma>
+<eintrag>Schwager von <link ref="mendelssohn" linktext="true" />, der mit ihm 1777 nach Memel reist.</eintrag>
 </kommentar>
 
 <kommentar id="guichard" type="neuzeit">
@@ -15732,7 +15742,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="stoltz-c" type="neuzeit">
 <lemma>Caroline Stoltz</lemma>
-<eintrag>1751–1792. Freundin von <link ref="recke-e" linktext="true" />.</eintrag>
+<eintrag>1751–1792. 1777 mit Hamann befreundet, Freundin von <link ref="recke-e" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="stolz-jj" type="neuzeit">

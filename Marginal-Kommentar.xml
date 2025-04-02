@@ -48534,7 +48534,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="68" line="11">
-<bzg>Rizpa …</bzg>  <link ref="at-sam2" subref="at-sam2-21" linktext="false">2 Sam 21,8–11</link>
+<bzg>Rizpa …</bzg> <link ref="at-sam2" subref="at-sam2-21" linktext="false">2 Sam 21,8–11</link>
 </marginal>
 
 <marginal letter="398" page="68" line="16">
@@ -55443,7 +55443,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="183" line="11" sort="2">
-<bzg>Grafen Anhalt</bzg> <link ref="anhalt" linktext="true" />
+<bzg>Grafen Anhalt</bzg> <link ref="anhalt-f" linktext="true" />
 </marginal>
 
 <marginal letter="447" page="183" line="13">
@@ -59806,7 +59806,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="259" line="29">
-<bzg>Landesherrn</bzg> Leopold III. von Anhalt-Dessau
+<bzg>Landesherrn</bzg> <link ref="anhalt-l" linktext="true" />
 </marginal>
 
 <marginal letter="470" page="260" line="7">
@@ -64565,7 +64565,7 @@ Antwort auf einen nicht überlieferten Brief Hamanns (<intlink letter="506" page
 </marginal>
 
 <marginal letter="506" page="362" line="12">
-<bzg>Silhuetten&#x202F;…&#x202F;Physiognie</bzg> in <link ref="lavater" subref="fragmente" linktext="true" />, Bd. 3, <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296428">Textband, S.&#x202F;161</wwwlink>
+<bzg>Silhuetten&#x202F;…&#x202F;Physiognie</bzg> in <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 3, <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296428">Textband, S.&#x202F;161</wwwlink>
 </marginal>
 
 <marginal letter="506" page="362" line="16">
@@ -64643,6 +64643,151 @@ Brief Nr. 507
 <bzg>Herrn Courtan</bzg> <link ref="courtan-pj" linktext="true" />
 </marginal>
 
+Brief Nr. 507
+
+<marginal letter="507a" page="365" line="7">
+<bzg>Einlage von einer guten Frau</bzg> <link ref="recke-e" linktext="true" /> (vgl. <intlink letter="512" page="376" line="21" linktext="true" />), nicht überliefert
+</marginal>
+
+<marginal letter="507a" page="365" line="8">
+<bzg>neue Bekanntin</bzg> <link ref="stoltz-c" linktext="true" />, <intlink letter="507a" page="366" line="30" linktext="false">s.u.</intlink>
+</marginal>
+
+<marginal letter="507a" page="365" line="10">
+<bzg>hiesigen Busenfreundin</bzg> <link ref="courtan-sm" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="365" line="13">
+<bzg>Man kann&#x202F;…</bzg> Variationen von Kaufmanns Motto „Man kann was man will. Und man will, was man kann“, vgl. <intlink letter="505" page="360" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="365" line="15">
+<bzg>Kupferstich</bzg> Kaufmanns Porträt in <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 3, <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296725"> Tafelband, S.&#x202F;89</wwwlink>, mit dessen Motto
+</marginal>
+
+<marginal letter="507a" page="365" line="19">
+<bzg>St. Germain&#x202F;…</bzg> <link ref="stgermain" linktext="true" />, vgl. <intlink letter="505" page="360" line="2" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="365" line="22">
+<bzg>amerikanischen Aussichten</bzg> vgl. <intlink letter="502" page="352" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="365" line="23">
+<bzg>Gräfin v. Kaiserling</bzg> <link ref="keyserling-c" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="365" line="26" sort="1">
+<bzg>Phädon</bzg> nach <link ref="mendelssohn" subref="mendelssohn-phaedon" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="365" line="26" sort="2">
+<bzg>Moses Mephiboseth</bzg> Mendelssohn; Mephiboseth ist eine Namensvariante von Merib-Baal, dem Sohn Jonatans, vgl. <link ref="at-sam2" subref="at-sam2-21" linktext="false">2 Sam 21,7</link>.
+</marginal>
+
+<marginal letter="507a" page="365" line="27" sort="1">
+<bzg>Memel</bzg> <wwwlink address="https://www.geonames.org/598098">heute Klaipėda</wwwlink>
+</marginal>
+
+<marginal letter="507a" page="365" line="27" sort="2">
+<bzg>Schwager</bzg> <link ref="gugenheim-j" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="365" line="28">
+<bzg>jüngste Lindner</bzg> <link ref="lindner-gi" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="365" line="30">
+<bzg>mislungene Erwartung</bzg> Kaufmanns Aufforderung an Hamann, ebenfalls nach Wandsbeck zu reisen, vgl. <intlink letter="502" page="352" line="29" linktext="true" />.
+</marginal>
+
+<marginal letter="507a" page="365" line="32">
+<bzg>Gevatter Matthias</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="1">
+<bzg>Elisa</bzg> <link ref="kaufmann-e" linktext="false">Elise Ziegler</link>
+</marginal>
+
+<marginal letter="507a" page="366" line="4">
+<bzg>abeat cum caeteris omnibus</bzg> dt. möge der Wunsch mit allem anderen verschwinden
+</marginal>
+
+<marginal letter="507a" page="366" line="13">
+<bzg>noch mehr Briefe</bzg> etwa <intlink letter="507" page="364" line="19" linktext="false">HKB 507</intlink>, andere Briefe nicht überliefert
+</marginal>
+
+<marginal letter="507a" page="366" line="15">
+<bzg>Apostel Caspar</bzg> <link ref="lavater" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="16">
+<bzg>et tant pis pour lui</bzg> dt. und um so mehr schade für ihn
+</marginal>
+
+<marginal letter="507a" page="366" line="18">
+<bzg>Stich mit dem Motto</bzg> <intlink letter="507a" page="365" line="15" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="507a" page="366" line="19" sort="1">
+<bzg>Sammlung</bzg> vgl. <intlink letter="500" page="344" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="19" sort="2">
+<bzg>Herdern</bzg> <link ref="herder" linktext="true" />, vgl. <intlink letter="507a" page="360" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="21">
+<bzg>hiesige Recensent&#x202F;…&#x202F;L… u. seine Spießgesellen</bzg> ?!?
+</marginal>
+
+<marginal letter="507a" page="366" line="27">
+<bzg>Freund Ehrenfried</bzg> <link ref="ehrmann" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="28">
+<bzg>verlaufener Philanthropist</bzg> als ehemaliger Lehrer am <link ref="basedow" linktext="false">Philanthropin</link> zu Dessau, von wo er seinen <intlink letter="506" page="361" line="27" linktext="false">letzten Brief</intlink> schrieb
+</marginal>
+
+<marginal letter="507a" page="366" line="29" sort="1">
+<bzg>8 Silhuetten</bzg> vgl. <intlink letter="506" page="362" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="29" sort="2">
+<bzg>Krause</bzg> <link ref="kraus" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="30">
+<bzg>Freundin Stolz</bzg> <link ref="stoltz-c" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="31">
+<bzg>Billet</bzg> an <link ref="penzel" linktext="true" />, vgl. <intlink letter="506" page="363" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="32">
+<bzg>Uebersetzer des Strabo</bzg> Penzel
+</marginal>
+
+<marginal letter="507a" page="366" line="33">
+<bzg>Fürsten</bzg> <link ref="anhalt-l" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="366" line="34" sort="1">
+<bzg>Hahns Postille</bzg> <link ref="hahn-pm" subref="hahn-sammlung" linktext="true" />, vgl. <intlink letter="506" page="362" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="367" line="1">
+<bzg>Fest der Dreieinigkeit</bzg> 25. Mai 1777
+</marginal>
+
+<marginal letter="507a" page="367" line="11">
+<bzg>harmoniam praestabilitam zwischen Können u. Wollen&#x202F;…</bzg> nach Kaufmanns Motto und Variationen darauf; vgl. <intlink letter="506" page="362" line="5" linktext="true" />
+</marginal>
+
+<marginal letter="507a" page="367" line="18">
+<bzg>Görgel</bzg> Diminutiv von Georg, wohl Anspielung auf Claudius’ zeitweilige Autor-Persona, vgl. zu <intlink letter="480" page="291" line="1" linktext="true" />
+</marginal>
 
 
 
