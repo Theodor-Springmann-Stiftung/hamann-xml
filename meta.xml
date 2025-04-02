@@ -9739,9 +9739,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="507">
-        <date value="4. August 1777" />
+        <date value="Königsberg, 4. August 1777" />
         <sort value="1777-08-04" order="100" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>

@@ -3316,6 +3316,12 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 </eintrag>
 </kommentar>
 
+<kommentar id="courtan-h" type="neuzeit">
+<lemma>Henriette Courtan</lemma>
+<eintrag>Tochter von <link ref="courtan-sm" linktext="true" /> und <link ref="courtan-pj" linktext="true" />.
+</eintrag>
+</kommentar>
+
 <kommentar id="courtan-pj" type="neuzeit">
 <lemma>Pierre Jérémie Courtan</lemma>
 <eintrag>Bruder von <link ref="lindner-m" linktext="true" />, Ehemann von <link ref="courtan-sm" linktext="true" />.
