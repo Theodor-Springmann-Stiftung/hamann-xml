@@ -9783,6 +9783,8 @@
         <location ref="29" />
         <senders>
           <sender ref="73" />
+          <sender ref="61" />
+          <sender ref="72" />
         </senders>
         <receivers>
           <receiver ref="1" />
