@@ -6089,6 +6089,11 @@ H
 <titel>Eines Ungenannten Antwort auf die Frage: „Wird durch die Bemühungen kaltblütiger Philosophen und Lucianischer Geister gegen das, was sie Enthusiasmus und Schwärmerey nennen, mehr Böses als Gutes gestiftet? und in welchen Schranken müßten sich die Antiplatoniker und Luciane halten, um nützlich zu seyn?“</titel>. In: <link ref="teutsche-merkur" linktext="false">Teutscher Merkur</link>, 3. Vierteljahr 1776, S.&#x202F;111–131 (Augustheft) und S.&#x202F;207–220 (Septemberheft).<line type="break" />
 Für den Autor des anonymen Merkur-Beitrags, der Hamanns <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> veranlasste, hielt Hamann zunächst <link ref="herder" linktext="false">Herder</link>, vgl. <intlink letter="505" page="360" line="14" linktext="true" />). Letztlich bekannte sich Häfeli dazu, vgl. <intlink letter="585" page="173" line="17" linktext="true" />, ebenso Hamanns Antwort <intlink letter="594" page="201" line="2" linktext="true" />.
 </eintrag>
+<subsection id="haefeli-sendschreiben" type="neuzeit" sort="20">
+<lemma>Häfeli, <titel>Sendschreiben an den Bremischen Beantworter</titel></lemma>
+<eintrag>
+<titel>Sendschreiben an den Bremischen Beantworter der Lavaterschen eigentlichen Meybubng</titel> (o.O. 1776). Digitalisat: <wwwlink address="https://books.google.de/books?id=9PA3zRBIcicC">Google Books</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 
@@ -13967,6 +13972,25 @@ Außerdem kursierte eine Übers. der Kinderphysik als <titel>Carl Rollins Natur-
 </subsection>
 </kommentar>
 
+<kommentar id="roos" type="neuzeit">
+<lemma>Magnus Friedrich Roos</lemma>
+<eintrag>1727–1803. Erbauungsschriftsteller und Spezialsuperintendent in Bebenhausen, siehe  <wwwlink address="https://www.deutsche-biographie.de/sfz76896.html#adbcontent">Roos, Magnus Friedrich, in: <titel>ADB</titel>&#x202F;29 (1889), S.&#x202F;145–148</wwwlink>., vgl. auch N&#x202F;V,333.</eintrag>
+<subsection id="roos-fussstapfen" type="neuzeit" sort="10">
+<lemma>Roos, <titel>Fußstapfen des Glaubens</titel>
+</lemma>
+<eintrag>
+<titel>Fußstapfen des Glaubens Abrahams in den Lebensbeschreibungen der Patriarchen und Propheten</titel> (6 Stücke, Tübingen 1769–1770). Digitalisat 1772: <wwwlink address="http://dx.doi.org/10.25673/58185">ULB Halle</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="roos-lehre" type="neuzeit" sort="20">
+<lemma>Roos, <titel>Lehre und Lebensgeschichte Jesu</titel>
+</lemma>
+<eintrag>
+<titel>Lehre und Lebensgeschichte Jesu</titel> (2 Tle., Tübingen: Fues 1776–1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271812-5">BSB München: B.hist. 302 u-1</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+ 
 <kommentar id="rose" type="neuzeit">
 <lemma>Johann Wilhelm Rose</lemma>
 <eintrag>1742–1801. Protestantischer Theologe, Lyriker und Dramatiker in Ansbach, siehe <wwwlink address="https://d-nb.info/gnd/115534776">GND</wwwlink>.</eintrag>
@@ -13985,7 +14009,7 @@ Nachgedruckt in: <link ref="schmid-ch" subref="schmid-zusatze" linktext="true" /
 
 <kommentar id="rost-jc" type="neuzeit">
 <lemma>Johann Christoph Rost</lemma>
-<eintrag>1717–1765. Schriftsteller, Schüler von <link ref="gottsched" linktext="true" /> in Leipzig, ab 1740 Redakteur bei der Berliner Zeitung, später Sekretär des Grafen Brühl in Dresden; 1742 erscheint seine Satire auf Gottsched <titel>Das Vorspiel</titel>, die zu dessen Sturz beitrug. Siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118791273.html#adbcontent">Waldberg, Max von: Rost, Johann Christoph, in: <titel>ADB</titel>&#x202F;29 (1889), S.&#x202F;276–278</wwwlink>.
+<eintrag>1717–1765. Schriftsteller, Schüler von <link ref="gottsched" linktext="true" /> in Leipzig, ab 1740 Redakteur bei der Berliner Zeitung, später Sekretär des Grafen Brühl in Dresden; 1742 erscheint seine Satire auf Gottsched <titel>Das Vorspiel</titel>, die zu dessen Sturz beitrug. Siehe  <wwwlink address="https://www.deutsche-biographie.de/pnd118791273.html#adbcontent">Waldberg, Max von: Rost, Johann Christoph, in: <titel>ADB</titel>&#x202F;29 (1889), S.&#x202F;276–278</wwwlink>.
 </eintrag>
 <subsection id="rost-vorspiel" type="neuzeit" sort="10">
 <lemma>Rost, <titel>Das Vorspiel</titel></lemma>
@@ -15842,13 +15866,19 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="sturz" type="neuzeit">
 <lemma>Helfrich Peter Sturz</lemma>
-<eintrag>1736–1779. Jurist und Schriftsteller, 1764 Privatsekretär des dän. Ministers von Bernstorff, 1775 Etatsrat in Oldenburg; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz69047.html#adbcontent">Koch, Max: Sturz, Helfrich Peter, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;59–61</wwwlink>.
+<eintrag>1736–1779. Jurist und Schriftsteller, 1764 Privatsekretär des dänischen Ministers von Bernstorff, 1775 Etatsrat in Oldenburg; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz69047.html#adbcontent">Koch, Max: Sturz, Helfrich Peter, in: <titel>ADB</titel>&#x202F;37 (1894), S.&#x202F;59–61</wwwlink>.
 </eintrag>
 <subsection id="sturz-menechmen" type="neuzeit" sort="10">
 <lemma>Sturz, <titel>Die Menechmen</titel></lemma>
 <eintrag>
 <titel>Die Menechmen oder Zwei Wochenschriften von gleicher Statur in 4 Aufzügen. Mit einer Liste von Druckfehlern und einem Titel, vielleicht auch einer Vorrede versehen und des Spaßes wegen dem Publico preisgegeben</titel> (Kopenhagen 1767) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;134/68: „Die Menechmen oder zwo Wochenschriften
 in vier Aufzügen, Kopp. 767“]. 
+</eintrag>
+</subsection>
+<subsection id="sturz-bernstorf" type="neuzeit" sort="20">
+<lemma>Sturz, <titel>Erinnerungen aus dem Leben des Grafen Johann Hartwig Ernst von Bernstorf</titel></lemma>
+<eintrag>
+<titel>Erinnerungen aus dem Leben des Grafen Johann Hartwig Ernst von Bernstorf</titel> (Leipzig : Weidmann, Reich 1777). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id356431509">SLUB Dresden</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -16260,9 +16290,14 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 </subsection>
 </kommentar>
 
+<kommentar id="tischbein" type="neuzeit">
+<lemma>Johann Heinrich Wilhelm Tischbein</lemma>
+<eintrag>1751–1829. Maler, Radierer, Kunstsammler, Aufenthalte in Italien und der Schweiz, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118622897.html#ndbcontent">Schrader, Karin: Tischbein, Wilhelm, in: <titel>NDB</titel>&#x202F;26 (2016), S.&#x202F;303f.</wwwlink></eintrag>
+</kommentar>
+
 <kommentar id="tiedemann" type="neuzeit">
 <lemma>Dieterich Tiedemann</lemma>
-<eintrag>1748–1803. Schriftsteller und Philosophiehistoriker, 1769–1774 Hofmeister in Livland, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117414271.html#adbcontent">Liebmann, Otto: Tiedemann, Dietrich, in: <titel>ADB</titel>&#x202F;38 (1894), S.&#x202F;276f.</wwwlink></eintrag>
+<eintrag>1748–1803. Schriftsteller und Philosophiehistoriker, 1769–1774 Hofmeister in Livland, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117376280.html#adbcontent">Liebmann, Otto: Tiedemann, Dietrich, in: <titel>ADB</titel>&#x202F;38 (1894), S.&#x202F;276f.</wwwlink></eintrag>
 <subsection id="tiedemann-ursprung" type="neuzeit">
 <lemma>Tiedemann, <titel>Versuch einer Erklärung des Ursprunges der Sprache</titel></lemma>
 <eintrag>
