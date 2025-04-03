@@ -682,6 +682,11 @@ Vll. <titel>Fabvlae aesopicae graecae qvae Maximo Planudi tribvvntvr. Ad vetervm
 <eintrag>110 v. Chr.–32 v. Chr. Röm. Ritter.</eintrag>
 </kommentar>
 
+<kommentar id="august-gotha" type="neuzeit">
+<lemma>August von Sachsen-Gotha-Altenburg</lemma>
+<eintrag>1747–1806. 1769 General der niederländischen Generalstaaten, 1771 und 1777 Italienreisen, Freund <link ref="herder" linktext="false">Herders</link> <link ref="goethe" linktext="false">Goethes</link> und <link ref="wieland" linktext="false">Wielands</link>; Bruder von <link ref="ernst-gotha" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="augustinus" type="neuzeit">
 <lemma>Augustinus von Hippo</lemma>
 <eintrag>354–430.</eintrag>
@@ -745,6 +750,11 @@ B
 <titel>Opuscula ad Historiam et Iurisprudentiam Spectantia</titel>, hg. von <link ref="klotz" linktext="true" /> (Halle: Curtius 1767). Digitalisat: <wwwlink address="https://opendata.uni-halle.de//handle/1981185920/46581">ULB Halle: Kc 1039</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="bach-jc" type="neuzeit">
+<lemma>Johann Christoph Friedrich Bach</lemma>
+<eintrag>1732–1795. Seit 1758 Konzert- und Kapellmeister am Bückeburger Hof, vertonte <link ref="herder" subref="herder-brutus" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118651471.html#ndbcontent">Gurlitt, Wilibald: Bach, Johann Christoph Friedrich, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;483f</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bachmann" type="neuzeit">
@@ -4420,6 +4430,12 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 <titel>Initia Rhetorica</titel> (Leipzig 1750). Digitalisat, Ausg. 1769: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3506039018">SLUB Dresden: Encycl.681</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="erpen" type="neuzeit">
+<lemma>Ernst II. von Sachsen-Gotha-Altenburg</lemma>
+<eintrag>1745–1804. Herzog seit 1772, seit 1774 Freimaurer, 1775- 1777 Großmeister, 1783 Illuminat; Bruder von <link ref="august-gotha" linktext="true" />.
+</eintrag>
 </kommentar>
 
 <kommentar id="erpen" type="neuzeit">
