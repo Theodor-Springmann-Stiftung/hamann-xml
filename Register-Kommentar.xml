@@ -4442,7 +4442,7 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 </subsection>
 </kommentar>
 
-<kommentar id="erpen" type="neuzeit">
+<kommentar id="ernst-gotha" type="neuzeit">
 <lemma>Ernst II. von Sachsen-Gotha-Altenburg</lemma>
 <eintrag>1745–1804. Herzog seit 1772, seit 1774 Freimaurer, 1775- 1777 Großmeister, 1783 Illuminat; Bruder von <link ref="august-gotha" linktext="true" />.
 </eintrag>
@@ -6951,7 +6951,13 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="haugwitz" type="neuzeit">
 <lemma>Christian Heinrich August Curt von Haugwitz</lemma>
-<eintrag>1752–1832. Preußischer Jurist, Herr auf Krappwitz.
+<eintrag>1752–1832. Preußischer Jurist, Herr auf <wwwlink address="https://www.geonames.org/7533311">Krappitz</wwwlink>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Skalweit, Stephan: Haugwitz, Christian Graf von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;94f.</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="haugwitz-jk" type="neuzeit">
+<lemma>Johanna Katharina von Haugwitz</lemma>
+<eintrag>Geb. 1755 als von Tauentzien, Ehefrau von <link ref="haugwitz" linktext="true" />.
 </eintrag>
 </kommentar>
 
