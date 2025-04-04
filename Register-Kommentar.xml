@@ -2157,6 +2157,16 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="brosses" type="neuzeit">
+<lemma>Jean Baptiste de la Brosse</lemma>
+<eintrag>1724–1782. Französischer Jesuit, Missionar und Linguist in Québec, siehe <wwwlink address="https://www.biographi.ca/en/bio/la_brosse_jean_baptiste_de_4E.html">Dictionary of Canadian Biography</wwwlink>.</eintrag>
+<subsection id="brosses-langues" type="neuzeit">
+<lemma>de la Brosse, <titel>Traité de la formation mechanique des langues</titel></lemma>
+<eintrag><title>Traité de la formation mechanique des langues et des principes physiques de l’etymologie</title> (2 Bde., Paris: Saillant 1765). Vgl N&#x202F;V,333f. Übersetzung: <link ref="hissmann" subref="hissmann-sprache" linktext="true" />. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10582835-6">BSB München: L.gen. 12-2</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="brown-j" type="neuzeit">
 <lemma>John Brown</lemma>
 <eintrag>1715–1766. Prediger und Schriftsteller, siehe <wwwlink address="https://doi.org/10.1093/ref:odnb/3621">Crimmins, J.E.: Brown, John, in: <titel>Oxford DNB</titel></wwwlink></eintrag>
@@ -7340,6 +7350,12 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <titel>Plastik. Einige Wahrnehmungen aus Pygmalions bildendem Traume</titel> (Riga: Hartknoch 1778). – SWS VIII, S.&#x202F;1–163.
 </eintrag>
 </subsection>
+<subsection id="herder-winkelmann" type="neuzeit" sort="460">
+<lemma>Herder, <titel>Denkmahl Johann Winkelmanns</titel></lemma>
+<eintrag>
+<titel>Denkmahl Johann Winkelmanns, Demselben vor der Fürstl. Akademie der Altertümer zu Cassel bei Anlass der ersten Preisaufgabe im Jahr 1777 errichtet.</titel> Erstdruck: Kassel 1882. – SWS VIII, S.&#x202F;437–483.
+</eintrag>
+</subsection>
 <subsection id="herder-volkslieder" type="neuzeit" sort="500">
 <lemma>Herder, <titel>Volkslieder</titel></lemma>
 <eintrag>
@@ -7727,6 +7743,22 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </subsection>
 </kommentar>
 
+<kommentar id="hissmann" type="neuzeit">
+<lemma>Michael Hißmann</lemma>
+<eintrag>1752–1784. Übersetzer, Psychologe, 1784 Professor der Philosophie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116917008.html#adbcontent">Prantl, Carl von: Hißmann, Michael, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;503</wwwlink>.</eintrag>
+<subsection id="hissmann-ideen" type="neuzeit" sort="10">
+<lemma>Hißmann, <titel>Geschichte der Lehre von der Association der Ideen</titel></lemma>
+<eintrag>
+<titel>Geschichte der Lehre von der Association der Ideen, nebst einem Anhang vom Unterschied unter associierten und zusammengesetzten Begriffen, und den Ideenreyhen</titel> von Michael Hißmann (Göttingen: Boßiegel 1776). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/1063C429">ÖNB Wien</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="hissmann-sprache" type="neuzeit" sort="20">
+<lemma>Hißmann (Übers.), <titel>Ueber Sprache und Schrift</titel></lemma>
+<eintrag><titel>Ueber Sprache und Schrift, Aus dem Französischen des Präsidenten von Brosses übersezt, und mit Anmerkungen begleitet,</titel> von Michael Hißmann (2 Bde., Leipzig: Weygand 1777). Vgl. N&#x202F;V,333. Übersetzung von <link ref="brosses" subref="brosses-langues" linktext="true" />. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10582838-2">BSB München: L.gen. 12 b-1</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="hobbes" type="neuzeit">
 <lemma>Thomas Hobbes</lemma>
 <eintrag>1588–1679. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13400">Malcolm, N.: Hobbes, Thomas, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
@@ -7824,7 +7856,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="hollmann" type="neuzeit">
 <lemma>Samuel Christian Hollmann</lemma>
-<eintrag>1696–1787. Philosoph, Naturforscher in Göttingen. <wwwlink address="https://www.deutsche-biographie.de/pnd11696474X.html#adbcontent">Wagenmann, Julius August: Hollmann, Samuel Christian, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;760–762</wwwlink>.
+<eintrag>1696–1787. Philosoph, Naturforscher in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11696474X.html#adbcontent">Wagenmann, Julius August: Hollmann, Samuel Christian, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;760–762</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -8820,6 +8852,14 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 <lemma>Johann Benjamin Koppe</lemma>
 <eintrag>1750–1791. 1774 Prof. der griechischen Sprache am Gymnasium in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>, 1775 Ruf nach Göttingen, 1784 Generalintendant in Gotha, 1787 in Hannover, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44518.html">Wagenmann, Julius August: Wagenmann, Julius August, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;692f.</wwwlink>
 </eintrag>
+<subsection id="koppe-jesaias" type="neuzeit" sort="10">
+<lemma>Koppe (Übers.), <titel>Jesaias</titel></lemma>
+<eintrag>
+<titel>D. Robert Lowth’s Jesaias neu übersetzt nebst einer Einleitung und critischen philologischen und erläuternden Anmerkungen. Aus dem Englischen. Mit Zusätzen und Anmerkungen von Johann Benjamin Koppe</titel> (4 Bde., Leipzig 1779–1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11776615-4">Stabi Bambuerg: Th.ex.o.299(1#1</wwwlink>. Übersetzung von <link ref="lowth" subref="lowth-isaiah" linktext="true" />
+</eintrag>
+</subsection>
+
+Jesaias neu übersetzt nebst einer Einleitung und  Anmerkungen. Mit Zusätzen v. Johann Benjamin Koppe. (). 
 </kommentar>
 
 <kommentar id="kortum" type="neuzeit">
@@ -10389,6 +10429,15 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <titel>De sacra Poesi Hebraeorum. Praelectiones academicae Oxoniae habitae. Notas et epimetra adiecit J. D. Michaelis</titel> (Göttingen: Dietrich 1758/61). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:hebis:30:1-113420">UB Frankfurt</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="lowth-isaiah" type="neuzeit">
+<lemma>Lowth, <titel>Jesaias</titel></lemma>
+<eintrag>
+<titel>Isaiah. A New Translation; with a preliminary dissertation, and notes critical, philological, and explanatory.</titel> By Robert Lowth (London: Nichols 1778). Digitalisat: <wwwlink address="https://books.google.de/books?id=ta8WAAAAQAAJ">Google Books</wwwlink>. – Zur Übersetzung vgl. <link ref="koppe" subref="koppe-jesaias" linktext="true" />
+</eintrag>
+</subsection>
+koppe-jesaias
+Jesaias neu übersetzt nebst einer Einleitung und  Anmerkungen. Mit Zusätzen v. Johann Benjamin Koppe. (4 Bde., Leipzig 1779–1781). Übersetzung von <link ref="lowth" subref="lowth-isaiah" linktext="true" />
+
 </kommentar>
 
 <kommentar id="luebeck" type="neuzeit">
@@ -11671,6 +11720,17 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 </subsection>
 </kommentar>
 
+<kommentar id="monboddo" type="neuzeit">
+<lemma>James Burnett, Lord Monboddo</lemma>
+<eintrag>1714–1799. Schottischer Liguist, Richter und Philosoph, siehe siehe <wwwlink address="https://www.britannica.com/biography/James-Burnett-Lord-Monboddo">Encyclopedia Brittannica</wwwlink>.
+</eintrag>
+<subsection id="monboddo-language" type="neuzeit" sort="10">
+<lemma>Monboddo, <titel>Of the Origin and Progress of Language</titel></lemma>
+<eintrag><titel>Of the Origin and Progress of Language</titel> (6 Bde., London 1773–1792). Digitalisat: <wwwlink address="https://archive.org/details/originandprogre01conggoog">Internet Archive</wwwlink>. – Übersetzung von Christian August Schmidt, mit einer Vorrede von <link ref="herder" linktext="false">Herder</link> (Riga: hartknoch 1784): <wwwlink address="http://data.onb.ac.at/rep/103989D2">ÖNB Wien</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="montague" type="neuzeit">
 <lemma>Lady Mary Wortley Montague</lemma>
 <eintrag>1689–1762. Engl. Schriftstellerin.</eintrag>
@@ -12144,7 +12204,7 @@ N
 
 <kommentar id="neumann-j" type="neuzeit">
 <lemma>Johann Christoph Neumann</lemma>
-<eintrag>1763 bis nach 1788. Neffe von <link ref="herder" linktext="true" /> (einziger Sohn von Herders Schwester Anna Luise, verh. Neumann). Er wurde im April/Mai 1775 durch <link ref="hartknoch" linktext="false">Hartknoch</link> von <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> über Königsberg nach Bückeburg zu Herder gebracht; ab Juni 1782 in Riga, 1783 Angestellter eines Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
+<eintrag>1763 bis nach 1788. Neffe von <link ref="herder" linktext="true" /> (einziger Sohn von Herders Schwester Anna Luise, verh. Neumann, gest. 1767). Er wurde im April/Mai 1775 durch <link ref="hartknoch" linktext="false">Hartknoch</link> von <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> über Königsberg nach Bückeburg zu Herder gebracht; ab Juni 1782 in Riga, 1783 Angestellter eines Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
 </kommentar>
 
 <kommentar id="neumann-jd" type="neuzeit">
@@ -12594,6 +12654,17 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 <kommentar id="pegelow" type="neuzeit">
 <lemma>Daniel Pegelow</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Studierte in 1770 in Strassburg Medizin, wo er <link ref="herder" linktext="true" /> und <link ref="goethe" linktext="true" /> traf, besuchte Herder im Dezember 1773 und Hamann im August 1774. Russischer Stabschirurg.</eintrag>
+</kommentar>
+
+<kommentar id="pennant" type="neuzeit">
+<lemma>Thomas Pennant</lemma>
+<eintrag>1726–1798. Walisischer Naturforscher und Reisender, siehe <wwwlink address="https://www.britannica.com/biography/Thomas-Pennant"><titel>Encyclopedia Britannica</titel></wwwlink>.</eintrag>
+<subsection id="pennant-tour" type="neuzeit">
+<lemma>Pennant, <titel>A tour in Scotland</titel></lemma>
+<eintrag>
+<titel>A tour in Scotland</titel> (zuerst 1769, erweitert 1771). Digitalisat der 4. Aufl. 1776: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10469147-4">BSB München: It.sing. 1433 l-1</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="penzel" type="neuzeit">
@@ -14567,7 +14638,7 @@ August Ludwig Schlözers <titel>Vorstellung seiner Universal-Historie</titel> (2
 
 <kommentar id="schmid-ch" type="neuzeit">
 <lemma>Christian Heinrich Schmid</lemma>
-<eintrag>1746–1800.  Jurist, Literaturhistoriker, Übersetzer engl. Literatur, 1769 Prof. der Rechte in Erfurt, 1771 Prof. der Beredsamkeit und Dichtkunst in Gießen, vgl. <wwwlink address="https://www.deutsche-biographie.de/pnd116697105.html#adbcontent">Pröhle, Heinrich: Schmid, Christian Heinrich, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;650–655</wwwlink>.</eintrag>
+<eintrag>1746–1800. Jurist, Literaturhistoriker, Übersetzer engl. Literatur, 1769 Prof. der Rechte in Erfurt, 1771 Prof. der Beredsamkeit und Dichtkunst in Gießen, vgl. <wwwlink address="https://www.deutsche-biographie.de/pnd116697105.html#adbcontent">Pröhle, Heinrich: Schmid, Christian Heinrich, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;650–655</wwwlink>.</eintrag>
 <subsection id="schmid-theorie" type="neuzeit" sort="10">
 <lemma>Schmid, <titel>Theorie der Poesie nach den neuesten Grundsätzen</titel></lemma>
 <eintrag>
@@ -16562,6 +16633,19 @@ Im Anhang sind sieben Gedichte von <link ref="lindner-jg" linktext="true" /> abg
 <eintrag>
 <titel>Essay on the Advantages and Disadvantages, which respectively attend France and Great Britain with regard to Trade</titel> (London 1749; die Neuaufl. ab 1750 waren teilw. erweiterte) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;116/276: „(Jos. Tucker’s) ... Essay on the Advantages and Disadvantages, which respectively attend France and Great Britain with regard to Trade, 753“].<line type="break" />
 Hamann muss das Exemplar dieses Werk nach 1756 bekommen haben, da es ihm für die <link ref="hamann" subref="h-dangeuil" linktext="false"><titel>Beylage zu Dangeuil</titel></link> noch nicht zur Verfügung stand (s. ebd. ED S.&#x202F;398). Dangeuil (<link ref="dangeuil" subref="dangeuil-remarques" linktext="true" />) stützte sich in seinem Text auch wesentlich auf Tuckers „Essay“ bzw. kopierte ihn gar großteils.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="twiss" type="neuzeit">
+<lemma>Richard Twiss</lemma>
+<eintrag>1747–1821. Engl. Schriftsteller.</eintrag>
+<subsection id="twiss-travels" type="neuzeit">
+<lemma>Twiss, <titel>Travels through Portugal and Spain</titel></lemma>
+<eintrag>
+<titel>Travels through Portugal and Spain, in 1772 and 1773. With copper- plates and an appendix</titel> (London 1775).<line type="break" />
+Deutsche Übersetzung: <title>Twiß's Reise durch Porugal und Spanien im Jahre 1772 und 1773 mit Anmerkungen von C. D. Ebeling</title> (Leipzig 1776). <line type="break" />
+Französische Übersetzungen: <title>Voyage en Portugal et en Espagne […] de Mr. Twiss à son journal</title> (Berne 1776). – <title>Voyage en Portugal et en Espagne fait en 1772 et 1773, traduit de l’Anglois</title> (Berne 1776).
 </eintrag>
 </subsection>
 </kommentar>

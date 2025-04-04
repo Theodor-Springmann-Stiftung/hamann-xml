@@ -41385,7 +41385,7 @@ Brief Nr. 350
 </marginal>
 
 <marginal letter="350" page="416" line="4">
-<bzg>Fragmente</bzg> Herder kam aus sehr einfachen Verhältnissen in Mohrungen und war bis 1767 nur Candidat an der Domschule zu Riga; seinen Aufstieg zum Pastor hat er auch dem Ruhm durch die <link ref="herder" subref="herder-fragmente" linktext="false">Fragmente</link> zu verdanken, so die Insinuation.
+<bzg>Fragmente</bzg> Herder kam aus sehr einfachen Verhältnissen in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> und war bis 1767 nur Candidat an der Domschule zu Riga; seinen Aufstieg zum Pastor hat er auch dem Ruhm durch die <link ref="herder" subref="herder-fragmente" linktext="false">Fragmente</link> zu verdanken, so die Insinuation.
 </marginal>
 
 <marginal letter="350" page="416" line="5">
@@ -43399,7 +43399,7 @@ Brief Nr. 359
 </marginal>
 
 <marginal letter="359" page="447" line="2">
-<bzg>Wittwen in Mohrungen</bzg> wohl Anspielung auf Herders Mutter, die seit 1763 verwittwet in Mohrungen lebte
+<bzg>Wittwen in Mohrungen</bzg> wohl Anspielung auf Herders Mutter, die seit 1763 verwittwet in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> lebte
 </marginal>
 
 <marginal letter="359" page="447" line="3" sort="1">
@@ -50413,7 +50413,7 @@ Brief Nr. 409
 </marginal>
 
 <marginal letter="409" page="100" line="17">
-<bzg>Mohren und Consorten</bzg> Gemeint ist wohl <link ref="herder" linktext="true" /> (nach dessen Heimatort Mohrungen, vgl. <intlink letter="440" page="169" line="19" linktext="true" />) und die im <titel>Deutschen Merkur</titel> Hamann angedichtete Partei bzw. literarische Sekte von dunklen Schriftstellern, vgl. <intlink letter="435" page="159" line="10" linktext="true" />.
+<bzg>Mohren und Consorten</bzg> Gemeint ist wohl <link ref="herder" linktext="true" /> (nach dessen Heimatort <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>, vgl. <intlink letter="440" page="169" line="19" linktext="true" />) und die im <titel>Deutschen Merkur</titel> Hamann angedichtete Partei bzw. literarische Sekte von dunklen Schriftstellern, vgl. <intlink letter="435" page="159" line="10" linktext="true" />.
 </marginal>
 
 <marginal letter="409" page="100" line="18">
@@ -56772,7 +56772,7 @@ Brief Nr. 454
 </marginal>
 
 <marginal letter="454" page="202" line="14">
-<bzg>Inlage</bzg> an <link ref="herder-cd-g" linktext="true" /> nach Mohrungen, vgl. <intlink letter="455" page="202" line="17" linktext="true" />
+<bzg>Inlage</bzg> an <link ref="herder-cd-g" linktext="true" /> nach <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>, vgl. <intlink letter="455" page="202" line="17" linktext="true" />
 </marginal>
 
 
@@ -64904,7 +64904,7 @@ Brief Nr. 509
 </marginal>
 
 <marginal letter="509" page="369" line="18" sort="2">
-<bzg>Geburtstage</bzg> 
+<bzg>Geburtstage</bzg> Herder am 25. August, Hamann am 27., Herders Söhne am 18. (August) und 28. (Gottfried)
 </marginal>
 
 <marginal letter="509" page="369" line="19">
@@ -64941,6 +64941,10 @@ Brief Nr. 509
 
 <marginal letter="509" page="369" line="36">
 <bzg>2.ten&#x202F;…&#x202F;Schäfer</bzg> <link ref="herder-a" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="369" line="35">
+<bzg>Goldmedaille</bzg> für eine von Herders Preisschriften, <intlink letter="509" page="372" line="7" linktext="false">s.u.</intlink>
 </marginal>
 
 <marginal letter="509" page="370" line="3">
@@ -65040,27 +65044,91 @@ Brief Nr. 509
 </marginal>
 
 <marginal letter="509" page="371" line="30">
-<bzg>Lowth&#x202F;…&#x202F;Jesaias</bzg> 
+<bzg>Lowth&#x202F;</bzg> <link ref="lowth" subref="lowth-isaiah" linktext="true" /> erschien 1778; 1777 erschienen bereits Stiche wie <wwwlink address="https://www.britishmuseum.org/collection/object/P_1885-1212-87">dieser nach dem bekannten Porträt von Pine</wwwlink>.
 </marginal>
 
 <marginal letter="509" page="371" line="31">
-<bzg>Discourse on Learning</bzg> 
+<bzg>Discourse on Learning</bzg> unklar, mglw. <link ref="monboddo" subref="monboddo-language" linktext="true" />
 </marginal>
 
 <marginal letter="509" page="371" line="33">
-<bzg>Pennant’s Reise durch Schottl.</bzg> 
+<bzg>Pennant’s Reise durch Schottl.</bzg> <link ref="pennant" subref="pennant-tour" linktext="true" />
 </marginal>
 
 <marginal letter="509" page="371" line="35">
-<bzg>Twiß Reise durch Span.</bzg> 
+<bzg>Twiß Reise durch Span.</bzg> <link ref="twiss" subref="twiss-travels" linktext="true" />
 </marginal>
 
 <marginal letter="509" page="371" line="36">
-<bzg>De-Brosses Werk „über Sprache u. Schrift“</bzg> 
+<bzg>De-Brosses</bzg> <link ref="brosses" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="371" line="37">
+<bzg>Hißmann</bzg> <link ref="hissmann" subref="hissmann-sprache" linktext="true" />
 </marginal>
 
 <marginal letter="509" page="372" line="2">
-<bzg>mechanique des langues&#x202F;…&#x202F;Pluchens</bzg> 
+<bzg>mechanique des langues</bzg> <link ref="pluche" subref="pluche-langues" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="372" line="4" sort="1">
+<bzg>Acad. des Antiq.</bzg> durch Friedrich II. von Hessen, der im April 1777 eine Gesellschaft der Altertümer zum Studium der Altertumswissenschaften gründete.
+</marginal>
+
+<marginal letter="509" page="372" line="4" sort="2">
+<bzg>Eloge de Winkelm.</bzg> Die Preisfrage lautete: L’Eloge de Mr. Winckelmann, dans lequel on fera entrer le point où il a trouvé la science des Antiquités, et à quel point il l’a laisseé. – Herder schrieb sein <link ref="herder" subref="herder-winkelmann" linktext="false"><title>Denkmahl Johann Winkelmanns</title></link> erst im April 1778.
+</marginal>
+
+<marginal letter="509" page="372" line="6">
+<bzg>antiquo me includere ludo</bzg> dt. mich in ein altes Spiel einschließen, <link ref="horaz" subref="horaz-epistel" linktext="true" />, 1,1,3
+</marginal>
+
+<marginal letter="509" page="372" line="7">
+<bzg>erste Preismünze</bzg> im Wert von 400 Livres, vgl. <intlink letter="509" page="369" line="35" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="509" page="372" line="8">
+<bzg>fausse couche</bzg> Fehlgeburt, gemeint ist <link ref="herder" subref="herder-erkennen-empfinden" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="372" line="11">
+<bzg>Aufklebezettel auf mein Bild</bzg> zu Hamanns Bitte vgl. <intlink letter="500" page="344" line="34" linktext="true" />; Herder vergaß, den Zettel beizulegen und Hamann erinnerte ihn daran, vgl. <intlink letter="512" page="378" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="372" line="18">
+<bzg>Hartknoch, Hinz, Kanter</bzg> <link ref="hartknoch" linktext="true" />, <link ref="hartknoch" linktext="hinz" />, <link ref="kanter" linktext="true" />,
+</marginal>
+
+<marginal letter="509" page="372" line="19">
+<bzg>Baals</bzg> nicht Antwortende, nach <link ref="at-koe1" subref="at-koe1-18" linktext="false">1&#x202F;Kön 18,26f.</link>
+</marginal>
+
+<marginal letter="509" page="372" line="22">
+<bzg>Kaufm.</bzg> <link ref="kaufmann-c" linktext="true" />, vgl. <intlink letter="512" page="378" line="6" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="372" line="28">
+<bzg>costa</bzg> Rippe (nach <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 2,21f.</link>), <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="372" line="32">
+<bzg>Leber</bzg> <intlink letter="509" page="368" line="6" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="509" page="372" line="35">
+<bzg>Betrachtungen</bzg> <link ref="dalberg" subref="dalberg-universum" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="372" line="36" sort="1">
+<bzg>Briefe nach Mohrungen</bzg> <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>; nicht überliefert, es ging wohl um die Rückkehr von <link ref="neumann-j" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="372" line="36" sort="2">
+<bzg>Schwester</bzg> <link ref="herder-cd-g" linktext="true" />
+</marginal>
+
+<marginal letter="509" page="373" line="1">
+<bzg>gew. Schwager</bzg> gewesenen Schwager, Christoph Neumann (Fleischhauer und Alkoholiker in Mohrungen), den Witwer von Herders Schwester Anna Luise (gest. 1767) und Vater von <link ref="neumann-j" linktext="true" />
 </marginal>
 
 
