@@ -65248,7 +65248,7 @@ Wurde der Brief abgeschickt?!?
 </marginal>
 
 <marginal letter="511" page="374" line="16" sort="1">
-<bzg>22 Sept.</bzg> wohl <intlink letter="" page="" line="" linktext="false">HKB 509a</intlink>
+<bzg>22 Sept.</bzg> wohl <intlink letter="509a" page="470" line="2" linktext="false">HKB 509a</intlink>
 </marginal>
 
 <marginal letter="511" page="374" line="16" sort="2">
@@ -65264,7 +65264,7 @@ Wurde der Brief abgeschickt?!?
 </marginal>
 
 <marginal letter="511" page="374" line="20" sort="1">
-<bzg>Tetens</bzg> 
+<bzg>Tetens</bzg> <link ref="tetens" subref="tetens-ursprung" linktext="true" />
 </marginal>
 
 <marginal letter="511" page="374" line="20" sort="2">
@@ -65272,23 +65272,78 @@ Wurde der Brief abgeschickt?!?
 </marginal>
 
 <marginal letter="511" page="374" line="20" sort="3">
-<bzg>Berner Beyträge</bzg> 
+<bzg>Berner Beyträge</bzg> nicht ermittelt; [Henkel: Lies Bremer Beyträge; etwas im Zusammenhang von <link ref="haefeli" subref="haefeli-sendschreiben" linktext="true" />?!? – die <wwwlink address="https://de.wikipedia.org/wiki/Bremer_Beitr%C3%A4ge">Neuen Beyträge zum Vergnügen des Verstandes und Witzes</wwwlink> können ja wohl nicht gemeint sein?!?]
 </marginal>
 
 <marginal letter="511" page="374" line="20" sort="4">
-<bzg>Sethos deutsch u fr.</bzg> 
+<bzg>Sethos deutsch u fr.</bzg> <link ref="terrasson" subref="terrasson-sethos" linktext="true" /> und die Übersetzung von <link ref="claudius" linktext="true" />
 </marginal>
 
 <marginal letter="511" page="374" line="21">
 <bzg>Verf. des Universums</bzg> <link ref="dalberg" subref="dalberg-universum" linktext="true" />
 </marginal>
 
-<marginal letter="511" page="374" line="23" sort="1">
-<bzg>Leichdorn</bzg> 
+<marginal letter="511" page="374" line="23">
+<bzg>Leichdorn</bzg> Hühnerauge
 </marginal>
 
-<marginal letter="511" page="374" line="23" sort="2">
-<bzg>Gräuel der Verwüstung am Garten</bzg> 
+<marginal letter="511" page="374" line="24">
+<bzg>Verwüstung am Garten</bzg> Der Verkauf von Pflanzen und allerlei anderen Gegenständen aus seinem Garten durch die <link ref="blom-w" linktext="false">Blomschen Erben</link>, den Hamann wohl am 29. September 1777 über sich ergehen ließ, vgl. <intlink letter="515" page="383" line="2" linktext="true" /> und <intlink letter="515" page="383" line="17" linktext="true" />.
+</marginal>
+
+<marginal letter="511" page="374" line="25">
+<bzg>Es haben ihn zerwühlet&#x202F;…</bzg> <link ref="at-ps" subref="at-ps80" linktext="false">Ps 80,14</link> 
+</marginal>
+
+<marginal letter="511" page="374" line="28" sort="1">
+<bzg>königl. Freywohner</bzg> Hamann meint, dass es unangemessen sei, mit den Erben des Vorgängers einer Dienstwohnung, die schließlich dem König gehört, in Rechtsstreitigkeiten zu geraten, vgl. <intlink letter="486" page="315" line="11" linktext="true" />.
+</marginal>
+
+<marginal letter="511" page="374" line="29">
+<bzg>Salomo hat einen&#x202F;…</bzg> <link ref="at-hld" subref="at-hld8" linktext="false">Hld 8,11</link>
+</marginal>
+
+<marginal letter="511" page="374" line="32">
+<bzg>Sokrates&#x202F;…äsopischen Fabelchen und Päan</bzg> <link ref="mendelssohn" subref="mendelssohn-phaedon" linktext="true" />, S.&#x202F;81–85, vgl. <link ref="platon" subref="plat-phaid" linktext="true" />, 60–61
+</marginal>
+
+<marginal letter="511" page="375" line="1">
+<bzg>äsopischen Fabelchen und Päan</bzg> 
+</marginal>
+
+<marginal letter="511" page="375" line="3" sort="1">
+<bzg>Mephiboseth</bzg> Namensvariante von Merib-Baal, dem Sohn Jonatans, vgl. <link ref="at-sam2" subref="at-sam2-21" linktext="false">2 Sam 21,7</link>.
+</marginal>
+
+<marginal letter="511" page="375" line="3" sort="2">
+<bzg>Gottes Fiscal&#x202F;…</bzg> Elihu in <link ref="at-hi" subref="at-hi32" linktext="false">Hi 32–37</link>
+</marginal>
+
+
+Brief Nr. 512
+
+<marginal letter="512" page="375" line="7">
+<bzg>4 pr&#x202F;…Päckchen</bzg> <intlink letter="509" page="368" line="3" linktext="false">HKB 509</intlink> am 4. September 1777; zu weiteren Inhalten des Päckchens vgl. <intlink letter="509" page="372" line="35" linktext="true" />
+</marginal>
+
+<marginal letter="512" page="375" line="8">
+<bzg>1 ej.&#x202F;…&#x202F;goldene Charte</bzg> Am 1. Oktober 1777; gemeint ist Herders Geldzuwendung von einem Jahr zuvor, vgl. <intlink letter="470" page="257" line="28" linktext="true" />
+</marginal>
+
+<marginal letter="512" page="375" line="8" sort="1">
+<bzg>jedes Kind</bzg> <link ref="hamann-jm" linktext="true" />, <link ref="hamann-er" linktext="true" /> und <link ref="hamann-mc" linktext="true" />
+</marginal>
+
+<marginal letter="512" page="375" line="8" sort="2">
+<bzg>Mutter</bzg> <link ref="schumacher-ar" linktext="true" />
+</marginal>
+
+<marginal letter="512" page="375" line="13">
+<bzg>Betrachtungen</bzg> <link ref="dalberg" subref="dalberg-universum" linktext="true" />
+</marginal>
+
+<marginal letter="512" page="375" line="17">
+<bzg>übrigen Beyl.</bzg> an <link ref="herder-cd-g" linktext="true" /> und den Vater von <link ref="" subref="neumann-j" linktext="true" />, vgl. <intlink letter="509" page="372" line="36" linktext="true" />
 </marginal>
 
 
