@@ -2492,7 +2492,7 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 
 <kommentar id="butler" type="neuzeit">
 <lemma>Samuel Butler</lemma>
-<eintrag>1612–1680. Engl satirischer Dichter während des Bürgerkriegs, siehe <wwwlink address="https://www.britannica.com/biography/Samuel-Butler-English-author-1612-1680">Encyclopaedia Britannica</wwwlink>.</eintrag>
+<eintrag>1612–1680. Englischer satirischer Dichter während des Bürgerkriegs, siehe <wwwlink address="https://www.britannica.com/biography/Samuel-Butler-English-author-1612-1680">Encyclopaedia Britannica</wwwlink>.</eintrag>
 <subsection id="butler-hudibras" type="neuzeit">
 <lemma>Butler, <titel>Hudibras</titel></lemma>
 <eintrag><titel>Hudibras, in three parts, written in the Time of the late wars</titel> (3 Bde., 1662–1678) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;172/692: „Hudibras with Cuts design’d and engrav’d by Hogard, Lond. 739. Donum Herderi nostri.“]. Digitalisat einer Ausgabe Cambridge 1744: <wwwlink address="http://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-3501 ">LB Oldenburg</wwwlink>.</eintrag>
@@ -9365,10 +9365,16 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <kommentar id="kreutzfeld" type="neuzeit">
 <lemma>Johann Gottlieb Kreutzfeld</lemma>
 <eintrag>1745–1784. Freund Hamanns, seit 1776 Professor der Poesie an der Universität Königsberg, siehe <wwwlink address="http://d-nb.info/gnd/129926590">GND</wwwlink>.</eintrag>
-<subsection id="kreutzfeld-blumenlese" type="neuzeit">
+<subsection id="kreutzfeld-blumenlese" type="neuzeit" sort="10">
 <lemma>Kreutzfeld, <titel>Preußische Blumenlese</titel></lemma>
 <eintrag>
 <titel>Preußische Blumenlese</titel> (Königsberg 1775).
+</eintrag>
+</subsection>
+<subsection id="kreutzfeld-hudibras" type="neuzeit" sort="20">
+<lemma>Kreutzfeld, <titel>Probe einer neuen Verteutschung des Hudibras</titel></lemma>
+<eintrag>
+<titel>Probe einer neuen Verteutschung des <link ref="butler" subref="butler-hudibras" linktext="false">Hudibras</link>.</titel> In: <link ref="teutsche-merkur" linktext="false">Teutscher Merkur</link>, 2. Vierteljahr 1778, S.&#x202F;227–248 (Juniheft) und 4. Vierteljahr, S.&#x202F;201–222 (Dezemberheft); außerdem ebd., S.&#x202F;222–238 die <title>Beylage für den Leser des Hudibras.</title>
 </eintrag>
 </subsection>
 </kommentar>
@@ -10395,7 +10401,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 
 <kommentar id="loewen" type="neuzeit">
 <lemma>Samuel Liepmann Löwen</lemma>
-<eintrag>1750–1827. Miniaturmaler.</eintrag>
+<eintrag>1750–1827. Jüdischer Miniaturmaler in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="logau" type="neuzeit">
@@ -16610,6 +16616,12 @@ Im Anhang sind sieben Gedichte von <link ref="lindner-jg" linktext="true" /> abg
 <lemma>Trescho, <titel>Die Kunst glücklich zu leben</titel></lemma>
 <eintrag>
 <titel>Die Kunst glücklich zu leben; oder Lebensbibel zur Erbauung abgefaßt</titel> (Königsberg 1765).
+</eintrag>
+</subsection>
+<subsection id="trescho-nebenstunden" type="neuzeit" sort="140">
+<lemma>Trescho, <titel>Religiöse Nebenstunden</titel></lemma>
+<eintrag>
+<titel>Religiöse Nebenstunden</titel> (2 Bde., 8 St. Danzig: Flörke 1777–1783).
 </eintrag>
 </subsection>
 </kommentar>
