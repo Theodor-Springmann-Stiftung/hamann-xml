@@ -23807,9 +23807,6 @@
 					 <editreason index="8290">
 					 In ZH im Apparat.
 					 </editreason>
-					 <editreason index="8291">
-					 In ZH im Apparat.
-					 </editreason>
 					 <editreason index="8292">
 					 In ZH im Apparat.
 					 </editreason>
@@ -24076,7 +24073,13 @@
 					 </editreason>
 					 <editreason index="8444">
 					 Geändert nach der Handschrift; ZH: <zh>Moses Mendelssohn</zh>
-					 </editreason>Moses Mendelssohn
+					 </editreason>
+					 <editreason index="8445">
+					 In ZH im Apparat als handschriftlicher Zusatz Herders annotiert; der Zusatz ist aber in Hamanns Handschrift (er ergäbe außerdem keinen Sinn von Herder).
+					 </editreason>
+					 <editreason index="8446">
+					 In ZH im Apparat.
+					 </editreason>
 			</edits>
 	</data>
 </opus>
