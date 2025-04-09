@@ -1713,11 +1713,16 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <eintrag>
 <titel>Sacerdotalis J C. Oratorio Joh. XVII. comprehensa ex versionibus orientalibus cum graeco fonte collatis illustrata</titel> (Helmstedt 1762). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;6/90: „Sacerdotalis J. C. Oratio Joh. XVII. comprehensa ex versionibus orientalibus cum graeco fonte collatis illustrata á Ch. Aug. Bode, Helmst. 762“].</eintrag>
 </subsection>
+<subsection id="bode-ca-salomonis" type="neuzeit" sort="20">
+<lemma>Bode, <titel>Salomonis</titel></lemma>
+<eintrag>
+<titel>Nova versio sententiarum concionatoris et cantici canticorum sapientissimi regis Salomonis textus hebraei masorethici genuinum sensum libere perspicue feliciterque exhibens, cum parallelorum locorum selecta sylloge</titel> (Helmstedt 1777).</eintrag> Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:23-drucke/501-helmst-dr4">HAB Wolfenbüttel</wwwlink>.
+</subsection>
 </kommentar>
 
 <kommentar id="bode-jjc" type="neuzeit">
 <lemma>Johann Joachim Christoph Bode</lemma>
-<eintrag>1730–1793. Buchdrucker und Verleger in Hamburg, Übersetzer u.a. von <link ref="sterne" subref="sterne-shandy" linktext="true" /> , siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>.</eintrag>
+<eintrag>1730–1793. Buchdrucker und Verleger in Hamburg, Übersetzer u.a. von <link ref="sterne" subref="sterne-shandy" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bodin" type="neuzeit">
@@ -5129,7 +5134,7 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 </eintrag>
 </subsection>
 <subsection id="fulda-wurzelwoerter" type="neuzeit">
-<lemma>Fulda, <titel>Sammlung und Abstammung Germanischen Wurzel- Wörter</titel></lemma>
+<lemma>Fulda, <titel>Sammlung und Abstammung Germanischen Wurzel-Wörter</titel></lemma>
 <eintrag>
 <titel>Sammlung und Abstammung Germanischen Wurzel-Wörter, nach der Reihe menschlicher Begriffe, zum Erweis der Tabelle, die der Preisschrift über die zween Hauptdialekte der Teutschen Sprache angefügt worden ist, von dem Verfasser derselbigen; hg. von Johann Georg Meusel</titel> (Halle: Gebauer 1776). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523291-6">BSB München: 4 L.germ. 13</wwwlink>.
 </eintrag>
@@ -6693,7 +6698,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 <lemma>Hamann, <titel>Schürze von Feigenblättern</titel></lemma>
 <eintrag>
 <titel>Schürze von Feigenblättern</titel>. Ungedruckter Entwurf für eine Schrift von Neujahr 1777 bis 1779, vgl. Martin Seils: <titel>Schürze von Feigenblättern. Kritisch herausgegeben und erklärt.</titel> In: <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;265–372 (vgl. ebenso N&#xA0;III, S.&#x202F;451).<line type="break" />
-Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;205–212 und <intlink letter="" page="" line="" linktext="true" />
+Zitation im Briefkommentar nach HHE 5, S.&#x202F;274–284.
 </eintrag>
 </subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="690">
@@ -12717,7 +12722,7 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 
 <kommentar id="penzel-ms" type="neuzeit">
 <lemma>Marie Sophie Penzel</lemma>
-<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder, 28. September–2. Oktober 1777, ab, vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 u. 37–39</wwwlink>, ebenso Hans Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten.</titel> Leipzig 1936, S.&#x202F;144–156.</eintrag>
+<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder, 28. September–2. Oktober 1777, ab, vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 u. 37–39</wwwlink>, ebenso <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, S.&#x202F;144–156.</eintrag>
 </kommentar>
 
 <kommentar id="percy" type="neuzeit">
@@ -16227,6 +16232,12 @@ Sethos, histoire ou vie tirée des monumens anecdotes de l’ancienne Egypte. Tr
 <titel>Ueber der Ursprung der Sprachen und der Schrift</titel> (Bützow und Wismar: Berger- und Bodnersche Buchhandlung 1772). Digitalisat: <wwwlink address="https://books.google.de/books?id=LmdpAAAAcAAJ">Google Books</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="tetens-mensch" type="neuzeit">
+<lemma>Tetens, <titel>Philosophische Versuche über die menschliche Natur und ihre Entwickelung</titel></lemma>
+<eintrag>
+<titel>Philosophische Versuche über die menschliche Natur und ihre Entwickelung</titel> von Johann Nicolas Tetens (2 Bde., Leipzig: Weidmann, Reich 1777). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:23-drucke/vb-634-1b9">HAB Wolfenbüttel</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="tetsch-cl" type="neuzeit">
@@ -16414,10 +16425,15 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <kommentar id="tiedemann" type="neuzeit">
 <lemma>Dieterich Tiedemann</lemma>
 <eintrag>1748–1803. Schriftsteller und Philosophiehistoriker, 1769–1774 Hofmeister in Livland, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117376280.html#adbcontent">Liebmann, Otto: Tiedemann, Dietrich, in: <titel>ADB</titel>&#x202F;38 (1894), S.&#x202F;276f.</wwwlink></eintrag>
-<subsection id="tiedemann-ursprung" type="neuzeit">
+<subsection id="tiedemann-ursprung" type="neuzeit" sort="10">
 <lemma>Tiedemann, <titel>Versuch einer Erklärung des Ursprunges der Sprache</titel></lemma>
 <eintrag>
 <titel>Versuch einer Erklärung des Ursprunges der Sprache</titel> (Riga: Hartknoch 1772). Digitalisat <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10583197-3">BSB München: L.gen. 93 k</wwwlink>.</eintrag>
+</subsection>
+<subsection id="tiedemann-mensch" type="neuzeit" sort="20">
+<lemma>Tiedemann, <titel>Untersuchungen über den Menschen</titel></lemma>
+<eintrag>
+<titel>Untersuchungen über den Menschen</titel> von Dieterich Tiedemann (3 Bde., Leipzig: Weidmann und Reich 1777–1778). Digitalisat <wwwlink address="http://data.onb.ac.at/rep/1082CBB6">ÖNB Wien</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
