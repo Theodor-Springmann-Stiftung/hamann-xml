@@ -12722,7 +12722,7 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 
 <kommentar id="penzel-ms" type="neuzeit">
 <lemma>Marie Sophie Penzel</lemma>
-<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder, 28. September–2. Oktober 1777, ab, vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 u. 37–39</wwwlink>, ebenso <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, S.&#x202F;144–156.</eintrag>
+<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder, 28. September–2. Oktober 1777, ab, vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 u. 37–39</wwwlink>, ebenso <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel></link>, S.&#x202F;144–156.</eintrag>
 </kommentar>
 
 <kommentar id="percy" type="neuzeit">
@@ -15093,8 +15093,8 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 </kommentar>
 
 <kommentar id="seeligmann-j" type="neuzeit">
-<lemma>JosephSeeligmann</lemma>
-<eintrag>1746–1824. Arbeitete an der Königsberger Münze.</eintrag>
+<lemma>Joseph Seeligmann</lemma>
+<eintrag>1746–1824. Mitglied der jüdischen Gemeinde in Königsberg; arbeitete an der Königsberger Münze.</eintrag>
 </kommentar>
 
 <kommentar id="seehandlungskompanie" type="neuzeit">
@@ -15881,7 +15881,17 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="stockmar" type="neuzeit">
 <lemma>Carl Christoph Stockmar</lemma>
-<eintrag>Um 1740 bis nach 1812. Licent-Direktor am ostpreußischen Department in Königsberg; Provincial-, Akzise- und Zolldirektor seit Oktober 1774; Hamanns Vorgesetzter und Nachbar, 1786 Kriegsrat; ab 1774 Mitglied der Freimaurerloge „Zum Totenkopf“, 1775 Mitgründer der Schwesterloge „Phönix“. Vgl. <link ref="ger-k-2024" linktext="true" />, S.&#x202F;144.</eintrag>
+<eintrag>Um 1740 bis nach 1812. Licent-Direktor am ostpreußischen Department in Königsberg; Provincial-, Akzise- und Zolldirektor seit Oktober 1774; Hamanns Vorgesetzter und ab 1777 sein Nachbar; 1786 Kriegsrat; ab 1774 Mitglied der Freimaurerloge „Zum Totenkopf“, 1775 Mitgründer der Schwesterloge „Phönix“. Vgl. <link ref="ger-k-2024" linktext="true" />, S.&#x202F;144.</eintrag>
+</kommentar>
+
+<kommentar id="stockmar-h" type="neuzeit">
+<lemma>Henriette Stockmar</lemma>
+<eintrag>1747–1832. Geb. Stahlkopf, Frau von <link ref="stockmar" linktext="true" /> und ab 1777 Nachbarin Hamanns.</eintrag>
+</kommentar>
+
+<kommentar id="stockmar-h" type="neuzeit">
+<lemma>Selma Stockmar</lemma>
+<eintrag>Lebensdaten nicht ermittelt, auch der Vornamen folgt nur einer Benennung <link ref="penzel" linktext="false">Penzels</link>, dessen Geliebte sie war; Tochter von <link ref="stockmar" linktext="true" /> und <link ref="stockmar-h" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="stoffel-c" type="neuzeit">
