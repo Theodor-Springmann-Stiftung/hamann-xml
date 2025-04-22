@@ -738,6 +738,16 @@ vermutl. zus. mit <link ref="desfontaines" linktext="true" />, <titel>Anecdotes 
 </subsection>
 </kommentar>
 
+<kommentar id="AzariahdeRossi" type="neuzeit">
+<lemma>Azariah de’ Rossi</lemma>
+<eintrag>1511–1578.</eintrag>
+<subsection id="AzariahdeRossi-meor" type="neuzeit" sort="10">
+<lemma>Azariah de’ Rossi, <titel>מאור עינים</titel></lemma>
+<eintrag>
+<titel>מאור עינים [Me’or Enajim][</titel> (3 Tle.; 1. Ausg.: Mantua 1573-1575) 
+</eintrag>
+</kommentar>
+
 B
 
 
@@ -11367,6 +11377,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <lemma>Mendelssohn, <titel>Schreiben an Lavater</titel></lemma>
 <eintrag>
 <titel>Schreiben an den Herrn Diaconus Lavater zu Zürich von Moses Mendelssohn</titel> (Berlin, Stettin: Nicolai 1770) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;119/301: „Ei. Schreiben an Lavater, ib. 770.“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-740481">ULB Halle: Goe 677 (4)</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="mendelssohn-kohelet" type="neuzeit" sort="70">
+<lemma>Mendelssohn, <titel>ספר מגלת קהלת</titel></lemma>
+<eintrag>
+<titel>ספר מגלת קהלת [Sēfer měgillat kohelet]</titel> (Berlin 1770) Kommentierte, hebräischsprachige Ausgabe des Prediger-Buchs (dt. Übersetzung des Kommentars durch Rainer Wenzel in JubA 20,1, S.177-282). [ Digitalisat: <wwwlink address="https://purl.uni-rostock.de/rosdok/ppn1020749431">UB Rostock: Cic-4046</wwwlink>. 
 </eintrag>
 </subsection>
 </kommentar>
