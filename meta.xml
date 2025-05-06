@@ -9377,20 +9377,20 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="489">
-        <date value="Königsberg, zwischen 17. und 29. April 1777" />
-        <sort value="1777-04-28" notBefore="1777-04-17" notAfter="1777-04-29" />
-        <location ref="2" />
+        <date value="" />
+        <sort value="1777-04-28" />
+        <location ref="" />
         <senders>
-          <sender ref="1" />
+          <sender ref="" />
         </senders>
         <receivers>
-          <receiver ref="69" />
+          <receiver ref="" />
         </receivers>
-        <hasOriginal value="false" />
-        <isProofread value="false" />
-        <isDraft value="true" />
-        <ZHInfo inZH="true">
-          <dateChanged value="true" />
+        <hasOriginal value="" />
+        <isProofread value="" />
+        <isDraft value="" />
+        <ZHInfo inZH="">
+          <dateChanged value="" />
           <begin vol="3" page="321" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
