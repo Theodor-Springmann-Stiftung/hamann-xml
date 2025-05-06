@@ -9396,39 +9396,39 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="490">
-        <date value="Königsberg, Mitte/Ende April 1777" />
-        <sort value="1777-04-14" notBefore="1777-01-01" notAfter="1777-12-31" />
-        <location ref="2" />
+        <date value="" />
+        <sort value="1777-04-14" />
+        <location ref="" />
         <senders>
-          <sender ref="1" />
+          <sender ref="" />
         </senders>
         <receivers>
-          <receiver ref="68" />
+          <receiver ref="" />
         </receivers>
-        <hasOriginal value="false" />
-        <isProofread value="false" />
-        <isDraft value="true" />
-        <ZHInfo inZH="true">
-          <dateChanged value="false" />
+        <hasOriginal value="" />
+        <isProofread value="" />
+        <isDraft value="" />
+        <ZHInfo inZH="">
+          <dateChanged value="" />
           <begin vol="3" page="322" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="491">
-        <date value="Königsberg, Mitte/Ende April 1777" />
-        <sort value="1777-04-15" order="100" notBefore="1777-01-01" notAfter="1777-12-31" />
-        <location ref="2" />
+        <date value="" />
+        <sort value="1777-04-15" />
+        <location ref="" />
         <senders>
-          <sender ref="1" />
+          <sender ref="" />
         </senders>
         <receivers>
-          <receiver ref="68" />
+          <receiver ref="" />
         </receivers>
-        <hasOriginal value="false" />
-        <isProofread value="false" />
-        <isDraft value="true" />
-        <ZHInfo inZH="true">
-          <dateChanged value="false" />
+        <hasOriginal value="" />
+        <isProofread value="" />
+        <isDraft value="" />
+        <ZHInfo inZH="">
+          <dateChanged value="" />
           <begin vol="3" page="325" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
@@ -9453,39 +9453,39 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="492">
-        <date value="Königsberg, Mitte/Ende April 1777" />
-        <sort value="1777-04-16" notBefore="1777-01-01" notAfter="1777-12-31" />
-        <location ref="2" />
+        <date value="" />
+        <sort value="1777-04-16" />
+        <location ref="" />
         <senders>
-          <sender ref="1" />
+          <sender ref="" />
         </senders>
         <receivers>
-          <receiver ref="68" />
+          <receiver ref="" />
         </receivers>
-        <hasOriginal value="false" />
-        <isProofread value="false" />
-        <isDraft value="true" />
-        <ZHInfo inZH="true">
-          <dateChanged value="false" />
+        <hasOriginal value="" />
+        <isProofread value="" />
+        <isDraft value="" />
+        <ZHInfo inZH="">
+          <dateChanged value="" />
           <begin vol="3" page="329" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="493">
-        <date value="Königsberg, Mitte/Ende April 1777" />
-        <sort value="1777-04-17" notBefore="1777-01-01" notAfter="1777-12-31" />
-        <location ref="2" />
+        <date value="" />
+        <sort value="" />
+        <location ref="" />
         <senders>
-          <sender ref="1" />
+          <sender ref="" />
         </senders>
         <receivers>
-          <receiver ref="68" />
+          <receiver ref="" />
         </receivers>
-        <hasOriginal value="false" />
-        <isProofread value="false" />
-        <isDraft value="true" />
-        <ZHInfo inZH="true">
-          <dateChanged value="false" />
+        <hasOriginal value="" />
+        <isProofread value="" />
+        <isDraft value="" />
+        <ZHInfo inZH="">
+          <dateChanged value="" />
           <begin vol="3" page="330" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
