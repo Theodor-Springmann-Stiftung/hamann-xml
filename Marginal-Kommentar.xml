@@ -65977,25 +65977,19 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="517" page="389" line="6">
-    <bzg>Paulus</bzg> 2 Ko 10,10
+    <bzg>Paulus</bzg> vgl. <link ref="nt-kor2" subref="nt-kor2-10" linktext="false">2 Kor 10,10</link>
    </marginal>
 
    <marginal letter="517" page="389" line="9">
-    <bzg>zweyte Bändchen</bzg> Ehrmann, [mit Christoph Kaufmann]Allerley gesammelt aus Reden und Handschriften großer und kleiner Männer.
-    Herausgegeben von einem Reisenden. Bändchen 1. Frankfurt/Leipzig 1776.,
-    Vermischte Betrachtungen auf alle Tage im Jahre. Allerley gesammelt aus Reden und Handschriften .... Hg v. keinem Reisenden. Zweytes Bändchen. Frankfurt/Leipzig 1777. IV,43.
-Breloken aus Allerley der Groß- und Kleinmänner. Leipzig 1778. 
+    <bzg>zweyte Bändchen</bzg> <link ref="kaufmann" subref="kaufmann-allerley" linktext="true" /> 
    </marginal>
 
    <marginal letter="517" page="389" line="12">
-    <bzg>Brelocken</bzg> Hottinger, Johann Jakob (1750- 1819), reform. schweizer Theologe, klass. Philologe, Übersetzer in
-    Zürich
-    Brelocken an's Allerley der Groß- und Kleinmänner. Leipzig 1778. 390,7.
+    <bzg>Brelocken</bzg> <link ref="hottinger" subref="hottinger-brelocken" linktext="true" /> 
    </marginal>
 
    <marginal letter="517" page="389" line="14">
-    <bzg>Heinrich Stillings Jugend</bzg> J. H. Jungs Lebensbeschreibung. 1. Bd. Heinrich Stillings Jugend; eine wahrhafte Geschichte. Berlin
-    1777.
+    <bzg>Heinrich Stillings Jugend</bzg> <link ref="jung-stiling" subref="jung-stiling-jugend" linktext="true" /> 
    </marginal>
 
    <marginal letter="517" page="389" line="15">
@@ -66007,7 +66001,7 @@ Breloken aus Allerley der Groß- und Kleinmänner. Leipzig 1778.
    </marginal>
 
    <marginal letter="517" page="389" line="18">
-    <bzg>Buchhändler in der heiligen Geistgaße</bzg> <link ref="hartung" linktext="true" />
+    <bzg>Buchhändler in der heiligen Geistgaße</bzg> <link ref="hartung-gl" linktext="true" />
    </marginal>
 
    <marginal letter="517" page="389" line="25">
@@ -66015,7 +66009,7 @@ Breloken aus Allerley der Groß- und Kleinmänner. Leipzig 1778.
    </marginal>
 
    <marginal letter="517" page="389" line="27">
-    <bzg>Antwortsschreiben</bzg> aus Berlin, vgl 391,16f.
+    <bzg>Antwortsschreiben</bzg> aus Berlin, vgl. <intlink letter="519" page="391" line="16" linktext="true" />
    </marginal>
 
 
