@@ -8841,7 +8841,7 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <subsection id="kaufmann-allerley" type="neuzeit" >
 <lemma>Kaufmann (mit <link ref="ehrmann" linktext="false">Ehrmann</link>), <titel>Allerley</titel></lemma>
 <eintrag>
-<titel>Allerley gesammelt aus Reden und Handschriften großer und kleiner Männer. Herausgegeben von Einem Reisenden, E. U. K. Erstes Bändchen</titel> (Frankfurt, Leipzig 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11712615-5">Stabi Bamberg: JH.Misc.o.1</wwwlink>.
+<titel>Allerley gesammelt aus Reden und Handschriften großer und kleiner Männer. Herausgegeben von Einem Reisenden</titel> (2 Bde., Frankfurt, Leipzig 1776/77). Digitalisat, Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11712615-5">Stabi Bamberg: JH.Misc.o.1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -12089,6 +12089,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <eintrag>
 <titel>Schreiben an den Herrn Vikar in Savoyen abzugeben bey dem Herrn Johann Jacob Rousseau</titel> (Hamburg/Leipzig 1764). Digitalisat der Ausgabe Bremen 1777: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München: L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
 </subsection>
+<subsection id="moserj-schriften" type="neuzeit" sort="50">
+    <lemma>Möser, <titel>Kleine Schriften</titel></lemma>
+    <eintrag>
+    <titel>Kleine Schriften</titel> (Bremen 1777). Digitalisat der Ausgabe Bremen 1777: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München: L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
+    </subsection>
 </kommentar>
 
 <kommentar id="mosheim" type="neuzeit">
