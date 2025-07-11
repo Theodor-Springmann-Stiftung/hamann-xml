@@ -61633,7 +61633,7 @@ Brief Nr. 480
 </marginal>
 
 <marginal letter="480" page="292" line="6" sort="1" >
-<bzg>il Dante</bzg> <link ref="dante-commedia" linktext="true" />
+<bzg>il Dante</bzg> <link ref="dante" subref="dante-commedia" linktext="true" /> 
 </marginal>
 
 <marginal letter="480" page="292" line="6" sort="2" >
@@ -62222,11 +62222,11 @@ Brief Nr. 484
 </marginal>
 
 <marginal letter="484" page="301" line="14" >
-<bzg>opusculo</bzg> <link ref="hamann-schuerze" linktext="true" />
+<bzg>opusculo</bzg> <link ref="hamann" subref="hamann-schuerze" linktext="true" /> 
 </marginal>
 
 <marginal letter="484" page="301" line="16" >
-<bzg>Nachhelf eines Vocativs</bzg> <link ref="hamann-schuerze" linktext="true" />, HHE 5, S.&#x202F;279–284
+<bzg>Nachhelf eines Vocativs</bzg> <link ref="hamann" subref="hamann-schuerze" linktext="true" />, HHE 5, S.&#x202F;279–284
 </marginal>
 
 <marginal letter="484" page="301" line="17" >
@@ -63592,7 +63592,7 @@ Brief Nr. 500
 </marginal>
 
 <marginal letter="500" page="345" line="19" >
-<bzg>Bild mit dem Eselsohr</bzg> Vmtl. der Originalabzug des Porträt-Entwurfs von Lavater für die <link ref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmente</titel></link>, den Kanter ihm einst brachte und der Hamann so bestürzte, vgl. <intlink letter="452" page="196" line="12" linktext="true" />; vgl. ebenso Hamanns Reaktion auf den später publizierten Stich <intlink letter="467" page="240" line="34" linktext="true" />.
+<bzg>Bild mit dem Eselsohr</bzg> Vmtl. der Originalabzug des Porträt-Entwurfs von Lavater für die <link ref="lavater" subref="lavater-fragmente" linktext="false"></link><titel>Physiognomischen Fragmente</titel> />, den Kanter ihm einst brachte und der Hamann so bestürzte, vgl. <intlink letter="452" page="196" line="12" linktext="true" />; vgl. ebenso Hamanns Reaktion auf den später publizierten Stich <intlink letter="467" page="240" line="34" linktext="true" />.
 </marginal>
 
 <marginal letter="500" page="345" line="21" >
@@ -63860,7 +63860,7 @@ Brief Nr. 500
 </marginal>
 
 <marginal letter="500" page="349" line="26" >
-<bzg>alten Ausgabe</bzg> vmtl. <link ref="luther-schriften" linktext="true" />
+<bzg>alten Ausgabe</bzg> vmtl. <link ref="luther" subref="luther-schriften" linktext="true" />  
 </marginal>
 
 <marginal letter="500" page="349" line="32" >
@@ -64965,7 +64965,7 @@ Brief Nr. 509
 </marginal>
 
 <marginal letter="509" page="371" line="26">
-<bzg>Kleukers Versuch</bzg> <link ref="kleuker-sohn-gottes" linktext="true" />
+<bzg>Kleukers Versuch</bzg> <link ref="kleuker" subref="kleuker-sohn-gottes" linktext="true" /> 
 </marginal>
 
 <marginal letter="509" page="371" line="27">
@@ -65293,7 +65293,7 @@ Brief Nr. 512
 </marginal>
 
 <marginal letter="512" page="375" line="28">
-<bzg>Nebenstunden</bzg> <link ref="trescho-nebenstunden" linktext="true" />
+<bzg>Nebenstunden</bzg> <link ref="trescho-sf" subref="trescho-nebenstunden" linktext="true" />
 </marginal>
 
 <marginal letter="512" page="376" line="6">
@@ -65768,7 +65768,7 @@ Brief Nr. 515
    </marginal> 
 
    <marginal letter="515" page="385" line="5">
-    <bzg>Staurogedion … Uebersetzung des Hudibras</bzg>  Stauropedion, der gräzisierte Name  von <link ref="kreuzfeld" linktext="true" /> Mit dieser
+    <bzg>Staurogedion … Uebersetzung des Hudibras</bzg>  Stauropedion, der gräzisierte Name  von <link ref="kreutzfeld" linktext="true" /> Mit dieser
     Unterschrift signierte K. im zweiten Jahrgang des Preußischen Tempe, S. 5- 13, das
     Geburtstagsgedicht An Herrn Johann Georg Hamann ... den 27. August 1777. ?!?
    </marginal> 
@@ -65981,7 +65981,7 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="517" page="389" line="9">
-    <bzg>zweyte Bändchen</bzg> <link ref="kaufmann" subref="kaufmann-allerley" linktext="true" /> 
+    <bzg>zweyte Bändchen</bzg> <link ref="kaufmann-c" subref="kaufmann-allerley" linktext="true" /> 
    </marginal>
 
    <marginal letter="517" page="389" line="12">
@@ -65989,7 +65989,7 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="517" page="389" line="14">
-    <bzg>Heinrich Stillings Jugend</bzg> <link ref="jung-stiling" subref="jung-stiling-jugend" linktext="true" /> 
+    <bzg>Heinrich Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" /> 
    </marginal>
 
    <marginal letter="517" page="389" line="15">
@@ -66036,7 +66036,7 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="518" page="390" line="12" sort="2">
-    <bzg>Stillings Jugend</bzg> <link ref="jung-stiling" subref="jung-stiling-jugend" linktext="true" />
+    <bzg>Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" />
    </marginal>
 
    <marginal letter="518" page="390" line="17">
@@ -66131,7 +66131,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="391" line="33" sort="1">
-    <bzg>Stillings Jugend</bzg> <link ref="jung-stiling" subref="jung-stiling-jugend" linktext="true" />
+    <bzg>Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="391" line="33" sort="2">
