@@ -66044,7 +66044,7 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="518" page="390" line="12" sort="1">
-    <bzg>Allerley</bzg> 2. Bd. v. <link ref="kaufmann" subref="kaufmann-allerley" linktext="true" /> 
+    <bzg>Allerley</bzg> 2. Bd. v. <link ref="kaufmann-c" subref="kaufmann-allerley" linktext="true" /> 
    </marginal>
 
    <marginal letter="518" page="390" line="12" sort="2">
@@ -66123,7 +66123,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="391" line="24" sort="2">
-    <bzg>Penzel</bzg> <link ref="penzel" linktext="true" /> die <link ref="kgpz" linktext="true" /> 
+    <bzg>Penzel</bzg> <link ref="penzel" linktext="true" /> die <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>
    </marginal>
 
    <marginal letter="519" page="391" line="26">
@@ -66147,7 +66147,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="391" line="33" sort="2">
-    <bzg>Hartungschen</bzg> <link ref="hartung" linktext="true" />
+    <bzg>Hartungschen</bzg> <link ref="hartung-gl" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="391" line="33" sort="3">
@@ -66155,7 +66155,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="391" line="34">
-    <bzg>2te Theil des Allerleys</bzg> 2. Bd. v. <link ref="kaufmann" subref="kaufmann-allerley" linktext="true" /> 
+    <bzg>2te Theil des Allerleys</bzg> 2. Bd. v. <link ref="kaufmann-c" subref="kaufmann-allerley" linktext="true" /> 
    </marginal>
 
    <marginal letter="519" page="391" line="35" sort="1">
@@ -66250,7 +66250,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="34">
-    <bzg>Mercur</bzg> <link ref="sturz" linktext="true" />; <link ref="teutscher-merkur" linktext="true" /> 
+    <bzg>Mercur</bzg> <link ref="sturz" linktext="true" />; <link ref="teutsche-merkur" linktext="true" /> 
    </marginal>
 
    <marginal letter="519" page="392" line="35">
@@ -66266,7 +66266,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="3">
-    <bzg>Kraus</bzg> <link ref="krause" linktext="true" />
+    <bzg>Kraus</bzg> <link ref="kraus" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="393" line="4" sort="1">
@@ -66298,7 +66298,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="18">
-    <bzg>Urkunde</bzg> <link ref="herder" subref="herder-urkunde" linktext="true" /> 
+    <bzg>Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" /> 
    </marginal>
 
    <marginal letter="519" page="393" line="20">
