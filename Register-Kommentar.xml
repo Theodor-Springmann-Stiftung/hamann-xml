@@ -5145,9 +5145,9 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 </eintrag>
 </subsection>
 <subsection id="fulda-wurzelwoerter" type="neuzeit">
-<lemma>Fulda, <titel>Sammlung und Abstammung Germanischen Wurzel-Wörter</titel></lemma>
+<lemma>Fulda, <titel>Sammlung und Abstammung Germanischer Wurzel-Wörter</titel></lemma>
 <eintrag>
-<titel>Sammlung und Abstammung Germanischen Wurzel-Wörter, nach der Reihe menschlicher Begriffe, zum Erweis der Tabelle, die der Preisschrift über die zween Hauptdialekte der Teutschen Sprache angefügt worden ist, von dem Verfasser derselbigen; hg. von Johann Georg Meusel</titel> (Halle: Gebauer 1776). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523291-6">BSB München: 4 L.germ. 13</wwwlink>.
+<titel>Sammlung und Abstammung Germanischer Wurzel-Wörter, nach der Reihe menschlicher Begriffe, zum Erweis der Tabelle, die der Preisschrift über die zween Hauptdialekte der Teutschen Sprache angefügt worden ist, von dem Verfasser derselbigen; hg. von Johann Georg Meusel</titel> (Halle: Gebauer 1776). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523291-6">BSB München: 4 L.germ. 13</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -7515,6 +7515,15 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <lemma>Hesiod, <titel>Opera</titel></lemma>
 <eintrag><titel>Hesiodu Askraiu Ta Heuriskomena, Hesiodi Ascræi qvæ extant cum notis, ex probatissimis quibusdam Autoribus, brevissimis, selectissimisque, accedit insuper Pasoris index, auctior multo hac novissima editione, &amp; multo correctior, Opera &amp; studio Cornelii Schrevelii</titel> (Amsterdam: Elzevir 1657) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;14/218: „Hesiodus gr. &amp; lat. ex ed. Corn. <link ref="schrevel" linktext="false">Schreuelii</link>, Amst. 657“].<line type="break" />
 <titel>Hēsiodu Askraiu Ta Heuriskomena cum notis, ex probatissimis quibusdam Autoribus, brevissimis, selectissimisque, Hesiodi Ascraei quae extant, Ta Heuriskomena, in Hesiodi Theogoniam Commentarius luculentus</titel> (Augsburg 1658) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;14/219: „Id. ex ed. ej. cum commentario Lamb. Barlaci, ib. 658“].</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="hess" type="neuzeit">
+<lemma>Johann Jakob Hess </lemma>
+<eintrag>1741–1828. Schweizer Theologe aus dem Lavater-Kreis, beschäftigte sich v.a. mit der Historischen Jesusforschung, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd119087863.html#ndbcontent">Pfister, Rudolf: Heß, Jakob, in: <titel>NDB</titel>&#x202F;9 (1972), S.&#x202F;2–3</wwwlink>.</eintrag>
+<subsection id="hess-drey-lebensjahre" type="neuzeit">
+<lemma>Hess, <titel>Geschichte der drey letzten Lebensjahre Jesu</titel></lemma>
+<eintrag><titel>Geschichte der drey letzten Lebensjahre Jesu</titel> (3 Tle., in zahlreichen Auflagen ab 1768 erschienen). Digitalisat der Ausgabe Frankfurt 1775 (3 Bde.): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271721-0">BSB München: B.hist. 111 ia</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -12323,6 +12332,12 @@ N
 <eintrag>1733–1811. Schriftsteller, Verlagsbuchhändler, Kritiker; Mitherausgeber u.a. von <link ref="briefe-literatur" linktext="true" />, <link ref="bibl-wiss-kuenste" linktext="true" /> und der <link ref="allgemeine-deutsche-bib" linktext="false">Allgemeinen deutschen Bibliothek</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118587668.html#adbcontent">Muncker, Franz: Nicolai, Friedrich, in: <titel>ADB</titel>&#x202F;23 (1886), S.&#x202F;580–590</wwwlink>.<line type="break" />
 Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. Falk, I. Gombocz, H.-G. Roloff und J. Weber (Bern/Stuttgart 1991ff.)
 </eintrag>
+<subsection id="nicolai-berlocken" type="neuzeit" sort="5">
+<lemma>Nicolai, <titel>Das Vergnügen beym Frieden</titel></lemma>
+<eintrag>
+<titel>Das Vergnügen beym Frieden</titel> ([Berlin] 1763). Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:gbv:32-1-10013017857">HAAB Weimar: 240924 - A</wwwlink>. – Von Nicolai 1763 aus Anlass des Friedens von Hubertusburg vertriebene Miniaturbücher als Uhranhänger (Berlocken), vgl. die Anzeige in den <wwwlink address="https://books.google.de/books?id=Rw5UAAAAcAAJ"><title>Neuen Anzeigen von gelehrten Sachen,</title> November 1763, S.&#x202F;742f.</wwwlink>
+</eintrag>
+</subsection>
 <subsection id="nicolai-abbt" type="neuzeit" sort="10">
 <lemma>Nicolai, <titel>Ehrengedächtniß Herrn Thomas Abbt</titel></lemma>
 <eintrag>
@@ -12354,14 +12369,13 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 <subsection id="nicolai-seuberlich" type="neuzeit" sort="50">
 <lemma>Nicolai, <titel>Kleyner Almanach</titel></lemma>
 <eintrag>
-<titel>Eyn feyner kleyner Almanach: Vol schönerr echterr liblicherr Volckslieder, lustigerr Reyen vnndt kleglicherr Mordgeschichten, gesungen von Gabriel Wunderlich weyl. Benkelsengernn zu Dessaw, herausgegeben von Daniel Seuberlich, Schusternn tzu Ritzmück ann der Elbe</titel> (2 Bde., Berlin, Stetin: Nicolai 1777–1778 [1776–1777]). Digitalisat: <wwwlink address="https://opendata.uni-halle.de//handle/1981185920/81236
-http://dx.doi.org/10.25673/79282">Halle (Saale): Universitäts- und Landesbibliothek Sachsen-Anhalt, 2014</wwwlink>.</eintrag>
+<titel>Eyn feyner kleyner Almanach: Vol schönerr echterr liblicherr Volckslieder, lustigerr Reyen vnndt kleglicherr Mordgeschichten, gesungen von Gabriel Wunderlich weyl. Benkelsengernn zu Dessaw, herausgegeben von Daniel Seuberlich, Schusternn tzu Ritzmück ann der Elbe</titel> (2 Bde., Berlin, Stetin: Nicolai 1777–1778 [1776–1777]). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925062-9">ULB Halle: GK 4.1110</wwwlink>.</eintrag>
 </subsection>
 <subsection id="nicolai-bunkel" type="neuzeit" sort="60">
-    <lemma>Nicolai, <titel>Leben Bemerkungen und Meinungen Johann Bunkels</titel></lemma>
-    <eintrag>
-    <titel>Leben Bemerkungen und Meinungen Johann Bunkels: nebst den Leben verschiedener merkwürdiger Frauenzimmer. Aus dem engländischen übersetzt; mit hinzugefügten Bemerkungen und Meinungen und XVI. Kupferstichen von D. Chodowiecki</titel> (4 Bde., Berlin: Nicolai 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925062-9">BSB München: Res/P.o.germ. 1011 i</wwwlink>.</eintrag>
-    </subsection>
+<lemma>Nicolai, <titel>Leben Bemerkungen und Meinungen Johann Bunkels</titel></lemma>
+<eintrag>
+<titel>Leben Bemerkungen und Meinungen Johann Bunkels: nebst den Leben verschiedener merkwürdiger Frauenzimmer. Aus dem engländischen übersetzt; mit hinzugefügten Bemerkungen und Meinungen und XVI. Kupferstichen von D. Chodowiecki</titel> (4 Bde., Berlin: Nicolai 1778). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/79282">BSB München: Res/P.o.germ. 1011 i</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="nicolai-g" type="neuzeit">
