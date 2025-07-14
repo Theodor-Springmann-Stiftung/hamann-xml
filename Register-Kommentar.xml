@@ -1432,6 +1432,12 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 </subsection>
 </kommentar>
 
+<kommentar id="bernstorff-ce" type="neuzeit">
+<lemma>Charitas Emilia Gräfin von Bernstorff</lemma>
+<eintrag>1732–1820. Geb. von Buchwald. Witwe des dänischen Staatsmanns Johann Hartwig Ernst Graf v. Bernstorff (1712–1772). Sie zog 1778 nach Weimar, wohin ihr <link ref="bode-jjc" linktext="true" /> folgte; Patin von Adelbert und Emil Herder, Tante von Friederike von Schardt.
+</eintrag>
+</kommentar>
+
 <kommentar id="bernoulli-j-ii" type="neuzeit">
 <lemma>Johann II Bernoulli</lemma>
 <eintrag>1710–1790. Professor der Eloquenz und Mathematik in Basel. Vater von <link ref="bernoulli-j-iii" linktext="true" />.
@@ -5221,17 +5227,19 @@ G
 
 <kommentar id="galiani" type="neuzeit">
     <lemma>Ferdinando Galiani</lemma>
-    <eintrag>1728–1787. Ital. Nationalökonom, Diplomat, 1760–69 Legationssekretär in Paris.</eintrag>
-    <subsection id="galiani-moneta" type="neuzeit" sort="5">
-        <lemma>Galiani, <titel> Della Moneta libri cinque</titel></lemma>
+    <eintrag>1728–1787. Italienischer Nationalökonom, Diplomat, 1760–1769 Legationssekretär in Paris.</eintrag>
+    <subsection id="galiani-moneta" type="neuzeit" sort="10">
+        <lemma>Galiani, <titel>Della Moneta libri cinque</titel></lemma>
         <eintrag>
-        <titel>Della Moneta libri cinque</titel> (Neapel 1750).
+        <titel>Della Moneta libri cinque</titel> (Neapel 1750). Digitalisat: <wwwlink address="https://books.google.de/books?id=vow1AQAAMAAJ">Google Books</wwwlink>.
         </eintrag>
         </subsection>
-    <subsection id="galiani-dialoge" type="neuzeit" sort="10">
-    <lemma>Galiani, <titel>Dialoge über die Regierungskunst</titel></lemma>
+    <subsection id="galiani-dialogues" type="neuzeit" sort="20">
+    <lemma>Galiani, <titel>Dialogues sur le commerce des bleds</titel></lemma>
     <eintrag>
-    <titel>Dialoge über die Regierungskunst, vornämlich in Rücksicht auf den Getreidehandel; a. d. Frz. [übersetzt von Heinrich Ludwig Wilibald Barkhausen]</titel> (Lemgo 1777).
+    <title>Dialogues sur le commerce des bleds</title> (London 1770) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;111/223: „Dialogues Sur le Commerce des Bleds (par Gagliani) Lond. 770. Don. EQVITIS PRVSSICI.“]. Digitalisat: <wwwlink address="https://hdl.handle.net/2027/nyp.33433007983236">Hathi Trust</wwwlink>
+    <line type="break" />
+    Übersetzung: <titel>Des Abts Galiani Dialogen über die Regierungskunst vornehmlich in Rücksicht auf den Getreydehandel, aus dem Französischen übersetzt und mit Anmerkungen begleitet [von Heinrich Ludwig Wilibald Barkhausen]</titel> (Lemgo: Meyer 1777). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/1076DEA6">ÖNB Wien</wwwlink>
     </eintrag>
     </subsection>
     </kommentar>
@@ -17100,12 +17108,12 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
 
 <kommentar id="vico" type="neuzeit">
     <lemma>Giovanni Battista Vico</lemma>
-    <eintrag>1668–1744. Ital. Philologe, Historiker, Jurist, 1697 Prof. der Rhetorik in Neapel.
+    <eintrag>1668–1744. Italienischer Philologe, Historiker, Jurist, 1697 Professor der Rhetorik in Neapel.
     </eintrag>
     <subsection id="vico-principi" type="neuzeit">
     <lemma>Vico, <titel>Principi di una scienza nuova</titel></lemma>
     <eintrag>
-    <titel>Principi di una scienza nuova d’intorno alle commune natura delle nazioni</titel> (Neapel 1750).</eintrag>
+    <titel>Principi di una scienza nuova d’intorno alle commune natura delle nazioni</titel> (3. Aufl. Neapel 1750, zuerst 1725). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10860426-0">BSB München: Rar. 1927</wwwlink>.</eintrag>
     </subsection>
     </kommentar>
 
