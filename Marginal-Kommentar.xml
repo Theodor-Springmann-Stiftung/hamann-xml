@@ -65309,7 +65309,7 @@ Brief Nr. 512
 </marginal>
 
 <marginal letter="512" page="376" line="10">
-<bzg>Uebersetzer Ihres Hogarthschen Hudibras</bzg> <link ref="kreutzfeld" subref="kreutzfeld-hudibras" linktext="true" /> wird im Juni/Dezember 1778 im <link ref="teutsche-merkur" linktext="false">Teutschen Merkur</link> erscheinen. – Herder schätzte <link ref="butler" subref="butler-hudibras" linktext="false">Butlers Hudibras</link> (vgl. <intlink letter="353" page="425" line="26" linktext="true" />) und hatte Hamann eine Ausgabe mit den bekannten Illustrationen <link ref="hogarth" linktext="false">Hogarths</link> geschenkt (vgl. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;172/692: „Hudibras with Cuts design’d and engrav’d by Hogard, Lond. 739. Donum Herderi nostri.“).
+<bzg>Uebersetzer Ihres Hogarthschen Hudibras</bzg> <link ref="kreutzfeld" subref="kreutzfeld-hudibras" linktext="true" /> wird im Juni/Dezember 1778 im <link ref="teutsche-merkur" linktext="false">Teutschen Merkur</link> erscheinen. – Herder schätzte <link ref="butler" subref="butler-hudibras" linktext="false">Butlers <title>Hudibras</title></link> (vgl. <intlink letter="353" page="425" line="26" linktext="true" />) und hatte Hamann eine Ausgabe mit den bekannten Illustrationen <link ref="hogarth" linktext="false">Hogarths</link> geschenkt (vgl. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;172/692: „Hudibras with Cuts design’d and engrav’d by Hogard, Lond. 739. Donum Herderi nostri.“).
 </marginal>
  
 <marginal letter="512" page="376" line="11">
@@ -65385,7 +65385,7 @@ Brief Nr. 512
 </marginal>
 
 <marginal letter="512" page="377" line="1">
-<bzg>Mendelsons Hierseyn</bzg> <link ref="mendelssohn" linktext="true" />; zu dessen Aufenthalt Ende Juli und Mitte August in Königsberg vgl. <intlink letter="509a" page="470" line="2" linktext="true" />.
+<bzg>Mendelsons Hierseyn</bzg> <link ref="mendelssohn" linktext="true" />; zu dessen Aufenthalt Ende Juli und Mitte August in Königsberg vgl. <intlink letter="509a" page="470" line="3" linktext="true" />.
 </marginal>
 
 <marginal letter="512" page="377" line="4">
@@ -65705,20 +65705,24 @@ Brief Nr. 514
 
 Brief Nr. 515
 
-<marginal letter="515" page="382" line="18">
-    <bzg>Lieschen</bzg> <link ref="hamann-er" linktext="true" />
+   <marginal letter="515" page="382" line="15">
+    <bzg>Briefe </bzg> vgl. etwa <intlink letter="504" page="354" line="8" linktext="false">HKB 504</intlink>; Reichardt war Hamanns Verbindung nach Berlin im Streit mit den <link ref="blom-w" linktext="false">Blomschen Erben</link> um den Garten seiner Dienstwohnung.
    </marginal> 
 
+<marginal letter="515" page="382" line="18">
+    <bzg>Namenstage&#x202F;…&#x202F;Lieschen</bzg> am 19. November, dem Namenstag von <link ref="hamann-er" linktext="true" />
+   </marginal>
+
    <marginal letter="515" page="382" line="20">
-    <bzg>huj. … Briefe</bzg> nicht überliefert; es ging darin noch immer um den Streit über den Blomschen Garten
+    <bzg>huj.&#x202F;…&#x202F;Briefe</bzg> nicht überliefert
    </marginal> 
 
    <marginal letter="515" page="382" line="21">
-    <bzg>Morinval</bzg> <link ref="morinval" linktext="true" />
+    <bzg>Morinval</bzg> <link ref="morinval" linktext="true" />, <intlink letter="515" page="383" line="27" linktext="false">s.u.</intlink>
    </marginal> 
 
    <marginal letter="515" page="382" line="27">
-    <bzg>Curator der Blomschen Erben</bzg>  <link ref="hoyer-d" linktext="true" />
+    <bzg>7 Junii&#x202F;…&#x202F;Curator</bzg> , vgl. <intlink letter="504" page="355" line="4" linktext="true" />
    </marginal> 
 
    <marginal letter="515" page="382" line="29">
@@ -65726,11 +65730,11 @@ Brief Nr. 515
    </marginal> 
 
    <marginal letter="515" page="383" line="1">
-    <bzg>Intelligenzblätter</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />
+    <bzg>Intelligenzblätter</bzg> <link ref="konigsberger-f-a" linktext="true" />
    </marginal> 
 
    <marginal letter="515" page="383" line="2">
-    <bzg>pr.</bzg> praeterito, vergangenen Monats 
+    <bzg>pr.</bzg> praeterito, vergangenen Monats, hier aber 29. September gemeint, vgl. <intlink letter="511" page="374" line="23" linktext="true" />
    </marginal> 
 
    <marginal letter="515" page="383" line="10">
@@ -65738,7 +65742,7 @@ Brief Nr. 515
    </marginal> 
 
    <marginal letter="515" page="383" line="13">
-    <bzg>bal paré</bzg> in Gesellschaftskleidern
+    <bzg>bal paré</bzg> in Gesellschaftskleidern, vgl. <intlink letter="514" page="381" line="23" linktext="true" />
    </marginal> 
 
    <marginal letter="515" page="383" line="15">
@@ -65746,50 +65750,71 @@ Brief Nr. 515
    </marginal> 
 
    <marginal letter="515" page="383" line="17">
-    <bzg>Es haben ihn …</bzg> <link ref="at-ps" subref="at-ps80" linktext="false">Ps 80,14</link>
+    <bzg>Es haben ihn …</bzg> <link ref="at-ps" subref="at-ps80" linktext="false">Ps 80,14</link>, vgl. <intlink letter="511" page="374" line="24" linktext="true" />
    </marginal> 
+
+   <marginal letter="515" page="383" line="19">
+<bzg>Geländer der kleinen Brücke</bzg> Vgl. die für Hamann wichtige Formulierung „Brücke ohne Lehnen“ aus der <link ref="hamann" subref="hamann-schuerze" linktext="false">Schürze von Feigenblättern</link> (<intlink letter="505" page="360" line="18" linktext="true" />), die er hier mit dem Garten seiner Dienstwohnung parallelisiert.
+</marginal> 
 
    <marginal letter="515" page="383" line="24">
     <bzg>Kluft</bzg> <link ref="nt-lk" subref="nt-lk16" linktext="false">Lk 16,26</link>
    </marginal> 
 
    <marginal letter="515" page="383" line="31">
-    <bzg>Vorgesetzten u. getreuen Nachbarn</bzg> <link ref="marvilliers" linktext="true" /> u. <link ref="stockmar" linktext="true" />, mit
-    ironischem Anklang an die Auslegung der 4. Bitte des Vaterunser durch <link ref="luther" linktext="true"/>. 
+    <bzg>Vorgesetzten u. getreuen Nachbarn</bzg> <link ref="marvilliers" linktext="true" /> u. <link ref="stockmar" linktext="true" />; „getreuen Nachbarn“ mit ironischem Anklang an die Auslegung der 4. Bitte des Vaterunser durch <link ref="luther" linktext="true"/> im <wwwlink address="https://books.google.de/books?id=DUVkAAAAcAAJ"><title>Kleinen Katechismus</title></wwwlink>. 
    </marginal> 
 
-   <marginal letter="515" page="383" line="32">
-    <bzg>Penzels Selma</bzg> die von <link ref="penzel" linktext="true" /> besungene Tochter von <link ref="stockmar" linktext="true" />
+   <marginal letter="515" page="383" line="32" sort="1">
+    <bzg>Penzels Selma</bzg> die von <link ref="penzel" linktext="true" /> ‚Selma‘ genannte <link ref="stockmar-s" linktext="false">Tochter</link> von <link ref="stockmar" linktext="true" />
+   </marginal> 
+
+<marginal letter="515" page="383" line="32" sort="2">
+<bzg>Secretair der Direction</bzg> bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />, nicht ermittelt
+</marginal> 
+
+<marginal letter="515" page="383" line="32">
+   <bzg>Vorfahren</bzg> Im Sinne von Vorgänger im Amt des Packhofverwalters; Hamann hatte sich vorgenommen, das Grundstück seiner Dienstwohnung intakt an seinen Nachfolger zu übergeben und es nicht, wie sein unmittelbarer Vorgänger <link ref="blom-wy" linktext="true" /> und seine Erben, für den eigenen Profit einzusetzen, vgl. <intlink letter="499" page="341" line="7" linktext="true" />
    </marginal> 
 
    <marginal letter="515" page="383" line="35">
-    <bzg>Iesebel wie ein Naboth:</bzg> nach <link ref="at-koe1" subref="at-koe1-21" linktext="false">1 Kön 21,3</link>, vgl auch den 5. Brief von <link ref="hamann" subref="hamann-hierophant" linktext="true" />
+    <bzg>Iesebel wie ein Naboth:</bzg> nach <link ref="at-koe1" subref="at-koe1-21" linktext="false">1 Kön 21,3</link>, vgl auch <link ref="hamann" subref="hamann-hierophant" linktext="true" />, N&#x202F;III,159/20–23
    </marginal> 
+
+   <marginal letter="515" page="383" line="37">
+<bzg>Wittwe Blom</bzg> <link ref="blom-w" linktext="true" />; die Briefentwürfe an sie befanden sich anscheinend daher in Hamanns Nachlass
+</marginal>
+
+   <marginal letter="515" page="383" line="37">
+<bzg>Vater</bzg> <link ref="hoyer-d" linktext="true" />
+</marginal>
 
    <marginal letter="515" page="384" line="32">
     <bzg>Herder</bzg> <link ref="herder" linktext="true" />
    </marginal> 
 
    <marginal letter="515" page="384" line="33">
-    <bzg>Brutus</bzg> <link ref="herder" subref="herder-brutus" linktext="true" />
+    <bzg>Brutus</bzg> <link ref="herder" subref="herder-brutus" linktext="true" />, vgl. <intlink letter="509" page="368" line="28" linktext="true" />
    </marginal> 
 
    <marginal letter="515" page="384" line="36">
-    <bzg>Moses Mephiboseth</bzg> ?!?
+    <bzg>Moses Mephiboseth</bzg> <link ref="mendelssohn" linktext="true" />; Mephiboseth ist eine Namensvariante von Merib-Baal, dem Sohn Jonatans, vgl. <link ref="at-sam2" subref="at-sam2-21" linktext="false">2 Sam 21,7</link>; zu dessen Königsberg-Aufenthalt vgl. <intlink letter="509a" page="470" line="3" linktext="true" />.
    </marginal> 
 
    <marginal letter="515" page="384" line="37">
-    <bzg>Jonathan</bzg> H. selbst
+    <bzg>Jonathan</bzg> Hamann selbst
    </marginal> 
 
    <marginal letter="515" page="385" line="1">
-    <bzg>Phädons</bzg> ?!?
+    <bzg>Phädons</bzg> Mendelssohn, nach <link ref="mendelssohn" subref="mendelssohn-phaedon" linktext="false"><title>Phaedon oder Ueber die Unsterblichkeit der Seele</title></link>
    </marginal> 
 
-   <marginal letter="515" page="385" line="5">
-    <bzg>Staurogedion … Uebersetzung des Hudibras</bzg>  Stauropedion, der gräzisierte Name  von <link ref="kreutzfeld" linktext="true" /> Mit dieser
-    Unterschrift signierte K. im zweiten Jahrgang des Preußischen Tempe, S. 5- 13, das
-    Geburtstagsgedicht An Herrn Johann Georg Hamann ... den 27. August 1777. ?!?
+   <marginal letter="515" page="385" line="5" sort="1">
+    <bzg>Staurogedion</bzg> Stauropedion, der gräzisierte Name von <link ref="kreutzfeld" linktext="true" />. Mit diesem Namen unterschrieb er sein <link ref="kreutzfeld" subref="kreutzfeld-geburtstagsgedicht1777" linktext="false">Geburtstagsgedicht an Hamann von 1777</link> im Druck von 1781 und verwendete ihn wohl auch zuvor.
+    </marginal>
+
+    <marginal letter="515" page="385" line="5" sort="2">
+    <bzg>Uebersetzung des Hudibras</bzg> Die <link ref="kreutzfeld" subref="kreutzfeld-hudibras" linktext="false"><titel>Probe einer neuen Verteutschung des Hudibras</titel></link> wird im Juni/Dezember 1778 im <link ref="teutsche-merkur" linktext="false">Teutschen Merkur</link> erscheinen.
    </marginal> 
 
    <marginal letter="515" page="385" line="8">
@@ -65797,15 +65822,23 @@ Brief Nr. 515
    </marginal> 
 
    <marginal letter="515" page="385" line="9">
-    <bzg>Bode</bzg> <link ref="bode-ca" linktext="true" />
+    <bzg>Bode die Wittwe heyrathet</bzg> <link ref="bode-jjc" linktext="true" /> und <link ref="bernstorff-ce" linktext="true" />; die Hochzeit ist wohl nur ein Gerücht.
    </marginal> 
 
    <marginal letter="515" page="385" line="10">
-    <bzg>Prof. Engel</bzg>  Engel, Johann Jakob, [Hg] Der Philosoph für die Welt. 1.u. 2. Theil Leipzig 1775 u. 1777. 3. Teil Berlin 1800.
+    <bzg>Prof. Engel</bzg>  Engel, Johann Jakob, [Hg] Der Philosoph für die Welt. 1.u. 2. Theil Leipzig 1775 u. 1777. 3. Teil Berlin 1800.?!?
    </marginal> 
 
    <marginal letter="515" page="385" line="12">
     <bzg>diplomatischen Autorschaft</bzg> <link ref="nicolai" subref="nicolai-beschreibung" linktext="true" />
+   </marginal> 
+
+   <marginal letter="515" page="385" line="13">
+    <bzg>Gesicht verloren</bzg> vgl. <intlink letter="513" page="379" line="25" linktext="true" />
+   </marginal> 
+
+   <marginal letter="515" page="385" line="14">
+    <bzg>Blindheit seines Homers</bzg> nach dem Titelkupfer der <link ref="briefe-literatur" linktext="false"><title>Literaturbriefe</title></link>, einem blinden Homer
    </marginal> 
 
    <marginal letter="515" page="385" line="17">
@@ -66481,7 +66514,10 @@ Meine Herren, Sie übertreiben alle meine Dankbarkeit, indem Sie die Grenzen und
 </marginal>
 
 
-
+Brief Nr. 539
+   <marginal letter="539" page="42" line="9">
+    <bzg>ana u. P. Mannah&#x202F;…</bzg> siehe <link ref="kreutzfeld" subref="kreutzfeld-geburtstagsgedicht1777" linktext="true" />, S. 12</wwwlink>
+   </marginal>
 
 </marginalien>
 </data>
