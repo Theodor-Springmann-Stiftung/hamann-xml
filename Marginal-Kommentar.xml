@@ -66179,7 +66179,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="4" sort="1">
-    <bzg>Principi della Scienzia Nuova</bzg>  ?!?
+    <bzg>Principi della Scienzia Nuova</bzg> <link ref="vico" subref="vico-principi" linktext="true" />   
    </marginal>
 
    <marginal letter="519" page="392" line="4" sort="2">
@@ -66215,7 +66215,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="27">
-    <bzg>so der HErr will</bzg> Jak 4,15.
+    <bzg>so der HErr will</bzg> <link ref="nt-jak" subref="nt-jak4" linktext="false">Jak 4,15</link> 
    </marginal>
 
    <marginal letter="519" page="392" line="29">
@@ -66239,7 +66239,7 @@ Brief Nr. 519
 
    <marginal letter="519" page="392" line="33">
     <bzg>Brief im Museo</bzg> an Heinrich Boie, über Herders Predigt in Pyrmont, in:
-    Deutsches Museum, März/Mai 1777
+    Deutsches Museum, März/Mai 1777 ?!?
    </marginal>
 
    <marginal letter="519" page="392" line="34">
@@ -66266,7 +66266,7 @@ Brief Nr. 519
     <bzg>Ocean</bzg> mit dem Beginn seiner Mortzcinni- Übersetzung. Der geistliche Abentheurer, oder der als Ueberwinder im Glauben und als Virtuose im Predigen
     herumfahrende Ritter des H. Stephan- Ordens Freiherr von Mortezinni. Eine Geschichte unserer Tage in
     einem Sendschreiben an den königlichen Bibliothekar Herrn Doctor [Johann Erich] Biester in Berlin.
-    Königsberg 1784.
+    Königsberg 1784. ?!?
    </marginal>
 
    <marginal letter="519" page="393" line="4" sort="2">
@@ -66274,7 +66274,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="5">
-    <bzg>Spencers Fairy Qveen</bzg> Spenser (Spencer), Edmund (1552?- 1599), engl. Dichter The Fairie Queene. Disposed into twelve books, fashioning XII. Morall vertues, etc. 2 vol. London 1590.
+    <bzg>Spencers Fairy Qveen</bzg> <link ref="spenser" subref="spenser-fairy" linktext="true" />  
     1596.
    </marginal>
 
@@ -66325,7 +66325,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="32">
-    <bzg>Nicolai</bzg> 513. vgl. 379,25f
+    <bzg>Nicolai</bzg> Brief Nr. 513. vgl. <intlink letter="513" page="379" line="25" linktext="true" /> 
    </marginal>
 
    <marginal letter="519" page="393" line="33">
@@ -66333,7 +66333,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="36" sort="1">
-    <bzg>Vico</bzg> Vico, Giovanni Battista 
+    <bzg>Vico</bzg> <link ref="vico" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="393" line="36" sort="2">
