@@ -4383,6 +4383,14 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 </subsection>
 </kommentar>
 
+
+<kommentar id="ephemeriden" type="neuzeit">
+    <lemma><titel>Ephemeriden</titel></lemma>
+    <eintrag>
+    <titel>Ephemeriden der Menschheit oder Bibliothek der Sittenlehre und der Politik [ab Heft 2: der Sittenlehre, der Politik und der Gesetzgebung]</titel>, hg. von <link ref="iselin" linktext="true" /> (Basel/Leipzig 1776/8, 1780/4, 1786 [ab 1782 hg. v. Wilhelm Gottlieb Becker].) Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/2091681/0/LOG_0000/">Universität Bielefeld</wwwlink>.
+    </eintrag>
+    </kommentar>
+
 <kommentar id="epiktet" type="neuzeit">
 <lemma>Epiktet</lemma>
 <eintrag>Um 50 bis 138&#x202F;n.&#x202F;Chr. Kaiserzeitlicher stoischer Philosoph.</eintrag>
@@ -5211,6 +5219,24 @@ G
 </subsection>
 </kommentar>
 
+<kommentar id="galiani" type="neuzeit">
+    <lemma>Ferdinando Galiani</lemma>
+    <eintrag>1728–1787. Ital. Nationalökonom, Diplomat, 1760–69 Legationssekretär in Paris.</eintrag>
+    <subsection id="galiani-moneta" type="neuzeit" sort="5">
+        <lemma>Galiani, <titel> Della Moneta libri cinque</titel></lemma>
+        <eintrag>
+        <titel>Della Moneta libri cinque</titel> (Neapel 1750).
+        </eintrag>
+        </subsection>
+    <subsection id="galiani-dialoge" type="neuzeit" sort="10">
+    <lemma>Galiani, <titel>Dialoge über die Regierungskunst</titel></lemma>
+    <eintrag>
+    <titel>Dialoge über die Regierungskunst, vornämlich in Rücksicht auf den Getreidehandel; a. d. Frz. [übersetzt von Heinrich Ludwig Wilibald Barkhausen]</titel> (Lemgo 1777).
+    </eintrag>
+    </subsection>
+    </kommentar>
+
+
 <kommentar id="gallitzin-a" type="neuzeit">
 <lemma>Amalia von Gallitzin</lemma>
 <eintrag>1748–1806. Sallonière und Schriftstellerin in Münster, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz19848.html#ndbcontent">Sudhof, Siegfried, Johannes: Gallitzin, Amalia Fürstin, in: <titel>NDB</titel>&#x202F;6 (1964), S.&#x202F;51–53</wwwlink>.
@@ -5383,6 +5409,17 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 <lemma>The Gentleman’s Magazine</lemma>
 <eintrag>1731–1907 erschienenes Londoner Periodikum, das vor allem Auszüge aus anderen Zeitschriften und Büchern sammelte. Hamann nutzte es als Quelle für seine Übersetzungen aus dem Englischen für die <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />. Digitalisat: <wwwlink address="https://catalog.hathitrust.org/Record/000542092">Hathi Trust</wwwlink>.</eintrag>
 </kommentar>
+
+<kommentar id="genovesi" type="neuzeit">
+    <lemma>Antonio Genovesi</lemma>
+    <eintrag>1712–1769. Ital. Philosoph und Nationalökonom.
+    </eintrag>
+    <subsection id="genovesi-grundsaetze" type="neuzeit" sort="10">
+    <lemma>Genovesi, <titel>Grundsätze der bürgerlichen Oeconomie</titel></lemma>
+    <eintrag>
+    <titel>Grundsätze der bürgerlichen Oeconomie</titel> (2 Bde., Leipzig: Kummer 1776).</eintrag>
+    </subsection>
+    </kommentar>
 
 <kommentar id="georg" type="neuzeit">
 <lemma>Georg von Pisidien</lemma>
@@ -5692,9 +5729,7 @@ Prolog zu den neuesten Offenbarungen Gottes. Verteutscht durch Dr. Carl Friedric
 <eintrag>
 <titel>Götter, Helden und Wieland. Eine Farce. Satirisches Gespräch</titel> (anonym, Leipzig 1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;141/192: „Götter, Helden und Wieland, 774.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10109251-9">München, Bayerische Staatsbibliothek: P.o.germ. 490 b</wwwlink>.</eintrag>
 </subsection>
-
 </kommentar>
-
 
 
 <kommentar id="goettingische-anzeigen" type="neuzeit">
@@ -17049,6 +17084,17 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
 <titel>Antihephästion</titel> (Danzig: Flörke 1776). Digitalisat: <wwwlink address="https://purl.uni-rostock.de/rosdok/ppn817467157">UB Rostock: G-3038</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
+
+<kommentar id="vico" type="neuzeit">
+    <lemma>Giovanni Battista Vico</lemma>
+    <eintrag>1668–1744. Ital. Philologe, Historiker, Jurist, 1697 Prof. der Rhetorik in Neapel.
+    </eintrag>
+    <subsection id="vico-principi" type="neuzeit">
+    <lemma>Vico, <titel>Principi di una scienza nuova</titel></lemma>
+    <eintrag>
+    <titel>Principi di una scienza nuova d’intorno alle commune natura delle nazioni</titel> (Neapel 1750).</eintrag>
+    </subsection>
+    </kommentar>
 
 <kommentar id="victor" type="neuzeit">
 <lemma>Sextus Aurelius Victor</lemma>

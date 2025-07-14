@@ -66167,30 +66167,23 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="391" line="35" sort="3">
-    <bzg>Gagliani Uebersetzung</bzg> Galiani (Gagliani), Ferdinando (1728- 1787), ital. Nationalökonom, Diplomat, 1760- 69
-    Legationssekretär in Paris. Dialogen über die Regierungskunst, vornämlich in Rücksicht auf den Getreidehandel; a. d. Frz.
-    [übersetzt von Heinrich Ludwig Wilibald Barkhausen]. Lemgo 1777
+    <bzg>Gagliani Uebersetzung</bzg> <link ref="galiani" subref="galiani-dialoge" linktext="true" />  
    </marginal>
 
    <marginal letter="519" page="392" line="1">
-    <bzg>Iselins Ephemeriden</bzg> [Hg] Ephemeriden der Menschheit oder Bibliothek der Sittenlehre und der Politik [ab Heft 2: der
-    Sittenlehre, der Politik und der Gesetzgebung]. Basel/Leipzig 1776/8, 1780/4, 1786 [ab 1782 W. G.
-    Becker].
+    <bzg>Iselins Ephemeriden</bzg> <link ref="ephemeriden" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="392" line="2">
-    <bzg>Gagliani Libri cinque della Moneta</bzg> Della Moneta libri cinque. Neapel 1750.
+    <bzg>Gagliani Libri cinque della Moneta</bzg> <link ref="galiani" subref="galiani-moneta" linktext="true" /> 
    </marginal>
 
    <marginal letter="519" page="392" line="4" sort="1">
-    <bzg>Principi della Scienzia Nuova</bzg> Vico, Giovanni Battista (1668- 1744), ital. Philologe, Historiker, Jurist, 1697 Prof. der Rhetorik in
-    Neapel. 
-    Principi di una scienza nuova d'intorno alle commune natura delle nazioni. 2. Ed. 1725.
+    <bzg>Principi della Scienzia Nuova</bzg>  ?!?
    </marginal>
 
    <marginal letter="519" page="392" line="4" sort="2">
-    <bzg>Gianovese</bzg> Genovesi (Gianovese), Antonio (1712- 1769), ital. Philosoph und Nationalökonom
-    Grundsätze der bürgerlichen Oeconomie. 2 Bde. Leipzig 1776.
+    <bzg>Gianovese</bzg> <link ref="genovesi" subref="genovesi-grundsaetze" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="392" line="5">
@@ -66198,15 +66191,15 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="9">
-    <bzg>Denkmal für mein Pathchen</bzg> herder-winkelmann
+    <bzg>Denkmal für mein Pathchen</bzg> <link ref="herder" subref="herder-winkelmann" linktext="true" /> 
    </marginal>
 
    <marginal letter="519" page="392" line="11">
-    <bzg>König und Prediger</bzg> Pr 1,2
+    <bzg>König und Prediger</bzg> <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,2</link> 
    </marginal>
 
    <marginal letter="519" page="392" line="12">
-    <bzg>Eitelkeit der Eitelkeiten</bzg> Pr 12,8
+    <bzg>Eitelkeit der Eitelkeiten</bzg> <link ref="at-pr" subref="at-pr12" linktext="false">Pred 12,8</link> 
    </marginal>
 
    <marginal letter="519" page="392" line="13">
@@ -66237,7 +66230,7 @@ Brief Nr. 519
     <bzg>Bückeb. Gebets</bzg> wohl das Gebet, am Grabmaale Ihro Erlauchten der
     weil. regierenden Gräfin von Schaumburg- Lippe- Maria Barbara Eleonora gebohrnen
     Gräfin und Edlen Frauen zur Lippe und Sternberg, gehalten den 7. September 1776
-    zum Baum, SWS XXXI,416- 421.
+    zum Baum, SWS XXXI,416- 421. ?!?
    </marginal>
 
    <marginal letter="519" page="392" line="32">
@@ -66262,7 +66255,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="2">
-    <bzg>Levin den Gagliani</bzg> vll. Levin, Samuel Wolf, Rabbiner in Worms; es war Barkhausen, Heinrich Ludwig Willibald (1742- 1813), Kriegsrat
+    <bzg>Levin den Gagliani</bzg> vll. gemeint Samuel Wolf Levin, Rabbiner in Worms; es war aber Heinrich Ludwig Willibald Barkhausen (1742–1813), Kriegsrat.
    </marginal>
 
    <marginal letter="519" page="393" line="3">
@@ -66348,8 +66341,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="394" line="1">
-    <bzg>Clerici</bzg> Clericus (Le Clerc), Jean (1657- 1736), Theologe und Prof. am Arminianischen Gymnasium in
-    Amsterdam
+    <bzg>Clerici</bzg> Jean Clericus (1657–1736), Theologe und Prof. am Arminianischen Gymnasium in Amsterdam
    </marginal>
 
    <marginal letter="519" page="394" line="5">
@@ -66369,7 +66361,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="394" line="18">
-    <bzg>Stecken und Stab</bzg> Ps 23,4.
+    <bzg>Stecken und Stab</bzg> <link ref="at-ps" subref="at-ps23" linktext="false">Ps 23,4</link> 
    </marginal>
 
    <marginal letter="519" page="394" line="26">
@@ -66388,7 +66380,7 @@ Brief Nr. 519
     <bzg>Drama von Penzel</bzg> Er hatte ein Drama, das seinen eigenen Werdegang als Soldat zeigte, in Königsberg kursieren lassen. Es
     blieb ungedruckt, die Aufführung wurde untersagt, das Manuskript ging verloren; vgl
     Hamanns Urteil nach der Lektüre, IV,130,26ff., ausführlich B. GAJEK im Jb. des FDH,
-    1986.
+    1986. ?!?
    </marginal>
 
    <marginal letter="519" page="395" line="1" >
@@ -66400,14 +66392,12 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="395" line="2" sort="2">
-    <bzg>Schwester</bzg> Penzel, Maria Sophie (1750- 1810); H schrieb ihn sich
-    ab, das Original ist verschollen; gedruckt wurde er 1837 in den Nummern 9 u. 10 der
-    Blätter für literarische Unterhaltung (Verlag Brockhaus, Leipzig) von einem
-    Anonymus.
+    <bzg>Schwester</bzg> Maria Sophie Penzel (1750–1810); H. schrieb sich einen Brief selbst ab; gedruckt wurde er 1837 in den Nummern 9 u. 10 der
+    Blätter für literarische Unterhaltung (Verlag Brockhaus, Leipzig).
    </marginal>
 
    <marginal letter="519" page="395" line="5">
-    <bzg>Romans</bzg> Liebe Penzels und vmtl. der Tochter von <link ref="stockmar" linktext="true" />, die Penzel <link ref="stockmar-s" linktext="false">„Selma“</link> nannte, vgl. <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, 126f.</link>)
+    <bzg>Romans</bzg> Liebe Penzels zu der Tochter von <link ref="stockmar" linktext="true" />, die Penzel <link ref="stockmar-s" linktext="false">„Selma“</link> nannte, vgl. <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, 126f.</link>)
    </marginal>
 
 
