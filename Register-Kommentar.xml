@@ -2450,6 +2450,18 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 <kommentar id="burnet" type="neuzeit">
 <lemma>Thomas Burnet</lemma>
 <eintrag>1635–1715. Engl. Theologe und Historiker, Theoretiker zur Kosmogonie, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd119439034.html">Deutsche Biographie</wwwlink>.</eintrag>
+<subsection id="burnet-theoria" type="neuzeit" sort="10">
+    <lemma>Burnet, <titel>Telluris Theoria sacra</titel></lemma>
+    <eintrag>
+    <titel>Telluris Theoria sacra: orbis nostris originem mutationes generales quas aut jam subiit, aut olim subiturus est, complectens</titel> (2 Bde., London 1681) [Biga&#x202F;101/71: „Th. Burneti Telluris Theoria sacra, Philosophicae, Amst. 699“]..
+    </eintrag>
+    </subsection>
+    <subsection id="burnet-archaeologicae" type="neuzeit" sort="20">
+        <lemma>Burnet, <titel>Archaeologicae Philosophicae</titel></lemma>
+        <eintrag>
+        <titel>Archaeologicae Philosophicae, sive doctrina antiqua de rerum originibus</titel> (London 1692) [Biga&#x202F;101/71: „Th. Burneti […] archeologiae, Philosophicae, Amst. 699“].
+        </eintrag>
+        </subsection>
 </kommentar>
 
 <kommentar id="burk" type="neuzeit">
@@ -8327,6 +8339,11 @@ J
 <eintrag>
 <titel>Einleitung in die christliche Glaubens- und Sittenlehre in Frage und Antwort abgefasset</titel> (Hannover: Richter 1765).</eintrag>
 </subsection>
+<subsection id="jacobi-religion" type="neuzeit" sort="25">
+    <lemma>Johann Friedrich Jacobi, <titel>Abhandlungen über wichtige Gegenstände der Religion</titel></lemma>
+    <eintrag>
+    <titel>Abhandlungen über wichtige Gegenstände der Religion</titel> (3 Bde., Zelle: Gsell, 1773/76) Digitalisat, 2. Auflage 1776: <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1671576438">Staatsbibliothek zu Berlin: Historische Drucke, Theologie, VD18 digital</wwwlink>.</eintrag>
+    </subsection>
 </kommentar>
 
 <kommentar id="jacobi-cf" type="neuzeit">
@@ -15237,6 +15254,19 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 <lemma>Königlich Preußische Seehandlungskompanie</lemma>
 <eintrag>Gegründet im Oktober 1772 von <link ref="friedrich-II" linktext="true" /> für den Salzhandel mit den annektierten, ehemals polnischen Gebieten (vgl. das Edikt in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beilage zum 86. St. vom 26. Oktober 1772); 1774 mit der Salzhandlungskompanie vereinigt. Ihr Sitz in Königsberg war neben Hamanns Haus am alten Graben 758 (vgl. <intlink letter="393" page="58" line="7" linktext="true" />), sie wurde zunächst geführt von <link ref="lattre" linktext="true" />. Siehe <wwwlink address="https://doi.org/10.25932/publishup-59252">Jürgen Luh: <titel>Das Jahr 1772,</titel> in: Monika Wienfort (Hg.): <titel>Die Preußische Seehandlung zwischen Markt, Staat und Kultur</titel> (Potsdam 2023), 9–24</wwwlink>.</eintrag>
 </kommentar>
+
+<kommentar id="seiler" type="neuzeit">
+    <lemma>Georg Friedrich Seiler</lemma>
+    <eintrag>1733–1807. Evang. Theologe, 1770 Prof. der Theologie in Erlangen, 1775 Konsistorialrat in Bayern, 1788 Superintendent in Erlangen, <wwwlink address="https://www.deutsche-biographie.de/pnd118760688.html#adbcontent">Tschackert, Paul: Seiler, Georg Friedrich, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;647&#x2013;649</wwwlink>.
+    </eintrag>
+    <subsection id="seiler-betrachtung" type="neuzeit" sort="10">
+    <lemma>Seiler, <titel>Gemeinnützige Betrachtung</titel></lemma>
+    <eintrag>
+    <titel>Gemeinnützige Betrachtung der neuesten Schriften, welche Religion, Sitten und Besserung des menschlichen Geschlechts betreffen. In Verb. m. e. Gesellschaft von Gelehrten</titel> (Erlangen: Cammerer 1776/1800).
+    </eintrag>
+    </subsection>
+    </kommentar>
+
 
 <kommentar id="seinsheim" type="neuzeit">
 <lemma>Adam Friedrich Graf von Seinsheim</lemma>

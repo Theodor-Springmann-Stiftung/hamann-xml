@@ -66335,13 +66335,11 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="20">
-    <bzg>Burneti Theoriam</bzg> Telluris Theoria sacra: orbis nostris originem mutationes generales quas aut jam subiit, aut olim
-    subiturus est, complectens. 1, 2. London 1681.
+    <bzg>Burneti Theoriam</bzg> <link ref="burnet" subref="burnet-theoria" linktext="true" />  
    </marginal>
 
    <marginal letter="519" page="393" line="21">
-    <bzg>Archaeologia</bzg> Archaeologicae Philosophicae, sive doctrina antiqua de rerum originibus. London 1692. Biga
-    101/71[Amsterdam 1699].
+    <bzg>Archaeologia</bzg> <link ref="burnet" subref="burnet-archaeologicae" linktext="true" />  
    </marginal>
 
    <marginal letter="519" page="393" line="22">
@@ -66349,13 +66347,11 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="24">
-    <bzg>Meiners Abhandl.</bzg> Christoph Meiners Vermischte philosophische Schriften. 3. Teil: Über die Mysterien der Alten, besonders über die
-    Eleusinischen Geheimnisse. Leipzig 1776
+    <bzg>Meiners Abhandl.</bzg> <link ref="meiners" subref="meiners-vermischte" linktext="true" />, Bd. 3   
    </marginal>
 
    <marginal letter="519" page="393" line="26">
-    <bzg>Jacobi Abhandlungen</bzg> über wichtige Gegenstände der Religion]: von Johann
-    Friedrich J.
+    <bzg>Jacobi Abhandlungen</bzg> <link ref="jacobi-jf" subref="jacobi-religion" linktext="true" /> 
    </marginal>
 
    <marginal letter="519" page="393" line="29">
