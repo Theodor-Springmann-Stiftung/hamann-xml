@@ -26376,7 +26376,7 @@ Brief Nr. 232
 </marginal>
 
 <marginal letter="232" page="164" line="35" sort="2">
-<bzg>Moses</bzg> <link ref="mendelssohn" linktext="true" />, seit 1762 verheiratet mit Fromet Guggenheim (1737–1812).
+<bzg>Moses</bzg> <link ref="mendelssohn" linktext="true" />, mit <link ref="mendelssohn-f" linktext="false">Fromet Gugenheim</link>
 </marginal>
 
 <marginal letter="232" page="165" line="1" sort="1">
@@ -26486,7 +26486,7 @@ Brief Nr. 233
 </marginal>
 
 <marginal letter="233" page="166" line="20">
-<bzg>HEn Moses</bzg> <link ref="mendelssohn" linktext="true" /> hatte am 22. Juni 1762 Fromet Guggenheim geheiratet.
+<bzg>HEn Moses</bzg> <link ref="mendelssohn" linktext="true" /> hatte am 22. Juni 1762 <link ref="mendelssohn-f" linktext="false">Fromet Gugenheim</link> geheiratet.
 </marginal>
 
 <marginal letter="233" page="166" line="23">
@@ -33203,7 +33203,7 @@ Brief Nr. 275
 </marginal>
 
 <marginal letter="275" page="271" line="34">
-<bzg>Mutter</bzg> Fromet Mendelssohn (1737–1812)
+<bzg>Mutter</bzg> <link ref="mendelssohn-f" linktext="true" />
 </marginal>
 
 <marginal letter="275" page="271" line="35" sort="1">
@@ -44789,7 +44789,7 @@ Brief Nr. 372
 </marginal>
 
 <marginal letter="372" page="5" line="24">
-<bzg>liebe Hälfte</bzg> Fromet Mendelssohn (1737–1812)
+<bzg>liebe Hälfte</bzg> <link ref="mendelssohn-f" linktext="true" />
 </marginal>
 
 Brief Nr. 373
@@ -65146,7 +65146,7 @@ Brief Nr. 510
 Brief Nr. 511
 
 <marginal letter="511" page="374" line="5">
-Der Brief wurde wohl nicht abgeschickt, vgl. <intlink letter="516" page="387" line="22" linktext="true" />.
+Der Briefentwurf wurde nicht abgeschickt, vgl. <intlink letter="516" page="387" line="22" linktext="true" /> und die Wiederholungen in <intlink letter="516a" page="388" line="10" linktext="false">HKB 516a</intlink>.
 </marginal>
 
 <marginal letter="511" page="374" line="7">
@@ -65162,7 +65162,7 @@ Der Brief wurde wohl nicht abgeschickt, vgl. <intlink letter="516" page="387" li
 </marginal>
 
 <marginal letter="511" page="374" line="9">
-<bzg>Reisegefährten</bzg> <link ref="gugenheim-j" linktext="true" />
+<bzg>Reisegefährten</bzg> <link ref="gugenheim-j" linktext="true" /> oder <link ref="ephraim-bv" linktext="true" />
 </marginal>
 
 <marginal letter="511" page="374" line="11" sort="1">
@@ -65210,7 +65210,7 @@ Der Brief wurde wohl nicht abgeschickt, vgl. <intlink letter="516" page="387" li
 </marginal>
 
 <marginal letter="511" page="374" line="20" sort="3">
-<bzg>Berner Beyträge</bzg> nicht ermittelt; [Henkel: Lies Bremer Beyträge; etwas im Zusammenhang von <link ref="haefeli" subref="haefeli-sendschreiben" linktext="true" />?!? – die <wwwlink address="https://de.wikipedia.org/wiki/Bremer_Beitr%C3%A4ge">Neuen Beyträge zum Vergnügen des Verstandes und Witzes</wwwlink> können ja wohl nicht gemeint sein?!?]
+<bzg>Berner Beyträge</bzg> nicht ermittelt; mglw. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10105483-7"><title>Beyträge in das Archiv des deutschen Parnasses</title> (Bern 1776–1777</wwwlink> oder <wwwlink address="https://doi.org/10.11588/diglit.26049"><title>Bernerisches Magazin der Natur, Kunst und Wissenschaften</title> (Bern 1775–1777)</wwwlink>?!?
 </marginal>
 
 <marginal letter="511" page="374" line="20" sort="4">
@@ -65592,7 +65592,7 @@ Brief Nr. 513
 </marginal>
 
 <marginal letter="513" page="380" line="11" sort="2">
-<bzg>Bunkel</bzg> <link ref="nicolai" subref="nicolai-bunkel" linktext="true" />  
+<bzg>Bunkel</bzg> <link ref="amory" subref="amory-buncle" linktext="true" />; die Übersetzung war bei Nicolai im Erscheinen begriffen
 </marginal>
 
 <marginal letter="513" page="380" line="14">
@@ -65897,7 +65897,7 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516" page="386" line="17">
-    <bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
+    <bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />, vgl. <intlink letter="516a" page="387" line="34" linktext="true" />
    </marginal>
 
    <marginal letter="516" page="386" line="18">
@@ -65909,7 +65909,7 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516" page="386" line="28">
-    <bzg>letzten Sonntage unsers Kirchenjahrs</bzg> letzter Sonntag vor dem Advent, wohl 23. November 1777
+    <bzg>letzten Sonntage unsers Kirchenjahrs</bzg> letzter Sonntag vor dem Advent, 23. November 1777
    </marginal>
 
    <marginal letter="516" page="387" line="3">
@@ -65925,7 +65925,7 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516" page="387" line="15" sort="1">
-    <bzg>Teufel Uriel</bzg> <link ref="penzel" linktext="true" />, nach dem Konvertiten Gabriel da Costa, auch Uriel genannt
+    <bzg>Uriel</bzg> <link ref="penzel" linktext="false">Penzel</link>, vmtl. nach dem häufig die Konfession wechselnden Uriel da Costa (1585–1640), der, ebenfalls wie Penzel, eine Lebensbeschreibung verfasste (<title>Exemplar humanae vitae</title>)
    </marginal>
 
    <marginal letter="516" page="387" line="15" sort="2">
@@ -65933,7 +65933,7 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516" page="387" line="19">
-    <bzg>Medisance</bzg> üble Nachrede
+    <bzg>Medisance</bzg> üble Nachrede, wohl im Zusammenhang von Liebschaften Penzels
    </marginal>
 
    <marginal letter="516" page="387" line="20">
@@ -65945,7 +65945,7 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516" page="387" line="23">
-    <bzg>Reisegefährten</bzg> Mendelssohn reiste mit Joseph Gugenheim (ein Schwager), David Friedländer und <link ref="ephraim-bv" linktext="true" />.
+    <bzg>Reisegefährten</bzg> Mendelssohn reiste mit <link ref="gugenheim-j" linktext="true" /> (ein Schwager), David Friedländer und <link ref="ephraim-bv" linktext="true" />.
    </marginal>
 
    <marginal letter="516" page="387" line="27">
@@ -65956,7 +65956,7 @@ Brief Nr. 516
    Brief Nr. 516a
 
    <marginal letter="516a" page="387" line="32" sort="1">
-    <bzg>Uriel Penzel</bzg> gemeint ist <link ref="penzel" linktext="true" /> nach dem Konvertiten Gabriel da Costa, auch Uriel genannt.
+    <bzg>Uriel</bzg> <link ref="penzel" linktext="false">Penzel</link>, vmtl. nach dem häufig die Konfession wechselnden Uriel da Costa (1585–1640), der, ebenfalls wie Penzel, eine Lebensbeschreibung verfasste (<title>Exemplar humanae vitae</title>)
    </marginal>
 
    <marginal letter="516a" page="387" line="32" sort="2">
@@ -65964,19 +65964,23 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516a" page="387" line="33">
-    <bzg>Coheleth</bzg> <link ref="mendelssohn" subref="mendelssohn-kohelet" linktext="true" />
+    <bzg>Coheleth</bzg> <link ref="mendelssohn" subref="mendelssohn-kohelet" linktext="true" />, vgl. <intlink letter="509a" page="470" line="16" linktext="true" />
    </marginal>
 
    <marginal letter="516a" page="388" line="1">
-    <bzg>Nicolai</bzg> vgl. Brief Nr. 513.
+    <bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />, <intlink letter="513" page="379" line="15" linktext="false">HKB 513</intlink>
    </marginal>
 
-   <marginal letter="516a" page="388" line="3">
-    <bzg>Isaac David</bzg> <link ref="itzig-d" linktext="true" /> 
-   </marginal>
+<marginal letter="516a" page="388" line="3" sort="1">
+<bzg>HE Isaac David</bzg> <link ref="itzig-id" linktext="true" />
+</marginal>
+
+<marginal letter="516a" page="388" line="3" sort="2">
+<bzg>Loge</bzg> Hamanns Arbeitsraum am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Licent</link>, vgl. <intlink letter="484" page="306" line="18" linktext="true" />; wohl leicht ironisch-abfällige Bezeichnung (vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Loge: „eine Hütte, ein kleiner mit Brettern verschlagener Raum, ein Hundestall, eine Schiffskammer etc. etc. heißt“), ohne Bezug auf Freimaurer- oder Theaterlogen.
+</marginal>
 
    <marginal letter="516a" page="388" line="4">
-    <bzg>Reisegefährten</bzg> Benjamin Veitel Ephraim (1742–1811)
+    <bzg>Reisegefährten</bzg> <link ref="gugenheim-j" linktext="true" /> oder <link ref="ephraim-bv" linktext="true" />
    </marginal>
 
    <marginal letter="516a" page="388" line="5">
@@ -65992,7 +65996,7 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516a" page="388" line="12" sort="1">
-    <bzg>Bremer Beyträge</bzg> hrsg. v. <link ref="giseke" linktext="true" /> 
+    <bzg>Berner Beyträge</bzg> nicht ermittelt; mglw. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10105483-7"><title>Beyträge in das Archiv des deutschen Parnasses</title> (Bern 1776–1777</wwwlink> oder <wwwlink address="https://doi.org/10.11588/diglit.26049"><title>Bernerisches Magazin der Natur, Kunst und Wissenschaften</title> (Bern 1775–1777)</wwwlink>?!?
    </marginal>
 
    <marginal letter="516a" page="388" line="12" sort="2">
@@ -66008,19 +66012,27 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516a" page="388" line="19" sort="2">
-    <bzg>Löwen</bzg> <link ref="loewen" linktext="true" /> ?!?
+    <bzg>Löwen</bzg> <link ref="loewen" linktext="true" />
    </marginal>
 
    <marginal letter="516a" page="388" line="20">
-    <bzg>Bunkle</bzg> <link ref="nicolai" subref="nicolai-bunkel" linktext="true" />  ?!?
+    <bzg>Bunkle</bzg> wohl das englische Original von <link ref="amory" subref="amory-buncle" linktext="true" />, für das sich Hamann wegen der bei <link ref="nicolai" linktext="false">Nicolais</link> erscheinenden Übersetzung interessierte, vgl. <intlink letter="513" page="380" line="11" linktext="true" />
+   </marginal>
+
+   <marginal letter="516a" page="388" line="26">
+    <bzg>HE Ephraim</bzg> <link ref="ephraim-bv" linktext="true" />
+   </marginal>
+
+   <marginal letter="516a" page="388" line="27">
+    <bzg>lieben Frau</bzg> <link ref="mendelssohn-f" linktext="true" />
    </marginal>
 
    <marginal letter="516a" page="388" line="30">
-    <bzg>Rabbi</bzg> Joseph Mendelssohn (1770–1848)
-   </marginal>
+    <bzg>Rabbi</bzg> <link ref="mendelssohn-j" linktext="true" />
+   </marginal> 
 
    <marginal letter="516a" page="388" line="31" sort="1">
-    <bzg>Schwestern</bzg> Brendel Mendelssohn (1764–1839); Recha Mendelssohn (1767–1831); Maria Henriette Mendelssohn (1775–1831)
+    <bzg>Schwestern</bzg> Brendel Mendelssohn (1764–1839); Recha Mendelssohn (1767–1831); Maria Henriette Mendelssohn (1775–1831) ?!?
    </marginal>
 
    <marginal letter="516a" page="388" line="31" sort="2">
@@ -66029,6 +66041,10 @@ Brief Nr. 516
 
    <marginal letter="516a" page="388" line="32">
     <bzg>Kraus</bzg> <link ref="kraus" linktext="true" />
+   </marginal>
+
+   <marginal letter="516a" page="388" line="41">
+    <bzg>D. Friedlaender</bzg> ?!?
    </marginal>
 
 

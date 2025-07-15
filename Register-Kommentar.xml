@@ -319,6 +319,18 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <eintrag>1639–1720. Frz. libertinistischer Dichter; Abbé de Chaulieu. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;8, 1813), S.&#x202F;294f.</eintrag>
 </kommentar>
 
+<kommentar id="amory" type="neuzeit">
+<lemma>Thomas Amory</lemma>
+<eintrag>1691–1788. Irisch-britischer Schriftsteller und Unitarier, siehe <wwwlink address="https://www.britannica.com/biography/Thomas-Amory"><titel>Encyclopedia Brittannica</titel></wwwlink> und <wwwlink address="https://www.exclassics.com/buncle/buncleintro.htm">The Ex-Classics Web Site</wwwlink>.</eintrag>
+<subsection id="amory-buncle" type="neuzeit">
+<lemma>Amory, <titel>The Life of John Buncle</titel></lemma>
+<eintrag>
+Bd. 1 (London 1755): <title>Memoirs: containing the lives of several ladies of Great Britain</title> […]. Digitalisat: <wwwlink address="https://books.google.de/books?id=6QYUAAAAQAAJ">Google Books</wwwlink>. – Bd. 2 (London 1766): <title>The Life of John Buncle, Esq.</title> […]. Digitalisat: <wwwlink address="https://books.google.de/books?id=GxQlAAAAMAAJ">Google Books</wwwlink>.<line type="break" />
+Übersetzung: <titel>Leben Bemerkungen und Meinungen Johann Bunkels: nebst den Leben verschiedener merkwürdiger Frauenzimmer. Aus dem engländischen übersetzt [von Reimarus von Spieren]; mit hinzugefügten Bemerkungen und Meinungen und XVI. Kupferstichen von D. Chodowiecki</titel> (4 Bde., Berlin: Nicolai 1778). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/79282">ULB Halle</wwwlink>.
+</eintrag> 
+</subsection>
+</kommentar>
+
 <kommentar id="anakreon" type="neuzeit">
 <lemma>Anakreon von Teos</lemma>
 <eintrag>6. Jahrhundert v.&#x202F;Chr. Griechischer Lyriker.</eintrag>
@@ -4417,7 +4429,7 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
     <kommentar id="ephraim-bv" type="neuzeit">
     <lemma>Benjamin Veitel Ephraim</lemma>
     <eintrag>
-    <titel>1742–1811. Sohn von <link ref="ephraim-nhv" linktext="true" />, Begleiter <link ref="mendelssohn" linktext="false">Mendelssohns</link> auf der Reise nach Memel, später kgl.-preußischer Hoffaktor. 
+    1742–1811. Sohn von <link ref="ephraim-nhv" linktext="true" />, Begleiter <link ref="mendelssohn" linktext="false">Mendelssohns</link> auf der Reise nach Memel, später königlich-preußischer Hoffaktor. 
     </eintrag>
     </kommentar>
 
@@ -8304,8 +8316,8 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 </kommentar>
 
 <kommentar id="itzig-id" type="neuzeit">
-<lemma>Daniel Itzig</lemma>
-<eintrag>Isaak Daniel Itzig 1750–1806. Ältester Sohn von <link ref="itzig-d" linktext="true" />, gründete 1778 mit David Friedländer die Jüdische Freischule.</eintrag>
+<lemma>Isaak Daniel Itzig</lemma>
+<eintrag>1750–1806. Ältester Sohn von <link ref="itzig-d" linktext="true" />, gründete 1778 mit David Friedländer die Jüdische Freischule.</eintrag>
 </kommentar>
 
 J
@@ -11513,6 +11525,18 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 </kommentar>
 
+<kommentar id="mendelssohn-f" type="neuzeit">
+<lemma>Fromet Mendelssohn</lemma>
+<eintrag>1737–1812. Geb. Gugenheim, seit 1762 Ehefrau von <link ref="mendelssohn" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="mendelssohn-j" type="neuzeit">
+<lemma>Joseph Mendelssohn</lemma>
+<eintrag>1770–1848. Sohn von <link ref="mendelssohn" linktext="false">Moses</link> und <link ref="mendelssohn-f" linktext="true" />.
+</eintrag>
+</kommentar>
+
 <kommentar id="mengden-jh" type="neuzeit">
 <lemma>Johann Heinrich v. Mengden</lemma>
 <eintrag>1701–1768. Freiherr. Königlich preuß. Kammerherr, 1732 livländischer Regierungsrat u. russischer Geheimrat, 1734–41 Vizepräsident u. 1762–68 Präsident des Livländischen Hofgerichts, siehe: <wwwlink address="https://bbld.de/0000000055733579">Mengden, Johann Heinrich Frh. v., in: <titel>Baltisches Biographisches Lexikon</titel>, S.&#x202F;506</wwwlink>.
@@ -12466,11 +12490,6 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 <lemma>Nicolai, <titel>Kleyner Almanach</titel></lemma>
 <eintrag>
 <titel>Eyn feyner kleyner Almanach: Vol schönerr echterr liblicherr Volckslieder, lustigerr Reyen vnndt kleglicherr Mordgeschichten, gesungen von Gabriel Wunderlich weyl. Benkelsengernn zu Dessaw, herausgegeben von Daniel Seuberlich, Schusternn tzu Ritzmück ann der Elbe</titel> (2 Bde., Berlin, Stetin: Nicolai 1777–1778 [1776–1777]). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925062-9">ULB Halle: GK 4.1110</wwwlink>.</eintrag>
-</subsection>
-<subsection id="nicolai-bunkel" type="neuzeit" sort="60">
-<lemma>Nicolai, <titel>Leben Bemerkungen und Meinungen Johann Bunkels</titel></lemma>
-<eintrag>
-<titel>Leben Bemerkungen und Meinungen Johann Bunkels: nebst den Leben verschiedener merkwürdiger Frauenzimmer. Aus dem engländischen übersetzt; mit hinzugefügten Bemerkungen und Meinungen und XVI. Kupferstichen von D. Chodowiecki</titel> (4 Bde., Berlin: Nicolai 1778). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/79282">BSB München: Res/P.o.germ. 1011 i</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
