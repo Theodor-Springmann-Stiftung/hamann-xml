@@ -4376,6 +4376,12 @@ Online-Ausgabe: <wwwlink address="http://enccre.academie-sciences.fr/encyclopedi
 <lemma>Johann Jakob Engel</lemma>
 <eintrag>1741–1802. Schriftsteller, seit 1776 Professor der Moralphilosophie am Joachimsthalschen Gymnasium in Berlin, Prinzenerzieher am preußischen Hof und Akademiemitglied, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11868468X.html#ndbcontent">Elschenbroich, Adalbert: Engel, Johann Jakob, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;504f</wwwlink>.
 </eintrag>
+<subsection id="engel-philosoph" type="neuzeit">
+<lemma>Engel, <titel>Der Philosoph für die Welt</titel></lemma>
+<eintrag>
+<titel>Der Philosoph für die Welt. Herausgegeben von J. J. Engel</titel> (2&#xA0;Tle., Leipzig: Dyck 1775–1777). Digitalisat, Tl. 2: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136175-7">BSB München: Var. 682 v</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="engelbrecht" type="neuzeit">
@@ -4401,11 +4407,24 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 </subsection>
 </kommentar>
 
-
 <kommentar id="ephemeriden" type="neuzeit">
     <lemma><titel>Ephemeriden</titel></lemma>
     <eintrag>
     <titel>Ephemeriden der Menschheit oder Bibliothek der Sittenlehre und der Politik [ab Heft 2: der Sittenlehre, der Politik und der Gesetzgebung]</titel>, hg. von <link ref="iselin" linktext="true" /> (Basel/Leipzig 1776/8, 1780/4, 1786 [ab 1782 hg. v. Wilhelm Gottlieb Becker].) Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/2091681/0/LOG_0000/">Universität Bielefeld</wwwlink>.
+    </eintrag>
+    </kommentar>
+
+    <kommentar id="ephraim-bv" type="neuzeit">
+    <lemma>Benjamin Veitel Ephraim</lemma>
+    <eintrag>
+    <titel>1742–1811. Sohn von <link ref="ephraim-nhv" linktext="true" />, Begleiter <link ref="mendelssohn" linktext="false">Mendelssohns</link> auf der Reise nach Memel, später kgl.-preußischer Hoffaktor. 
+    </eintrag>
+    </kommentar>
+
+    <kommentar id="ephraim-nhv" type="neuzeit">
+    <lemma>Nathan Heine Veitel Ephraim</lemma>
+    <eintrag>
+    1703–1775. Bedeutendster preußischer Münzunternehmer zur Zeit Friedrichs II., Förderer der Seidenproduktion und Hofjuwelier.
     </eintrag>
     </kommentar>
 
@@ -16080,7 +16099,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="stockmar-s" type="neuzeit">
 <lemma>Selma Stockmar</lemma>
-<eintrag>Lebensdaten nicht ermittelt, auch der Vornamen folgt nur einer Benennung <link ref="penzel" linktext="false">Penzels</link>, dessen Geliebte sie war; Tochter von <link ref="stockmar" linktext="true" /> und <link ref="stockmar-h" linktext="true" />.</eintrag>
+<eintrag>Lebensdaten nicht ermittelt, auch der Vorname folgt nur einer Benennung <link ref="penzel" linktext="false">Penzels</link>, dessen Geliebte sie war, vgl. <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, 126f.</link>; Tochter von <link ref="stockmar" linktext="true" /> und <link ref="stockmar-h" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="stoffel-c" type="neuzeit">

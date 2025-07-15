@@ -65146,7 +65146,7 @@ Brief Nr. 510
 Brief Nr. 511
 
 <marginal letter="511" page="374" line="5">
-Wurde der Brief abgeschickt?!?
+Der Brief wurde wohl nicht abgeschickt, vgl. <intlink letter="516" page="387" line="22" linktext="true" />.
 </marginal>
 
 <marginal letter="511" page="374" line="7">
@@ -65826,7 +65826,7 @@ Brief Nr. 515
    </marginal> 
 
    <marginal letter="515" page="385" line="10">
-    <bzg>Prof. Engel</bzg>  Engel, Johann Jakob, [Hg] Der Philosoph für die Welt. 1.u. 2. Theil Leipzig 1775 u. 1777. 3. Teil Berlin 1800.?!?
+    <bzg>Prof. Engel</bzg> <link ref="engel" subref="engel-philosoph" linktext="true" />
    </marginal> 
 
    <marginal letter="515" page="385" line="12">
@@ -65846,8 +65846,7 @@ Brief Nr. 515
    </marginal> 
 
    <marginal letter="515" page="385" line="18">
-    <bzg>Fabellum de pudendi</bzg> Fabellam de pudendis: das Diminutiv von fabula: kleine Erzählung, gemeint
-    ist <link ref="hamann" subref="hamann-schuerze" linktext="true" />
+    <bzg>Fabellum de pudendi</bzg> „Fabellum“ ist vmtl. eine Verschreibung oder Fehllesung für ‚fabellam‘ (kleine Erzählung, Fabel; Diminutiv von ‚fabula‘); ‚de pudendi‘ meint die Schamteile; gemeint ist, wie bereits mit der Jahreszahl 777, die <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link>.
    </marginal> 
 
    <marginal letter="515" page="385" line="20">
@@ -65861,21 +65860,24 @@ Brief Nr. 515
 
 Brief Nr. 516
 
-
 <marginal letter="516" page="385" line="33">
     <bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" /> 
    </marginal>
 
    <marginal letter="516" page="385" line="34">
-    <bzg>Reichard</bzg> <link ref="reichardt-jf" linktext="true" /> 
+    <bzg>Reichard gebeten</bzg> <link ref="reichardt-jf" linktext="true" />, nicht überliefert
+   </marginal>
+
+   <marginal letter="516" page="385" line="35">
+    <bzg>heil. Christ.</bzg> mglw. <link ref="kaufmann-c" linktext="true" />?!?
    </marginal>
 
    <marginal letter="516" page="386" line="2">
-    <bzg>Leichdorns</bzg> Hühnerauge
+    <bzg>Leichdorns</bzg> Hühnerauge; gemeint ist der Streit mit den <link ref="blom-w" linktext="false">Blomschen Erben</link> um den Garten von Hamanns Dienstwohnung, vgl. <intlink letter="511" page="374" line="23" linktext="true" />
    </marginal>
 
    <marginal letter="516" page="386" line="5">
-    <bzg>Epicurs</bzg> ?!?
+    <bzg>Epicurs</bzg> Epikurs philosophische Schule versammelte sich in einem Garten, vgl. Diog. Laert. 10,1,10f.
    </marginal>
 
    <marginal letter="516" page="386" line="8">
@@ -65883,11 +65885,11 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516" page="386" line="11">
-    <bzg>Silhouette</bzg> möglicherweise von <link ref="recke-e" linktext="true" />  
+    <bzg>Silhouette</bzg> Scherenschnitt, mglw. von <link ref="recke-e" linktext="true" />  
    </marginal>
 
    <marginal letter="516" page="386" line="14">
-    <bzg>Kanterschen Zeitungen</bzg> wohl über Mendelssohns Besuch ?!?
+    <bzg>Kanterschen Zeitungen</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, nicht ermittelt
    </marginal>
 
    <marginal letter="516" page="386" line="16">
@@ -65906,40 +65908,48 @@ Brief Nr. 516
     <bzg>Mutter</bzg> <link ref="schumacher-ar" linktext="true" />
    </marginal>
 
+   <marginal letter="516" page="386" line="28">
+    <bzg>letzten Sonntage unsers Kirchenjahrs</bzg> letzter Sonntag vor dem Advent, wohl 23. November 1777
+   </marginal>
+
    <marginal letter="516" page="387" line="3">
     <bzg>Käthchen</bzg> <link ref="hamann-mc" linktext="true" />
    </marginal>
 
    <marginal letter="516" page="387" line="4">
-    <bzg>vierten</bzg> 2. Dezember; H. zählt also den Tag der Geburt als ersten Geburtstag
+    <bzg>vierten</bzg> 2. Dezember 1777; Hamann zählt also den Tag der Geburt als ersten Geburtstag
    </marginal>
 
    <marginal letter="516" page="387" line="10">
     <bzg>Prof. K.</bzg> der lärmempfindliche <link ref="kant" linktext="true" />
    </marginal>
 
-   <marginal letter="516" page="387" line="15">
-    <bzg>Teufel Uriel der weiland vergötterten Selma</bzg> gemeint ist <link ref="penzel" linktext="true" /> nach dem Konvertiten Gabriel da Costa, auch Uriel genannt. Selma: vmtl. die Tochter von <link ref="stockmar" linktext="true" />, die Penzel <link ref="stockmar-s" linktext="false">„Selma“</link> nannte, vgl. <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, 126f.</link>)
+   <marginal letter="516" page="387" line="15" sort="1">
+    <bzg>Teufel Uriel</bzg> <link ref="penzel" linktext="true" />, nach dem Konvertiten Gabriel da Costa, auch Uriel genannt
+   </marginal>
+
+   <marginal letter="516" page="387" line="15" sort="2">
+    <bzg>Selma</bzg> <link ref="stockmar" linktext="true" />
    </marginal>
 
    <marginal letter="516" page="387" line="19">
-    <bzg>Medisance</bzg> Boshaftigkeit
+    <bzg>Medisance</bzg> üble Nachrede
    </marginal>
 
    <marginal letter="516" page="387" line="20">
     <bzg>Mendelssohn</bzg> <link ref="mendelssohn" linktext="true" />
    </marginal>
 
-   <marginal letter="516" page="387" line="23">
-    <bzg>Reisegefährten</bzg><link ref="mendelssohn" linktext="true" /> reiste mit Joseph Gugenheim (ein Schwager), D. Friedländer und Benjamin Veitel Ephraim (1742–1811).
+   <marginal letter="516" page="387" line="21">
+    <bzg>schreiben&#x202F;…&#x202F;schon getan</bzg> etwa <intlink letter="511" page="375" line="5" linktext="false">HKB 511</intlink>
    </marginal>
 
-   <marginal letter="516" page="387" line="24">
-    <bzg>Ephraim</bzg> Benjamin Veitel Ephraim (1742–1811)
+   <marginal letter="516" page="387" line="23">
+    <bzg>Reisegefährten</bzg> Mendelssohn reiste mit Joseph Gugenheim (ein Schwager), David Friedländer und <link ref="ephraim-bv" linktext="true" />.
    </marginal>
 
    <marginal letter="516" page="387" line="27">
-    <bzg>la petite bouche du bon gout</bzg> dt. der kleine Mund des guten Geschmacks
+    <bzg>la petite bouche du bon gout</bzg> dt. für den kleinen Mund des guten Geschmacks
    </marginal>
    
 
