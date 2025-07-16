@@ -5060,6 +5060,11 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 <eintrag>1725–1790. Lehrer an der Königsberger Domschule.</eintrag>
 </kommentar>
 
+<kommentar id="friedlaender-d" type="neuzeit">
+<lemma>David Friedländer</lemma>
+<eintrag>1750–1834. Ab 1771 als Seidenfabrikant in Berlin, Freund von <link ref="mendelssohn" linktext="true" /> und Schwiegersohn von <link ref="itzig-d" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="friedlaender-w" type="neuzeit">
 <lemma>Wolff Friedländer</lemma>
 <eintrag>1742–1814. Kaufmann in Königsberg und Inhaber des Friedländerschen Comptoir, zu dem auch die jüngeren Brüder, außer David, gehörten. Es war bis 1782 königsbergischer Agent der Berliner Gold- und Silbermanufaktur Ephraim u. Söhne, die ein Monopol auf die Herstellung von Tressen und Litzen für ganz Preußen hatten, exportierten auch Seide und Porzellan nach Polen und Rußland. Wohl die reichste jüdische Familie in Königsberg.</eintrag>
@@ -8096,9 +8101,9 @@ Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Fl
 
 <kommentar id="hottinger" type="neuzeit">
     <lemma>Johann Jakob Hottinger</lemma>
-    <eintrag>1750–1819. Reform. schweizer Theologe, klass. Philologe, Übersetzer in Zürich.</eintrag>
+    <eintrag>1750–1819. Reformierter schweizer Theologe, klassischer Philologe, Übersetzer in Zürich.</eintrag>
     <subsection id="hottinger-brelocken" type="neuzeit" sort="10">
-    <lemma>Hottinger [mit Johann Rudolf Sulzer], <titel>Brelocken an’s Allerley der Groß- und Kleinmänner</titel></lemma>
+    <lemma>Hottinger (mit Johann Rudolf Sulzer), <titel>Brelocken an’s Allerley der Groß- und Kleinmänner</titel></lemma>
     <eintrag>
     <titel>Brelocken an’s Allerley der Groß- und Kleinmänner</titel> (Leipzig: Dykische Buchhandlung 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135575-3">München, Bayerische Staatsbibliothek -- Var. 293</wwwlink>.
     </eintrag>
@@ -8634,7 +8639,7 @@ Jüdischer Krieg, lat. de bello Iudaico, griech. Περὶ τοῦ Ἰουδαι
 <subsection id="jung-stilling-jugend" type="neuzeit" sort="10">
     <lemma>Jung-Stilling, <titel>Henrich Stillings Jugend</titel></lemma>
     <eintrag>
-    <titel>Henrich Stillings Jugend. Eine wahrhafte Geschichte</titel> (Berlin und Leipzig: Decker, 1777).
+    <titel>Henrich Stillings Jugend. Eine wahrhafte Geschichte</titel> (Berlin und Leipzig: Decker, 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11251881-1">Stabi Augsburg: H 1167</wwwlink>.
     </eintrag>
     </subsection>
 </kommentar>
@@ -11525,6 +11530,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 </kommentar>
 
+<kommentar id="mendelssohn-b" type="neuzeit">
+<lemma>Brendel Mendelssohn</lemma>
+<eintrag>1764–1839. Tochter von <link ref="mendelssohn" linktext="false">Moses</link> und <link ref="mendelssohn-f" linktext="true" />; später verh. Dorothea Friederike Schlegel.
+</eintrag>
+</kommentar>
+
 <kommentar id="mendelssohn-f" type="neuzeit">
 <lemma>Fromet Mendelssohn</lemma>
 <eintrag>1737–1812. Geb. Gugenheim, seit 1762 Ehefrau von <link ref="mendelssohn" linktext="true" />.
@@ -11534,6 +11545,18 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <kommentar id="mendelssohn-j" type="neuzeit">
 <lemma>Joseph Mendelssohn</lemma>
 <eintrag>1770–1848. Sohn von <link ref="mendelssohn" linktext="false">Moses</link> und <link ref="mendelssohn-f" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="mendelssohn-h" type="neuzeit">
+<lemma>Henriette Mendelssohn</lemma>
+<eintrag>1775–1831. Tochter von <link ref="mendelssohn" linktext="false">Moses</link> und <link ref="mendelssohn-f" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="mendelssohn-r" type="neuzeit">
+<lemma>Recha Mendelssohn</lemma>
+<eintrag>1767–1831. Tochter von <link ref="mendelssohn" linktext="false">Moses</link> und <link ref="mendelssohn-f" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -12076,7 +12099,7 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 
 <kommentar id="morinval" type="neuzeit">
 <lemma>Carl Peter Morinval</lemma>
-<eintrag>Lebensdaten nicht ermittelt. 1772 einer der neuen Unterregisseure in der <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>; Geheimer Finanzrat in Berlin für Ostpreußen, Litauen und Pommern.</eintrag>
+<eintrag>Lebensdaten nicht ermittelt. 1772 einer der neuen Unterregisseure in der <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>; Geheimer Finanzrat in Berlin für (Ost-)Preußen, Litauen und Pommern.</eintrag>
 </kommentar>
 
 <kommentar id="moritz-sachsen" type="neuzeit">

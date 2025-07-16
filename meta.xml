@@ -9972,7 +9972,7 @@
       <letterDesc letter="517">
         <date value="4. Dezember 1777" />
         <sort value="1777-12-04" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -9991,7 +9991,7 @@
       <letterDesc letter="518">
         <date value="6. Dezember 1777" />
         <sort value="1777-12-06" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -10048,7 +10048,7 @@
       <letterDesc letter="521">
         <date value="31. Dezember 1777" />
         <sort value="1777-12-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
