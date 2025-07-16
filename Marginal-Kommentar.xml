@@ -66063,7 +66063,7 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="517" page="389" line="12">
-    <bzg>Brelocken</bzg> <link ref="hottinger" subref="hottinger-brelocken" linktext="true" /> 
+    <bzg>Brelocken</bzg> <link ref="sulzer-jr" subref="sulzer-brelocken" linktext="true" />
    </marginal>
 
    <marginal letter="517" page="389" line="14">
@@ -66071,7 +66071,7 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="517" page="389" line="15" sort="1">
-    <bzg>Kaufmann</bzg> Hamann scheint davon auszugehen, dass Jung-Stillings Lebensgeschichte von <link ref="kaufmann-c" linktext="true" /> in Druck gegeben wurde; sie wurde jedoch (ohne Einverständnis des Autors) von <link ref="goethe" linktext="true" /> in Druck gegeben.
+    <bzg>Kaufmann</bzg> Hamann scheint <link ref="kaufmann-c" linktext="true" /> für den Autor von Jung-Stillings Lebensbeschreibung zu halten, die <link ref="goethe" linktext="false">Goethe</link> (ohne Einverständnis des Autors) pseudonymisiert in Druck gab, vgl. <intlink letter="518" page="390" line="12" linktext="true" />.
    </marginal>
 
    <marginal letter="517" page="389" line="15" sort="2">
@@ -66097,32 +66097,36 @@ Brief Nr. 517
 
    Brief Nr. 518
 
-   <marginal letter="518" page="390" line="2">
+   <marginal letter="518" page="390" line="3">
     <bzg>Erinnerungen</bzg> <link ref="sturz" subref="sturz-bernstorf" linktext="true" />   
    </marginal>
 
    <marginal letter="518" page="390" line="5">
-    <bzg>Gnädigen Frau</bzg> Gerüchte um <link ref="bernstorff-ce" linktext="true" /> und <link ref="bode-jjc" linktext="true" /> 
+    <bzg>Zueignung der Gnädigen Frau</bzg> Sturz’ Buch ist <link ref="bernstorff-ce" linktext="true" /> gewidmet; Hamann kolportiert Gerüchte um eine angeblich anstehende Hochzeit der Witwe mit <link ref="bode-jjc" linktext="true" />.
    </marginal>
 
    <marginal letter="518" page="390" line="7">
-    <bzg>Brelocken</bzg> <link ref="hottinger" subref="hottinger-brelocken" linktext="true" /> 
+    <bzg>Brelocken&#x202F;…&#x202F;S.&#x202F;124</bzg> <link ref="sulzer-jr" subref="sulzer-brelocken" linktext="true" />, S.&#x202F;124 zu Hamann (<intlink letter="518" page="390" line="29" linktext="false">Zitat s.u.</intlink>)
    </marginal>
 
    <marginal letter="518" page="390" line="10">
-    <bzg>„treffenden …</bzg> ?!? 
+    <bzg>„treffenden&#x202F;…</bzg> <link ref="sulzer-jr" subref="sulzer-brelocken" linktext="true" />, S.&#x202F;183f. (aus dem letzten Abschnitt des Buchs, über es selbst)
    </marginal>
 
    <marginal letter="518" page="390" line="12" sort="1">
-    <bzg>Allerley</bzg> 2. Bd. v. <link ref="kaufmann-c" subref="kaufmann-allerley" linktext="true" /> 
+    <bzg>Allerley</bzg> Die <link ref="sulzer-jr" subref="sulzer-brelocken" linktext="false"><titel>Brelocken an’s Allerley der Groß- und Kleinmänner</titel></link> erklären sich eingangs als „Angehängsel an’s berüchtigte Allerley“ (S.&#x202F;3), verstehen sich demnach als polemische Berlocken (Uhranhänger) zu <link ref="kaufmann-c" subref="kaufmann-allerley" linktext="false">Kaufmanns <titel>Allerley</titel></link>.
    </marginal>
 
    <marginal letter="518" page="390" line="12" sort="2">
-    <bzg>Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" />
+    <bzg>Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" />; Hamann scheint <link ref="kaufmann-c" linktext="true" /> für den Autor der Lebensbeschreibung Jung-Stillings zu halten, die <link ref="goethe" linktext="false">Goethe</link> (ohne Einverständnis des Autors) pseudonymisiert in Druck gab, vgl. <intlink letter="517" page="389" line="15" linktext="true" />.
+   </marginal>
+
+   <marginal letter="518" page="390" line="15">
+    <bzg>ihm</bzg> <link ref="kaufmann-c" linktext="true" />
    </marginal>
 
    <marginal letter="518" page="390" line="17">
-    <bzg>Dr. George</bzg> Friedrich Georgi, Arzt in Königsberg
+    <bzg>Dr. George</bzg> nicht ermittelt, mglw. im Zusammenhang eines einstigen Arztes in Königsberg (vgl. <wwwlink address="http://dx.doi.org/10.25673/52834">Friedrich Georgi: <titel>Dissertatio Inavgvralis Medica De Medicamentis Inspissantibvs Eorvmqve Modo Operandi</titel> (Halle 1745)</wwwlink> und <wwwlink address="http://d-nb.info/gnd/1018220771">GND</wwwlink>)?!?
    </marginal>
 
    <marginal letter="518" page="390" line="18">
@@ -66131,6 +66135,10 @@ Brief Nr. 517
 
    <marginal letter="518" page="390" line="19">
     <bzg>fl.</bzg> Gulden, Goldmünze, hier aber vmtl. 1 polnischer Gulden, eine Silbermünze, entsprach 30 Groschen oder weniger.
+   </marginal>
+
+   <marginal letter="518" page="390" line="22">
+    <bzg>Allerleys</bzg> <link ref="kaufmann-c" subref="kaufmann-allerley" linktext="true" />, Bd. 2
    </marginal>
 
    <marginal letter="518" page="390" line="25">
@@ -66146,7 +66154,7 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="518" page="390" line="29">
-    <bzg>§ 11.</bzg> <link ref="hottinger" subref="hottinger-brelocken" linktext="true" />, S. 124: „Wenn ich Vater Hamann wär’, ich säß auf dem pythischen Dreyfuß und orakelte um’s Geld, daß ich Nutzen und andre Freude davon hätte – ‚die Haare gen Himmel sich sträubend, die Augen im Kopf blitzend und den Geifer in Bart trieffend würd’ ich den Gott aus mir reden lassen, dessen er voll ist, und Zulauf und Anbeter und Untersucher und Lobpreiser wollt’ ich finden, wie Gaßner, und dem traur’gen Schicksal entfliehen, meine in 4to’s zum Käsebepacken entweiht und bestänkt zu sehen.“
+    <bzg>§ 11.</bzg> <link ref="sulzer-jr" subref="sulzer-brelocken" linktext="true" />, S.&#x202F;124: „Wenn ich Vater Hamann wär’, ich säß auf dem pythischen Dreyfuß, und orakelte um’s Geld, daß ich Nutzen und andre Freude davon hätte – ‚die Haare gen Himmel sich straubend, die Augen im Kopf blitzend und den Geifer in Bart trieffend würd’ ich den Gott aus mir reden lassen, dessen er voll ist, und Zulauf und Anbeter und Untersucher und Lobpreiser wollt’ ich finden, wie Gaßner, und dem traur’gen Schicksal entfliehen, meine in 4to’s zum Käsebepacken entweiht und bestänkt zu sehen.“
    </marginal>
 
  
@@ -66229,7 +66237,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="391" line="35" sort="1">
-    <bzg>Breloquen</bzg> <link ref="hottinger" subref="hottinger-brelocken" linktext="true" /> 
+    <bzg>Breloquen</bzg> <link ref="sulzer-jr" subref="sulzer-brelocken" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="391" line="35" sort="2">
@@ -66317,7 +66325,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="35">
-    <bzg>Breloquen</bzg> <link ref="hottinger" subref="hottinger-brelocken" linktext="true" /> 
+    <bzg>Breloquen</bzg> <link ref="sulzer-jr" subref="sulzer-brelocken" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="393" line="1">
