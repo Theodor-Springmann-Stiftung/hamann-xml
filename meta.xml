@@ -9856,7 +9856,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="512">
-        <date value="Königsberg, 8. und 13.–14. Oktober 1777" />
+        <date value="Königsberg, 8., 13. und 14. Oktober 1777" />
         <sort value="1777-10-08" from="1777-10-08" to="1777-10-14" />
         <location ref="2" />
         <senders>
@@ -9953,7 +9953,7 @@
       <letterDesc letter="516a">
         <date value="Königsberg, 30. November 1777" />
         <sort value="1777-11-30" />
-        <location ref="1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
