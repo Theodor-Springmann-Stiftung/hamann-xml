@@ -63109,7 +63109,7 @@ Brief Nr. 491a
 <bzg>Pathe</bzg> <link ref="claudius-ch" linktext="true" />
 </marginal>
 
-<marginal letter="491a" page="329" line="6" >
+<marginal letter="491a" page="329" line="10" >
 <bzg>…&#x202F;Friederica, Petrina</bzg> <link ref="claudius-afp" linktext="true" />
 </marginal>
 
@@ -63125,7 +63125,7 @@ Brief Nr. 491a
 <bzg>Hinz</bzg> <link ref="hinz" linktext="true" />, Hintergrund nicht ermittelt
 </marginal>
 
-<marginal letter="491a" page="329" line="16" sort="1" >
+<marginal letter="491a" page="329" line="16" sort="2" >
 <bzg>IntelligenzComtoir</bzg> mglw. der <link ref="konigsberger-f-a" linktext="false">Königsberger Adress-Kontor</link>
 </marginal>
 
@@ -63137,15 +63137,15 @@ Brief Nr. 491a
 <bzg>tracirt</bzg> den richtigen Weg bezeichnet, hier: weiter verwiesen
 </marginal>
 
-<marginal letter="491a" page="329" line="19" >
-<bzg>Ihr habt wohl recht&#x202F;…</bzg> Brief Hamanns an Claudius nicht überliefert
-</marginal>
-
-<marginal letter="491a" page="329" line="19" >
+<marginal letter="491a" page="329" line="19" sort="1" >
 <bzg>Herder</bzg> <link ref="herder" linktext="true" />, vgl. <intlink letter="509" page="368" line="6" linktext="false">HKB 509</intlink>
 </marginal>
 
-<marginal letter="491a" page="329" line="19" >
+<marginal letter="491a" page="329" line="19" sort="2" >
+<bzg>Ihr habt wohl recht&#x202F;…</bzg> Brief Hamanns an Claudius nicht überliefert
+</marginal>
+
+<marginal letter="491a" page="329" line="23" >
 <bzg>Schönborn</bzg> <link ref="schonborn" linktext="true" />
 </marginal>
 
@@ -63472,7 +63472,7 @@ Brief Nr. 499
 <bzg>foro fori</bzg> öffentlich vor Gericht 
 </marginal>
 
-<marginal letter="499" page="342" line="28" >
+<marginal letter="499" page="342" line="29" >
 <bzg>Loge</bzg> Hamanns Arbeitsraum am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Licent</link>, vgl. <intlink letter="484" page="306" line="18" linktext="true" />; wohl leicht ironisch-abfällige Bezeichnung (vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Loge: „eine Hütte, ein kleiner mit Brettern verschlagener Raum, ein Hundestall, eine Schiffskammer etc. etc. heißt“), ohne Bezug auf Freimaurer- oder Theaterlogen.
 </marginal>
 
@@ -63831,7 +63831,7 @@ Brief Nr. 500
 <bzg>Frau Schwester</bzg> <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
-<marginal letter="500" page="349" line="10" sort="1" >
+<marginal letter="500" page="349" line="10" sort="2" >
 <bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />
 </marginal>
 
@@ -64179,7 +64179,7 @@ Brief Nr. 504
 <bzg>2 Tim II. 7.</bzg> <link ref="nt-tim2" subref="nt-tim2-2" linktext="false">2 Tim 2,7</link>
 </marginal>
 
-<marginal letter="504" page="358" line="1" sort="2" >
+<marginal letter="504" page="358" line="2" >
 <bzg>pro aris et focis</bzg> Für Altäre und Herde, Motto ähnlich wie ‚Für Vaterland und Familie‘
 </marginal>
 
@@ -65099,7 +65099,7 @@ Brief Nr. 509a
 <bzg>הדרת זקנים</bzg> Dt. Ruhm/Glanz der Ältesten. Titel des 2. Teils von <link ref="azaria-rossi" subref="azaria-meor" linktext="true" />, enthält eine Übersetzung des Aristeasbriefs, einer Apologie des hellenistischen Judentums und der Septuaginta, deren legendenhafte Entstehung durch die Arbeit von 72 Übersetzern an 72 Tagen geschildert wird.
 </marginal>
 
-<marginal letter="509a" page="470" line="8">
+<marginal letter="509a" page="470" line="14">
 <bzg>קהלת</bzg> <link ref="mendelssohn" subref="mendelssohn-kohelet" linktext="true" /> Von Mendelssohn besorgte und mit einem Kommentar versehene hebräischsprachige Ausgabe des Prediger-Buches. 
 </marginal>
 
@@ -65782,10 +65782,10 @@ Brief Nr. 515
    </marginal> 
 
    <marginal letter="515" page="383" line="37">
-<bzg>Wittwe Blom</bzg> <link ref="blom-w" linktext="true" />; die Briefentwürfe an sie befanden sich anscheinend daher in Hamanns Nachlass
+<bzg>Wittwe Blom</bzg> <link ref="blom-w" linktext="true" />; die Briefentwürfe an sie bewahrte Hamann anscheinend aus diesem Grund auf.
 </marginal>
 
-   <marginal letter="515" page="383" line="37">
+   <marginal letter="515" page="384" line="1">
 <bzg>Vater</bzg> <link ref="hoyer-d" linktext="true" />
 </marginal>
 
@@ -66067,14 +66067,10 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="517" page="389" line="14">
-    <bzg>Heinrich Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" /> 
+    <bzg>Heinrich Stillings Jugend&#x202F;…</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" />; Hamann hält <link ref="kaufmann-c" linktext="true" /> für den Autor der Lebensbeschreibung Jung-Stillings (und folgt dabei wohl einem nicht überlieferten Katalog Hartungs, vgl. <intlink letter="519" page="391" line="33" linktext="true" />); <titel>Henrich Stillings Jugend</titel> wurde tatsächlich von <link ref="goethe" linktext="false">Goethe</link> (ohne Einverständnis des Autors) pseudonymisiert in Druck gegeben.
    </marginal>
 
-   <marginal letter="517" page="389" line="15" sort="1">
-    <bzg>Kaufmann</bzg> Hamann scheint <link ref="kaufmann-c" linktext="true" /> für den Autor von Jung-Stillings Lebensbeschreibung zu halten, die <link ref="goethe" linktext="false">Goethe</link> (ohne Einverständnis des Autors) pseudonymisiert in Druck gab, vgl. <intlink letter="518" page="390" line="12" linktext="true" />.
-   </marginal>
-
-   <marginal letter="517" page="389" line="15" sort="2">
+   <marginal letter="517" page="389" line="15" >
     <bzg>Chodowiecky</bzg> <link ref="chodowiecki" linktext="true" /> 
    </marginal>
 
@@ -66118,7 +66114,7 @@ Brief Nr. 517
    </marginal>
 
    <marginal letter="518" page="390" line="12" sort="2">
-    <bzg>Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" />; Hamann scheint <link ref="kaufmann-c" linktext="true" /> für den Autor der Lebensbeschreibung Jung-Stillings zu halten, die <link ref="goethe" linktext="false">Goethe</link> (ohne Einverständnis des Autors) pseudonymisiert in Druck gab, vgl. <intlink letter="517" page="389" line="15" linktext="true" />.
+    <bzg>Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" />; Hamann hält <link ref="kaufmann-c" linktext="true" /> für den Autor der Lebensbeschreibung Jung-Stillings (und folgt dabei wohl einem nicht überlieferten Katalog Hartungs, vgl. <intlink letter="519" page="391" line="33" linktext="true" />); <titel>Henrich Stillings Jugend</titel> wurde tatsächlich von <link ref="goethe" linktext="false">Goethe</link> (ohne Einverständnis des Autors) pseudonymisiert in Druck gegeben.
    </marginal>
 
    <marginal letter="518" page="390" line="15">
@@ -66164,11 +66160,11 @@ Brief Nr. 519
     <bzg>huj.</bzg> huius, d.i. diesen Monats
    </marginal>
 
-   <marginal letter="519" page="391" line="9">
+   <marginal letter="519" page="391" line="9" sort="1">
     <bzg>4 Sept. eingekommene</bzg> <intlink letter="509" page="368" line="3" linktext="false">HKB 509</intlink>
    </marginal>
 
-   <marginal letter="519" page="391" line="9">
+   <marginal letter="519" page="391" line="9" sort="1">
     <bzg>14 Oct</bzg> <intlink letter="512" page="378" line="21" linktext="false">HKB 512</intlink>
    </marginal>
 
@@ -66216,10 +66212,6 @@ Brief Nr. 519
     <bzg>Stockmars Hause&#x202F;…&#x202F;Selma</bzg> mit <link ref="stockmar" linktext="true" /> und dessen Tochter <link ref="stockmar-s" linktext="false">„Selma“</link>
    </marginal>
 
-   <marginal letter="519" page="391" line="26">
-    <bzg>Drama</bzg> mglw. bereits im Zusammenhang von Penzels autobiographischem Skandal-Theaterstück, vgl. Köppe 94f.?!?
-   </marginal>
-
    <marginal letter="519" page="391" line="28">
     <bzg>Vorrede</bzg> wie Penzels biographische Vorreden zu seiner <link ref="strabon" subref="strabon-erdbeschreibung" linktext="false">Strabon-Übersetzung</link>
    </marginal>
@@ -66233,11 +66225,11 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="391" line="32">
-    <bzg>Menechmen</bzg> Mischmasch ?!?
+    <bzg>Menechmen</bzg> <link ref="sturz" subref="sturz-menechmen" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="391" line="33" sort="1">
-    <bzg>Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" />
+    <bzg>Stillings Jugend</bzg> <link ref="jung-stilling" subref="jung-stilling-jugend" linktext="true" />, vgl. <intlink letter="517" page="389" line="14" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="391" line="33" sort="2">
@@ -66249,7 +66241,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="391" line="34">
-    <bzg>2te Theil des Allerleys</bzg> 2. Bd. v. <link ref="kaufmann-c" subref="kaufmann-allerley" linktext="true" /> 
+    <bzg>2te Theil des Allerleys</bzg> <link ref="kaufmann-c" subref="kaufmann-allerley" linktext="true" />, Bd.&#x202F;2
    </marginal>
 
    <marginal letter="519" page="391" line="35" sort="1">
@@ -66277,23 +66269,19 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="4" sort="2">
-    <bzg>Gianovese</bzg> <link ref="genovesi" subref="genovesi-grundsaetze" linktext="true" />
+    <bzg>Gianovese</bzg> <link ref="genovesi" subref="genovesi-grundsaetze" linktext="true" />; vgl. Bd.&#x202F;2, S.&#x202F; zu Galiani und Bd.&#x202F;2, S.&#x202F;6 zu Vico
    </marginal>
 
    <marginal letter="519" page="392" line="5">
-    <bzg>Vico Schwärmereyen</bzg> ?!?
+    <bzg>Vico Schwärmereyen&#x202F;…&#x202F;Korn</bzg> vgl. <link ref="genovesi" subref="genovesi-grundsaetze" linktext="true" />, Bd.&#x202F;2, S.&#x202F;31, Fußnote zu „Man hat dafür gehalten, daß das erste Gold der rauhen und wilden Welt das Getreide gewesen sey“: „Vico in seiner Scienza nuova. Allein man findet, daß das Getreide und aller Feldbau keinem wilden Volke bekannt gewesen sey, folglich ist es eine Einbildung.“
    </marginal>
 
    <marginal letter="519" page="392" line="9">
-    <bzg>Denkmal für mein Pathchen</bzg> <link ref="herder" subref="herder-winkelmann" linktext="true" /> 
+    <bzg>Denkmal für mein Pathchen</bzg> <link ref="herder" subref="herder-winkelmann" linktext="true" />, vgl. <intlink letter="509" page="372" line="8" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="392" line="11">
-    <bzg>König und Prediger</bzg> <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,2</link> 
-   </marginal>
-
-   <marginal letter="519" page="392" line="12">
-    <bzg>Eitelkeit der Eitelkeiten</bzg> <link ref="at-pr" subref="at-pr12" linktext="false">Pred 12,8</link> 
+    <bzg>König&#x202F;…&#x202F;Eitelkeiten</bzg> <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,1f.</link>
    </marginal>
 
    <marginal letter="519" page="392" line="13">
@@ -66301,30 +66289,27 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="16">
-    <bzg>Scholiasten</bzg> <link ref="kleuker" subref="kleuker-salomo" linktext="true" />, 1. Teil
+    <bzg>Scholiasten</bzg> <link ref="kleuker" subref="kleuker-salomo" linktext="true" />, 1.&#x202F;Teil
    </marginal>
 
    <marginal letter="519" page="392" line="19">
-    <bzg>August</bzg> <link ref="herder-a" linktext="true" /> 
+    <bzg>August</bzg> <link ref="herder-a" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="392" line="27">
-    <bzg>so der HErr will</bzg> <link ref="nt-jak" subref="nt-jak4" linktext="false">Jak 4,15</link> 
+    <bzg>so der HErr will und wir leben</bzg> <link ref="nt-jak" subref="nt-jak4" linktext="false">Jak 4,15</link> 
    </marginal>
 
    <marginal letter="519" page="392" line="29">
-    <bzg>Aufklebezettel</bzg> nicht ermittelt
+    <bzg>Aufklebezettel</bzg> vgl. <intlink letter="509" page="372" line="11" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="392" line="30">
-    <bzg>Brutus für … Reichard</bzg> <link ref="herder" subref="herder-brutus" linktext="true" />
+    <bzg>Brutus für&#x202F;…&#x202F;Reichard</bzg> <link ref="herder" subref="herder-brutus" linktext="true" /> für <link ref="reichardt-jf" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="392" line="31">
-    <bzg>Bückeb. Gebets</bzg> wohl das Gebet, am Grabmaale Ihro Erlauchten der
-    weil. regierenden Gräfin von Schaumburg- Lippe- Maria Barbara Eleonora gebohrnen
-    Gräfin und Edlen Frauen zur Lippe und Sternberg, gehalten den 7. September 1776
-    zum Baum, SWS XXXI,416- 421. ?!?
+    <bzg>Bückeb. Gebets</bzg> <link ref="herder" subref="herder-gebet" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="392" line="32">
@@ -66332,8 +66317,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="33">
-    <bzg>Brief im Museo</bzg> an Heinrich Boie, über Herders Predigt in Pyrmont, in:
-    Deutsches Museum, März/Mai 1777 ?!?
+    <bzg>Brief im Museo</bzg> <link ref="boie" subref="boie-museum" linktext="true" />, an Heinrich Boie, über Herders Predigt in Pyrmont, in: Deutsches Museum, März/Mai 1777 ?!?
    </marginal>
 
    <marginal letter="519" page="392" line="34">
@@ -66349,7 +66333,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="2">
-    <bzg>Levin den Gagliani</bzg> vll. gemeint Samuel Wolf Levin, Rabbiner in Worms; es war aber Heinrich Ludwig Willibald Barkhausen (1742–1813), Kriegsrat.
+    <bzg>Levin den Gagliani</bzg> vll. gemeint Samuel Wolf Levin, Rabbiner in Worms; es war aber Heinrich Ludwig Willibald Barkhausen (1742–1813), Kriegsrat. ?!?
    </marginal>
 
    <marginal letter="519" page="393" line="3">
