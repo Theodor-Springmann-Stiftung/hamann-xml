@@ -66317,11 +66317,15 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="33">
-    <bzg>Brief im Museo</bzg> <link ref="boie" subref="boie-museum" linktext="true" />, an Heinrich Boie, über Herders Predigt in Pyrmont, in: Deutsches Museum, März/Mai 1777 ?!?
+    <bzg>Brief im Museo</bzg> <link ref="boie" subref="boie-museum" linktext="true" />, Bd. 2, 1777 (Oktober), S.&#x202F;373, über Herders Predigt in Pyrmont („Vom Hrn. E. R. St.“)
    </marginal>
 
-   <marginal letter="519" page="392" line="34">
-    <bzg>Mercur</bzg> <link ref="sturz" linktext="true" />; <link ref="teutsche-merkur" linktext="true" /> 
+   <marginal letter="519" page="392" line="34" sort="1">
+    <bzg>Mercur</bzg> „Ueber die Landschaft-Mahlerey“, in <link ref="teutsche-merkur" linktext="true" />, 3. Vieteljahr 1777 (September), S.&#x202F;273–280
+   </marginal>
+
+   <marginal letter="519" page="392" line="34" sort="2">
+    <bzg>Sturz</bzg> <link ref="sturz" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="392" line="35">
@@ -66333,18 +66337,11 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="2">
-    <bzg>Levin den Gagliani</bzg> vll. gemeint Samuel Wolf Levin, Rabbiner in Worms; es war aber Heinrich Ludwig Willibald Barkhausen (1742–1813), Kriegsrat. ?!?
+    <bzg>Levin den Gagliani</bzg> Mglw. meint Hamann Samuel Wolf Levi, Rabbiner in Worms (1751–1813); Übersetzer von <link ref="galiani" subref="galiani-dialogues" linktext="true" /> war aber <link ref="barckhausen" linktext="true" />.
    </marginal>
 
    <marginal letter="519" page="393" line="3">
     <bzg>Kraus</bzg> <link ref="kraus" linktext="true" />
-   </marginal>
-
-   <marginal letter="519" page="393" line="4" sort="1">
-    <bzg>Ocean</bzg> mit dem Beginn seiner Mortzcinni- Übersetzung. Der geistliche Abentheurer, oder der als Ueberwinder im Glauben und als Virtuose im Predigen
-    herumfahrende Ritter des H. Stephan- Ordens Freiherr von Mortezinni. Eine Geschichte unserer Tage in
-    einem Sendschreiben an den königlichen Bibliothekar Herrn Doctor [Johann Erich] Biester in Berlin.
-    Königsberg 1784. ?!?
    </marginal>
 
    <marginal letter="519" page="393" line="4" sort="2">
@@ -66353,7 +66350,7 @@ Brief Nr. 519
 
    <marginal letter="519" page="393" line="5">
     <bzg>Spencers Fairy Qveen</bzg> <link ref="spenser" subref="spenser-fairy" linktext="true" />  
-    1596.
+    (1590/96).
    </marginal>
 
    <marginal letter="519" page="393" line="6">
@@ -66362,6 +66359,10 @@ Brief Nr. 519
 
    <marginal letter="519" page="393" line="8">
     <bzg>Hinc illae lacrymae!</bzg> dt. daher also die Tränen (von einem erkannten Handlungsmotiv, nach <link ref="terenz" linktext="false">Ter.</link> <titel>And.</titel> 1,1,125)
+   </marginal>
+
+   <marginal letter="519" page="393" line="14">
+    <bzg>keine Autorschaft zu denken</bzg> wohl die Fortsetzung der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link>
    </marginal>
 
    <marginal letter="519" page="393" line="15">

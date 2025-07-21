@@ -1886,7 +1886,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
  <subsection id="boie-museum" type="neuzeit" sort="20">
 <lemma><titel>Deutsches Museum</titel></lemma>
 <eintrag>
-<titel>Deutsches Museum</titel> (Leipzig 1776–1788). Bis 1778 gemeinsam herausgegeben mit <link ref="dohm-cw" linktext="true" />. Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1923976/">Universitätsbibliothek Bielefeld</wwwlink>
+<titel>Deutsches Museum</titel> (Leipzig 1776–1788). Bis 1778 gemeinsam herausgegeben mit <link ref="dohm-cw" linktext="true" />. Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1923976/">Universitätsbibliothek Bielefeld</wwwlink>. – <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10614670-0">BSB München: Per. 163</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -2465,13 +2465,13 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 <subsection id="burnet-theoria" type="neuzeit" sort="10">
     <lemma>Burnet, <titel>Telluris Theoria sacra</titel></lemma>
     <eintrag>
-    <titel>Telluris Theoria sacra: orbis nostris originem mutationes generales quas aut jam subiit, aut olim subiturus est, complectens</titel> (2 Bde., London 1681) [Biga&#x202F;101/71: „Th. Burneti Telluris Theoria sacra, Philosophicae, Amst. 699“]..
+    <titel>Telluris Theoria sacra: orbis nostris originem mutationes generales quas aut jam subiit, aut olim subiturus est, complectens</titel> (2 Bde., London 1681) [Biga&#x202F;101/71: „Th. Burneti Telluris Theoria sacra, Philosophicae, Amst. 699“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10008149-8">Amsterdam 1699 (BSB München: 4 Phys.sp. 48)</wwwlink>.
     </eintrag>
     </subsection>
     <subsection id="burnet-archaeologicae" type="neuzeit" sort="20">
         <lemma>Burnet, <titel>Archaeologicae Philosophicae</titel></lemma>
         <eintrag>
-        <titel>Archaeologicae Philosophicae, sive doctrina antiqua de rerum originibus</titel> (London 1692) [Biga&#x202F;101/71: „Th. Burneti […] archeologiae, Philosophicae, Amst. 699“].
+        <titel>Archaeologicae Philosophicae, sive doctrina antiqua de rerum originibus</titel> (London 1692) [Biga&#x202F;101/71: „Th. Burneti […] archeologiae, Philosophicae, Amst. 699“]. Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/109A8D49">London 1682 (ÖNB Wien: BE.3.N.12 ALT PRUNK)</wwwlink>
         </eintrag>
         </subsection>
 </kommentar>
@@ -5287,7 +5287,7 @@ G
     <eintrag>
     <titel>Dialogues sur le commerce des bleds</titel> (London 1770) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;111/223: „Dialogues Sur le Commerce des Bleds (par Gagliani) Lond. 770. Don. EQVITIS PRVSSICI.“]. Digitalisat: <wwwlink address="https://hdl.handle.net/2027/nyp.33433007983236">Hathi Trust</wwwlink>.
     <line type="break" />
-    Übersetzung: <titel>Des Abts Galiani Dialogen über die Regierungskunst vornehmlich in Rücksicht auf den Getreydehandel, aus dem Französischen übersetzt und mit Anmerkungen begleitet [von Heinrich Ludwig Wilibald Barkhausen]</titel> (Lemgo: Meyer 1777). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/1076DEA6">ÖNB Wien</wwwlink>.
+    Übersetzung: <titel>Des Abts Galiani Dialogen über die Regierungskunst vornehmlich in Rücksicht auf den Getreydehandel, aus dem Französischen übersetzt und mit Anmerkungen begleitet [von <link ref="barckhausen" linktext="true" />]</titel> (Lemgo: Meyer 1777). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/1076DEA6">ÖNB Wien</wwwlink>.
     </eintrag>
     </subsection>
     </kommentar>
@@ -9480,7 +9480,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kraus" type="neuzeit">
 <lemma>Christian Jacob Kraus</lemma>
-<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, Freund Hamanns; 1781 als Nachfolger von K. A. Christiani Professor der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von <link ref="bucholtz-k-jc" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink></eintrag>
+<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, Freund Hamanns; 1781 als Nachfolger von K. A. Christiani Professor der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von <link ref="bucholtz-k-jc" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink> – Vgl. die postum von <link ref="auerswald" linktext="false">Auerswald</link> herausgegebene, sechsbändige Ausgabe seiner Schriften (Königsberg 1808–1812): <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10604279%2FBV010047873">BSB München: Opp. 523</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="krebs" type="neuzeit">
@@ -15832,12 +15832,12 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="spenser" type="neuzeit">
     <lemma>Edmund Spenser</lemma>
-    <eintrag>1552?–1599. Engl. Dichter, <wwwlink address="https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-26145">Andrew Hadfield: Spenser, Edmund, in: <titel>Oxford DNB</titel></wwwlink>.
+    <eintrag>Um 1552 bis 1599. Engl. Dichter, <wwwlink address="https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-26145">Andrew Hadfield: Spenser, Edmund, in: <titel>Oxford DNB</titel></wwwlink>.
     </eintrag>
     <subsection id="spenser-fairy" type="neuzeit" sort="10">
     <lemma>Spenser, <titel>The Fairie Queene</titel></lemma>
     <eintrag>
-    <titel>The Fairie Queene. Disposed into twelve books, fashioning XII. Morall vertues, etc.</titel> (2 Bde., London 1590).</eintrag>
+    <titel>The Fairie Queene. Disposed into twelve books, fashioning XII. Morall vertues, etc.</titel> (2 Bde., London 1590/96).</eintrag>
     </subsection>
     </kommentar>
     
@@ -16533,7 +16533,7 @@ Sethos, histoire ou vie tirée des monumens anecdotes de l’ancienne Egypte. Tr
 <kommentar id="teutsche-merkur" type="neuzeit">
 <lemma><titel>Der Teutsche Merkur</titel></lemma>
 <eintrag>
-<titel>Der Teutsche Merkur</titel>. Literatur- und Rezensionszeitschrift, hg. von <link ref="wieland" linktext="true" /> (Weimar 1773–1789; Bd. 1/1773 als „Der Deutsche Merkur“, Bd. 1–2/1773 erschienen in Frankfurt und Leipzig) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;149/325: „Ei. teutscher Mercur, 1.–8ter Th. Weim.“]. Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1951387/1/LOG_0000/">Universität Bielefeld</wwwlink>.
+<titel>Der Teutsche Merkur</titel>. Literatur- und Rezensionszeitschrift, hg. von <link ref="wieland" linktext="true" /> (Weimar 1773–1789; Bd. 1/1773 als „Der Deutsche Merkur“, Bd. 1–2/1773 erschienen in Frankfurt und Leipzig) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;149/325: „Ei. teutscher Mercur, 1.–8ter Th. Weim.“]. Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1951387/1/LOG_0000/">Universität Bielefeld</wwwlink>. – <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10614090-5">BSB München: Per. 137</wwwlink>.
 </eintrag>
 </kommentar>
 
