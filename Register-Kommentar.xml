@@ -932,6 +932,11 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 </subsection>
 </kommentar>
 
+<kommentar id="baudeau" type="neuzeit">
+<lemma>Nicolas Baudeau</lemma>
+<eintrag>1730–1792. Frz. physiokratischer Ökonom, siehe <wwwlink address="http://d-nb.info/gnd/123893798">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="baumann" type="neuzeit">
 <lemma>NN. Baumann</lemma>
 <eintrag>Hofrath in Königsberg.</eintrag>
@@ -3183,7 +3188,7 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 
 <kommentar id="clerc" type="neuzeit">
 <lemma>Jean le Clerc</lemma>
-<eintrag>1657–1736. Genfer Theologe und Philologe.
+<eintrag>1657–1736, auch Johannes CLericus. Genfer Theologe und Philologe, siehe <wwwlink address="https://d-nb.info/gnd/119512947">GND</wwwlink>.
 </eintrag>
 <subsection id="clerc-bibuniverselle" type="neuzeit" sort="10">
 <lemma>Jean le Clerc (Hg., u.a.), <titel>Bibliothèque universelle</titel></lemma>
@@ -8384,7 +8389,7 @@ J
 <subsection id="jacobi-religion" type="neuzeit" sort="25">
     <lemma>Johann Friedrich Jacobi, <titel>Abhandlungen über wichtige Gegenstände der Religion</titel></lemma>
     <eintrag>
-    <titel>Abhandlungen über wichtige Gegenstände der Religion</titel> (3 Bde., Zelle: Gsell, 1773/76) Digitalisat, 2. Auflage 1776: <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1671576438">Staatsbibliothek zu Berlin: Historische Drucke, Theologie, VD18 digital</wwwlink>.</eintrag>
+    <titel>Abhandlungen über wichtige Gegenstände der Religion</titel> (3 Bde., Zelle: Gsell, 1773/76) Digitalisat, 2. Auflage 1776: <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1671576438">Stabi Berlin: Be 3686-1/2</wwwlink>.</eintrag>
     </subsection>
 </kommentar>
 
@@ -9556,7 +9561,7 @@ Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. �
 
 <kommentar id="kriting" type="neuzeit">
 <lemma>Peter Heinrich Kriting</lemma>
-<eintrag>1700–1777. Kaufmann und Kommerzienrat in Königsberg.</eintrag>
+<eintrag>1700 bis um 1778. Kaufmann und Kommerzienrat in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="kruger-jc" type="neuzeit">
@@ -11416,7 +11421,7 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 <subsection id="meiners-vermischte" type="neuzeit" sort="30">
 <lemma>Meiners, <titel>Vermischte philosophische Schriften</titel></lemma>
 <eintrag>
-<titel>Vermischte philosophische Schriften</titel> (3 Bde., Leipzig: in der Weygandschen Buchhandlung 1775/76). Digitalisat, Bd. 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046443-6">München, Bayerische Staatsbibliothek: Ph.u. 343-3</wwwlink>.
+<titel>Vermischte philosophische Schriften</titel> (3 Bde., Leipzig: Weygand 1775/76). Digitalisat, Bd. 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046443-6">München, Bayerische Staatsbibliothek: Ph.u. 343-3</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -12422,6 +12427,17 @@ N
 <eintrag>1732–1804. Schriftsteller, genfer Bankier, frz. Finanzminister von 1777–1781 und 1788–1790.</eintrag>
 </kommentar>
 
+<kommentar id="nemours" type="neuzeit">
+<lemma>Pierre Samuel Dupont de Nemours</lemma>
+<eintrag>1739–1817. Frz. physiokratischer Nationalökonom, siehe <wwwlink address="http://d-nb.info/gnd/100824366">GND</wwwlink>.<eintrag>
+<subsection id="nemours-science" type="neuzeit">
+<lemma>Nemours (mit <link ref="baudeau" linktext="false">Baudeau</link>), <titel>Science nouvelle</titel></lemma>
+<eintrag>
+<titel>De l’origine et des progrès d’une science nouvelle</titel> (London 1768). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11435653-6">Stabi Bamberg: Bip.Pol.o.10</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="neue-hallische-zeitungen" type="neuzeit">
 <lemma>Neue Hallische Gelehrte Zeitungen</lemma>
 <eintrag>Bde. 1-27, Halle: Curt 1766–92, hg. von <link ref="klotz" linktext="true" />; <wwwlink address="https://digitale.bibliothek.uni-halle.de/urn/urn:nbn:de:gbv:3:1-696871">Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt, 2016</wwwlink>.
@@ -12919,11 +12935,17 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 
 <kommentar id="penzel" type="neuzeit">
 <lemma>Abraham Jakob Penzel</lemma>
-<eintrag>1749–1819. Abenteurer und zeitweiliger Freund Hamanns; klassischer Philologe, Student in Leipzig, Halle, Würzburg, 1775–1778 Musketier des Regimentes Alt-Stutterheim in Königsberg, Übersetzer von <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />, 1776/77 Factotum der Kanterschen Buchhandlung (vgl. <intlink letter="470" page="259" line="28" linktext="true" />), Privatdozent für alte Geschichte, desertierte 1778, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202F; 25 (1887), S.&#x202F;363f.</wwwlink>, <link ref="gaj-b-1986" linktext="false">Gajek: Zwei unbekannte Briefe Johann Georg Hamanns, 34–45</link> und <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>.</eintrag>
+<eintrag>1749–1819. Abenteurer und zeitweiliger Freund Hamanns; klassischer Philologe, Student in Leipzig, Halle, Würzburg, 1775–1778 Musketier des Regimentes Alt-Stutterheim in Königsberg, Übersetzer von <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />, 1776/77 Factotum der Kanterschen Buchhandlung (vgl. <intlink letter="470" page="259" line="28" linktext="true" />), Privatdozent für alte Geschichte, desertierte 1778, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202F; 25 (1887), S.&#x202F;363f.</wwwlink>, <link ref="gaj-b-1986" linktext="false">Gajek: Zwei unbekannte Briefe Johann Georg Hamanns</link>, S.&#x202F;34–45 und <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>.</eintrag>
 <subsection id="penzel-gedichte" type="neuzeit">
 <lemma>Penzel, <titel>Sieben kleine Gedichte</titel></lemma>
 <eintrag>
 <titel>Sieben kleine Gedichte, der Venus Erycina, dem Schmerz und der Freude gesungen</titel> (Berlin: Mylius 1769). <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN886168511">SUB Göttingen: 8 P GERM IV, 1140</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="penzel-musketier" type="neuzeit">
+<lemma>Penzel, <titel>Der Musketier</titel></lemma>
+<eintrag>
+Autobiographisches Theaterstück, das Penzel im Winter 1777/78 auf Anregung von Madame Schuch verfasste; die Aufführung wurde verboten, mit dem Verkauf des Stücks an <link ref="kriting" linktext="false">Kriting</link> für 100 Taler finanzierte Penzel seine Flucht aus Königsberg; zwischendurch befand sich das Manuskript auch in Hamanns Verwahrung, es ist aber schon zu Lebzeiten Penzels verschollen, letzter Besitzer war Kriting. Zum Inhalt vgl. <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>, S.&#x202F;94–100, außerdem <link ref="gaj-b-1986" linktext="false">Gajek: Zwei unbekannte Briefe Johann Georg Hamanns</link>, 38–40
 </eintrag>
 </subsection>
 </kommentar>
@@ -12935,7 +12957,7 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 
 <kommentar id="penzel-ms" type="neuzeit">
 <lemma>Marie Sophie Penzel</lemma>
-<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder, 28. September–2. Oktober 1777, ab, vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 u. 37–39</wwwlink>, ebenso <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel></link>, S.&#x202F;144–156.</eintrag>
+<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder (dat. 28. September bis 2. Oktober 1777) ab, vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 u. 37–39</wwwlink>, ebenso <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel></link>, S.&#x202F;144–156.</eintrag>
 </kommentar>
 
 <kommentar id="percy" type="neuzeit">
@@ -15329,7 +15351,7 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
     <subsection id="seiler-betrachtung" type="neuzeit" sort="10">
     <lemma>Seiler, <titel>Gemeinnützige Betrachtung</titel></lemma>
     <eintrag>
-    <titel>Gemeinnützige Betrachtung der neuesten Schriften, welche Religion, Sitten und Besserung des menschlichen Geschlechts betreffen. In Verb. m. e. Gesellschaft von Gelehrten</titel> (Erlangen: Cammerer 1776/1800).
+    <titel>Gemeinnützige Betrachtung der neuesten Schriften, welche Religion, Sitten und Besserung des menschlichen Geschlechts betreffen. In Verbindung mit einer Gesellschaft von Gelehrten</titel> (2 St., Erlangen: Cammerer 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10786348-1">BSB München: Th.u. 350</wwwlink>.
     </eintrag>
     </subsection>
     </kommentar>
@@ -16187,7 +16209,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <subsection id="strabon-erdbeschreibung" type="neuzeit" sort="10">
 <lemma>Strabon, <titel>Erdbeschreibung</titel></lemma>
 <eintrag>
-Übers.: <titel>Des Strabo eines alten stoischen Weltweisen aus der Stadt Amasia gebürtig allgemeine Erdbeschreibung. Durchgehend von neuem disponiert, mit Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern versehen</titel> [von <link ref="penzel" linktext="true" />] (4 Bde., Lemgo: Meyersche Buchhandlung 1775&#x2013;1777) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;85/177: „A. J. Penzel's Strabo, 1. 2. Th. Lemgo 775“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10238302-0">BSB München: A.gr.b. 3155-1</wwwlink>.
+Übers.: <titel>Des Strabo eines alten stoischen Weltweisen aus der Stadt Amasia gebürtig allgemeine Erdbeschreibung. Durchgehend von neuem disponiert, mit Anmerkungen, Zusätzen, erläuternden Rissen und vollständigen Registern versehen</titel> [von <link ref="penzel" linktext="true" />] (4 Bde., Lemgo: Meyersche Buchhandlung 1775&#x2013;1777) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;85/177: „A. J. Penzel’s Strabo, 1. 2. Th. Lemgo 775“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10238302-0">BSB München: A.gr.b. 3155-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -17228,7 +17250,7 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
     <subsection id="vico-principi" type="neuzeit">
     <lemma>Vico, <titel>Principi di una scienza nuova</titel></lemma>
     <eintrag>
-    <titel>Principi di una scienza nuova d’intorno alle commune natura delle nazioni</titel> (3. Aufl. Neapel 1750, zuerst 1725). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10860426-0">BSB München: Rar. 1927</wwwlink>.</eintrag>
+    <titel>Principi di una scienza nuova d’intorno alle commune natura delle nazioni</titel> (zuerst 1725, 2. Fassung 1730, 3. Fassung 1744). Digitalisat Neapel 1744 (2 Bde.): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10860426-0">BSB München: Rar. 1927</wwwlink>.</eintrag>
     </subsection>
     </kommentar>
 

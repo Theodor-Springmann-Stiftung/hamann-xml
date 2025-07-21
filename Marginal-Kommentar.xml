@@ -52488,7 +52488,7 @@ Brief Nr. 424
 </marginal>
 
 <marginal letter="424" page="133" line="12">
-<bzg>wie das Weib im Evangelio</bzg> <link ref="nt-lk" subref="nt-lk15" linktext="false">Lk 15, 8-10</link>
+<bzg>wie das Weib im Evangelio</bzg> <link ref="nt-lk" subref="nt-lk15" linktext="false">Lk 15, 8–10</link>
 </marginal>
 
 <marginal letter="424" page="133" line="16">
@@ -66212,6 +66212,10 @@ Brief Nr. 519
     <bzg>Stockmars Hause&#x202F;…&#x202F;Selma</bzg> mit <link ref="stockmar" linktext="true" /> und dessen Tochter <link ref="stockmar-s" linktext="false">„Selma“</link>
    </marginal>
 
+   <marginal letter="519" page="391" line="27">
+    <bzg>Drama</bzg> <intlink letter="519" page="394" line="36" linktext="false">s.u.</intlink>
+   </marginal>
+
    <marginal letter="519" page="391" line="28">
     <bzg>Vorrede</bzg> wie Penzels biographische Vorreden zu seiner <link ref="strabon" subref="strabon-erdbeschreibung" linktext="false">Strabon-Übersetzung</link>
    </marginal>
@@ -66386,7 +66390,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="24">
-    <bzg>Meiners Abhandl.</bzg> <link ref="meiners" subref="meiners-vermischte" linktext="true" />, Bd. 3   
+    <bzg>Meiners Abhandl&#x202F;…</bzg> <link ref="meiners" subref="meiners-vermischte" linktext="true" />, Bd.&#x202F;3, S.&#x202F;164–342
    </marginal>
 
    <marginal letter="519" page="393" line="26">
@@ -66398,7 +66402,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="32">
-    <bzg>Nicolai</bzg> Brief Nr. 513. vgl. <intlink letter="513" page="379" line="25" linktext="true" /> 
+    <bzg>Nicolai&#x202F;…&#x202F;schlimmer Augen</bzg> vgl. <intlink letter="513" page="379" line="25" linktext="false">HKB 513</intlink> 
    </marginal>
 
    <marginal letter="519" page="393" line="33">
@@ -66406,15 +66410,19 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="393" line="36" sort="1">
-    <bzg>Vico</bzg> <link ref="vico" linktext="true" />
+    <bzg>Vico</bzg> <link ref="vico" subref="vico-principi" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="393" line="36" sort="2">
-    <bzg>Science nouvelle</bzg> ?!?
+    <bzg>Science nouvelle</bzg> <link ref="nemours" subref="nemours-science" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="394" line="1">
-    <bzg>Clerici</bzg> Jean Clericus (1657–1736), Theologe und Prof. am Arminianischen Gymnasium in Amsterdam
+    <bzg>Clerici</bzg> Die auf 1722 datierte Vorrede von <link ref="clerc" linktext="true" /> ist erst in der 3. Fassung von <link ref="vico" subref="vico-principi" linktext="true" /> enthalten.
+   </marginal>
+
+   <marginal letter="519" page="394" line="5">
+    <bzg>Einleitung</bzg> <link ref="vico" subref="vico-principi" linktext="true" />, S.&#x202F;1–36
    </marginal>
 
    <marginal letter="519" page="394" line="5">
@@ -66430,10 +66438,14 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="394" line="16">
-    <bzg>Erstgebornen und … August</bzg> <link ref="herder-g" linktext="true" />; <link ref="herder-a" linktext="true" />
+    <bzg>Erstgebornen und&#x202F;…&#x202F;August</bzg> <link ref="herder-g" linktext="true" /> und <link ref="herder-a" linktext="true" />
    </marginal>
 
-   <marginal letter="519" page="394" line="18">
+   <marginal letter="519" page="394" line="18" sort="1">
+    <bzg>Brodt&#x202F;…&#x202F;Kelch</bzg> <link ref="nt-kor1" subref="nt-kor1-10" linktext="false">1 Kor 10,14</link>
+   </marginal>
+
+   <marginal letter="519" page="394" line="18" sort="2">
     <bzg>Stecken und Stab</bzg> <link ref="at-ps" subref="at-ps23" linktext="false">Ps 23,4</link> 
    </marginal>
 
@@ -66441,8 +66453,12 @@ Brief Nr. 519
     <bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
    </marginal>
 
-   <marginal letter="519" page="394" line="28">
-    <bzg>Löwen mit Penzel und einem Pater peccaui</bzg> <link ref="loewen" linktext="true" /> mit <link ref="penzel" linktext="true" />
+   <marginal letter="519" page="394" line="28" sort="1">
+    <bzg>Löwen mit Penzel</bzg> <link ref="loewen" linktext="true" /> mit <link ref="penzel" linktext="true" />
+   </marginal>
+
+   <marginal letter="519" page="394" line="28" sort="2">
+    <bzg>Pater peccaui</bzg> sprichwörtlich für ein Schuldbekenntnis, nach <link ref="nt-lk" subref="nt-lk15" linktext="false">Lk 15,18–21</link>
    </marginal>
 
    <marginal letter="519" page="394" line="31">
@@ -66450,27 +66466,23 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="394" line="36">
-    <bzg>Drama von Penzel</bzg> Er hatte ein Drama, das seinen eigenen Werdegang als Soldat zeigte, in Königsberg kursieren lassen. Es
-    blieb ungedruckt, die Aufführung wurde untersagt, das Manuskript ging verloren; vgl
-    Hamanns Urteil nach der Lektüre, IV,130,26ff., ausführlich B. GAJEK im Jb. des FDH,
-    1986. ?!?
+    <bzg>Drama von Penzel</bzg> <link ref="penzel" subref="penzel-musketier" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="395" line="1" >
-    <bzg>Ausgabe des Horatz für Helwig</bzg> erscheint nicht; <link ref="horaz" linktext="true" />; <link ref="helwing" linktext="true" /> 
+    <bzg>Ausgabe des Horatz für Helwig</bzg> des <link ref="horaz" linktext="true" /> für <link ref="helwing" linktext="true" />; nie veröffentlicht
    </marginal>
 
    <marginal letter="519" page="395" line="2" sort="1">
-    <bzg>Strabo</bzg> <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />
+    <bzg>fünften Theil&#x202F;…&#x202F;Strabo</bzg> <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />; nie veröffentlicht
    </marginal>
 
    <marginal letter="519" page="395" line="2" sort="2">
-    <bzg>Schwester</bzg> Maria Sophie Penzel (1750–1810); H. schrieb sich einen Brief selbst ab; gedruckt wurde er 1837 in den Nummern 9 u. 10 der
-    Blätter für literarische Unterhaltung (Verlag Brockhaus, Leipzig). ?!?
+    <bzg>Schwester</bzg> <link ref="penzel-ms" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="395" line="5">
-    <bzg>Romans</bzg> Liebe Penzels zu der Tochter von <link ref="stockmar" linktext="true" />, die Penzel <link ref="stockmar-s" linktext="false">„Selma“</link> nannte, vgl. <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, 126f.</link>)
+    <bzg>Romans</bzg> Mglw. ist die Liebschaft mit <link ref="stockmar-s" linktext="true" /> gemeint.
    </marginal>
 
 
