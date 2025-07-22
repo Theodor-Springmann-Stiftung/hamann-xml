@@ -66193,7 +66193,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="391" line="23" sort="1">
-    <bzg>Lavater</bzg> <link ref="lavater" linktext="true" />, nicht überliefert 
+    <bzg>Lavater</bzg> <link ref="lavater" linktext="true" />, nicht überliefert (vgl. <intlink letter="520" page="395" line="10" linktext="true" />)
    </marginal>
 
    <marginal letter="519" page="391" line="23" sort="2">
@@ -66513,7 +66513,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="520" page="395" line="34">
-    <bzg>IV. Bande der Fragm. aus einem apokryphischen Buche</bzg> vgl. <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 4, S. 96ff.
+    <bzg>IV. Bande&#x202F;…&#x202F;apokryphischen Buche</bzg> Vgl. die Sammlung von Hamann-Zitaten unter dem Titel „Vermischte Gedanken über Genie, Geniesprache, Menschengestalt. Aus einem apokryphischen Buche. 1761. Altona“ in <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;4 (Textband), S.&#x202F;96–99; mit dem „apokryphischen Buche“ sind Hamanns <link ref="hamann" subref="hamann-wolken" linktext="false"><titel>Wolken</titel></link> gemeint.
    </marginal>
 
    <marginal letter="520" page="396" line="2">
@@ -66524,9 +66524,16 @@ Brief Nr. 519
     <bzg>Zweifelwelten</bzg> vgl. <link ref="nt-phil" subref="nt-phil2" linktext="false">Phil 2,14</link> 
    </marginal>
 
+   <marginal letter="520" page="396" line="9">
+    <bzg>geschmack an Zeichen</bzg> vgl. <intlink letter="523" page="6" line="6" linktext="true" />
+   </marginal>
+
+   <marginal letter="520" page="396" line="9">
+    <bzg>Predigten&#x202F;…&#x202F;drucken ließ</bzg> Bspw. die <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11128772-2"><titel>Predigten Ueber das Buch Jonas</titel> (1773)</wwwlink>, die <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460318-1"><titel>Vermischten Predigten</titel> (1773)</wwwlink> oder die <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460307-1"><titel>Fest-Predigten nebst einigen Gelegenheitspredigten (1774)</titel>; 1784 publizierte Lavater sie erneut in den <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10604286-2"><titel>sämtlichen kleinen prosaischen Schriften</titel></wwwlink>.
+   </marginal>
+
    <marginal letter="520" page="396" line="22">
-    <bzg>unphysiognomischten Menschen</bzg> In <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 1, S.
-    271 veröffentlichte Lavater einen Kupferstich seiner selbst.
+    <bzg>unphysiognomischten Menschen</bzg> In <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;1 (Textband), S.&#x202F;271 veröffentlichte Lavater einen Kupferstich von sich selbst.
    </marginal>
 
    <marginal letter="520" page="396" line="23">
@@ -66541,12 +66548,16 @@ Brief Nr. 519
     <bzg>weisesten Schriftsteller</bzg> Pontius Pilatus, wegen seines quod scripsi scripsi ?!?
    </marginal>
 
-   <marginal letter="520" page="396" line="37">
-    <bzg>Stirnmeßer</bzg> Lavaters Meßapparat für Köpfe, insbesondere die Stirn, zu physiognomischer Charakterdeutung
+   <marginal letter="520" page="397" line="2">
+    <bzg>Stirnmeßer</bzg> Lavaters Messapparat für Köpfe, insbesondere die Stirn, zur physiognomischen Charakterdeutung; vgl. die Beschreibung in <link ref="lavater" subref="lavater-fragmente" linktext="true" />, <wwwlink address="https://www.e-rara.ch/zut/content/zoom/297106">S.&#x202F;237–246 (Textband)</wwwlink> und die <wwwlink address="https://www.e-rara.ch/zut/content/zoom/297391">Abbildungen im Tafelband [S.&#x202F;17f.]</wwwlink>; vmtl. äußerte sich Hamann im nicht überlieferten vorausgegangenen Brief spöttisch darüber.
    </marginal>
 
    <marginal letter="520" page="397" line="1">
-    <bzg>Mendelssohn</bzg> <link ref="mendelssohn" linktext="true" />
+    <bzg>Mendelssohn</bzg> <link ref="mendelssohn" linktext="false">Mendelssohns</link> Besuch in Königsberg, den Hamann wohl ebenfalls im vorausgegangenen Brief erwähnte
+   </marginal>
+
+   <marginal letter="520" page="446" line="2">
+    <bzg>Pfenningers</bzg> <link ref="pfenninger" linktext="true" />
    </marginal>
 
 
