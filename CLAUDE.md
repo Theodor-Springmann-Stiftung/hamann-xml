@@ -12,8 +12,9 @@
 
 ## Rules
 - What to do when an XML transformation is requested:
-    - Before transforming the XML, give a few examples of how you understand the users request and how you would transform the XML. TRy to use a diverse set of cases.
-    - After giving examples, you'll likely will need to write a python script to transform the XML. Use the `lxml.etree` library to parse the XML in python and transform it. If text should be transformed, try to find the right place in XML witth said library, then you are allowed to use regex to transform text.
-    - Before running the script, make sure to test it on a small subset of the XML data, so you can see if it works as expected. Alternatively, generate test data to test the transformations against. You are only allowed to do transformations the user asked for, and nothing else.
-    - After transformation and testing, you may run a formatter in python also using `lxml.etree` to format the XML output, so it is readable and well structured.
-    - Save all generated scripts in the `scripts/` directory, so they can be reused later. Overwrite the ortiginal xml files only if the transformation was deemed sucessful by the user.
+    - Before transforming the XML, give a few examples of how you understand the users request and how you would transform the XML. Try to use a diverse set of test cases, from the start, middle and end of a file.
+    - After giving examples, you'll likely will need to write a python script to transform the XML. Use the `lxml.etree` library to parse the XML in python and transform it. It is important that this library and no other library is used! If text should be transformed, try to find the right place in XML witth said library, then you are allowed to use regex to transform text.
+    - Before running the script, make sure to test it on a small subset of the XML data, so you can see if it works as expected. Alternatively, generate test data to test the transformations against. You are only allowed to do the transformations the user asked for, and nothing else.
+    - All XML comments must be preserved. All other data must be preserved. You should use the ptyhon library to format the output XML.
+    - After transformations on the test data, ask the user to confirm the transformation on the real production data. Then run the script on the production data. Replace the original files, so the user can run git diff to see tthe changes made.
+    - Save all generated scripts in the `scripts/` directory with the current date and a meaningful name, so they can be reused later.
