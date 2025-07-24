@@ -9970,7 +9970,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="517">
-        <date value="4. Dezember 1777" />
+        <date value="Königsberg, 4. Dezember 1777" />
         <sort value="1777-12-04" />
         <location ref="2" />
         <senders>
@@ -9989,7 +9989,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="518">
-        <date value="6. Dezember 1777" />
+        <date value="Königsberg, 6. Dezember 1777" />
         <sort value="1777-12-06" />
         <location ref="2" />
         <senders>
@@ -10046,7 +10046,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="521">
-        <date value="31. Dezember 1777" />
+        <date value="Königsberg, 31. Dezember 1777" />
         <sort value="1777-12-31" />
         <location ref="2" />
         <senders>
@@ -10122,9 +10122,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="525">
-        <date value="Vmtl. im Februar 1778" />
-        <sort value="1778-02-23" notBefore="1778-02-01" notAfter="1778-02-28" cert="low" />
-        <location ref="-1" />
+        <date value="Winterthur, vmtl. Anfang Januar 1778" />
+        <sort value="1778-01-07" notBefore="1778-01-01" notAfter="1778-02-2" cert="low" />
+        <location ref="44" />
         <senders>
           <sender ref="72" />
           <sender ref="77" />
