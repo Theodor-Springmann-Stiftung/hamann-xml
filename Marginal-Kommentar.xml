@@ -66794,6 +66794,7 @@ Brief Nr. 522
     <bzg>Mutter</bzg> <link ref="reichardt-jul" linktext="true" /> 
    </marginal>
 
+
    Brief Nr. 523
 
    <marginal letter="523" page="3" line="24" >
@@ -66805,24 +66806,23 @@ Brief Nr. 522
    </marginal>
 
    <marginal letter="523" page="3" line="29" >
-    <bzg>Predigerbuche</bzg> kap. 11
+    <bzg>Predigerbuche</bzg> <link ref="at-pr" subref="at-pr11" linktext="false">Pred 11</link>
    </marginal>
 
    <marginal letter="523" page="3" line="30" >
     <bzg>Dienst</bzg> als Packhofverwalter
-   </marginal>
+   </marginal> 
 
    <marginal letter="523" page="3" line="33" >
-    <bzg>Josua</bzg> Heb 4,8
+    <bzg>Josua</bzg> <link ref="nt-heb" subref="nt-heb4" linktext="false">Hebr 4,8</link> 
    </marginal>
 
    <marginal letter="523" page="4" line="7" >
-    <bzg>O wie gut …</bzg> aus dem Kirchenlied C. F. Richters Es kostet viel ein Christ zu
-    sein
+    <bzg>O wie gut …</bzg> aus dem Kirchenlied C. F. Richters „Es kostet viel ein Christ zu sein“
    </marginal>
 
    <marginal letter="523" page="4" line="11" >
-    <bzg>συμψύχοις</bzg> einmütig (Phl 2,2)
+    <bzg>συμψύχοις</bzg> dt. einmütig (<link ref="nt-phil" subref="nt-phil2" linktext="false">Phil 2,2</link>)
    </marginal>
 
    <marginal letter="523" page="4" line="12" sort="1">
@@ -66837,7 +66837,7 @@ Brief Nr. 522
    </marginal>
 
    <marginal letter="523" page="4" line="15">
-    <bzg>Wahrheit Gottes</bzg> Rö 3,7.
+    <bzg>Wahrheit Gottes</bzg> <link ref="nt-roe" subref="nt-roe3" linktext="false">Röm 3,7</link>  
    </marginal>
 
    <marginal letter="523" page="4" line="16">
@@ -66849,19 +66849,19 @@ Brief Nr. 522
    </marginal>
 
    <marginal letter="523" page="4" line="19" sort="1">
-    <bzg>Gemahlin</bzg> Mt 27,19.
+    <bzg>Gemahlin</bzg> <link ref="nt-mt" subref="nt-mt27" linktext="false">Mt 27,19</link> 
    </marginal>
 
    <marginal letter="523" page="4" line="19" sort="2">
-    <bzg>Quod scripsi, scripsi</bzg> Jh 19,22
+    <bzg>Quod scripsi, scripsi</bzg> <link ref="nt-jo" subref="nt-jo19" linktext="false">Joh 19,22</link>  
    </marginal>
 
    <marginal letter="523" page="4" line="20">
-    <bzg>Mysterium magnum</bzg> 1 Ti 3,16.
+    <bzg>Mysterium magnum</bzg> <link ref="nt-tim1" subref="nt-tim1-3" linktext="false"> 1 Tim 3,16</link> 
    </marginal>
 
    <marginal letter="523" page="4" line="22">
-    <bzg>Moses Mephiboseth</bzg> M. Mendelssohn, nach 2 Sm 4,4.
+    <bzg>Moses Mephiboseth</bzg> Mendelssohn; Mephiboseth ist eine Namensvariante von Merib-Baal, dem Sohn Jonatans, vgl. <link ref="at-sam2" subref="at-sam2-21" linktext="false">2 Sam 21,7</link>.
    </marginal>
 
    <marginal letter="523" page="4" line="25">
@@ -66891,7 +66891,7 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="4" line="34">
-    <bzg>Mosen und die Propheten</bzg> Lk 16,29.
+    <bzg>Mosen und die Propheten</bzg> <link ref="nt-lk" subref="nt-lk16" linktext="false">Lk 16,29</link> 
 </marginal>
 
 <marginal letter="523" page="4" line="35">
@@ -66905,13 +66905,12 @@ Brief Nr. 522
     Lavater ... der sog. Lavater- Mendelssohnstreit.
 </marginal>
 
-
 <marginal letter="523" page="5" line="2">
-    <bzg>Salz und Licht</bzg> Mt 5,13f.
+    <bzg>Salz und Licht</bzg> <link ref="nt-mt" subref="nt-mt5" linktext="false">Mt 5,13f.</link>  
 </marginal>
 
 <marginal letter="523" page="5" line="3">
-    <bzg>Adam</bzg> 1 Mo 3,22.
+    <bzg>Adam</bzg> <link ref="at-mo1" subref="at-mo1-3" linktext="false"> 1 Mo 3,22</link>
 </marginal>
 
 <marginal letter="523" page="5" line="5">
@@ -66924,11 +66923,11 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="5" line="10">
-    <bzg>Satan</bzg> Mt 13,25
+    <bzg>Satan</bzg> <link ref="nt-mt" subref="nt-mt13" linktext="false">Mt 13,25</link>   
 </marginal>
 
 <marginal letter="523" page="5" line="13">
-    <bzg>Der Unglaub’ …</bzg> Aus der Hymne Mein Geist, o Herr, nach dir sich sehnet
+    <bzg>Der Unglaub’ …</bzg> Aus der Hymne „Mein Geist, o Herr, nach dir sich sehnet“
 </marginal>
 
 <marginal letter="523" page="5" line="16">
@@ -66936,7 +66935,7 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="5" line="17">
-    <bzg>Iß dein Brod … mit deinem Weibe</bzg> Pr 9,7 u. 9.
+    <bzg>Iß dein Brod … mit deinem Weibe</bzg> <link ref="at-pr" subref="at-pr9" linktext="false">Pred 9,7 </link>
 </marginal>
 
 <marginal letter="523" page="5" line="22">
@@ -66950,24 +66949,23 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="5" line="34">
-    <bzg>Geist und Wahrheit</bzg> Jh 4,23.
+    <bzg>Geist und Wahrheit</bzg> <link ref="nt-jo" subref="nt-jo4" linktext="false">Joh 4,23</link> 
 </marginal>
 
 <marginal letter="523" page="5" line="35">
-    <bzg>brennenden Busch</bzg> 2 Mo 3,2.
+    <bzg>brennenden Busch</bzg> <link ref="at-mo2" subref="at-mo2-3" linktext="false">2 Mo 3,2</link>
 </marginal>
 
 <marginal letter="523" page="5" line="37">
-    <bzg>Gott der Todten</bzg> Mt 22,32.
+    <bzg>Gott der Todten</bzg> <link ref="nt-mt" subref="nt-mt22" linktext="false">Mt 22,32</link> 
 </marginal>
 
 <marginal letter="523" page="6" line="2">
-    <bzg>Wird die Welt …</bzg> Anspielung an die letzte Strophe des
-    Kirchenlieds von J. Burkhard Mache dich mein Geist bereit
+    <bzg>Wird die Welt …</bzg> Anspielung an die letzte Strophe des Kirchenlieds von J. Burkhard „Mache dich mein Geist bereit“
 </marginal>
 
 <marginal letter="523" page="6" line="5">
-    <bzg>fetten oder magern</bzg> 1 Mo c. 41.
+    <bzg>fetten oder magern</bzg> <link ref="at-mo1" subref="at-mo1-41" linktext="false">1 Mo 41</link>
 </marginal>
 
 <marginal letter="523" page="6" line="6">
@@ -66975,24 +66973,24 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="6" line="8">
-    <bzg>αὐτὴν τὴν εἰκόνα …</bzg> Heb 10,1.
+    <bzg>αὐτὴν τὴν εἰκόνα …</bzg> <link ref="nt-heb" subref="nt-heb10" linktext="false">Hebr 10,1</link>
 </marginal>
 
 <marginal letter="523" page="6" line="10">
-    <bzg>τέλειον</bzg> 1 Ko 13,10: das Vollkommene.
+    <bzg>τέλειον</bzg> dt.das Vollkommene; <link ref="nt-kor1" subref="nt-kor1-13" linktext="false">1 Kor 13,10</link>
 </marginal>
 
 <marginal letter="523" page="6" line="12">
-    <bzg>τότε δὲ πρόσωπον …</bzg> 1 Ko 13,12.
+    <bzg>τότε δὲ πρόσωπον …</bzg> <link ref="nt-kor1" subref="nt-kor1-13" linktext="false">1 Kor 13,12</link>
 </marginal>
 
 <marginal letter="523" page="6" line="24">
-    <bzg>Tauben-Einfalt … Schlangenlist</bzg> Mt 10,16, zugleich Anspielung auf Hs
+    <bzg>Tauben-Einfalt … Schlangenlist</bzg> <link ref="nt-mt" subref="nt-mt10" linktext="false">Mt 10,16</link>; zugleich Anspielung auf Hs
     Schrift Versuch einer Sibylle über die Ehe
 </marginal>
 
 <marginal letter="523" page="6" line="25">
-    <bzg>wir sind Gott  … des Lebens zum Leben</bzg> 2 Ko 2,15f.
+    <bzg>wir sind Gott  … des Lebens zum Leben</bzg> <link ref="nt-kor2" subref="nt-kor2-2" linktext="false">2 Kor 2,15f.</link> 
 </marginal>
 
 <marginal letter="523" page="6" line="30">
@@ -67072,7 +67070,7 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="7" line="27">
-    <bzg>Wurm und kein Mensch</bzg> Ps 22,7.
+    <bzg>Wurm und kein Mensch</bzg> <link ref="at-ps" subref="at-ps22" linktext="false">Ps 22,7</link>
 </marginal>
 
 <marginal letter="523" page="7" line="28">
@@ -67084,11 +67082,11 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="7" line="32">
-    <bzg>Mohr Ebedmelech</bzg> Jer 38,7-39,16.
+    <bzg>Mohr Ebedmelech</bzg> <link ref="at-jer" subref="at-jer38" linktext="false">Jer 38,7ff.</link>
 </marginal>
 
 <marginal letter="523" page="7" line="35">
-    <bzg>Eselskinnbacken</bzg> Ri 15,19.
+    <bzg>Eselskinnbacken</bzg> <link ref="at-ri" subref="at-ri15" linktext="false">Ri 15,19</link> 
 </marginal>
 
 <marginal letter="523" page="7" line="36" sort="1">
@@ -67096,15 +67094,15 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="7" line="36" sort="2">
-    <bzg>Bedürfnisse</bzg> Genes. XXI. 19
+    <bzg>Bedürfnisse</bzg> <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 21,19</link> 
 </marginal>
 
 <marginal letter="523" page="7" line="37">
-    <bzg>Lüsternheit</bzg> 2. Sam. XXIII. 15
+    <bzg>Lüsternheit</bzg> <link ref="at-sam2" subref="at-sam2-23" linktext="false">2 Sam 23,15</link>    
 </marginal>
 
 <marginal letter="523" page="8" line="2">
-    <bzg>Fressern und Weinsäufern</bzg> Mt 11,19; Lk 7,34.
+    <bzg>Fressern und Weinsäufern</bzg> <link ref="nt-mt" subref="nt-mt11" linktext="false">Mt 11,19</link>; <link ref="nt-lk" subref="nt-lk7" linktext="false">Lk 7,34</link>
 </marginal>
 
 <marginal letter="523" page="8" line="6">
