@@ -5798,6 +5798,10 @@ Prolog zu den neuesten Offenbarungen Gottes. Verteutscht durch Dr. Carl Friedric
 </subsection>
 </kommentar>
 
+<kommentar id="goethe-c" type="neuzeit">
+<lemma>Cornelia Goethe</lemma>
+<eintrag>1750–1777. Schwester <link ref="goethe" linktext="false">Goethes</link> und Ehefrau von <link ref="schlosser" linktext="true" />.</eintrag>
+</kommentar>
 
 <kommentar id="goettingische-anzeigen" type="neuzeit">
 <lemma>Göttingische Anzeigen von gelehrten Sachen</lemma>
@@ -8981,7 +8985,12 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 
 <kommentar id="kaufmann-e" type="neuzeit">
 <lemma>Elise Kaufmann</lemma>
-<eintrag>1750–1826. Geb. Anna Elisabeth Ziegler, seit 1778 Ehefrau von <link ref="kaufmann-c" linktext="true" />; Patin von <link ref="hamann-ms" linktext="true" />.</eintrag>
+<eintrag>1750–1826. Geb. Anna Elisabeth <link ref="ziegler-a" linktext="false">Ziegler</link>, seit 1778 Ehefrau von <link ref="kaufmann-c" linktext="true" />; Patin von <link ref="hamann-ms" linktext="true" />.</eintrag>
+</kommentar>Kaufmann, Christoph Adrian Gotthilf (1778- 1779), beider Sohn
+
+<kommentar id="kaufmann-cag" type="neuzeit">
+<lemma>Christoph Adrian Gotthilf Kaufmann</lemma>
+<eintrag>1778–1779. Sohn von <link ref="kaufmann-c" linktext="true" /> und <link ref="kaufmann-e" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="koepken" type="neuzeit">
@@ -13097,12 +13106,17 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 
 <kommentar id="pfenninger" type="neuzeit">
 <lemma>Johann Konrad Pfenninger</lemma>
-<eintrag>1747–1792. Schweizer. reform. Theologe, 1778 Pfarrer der Waisenhauskirche, 1786 Diakon der Peterskirche in Zürich, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104318112.html#adbcontent">Pfenninger, Konrad, in: <titel>ADB</titel>&#x202F;25 (1897), S.&#x202F;660&#x2013;661</wwwlink>..</eintrag>
+<eintrag>1747–1792. Schweizer. reform. Theologe, 1778 Pfarrer der Waisenhauskirche, 1786 Diakon der Peterskirche in Zürich, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104318112.html#adbcontent">Pfenninger, Konrad, in: <titel>ADB</titel>&#x202F;25 (1897), S.&#x202F;660&#x2013;661</wwwlink>.</eintrag>
 <subsection id="pfenninger-vorlesungen" type="neuzeit">
 <lemma>Pfenninger, <titel>5 Vorlesungen</titel></lemma>
 <eintrag>
 <titel>5 Vorlesungen von der Liebe der Wahrheit, von dem Einfluß des Herzens auf den Verstand, von fehlerhaften und richtigen Modellen, die Heilige Schrift zu studieren</titel> (Zürich 1774). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-19707">Zentralbibliothek Zürich: 17.567</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="pfenninger-k" type="neuzeit">
+<lemma>Katharina Pfenninger</lemma>
+<eintrag>Lebensdaten unbekannt. Geb. <link ref="ziegler-a" linktext="false">Ziegler</link>, seit 1771 Ehefrau von <link ref="pfenninger" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="pflug" type="neuzeit">
@@ -18429,7 +18443,13 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
  
  <kommentar id="ziegenhorn" type="neuzeit">
 <lemma>Christoph Georg von Ziegenhorn</lemma>
-<eintrag>1714–1783. Justizrat in Königsberg, siehe <wwwlink address="https://bbld.de/0000000050515548">BBLd</wwwlink>..
+<eintrag>1714–1783. Justizrat in Königsberg, siehe <wwwlink address="https://bbld.de/0000000050515548">BBLd</wwwlink>.
+</eintrag>
+</kommentar>
+ 
+ <kommentar id="ziegler-a" type="neuzeit">
+<lemma>Adrian Ziegler</lemma>
+<eintrag>1704–1781. Vater von <link ref="kaufmann-e" linktext="true" />, Obervogt auf Schloss Hegi bei Winterthur, Schwiegervater von <link ref="kaufmann-c" linktext="true" />
 </eintrag>
 </kommentar>
 
