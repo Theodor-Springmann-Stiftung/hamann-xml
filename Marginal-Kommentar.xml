@@ -67375,29 +67375,25 @@ Brief Nr. 528
    <marginal letter="528" page="18" line="29">
     <bzg>Bußzettel</bzg> vgl. Herders <titel>Bußtagszettel</titel> vom 14. März und 5. Dezember 1777 in SWS XXXI, 670f.
    </marginal>
+
+   <marginal letter="528" page="19" line="34">
+    <bzg>Akad. der Wiß.</bzg> <link ref="herder" subref="herder-dichtkunst-wuerkung" linktext="true" />
+   </marginal>
    
    <marginal letter="528" page="18" line="35">
-    <bzg>Motto Ihres Horaz&#x202F;…</bzg> ?!?
+    <bzg>Motto Ihres Horaz&#x202F;…</bzg> Hamann zitierte Horaz häufig in Motti; das ganze Motto lautet: „Vtcunque defecere mores, / Dedecorant bene nata culpae“ (<link ref="horaz" subref="horaz-oden" linktext="true" />, ). – Dt.: in dem Maße, wie das sittliche Empfinden schwindet, / zerstören Verfehlungen den Ruhm edel geborener Persönlichkeiten.
    </marginal>
    
    <marginal letter="528" page="18" line="37">
     <bzg>Winkelm.</bzg> <link ref="herder" subref="herder-winkelmann" linktext="true" />, vgl. <intlink letter="519" page="392" line="9" linktext="true" />
    </marginal>
    
-   <marginal letter="528" page="19" line="">
-    <bzg></bzg>
+   <marginal letter="528" page="19" line="2" sort="1">
+    <bzg>aufgewärmten Kohls</bzg> <link ref="herder" subref="herder-erkennen-empfinden" linktext="true" />, <link ref="herder" subref="herder-plastik" linktext="true" /> und <link ref="herder" subref="herder-lieder-liebe" linktext="true" />  
    </marginal>
    
-   <marginal letter="528" page="19" line="">
-    <bzg></bzg>
-   </marginal>
-   
-   <marginal letter="528" page="19" line="">
-    <bzg></bzg>
-   </marginal>
-   
-   <marginal letter="528" page="19" line="">
-    <bzg></bzg>
+   <marginal letter="528" page="19" line="2" sort="2">
+    <bzg>Teller Nachtisch</bzg> <link ref="herder" subref="herder-volkslieder" linktext="true" />
    </marginal>
    
    <marginal letter="528" page="19" line="">
@@ -67423,8 +67419,12 @@ Brief Nr. 528
     <bzg>Kreuzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
    </marginal>
    
-   <marginal letter="528" page="19" line="27">
+   <marginal letter="528" page="19" line="27" sort="1">
     <bzg>Begebenheiten des Prof. Ana</bzg> Kreutzfeld erwähnte in einer Fußnote zu seinem <link ref="kreutzfeld" subref="kreutzfeld-geburtstagsgedicht1777" linktext="false">Geburtstagsgedicht auf Hamann von 1777</link>, S.&#x202F;12 eine Schrift <titel>Leiden und – ana des seel. Pr. Mannah</titel> (vgl. zu <intlink letter="522" page="2" line="1" linktext="true" />). Hamann tut sie später als nicht ausgeführten Entwurf ab (vgl. <intlink letter="536" page="33" line="17" linktext="true" />). Zu Herders Quelle für die Kenntnis von Kreutzfelds Gedicht vgl. <intlink letter="512" page="376" line="12" linktext="true" />. Siehe Knoll: Hamann-Forschungen, 48?!? – Herder-Kommentar?!? Aus Herder-Nachlass bestellen oder ists schon auf dem Server?!?
+   </marginal>
+   
+   <marginal letter="528" page="19" line="27" sort="2">
+    <bzg>Ana</bzg> Ein zum Substantiv verselbständigter Plural aus der lateinischen Ableitungssilbe, z.B. Horatiana (Horazisches); auch ironische Bezeichnung für Anekdotensammlungen, vgl. etwa <wwwlink address="https://books.google.de/books?id=bv0FAAAAQAA">Saint-Sauveur: <titel>L’esprit des ana, ou De tout un peu</titel></wwwlink>
    </marginal>
 
 
@@ -67434,6 +67434,7 @@ Brief Nr. 532
 <bzg>Entscheidung der Gen. Admin.</bzg> Die abschlägige Antwort der <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link> vom 27. Dezember 1777 (nicht überliefert, vgl.<intlink letter="522" page="1" line="22" linktext="true" />); Herder fragte danach, <intlink letter="528" page="18" line="14" linktext="true" />.
 </marginal>
 
+<marginal letter="532" page="25" line="20">
 <bzg>letzte Arbeit</bzg> Die Antwort an die <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>, für die <intlink letter="521" page="397" line="6" linktext="false">HKB 521</intlink> ein Entwurf ist.
 </marginal>
 
