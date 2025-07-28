@@ -62561,7 +62561,7 @@ Brief Nr. 484
 <bzg>Buchholtzens</bzg> <link ref="bucholtz-k-jc" linktext="true" />
 </marginal>
 
-<marginal letter="484" page="308" line="9" sort="2" >
+<marginal letter="484" page="308" line="14" >
 <bzg>Schwester</bzg> <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
@@ -67143,8 +67143,8 @@ Brief Nr. 525
     <bzg>P.</bzg> wohl St. Petersburg
    </marginal>
 
-   <marginal letter="525" page="11" line="15">
-    <bzg>P.</bzg> Stricke, Intrigen
+   <marginal letter="525" page="11" line="17">
+    <bzg>Strike</bzg> Stricke, Intrigen
    </marginal>
 
    <marginal letter="525" page="11" line="20">
@@ -67233,9 +67233,13 @@ Brief Nr. 525
     <bzg>Ihrige vom 22 Oct.</bzg> nicht überliefert
    </marginal>
    
-   <marginal letter="527" page="14" line="2">
+   <marginal letter="527" page="14" line="2" sort="1">
     <bzg>letztes vom 29 Jan.</bzg> nicht überliefert
    </marginal>
+   
+   <marginal letter="527" page="14" line="2" sort="2">
+    <bzg>Inlage</bzg> wohl von <link ref="keyserling-c" linktext="true" />, vgl. <intlink letter="529" page="20" line="3" linktext="true" />
+    </marginal>
    
    <marginal letter="527" page="14" line="6">
     <bzg>Chr.</bzg> <link ref="kaufmann-c" linktext="true" />
@@ -67361,7 +67365,7 @@ Brief Nr. 528
    </marginal>
    
    <marginal letter="528" page="18" line="23">
-    <bzg>incedo per ignes</bzg> Dt. ich schreite durch Feuergluten, <link ref="horaz-oden" linktext="true" />, 2,1,7
+    <bzg>incedo per ignes</bzg> Dt. ich schreite durch Feuergluten, <link ref="horaz" subref="horaz-oden" linktext="true" />, 2,1,7
    </marginal>
    
    <marginal letter="528" page="18" line="26">
@@ -67376,7 +67380,7 @@ Brief Nr. 528
     <bzg>Bußzettel</bzg> vgl. Herders <titel>Bußtagszettel</titel> vom 14. März und 5. Dezember 1777 in SWS XXXI, 670f.
    </marginal>
 
-   <marginal letter="528" page="19" line="34">
+   <marginal letter="528" page="18" line="34">
     <bzg>Akad. der Wiß.</bzg> <link ref="herder" subref="herder-dichtkunst-wuerkung" linktext="true" />
    </marginal>
    
@@ -67444,6 +67448,52 @@ Brief Nr. 528
     <bzg>Ana</bzg> Ein zum Substantiv verselbständigter Plural aus der lateinischen Ableitungssilbe, z.B. Horatiana (Horazisches); auch ironische Bezeichnung für Anekdotensammlungen, vgl. etwa <wwwlink address="https://books.google.de/books?id=bv0FAAAAQAA">Saint-Sauveur: <titel>L’esprit des ana, ou De tout un peu</titel>.</wwwlink>
    </marginal>
 
+
+Brief Nr. 529
+
+   <marginal letter="529" page="20" line="5" sort="1">
+    <bzg>Brief</bzg> Nicht überliefert, wohl von <link ref="kaufmann-c" linktext="true" /> bzw. <link ref="ehrmann" linktext="true" />; vielleicht ist auch nur die Paraphrase aus Ehrmanns Brief über Kaufmanns Hochzeit vom 16. März (<intlink letter="527" page="13" line="22" linktext="false"></>) <intlink letter="529" page="20" line="19" linktext="false">weiter unten</intlink> gemeint.
+   </marginal>
+
+   <marginal letter="529" page="20" line="5" sort="2">
+   <bzg>gnädigst anvertraute Einschluß</bzg> vmtl. die Beilage, von der Ehrmann berichtete, sie erhalten zu haben, vgl. <intlink letter="527" page="14" line="2" linktext="true" />
+   </marginal>
+
+   <marginal letter="529" page="20" line="8">
+   <bzg>Fragmenten&#x202F;…</bzg> Anspielung auf die <link ref="lavater" subref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmente</titel></link> und den Lavater-Kreis
+   </marginal>
+
+   <marginal letter="529" page="20" line="10">
+   <bzg>curiösen Relation&#x202F;…&#x202F;freundschaftlichen Correspondenten</bzg> nach <link ref="happel" subref="happel-welt" linktext="true" />, gemeint ist Kaufmann bzw. Ehrmann
+   </marginal>
+
+   <marginal letter="529" page="20" line="19">
+   <bzg>Einsam brachten&#x202F;…</bzg> Paraphrase aus <link ref="ehrmann" linktext="false">Ehrmanns</link> Bericht über <link ref="kaufmann-c" linktext="false">Kaufmanns</link> Hochzeit, vgl. <intlink letter="527" page="14" line="21" linktext="true" />
+   </marginal>
+
+   <marginal letter="529" page="20" line="21">
+   <bzg>W. vor dem väterl. Hause</bzg> Winterthur, <link ref="kaufmann-ca" linktext="true" />
+   </marginal>
+
+   <marginal letter="529" page="20" line="23">
+   <bzg>Obervogt Ziegler</bzg> <link ref="ziegler-a" linktext="true" />
+   </marginal>
+
+   <marginal letter="529" page="20" line="32">
+   <bzg>L.</bzg> <link ref="lavater" linktext="true" />
+   </marginal>
+
+   <marginal letter="529" page="20" line="33">
+   <bzg>Anke</bzg> vgl. <intlink letter="527" page="15" line="27" linktext="true" />
+   </marginal>
+
+   <marginal letter="529" page="21" line="3">
+   <bzg>Schloßers</bzg> <link ref="schlosser" linktext="true" />
+   </marginal>
+
+   <marginal letter="529" page="21" line="6">
+   <bzg>junge Frau</bzg> <link ref="kaufmann-e" linktext="true" />
+   </marginal>
 
 Brief Nr. 532
 
