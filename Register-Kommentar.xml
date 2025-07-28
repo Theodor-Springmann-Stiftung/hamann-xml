@@ -8452,7 +8452,6 @@ J
 </subsection>
 </kommentar>
 
-
 <kommentar id="jacquet" type="neuzeit">
 <lemma>Louis Jacquet</lemma>
 <eintrag>1732–1794. Abbé in Lyon.</eintrag>
@@ -8460,6 +8459,21 @@ J
 <lemma>Jacquet, <titel>Parallèle des Tragiques Grecs et Français</titel></lemma>
 <eintrag>
 <titel>Parallèle des Tragiques Grecs et Français</titel> (Lille 1760), erschien anonym [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;176/744: „Parallele des Tragiques grecs &amp; Francois par Jaquet. Lille 760“].</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="jagemann" type="neuzeit">
+<lemma>Christian Joseph Jagemann</lemma>
+<eintrag>1735–1804. Philologe, Übersetzer und Bibliothekar in Weimar, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100289452.html#adbcontent">Köhler, R.: Jagemann, Christian Joseph, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;642f</wwwlink>.</eintrag>
+<subsection id="jagemann-hoelle" type="neuzeit" sort="10">
+<lemma>Jagemann, <titel>Die Hölle (Dante-Übersetzung)</titel></lemma>
+<eintrag>
+<titel>Dante, Die Hölle, in: Magazin der italienischen Litteratur und Künste.</titel> In: <link ref="jagemann" subref="jagemann-magazin" linktext="true" />.</eintrag>
+</subsection>
+<subsection id="jagemann-magazin" type="neuzeit" sort="10">
+<lemma>Jagemann (Hg.), <titel>Magazin der italienischen Litteratur und Künste</titel></lemma>
+<eintrag>
+<titel>Magazin der italienischen Litteratur und Künste</titel> (8 Bde., Halle: Hendel 1780–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/details:bsb10733131">BSB München: H.lit.p. 181</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1059623374">ZDB</wwwlink>. </eintrag>
 </subsection>
 </kommentar>
 
@@ -17961,6 +17975,20 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 <lemma>Wezel, <titel>Tobias Knaut</titel></lemma>
 <eintrag>
 <titel>Lebensgeschichte Tobias Knauts des Weisen, sonst der Stammler genannt. Aus Familiennachrichten gesammelt</titel> (4 Bde., Leipzig 1773–1776) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;151/367: „Lebensgeschichte Tob. Knauts, iter Th. Leipz. 773“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123089-4">BSB München: 1592 b-1/2</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+ (), 
+ IV,19; 219(schon geschrieben).
+
+<kommentar id="wiedeburg" type="neuzeit">
+<lemma>Basilius Christian Bernhard Wiedeburg</lemma>
+<eintrag>1722–1758. Prof. der Philosophie und Mathematik in Jena, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118632477.html#adbcontent">Günther: Wiedeburg, Basilius Christian Bernhard, in: <titel>ADB</titel>&#x202F;42 (1897), S.&#x202F;375</wwwlink>.
+</eintrag>
+<subsection id="wiedeburg-manuscripte" type="neuzeit" sort="10">
+<lemma>Wiedeburg, <titel>Teutsche poetische Manuscripte aus dem 13. und 14. Jahrhundert</titel></lemma>
+<eintrag>
+<titel>Ausführliche Nachrichten von einigen alten Teutschen poetischen Manuscripten aus dem dreyzehenden und vierzehenden Jahrhunderte welche in der Jenaischen akademischen Bibliothek aufbehalten werden</titel> (Jena 1754) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;63/87: „B.&#x202F;C.&#x202F;B. Wiedeburg’s Nachricht von einigen
+alten deutschen poetischen Mspten aus dem XIII. und XIV. Jahrhundert, Jena 754“]. Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/109DDAEA">ÖNB Wien: 47.D.33 ALT PRUNK</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
