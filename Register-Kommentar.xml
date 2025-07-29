@@ -9250,6 +9250,12 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 <eintrag><titel>Beantwortungsversuch einer im deutschen Merkur aufgeworfenen Frage von Johann Friedrich Kleuker</titel>. In: <link ref="boie" subref="boie-museum" linktext="true" />, 1. Halbjahr 1777, S.&#x202F;223–254 und 331–346. – Zu der Frage im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> vgl. zu <intlink letter="480" page="290" line="27" linktext="true" />.
 </eintrag>
 </subsection>
+<subsection id="kleuker-pascal" type="neuzeit" sort="50">
+<lemma>Kleuker, <titel>Gedanken Pascals</titel></lemma>
+<eintrag>
+<titel>Gedanken <link ref="pascal" linktext="false">Pascals</link>. Mit Anmerkungen und Gedanken von J. F. K.</titel> (Bremen 1777). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:3:3-14597">ULB Halle</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="klingstaedt" type="neuzeit">
@@ -12910,7 +12916,7 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 
 <kommentar id="pascal" type="neuzeit">
 <lemma>Blaise Pascal</lemma>
-<eintrag>1623–1662. Frz. Philosoph, Mathematiker.</eintrag>
+<eintrag>1623–1662. Frz. Philosoph und Mathematiker.</eintrag>
 </kommentar>
 
 <kommentar id="passionei" type="neuzeit">
