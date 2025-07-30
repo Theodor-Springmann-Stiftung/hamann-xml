@@ -9955,11 +9955,15 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
 <titel>Physiognomische Fragmente zur Beförderung der Menschenkenntnis und Menschenliebe</titel> (4 Bde., Leipzig, Winterthur: Weidmanns Erben 1775–1778). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-1099">ETH-Bibliothek Zürich: Rar 9206</wwwlink>.</eintrag>
 </subsection>
 <subsection id="lavater-durst" type="neuzeit" sort="25">
-    <lemma>Lavater, <titel>Durst nach Christuserfahrung 1776. Im November</titel></lemma>
+    <lemma>Lavater, <titel>Durst nach Christuserfahrung 1776</titel></lemma>
     <eintrag>
     <titel>Durst nach Christuserfahrung 1776. Im November</titel> [Zürich 1776]. Digitalisat: <wwwlink address="https://books.google.de/books?id=BLijq2snWVYC">Google Books</wwwlink>.</eintrag>
     </subsection>
-
+    <subsection id="lavater-abraham" type="neuzeit" sort="30">
+        <lemma>Lavater, <titel>Abraham und Isaak</titel></lemma>
+        <eintrag>
+        <titel>Abraham und Isaak: ein religiöses Drama</titel> (Winterthur: Heinrich Steiner und Compagnie 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/details:bsb10113530">München, Bayerische Staatsbibliothek: P.o.germ. 798 f</wwwlink>.</eintrag>
+        </subsection>
 </kommentar>
 
 <kommentar id="lavater-l" type="neuzeit">
