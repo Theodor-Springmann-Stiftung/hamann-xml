@@ -2109,6 +2109,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <eintrag>1722–1798. Preuß. Etatsminister in verschiedenen Funktionen bei der <link ref="provinzialregierung" linktext="true">ostpreußischen Provinzialregierung</link>.</eintrag>
 </kommentar>
 
+<kommentar id="brahl" type="neuzeit">
+<lemma>Johann Brahl</lemma>
+<eintrag>1753–1812. Schriftsteller und Stadtinspektor in Königsberg; zunächst Nädlermeister, später Redakteur, Kalkulator und Einnehmer; vgl. <wwwlink address="https://books.google.de/books?id=EctbAAAAcAAJ">Gieseke Handbuch für Dichter und Litteratoren (Magdeburg 1793), I, S.&#x202F;216</wwwlink>. Sohn des Nädlers Gottfried Brahl und von Gertrud Brahl (geb. Miltz.</eintrag>
+</kommentar>
+
 <kommentar id="breitinger" type="neuzeit">
 <lemma>Johann Jakob Breitinger</lemma>
 <eintrag>1701–1776. Philologe und Ästhetiker. Mit einer Vorrede Bodmers versehen erschien 1740 B.s „Critische Dichtkunst“, worin das alte Prinzip der Nachahmung der Natur hin zur freien Schöpferkraft der Phantasie überschritten wird. <wwwlink address="https://www.deutsche-biographie.de/pnd118514881.html#ndbcontent"> Ernst, Fritz: Breitinger, Johann Jakob, in: <titel>NDB</titel>&#x202F; 2 (1955), S.&#x202F;578.</wwwlink>.
@@ -4143,6 +4148,11 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 Übers.: <titel>Kritische Betrachtungen über die Poesie und Mahlerey </titel> (Kopenhagen: Mumme 1760/61). Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-635949">ULB Halle: 13 WA 3211</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="dubois" type="neuzeit">
+<lemma>Johann Christian Dubois</lemma>
+<eintrag>Geb. 1743. Ab 1781 Informator der Söhne des Fürsten Golycin in St. Petersburg, siehe <wwwlink address="https://bbld.de/GND1127073796">BBLd</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="duchat" type="neuzeit">
@@ -6831,6 +6841,11 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 <eintrag>
 <titel>Schürze von Feigenblättern</titel>. Ungedruckter Entwurf für eine Schrift von Neujahr 1777 bis 1779, vgl. Martin Seils: <titel>Schürze von Feigenblättern. Kritisch herausgegeben und erklärt.</titel> In: <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;265–372 (vgl. ebenso N&#xA0;III, S.&#x202F;451).<line type="break" />
 Zitation im Briefkommentar nach HHE 5, S.&#x202F;274–284.
+</eintrag>
+<subsection id="hamann-denkmal" type="neuzeit" sort="684">
+<lemma>Hamann, <titel>Apologie meines Cretinen</titel></lemma>
+<eintrag>
+<titel>Apologie meines Cretinen</titel>. Ungedruckter Entwurf für eine Schrift von 1778 nach dem Tod von <link ref="hamann" subref="hamann-jc" linktext="false">Hamanns Bruder</link>. N&#x202F;III, S.&#x202F;232f., vgl. ebd., 472. – ULB Münster, N. Hamann, Kapsel 1,8.
 </eintrag>
 </subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="690">
@@ -18578,10 +18593,15 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <lemma>Johann Christian Zinck</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Bader, zeitweise Gehilfe von <link ref="hamann-vjc" linktext="false">Hamanns Vater</link>.</eintrag>
 </kommentar>
-
+ (), 
 <kommentar id="zinzendorf" type="neuzeit">
 <lemma>Nikolaus Ludwig Graf von Zinzendorf und Pottendorf</lemma>
 <eintrag>1700–1760. Gründer der Herrnhuter Brudergemeine, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz22.html#adbcontent">Tschackert, Paul: Zinzendorf, Nicolaus Graf von, in: <titel>ADB</titel>&#x202F;45 (1900), S.&#x202F;244–353</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="zitterland" type="neuzeit">
+<lemma>Johann Wilhelm Zitterland</lemma>
+<eintrag>1755–1838. Evangelischer Theologe, Hofmeister und Feldprediger in Mewe; Freund <link ref="penzel" linktext="false">Penzels</link> (vgl. <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, S.&#x202F;91</link>).</eintrag>
 </kommentar>
 
 <kommentar id="zoepfel" type="neuzeit">
