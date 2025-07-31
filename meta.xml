@@ -10276,7 +10276,7 @@
       </letterDesc>
       <letterDesc letter="533">
         <date value="Schloß Hegi bei Winterthur, zwischen 1. September und 26. Oktober 1778" />
-        <sort value="1778-10-25" notAfter="1778-09-01" notBefore="1778-10-26"cert="low" />
+        <sort value="1778-10-25" notAfter="1778-09-01" notBefore="1778-10-26" cert="low" />
         <location ref="21" />
         <senders>
           <sender ref="72" />
