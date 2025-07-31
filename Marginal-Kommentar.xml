@@ -67864,7 +67864,7 @@ Brief Nr. 532a
 </marginal>
 
 <marginal letter="532a" page="515" line="18">
-<bzg>Jungf. S.</bzg> Lesung unsicher, wohl <link ref="stockmar-s" linktext="false">„Selma“</link>
+<bzg>Jungf. S.</bzg> Lesung unsicher, wohl <link ref="stockmar-s" linktext="false">„Jungfer Selma“</link>
 </marginal>
 
 <marginal letter="532a" page="515" line="20" sort="1">
@@ -67884,7 +67884,11 @@ Brief Nr. 532a
 </marginal>
 
 <marginal letter="532a" page="516" line="1" sort="1">
-<bzg>Rächer des 1. Gebots der 2ten Tafel</bzg> ?!? (Henkel: 2 Mo, 20,7; und zu Z. 2 Engel […]: die angemaßte göttliche Allmacht des Königs verspottend)
+<bzg>Rächer des 1. Gebots der 2ten Tafel</bzg> Das erste Gebot der zweiten Tafel ist in lutherischer Tradition und im zeitgenössischen Sprachgebrauch (vgl. <wwwlink address="https://books.google.de/books?id=8WGMI-YBWTwC">S.J. Baumgarten: Auslegung der epistolischen Texte, I, S.&#x202F;213</wwwlink>) das 4. (Elterngebot, <link ref="at-mo2" subref="at-mo2-20" linktext="false">2&#x202F;Mo 20,12.</link>), gegen das Penzel durch die Feindschaft zu seinem Vater verstieß. – Mit „Rächer“ meint Hamann hier wohl allgemeiner die Obrigkeit, gegen deren Gesetze Penzel durch die Desertion verstieß: Gegenüber Deserteuren ist Friedrich II. kein Literatenfreund und Philosoph. Bereits seine vorherigen Versuche, über die Berliner Akademie dem Militär zu entrinnen waren gescheitert, vgl. <intlink letter="461" page="218" line="6" linktext="true" />.?!?
+</marginal>
+
+<marginal letter="532a" page="516" line="1" sort="1">
+<bzg>Engel und dienstbare Geister</bzg> Gemeint sind wohl Untertanen und Beamte Friedrichs II. (wie Hamann selbst), von denen Penzel nicht ausgehen sollte, dass sie ihn nicht melden.
 </marginal>
 
 <marginal letter="532a" page="516" line="1" sort="2">
@@ -67896,15 +67900,19 @@ Brief Nr. 532a
 </marginal> 
 
 <marginal letter="532a" page="516" line="6">
-<bzg>Mendelssohn&#x202F;…&#x202F;geschenckte Buch</bzg> <link ref="mendelssohn" linktext="true" />, nicht ermittelt, vmtl. eines der mit <intlink letter="509a" page="470" line="8" linktext="false">HKB 509a</intlink> geschenkten Bücher.
+<bzg>Mendelssohn&#x202F;…&#x202F;geschenckte Buch</bzg> <link ref="mendelssohn" linktext="true" />, nicht ermittelt, mglw. eines der mit <intlink letter="509a" page="470" line="8" linktext="false">HKB 509a</intlink> geschenkten Bücher.
 </marginal>
 
-<marginal letter="532a" page="516" line="8">
-<bzg>Bernoulli</bzg> <link ref="bernoulli-j-iii" linktext="true" />; wie seine <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel> zeigen, reiste er offenbar viel in der Gegend?!?
+<marginal letter="532a" page="516" line="8" sort="1">
+<bzg>2 Julii&#x202F;…&#x202F;Bernoulli</bzg> Johann Bernoulli III berichtete in seinen <link ref="bernoulli-j-iii" subref="bernoulli-reisen" linktext="false"><titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel></link>, S.&#x202F;76 von seinem Treffen mit Hamann an diesem Tag, der ihm „durch die Bescheidenheit seines Betragens und seiner Reden auf einer vortheilhaften Seite bekannt wurde“.
+</marginal>
+
+<marginal letter="532a" page="516" line="8" sort="2">
+<bzg>Er geht über Warschau</bzg> Tatsächlich reiste Bernoulli über Mitau und Riga nach St. Petersburg und besichtigte auf dem Weg nach Mitau am 3. Juli noch <link ref="kanter" linktext="false">Kanters</link> Papiermühle in Trutenau, vgl. <link ref="bernoulli" subref="bernoulli-reisen" linktext="true" />, S.&#x202F;195f.
 </marginal>
 
 <marginal letter="532a" page="516" line="9">
-<bzg>Prof DuBois</bzg> vmtl. <link ref="dubois" linktext="true" />; Bernoulli sollte sich bei ihm über Penzels Situation informieren und in Berlin, Reichardt einbeziehend, seine legale Entlassung aus der Armee betreiben, vgl Hs erste Bemühung im Brief 474 an Reichardt?!?
+<bzg>Prof DuBois</bzg> <link ref="dubois-jbj" linktext="true" />, ebenfalls Mitglied der Berliner Akademie und anscheinend ein Helfer Penzels bei der Flucht, <intlink letter="532a" page="516" line="26" linktext="false">s.u.</intlink> Bernoulli hätte sich wohl mit Dubois über Penzels Handlungsspielräume nach der Desertion beraten sollen; einst setzte er sich für dessen Entlassung aus dem Militär in Berlin ein, vgl. <intlink letter="474" page="273" line="17" linktext="true" />.
 </marginal>
 
 <marginal letter="532a" page="516" line="10">
@@ -67912,7 +67920,7 @@ Brief Nr. 532a
 </marginal>
 
 <marginal letter="532a" page="516" line="11">
-<bzg>wie Augustus um seine Legion</bzg> ?!?
+<bzg>wie Augustus um seine Legionen zu jammern</bzg> vgl. <link ref="sueton" subref="sueton-kaiserviten" linktext="false">Suet. <titel>Aug.</titel> 23</link>, Übers.: »Schließlich soll er so aus der Fassung gebracht worden sein [über den Verlust der Varusschlacht], daß er Bart und Haare über Monate hat wachsen lassen und manchmal den Kopf gegen die Tür schlug und dann sagte: ›Quintilius Varus, gib mir die Legionen wieder!‹ Und den Tag der Niederlage soll er in jedem Jahr in Schwermut und ganz traurig verbracht haben.«
 </marginal>
 
 <marginal letter="532a" page="516" line="12">

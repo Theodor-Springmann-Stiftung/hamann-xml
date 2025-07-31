@@ -1469,8 +1469,14 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 
 <kommentar id="bernoulli-j-iii" type="neuzeit">
 <lemma>Johann III Bernoulli</lemma>
-<eintrag>1744–1807. Mathematiker und Geograph, seit 1764 Mitglied der Berliner Akademie und königlich-preußischer Astronom in Berlin; im Freundeskreis von <link ref="friedrich-II" linktext="true" />. Sohn von <link ref="bernoulli-j-ii" linktext="true" />.
+<eintrag>1744–1807. Mathematiker und Geograph, seit 1764 Mitglied der Berliner Akademie und königlich-preußischer Astronom in Berlin; im Freundeskreis von <link ref="friedrich-II" linktext="true" />. Reiste 1779 durch Königsberg und berichtete darüber im 3. Band seiner <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel>. Sohn von <link ref="bernoulli-j-ii" linktext="true" />.
 </eintrag>
+<subsection id="bernoulli-reisen" type="neuzeit" sort="10">
+<lemma>Bernoulli, <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel></lemma>
+<eintrag>
+<titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel> (6 Bde., Leipzig: Fritsch, 1779–1780). Digitalisat Bd. 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10466343-0">BSB München: It.sing. 87-3/4</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
  
 <kommentar id="bertram" type="neuzeit">
@@ -4150,9 +4156,14 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 </subsection>
 </kommentar>
 
-<kommentar id="dubois" type="neuzeit">
+<kommentar id="dubois-jc" type="neuzeit">
 <lemma>Johann Christian Dubois</lemma>
-<eintrag>Geb. 1743. Ab 1781 Informator der Söhne des Fürsten Golycin in St. Petersburg, siehe <wwwlink address="https://bbld.de/GND1127073796">BBLd</wwwlink>.</eintrag>
+<eintrag>Geb. 1743. Ab 1770 Pastor zu Schujen in Livland, 1781 Informator der Söhne des Fürsten Golycin in St. Petersburg, siehe <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00000340-1">Recke: Allgemeines Schriftsteller- und Gelehrtenlexikon der Provinzen Livland, Estland und Kurland, Bd.&#x202F;1, S.&#x202F;455f.</wwwlink> und <wwwlink address="https://bbld.de/GND1127073796">BBLd</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="dubois-jbj" type="neuzeit">
+<lemma>Jean-Baptiste Dubois de Jancigny</lemma>
+<eintrag>1753–1808. Frz. Rechtsgelehrter und Bibliothekar, 1778 Professor in Warschau, Mitglied der Berliner Akademie; siehe <wwwlink address="https://d-nb.info/gnd/100114237">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="duchat" type="neuzeit">
@@ -6846,7 +6857,7 @@ Zitation im Briefkommentar nach HHE 5, S.&#x202F;274–284.
 <subsection id="hamann-denkmal" type="neuzeit" sort="684">
 <lemma>Hamann, <titel>Apologie meines Cretinen</titel></lemma>
 <eintrag>
-<titel>Apologie meines Cretinen</titel>. Ungedruckter Entwurf für eine Schrift von 1778 nach dem Tod von <link ref="hamann" subref="hamann-jc" linktext="false">Hamanns Bruder</link>. N&#x202F;III, S.&#x202F;232f., vgl. ebd., 472. – ULB Münster, N. Hamann, Kapsel 1,8.
+<titel>Apologie meines Cretinen</titel>. Ungedruckter Entwurf für eine Schrift von 1778 nach dem Tod von <link ref="hamann-jc" linktext="false">Hamanns Bruder</link>. N&#x202F;III, S.&#x202F;232f., vgl. ebd., 472. – ULB Münster, N. Hamann, Kapsel 1,8.
 </eintrag>
 </subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="690">
