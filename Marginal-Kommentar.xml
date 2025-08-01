@@ -67111,7 +67111,7 @@ Brief Nr. 524
 </marginal>
 
 <marginal letter="524" page="8" line="19">
-    <bzg>144000</bzg> Off 7,4 u. 9; 14,1 u. 3.
+    <bzg>144000</bzg> u.a. <link ref="nt-off" subref="nt-off7" linktext="false">Offb 7,4</link> 
 </marginal>
 
 <marginal letter="524" page="8" line="24">
@@ -67119,7 +67119,7 @@ Brief Nr. 524
 </marginal>
 
 <marginal letter="524" page="8" line="25">
-    <bzg>Netteli … Heinrich</bzg> Louisa Magdalena Lavater 1778-1779 oder Anna Lavater 1771-1852 und Hans Heinrich Lavater 1768-1819
+    <bzg>Netteli … Heinrich</bzg> Anna Lavater (1771–1852) u. Hans Heinrich Lavater (1768–1819)
 </marginal>
 
 <marginal letter="524" page="8" line="31">
@@ -67131,7 +67131,7 @@ Brief Nr. 524
 </marginal>
 
 <marginal letter="524" page="9" line="7">
-    <bzg>Bruder Doktor</bzg> Diethelm Lavater 1743-1826
+    <bzg>Bruder Doktor</bzg> wahrscheinlich Diethelm Lavater (1743–1826)
 </marginal>
 
 <marginal letter="524" page="9" line="9">
@@ -67143,15 +67143,15 @@ Brief Nr. 524
 </marginal>
 
 <marginal letter="524" page="9" line="18" sort="1">
-    <bzg>Asch</bzg> Asch, Georg Thomas (1729- 1807), Baron v., russ. Generalstabsarzt.
+    <bzg>Asch</bzg> Baron Georg Thomas v. Asch (1729–1807), russ. Generalstabsarzt
 </marginal>
 
 <marginal letter="524" page="9" line="18" sort="2">
-    <bzg>Fränkel</bzg> Fränkel, Johann Caspar, Mediziner, von J. G. Lavater zur Taufe veranlaßt.
+    <bzg>Fränkel</bzg> Johann Caspar Fraenckel, jüdischer Militärarzt, von Lavater 1771 zur Taufe veranlaßt
 </marginal>
 
 <marginal letter="524" page="9" line="25" >
-    <bzg>„Alle euere …</bzg> 1 Pt 5,7.
+    <bzg>„Alle euere …</bzg> <link ref="nt-pet1" subref="nt-pet1-5" linktext="false">1 Petr 5,7</link> 
 </marginal>
 
 <marginal letter="524" page="9" line="34" >
@@ -67160,7 +67160,7 @@ Brief Nr. 524
 
 <marginal letter="524" page="9" line="35" >
     <bzg>Lichtenberg</bzg> vgl. Ueber Physiognomie; wider die
-    Physiognomen, in: Göttingischer Taschenkalender auf 1778, S. 1ff
+    Physiognomen, in: Göttingischer Taschenkalender auf 1778, S. 1ff ?!? das gemeint?
 </marginal>
 
 <marginal letter="524" page="10" line="8" >
@@ -67168,10 +67168,7 @@ Brief Nr. 524
 </marginal>
 
 <marginal letter="524" page="10" line="25" >
-    <bzg>Nachtmalvergifters</bzg> Diese Tat lastete man <link ref="waser" linktext="true" /> an. Vom Abendmahlwein waren die
-    ersten sechs Kannen, die für Magistrat und Chorherren der Stadt Zürich bestimmt  waren, vergiftet, was noch rechtzeitig vor der Spendung entdeckt worden war.
-    Mehrere Pasquille, die kurz darauf zirkulierten, lenkten den Verdacht auf Waser, der bei seinem Prozeß die Tat hartnäckig leugnete. Vgl. Lavaters
-    Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins
+    <bzg>Nachtmalvergifters</bzg> Im September 1776 traten nach der Spende des Abendmahlwein Vergiftungserscheinungen auf. Der Verdacht wurde auf <link ref="waser" linktext="true" /> gelenkt, der die Tat aber bestritt. Vgl. <link ref="lavater" subref="lavater-abendmahl" linktext="true" />
 </marginal>
 
 
