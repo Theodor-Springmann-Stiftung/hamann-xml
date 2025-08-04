@@ -10112,7 +10112,7 @@
         <receivers>
           <receiver ref="1" />
         </receivers>
-        <hasOriginal value="true" />
+        <hasOriginal value="false" />
         <isProofread value="true" />
         <isDraft value="false" />
         <ZHInfo inZH="true">
@@ -10409,9 +10409,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="540">
-        <date value="6. und 21. Januar 1779" />
+        <date value="Königsberg, 6. und 21. Januar 1779" />
         <sort value="1779-01-06" from="1779-01-06" to="1779-01-21" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>

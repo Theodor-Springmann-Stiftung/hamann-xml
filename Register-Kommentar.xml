@@ -2325,7 +2325,7 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 
 <kommentar id="bucholtz-k-jc" type="neuzeit">
 <lemma>Johann Christian Buchholtz</lemma>
-<eintrag>1719–1773. 1743–1748 an der Domschule in Königsberg, ab 1748 Pfarradjunkt in Liebstadt, ab 1749 an der Königsberger Altstädtischen Kirche; Beichtvater der Eltern Hamanns nach dem Tod <link ref="lilienthal-m" linktext="false">M. Lilienthals</link>; Hamanns Beichtvater, auch der des Bruders, und Nachlassverwalter von Hamanns Vater; bei Hamanns Rechtsstreit von 1769 um die Vormundschaft von <link ref="hamann-jc" linktext="true" /> und das Erbe von <link ref="hamann-vjc" linktext="true" /> war er auf der Seite von <link ref="nuppenau-jp" linktext="true" /> (vgl. HKB 361–367). Zur Tiefe des Zerwürfnisses vgl. die auf Buchholtz gemünzte Vorrede von <link ref="hamann" subref="hamann-warner" linktext="true" />, S.&#x202F;5–8 (N&#x202F;IV,439f.). Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1024881237.html">Deutsche Biographie</wwwlink>.</eintrag>
+<eintrag>1719–1773. Von 1743 bis 1748 an der Domschule in Königsberg, ab 1748 Pfarradjunkt in Liebstadt, ab 1749 an der Königsberger Altstädtischen Kirche; Beichtvater der Eltern Hamanns nach dem Tod <link ref="lilienthal-m" linktext="false">M. Lilienthals</link>; Hamanns Beichtvater, auch der des Bruders, und Nachlassverwalter von Hamanns Vater; bei Hamanns Rechtsstreit von 1769 um die Vormundschaft von <link ref="hamann-jc" linktext="true" /> und das Erbe von <link ref="hamann-vjc" linktext="true" /> war er auf der Seite von <link ref="nuppenau-jp" linktext="true" /> (vgl. HKB 361–367). Zur Tiefe des Zerwürfnisses vgl. die auf Buchholtz gemünzte Vorrede von <link ref="hamann" subref="hamann-warner" linktext="true" />, S.&#x202F;5–8 (N&#x202F;IV,439f.). Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1024881237.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bucholtz-k-er" type="neuzeit">
@@ -4450,13 +4450,6 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 </eintrag>
 </subsection>
 </kommentar>
-
-<kommentar id="ephemeriden" type="neuzeit">
-    <lemma><titel>Ephemeriden</titel></lemma>
-    <eintrag>
-    <titel>Ephemeriden der Menschheit oder Bibliothek der Sittenlehre und der Politik [ab Heft 2: der Sittenlehre, der Politik und der Gesetzgebung]</titel>, hg. von <link ref="iselin" linktext="true" /> (Basel/Leipzig 1776/8, 1780/4, 1786 [ab 1782 hg. v. Wilhelm Gottlieb Becker].) Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/2091681/0/LOG_0000/">Universität Bielefeld</wwwlink>.
-    </eintrag>
-    </kommentar>
 
     <kommentar id="ephraim-bv" type="neuzeit">
     <lemma>Benjamin Veitel Ephraim</lemma>
@@ -8381,6 +8374,12 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 <eintrag>
 <titel>Philosophische und patriotische Träume eines Menschenfreundes</titel> (Zürich: Orell 1758).</eintrag>
 </subsection>
+<subsection id="iselin-ephemeriden" type="neuzeit" sort="20">
+    <lemma>Iseli, <titel>Ephemeriden</titel></lemma>
+    <eintrag>
+    <titel>Ephemeriden der Menschheit oder Bibliothek der Sittenlehre und der Politik [ab Heft 2: der Sittenlehre, der Politik und der Gesetzgebung]</titel>, hg. von Isaac Iselin (Basel, Leipzig 1776–1778, 1780–1784, 1786 [ab 1782 hg. v. Wilhelm Gottlieb Becker].) Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/2091681/0/LOG_0000/">Universität Bielefeld</wwwlink>.
+    </eintrag>
+    </subsection>
 </kommentar>
 
 <kommentar id="isokrates" type="neuzeit">
@@ -10258,7 +10257,7 @@ Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn
 <lemma>Franz Michael Leuchsenring</lemma>
 <eintrag>1746–1826. Hess.-darmstädt. Hofrat, 1769–71 Hofmeister des Erbprinzen v. Hessen-Darmstadt in Leiden, 1784 Lehrer von Friedrich Wilhelm II. in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118572172.html#ndbcontent">Feilchenfeldt, Konrad: Leuchsenring, Franz Michael, in: <titel>NDB</titel>&#x202F;14 (1985), S.&#x202F;367f.</wwwlink>.</eintrag>
 <subsection id="leuchsenring-journal" type="neuzeit">
-<lemma>Leuchsenring, Journal de lecture</lemma>
+<lemma>Leuchsenring, <titel>Journal de lecture</titel></lemma>
 <eintrag><titel>Journal de lecture ou recueil pour les oisifs</titel> (12 Bde., Paris 1775–1781)
 </eintrag>
 </subsection>
@@ -10268,7 +10267,7 @@ Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn
 <lemma>Johann Leusden</lemma>
 <eintrag>1624–1699. Calvinistischer Theologe und Hebraist in Utrecht, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116958561.html">Deutsche Biographie</wwwlink>.</eintrag>
 <subsection id="leusden-nt" type="neuzeit" sort="10">
-<lemma>Leusden, Novum Testamentum Graecum</lemma>
+<lemma>Leusden, <titel>Novum Testamentum Graecum</titel></lemma>
 <eintrag><titel>He Kainē Diathēkē, Novum Testamentum. Cum Versione Latina Ariæ Montani, in quo tum selecti versiculi 1900. Quibus omnes Novi Testamenti voces continentur, asteriscis notantur; tum omnes et singulæ voces semel vel sæpius occurrentes peculiari nota distinguuntur</titel> (Amsterdam ca. 1688) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;49/502: „N.T. graecum ex. ed. Jo. Leusdenii, Lips. 727. Mit weiss Papier durchschossen. Donum Lvdimagistri II. pueritiae meae.“].
 </eintrag>
 </subsection>
@@ -11935,7 +11934,18 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 </subsection>
 </kommentar>
 
-<kommentar id="miller" type="neuzeit">
+<kommentar id="miller-jm" type="neuzeit">
+<lemma>Johann Martin Miller</lemma>
+<eintrag>1750–1814. Schriftsteller und 1775 Gymnasiallehrer in Ulm, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz63398.html#adbcontent">Elschenbroich, Adalbert: Miller, Johann Martin, in: <titel>NDB</titel>&#x202F;17 (1994), S.&#x202F;514–516</wwwlink>.
+</eintrag>
+<subsection id="miller-siegwart" type="neuzeit">
+<lemma>Miller, <titel>Siegwart</titel></lemma>
+<eintrag><titel>Siegwart. Eine Klostergeschichte</titel> (2 Bde., Leipzig: Weygand 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11278598-9">Stabi Augsburg: S 1088</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="miller-jp" type="neuzeit">
 <lemma>Johann Peter Miller</lemma>
 <eintrag>1725–1789. Seit 1766 Prof. der evang. Theologie in Göttingen, vgl. <wwwlink address="https://www.deutsche-biographie.de/sfz63398.html#adbcontent">Wagenmann, Julius August: Miller, Johann Peter, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;749f</wwwlink>.
 </eintrag>
@@ -12904,7 +12914,11 @@ Dt. Übers. zit. nach: Georg Luck (Übers.:), <titel>Tristia</titel> (2&#x202F;B
 
 P
 
-
+<kommentar id="palaephatus" type="neuzeit">
+<lemma>Palaephatus</lemma>
+<eintrag>Παλαίφατος, gr. Schriftsteller des 4./3. Jd. v. Chr., bekannt durch seine „Unglaublichen Geschichten“ (Περὶ ἀπίστων ἱστοριῶν), worin Mythen auf historische Begebenheiten zurückgeführt werden; es wurde bis ins 19. Jh. als Unterrichtsbuch für Griechisch-Schüler verwendet. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;13/196: „Palaephatus gr. ex ed.
+ej. (Fischeri) ib. (Lipsius) 761“.
+</kommentar>
 
 <kommentar id="palissot" type="neuzeit">
 <lemma>Charles Palissot de Montenoy</lemma>
@@ -13190,11 +13204,16 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 
 <kommentar id="pfenninger" type="neuzeit">
 <lemma>Johann Konrad Pfenninger</lemma>
-<eintrag>1747–1792. Schweizer. reform. Theologe, 1778 Pfarrer der Waisenhauskirche, 1786 Diakon der Peterskirche in Zürich, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104318112.html#adbcontent">Pfenninger, Konrad, in: <titel>ADB</titel>&#x202F;25 (1897), S.&#x202F;660&#x2013;661</wwwlink>.</eintrag>
+<eintrag>1747–1792. Schweizer reformierter Theologe, 1778 Pfarrer der Waisenhauskirche in Zürich, 1786 Diakon der Peterskirche, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104318112.html#adbcontent">Pfenninger, Konrad, in: <titel>ADB</titel>&#x202F;25 (1897), S.&#x202F;660&#x2013;661</wwwlink>.</eintrag>
 <subsection id="pfenninger-vorlesungen" type="neuzeit">
 <lemma>Pfenninger, <titel>5 Vorlesungen</titel></lemma>
 <eintrag>
 <titel>5 Vorlesungen von der Liebe der Wahrheit, von dem Einfluß des Herzens auf den Verstand, von fehlerhaften und richtigen Modellen, die Heilige Schrift zu studieren</titel> (Zürich 1774). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-19707">Zentralbibliothek Zürich: 17.567</wwwlink>.</eintrag>
+</subsection>
+<subsection id="pfenninger-magazin" type="neuzeit">
+<lemma>Pfenninger, <titel>Christliches Magazin</titel></lemma>
+<eintrag>
+<titel>Christliches Magazin</titel> (4 Bde. Zürich, Winterthur 1779–1784). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-29658">ZB Zürich: Gal Sp 242</wwwlink>. – Ab 1781 unter dem Titel <titel>Sammlungen zu einem christlichen Magazin. Nicht für gelehrte, aber für geübtere Leser</titel> (4 Bde. Zürich, Winterthur 1781–1783. Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-29659">ZB Zürich: Gal Sp 240</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15171,7 +15190,7 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <lemma>Johann Matthias Schröckh</lemma>
 <eintrag>1733–1808. Kirchenhistoriker, 1767 Professor der Dichtkunst in Wittenberg, 1775 Professor der Kirchen- und Profangeschichte, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz79193.html#adbcontent">Frank, G.: Schröckh, Johann Matthias, in: <titel>ADB</titel>&#x202F;32 (1891), S.&#x202F;398–501</wwwlink>.</eintrag>
 <subsection id="schroeckh-weltgeschichte" type="neuzeit" sort="10">
-<lemma>Schrevel, <titel>Lehrbuch der allgemeinen Weltgeschichte</titel></lemma>
+<lemma>Schröckh, <titel>Lehrbuch der allgemeinen Weltgeschichte</titel></lemma>
 <eintrag>
 <titel>Lehrbuch der allgemeinen Weltgeschichte zum Gebrauche bey dem ersten Unterrichte der Jugend; nebst einem Anhange der Sächsischen und Brandenburgischen Geschichte</titel> (Berlin, Stettin: Nicolai 1774). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00015B1A00000000">Stabi Berlin: Px 9270</wwwlink>.</eintrag>
 </subsection>
@@ -15292,7 +15311,7 @@ Zweite Auflage: <titel>Lyrische, Elegische und Epische Poesien, nebst einer krit
 
 <kommentar id="schultz-jf" type="neuzeit">
 <lemma>Johann Friedrich Schultz</lemma>
-<eintrag>1739–1805. Mathematiker und Philosoph.</eintrag>
+<eintrag>1739–1805. Königsberger Theologe, Mathematiker und Philosoph, ab 1776 zweiter Hofprediger an der Schlosskirche, 1786 Professor der Mathematik an der Albertina; Freund von <link ref="kant" linktext="false">Kant</link>.</eintrag>
 </kommentar>
 
 <kommentar id="schumacher-ar" type="neuzeit">
@@ -15361,7 +15380,7 @@ Sinnbildern</titel> (Wolfenbüttel: Meißner 1763) [<link ref="hamann" subref="h
 </eintrag>
 <subsection id="schutz-lob" type="neuzeit" sort="10">
 <lemma>Schütz, <titel>Sei Lob und Ehr dem höchsten Gut</titel></lemma>
-<eintrag>Das Lied <titel>Sei Lob und Ehr dem höchsten Gut</titel> wurde erstmals in <titel>Christliches Gedenkbüchlein zur Beförderung eines anfangenden neuen Lebens</titel> (Frankfurt 1675) publiziert, als „Lobgesang“ über 5&#x202F;Mo 32,3. In einigen Gesangbüchern des 18. Jhds. ist es dem 12. Sonntag nach Trinitatis zugeordnet (heute EG 326).</eintrag>
+<eintrag>Das Lied <titel>Sei Lob und Ehr dem höchsten Gut</titel> wurde erstmals in <titel>Christliches Gedenkbüchlein zur Beförderung eines anfangenden neuen Lebens</titel> (Frankfurt 1675) publiziert, als „Lobgesang“ über 5&#x202F;Mo 32,3. In einigen Gesangbüchern des 18. Jhds. ist es dem 12. Sonntag nach Trinitatis zugeordnet (heute EG 326). – Vgl. <link ref="quandt" subref="quandt-sammlung" linktext="true" />, S. 235f.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15612,6 +15631,10 @@ Englische Erstausgabe von <titel>Soliloquy: or, Advice to an Author</titel> 1710
 <subsection id="shakespeare-tempest" type="neuzeit" sort="50">
 <lemma>Shakespeare, <titel>The Tempest</titel></lemma>
 <eintrag><titel>The Tempest</titel> (1610/11).</eintrag>
+</subsection>
+<subsection id="shakespeare-lear" type="neuzeit" sort="50">
+<lemma>Shakespeare, <titel>King Lear</titel></lemma>
+<eintrag><titel>The Tempest</titel> (1606).</eintrag>
 </subsection>
 </kommentar>
 
@@ -16973,7 +16996,7 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 
 <kommentar id="trescho-sf" type="neuzeit">
 <lemma>Sebastian Friedrich Trescho</lemma>
-<eintrag>1733–1804. Evang. Theologe, ab 1760 Diakon in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd117414271.html#adbcontent">Tschackert, Paul: Trescho, Sebastian Friedrich, in: <titel>ADB</titel>&#x202F;38 (1894), S.&#x202F;574f</wwwlink>.
+<eintrag>1733–1804. Evang. Theologe, ab 1760 Diakon in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117414271.html#adbcontent">Tschackert, Paul: Trescho, Sebastian Friedrich, in: <titel>ADB</titel>&#x202F;38 (1894), S.&#x202F;574f</wwwlink>.
 </eintrag>
 <subsection id="trescho-genie" type="neuzeit" sort="10">
 <lemma>Trescho, <titel>Betrachtungen über das Genie</titel></lemma>

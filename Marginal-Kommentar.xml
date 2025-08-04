@@ -32020,7 +32020,7 @@ Brief Nr. 263
 </marginal>
 
 <marginal letter="263" page="251" line="26" sort="2">
-<bzg>Millers Beurtheilung […] Schlegel</bzg> <link ref="miller" linktext="true" />,  Magister <link ref="schlegel-g" linktext="true" />
+<bzg>Millers Beurtheilung […] Schlegel</bzg> <link ref="miller-jp" linktext="true" />,  Magister <link ref="schlegel-g" linktext="true" />
 </marginal>
 
 <marginal letter="263" page="251" line="27" sort="1">
@@ -66265,7 +66265,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="519" page="392" line="1">
-    <bzg>Iselins Ephemeriden</bzg> <link ref="ephemeriden" linktext="true" />
+    <bzg>Iselins Ephemeriden</bzg> <link ref="iselin" subref="iselin-ephemeriden" linktext="true" />
    </marginal>
 
    <marginal letter="519" page="392" line="2">
@@ -66951,7 +66951,7 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="6" line="2">
-    <bzg>Wird die Welt …</bzg> Anspielung an die letzte Strophe des Kirchenlieds von J. Burkhard „Mache dich mein Geist bereit“
+    <bzg>Wird die Welt …</bzg> Anspielung an die letzte Strophe des Kirchenlieds von J. Burkhard „Mache dich mein Geist bereit“; vgl. <link ref="quandt" subref="quandt-sammlung" linktext="true" />, S.&#x202F;293f.
 </marginal>
 
 <marginal letter="523" page="6" line="5">
@@ -67949,7 +67949,7 @@ Brief Nr. 532a
 </marginal>
 
 <marginal letter="532a" page="516" line="19">
-<bzg>reich u arm</bzg> wohl nach <link ref="at-sam1" subref="at-sam1-2" linktext="false">1 Sam 2,7</link>
+<bzg>reich u arm</bzg> wohl nach <link ref="at-sam1" subref="at-sam1-2" linktext="false">1 Sam 2,7</link>, vgl. <intlink letter="536" page="31" line="29" linktext="true" />
 </marginal>
 
 <marginal letter="532a" page="516" line="20">
@@ -68175,12 +68175,173 @@ Brief Nr. 536
 <bzg>Ψ 128</bzg> <link ref="at-ps" subref="at-ps128" linktext="false">Ps 128</link>
 </marginal>
 
+<marginal letter="536" page="32" line="2">
+<bzg>Leichdorn</bzg> Hühnerauge
+</marginal>
 
+<marginal letter="536" page="32" line="5">
+<bzg>Take Physick, Pomp!</bzg> <link ref="shakespeare" subref="shakespeare-lear" linktext="true" />, 3,4,33 (Lear während des Sturms zu sich selbst. Übers. (Frank Günther): „Da nimm Arznei, Prunk; / Du setz dich aus und fühl, was Arme fühlen, / Daß du den Überfluß all jenen hischüttst, / Und zeigst, die Himmel sind gerechter.“
+</marginal>
 
+<marginal letter="536" page="32" line="7" sort="1">
+<bzg>lieben Sohn</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="7" sort="2">
+<bzg>Brief an die Römer</bzg> <link ref="nt-roe" subref="nt-roe1" linktext="false">Röm</link>
+</marginal>
+
+<marginal letter="536" page="32" line="8">
+<bzg>Palaephatus u Theognis</bzg> <link ref="palaephatus" linktext="true" /> und <link ref="theognis" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="10" sort="1">
+<bzg>Historias selectas</bzg> lateinisches Lesebuch mit ‚ausgewählten Geschichten‘
+</marginal>
+
+<marginal letter="536" page="32" line="10" sort="2">
+<bzg>Erasmi Colloquia</bzg> <link ref="erasmus" subref="erasmus-colloquia" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="10" sort="3">
+<bzg>Ernesti Initia</bzg> <link ref="ernesti" subref="ernesti-rhetorica" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="11">
+<bzg>Schröckhens Historie</bzg> <link ref="schroeckh" subref="schroeckh-weltgeschichte" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="14">
+<bzg>Prof. Kreutzfelds Bedienter</bzg> von <link ref="kreutzfeld" linktext="true" />, nicht ermittelt
+</marginal>
+
+<marginal letter="536" page="32" line="18">
+<bzg>Ostracismus</bzg> scherzhaft für Ausweisung (nach der Verbannung von Politikern aus Athen, die tyrannischer Ambitionen verdächtigt wurden)
+</marginal>
+
+<marginal letter="536" page="32" line="21">
+<bzg>Was unser Gott gegeben hat</bzg> aus der 3. Strophe des Kirchenlieds von Johann Jakob <link ref="schutz" subref="schutz-lob" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="24">
+<bzg>Lavater</bzg> <link ref="lavater" linktext="true" />; gemeint ist wohl <intlink letter="524" page="8" line="10" linktext="false">HKB 524</intlink> und/oder dessen nicht überliefertes Schreiben vom 3. Juli 1778, vgl. <intlink letter="540" page="42" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="25" sort="1">
+<bzg>Kaufmann</bzg> <link ref="kaufmann-c" linktext="true" />, vgl. <intlink letter="533" page="27" line="5" linktext="false">HKB 533</intlink> und die weiteren Aufforderungen zu antworten
+</marginal>
+
+<marginal letter="536" page="32" line="25" sort="2">
+<bzg>Pfeninger&#x202F;…&#x202F;1 Aug.</bzg> <link ref="pfenninger" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="536" page="32" line="27">
+<bzg>Magazins für Χstentum</bzg> <link ref="pfenninger" subref="pfenninger-magazin" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="28">
+<bzg>Leuchsenrings Journal de Lecture</bzg> <link ref="leuchsenring" subref="leuchsenring-journal" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="29">
+<bzg>Iselins Ephemeriden</bzg> <link ref="iselin" subref="iselin-ephemeriden" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="32" sort="1">
+<bzg>Diac. Matthes</bzg> <link ref="matthes" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="32" sort="2">
+<bzg>Oberhofprediger Schultz</bzg> <link ref="schultz-jf" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="32" line="33">
+<bzg>Wanowski</bzg> <link ref="wannowski" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="33" line="5">
+<bzg>Rittergestalt trauriger</bzg> nach <link ref="cervantes" subref="cervantes-donquijote" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="33" line="7">
+<bzg>Trescho</bzg> <link ref="trescho-sf" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="33" line="9">
+<bzg>Buchholtz</bzg> Vmtl. <link ref="bucholtz-k-mc" linktext="true" />, Tochter von <link ref="bucholtz-k-jc" linktext="true" />; eine Hochzeit kam nicht zustande.
+</marginal>
+
+<marginal letter="536" page="33" line="11">
+<bzg>Denkmal auf Buchholtz&#x202F;…&#x202F;religiösen Nebenstunden</bzg> in <link ref="trescho-sf" subref="trescho-nebenstunden" linktext="true" />, nicht ermittelt
+</marginal>
+
+<marginal letter="536" page="33" line="12">
+<bzg>Vorrede zu Warner</bzg> die Vorrede zu <link ref="hamann" subref="hamann-warner" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="33" line="14">
+<bzg>Apologie meines Cretinen</bzg> <link ref="hamann" subref="hamann-cretin" linktext="true" />
+</marginal>
 
 <marginal letter="536" page="33" line="17">
 <bzg>Anfrage&#x202F;…&#x202F;Mannah</bzg> Die Hamann-Schrift, welche Kreutzfeld in seinem <link ref="kreutzfeld" subref="kreutzfeld-geburtstagsgedicht1777" linktext="false">Geburtstagsgedicht auf Hamann</link>, S.&#x202F;12 in einer Fußnote erwähnt; zu Herders Anfrage vgl. <intlink letter="528" page="19" line="27" linktext="true" />.
 </marginal>
+
+<marginal letter="536" page="33" line="22">
+<bzg>Penzel&#x202F;…&#x202F;dicken Briefe</bzg> von <link ref="penzel" linktext="true" />, nicht überliefert, vgl. <intlink letter="532a" page="515" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="33" line="24">
+<bzg>Hauptmannin von Cieciczowska&#x202F;…</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="536" page="33" line="26">
+<bzg>Siegwart</bzg> <link ref="miller-jm" subref="miller-siegwart" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="33" line="27">
+<bzg>Auction</bzg> 
+</marginal>
+
+<marginal letter="536" page="33" line="32">
+<bzg>Verfaßer der Ehe</bzg> 
+</marginal>
+
+<marginal letter="536" page="33" line="33">
+<bzg>Lebensläufen</bzg> 
+</marginal>
+
+<marginal letter="536" page="33" line="34">
+<bzg>Moses Mendelsohn&#x202F;…&#x202F;Versicherung</bzg> 
+</marginal>
+
+<marginal letter="536" page="33" line="36">
+<bzg>Verleger Voß</bzg> 
+</marginal>
+
+<marginal letter="536" page="33" line="37" sort="1">
+<bzg>Mst. durch Flörke</bzg> 
+</marginal>
+
+<marginal letter="536" page="33" line="37" sort="2">
+<bzg>Kr. Rath Scheffner</bzg> 
+</marginal>
+
+<marginal letter="536" page="34" line="1">
+<bzg>Criminalrath Hippel</bzg> 
+</marginal>
+
+<marginal letter="536" page="34" line="10" sort="1">
+<bzg>Freymäurerrede</bzg> 
+</marginal>
+
+<marginal letter="536" page="34" line="10" sort="2">
+<bzg>seel. Lindners Tod</bzg> 
+</marginal>
+
+
+
+
 
 Brief Nr. 539
 
