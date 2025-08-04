@@ -68300,43 +68300,143 @@ Brief Nr. 536
 </marginal>
 
 <marginal letter="536" page="33" line="27">
-<bzg>Auction</bzg> 
+<bzg>Auction</bzg> die Auktion von Penzels Büchern und sonstiger Hinterlassenschaft nach der Beschlagnahmung infolge seiner Desertion, vgl. <intlink letter="532a" page="515" line="20" linktext="true" />
 </marginal>
 
 <marginal letter="536" page="33" line="32">
-<bzg>Verfaßer der Ehe</bzg> 
+<bzg>Verfaßer der Ehe</bzg> <link ref="hippel" subref="hippel-ehe" linktext="true" />
 </marginal>
 
 <marginal letter="536" page="33" line="33">
-<bzg>Lebensläufen</bzg> 
+<bzg>Lebensläufen</bzg> <link ref="hippel-lebenslaufe" linktext="true" />
 </marginal>
 
 <marginal letter="536" page="33" line="34">
-<bzg>Moses Mendelsohn&#x202F;…&#x202F;Versicherung</bzg> 
+<bzg>Moses Mendelsohn&#x202F;…&#x202F;Versicherung</bzg> <link ref="mendelssohn" linktext="true" />, wohl in einem nicht überlieferten Brief
 </marginal>
 
 <marginal letter="536" page="33" line="36">
-<bzg>Verleger Voß</bzg> 
+<bzg>Verleger Voß</bzg> <link ref="voss-chf" linktext="true" />
 </marginal>
 
 <marginal letter="536" page="33" line="37" sort="1">
-<bzg>Mst. durch Flörke</bzg> 
+<bzg>Flörke</bzg> <link ref="floerke" linktext="true" />
 </marginal>
 
 <marginal letter="536" page="33" line="37" sort="2">
-<bzg>Kr. Rath Scheffner</bzg> 
+<bzg>Kr. Rath Scheffner</bzg> <link ref="scheffner" linktext="true" />
 </marginal>
 
 <marginal letter="536" page="34" line="1">
-<bzg>Criminalrath Hippel</bzg> 
+<bzg>Criminalrath Hippel</bzg> <link ref="hippel" linktext="true" />
 </marginal>
 
 <marginal letter="536" page="34" line="10" sort="1">
-<bzg>Freymäurerrede</bzg> 
+<bzg>Freymäurerrede</bzg> <link ref="hippel" subref="hippel-maurer" linktext="true" />
 </marginal>
 
 <marginal letter="536" page="34" line="10" sort="2">
-<bzg>seel. Lindners Tod</bzg> 
+<bzg>seel. Lindners Tod</bzg> <link ref="lindner-jg" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="34" line="14">
+<bzg>Brief vom Mercur</bzg> vom <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, nicht überliefert
+</marginal>
+
+<marginal letter="536" page="34" line="15">
+<bzg>Uebersetzung des Hudibras</bzg> <link ref="kreutzfeld" subref="kreutzfeld-hudibras" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="34" line="18">
+<bzg>Exemplar</bzg> <link ref="butler" subref="butler-hudibras" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="34" line="19">
+<bzg>Butler’s Remains</bzg> <link ref="butler" subref="butler-hudibras" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="34" line="20">
+<bzg>Kanterschen Laden</bzg> bei <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="34" line="21">
+<bzg>Rector zu Osnabrück</bzg> <link ref="kleuker" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="536" page="34" line="22">
+<bzg>Uebersetzung des Plato</bzg> <link ref="kleuker" subref="kleuker-plato" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="34" line="23">
+<bzg>Benzler</bzg> <link ref="benzler" linktext="true" />; vgl. Herders Brief an Gleim, den er bittet, Benzler die Stelle des Bibliothekars beim Grafen in Wernigerode zu verschaffen (<link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;75).
+</marginal>
+
+<marginal letter="536" page="34" line="24">
+<bzg>Pfenninger</bzg> <link ref="pfenninger" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="536" page="34" line="27" sort="1">
+<bzg>Reimarus vom Zweck Jesu</bzg> die Separatpublikation der von <link ref="lessing" linktext="false">Lessing</link> herausgegebenen <link ref="reimarus" subref="reimarus-fragmente" linktext="false"><titel>Fragmente eines Ungenannten</titel></link>
+</marginal>
+
+<marginal letter="536" page="34" line="27" sort="2">
+<bzg>Hahns N. T.</bzg> <link ref="hahn-pm" subref="hahn-nt" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="34" line="31">
+<bzg>Sympathie&#x202F;…&#x202F;Theologie</bzg> ?!?
+</marginal>
+
+<marginal letter="536" page="34" line="33">
+<bzg>Parthen</bzg> wohl Parteien
+</marginal>
+
+<marginal letter="536" page="34" line="34" sort="1">
+<bzg>Falk und Ernst</bzg> <link ref="lessing" subref="lessing-ernst-falk" linktext="true" />
+</marginal>
+
+<marginal letter="536" page="34" line="34" sort="1">
+<bzg>Kraus&#x202F;…&#x202F;Vorwort</bzg> 
+</marginal>
+
+<marginal letter="536" page="34" line="36">
+<bzg>4 u 5te Gespräch</bzg> 
+</marginal>
+
+<marginal letter="536" page="35" line="1">
+<bzg>Leßings Schwächen</bzg> 
+</marginal>
+
+<marginal letter="536" page="35" line="2">
+<bzg>Auslegung des Hohen Liedes</bzg> 
+</marginal>
+
+<marginal letter="536" page="35" line="3">
+<bzg>Berl. die Nachricht</bzg> 
+</marginal>
+
+<marginal letter="536" page="35" line="5">
+<bzg>Apocalypsin</bzg> 
+</marginal>
+
+<marginal letter="536" page="35" line="6">
+<bzg>Eigel&#x202F;…&#x202F;bring ger</bzg> 
+</marginal>
+
+<marginal letter="536" page="35" line="7">
+<bzg>große Gesangbuch</bzg> 
+</marginal>
+
+<marginal letter="536" page="35" line="9">
+<bzg>Geheimniße des Heidentums</bzg> 
+</marginal>
+
+<marginal letter="536" page="35" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="536" page="35" line="">
+<bzg></bzg> 
 </marginal>
 
 
