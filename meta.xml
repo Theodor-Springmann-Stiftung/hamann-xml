@@ -10351,9 +10351,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="537">
-        <date value="29. November 1778" />
+        <date value="Königsberg, 29. November 1778" />
         <sort value="1778-11-29" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -22696,7 +22696,7 @@
 	      </letterDesc>
 	  	      <letterDesc letter="536a">
 	        <date value="Königsberg, vmtl. Ende 1778" />
-	        <sort value="1778-11-27" notBefore="1778-11-18" />
+	        <sort value="1778-11-27" notBefore="1777-05-18" notafter="1778-12-31" />
 	        <location ref="2" />
 	        <senders>
 	          <sender ref="1" />
