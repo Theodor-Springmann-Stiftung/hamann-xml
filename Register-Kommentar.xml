@@ -5949,12 +5949,18 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 
 <kommentar id="goze" type="neuzeit">
 <lemma>Johann Melchior Goeze</lemma>
-<eintrag>1711–1786. Evang. Theologe, <wwwlink address="https://www.deutsche-biographie.de/sfz21551.html#adbcontent">Bertheau, Carl: Goeze, Johan Melchior, in: <titel>ADB</titel>&#x202F;9 (1879), S.&#x202F;524–530</wwwlink>.
+<eintrag>1711–1786. Evang. Theologe in Hamburg und Lessings Gegner im <link ref="reimarus" subref="reimarus-fragmente" linktext="false">Fragmentenstreit</link>, <wwwlink address="https://www.deutsche-biographie.de/sfz21551.html#adbcontent">Bertheau, Carl: Goeze, Johan Melchior, in: <titel>ADB</titel>&#x202F;9 (1879), S.&#x202F;524–530</wwwlink>.
 </eintrag>
 <subsection id="goze-betrachtung" type="neuzeit">
 <lemma>Goeze, <titel>Heilsame Betrachtung des Todes und der Ewigkeit</titel></lemma>
 <eintrag>
 <titel>Heilsame Betrachtung des Todes und der Ewigkeit</titel> (2&#x202F;Bde., Breslau 1755).
+</eintrag>
+</subsection>
+<subsection id="goze-lessings-schwaechen" type="neuzeit">
+<lemma>Goeze, <titel>Leßings Schwächen</titel></lemma>
+<eintrag>
+<titel>Leßings Schwächen,</titel> gezeigt von Johan Melchior Goezen (3&#x202F;St., Hamburg: Harmsen 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10732707-1">BSB München: H.lit.p. 151</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6864,13 +6870,19 @@ Zitation im Briefkommentar nach HHE 5, S.&#x202F;274–284.
 <titel>Apologie meines Cretinen</titel>. Ungedruckter Entwurf für eine Schrift von 1778 nach dem Tod von <link ref="hamann-jc" linktext="false">Hamanns Bruder</link>. N&#x202F;III, S.&#x202F;232f., vgl. ebd., 472. – ULB Münster, N. Hamann, Kapsel 1,8.
 </eintrag>
 </subsection>
-<subsection id="hamann-metakritik" type="neuzeit" sort="690">
+<subsection id="hamann-konxompax" type="neuzeit" sort="690">
+<lemma>Hamann, <titel>Konxompax</titel></lemma>
+<eintrag>
+<titel>ΚΟΓΞΟΜΠΑΞ. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel> (s.l. s.t. [Riga: Hartknoch 1779]). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235915">ULB Münster: N. Hamann Bd. 37–40, 116</wwwlink>. N&#x202F;III,215–228.
+</eintrag>
+</subsection>
+<subsection id="hamann-metakritik" type="neuzeit" sort="750">
 <lemma>Hamann, <titel>Metakritik über den Purismum der Vernunft</titel></lemma>
 <eintrag>
 <titel>Metakritik über den Purismum der Vernunft</titel> (unveröffentlicht; 1784). 
 </eintrag>
 </subsection>
-<subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort="700">
+<subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort="800">
 <lemma>Hamann, <titel>Golgatha und Scheblimini</titel></lemma>
 <eintrag>
 <titel>Golgatha und Scheblimini! Von einem Prediger in der Wüsten</titel> ([Riga] 1784). Seitenangaben im Briefkommentar nach N&#xA0;III, S.&#x202F;291–320 und Erstdruck = ED. Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773907-2">BSB München: Polem. 1153</wwwlink>.
@@ -7562,6 +7574,12 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <lemma>Herder, <titel>Volkslieder</titel></lemma>
 <eintrag>
 <titel>Volkslieder</titel> (2 Bde., Leipzig: Weygand 1778/9). – SWS XXV, S.&#x202F;127–546. Ein erstes Manuskript blieb 1773/4 ungedruckt, vgl. SWS&#x202F;XXV, S.&#x202F;xii und 1–126.
+</eintrag>
+</subsection>
+<subsection id="herder-maran" type="neuzeit" sort="510">
+<lemma>Herder, <titel>Maran Atha</titel></lemma>
+<eintrag>
+<titel>ΜΑΡΑΝ. ΑΘΑ. Das Buch von der Zukunft des Herrn, des Neuen Testaments Siegel</titel> (Riga: Hartknoch 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10413471-1">BSB München: Exeg. 1351 g</wwwlink>. – SWS IX, S.&#x202F;101–288. 
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
@@ -10284,9 +10302,9 @@ Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn
 <subsection id="lessing-ernst-falk" type="neuzeit" sort="130">
 <lemma>Lessing, <titel>Ernst und Falk</titel></lemma>
 <eintrag>
-Gespräche 1–3 1778: <titel>Ernst und Falk. Gespräche für Freymäurer</titel> (Wolfenbüttel 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919441-6">BSB München: Res/H.g.hum. 138 l-1/2</wwwlink>. – Von Lessing selbst übersehener Druck, an dem Text arbeitete er seit ?!?; Herzog Ferdinand, dem das Buch gewidmet ist, war ein Druck der Gespräche 4 und 5 nicht genehm, Manuskripte zirkulierten jedoch unter Lessings Freunden.<line type="break" />
+Gespräche 1–3 (1778): <titel>Ernst und Falk. Gespräche für Freymäurer</titel> (Wolfenbüttel 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919441-6">BSB München: Res/H.g.hum. 138 l-1/2</wwwlink>. – Von Lessing selbst übersehener Druck; Herzog Ferdinand, dem das Buch gewidmet ist, war ein Druck der Gespräche 4 und 5 nicht genehm, Manuskripte zirkulierten jedoch unter Lessings Freunden.<line type="break" />
 Gespräche 4 und 5 (1780): <titel>Ernst und Falk. Gespräche für Freymäurer. Fortsetzung</titel> (s.l. 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919442-2">BSB München: Res/H.g.hum. 138 l-1/2.</wwwlink>. – Nicht von Lessing beaufsichtigter, fehlerhafter Druck auf Grundlage eines der zirkulierenden Manuskripte, von einem Unbekannten in Druck gegeben.<line type="break" />
-Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage eines Manuskripts, das <link ref="herder" linktext="false">Herder</link> ihm schickte, in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken: Das 4. Gespräch als <titel>Fortsetzung der Beylage zum 6ten Stücke dieser Zeitung von 1779</titel> im 37.&#x202F;und 38.&#x202F;St., 7. und 10. Mai 1781, S.&#x202F;145f. u.&#x202F;149f. – das 5. Gespräch nebst der „Nachricht“ in der Beilage zu St.&#x202F;38. und im 39.&#x202F;St., 10. und 14. Mai 1781, unpag. und S.&#x202F;153f. (vgl. Gotthold Ephraim Lessings sämtliche Schriften. Hg. v. Karl Lachmann. 3. Aufl. besorgt durch Franz Muncker. Leipzig 1897, Bd.&#x202F;13, S.&#x202F;388). – Hamann druckte keine »Vorrede eines Dritten« mit, führte die mit Sternchen markierten Auslassungen des Textes von 1780 aus, ließ zwei Asterisken mitdrucken und zeigte im Text Anmerkungen von a bis k an, ohne sie auszuführen, die sich wohl auf Lessings Anmerkungen beziehen (vgl. Lessings Werke. Vollständige Ausgabe in 25 Teilen. Hg. von Julius Petersen und Waldemar von Olshausen. Anmerkungen zu Teil 1 bis 7. Berlin, Leipzig 1929, S.&#x202F;292–294 [von Waldemar von Olshausen]).
+Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage eines Manuskripts, das <link ref="herder" linktext="false">Herder</link> ihm schickte, in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken: Das 4. Gespräch als <titel>Fortsetzung der Beylage zum 6ten Stücke dieser Zeitung von 1779</titel> im 37.&#x202F;und 38.&#x202F;St., 7. und 10. Mai 1781, S.&#x202F;145f. u.&#x202F;149f. – das 5. Gespräch nebst der „Nachricht“ in der Beilage zu St.&#x202F;38. und im 39.&#x202F;St., 10. und 14. Mai 1781, unpag. und S.&#x202F;153f. (vgl. Gotthold Ephraim Lessings sämtliche Schriften. Hg. v. Karl Lachmann. 3. Aufl. besorgt durch Franz Muncker. Leipzig 1897, Bd.&#x202F;13, S.&#x202F;388). – Hamann druckte keine »Vorrede eines Dritten« mit, führte die mit Sternchen markierten Auslassungen des Textes von 1780 aus, ließ zwei Asterisken mitdrucken und zeigte im Text Anmerkungen von a bis k an, ohne sie auszuführen, die sich wohl auf Lessings Anmerkungen beziehen (vgl. Lessings Werke. Vollständige Ausgabe in 25 Teilen. Hg. von Julius Petersen und Waldemar von Olshausen. Anmerkungen zu Teil 1 bis 7. Berlin, Leipzig 1929, S.&#x202F;292–294 [von Waldemar von Olshausen]). – Obwohl der Hamann-Druck in den KGPZ sowohl Lachmann als auch Olshausen bei der Erstellung ihrer Ausgaben noch vorlag, muss er heute als verschollen gelten.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14177,7 +14195,7 @@ Reichs-Post-Reuter
 <subsection id="reimarus-fragmente" type="neuzeit">
 <lemma>Reimarus, <titel>Fragmente eines Ungenannten</titel></lemma>
 <eintrag>
-<titel>Apologie oder Schutzschrift für die vernünftigen Verehrer Gottes.</titel> Von Lessing als <titel>Fragmente eines Ungenannten</titel> im 3. und 4. Beytrag von <link ref="lessing" subref="lessing-geschichtelitteratur" linktext="true" /> veröffentlicht sowie in der Separatpublikation <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10945692-1">Von dem Zwecke Jesu und seiner Jünger. Noch ein Fragment des Wolfenbüttelschen Ungenannten, hg. v. Gotthold Ephraim Lessing (Braunschweig 1778)</wwwlink>.</eintrag>
+<titel>Apologie oder Schutzschrift für die vernünftigen Verehrer Gottes.</titel> Von <link ref="lessing" linktext="false">Lessing</link> als <titel>Fragmente eines Ungenannten</titel> im 3. und 4. Beytrag von <link ref="lessing" subref="lessing-geschichtelitteratur" linktext="false"><titel>Zur Geschichte und Litteratur</titel></link> veröffentlicht sowie in der Separatpublikation <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10945692-1">Von dem Zwecke Jesu und seiner Jünger. Noch ein Fragment des Wolfenbüttelschen Ungenannten, hg. v. Gotthold Ephraim Lessing (Braunschweig 1778)</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -18524,7 +18542,7 @@ Der englische Text wird hier zitiert nach der vom Autor überarbeiteten Neuaufla
 <subsection id="young-political-arithmatic" type="neuzeit" >
 <lemma>Young, <titel>Political arithmatic</titel></lemma>
 <eintrag>
-<titel>Political arithmetic. Containing observations on the present state of Great Britain, and the principles of her policy in the encouragement of agriculture […]. By Arthur Young</titel> (London: Nicoll 1753).<line type="break" />
+<titel>Political arithmetic. Containing observations on the present state of Great Britain, and the principles of her policy in the encouragement of agriculture […]. By Arthur Young</titel> (London: Nicoll 1774). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-30171">ZB Zürich: NO 202</wwwlink>.<line type="break" />
 Übersetzung: <titel>Arthur Youngs Politische Arithmetik: enthaltend Bemerkungen über den gegenwärtigen Zustand Großbrittaniens, und über die Grundsätze der Verwaltung dieses Staats in Absicht auf Beförderung des Ackerbaues. Aus dem Englischen übersetzt und mit Anmerkungen begleitet</titel> [von <link ref="kraus" linktext="true" />] (Königsberg: Kanter 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10282369-8">BSB München: Brit. 554</wwwlink>.
 </eintrag>
 </subsection>
