@@ -8501,7 +8501,7 @@ J
 
 <kommentar id="jacobi-cf" type="neuzeit">
 <lemma>Christoph Gottfried Jacobi</lemma>
-<eintrag>1724–1789. Theologe und Dichter geistlicher Lieder. <wwwlink address="https://www.deutsche-biographie.de/sfz36621.html#adbcontent ">Jacobs, Eduard: Jacobi, Christoph Gottfried, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;573f.</wwwlink></eintrag>
+<eintrag>1724–1789. Theologe und Dichter geistlicher Lieder. 1749 in Wernigerode, 1763 als Diakon in Magdeburg, 1773 als Generalsuperintendent in Halberstadt <wwwlink address="https://www.deutsche-biographie.de/sfz36621.html#adbcontent ">Jacobs, Eduard: Jacobi, Christoph Gottfried, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;573f.</wwwlink></eintrag>
 <subsection id="jacobi-cf-offenbarung" type="neuzeit" sort="10">
 <lemma>Christoph Gottfried Jacobi, <titel>Die ursprüngliche Offenbarung Gottes</titel></lemma>
 <eintrag>
@@ -9735,9 +9735,15 @@ Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. �
 </eintrag>
 </kommentar>
 
-<kommentar id="kurella" type="neuzeit">
+<kommentar id="kurella-jh" type="neuzeit">
 <lemma>Jacob Heinrich Kurella</lemma>
 <eintrag>1713–1764. Prof. der Rechte in Königsberg.
+</eintrag>
+</kommentar>
+
+<kommentar id="kurella-eg" type="neuzeit">
+<lemma>Ernst Gottfried Kurella</lemma>
+<eintrag>1725–1799. Arzt in Berlin, Bruder von <link ref="kurella-jh" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -10588,7 +10594,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 
 <kommentar id="lindner-gi" type="neuzeit">
 <lemma>Gottlob Immanuel Lindner</lemma>
-<eintrag>1734–1818. Bruder von <link ref="lindner-jg" linktext="true" />, Studium der Theologie in Königsberg; Hamanns Nachfolger als Hofmeister bei den <link ref="witten" linktext="false">v. Witten</link> in <wwwlink address="https://www.geonames.org/453987">Grünhof</wwwlink> und <wwwlink address="https://www.geonames.org/456645">Platohnen</wwwlink>; später Studium der Medizin, Arzt in Halle, Wien und Jena.</eintrag>
+<eintrag>1734–1818. Bruder von <link ref="lindner-jg" linktext="true" />, Studium der Theologie in Königsberg; Hamanns Nachfolger als Hofmeister bei den <link ref="witten" linktext="false">v. Witten</link> in <wwwlink address="https://www.geonames.org/453987">Grünhof</wwwlink> und <wwwlink address="https://www.geonames.org/456645">Platohnen</wwwlink>; in den späten 1770ern Studium der Medizin, Arzt in Halle, Wien und Jena.</eintrag>
 </kommentar>
 
 <kommentar id="lindner-m" type="neuzeit">
@@ -12555,6 +12561,16 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <lemma>Musschenbroek, <titel>Physicae Experimentales</titel></lemma>
 <eintrag>
 <titel>Physicae Experimentales, et Geometricae, de Magnete, Tuborum Capillarium Vitreorumque Speculorum Attractione, Magnitudine Terrae, Cohaerentia Corporum Firmorum Dissertationes: ut et Ephemerides Meteorologicae Ultrajectinae</titel> (Leiden 1729; 2. Aufl. 1754).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="musaus" type="neuzeit">
+<lemma>Johann Karl August Musäus</lemma>
+<eintrag>1735–1787. Schriftsteller, Theologe, 1769 Gymnasialprofessor in Weimar, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz67481.html#ndbcontent">Neureuter, Hans Peter: Musäus, Karl, in: <titel>NDB</titel>&#x202F; 18 (1887), S.&#x202F;623f.</wwwlink>.</eintrag>
+<subsection id="musaus-physiognomische-reisen" type="neuzeit" sort="10">
+<lemma>Musäus, <titel>Physiognomische Reisen</titel></lemma>
+<eintrag>
+<titel>Physiognomische Reisen</titel> (4 Hefte, Altenburg 1778–1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10115323-6">BSB München: P.o.germ. 972</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15492,6 +15508,13 @@ Sinnbildern</titel> (Wolfenbüttel: Meißner 1763) [<link ref="hamann" subref="h
 <titel>Arithmetica mercatorum: Oder vollständiges kaufmännisches Rechenbuch, in welchem alle Rechnungsarten, so bey der Handlung vorkommen, beygebracht und erklärt werden</titel> (Wien 1762). Digitalisat, 2. Auflage 1771: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN877714886">SUB Göttingen: DD94 A 533</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="schwinck" type="neuzeit">
+<lemma>Kaufmannsfamilie Schwinck</lemma>
+<eintrag>Königsberger Kaufmannsfamilie. Der Negoziant Georg Friedrich Schwink d. Ä. starb 1756, Georg Friedrich Schwinck d. J., „Königl. Geschworener Mäckler und Lizentabrechner bei Verschiffung der Königl. Magazinnaturalien“, starb 1797; daneben gibt es in 1760er/70er Jahren einen Karl Konrad Schwink, Kommerzien- und Admiralitätsrat, Negoziant und Stadtgerichtsrat. Zur Familiengeschichte vgl. detailliert <wwwlink address="http://archive.org/details/briefevonundfrie01gent">Briefe von und an Friedrich von Gentz (München, Berlin 1909),</wwwlink>, Bd.&#x202F;1, S.&#x202F;12f.
+Kaufmann, Kommerzien- und Admiralitätsrat in Königsberg.
+</eintrag>
 </kommentar>
 
 <kommentar id="seckendorff" type="neuzeit">

@@ -16687,7 +16687,7 @@ Brief Nr. 167
 </marginal>
 
 <marginal letter="167" page="441" line="31" sort="1">
-vll. der Kaufmann Georg Gotthilf Schwinck
+<link ref="schwinck" linktext="true" />
 </marginal>
 
 <marginal letter="167" page="441" line="31" sort="2">
@@ -40672,7 +40672,7 @@ Brief Nr. 347
 </marginal>
 
 <marginal letter="347" page="404" line="3">
-<bzg>Kurellaschen Hause</bzg> Der Sohn von <link ref="kurella" linktext="true" /> war ein Jugendfreund Herders in Königsberg; in der Rezension der <link ref="herder" subref="herder-fragmente" linktext="false"><titel>Fragmente</titel></link> in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;162 heißt es über Herder: „Noch vor drey Jahren hat er sich zu Königsberg aufgehalten; wenigstens besitze ich von ihm ein „Fragment zweener dunklen Abendgespräche“, an Herrn Kurella, nach dem Tode seines Vaters, welches am 18ten des Märzmonats 1764 unterschrieben ist.“ Es wird darauf als Beispiel für Herders Dunkelheit gebracht, wohl ein Erstdruck (vgl. SWS XXIX, S.&#x202F;9f.).
+<bzg>Kurellaschen Hause</bzg> Der Sohn von <link ref="kurella-jh" linktext="true" /> war ein Jugendfreund Herders in Königsberg; in der Rezension der <link ref="herder" subref="herder-fragmente" linktext="false"><titel>Fragmente</titel></link> in der <link ref="deutsche-bibliothek" linktext="false">Deutschen Bibliothek der schönen Wissenschaften</link>, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;162 heißt es über Herder: „Noch vor drey Jahren hat er sich zu Königsberg aufgehalten; wenigstens besitze ich von ihm ein „Fragment zweener dunklen Abendgespräche“, an Herrn Kurella, nach dem Tode seines Vaters, welches am 18ten des Märzmonats 1764 unterschrieben ist.“ Es wird darauf als Beispiel für Herders Dunkelheit gebracht, wohl ein Erstdruck (vgl. SWS XXIX, S.&#x202F;9f.).
 </marginal>
 
 <marginal letter="347" page="404" line="4">
@@ -41797,7 +41797,7 @@ Brief Nr. 351
 </marginal>
 
 <marginal letter="351" page="421" line="32">
-<bzg>Verdacht des Kurellaschen Gedichts …</bzg> Es geht darum, wie <link ref="klotz" linktext="false">Klotz</link> an Herders Jugendgedicht „Fragment zweener dunklen Abendgespräche“ kam (an Herders Jugendfreund, den Sohn von <link ref="kurella" linktext="true" />, vgl. <intlink letter="347" page="404" line="3" linktext="true" />), das Klotz in seiner Herder-Rezension in <link ref="deutsche-bibliothek" linktext="true" />, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;162f. satirisch abdruckte.
+<bzg>Verdacht des Kurellaschen Gedichts …</bzg> Es geht darum, wie <link ref="klotz" linktext="false">Klotz</link> an Herders Jugendgedicht „Fragment zweener dunklen Abendgespräche“ kam (an Herders Jugendfreund, den Sohn von <link ref="kurella-jh" linktext="true" />, vgl. <intlink letter="347" page="404" line="3" linktext="true" />), das Klotz in seiner Herder-Rezension in <link ref="deutsche-bibliothek" linktext="true" />, 1.&#x202F;Bd., 1.&#x202F;St., S.&#x202F;162f. satirisch abdruckte.
 </marginal>
 
 <marginal letter="351" page="421" line="34" sort="1">
@@ -68555,6 +68555,77 @@ Brief Nr. 537
 
 <marginal letter="537" page="36" line="25">
 <bzg>Jonathans</bzg> Hamann selbst
+</marginal>
+
+
+Brief Nr. 538
+
+<marginal letter="538" page="36" line="32" sort="1">
+<bzg>Einl.</bzg> nicht überliefert, aus Berlin
+</marginal>
+
+<marginal letter="538" page="36" line="32" sort="2">
+<bzg>HE Jacobi</bzg> <link ref="jacobi-fc" linktext="true" />
+</marginal>
+
+<marginal letter="538" page="36" line="33">
+<bzg>Fr. Consistorialräthin</bzg> <link ref="lindner-aa" linktext="true" />
+</marginal>
+
+<marginal letter="538" page="37" line="2">
+<bzg>Reichard</bzg> <link ref="reichardt-jf" linktext="true" />
+</marginal>
+
+<marginal letter="538" page="37" line="3">
+<bzg>Kraus</bzg> <link ref="kraus" linktext="true" />
+</marginal>
+
+<marginal letter="538" page="37" line="5">
+<bzg>neuen Studiums</bzg> der Medizin
+</marginal>
+
+<marginal letter="538" page="37" line="7" sort="1">
+<bzg>HE Abrechner Schwink</bzg> <link ref="schwinck" linktext="false">Georg Friedrich Schwinck d. J., Königl. Geschworener Mäckler und Lizentabrechner bei Verschiffung der Königl. Magazinnaturalien</link>
+</marginal>
+
+<marginal letter="538" page="37" line="7" sort="2">
+<bzg>Ihre Sachen</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="538" page="37" line="8">
+<bzg>Hennings</bzg> <link ref="hennings" linktext="true" />
+</marginal>
+
+<marginal letter="538" page="37" line="11">
+<bzg>Stettiner Schiffer Neumann</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="538" page="37" line="12">
+<bzg>Böhm</bzg> Jacob Philipp Böhm, Schiffsabrechner und Hofmäkler in Stettin
+</marginal>
+
+<marginal letter="538" page="37" line="26">
+<bzg>einl. Correspondenten</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="538" page="37" line="28">
+<bzg>physiognomischen Reisen</bzg> <link ref="musaus-physiognomische-reisen" linktext="true" />
+</marginal>
+
+<marginal letter="538" page="37" line="31">
+<bzg>Marianne Sophie</bzg> <link ref="hamann-ms" linktext="true" />
+</marginal>
+
+<marginal letter="538" page="37" line="32">
+<bzg>Lieschen</bzg> <link ref="hamann-er" linktext="true" />
+</marginal>
+
+<marginal letter="538" page="38" line="2">
+<bzg>Hofr. Tottien</bzg> <link ref="tottien-ca" linktext="true" />
+</marginal>
+
+<marginal letter="538" page="38" line="5">
+<bzg>D. Kurella</bzg> <link ref="kurella-eg" linktext="true" />
 </marginal>
 
 
