@@ -3515,6 +3515,23 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 </subsection>
 </kommentar>
 
+<kommentar id="cramer-cf" type="neuzeit">
+<lemma>Carl Friedrich Cramer</lemma>
+<eintrag>1752–1807. Sohn von <link ref="cramer-ja" linktext="true" />, Mitglied des Göttinger Hain, Verehrer <link ref="klopstock" linktext="false">Klopstocks</link>; 1780 Professor der griechische und orientalischen Sprachen und Homiletik in Kiel.
+</eintrag>
+<subsection id="cramer-tellow" type="neuzeit"  sort="10">
+<lemma>Cramer, <titel>Klopstock. In Fragmenten aus Briefen von Tellow an Elisa</titel></lemma>
+<eintrag>
+<titel>Klopstock. In Fragmenten aus Briefen von Tellow an Elisa</titel> (Frankfurt, Leipzig: 1777–1778). Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11089621-2">Stabi Regensburg: 999/Class.1386(1</wwwlink>, Bd. 2: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11089622-8">Stabi Regensburg: 999/Class.1386(2</wwwlink>.</eintrag>
+</subsection>
+<subsection id="cramer-er" type="neuzeit"  sort="20">
+<lemma>Cramer, <titel>Klopstock. Er und über ihn</titel></lemma>
+<eintrag>
+<titel>Klopstock. Er und über ihn</titel> herausgegeben von C. F. Cramer. 1 Tl: 1724–1747 (Hamburg 1780) – 2. Tl: 1748–1750 (Dessau 1781) – 3. Tl: 1751–1754 (Dessau 1782) – 4. Tl: 1755 (Leipzig/Altona 1790) – 5. Tl: 1755[–1757] (Leipzig, Altona 1792). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10112581-2">BSB München: P.o.germ. 739 c-1</wwwlink>.</eintrag>
+</subsection>
+
+</kommentar>
+
 <kommentar id="crebillon" type="neuzeit">
 <lemma>Claude-Prosper Jolyot de Crébillon</lemma>
 <eintrag>1707–1777. Frz. Schriftsteller. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;10, 1813), S.&#x202F;214–216.</eintrag>
@@ -9429,13 +9446,16 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <eintrag>
 <titel>Oden</titel>. (Hamburg: Bode 1771) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;145/264: „(Klopstock’s) Oden, Hamb. 771“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-342339">ULB Halle: Dd 2483 z</wwwlink>.</eintrag>
 </subsection>
-
 <subsection id="klopstock-gelehrtenrepublik" type="neuzeit" sort="140">
 <lemma>Klopstock, <titel>Die Gelehrtenrepublik</titel></lemma>
 <eintrag><titel>Die Deutsche Gelehrtenrepublik. Ihre Einrichtung. Ihre Geseze. Geschichte des letzten Landtags. Auf Befehl der Aldermänner durch Salogast und Wlemar. Herausgegeben von Klopstock. Erster Theil</titel> (Hamburg: Bode 1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;159/505: „Die deutsche Gelehrtenrepublick, herausgegeben von Klopstock, Th. I. Hamb. 774“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733453-5">BSB München: H.lit.p. 199</wwwlink>.
 </eintrag>
 </subsection>
-
+<subsection id="klopstock-rechtschreibung" type="neuzeit" sort="150">
+<lemma>Klopstock, <titel>Ueber die deutsche Rechtschreibung</titel></lemma>
+<eintrag><titel>Ueber die deutsche Rechtschreibung</titel> von Klopstock; eine Beilage zum zweiten Theile der Campischen Erziehungsschriften ([Dresden]: 1778). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN666492468">SUB Göttingen</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="klopstock-dichtkunst" type="neuzeit" sort="200">
 <lemma>Klopstock, <titel>Ueber Sprache und Dichtkunst</titel></lemma>
 <eintrag><titel>Ueber Sprache und Dichtkunst.</titel> Fragmente von Klopstock (Hamburg: Heroldsche Buchhandlung 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id43410647X4">SLUB Dresden: D.O.216,41"</wwwlink>.
@@ -10311,6 +10331,11 @@ Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn
 Gespräche 1–3 (1778): <titel>Ernst und Falk. Gespräche für Freymäurer</titel> (Wolfenbüttel 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919441-6">BSB München: Res/H.g.hum. 138 l-1/2</wwwlink>. – Von Lessing selbst übersehener Druck; Herzog Ferdinand, dem das Buch gewidmet ist, war ein Druck der Gespräche 4 und 5 nicht genehm, Manuskripte zirkulierten jedoch unter Lessings Freunden.<line type="break" />
 Gespräche 4 und 5 (1780): <titel>Ernst und Falk. Gespräche für Freymäurer. Fortsetzung</titel> (s.l. 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919442-2">BSB München: Res/H.g.hum. 138 l-1/2.</wwwlink>. – Nicht von Lessing beaufsichtigter, fehlerhafter Druck auf Grundlage eines der zirkulierenden Manuskripte, von einem Unbekannten in Druck gegeben.<line type="break" />
 Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage eines Manuskripts, das <link ref="herder" linktext="false">Herder</link> ihm schickte, in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken: Das 4. Gespräch als <titel>Fortsetzung der Beylage zum 6ten Stücke dieser Zeitung von 1779</titel> im 37.&#x202F;und 38.&#x202F;St., 7. und 10. Mai 1781, S.&#x202F;145f. u.&#x202F;149f. – das 5. Gespräch nebst der „Nachricht“ in der Beilage zu St.&#x202F;38. und im 39.&#x202F;St., 10. und 14. Mai 1781, unpag. und S.&#x202F;153f. (vgl. Gotthold Ephraim Lessings sämtliche Schriften. Hg. v. Karl Lachmann. 3. Aufl. besorgt durch Franz Muncker. Leipzig 1897, Bd.&#x202F;13, S.&#x202F;388). – Hamann druckte keine »Vorrede eines Dritten« mit, führte die mit Sternchen markierten Auslassungen des Textes von 1780 aus, ließ zwei Asterisken mitdrucken und zeigte im Text Anmerkungen von a bis k an, ohne sie auszuführen, die sich wohl auf Lessings Anmerkungen beziehen (vgl. Lessings Werke. Vollständige Ausgabe in 25 Teilen. Hg. von Julius Petersen und Waldemar von Olshausen. Anmerkungen zu Teil 1 bis 7. Berlin, Leipzig 1929, S.&#x202F;292–294 [von Waldemar von Olshausen]). – Obwohl der Hamann-Druck in den KGPZ sowohl Lachmann als auch Olshausen bei der Erstellung ihrer Ausgaben noch vorlag, muss er heute als verschollen gelten.
+</eintrag>
+</subsection>
+<subsection id="lessing-nathan" type="neuzeit" sort="140">
+<lemma>Lessing, <titel>Nathan der Weise</titel></lemma>
+<eintrag><titel>Nathan der Weise. Ein Dramatisches Gedicht, in fünf Aufzügen.</titel> Von Gotthold Ephraim Lessing (Berli: Voß 1779). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-20358-9">HAB Wolfenbüttel, M: Lo 4559</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14255,6 +14280,12 @@ Reichs-Post-Reuter
 <kommentar id="reiske" type="neuzeit">
 <lemma>Johann Jakob Reiske</lemma>
 <eintrag>1716–1774. Altphilologe, bedeutender Arabist und Gräzist in Leipzig.</eintrag>
+<subsection id="reiske-iobum" type="neuzeit">
+<lemma>Reiske, <titel>Coniecturae In Iobum</titel></lemma>
+<eintrag>
+<titel>Joannis Jacobi Reiske Coniecturae In Iobum Et Proverbia Salomonis</titel> (Leipzig 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3233588887">SLUB Dresden: Exeg.B.1180</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="remus" type="neuzeit">
@@ -15596,6 +15627,12 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 <lemma>Semler, <titel>Abhandlung von freier Untersuchung des Canon</titel></lemma>
 <eintrag>
 D. Joh. Salomo Semlers <titel>Abhandlung von freier Untersuchung des Canon nebst Anwort auf die tübingische Vertheidigung der Apocalypsis</titel> (3&#xA0;Bde., Halle: Hemmerde 1771–1773) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;26/167: „J. S. Semlers Abhandl von freyer Untersuchung des Canons, 1. 2. 3. Th. Halle 771–723.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10412817-7">BSB München: Exeg. 1012</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="semler-beantwortung-fragmente" type="neuzeit" sort="30">
+<lemma>Semler, <titel>Beantwortung der Fragmente eines Ungenanten</titel></lemma>
+<eintrag>
+<titel>D. Joh. Salomo Semlers Beantwortung der Fragmente eines Ungenanten, insbesondere vom Zweck Jesu und seiner Jünger</titel> (Halle: Erziehungsinstitut 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3273533845">SLUB Dresden: Theol.ev.pol.1410</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>

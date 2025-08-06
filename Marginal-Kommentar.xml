@@ -67492,7 +67492,7 @@ Brief Nr. 528
    </marginal>
    
    <marginal letter="528" page="19" line="17" sort="2">
-    <bzg>Dante</bzg> <link ref="dante" subref="dante-commedia" linktext="true" />
+    <bzg>Dante</bzg> <link ref="dante" subref="dante-commedia" linktext="true" /> 
    </marginal>
 
    <marginal letter="528" page="19" line="22">
@@ -68530,7 +68530,7 @@ Vmtl. im Umfeld von <intlink letter="536" page="35" line="32" linktext="false">H
 Brief Nr. 537
 
 <marginal letter="537" page="36" line="11">
-wohl mit <intlink letter="536" page="35" line="16" linktext="false">HKB 536</link> abgesendet
+wohl mit <intlink letter="536" page="35" line="16" linktext="false">HKB 536</intlink> abgesendet
 </marginal>
 
 <marginal letter="537" page="36" line="16">
@@ -68679,44 +68679,108 @@ Brief Nr. 539
 <bzg>Dicta nobis sunto</bzg> Sie sollen uns gesagt sein, d.h. die Sprüche sollen für uns gelten.
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="38" line="31">
+<bzg>Gedankenplan</bzg> zu Hamanns ausbleibender Autorschaft vgl. <intlink letter="536" page="31" line="13" linktext="true" />
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="39" line="1">
+<bzg>Hohelied</bzg> <link ref="herder" subref="herder-lieder-liebe" linktext="true" />
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="39" line="2">
+<bzg>Schwagers</bzg> <link ref="flachsland-fs" linktext="true" />
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="39" line="5" sort="1">
+<bzg>Apokalypse</bzg> <link ref="herder" subref="herder-maran" linktext="true" />
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="39" line="5" sort="2">
+<bzg>U. l. Fr.</bzg> Unserer lieben Frau (Personifizierung der Literatur wie bei einer Universität als Alma Mater)
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="39" line="7">
+<bzg>Baals-Gabe</bzg> nutzlos, wie ein Baalsopfer
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="39" line="8">
+<bzg>enfans perdus</bzg> verlorene Kinder (im französischen Militärjargon für waghalsige oder zum Tode bestimmte Vortrupps); gemeint sind wohl <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha</titel></link> und der 2. Teil der <link ref="herder" subref="herder-volkslieder" linktext="false"><titel>Volkslieder</titel></link>; vgl. auch <intlink letter="545" page="54" line="8" linktext="true" />
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="39" line="10">
+<bzg>geliebten Herzogin</bzg> <link ref="luise-swe" linktext="true" />
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="39" line="20">
+<bzg>Jagemann</bzg> <link ref="jagemann" linktext="true" />, vgl. <intlink letter="528" page="19" line="17" linktext="true" />
 </marginal>
 
-<marginal letter="539" page="38" line="">
-<bzg></bzg>
+<marginal letter="539" page="39" line="30">
+<bzg>ευκληρια der Schurmannin</bzg> <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10450657-7">Die lateinische Autobiographie Anna Maria von Schürmanns (1607–1678)</wwwlink>; sie erzählt darin, wie sie dem weltlichen Ruhm und den Studien von Sprache und Literatur entsagte und ein Leben in Demut und religiöser Gefolgschaft bei der Sekte der Labadisten begann (Ευκληρία bedeutet die, die gut wählt). In seinen <titel>Briefen, das Studium der Theologie betreffend</titel> bekannte Herder, das Buch nie zuende gelesen zu haben (48. Brief, SWS XI, S.&#x202F;88).
+</marginal>
+
+<marginal letter="539" page="39" line="31">
+<bzg>Yvons</bzg> Pierre Yvon (1646–1707), Prediger in der Sekte der Labadisten
+</marginal>
+
+<marginal letter="539" page="39" line="32">
+<bzg>Kirchenpostill Luthers</bzg> ?!?
+</marginal>
+
+<marginal letter="539" page="39" line="33" sort="1">
+<bzg>Joh. Olearius</bzg> ?!?
+</marginal>
+
+<marginal letter="539" page="39" line="33" sort="2">
+<bzg>Buch von Selneccer</bzg> ?!?
+</marginal>
+
+<marginal letter="539" page="39" line="34">
+<bzg>Ebräische Bibel&#x202F;…</bzg> ?!?
+</marginal>
+
+<marginal letter="539" page="39" line="37">
+<bzg>Semler&#x202F;…&#x202F;Ungenannten</bzg> <link ref="semler" subref="semler-beantwortung-fragmente" linktext="true" />, Brief nicht überliefert, offenbar mit einer Bitte, Subskribenten zu sammeln
+</marginal>
+
+<marginal letter="539" page="40" line="2" sort="1">
+<bzg>Leßings Nathan</bzg> <link ref="lessing" subref="lessing-nathan" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="40" line="2" sort="2">
+<bzg>Reiskens Hiob</bzg> <link ref="reiske" subref="reiske-iobum" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="40" line="3">
+<bzg>Verf. der Lebensläufe&#x202F;…&#x202F;Hippel</bzg> <link ref="hippel" subref="hippel-lebenslaufe" linktext="true" />, zum Rätselraten um die Autorschaft vgl. zuletzt <intlink letter="536" page="33" line="33" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="40" line="6" sort="1">
+<bzg>Mendelsohn</bzg> <link ref="mendelssohn" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="40" line="6" sort="2">
+<bzg>über die Ehe</bzg> <link ref="hippel" subref="hippel-ehe" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="40" line="10">
+<bzg>Winkelm.&#x202F;an mich unbekannter Weise denkt</bzg> vgl. <link ref="winckelmann" subref="winckelmann-briefe" linktext="true" />, S.&#x202F;204
+</marginal>
+
+<marginal letter="539" page="40" line="13">
+<bzg></bzg> <link ref="cramer-ja" subref="cramer-tellow" linktext="true" />, Bd.&#x202F;2; Herder wird allenthalben und auch positiv erwähnt, negativ etwa auf S.&#x202F;263; vgl. auch <intlink letter="545" page="58" line="6" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="40" line="15">
+<bzg>rasende Bogen von der Rechtschreibung</bzg> <link ref="klopstock" subref="klopstock-rechtschreibung" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="40" line="16">
+<bzg>Versuch über den Buchstab H.</bzg> <link ref="hamann" subref="hamann-h" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="40" line="18">
+<bzg>Dante gelesen?</bzg> <link ref="dante" subref="dante-commedia" linktext="true" />
 </marginal>
 
 
