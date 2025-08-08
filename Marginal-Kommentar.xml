@@ -56930,7 +56930,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="205" line="7">
-<bzg>Dainos</bzg> litauische Volkslieder, für <link ref="herder" subref="herder-volkslieder" linktext="true" />
+<bzg>Dainos</bzg> litauische Volkslieder, für <link ref="herder" subref="herder-volkslieder" linktext="true" />, vgl. <intlink letter="539" page="41" line="23" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="205" line="11">
@@ -68815,9 +68815,73 @@ Brief Nr. 539
 <bzg>Benzlers</bzg> <link ref="benzler" linktext="true" />, vgl. <intlink letter="536" page="34" line="23" linktext="true" /> 
 </marginal>
 
+<marginal letter="539" page="41" line="4">
+<bzg>Kleuker</bzg> <link ref="kleuker" linktext="true" />, vgl. <intlink letter="536" page="34" line="21" linktext="true" /> 
+</marginal>
+
+<marginal letter="539" page="41" line="6">
+<bzg>harthörig</bzg> schwerhörig
+</marginal>
+
+<marginal letter="539" page="41" line="8">
+<bzg>Gleimen</bzg> <link ref="gleim" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="41" line="11">
+<bzg>pauper vbique iacet</bzg> <link ref="ovid" subref="ovid-fasti" linktext="true" />, 1,218; dt. Artmut streckt nieder den Mann!
+</marginal>
+
+<marginal letter="539" page="41" line="14">
+<bzg>3. Paullinischen Grazien&#x202F;…&#x202F;1 Cor. 12,8–13</bzg> Glaube, Liebe, Hoffnung (analog zu den drei Chariten); wohl Schreibversehen Herders für <link ref="nt-kor1" subref="nt-kor1-13" linktext="false">1 Kor 13,8–13</link>
+</marginal>
+
+<marginal letter="539" page="41" line="23">
+<bzg>Kreuzfeld&#x202F;…&#x202F;Lettica</bzg> <link ref="kreutzfeld" linktext="true" /> steuerte litauische ‚Dainos‘ für den ersten Teil von Herders <link ref="herder" subref="herder-volkslieder" linktext="false">Volksliedern</link> bei, vgl. <intlink letter="455" page="205" line="7" linktext="true" />; vgl. SWS XXV, S.&#x202F;143–146, außerdem S.&#x202F;316 und den Kommentar S.&#x202F;667.
+</marginal>
+
+<marginal letter="539" page="41" line="24">
+<bzg>Hudibras</bzg> <link ref="kreutzfeld" subref="kreutzfeld-hudibras" linktext="false">Kreutzfelds Übersetzung</link> von Butlers <link ref="butler" subref="butler-hudibras" linktext="false">Hudibras</link> im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, vgl. <intlink letter="536" page="34" line="15" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="41" line="28">
+<bzg>Zettel</bzg> Der Zettel mit den Namen von Herders Familie, um ihn hinter sein Porträt in Hamanns Schlafzimmer zu kleben, vgl. <intlink letter="536" page="36" line="6" linktext="true" />; Herder sandte ihn offenbar mit, er ist jedoch nicht überliefert.
+</marginal>
+
+<marginal letter="539" page="41" line="29">
+<bzg>übrige Papier</bzg> die übrige Hälfte der vierten Seite des Briefpapiers
+</marginal>
+
+<marginal letter="539" page="41" line="34">
+<bzg>Marianne Sophie</bzg> <link ref="hamann-ms" linktext="true" />, vgl. <intlink letter="537" page="36" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="41" line="35" sort="1">
+<bzg>Mutter</bzg> <link ref="schumacher-ar" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="41" line="35" sort="2">
+<bzg>drey Blümchen</bzg> die drei Töchter
+</marginal>
+
+<marginal letter="539" page="41" line="36">
+<bzg>Erstgebohrnen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="42" line="7">
+<bzg>Sim. Dachs Gedichte</bzg> <link ref="dach" linktext="true" />, vgl. <intlink letter="545" page="56" line="15" linktext="true" /> und Hamanns Abschriften im Anhang des Briefs
+</marginal>
+
+<marginal letter="539" page="42" line="8">
+<bzg>mit Gelegenheit</bzg>
+</marginal>
+
    <marginal letter="539" page="42" line="9">
-    <bzg>ana u. P. Mannah&#x202F;…</bzg> Die Hamann-Schrift, welche Kreutzfeld in seinem Geburtstagsgedicht auf Hamann in einer Fußnote erwähnt (siehe <link ref="kreutzfeld" subref="kreutzfeld-geburtstagsgedicht1777" linktext="true" />, S.&#x202F;12); Hamann tat sie als nicht ausgeführten Entwurf ab, vgl. <intlink letter="536" page="33" line="17" linktext="true" />.
+    <bzg>ana u. P. Mannah&#x202F;…</bzg> Die Hamann-Schrift, welche Kreutzfeld in seinem Geburtstagsgedicht auf Hamann in einer Fußnote mit Seitenzahle erwähnt (siehe <link ref="kreutzfeld" subref="kreutzfeld-geburtstagsgedicht1777" linktext="true" />, S.&#x202F;12); Hamann tat sie als nicht ausgeführten Entwurf ab, vgl. <intlink letter="536" page="33" line="17" linktext="true" />.
    </marginal>
+
+<marginal letter="539" page="42" line="13">
+<bzg>Adieu, Adieu&#x202F;…</bzg> die schließenden Worte des Geistes in <link ref="shakespeare" subref="shakespeare-hamlet" linktext="false">Shakespeares Hamlet</link>, I,5,91
+</marginal>
 
 </marginalien>
 </data>
