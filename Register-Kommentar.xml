@@ -10077,16 +10077,20 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
     <titel>Durst nach Christuserfahrung 1776. Im November</titel> [Zürich 1776]. Digitalisat: <wwwlink address="https://books.google.de/books?id=BLijq2snWVYC">Google Books</wwwlink>.</eintrag>
     </subsection>
     <subsection id="lavater-abraham" type="neuzeit" sort="30">
-        <lemma>Lavater, <titel>Abraham und Isaak</titel></lemma>
-        <eintrag>
-        <titel>Abraham und Isaak: ein religiöses Drama</titel> (Winterthur: Heinrich Steiner und Compagnie 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/details:bsb10113530">München, Bayerische Staatsbibliothek: P.o.germ. 798 f</wwwlink>.</eintrag>
-        </subsection>
-        <subsection id="lavater-abendmahl" type="neuzeit" sort="35">
-            <lemma>Lavater, <titel>Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins</titel></lemma>
-            <eintrag>
-            <titel>Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins</titel> (Leipzig: Weidmanns Erben und Reich 1777). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3206828977">SLUB Dresden: 39.8.10504</wwwlink>.</eintrag>
-            </subsection>
-
+    <lemma>Lavater, <titel>Abraham und Isaak</titel></lemma>
+    <eintrag>
+    <titel>Abraham und Isaak: ein religiöses Drama</titel> (Winterthur: Heinrich Steiner und Compagnie 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/details:bsb10113530">München, Bayerische Staatsbibliothek: P.o.germ. 798 f</wwwlink>.</eintrag>
+    </subsection>
+    <subsection id="lavater-abendmahl" type="neuzeit" sort="35">
+    <lemma>Lavater, <titel>Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins</titel></lemma>
+    <eintrag>
+    <titel>Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins</titel> (Leipzig: Weidmanns Erben und Reich 1777). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3206828977">SLUB Dresden: 39.8.10504</wwwlink>.</eintrag>
+    </subsection>
+    <subsection id="lavater-pontius" type="neuzeit" sort="35">
+    <lemma>Lavater, <titel>Pontius Pilatus</titel></lemma>
+    <eintrag>
+    <titel>Pontius Pilatus. Oder Die Bibel im Kleinen und der Mensch im Großen</titel> (4 Bde. Zürich: Füeßli 1782–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271742-6">BSB München: B.hist. 155</wwwlink>.</eintrag>
+    </subsection>
 </kommentar>
 
 <kommentar id="lavater-l" type="neuzeit">
@@ -10397,6 +10401,12 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 <titel>Vier Bücher Aesopischer Fabeln in gebundener Schreib-Art</titel> (Leipzig: Deer 1748). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN670074888">SUB Göttingen: 8 P GERM III, 8011</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+
+<kommentar id="lichtenberg" type="neuzeit">
+<lemma>Georg Christoph Lichtenberg</lemma>
+<eintrag>1742–1799. Satirischer Schriftsteller und Naturforscher in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118572172.html#ndbcontent">Wolfgang Proß und Claus Priesner: Georg Christoph Lichtenberg, in: <titel>NDB</titel>&#x202F;14 (1985), S.&#x202F;449–464.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="lieberkuehn" type="neuzeit">
