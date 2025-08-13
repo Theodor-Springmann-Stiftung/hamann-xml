@@ -58812,7 +58812,7 @@ Brief Nr. 467
 </marginal>
 
 <marginal letter="467" page="239" line="14">
-<bzg>versudelter Catalogus</bzg><link ref="hamann" subref="hamann-biga" linktext="false"><titel>Biga bibliothecarum</titel></link>
+<bzg>versudelter Catalogus</bzg> <link ref="hamann" subref="hamann-biga" linktext="false"><titel>Biga bibliothecarum</titel></link>
 </marginal>
 
 <marginal letter="467" page="239" line="18">
@@ -66500,7 +66500,11 @@ Brief Nr. 519
     <bzg>Hahns Postille</bzg> <link ref="hahn-pm" subref="hahn-sammlung" linktext="true" /> 
    </marginal>
 
-   <marginal letter="520" page="395" line="20">
+   <marginal letter="520" page="395" line="20" sort="1">
+    <bzg>Rechnungsmaschiene</bzg> vgl. <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/5222?page=1&#x26;comment=11334">Lavater an Merck, 24.8.1774</wwwlink>: Ein außerordentliches Mechanisches Genie, Pfarrer Hahn in Kornwestheim hat eine universal rechnungs Maschiene verfertigt, die transportabel ist, nicht mehr als 8. ℔. oder 10. wiegt, und die alle arithmetische aufgaben durch einfache bewegungen auflöset; das erste und einzige Stük dieser Art. Der Man schäzt dieß Stük 2000. Carlins“
+    </marginal>
+
+   <marginal letter="520" page="395" line="20" sort="2">
     <bzg>Leibnitzens</bzg> <link ref="leibniz" linktext="true" /> erfand eine Vier-Spezies-Rechenmaschine, die alle Grundrechenarten ausführen konnte.
    </marginal>
 
@@ -66533,7 +66537,7 @@ Brief Nr. 519
    </marginal>
 
    <marginal letter="520" page="396" line="16">
-    <bzg>Predigten&#x202F;…&#x202F;drucken ließ</bzg> Bspw. die <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11128772-2"><titel>Predigten Ueber das Buch Jonas</titel> (1773)</wwwlink>, die <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460318-1"><titel>Vermischten Predigten</titel> (1773)</wwwlink> oder die <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460307-1"><titel>Fest-Predigten nebst einigen Gelegenheitspredigten</titel>(1774)</wwwlink>; 1784 publizierte Lavater sie erneut in den <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10604286-2"><titel>sämtlichen kleinen prosaischen Schriften</titel></wwwlink>.
+    <bzg>Predigten&#x202F;…&#x202F;drucken ließ</bzg> Unklar, welche Predigten gemeint sind, möglich sind die <link ref="lavater" subref="lavater-jonas" linktext="false"><titel>Predigten Ueber das Buch Jonas</titel></link>, die <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460318-1"><titel>Vermischten Predigten</titel> (1773)</wwwlink>; besondere Aufmerksamkeit bekamen die <link ref="lavater" subref="lavater-abendmahl" linktext="false"><titel>Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins</titel></link>; vgl. auch <wwwlink address="https://jclavater-briefwechsel.ch/letter/11149?page=2&#x26;comment=10498">JCLB</wwwlink>.
    </marginal>
 
    <marginal letter="520" page="396" line="22">
@@ -66907,7 +66911,7 @@ Brief Nr. 522
 
    <marginal letter="523" page="4" line="31">
     <bzg>Gerücht</bzg> Henkel: »Wahrscheinlich handelt es sich um den Streit zwischen <link ref="lichtenberg" linktext="false">Lichtenberg</link> und Lavater über die <link ref="lavater" subref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmente</titel></link>; auf den ersten Bd. (1775) hatte Mendelssohn mit einem (unpublizierten) Essay reagiert, den er, bei einem Aufenthalt in Hannover (November 1777) <link ref="zimmermann-jg" linktext="false">Zimmermann</link> gegenüber erwähnte. Dieser kündigte den mit Lavater
-    kritisch verfahrenden Essay ohne Wissen Mendelssohns als dessen Beitrag zu dem Streit an.« – Wo soll das sein?!? Mendelssohn war tatsächlich im November 1777 in Hannover bei Zimmermann und sie unterhielten/schrieben sich auch über Lavaters Fragmente (vgl. https://www.jclavater-briefwechsel.ch/correspondence/Zimmermann,%20Johann%20Georg); aber dass Hamann zwei Monate später davon gehört haben soll und Lavater hier davon berichtet, ist vollkommen unplausibel (zumal eine solche Ankündigung Zimmermanns auch nicht zu verifizieren ist) – in Mendelssohn-Biographie nachschauen (register/lavater)? sonst löschen
+    kritisch verfahrenden Essay ohne Wissen Mendelssohns als dessen Beitrag zu dem Streit an.« – Wo soll das sein? Mendelssohn war tatsächlich im November 1777 in Hannover bei Zimmermann und sie unterhielten/schrieben sich auch über Lavaters Fragmente (vgl. https://www.jclavater-briefwechsel.ch/correspondence/Zimmermann,%20Johann%20Georg); aber dass Hamann zwei Monate später davon gehört haben soll und Lavater hier davon berichtet, ist vollkommen unplausibel (zumal eine solche Ankündigung Zimmermanns auch nicht zu verifizieren ist) – wo könnte man noch mehr zu Mendelssohns Lavater-Verhältnis nach 1775 bzw. über seine Zimmermann-Bekanntschaft im November 1777 herausfinden?!? sonst löschen
 </marginal>
 
 <marginal letter="523" page="4" line="34">
@@ -66930,12 +66934,12 @@ Brief Nr. 522
     <bzg>Durst</bzg> <link ref="lavater" subref="lavater-durst" linktext="true" />
 </marginal>
 
-<marginal letter="523" page="5" line="5">
+<marginal letter="523" page="5" line="7">
     <bzg>Passibilität&#x202F;…&#x202F;neuesten Theorie</bzg> Eine ‚neueste Theorie‘ zu dem Thema um Aktivität und Passivität nicht ermittelt; vgl. aber die Aufnahme dieses Themas im vierten Band der <link ref="lavater" subref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmente</titel></link>, S.&#x202F; 117 und 228, an dem Lavater gerade arbeitete (siehe <intlink letter="524" page="9" line="33" linktext="true" />).
 </marginal>
 
 <marginal letter="523" page="5" line="8">
-    <bzg>Εμαθεν ἀφ’ ὧν ἔμαθε</bzg> dt. er lernte aus dem, was er erlitt, <link ref="nt-heb" subref="nt-heb5" linktext="false">Hebr 5,8</link> 
+    <bzg>Εμαθεν ἀφ’ ὧν ἔμαθε</bzg> ἔμαϑεν ἀφ'ὧν ἔπαϑε, dt. er lernte aus dem, was er erlitt, <link ref="nt-heb" subref="nt-heb5" linktext="false">Hebr 5,8</link>; „ἔμαθε“ mit μ anstatt π wohl ein Druckfehler bei Roth oder eine Verschreibung Hamanns.
 </marginal>
 
 <marginal letter="523" page="5" line="10">
@@ -66951,17 +66955,15 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="5" line="17">
-    <bzg>Iß dein Brod&#x202F;…&#x202F;mit deinem Weibe</bzg> <link ref="at-pr" subref="at-pr9" linktext="false">Pred 9,7</link>
+    <bzg>Iß dein Brod&#x202F;…&#x202F;mit deinem Weibe</bzg> <link ref="at-pr" subref="at-pr9" linktext="false">Pred 9,7–9</link>
 </marginal>
 
 <marginal letter="523" page="5" line="22">
-    <bzg>Copir- und Rechnungs-Maschinen</bzg> Lavater hatte vom Prediger Hahn behauptet,
-    er könne sich vorstellen, wie Gott die Schöpfungsmaschine handhabe, die als
-    Leibnitzens compendiöser sei. ?!? oder siehe Brief 520: <link ref="leibniz" linktext="true" /> erfand eine Vier-Spezies-Rechenmaschine, die alle Grundrechenarten ausführen konnte. ?
+    <bzg>Copir- und Rechnungs-Maschinen</bzg> vgl. <intlink letter="520" page="395" line="20" linktext="true" />
 </marginal>
 
 <marginal letter="523" page="5" line="32">
-    <bzg>inneren Menschen</bzg> vgl. <intlink letter="520" page="396" line="12" linktext="true" />
+    <bzg>inneren Menschen</bzg> vgl. <intlink letter="520" page="396" line="11" linktext="true" />
 </marginal>
 
 <marginal letter="523" page="5" line="34">
@@ -66973,11 +66975,11 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="5" line="37">
-    <bzg>Gott der Todten</bzg> <link ref="nt-mt" subref="nt-mt22" linktext="false">Mt 22,32</link> 
+    <bzg>Gott der Todten&#x202F;…</bzg> <link ref="nt-mt" subref="nt-mt22" linktext="false">Mt 22,32</link> 
 </marginal>
 
 <marginal letter="523" page="6" line="2">
-    <bzg>Wird die Welt …</bzg> Anspielung an die letzte Strophe des Kirchenlieds von J. Burkhard „Mache dich mein Geist bereit“; vgl. <link ref="quandt" subref="quandt-sammlung" linktext="true" />, S.&#x202F;293f.
+    <bzg>Wird die Welt&#x202F;…</bzg> Anspielung auf die letzte Strophe des Kirchenlieds von J. Burkhard „Mache dich mein Geist bereit“; vgl. <link ref="quandt" subref="quandt-sammlung" linktext="true" />, S.&#x202F;293f.
 </marginal>
 
 <marginal letter="523" page="6" line="5">
@@ -66989,23 +66991,31 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="6" line="8">
-    <bzg>αὐτὴν τὴν εἰκόνα …</bzg> <link ref="nt-heb" subref="nt-heb10" linktext="false">Hebr 10,1</link>
+    <bzg>αὐτὴν τὴν εἰκόνα&#x202F;…</bzg> Dt. das eigentliche Bild der Dinge; <link ref="nt-heb" subref="nt-heb10" linktext="false">Hebr 10,1</link>, dort jedoch negiert.
+</marginal>
+
+<marginal letter="523" page="6" line="9">
+<bzg>Spiegel im Räthsel</bzg> <link ref="nt-kor1" subref="nt-kor1-13" linktext="false">1 Kor 13,12</link>
 </marginal>
 
 <marginal letter="523" page="6" line="10">
-    <bzg>τέλειον</bzg> dt.das Vollkommene; <link ref="nt-kor1" subref="nt-kor1-13" linktext="false">1 Kor 13,10</link>
+    <bzg>τέλειον</bzg> dt. das Vollkommene; <link ref="nt-kor1" subref="nt-kor1-13" linktext="false">1 Kor 13,10</link>
 </marginal>
 
 <marginal letter="523" page="6" line="12">
-    <bzg>τότε δὲ πρόσωπον …</bzg> <link ref="nt-kor1" subref="nt-kor1-13" linktext="false">1 Kor 13,12</link>
+    <bzg>τότε δὲ πρόσωπον&#x202F;…</bzg> Dt. […] dann aber [erkenne ich] von Angesicht zu Angesicht. Jetzt erkenne ich stückweise, dann aber werde ich erkennen, gleichwie ich erkannt bin; <link ref="nt-kor1" subref="nt-kor1-13" linktext="false">1 Kor 13,12</link>. – „πρότωπον“ und „ἐπιγνώσθην“ wohl Druckfehler bei Roth oder Verschreibungen Hamanns.
+</marginal>
+
+<marginal letter="523" page="6" line="21">
+    <bzg>Menschenkenntniß&#x202F;…</bzg> nach dem Untertitel der <link ref="lavater" subref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmente</titel></link>
 </marginal>
 
 <marginal letter="523" page="6" line="24">
-    <bzg>Tauben-Einfalt … Schlangenlist</bzg> <link ref="nt-mt" subref="nt-mt10" linktext="false">Mt 10,16</link>; zugleich Anspielung auf <link ref="hamann" subref="hamann-ehe" linktext="true" />
+    <bzg>Tauben-Einfalt&#x202F;…&#x202F;Schlangenlist</bzg> <link ref="nt-mt" subref="nt-mt10" linktext="false">Mt 10,16</link>; zugleich Anspielung auf <link ref="hamann" subref="hamann-ehe" linktext="true" />, N&#x202F;III, 201/21
 </marginal>
 
 <marginal letter="523" page="6" line="25">
-    <bzg>wir sind Gott  … des Lebens zum Leben</bzg> <link ref="nt-kor2" subref="nt-kor2-2" linktext="false">2 Kor 2,15f.</link> 
+    <bzg>wir sind Gott&#x202F;…&#x202F;des Lebens zum Leben</bzg> <link ref="nt-kor2" subref="nt-kor2-2" linktext="false">2 Kor 2,15f.</link> 
 </marginal>
 
 <marginal letter="523" page="6" line="30">
@@ -67017,12 +67027,19 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="6" line="34">
-    <bzg>Autorschaft</bzg> Aussichten in die Ewigkeit. In Briefen an Herrn Johann Georg Zimmermann, Königlich Großbrittannischer
-    Leibarzt in Hannover. Zürich 1768/78. ?!? ist das damit gemeint?
+    <bzg>ersten Autorschaft&#x202F;…&#x202F;Aussichten</bzg> <link ref="lavater" subref="lavater-aussichten" linktext="true" />, Bd.&#x202F;1 (1768) und Bd.&#x202F;2 (1769)
+</marginal>
+
+<marginal letter="523" page="6" line="35">
+<bzg>neueste Ausgabe&#x202F;…&#x202F;dritte Theil</bzg> <titel>Aussichten in die Ewigkeit</titel>, 2. Aufl. (1770) und Bd. 3 (1773)
+</marginal>
+
+<marginal letter="523" page="6" line="37">
+<bzg>Ende des Werks</bzg> 1778 erschien ein vierter Band der <titel>Aussichten in die Ewigkeit</titel> mit Anmerkungen, Zusätzen, Berichtigungen
 </marginal>
 
 <marginal letter="523" page="7" line="6">
-    <bzg>Jordan</bzg> <link ref="at-hi" subref="at-hi40" linktext="false">Hi 40,23</link> 
+    <bzg>Jordan&#x202F;…</bzg> <link ref="at-hi" subref="at-hi40" linktext="false">Hi 40,23</link> 
 </marginal>
 
 <marginal letter="523" page="7" line="7">
@@ -67030,43 +67047,35 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="7" line="9">
-    <bzg>Montagne</bzg> <link ref="montaigne" subref="montaigne-essays" linktext="true" />, 2. Buch, 17. Hauptstück
+    <bzg>Montagne</bzg> <link ref="montaigne" subref="montaigne-essays" linktext="true" />, 2. Buch, 17. Hauptstück, vgl. <intlink letter="468" page="247" line="22" linktext="true" />
 </marginal>
 
 <marginal letter="523" page="7" line="10">
-    <bzg>vir beatae memoriae</bzg> dt. ein Mann seligen Angedenkens
+    <bzg>vir beatae memoriae</bzg> dt. ein Mann seliger Erinnerung (bzw. Angedenkens)
 </marginal>
 
 <marginal letter="523" page="7" line="11">
-    <bzg>Volkslieder</bzg> [Hg] Schweizerlieder. Von einem Mitglied der helvetischen Gesellschaft zu Schinznach. Bern 1767. Biga
-    141/197. ?!?
+    <bzg>Volkslieder</bzg> vmtl. <link ref="lavater" subref="lavater-schweizerlieder" linktext="true" />
 </marginal>
 
-<marginal letter="523" page="7" line="12">
-    <bzg>vermischten Aufsätze … Hirtenbrief</bzg> ?!? u. J. C. Lavaters Schreiben an seine Freunde. Suche den Frieden und jag' ihm nach. Im März 1776. Verlegts
-    Heinrich Steiner und Comp. in Winterthur. ?!? ist das damit gemeint?
-  
+<marginal letter="523" page="7" line="12" sort="1">
+    <bzg>vermischten Aufsätze</bzg> vmtl. <link ref="lavater" subref="lavater-schriften" linktext="true" /> 
 </marginal>
 
-<marginal letter="523" page="7" line="13">
-    <bzg>Pfenningers Apologie</bzg>  [MV]Schreiben an seine Freunde. Nebst K. Pfenningers Appellation an den Menschenverstand. Frankfurt/
-    Leipzig. 1776.
+<marginal letter="523" page="7" line="12" sort="1">
+<bzg>Hirtenbrief&#x202F;…&#x202F;Pfenningers Apologie</bzg> <link ref="lavater" subref="lavater-freunde-pfenninger-menschenverstand" linktext="true" />
 </marginal>
 
 <marginal letter="523" page="7" line="14">
-    <bzg>Predigten</bzg> welche ?!? Vermischte Predigten. Frankfurt/Main 1770.
-    Predigten. Th 1. Breslau 1771.
-    Vermischte Predigten. Frankfurt 1773.
-    Die wesentliche Lehre des Evangeliums; die Gerechtigkeit durch den Glauben an Jesum Christum, in
-sechs Predigten über Apost. Gesch. X,43. Offenbach 1775.
+    <bzg>Predigten</bzg> mglw. <link ref="lavater-abendmahl" subref="lavater" linktext="true" />, vgl. <intlink letter="520" page="396" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="523" page="7" line="15">
-    <bzg>Recensionen</bzg> ?!?
+    <bzg>Recensionen</bzg> Mglw. ist <link ref="nicolai" linktext="false">Nicolais</link> Schrift <wwwlink address="https://books.google.de/books?id=gGQHAAAAQAAJ"><titel>Einige Zweifel über die Geschichte der Vergiftung des Nachtmahlweins</titel> (Berlin 1778)</wwwlink> gemeint.
 </marginal>
 
 <marginal letter="523" page="7" line="16" sort="1">
-    <bzg>Jonas</bzg> Predigten über das Buch Jonas. Gehalten in der Kirche am Waysenhaus. Die erste Hälfte. Zürich 1773. Gibt es eine zweite ?!?
+    <bzg>Jonas</bzg> <link ref="lavater" subref="lavater-jonas" linktext="true" />
 </marginal>
 
 <marginal letter="523" page="7" line="16" sort="2">
@@ -67074,15 +67083,15 @@ sechs Predigten über Apost. Gesch. X,43. Offenbach 1775.
 </marginal>
 
 <marginal letter="523" page="7" line="17">
-    <bzg>Parodie</bzg> Franz Alois Schumachers Isaac  ?!? wohl eher nicht
+    <bzg>Parodie</bzg> <link ref="bodmer" subref="bodmer-vater" linktext="true" />
 </marginal>
 
 <marginal letter="523" page="7" line="23">
-    <bzg>Physiognomik</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" /> 
+    <bzg>Physiognomik</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd.&#x202F;4
 </marginal>
 
 <marginal letter="523" page="7" line="24">
-    <bzg>14te Julius 1776</bzg> Vgl . <intlink letter="467" page="240" line="1" linktext="true" /> zu Hamanns erster Begegnung mit seinem Porträt in Lavaters Physiognomik
+    <bzg>14te Julius 1776</bzg> Zu Hamanns Reaktion auf sein Porträt in den <link ref="lavater" subref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmenten</titel></link>, Bd.&#x202F;2 am <intlink letter="467" page="240" line="1" linktext="false">14. Juli 1776</intlink> vgl. <intlink letter="467" page="240" line="34" linktext="true" />; sie fiel in die Zeit seiner schmerzhaften Arbeit am <link ref="hamann" subref="hamann-biga" linktext="true" />.
 </marginal>
 
 <marginal letter="523" page="7" line="27">
@@ -67098,7 +67107,7 @@ sechs Predigten über Apost. Gesch. X,43. Offenbach 1775.
 </marginal>
 
 <marginal letter="523" page="7" line="32">
-    <bzg>Mohr Ebedmelech</bzg> <link ref="at-jer" subref="at-jer38" linktext="false">Jer 38,7ff.</link>
+    <bzg>Mohr Ebedmelech</bzg> <link ref="at-jer" subref="at-jer38" linktext="false">Jer 38,7–12</link>
 </marginal>
 
 <marginal letter="523" page="7" line="35">
@@ -67122,7 +67131,7 @@ sechs Predigten über Apost. Gesch. X,43. Offenbach 1775.
 </marginal>
 
 <marginal letter="523" page="8" line="6">
-    <bzg>à la fortune du pot</bzg> dt. nimm vorlieb mit dem, was die Kelle hergibt
+    <bzg>à la fortune du pot</bzg> dt. nach dem, was der Topf hergibt
 </marginal>
 
 
