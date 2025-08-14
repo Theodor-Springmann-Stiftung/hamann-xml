@@ -1985,7 +1985,12 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="bondeli-fj" type="neuzeit">
 <lemma>Friedrich Julius Baron von Bondeli</lemma>
-<eintrag>1702–1771. Oberappellations-Gerichts- und Pupillen-Rat in Königsberg; Hamann wohnte bei ihm von Mitte August 1768–1770 im mittelsten Tragheim.</eintrag>
+<eintrag>1702–1771. Oberappellations-Gerichts- und Pupillen-Rat in Königsberg; Hamann wohnte bei ihm von Mitte August 1768 bis 1770 im mittelsten Tragheim; Vater von <link ref="bondeli" linktext="true" /> und <link ref="bondeli-fa" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="bondeli-fa" type="neuzeit">
+<lemma>Friedrich Albrecht Baron von Bondeli</lemma>
+<eintrag>1736–1783. Bruder von <link ref="bondeli" linktext="true" />, Offizier in preußischem Dienst, in der Schweiz.</eintrag>
 </kommentar>
 
 <kommentar id="borde" type="neuzeit">
@@ -10079,7 +10084,12 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
 <eintrag>
 <titel>Antwort an den Herrn Moses Mendelssohn von Johann Caspar Lavater. Nebst einer Nacherinnerung von Moses Mendelssohn</titel> (Berlin, Stettin: Nicolai 1770) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;119/301: „Des letzteren Antwort, nebst einer Nacherinnerung von Moses Mendelssohn, ib. eod.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10777516-5">BSB München: Polem. 3022,8</wwwlink>.</eintrag>
 </subsection>
-<subsection id="lavater-jonas" type="neuzeit" sort="20">
+<subsection id="lavater-predigten1773" type="neuzeit" sort="23">
+<lemma>Lavater, <titel>Vermischte Predigten</titel></lemma>
+<eintrag>
+<titel>Vermischte Predigten von Johann Caspar Lavater</titel> (Frankfurt und Leipzig: Brönner 1773). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10460318-1">BSB München: Hom. 807</wwwlink>.</eintrag>
+</subsection>
+<subsection id="lavater-jonas" type="neuzeit" sort="24">
 <lemma>Lavater, <titel>Predigten Ueber das Buch Jonas</titel></lemma>
 <eintrag>
 <titel>Predigten Ueber das Buch Jonas. Von Johann Caspar Lavater. Gehalten in der Kirche im Waysenhause. Die erste Hälfte</titel> (Zürich: Bürgli 1773) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;41/384: „J. C. Lavaters Predigten über das Buch Jonas, 1te Hälfte, Zür. 773.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11128772-2">BSB München: Hom. 2106 m</wwwlink>.</eintrag>
