@@ -66548,6 +66548,10 @@ Brief Nr. 519
     <bzg>dunkelm Worte</bzg> <link ref="nt-kor1" subref="nt-kor1-13" linktext="false">1 Kor 13,12</link>  
    </marginal>
 
+   <marginal letter="520" page="396" line="26">
+    <bzg>Weibchen</bzg> <link ref="lavater-a" linktext="true" />
+   </marginal>
+
    <marginal letter="520" page="396" line="29">
     <bzg>συμψυχοις</bzg> dt. Vertrauten, Seelenverwandten; vgl. <link ref="nt-phil" subref="nt-phil2" linktext="false">Phil 2,2</link> 
    </marginal>
@@ -67067,7 +67071,7 @@ Brief Nr. 522
 </marginal>
 
 <marginal letter="523" page="7" line="14">
-    <bzg>Predigten</bzg> mglw. <link ref="lavater-abendmahl" subref="lavater" linktext="true" />, vgl. <intlink letter="520" page="396" line="16" linktext="true" />
+    <bzg>Predigten</bzg> mglw. <link ref="lavater" subref="lavater-abendmahl" linktext="true" />, vgl. <intlink letter="520" page="396" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="523" page="7" line="15">
@@ -67126,6 +67130,10 @@ Brief Nr. 522
     <bzg>Lüsternheit</bzg> <link ref="at-sam2" subref="at-sam2-23" linktext="false">2 Sam 23,15</link>    
 </marginal>
 
+<marginal letter="523" page="7" line="37">
+    <bzg>Frau</bzg> <link ref="lavater-a" linktext="true" />
+</marginal>
+
 <marginal letter="523" page="8" line="2">
     <bzg>Fressern und Weinsäufern</bzg> <link ref="nt-mt" subref="nt-mt11" linktext="false">Mt 11,19</link>; <link ref="nt-lk" subref="nt-lk7" linktext="false">Lk 7,34</link>
 </marginal>
@@ -67138,11 +67146,11 @@ Brief Nr. 522
 Brief Nr. 524
 
 <marginal letter="524" page="8" line="12">
-    <bzg>Kaufmanns</bzg> Am 2. Februar 1778 heirateten <link ref="kaufmann-c" linktext="true" /> und <link ref="kaufmann-e" linktext="true" />
+    <bzg>Kaufmanns</bzg> <link ref="kaufmann-c" linktext="true" /> und <link ref="kaufmann-e" linktext="true" />heirateten am 2. Februar 1778.
 </marginal>
 
 <marginal letter="524" page="8" line="17">
-    <bzg>Erzautors … α γεγραφα γεγραφα</bzg> dt. was ich geschrieben habe, habe ich geschrieben; vgl.<link ref="nt-jo" subref="nt-jo19" linktext="false">Joh 19,22</link> und Brief 523
+    <bzg>Erzautors&#x202F;…&#x202F;α γεγραφα γεγραφα</bzg> Dt. was ich geschrieben habe, habe ich geschrieben; vgl.<link ref="nt-jo" subref="nt-jo19" linktext="false">Joh 19,22</link> und <intlink letter="523" page="4" line="19" linktext="true" />.
 </marginal>
 
 <marginal letter="524" page="8" line="19">
@@ -67153,8 +67161,12 @@ Brief Nr. 524
     <bzg>Weibchen</bzg> Anna Lavater, geb. Schinz (1742–1815)
 </marginal>
 
-<marginal letter="524" page="8" line="25">
-    <bzg>Netteli … Heinrich</bzg> Anna Lavater (1771–1852) u. Hans Heinrich Lavater (1768–1819)
+<marginal letter="524" page="8" line="28">
+    <bzg>corrigire physiognomischen Text</bzg> für die <link ref="lavater" subref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmenten</titel></link>, Bd.&#x202F;4
+</marginal>
+
+<marginal letter="524" page="8" line="31">
+    <bzg>Pfenninger</bzg> <link ref="pfenninger" linktext="true" />  
 </marginal>
 
 <marginal letter="524" page="8" line="31">
@@ -67162,23 +67174,27 @@ Brief Nr. 524
 </marginal>
 
 <marginal letter="524" page="9" line="1">
-    <bzg>Papilloten</bzg> Haarwickel
+    <bzg>Papilloten</bzg> Haarwickel, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Frisiren
 </marginal>
 
 <marginal letter="524" page="9" line="7">
-    <bzg>Bruder Doktor</bzg> wahrscheinlich Diethelm Lavater (1743–1826)
+    <bzg>Bruder Doktor</bzg> <link ref="lavater-d" linktext="true" />
 </marginal>
 
 <marginal letter="524" page="9" line="9">
-    <bzg>Brief</bzg> Brief Nr. 523
+    <bzg>Brief</bzg> <intlink letter="523" page="3" line="24" linktext="false">HKB 523</intlink>
 </marginal>
 
 <marginal letter="524" page="9" line="13">
     <bzg>N. Louisd’or</bzg> Frz. Goldmünze, entspricht ca. 5 Talern bzw. 9 Gulden.
 </marginal>
 
+<marginal letter="524" page="9" line="16">
+    <bzg>Hegi</bzg> Schloss Hegi, Wohnort <link ref="kaufman-c" linktext="false">Christoph Kaufmanns</link>
+</marginal>
+
 <marginal letter="524" page="9" line="18" sort="1">
-    <bzg>Asch</bzg> Baron Georg Thomas v. Asch (1729–1807), russ. Generalstabsarzt
+    <bzg>Asch</bzg> Baron Georg Thomas von Asch (1729–1807), russischer Generalstabsarzt
 </marginal>
 
 <marginal letter="524" page="9" line="18" sort="2">
@@ -67186,29 +67202,42 @@ Brief Nr. 524
 </marginal>
 
 <marginal letter="524" page="9" line="25" >
+    <bzg>Physiognomik</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmenten</titel></link>, Bd.&#x202F;4
+</marginal>
+
+<marginal letter="524" page="9" line="25" >
     <bzg>„Alle euere …</bzg> <link ref="nt-pet1" subref="nt-pet1-5" linktext="false">1 Petr 5,7</link> 
 </marginal>
 
 <marginal letter="524" page="9" line="34" >
-    <bzg>Physiognomik</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" /> 
+    <bzg>Physiognomik</bzg> <link ref="lavater" subref="lavater-fragmente" linktext="true" />, Bd. 4
 </marginal>
 
 <marginal letter="524" page="9" line="35" >
-    <bzg>Lichtenberg</bzg> vgl. Ueber Physiognomie; wider die
-    Physiognomen, in: Göttingischer Taschenkalender auf 1778, S. 1ff ?!? das gemeint?
+    <bzg>Witzler Lichtenberg&#x202F;</bzg> <link ref="lichtenberg" linktext="true" />
 </marginal>
 
-<marginal letter="524" page="10" line="8" >
-    <bzg>2. Brüder und Ehrmann</bzg> ?!? u. <link ref="ehrmann" linktext="true" />
+<bzg>wie er sagt&#x202F;…&#x202F;Thurmes</bzg> Lavater bezieht sich wohl auf die Stelle in Lichtenbergs <link ref="lichtenberg" subref="lichtenberg-physiognomik" linktext="false"><titel>Ueber Physiognomik; wider die Physiognomen</titel></link>, S.&#x202F;21f.; Lichtenbergs Polemik erschien zunächst im Herbst 1777 im <wwwlink address="https://musenalm.de/beitrag/132558">Goettinger Taschen Calender vom Jahr 1778</wwwlink>; vgl. auch <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/2587?page=7&#x26;comment=10244">JCLB</wwwlink>.
+
+<marginal letter="524" page="10" line="8" sort="1" >
+    <bzg>Kaufmann&#x202F;…&#x202F;Ehrmann</bzg> <link ref="kaufmann-c" linktext="true" /> und <link ref="ehrmann" linktext="true" />
+</marginal>
+
+<marginal letter="524" page="10" line="8" sort="2" >
+<bzg>2. Brüder</bzg> wohl keine leiblichen Brüder, sondern Johann Schweighäuser und Johann Friedrich Simon aus dem ‚Straßburger Brüderbund‘, vgl. <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/2587?page=8&#x26;comment=10252">JCLB</wwwlink>.
+</marginal>
+
+<marginal letter="524" page="10" line="20" >
+    <bzg>Kleinigkeiten</bzg> Beilagen nicht überliefert, mglw. Predigten, vgl. <intlink letter="520" page="396" line="17" linktext="true" />
 </marginal>
 
 <marginal letter="524" page="10" line="25" >
-    <bzg>Nachtmalvergifters</bzg> Im September 1776 traten nach der Spende des Abendmahlwein Vergiftungserscheinungen auf. Der Verdacht wurde auf <link ref="waser" linktext="true" /> gelenkt, der die Tat aber bestritt. Vgl. <link ref="lavater" subref="lavater-abendmahl" linktext="true" />
+    <bzg>Nachtmalvergifters</bzg> Im September 1776 traten nach der Spende des Abendmahlweins Vergiftungserscheinungen auf. Der Verdacht wurde auf <link ref="waser" linktext="true" /> gelenkt, der die Tat aber bestritt; Lavater griff das Ergeignis in den . <link ref="lavater" subref="lavater-abendmahl" linktext="false"><titel>Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins</titel></link> auf, vgl. <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/2587?page=10&#x26;comment=10247">JCLB</wwwlink>.
 </marginal>
 
 
-
 Brief Nr. 525
+
    <marginal letter="525" page="11" line="3">
     Der Hintergrund des Briefes lässt sich angesichts des Textverlusts und der schlechten Überlieferung nicht eruieren; Kaufmanns Antwort hier gingen aber einige ein nicht überlieferte Schreiben Hamanns voraus, vgl. <intlink letter="519" page="391" line="23" linktext="true" /> und <intlink letter="527" page="13" line="33" linktext="true" />. – Kaufmanns Brief ist wohl auf Anfang Januar 1778 oder davor zu datieren, da er um Zusendungen zu seiner Hochzeit bittet, die spätestens seit Anfang Januar 1778 für den 2. Februar angesetzt war (vgl. <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:32-1-10005858134">Düntzer: <titel>Christoph Kaufmann, der Kraftapostel der Geniezeit</titel>, S.&#x202F;87</wwwlink>).
    </marginal>

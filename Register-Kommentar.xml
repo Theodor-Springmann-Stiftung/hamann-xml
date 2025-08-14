@@ -10051,7 +10051,6 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
 <eintrag>Gest. 1793, Schwager von <link ref="hartknoch" linktext="true" /> und Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge.</link></eintrag>
 </kommentar>
 
-
 <kommentar id="lavalette" type="neuzeit">
 <lemma>Antoine de La Valette</lemma>
 <eintrag>1707–1767. Missionsleiter in den französischen Kolonien Mittelamerikas.</eintrag>
@@ -10120,6 +10119,26 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
     <eintrag>
     <titel>Pontius Pilatus. Oder Die Bibel im Kleinen und der Mensch im Großen</titel> (4 Bde. Zürich: Füeßli 1782–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271742-6">BSB München: B.hist. 155</wwwlink>.</eintrag>
     </subsection>
+</kommentar>
+
+<kommentar id="lavater-a" type="neuzeit">
+<lemma>Anna Lavater</lemma>
+<eintrag>1742–1815. Geb. Schinz, seit 1766 Ehefrau von <link ref="lavater" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="lavater-an" type="neuzeit">
+<lemma>Anna Lavater (Tochter)</lemma>
+<eintrag>1771–1852, auch Netteli genannt. Tochter von <link ref="lavater" linktext="false">Johann Caspar</link> und <link ref="lavater-a" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="lavater-d" type="neuzeit">
+<lemma>Diethelm Lavater</lemma>
+<eintrag>1743–1826. Apotheker und Arzt, Bruder von <link ref="lavater" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="lavater-jh" type="neuzeit">
+<lemma>Johann Heinrich Lavater</lemma>
+<eintrag>1768–1820, auch Heirli genannt. Sohn von <link ref="lavater" linktext="false">Johann Caspar</link> und <link ref="lavater-a" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="lavater-l" type="neuzeit">
@@ -10436,6 +10455,12 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 <kommentar id="lichtenberg" type="neuzeit">
 <lemma>Georg Christoph Lichtenberg</lemma>
 <eintrag>1742–1799. Satirischer Schriftsteller und Naturforscher in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118572172.html#ndbcontent">Wolfgang Proß und Claus Priesner: Georg Christoph Lichtenberg, in: <titel>NDB</titel>&#x202F;14 (1985), S.&#x202F;449–464.</wwwlink>.</eintrag>
+<subsection id="lichtenberg-physiognomik" type="neuzeit" sort="10">
+<lemma>Lichtenberg, <titel>Ueber Physiognomik; wider die Physiognomen</titel></lemma>
+<eintrag>
+<titel>Ueber Physiognomik; wider die Physiognomen. Zu Beförderung der Menschenliebe und Menschenkenntniß</titel> (Göttingen: Dieterich 1778, zuvor im <wwwlink address="https://musenalm.de/beitrag/132558">Goettinger Taschen Calender vom Jahr 1778, Göttingen: Dieterich 1777</wwwlink>). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10435502-4">BSB München: H.g.hum. 153 w#Beibd.1</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="lieberkuehn" type="neuzeit">
