@@ -45227,7 +45227,7 @@ Brief Nr. 377
 </marginal>
 
 <marginal letter="377" page="13" line="16" sort="4">
-<bzg>George Alphab. Tibet.</bzg> <link ref="georgi" subref="georgi-tibetanum" linktext="true" />
+<bzg>George Alphab. Tibet.</bzg> <link ref="georgi-aa" subref="georgi-tibetanum" linktext="true" />
 </marginal>
 
 <marginal letter="377" page="13" line="17">
@@ -68189,7 +68189,7 @@ Brief Nr. 536
 </marginal>
 
 <marginal letter="536" page="31" line="8">
-<bzg>Stuffenjahr</bzg> In jedem 7. Lebensjahr, genannt Stufenjahr oder annus climactericus (mitunter auch jedem 9.), sollen einer in Antike und Neuzeit weit verbreiteten Vorstellung zufolge „für das Leben und die Glücksumstände des Menschen leicht allerhand verhängnissvolle Fälle eintreten können“ <link ref="gellius" linktext="false">Gell. 3,10,9</link>; besonders bedeutend und mglw. verhängnisvoll soll dabei u.a. das 49. Jahr sein (7&#x202F;×&#x202F;7, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Stufenjahr).
+<bzg>Stuffenjahr</bzg> In jedem 7. Lebensjahr, genannt Stufenjahr oder annus climactericus (mitunter auch in jedem 9.), sollen einer in Antike und Neuzeit weit verbreiteten Vorstellung zufolge „für das Leben und die Glücksumstände des Menschen leicht allerhand verhängnissvolle Fälle eintreten können“ <link ref="gellius" linktext="false">Gell. 3,10,9</link>; besonders bedeutend und mglw. verhängnisvoll soll dabei u.a. das 49. Jahr sein (7&#x202F;×&#x202F;7, vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Stufenjahr).
 </marginal>
 
 <marginal letter="536" page="31" line="9">
@@ -69237,23 +69237,75 @@ Brief Nr. 543
 </marginal>
 
 <marginal letter="543" page="47" line="24" sort="2">
-<bzg>Ruß. Merkw.</bzg> 
+<bzg>Ruß. Merkw.</bzg> vmtl. <link ref="georgi-jg" subref="georgi-merkwurdigkeiten" linktext="true" />
 </marginal>
 
 <marginal letter="543" page="47" line="25" sort="1">
-<bzg>Toussaint</bzg> 
+<bzg>Toussaint</bzg> <link ref="toussaint-f" linktext="true" />
 </marginal>
 
 <marginal letter="543" page="47" line="25" sort="2">
-<bzg>Laval</bzg> 
+<bzg>Laval</bzg> <link ref="laval" linktext="true" />
 </marginal>
 
 <marginal letter="543" page="47" line="26">
-<bzg>Dictionnaire des Finances</bzg> 
+<bzg>Dictionnaire des Finances</bzg> wohl <link ref="buterne" subref="buterne-dictionaire-gabelle" linktext="true" />, vgl. <intlink letter="621" page="297" line="4" linktext="true" /> (Hamann wollte eigentlich das <link ref="pesselier" subref="pesselier-finances" linktext="false">Dictionnair von Pesselier</link>)
 </marginal>
 
 <marginal letter="543" page="47" line="27">
-<bzg>Gröll</bzg> 
+<bzg>Gröll</bzg> <link ref="groell" linktext="true" />
+</marginal>
+
+<marginal letter="543" page="48" line="4" sort="1">
+<bzg>Loge</bzg> wohl die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>
+</marginal>
+
+<marginal letter="543" page="48" line="4" sort="2">
+<bzg>Prof. Reusch</bzg> <link ref="reusch" linktext="true" />
+</marginal>
+
+<marginal letter="543" page="48" line="9">
+<bzg>Mysterien zu arbeiten</bzg> für <link ref="hamann" subref="hamann-konxompax" linktext="true" />
+</marginal>
+
+<marginal letter="543" page="48" line="10">
+<bzg>Dum moliuntur&#x202F;</bzg> Dt. während sie [die Frauen] sich vorbereiten, während sie sich zurechtmachen, [vergeht  ein Jahr], <link ref="terenz" subref="terenz-heaut" linktext="true" />, 240.
+</marginal>
+
+<marginal letter="543" page="48" line="13">
+<bzg>Das ist ein Tag&#x202F;</bzg> <link ref="at-koe2" subref="at-koe2-19" linktext="false">2 Kön 19,3</link>
+</marginal>
+
+<marginal letter="543" page="48" line="17" sort="1">
+<bzg>Stuffenjahr</bzg> Hamanns 49. Lebensjahr, vgl. zu <intlink letter="536" page="31" line="8" linktext="true" />
+</marginal>
+
+<marginal letter="543" page="48" line="17" sort="2">
+<bzg>seel. Bruders</bzg> <link ref="hamann-jc" linktext="true" />
+</marginal>
+
+<marginal letter="543" page="48" line="19">
+<bzg>Marianne Sophie</bzg> <link ref="hamann-ms" linktext="true" />
+</marginal>
+
+<marginal letter="543" page="48" line="20">
+<bzg>oben</bzg> Hartknochs Schreiben ist nicht überliefert.
+</marginal>
+
+<marginal letter="543" page="48" line="28">
+<bzg>Gott versteht mich</bzg> häufig wiederholter Ausspruch <link ref="cervantes" subref="cervantes-donquijote" linktext="false">Sancho Panzas</link>, nach <link ref="at-ps" subref="at-ps139" linktext="false">Ps 139,1</link>
+</marginal>
+
+<marginal letter="543" page="48" line="31">
+<bzg>Lieder der Liebe</bzg> <link ref="herder" subref="herder-lieder-liebe" linktext="true" />
+</marginal>
+
+<marginal letter="543" page="48" line="32">
+<bzg>21. ej</bzg> doch <intlink letter="539" page="38" line="9" linktext="false">HKB 539</intlink> gemeint?!? am 21. Januar angekommen? was bedeutet ej hier? oder ein überlieferter Brief Herders?
+</marginal>
+
+<marginal letter="543" page="48" line="">
+<bzg></bzg> 
 </marginal>
 
 

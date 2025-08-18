@@ -2577,6 +2577,17 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 </subsection>
 </kommentar>
 
+<kommentar id="buterne" type="neuzeit">
+<lemma>Buterne</lemma>
+<eintrag>Lebensdaten unbekannt.</eintrag>
+<subsection id="buterne-dictionaire-gabelle" type="neuzeit">
+<lemma>Buterne, <titel>Dictionnaire de législation, de jurisprudence, et de finances sur les gabelles de France</titel></lemma>
+<eintrag><titel>Dictionnaire de législation, de jurisprudence, et de finances sur les gabelles de France</titel> (Avignon 1764). Digitalisat: <wwwlink address="https://hdl.handle.net/2027/mdp.39015022421260">Hathi Trust</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+
+
 <kommentar id="butler" type="neuzeit">
 <lemma>Samuel Butler</lemma>
 <eintrag>1612–1680. Englischer satirischer Dichter während des Bürgerkriegs, siehe <wwwlink address="https://www.britannica.com/biography/Samuel-Butler-English-author-1612-1680">Encyclopaedia Britannica</wwwlink>.</eintrag>
@@ -5571,7 +5582,7 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 </subsection>
 </kommentar>
 
-<kommentar id="georgi" type="neuzeit">
+<kommentar id="georgi-aa" type="neuzeit">
 <lemma>Antonio Agostino Georgi</lemma>
 <eintrag>1711–1797. Ital. Theologe und Orientalist, Augustiner.
 </eintrag>
@@ -5579,6 +5590,17 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 <lemma>Georgi, <titel>Alphabetum Tibetanum missionum apostolicarum commodo editum</titel></lemma>
 <eintrag>
 <titel>Alphabetum Tibetanum missionum apostolicarum commodo editum</titel> […] (Rom 1762). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10903885-8">BSB München: Res/4 L.as. 305</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="georgi-jg" type="neuzeit">
+<lemma>Johann Gottlieb Georgi</lemma>
+<eintrag>1729–1802. Deutscher Geograph und Botaniker in St. Petersburg
+</eintrag>
+<subsection id="georgi-merkwurdigkeiten" type="neuzeit">
+<lemma>Georgi, <titel>Merkwürdigkeiten verschiedener unbekannten Völker des Rußischen Reichs</titel></lemma>
+<eintrag>
+<titel>Merkwürdigkeiten verschiedener unbekannten Völker des Rußischen Reichs. Mit Kupfern. Auszug aus Georgi’s Bemerkungen</titel> (Frankfurt, Leipzig 1777). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/95458">ULB Halle: Haa 3854</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -6156,6 +6178,12 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <kommentar id="groeben-wl" type="neuzeit">
 <lemma>Wilhelm Ludwig van der Groeben</lemma>
 <eintrag>1690–1760. 1745 bis 1751 Hofrichter in Königsberg, 1751 zum Minister ernannt. <titel>Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806/15</titel>, S.&#x202F;351.
+</eintrag>
+</kommentar>
+
+<kommentar id="groell" type="neuzeit">
+<lemma>Michael Gröll</lemma>
+<eintrag>1722–1798. Deutsch-polnischer Buchhändler in Warschau, siehe <wwwlink address="https://www.polacyzwyboru.pl/de/helden/biogramme/michael-gr--ll">den Artikel auf <titel>Polen aus freier Wahl</titel></wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -13139,6 +13167,17 @@ ej. (Fischeri) ib. (Lipsius) 761“.</eintrag>
 Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint, Diderot usw. 
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="pallas" type="neuzeit">
+<lemma>Peter Simon Pallas</lemma>
+<eintrag>1741–1811. Naturforscher, Professor der Naturgeschichte an der Petersburger Akademie, 1768–1774 Leiter der Sibirienexpedition, vgl. .
+.</eintrag>
+<subsection id="pallas-morduanen" type="neuzeit">
+<lemma>Pallas, <titel>Merkwürdigkeiten der Morduanen, Kasaken, Kalmücken, Kirgisen, Baschkiren etc.</titel></lemma>
+<eintrag>
+<titel>Merkwürdigkeiten der Morduanen, Kasaken, Kalmücken, Kirgisen, Baschkiren etc.: nebst andern dahin gehörigen Nachrichten, und Kupfern. Ein Auszug aus Pallas Reisen</titel> (Frankfurt, Leipzig 1773) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;86/191: „Merkwürdigkeiten der Morduanen, Kosaken, etc. Ein Auszug aus Pallas Reisen, Frft. 773.“]. Auszug aus <wwwlink address="https://gdz.sub.uni-goettingen.de/volumes/id/PPN32991345X">Pallas’ <titel>Reise durch verschiedene Provinzen des Rußischen Reichs (3 Tle., St. Petersburg 1771–1776)</titel></wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="palmstrauch" type="neuzeit">
