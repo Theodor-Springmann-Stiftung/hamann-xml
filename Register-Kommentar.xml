@@ -3607,7 +3607,7 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 
 <kommentar id="crichton" type="neuzeit">
 <lemma>Wilhelm Crichton</lemma>
-<eintrag>1732–1805. 1762 Leiter des reformierten Gymnasiums in Halle, ab 1772 Hofprediger in Königsberg, entwarf für die Burgschule die Instruktion, die die Philosophie anstelle der Theologie als Leitbild setzte; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100095674.html#adbcontent ">Schwarze: Cronegk, Crichton, Wilhelm, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;596f.</wwwlink> und <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135576-8">Dr. Wilhelm Crichton’s nachgelassene Schriften (Königsberg: Nicolovius 1806).</wwwlink>
+<eintrag>1732–1805. 1762 Leiter des reformierten Gymnasiums in Halle, ab 1772 Hofprediger in Königsberg, entwarf für die Burgschule die Instruktion, die die Philosophie anstelle der Theologie als Leitbild setzte; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100095674.html#adbcontent">Schwarze: Cronegk, Crichton, Wilhelm, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;596f.</wwwlink> und <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135576-8">Dr. Wilhelm Crichton’s nachgelassene Schriften (Königsberg: Nicolovius 1806).</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -5226,7 +5226,16 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 <titel>Extrat du Dictionaire historique et critique de Bayle, divisé en deux volumes avec une Preface</titel> (Berlin: Voss 1765) Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/en/details/bsb10773358">Stabi München: Polem. 924-1/2</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
 
+<kommentar id="friederike-schlieben" type="neuzeit">
+<lemma>Friederike von Schlieben</lemma>
+<eintrag>1757–1827 (Friederike Amalie Antonie Gräfin von Schlieben), heiratete 1780 <link ref="friedrich-schleswig" linktext="true" />. </eintrag>
+</kommentar>
+
+<kommentar id="friedrich-schleswig" type="neuzeit">
+<lemma>Friedrich Karl Ludwig von Schleswig-Holstein-Sonderburg-Beck</lemma>
+<eintrag>1757–1816. Preußischer Offizier und Herzog von Schleswig-Holstein-Sonderburg-Beck, heiratete 1780 <link ref="friedrike-schlieben" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="fritz" type="neuzeit">
@@ -8028,7 +8037,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <subsection id="hippel-ehe" type="neuzeit" sort="70">
 <lemma>Hippel, <titel>Ueber die Ehe</titel></lemma>
 <eintrag>
-<titel>Ueber die Ehe</titel> (anonym erschienen, Berlin: Voss 1774). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040854-7">BSB München: Ph.pr. 639 w</wwwlink>.
+<titel>Ueber die Ehe</titel> (anonym erschienen, zuerst Berlin: Voss 1774, mehrfach überarbeitet). Digitalisat 1. Aufl. (Berlin 1774): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040854-7">BSB München: Ph.pr. 639 w</wwwlink>. – 2. Aufl. (Berlin 1776): <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN672317710">SUB Göttingen</wwwlink>. – Ausgabe Frankfurt und Leipzig 1778: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040855-3">BSB München: Ph.pr. 639 x</wwwlink>. – 4. Aufl. Berlin 1793: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040856-8">BSB München: Ph.pr. 639 y</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="hippel-maurer" type="neuzeit" sort="70">
@@ -9095,7 +9104,7 @@ Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) 
 
 <kommentar id="kanter" type="neuzeit">
 <lemma>Johann Jakob Kanter</lemma>
-<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften) und Unternehmer in Königsberg, <wwwlink address="https://www.geonames.org/7532600">Elbing</wwwlink> (Filiale), <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink> (Druckerei) u. <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>, Lotteriedirektor, Papiermüller, Erbherr von <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>. Errichtete anstelle der Papiermühle eine Schriftgießerei u. eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; 1781 gab er die Buchhandlung an seinen Angestellten Wagner u. den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
+<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften) und Unternehmer in Königsberg, <wwwlink address="https://www.geonames.org/7532600">Elbing</wwwlink> (Filiale), <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink> (Druckerei) und <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>, Lotteriedirektor, Papiermüller, Erbherr von <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>. Errichtete anstelle der Papiermühle eine Schriftgießerei und eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; zum Niedergang seiner Unternehmungen, auch seines Buchladens in den späten 1770ern vgl. <intlink letter="545" page="54" line="11" linktext="false">HKB 545</intlink>; 1781 gab er die Buchhandlung an seinen Angestellten Wagner und den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
 Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Ort, den Hamann häufig besuchte, und wo er vielerlei Leute traf. Er wurde 1760 in Kanters väterlichem Haus in der Altstädtischen Langgasse 23 eröffnet und zog Ende August 1768 um in das nach dem großen Brand von 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2. Über dem Eingang hing ein großer Preußenadler und im Inneren standen Büsten einerseits von Pindar, Caesar, Tacitus, Plutarch und anderen, andererseits von Kant, Scheffner, Hippel, Lindner und anderen (vgl. <intlink letter="351" page="419" line="26" linktext="true" />); später ebenso ein Gemälde von Hamann (vgl. <intlink letter="398" page="68" line="20" linktext="true" />).</eintrag>
 </kommentar>
 
@@ -15032,7 +15041,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 
 <kommentar id="saturgus" type="neuzeit">
 <lemma>Friedrich Franz Saturgus</lemma>
-<eintrag>1728–1810. Kaufmann und Kommerzienrat in Königsberg. Besitzer einer großen Sammlung von Büchern, Bildern, Münzen, Altertümern und Naturalien.</eintrag>
+<eintrag>1728–1810. Kaufmann und Kommerzienrat in Königsberg. Mit seinem Bruder Adolf III. Saturgus der Erbe von Friedrich Saturgus, Besitzer des bekannten Suturgus’schen Gartens und einer großen Sammlung von Büchern, Bildern, Münzen, Altertümern und Naturalien. Sie kamen während der schlesischen Kriege zu immensem Reichtum, das Saturgus’sche Comtoire geriet aber bald in wirtschaftliche Schwierigkeiten und ging 1783 Konkurs, vgl. <wwwlink address="https://www.kant.uni-mainz.de/ikonographie/Ikont.PDF/T110.pdf">Gause: Der Grundbesitz der Familie Saturgus in Königsberg (1956)</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="saurin" type="neuzeit">
@@ -15783,7 +15792,7 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 
 <kommentar id="semler" type="neuzeit">
 <lemma>Johann Salomo Semler</lemma>
-<eintrag>1725–1791. Theologe und historisch-kritischer Bibelwissenschaftler, <wwwlink address="https://www.deutsche-biographie.de/sfz86038.html#adbcontent">Tschackert, P.: Semler, Johann Salomo, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;698–704</wwwlink>.</eintrag>
+<eintrag>1725–1791. Theologe und historisch-kritischer Bibelwissenschaftler, <wwwlink address="https://www.deutsche-biographie.de/sfz80023.html#ndbcontent">Fleischer, Dirk: Semler, Johann Salomo, in: <titel>NDB</titel>&#x202F;24 (2010), S.&#x202F;236f</wwwlink>.</eintrag>
 <subsection id="semler-historiae" type="neuzeit" sort="10">
 <lemma>Semler, <titel>Historiae ecclesiasticae selecta capita</titel></lemma>
 <eintrag>
@@ -17467,6 +17476,13 @@ Frz. Übers.: <titel>Retablissement des manufactures et du commerce d’Espagne.
 Auszüge von dessen frz. Übers. von Hamann ins Deutsche übers., siehe <link ref="hamann" subref="h-dangeuil" linktext="true" />.
 </eintrag>
 </subsection>
+</kommentar>
+
+
+<kommentar id="luise-ulrike" type="neuzeit">
+<lemma>Luise Ulrike von Preußen</lemma>
+<eintrag>1720–1782. Preußische Prinzessin (Schwester <link ref="friedrich-II" linktext="false">Friedrichs II.</link>), ab 1751 Königin von Schweden, nach dem Tod König Adolf Friedrichs 1771 verwittwete Königin und Mutter König Gustavs III.
+</eintrag>
 </kommentar>
 
 <kommentar id="unzer-ja" type="neuzeit">
