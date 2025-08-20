@@ -258,6 +258,24 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 </subsection>
 </kommentar>
 
+<kommentar id="albert" type="neuzeit">
+<lemma>Heinrich Albert</lemma>
+<eintrag>1604–1651. Domorganist in Königsberg, Mitglied des Königsberger Dichterkreises „Kürbishütte“, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz284.html#ndbcontent">Dadelsen, Georg von: Albert, Heinrich, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;138f.</wwwlink></eintrag>
+<subsection id="albert-lieder" type="neuzeit">
+<lemma>Albert, <titel>Lieder</titel></lemma>
+<eintrag>
+<titel>Arjen oder Melodeyen etlicher theils Geistlicher, theils Weltlicher, zu gutten Sitten vnd Lust dienender Lieder</titel> (8&#x202F;Bde., Königsberg: Segebad 1638–1650) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;130/5: „Henr. Alberti Arien und Lieder
+def.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00084935-9">BSB München: 2 Mus.pr. 99</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="albert-kurbshutte" type="neuzeit">
+<lemma>Albert, <titel>Musicalische Kürbs Hütte</titel></lemma>
+<eintrag>
+<titel>Musicalische Kürbs Hütte Welche vns erinnert Menschlicher Hinfälligkeit geschrieben vnd In 3. Stimmen gesetzt Heinrich Alberten</titel> (Königsberg: Pascha Mense 1645). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00084943-4">BSB München: 2 Mus.pr. 99#Beibd.8</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="alembert" type="neuzeit">
 <lemma>Jean-Baptiste-le-Rond d’Alembert</lemma>
 <eintrag>1717–1783. Frz. Philosoph in Paris, Mitherausgeber der <link ref="encyclopedie" linktext="false"><titel>Encyclopédie</titel></link>, Mitglied der frz. Akademie. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;1, 1811), S.&#x202F;482–488.</eintrag>
@@ -2136,7 +2154,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="brahl" type="neuzeit">
 <lemma>Johann Brahl</lemma>
-<eintrag>1753–1812. Schriftsteller und Stadtinspektor in Königsberg; zunächst Nädlermeister, später Redakteur, Kalkulator und Einnehmer; vgl. <wwwlink address="https://books.google.de/books?id=EctbAAAAcAAJ">Gieseke Handbuch für Dichter und Litteratoren (Magdeburg 1793), I, S.&#x202F;216</wwwlink>. Sohn des Nädlers Gottfried Brahl und von Gertrud Brahl (geb. Miltz.</eintrag>
+<eintrag>1753–1812. Schriftsteller und Stadtinspektor in Königsberg; zunächst Nädlermeister, später Redakteur, Kalkulator und Einnehmer; vgl. <wwwlink address="https://books.google.de/books?id=EctbAAAAcAAJ">Gieseke Handbuch für Dichter und Litteratoren (Magdeburg 1793), I, S.&#x202F;216</wwwlink>. Sohn des Nädlers Gottfried Brahl und von Gertrud Brahl (geb. Miltz).</eintrag>
 </kommentar>
 
 <kommentar id="breitinger" type="neuzeit">
@@ -5235,7 +5253,7 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 
 <kommentar id="friedrich-schleswig" type="neuzeit">
 <lemma>Friedrich Karl Ludwig von Schleswig-Holstein-Sonderburg-Beck</lemma>
-<eintrag>1757–1816. Preußischer Offizier und Herzog von Schleswig-Holstein-Sonderburg-Beck, heiratete 1780 <link ref="friedrike-schlieben" linktext="true" />.</eintrag>
+<eintrag>1757–1816. Preußischer Offizier und Herzog von Schleswig-Holstein-Sonderburg-Beck, heiratete 1780 <link ref="friederike-schlieben" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="fritz" type="neuzeit">
@@ -8758,6 +8776,12 @@ J
 </subsection>
 </kommentar>
 
+<kommentar id="jordan" type="neuzeit">
+<lemma>Johann Gottfried Jordan</lemma>
+<eintrag>1753–1822. Hauslehrer, seit 1778 Pfarrer in <wwwlink address="https://www.geonames.org/868651">Walterkemen</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="jortin" type="neuzeit">
 <lemma>John Jortin</lemma>
 <eintrag>1698–1770. Englischer Kirchenhistoriker.
@@ -8941,6 +8965,11 @@ K
 </subsection>
 </kommentar>
 
+<kommentar id="kalnein" type="neuzeit">
+<lemma>Leopold Friedrich Stanislaus Leopold von Kalnein</lemma>
+<eintrag>1737–1818. Ab 1786 Graf und Erbherr auf Kilgis und Park.</eintrag>
+</kommentar>
+ 
 <kommentar id="kames" type="neuzeit">
 <lemma>Henry Home Kames</lemma>
 <eintrag>1696–1782. Schott. Jurist und Moralphilosoph, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118774832.html">Deutsche Biographie</wwwlink>.
@@ -16475,6 +16504,11 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <eintrag>
 <titel>Fabeln und Erzählungen zur Bildung des Witzes und der Sitten der Letten nach ihrer Denkungs- und Mundart abgefaßt von Gotthard Friedrich Stender, Pastor und der Königlich-Deutschen Gesellschaft zu Göttingen ordentlichen Mitgliede</titel> (Mitau 1766). Vgl. zu dem Buch, mit einigen Textbeispielen, Anna Behrskaln: G. F. Stenders lettische Fabeln und Erzählungen, in: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:kobv:11-714783 ">Zeitschrift des Vereins für Volkskunde, Jg. 1923/24, 2. H., 95–103.</wwwlink></eintrag>
 </subsection>
+<subsection id="stender-gedanken-lavater" type="neuzeit" sort="40">
+<lemma>Stender, <titel>Gedanken über die lavaterische Aussichten in die Ewigkeit</titel></lemma>
+<eintrag>
+<titel>Gedanken über die lavaterische Aussichten in die Ewigkeit. In Briefem am Se. Hochwohlgeb. Hrn Landeshauptmann von B.***</titel> (Riga: Hartknoch 1771). Digitalisat: <wwwlink address="https://stenders.lndb.lv/en/57864">Lettische Nationalbibliothek: RB/704</wwwlink></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="sterne" type="neuzeit">
@@ -17413,6 +17447,11 @@ Im Anhang sind sieben Gedichte von <link ref="lindner-jg" linktext="true" /> abg
 <titel>Mémoires pour servir à l’histoire de la vie et des ouvrages de Monsieur de la Mothe et de Mons. de Fontenelle</titel> (Amsterdam 1761). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10063221-0">BSB München: Biogr. 415</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="tschepius" type="neuzeit">
+<lemma>Samuel Ernst Tschepius</lemma>
+<eintrag>Geb. 1704. Unterbibliothekar der Wallenrodtschen Bibliothek, siehe <wwwlink address="http://d-nb.info/gnd/1033524832">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="tscherning" type="neuzeit">
@@ -18887,6 +18926,18 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <lemma>Christoph Georg von Ziegenhorn</lemma>
 <eintrag>1714–1783. Justizrat in Königsberg, siehe <wwwlink address="https://bbld.de/0000000050515548">BBLd</wwwlink>.
 </eintrag>
+<subsection id="ziegenhorn-staatsrecht-kurland" type="neuzeit" sort="10">
+<lemma>Ziegenhorn, <titel>Staatsrecht der Herzogthümer Curland und Semgallen</titel></lemma>
+<eintrag>
+<titel>Staatsrecht der Herzogthümer Curland und Semgallen</titel> (Königsberg: Kanter 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11202941-3">BSB München: 2 Stw 344</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="ziegenhorn-kurland-zusatze" type="neuzeit" sort="20">
+<lemma>Ziegenhorn, <titel>Zusätze zum curländischen Staatsrecht</titel></lemma>
+<eintrag>
+<titel>Zusätze zum curländischen Staatsrecht</titel> (Frankfurt 1776). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/10AEF582">ÖNB Wien: 27.B.5.(Vol.2) ALT PRUNK</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
  
  <kommentar id="ziegler-a" type="neuzeit">
@@ -18957,7 +19008,7 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 
 <kommentar id="zitterland" type="neuzeit">
 <lemma>Johann Wilhelm Zitterland</lemma>
-<eintrag>1755–1838. Evangelischer Theologe, Hofmeister und Feldprediger in Mewe; Freund <link ref="penzel" linktext="false">Penzels</link> (vgl. <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, S.&#x202F;91</link>).</eintrag>
+<eintrag>1755–1838. Evangelischer Theologe, Hofmeister und Feldprediger in <wwwlink address="https://www.geonames.org/7533553">Mewe</wwwlink>; Freund <link ref="penzel" linktext="false">Penzels</link> (vgl. <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel>, S.&#x202F;91</link>).</eintrag>
 </kommentar>
 
 <kommentar id="zoepfel" type="neuzeit">
