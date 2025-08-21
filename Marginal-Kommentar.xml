@@ -57346,15 +57346,15 @@ Brief Nr. 458
 Brief Nr. 459
 
 <marginal letter="459" page="211" line="31">
-<bzg>6 Sept. p. …</bzg> praeterito, also des vorausgehenden Jahres, vgl. <intlink letter="456" page="206" line="30" linktext="false">HKB 456</intlink>
+<bzg>6 Sept. p.&#x202F;…</bzg> praeterito, also des vorausgehenden Jahres, vgl. <intlink letter="456" page="206" line="30" linktext="false">HKB 456</intlink>
 </marginal>
 
 <marginal letter="459" page="211" line="33">
-<bzg>Freundin</bzg> <link ref="herder-cd-g" linktext="true" /> in <wwwlink address="https://www.geonames.org/3091462">Morąg</wwwlink>
+<bzg>Freundin</bzg> <link ref="herder-cd-g" linktext="true" /> in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>
 </marginal>
 
 <marginal letter="459" page="212" line="1">
-<bzg>Einlage … huj.</bzg> huius, d.i. diesen Monats; vgl. <intlink letter="458" page="211" line="12" linktext="true"/>
+<bzg>Einlage&#x202F;…&#x202F;huj.</bzg> huius, d.i. diesen Monats; vgl. <intlink letter="458" page="211" line="12" linktext="true"/>
 </marginal>
 
 <marginal letter="459" page="212" line="4">
@@ -69718,11 +69718,11 @@ Brief Nr. 545
 <bzg>Lavaters Correspondenz mit Stender</bzg> Gadebusch druckte Streitbriefe zwischen <link ref="stender" linktext="true" /> und Lavater über dessen <link ref="lavater" subref="lavater-aussichten" linktext="false"><titel>Aussichten in die Ewigkeit</titel></link> und die Gegenschrift <link ref="stender" subref="stender-gedanken-lavater" linktext="false"><titel>Gedanken über die lavaterische Aussichten in die Ewigkeit</titel></link> im Artikel zu Stender in der <link ref="gadebusch" subref="gadebusch-bibliothek" linktext="false"><titel>Lievländischen Bibliothek</titel></link>, Tl.&#x202F;3, S.&#x202F;207–212 ab.
 </marginal>
 
-<marginal letter="545" page="55" line="32">
-<bzg>Dachs Werke</bzg> Die Werke von <link ref="dach" linktext="true" />; Herder bat darum, vgl. <intlink letter="539" page="42" line="7" linktext="true" />.
+<marginal letter="545" page="55" line="32" sort="1">
+<bzg>Dachs Werke</bzg> Die Werke von <link ref="dach" linktext="true" />; Herder bat darum im Kontext seiner <link ref="herder" subref="herder-volkslieder" linktext="false">Volkslied-Sammlungen</link>, vgl. <intlink letter="539" page="42" line="7" linktext="true" />.
 </marginal>
 
-<marginal letter="545" page="55" line="32">
+<marginal letter="545" page="55" line="32" sort="2">
 <bzg>Antiquarium</bzg> nicht ermittelt?!?
 </marginal>
 
@@ -69731,7 +69731,7 @@ Brief Nr. 545
 </marginal>
 
 <marginal letter="545" page="55" line="33" sort="2">
-<bzg>Duplum&#x202F;…&#x202F;Alberti Liedern</bzg> doppelte Exemplare von <link ref="albert" subref="albert-lieder" linktext="true" />
+<bzg>Duplum&#x202F;…&#x202F;Alberti Liedern</bzg> Doppelte Exemplare von <link ref="albert" subref="albert-lieder" linktext="true" />; darin waren auch Gedichte Simon Dachs enthalten.
 </marginal>
 
 <marginal letter="545" page="55" line="34">
@@ -69779,15 +69779,15 @@ Brief Nr. 545
 </marginal>
 
 <marginal letter="545" page="56" line="16">
-<bzg>Dachs&#x202F;beyl. ausdrückl. Sterblieder</bzg> <link ref="dach" linktext="true" />, vgl. den Anhang zu diesem Brief und Herders Bitte in <intlink letter="539" page="42" line="7" linktext="true" />.
+<bzg>Dachs&#x202F;beyl. ausdrückl. Sterblieder</bzg> <link ref="dach" linktext="true" />, vgl. die Erklärung im <intlink letter="545" page="475" line="33" linktext="false">Anhang zu diesem Brief</intlink>.
 </marginal>
 
 <marginal letter="545" page="56" line="19">
-<bzg>neueste u stärkere Samml. der Gedichte</bzg> ?!?
+<bzg>neueste u stärkere Samml. der Gedichte</bzg> Hamann sammelte offenbar gemeinsam mit Kreutzfeld Dach-Gedichte für eine zu erstellende Sammlung (vgl. <intlink letter="545" page="476" line="3" linktext="true" />), eine solche erschien jedoch nie. 
 </marginal>
 
 <marginal letter="545" page="56" line="21">
-<bzg>wenn Ihnen was daran gelegen seyn sollte</bzg> 
+<bzg>wenn Ihnen was daran gelegen seyn sollte</bzg> Herders antwort?!?
 </marginal>
 
 <marginal letter="545" page="56" line="">
@@ -69854,12 +69854,99 @@ Brief Nr. 545
 <bzg></bzg> 
 </marginal>
 
-<marginal letter="545" page="56" line="">
-<bzg></bzg> 
+
+
+Brief Nr. 545 Anhang
+
+<marginal letter="545" page="474" line="29">
+<bzg>Geistl. Sterbelied&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;3, Nr. 13: „Mein Abschied aus der bösen Welt“,
 </marginal>
 
-<marginal letter="545" page="56" line="">
-<bzg></bzg> 
+<marginal letter="545" page="475" line="72">
+<bzg>Trostlied&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;3, Nr. 7: „Ach ja, Ihr habt mit recht zu flehen“
+</marginal>
+
+<marginal letter="545" page="475" line="121">
+<bzg>Trostliedchen&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;3, Nr. 164: „Am allerbesten ist es zwar“,
+</marginal>
+
+<marginal letter="545" page="475" line="179">
+<bzg>Christl. Freudigkeit&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;3, Nr. 168: „Ich muß aus diesem Leben“
+</marginal>
+
+<marginal letter="545" page="475" line="217">
+<bzg>Omnia possideat&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;3, Nr. 208: „Die Selige Ewigkeit“
+</marginal>
+
+<marginal letter="545" page="475" line="266">
+<bzg>Trostliedchen&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;3, Nr. 212: „Dein ist, Gott, der Erden Kreis“
+</marginal>
+
+<marginal letter="545" page="475" line="308">
+<bzg>Lebens- und Todeskampf&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;4, Nr. 6: „Muß der Mensch nicht stets in Pein“
+</marginal>
+
+<marginal letter="545" page="475" line="365">
+<bzg>Einfältiges Trostliedchen&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;4, Nr. 33: „Gott, zu dem ich sehnlich bete“
+</marginal>
+
+<marginal letter="545" page="475" line="417">
+<bzg>Trostliedchen&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;4, Nr. 81: „Gott unsre Zuversicht“
+</marginal>
+
+<marginal letter="545" page="475" line="472">
+<bzg>Christliches Sterbelied&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;4, Nr. 136: „Wo will es hin mit meinem Herzen“
+</marginal>
+
+<marginal letter="545" page="475" line="518">
+<bzg>Christliches Sterbelied&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;4, Nr. 240: „In allen deinen Sachen“
+</marginal>
+
+<marginal letter="545" page="475" line="537">
+<bzg>Christliches Grabelied&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;4, Nr. 234: „O welcher doch den Tod für allen“
+</marginal>
+
+<marginal letter="545" page="475" line="574">
+<bzg>Herzliches Bet- und Danklied&#x202F;…</bzg> vgl. <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;3, Nr. 206: „Wir armen Leute meinen“
+</marginal>
+
+
+
+
+<marginal letter="545" page="475" line="2">
+<bzg>Ausgabe&#x202F;…&#x202F;696</bzg> <link ref="dach" subref="dach-werke1696" linktext="true" />
+</marginal>
+
+<marginal letter="545" page="475" line="3" sort="1">
+<bzg>Wittwe</bzg> <link ref="dach-r" linktext="true" />
+</marginal>
+
+<marginal letter="545" page="475" line="3" sort="2">
+<bzg>Vorrede&#x202F;…&#x202F;verspricht</bzg> vgl. <link ref="dach" subref="dach-werke1696" linktext="true" />, Vorrede, S.&#x202F;[3]
+</marginal>
+
+<marginal letter="545" page="475" line="17">
+<bzg>überschickten alten Ausgabe von 1681</bzg> die Sammlung panegyrischer Lyrik <link ref="dach" subref="dach-werke1681" linktext="true" />
+</marginal>
+
+<marginal letter="545" page="475" line="23">
+<bzg>Cleomedes&#x202F;…&#x202F;Entwurf der Sorbuisa</bzg> vgl. <link ref="dach" subref="dach-werke1696" linktext="true" />, S.&#x202F;[197–231 u. 232–243]
+</marginal>
+
+<marginal letter="545" page="475" line="28">
+<bzg>Ihn kennen &#x202F;</bzg> vgl. <link ref="dach" subref="dach-werke1696" linktext="true" />, S.&#x202F;[262]
+</marginal>
+
+<marginal letter="545" page="475" line="33">
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />, vgl. <intlink letter="545" page="56" line="15" linktext="true" />
+</marginal>
+
+<marginal letter="545" page="476" line="3">
+<bzg>Bartsch</bzg> <link ref="bartsch" linktext="true" />, Registrator des Stadtarchivs in Königsberg, sammelte einst Simon Dachs Gedichte, vgl. <link ref="gadebusch" subref="gadebusch-bibliothek" linktext="true" />, Bd.&#x202F;1, S.&#x202F;30; Hamann suchte offenbar in dessen Nachlass für eine zu erstellende Sammlung von Dach-Gedichten, vgl. <intlink letter="545" page="56" line="20" linktext="true" />.
+</marginal>
+
+<marginal letter="545" page="476" line="4">
+<bzg>Gottscheden&#x202F;…&#x202F;überschickt</bzg> In <link ref="acta-borussica" linktext="true" />, Bd.&#x202F;2, S.&#x202F;945 wird in einem Aufriss zur Sammlung von Dach-Gedichten erwähnt, der verstorbene <link ref="bartsch" linktext="true" /> habe seine Sammlung an <link ref="gottsched" linktext="true" /> nach Leipzig gesandt; dieser erklärte allerdings später, die Sendung nie erhalten zu haben, vgl. <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN556860969_0010"><titel>Neuer Büchersaal der schönen Wissenschaften und freyen Künste</titel></wwwlink>, Bd.&#x202F;10/1 (1750), S.&#x202F;151. – Auf die <titel>Acta Borussica</titel> verweist übrigens auch <link ref="gadebusch" subref="gadebusch-bibliothek" linktext="true" />, Bd.&#x202F;1, S.&#x202F;30.
 </marginal>
 
 </marginalien>

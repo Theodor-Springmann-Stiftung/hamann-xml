@@ -10264,19 +10264,11 @@ Vor dem Entwurf an Witwe Blom notierte sich Hamann einen weiteren, den er dann a
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VI
 				59–73.<line type="break" /> ZH IV 50&#x2009;f., Nr. 545. </app>
 			<app ref="9">
-				<note>Dem Brief lagen Gedichte von Simon Dach in Abschriften von Hamanns Hand bei (vgl. HKB
-					545 [IV 56/16]). Provenienz: Stabi Berlin Nachlass Johann Gottfried Herder, Kapsel 32 des Herder-Nachlasses,
-					12 Quartblätter (vgl. dazu <link ref="irm-h-1960" linktext="false">Irmscher: Handschriften Hamanns im Nachlaß Herders</link>, S.&#x202F;111–117).<line type="break" /> Wie Hamann im Anhang erwähnt (vgl. HKB 545, Anhang
-					[IV 475/33–476/7]), besteht die Grundlage für die Abschriften vmtl. in Einzeldrucken und
+				<note>Dem Brief lagen Gedichte von <link ref="dach" linktext="true" /> in Abschriften von Hamanns Hand bei (vgl. <intlink letter="545" page="56" line="16" linktext="true" />), um die Herder im Kontext seiner <link ref="herder" subref="herder-volkslieder" linktext="false">Volkslied-Sammlungen</link> bat, vgl. <intlink letter="539" page="42" line="7" linktext="true" />. Provenienz: Stabi Berlin, Nachlass Johann Gottfried Herder, Kapsel 32,
+					12 Quartblätter (vgl. dazu <link ref="irm-h-1960" linktext="false">Irmscher: Handschriften Hamanns im Nachlaß Herders</link>, S.&#x202F;111–117).<line type="break" /> Wie Hamann im Anhang erwähnt (vgl. <intlink letter="545" page="475" line="3" linktext="false">HKB 545, Anhang
+					IV 475/33–476/7</intlink>), besteht die Grundlage für die Abschriften vmtl. in Einzeldrucken und
 					Abschriften, die in Königsberg zirkulierten. Der Text der Abschriften stimmt bis auf
-					gelegentliche Abweichungen überein mit Ziesemers Dach-Edition: Simon Dach, Gedichte. Hg.
-					von Walther Ziesemer. Halle/Saale 1936–38, III, Nr. 13, 7, 164, 168, 208, 212; IV, Nr. 6,
-					33, 81, 136, 240, 234; III, Nr. 206. Überschriften: „Mein Abschied aus der bösen Welt“,
-					„Ach ja, Ihr habt mit recht zu flehen“, „Am allerbesten ist es zwar“, „Ich muß aus diesem
-					Leben“, „Die Selige Ewigkeit“, „Dein ist, Gott, der Erden Kreis“, „Muß der Mensch nicht
-					stets in Pein“, „Gott, zu dem ich sehnlich bete“, „Gott unsre Zuversicht“, „Wo will es hin
-					mit meinem Herzen“, „In allen deinen Sachen“, „O welcher doch den Tod für allen“, „Wir
-					armen Leute meinen“.</note>
+					gelegentliche Abweichungen überein mit der Edition <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="474" autopsic="474" />
@@ -10793,7 +10785,7 @@ Vor dem Entwurf an Witwe Blom notierte sich Hamann einen weiteren, den er dann a
 						fährt dahin im grauen Haar. <line type="empty" />
 <line index="574" autopsic="574" /><ul>Herzliches
 						Bet- und Danklied</ul> wegen der neuerbauten Sackheimschen Kirche unter <line
-							index="575" autopsic="575" />der Person des M. Neuschilling’s Dieners am am Göttl.
+							index="575" autopsic="575" />der Person des M. Neuschilling’s Dieners am Göttl.
 						Worte daselbst, welcher sich um <line index="576" autopsic="576" />diese neue Kirche der
 						er sich mit großer Sorgfalt angenommen höchst verdient <line index="577" autopsic="577" />gemacht.
 						Den 22 <aq>Aug.</aq> 1649. &#x2003; <aq>NB.</aq> Aus <ul>einer blaßen <aq>Copie.</aq></ul>
@@ -10946,7 +10938,7 @@ Vor dem Entwurf an Witwe Blom notierte sich Hamann einen weiteren, den er dann a
 							autopsic="2" />den Titel von Liedern führen. Das 12 ist aus einer bloßen Abschrift <line
 							index="3" autopsic="3" />genommen die nicht zu <aq>correct</aq> war. Der
 						schwärmerische Kopf Bartsch <line index="4" autopsic="4" />hier hat <ul>dem Gottscheden
-						alle <aq>Opera</aq></ul><aq> Vid. 3. Acta Borussica</aq> zur <line index="5"
+						alle <aq>Opera</aq></ul><aq> <edit ref="8455">Vid.</edit> Acta Borussica</aq> zur <line index="5"
 							autopsic="5" />Ausgabe überschickt. Ich sollte auch meynen, daß alles auf der <line
 							index="6" autopsic="6" /><ul>Altstädtschen Bibliothek</ul> auch da seyn müste u bey
 						Bartschens Erben <line index="7" autopsic="7" />vielleicht noch Familienstücke liegen.</edit>

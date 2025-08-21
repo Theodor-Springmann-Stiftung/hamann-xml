@@ -83,6 +83,11 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 </subsection>
 </kommentar>
 
+<kommentar id="acta-borussica" type="neuzeit">
+<lemma>Acta Borussica</lemma>
+<eintrag><titel>Acta Borussica ecclesiastica, civilia, literaria oder sorgfältige Sammlung allerhand zur Geschichte des Landes Preussen gehöriger Nachrichten, Uhrkunden, Schrifften und Documenten</titel> (Königsberg, Leizig: Eckart 1730–1733). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10012438-3">BSB München: Bor. 6 m</wwwlink>, siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1059587769">ZDB</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="acta-litteraria" type="neuzeit">
 <lemma>Acta litteraria</lemma>
 <eintrag>1764–1772, Bde. 1-7, Altenburg: Richter. Hg. von <link ref="klotz" linktext="true" />. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10539777-2">München, Bayerische Staatsbibliothek: Eph.lit. 127-1</wwwlink>.</eintrag>
@@ -916,6 +921,11 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 <kommentar id="barckhausen" type="neuzeit">
 <lemma>Heinrich Ludwig Willibald Barckhausen</lemma>
 <eintrag>1742–1813. Preußischer Jurist (Dr. jur., 1770 Kriegs- und Domänenrat in Hohenstein) und gelegentlicher Schriftsteller und Übersetzer, siehe <wwwlink address="https://d-nb.info/gnd/104356936">GND</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="bartsch" type="neuzeit">
+<lemma>Heinrich Bartsch</lemma>
+<eintrag>1667–1728. Registrator des Stadtarchivs in Königsberg, siehe <link ref="gadebusch" subref="gadebusch-bibliothek" linktext="true" />, Bd.&#x202F;1, S.&#x202F;29 und <link ref="acta-borussica" linktext="true" />, Bd.&#x202F;1, S.&#x202F;923–931.</eintrag>
 </kommentar>
 
 <kommentar id="basedow" type="neuzeit">
@@ -3702,14 +3712,28 @@ D
 
 <kommentar id="dach" type="neuzeit">
 <lemma>Simon Dach</lemma>
-<eintrag>1605–1659. Deutschsprachiger Lyriker der Barockzeit. 1639 Prof. der Poesie in Königsberg, führendes Mitglied des Königsberger Dichterkreises ‚Kürbishütte‘. Vgl. auch Axel E. Walter, <titel>Simon Dach (1605–1659). Werk und Nachwirken</titel> (Tübingen 2008).<line type="break" />
-Biga&#x202F;131/19: „Sim. Dach’s poetische Werke, Königsb. 696.“</eintrag>
+<eintrag>1605–1659. Deutschsprachiger Lyriker der Barockzeit. 1639 Professor der Poesie in Königsberg, führendes Mitglied des Königsberger Dichterkreises ‚Kürbishütte‘, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118720961.html#ndbcontent">Flemming, Willi: Dach, Simon, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;464f.</wwwlink>. Zur Geschichte der Sammlung seiner Gedichte vgl. die Einleitung in <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>, Bd.&#x202F;1.; zu Dach außerdem Axel E. Walter, <titel>Simon Dach (1605–1659). Werk und Nachwirken</titel> (Tübingen 2008).</eintrag>
 <subsection id="sorbuisa" type="neuzeit" sort="10">
 <lemma>Dach, <titel>Sorbuisa</titel></lemma>
 <eintrag><titel>Das Schawspiel Sorbuisa. Zum Beschluß des vermittelst unsterblicher Huld und Gnad Sr. Churfürstl. Durchl. alß allermildesten Nutritii feyerlich begangenen Academischen Jubel-Fests in Preußen in der hohen Schuel zu Königsberg praesentiret im Jahre 1644.</titel><line type="break" />
 Siehe auch Walther Ziesemer (Hg.), <titel>Simon Dach Gedichte</titel>, Bd.&#x202F;2: <titel>Weltliche Lieder, Gedichte an das kurfürstliche Haus, Dramatisches</titel> (Halle/Saale 1937), S.&#x202F;311–318.
 </eintrag>
 </subsection>
+<subsection id="dach-werke1681" type="neuzeit" sort="20">
+<lemma>Dach, <titel>Chur-Brandenburgische Rose, Adler, Löw und Scepter</titel></lemma>
+<eintrag><titel>Chur-Brandenburgische Rose, Adler, Löw und Scepter von Simon Dachen / Weyland Prof. Poëseos auff Chur-Brandenburgischer Preußischer Academie Poëtisch besungen</titel> (Königsberg: Reußner s. t. [vmtl. 1681]). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10991020-9">BSB München: 4 P.o.germ. 34</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="dach-werke1696" type="neuzeit" sort="20">
+<lemma>Dach, <titel>Poetische Werke</titel></lemma>
+<eintrag><titel>Simon Dachen / Weyland berühmten Poëseos Professoris bey der Königsbergischen Academie Poetische Wercke / Bestehend in Heroischen Gedichten / Denen beygefüget zwey seiner verfertigten Poetischen Schau-Spiele / Anitzo auf vielfältiges Verlangen zum Druck herausgegeben</titel> (Königsberg: Boye 1696) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;131/19: „Sim. Dach’s poetische Werke, Königsb. 696.“]. Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000D1EF00000000">Stabi Berlin: Yi 876 a</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="dach-r" type="neuzeit">
+<lemma>Regina Dach</lemma>
+<eintrag>Gest. 1685. Geb. Pohl, siehe <wwwlink address="https://d-nb.info/gnd/124862918">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="dacier" type="neuzeit">
