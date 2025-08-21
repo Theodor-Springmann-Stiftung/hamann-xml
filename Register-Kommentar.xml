@@ -891,7 +891,7 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 <lemma>Banier, <titel>Explication</titel></lemma>
 <eintrag>
 <titel>Explication historique des fables, où l’on découvre leur origine et leur conformité avec l’histoire ancienne</titel> (Paris 1711).
-Übers.: Anton Baniers […] <titel>Erläuterung der Götterlehre und Fabeln aus der Geschichte,</titel> aus dem Französischen übersetzt, in seinen Allegaten berichtigt, und mit Anmerkungen begleitet von Johann Adolf Schlegeln (Leipzig 1754–1766). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-83209">UB Heidelberg: C 1198 C RES::1</wwwlink>
+Übers.: Anton Baniers […] <titel>Erläuterung der Götterlehre und Fabeln aus der Geschichte,</titel> aus dem Französischen übersetzt, in seinen Allegaten berichtigt, und mit Anmerkungen begleitet von Johann Adolf Schlegeln (5 Bde., Leipzig: Dyck 1754–1766). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-83209">Landesbibliothek Coburg: A I 6</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -4628,12 +4628,18 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 
 <kommentar id="ernesti" type="neuzeit">
 <lemma>Johann August Ernesti</lemma>
-<eintrag>1707–1781. Evang. Theologe, Prof. der Theologie und Beredsamkeit in Leipzig, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd100804500.html#adbcontent">Eckstein, Friedrich August: Ernesti, Johann August, in: <titel>ADB</titel>&#x202F;6 (1877), S.&#x202F;235–241</wwwlink>.
+<eintrag>1707–1781. Evangelischer Theologe, Professor der Theologie und Beredsamkeit in Leipzig, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd100804500.html#adbcontent">Eckstein, Friedrich August: Ernesti, Johann August, in: <titel>ADB</titel>&#x202F;6 (1877), S.&#x202F;235–241</wwwlink>.
 </eintrag>
 <subsection id="ernesti-rhetorica" type="neuzeit">
 <lemma>Ernesti, <titel>Initia Rhetorica</titel></lemma>
 <eintrag>
 <titel>Initia Rhetorica</titel> (Leipzig 1750). Digitalisat, Ausg. 1769: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3506039018">SLUB Dresden: Encycl.681</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="ernesti-archaeologia" type="neuzeit">
+<lemma>Ernesti, <titel>Archaeologia literaria</titel></lemma>
+<eintrag>
+<titel>Archaeologia literaria</titel> (Leipzig: Fritsch 1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;134/63: „J. A. Ernesti Archaeologia litteraria, Lips. 768“]. Digitalisat, Ausg. 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10026745-3">BSB München: H.eccl. 849#Beibd.2</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -8910,6 +8916,17 @@ Jüdischer Krieg, lat. de bello Iudaico, griech. Περὶ τοῦ Ἰουδαι
  </eintrag>
  </kommentar>
 
+<kommentar id="junck" type="neuzeit">
+<lemma>Johann Andreas von Junck</lemma>
+<eintrag>1735–1789. Preußischer Offizier und Diplomat; mit <link ref="schaumburg-lippe-wilhelm" linktext="true" /> in Portugal, 1765 Botschafter in Danzig.
+</eintrag>
+<subsection id="junck-grammatik" type="neuzeit" sort="10">
+    <lemma>Junck, <titel>Portugiesische Grammatik</titel></lemma>
+    <eintrag>
+    <titel>Portugiesische Grammatik</titel> (Frankfurt/Oder: Strauß 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10588340-9">BSB München: L.lat.f. 546</wwwlink>.
+    </eintrag>
+    </subsection>
+</kommentar>
 
 <kommentar id="jung-stilling" type="neuzeit">
 <lemma>Johann Heinrich Jung-Stilling</lemma>
@@ -12254,6 +12271,11 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <lemma>Johann Peter Miller</lemma>
 <eintrag>1725–1789. Seit 1766 Prof. der evang. Theologie in Göttingen, vgl. <wwwlink address="https://www.deutsche-biographie.de/sfz63398.html#adbcontent">Wagenmann, Julius August: Miller, Johann Peter, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;749f</wwwlink>.
 </eintrag>
+<subsection id="miller-chrestomathia" type="neuzeit">
+<lemma>Miller, <titel>Chrestomathia Latina</titel></lemma>
+<eintrag><titel>Chrestomathia Latina ad formandum tam ingenium quam animum puerilis aetatis accomodata</titel> (2. Aufl. Helmstedt: Weygand 1760, zuerst 1755) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 137/121: „Ei. Chrestomathia Latina, Helmst, 760“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3658412349">SLUB Dresden: Ling.Lat.823</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="missy" type="neuzeit">
