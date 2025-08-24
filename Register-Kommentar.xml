@@ -891,7 +891,7 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 <lemma>Banier, <titel>Explication</titel></lemma>
 <eintrag>
 <titel>Explication historique des fables, où l’on découvre leur origine et leur conformité avec l’histoire ancienne</titel> (Paris 1711).
-Übers.: Anton Baniers […] <titel>Erläuterung der Götterlehre und Fabeln aus der Geschichte,</titel> aus dem Französischen übersetzt, in seinen Allegaten berichtigt, und mit Anmerkungen begleitet von Johann Adolf Schlegeln (5 Bde., Leipzig: Dyck 1754–1766). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-83209">Landesbibliothek Coburg: A I 6</wwwlink>
+Übers.: Anton Baniers […] <titel>Erläuterung der Götterlehre und Fabeln aus der Geschichte,</titel> aus dem Französischen übersetzt, in seinen Allegaten berichtigt, und mit Anmerkungen begleitet von Johann Adolf Schlegeln (5 Bde., Leipzig: Dyck 1754–1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11911831-9">Landesbibliothek Coburg: A I 6</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -11106,6 +11106,12 @@ Dt. Übers. zitiert nach: Wilhelm Ehlers (Übers.), <titel>Lucanus, Marcus Annae
 <kommentar id="luise-swe" type="neuzeit">
 <lemma>Luise von Sachsen-Weimar-Eisenach</lemma>
 <eintrag>1757–1830. Geb. Prinzessin von Hessen-Darmstadt, seit 1775 die Frau von <link ref="carl-august" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="luise-auguste-swe" type="neuzeit">
+<lemma>Luise Auguste von Sachsen-Weimar-Eisenach</lemma>
+<eintrag>1779–1784. Tochter von <link ref="carl-august" linktext="true" /> und <link ref="luise-swe" linktext="true" />.
 </eintrag>
 </kommentar>
 
