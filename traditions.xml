@@ -8670,7 +8670,7 @@
 		<letterTradition letter="470a">
 			<app ref="4"> Staats- und Universitätsbibliothek Hamburg, NMC : 13 : 7.<line type="break" />
 				ZH druckt im Apparat zu diesem Brief einen an Matthias Claudius gerichteten Oktavzettel mit Hamanns
-				Angaben über seine Familie. Dieser ist aller Wahrscheinlich nach fehldatiert, vgl. die Provenienz zu <intlink letter="536a" page="1" line="1" linktext="false">HKB 536a</intlink>.</app>
+				Angaben über seine Familie. Dieser ist aller Wahrscheinlich nach fehldatiert, vgl. die Provenienz zu <intlink letter="537a" page="1" line="1" linktext="false">HKB 537a</intlink>.</app>
 			<app ref="5"> Walther Ziesemer: Hamannbriefe. In: Goethe. Viermonatsschrift der Goethe-Gesellschaft 7 (1942), 138–140.<line type="break" /> ZH III 263–265, Nr. 470a.</app>
 		</letterTradition>
 
@@ -10139,18 +10139,6 @@ Vor dem Entwurf an Witwe Blom notierte sich Hamann einen weiteren, den er dann a
 		</letterTradition>
 
 
-		<letterTradition letter="536a">
-			<app ref="4"> Provenienz: Staats- und Universitätsbibliothek Hamburg, NMC : 13 : 7a).
-				Beiliegend in einem Brief von Hamann an Rebecca Claudius vom 24. Oktober 1776 (HKB III
-				470a).<line type="break" /> Früher laut ZH im Besitz von Pastor Schröder,
-				Altona-Othmarschen. Ebenfalls vorhanden: Negativ in der Universitäts- und Landesbibliothek
-				Münster, Signatur: Hamann-Nachlass, Kaps. 1, 6. <line type="break" /> </app>
-			<app ref="5"> ZH III 437, Nr. 470a Anhang.<line type="break" /> Johann Georg Hamann: Sämtliche
-				Werke. Historisch-kritische Ausgabe. Hg. von Josef Nadler. 6 Bde. Wien 1949–57, V 370 (dort
-				ohne Angabe von Gründen auf 1788 datiert). </app>
-		</letterTradition>
-
-
 		<letterTradition letter="537">
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
@@ -10160,6 +10148,18 @@ Vor dem Entwurf an Witwe Blom notierte sich Hamann einen weiteren, den er dann a
 			<app ref="5">
 				ZH IV 36, Nr. 537.
 </app>
+		</letterTradition>
+
+
+		<letterTradition letter="537a">
+			<app ref="4"> Provenienz: Staats- und Universitätsbibliothek Hamburg, NMC : 13 : 7a).
+				Beiliegend in einem Brief von Hamann an Rebecca Claudius vom 24. Oktober 1776 (HKB III
+				470a).<line type="break" /> Früher laut ZH im Besitz von Pastor Schröder,
+				Altona-Othmarschen. Ebenfalls vorhanden: Negativ in der Universitäts- und Landesbibliothek
+				Münster, Signatur: Hamann-Nachlass, Kaps. 1, 6. <line type="break" /> </app>
+			<app ref="5"> ZH III 437, Nr. 470a Anhang.<line type="break" /> Johann Georg Hamann: Sämtliche
+				Werke. Historisch-kritische Ausgabe. Hg. von Josef Nadler. 6 Bde. Wien 1949–57, V 370 (dort
+				ohne Angabe von Gründen auf 1788 datiert). </app>
 		</letterTradition>
 
 
@@ -10233,7 +10233,7 @@ Vor dem Entwurf an Witwe Blom notierte sich Hamann einen weiteren, den er dann a
 		<letterTradition letter="543">
 			<app ref="3">
 				Die Datierung wurde gegenüber ZH korrigiert (dort: „Mitte Februar 1779“), daher erfolgt die
-				Einsortierung chronologisch zwischen Brief Nr. 545 und 546.
+				Einsortierung chronologisch zwischen Brief Nr. 544 und 545.
 </app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
