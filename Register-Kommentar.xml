@@ -490,7 +490,12 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 
 <kommentar id="apuleius" type="neuzeit">
 <lemma>Lucius Apuleius</lemma>
-<eintrag>125–180. Griech. Schriftsteller, Sophist.</eintrag>
+<eintrag>125–180 n. Chr. Griechischer Schriftsteller.</eintrag>
+<subsection id="apuleius-metamorphosen" type="neuzeit">
+<lemma>Apul., <titel>met.</titel></lemma>
+<eintrag>
+Apuleius, <titel>Metamorphosen</titel></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="aretino" type="neuzeit">
@@ -7033,7 +7038,7 @@ Zitation im Briefkommentar nach HHE 5, S.&#x202F;274–284.
 <subsection id="hamann-konxompax" type="neuzeit" sort="690">
 <lemma>Hamann, <titel>Konxompax</titel></lemma>
 <eintrag>
-<titel>ΚΟΓΞΟΜΠΑΞ. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel> (s.l. s.t. [Riga: Hartknoch 1779]). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235915">ULB Münster: N. Hamann Bd. 37–40, 116</wwwlink>. N&#x202F;III,215–228.
+<titel>ΚΟΓΞΟΜΠΑΞ. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel> (s.l. s.t. [Weimar 1779]). Das Manuskript wurde mit <intlink letter="550" page="68" line="20" linktext="false">HKB </intlink> an <link ref="herder" linktext="false">Herder</link> geschickt. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235915">ULB Münster: N. Hamann Bd. 37–40, 116</wwwlink>. N&#x202F;III,215–228.
 </eintrag>
 </subsection>
 <subsection id="hamann-scherflein" type="neuzeit" sort="700">
