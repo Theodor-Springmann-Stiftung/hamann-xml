@@ -69518,6 +69518,10 @@ Brief Nr. 545
 <bzg>Leichdorn</bzg> Hühnerauge
 </marginal>
 
+<marginal letter="549" page="52" line="28" >
+<bzg>piscator ictus</bzg> nach dem lateinischen Sprichwort ‚piscator ictus sapit‘, dt. ein Fischer wird klug, wenn er gestochen wurde (durch Schaden wird man klug)
+</marginal>
+
 <marginal letter="545" page="52" line="30">
 <bzg>Ingrosation</bzg> Ingrossation, Eintragung ins Pfandbuch
 </marginal>
@@ -69763,11 +69767,11 @@ Brief Nr. 545
 </marginal>
 
 <marginal letter="545" page="56" line="7">
-<bzg>alte Ausgabe der Gedichte</bzg> nicht ermittelt?!?
+<bzg>alte Ausgabe der Gedichte</bzg> <link ref="dach" subref="dach-werke1681" linktext="true" />
 </marginal>
 
 <marginal letter="545" page="56" line="9" sort="1">
-<bzg></bzg> <link ref="jordan" linktext="true" /> 
+<bzg>Jordan</bzg> <link ref="jordan" linktext="true" /> 
 </marginal>
 
 <marginal letter="545" page="56" line="9" sort="2">
@@ -70354,7 +70358,131 @@ Empfänger: Kant? Würde passen, weil irgendwie unpersönlich, thematisch aufs p
 </marginal>
 
 
+Brief Nr. 549
 
+<marginal letter="549" page="63" line="6" >
+<bzg>beiden Briefe</bzg> <intlink letter="545" page="50" line="31" linktext="false">HKB 545</intlink> und <intlink letter="547" page="60" line="20" linktext="false">HKB 547</intlink>
+</marginal>
+
+<marginal letter="549" page="63" line="7" >
+<bzg>Simon Dachs</bzg> <link ref="dach" linktext="true" />, vgl. <intlink letter="545" page="55" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="63" line="9" >
+<bzg>Lauson</bzg> <link ref="lauson" linktext="true" />, wohl Verwechslung mit des Schrift <link ref="lauson" subref="lauson-dach" linktext="false"><titel>Das Lorrbeerwürdige Andenken&#x202F;…</titel></link>
+</marginal>
+
+<marginal letter="549" page="63" line="12" >
+<bzg>Albertis Arien</bzg> <link ref="albert" subref="albert-lieder" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="63" line="13" >
+<bzg>von Ihrer Hand</bzg> vgl. den Anhang zu <intlink letter="545" page="474" line="29" linktext="false"></intlink> mit Hamanns Abschriften der Dach-Gedichte
+</marginal>
+
+<marginal letter="549" page="63" line="14" sort="1" >
+<bzg>Krausen</bzg> <link ref="kraus" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="63" line="14" sort="2" >
+<bzg>beiden Bücher</bzg> <link ref="albert" subref="albert-kurbshutte" linktext="true" /> und <link ref="dach" subref="dach-werke1681" linktext="true" />, vgl. <intlink letter="545" page="56" line="8" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="63" line="17" >
+<bzg>Landsmann</bzg> <link ref="dach" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="63" line="19" >
+<bzg>Opitz, Flemming</bzg> <link ref="opitz-m" linktext="true" /> und <link ref="fleming-p" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="63" line="28" >
+<bzg>Gertrud&#x202F;…&#x202F;Oden</bzg> <link ref="moller" subref="moller-oden" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="63" line="29" >
+<bzg>Morhof u. Neumeister</bzg> <link ref="morhof" linktext="true" /> und <link ref="neumeister" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="63" line="31" >
+<bzg>Mich. Konghel&#x202F;…&#x202F;Cypreßenhain</bzg> <link ref="kohngel" subref="kohngel-cypressenhain" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="63" line="33" >
+<bzg>2ten Th. der Volkslieder</bzg> <link ref="herder" subref="herder-volkslieder" linktext="true" />, Tl. 2; Herder übernahm von Simon Dach etwa „Lied der Freundschaft“ (S.&#x202F;44f.) und „Der Brauttanz“ (S.&#x202F;290f.)
+</marginal>
+
+<marginal letter="549" page="63" line="37" >
+<bzg>piscator ictus</bzg> nach dem lateinischen Sprichwort ‚piscator ictus sapit‘, dt. ein Fischer wird klug, wenn er gestochen wurde, vgl. <intlink letter="545" page="52" line="28" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="64" line="3" sort="1" >
+<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="64" line="3" sort="2" >
+<bzg>Lauson u. Kreuzfeld</bzg> <link ref="lauson" linktext="true" /> und <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="64" line="4" >
+<bzg>Dank&#x202F;…&#x202F;litthauischen Lieder</bzg> vgl. <intlink letter="539" page="41" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="64" line="9" >
+<bzg>Frau […] Briefchen</bzg> <link ref="herder-c" linktext="true" /> und <intlink letter="546" page="59" line="26" linktext="false">HKB 546</intlink>
+</marginal>
+
+<marginal letter="549" page="64" line="10" >
+<bzg>Haus- Schulden- und Werbwesens</bzg> vgl. <intlink letter="545" page="51" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="64" line="12" >
+<bzg>du bist gerechter, als ich</bzg> <link ref="at-sam1" subref="at-sam1-24" linktext="false">1 Sam 24,18</link>
+</marginal>
+
+<marginal letter="549" page="64" line="14" >
+<bzg>Apollos&#x202F;…&#x202F;Argus</bzg> Argus, ein hundertäugiger Riese der griechischen Mythologie und Hüter der in eine Kuh verwandelten Io, wurde von Hermes (nicht Apoll) mit Flötenspiel eingeschläfert.
+</marginal>
+
+<marginal letter="549" page="64" line="19" >
+<bzg>tägliche Lebensweise</bzg> vgl. <intlink letter="545" page="52" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="64" line="22" >
+<bzg>Geburt […] Prinzeßin</bzg> <link ref="luise-auguste-swe" linktext="true" />, vgl. <intlink letter="545" page="59" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="64" line="24" sort="1" >
+<bzg>Herzogin</bzg> <link ref="luise-swe" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="64" line="24" sort="2" >
+<bzg>Welsche Babelschminke</bzg> abgeleitet von der französischen Hofkultur, vgl. <link ref="hamann" subref="hamann-hierophant" linktext="true" />, N&#x202F;III,143/4f.
+</marginal>
+
+<marginal letter="549" page="64" line="26" >
+<bzg>Sibylle über die Ehe</bzg> nach <link ref="hamann" subref="hamann-ehe" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="64" line="35" >
+<bzg>Kantate&#x202F;…</bzg> „Kantate beim Kirchgange der regierenden Herzogin Hochfürstl. Durchlaucht“, <link ref="herder" linktext="false">SWS</link> XXVIII, S.&#x202F;101–104.
+</marginal>
+
+<marginal letter="549" page="64" line="37" >
+<bzg>Kapellmeister Wolf</bzg> <link ref="wolf-ef" linktext="true" />
+</marginal>
+
+<marginal letter="549" page="65" line="2" >
+<bzg>Predigt&#x202F;…&#x202F;Amtspredigten</bzg> „Predigt am Dankfest wegen der Geburt der Prinzessin Luise Auguste Amalie von Sachsen-Weimar“ und „Rede bei der Taufe der Prinzessin Luise Auguste Amalie von Sachsen-Weimar“ (1780 ohne Herders Wissen und fehlerhaft gedruckt), <link ref="herder" linktext="false">SWS</link> XXXI, S.&#x202F;478–496
+</marginal>
+
+<marginal letter="549" page="65" line="5" >
+<bzg>non Musarum&#x202F;…</bzg> Nicht der Musen, sondern der Frömmigkeit Werk 
+</marginal>
+
+<marginal letter="549" page="65" line="6" >
+<bzg>παρεργον</bzg> Nebenwerk
+</marginal>
 
 </marginalien>
 </data>
