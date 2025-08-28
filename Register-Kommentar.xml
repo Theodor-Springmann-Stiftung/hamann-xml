@@ -407,6 +407,11 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 </subsection>
 </kommentar>
 
+<kommentar id="anna-amalia" type="neuzeit">
+<lemma>Anna Amalia von Braunschweig-Wolfenbüttel</lemma>
+<eintrag>1739–1807. Kunstsinnige Herzogin und 1759–1775 vormundschaftliche Regentin in Sachsen-Weimar-Eisenach (für ihren Sohn <link ref="carl-august" linktext="true" />), siehe <wwwlink address="https://www.deutsche-biographie.de/sfz1549.html#ndbcontent">Dadelsen, Georg von: Anna Amalia, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;302f</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="anquetil-duperron" type="neuzeit">
 <lemma>Abraham Hyacinthe Anquetil-Duperron</lemma>
 <eintrag>1731–1805. Frz. Orientalist, Begründer der Iranistik und des Zend-Studiums.</eintrag>
@@ -1822,7 +1827,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="bode-jjc" type="neuzeit">
 <lemma>Johann Joachim Christoph Bode</lemma>
-<eintrag>1730–1793. Buchdrucker und Verleger in Hamburg, Übersetzer u.a. von <link ref="sterne" subref="sterne-shandy" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>.</eintrag>
+<eintrag>1730–1793. Buchdrucker, Übersetzer und Verleger in Hamburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>. – Zu seinen Übersetzungen vgl. <link ref="smollett" subref="smollett-clinker" linktext="true" />, <link ref="sterne" subref="sterne-shandy" linktext="true" />, <link ref="goldsmith" subref="goldsmith-wakefield" linktext="true" /> und <link ref="moore-e" subref="moore-world" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="bodin" type="neuzeit">
@@ -2757,7 +2762,7 @@ Er vermittelte 1753 für Hamann die Hausmeisterstelle in <wwwlink address="https
 
 <kommentar id="carl-august" type="neuzeit">
 <lemma>Carl August von Sachsen-Weimar-Eisenach</lemma>
-<eintrag>1757–1828. 1758 Herzog von Sachsen-Weimar-Eisenach, bis 1775 unter der Vormundschaft seiner Mutter Anna Amalia. Förderer von <link ref="goethe" linktext="true" />, <link ref="herder" linktext="true" /> etc.
+<eintrag>1757–1828. 1758 Herzog von Sachsen-Weimar-Eisenach, bis 1775 unter der Vormundschaft seiner Mutter <link ref="anna-amalia" linktext="false">Anna Amalia</link>. Förderer von <link ref="goethe" linktext="true" />, <link ref="herder" linktext="true" /> etc.
 </eintrag>
 </kommentar>
 
@@ -4088,6 +4093,11 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann
 <lemma>Marie Geneviève Charlotte Thiroux d’Arconville, <titel>Les Oeuvres Morales de Mr. Diderot</titel></lemma>
 <eintrag>
 <titel>Les Oeuvres Morales De Mr. Diderot: Contenant son traité de l’amitié et celui des passions</titel> (Frankfurt 1770). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040291-7">BSB München: Ph.pr. 341-1/2</wwwlink>. – Diderot zugeschrieben.</eintrag>
+</subsection>
+<subsection id="diderot-seneque" type="neuzeit" sort="60">
+<lemma>Diderot, <titel>Essai sur la vie de Séneque</titel></lemma>
+<eintrag>
+<titel>Essai sur la vie de Séneque le philosophe, sur ses écrits, et sur les regnes de Claude et de Néron. Avec des Notes</titel> (Den Haag 1779). Digitalisat: <wwwlink address="https://books.google.ch/books?id=SqgPAAAAQAAJ">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -5905,7 +5915,12 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <subsection id="gleim-anakreon" type="neuzeit" sort="40">
 <lemma>Gleim, <titel>Lieder Nach dem Anakreon</titel></lemma>
 <eintrag>
-<titel>Lieder Nach dem Anakreon von dem Verfasser des Versuchs in scherzhaften Liedern</titel> (Berlin, Braunschweig 1766). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-150349203-19">ULB Halle: AB 139087</wwwlink>.</eintrag>
+<titel>Lieder Nach dem Anakreon von dem Verfasser des Versuchs in scherzhaften Liedern</titel> (Berlin, Braunschweig 1766). Digitalisat: <wwwlink address="https://resolver.staatsbibliothek-berlin.de/SBB0003581E00000000">Stabi Berlin: AB 139087</wwwlink>.</eintrag>
+</subsection>
+<subsection id="gleim-liebe" type="neuzeit" sort="40">
+<lemma>Gleim, <titel>Lieder der Liebe</titel></lemma>
+<eintrag>
+<titel>Lieder der Liebe</titel> (s.l. 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-1192015415-150349203-19">ULB Halle: 7 Y 218</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -6037,7 +6052,9 @@ Prolog zu den neuesten Offenbarungen Gottes. Verteutscht durch Dr. Carl Friedric
 <eintrag>
 <titel>The Vicar of Wakefield. A Tale. Supposed to be written by himself</titel> (London 1766). 
 <line type="break" />
-Übers.: <titel>Der Landpriester von Wakefield. Ein Märchen, das er selbst soll geschrieben haben</titel>, übersetzt von <link ref="gellius-jg" linktext="true" /> (Leipzig 1767).  [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;150/339: „Der Landpriester von Wakefield, Leipz. 768“]. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:kobv:11-711694">BSB Humboldt-Universität zu Berlin: Zd 96351:F8</wwwlink>.
+1. zeitgenössische Übersetzung: <titel>Der Landpriester von Wakefield. Ein Märchen, das er selbst soll geschrieben haben</titel>, übersetzt von <link ref="gellius-jg" linktext="true" /> (Leipzig 1767).  [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;150/339: „Der Landpriester von Wakefield, Leipz. 768“]. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:kobv:11-711694">BSB Humboldt-Universität zu Berlin: Zd 96351:F8</wwwlink>.
+<line type="break" />
+1. zeitgenössische Übersetzung (von <link ref="bode-jjc" linktext="true" />: <titel>Der Dorfprediger von Wakefield. Eine Geschichte, die er selbst geschrieben haben soll. Von neuem verdeutscht</titel> (leipzig: Weidmann und Reich 1776). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN645948152">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="goldsmith-roemer" type="neuzeit" sort="30">
@@ -6531,8 +6548,19 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
     <eintrag>
     <titel>Die heilige Schriften der guten Bothschaft vom verheissenen Königreich, oder das sogenannte neue Testament. Zum Dienste derer, welche sich aus den ersten Quellen der göttlichen Schriften selbst erbauen wollen, nach der heutigen Teutschen Sprachart neu übersetzt; und mit vielen zum lautern Wortverstand leitenden Hülfsmitteln, Fingerzeigen und Erklärungen versehen</titel> (s.l. 1777). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00004DD600000000">Stabi Berlin: Ct 6008</wwwlink>.</eintrag>
     </subsection>
+</kommentar>
 
-
+<kommentar id="halhed" type="neuzeit">
+<lemma>Nathaniel Brassey Halhed</lemma>
+<eintrag>1710–1789. Schweizer Mediziner, Arzt, Naturforscher, Dichter; siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118545140.html#adbcontent">Blösch: Haller, Albrecht von, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;420–427</wwwlink>.
+</eintrag>
+<subsection id="halhed-gentoo" type="neuzeit" sort="10">
+<lemma>Halhed, <titel></titel></lemma>
+<eintrag>
+<titel>A Code of Gentoo laws, or, Ordinations of the pundits, from a Persian translation, made from the original, written in the Shanscrit language</titel> (London 1776). Digitalisat: <wwwlink address="https://archive.org/details/codeofgentoolaws00halh/page/n5/mode/2up">Internet Archive</wwwlink>. <line type="break" />
+Übersetzung: <titel>Gesetzbuch der Gentoo’s; oder Sammlung der Gesetze der Pundits, nach einer persianischen Uebersetzung des in der Schanscrit-Sprache geschriebenen Originales. Aus dem Englischen von <link ref="raspe" linktext="true" /></titel> (Hamburg: Bohn1778). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/105AC18B">ÖNB Wien: 75.P.5 ALT PRUNK</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="haller" type="neuzeit">
@@ -9360,7 +9388,13 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 <lemma>Johann Benjamin Koppe</lemma>
 <eintrag>1750–1791. 1774 Prof. der griechischen Sprache am Gymnasium in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>, 1775 Ruf nach Göttingen, 1784 Generalintendant in Gotha, 1787 in Hannover, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44518.html">Wagenmann, Julius August: Wagenmann, Julius August, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;692f.</wwwlink>
 </eintrag>
-<subsection id="koppe-jesaias" type="neuzeit" sort="10">
+<subsection id="koppe-testamentum" type="neuzeit" sort="10">
+<lemma>Koppe, <titel>Novum Testamentum Graece</titel></lemma>
+<eintrag>
+<titel>Novum Testamentum Graece perpetua adnotatione</titel> (1. Teil [Gal 1,2; Thess., Eph] Göttingen 1778, 4. Teil [Röm] 1783). 
+</eintrag>
+</subsection>
+<subsection id="koppe-jesaias" type="neuzeit" sort="20">
 <lemma>Koppe (Übers.), <titel>Jesaias</titel></lemma>
 <eintrag>
 <titel>D. Robert Lowth’s Jesaias neu übersetzt nebst einer Einleitung und critischen philologischen und erläuternden Anmerkungen. Aus dem Englischen. Mit Zusätzen und Anmerkungen von Johann Benjamin Koppe</titel> (4 Bde., Leipzig 1779–1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11776615-4">Stabi Bambuerg: Th.ex.o.299(1#1</wwwlink>. Übersetzung von <link ref="lowth" subref="lowth-isaiah" linktext="true" />
@@ -11097,7 +11131,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 </eintrag>
 </subsection>
 <subsection id="lowth-isaiah" type="neuzeit">
-<lemma>Lowth, <titel>Jesaias</titel></lemma>
+<lemma>Lowth, <titel>Isaiah</titel></lemma>
 <eintrag>
 <titel>Isaiah. A New Translation; with a preliminary dissertation, and notes critical, philological, and explanatory.</titel> By Robert Lowth (London: Nichols 1778). Digitalisat: <wwwlink address="https://books.google.de/books?id=ta8WAAAAQAAJ">Google Books</wwwlink>. – Zur Übersetzung vgl. <link ref="koppe" subref="koppe-jesaias" linktext="true" />
 </eintrag>
@@ -11131,7 +11165,6 @@ Dt. Übers. zitiert nach: Wilhelm Ehlers (Übers.), <titel>Lucanus, Marcus Annae
 </subsection>
 </kommentar>
 
-
 <kommentar id="lucas" type="neuzeit">
 <lemma>Richard Lucas</lemma>
 <eintrag>1648–1715. Geistl. Schriftsteller.
@@ -11140,6 +11173,20 @@ Dt. Übers. zitiert nach: Wilhelm Ehlers (Übers.), <titel>Lucanus, Marcus Annae
 <lemma>Lucas, <titel>Sicherer Weg zur wahren Glückseligkeit</titel></lemma>
 <eintrag>
 <titel>Sicherer Weg zur wahren Glückseligkeit</titel> (3&#x202F;Bde., Hamburg, Leipzig: Grund und Holle 1756). Digitalisat: <wwwlink address="http://rosdok.uni-rostock.de/resolve/id/rosdok_bundle_0000000258">UB Rostock: Fm-3147</wwwlink>.
+ </eintrag>
+</subsection>
+</kommentar>
+
+
+<kommentar id="luchet" type="neuzeit">
+<lemma>Jean-Louis Barbot de Luchet</lemma>
+<eintrag>1740–1792. Französischer Offizier, Direktor des Hoftheaters in Kassel, Sekretär der Société des Antiquités de Cassel.
+</eintrag>
+<subsection id="luchet-histoire" type="neuzeit">
+<lemma>Luchet, <titel>Histoire de Messieurs Paris</titel></lemma>
+<eintrag>
+<titel>Histoire de Messieurs Paris. Ouvrage dans lequel on montre comment un royaume peut passer dans l’espace de cinq années de l’état le plus déplorable à l’état le plus florissant</titel> (Paris 1776). Digitalisat: <wwwlink address="https://books.google.ch/books?id=ydgFG62zcogC">Google Books</wwwlink>.<line type="break" />
+Übersetzung: <titel>Geschichte der Herren Paris, ein wichtiges Fragment zur Erläuterung der ehemaligen Verwaltung der Finanzen in Frankreich. Aus dem Französischen übersetzt</titel> (Leipzig: Böhme 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11252425-6">Stabi Augsburg: H 1712</wwwlink>.
  </eintrag>
 </subsection>
 </kommentar>
@@ -12566,6 +12613,18 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <lemma>Montpensier, <titel>Mémoires</titel></lemma>
 <eintrag>
 <titel>Mémoires de Mademoiselle de Montpensier</titel> (6&#xA0;Bde., Paris 1728). 
+</eintrag>
+</subsection>
+</kommentar>
+ 
+<kommentar id="moore-e" type="neuzeit">
+<lemma>Edward Moore</lemma>
+<eintrag>1712–1757. Englischer Dramatiker und Schriftsteller (Pseudonym: dem Pseudonym Adam Fitzadam), siehe <wwwlink address="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Moore,_Edward_(1712-1757)">Dictionary of National Biography</wwwlink>.</eintrag>
+<subsection id="moore-world" type="neuzeit" sort="10">
+<lemma>Moore, <titel>The world</titel></lemma>
+<eintrag>
+<titel>The World</titel> (London: Dodsley 1753–1757). <line type="break" />
+Übers. (von <link ref="bode-jjc" linktext="true" />): <titel>Die Welt. Eine Wochenschrift von Adam Fitz-Adam. Aus dem Englischen verdeutscht</titel> (2 Bde., Altenburg 1779–1780). Digitalisat: <wwwlink address="http://haab-digital.klassik-stiftung.de/viewer/epnresolver?id=160650682X">Anna Amalia Bibliothek Weimar</wwwlink>, vgl. <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1081319682">ZDB</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14494,8 +14553,6 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <eintrag>1735–1798. Evang. Theologe, seit 1772 Konsistorialrat und seit 1775 Direktor des Fridericianums in Königsberg, Schwiegersohn von <link ref="bucholtz-k-jc" linktext="true" />.</eintrag>
 </kommentar>
 
-Reichs-Post-Reuter
-
 <kommentar id="reichs-post-reuter" type="neuzeit">
 <lemma>Reichs-Post-Reuter</lemma>
 <eintrag>Herausgegeben in Altona 1696–1789; eine der am weitesten verbreiteten Zeitungen des 18. Jahrhunderts, mit einer Auflage von 13.000 im Siebenjährigen Krieg, vgl. <wwwlink address="https://zeitungen.sub.uni-hamburg.de/zeitungen-info/reichs-post-reuter-heusssche-zeitung">Hamburger Zeitungen Digital</wwwlink> und <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1066257388">ZDB</wwwlink>.</eintrag>
@@ -15003,6 +15060,18 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 <titel> Dictionnaire de musique,</titel> par J.&#x202F;J. Rousseau (Paris 1768). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k850406b"> Bibliothèque nationale de France: département Arsenal, 4-S-3833</wwwlink>. 
 </eintrag>
 </subsection>
+<subsection id="rousseau-supplement" type="neuzeit" sort="90">
+<lemma>Rousseau, <titel>Supplément aux Oeuvres</titel></lemma>
+<eintrag>
+<titel>Supplément aux Oeuvres de J. J. Rousseau, Citoyen De Geneve,</titel> Pour servir de suite à toutes les éditions (Amsterdam, Lausanne 1779). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k850406b"> Stabi Bamberg: L.fr.o.94(12#1</wwwlink>. 
+</eintrag>
+</subsection>
+<subsection id="rousseau-confessions" type="neuzeit" sort="100">
+<lemma>Rousseau, <titel>Confessions</titel></lemma>
+<eintrag>
+<titel>Les Confessions</titel> de J.&#x202F;J. Rousseau (2 Bde. Genf 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10915559-7">BSB München: Res/Biogr. 3333 t-1</wwwlink>. 
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="runtze" type="neuzeit">
@@ -15295,6 +15364,16 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <titel>Die wandlende Seel: das ist: Gespräch der wandlenden Seelen mit Adam, Noah und Simon Cleophas: verfasset die Geschichten von Erschaffung der Welt an, bis zu und nach der Verwüstung Jerusalems: Daraus ordentlich zu ersehen, wie eine Monarchie und Königreich auf die andere gefolget, wie diese angefangen, jene aber vergangen, und auch der ausführliche Verlauff der Zerstöhrung Jerusalem. Durch Johann Philip Schabalie in niederländischer Sprach beschrieben; anjetzo aber in die hochteutsche Sprach übersetzet von B.B.B.</titel> (Frankfurt/Leipzig 1734).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="schardt-ekk" type="neuzeit">
+<lemma>Ernst Carl Constantin von Schardt</lemma>
+<eintrag>1744–1833. 1776 Geheimer Regierungsrat in  Weimar, ältester Bruder Charlotte von Steins.</eintrag>
+</kommentar>
+
+<kommentar id="schardt-fse" type="neuzeit">
+<lemma>Friederike Sophie Eleonore von Schardt</lemma>
+<eintrag>1755–1819. Geb. v. <link ref="bernstorff-ce" linktext="false">Bernstorff</link>, seit 1778 Ehefrau von <link ref="schardt-ekk" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="schaumburg-lippe-wilhelm" type="neuzeit">
@@ -16678,7 +16757,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 Übers.: <titel>Yoricks empfindsame Reise durch Frankreich und Italien,</titel> übersetzt von <link ref="bode-jjc" linktext="true" /> (Hamburg, Bremen 1768). Digitalisat der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10930080-8">BSB München: P.o.angl. 405-1/2</wwwlink>.
 </eintrag>.
 </subsection>
-</kommentar>sterne-reise
+</kommentar>
 
 <kommentar id="steuart" type="neuzeit">
 <lemma>James Steuart</lemma>
@@ -17906,7 +17985,6 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
 </subsection>
 </kommentar>
 
-
 <kommentar id="villaret" type="neuzeit">
 <lemma>Claude Villaret</lemma>
 <eintrag>1715–1766. Frz. Geschichtsschreiber, schrieb auch für das Theater. <titel>Biographie universelle ancienne et moderne</titel> (Bd.&#x202F;48, 1827), S.&#x202F;511–515.
@@ -17915,6 +17993,17 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
 <lemma>Villaret, <titel>La Belle Allemande</titel></lemma>
 <eintrag>
 <titel>La Belle Allemande; ou les Galanteries de Thérèse</titel> (Amsterdam 1745).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="villoison" type="neuzeit">
+<lemma>Jean-Baptiste Gaspard d’Ansse de Villoison</lemma>
+<eintrag>1753–1805.Französischer klassischer Philologe, Gräzist, Griechischlehrer von <link ref="anna-amalia" linktext="false">Herzogin Anna Amalia.</link>
+</eintrag>
+<subsection id="villoison-handschrift" type="neuzeit">
+<lemma>Villoison, <titel>Über die Entdeckung einer sehr wichtigen Handschrift der Werke des Homer</titel></lemma>
+<eintrag>
+<titel>Auszug aus einem Schreiben des Herrn A**D**V*** über die Entdeckung einer sehr wichtigen Handschrift der Werke des Homer in der Bibliothek von San Marco, Venedig</titel>, in: in: <link ref="teutsche-merkur" linktext="false">Teutscher Merkur</link>, Bd.&#x202F;25 (1779/1, März), S.&#x202F;258–265.</eintrag>
 </subsection>
 </kommentar>
 
