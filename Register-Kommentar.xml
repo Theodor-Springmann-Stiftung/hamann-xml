@@ -2402,6 +2402,12 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 </eintrag>
 </kommentar>
 
+<kommentar id="bucholtz-k-fw" type="neuzeit">
+<lemma>Friedrich Wilhelm Buchholtz</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Tribunalrat in Königsberg.
+</eintrag>
+</kommentar>
+
 <kommentar id="bucholtz-k-re" type="neuzeit">
 <lemma>Regine Elisabeth Buchholtz</lemma>
 <eintrag>Geb. Herwie, zweite Frau von <link ref="bucholtz-k-jc" linktext="true" />.
@@ -9874,7 +9880,9 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kraus" type="neuzeit">
 <lemma>Christian Jacob Kraus</lemma>
-<eintrag>1753–1807. Schüler Kants, Erzieher im Keyserlingschen Haus, Freund Hamanns; 1781 als Nachfolger von K. A. Christiani Professor der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von <link ref="bucholtz-k-jc" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink> – Vgl. die postum von <link ref="auerswald" linktext="false">Auerswald</link> herausgegebene, sechsbändige Ausgabe seiner Schriften (Königsberg 1808–1812): <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10604279%2FBV010047873">BSB München: Opp. 523</wwwlink>.</eintrag>
+<eintrag>1753–1807. Schüler <link ref="kant" linktext="false">Kants</link>, Erzieher im <link ref="keyserling-h" linktext="false">Keyserlingschen Haus</link>, Freund <link ref="auerswald" linktext="false">Auerswalds</link> und Hamanns, seit November 1778 Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> (obwohl schon sehr bald von der Freimaurerei entfremdet); 1781 als Nachfolger von K. A. Christiani Professor der praktischen Philosophie und Kameralwissenschaft in Königsberg; Neffe von <link ref="bucholtz-k-jc" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44900.html#ndbcontent">Milkowski, Fritz: Kraus, Christian Jacob, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;681f.</wwwlink> <line type="break" />
+Zu seinen Werken vgl. die postum von <link ref="auerswald" linktext="false">Auerswald</link> herausgegebene, sechsbändige Ausgabe seiner Schriften (Königsberg 1808–1812): <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10604279%2FBV010047873">BSB München: Opp. 523</wwwlink>.<line type="break" />
+Zur Biographie vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Johannes Voigt: <titel>Das Leben des Professor Christian Jacob Kraus […] aus den Mittheilungen seiner Freunde und seinen Briefen</titel> (Königsberg 1819; zugleich Bd.&#x202F;8 der <titel>Vermischten Schriften</titel></wwwlink>; außerdem: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11575327-0">Gottlieb Krause: <titel>Beiträge zum Leben von Christian Jakob Kraus</titel>, in: Altpreußische Monatsschrift 18 (1881), S.&#x202F;53–96 u. 193–224</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="krebs" type="neuzeit">
@@ -12921,6 +12929,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <eintrag>1624–1689. Niederländ. Geistlicher.</eintrag>
 </kommentar>
 
+<kommentar id="mueller-eg" type="neuzeit">
+<lemma>Ernst Egidius Müller</lemma>
+<eintrag>1723–1807. Manufakturhändler in Königsberg, väterlicher Freund von <link ref="kraus" linktext="true" />, vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Voigt: <titel>Das Leben des Professor Christian Jacob Kraus </titel>, S.&#x202F;59</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="mueller-ge" type="neuzeit">
 <lemma>Gottfried Ephraim Müller</lemma>
 <eintrag>1712–1752. Pfarrer, Philologe, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100216536.html">Deutsche Biographie</wwwlink>.</eintrag>
@@ -12941,6 +12954,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Bekenntnisse merkwürdiger Männer von sich selbst.</titel> Herausgegeben von Joh. Georg Müller (3&#x202F;Bde., Winterthur 1791–1795).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="mueller-ms" type="neuzeit">
+<lemma>M. S. Müller</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Beb. Baranowski, Ehefrau von <link ref="mueller-ge" linktext="true" /> und Pflegemutter von <link ref="kraus" linktext="true" />.</eintrag>
 </kommentar>
 
  <kommentar id="mun" type="neuzeit">
