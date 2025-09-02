@@ -59785,7 +59785,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="259" line="6">
-<bzg>freymüthigen Briefen</bzg> nicht ausgeführter Plan; vgl. <intlink letter="470" page="263" line="23" linktext="true" />
+<bzg>freymüthigen Briefen</bzg> nicht ausgeführter Plan; vgl. <intlink letter="470" page="263" line="23" linktext="false">unten</intlink>
 </marginal>
 
 <marginal letter="470" page="259" line="7">
@@ -60017,7 +60017,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="263" line="23">
-<bzg>Leiden und Anis</bzg> mglw. im Zusammenhang der <intlink letter="470" page="259" line="6" linktext="false">oben</intlink> erwähnten Schrift
+<bzg>Leiden und Anis</bzg> vgl. die im <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>-Katalog 201/17 aufgeführte Schrift <titel>Leiden und Ana des seel. Prof. Mannah</titel> (und zu <intlink letter="528" page="19" line="27" linktext="true" />); wohl auch im Zusammenhang der <intlink letter="470" page="259" line="6" linktext="false">oben</intlink> erwähnten Schrift
 </marginal>
 
 <marginal letter="470" page="263" line="24">
@@ -67572,7 +67572,7 @@ Brief Nr. 528
     <bzg>Kreuzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
    </marginal>
    
-   <marginal letter="528" page="19" line="27" sort="1">
+   <marginal letter="528" page="19" line="27" sort="1"> 
     <bzg>Begebenheiten des Prof. Ana</bzg> Kreutzfeld führt in einer Fußnote zu seinem <link ref="kreutzfeld" subref="kreutzfeld-geburtstagsgedicht1777" linktext="false">Geburtstagsgedicht auf Hamann von 1777</link> (im Druck von 1781 S.&#x202F;12) eine Hamann-Schrift mit dem Titel <titel>Leiden und –ana des seel. Pr. Mannah</titel> an (vgl. zu <intlink letter="522" page="2" line="1" linktext="true" />). Hamann tut sie bald als nicht ausgeführtes „Ideal“ ab (vgl. <intlink letter="536" page="33" line="17" linktext="true" />), bald als „Scherz der sich von meinem <link ref="hamann" subref="hamann-biga" linktext="false">Catalog</link> herrührt“ (<intlink letter="545" page="57" line="21" linktext="true" />); tatsächlich ist bereits in Hamanns <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>-Katalog von 1776 (201/17) ein vmtl. fiktives Manuskript unter dem Titel „Leiden und Ana des seeligen Prof. Mannah. Fragment“ angeführt. Ob Hamann jemals ein längeres Manuskript unter dem Titel <titel>Leiden und –ana des seel. Pr. Mannah</titel> verfasste, ist unklar, ein Druck existierte jedenfalls nie. Zu Herders Quelle für die Kenntnis von Kreutzfelds Gedicht vgl. <intlink letter="512" page="376" line="12" linktext="true" />.
    </marginal>
    
@@ -69491,7 +69491,7 @@ Brief Nr. 545
 </marginal>
 
 <marginal letter="545" page="51" line="35">
-<bzg>Fischerrätzel&#x202F;…</bzg> Vgl. <link ref="hamann" subref="hamann-kunstrichter" linktext="true" />, N&#x202F;II,334/20f. u. 37–39 und <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,222/4f. u. 228/1f. sowie <intlink letter="550" page="70" line="15" linktext="true" />. – Nach <titel>Vita Homeri</titel>, 35 (Pseudo-Herodot) tragen Fischerjungen dem blinden, nach Ios gereisten Homer ein Rätsel vor: „Was wir fingen, ließen wir zurück; was wir aber nicht fingen, bringen wir mit.“ Die Lösung des Rätsels liegt darin, dass die erfolglosen Fischer hier von ihren Läusen sprechen. Auch in <titel>de Homero</titel>, 1,4(Pseudo-Plutarch) ist der Ausspruch überliefert; der dort vertretenen Meinung, Homer sei aus Verdruss darüber, das Rätsel nicht lösen zu können gestorben, widerspricht Pseudo-Herodot.
+<bzg>Fischerrätzel&#x202F;…</bzg> Vgl. <link ref="hamann" subref="hamann-kunstrichter" linktext="true" />, N&#x202F;II,334/20f. u. 37–39 und <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,222/4f. u. 228/1f. sowie <intlink letter="550" page="70" line="15" linktext="true" />. – Nach <titel>Vita Homeri</titel>, 35 (Pseudo-Herodot) tragen Fischerjungen dem blinden, nach Ios gereisten Homer ein Rätsel vor: „Was wir fingen, ließen wir zurück; was wir aber nicht fingen, bringen wir mit.“ Die Lösung des Rätsels liegt darin, dass die erfolglosen Fischer hier von ihren Läusen sprechen. Auch in <titel>de Homero</titel>, 1,4 (Pseudo-Plutarch) ist der Ausspruch überliefert; der dort vertretenen Meinung, Homer sei aus Verdruss darüber, das Rätsel nicht lösen zu können gestorben, widerspricht Pseudo-Herodot.
 </marginal>
 
 <marginal letter="545" page="51" line="36">
@@ -69683,7 +69683,7 @@ Brief Nr. 545
 </marginal>
 
 <marginal letter="545" page="55" line="18">
-<bzg>Jugendschrift&#x202F;…</bzg> vgl. <intlink letter="316" page="358" line="10" linktext="true" />
+<bzg>Jugendschrift&#x202F;…</bzg> vgl. <intlink letter="316" page="359" line="10" linktext="true" />
 </marginal>
 
 <marginal letter="545" page="55" line="20">
@@ -70925,55 +70925,87 @@ Hamann sandte den Brief ab, bevor ihn <intlink letter="549" page="63" line="5" l
 </marginal>
 
 <marginal letter="550" page="70" line="12" >
-<bzg>Autoris profligati</bzg> Starck, vgl. dessen <link ref="" subref="" linktext="true" /> (Berlin 1778), S.&#x202F;173
+<bzg>Autoris profligati</bzg> Starck, vgl. dessen <link ref="starck" subref="starck-apologie" linktext="true" /> (Berlin 1778), S.&#x202F;173
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="14" >
+<bzg>gevierten</bzg> früher im Sinne von vierschrötig verwendet („plump und grob von gliedern wie von sitten“, <wwwlink address="www.woerterbuchnetz.de/DWB/geviert">DWB VI, Sp.&#x202F;4689</wwwlink>) vgl. <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,221/18
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="15" >
+<bzg>Lausangelrätzel</bzg> vgl. zu <intlink letter="545" page="51" line="35" linktext="true" />
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="17" >
+<bzg>Vergöttung</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,224/7
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="19" >
+<bzg>Söge</bzg> vgl. <wwwlink address="www.woerterbuchnetz.de/DWB/söge">DWB XVI, Sp.&#x202F;1406</wwwlink> und <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,225/33
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="24" >
+<bzg>entre chien et loup</bzg> dt. in der Dämmerung
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="25" >
+<bzg>Kant</bzg> <link ref="kant" linktext="true" />
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="27" >
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="29" sort="1" >
+<bzg>Sünde und Schande&#x202F;…</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,225/12
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="29" sort="2" >
+<bzg>Ja, ja&#x202F;…</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,225/15–17
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="70" line="32" >
+<bzg>Weg mit&#x202F;…</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,225/22f.
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="71" line="6" >
+<bzg>Pathchen</bzg> <link ref="hamann-ms" linktext="true" />
 </marginal>
 
-<marginal letter="550" page="70" line="" >
-<bzg></bzg> 
+<marginal letter="550" page="71" line="8" >
+<bzg>Corporis delicti</bzg> dem Manuskript des <link ref="hamann" subref="hamann-konxompax" linktext="false">Konxompax</link>
+</marginal>
+
+<marginal letter="550" page="71" line="14" >
+<bzg>Prof. †feld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="550" page="71" line="19" >
+<bzg>Freundin in Morungen</bzg> <link ref="herder-cd-g" linktext="true" />
+</marginal>
+
+<marginal letter="550" page="71" line="20" >
+<bzg>Pathchen</bzg> <link ref="herder-a" linktext="true" />
+</marginal>
+
+<marginal letter="550" page="71" line="21" sort="1" >
+<bzg>liebe Brüderchen</bzg> <link ref="herder-g" linktext="true" /> und <link ref="herder-w" linktext="true" />
+</marginal>
+
+<marginal letter="550" page="71" line="21" sort="2" >
+<bzg>letzten Lotterie in Kgsberg</bzg> wohl infolge des Bankrotts von Lotteriedirektor <link ref="kanter" linktext="false">Kanter</link>?!?
+</marginal>
+
+<marginal letter="550" page="71" line="23" >
+<bzg>Wittwe im Evangelio</bzg> <link ref="nt-mk" subref="nt-mk12" linktext="false">Mk 12,42f.</link> oder <link ref="nt-lk" subref="nt-lk21" linktext="false">Lk 21,2f.</link>
+</marginal>
+
+<marginal letter="550" page="71" line="29" >
+<bzg>Hälfte</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="550" page="71" line="30" >
+<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />
 </marginal>
 
 </marginalien>
