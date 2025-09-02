@@ -10623,6 +10623,12 @@ Digitalisat Beytrag 5 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn
 Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10604297-9">BSB München: Opp. 526-5/6</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="lessing-geist-kraft" type="neuzeit" sort="125">
+<lemma>Lessing, <titel>Über den Beweis des Geistes und der Kraft</titel></lemma>
+<eintrag>
+<titel>Über den Beweis des Geistes und der Kraft. An den Herrn Director Schumann zu Hannover</titel>  (Braunschweig 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10927792-7">BSB München: Res/Polem. 3022,12</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="lessing-ernst-falk" type="neuzeit" sort="130">
 <lemma>Lessing, <titel>Ernst und Falk</titel></lemma>
 <eintrag>
@@ -16615,7 +16621,9 @@ Ioannis Avgvsti Starckii […] <titel>Sylloge Commentationum et observationum ph
 <subsection id="starck-apologie" type="neuzeit" sort="30">
 <lemma>Starck, <titel>Apologie des Ordens der Freimaurer</titel></lemma>
 <eintrag>
-<titel>Apologie des Ordens der Frey-Maurer von dem Bruder **** Mitgliede der ** Schottischen Loge zu P. *</titel> (Philadelphia, im Jahr 5651. d.&#x202F;i. 3882  [Königsberg: Kanter 1769]) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;168/615: „Apologie des Ordens der Freymaeurer, Koenigsb. 772“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3296223826">SLUB Dresden: Soc.secr.125</wwwlink>.</eintrag>
+<titel>Apologie des Ordens der Frey-Maurer von dem Bruder **** Mitgliede der ** Schottischen Loge zu P. *</titel> (Philadelphia, im Jahr 5651. d.&#x202F;i. 3882  [Königsberg: Kanter 1769]) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;168/615: „Apologie des Ordens der Freymaeurer, Koenigsb. 772“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3296223826">SLUB Dresden: Soc.secr.125</wwwlink>.<line type="break" />
+In mehreren überarbeiteten Auflagen erschienen, etwa Berlin: Stahlbaum 1778; Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00002EF900000000">Stabi Berlin: Nb 5162</wwwlink>.
+</eintrag>
 </subsection>
 <subsection id="starck-tralatitia" type="neuzeit" sort="35">
 <lemma>Starck, <titel>Tralatitia ex gentilismo in religionem christianam</titel></lemma>
