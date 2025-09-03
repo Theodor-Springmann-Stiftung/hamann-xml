@@ -312,7 +312,7 @@ def.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de
 
 <kommentar id="allgemeine-deutsche-bib" type="neuzeit">
 <lemma>Allgemeine deutsche Bibliothek</lemma>
-<eintrag>Hrsg. v. <link ref="nicolai" linktext="true" />, Bd. 1–118 nebst Anhängen u. Reg. Bde. Berlin/Stettin [ab 1770ff. Kiel] 1765–91. [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;186/113: „Allgemeine deutsche Bibliothek, Band XXIV. St. 1. Band XXV. St. 1, Berl. 775“]. Digitalisat: <wwwlink address="http://ds.ub.uni-bielefeld.de/viewer/toc/2002572/1/">Universitätsbibliothek Bielefeld</wwwlink>.</eintrag>
+<eintrag>Hrsg. v. <link ref="nicolai" linktext="true" />, Bd. 1–118 nebst Anhängen u. Reg. Bde. Berlin/Stettin [ab 1770ff. Kiel] 1765–91. [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;186/113: „Allgemeine deutsche Bibliothek, Band XXIV. St. 1. Band XXV. St. 1, Berl. 775“]. Digitalisat: <wwwlink address="http://ds.ub.uni-bielefeld.de/viewer/toc/2002572/1/">Universitätsbibliothek Bielefeld</wwwlink>. <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes%3A%22bsb10730973%2FBV002563095%22">BSB München</wwwlink></eintrag>
 </kommentar>
  
 <kommentar id="allgemeine-theologische-bib" type="neuzeit">
@@ -2190,6 +2190,12 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <kommentar id="brahl" type="neuzeit">
 <lemma>Johann Brahl</lemma>
 <eintrag>1753–1812. Schriftsteller und Stadtinspektor in Königsberg; zunächst Nädlermeister, später Redakteur, Kalkulator und Einnehmer; vgl. <wwwlink address="https://books.google.de/books?id=EctbAAAAcAAJ">Gieseke Handbuch für Dichter und Litteratoren (Magdeburg 1793), I, S.&#x202F;216</wwwlink>. Sohn des Nädlers Gottfried Brahl und von Gertrud Brahl (geb. Miltz).</eintrag>
+<subsection id="brahl-gedichte" type="neuzeit">
+<lemma>Brahl, <titel>Probe einiger Gedichte</titel></lemma>
+<eintrag>
+<titel>Probe von Gedichten</titel> (Marienwerder 1779). Vgl. die Einträge in <wwwlink address="https://books.google.de/books?id=TWvT9loz9SgC">Hambergers Gelehrtem Deutschland, Bd.&#x202F;1 (Lemgo 1796), S.&#x202F;399</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="breitinger" type="neuzeit">
@@ -5177,6 +5183,17 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 </subsection>
 </kommentar>
 
+<kommentar id="forster-g" type="neuzeit">
+<lemma>Georg Forster</lemma>
+<eintrag>1754–1794. Naturforscher und Reiseschriftsteller; nahm mit seinem Vater Johann Reinhold Forster (1729–1798) an der Weltumsegelung James Cooks (1772–1775) teil, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118534416.html#ndbcontent">Steiner, Gerhard: Forster, Georg, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;301</wwwlink>.
+</eintrag>
+<subsection id="forster-reise" type="neuzeit" sort="10">
+<lemma>Forster, <titel>Reise um die Welt</titel></lemma>
+<eintrag>
+<titel>Johann Reinhold Forster’s […] Reise um die Welt während den Jahren 1772 bis 1775 in dem von Seiner itztregierenden Großbrittannischen Majestät auf Entdeckungen ausgeschickten und durch den  Capitain Cook geführten Schiffe the Resolution unternommen. Beschrieben und herausgegeben von dessen Sohn und Reisegefährten George Forster</titel> (2 Bde., Berlin: Haude und Spener 1778–1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-200905191395">Stabi Berlin: SBB-PK, 4 Pt 1275-1 b R</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="forstmann" type="neuzeit">
 <lemma>Johann Gangolf Wilhelm Forstmann</lemma>
 <eintrag>1706–1759. Evang. Theologe, Studium in Jena, 1732 Pfarrer in Solingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd132263297.html#adbcontent">Ledderhose, Karl Friedrich: Forstmann, Johann Gangolf Wilhelm, in: <titel>ADB</titel>&#x202F;7 (1878), S.&#x202F;190</wwwlink>.
@@ -7070,7 +7087,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;123–133.
 <lemma>Hamann, <titel>Schürze von Feigenblättern</titel></lemma>
 <eintrag>
 <titel>Schürze von Feigenblättern</titel>. Ungedruckter Entwurf für eine Schrift von Neujahr 1777 bis 1779, vgl. Martin Seils: <titel>Schürze von Feigenblättern. Kritisch herausgegeben und erklärt.</titel> In: <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;265–372 (vgl. ebenso N&#xA0;III, S.&#x202F;451).<line type="break" />
-Zitation im Briefkommentar nach HHE 5, S.&#x202F;274–284.
+Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;274–284.
 </eintrag>
 </subsection>
 <subsection id="hamann-cretin" type="neuzeit" sort="684">
@@ -8734,6 +8751,16 @@ J
 </subsection>
 </kommentar>
 
+<kommentar id="jacobillus" type="neuzeit">
+<lemma>Ludovicus Jacobillus</lemma>
+<eintrag>1598–1664. Hagiograph und Priester in Foligno.</eintrag>
+<subsection id="jacobillus-bibliotheca" type="neuzeit" sort="10">
+<lemma>Jacobillus, <titel>Bibliotheca Umbriae</titel></lemma>
+<eintrag>
+<titel>Bibliotheca Umbriae, sive De scriptoribus provincie Umbriae alphabetico ordine digesta</titel> (Foligno 1658). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10679293-4">BSB München: 4 H.lit.p. 110</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="jacquet" type="neuzeit">
 <lemma>Louis Jacquet</lemma>
 <eintrag>1732–1794. Abbé in Lyon.</eintrag>
@@ -9351,7 +9378,13 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <subsection id="koeppen-art-royal" type="neuzeit" sort="10">
 <lemma>Köppen, <titel>l’Art Royal du chevalier de Rose-Croix</titel></lemma>
 <eintrag>
-<titel>l’Art Royal du chevalier de Rose-Croix</titel> (Jerusalem [Berlin] 1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;190/164: „Art Royal du Chevalier de Rosecroix, Londr. 750. Diese kleine Brochure muss durch den seel. Hrn. Kirchenrath jemanden verliehen worden seyn, von dem sie der wahre Eigenthümer zurück erwartet“]. Vgl. <link ref="vel-h-1988" linktext="false">Veldhuis (Hg.): Art Royal du Chevalier du Rosecroix  (publié par F. Koeppen)</link>.
+<titel>l’Art Royal du chevalier de Rose-Croix</titel> (Jerusalem [Berlin] 1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;190/164: „Art Royal du Chevalier de Rosecroix, Londr. 750. Diese kleine Brochure muss durch den seel. Hrn. Kirchenrath jemanden verliehen worden seyn, von dem sie der wahre Eigenthümer zurück erwartet“]. Vgl. <link ref="vel-h-1988" linktext="false">Veldhuis (Hg.): Art Royal du Chevalier du Rosecroix (publié par F. Koeppen)</link>.
+</eintrag>
+</subsection>
+<subsection id="koeppen-crata-repoa" type="neuzeit" sort="20">
+<lemma>Köppen, <titel>Crata Repoa</titel></lemma>
+<eintrag>
+<titel>Crata Repoa. Oder Einweihungen in der alten geheimen Gesellschaft der Egyptischen Priester</titel> (Berlin: Stahlbaum 1778). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN634528130">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11653,6 +11686,12 @@ In der <link ref="hamann" subref="h-dangeuil" linktext="false"><titel>Beylage zu
 </subsection>
 </kommentar>
 
+<kommentar id="marianus-raynaldis" type="neuzeit">
+<lemma>Marianus de Raynaldis</lemma>
+<eintrag>Mglw. ein Bischof von Nuceria Mitte des 13. Jahrhunderts. Grundlage ist der Eintrag in<link ref="jacobillus" subref="jacobillus-bibliotheca" linktext="true" />, S.&#x202F;196, der Hamann für die <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> interessierte (vgl. <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;276f.): „Marianus de Raynaldis Meuanas, Episcopus Ciuit. Nuceriae in Neapolitano regno an. 1244. multorum linguarum generum peritus, transtulit è Graeco in latinum Centiloquium Ephestionis Thebani; et reliquit tractatum de Immortalitate Animae; vt refert Henricus Barcellius in Biblot. Mundi.“ Übers.: „Marianus de Raynaldis Meuanas, Bischof der Stadt Nuceria im neapolitanischen Königreich im Jahr 1244, vieler Sprachen und Gattungen kundig, übertrug aus dem Griechischen ins Lateinische das ‚Centiloquium‘ des Ephaestion von Theben und hinterließ einen Traktat über die Unsterblichkeit der Seele, wie Henricus Barcellius in seiner Bibliotheca mundi berichtet.“</eintrag>
+
+</kommentar>
+
 <kommentar id="marin" type="neuzeit">
 <lemma>François Louis Claude Marin</lemma>
 <eintrag>1721–1809. Frz. Literat. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;27, 1820), S.&#x202F;158–162.</eintrag>
@@ -12946,7 +12985,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <eintrag>1624–1689. Niederländ. Geistlicher.</eintrag>
 </kommentar>
 
-<kommentar id="mueller-eg" type="neuzeit">
+<kommentar id="mueller-ee" type="neuzeit">
 <lemma>Ernst Egidius Müller</lemma>
 <eintrag>1723–1807. Manufakturhändler in Königsberg, väterlicher Freund von <link ref="kraus" linktext="true" />, vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Voigt: <titel>Das Leben des Professor Christian Jacob Kraus </titel>, S.&#x202F;59</wwwlink>.</eintrag>
 </kommentar>
@@ -12975,7 +13014,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 
 <kommentar id="mueller-ms" type="neuzeit">
 <lemma>M. S. Müller</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Beb. Baranowski, Ehefrau von <link ref="mueller-ge" linktext="true" /> und Pflegemutter von <link ref="kraus" linktext="true" />.</eintrag>
+<eintrag>Lebensdaten nicht ermittelt. Beb. Baranowski, Ehefrau von <link ref="mueller-ee" linktext="true" /> und Pflegemutter von <link ref="kraus" linktext="true" />.</eintrag>
 </kommentar>
 
  <kommentar id="mun" type="neuzeit">
@@ -13177,6 +13216,11 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 <lemma>Nicolai, <titel>Kleyner Almanach</titel></lemma>
 <eintrag>
 <titel>Eyn feyner kleyner Almanach: Vol schönerr echterr liblicherr Volckslieder, lustigerr Reyen vnndt kleglicherr Mordgeschichten, gesungen von Gabriel Wunderlich weyl. Benkelsengernn zu Dessaw, herausgegeben von Daniel Seuberlich, Schusternn tzu Ritzmück ann der Elbe</titel> (2 Bde., Berlin, Stetin: Nicolai 1777–1778 [1776–1777]). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925062-9">ULB Halle: GK 4.1110</wwwlink>.</eintrag>
+</subsection>
+<subsection id="nicolai-bunkel" type="neuzeit" sort="50">
+<lemma>Nicolai, <titel>Ein paar Worte betreffend Johann Bunkel und Christoph Martin Wieland</titel></lemma>
+<eintrag>
+<titel>Ein paar Worte betreffend Johann Bunkel und Christoph Martin Wieland von Friedrich Nicolai</titel> (Berlin, Stettin 1779). Digitalisat: <wwwlink address="https://books.google.de/books?id=BOA6AAAAcAAJ"></wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -16952,6 +16996,11 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 </subsection>
 </kommentar>
 
+<kommentar id="reinhard-jc" type="neuzeit">
+<lemma>Johann Christian Reinhard</lemma>
+<eintrag>1726–1794. Pastor in Staßfurt, siehe <wwwlink address="https://d-nb.info/gnd/104226293">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="straton" type="neuzeit">
 <lemma>Straton von Sardis</lemma>
 <eintrag>2. Jahrhundert n. Chr. Verfasser von Epigrammen.</eintrag>
@@ -17520,6 +17569,18 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <lemma>Tiphaigne de la Roche, <titel>Giphantie</titel></lemma>
 <eintrag>
 <titel>Giphantie. A Babylone</titel> (Paris 1760).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="toaldo" type="neuzeit">
+<lemma>Giuseppe Toaldo</lemma>
+<eintrag>1719–1797. Italienischer Astronom und Meteorologe, Abt in Padua, siehe <wwwlink address="http://d-nb.info/gnd/117628204">GND</wwwlink>.
+</eintrag>
+<subsection id="toaldo-witterungslehre" type="neuzeit">
+<lemma>Toaldo, <titel>Witterunglehre für den Feldbau</titel></lemma>
+<eintrag>
+<titel>Witterunglehre für den Feldbau. Eine, von der Königl. Societät der Wissenschaften zu Montpellier gekrönte Preisschrift, über die für das Jahr 1774. aufgelegte Frage: Was hat die Witterung für Einfluß auf den Wachsthum der Pflanzen, und was für praktische Folgerungen lassen sich, in Rücksicht auf den Wachsthum, aus den verschiedenen bisher gemachten Wetterbeobachtungen ziehen? Vom Herrn Abt, Joseph Toaldo […], Aus dem Italienischen übersetzt von Johann Gottlieb Steudel.</titel> (Berlin: Himburg 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10299293-4">BSB München: Oecon. 1707</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 

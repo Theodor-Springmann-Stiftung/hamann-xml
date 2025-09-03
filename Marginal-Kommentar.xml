@@ -68057,7 +68057,7 @@ Brief Nr. 532a
 <bzg>vorläufigen Ονησιμοις</bzg> <link ref="nt-philemon" subref="nt-philemon1" linktext="false">Phlm 8–10</link>
 </marginal>
 
-<marginal letter="532a" page="516" line="37">
+<marginal letter="532a" page="516" line="37"> 
 <bzg>Gleboka</bzg> <wwwlink address="https://www.geonames.org/772169">Głęboka</wwwlink>
 </marginal>
 
@@ -69963,7 +69963,7 @@ Brief Nr. 545
 </marginal>
 
 <marginal letter="545" page="58" line="13"> 
-<bzg>Mercurs&#x202F;…&#x202F;Buncle</bzg> <link ref="wieland" linktext="false">Wieland</link> ‚zergliederte‘ im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> (Juli 1778, S.&#x202F;75–90, August 1778 165–172, Oktober 1778 S. 55–75) die bei <link ref="nicolai" linktext="false">Nicolai</link> erscheinende Übersetzung des <link ref="amory" subref="amory-buncle" linktext="false"><titel>Life of John Buncle</titel></link>, worauf Nicolai wiederum in <wwwlink address="https://books.google.de/books?id=BOA6AAAAcAAJ"><titel>Ein paar Worte betreffend Johann Bunkel und Christoph Martin Wieland</titel></wwwlink> reagierte und der Streit sich hinzog.
+<bzg>Mercurs&#x202F;…&#x202F;Buncle</bzg> <link ref="wieland" linktext="false">Wieland</link> ‚zergliederte‘ im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> (Juli 1778, S.&#x202F;75–90, August 1778 165–172, Oktober 1778 S. 55–75) die bei <link ref="nicolai" linktext="false">Nicolai</link> erscheinende Übersetzung des <link ref="amory" subref="amory-buncle" linktext="false"><titel>Life of John Buncle</titel></link>, worauf Nicolai wiederum in <link ref="nicolai" subref="nicolai-bunkel" linktext="true" /> reagierte und der Streit sich hinzog.
 </marginal>
 
 <marginal letter="545" page="58" line="14">
@@ -70861,7 +70861,7 @@ Hamann sandte den Brief ab, bevor ihn <intlink letter="549" page="63" line="5" l
 </marginal>
 
 <marginal letter="550" page="69" line="28" >
-<bzg>Dom. Misericordias.</bzg> 18. April 1779
+<bzg>Dom. Misericordias</bzg> 18. April 1779
 </marginal>
 
 <marginal letter="550" page="69" line="29" >
@@ -71040,7 +71040,7 @@ Brief Nr. 551
 </marginal>
 
 <marginal letter="551" page="72" line="3" sort="2" >
-<bzg>Müller</bzg> <link ref="mueller-eg" linktext="true" />
+<bzg>Müller</bzg> <link ref="mueller-ee" linktext="true" />
 </marginal>
 
 <marginal letter="551" page="72" line="4" >
@@ -71180,40 +71180,220 @@ könnte.“
 <bzg>Landsmann Lr</bzg> <link ref="linder-gi" linktext="true" />
 </marginal>
 
-<marginal letter="551" page="73" line="9" sort="3" >
+<marginal letter="551" page="73" line="9" sort="3" > 
 <bzg>Mandosium</bzg> <link ref="mandosius" subref="mandosius-bibliotheca" linktext="true" />
 </marginal>
 
 <marginal letter="551" page="73" line="10" >
-<bzg>Lud. Jacobillum</bzg> 
+<bzg>Lud. Jacobillum</bzg> <link ref="jacobillus" subref="jacobillus-bibliotheca" linktext="true" />
 </marginal>
 
-<marginal letter="551" page="73" line="12" >
-<bzg>Marianus de Raynaldis</bzg> 
+<marginal letter="551" page="73" line="12" > 
+<bzg>Marianus de Raynaldis</bzg> <link ref="marianus-raynaldis" linktext="true" />, für die Fortsetzung der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link>, worin der Eintrag zu Marianus Rainaldis (in <link ref="jacobillus" subref="jacobillus-bibliotheca" linktext="true" />, S.&#x202F;196) in einer Anmerkung zitiert wird (<link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;276f.); zu Kraus Erledigung der Bitte vgl. <intlink letter="560" page="91" line="24" linktext="true" />.
 </marginal>
 
 <marginal letter="551" page="73" line="13" >
-<bzg>Göttingen und weiter</bzg> 
+<bzg>Göttingen und weiter</bzg> Dort plante Kraus sein Studium fortzusetzen.
 </marginal>
 
 <marginal letter="551" page="73" line="17" sort="1" >
-<bzg>Michaelis Meße </bzg> 
+<bzg>Michaelis Meße</bzg> Hamann wollte offenbar die <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> zur Herbstmesse publizieren.
 </marginal>
 
 <marginal letter="551" page="73" line="17" sort="2" >
-<bzg>Traldo</bzg> 
+<bzg>Traldo</bzg> <link ref="toaldo" subref="toaldo-witterungslehre" linktext="true" />
 </marginal>
 
 <marginal letter="551" page="73" line="18" >
-<bzg>Prof. Kt</bzg> 
+<bzg>Prof. Kt</bzg> <link ref="kant" linktext="true" />
 </marginal>
 
 <marginal letter="551" page="73" line="19" >
-<bzg>C’est un gouffre</bzg> 
+<bzg>C’est un gouffre</bzg> Dt. das ist ein Abgrund.
 </marginal>
 
-<marginal letter="551" page="73" line="" >
-<bzg></bzg> 
+<marginal letter="551" page="73" line="20" >
+<bzg>besuchen</bzg> vgl. <intlink letter="550" page="70" line="25" linktext="true" /> und <intlink letter="551" page="74" line="8" linktext="false">unten</intlink>
+</marginal>
+
+<marginal letter="551" page="73" line="21" >
+<bzg>Biester&#x202F;jungen Ehmann</bzg> <link ref="biester" linktext="true" />, nicht ermittelt
+</marginal>
+
+<marginal letter="551" page="73" line="22" >
+<bzg>HE Wirth</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="551" page="73" line="23" >
+<bzg>Harris</bzg> <link ref="harris" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="73" line="24" >
+<bzg>Regno&#x202F;…</bzg> Dt. Herrschaftsgebiet über Pflanzen und Tiere; gemeint ist Hamanns Garten nach den Streitigkeiten mit den <link ref="blom-w" linktext="false">Blomschen Erben</link>.
+</marginal>
+
+<marginal letter="551" page="73" line="26" >
+<bzg>im Minerali – tant pis! PROVIDEBIT</bzg> im Mineralreich (bezogen auf menschliche Körper?!?) – macht nichts! Er wird dafür sorgen (etwa <link ref="at-mo1" subref="at-mo1-22" linktext="false">1 Mo 22,8</link>)
+</marginal>
+
+<marginal letter="551" page="73" line="28" sort="1" >
+<bzg>Hänschen&#x202F;…&#x202F;dem sämtl. Kleeblättchen</bzg> <link ref="hamann-jm" linktext="true" /> und seine drei Schwestern
+</marginal>
+
+<marginal letter="551" page="73" line="28" sort="2" >
+<bzg>Frl. Marianchen</bzg> <link ref="hamann-ms" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="73" line="30" >
+<bzg>Fragmente&#x202F;</bzg> <link ref="hamann-konxompax" subref="hamann-konxompax" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="73" line="32" sort="1" >
+<bzg>Alexander von Adl.</bzg> Alexander von Adlersheim, der fingierte Autor der 1. Auflage von <link ref="starck" subref="starck-apologie" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="73" line="32" sort="2" >
+<bzg>Meiners</bzg> Christoph Meiners und seine Schrift <titel>Ueber die Mysterien der Alten, besonders die Eleusinischen Geheimnisse,</titel> in: <link ref="meiners" subref="meiners-vermischte" linktext="true" />, Bd.&#x202F;3, S.&#x202F;164–342
+</marginal>
+
+<marginal letter="551" page="73" line="32" >
+<bzg>Falk</bzg> <link ref="lessing" subref="lessing-ernst-falk" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="73" line="33" sort="1" > 
+<bzg>Crata Repoa</bzg> <link ref="koeppen" subref="koeppen-crata-repoa" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="73" line="33" sort="2" >
+<bzg>Verleger</bzg> <link ref="stahlbaum-cf" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="1" >
+<bzg>Dominica Misericordias</bzg> 18. April 1779
+</marginal>
+
+<marginal letter="551" page="74" line="2" >
+<bzg>Lehnchen Käthchen</bzg> <link ref="hamann-mc" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="5" >
+<bzg>drey Ringe&#x202F;…&#x202F;3 Dinge</bzg> Kraus schrieb an Hamann in seinem nicht überlieferten Brief (10. März in Königsberg angekommen) über die Ringparabel in Lessings <link ref="lessing" subref="lessing-nathan" linktext="false">Nathan</link>, wobei Hamann sich in der Handschrift verlas und anstatt ‚Ringe‘ ‚Dinge‘ las, vgl. <intlink letter="547" page="60" line="31" linktext="true" />. Unterdessen las Hamann offenbar entweder den <titel>Nathan</titel> selbst (er wurde zur Frühjahrsmesse 1779 ausgeliefert) oder informierte sich anderweitig.
+</marginal>
+
+<marginal letter="551" page="74" line="7" >
+<bzg>Nathan&#x202F;…&#x202F;Idee de pudendi</bzg> <link ref="lessing" subref="lessing-nathan" linktext="true" />; gemeint ist wohl Hamanns Konzept der Verbindung von Genesis und Sexualität in der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link>, vgl. <intlink letter="547" page="60" line="34" linktext="true" />.
+</marginal>
+
+<marginal letter="551" page="74" line="8" >
+<bzg>Kant</bzg> <link ref="kant" linktext="true" />, vgl. <intlink letter="550" page="70" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="9" >
+<bzg>HE Müller</bzg> <link ref="mueller-er" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="12" >
+<bzg>Forster</bzg> <link ref="forster-g" subref="forster-reise" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="13" >
+<bzg>Durchreisender</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="551" page="74" line="14" sort="1" >
+<bzg>Leßing</bzg> <link ref="lessing" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="14" sort="2" >
+<bzg>HE Jordan</bzg> <link ref="jordan" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="15" >
+<bzg>Semler</bzg> <link ref="semler" subref="semler-beantwortung-fragmente" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="16" >
+<bzg>Steinbarts Philosophie</bzg> <link ref="steinbart" subref="steinbart-system" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="20" sort="1" >
+<bzg>F. aus G.</bzg> Mglw. zu lesen: <link ref="penzel" linktext="false">Penzel</link> aus <wwwlink address="https://www.geonames.org/772169">Gleboka</wwwlink>, vgl. <intlink letter="532a" page="516" line="37" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="" sort="2" >
+<bzg>Stelle des Mentors</bzg> wohl Kraus’ Pläne, als Begleiter oder Erzieher eines gewissen Hermes  nach Göttingen zu gehen, vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Voigt: <titel>Das Leben des Professor Christian Jacob Kraus,</titel> S.&#x202F;</wwwlink>74f. und <intlink letter="560" page="91" line="21" linktext="true" />,
+</marginal>
+
+<marginal letter="551" page="74" line="24" >
+<bzg>Nicolais 2 Bogen&#x202F;…&#x202F;2 Gegner</bzg> Nicolais Schrift <link ref="nicolai" subref="nicolai-bunkel" linktext="false"><titel>Ein paar Worte betreffend Johann Bunkel</titel></link> gegen <link ref="wieland" linktext="false">Wieland</link> anlässlich von dessen Kritik an der Übersetzung von <link ref="amory" subref="amory-buncle" linktext="false"><titel>Leben Bemerkungen und Meinungen Johann Bunkels</titel></link>, vgl. zu <intlink letter="545" page="58" line="13" linktext="true" /> 
+</marginal>
+
+<marginal letter="551" page="74" line="29" >
+<bzg>Brahl</bzg> <link ref="brahl" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="30" >
+<bzg>Geheimnis von seiner Autorschaft</bzg> <link ref="brahl" subref="brahl-gedichte" linktext="true" />, vgl. <intlink letter="560" page="92" line="8" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="" >
+<bzg>dortigen Chefs</bzg> Wohl aus dem Berliner Regierungskabinett bzw. der <link ref="general-akzise-und-zoll-direktion" linktext="false">Generalregie</link>; Hamann kommt zu der Frage wohl wegen der Widmung von Brahls Gedichten (vgl. <intlink letter="560" page="92" line="10" linktext="true" />) an Kraus’ Förder in Berlin, den <link ref="zedlitz" linktext="false">Minister von Zedlitz</link>
+</marginal>
+
+<marginal letter="551" page="74" line="34" >
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="36" >
+<bzg>Aelian</bzg> <link ref="aelian" subref="aelian-varhist" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="74" line="37" >
+<bzg>Xenophon’s Denkw.</bzg> <link ref="xenophon" subref="xenophon-sokrates" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="75" line="3" >
+<bzg>Mandosii Bibliotheca von Marianus de Raynaldis</bzg> <link ref="mandosius" subref="mandosius-bibliotheca" linktext="true" /> zu <link ref="marianus-raynaldis" linktext="true" />, <intlink letter="551" page="73" line="12" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="551" page="75" line="4" >
+<bzg>Crata Repoa</bzg> <link ref="koeppen" subref="koeppen-crata-repoa" linktext="true" />, <intlink letter="551" page="73" line="33" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="551" page="75" line="6" sort="1" >
+<bzg>Fr. Cons. R. Lindner</bzg> <link ref="lindner-aa" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="75" line="6" sort="2" >
+<bzg>Einl.</bzg> an <link ref="lindner-gi" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="551" page="75" line="7" >
+<bzg>Hirsch u Seelig</bzg> Henkel: Hirsch, NN, Verlagsangestellter im Friedlaenderschen Comptoir, vielleicht: Hirsch, Levi Joel oder Levi Joseph – nicht ermittelt eintragen?!?
+</marginal>
+
+<marginal letter="551" page="75" line="10" >
+<bzg>D. Hertz </bzg> <link ref="herz" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="75" line="11" >
+<bzg>Lotterie</bzg> vgl. <intlink letter="550" page="71" line="21" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="75" line="15" >
+<bzg>Kreutzfelds</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="75" line="17" >
+<bzg>Bibliothekariat Stelle</bzg> vgl. <intlink letter="550" page="71" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="551" page="75" line="20" sort="1" >
+<bzg>Lilienthal</bzg> Nicht ermittelt, einer der Kontakte von Kraus in Berlin, vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Voigt: <titel>Das Leben des Professor Christian Jacob Kraus,</titel> S.&#x202F;</wwwlink>78. – Henkel: Ernst Gottlieb Lilienthal (1745–1807), Seegerichts-Assessor?!?
+</marginal>
+
+<marginal letter="551" page="75" line="20" sort="2" >
+<bzg>Reinhardt</bzg> vmtl. <link ref="reinhard-jc" linktext="true" />
 </marginal>
 
 </marginalien>
