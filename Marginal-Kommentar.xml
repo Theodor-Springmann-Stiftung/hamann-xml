@@ -66320,7 +66320,7 @@ Brief Nr. 519
     <bzg>Aufklebezettel</bzg> vgl. <intlink letter="509" page="372" line="11" linktext="true" />
    </marginal>
 
-   <marginal letter="519" page="392" line="30">
+   <marginal letter="519" page="392" line="30"> 
     <bzg>Brutus für&#x202F;…&#x202F;Reichard</bzg> <link ref="herder" subref="herder-brutus" linktext="true" /> für <link ref="reichardt-jf" linktext="true" />
    </marginal>
 
@@ -70243,7 +70243,7 @@ Brief Nr. 547
 </marginal>
 
 <marginal letter="547" page="60" line="32" >
-<bzg>Leßings Nathan</bzg> <link ref="lessing" subref="lessing-nathan" linktext="false"><titel>Nathan der Weise</titel></link>, für dessen Ringparabel die Boccaccio-Erzählung 1,3 Vorbild war, wurde erst zur Leipziger Ostermesse im Mai 1779 ausgeliefert (vgl. <link ref="lessing" linktext="false">Lessing: Werke und Briefe</link>, Bd.&#x202F;10, S.&#x202F;1129f.); Hamann stützt sich hier wohl auf Vorabinformationen aus Berlin, die er von <link ref="kraus" linktext="false">Kraus</link> in dessen nicht überliefertem Brief erhielt; vgl. nach der Lektüre des <titel>Nathan</titel> <intlink letter="551" page="74" line="5" linktext="true" />.
+<bzg>Leßings Nathan</bzg> <link ref="lessing" subref="lessing-nathan" linktext="false"><titel>Nathan der Weise</titel></link>, für dessen Ringparabel die Boccaccio-Erzählung 1,3 Vorbild war, wurde erst zur Leipziger Ostermesse im Mai 1779 ausgeliefert (vgl. <link ref="lessing" linktext="false">Lessing: Werke und Briefe</link>, Bd.&#x202F;10, S.&#x202F;1129f.); Hamann stützt sich hier wohl auf Vorabinformationen aus Berlin, die er von <link ref="kraus" linktext="false">Kraus</link> in dessen nicht überliefertem Brief erhielt; vgl. nach genauerer Kenntnis des <titel>Nathan</titel> <intlink letter="551" page="74" line="5" linktext="true" />, die Lektüre folgte Anfang Mai, vgl. <intlink letter="554" page="77" line="20" linktext="true" />.
 </marginal>
 
 <marginal letter="547" page="60" line="34" >
@@ -71177,7 +71177,7 @@ könnte.“
 </marginal>
 
 <marginal letter="551" page="73" line="9" sort="1" >
-<bzg>Bigam</bzg> Zweigespann in Berlin; nicht ermittelt, Kontakte von Kraus in Berlin waren etwa <link ref="biester" linktext="true" /> oder <link ref="philippi-waf" linktext="true" /> (<wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11575327-0"> Krause: <titel>Beiträge zum Leben von Christian Jakob Kraus</titel>, S.&#x202F;206).</wwwlink>
+<bzg>Bigam</bzg> Zweigespann in Berlin; nicht ermittelt, Kontakte von Kraus in Berlin waren etwa <link ref="biester" linktext="true" /> oder <link ref="steudel-jg" linktext="true" />, vgl. Kraus’ am <wwwlink address="https://korpora.org/kant/aa10/250.html">2. März 1779 an Kant geschriebenen Brief</wwwlink>.
 </marginal>
 
 <marginal letter="551" page="73" line="9" sort="2" >
@@ -71569,7 +71569,7 @@ Hamann sandte den Brief ab, bevor ihn <intlink letter="553" page="76" line="1" l
 </marginal>
 
 <marginal letter="554" page="77" line="3" sort="1" >
-<bzg>Einlage</bzg> Kantate beim Kirchgange?!?
+<bzg>Einlage</bzg> Henkel: Kantate beim Kirchgange?!?
 </marginal>
 
 <marginal letter="554" page="77" line="3" sort="2" >
@@ -71581,39 +71581,107 @@ Hamann sandte den Brief ab, bevor ihn <intlink letter="553" page="76" line="1" l
 </marginal>
 
 <marginal letter="554" page="77" line="9" >
-<bzg>Pansismum</bzg> 
+<bzg>Pansismum</bzg> Henkel: Neologismus von παν, gemäß Herders Vorliebe für die Offenbarung des Johannes?!?
 </marginal>
 
 <marginal letter="554" page="77" line="11" >
-<bzg>Warburton</bzg> 
+<bzg>Warburton</bzg> <link ref="warburton" linktext="true" />, vgl. <link ref="starck" subref="starck-kirchengeschichte" linktext="true" />, S.&#x202F;109f.
 </marginal>
 
 <marginal letter="554" page="77" line="14" >
-<bzg>atrum piscem</bzg> 
+<bzg>geschwätzige Weib&#x202F;…&#x202F;atrum piscem</bzg> vgl. <link ref="horaz" subref="horaz-poetica" linktext="true" />, 1–5: „Humano capiti cervicem pictor equinam / iungere si velit et varias inducere plumas / undique collatis membris, ut turpiter atrum / desinat in piscem mulier formosa superne, / spectatum admissi risum teneatis, amici?“ Übers.: „Wenn ein Maler mit dem Kopf eines Menschen den Hals eines Pferdes verbinden wollte und buntes Gefieder an Gliedmaßen anlegen, die von überallher zusammengetragen sind, so dass in einen schwarzen Fisch eine oben schöne Frau scheußlich ausliefe, könntet ihr, sobald man euch zum Anschauen zugelassen hätte, das Lachen zurückhalten, Freunde?“
 </marginal>
 
 <marginal letter="554" page="77" line="15" >
-<bzg>Vorrede&#x202F;…</bzg> vom Verleger Georg Jacob Decker in Berlin
-</marginal>
-
-<marginal letter="554" page="77" line="16" sort="1" >
-<bzg>Geschichte seiner hiesigen Händel</bzg> 
+<bzg>Vorrede&#x202F;…</bzg> vom Verleger <link ref="decker" linktext="true" /> in Berlin
 </marginal>
 
 <marginal letter="554" page="77" line="16" sort="2" >
-<bzg>Kanter</bzg> 
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="554" page="77" line="17" >
-<bzg>Consistorialrath Bock</bzg> 
+<bzg>Consistorialrath Bock</bzg> <link ref="bock-fs" linktext="true" />
 </marginal>
 
 <marginal letter="554" page="77" line="18" sort="1" >
-<bzg>Apologie des Χ stentums</bzg> 
+<bzg>Apologie des Χ stentums</bzg> gemeint ist <link ref="starck" subref="starck-kirchengeschichte" linktext="true" />, nach <link ref="starck" subref="starck-apologie" linktext="true" />
 </marginal>
 
 <marginal letter="554" page="77" line="18" sort="2" >
-<bzg>Decker</bzg> 
+<bzg>Decker</bzg> <link ref="decker" linktext="true" />
+</marginal>
+
+<marginal letter="554" page="77" line="20" >
+<bzg>Nathan</bzg> <link ref="lessing" subref="lessing-nathan" linktext="true" />
+</marginal>
+
+<marginal letter="554" page="77" line="21" >
+<bzg>2 Theil der Juden</bzg> nach <link ref="lessing" subref="lessing-juden" linktext="true" />
+</marginal>
+
+<marginal letter="554" page="77" line="25" sort="1" >
+<bzg>deutsche Sprachforscher</bzg> <link ref="nast-j" subref="nast-sprachforscher" linktext="true" />
+</marginal>
+
+<marginal letter="554" page="77" line="25" sort="2" >
+<bzg>Mätzken</bzg> <link ref="mazke" subref="mazke-grammatik" linktext="true" />; die Schrift wird bei Nast allenthalben erwähnt; Hamann interessierte sich im Kontext der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link> dafür.
+</marginal>
+
+<marginal letter="554" page="77" line="28" >
+<bzg>zweite Band</bzg> ein solcher ist nie erschienen
+</marginal>
+
+<marginal letter="554" page="77" line="29" sort="1" >
+<bzg>Domitor</bzg> Pseudonym von <link ref="hemmer" linktext="true" />; vgl. <link ref="nast-j" subref="nast-sprachforscher" linktext="true" />, Tl.&#x202F;1 [S.&#x202F;14f.]
+</marginal>
+
+<marginal letter="554" page="77" line="29" sort="2" >
+<bzg>Schrift</bzg> <link ref="hemmer" subref="hemmer-grundris" linktext="true" />
+</marginal>
+ 
+<marginal letter="554" page="77" line="30" >
+<bzg>Ihren Wink</bzg> vgl. <intlink letter="539" page="40" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="554" page="77" line="31" >
+<bzg>Fortsetzung der neuen Apologie</bzg> <link ref="hamann" subref="hamann-scherflein" linktext="true" />
+</marginal>
+
+<marginal letter="554" page="77" line="33" >
+<bzg>mit dem Geschichtschreiber der deutschen Republick zu reden&#x202F;…</bzg> 
+</marginal>
+
+<marginal letter="554" page="77" line="34" >
+<bzg>Exrector Damm</bzg> 
+</marginal>
+
+<marginal letter="554" page="77" line="36" >
+<bzg>in Ihrer Plastik von Bildhauerey </bzg> 
+</marginal>
+
+<marginal letter="554" page="78" line="1" >
+<bzg>erste Period des Klopstocks</bzg> 
+</marginal>
+
+<marginal letter="554" page="78" line="5" >
+<bzg>abeat cum ceteris erroribus</bzg> 
+</marginal>
+
+<marginal letter="554" page="78" line="6" >
+<bzg>mein Geschmier</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, vgl. <intlink letter="553" page="76" line="2" linktext="true" />
+</marginal>
+
+<marginal letter="554" page="78" line="9" >
+<bzg>Fortsetzung des Falk und Ernst</bzg> <link ref="lessing" subref="lessing-ernst-falk" linktext="true" /> (Gespräche 4 und 5), vgl. <intlink letter="549" page="65" line="21" linktext="true" />
+</marginal>
+
+<marginal letter="554" page="78" line="11" >
+<bzg>Kapellmeister Ihren Brutus</bzg> ob <link ref="reichard-jf" linktext="true" /> Herders <link ref="herder" subref="herder-brutus" linktext="false"><titel>Brutus</titel>-Drama</link> bekommen habe
+</marginal>
+
+<marginal letter="554" page="78" line="12" >
+<bzg>damaligen Abrede</bzg> vgl. <intlink letter="519" page="392" line="30" linktext="true" /> und <intlink letter="515" page="384" line="33" linktext="true" /> 
 </marginal>
 
 </marginalien>

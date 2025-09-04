@@ -3895,6 +3895,11 @@ Dangeuil verwandte sehr frei J. Tuckers <link ref="tucker" subref="tucker-essay"
 <eintrag>Lebensdaten nicht ermittelt.</eintrag>
 </kommentar>
 
+<kommentar id="decker" type="neuzeit">
+<lemma>Georg Jacob Decker</lemma>
+<eintrag>1732–1799. Hofbuchdrucker und Verleger in Berlin ab 1763, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd138826390.html#adbcontent">Kelchner, Ernst: Decker, in: <titel>ADB</titel>&#x202F;5 (1877), S.&#x202F;4–8</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="decore" type="neuzeit">
 <lemma>Godefroi Décoré</lemma>
 <eintrag>Lebensdaten nicht ermittelt.</eintrag>
@@ -7488,6 +7493,17 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <eintrag>1725–1800. Leitet den Verlag Johann Heinrich Meyers in Lemgo, verlegte <link ref="penzel" linktext="false">Penzels</link> <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />, Schwiegervater von <link ref="dohm-cw" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116693398.html#adbcontent">Kelchner, Ernst: Helwing, Christian Friedrich, in: <titel>ADB</titel>&#x202F;11 (1880), S.&#x202F;718f</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="hemmer" type="neuzeit">
+<lemma>Johann Jakob Hemmer</lemma>
+<eintrag>1733–1790. Meteorologe und Sprachforscher in Mannheim, veröffentlichte unter dem Pseudonym ‚Domitor‘; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118826190.html#ndbcontent">Klemm, Friedrich: Hemmer, Johann Jacob, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;510f.</wwwlink>
+</eintrag>
+<subsection id="hemmer-grundris" type="neuzeit" sort="10">
+<lemma>Hemmer, <titel>Grundris einer dauerhaften Rechtschreibung</titel></lemma>
+<eintrag>
+<titel>Jakob Domitor’s Grundris einer dauerhaften Rechtschreibung, Deütschland zur Prüfung forgeleget</titel> (Mannheim: Kurfürstliche Hofbuchdruckerei 1776). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN635669153">SUB Göttingen</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="hemsterhuis" type="neuzeit">
 <lemma>Frans Hemsterhuis</lemma>
 <eintrag>1721–1790. Niederl. Philosoph und Schriftsteller, nahm später am Münsterschen Kreis teil, <wwwlink address="http://www.zeno.org/Meyers-1905/A/Hemsterhuis">Meyers Großes Konversations-Lexikon, Band 9. Leipzig 1907, S. 164</wwwlink>.
@@ -9162,7 +9178,8 @@ K
 <kommentar id="kant" type="neuzeit">
 <lemma>Immanuel Kant</lemma>
 <eintrag>1724–1804. Bis 1754 Hauslehrer/Hofmeister, 1755 wieder in Königsberg, zum Magister promoviert, ab Wintersemester 1755/56 Vorlesungen als Privatdozent; 1766–1772 Unterbibliothekar der königlichen Schlossbibliothek, ab 1770 Professor für Logik und Metaphysik; <wwwlink address="https://www.deutsche-biographie.de/pnd118559796.html#adbcontent">Prantl, Carl v.: Kant, Immanuel, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;81–97</wwwlink>.<line type="break" />
-Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) (bisher 29&#xA0;Bde.; Berlin 1900ff.)
+Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) (bisher 29&#xA0;Bde.; Berlin 1900ff.)<line type="break" />
+Briefe Online: <wwwlink address="https://korpora.org/kant/aa10/Inhalt10.html">AA X</wwwlink>.
 </eintrag>
 <subsection id="kant-dilucidatio" type="neuzeit" sort="10">
 <lemma>Kant, <titel>Nova dilucidatio</titel></lemma>
@@ -10604,6 +10621,12 @@ Zweisprachige Dänisch/Lateinische Ausgabe (1767): Knud Leems <titel>Beskrivelse
 <eintrag>1729–1781. <wwwlink address="https://www.deutsche-biographie.de/pnd118572121.html#adbcontent">Redlich: Lessing, Gotthold Ephraim, in: <titel>ADB</titel>&#x202F;19 (1884), S.&#x202F;756–802</wwwlink>.<line type="break" />
 Wiss. Ausg.: <titel>Werke und Briefe</titel>, hg.&#xA0;v. Wilfried Barner (12&#xA0;Bde. in 14&#xA0;Teilbden, Berlin 2003).
 </eintrag>
+<subsection id="lessing-juden" type="neuzeit" sort="25">
+<lemma>Lessing, <titel>Die Juden</titel></lemma>
+<eintrag>
+<titel>Die Juden. Ein Lustspiel in einem Aufzuge. Verfertiget im Jahr 1749.</titel> In: G. E. Lessings Schriften. 4. Tl. (Berlin: Voss 1754), S.&#x202F;225–312. Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/10440CC9">ÖNB Wien: 627447-A.4 THE MAG</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="kleinigkeiten" type="neuzeit" sort="10">
 <lemma>Lessing, <titel>Kleinigkeiten</titel></lemma>
 <eintrag>
@@ -11896,6 +11919,25 @@ Martianus Capella, <titel>De nuptiis Philologiae et Mercurii</titel>. Von Hamann
 </eintrag>
 </kommentar>
 
+<kommentar id="mazke" type="neuzeit">
+<lemma>Abraham Gotthelf Mäzke</lemma>
+<eintrag>Lehrer am Waisenhaus zu Bunzlau, 1779 Rektor der evangelischen Schule in Landshut, siehe <wwwlink address="http://d-nb.info/gnd/140260293">GND</wwwlink>.
+</eintrag>
+<subsection id="mazke-grammatik" type="neuzeit">
+<lemma>Mäzke, <titel>Grammatische Abhandlungen über die teutsche Sprache</titel></lemma>
+<eintrag>
+<titel>Grammatische Abhandlungen über die teutsche Sprache von Abraham Gotthelf Mäzken. Erster Band</titel> (Breslau: Meyer 1776). N&#x202F;V,350. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584023-9">BSB München: L.germ. 163-1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="mazke-worterfamilien" type="neuzeit">
+<lemma>Mäzke, <titel>Grammatische Abhandlungen über die teutsche Sprache</titel></lemma>
+<eintrag>
+<titel>Abraham Gotthelf Mäzkens Versuch in deutschen WörterFamilien; nebst einer orthographischen Abhandlung vom etymologischen oder Dienst-h</titel> (Breslau: Korn 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523329-7">BSB München: 4 L.germ. 19 k</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+Grammatische Abhandlungen über die teutsche Sprache. Bd 1. Breslau 1776 [mehr nicht ersch.] N V,350. IV,77; 113.
+Versuch in deutschen Wörter- Familien, nebst einer orthographischen Abhandlung vom Etymologischen oder Dienst=h.Breslau 1779. IV,113(neues Buch).
+
 <kommentar id="maubert" type="neuzeit">
 <lemma>Jean Henri Maubert de Gouvest</lemma>
 <eintrag>1721–1767. Frz. entlaufener Mönch, Abenteurer, Artillerieoffizier, Schriftsteller. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;11/12, 1847), S.&#x202F;297.
@@ -13094,6 +13136,17 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 
 
 N
+
+<kommentar id="nast-j" type="neuzeit">
+<lemma>Johannes Nast</lemma>
+<eintrag>1722–1807. Prof. am Gymnasium in Stuttgart, siehe <wwwlink address="https://d-nb.info/gnd/116884541">GND</wwwlink>.</eintrag>
+<subsection id="nast-sprachforscher" type="neuzeit">
+<lemma>Nast, <titel>Der teutsche Sprachforscher</titel></lemma>
+<eintrag>
+<titel>Der teutsche Sprachforscher, allen Liebhaber der Muttersprache zur Prüfung vorgelegt</titel> (2 Tle., Stuttgart: Metzler 1777–1778). Vgl. N&#x202F;V,349. Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.26002">UB Heidelberg</wwwlink>, vgl. <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1067478817">ZDB</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="naumann" type="neuzeit">
 <lemma>Christian Nicolaus Naumann</lemma>
 <eintrag>1720–1797. 1749 Promotion zum Magister in Jena, hielt dort Vorlesungen zu deutscher Beredsamkeit und Dichtkunst, später Wanderleben zwischen Hamburg, Frankfurt (Oder), Leipzig, Zürich, Dresden und Straßburg, ab etwa 1777 Niederlassung in Görlitz. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz68112.html#adbcontent">Muncker, Franz: Naumann, Christian Nicolaus, in: <titel>ADB</titel>&#x202F;23 (1886), S.&#x202F;302–305</wwwlink></eintrag>
@@ -16703,7 +16756,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="starck" type="neuzeit">
 <lemma>Johann August Starck</lemma>
-<eintrag>1741–1816. Evang. Theologe, 1763 Lehrer in St. Petersburg, 1769 außerordentlicher Professor der morgenländischen Sprachen in Königsberg (protegiert von <link ref="busching" linktext="true" />, wohnhaft zunächst bei <link ref="kanter" linktext="true" />), 1770 Zweiter Hofprediger, 1776 Oberhofprediger, Generalsuperintendent, verläßt 1777 Königsberg nach Streitigkeiten in der Fakultät, darauf Gymnasialprofessor in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> und 1781 Oberhofprediger und Konsistorialrat in Darmstadt; Mitte der 1780er Jahre in den Kryptokatholizismusstreit mit <link ref="nicolai" linktext="true" /> verwickelt, an dem Hamann indirekt über <link ref="jacobi" linktext="true" /> Anteil nahm (posthum stellte sich heraus, dass er 1766 heimlich in Paris zum Katholizismus konvertiert war); gründete als Freimaurer das ‚Klerikat der Templer‘ und war auch sonst sehr aktiv in der Freimaurerszene, 1770–1777 Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>; Hamanns Beichtvater 1775–1776, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink>.</eintrag>
+<eintrag>1741–1816. Evang. Theologe, 1763 Lehrer in St. Petersburg, 1769 außerordentlicher Professor der morgenländischen Sprachen in Königsberg (protegiert von <link ref="busching" linktext="true" />, wohnhaft zunächst bei <link ref="kanter" linktext="true" />), 1770 Zweiter Hofprediger, 1776 Oberhofprediger, Generalsuperintendent, verläßt 1777 Königsberg nach Streitigkeiten in der Fakultät, darauf Gymnasialprofessor in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> und 1781 Oberhofprediger und Konsistorialrat in Darmstadt; Mitte der 1780er Jahre in den Kryptokatholizismusstreit mit <link ref="nicolai" linktext="true" /> verwickelt, an dem Hamann indirekt über <link ref="jacobi" linktext="true" /> Anteil nahm (posthum stellte sich heraus, dass er 1766 heimlich in Paris zum Katholizismus konvertiert war); gründete als Freimaurer das ‚Klerikat der Templer‘ und war auch sonst sehr aktiv in der Freimaurerszene, 1770–1777 Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>; Hamanns Beichtvater 1775–1776; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink> und <link ref="ves-m-2012" linktext="false">Vesper: <titel>Aufklärung – Esoterik – Reaktion. Johann August Starck (1741–1816)</titel></link>.</eintrag>
 <subsection id="starck-aeschylo" type="neuzeit" sort="10">
 <lemma>Starck, <titel>De Aeschylo</titel></lemma>
 <eintrag>
