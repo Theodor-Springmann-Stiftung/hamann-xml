@@ -69802,7 +69802,7 @@ Brief Nr. 545
 <bzg>physiognomischen Reisen</bzg> <link ref="musaus" subref="musaus-physiognomische-reisen" linktext="true" />
 </marginal>
 
-<marginal letter="545" page="56" line="25">
+<marginal letter="545" page="56" line="25"> 
 <bzg>von Jung</bzg> <link ref="junck" linktext="true" />
 </marginal>
 
@@ -71369,11 +71369,15 @@ könnte.“
 </marginal>
 
 <marginal letter="551" page="75" line="6" sort="2" >
-<bzg>Einl.</bzg> an <link ref="lindner-gi" linktext="true" />, nicht überliefert
+<bzg>Einl.</bzg> an <link ref="lindner-gi" linktext="true" />, <intlink letter="552" page="75" line="22" linktext="false">HKB 552</intlink>
 </marginal>
 
-<marginal letter="551" page="75" line="7" >
-<bzg>Hirsch u Seelig</bzg> Henkel: Hirsch, NN, Verlagsangestellter im Friedlaenderschen Comptoir, vielleicht: Hirsch, Levi Joel oder Levi Joseph – nicht ermittelt eintragen?!?
+<marginal letter="551" page="75" line="7" sort="1" >
+<bzg>Hirsch</bzg> vmtl. ein Verlagsangestellter im Friedlaenderschen Comptoir
+</marginal>
+
+<marginal letter="551" page="75" line="7" sort="2" >
+<bzg>Seelig</bzg> nicht ermittelt
 </marginal>
 
 <marginal letter="551" page="75" line="10" >
@@ -71398,6 +71402,45 @@ könnte.“
 
 <marginal letter="551" page="75" line="20" sort="2" >
 <bzg>Reinhardt</bzg> vmtl. <link ref="reinhard-jc" linktext="true" />
+</marginal>
+
+
+Brief Nr. 552
+
+<marginal letter="552" page="75" line="22" >
+Der Brief lag <intlink letter="551" page="75" line="6" linktext="false"></intlink> an Kraus nach Berlin bei.
+</marginal>
+
+<marginal letter="552" page="75" line="24" >
+<bzg>letztes vom 8 Feb.</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="552" page="75" line="25" >
+<bzg>Curl.</bzg> Kurland, wohl über <link ref="lindner-jef" linktext="true" /> in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>
+</marginal>
+
+<marginal letter="552" page="75" line="26" >
+<bzg>Mandosii</bzg> <link ref="mandosius" subref="mandosius-bibliotheca" linktext="true" />, vgl. <intlink letter="551" page="73" line="9" linktext="true" />
+</marginal>
+
+<marginal letter="552" page="75" line="27" >
+<bzg>Kraus</bzg> <link ref="kraus" linktext="true" />
+</marginal>
+
+<marginal letter="552" page="75" line="28" >
+<bzg>Marianum de Raynaldis</bzg> <link ref="marianus-raynaldis" linktext="true" /> vgl. <intlink letter="551" page="73" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="552" page="75" line="30" sort="1" >
+<bzg>Jung</bzg> <link ref="junck" linktext="true" />
+</marginal>
+
+<marginal letter="552" page="75" line="30" sort="2" >
+<bzg>Lebensläufe</bzg> <link ref="hippel" subref="hippel-lebenslaufe" linktext="true" />, vgl. <intlink letter="545" page="56" line="23" />
+</marginal>
+
+<marginal letter="552" page="75" line="32" >
+<bzg>Ihre Studia, u meine Otia</bzg> Lindners Studien (Bemühungen) und Hamanns Muße
 </marginal>
 
 </marginalien>
