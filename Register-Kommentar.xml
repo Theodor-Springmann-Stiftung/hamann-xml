@@ -9,7 +9,13 @@ A
 
 <kommentar id="abaelardus" type="neuzeit">
 <lemma>Peter Abaelard</lemma>
-<eintrag>1079–1142. Frz. Theologe. Die Liebesaffäre mit seiner Schülerin Heloisa war Muster für <link ref="rousseau" subref="rousseau-julie" linktext="true" />.
+<eintrag>1079–1142. Französischer Theologe. Die Liebesaffäre mit seiner Schülerin Heloisa war Muster für <link ref="rousseau" subref="rousseau-julie" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="abauzit" type="neuzeit">
+<lemma>Firmin Abauzit</lemma>
+<eintrag>1697–1767. Französisch-schweizer Gelehrter in Genf mit angeblich arabischem Hintergrund, siehe <wwwlink address="https://hls-dhs-dss.ch/de/articles/011018/2018-01-25/">Historisches Lexikon der Schweiz</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -3832,11 +3838,15 @@ Siehe auch Walther Ziesemer (Hg.), <titel>Simon Dach Gedichte</titel>, Bd.&#x202
 <eintrag>
 <titel>Das Neue Testament von neuem übersetzt und mit Anmerkungen begleitet</titel> (3&#xA0;Bde., Berlin 1764/65).</eintrag>
 </subsection>
-
 <subsection id="damm-lexicongraecum" type="neuzeit" sort="30">
 <lemma>Damm, <titel>Novum Lexicon Graecum</titel></lemma>
 <eintrag>
 <titel>Novum Lexicon Graecum Etymologicum et Reale, cui pro basi substratae sunt Concordantiae et Elucidationes Homericae et Pindaricae</titel> (2&#xA0;Bde., Berlin 1765/1778).</eintrag>
+</subsection>
+<subsection id="damm-betrachtungen-religion" type="neuzeit" sort="40">
+<lemma>Damm, <titel>Betrachtungen über die Religion</titel></lemma>
+<eintrag>
+<titel>Betrachtungen über die Religion. Durch C. T. D.</titel> (4&#x202F;Abteilungen, Berlin 1773). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773873-6">BSB München: Polem. 1145 a</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -7791,7 +7801,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <subsection id="herder-plastik" type="neuzeit" sort="450">
 <lemma>Herder, <titel>Plastik</titel></lemma>
 <eintrag>
-<titel>Plastik. Einige Wahrnehmungen aus Pygmalions bildendem Traume</titel> (Riga: Hartknoch 1778). – SWS VIII, S.&#x202F;1–163.
+<titel>Plastik. Einige Wahrnehmungen aus Pygmalions bildendem Traume</titel> (Riga: Hartknoch 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10044997-3">BSB München: Ph.sp. 1083 q#Beibd.1</wwwlink>. – SWS VIII, S.&#x202F;1–163.
 </eintrag>
 </subsection>
 <subsection id="herder-lieder-liebe" type="neuzeit" sort="455">
@@ -8203,7 +8213,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <subsection id="hippel-lebenslaufe" type="neuzeit" sort="80">
 <lemma>Hippel, <titel>Lebensläufe</titel></lemma>
 <eintrag>
-<titel>Lebensläufe nach Aufsteigender Linie</titel> (anonym erschienen, 3 Tle., Berlin: Voss 1778–1781; Tl. 1: 1778, Tl. 2: 1779, Tl., 3,1 und 3,2: 1781). <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-200905192484">Stabi Berlin: 337104</wwwlink>.
+<titel>Lebensläufe nach Aufsteigender Linie</titel> (anonym erschienen, 3 Tle., Berlin: Voss 1778–1781; Tl.&#x202F;1: 1778, Tl.&#x202F;2: 1779, Tl.&#x202F;3,1 und 3,2: 1781). <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-200905192484">Stabi Berlin: 337104</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -15182,7 +15192,7 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 <lemma>Rousseau, <titel>Julie ou La nouvelle Héloise</titel></lemma>
 <eintrag>
 <titel>Julie ou La nouvelle Héloise ou Lettres de deux amants habitans d’une petite ville au pied des alpes</titel> (6&#xA0;Bde., Amsterdam: Rey 1761). Digitalisate: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1040130r">Bibliothèque Nationale de France: RESERVE-8-BL-34363 (1)</wwwlink>.<line type="break" />
-Übers.: <titel>Julie oder Die neue Heloise. Briefe zweier Liebender aus einer kleinen Stadt am Fuße der Alpen</titel>, übers. von <link ref="gellius-jg" linktext="true" /> u.a. (Leipzig: Weidmann 1761).
+Übers.: <titel>Julie oder Die neue Heloise. Briefe zweier Liebender aus einer kleinen Stadt am Fuße der Alpen</titel>, übers. von <link ref="gellius-jg" linktext="true" /> u.a. (6 Tle., Leipzig: Weidmann 1761). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00005746-9">BSB München: Res/P.o.gall. 1935-1/2</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="rousseau-contrat" type="neuzeit" sort="40">
@@ -16794,6 +16804,12 @@ In mehreren überarbeiteten Auflagen erschienen, etwa Berlin: Stahlbaum 1778; Di
 <eintrag>
 <titel>Geschichte der Christlichen Kirche des Ersten Jahrhunderts</titel> (3 Bde., Berlin, Leipzig: Decker 1779–1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10027762-2">BSB München: H.eccl. 1110</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="starck-ma" type="neuzeit">
+<lemma>Marie Albertine Starck</lemma>
+<eintrag>Geb. Schultz (Tochter von <link ref="schultz-fa" linktext="true" />), Ehefrau von <link ref="starck" linktext="true" /> (seit 1774).
+</eintrag>
 </kommentar>
 
 <kommentar id="staupitz" type="neuzeit">
