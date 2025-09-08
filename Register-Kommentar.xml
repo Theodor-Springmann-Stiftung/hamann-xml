@@ -15,8 +15,14 @@ A
 
 <kommentar id="abauzit" type="neuzeit">
 <lemma>Firmin Abauzit</lemma>
-<eintrag>1697–1767. Französisch-schweizer Gelehrter in Genf mit angeblich arabischem Hintergrund, siehe <wwwlink address="https://hls-dhs-dss.ch/de/articles/011018/2018-01-25/">Historisches Lexikon der Schweiz</wwwlink>.
+<eintrag>1697–1767. Französisch-schweizer Universalgelehrter in Genf mit angeblich arabischem Hintergrund, siehe <wwwlink address="https://hls-dhs-dss.ch/de/articles/011018/2018-01-25/">Historisches Lexikon der Schweiz</wwwlink>.
 </eintrag>
+<subsection id="abauzit-oeuvres" type="neuzeit" sort="10">
+<lemma>Abauzit, <titel>Oeuvres</titel></lemma>
+<eintrag>
+<titel>Oeuvres de Feu M. Abauzit</titel> (Bd. 1, Genf 1770). Digitalisat: <wwwlink address="https://books.google.ch/books?id=6lc7AAAAcAAJ">Google Books</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="abbt" type="neuzeit">
@@ -25,7 +31,7 @@ A
 <subsection id="abbt-vaterland" type="neuzeit" sort="10">
 <lemma>Abbt, <titel>Vom Tod fürs Vaterland</titel></lemma>
 <eintrag>
-<titel>Vom Tod fürs Vaterland</titel> (Berlin: Nicolai 1761). Digitalisat: <wwwlink address=" http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10042065-7">BSB München: Ph.pr. 1185 e</wwwlink>.
+<titel>Vom Tod fürs Vaterland</titel> (Berlin: Nicolai 1761). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10042065-7">BSB München: Ph.pr. 1185 e</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="abbt-einfluss" type="neuzeit" sort="20">
@@ -4812,8 +4818,8 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 </kommentar>
 
 <kommentar id="estocq" type="neuzeit">
-<lemma>Johann Ludwig Estocq</lemma>
-<eintrag>1712–1779. Kriegsrat und Richter der frz. Kolonie in Königsberg, Stadtradt, Prof. der Rechte u. Kanzler der Universität ebd., siehe <wwwlink address="https://www.deutsche-biographie.de/sfz50655.html">Deutsche Biographie</wwwlink>.
+<lemma>Johann Ludwig L’Estocq</lemma>
+<eintrag>1712–1779. Kriegsrat und Richter der französischen Kolonie in Königsberg, Stadtradt, Professor der Rechte und Kanzler der Albertina, siehe <wwwlink address="https://books.google.de/books?id=NgI_AAAAcAAJ">Meusel: Lexikon der vom Jahr 1750 bis 1800 verstorbenen teutschen Schriftsteller</wwwlink>, Bd.&#x202F;3, S.&#x202F;191.
 </eintrag>
 </kommentar>
 
@@ -7176,7 +7182,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hamann-ms" type="neuzeit">
 <lemma>Marianne Sophie Hamann</lemma>
-<eintrag>18. November 1778 bis 15. März 1855. Die letzte Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />; Patenkind von <link ref="courtan-sm" linktext="true" /> und <link ref="herder-c" linktext="true" />; sie heiratete später Theodor Nicolovius.</eintrag>
+<eintrag>18. November 1778 bis 15. März 1855. Die letzte Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />; Patenkind von <link ref="courtan-sm" linktext="true" /> und <link ref="herder-c" linktext="true" />; sie heiratete später <link ref="nicolovius-t" linktext="false">Theodor Nicolovius</link>.</eintrag>
 </kommentar>
 
 <kommentar id="hamberger" type="neuzeit">
@@ -7860,7 +7866,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 </kommentar>
 
 <kommentar id="herder-a" type="neuzeit">
-<lemma>August Herder</lemma>
+<lemma>Siegmund August Wolfgang Herder</lemma>
 <eintrag>1776–1838. Sohn von <link ref="herder" linktext="true" /> und Patenkind Hamanns, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Schellhas, Walter: Herder, August Freiherr von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;594f.</wwwlink></eintrag>
 </kommentar>
 
@@ -13315,6 +13321,31 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 </subsection>
 </kommentar>
 
+<kommentar id="nicolovius-mb" type="neuzeit">
+<lemma>Matthias Balthasar Nicolovius</lemma>
+<eintrag>
+1717–1778. Hofrat und Obersekretär bei der Kriegs- und Domänenkammer in Königsberg, siehe <wwwlink address="https://books.google.de/books?id=l9kAAAAAcAAJ">Baczko: <titel>Denkschrift auf den Hofrath und Ober-Secretair Matthias Balthasar Nicolovius</titel>. In: Beiträge zur Kunde Preußens, Bd. 2 (Königsberg 1819), S.&#x202F;1–28</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="nicolovius-l" type="neuzeit">
+<lemma>Georg Heinrich Ludwig Nicolovius</lemma>
+<eintrag>1767–1839. Sohn von <link ref="nicolovius-mb" linktext="true" />, ab 1782 Student an der Albertina, Freund Hamanns, später Ministerialbeamter in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd124060552.html#ndbcontent">Meier, Uwe: Nicolovius, Ludwig, in: <titel>NDB</titel>&#x202F; 19 (1999), S.&#x202F;210f.</wwwlink>
+</eintrag>
+</kommentar>
+
+<kommentar id="nicolovius-f" type="neuzeit">
+<lemma>Friedrich Matthias Nicolovius</lemma>
+<eintrag>1768–1836. Bruder von <link ref="nicolovius-l" linktext="true" />, Buchhändlerlehrling bei <link ref="hartknoch" linktext="false">Hartknoch</link>, später Verleger u.a. von Schriften <link ref="kants" linktext="false">Kants</link> und <link ref="hamann" linktext="false">Hamanns</link>.
+</eintrag>
+</kommentar>
+
+<kommentar id="nicolovius-t" type="neuzeit">
+<lemma>Theodor Balthasar Nicolovius</lemma>
+<eintrag>1768–1831. Zwillingsbruder von <link ref="nicolovius-f" linktext="true" />, später Ehemann von <link ref="hamann-ms" linktext="true" /> und hoher preußischer Beamter in Gumbinnen und Danzig, siehe den Nachruf seines Neffen Alfred Nicolovius in <wwwlink address="https://books.google.de/books?id=ZQQBAAAAcAAJ">Preußische Provinzial-Blätter 8 (1832), S. 93–110</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="nonnos" type="neuzeit">
 <lemma>Nonnos</lemma>
 <eintrag>Nonnos von Panopolis. 5. Jhd.<line type="break" />
@@ -15023,6 +15054,11 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <lemma>Daniel Rittersdorf</lemma>
 <eintrag>1693–1770. Pfarrer in <wwwlink address="https://www.geonames.org/7532600">Elbing</wwwlink>.
 </eintrag>
+</kommentar>
+
+<kommentar id="roberthin" type="neuzeit">
+<lemma>Robert Roberthin</lemma>
+<eintrag>1600–1648. Sekretär am Hofgericht in Königsberg, später Oberhofsekretär und kurfürstl.-brandenburgischer Rat in Königsberg; Mittelpunkt des Dichterkreises ‚Kürbishütte‘ als geistlicher Liederdichter und Förderer von <link ref="dach" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="robinet" type="neuzeit">
