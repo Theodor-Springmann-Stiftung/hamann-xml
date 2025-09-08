@@ -3240,6 +3240,7 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 <kommentar id="claudius" type="neuzeit">
 <lemma>Matthias Claudius</lemma>
 <eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der <link ref="hamb-adresscomtoir" linktext="false">Hamburgische Adreß-Comtoir-Nachrichten</link>, 1771–1775 Redakteur des <titel>Wandsbecker Bothen</titel>, 1776–1777 Mitglied der Oberlandkommission in Darmstadt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink><line type="break" />
+Übersetzungen etwa von <link ref="terrasson" subref="terrasson-sethos" linktext="true" /> und <link ref="" subref="" linktext="true" /><line type="break" />
 Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>, hg. von Hans Jessen (Berlin 1938).</eintrag>
 <subsection id="claudius-bothe" type="neuzeit" sort="10">
 <lemma>Claudius, <titel>Der Wandsbecker Bothe</titel></lemma>
@@ -8362,7 +8363,6 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </subsection>
 </kommentar>
 
-
 <kommentar id="holdermann" type="neuzeit">
 <lemma>Jean-Baptiste Holdermann</lemma>
 <eintrag>1694–1730. Jesuitenpater in Konstantinopel.
@@ -8378,6 +8378,12 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <kommentar id="hollmann" type="neuzeit">
 <lemma>Samuel Christian Hollmann</lemma>
 <eintrag>1696–1787. Philosoph, Naturforscher in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11696474X.html#adbcontent">Wagenmann, Julius August: Hollmann, Samuel Christian, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;760–762</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="holtzhauer" type="neuzeit">
+<lemma>Georg Friedrich Holtzhauer</lemma>
+<eintrag>1746–1801. 1779 Professor der Rechte als Nachfolger <link ref="estocq" linktext="false">L’Estocqs</link> und Assessor im Stipendiaten-Kolleg, siehe <wwwlink address="https://books.google.de/books?id=nEA2AAAAIAAJ">Hamberger/Meusel: Das gelehrte Teutschland (5. Aufl., Lemgo 1797), Bd.&#x202F;3, S.&#x202F;411.</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -13336,7 +13342,7 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 
 <kommentar id="nicolovius-f" type="neuzeit">
 <lemma>Friedrich Matthias Nicolovius</lemma>
-<eintrag>1768–1836. Bruder von <link ref="nicolovius-l" linktext="true" />, Buchhändlerlehrling bei <link ref="hartknoch" linktext="false">Hartknoch</link>, später Verleger u.a. von Schriften <link ref="kants" linktext="false">Kants</link> und <link ref="hamann" linktext="false">Hamanns</link>.
+<eintrag>1768–1836. Bruder von <link ref="nicolovius-l" linktext="true" />, Buchhändlerlehrling bei <link ref="hartknoch" linktext="false">Hartknoch</link>, später Verleger u.a. von Schriften <link ref="kant" linktext="false">Kants</link> und <link ref="hamann" linktext="false">Hamanns</link>.
 </eintrag>
 </kommentar>
 
@@ -14660,6 +14666,20 @@ Tom. I–VI, Amst. 725“]. Digitalisat der Ausgabe 1732: <wwwlink address="http
 <lemma>Ramler (Hg.), <titel>Lieder der Deutschen</titel></lemma>
 <eintrag>
 <titel>Lieder der Deutschen</titel> (Berlin: Winter 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116685-8">BSB München: P.o.germ. 1119 x</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="ramsey" type="neuzeit">
+<lemma>Andrew Michael Ramsey</lemma>
+<eintrag>1686–1743. Schottisch-französischer Schriftsteller und Freimaurer.
+</eintrag>
+<subsection id="ramsey-cyrus" type="neuzeit">
+<lemma>Ramsey, <titel>Les Voyages de Cyrus</titel></lemma>
+<eintrag>
+<titel>Les Voyages de Cyrus, avec un Discours sur la Mythologie</titel> (2 Bde., Paris 1727). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/109CDAC1">ÖB Wien: BE.9.R.21.22.(Vol.1) ALT PRUNK</wwwlink>.<line type="break" />
+Übersetzung von <link ref="claudius" linktext="true" />: <titel>Die Reisen des Cyrus eine moralische Geschichte. Nebst einer Abhandlung über die Mythologie und alte Theologie, von dem Ritter von Ramsay Doctor der Universität zu Oxford. Aus dem Französischen übersetzt von Matthias Claudius, mit einer Vorrede des Asmus</titel> (Breslau: Löwe 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10727798-9">BSB München: Don.Lud. 142</wwwlink>.
+
 </eintrag>
 </subsection>
 </kommentar>
@@ -16258,7 +16278,6 @@ D. Joh. Salomo Semlers <titel>Abhandlung von freier Untersuchung des Canon nebst
 </subsection>
 </kommentar>
 
-
 <kommentar id="seneca" type="neuzeit">
 <lemma>Seneca</lemma>
 <eintrag>Lucius Annaeus Seneca. Ca. 1–65.</eintrag>
@@ -16488,6 +16507,18 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 </subsection>
 </kommentar>
 
+<kommentar id="skubich" type="neuzeit">
+<lemma>Christoph Skubich</lemma>
+<eintrag>1736–1784. Seit 1763 Pfarrer in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="skubich-f" type="neuzeit">
+<lemma>N.N. Skubich</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Geb. Steinkopf, verw. Strauch, zweite Ehefrau von <link ref="skubikch" linktext="true" />, Nichte <link ref="lindner-jg" linktext="false">J. G. Lindners</link>.</eintrag>
+</kommentar>
+
+
+ 
 <kommentar id="smollett" type="neuzeit">
 <lemma>Tobias Smollett</lemma>
 <eintrag>1721–1771. Schottischer Arzt und Schriftsteller, siehe <wwwlink address="https://www.britannica.com/biography/Tobias-Smollett">Allen, Walter E.: Tobias Smollett, in: <titel>Encyclopedia Britannica</titel></wwwlink>.

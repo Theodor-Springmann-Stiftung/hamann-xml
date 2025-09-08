@@ -58756,7 +58756,7 @@ Brief Nr. 467
 </marginal>
 
 <marginal letter="467" page="237" line="26">
-<bzg>ευκαιρως ακαιρως</bzg> zur Zeit oder zur Unzeit, <link ref="nt-tim2" subref="nt-tim2-4" linktext="false">2 Tim 4,2</link>
+<bzg>ευκαιρως ακαιρως</bzg> dt. zur Zeit oder zur Unzeit, <link ref="nt-tim2" subref="nt-tim2-4" linktext="false">2 Tim 4,2</link>
 </marginal>
 
 <marginal letter="467" page="237" line="30">
@@ -71505,12 +71505,16 @@ Brief Nr. 553
 <bzg>Museum</bzg> <link ref="boie" subref="boie-museum" linktext="true" />, vgl. <intlink letter="550" page="69" line="2" linktext="true" />
 </marginal>
 
-<marginal letter="553" page="76" line="6" >
+<marginal letter="553" page="76" line="6" sort="1" >
 <bzg>Druckfehler&#x202F;…</bzg> vgl. <intlink letter="550" page="69" line="29" linktext="true" />
 </marginal>
 
+<marginal letter="553" page="76" line="6" sort="2" >
+<bzg>Frau</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
 <marginal letter="553" page="76" line="8" >
-<bzg>Exemplare, die fort sollen</bzg> <intlink letter="" page="69" line="7" linktext="true" />
+<bzg>Exemplare, die fort sollen</bzg> vgl. <intlink letter="550" page="69" line="7" linktext="true" />
 </marginal>
 
 <marginal letter="553" page="76" line="10" >
@@ -71830,6 +71834,145 @@ Hamann sandte den Brief ab, bevor ihn <intlink letter="553" page="76" line="1" l
 
 <marginal letter="554" page="79" line="25" >
 <bzg>kleinen Wolfgang</bzg> <link ref="herder-a" linktext="true" />
+</marginal>
+
+
+Brief Nr. 553
+
+<marginal letter="555" page="80" line="2" sort="1" >
+<bzg>gestern eine Freude</bzg> die Ankunft von <intlink letter="553" page="76" line="1" linktext="false">HKB 553</intlink> mit der Nachricht von der Drucklegung des <link ref="konxompax" linktext="false">Konxompax</link> durch Herder
+</marginal>
+
+<marginal letter="555" page="80" line="2" sort="2" >
+<bzg>Exaudi und Himmelfahrt</bzg> 16. und 13. Mai 1779
+</marginal>
+
+<marginal letter="555" page="80" line="3" >
+<bzg>Geburt der Erbprinceßin</bzg> <link ref="luise-auguste-swe" linktext="true" />, vgl. <intlink letter="549" page="64" line="22" linktext="true" />; zur Analogie von Niederkunft und Druck einer Schrift vgl. <intlink letter="550" page="68" line="27" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="80" line="7" >
+<bzg>Johannis</bzg> 24. Juni 1779
+</marginal>
+
+<marginal letter="555" page="80" line="12" >
+<bzg>Freundin und Gevatterin</bzg> <link ref="herder-c" linktext="true" />, vgl. <intlink letter="553" page="76" line="6" sort="2" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="80" line="13" >
+<bzg>Adelgunde</bzg> Hamann folgt der Benennung für den <link ref="hamann" subref="hamann-ehe" linktext="false"><titel>Versuch der Sibylle über die Ehe,</titel></link> eine Schrift, die er wegen des Empfangs an ihrem Namenstag nach der Hl. Adelgunde taufte, vgl. <intlink letter="432" page="151" line="4" linktext="true" />; auch die fingierte Autorin des <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link> ist eine Sibylle.
+</marginal>
+
+<marginal letter="555" page="80" line="16" >
+<bzg>Gottfriedchen</bzg> vgl. <intlink letter="553" page="76" line="10" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="80" line="18" sort="1" >
+<bzg>Druck</bzg> von <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link>
+</marginal>
+
+<marginal letter="555" page="80" line="18" sort="2" >
+<bzg>Opera omnia</bzg> alle seine vorherigen Schriften
+</marginal>
+
+<marginal letter="555" page="80" line="20" >
+<bzg>Brauchs</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,226/30
+</marginal>
+
+<marginal letter="555" page="80" line="21" >
+<bzg>doppeltes Gewiß</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,223/17
+</marginal>
+
+<marginal letter="555" page="80" line="22" >
+<bzg>Joh. VII. 26</bzg> <link ref="nt-jo" subref="nt-jo7" linktext="false">Joh 7,26</link> („Obersten und Archonten“, N&#x202F;III,223/16)
+</marginal>
+
+<marginal letter="555" page="80" line="24" >
+<bzg>ευκαιρως ακαιρως</bzg> dt. zur Zeit oder zur Unzeit, <link ref="nt-tim2" subref="nt-tim2-4" linktext="false">2 Tim 4,2</link>
+</marginal>
+
+<marginal letter="555" page="80" line="26" >
+<bzg>alte Hausvater</bzg> <link ref="friedrich-II" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="80" line="27" >
+<bzg>deutschen Plato</bzg> <link ref="garve" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="80" line="31" sort="1" >
+<bzg>Kraus&#x202F;…&#x202F;Rätzel</bzg> <link ref="kraus" linktext="true" />; dessen briefliche Mitteilung an Hamann nicht überliefert
+</marginal>
+
+<marginal letter="555" page="80" line="31" sort="2" >
+<bzg>pr.</bzg> vorherigen Monats (April)
+</marginal>
+
+<marginal letter="555" page="80" line="33" >
+<bzg>Ministers v. Z.</bzg> <link ref="zedlitz" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="80" line="34" >
+<bzg>Kants</bzg> <link ref="kant" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="80" line="35" >
+<bzg>Brief bey Uebersendung des Dachen</bzg> Hamann besorgte Herders dringende Anfrage nach <link ref="dach" linktext="false">Dach</link>-Gedichten über Kraus in Berlin, wodurch dieser mit Herder in Kontakt trat, vgl. <intlink letter="549" page="63" line="14" linktext="true" />.
+</marginal>
+
+<marginal letter="555" page="81" line="2" >
+<bzg>Exempl. nach G.</bzg> eines Exemplars von <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link> nach Göttingen
+</marginal>
+
+<marginal letter="555" page="81" line="5" >
+<bzg>Br.</bzg> <link ref="brahl" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="81" line="9" sort="1" >
+<bzg>Pf. Skubich</bzg> <link ref="skubich" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="81" line="9" sort="2" >
+<bzg>Frau</bzg> <link ref="skubich-f" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="81" line="9" >
+<bzg>seel. Lindner</bzg> <link ref="lindner-jg" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="81" line="11" sort="1" >
+<bzg>lieben Schwester</bzg> <link ref="herder-cd-g" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="81" line="11" sort="2" >
+<bzg>Semler</bzg> <link ref="semler" subref="semler-beantwortung-fragmente" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="81" line="12" >
+<bzg>Beyl.</bzg> der Anhang von Semlers <link ref="semler" subref="semler-beantwortung-fragmente" linktext="false"><titel>Beantwortung der Fragmente eines Ungenanten</titel></link>
+</marginal>
+
+<marginal letter="555" page="81" line="13" >
+<bzg>Dr. Juris Holtzhauer</bzg> <link ref="holtzhauer" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="81" line="14" sort="1" >
+<bzg>Estocq</bzg> <link ref="estocq" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="81" line="15" >
+<bzg>Beyl. von Luther</bzg> Herders <intlink letter="553" page="1" line="1" linktext="false">HKB 553</intlink> beigelegte Abschriften aus <link ref="luther" linktext="false">Luthers Tischreden</link> 
+</marginal>
+
+<marginal letter="555" page="81" line="17" sort="1" >
+<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="555" page="81" line="17" sort="2" >
+<bzg>Frau Rebecca</bzg> <link ref="claudius-r" linktext="true" />, vgl. <intlink letter="552a" page="515" line="21" linktext="false">HKB 552a</intlink>
+</marginal>
+
+<marginal letter="555" page="81" line="18" >
+<bzg>Reisen des Cyrus</bzg> <link ref="ramsey" subref="ramsey-cyrus" linktext="true" /> (Übersetzung von <link ref="claudius" linktext="true" />)
 </marginal>
 
 </marginalien>
