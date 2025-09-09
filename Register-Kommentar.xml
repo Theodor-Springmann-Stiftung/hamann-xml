@@ -507,7 +507,7 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 
 <kommentar id="apuleius" type="neuzeit">
 <lemma>Lucius Apuleius</lemma>
-<eintrag>125–180 n. Chr. Griechischer Schriftsteller.</eintrag>
+<eintrag>125–180 n. Chr. Griechischer Schriftsteller und Philosoph. Hamanns Ausgaben: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;9/135: „Apuleii Opera ex ed. Elmenhorsti, Franc. 621“. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10243681-1">BSB München: A.lat.b. 27</wwwlink>. – <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;17/266: „Apuleius, Amst. 624“. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10243683-2">BSB München: A.lat.b. 29</wwwlink></eintrag>
 <subsection id="apuleius-metamorphosen" type="neuzeit">
 <lemma>Apul., <titel>met.</titel></lemma>
 <eintrag>
@@ -1537,6 +1537,19 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel> (6 Bde., Leipzig: Fritsch, 1779–1780). Digitalisat Bd. 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10466343-0">BSB München: It.sing. 87-3/4</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+ 
+<kommentar id="beroaldo" type="neuzeit">
+<lemma>Filippo Beroaldo d. Ä.</lemma>
+<eintrag>1453–1505. Italienischer Philologe.
+<subsection id="beroaldo-asinum" type="neuzeit" sort="10">
+<lemma>Beroaldo, <titel>Commentarii in Asinum Aureum</titel></lemma>
+<eintrag>
+<titel>Commentarii a Philippo Beroaldo conditi in Asinum Aureum Lucii Apuleii</titel> (Bologna 1500). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0001D12B00000000">Stabi Berlin: 4° Inc 2790a</wwwlink>.
+</eintrag>
+</subsection>
+
+</eintrag>
 </kommentar>
  
 <kommentar id="bertram" type="neuzeit">
@@ -4957,6 +4970,18 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <lemma>de Faulques, <titel>La dernière guerre des bêtes</titel></lemma>
 <eintrag>
 <titel>La dernière guerre des bêtes. Fables pour servir à l’histoire du 18ème siècle</titel> (2&#xA0;Bde., London: Seyffert 1758).
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="feder" type="neuzeit">
+<lemma>Johann Georg Heinrich Feder</lemma>
+<eintrag>1740–1821. Seit 1768 Prof. der Philosophie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100796923.html#ndbcontent">Müller, Kurt: Feder, Georg Heinrich, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;41f</wwwlink>.
+</eintrag>
+<subsection id="feder-wille" type="neuzeit">
+<lemma>Feder, <titel>Untersuchungen über den menschlichen Willen</titel></lemma>
+<eintrag>
+<titel>Untersuchungen über den menschlichen Willen, dessen Naturtriebe, Veränderlichkeit, Verhältniß zur Tugend und Glückseligkeit, und die Grundregeln, die menschlichen Gemüther zu erkennen und zu regieren</titel> (4 Bde., Lemgo: Meyer 1779–1793). Digitalisat <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043172-6">BSB München: Ph.sp. 270</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9199,7 +9224,7 @@ K
 
 <kommentar id="kant" type="neuzeit">
 <lemma>Immanuel Kant</lemma>
-<eintrag>1724–1804. Bis 1754 Hauslehrer/Hofmeister, 1755 wieder in Königsberg, zum Magister promoviert, ab Wintersemester 1755/56 Vorlesungen als Privatdozent; 1766–1772 Unterbibliothekar der königlichen Schlossbibliothek, ab 1770 Professor für Logik und Metaphysik; <wwwlink address="https://www.deutsche-biographie.de/pnd118559796.html#adbcontent">Prantl, Carl v.: Kant, Immanuel, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;81–97</wwwlink>.<line type="break" />
+<eintrag>1724–1804. Bis 1754 Hauslehrer bzw. Hofmeister, 1755 wieder in Königsberg, zum Magister promoviert, ab Wintersemester 1755/56 Vorlesungen als Privatdozent; 1766–1772 Unterbibliothekar der königlichen Schlossbibliothek, ab 1770 Professor für Logik und Metaphysik; <wwwlink address="https://www.deutsche-biographie.de/pnd118559796.html#adbcontent">Prantl, Carl v.: Kant, Immanuel, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;81–97</wwwlink>.<line type="break" />
 Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) (bisher 29&#xA0;Bde.; Berlin 1900ff.)<line type="break" />
 Briefe Online: <wwwlink address="https://korpora.org/kant/aa10/Inhalt10.html">AA X</wwwlink>.
 </eintrag>
@@ -9288,6 +9313,13 @@ Briefe Online: <wwwlink address="https://korpora.org/kant/aa10/Inhalt10.html">AA
 <eintrag>
 <titel>Von den verschiedenen Rassen der Menschen</titel> (Königsberg: Kanter 1775).<line type="break" />
 <titel>AA</titel>&#xA0;II: Vorkritische Schriften II, S.&#x202F;427–445.</eintrag>
+</subsection>
+<subsection id="kant-critik-vernunft" type="neuzeit" sort="100">
+<lemma>Kant, <titel>Critik der reinen Vernunft</titel></lemma>
+<eintrag>
+<titel>Critik der reinen Vernunft</titel> (Riga: Hartknoch 1781).<line type="break" />
+Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00073694-9">BSB München: Rar. 1473</wwwlink>.<line type="break" />
+<titel>AA</titel>&#xA0;IV: Kritik der reinen Vernunft (1. Aufl. 1781), Prolegomena, Grundlegung zur Metaphysik der Sitten, Metaphysische Anfangsgründe der Naturwissenschaft, S.&#x202F;1–252.</eintrag>
 </subsection>
 <subsection id="kant-grundlegung" type="neuzeit" sort="300">
 <lemma>Kant, <titel>Grundlegung zur Metaphysik der Sitten</titel></lemma>
@@ -12372,7 +12404,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <kommentar id="meursius" type="neuzeit">
 <lemma>Johannes Meursius (Jan de Meurs)</lemma>
 <eintrag>1579–1639. Niederländischer klassischer Philologe, vor allem Gräzist.<line type="break" />
-<titel>Meursii Opera Omnia,</titel> quorum qaedam in hac editione primum parent. Ex recensione et cum scholiis J. Lamii (12 Bde., Florenz 1741–1763)
+<titel>Meursii Opera Omnia,</titel> quorum qaedam in hac editione primum parent. Ex recensione et cum scholiis J. Lamii (12 Bde., Florenz 1741–1763).
 </eintrag>
 <subsection id="meursius-eleusinia" type="neuzeit" sort="30">
 <lemma>Meursius, <titel>Eleusinia</titel></lemma>
@@ -17465,20 +17497,26 @@ Sethos, histoire ou vie tirée des monumens anecdotes de l’ancienne Egypte. Tr
 <lemma>Johann Nicolaus Tetens</lemma>
 <eintrag>1736–1807. Deutsch-dänischer Philosoph, Aufklärer und Mathematiker, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz82333.html">Fromm, Waldemar: Tetens, Johann Nicolaus, in: <titel>NDB</titel>&#x202F;26 (2016), S.&#x202F;46f.</wwwlink>
 </eintrag>
-<subsection id="tetens-ursprung" type="neuzeit">
+<subsection id="tetens-ursprung" type="neuzeit" sort="10">
 <lemma>Tetens, <titel>Ueber der Ursprung der Sprachen und der Schrift</titel></lemma>
 <eintrag>
 <titel>Ueber der Ursprung der Sprachen und der Schrift</titel> (Bützow und Wismar: Berger- und Bodnersche Buchhandlung 1772). Digitalisat: <wwwlink address="https://books.google.de/books?id=LmdpAAAAcAAJ">Google Books</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="tetens-mensch" type="neuzeit">
+<subsection id="tetens-speculativische-philosophie" type="neuzeit" sort="20">
+<lemma>Tetens, <titel>Über die allgemeine speculativische Philosophie</titel></lemma>
+<eintrag>
+<titel>Über die allgemeine speculativische Philosophie</titel> (Bützow 1775). Digitalisat: <wwwlink address="http://purl.uni-rostock.de/rosdok/ppn822172682">UB Rostock</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="tetens-mensch" type="neuzeit" sort="30">
 <lemma>Tetens, <titel>Philosophische Versuche über die menschliche Natur und ihre Entwickelung</titel></lemma>
 <eintrag>
 <titel>Philosophische Versuche über die menschliche Natur und ihre Entwickelung</titel> von Johann Nicolas Tetens (2 Bde., Leipzig: Weidmann, Reich 1777). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:23-drucke/vb-634-1b9">HAB Wolfenbüttel</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
-
+Über die allgemeine speculative Philosophie. Bützow 1775. 
 <kommentar id="tetsch-cl" type="neuzeit">
 <lemma>Carl Ludwig Tetsch</lemma>
 <eintrag>1708–1771. 1732–1766 Pastor der deutschen Gemeinde in Libau, 1744–1746 Propst der Grobinschen Diözese. Legte 1742 den Grundstein zur Dreifaltigkeitskirche. Stifter der Kirchenbibliothek von Libau.
