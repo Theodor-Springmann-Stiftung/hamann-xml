@@ -7152,13 +7152,13 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <subsection id="hamann-konxompax" type="neuzeit" sort="690">
 <lemma>Hamann, <titel>Konxompax</titel></lemma>
 <eintrag>
-<titel>ΚΟΓΞΟΜΠΑΞ. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel> (s.l. s.t. [Weimar 1779]). Das Manuskript wurde mit <intlink letter="550" page="68" line="20" linktext="false">HKB 550</intlink> an <link ref="herder" linktext="false">Herder</link> geschickt. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235915">ULB Münster: N. Hamann Bd. 37–40, 116</wwwlink>. N&#x202F;III,215–228.
+<titel>ΚΟΓΞΟΜΠΑΞ. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel> (s.l. s.t. [Weimar: <link ref="hoffmann-kl" linktext="false">Hoffmann</link> 1779]). Das Manuskript wurde mit <intlink letter="550" page="68" line="20" linktext="false">HKB 550</intlink> an <link ref="herder" linktext="false">Herder</link> geschickt. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235915">ULB Münster: N. Hamann Bd. 37–40, 116</wwwlink>. N&#x202F;III,215–228.
 </eintrag>
 </subsection>
 <subsection id="hamann-scherflein" type="neuzeit" sort="700">
 <lemma>Hamann, <titel>Zwey Scherflein</titel></lemma>
 <eintrag>
-<titel>Zwey Scherflein zur neusten Deutschen Literatur</titel> (s.l. [Weimar] 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235921">ULB Münster: N. Hamann Bd. 85–87</wwwlink>. N&#x202F;III,229–242.
+<titel>Zwey Scherflein zur neusten Deutschen Literatur</titel> (s.l. [Weimar: <link ref="hoffmann-kl" linktext="false">Hoffmann</link> 1779] 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235921">ULB Münster: N. Hamann Bd. 85–87</wwwlink>. N&#x202F;III,229–242.
 </eintrag>
 </subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="750">
@@ -8330,7 +8330,7 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 
 <kommentar id="hoffmann-kl" type="neuzeit">
 <lemma>Karl Ludolph Hoffmann</lemma>
-<eintrag>1729–1780. Hofbuchhändler in Weimar, verlegte <link ref="hamann" subref="hamann-konxompax" linktext="false">Konxompax</link>, <link ref="hamann" subref="hamann-scherflein" linktext="false">Zwey Scherflein</link> und Herders <link ref="herder" subref="herder-briefe-theologie" linktext="false">Briefe, das Studium der Theologie betreffend.</link></eintrag>
+<eintrag>1729–1780. Buchhändler in Weimar, verlegte <link ref="hamann" subref="hamann-konxompax" linktext="false">Konxompax</link>, <link ref="hamann" subref="hamann-scherflein" linktext="false">Zwey Scherflein</link> und Herders <link ref="herder" subref="herder-briefe-theologie" linktext="false">Briefe, das Studium der Theologie betreffend.</link></eintrag>
 </kommentar>
 
 <kommentar id="hogendorp-d" type="neuzeit">
@@ -13713,14 +13713,25 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 <eintrag>1623–1662. Frz. Philosoph und Mathematiker.</eintrag>
 </kommentar>
 
-<kommentar id="passionei" type="neuzeit">
-<lemma>Domenico Silvio Passionei</lemma>
-<eintrag>1682–1761. Kardinal der römischen Kurie.</eintrag>
-</kommentar>
-
 <kommentar id="passavant" type="neuzeit">
 <lemma>Jakob Ludwig Passavant</lemma>
 <eintrag>1751–1827. Reformierter Theologe im Lavaterkreis, Prediger in Frankfurt und Hannoversch Münden siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116052147.html#adbcontent">Dechent, Hermann: Passavant, Jakob Ludwig, in: <titel>ADB</titel>&#x202F; 25 (1887), S.&#x202F;196–198.</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="passeri" type="neuzeit">
+<lemma>Giovanni Battista Passeri</lemma>
+<eintrag>1694–1780. Italienischer Priester und Altertumsforscher.</eintrag>
+<subsection id="passeri-picturae" type="neuzeit">
+<lemma>Passeri, <titel>Picturae Etruscorum in vasculis</titel></lemma>
+<eintrag>
+<titel>Picturae Etruscorum in vasculis</titel> (3 Bde., Rom 1767–1775). Digitalisat Bd.&#x202F;1: <wwwlink address="https://data.onb.ac.at/rep/109F0E1C">ÖNB Wien: 45.O.3.(Vol.1) ALT PRUNK</wwwlink>. Bd.&#x202F;2: <wwwlink address="https://data.onb.ac.at/rep/109F0DCB">ÖNB Wien: 45.O.2.(Vol.2) ALT PRUNK</wwwlink>. Bd.&#x202F;3: <wwwlink address="https://data.onb.ac.at/rep/109F0DD4">ÖNB Wien: 45.O.2.(Vol.3) ALT PRUNK</wwwlink>
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="passionei" type="neuzeit">
+<lemma>Domenico Silvio Passionei</lemma>
+<eintrag>1682–1761. Kardinal der römischen Kurie.</eintrag>
 </kommentar>
 
 <kommentar id="patz" type="neuzeit">

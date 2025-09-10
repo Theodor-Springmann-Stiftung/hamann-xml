@@ -60868,7 +60868,7 @@ Brief Nr. 477
 </marginal>
 
 <marginal letter="477" page="278" line="24" >
-<bzg>Mignon</bzg> Günstling; nicht ermittelt
+<bzg>Mignon</bzg> Günstling/Liebling; nicht ermittelt
 </marginal>
 
 <marginal letter="477" page="278" line="26" >
@@ -69260,6 +69260,10 @@ Zur Datierung des Briefs vgl. die Erwähnung der Krankheit an der „Philisterfl
 <bzg>Gröll</bzg> <link ref="groell" linktext="true" />
 </marginal>
 
+<marginal letter="543" page="48" line="3"> 
+<bzg>3 Folianten</bzg> einer davon ist wohl von <link ref="passeri" linktext="true" />, vgl. <intlink letter="557" page="85" line="16" linktext="true" />
+</marginal>
+
 <marginal letter="543" page="48" line="4" sort="1">
 <bzg>Loge</bzg> wohl die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>
 </marginal>
@@ -72055,8 +72059,8 @@ Brief Nr. 555
 <bzg>Mignon</bzg> dt. Liebling, <link ref="hamann-jm" linktext="true" />
 </marginal>
 
-<marginal letter="555" page="82" line="7" >
-<bzg>Einlage</bzg> an <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="553" page="76" line="32" linktext="true" />
+<marginal letter="555" page="82" line="7" > 
+<bzg>Einlage</bzg> Herder an Hartknoch, 6. Mai 1779, <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;88f.), mit <intlink letter="557" page="84" line="28" linktext="false">HKB 557</intlink> übersandt; vgl. <intlink letter="553" page="76" line="32" sort="2" linktext="true" />
 </marginal>
 
 
@@ -72167,7 +72171,7 @@ Antwort auf <intlink letter="554" page="77" line="1" linktext="false">HKB 554</i
 </marginal>
 
 <marginal letter="556" page="83" line="35" >
-<bzg>Buchhändler</bzg> <link ref="hoffmann" subref="hoffmann-kl" linktext="true" />
+<bzg>Buchhändler</bzg> <link ref="hoffmann-kl" linktext="true" />
 </marginal>
 
 <marginal letter="556" page="84" line="2" >
@@ -72216,6 +72220,82 @@ Antwort auf <intlink letter="554" page="77" line="1" linktext="false">HKB 554</i
 
 <marginal letter="556" page="84" line="21" >
 <bzg>Frau</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+
+Brief Nr. 557
+
+<marginal letter="557" page="84" line="28" >
+<bzg>Einlage</bzg> Herder an Hartknoch, 6. Mai 1779, <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;88f.), vgl. <intlink letter="555" page="82" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="84" line="29" >
+<bzg>Costa</bzg> dt. Rippe (nach <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 2,21f.</link>), gemeint ist <link ref="hartknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="84" line="30" >
+<bzg>Passerii</bzg> von <link ref="passeri" linktext="true" />; Henkel gibt im Register ohne Angaben von Gründen die <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-95629"><titel>Vite de’ pittori […]</titel> (Rom 1772)</wwwlink> an (und falsch geschrieben); sämtliche Belegstellen sind jedoch unspezifisch; Hamanns Aussage, den Passeri-Band, den er so lange nicht los wurde, für <link ref="hamann" subref="hamann-konxompax" linktext="false">Konxompax</link> (N&#x202F;III,226/2–5 u. 34–39) verwendet zu haben, deutet vielmehr auf <link ref="passeri" subref="passeri-picturae" linktext="true" />; weiter verfolgen, ob sich ein spezifischer Verweis findet?!?
+vgl. <intlink letter="543" page="48" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="84" line="31" >
+<bzg>wie die Schaubrodte</bzg> <link ref="at-mo2" subref="at-mo2-25" linktext="false">2 Mo 25,30</link>
+</marginal>
+
+<marginal letter="557" page="84" line="34" >
+<bzg>in ein paar Bogen angeführt</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,226/2–5 u. 34–39
+</marginal>
+
+<marginal letter="557" page="85" line="1" >
+<bzg>dienstbarer Geist</bzg> <link ref="herder" linktext="true" />, vgl. <intlink letter="550" page="68" line="20" linktext="false">HKB 550</intlink> und <intlink letter="553" page="76" line="2" linktext="false">553</intlink>
+</marginal>
+
+<marginal letter="557" page="85" line="3" sort="1" >
+<bzg>Muhme Jochebed</bzg> die Mutter Mosis nach <link ref="at-mo2" subref="at-mo2-6" linktext="false">2 Mo 6,20</link>
+</marginal>
+
+<marginal letter="557" page="85" line="3" sort="2" >
+<bzg>Kästchen im Schilf am Ufer des Nils</bzg> <link ref="at-mo2" subref="at-mo2-2" linktext="false">2 Mo 2,3</link>
+</marginal>
+
+<marginal letter="557" page="85" line="5" >
+<bzg>Nachtstück Ihrer Adelgunde</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> (der Text war Hartknoch und seiner Hochzeit mit Albertine gewidmet); vgl. zu <intlink letter="555" page="80" line="13" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="6" >
+<bzg>flöht&#x202F;…&#x202F;Kolbe lausen</bzg> ?!?
+</marginal>
+
+<marginal letter="557" page="85" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="557" page="85" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="557" page="85" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="557" page="85" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="557" page="85" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="557" page="85" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="557" page="85" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="557" page="85" line="" >
+<bzg></bzg> 
 </marginal>
 
 	
