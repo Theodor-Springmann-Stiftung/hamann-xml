@@ -3991,6 +3991,12 @@ Dangeuil verwandte sehr frei J. Tuckers <link ref="tucker" subref="tucker-essay"
 <titel>Die Lieder Sineds des Barden. Mit Vorbericht und Anmerkungen von M. Denis, aus der G.&#x202F;J.</titel> (Wien 1772) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 160/517: „Die Lieder Sineds des Barden von M. Denis, Wien 772. Donum HINZII nostri.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11344526-6">SB Passau: S nv/Mlg 1/1</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="denis-bucherkunde" type="neuzeit" sort="30">
+<lemma>Denis, <titel>Einleitung in die Bücherkunde</titel></lemma>
+<eintrag>
+<titel>Einleitung in die Bücherkunde</titel> (2 Bde., Wien: Trattner 1777–1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11710441-9">Stabi Bamberg: JH.H.l.q.1#1</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="descartes" type="neuzeit">
@@ -7167,10 +7173,16 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <titel>Golgatha und Scheblimini! Von einem Prediger in der Wüsten</titel> ([Riga] 1784). Seitenangaben im Briefkommentar nach N&#xA0;III, S.&#x202F;291–320 und Erstdruck = ED. Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773907-2">BSB München: Polem. 1153</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="hamann-fliegender-brief" type="neuzeit" sort="710">
+<subsection id="hamann-fliegender-brief" type="neuzeit" sort="900">
 <lemma>Hamann, <titel>Entkleidung und Verklärung. Ein Fliegender Brief an Niemand den Kundbaren</titel></lemma>
 <eintrag>
 <titel>Entkleidung und Verklärung. Ein Fliegender Brief an Niemand den Kundbaren</titel> (unveröffentlicht; 1785–87).
+</eintrag>
+</subsection>
+<subsection id="hamann-metakritische-wannchen" type="neuzeit" sort="910">
+<lemma>Hamann, <titel>Metakritische Wannchen</titel></lemma>
+<eintrag>
+Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab den 1780ern geplantes Projekt einer Sammlung von Hamann-Schriften (zwischendurch auch unter dem Titel <titel>Saalbadereyen</titel>); nie erschienen.
 </eintrag>
 </subsection>
 </kommentar>
