@@ -511,7 +511,7 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 <subsection id="apuleius-metamorphosen" type="neuzeit">
 <lemma>Apul., <titel>met.</titel></lemma>
 <eintrag>
-Apuleius, <titel>Metamorphosen</titel></eintrag>
+Apuleius, <titel>Metamorphosen</titel>, auch als <titel>Asinus aureus</titel> bekannt.</eintrag>
 </subsection>
 </kommentar>
 
@@ -5598,7 +5598,14 @@ G
 
 <kommentar id="garve" type="neuzeit">
 <lemma>Christian Garve</lemma>
-<eintrag>1742–1798. Philosoph, Übersetzer, vgl. <wwwlink address="https://www.deutsche-biographie.de/sfz39297.html#adbcontent">Jacoby, Daniel: Garve, Christian, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;385–392</wwwlink>.</eintrag>
+<eintrag>1742–1798. Philosoph und Übersetzer, vgl. <wwwlink address="https://www.deutsche-biographie.de/sfz39297.html#adbcontent">Jacoby, Daniel: Garve, Christian, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;385–392</wwwlink>.</eintrag>
+, a. d. Engl. Leipzig 1776
+<subsection id="garve-gerard" type="neuzeit" sort="10">
+<lemma>Garve (Übers.), <titel>Versuch über das Genie</titel></lemma>
+<eintrag>
+<titel>Alexander Gerards Versuch über das Genie; von Alexander Gerard. Aus dem Englischen übersetzt von Christian Garve</titel> (Leipzig: Weidmann, Reich 1776). Digitalisat: <wwwlink address="https://books.google.de/books?id=VpexBU-Qv8oC">Google Books</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="gaudio" type="neuzeit">
@@ -7189,8 +7196,8 @@ Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab den 1780ern 
 
 <kommentar id="hamann-er" type="neuzeit">
 <lemma>Elisabeth Regina Hamann</lemma>
-<eintrag>12. April 1772 bis 5. Februar 1838. Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />, Lisette Reinette genannt; später verehelichte Rosenberg.
-Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink address="https://books.google.de/books?id=zO9fAAAAcAAJ">Gustav Poel: Johann Georg Hamann der Magus im Norden. Sein Leben und Mittheilungen aus seinen Schriften in zwei Theilen, I 413–432</wwwlink>; außerdem Arthur Warda: Zwei Briefe von J. G. Hamanns Tochter Elisabeth Regina und ein Brief seiner Tochter Magdalena Catharina. In: <wwwlink address="https://books.google.de/books?id=VsQOAAAAYAAJ">Altpreußische Monatsschrift 43 (1906), S.&#x202F;229–254</wwwlink>.</eintrag>
+<eintrag>12. April 1772 bis 5. Februar 1838. Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />, Lisette Reinette genannt; vmtl. Patenkind von <link ref="kanter" linktext="true" />; später verehelichte Rosenberg.
+Vgl. über ihrem Vater: Elisabeth Regina Hamann: <titel>Etwas über mich.</titel> In: <wwwlink address="https://books.google.de/books?id=zO9fAAAAcAAJ">Gustav Poel: Johann Georg Hamann der Magus im Norden. Sein Leben und Mittheilungen aus seinen Schriften in zwei Theilen, I 413–432</wwwlink>; außerdem Arthur Warda: Zwei Briefe von J. G. Hamanns Tochter Elisabeth Regina und ein Brief seiner Tochter Magdalena Catharina. In: <wwwlink address="https://books.google.de/books?id=VsQOAAAAYAAJ">Altpreußische Monatsschrift 43 (1906), S.&#x202F;229–254</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-jc" type="neuzeit">
@@ -7205,7 +7212,7 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 
 <kommentar id="hamann-mc" type="neuzeit">
 <lemma>Magdalena Catharina Hamann</lemma>
-<eintrag>2. Dezember 1774 bis 30. April 1849. Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />, Patin von <link ref="claudius" linktext="true" />.</eintrag>
+<eintrag>2. Dezember 1774 bis 30. April 1849. Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />, Patenkind von <link ref="claudius" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-vjc" type="neuzeit">
@@ -7342,6 +7349,12 @@ Vgl. zu ihrem Vater: Elisabeth Regina Hamann: Etwas über mich. In: <wwwlink add
 <kommentar id="hartknoch-ab" type="neuzeit">
 <lemma>Anna Benigna Hartknoch</lemma>
 <eintrag>1749–1771. Geb. Mehmel (aus <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>), erste Frau von <link ref="hartknoch" linktext="true" />, sie heirateten 1767.</eintrag>
+</kommentar>
+
+<kommentar id="hartknoch-j" type="neuzeit">
+<lemma>Johann Friedrich Hartknoch jun.</lemma>
+<eintrag>1768–1819. Sohn von <link ref="hartknoch" linktext="false">Johann Friedrich</link> und <link ref="hartknoch a" linktext="true" />, Patenkind <link ref="herder" linktext="false">Herders</link>, 1779/1780 in St. Petersburg, 1780–1784 Buchhändlerlehre in Zürich, 1789 Nachfolger seines Vaters.
+</eintrag>
 </kommentar>
 
 <kommentar id="hartley" type="neuzeit">
@@ -15094,7 +15107,7 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 
 <kommentar id="reusch" type="neuzeit">
 <lemma>Carl Daniel Reusch</lemma>
-<eintrag>1735–1806. Hofmeister bei der Gräfin Finck von Finckenstein, später Prof. der Physik in Königsberg und Schloßbibliothekar.</eintrag>
+<eintrag>1735–1806. Hofmeister bei der Gräfin Finck von Finckenstein, 1772 Prof. der Physik in Königsberg, 1778 zweiter Bibliothekar der Königsberger Universitätsbibliothek, 1781 Oberinspektor des akademischen Kollegiums und Aufseher der Universitätsbibliothek, vgl. <wwwlink address="https://books.google.de/books?id=xY0IAAAAQAAJ">Hamberger/Meusel: <titel>Das gelehrte Teutschland,</titel> Bd.&#x202F;6 (Lemgo 1798), S.&#x202F;320</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="ricci" type="neuzeit">
@@ -16901,7 +16914,7 @@ Ioannis Avgvsti Starckii […] <titel>Sylloge Commentationum et observationum ph
 <lemma>Starck, <titel>Apologie des Ordens der Freimaurer</titel></lemma>
 <eintrag>
 <titel>Apologie des Ordens der Frey-Maurer von dem Bruder **** Mitgliede der ** Schottischen Loge zu P. *</titel> (Philadelphia, im Jahr 5651. d.&#x202F;i. 3882  [Königsberg: Kanter 1769]) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;168/615: „Apologie des Ordens der Freymaeurer, Koenigsb. 772“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3296223826">SLUB Dresden: Soc.secr.125</wwwlink>.<line type="break" />
-In mehreren überarbeiteten Auflagen erschienen, etwa Berlin: Stahlbaum 1778; Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00002EF900000000">Stabi Berlin: Nb 5162</wwwlink>.
+In mehreren überarbeiteten Auflagen erschienen, für Hamanns <link ref="hamann" subref="hamann-konxompax" linktext="false"></link> war die Ausgabe Berlin: Stahlbaum 1778 wichtig; Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00002EF900000000">Stabi Berlin: Nb 5162</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="starck-tralatitia" type="neuzeit" sort="35">

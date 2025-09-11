@@ -65881,7 +65881,7 @@ Brief Nr. 516
    </marginal>
 
    <marginal letter="516" page="386" line="5">
-    <bzg>Epicurs</bzg> Die philosophische Schule um <link ref="epikur" linktext="true" />   versammelte sich in einem Garten, vgl. Diog. Laert. 10,1,10f.
+    <bzg>Epicurs</bzg> Die philosophische Schule um <link ref="epikur" linktext="true" />   versammelte sich in einem Garten, vgl. <link ref="diogenes" subref="diogenes-opera" linktext="true" /> 10,1,10f.
    </marginal>
 
    <marginal letter="516" page="386" line="8">
@@ -69261,7 +69261,7 @@ Zur Datierung des Briefs vgl. die Erwähnung der Krankheit an der „Philisterfl
 </marginal>
 
 <marginal letter="543" page="48" line="3"> 
-<bzg>3 Folianten</bzg> einer davon ist wohl von <link ref="passeri" linktext="true" />, vgl. <intlink letter="557" page="85" line="16" linktext="true" />
+<bzg>3 Folianten</bzg> wohl die drei Bände von <link ref="passeri" subref="passeri-picturae" linktext="true" />, vgl. <intlink letter="557" page="84" line="30" linktext="true" />
 </marginal>
 
 <marginal letter="543" page="48" line="4" sort="1">
@@ -72234,8 +72234,7 @@ Brief Nr. 557
 </marginal>
 
 <marginal letter="557" page="84" line="30" >
-<bzg>Passerii</bzg> von <link ref="passeri" linktext="true" />; Henkel gibt im Register ohne Angaben von Gründen die <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-95629"><titel>Vite de’ pittori […]</titel> (Rom 1772)</wwwlink> an (und falsch geschrieben); sämtliche Belegstellen sind jedoch unspezifisch; Hamanns Aussage, den Passeri-Band, den er so lange nicht los wurde, für <link ref="hamann" subref="hamann-konxompax" linktext="false">Konxompax</link> (N&#x202F;III,226/2–5 u. 34–39) verwendet zu haben, deutet vielmehr auf <link ref="passeri" subref="passeri-picturae" linktext="true" />; weiter verfolgen, ob sich ein spezifischer Verweis findet?!?
-vgl. <intlink letter="543" page="48" line="3" linktext="true" />
+<bzg>Passerii</bzg> wohl die drei Bände von <link ref="passeri" subref="passeri-picturae" linktext="true" />, vgl. <intlink letter="543" page="48" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="557" page="84" line="31" >
@@ -72258,47 +72257,121 @@ vgl. <intlink letter="543" page="48" line="3" linktext="true" />
 <bzg>Kästchen im Schilf am Ufer des Nils</bzg> <link ref="at-mo2" subref="at-mo2-2" linktext="false">2 Mo 2,3</link>
 </marginal>
 
-<marginal letter="557" page="85" line="5" >
-<bzg>Nachtstück Ihrer Adelgunde</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> (der Text war Hartknoch und seiner Hochzeit mit Albertine gewidmet); vgl. zu <intlink letter="555" page="80" line="13" linktext="true" />
+<marginal letter="557" page="85" line="5" sort="1" >
+<bzg>Nachtstück Ihrer Adelgunde</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> (der Text war Hartknoch und seiner Hochzeit mit Albertine gewidmet); vgl. zu <intlink letter="555" page="80" line="13" linktext="true" />; „Nachtstück“ ist wohl als Wortspiel von ‚Nachstück/Fortsetzung‘ mit Nacht bzw. unsichtbarem Geschehen im Gegensatz zum Fragmentenstreit in der Öffentlichkeit (bzw. „am hellen Mittage“) zu verstehen.
 </marginal>
 
-<marginal letter="557" page="85" line="6" >
-<bzg>flöht&#x202F;…&#x202F;Kolbe lausen</bzg> ?!?
+<marginal letter="557" page="85" line="5" sort="2" >
+<bzg>sich flöht</bzg> sich von Flöhen reinigt, vgl. <wwwlink address="www.woerterbuchnetz.de/DWB2/2FLÖHEN">DWB (2. Aufl), s.v. flöhen</wwwlink>
 </marginal>
 
-<marginal letter="557" page="85" line="" >
-<bzg></bzg> 
+<marginal letter="557" page="85" line="6" sort="1" >
+<bzg>Orthodoxen und Dramaturgen</bzg> wohl Anspielung auf den Fragmentenstreit, demnach <link ref="goze" linktext="false">Goeze</link> und <link ref="lessing" linktext="false">Lessing</link> sowie ihre jeweiligen Anhänger („Dramaturgen“ nach <link ref="lessing" subref="lessing-nathan" linktext="true" />)
 </marginal>
 
-<marginal letter="557" page="85" line="" >
-<bzg></bzg> 
+<marginal letter="557" page="85" line="6" sort="2" >
+<bzg>die Kolbe lausen</bzg> nach der Redensart „einem Narren die Kolbe lausen, ihn durch Schlüge zur Vernunft bringen“ (<wwwlink address="www.woerterbuchnetz.de/Adelung/Kolbe">Adelung, Bd.&#x202F;2, Sp.&#x202F;1690, s.v. Kolbe</wwwlink>); vgl. auch <intlink letter="714" page="79" line="32" linktext="true" />
 </marginal>
 
-<marginal letter="557" page="85" line="" >
-<bzg></bzg> 
+<marginal letter="557" page="85" line="7" >
+<bzg>GottesFinger &#x202F;…&#x202F;Cophtischer Sprache</bzg> vgl. <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,228/4
 </marginal>
 
-<marginal letter="557" page="85" line="" >
-<bzg></bzg> 
+<marginal letter="557" page="85" line="8" >
+<bzg>Sphranschen und Saben in der Nachbarschaft Ihrer Düna</bzg> Vgl. <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,221/3 und das Zitat aus <link ref="starck" subref="starck-apologie" linktext="true" />, S.&#x202F;180: „Bey den Aegyptiern waren die Propheten und Hierogramateis die eigentlichen Besitzer [der Mysterien bzw. Geheimnisse], und unter diesen nahmen diejenigen, die bey den Cophten Sphransch und Saben genannt wurden, die erste Stelle ein, und waren die eigentlichen Ausleger der Geheimnisse.“ – Die Düna fließt durch Hartknochs Riga, mit der Nachbarschaft ist wohl <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> und <link ref="starck" linktext="false">Starck</link> gemeint.
 </marginal>
 
-<marginal letter="557" page="85" line="" >
-<bzg></bzg> 
+<marginal letter="557" page="85" line="9" >
+<bzg>Philosoph von S.S.</bzg> <link ref="friedrich-II" linktext="true" />
 </marginal>
 
-<marginal letter="557" page="85" line="" >
-<bzg></bzg> 
+<marginal letter="557" page="85" line="10" >
+<bzg>deutschen Plato</bzg> <link ref="garve" linktext="true" />
 </marginal>
 
-<marginal letter="557" page="85" line="" >
-<bzg></bzg> 
+<marginal letter="557" page="85" line="11" >
+<bzg>Uebersetzer des Gérard</bzg> <link ref="garve" subref="garve-gerard" linktext="true" />; Übersetzung eines Werks des schottischen Philosophen Alexander Gerard (1728–1795).
 </marginal>
 
-<marginal letter="557" page="85" line="" >
-<bzg></bzg> 
+<marginal letter="557" page="85" line="12" sort="1" >
+<bzg>Sohn zu St. Petersb</bzg> <link ref="hartknoch-j" linktext="true" />
 </marginal>
 
-	
+<marginal letter="557" page="85" line="12" sort="2" >
+<bzg>Arndt</bzg> <link ref="arndt-cg" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="13" >
+<bzg>Journal</bzg> <link ref="arndt-cg" subref="arndt-petersburgjournal" linktext="true" />, vgl. <intlink letter="470" page="262" line="11" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="15" >
+<bzg>doppelter Gevatter&#x202F;…&#x202F;Asmi cum puncto</bzg> Asmus ist eine Persona von Claudius im  <link ref="claudius" subref="claudius-bothe" linktext="false">Wandsbecker Bothen</link>, ‚cum puncto‘ wandelt den Namen in asinus bzw. Esel um (vgl. <intlink letter="412" page="106" line="3" linktext="true" /> und Kommentar); die erste Gevatterschaft zu Claudius besteht seit 1774 durch dessen Patenrolle bei <link ref="hamann-mc" linktext="true" />, die zweite besteht wohl als asinus und hat das <link ref="apuleius" subref="apuleius-metamorphosen" linktext="false">Apuleius-Motto</link> aus <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link> (N&#x202F;III,215/12–15) zum Hintergrund.
+</marginal>
+
+<marginal letter="557" page="85" line="17" sort="1" >
+<bzg>Passerium</bzg> <link ref="passeri" subref="passeri-picturae" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="17" sort="2" >
+<bzg>Pr. Reusch&#x202F;…&#x202F;Sub. Bibl.</bzg> <link ref="reusch" linktext="true" />, Unterbibliothekar
+</marginal>
+
+<marginal letter="557" page="85" line="19" >
+<bzg>†feld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="26" sort="1" >
+<bzg>Stuffenjahrs</bzg> Hamanns 49. Lebensjahr, vgl. zu <intlink letter="536" page="31" line="8" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="26" sort="2" >
+<bzg>Marianne Sophie</bzg> <link ref="hamann-ms" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="27" sort="1" >
+<bzg>Gröll</bzg> <link ref="groell" linktext="true" />, vgl. <intlink letter="543" page="47" line="27" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="27" sort="2" >
+<bzg>med. Febr.</bzg> dt. Mitte Februar
+</marginal>
+
+<marginal letter="557" page="85" line="30" >
+<bzg>Gadebusch</bzg> <link ref="gadebusch" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="31" >
+<bzg>Kr. Lilienthal</bzg> <link ref="lilienthal-js" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="32" >
+<bzg>seel. L. u H.</bzg> <link ref="lindner-jg" linktext="true" /> und <link ref="herder" linktext="true" />, vgl. <intlink letter="439" page="40" line="31" linktext="true" /> und <intlink letter="545" page="55" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="33" >
+<bzg>Wörterbuch</bzg> <link ref="gadebusch" subref="gadebusch-bibliothek" linktext="true" /> (die Kurzbiographien sind alphabetisch geordnet)
+</marginal>
+
+<marginal letter="557" page="85" line="33" >
+<bzg>Andersons Geschichte vom Handel</bzg> <link ref="andersen" subref="andersen-handel" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="35" sort="1" >
+<bzg>12/1 April</bzg> 12. April gregorianischen, 1. April julianischen Datums; vgl. <intlink letter="550" page="68" line="15" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="35" sort="2" >
+<bzg>Buchhalter Pynnow</bzg> <link ref="pynnow" linktext="true" />
+</marginal>
+
+<marginal letter="557" page="85" line="37" >
+<bzg>Muse Adelgunde</bzg> Hamann selbst, <link ref="hamann" subref="hamann-konxompax" linktext="false"></link> verfassend
+</marginal>
+
+<marginal letter="557" page="85" line="4" >
+<bzg>Gemalin</bzg> <link ref="hartknoch-a" linktext="true" />
+</marginal>	
 
 
 </marginalien>
