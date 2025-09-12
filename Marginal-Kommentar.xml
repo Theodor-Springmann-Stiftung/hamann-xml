@@ -55251,7 +55251,7 @@ Brief Nr. 446
 </marginal>
 
 <marginal letter="446" page="180" line="4">
-<bzg>musicalischen Briefe</bzg> <link ref="reichardt-jf" subref="reichardt-jf-briefe" linktext="true" />
+<bzg>musicalischen Briefe</bzg> <link ref="reichardt-jf" subref="reichardt-briefe" linktext="true" />
 </marginal>
 
 <marginal letter="446" page="180" line="7">
@@ -71996,7 +71996,7 @@ Brief Nr. 555
 </marginal>
 
 <marginal letter="555" page="81" line="22" sort="3" >
-<bzg>Meursium</bzg> <link ref="meursius" linktext="true" />
+<bzg>Meursium</bzg> <link ref="meursius" subref="meursius-eleusinia" linktext="true" />, vgl. <intlink letter="450" page="191" line="22" linktext="true" />
 </marginal>
 
 <marginal letter="555" page="81" line="25" >
@@ -72262,10 +72262,14 @@ Brief Nr. 557
 </marginal>
 
 <marginal letter="557" page="85" line="5" sort="2" >
+<bzg>s.v.</bzg> sit venia erbo, dt. entschuldigen Sie den Ausdruck
+</marginal>
+
+<marginal letter="557" page="85" line="5" sort="3" >
 <bzg>sich flöht</bzg> sich von Flöhen reinigt, vgl. <wwwlink address="www.woerterbuchnetz.de/DWB2/2FLÖHEN">DWB (2. Aufl), s.v. flöhen</wwwlink>
 </marginal>
 
-<marginal letter="557" page="85" line="6" sort="1" >
+<marginal letter="557" page="85" line="6" sort="1" > 
 <bzg>Orthodoxen und Dramaturgen</bzg> wohl Anspielung auf den Fragmentenstreit, demnach <link ref="goze" linktext="false">Goeze</link> und <link ref="lessing" linktext="false">Lessing</link> sowie ihre jeweiligen Anhänger („Dramaturgen“ nach <link ref="lessing" subref="lessing-nathan" linktext="true" />)
 </marginal>
 
@@ -72560,6 +72564,110 @@ Brief Nr. 560
 
 <marginal letter="560" page="92" line="10" >
 <bzg>Mäcen</bzg> <link ref="zedlitz" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="13" >
+<bzg>D. Biester</bzg> <link ref="biester" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="14" >
+<bzg>humilem agnam</bzg> dt. bescheidenes Lamm, etwa in <link ref="horaz" subref="horaz-oden" linktext="true" />, 2,17,32
+</marginal>
+
+<marginal letter="560" page="92" line="17" sort="1" >
+<bzg>Cousine Buchholtz</bzg> <link ref="schultz-f" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="17" sort="2" >
+<bzg>Oberhofprediger Schultz</bzg> <link ref="schultz-je" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="19" sort="1" >
+<bzg>Gevatter aus W.</bzg> <link ref="herder" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="20" >
+<bzg>Brauchs = Bauchs</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,226/30, vgl. <intlink letter="555" page="80" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="21" sort="1" >
+<bzg>Starkens Apol.</bzg> <link ref="starck" subref="starck-apologie" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="21" sort="2" >
+<bzg>Meiners Abhandl.</bzg> Christoph Meiners und seine Schrift <titel>Ueber die Mysterien der Alten, besonders die Eleusinischen Geheimnisse,</titel> in: <link ref="meiners" subref="meiners-vermischte" linktext="true" />, Bd.&#x202F;3, S.&#x202F;164–342
+</marginal>
+
+<marginal letter="560" page="92" line="22" >
+<bzg>Nachtstück&#x202F;…</bzg> vgl. zu <intlink letter="557" page="85" line="5" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="24" >
+<bzg>Dramaturgen und Orthodoxen&#x202F;…</bzg> <link ref="goze" linktext="false">Goeze</link> und <link ref="lessing" linktext="false">Lessing</link> sowie ihre jeweiligen Anhänger, vgl. zu <intlink letter="557" page="85" line="6" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="26" >
+<bzg>Eintritt ins 50ste</bzg> seinen Geburtstag am 27. August
+</marginal>
+
+<marginal letter="560" page="92" line="30" sort="1" >
+<bzg>Guldens Leben</bzg> <link ref="reichardt" subref="reichardt-gulden" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="30" sort="2" >
+<bzg>Recension in unserer Zeitung</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, Jg. nicht überliefert; zu der Rezension, deren Original nicht aufgefunden werden kann, sowie zu ihrer Bedeutung für Reichardt vgl. <link ref="ang-a-2003" linktext="false">Anglet: <titel>„Leben des berühmten Tonkünstlers Heinrich Wilhelm Gulden“</titel>, S.&#x202F;11f.</link>
+</marginal>
+
+<marginal letter="560" page="92" line="31" >
+<bzg>John</bzg> <link ref="john" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="34" >
+<bzg>Koppe N. T.</bzg> <link ref="koppe" subref="koppe-testamentum" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="36" >
+<bzg>Faustens Mantel&#x202F;…&#x202F;Maler Müller</bzg> <link ref="mueller-m" subref="mueller-faust" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="37" sort="1" >
+<bzg>Hermes</bzg> <link ref="hermes-jt" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="37" sort="2" >
+<bzg>Sophie</bzg> <link ref="hermes-sophie" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="92" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="560" page="92" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="560" page="92" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="560" page="92" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="560" page="92" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="560" page="92" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="560" page="92" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="560" page="92" line="" >
+<bzg></bzg> 
 </marginal>
 
 

@@ -7977,10 +7977,16 @@ Biga&#x202F;8/112: „Herodiani Historia gr. &amp; lat. Arg. 662“ und <link re
 <eintrag>Um 1480 oder 1500 bis 1561. Kantor in St. Joachimsthal und protestantischer Kirchenlieddichter.</eintrag>
 </kommentar>
 
-<kommentar id="hermes-jf" type="neuzeit">
-<lemma>Johann Friedrich Hermes</lemma>
-<eintrag>Sohn eines Mühlenaufsehers; ging unter der Aufsicht von <link ref="kraus" linktext="true" /> nach Göttingen.
-.</eintrag>
+<kommentar id="hermes-jt" type="neuzeit">
+<lemma>Johann Timotheus Hermes</lemma>
+<eintrag>1738–1821. Schriftsteller und 1771 Professor der Theologie in Breslau, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118933876.html#ndbcontent">Beyreuther, Erich: Hermes, Johann Timotheus, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;669f</wwwlink>.
+</eintrag>
+<subsection id="hermes-sophie" type="neuzeit" sort="10">
+<lemma>Hermes, <titel>Sophiens Reise von Memel nach Sachsen</titel></lemma>
+<eintrag>
+<titel>Sophiens Reise von Memel nach Sachsen</titel> (1. Aufl. 5 Bde., Leipzig 1769–1773, 2. Aufl. 6 Bde., Leipzig 1776). Digitalisat 2. Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925944-3">BSB München: Res/P.o.germ. 2030 v-1/2</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="hervey" type="neuzeit">
@@ -8976,7 +8982,7 @@ J
 
 <kommentar id="john" type="neuzeit">
 <lemma>George Friedrich John</lemma>
-<eintrag>1742–1800. Dichter und Theaterkritiker in Königsberg, 1765 Kreisaktuarius, 1770 Justizamtmann, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz37766.html">Motekat, Helmut G.: John, George Friedrich, in: <titel>NDB</titel>&#x202F;10 (1974), S.&#x202F;582</wwwlink> und <wwwlink address="https://www.mgh-bibliothek.de/bibliothek/altpreussischemonatsschrift.html">Altpreußische Monatsschrift</wwwlink> 45 (1908), S.&#x202F;232–247.
+<eintrag>1742–1800. Lokaldichter und Theaterkritiker in Königsberg, 1765 Kreisaktuarius, 1770 Justizamtmann, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz37766.html">Motekat, Helmut G.: John, George Friedrich, in: <titel>NDB</titel>&#x202F;10 (1974), S.&#x202F;582</wwwlink> und <wwwlink address="https://www.mgh-bibliothek.de/bibliothek/altpreussischemonatsschrift.html">Altpreußische Monatsschrift</wwwlink> 45 (1908), S.&#x202F;232–247.
 </eintrag>
 </kommentar>
 
@@ -13150,6 +13156,17 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 </subsection>
 </kommentar>
 
+<kommentar id="mueller-m" type="neuzeit">
+<lemma>Maler Müller</lemma>
+<eintrag>Eigentlich Johannes Friedrich Müller, 1749–1825. Maler, Dichter und Kupferstecher, ab 1780 in Rom, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118584871.html#ndbcontent">Leuschner, Ulrike: Müller, Friedrich, in: <titel>NDB</titel>&#x202F; 18 (1887), S.&#x202F;373-375.</wwwlink>.</eintrag>
+<subsection id="mueller-faust" type="neuzeit" sort="10">
+<lemma>Maler Müller, <titel>Fausts Leben</titel></lemma>
+<eintrag>
+<titel>Fausts Leben dramatisiert vom Mahler Müller</titel> (Mannheim: Schwan 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11263166-6">Stabi Augsburg: LD 7999</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="mueller-ms" type="neuzeit">
 <lemma>M. S. Müller</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Beb. Baranowski, Ehefrau von <link ref="mueller-ee" linktext="true" /> und Pflegemutter von <link ref="kraus" linktext="true" />.</eintrag>
@@ -13199,7 +13216,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 
 <kommentar id="musaus" type="neuzeit">
 <lemma>Johann Karl August Musäus</lemma>
-<eintrag>1735–1787. Schriftsteller, Theologe, 1769 Gymnasialprofessor in Weimar, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz67481.html#ndbcontent">Neureuter, Hans Peter: Musäus, Karl, in: <titel>NDB</titel>&#x202F; 18 (1887), S.&#x202F;623f.</wwwlink>.</eintrag>
+<eintrag>1735–1787. Schriftsteller, Theologe, 1769 Gymnasialprofessor in Weimar, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz67481.html#ndbcontent">Neureuter, Hans Peter: Musäus, Karl, in: <titel>NDB</titel>&#x202F; 18 (1887), S.&#x202F;623f.</wwwlink></eintrag>
 <subsection id="musaus-physiognomische-reisen" type="neuzeit" sort="10">
 <lemma>Musäus, <titel>Physiognomische Reisen</titel></lemma>
 <eintrag>
@@ -14861,10 +14878,16 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <kommentar id="reichardt-jf" type="neuzeit">
 <lemma>Johann Friedrich Reichardt</lemma>
 <eintrag>1752–1814. Sohn von <link ref="reichardt-j" linktext="true" />, Musiker und Komponist, seit 1776 preuß. Kapellmeister in Berlin, oft auf Reisen: 1783 Schweiz, Italien, Wien, Hamburg, 1785 London, Paris, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118599100.html#adbcontent">Schletterer, Hans Michael: Reichardt, Johann Friedrich, in: <titel>ADB</titel>&#x202F;27 (1888), S.&#x202F;629–648</wwwlink>.</eintrag>
-<subsection id="reichardt-jf-briefe" type="neuzeit">
+<subsection id="reichardt-briefe" type="neuzeit" sort="10">
 <lemma>Reichardt, <titel>Briefe eines aufmerksam Reisenden</titel></lemma>
 <eintrag>
-<titel>Briefe eines aufmerksam Reisenden, die Musik betreffend</titel> (2 Bde., Frankfurt und Leipzig 1774–1776). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599277-5">München, Bayerische Staatsbibliothek: Mus.th. 2735-1</wwwlink>; Bd.&#x202F;2: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599278-0">München, Bayerische Staatsbibliothek: Mus.th. 2735-2</wwwlink>
+<titel>Briefe eines aufmerksam Reisenden, die Musik betreffend</titel> (2 Bde., Frankfurt und Leipzig 1774–1776). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599277-5">BSB München: Mus.th. 2735-1</wwwlink>; Bd.&#x202F;2: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10599278-0">München, Bayerische Staatsbibliothek: Mus.th. 2735-2</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="reichardt-gulden" type="neuzeit" sort="20">
+<lemma>Reichardt, <titel>Leben des berühmten Tonkünstlers Heinrich Wilhelm Gulden </titel></lemma>
+<eintrag>
+<titel>Leben des berühmten Tonkünstlers Heinrich Wilhelm Gulden nachher genannt Guglielmo Enrico Fiorino. Erster Theil</titel> (Berlin: Mylius 1779). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10600103-9">BSB München: Mus.th. 4743-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -16114,6 +16137,12 @@ Zweite Auflage: <titel>Lyrische, Elegische und Epische Poesien, nebst einer krit
 <kommentar id="schultz-je" type="neuzeit">
 <lemma>Johann Ernst Schultz</lemma>
 <eintrag>1742–1806. 1760/67 Hofmeister bei <link ref="lilienthal-th" linktext="true" />, Nachfolger <link ref="starck" linktext="false">Johann August Starcks</link> als Oberhofprediger und Professor der Theologie in Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="schultz-f" type="neuzeit">
+<lemma>Friederike Schultz</lemma>
+<eintrag>Geb. Buchholtz. Seit 1779 Ehefrau von <link ref="schultz-je" linktext="true" />, Tochter des Onkels von <link ref="kraus" linktext="true" />.
+</eintrag>
 </kommentar>
 
 <kommentar id="schultz-fa" type="neuzeit">
