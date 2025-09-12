@@ -1367,6 +1367,12 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 </eintrag>
 </kommentar>
 
+<kommentar id="berens-ac" type="neuzeit">
+<lemma>Arend Berens</lemma>
+<eintrag>Gest. 1781. Sohn von <link ref="berens-c" linktext="true" /> aus der ersten Ehe mit Ursula Schwartz.
+</eintrag>
+</kommentar>
+
 <kommentar id="berens-ca" type="neuzeit">
 <lemma>Catharina Berens</lemma>
 <eintrag>1727–1805. Schwester von <link ref="berens-a" linktext="false">Arend</link>, <link ref="berens-c" linktext="false">Carl</link>, <link ref="berens-ah" linktext="false">Adam Heinrich</link>, <link ref="berens-g" linktext="false">Georg</link> u. <link ref="berens-jc" linktext="true" />.
@@ -2499,6 +2505,12 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 <kommentar id="budberg-wd" type="neuzeit">
 <lemma>Woldemar Dietrich v. Budberg</lemma>
 <eintrag>1740–1786. Freiherr, Baron. Sohn von <link ref="budberg-bh" linktext="true" />, Herr auf <wwwlink address="https://www.geonames.org/458836">Kegeln</wwwlink>, Schüler <link ref="hamann" linktext="false">Hamanns</link> während dessen dortiger Arbeit als Hofmeister. Wurde 1754–57 beim Rektor der Domschule <link ref="lindner-jg" linktext="true" /> in Riga unterrichtet. 1757 Studium in Straßburg. Reisen in Deutschland, d. Schweiz, Italien, Frankreich, England u. d. Niederlanden. Ausbildung zum Künstler, u.a. bei A. F. Oeser in Leipzig u. A. R. Mengs in Dresden. Seit 1765 in Livland, lebte in Strasdenhof b. Riga, dann in Kegeln u. 1783 als Kreismarschall in Walk. (<titel>Allgemeines Schriftsteller- und Gelehrten-Lexikon der Provinzen Livland, Esthland und Kurland</titel> [Mitau 1827], Bd.&#x202F;1, S.&#x202F;294–296). Die Fam. v. Budberg gehörte zur livländischen Ritterschaft.</eintrag>
+<subsection id="budberg-schlangenbad" type="neuzeit">
+<lemma>Budberg, <titel>Beschreibung (m)eines Aufenthaltes im Schlangenbade 1771. Riga 1779.</titel></lemma>
+<eintrag>
+<titel>Beschreibung eines Aufenthalts im Schlangenbade. 1777</titel> (Riga: Hartknoch 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10018714-7">BSB München: Germ.sp. 80 txd</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="budberg-de" type="neuzeit">
@@ -13714,10 +13726,15 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 <kommentar id="pallas" type="neuzeit">
 <lemma>Peter Simon Pallas</lemma>
 <eintrag>1741–1811. Naturforscher, Professor der Naturgeschichte an der Petersburger Akademie, 1768–1774 Leiter der Sibirienexpedition.</eintrag>
-<subsection id="pallas-morduanen" type="neuzeit">
+<subsection id="pallas-morduanen" type="neuzeit" sort="10">
 <lemma>Pallas, <titel>Merkwürdigkeiten der Morduanen, Kasaken, Kalmücken, Kirgisen, Baschkiren etc.</titel></lemma>
 <eintrag>
-<titel>Merkwürdigkeiten der Morduanen, Kasaken, Kalmücken, Kirgisen, Baschkiren etc.: nebst andern dahin gehörigen Nachrichten, und Kupfern. Ein Auszug aus Pallas Reisen</titel> (Frankfurt, Leipzig 1773) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;86/191: „Merkwürdigkeiten der Morduanen, Kosaken, etc. Ein Auszug aus Pallas Reisen, Frft. 773.“]. Auszug aus <wwwlink address="https://gdz.sub.uni-goettingen.de/volumes/id/PPN32991345X">Pallas’ <titel>Reise durch verschiedene Provinzen des Rußischen Reichs (3 Tle., St. Petersburg 1771–1776)</titel></wwwlink>.
+<titel>Merkwürdigkeiten der Morduanen, Kasaken, Kalmücken, Kirgisen, Baschkiren etc.: nebst andern dahin gehörigen Nachrichten, und Kupfern. Ein Auszug aus Pallas Reisen</titel> (Frankfurt, Leipzig 1773) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;86/191: „Merkwürdigkeiten der Morduanen, Kosaken, etc. Ein Auszug aus Pallas Reisen, Frft. 773.“]. Auszug aus <link ref="pallas" subref="pallas-reise" linktext="true" />
+</eintrag>
+</subsection>
+<subsection id="pallas-reise" type="neuzeit" sort="20">
+<lemma>Pallas, <titel>Reise durch verschiedene Provinzen des Rußischen Reichs</titel></lemma>
+<eintrag><titel>Reise durch verschiedene Provinzen des Rußischen Reichs </titel> (3 Tle., St. Petersburg 1771–1776). Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/volumes/id/PPN32991345X">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -16190,6 +16207,18 @@ Zweite Auflage: <titel>Lyrische, Elegische und Epische Poesien, nebst einer krit
 <lemma>Schumacher, <titel>Die ursprüngliche Abstammung und Geschichte der Deutschen</titel></lemma>
 <eintrag> <titel>Die ursprüngliche Abstammung und Geschichte der Deutschen; aus den alten Ueberlieferungen und
 Sinnbildern</titel> (Wolfenbüttel: Meißner 1763) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;88/216: „J. H. Schumacher’s ursprüngliche Abstammung und Geschichte der Deutschen aus alten Ueberlieferungen und Sinnbildern, Wolf. 763“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10017287-9">BSB München: Germ. g. 442</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="schummel" type="neuzeit">
+<lemma>Johann Gottlieb Schummel</lemma>
+<eintrag>1748–1813. Pädagoge und Schriftsteller, Professor an der Ritterakademie in Liegnitz, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118762648.html#adbcontent">Hippe, Max: Schummel, Johann Gottlieb, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;59–61</wwwlink>.
+</eintrag>
+<subsection id="schummel-spitzbart" type="neuzeit" sort="10">
+<lemma>Schummel, <titel>Spitzbart</titel></lemma>
+<eintrag><titel>Spitzbart, eine komi-tragische Geschichte für unser pädagogisches Jahrhundert.
+</titel> (Tübingen: Frank, Schramm 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11090745-1">Stabi Regensburg: 999/Germ.352</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 

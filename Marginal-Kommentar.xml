@@ -72667,15 +72667,55 @@ Brief Nr. 560
 </marginal>
 
 <marginal letter="560" page="93" line="20" >
-<bzg>Schummels Spitzbart</bzg> 
+<bzg>Schummels Spitzbart</bzg> <link ref="schummel" subref="schummel-spitzbart" linktext="true" />
 </marginal>
 
 <marginal letter="560" page="93" line="21" >
-<bzg>Photorinus Pathognomikus</bzg> 
+<bzg>Photorinus Pathognomikus</bzg> <link ref="lichtenberg" linktext="true" /> in Göttingen, wo Kraus sich aufhält; „Photorin“ ist ein Pseudonym im <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-30338-4"><titel>Timorus</titel> […] (Berlin 1773)</wwwlink>; der Beiname „Pathognomikus“ nach Lichtenbergs Entgegnung auf <link ref="lavater" linktext="false">Lavater</link> (<link ref="lichtenberg" subref="lichtenberg-physiognomik" linktext="false"></link>), die den (wohl satirisch gemeinten) Begriff der Pathognomik entwickelt, die Möglichkeit, bestimmte seelische Vorgänge aus den unbewussten Bewegungen des menschlichen Gesichts zu erschließen.
 </marginal>
 
 <marginal letter="560" page="93" line="22" >
 <bzg>Prof. †feld u Brahl</bzg> <link ref="kreutzfeld" linktext="true" /> und <link ref="brahl" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="93" line="23" >
+<bzg>jungen Berens</bzg> <link ref="berens-ac" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="93" line="26" sort="1" >
+<bzg>Baron von Budberg</bzg> <link ref="budberg-wd" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="93" line="26" sort="1" >
+<bzg>Reisebeschreibung ins Schlangenbad</bzg> <link ref="budberg-wd" subref="budberg-schlangenbad" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="93" line="27" >
+<bzg>Hermes</bzg> <link ref="hermes-jt" linktext="true" /> (wohl auch ein Spiel mit dem Götterboten, der auch für Reichtum und Handel steht)
+</marginal>
+
+<marginal letter="560" page="93" line="33" >
+<bzg>Genoß</bzg> <link ref="hermes-jf" linktext="true" />, <intlink letter="560" page="91" line="21" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="560" page="93" line="35" >
+<bzg>Gagliani vom Münzwesen</bzg> <link ref="galiani" subref="galiani-moneta" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="93" line="" >
+<bzg>Denkwürdigkeiten aus Pallas Reisen</bzg> <link ref="pallas" subref="pallas-reise" linktext="true" />?!? noch verifizieren
+</marginal>
+
+<marginal letter="560" page="94" line="6" >
+<bzg>mathematischen Muse</bzg> nach Kraus’ Übersetzung von <link ref="young-a" subref="young-political-arithmatic" linktext="true" />
+</marginal>
+
+<marginal letter="560" page="94" line="10" >
+<bzg>communicativen Schwäche</bzg> wohl das Stottern gemeint
+</marginal>
+
+<marginal letter="560" page="94" line="13" >
+<bzg>Einer des Andern Last</bzg> <link ref="nt-gal" subref="nt-gal6" linktext="false">Gal 6,2</link>
 </marginal>
 
 
