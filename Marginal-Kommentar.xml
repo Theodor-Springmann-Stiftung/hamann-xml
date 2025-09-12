@@ -45227,7 +45227,7 @@ Brief Nr. 377
 </marginal>
 
 <marginal letter="377" page="13" line="16" sort="4">
-<bzg>George Alphab. Tibet.</bzg> <link ref="georgi-aa" subref="georgi-tibetanum" linktext="true" />
+<bzg>George Alphab. Tibet.</bzg> <link ref="giorgi-aa" subref="giorgi-tibetanum" linktext="true" />
 </marginal>
 
 <marginal letter="377" page="13" line="17">
@@ -72301,7 +72301,7 @@ Brief Nr. 557
 <bzg>Sohn zu St. Petersb</bzg> <link ref="hartknoch-j" linktext="true" />
 </marginal>
 
-<marginal letter="557" page="85" line="12" sort="2" >
+<marginal letter="557" page="85" line="12" sort="2" > 
 <bzg>Arndt</bzg> <link ref="arndt-cg" linktext="true" />
 </marginal>
 
@@ -72638,36 +72638,44 @@ Brief Nr. 560
 <bzg>Sophie</bzg> <link ref="hermes-sophie" linktext="true" />
 </marginal>
 
-<marginal letter="560" page="92" line="" >
-<bzg></bzg> 
+<marginal letter="560" page="93" line="3" >
+<bzg>Schlüßel zum Wort Konxompax</bzg> Hamann interessierte sich für den kultisch-außereuropäischen Hintergrund des Wortes wegen seiner <link ref="hamann" subref="hamann-konxompax" linktext="false">gleichnamigen Schrift</link>, in der er das Wort zunächst nur der Stelle in Starcks <link ref="starck" subref="starck-apologie" linktext="false"><titel>Apologie des Ordens der Freimaurer</titel></link>, S.&#x202F;180 entnommen hatte: „Hesychius führt ausserdem noch zwey Losungswörter [bei den Mysterien] an, die Konx und Ompax hiessen, die nicht griechisch, sondern fremden Ursprungs sind, von welchen es aber ungewiß ist, ob sie beym Eintritt oder Ausgange aus dem Tempel gegeben wurden.“ Vgl. auch <link ref="herder" linktext="false">Herders</link> erste Recherchen bei <link ref="hesychius" linktext="true" /> in <intlink letter="556" page="83" line="10" linktext="true" /> und Hamanns Antwort in <intlink letter="561" page="96" line="4" linktext="true" />.
 </marginal>
 
-<marginal letter="560" page="92" line="" >
-<bzg></bzg> 
+<marginal letter="560" page="93" line="5" >
+<bzg></bzg> <link ref="lettres-edifiantes" linktext="true" />, Bd.&#x202F;15 (Paris 1722); zu dem Wort „Konxompax“ vgl. S.&#x202F;195
 </marginal>
 
-<marginal letter="560" page="92" line="" >
-<bzg></bzg> 
+<marginal letter="560" page="93" line="6" >
+<bzg>Alphabetum Thibetanum</bzg> <link ref="giorgi-aa" subref="giorgi-tibetanum" linktext="true" />, vgl. S.&#x202F;513
 </marginal>
 
-<marginal letter="560" page="92" line="" >
-<bzg></bzg> 
+<marginal letter="560" page="93" line="7" >
+<bzg>Müllersche Haus</bzg> <link ref="mueller-ee" linktext="true" />
 </marginal>
 
-<marginal letter="560" page="92" line="" >
-<bzg></bzg> 
+<marginal letter="560" page="93" line="17" >
+<bzg>Arndt</bzg> <link ref="arndt-cg" linktext="true" />, nicht überliefert, vgl. <intlink letter="557" page="85" line="12" linktext="true" /> 
 </marginal>
 
-<marginal letter="560" page="92" line="" >
-<bzg></bzg> 
+<marginal letter="560" page="93" line="18" >
+<bzg>kalmuckschen Polyhistor einen</bzg> einen Gelehrten, der sich im Tibetanischen auskennt
 </marginal>
 
-<marginal letter="560" page="92" line="" >
-<bzg></bzg> 
+<marginal letter="560" page="93" line="19" >
+<bzg>Haec sub rosa scripta sunto</bzg> Dt. Dies soll unter der Rose (dem Siegel der Verschwiegenheit) geschrieben sein.
 </marginal>
 
-<marginal letter="560" page="92" line="" >
-<bzg></bzg> 
+<marginal letter="560" page="93" line="20" >
+<bzg>Schummels Spitzbart</bzg> 
+</marginal>
+
+<marginal letter="560" page="93" line="21" >
+<bzg>Photorinus Pathognomikus</bzg> 
+</marginal>
+
+<marginal letter="560" page="93" line="22" >
+<bzg>Prof. †feld u Brahl</bzg> <link ref="kreutzfeld" linktext="true" /> und <link ref="brahl" linktext="true" />
 </marginal>
 
 
