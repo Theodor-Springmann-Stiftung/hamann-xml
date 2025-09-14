@@ -3346,6 +3346,12 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 <titel>Bibliothèque universelle et historique de l’année 1686–1693</titel> (26 Bde., Amsterdam 1686–1693).
 </eintrag>
 </subsection>
+<subsection id="clerc-explication-historique-ceres" type="neuzeit" sort="10">
+<lemma>le Clerc, <titel>Explication Historique de la fable de Ceres</titel></lemma>
+<eintrag>
+<titel>Explication Historique de la fable de Ceres</titel>. In: <link ref="clerc" subref="clerc-bibuniverselle" linktext="false">Bibliothèque Universelle et Historiques de l’Année 1687,</link> Bd.&#x202F;6 (Amsterdam 1687). Digitalisat: <wwwlink address="https://books.google.de/books?id=40MVube3LqUC">Google Books</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="cleveland" type="neuzeit">
@@ -7925,12 +7931,12 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 
 <kommentar id="herder-g" type="neuzeit">
 <lemma>Wilhelm Christian Gottfried Herder</lemma>
-<eintrag>1774–1806. Sohn von <link ref="herder" linktext="true" />, siehe <wwwlink address="https://d-nb.info/gnd/116732385">GND</wwwlink></eintrag>
+<eintrag>28.8.1774–11.5.1806. Sohn von <link ref="herder" linktext="true" />, siehe <wwwlink address="https://d-nb.info/gnd/116732385">GND</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="herder-a" type="neuzeit">
 <lemma>Siegmund August Wolfgang Herder</lemma>
-<eintrag>1776–1838. Sohn von <link ref="herder" linktext="true" /> und Patenkind Hamanns, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Schellhas, Walter: Herder, August Freiherr von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;594f.</wwwlink></eintrag>
+<eintrag>18.8.1776–29.1.1838. Sohn von <link ref="herder" linktext="true" /> und Patenkind Hamanns, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29940.html">Schellhas, Walter: Herder, August Freiherr von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;594f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="herder-ae" type="neuzeit">
@@ -7940,12 +7946,12 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 
 <kommentar id="herder-c" type="neuzeit">
 <lemma>Caroline Herder</lemma>
-<eintrag>1748–1793. Geb. Flachsland, ab 1773 Ehefrau von <link ref="herder" linktext="true" /> und Patenmutter von <link ref="hamann-ms" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29949.html#ndbcontent">Dobbek, Wilhelm: Herder, Carolina, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;603f.</wwwlink></eintrag>
+<eintrag>28.1.1750–15.9.1809. Geb. Flachsland, ab 1773 Ehefrau von <link ref="herder" linktext="true" /> und Patenmutter von <link ref="hamann-ms" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29949.html#ndbcontent">Dobbek, Wilhelm: Herder, Carolina, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;603f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="herder-w" type="neuzeit">
 <lemma>Wilhelm Ludwig Ernst Herder</lemma>
-<eintrag>1778–1842. Später Großkaufmann in St. Petersburg.</eintrag>
+<eintrag>12.2.1778–8.6.1842. Später Großkaufmann in St. Petersburg.</eintrag>
 </kommentar>
 
 <kommentar id="herder-cd-g" type="neuzeit">
@@ -13726,10 +13732,13 @@ Gegen die großen Philosophen: damit sind vor allem die Enzyklopädisten gemeint
 <kommentar id="pallas" type="neuzeit">
 <lemma>Peter Simon Pallas</lemma>
 <eintrag>1741–1811. Naturforscher, Professor der Naturgeschichte an der Petersburger Akademie, 1768–1774 Leiter der Sibirienexpedition.</eintrag>
-<subsection id="pallas-morduanen" type="neuzeit" sort="10">
-<lemma>Pallas, <titel>Merkwürdigkeiten der Morduanen, Kasaken, Kalmücken, Kirgisen, Baschkiren etc.</titel></lemma>
+<subsection id="pallas-auszug" type="neuzeit" sort="10">
+<lemma>Pallas, <titel>Auszug aus Pallas Reisen</titel></lemma>
 <eintrag>
-<titel>Merkwürdigkeiten der Morduanen, Kasaken, Kalmücken, Kirgisen, Baschkiren etc.: nebst andern dahin gehörigen Nachrichten, und Kupfern. Ein Auszug aus Pallas Reisen</titel> (Frankfurt, Leipzig 1773) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;86/191: „Merkwürdigkeiten der Morduanen, Kosaken, etc. Ein Auszug aus Pallas Reisen, Frft. 773.“]. Auszug aus <link ref="pallas" subref="pallas-reise" linktext="true" />
+Tl.&#x202F;1: <titel>Merkwürdigkeiten der Morduanen, Kasaken, Kalmücken, Kirgisen, Baschkiren etc.: nebst andern dahin gehörigen Nachrichten, und Kupfern. Ein Auszug aus Pallas Reisen</titel> (Frankfurt, Leipzig 1773) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;86/191: „Merkwürdigkeiten der Morduanen, Kosaken, etc. Ein Auszug aus Pallas Reisen, Frft. 773.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11449184-4">Stabi Bamberg: Geogr.it.o.142-a</wwwlink>.<line type="break" />
+Tl.&#x202F;2: <titel>Merkwürdigkeiten der Baschkiren, Mestscheräken, Wogulen, Tataren etc. Nebst andern dahin gehörigen Nachrichten und Kupfern. Auszug aus Pallas Reisen Zweyten Theile</titel> (Frankfurt, Leipzig 1777). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0001651900000000">Stabi Berlin: 50 MA 14085</wwwlink>.<line type="break" />
+Tl.&#x202F;3: <titel>Merkwürdigkeiten der obischen Ostjaken, Samojeden, daurischen Tungusen, udinskischen Bergtataren etc. Nebst andern dahin gehörigen Nachrichten und Kupfern. Auszug aus Pallas Reisen drittem Theile</titel> (Frankfurt, Leipzig 1777). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0001651800000000">Stabi Berlin: 50 MA 14085</wwwlink>.<line type="break" />
+Auszug aus <link ref="pallas" subref="pallas-reise" linktext="true" />
 </eintrag>
 </subsection>
 <subsection id="pallas-reise" type="neuzeit" sort="20">
