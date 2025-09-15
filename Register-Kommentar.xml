@@ -3349,7 +3349,7 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 <subsection id="clerc-explication-historique-ceres" type="neuzeit" sort="10">
 <lemma>le Clerc, <titel>Explication Historique de la fable de Ceres</titel></lemma>
 <eintrag>
-<titel>Explication Historique de la fable de Ceres</titel>. In: <link ref="clerc" subref="clerc-bibuniverselle" linktext="false">Bibliothèque Universelle et Historiques de l’Année 1687,</link> Bd.&#x202F;6 (Amsterdam 1687). Digitalisat: <wwwlink address="https://books.google.de/books?id=40MVube3LqUC">Google Books</wwwlink>.
+<titel>Explication Historique de la fable de Ceres</titel>. In: <link ref="clerc" subref="clerc-bibuniverselle" linktext="false">Bibliothèque Universelle et Historiques de l’Année 1687,</link> Bd.&#x202F;6 (Amsterdam 1687), S.&#x202F;55–127. Digitalisat: <wwwlink address="https://books.google.de/books?id=40MVube3LqUC">Google Books</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -8110,6 +8110,12 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <kommentar id="hesychius" type="neuzeit">
 <lemma>Hesychius von Alexandreia </lemma>
 <eintrag>5. Jh. Griech. Grammatiker und Lexikograph.</eintrag>
+<subsection id="hesychius-lexicon" type="neuzeit">
+<lemma>Hesychius, <titel>Lexicon</titel></lemma>
+<eintrag>
+<titel>ΗΣΥΧΙΟΥ ΛΕΞΙΚΟΝ cum Variis Doctorum virorum Notis vel editis antehac vel ineditis […] Accurante Cornelio Schrevelio</titel> (Leiden, Rotterdam 1668). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060596-4">Stabi Regensburg: 999/4Class.43</wwwlink>. Vgl. Hamanns Exzerpt zu <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link> bei <wwwlink address="https://books.google.de/books?id=2OlVAAAAcAAJ">Wiener, 8/1, S.&#x202F;296</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="heumann" type="neuzeit">
@@ -12195,7 +12201,13 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 <subsection id="meiners-vermischte" type="neuzeit" sort="30">
 <lemma>Meiners, <titel>Vermischte philosophische Schriften</titel></lemma>
 <eintrag>
-<titel>Vermischte philosophische Schriften</titel> (3 Bde., Leipzig: Weygand 1775/76). Digitalisat, Bd. 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046443-6">München, Bayerische Staatsbibliothek: Ph.u. 343-3</wwwlink>.
+<titel>Vermischte philosophische Schriften</titel> (3 Bde., Leipzig: Weygand 1775–1776). Digitalisat, Bd. 3: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046443-6">München, Bayerische Staatsbibliothek: Ph.u. 343-3</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="meiners-mysterien" type="neuzeit" sort="40">
+<lemma>Meiners, <titel>Ueber die Mysterien der Alten</titel></lemma>
+<eintrag>
+<titel>Ueber die Mysterien der Alten, besonders die Eleusinischen Geheimnisse.</titel> In: <link ref="meiners" subref="meiners-vermischte" linktext="true" />, Bd.&#x202F;3, S.&#x202F;164–342.
 </eintrag>
 </subsection>
 </kommentar>
