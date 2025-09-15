@@ -72135,7 +72135,15 @@ Antwort auf <intlink letter="554" page="77" line="1" linktext="false">HKB 554</i
 </marginal>
 
 <marginal letter="556" page="83" line="10" >
-<bzg>Hesych&#x202F;…</bzg> <link ref="hesychius" linktext="true" /> – Hamanns Antwort, HHE 4 und Herder-Kommentar?!?
+<bzg>Hesych&#x202F;…</bzg> Herder fragt nach dem Sinn des Titelworts von Hamanns <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link> und teilt erste Recherchen aus <link ref="hesychius" subref="hesychius-lexicon" linktext="true" />, S.&#x202F;539 mit; zur Übersetzung vgl. zu <intlink letter="560" page="93" line="3" linktext="true" />; zum Kontext vgl. <intlink letter="561" page="96" line="4" linktext="true" />.
+</marginal>
+
+<marginal letter="556" page="83" line="14" sort="1" >
+<bzg>Βομβαξ&#x202F;…&#x202F;Πυππαξ</bzg> beides Ausrufe der Verwunderung, vgl. <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;77?!?
+</marginal>
+
+<marginal letter="556" page="83" line="15" sort="2" >
+<bzg>εποποι</bzg> Onomatopoetisch: Naturlaut des Wiedehupfs, <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;77?!?
 </marginal>
 
 <marginal letter="556" page="83" line="15" >
@@ -72842,9 +72850,7 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="96" line="5" >
-<bzg>Hesychius</bzg> Vgl. Hamanns Abschrift der Stelle aus <link ref="hesychius" subref="hesychius-lexicon" linktext="true" /> bei <wwwlink address="https://books.google.de/books?id=2OlVAAAAcAAJ">Wiener, 8/1, S.&#x202F;296</wwwlink>: „Κογξ, ομπαξ, επιφωνημα τετελεσμενοις, και της δικαστικης ψηφου ηχος, ως ι της κλεψυδρας, περι (παρα Martin.) δε Αττικοις, βλοψ. (ομπαξ, forte βομπαξ, Sopingius.)“
-noch Akzente, die Übersetzung (Vorlage in Herder-Ausgabe, Chatgpt) und die Stelle im Herder-Brief nachtragen?!?
-vgl. <intlink letter="556" page="83" line="10" linktext="true" /> 
+<bzg>Hesychius</bzg> Vgl. Hamanns Abschrift der Stelle aus <link ref="hesychius" subref="hesychius-lexicon" linktext="true" />, S.&#x202F;539 bei <wwwlink address="https://books.google.de/books?id=2OlVAAAAcAAJ">Wiener, 8/1, S.&#x202F;296</wwwlink>: „Κόγξ, ὄμπαξ, ἐπιφώνημα τετελεσμένοῖς, καὶ τῆς δικαστικῆς ψήφου ἦχος, ὡς ὁ τῆς κλεψύδρας, περὶ (παρὰ Martin.) δε Ἀττικοις, βλόψ. (ὄμπαξ, forte βόμπαξ, Sopingius.)“. Übers. (nach <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;77?!?): „Konx, ompax, Zuruf [des Hierophanten in die Eleusinischen Mysterien] an die Eingeweihten. Und Geräusch des [Gerichts-] Stimmsteins wie das der Wasseruhr [Klepsydra]. Bei den Athenern aber Blops [onomatopoetisch].“ – Vgl. außerdem Herders Frage in <intlink letter="556" page="83" line="10" linktext="true" /> und zum Kontext <intlink letter="560" page="93" line="3" linktext="true" />.
 </marginal>
 
 <marginal letter="561" page="96" line="5" sort="2" >
@@ -72852,35 +72858,35 @@ vgl. <intlink letter="556" page="83" line="10" linktext="true" />
 </marginal>
 
 <marginal letter="561" page="96" line="8" >
-<bzg>Les Hierophantes</bzg> <link ref="clerc" subref="clerc-explication-historique-ceres" linktext="true" />, S.&#x202F;86f.; dt.: „Die Hierophanten entließen das Volk mit den Rufen ‚Conx‘ und ‚Ompax‘, barbarischen Begriffen, die zeigen, dass diese Zeremonien von Menschen eingeführt worden waren, die eine andere Sprache als Griechisch sprachen usw. Bibl. Universelle Band VI. S. 86. 87. Diese Wörter bedeuten auf Phönizisch ‚wachen‘ und ‚kein Unheil anrichten‘ usw.“ – Vgl. Hamanns Abschrift der Stelle in seinem Handexemplar bei <wwwlink address="https://books.google.de/books?id=2OlVAAAAcAAJ">Wiener, 8/1, S.&#x202F;296f.</wwwlink>
+<bzg>Les Hierophantes</bzg> <link ref="clerc" subref="clerc-explication-historique-ceres" linktext="true" />, S.&#x202F;86f.; dt. (deepl?!?): „Die Hierophanten entließen das Volk mit den Rufen ‚Conx‘ und ‚Ompax‘, barbarischen Begriffen, die zeigen, dass diese Zeremonien von Menschen eingeführt worden waren, die eine andere Sprache als Griechisch sprachen usw. […] Diese Wörter bedeuten auf Phönizisch ‚wachen‘ und ‚kein Unheil anrichten‘ usw.“ – Vgl. Hamanns Abschrift der Stelle in seinem Handexemplar bei <wwwlink address="https://books.google.de/books?id=2OlVAAAAcAAJ">Wiener, 8/1, S.&#x202F;296f.</wwwlink>
 </marginal>
 
-<marginal letter="561" page="96" line="" >
-<bzg></bzg> 
+<marginal letter="561" page="96" line="13" sort="1" >
+<bzg>Stark</bzg> <link ref="starck" subref="starck-apologie" linktext="true" />, S.&#x202F;180 entnommen hatte: „Hesychius führt ausserdem noch zwey Losungswörter [bei den Mysterien] an, die Konx und Ompax hiessen, die nicht griechisch, sondern fremden Ursprungs sind, von welchen es aber ungewiß ist, ob sie beym Eintritt oder Ausgange aus dem Tempel gegeben wurden.“
 </marginal>
 
-<marginal letter="561" page="96" line="" >
-<bzg></bzg> 
+<marginal letter="561" page="96" line="13" sort="2" >
+<bzg>Hesychii επιφωνημα</bzg> das Wort επιφωνημα (‚Zuruf‘) im Eintrag bei <link ref="hesychius" subref="hesychius-lexicon" linktext="true" />, S.&#x202F;539
 </marginal>
 
-<marginal letter="561" page="96" line="" >
-<bzg></bzg> 
+<marginal letter="561" page="96" line="13" sort="3" >
+<bzg>Congé</bzg> Verabschiedung, Entlassung, <intlink letter="561" page="96" line="8" linktext="false">s.o.</intlink> „congedioient“
 </marginal>
 
-<marginal letter="561" page="96" line="" >
-<bzg></bzg> 
+<marginal letter="561" page="96" line="14" >
+<bzg>Initialformel</bzg> vgl. <link ref="starck" subref="starck-apologie" linktext="true" />, S.&#x202F;180: „Eintritt oder Ausgange“
 </marginal>
 
-<marginal letter="561" page="96" line="" >
-<bzg></bzg> 
+<marginal letter="561" page="96" line="15" >
+<bzg>letzten Buch&#x202F;…&#x202F;heil. Schreiber</bzg> <link ref="apuleius" subref="apuleius-metamorphosen" linktext="true" />, 11,17
 </marginal>
 
-<marginal letter="561" page="96" line="" >
-<bzg></bzg> 
+<marginal letter="561" page="96" line="16" >
+<bzg>Αφεσις λαοις</bzg> Die griechische Abschlussformel der Zeremonie um die Isis-Prozession „ΛΑΟΙΣ ΑΦΕΣΙΣ“ in <link ref="apuleius" subref="apuleius-metamorphosen" linktext="true" />, 11,17 findet sich nicht in modernen Ausgaben des <titel>Asinus aureus</titel> und ist wohl eine mittelalterliche Interpolation; in den beiden Ausgaben des <titel>Asinus aureus</titel>, die Hamann besaß, ist die Formel jedoch enthalten, vgl. die Ausgabe <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10243681-1">Frankfurt 1621</wwwlink>, S.&#x202F;265 und die Ausgabe <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10243683-2">Amsterdam 1624</wwwlink>, S.&#x202F;175 (bei Meiners wird sie nicht genannt).
 </marginal>
 
-<marginal letter="561" page="96" line="" >
-<bzg></bzg> 
+<marginal letter="561" page="96" line="16" >
+<bzg>Noten zu Erasmi Colloquiis&#x202F;…</bzg> <link ref="erasmus" subref="erasmus-colloquia" linktext="true" />, S.&#x202F;59 (Anmerkung zu ‚missam‘ im Text zur ‚Pietas Puerilis‘): „Nihil aliud quam dimissio: eratque duplex Catechumenorum ante actionem sacramentorum: et fidelium post confectionem et participationem eorundem sacramentorum. Clamabat itaque diaconus, ite, missa est. Morem hunc mutuati sunt Latini Christiani ab Ethnicis: olim enim post celebrata mysteria Isidis, dicebat Scriba λαοις αφεσις.“ Übers. (ChatGPT?!?): „Es bedeutete nichts anderes als Entlassung. Und es gab ihrer zwei: die der Katechumenen vor der Feier der Sakramente und die der Gläubigen nach der Vollendung und Teilnahme an eben diesen Sakramenten. Daher rief der Diakon: Geht, ihr seid entlassen! Diesen Brauch haben die lateinischen Christen von den Heiden übernommen: Denn einst, nach vollzogenen Mysterien der Isis, pflegte der Schreiber zu sagen: λαοῖς ἄφεσις.“
 </marginal>
 
 <marginal letter="561" page="96" line="" >
