@@ -3338,7 +3338,7 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 
 <kommentar id="clerc" type="neuzeit">
 <lemma>Jean le Clerc</lemma>
-<eintrag>1657–1736, auch Johannes CLericus. Genfer Theologe und Philologe, siehe <wwwlink address="https://d-nb.info/gnd/119512947">GND</wwwlink>.
+<eintrag>1657–1736, auch Johannes Clericus. Genfer Theologe und Philologe, siehe <wwwlink address="https://d-nb.info/gnd/119512947">GND</wwwlink>.
 </eintrag>
 <subsection id="clerc-bibuniverselle" type="neuzeit" sort="10">
 <lemma>Jean le Clerc (Hg., u.a.), <titel>Bibliothèque universelle</titel></lemma>
@@ -17186,6 +17186,18 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <kommentar id="steudel-jg" type="neuzeit">
 <lemma>Johann Gottlieb Steudel</lemma>
 <eintrag>1743–1790. Pharmazeut, Naturwissenschaftler und Astronom in Esslingen.</eintrag>
+</kommentar>
+
+<kommentar id="stewart-j" type="neuzeit">
+<lemma>John Stewart</lemma>
+<eintrag>1749–1822. Auch ‚Walking Stewart‘ genannt, Schreiber bei der Ostindischen Kompanie in Madras, Persienreisender, siehe <wwwlink address="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Stewart,_John_(1749-1822)">W.P. Courtney: Stewart, John, in: Dictionary of National Biography, Bd.&#x202F;54, S.328–331</wwwlink>.</eintrag>
+<subsection id="stewart-thibet" type="neuzeit" sort="20">
+<lemma>Stewart, <titel>An Account of the Kingdom of Thibet</titel></lemma>
+<eintrag>
+<titel>An Account of the Kingdom of Thibet. In a Letter from John Stewart, Esquire, F. R. S. to Sir John Pringle, Bart. P. R. S.</titel>. In: Philosophical Transactions of the Royal Society of London, vol. 77. For the Year 1777 (London 1777), S.465–492. Digitalisat: <wwwlink address="https://books.google.de/books?id=VY9eAAAAcAAJ">Google Books</wwwlink>.<line type="break" />
+Eine gekürzte Übersetzung erschien etwa in der <titel>Gothaischen gelehrten Zeitung,</titel> 5. Jg., 8.8.1778, S.&#x202F;515–519. Digitalisat: <wwwlink address="https://books.google.de/books?id=M9g9AQAAMAAJ">Google Books</wwwlink>.
+</eintrag>.
+</subsection>
 </kommentar>
 
 <kommentar id="sticotti" type="neuzeit">
