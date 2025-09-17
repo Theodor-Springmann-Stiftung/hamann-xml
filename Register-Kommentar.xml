@@ -129,7 +129,7 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 </eintrag>
  <subsection id="adelung-weltgeschichte" type="neuzeit" sort="10">
 <lemma>Adelung/Franzen, <titel>Einleitung zur Allgemeinen Weltgeschichte</titel></lemma>
-<eintrag>Von Adam Wilhelm Franzen (1718–1766)  begonnen und von Adelung fortgesetzt: <titel>Einleitung zur Allgemeinen Weltgeschichte in welcher von der Geschichte überhaupt, von der mathematischen und historischen Zeitrechnung, und von der mathematischen und natürlichen Erdbeschreibung, gründlich gehandelt wird. Mit einer Vorrede begleitet von D. Anton <link ref="busching" linktext="false">Büsching</link></titel> (2 Bde., Berlin 1769). Digitalisat: Tl. 1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-729983">UB Halle: AB B 7285 (1)</wwwlink>.</eintrag>
+<eintrag>Von Adam Wilhelm Franzen (1718–1766) begonnen und von Adelung fortgesetzt: <titel>Einleitung zur Allgemeinen Weltgeschichte in welcher von der Geschichte überhaupt, von der mathematischen und historischen Zeitrechnung, und von der mathematischen und natürlichen Erdbeschreibung, gründlich gehandelt wird. Mit einer Vorrede begleitet von D. Anton <link ref="busching" linktext="false">Büsching</link></titel> (2 Bde., Berlin 1769). Digitalisat: Tl. 1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-729983">UB Halle: AB B 7285 (1)</wwwlink>.</eintrag>
 </subsection>
 <subsection id="adelung-worterbuch" type="neuzeit" sort="20">
 <lemma>Adelung, <titel>Grammatisch-kritisches Wörterbuch der Hochdeutschen Mundart</titel></lemma>
@@ -3260,6 +3260,16 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 <kommentar id="clara" type="neuzeit">
 <lemma>Abraham a Santa Clara</lemma>
 <eintrag>1644–1709. Katholischer Geistlicher, Prediger und Schriftsteller. Galt <link ref="gottsched" linktext="true" /> und dessen Kreis der Predigtreformer als Negativbeispiel für barocken Schwulst.</eintrag>
+</kommentar>
+
+<kommentar id="clarke" type="neuzeit">
+<lemma>William Clarke</lemma>
+<eintrag>1696–1771. Englischer Geistlicher und Altertumsforscher, siehe <wwwlink address="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Clarke,_William_(1696-1771)">Dictionary of National Biography, Bd.&#x202F;10, S.&#x202F;449f</wwwlink>.</eintrag>
+<subsection id="clarke-coins" type="neuzeit" sort="10">
+<lemma>Clarke, <titel>The connexion of the roman, saxon, and english coins</titel></lemma>
+<eintrag>
+<titel>The connexion of the roman, saxon, and english coins, deduced from observations on the saxon weights and money. By William Clarke</titel> (London: Boyer 1767).</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="claudius" type="neuzeit">
@@ -10723,7 +10733,6 @@ Zweisprachige Dänisch/Lateinische Ausgabe (1767): Knud Leems <titel>Beskrivelse
 <titel>Auferstehungs-Geschichte Jesu nach allen vier Evangelien. Nebst einem doppelten Anhange gegen die Wolfenbütteler Fragmente von der Auferstehung Jesu; und vom Zwecke Jesu und seiner Apostel. </titel> (Göttingen 1779).
 </eintrag>
 </subsection>
-. IV,65.
 </kommentar>
 
 <kommentar id="lesser" type="neuzeit">
@@ -12712,8 +12721,14 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <titel>Gründliche Erklärung der schweren Stellen der heiligen Bücher neuen Testaments</titel> (2&#xA0;Bde., Königsberg, Leipzig: Kanter 1763). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;19/47: „J. H. D. Moldenhawers Erklärung des N. T. 1–2 Th. Königsb. 763“]. Digitalisat, 2.&#x202F;Tl.: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10354294-3">BSB München: 4 Exeg. 591-2</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="moldenhawer-drittes-fragment" type="neuzeit" sort="20">
+<lemma>Moldenhawer, <titel>Prüfung des dritten Fragments aus der Wolfenbüttelschen Bibliotheck</titel></lemma>
+<eintrag>
+<titel>Prüfung des dritten Fragments aus der Wolfenbüttelschen Bibliotheck von dem Durchgange der Israeliten durch das rothe Meer angestellt von Joh. Heinr. Dan. Moldenhawer</titel> (Hamburg: Schniebes 1779). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:32-1-10013365415">HAAB Weimar: T 5 : 16 [a]</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
-
+. 
 <kommentar id="moliere" type="neuzeit">
 <lemma>Jean-Baptiste Poquelin Molière</lemma>
 <eintrag>1622–1673. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;29, 1821), S.&#x202F;301–315.</eintrag>
@@ -14052,7 +14067,7 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <subsection id="pfenninger-magazin" type="neuzeit">
 <lemma>Pfenninger, <titel>Christliches Magazin</titel></lemma>
 <eintrag>
-<titel>Christliches Magazin</titel> (4 Bde. Zürich, Winterthur 1779–1784). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-29658">ZB Zürich: Gal Sp 242</wwwlink>. – Ab 1781 unter dem Titel <titel>Sammlungen zu einem christlichen Magazin. Nicht für gelehrte, aber für geübtere Leser</titel> (4 Bde. Zürich, Winterthur 1781–1783. Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-29659">ZB Zürich: Gal Sp 240</wwwlink>.</eintrag>
+<titel>Christliches Magazin</titel> (4 Bde. Zürich, Winterthur 1779–1784). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-29658">ZB Zürich: Gal Sp 242</wwwlink>. – Ab 1781 unter dem Titel <titel>Sammlungen zu einem christlichen Magazin. Nicht für gelehrte, aber für geübtere Leser</titel> (4 Bde. Zürich, Winterthur 1781–1783). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-29659">ZB Zürich: Gal Sp 240</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -14064,6 +14079,17 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <kommentar id="pflug" type="neuzeit">
 <lemma>Julius v. Pflug</lemma>
 <eintrag>1499–1564. Vermittler bei den Religionsgesprächen (1530–1557).</eintrag>
+</kommentar>
+
+<kommentar id="phaedrus" type="neuzeit">break
+<lemma>Phaedrus</lemma>
+<eintrag>Gaius Iulius Phaedrus, um 15 v.&#x202F;Chr. bis um 50 n.&#x202F;Chr. Römischer Fabeldichter.<line type="break" />
+Hamanns Ausgaben: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;9/148: „Phaedri Fabulae Aesopiae cum Commentario P. Burmanni, Mit. 773“, <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;11/173: „Phaedrus cum commentario P. Burmanni, Mit. 773. Donum EDITORIS“, <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;17/267: „Phaedrus ex ed. Burmanni, Hag. 719“</eintrag> und <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;66/123: „Phaedri Fabulae ex ed. Holstii, Arg. 664“
+<subsection id="phaedrus-fabulae" type="neuzeit">
+<lemma>Phaedr.</lemma>
+<eintrag>
+Phaedrus, <titel>fabulae</titel></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="philidor" type="neuzeit">
@@ -16212,7 +16238,7 @@ Zweite Auflage: <titel>Lyrische, Elegische und Epische Poesien, nebst einer krit
 
 <kommentar id="schumacher-ar" type="neuzeit">
 <lemma>Anna Regina Schumacher</lemma>
-<eintrag>1736–1789. Geboren in <wwwlink address="https://www.geonames.org/825847">Warginen</wwwlink> (ein Dorf bei Tapiau 40&#x202F;km östlich von Königsberg); zunächst Magd bei Hamanns Vater, später Lebensgefährtin Hamanns.
+<eintrag>1736–1789. Geboren in <wwwlink address="https://www.geonames.org/825847">Warginen</wwwlink> (ein Dorf bei Tapiau 40&#x202F;km östlich von Königsberg); zunächst Magd bei Hamanns Vater, ab den späten 1760er Jahren Lebensgefährtin Hamanns und Mutter von <link ref="hamann-jm" linktext="true" />, <link ref="hamann-er" linktext="true" />, <link ref="hamann-mc" linktext="true" /> und <link ref="hamann-ms" linktext="true" />. 
 </eintrag>
 </kommentar>
 
@@ -17098,7 +17124,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <subsection id="steinbart-system" type="neuzeit" sort="10">
 <lemma>Steinbart, <titel>System der reinen Philosophie</titel></lemma>
 <eintrag>
-<titel>Gotthelf Samuel Steinbart’s System der reinen Philosophie oder Glückseligkeitslehre des Christenthums für die Bedürfnisse seiner aufgeklärten Landsleute und anderer die nach Weisheit fragen eingerichtet</titel> (Züllichau: Frommann 1778). Digitalisat: <wwwlink address="https://books.google.ch/books?vid=BCULVD2271318">Google Books</wwwlink></eintrag>.
+<titel>Gotthelf Samuel Steinbart’s System der reinen Philosophie oder Glückseligkeitslehre des Christenthums für die Bedürfnisse seiner aufgeklärten Landsleute und anderer die nach Weisheit fragen eingerichtet</titel> (Züllichau: Frommann 1778). Digitalisat: <wwwlink address="https://books.google.ch/books?vid=BCULVD2271318">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -18459,6 +18485,18 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
 </subsection>
 </kommentar>
 
+<kommentar id="visconti" type="neuzeit">
+<lemma>Zaccaria Visconti</lemma>
+<eintrag>16./17. Jh. Mailänder Geistlicher und Exorzist, siehe <wwwlink address="https://d-nb.info/gnd/1089579403">GND</wwwlink>.
+<subsection id="visconti-complementum" type="neuzeit" sort="10">
+<lemma>Visconti, <titel>Complementum artis exorcisticae</titel></lemma>
+<eintrag>
+<titel>Complementum artis exorcisticae. Cui simile numquam visum est: Cum Litaniis, Benedictionibus, et Doctrinis novis, Exorcismis efficassimis, ac remediis copiosis in Maleficiatis expertis […]</titel> (Venedig 1600, Mailand 1618). Digitalisat Mailand 1618: <wwwlink address="https://doi.org/10.3931/e-rara-11059">Zürich: Stiftung der Werke von C.G. Jung</wwwlink>.
+</eintrag>
+</subsection>
+</eintrag>
+</kommentar>
+
 <kommentar id="vives" type="neuzeit">
 <lemma>Johannes Ludwig Vives</lemma>
 <eintrag>1492–1540. Span. Humanist.<line type="break" />
@@ -18794,7 +18832,7 @@ W
 <lemma>Warburton, <titel>The Divine Legation of Moses</titel></lemma>
 <eintrag>
 <titel>The Divine Legation of Moses. Demonstrated on the principles of a religious deist, from the omission of the doctrine of a future state of reward and punishment in the jewish dispensation</titel> (3 Bde., 1738–1741).<line type="break"/>
-Übers.: <titel>Göttliche Sendung Mosis aus den Grundsätzen der Deisten erwiesen mit Anmerkungen von Johann Christian Schmidt</titel> (3 Bde., Frankfurt/Leipzig, 1751&#x2013;1753).</eintrag>
+Übers.: <titel>Göttliche Sendung Mosis aus den Grundsätzen der Deisten erwiesen mit Anmerkungen von Johann Christian Schmidt</titel> (3 Bde., Frankfurt/Leipzig, 1751&#x2013;1753) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F; 65/102: „W. Warburtons göttliche Sendung Mosis, 1. 2. 3. Th. Frft. 751—53“]. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/78209">ULB Halle: Fb 3415 (1)</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -19536,8 +19574,6 @@ Der englische Text wird hier zitiert nach der vom Autor überarbeiteten Neuaufla
 
 
 Z
-
-
 
 <kommentar id="zacchaeus-c" type="neuzeit">
 <lemma>Christianus Zacchaeus</lemma>
