@@ -48613,7 +48613,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="69" line="26">
-<bzg>Boas … zum Ende brachte</bzg> <link ref="at-rut" subref="at-rut3" linktext="false">Rut 3,18</link>
+<bzg>Boas&#x202F;…&#x202F;zum Ende brachte</bzg> <link ref="at-rut" subref="at-rut3" linktext="false">Rut 3,18</link>
 </marginal>
 
 <marginal letter="398" page="69" line="27">
@@ -72922,7 +72922,7 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="96" line="36" >
-<bzg>Proclus in Timaeum Lib. V.</bzg> <link ref="proklos" subref="proklos-sphaera" linktext="false">Proklos, Kommentar zu Platons Timaios</link>
+<bzg>Proclus in Timaeum Lib. V.</bzg> <link ref="proklos" subref="proklos-platon" linktext="true" />
 </marginal>
 
 <marginal letter="561" page="97" line="1" >
@@ -73143,7 +73143,7 @@ Brief Nr. 561
 <bzg>Morungen</bzg> in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> bei <link ref="herder-cd-g" linktext="false">Herders Schwester</link>
 </marginal>
 
-<marginal letter="561" page="99" line="" >
+<marginal letter="561" page="99" line="8" >
 <bzg>18 – den 25 – den 27 – den 28</bzg> zu den Geburtstagen <intlink letter="561" page="94" line="23" linktext="false">s.o.</intlink>
 </marginal>
 
@@ -73151,8 +73151,60 @@ Brief Nr. 561
 <bzg>anzutreten</bzg> Hamanns Eintritt ins 50. Lebensjahr am 27. August 1779
 </marginal>
 
-<marginal letter="561" page="99" line="" >
-<bzg></bzg> 
+<marginal letter="561" page="99" line="12" >
+<bzg>Tages Last und Hitze</bzg> <link ref="nt-mt" subref="nt-mt20" linktext="false">Mt 20,12</link>
+</marginal>
+
+<marginal letter="561" page="99" line="13" >
+<bzg>rückständige Antworten</bzg> keine davon überliefert
+</marginal>
+
+<marginal letter="561" page="99" line="14" >
+<bzg>Schweitz, Osnabrück u Wandsbeck</bzg> an <link ref="kaufmann-c" linktext="true" /> bzw. <link ref="ehrmann" linktext="true" />, Antwort auf <intlink letter="558" page="86" line="11" linktext="false">HKB 558</intlink> bzw. <intlink letter="559" page="88" line="33" linktext="false">HKB 559</intlink> – an <link ref="kleuker" linktext="true" />, vgl. <intlink letter="550" page="69" line="10" linktext="true" /> – und an <link ref="claudius" linktext="true" />, Antwort auf den <intlink letter="561" page="98" line="24" linktext="false">oben</intlink> erwähnten Brief
+</marginal>
+
+<marginal letter="561" page="99" line="15" >
+<bzg>Hippel</bzg> <link ref="hippel" linktext="true" />
+</marginal>
+
+<marginal letter="561" page="99" line="18" >
+<bzg>Lotterie Director</bzg> <link ref="kanter" linktext="true" />, wohl im Zusammenhang mit dem Bankrott seiner Unternehmungen und des Buchladens
+</marginal>
+
+<marginal letter="561" page="99" line="24" >
+<bzg>ins Verborgene siehet</bzg> <link ref="nt-mt" subref="nt-mt6" linktext="false">Mt 6,4</link>
+</marginal>
+
+<marginal letter="561" page="99" line="26" >
+<bzg>Verehrungswürdigen Hälfte</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="561" page="99" line="27" >
+<bzg>Rahel und Lea</bzg> <link ref="at-rut" subref="at-rut3" linktext="false">Rut 4,11</link>
+</marginal>
+
+<marginal letter="561" page="99" line="31" >
+<bzg>Proklo habe p. m. 293&#x202F;…</bzg> wohl in <link ref="proklos" subref="proklos-platon" linktext="true" />, nicht ermittelt?!?; vgl. <intlink letter="561" page="96" line="36" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="561" page="99" line="32" >
+<bzg>και ἑn&#x202F;…</bzg> Übers. (Chat GPT?!?): „Und auch bei den eleusinischen Mysterien blickten sie zum Himmel empor und riefen: ‚Regne!‘; und als sie dann zur Erde hinabblickten: ‚Empfange!‘“
+</marginal>
+
+<marginal letter="561" page="99" line="34" >
+<bzg>Dithyrambische Wortfügung&#x202F;…&#x202F;andächtige Mummerey</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,221/31 (ED, S.&#x202F;10)
+</marginal>
+
+<marginal letter="561" page="100" line="1" >
+<bzg>Anspielung auf eben derselben Seite</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,221/26 u. 39 (ED, S.&#x202F;10) – Henkel: »homophil- obszöner Art auf Friedrich (den Salomon in Norden)«?!?
+</marginal>
+
+<marginal letter="561" page="100" line="2" >
+<bzg></bzg> Die Stelle findet sich bei <link ref="voltaire" subref="voltaire-pucelle" linktext="true" /> in Hamanns Ausgabe London 1764, S.&#x202F;221 (13. Gesang)
+</marginal>
+
+<marginal letter="561" page="99" line="3" >
+<bzg></bzg> Übers. (deepl?!?): Er betrachtete das himmlische Schauspiel / All dieser Könige, die sich aneinanderreihten: / Karl II. auf der schönen Portsmouth / Georg II. auf der zärtlichen Yarmouth / Und dieser fromme König von Lusitanien, / Der zu Gott betete und über seine Geliebte schwärmte, / Und dieser Victor, der nacheinander / Von seinem Stolz, seinem Sohn und der Liebe gefangen genommen wurde. / Aber als er am Ende der erhabenen Reihe / Zwischen Iris und ihrem Pagen (vermuthl. Pr. Amalie) / Durchbohrte ein Cu, das er mit beiden Händen umklammerte / Dieser Autor-König, so hart und so seltsam, / Dass man ihn im Norden bewundert und vergleicht / Mit Salomon, so wie die Germanen / Ihren Kaiser mit dem römischen Cäsar –
 </marginal>
 
 </marginalien>
