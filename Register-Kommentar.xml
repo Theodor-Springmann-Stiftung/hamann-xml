@@ -5418,7 +5418,13 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 <subsection id="fr-bayle" type="neuzeit" sort="90">
 <lemma>Friedrich II., <titel>Extrat du Dictionaire</titel></lemma>
 <eintrag>
-<titel>Extrat du Dictionaire historique et critique de Bayle, divisé en deux volumes avec une Preface</titel> (Berlin: Voss 1765) Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/en/details/bsb10773358">Stabi München: Polem. 924-1/2</wwwlink>.
+<titel>Extrat du Dictionaire historique et critique de Bayle, divisé en deux volumes avec une Preface</titel> (Berlin: Voss 1765) Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/en/details/bsb10773358">BSB München: Polem. 924-1/2</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="friedrich-eloge-voltaire" type="neuzeit" sort="90">
+<lemma>Friedrich II., <titel>Éloge de Voltaire</titel></lemma>
+<eintrag>
+<titel>Auf Voltaire’s Leben. Eine Ehrenrede in einer ausserordentlichen, besonders dazu berufenen, öffentlichen Versammlung der königl. hohen Gesellschafft der Wissenschaften und schönen Künste zu Berlin abgelesen den 26 des Wintermonats, 1778</titel> (Frankfurt, Leipzig 1779) Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10067693-3">BSB München: Biogr. 1215</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14251,10 +14257,6 @@ nicht ermittelt: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</
 <lemma>Plat. <titel>leg.</titel></lemma>
 <eintrag>Nomoi, leges, griech. Νόµοι</eintrag>
 </subsection>
-<subsection id="plat-proklos" type="neuzeit" sort="90">
-<lemma>Proklos, <titel>Platon-Kommentare</titel></lemma>
-<eintrag><titel>Proklou diadokhou Platōnikou eis tēn Platōnos theologian biblia ex. Procli successoris Platonici In Platonis theologiam libri sex. Per Aemilium Portum, Francisci f. ex graecis facti latini, et in gratiam Platonicae philosophiae studiosorum ex illustrissimi, celsissimique principis ac domini, Dn. Friderici, Dn. Joannis Adolphi filii, bibliothecá Gottorpianá graecé ac latiné, nunc primum in lucem editi. Accessit Marini Neapolitani libellus de vitá Procli. Item conclusiones LV. secundum Proclum; quas olim Romae illustris Picus Mirandula disputandas exhibuit. Nec non index rerum &amp; verborum locupletissimus</titel> (Hamburg: Ruland 1618) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/32: „Procli Lib. VI. in Theologiam Platonis gr. &amp; lat. Hamb. 618“].</eintrag>
-</subsection>
 <subsection id="plat-alkibiades" type="neuzeit" sort="100">
 <lemma><titel>Platos lehrreiches Gespräch</titel></lemma>
 <eintrag><titel>Platos lehrreiches Gespräch von der menschlichen Natur</titel> (Glogau, Leipzig: Günther 1755), der Übers. wird nicht genannt; enthält den ersten pseudo-platonischen Alkibiades-Dialog. Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id367035855">SLUB Dresden: Lit.Graec.B.5113</wwwlink>.<line type="break" />
@@ -14653,7 +14655,7 @@ Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag<
 <lemma>Proklos</lemma>
 <eintrag>Proklos Diadochos. 411–485. Griechischer Philosoph.
 </eintrag>
-<subsection id="proklos-platon" type="neuzeit" sort="10">
+<subsection id="proklos-platon-theologie" type="neuzeit" sort="10">
 <lemma>Proklos, <titel>In Platonis theologiam</titel></lemma>
 <eintrag><titel>Procli successoris Platonici In Platonis theologiam libri sex. […]</titel> (Hamburg: Ruland 1618) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/32: „Procli Lib. VI. in Theologiam Platonis gr. &amp; lat. Hamb. 618“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10209757-2">BSB München: 2 A.gr.b. 959</wwwlink>.</eintrag>
 </subsection>
@@ -14661,6 +14663,12 @@ Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag<
 <lemma>Proklos, <titel>Sphaera</titel></lemma>
 <eintrag>
 <titel>Procli Sphaera</titel> (Leipzig: Lamberg 1600) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;13/202: „Procli Sphaera, Lips. 600“]. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/opendata2-2323">ULB Halle: Pd 2175 a (4)</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="proklos-timaios" type="neuzeit" sort="20">
+<lemma>Proklos, <titel>Timaios-Kommentar</titel></lemma>
+<eintrag>
+<titel>Procli Diadochi In Platonis Dataeum Commentaria</titel> edidit Ernestus Diehl (3 Bde., Leipzig 1903–1906). Digitalisat Bd. 3: <wwwlink address="https://archive.org/details/proclidiadochiin03proc">Internet Archive.</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>

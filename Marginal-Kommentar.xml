@@ -23910,7 +23910,7 @@ Brief Nr. 217
 </marginal>
 
 <marginal letter="217" page="124" line="17" sort="1">
-<bzg>Proclus</bzg> <link ref="proklos" subref="proklos-platon" linktext="true" />
+<bzg>Proclus</bzg> <link ref="proklos" subref="proklos-platon-theologie" linktext="true" />
 </marginal>
 
 <marginal letter="217" page="124" line="17" sort="2">
@@ -72922,7 +72922,7 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="96" line="36" >
-<bzg>Proclus in Timaeum Lib. V.</bzg> <link ref="proklos" subref="proklos-platon" linktext="true" />
+<bzg>Proclus in Timaeum Lib. V.</bzg> <link ref="proklos" subref="proklos-timaios" linktext="true" />, 5, 293 C (vgl. in der Ausgabe von <wwwlink address="https://archive.org/details/proclidiadochiin03proc/page/176">Diehl 1906, S.&#x202F;176</wwwlink>), <intlink letter="561" page="99" line="31" linktext="false">s.u.</intlink>
 </marginal>
 
 <marginal letter="561" page="97" line="1" >
@@ -73184,8 +73184,8 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="99" line="31" >
-<bzg>Proklo habe p. m. 293&#x202F;…</bzg> wohl in <link ref="proklos" subref="proklos-platon" linktext="true" />, nicht ermittelt?!?; vgl. <intlink letter="561" page="96" line="36" linktext="false">s.o.</intlink>
-</marginal>
+<bzg>Proklo habe p. m. 293&#x202F;…</bzg> <link ref="proklos" subref="proklos-timaios" linktext="true" />, 5, 293 C, Hamanns Ausgabe nicht ermittelt (in der Ausgabe von <wwwlink address="https://archive.org/details/proclidiadochiin03proc/page/176">Diehl 1906, S.&#x202F;176</wwwlink>), vgl. <intlink letter="561" page="96" line="36" linktext="false">oben</intlink> und die Übersetzung von <wwwlink address="https://archive.org/details/proclusontimaeus02procuoft/page/319">Thomas Taylor, London 1820, S.&#x202F;319</wwwlink>.
+</marginal> 
 
 <marginal letter="561" page="99" line="32" >
 <bzg>και ἑn&#x202F;…</bzg> Übers. (Chat GPT?!?): „Und auch bei den eleusinischen Mysterien blickten sie zum Himmel empor und riefen: ‚Regne!‘; und als sie dann zur Erde hinabblickten: ‚Empfange!‘“
@@ -73196,15 +73196,27 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="100" line="1" >
-<bzg>Anspielung auf eben derselben Seite</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,221/26 u. 39 (ED, S.&#x202F;10) – Henkel: »homophil- obszöner Art auf Friedrich (den Salomon in Norden)«?!?
+<bzg>Anspielung auf eben derselben Seite</bzg> vgl. <link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,221/26 u. 39 (ED, S.&#x202F;10) 
 </marginal>
 
 <marginal letter="561" page="100" line="2" >
-<bzg></bzg> Die Stelle findet sich bei <link ref="voltaire" subref="voltaire-pucelle" linktext="true" /> in Hamanns Ausgabe London 1764, S.&#x202F;221 (13. Gesang)
+<bzg></bzg> Die Stelle findet sich bei <link ref="voltaire" subref="voltaire-pucelle" linktext="true" /> in Hamanns Ausgabe London 1764, S.&#x202F;221 (13. Gesang); es geht wohl um die obszön-homosexuelle Anspielung auf <link ref="friedrich-II" linktext="true" />.
 </marginal>
 
-<marginal letter="561" page="99" line="3" >
-<bzg></bzg> Übers. (deepl?!?): Er betrachtete das himmlische Schauspiel / All dieser Könige, die sich aneinanderreihten: / Karl II. auf der schönen Portsmouth / Georg II. auf der zärtlichen Yarmouth / Und dieser fromme König von Lusitanien, / Der zu Gott betete und über seine Geliebte schwärmte, / Und dieser Victor, der nacheinander / Von seinem Stolz, seinem Sohn und der Liebe gefangen genommen wurde. / Aber als er am Ende der erhabenen Reihe / Zwischen Iris und ihrem Pagen (vermuthl. Pr. Amalie) / Durchbohrte ein Cu, das er mit beiden Händen umklammerte / Dieser Autor-König, so hart und so seltsam, / Dass man ihn im Norden bewundert und vergleicht / Mit Salomon, so wie die Germanen / Ihren Kaiser mit dem römischen Cäsar –
+<marginal letter="561" page="100" line="3" >
+<bzg>meine Ausgabe&#x202F;…</bzg> Übers. (deepl?!?): „Er betrachtete das himmlische Schauspiel / All dieser Könige, die sich aneinanderreihten: / Karl II. auf der schönen Portsmouth / Georg II. auf der zärtlichen Yarmouth / Und dieser fromme König von Lusitanien, / Der zu Gott betete und über seine Geliebte schwärmte, / Und dieser Victor, der nacheinander / Von seinem Stolz, seinem Sohn und der Liebe gefangen genommen wurde. / Aber als er am Ende der erhabenen Reihe / Zwischen Iris und ihrem Pagen (vermuthl. Pr. Amalie) / Durchbohrte einen Arsch, den er mit beiden Händen umklammerte / Dieser Autor-König, so hart und so seltsam, / Dass man ihn im Norden bewundert und vergleicht / Mit Salomon, so wie die Germanen / Ihren Kaiser mit dem römischen Cäsar –“
+</marginal>
+
+<marginal letter="561" page="100" line="18" >
+<bzg>Eloge auf V.</bzg> <link ref="friedrich-II" subref="friedrich-eloge-voltaire" linktext="true" />
+</marginal>
+
+<marginal letter="561" page="100" line="21" sort="1" >
+<bzg>pag. 30.</bzg> x<link ref="hamann" subref="hamann-konxompax" linktext="true" />, N&#x202F;III,227/28 u. 36–41 (ED, S.&#x202F;30) 
+</marginal>
+
+<marginal letter="561" page="100" line="21" sort="2" >
+<bzg>Retz&#x202F;…</bzg> <link ref="gondi" subref="gondi-memoires" linktext="true" />, in der Ausgabe <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10415259-8">Amsterdam 1731, S.&#x202F;175</wwwlink>; Übers. (deepl?!?): „Jede Monarchie hat ihr Staatsmysterium: Das Frankreichs besteht in einer Art religiöser und heiliger Stille, in der man, fast immer blind dem König gehorchend, das Recht begräbt, das man nur in Fällen, in denen es nicht einmal in ihrem Interesse liegt, den Königen zu gefallen, für sich beanspruchen will“
 </marginal>
 
 </marginalien>
