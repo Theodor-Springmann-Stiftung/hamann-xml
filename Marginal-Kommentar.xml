@@ -72483,8 +72483,8 @@ Brief Nr. 559
 <bzg>Den Wohnsiz&#x202F;…</bzg> vgl. <intlink letter="534" page="29" line="15" linktext="true" />
 </marginal>
 
-<marginal letter="559" page="90" line="19" >
-<bzg>Plaz am Bodensee</bzg> Schloss Glarisegg, vgl. <intlink letter="563" page="102" line="6" linktext="true" />
+<marginal letter="559" page="90" line="19" > 
+<bzg>Plaz am Bodensee</bzg> <wwwlink address="https://www.geonames.org/12005313">Schloss Glarisegg</wwwlink>, vgl. <intlink letter="563" page="102" line="6" linktext="true" />
 </marginal>
 
 <marginal letter="559" page="90" line="25" >
@@ -73230,7 +73230,7 @@ Brief Nr. 562
 <bzg>50.jähriger</bzg> nach Hamanns Eintritt ins 50. Lebensjahr zwei Tage zuvor, vgl. zu <intlink letter="561" page="99" line="9" linktext="true" />
 </marginal>
 
-<marginal letter="562" page="100" line="28" >
+<marginal letter="562" page="100" line="31" >
 <bzg>Brief vom 8.</bzg> <intlink letter="561" page="94" line="22" linktext="false">HKB 561</intlink>
 </marginal>
 
@@ -73276,6 +73276,49 @@ Brief Nr. 562
 
 <marginal letter="562" page="101" line="30" >
 <bzg>Pathen</bzg> <link ref="herder-a" linktext="false">August Herder</link>
+</marginal>
+
+
+Brief Nr. 563
+
+<marginal letter="563" page="102" line="3" >
+<bzg>lieben Brief</bzg> Hamanns Antwort auf Antwort auf <intlink letter="558" page="86" line="11" linktext="false">HKB 558</intlink> bzw. <intlink letter="559" page="88" line="33" linktext="false">HKB 559</intlink>, vgl. <intlink letter="561" page="99" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="102" line="4" >
+<bzg>Kaufmanns</bzg> <link ref="kaufmann-c" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="102" line="6" >
+<bzg>St. Klarensegg</bzg> <wwwlink address="https://www.geonames.org/12005313">Schloss (Stift) Glarisegg</wwwlink>, vgl. <intlink letter="559" page="90" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="102" line="8" >
+<bzg>Fr. Elisa</bzg> <link ref="kaufmann-e" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="102" line="19" >
+<bzg>Hegi</bzg> auf Schloss Hegi bei Winterthur, bei seiner Frau und seinem <link ref="ziegler-a" linktext="false">Schwiegervater</link>
+</marginal>
+
+<marginal letter="563" page="102" line="22" >
+<bzg>Pathe</bzg> <link ref="kaufmann-cag" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="102" line="29" >
+<bzg>Herr hats gegeben&#x202F;…</bzg> <link ref="at-hi" subref="at-hi1" linktext="false">Hi 1,21.</link>
+</marginal>
+
+<marginal letter="563" page="106" line="8" >
+<bzg>Amtmann</bzg> <link ref="hirzel" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="107" line="34" >
+<bzg>Lux mundi K.</bzg> Licht der Welt (nach <link ref="nt-jo" subref="nt-jo8" linktext="false">Joh 8,12</link>), hier wohl im Sinne von Kaufmanns Bekanntheit
+</marginal>
+
+<marginal letter="563" page="107" line="37" >
+<bzg>civium potentiorum limina</bzg> dt. die Schwellen [der Häuser] mächtiger Bürger, nach dem römischen Klientelwesen
 </marginal>
 
 </marginalien>
