@@ -65057,7 +65057,7 @@ Brief Nr. 509
 </marginal>
 
 <marginal letter="509" page="372" line="28">
-<bzg>costa</bzg> dt. Rippe (nach <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 2,21f.</link>), gemeint ist <link ref="herder-c" linktext="true" />
+<bzg>costa</bzg> dt. Rippe (nach <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 2,21f.</link>, der häufigen Verwendung von „Costa“ im Sinne von Ehefrau bei <link ref="gichtel" subref="gichtel-sendschreiben" linktext="true" /> folgend), gemeint ist <link ref="herder-c" linktext="true" />
 </marginal>
 
 <marginal letter="509" page="372" line="32">
@@ -69431,10 +69431,10 @@ Brief Nr. 545
 </marginal>
 
 <marginal letter="545" page="51" line="2">
-<bzg>Costa</bzg> Rippe, <link ref="herder-c" linktext="true" />, nach <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 2,22</link>
+<bzg>Costa</bzg> Rippe, <link ref="herder-c" linktext="true" /> (nach <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 2,21f.</link>, der häufigen Verwendung von „Costa“ im Sinne von Ehefrau bei <link ref="gichtel" subref="gichtel-sendschreiben" linktext="true" /> folgend)
 </marginal>
 
-<marginal letter="545" page="51" line="3">
+<marginal letter="545" page="51" line="3"> 
 <bzg>Gichtels theosophischen Sendschreiben</bzg> Der Ausdruck „Costa“ kommt in Gichtels <link ref="gichtel" subref="gichtel-sendschreiben" linktext="false"><titel>Theosophischen Send-Schreiben</titel></link> häufig vor, allerdings eher in der Bedeutung von Braut Christi
 </marginal>
 
@@ -72242,11 +72242,11 @@ Brief Nr. 557
 </marginal>
 
 <marginal letter="557" page="84" line="29" >
-<bzg>Costa</bzg> dt. Rippe (nach <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 2,21f.</link>), gemeint ist <link ref="hartknoch-a" linktext="true" />
+<bzg>Costa</bzg> dt. Rippe (nach <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 2,21f.</link>, der häufigen Verwendung von „Costa“ im Sinne von Ehefrau bei <link ref="gichtel" subref="gichtel-sendschreiben" linktext="true" /> folgend), gemeint ist <link ref="hartknoch-a" linktext="true" />
 </marginal>
 
 <marginal letter="557" page="84" line="30" >
-<bzg>Passerii</bzg> wohl die drei Bände von <link ref="passeri" subref="passeri-picturae" linktext="true" />, vgl. <intlink letter="543" page="48" line="3" linktext="true" />
+<bzg>Passerii</bzg> die drei Bände von <link ref="passeri" subref="passeri-picturae" linktext="true" />, vgl. <intlink letter="543" page="48" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="557" page="84" line="31" >
@@ -72334,7 +72334,7 @@ Brief Nr. 557
 </marginal>
 
 <marginal letter="557" page="85" line="19" >
-<bzg>†feld</bzg> <link ref="kreutzfeld" linktext="true" />
+<bzg>†feld</bzg> <link ref="kreutzfeld" linktext="true" /> 
 </marginal>
 
 <marginal letter="557" page="85" line="26" sort="1" >
@@ -73092,7 +73092,7 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="98" line="27" >
-<bzg>Baron Budberg</bzg> <link ref="budberg-wd" linktext="true" />
+<bzg>Baron Budberg</bzg> <link ref="budberg-wd" linktext="true" /> 
 </marginal>
 
 <marginal letter="561" page="98" line="28" >
@@ -73319,6 +73319,112 @@ Brief Nr. 563
 
 <marginal letter="563" page="107" line="37" >
 <bzg>civium potentiorum limina</bzg> dt. die Schwellen [der Häuser] mächtiger Bürger, nach dem römischen Klientelwesen
+</marginal>
+
+
+Brief Nr. 564
+
+<marginal letter="563" page="109" line="20" sort="1" >
+<bzg>Nachrichten&#x202F;…</bzg> nicht überliefert, wohl Hartknochs Antwort auf <intlink letter="557" page="84" line="26" linktext="false">HKB 557</intlink>
+</marginal>
+
+<marginal letter="563" page="109" line="20" sort="2" >
+<bzg>Einl.</bzg> wohl Herders Brief an Hartknoch, 29.8.1779 (<link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;101), vgl. <intlink letter="565" page="110" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="109" line="22" sort="1" >
+<bzg>Dio Cassius</bzg> <link ref="cassius-dio" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="109" line="22" sort="2" >
+<bzg>Michaelis</bzg> für die Herbstmesse 1779
+</marginal>
+
+<marginal letter="563" page="109" line="23" >
+<bzg>Uebersetzers</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="109" line="24" sort="1" >
+<bzg>Büschings wöchentl. Nachrichten</bzg> <link ref="busching" linktext="false">Büsching</link> veröffentlichte in den von ihm herausgegebenen <link ref="busching" subref="busching-nachrichten" linktext="false"><titel>Wöchentlichen Nachrichten</titel></link>, St.&#x202F;19, 10.5.1779, S.&#x202F;149–151 einen Brief von <link ref="penzel" linktext="false">Penzel</link> an ihn, in dem er eine <link ref="penzel" subref="penzel-cassio-dio" linktext="false">dreibändige Übersetzung</link> des Cassius Dio angekündigt; der erste Band erschien aber erst 1786.
+</marginal>
+
+<marginal letter="563" page="109" line="24" sort="2" >
+<bzg>neuen philol. Bibliothek</bzg> <link ref="penzel" linktext="false">Penzel</link> ließ bereits 1778 in der <link ref="neue-philologische-bibliothek" linktext="false"><titel>Neuen philologischen Bibliothek</titel></link>, Bd.&#x202F;4, S.&#x202F;292–297 eine weitläufige Ankündigung seiner zukünftigen Werke drucken, beschränkte sich dort aber weitgehend auf <link ref="strabon" linktext="false">Strabo</link>.
+</marginal>
+
+<marginal letter="563" page="109" line="25" >
+<bzg>tanto hiatu dignum!</bzg> <link ref="horaz" subref="horaz-poetica" linktext="true" />, 138f. (über einen Dichter, der großes ankündigte): „quid dignum tanto feret hic promissor hiatu? /parturient montes, nascetur ridiculus mus.“ Übers.: „Was wird dieser Verheißer bringen, das eines so weit aufgemachten / Mundes würdig ist? Berge werden kreißen, geboren werden wird eine lächerliche Maus.“
+</marginal>
+
+<marginal letter="563" page="109" line="32" sort="1" >
+<bzg>Hayn Mamre</bzg> nach <link ref="at-mo1" subref="at-mo1-13" linktext="false">1&#x202F;Mo 13,18</link>, vgl. <intlink letter="546" page="111" line="6" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="109" line="32" sort="2" >
+<bzg>Kayserlingk</bzg> <link ref="keyserling-c" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="109" line="33" sort="1" >
+<bzg>Grafen von Görtz</bzg> <link ref="goertz" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="109" line="33" sort="2" >
+<bzg>Gemal</bzg> <link ref="keyserling-h" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="1" >
+<bzg>Landsmanns&#x202F;…&#x202F;Costa</bzg> <link ref="herder" linktext="true" /> und <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="2" >
+<bzg>Gichtelsche theosophische Wort</bzg> nach der häufigen Verwendung von „Costa“ im Sinne von Ehefrau bei <link ref="gichtel" subref="gichtel-sendschreiben" linktext="true" /> (nach <link ref="at-mo1" subref="at-mo1-21" linktext="false">1 Mo 2,22</link>), vgl. <intlink letter="545" page="51" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="3" sort="1" >
+<bzg>Apocalyps.</bzg> <link ref="herder" subref="herder-maran" linktext="true" />, 
+</marginal>
+
+<marginal letter="563" page="110" line="3" sort="2" >
+<bzg>Geburtstage meines Pathen</bzg> <link ref="herder-a" linktext="false">August Herder</link>, vgl. <intlink letter="562" page="101" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="4" >
+<bzg>Vollendung Ihrer Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="5" sort="1" >
+<bzg>Freund B.</bzg> <link ref="budberg-wd" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="5" sort="2" >
+<bzg>Reisebeschreibung des Schlangenbads</bzg> <link ref="budberg-wd" subref="budberg-schlangenbad" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="10" >
+<bzg>Passerius</bzg> <link ref="passeri" subref="passeri-picturae" linktext="true" />, vgl. <intlink letter="557" page="84" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="11" >
+<bzg>Bibliothekarios</bzg> u.a. <link ref="reusch" linktext="true" /> 
+</marginal>
+
+<marginal letter="563" page="110" line="14" >
+<bzg>Gemalin</bzg> <link ref="hartknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="18" >
+<bzg>Prof. Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="563" page="110" line="20" >
+<bzg>3 ersten Gesänge seines Hudibras</bzg> Kreutzfelds <link ref="butler" subref="butler-hudibras" linktext="false"><titel>Hudibras</titel></link>-Übersetzung, von der zuvor dessen <link ref="kreutzfeld" subref="kreutzfeld-hudibras" linktext="false"><titel>Probe einer neuen Verteutschung</titel></link> erschien; die ganze Übersetzung ist nie erschienen, vgl. <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;224</wwwlink>.
+</marginal>
+
+
+Brief Nr. 564
+
+<marginal letter="564" page="110" line="25" >
+<bzg>Ihrem Briefe</bzg> 
 </marginal>
 
 </marginalien>
