@@ -258,7 +258,7 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <subsection id="aken-erbauung" type="neuzeit" sort="10">
 <lemma>Aken, <titel>Reden zur Erbauung</titel></lemma>
 <eintrag>
-<titel>Reden zur Erbauung über wichtige Lehren des christlichen Bekenntnisses</titel> (3 Bde., Hamburg 1744–1747[<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;48/477: „A. C. von Acken Reden zur Erbauung, 1. 2. u. 3ter Th. Hamb. 744–47“]. Digitalisat: <wwwlink address="https://purl.uni-rostock.de/rosdok/ppn834936089">UB Rostock</wwwlink>.
+<titel>Reden zur Erbauung über wichtige Lehren des christlichen Bekenntnisses</titel> (3 Bde., Hamburg 1744–1747) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;48/477: „A. C. von Acken Reden zur Erbauung, 1. 2. u. 3ter Th. Hamb. 744–47“]. Digitalisat: <wwwlink address="https://purl.uni-rostock.de/rosdok/ppn834936089">UB Rostock</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="aken-opfer" type="neuzeit" sort="20">
@@ -10155,7 +10155,6 @@ Zur Biographie vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Johan
 </subsection>
 </kommentar>
 
-
 <kommentar id="kreutzfeld" type="neuzeit">
 <lemma>Johann Gottlieb Kreutzfeld</lemma>
 <eintrag>1745–1784. Freund Hamanns, seit 1776 Professor der Poesie an der Universität Königsberg, siehe <wwwlink address="http://d-nb.info/gnd/129926590">GND</wwwlink> und <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;222–232</wwwlink>. </eintrag>
@@ -16458,6 +16457,11 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 <eintrag>Gegründet im Oktober 1772 von <link ref="friedrich-II" linktext="true" /> für den Salzhandel mit den annektierten, ehemals polnischen Gebieten (vgl. das Edikt in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beilage zum 86. St. vom 26. Oktober 1772); 1774 mit der Salzhandlungskompanie vereinigt. Ihr Sitz in Königsberg war neben Hamanns Haus am alten Graben 758 (vgl. <intlink letter="393" page="58" line="7" linktext="true" />), sie wurde zunächst geführt von <link ref="lattre" linktext="true" />. Siehe <wwwlink address="https://doi.org/10.25932/publishup-59252">Jürgen Luh: <titel>Das Jahr 1772,</titel> in: Monika Wienfort (Hg.): <titel>Die Preußische Seehandlung zwischen Markt, Staat und Kultur</titel> (Potsdam 2023), 9–24</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="seiff" type="neuzeit">
+<lemma>Johann Heinrich Seiff</lemma>
+<eintrag>Gest. 1794. Spediteur in Pillau, Schwager von <link ref="courtan-sm" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="seiler" type="neuzeit">
     <lemma>Georg Friedrich Seiler</lemma>
     <eintrag>1733–1807. Evang. Theologe, 1770 Prof. der Theologie in Erlangen, 1775 Konsistorialrat in Bayern, 1788 Superintendent in Erlangen, <wwwlink address="https://www.deutsche-biographie.de/pnd118760688.html#adbcontent">Tschackert, Paul: Seiler, Georg Friedrich, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;647&#x2013;649</wwwlink>.
@@ -16469,7 +16473,6 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
     </eintrag>
     </subsection>
     </kommentar>
-
 
 <kommentar id="seinsheim" type="neuzeit">
 <lemma>Adam Friedrich Graf von Seinsheim</lemma>
@@ -16813,6 +16816,11 @@ Zu Hamanns Bezug auf diesen Text in den Briefen 1759: <link ref="ste-h-2016" lin
 <eintrag>
 <titel>Plinianæ exercitationes in Caji Julii Solini Polyhistoria – item Caji Julii Solinii Polyhistor ex Veteribus Libris emendatus.</titel> Hg. und kommentiert von Claude de Saumaise (2 Bde., Utrecht 1629).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="soltau" type="neuzeit">
+<lemma>Dietrich Wilhelm Soltau</lemma>
+<eintrag>1745–1827. Kaufmann in St. Petersburg und Lüneburg, später Übersetzer und Schriftsteller, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117475629.html#adbcontent">Brandes, Friedrich: Soltau, Dietrich Wilhelm, in: <titel>ADB</titel>&#x202F;34 (1892), S.&#x202F;586f.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="somervile" type="neuzeit">
