@@ -42691,7 +42691,7 @@ Brief Nr. 358
 </marginal>
 
 <marginal letter="358" page="437" line="29" sort="1">
-<bzg>Hambergers gelehrtem Deutschland</bzg> in <link ref="hamberger" subref="hamberger-gelehrtesteutschland" linktext="true" />, <wwwlink address="https://archive.org/details/dasgelehrteteuts00hambuoft/page/648">Erster Nachtrag, S.&#x202F;648</wwwlink> werden unter Herder, „Pastor Adjunctus und Collaborator an der Schule zu Riga“ aufgeführt: <link ref="herder" subref="herder-kanterin" linktext="true" />, <titel>Fragment zweener dunklen Abendgespräche an Hrn. Kurella,</titel> nach dem Tode seines Vaters, 1764 und <link ref="herder" subref="herder-fragmente" linktext="true" />.
+<bzg>Hambergers gelehrtem Deutschland</bzg> in <link ref="hamberger" subref="hamberger-gelehrtesteutschland" linktext="false">Hamberger, <titel>Das gelehrte Teutschland</titel></link>, <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11440492-7">Erster Nachtrag 1768, S.&#x202F;648</wwwlink> werden unter Herder, „Pastor Adjunctus und Collaborator an der Schule zu Riga“ aufgeführt: <link ref="herder" subref="herder-kanterin" linktext="true" />, <titel>Fragment zweener dunklen Abendgespräche an Hrn. Kurella,</titel> nach dem Tode seines Vaters, 1764 und <link ref="herder" subref="herder-fragmente" linktext="true" />.
 </marginal>
 
 <marginal letter="358" page="437" line="29" sort="2">
@@ -73357,7 +73357,7 @@ Brief Nr. 564
 </marginal>
 
 <marginal letter="564" page="109" line="32" sort="1" >
-<bzg>Hayn Mamre</bzg> nach <link ref="at-mo1" subref="at-mo1-13" linktext="false">1&#x202F;Mo 13,18</link>, vgl. <intlink letter="565" page="111" line="6" linktext="true" />
+<bzg>Hayn Mamre</bzg> nach <link ref="at-mo1" subref="at-mo1-13" linktext="false">1&#x202F;Mo 13,18</link>, vgl. <intlink letter="565" page="111" line="6" linktext="true" /> <intlink letter="565" page="111" line="30" linktext="true" />
 </marginal>
 
 <marginal letter="564" page="109" line="32" sort="2" >
@@ -73480,11 +73480,55 @@ Brief Nr. 565
 </marginal>
 
 <marginal letter="565" page="111" line="15" >
-<bzg>Mädchen mit ihrer Nätherin</bzg> ?!?
+<bzg>Mädchen mit ihrer Nätherin</bzg> <link ref="hamann-er" linktext="true" />, <link ref="hamann-mc" linktext="true" /> und <link ref="hamann-ms" linktext="true" /> mit <link ref="schumacher-ar" linktext="true" />
 </marginal>
 
 <marginal letter="565" page="111" line="28" >
-<bzg>Graf von Görz</bzg> <link ref="goertz" linktext="true" /> 
+<bzg>Graf von Görz</bzg> <link ref="goertz" linktext="true" />; vgl. das Echo dieses Besuchs in Herders Brief an den Graf von Goertz, 25.1.1781 (<link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;153)
+</marginal>
+
+<marginal letter="565" page="111" line="29" >
+<bzg>Königs</bzg> <link ref="friedrich-II" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="111" line="30" >
+<bzg>Hayn Mamre</bzg> <link ref="at-mo1" subref="at-mo1-13" linktext="false">1&#x202F;Mo 13,18</link>
+</marginal>
+
+<marginal letter="565" page="111" line="31" >
+<bzg>Gevatterin</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="111" line="32" sort="1" >
+<bzg>Statthalter in Erfurt</bzg> <link ref="dalberg" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="111" line="32" sort="2" >
+<bzg>Kanzler zu Darmstadt</bzg> <link ref="moser" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="111" line="33" >
+<bzg>Besuch des Virtuosen</bzg> <link ref="merck" linktext="true" />, vgl. <intlink letter="556" page="83" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="111" line="34" >
+<bzg>beyden Nachbarn</bzg> <link ref="goethe" linktext="true" /> und <link ref="wieland" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="111" line="36" sort="1" >
+<bzg>in Meusel</bzg> im <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10732796-8">1. Nachtrag zur neuen, verbesserten Auflage (Lemgo 1774)</wwwlink>, S.&#x202F;83 des von <link ref="meusel" linktext="true" /> bearbeiteten <link ref="hamberger" subref="hamberger-gelehrtesteutschland" linktext="false">Gelehrten Teutschlands</link>
+</marginal>
+
+<marginal letter="565" page="111" line="36" sort="2" >
+<bzg>Briefe eines Prinzenhofmeisters&#x202F;…</bzg> <link ref="goertz" subref="goertz-briefe" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="112" line="3" >
+<bzg>unsern Hof</bzg> in Berlin
+</marginal>
+
+<marginal letter="565" page="112" line="7" >
+<bzg>Schwedischen Familie</bzg> wohl nach <link ref="goertz-gh" linktext="true" />, Minister Karls XII.
 </marginal>
 
 </marginalien>
