@@ -261,6 +261,12 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <titel>Reden zur Erbauung über wichtige Lehren des christlichen Bekenntnisses</titel> (3 Bde., Hamburg 1744–1747) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;48/477: „A. C. von Acken Reden zur Erbauung, 1. 2. u. 3ter Th. Hamb. 744–47“]. Digitalisat: <wwwlink address="https://purl.uni-rostock.de/rosdok/ppn834936089">UB Rostock</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="aken-origines" type="neuzeit" sort="15">
+<lemma>Aken, <titel>Origines Rerum Sacrarum Disquisitae</titel></lemma>
+<eintrag>
+<titel>Origines Rerum Sacrarum Disquisitae</titel> (Rostock, Leipzig: Koppe 1756). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bvb:29-bv012015098-9">FAU Erlangen-Nürnberg: H00/THL-X 217 bd</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="aken-opfer" type="neuzeit" sort="20">
 <lemma>Aken, <titel>Ursprung der Opfer</titel></lemma>
 <eintrag>
@@ -3298,7 +3304,12 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 
 <kommentar id="claudius-afp" type="neuzeit">
 <lemma>Anna Friederica Petrina Claudius</lemma>
-<eintrag>1777–1856. Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
+<eintrag>1777–1856. Dritte Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
+</kommentar>
+ 
+<kommentar id="claudius-aew" type="neuzeit">
+<lemma>Auguste Ernestine Wilhelmine Claudius</lemma>
+<eintrag>2.9.1779 bis 15.1.1856. Vierte Tocher von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="claudius-r" type="neuzeit">
@@ -3306,9 +3317,9 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 <eintrag>1754–1832. Geb. Behn, seit März 1772 Ehefrau von <link ref="claudius" linktext="true" />.</eintrag>
 </kommentar>
 
-<kommentar id="claudius-m" type="neuzeit">
-<lemma>Maria Caroline Elisabeth Claudius</lemma>
-<eintrag>1774-1821. Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
+<kommentar id="claudius-ca" type="neuzeit">
+<lemma>Caroline Ilsabe Claudius</lemma>
+<eintrag>7.2.1774 bis 28.8.1821. Erste Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="claudius-ma" type="neuzeit">
@@ -3317,8 +3328,8 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 </kommentar>
 
 <kommentar id="claudius-ch" type="neuzeit">
-<lemma>Christiana Augusta Maria Claudius</lemma>
-<eintrag>1775–1796. Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />, Hamanns Patenkind.</eintrag>
+<lemma>Christiana Maria Augusta  Claudius</lemma>
+<eintrag>23.11.1775–2.7.1796. Zweite Tochter von <link ref="claudius" linktext="true" /> und <link ref="claudius-r" linktext="true" />, Hamanns Patenkind.</eintrag>
 </kommentar>
 
 <kommentar id="clausnitzer" type="neuzeit">
@@ -3852,7 +3863,7 @@ Siehe auch Walther Ziesemer (Hg.), <titel>Simon Dach Gedichte</titel>, Bd.&#x202
 <eintrag>1744–1817. Von 1772 bis 1787 Statthalter der kurmainzer Exklave in Erfurt, später u.a. Erzbischof und Kurfürst von Mainz, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118720961.html#ndbcontent">Lenhart, Ludwig: Dalberg, Carl Theodor Freiherr von, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;489f.</wwwlink>.</eintrag>
 <subsection id="dalberg-universum" type="neuzeit" sort="10">
 <lemma>Dalberg, <titel>Betrachtungen über das Universum</titel></lemma>
-<eintrag><titel>Betrachtungen über das Universum</titel> (Erfurt: Weber 1777). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/10499298">ÖNB Wien</wwwlink>.
+<eintrag><titel>Betrachtungen über das Universum</titel> (Erfurt: Weber 1777). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/10499298">ÖNB Wien</wwwlink>. 2. Aufl. Mannheim 1778: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10042980-4">BSB München: Ph.sp. 183 sb</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -5355,7 +5366,7 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 
 <kommentar id="friedlaender-w" type="neuzeit">
 <lemma>Wolff Friedländer</lemma>
-<eintrag>1742–1814. Kaufmann in Königsberg und Inhaber des Friedländerschen Comptoir, zu dem auch die jüngeren Brüder, außer David, gehörten. Es war bis 1782 königsbergischer Agent der Berliner Gold- und Silbermanufaktur Ephraim u. Söhne, die ein Monopol auf die Herstellung von Tressen und Litzen für ganz Preußen hatten, exportierten auch Seide und Porzellan nach Polen und Rußland. Wohl die reichste jüdische Familie in Königsberg.</eintrag>
+<eintrag>1742–1814. Kaufmann in Königsberg und Inhaber des Friedländerschen Comptoirs, zu dem auch die jüngeren Brüder, außer David, gehörten. Es war bis 1782 königsbergischer Agent der Berliner Gold- und Silbermanufaktur Ephraim u. Söhne, die ein Monopol auf die Herstellung von Tressen und Litzen für ganz Preußen hatten, exportierten auch Seide und Porzellan nach Polen und Rußland. Wohl die reichste jüdische Familie in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="friedlaender-sw" type="neuzeit">
@@ -5429,7 +5440,13 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 <subsection id="friedrich-eloge-voltaire" type="neuzeit" sort="90">
 <lemma>Friedrich II., <titel>Éloge de Voltaire</titel></lemma>
 <eintrag>
-<titel>Auf Voltaire’s Leben. Eine Ehrenrede in einer ausserordentlichen, besonders dazu berufenen, öffentlichen Versammlung der königl. hohen Gesellschafft der Wissenschaften und schönen Künste zu Berlin abgelesen den 26 des Wintermonats, 1778</titel> (Frankfurt, Leipzig 1779) Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10067693-3">BSB München: Biogr. 1215</wwwlink>.
+<titel>Auf Voltaire’s Leben. Eine Ehrenrede in einer ausserordentlichen, besonders dazu berufenen, öffentlichen Versammlung der königl. hohen Gesellschafft der Wissenschaften und schönen Künste zu Berlin abgelesen den 26 des Wintermonats, 1778</titel> (Frankfurt, Leipzig 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10067693-3">BSB München: Biogr. 1215</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="friedrich-briefe-vaterland" type="neuzeit" sort="90">
+<lemma>Friedrich II., <titel>Briefe über die Liebe zum Vaterland</titel></lemma>
+<eintrag>
+<titel>Briefe über die Liebe zum Vaterland oder Briefwechsel zwischen Anapistemon und Philopatros. Aus dem Französischen</titel> (Berlin: Decker 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11109253-4">Stabi Regensburg: 999/Philos.392</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6135,15 +6152,13 @@ Prolog zu den neuesten Offenbarungen Gottes. Verteutscht durch Dr. Carl Friedric
 
 <kommentar id="goertz" type="neuzeit">
 <lemma>Johann Eustachius Graf von Goertz</lemma>
-<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar, preußischer Minister, 1779–1785 preußischer Gesandter in St. Petersburg, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink>
-<subsection id="goertz-briefe" type="neuzeit" sort="40">
+<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar; 1778 erfolgreicher Diplomat für Brandenburg-Preußen im Vorfeld des Bayerischen Erbfolgekriegs, daraufhin von <link ref="friedrich-II" linktext="false">Friedrich II.</link> zum Staatsminister ernannt und 1779–1785 zum preußischen Gesandten in St. Petersburg, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink></eintrag>
+<subsection id="goertz-briefe" type="neuzeit" >
 <lemma>Goertz, <titel>Briefe eines PrintzenHofmeisters</titel></lemma>
 <eintrag>
 <titel>Briefe eines PrintzenHofmeisters über Basedows PrintzenErziehung und hauptsächlich über dessen Agathokrator</titel> (Heilbronn 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10729335-3">BSB München: Don.Lud. XLVIII,15</wwwlink>.</eintrag>
 </subsection>
-</eintrag>
 </kommentar>
-
 
 <kommentar id="goertz-gh" type="neuzeit">
 <lemma>Georg Heinrich von Görtz</lemma>
@@ -7576,6 +7591,17 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <lemma>Heilmann, <titel>Der Prediger und seine Zuhörer</titel></lemma>
 <eintrag>
 <titel>Der Prediger und seine Zuhörer in ihrem wahren Verhältnis betrachtet. Eine Abhandlung, womit die theologische Facultät die Ermunterung des unter ihrer Aufsicht stehenden Homiletischen Seminars öffentlich anzeigt</titel> (Göttingen: Vandenhoek 1763). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00007F7500000000">SBB-PK Berlin: Dy 2093</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="heinicke" type="neuzeit">
+<lemma>Samuel Heinicke</lemma>
+<eintrag>1727–1790. Pädagoge, zunächst in Eppendorf bei Hamburg, 1778 Begründer der Taubstummenanstalt in Leipzig, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118826190.html#ndbcontent">Kern, Erwin: Heinicke, Samuel, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;303f.</wwwlink></eintrag>
+<subsection id="heinicke-stumme" type="neuzeit">
+<lemma>Heinicke, <titel>Beobachtungen über Stumme, und über die menschliche Sprache</titel></lemma>
+<eintrag>
+<titel>Beobachtungen über Stumme, und über die menschliche Sprache, in Briefen von Samuel Heinicke. Erster Theil</titel> (Hamburg: Herold 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10763036-5">BSB München: Paed.th. 1916-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -12097,7 +12123,7 @@ Martianus Capella, <titel>De nuptiis Philologiae et Mercurii</titel>. Von Hamann
 <subsection id="mazke-grammatik" type="neuzeit">
 <lemma>Mäzke, <titel>Grammatische Abhandlungen über die teutsche Sprache</titel></lemma>
 <eintrag>
-<titel>Grammatische Abhandlungen über die teutsche Sprache von Abraham Gotthelf Mäzken. Erster Band</titel> (Breslau: Meyer 1776). N&#x202F;V,350. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584023-9">BSB München: L.germ. 163-1</wwwlink>.</eintrag>
+<titel>Grammatische Abhandlungen über die teutsche Sprache von Abraham Gotthelf Mäzken. Erster Band</titel> (Breslau: Meyer 1776). Vgl. N&#x202F;V,350. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584023-9">BSB München: L.germ. 163-1</wwwlink>.</eintrag>
 </subsection>
 <subsection id="mazke-worterfamilien" type="neuzeit">
 <lemma>Mäzke, <titel>Grammatische Abhandlungen über die teutsche Sprache</titel></lemma>
@@ -19685,6 +19711,12 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <lemma>Karl Abraham von Zedlitz</lemma>
 <eintrag>1731–1793. Preußischer Minister, 1771–1788 Kultus- und Unterrichtsminister in Berlin, Oberkurator aller preuß. Universitäten, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118808354.html#adbcontent">Conrad Rethwisch: Zedlitz, Karl Abraham Freiherr von, in: <titel>ADB</titel>&#x202F;44 (1898), S.&#x202F;744–748</wwwlink>.
 </eintrag>
+<subsection id="zedlitz-patriotisme" type="neuzeit" sort="20">
+<lemma>Zedlitz, <titel>Sur Le Patriotisme</titel></lemma>
+<eintrag>
+<titel>Sur Le Patriotisme considéré comme objet d’Education dans les états monarchiques. Discours de Réception prononcé dans l’Academie Royale des Sciences et Belles-Lettres. Avec la Réponse du Secrétaire perpétuel de l’Académie, le Conseiller privé Formey</titel> (Berlin: Voss 1776). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000BA2F00000000">Stabi Berlin: 50 MB 6963</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="zeise" type="neuzeit">

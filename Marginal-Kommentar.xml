@@ -52560,7 +52560,7 @@ Brief Nr. 424
 </marginal>
 
 <marginal letter="424" page="134" line="1">
-<bzg>mit Weib und Kind</bzg> <link ref="claudius-r" linktext="true" /> und <link ref="claudius-m" linktext="true" />
+<bzg>mit Weib und Kind</bzg> <link ref="claudius-r" linktext="true" /> und <link ref="claudius-ca" linktext="true" />
 </marginal>
 
 <marginal letter="424" page="134" line="6" sort="1">
@@ -55466,7 +55466,7 @@ Brief Nr. 447
 </marginal>
 
 <marginal letter="447" page="183" line="15">
-<bzg>Rebecca und Ihre kleine Tochter und mein kleiner Pathe</bzg> <link ref="claudius-r" linktext="true" />, <link ref="claudius-m" linktext="true" /> und <link ref="claudius-ch" linktext="true" />
+<bzg>Rebecca und Ihre kleine Tochter und mein kleiner Pathe</bzg> <link ref="claudius-r" linktext="true" />, <link ref="claudius-ca" linktext="true" /> und <link ref="claudius-ch" linktext="true" />
 </marginal>
 
 <marginal letter="447" page="183" line="16">
@@ -59207,7 +59207,7 @@ Brief Nr. 468
 </marginal>
 
 <marginal letter="468" page="246" line="15">
-<bzg>piis desideriis&#x202F;…</bzg> dt. die frommen Wünschen des verstorbenen Freundes
+<bzg>piis desideriis&#x202F;…</bzg> dt. die frommen Wünsche des verstorbenen Freundes
 </marginal>
 
 <marginal letter="468" page="246" line="16">
@@ -60270,7 +60270,7 @@ Brief Nr. 470a
 </marginal>
 
 <marginal letter="470a" page="265" line="13" sort="2" >
-<bzg>Schwestern</bzg> <link ref="claudius-m" linktext="true" />
+<bzg>Schwestern</bzg> <link ref="claudius-ca" linktext="true" />
 </marginal>
 
 
@@ -63034,7 +63034,7 @@ Brief Nr. 491a
 </marginal>
 
 <marginal letter="491a" page="327" line="4" >
-<bzg>Carolina</bzg> <link ref="claudius-m" linktext="true" />
+<bzg>Carolina</bzg> <link ref="claudius-ca" linktext="true" />
 </marginal>
 
 <marginal letter="491a" page="327" line="6" >
@@ -71459,7 +71459,7 @@ Brief Nr. 552a
 </marginal>
 
 <marginal letter="552a" page="515" line="22" sort="2" >
-<bzg>Carolinchen</bzg> <link ref="claudius-m" linktext="true" />
+<bzg>Carolinchen</bzg> <link ref="claudius-ca" linktext="true" />
 </marginal>
 
 <marginal letter="552a" page="515" line="23" sort="1" >
@@ -71589,7 +71589,7 @@ Hamann sandte den Brief ab, bevor ihn <intlink letter="553" page="76" line="1" l
 </marginal>
 
 <marginal letter="554" page="77" line="9" >
-<bzg>Pansismum</bzg> Henkel: Neologismus von παν, gemäß Herders Vorliebe für die Offenbarung des Johannes; wohl eher abschätzig gemeinte Wortpräfung für unausgegorenen Pantheismus; oder Sancho Pansismus?!?
+<bzg>Pansismum</bzg> Henkel: Neologismus von παν, gemäß Herders Vorliebe für die Offenbarung des Johannes; wohl eher abschätzig gemeinte Wortprägung für unausgegorenen Pantheismus; oder Sancho Pansismus?!?
 </marginal>
 
 <marginal letter="554" page="77" line="11" >
@@ -73088,7 +73088,7 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="98" line="26" >
-<bzg>nobile fratrum</bzg> Als wäre sie schwanger mit einem Zwillingspaar wie Castor und Pollux; sie brachte am 2. September ihre vierte Tochter Auguste zur Welt.
+<bzg>nobile fratrum</bzg> Als wäre sie schwanger mit einem Zwillingspaar wie Castor und Pollux; sie brachte am 2. September ihre vierte Tochter <link ref="claudius-aew" linktext="false">Auguste </link> zur Welt.
 </marginal>
 
 <marginal letter="561" page="98" line="27" >
@@ -73428,7 +73428,7 @@ Brief Nr. 565
 </marginal>
 
 <marginal letter="565" page="110" line="27" sort="2" >
-<bzg>Einl. nach Morungen</bzg> nach <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> zu <link ref="herder-cd-g" linktext="false">Herders Schwester</link>, nicht überliefert
+<bzg>Einl. nach Morungen</bzg> Einlage nach <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> zu <link ref="herder-cd-g" linktext="false">Herders Schwester</link>, nicht überliefert
 </marginal>
 
 <marginal letter="565" page="110" line="29" sort="1" >
@@ -73575,24 +73575,220 @@ Brief Nr. 565
 <bzg>Akens Theorie</bzg> <link ref="aken" subref="aken-opfer" linktext="true" /> oder <link ref="aken" subref="aken-briefe" linktext="true" />
 </marginal>
 
-<marginal letter="565" page="112" line="27" >
+<marginal letter="565" page="112" line="27" sort="1" >
+<bzg>öffentl.</bzg> eine Rezension oder öffentliche Äußerung Herders zu Aken nicht ermittelt
+</marginal>
+
+<marginal letter="565" page="112" line="27" sort="2" >
 <bzg>inter nos</bzg> vgl. <intlink letter="393" page="59" line="24" linktext="true" />
 </marginal>
 
-<marginal letter="565" page="112" line="" >
-<bzg></bzg> 
+<marginal letter="565" page="112" line="29" sort="1" >
+<bzg>deutsche Chrysostomus</bzg> nach <link ref="chrysostomus" linktext="true" />
 </marginal>
 
-<marginal letter="565" page="112" line="" >
-<bzg></bzg> 
+<marginal letter="565" page="112" line="29" sort="2" >
+<bzg>in seinem Pathmos</bzg> nach <link ref="nt-off" subref="nt-off1" linktext="false">Offb 1,9</link>
 </marginal>
 
-<marginal letter="565" page="112" line="" >
-<bzg></bzg> 
+<marginal letter="565" page="112" line="30" sort="1" >
+<bzg>Ursprung der Opfer </bzg> <link ref="aken" subref="aken-opfer" linktext="true" />
 </marginal>
 
-<marginal letter="565" page="112" line="" >
-<bzg></bzg> 
+<marginal letter="565" page="112" line="30" sort="2" >
+<bzg>Samml. seiner heil. Reden</bzg> <link ref="aken" subref="aken-erbauung" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="112" line="34" sort="1" >
+<bzg>Propagien</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="565" page="112" line="34" sort="2" >
+<bzg>Origines</bzg> <link ref="aken" subref="aken-origines" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="1" >
+<bzg>Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="3" >
+<bzg>Gräfin Kayserlingk</bzg> <link ref="keyserling-c" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="4" sort="1" >
+<bzg>Lieder der Liebe</bzg> <link ref="herder" subref="herder-lieder-liebe" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="4" sort="2" >
+<bzg>Betrachtungen über das Universum</bzg> <link ref="dalberg" subref="dalberg-universum" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="5" sort="2" >
+<bzg>beyden Autoren</bzg> Herder und <link ref="dalberg" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="8" >
+<bzg>zweyten Ausgabe</bzg> <link ref="dalberg" subref="dalberg-universum" linktext="true" /> (2. Aufl. Mannheim 1778)
+</marginal>
+
+<marginal letter="565" page="113" line="10" >
+<bzg>Pudenda der göttl. u. menschl. Natur</bzg> Hamanns These in der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link>
+</marginal>
+
+<marginal letter="565" page="113" line="12" >
+<bzg>Minister</bzg> <link ref="goertz" linktext="true" />, <intlink letter="565" page="112" line="6" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="565" page="113" line="16" >
+<bzg>Schlafsucht&#x202F;…&#x202F;Apoplexie</bzg> Eine Neigung zu übermäßigem Schlaf wurde neben Schwindel (<intlink letter="565" page="111" line="4" linktext="false">s.o.</intlink>) als Vorbote von Apoplexie/Schlagfluß angesehen, vgl. <wwwlink address="www.woerterbuchnetz.de/Herder/Schlag">Herders Conversations-Lexikon, Bd.&#x202F;5, Sp.&#x202F;85, s.v. Schlag</wwwlink>.
+</marginal>
+
+<marginal letter="565" page="113" line="18" >
+<bzg>vt quae&#x202F;…</bzg> <link ref="persius" subref="persius-satiren" linktext="true" />, 1, 24f.; dt.: [Wozu lernen, wenn dieser Sauerteig nicht aufgeht] und der wilde Feigenbaum, der nun einmal innen hineingewachsen ist, nicht nach Aufbrechen der Leber hervorkommt?
+</marginal>
+
+<marginal letter="565" page="113" line="21" >
+<bzg>Heinckens Briefe</bzg> <link ref="heinicke" subref="heinicke-stumme" linktext="true" />; sie sind als „erster Theil“ markiert, wurde aber nicht fortgesetzt (Heinicke setzte seine publizistische Tätigkeit in anderen Schriften fort).
+</marginal>
+
+<marginal letter="565" page="113" line="23" >
+<bzg>Kl. Orthographie</bzg> <link ref="klopstock" linktext="false">Klopstock</link> Orthographie-Theorien in <link ref="klopstock" subref="klopstock-rechtschreibung" linktext="false"><titel>Ueber die deutsche Rechtschreibung</titel></link> und <link ref="klopstock" subref="klopstock-dichtkunst" linktext="false"><titel>Ueber Sprache und Dichtkunst</titel></link>; für <link ref="hamann" subref="hamann-scherflein" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="25" >
+<bzg>I. Band von Mätzchen</bzg> <link ref="mazke" subref="mazke-grammatik" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="26" >
+<bzg>neues Buch </bzg> <link ref="mazke" subref="mazke-worterfamilien" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="27" sort="1" >
+<bzg>K.</bzg> im <link ref="kanter" linktext="false">Kanterschen</link> Buchladen
+</marginal>
+
+<marginal letter="565" page="113" line="27" sort="2" >
+<bzg>H.</bzg> bei <link ref="hartung-gl" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="29" >
+<bzg>Semmler</bzg> <link ref="semler" subref="semler-beantwortung-fragmente" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="30" >
+<bzg>Kanzler von Korff</bzg> <link ref="korff-fa" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="31" >
+<bzg>Reisender aus Berl.</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="565" page="113" line="32" >
+<bzg>Meursii Eleusinia</bzg> <link ref="meursius" subref="meursius-eleusinia" linktext="true" />, vgl. <intlink letter="561" page="97" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="33" >
+<bzg>Gronovii Antiqu</bzg> <link ref="gronovius-thesaurus" linktext="true" />, vgl. <intlink letter="561" page="98" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="113" line="35" sort="1" >
+<bzg>Gevatter Matthias&#x202F;…&#x202F;Nachricht</bzg> <link ref="claudius" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="565" page="113" line="35" sort="2" >
+<bzg>Kupferstich seines Ehrensprunges</bzg> Wohl der Stich von <link ref="chodowiecki" linktext="false">Chodowiecki</link>, der Claudius im Kreis seiner Familie beim spaßhaften Sprung über einen (imaginierten) Sohn zeigt; vgl. <link ref="claudius" subref="claudius-werke" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10925926?page=77">Tl.&#x202F;3, S.&#x202F;67</wwwlink> und die Bildbeschreibung ebd., S.&#x202F;VI–VII: „Pag. 67 steh’ ich mit Erlaubniß selbst und will eben einen Ehrensprung thun, und der geneigte Leser wird mir diese Hausschwachheit zu gute halten. Ich denk’ überhaupt, man soll lieber in sich frölich als brummsch seyn […]“.
+</marginal>
+
+<marginal letter="565" page="113" line="36" >
+<bzg></bzg> <link ref="claudius-aew" linktext="false">Auguste Claudius</link>
+</marginal>
+
+<marginal letter="565" page="114" line="8" sort="1" >
+<bzg>Einschluß aus Morungen</bzg> aus <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> von <link ref="herder-cd-g" linktext="false">Herders Schwester</link>
+</marginal>
+
+<marginal letter="565" page="114" line="8" sort="2" >
+<bzg>Lauberhütten</bzg> das Laubhüttenfest
+</marginal>
+
+<marginal letter="565" page="114" line="11" >
+<bzg>Johann Michels</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="14" >
+<bzg>D. Holtzhauer</bzg> <link ref="holtzhauer" linktext="true" />, Nachfolger von <link ref="estocq" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="15" >
+<bzg>HE von Auerswalde&#x202F;…&#x202F;Eques Prussicus</bzg> <link ref="auerswald" linktext="true" />, preußischer Ritter
+</marginal>
+
+<marginal letter="565" page="114" line="16" >
+<bzg>Gagliani Dialogues</bzg> <link ref="galiani" subref="galiani-dialogues" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="17" >
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="19" >
+<bzg>HE Friedländer</bzg> <link ref="friedlaender-w" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="20" >
+<bzg>HE Seeligmann</bzg> <link ref="seeligmann-j" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="21" >
+<bzg>Kypkens Bibliothek</bzg> des verstorbenen <link ref="kypke" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="24" >
+<bzg>Creys Richter, Advocaten</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="565" page="114" line="29" sort="1" >
+<bzg>piis desideriis</bzg> dt. frommen Wünsche
+</marginal>
+
+<marginal letter="565" page="114" line="29" sort="2" >
+<bzg>stabulo Augeae</bzg> Augiasstall
+</marginal>
+
+<marginal letter="565" page="114" line="32" >
+<bzg>Briefe über die Liebe des Vaterlandes</bzg> <link ref="friedrich-II" subref="friedrich-briefe-vaterland" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="34" sort="1" >
+<bzg>Eloge auf Voltaire</bzg> <link ref="friedrich-II" subref="friedrich-eloge-voltaire" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="34" sort="2" >
+<bzg>Zedlitz Vorlesung über den Patriotismus</bzg> <link ref="zedlitz" subref="zedlitz-patriotisme" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="115" line="1" sort="1" >
+<bzg>großes Gesangbuch</bzg> <link ref="herder" subref="herder-weimarer-gesangbuch1778" linktext="true" />, vgl. <intlink letter="556" page="82" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="114" line="1" sort="2" >
+<bzg>Hartung oder Hartknoch</bzg> <link ref="hartung-gl" linktext="true" /> oder <link ref="hartknoch" linktext="true" />, von der Herbstmesse
+</marginal>
+
+<marginal letter="565" page="115" line="3" >
+<bzg>apokalyptisches Knäblein</bzg> <link ref="herder" subref="herder-maran" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="115" line="6" sort="1" >
+<bzg>Thibetschen Grammatik</bzg> <link ref="giorgi-aa" subref="giorgi-tibetanum" linktext="true" />, vgl. <intlink letter="562" page="101" line="27" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="115" line="6" sort="2" >
+<bzg>zweifle etwas darinn zu finden</bzg> zu Hamanns versuchen, das titelgebende Wort <link ref="hamann" subref="hamann-konxompax" linktext="false">Konxompax</link> aus dem tibetischen herzuleiten vgl. <intlink letter="560" page="93" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="565" page="115" line="17" >
+<bzg>Sohn von Karl Berens</bzg> <link ref="berens-ac" linktext="true" />
 </marginal>
 
 </marginalien>
