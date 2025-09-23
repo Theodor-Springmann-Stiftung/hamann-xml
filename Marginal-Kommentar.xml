@@ -72270,7 +72270,7 @@ Brief Nr. 557
 </marginal>
 
 <marginal letter="557" page="85" line="5" sort="1" >
-<bzg>Nachtstück Ihrer Adelgunde</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> (der Text war Hartknoch und seiner Hochzeit mit Albertine gewidmet); vgl. zu <intlink letter="555" page="80" line="13" linktext="true" />; „Nachtstück“ ist wohl als Wortspiel von ‚Nachstück/Fortsetzung‘ mit Nacht bzw. unsichtbarem Geschehen im Gegensatz zum Fragmentenstreit in der Öffentlichkeit (bzw. „am hellen Mittage“) zu verstehen.
+<bzg>Nachtstück Ihrer Adelgunde</bzg> <link ref="hamann" subref="hamann-ehe" linktext="true" /> (der Text war Hartknoch und seiner Hochzeit mit Albertine gewidmet); vgl. <intlink letter="555" page="80" line="13" linktext="true" />; „Nachtstück“ ist wohl als Wortspiel von ‚Nachstück/Fortsetzung‘ mit Nacht bzw. unsichtbarem Geschehen im Gegensatz zum Fragmentenstreit in der Öffentlichkeit (bzw. „am hellen Mittage“) zu verstehen.
 </marginal>
 
 <marginal letter="557" page="85" line="5" sort="2" >
@@ -72306,7 +72306,7 @@ Brief Nr. 557
 </marginal>
 
 <marginal letter="557" page="85" line="11" >
-<bzg>Uebersetzer des Gérard</bzg> <link ref="garve" subref="garve-gerard" linktext="true" />; Übersetzung eines Werks des schottischen Philosophen Alexander Gerard (1728–1795).
+<bzg>Uebersetzer des Gérard</bzg> <link ref="garve" subref="garve-gerard" linktext="true" />; Übersetzung eines Werks des schottischen Philosophen Alexander Gerard (1728–1795)
 </marginal>
 
 <marginal letter="557" page="85" line="12" sort="1" >
@@ -72488,7 +72488,7 @@ Brief Nr. 559
 </marginal>
 
 <marginal letter="559" page="90" line="25" >
-<bzg>freien Tonne</bzg> nach <link ref="diogenes-s" linktext="true" />, der <link ref="diogenes" subref="diogenes-opera" linktext="true" />, VI 22f. in einer Tonne wohnte
+<bzg>freien Tonne</bzg> nach <link ref="diogenes-s" linktext="true" />, der nach <link ref="diogenes" subref="diogenes-opera" linktext="true" />, VI 22f. in einer Tonne wohnte
 </marginal>
 
 <marginal letter="559" page="90" line="27" >
@@ -72558,7 +72558,11 @@ Brief Nr. 560
 <bzg>Leine</bzg> Kraus berichtete in seinem nicht überlieferten Brief offenbar vom Baden im Flüßchen bei Göttingen.
 </marginal>
 
-<marginal letter="560" page="91" line="27" >
+<marginal letter="560" page="91" line="27" sort="1">
+    <bzg>Tage Eliä</bzg> Fest des Propheten Elia
+    </marginal>
+
+<marginal letter="560" page="91" line="27" sort="2">
 <bzg>Brahl</bzg> <link ref="brahl" linktext="true" />
 </marginal>
 
@@ -72683,7 +72687,7 @@ Brief Nr. 560
 </marginal>
 
 <marginal letter="560" page="93" line="21" >
-<bzg>Photorinus Pathognomikus</bzg> <link ref="lichtenberg" linktext="true" /> in Göttingen, wo Kraus sich aufhält; „Photorin“ ist ein Pseudonym im <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-30338-4"><titel>Timorus</titel> […] (Berlin 1773)</wwwlink>; der Beiname „Pathognomikus“ nach Lichtenbergs Entgegnung auf <link ref="lavater" linktext="false">Lavater</link> (<link ref="lichtenberg" subref="lichtenberg-physiognomik" linktext="false"></link>), die den (wohl satirisch gemeinten) Begriff der Pathognomik entwickelt, die Möglichkeit, bestimmte seelische Vorgänge aus den unbewussten Bewegungen des menschlichen Gesichts zu erschließen.
+<bzg>Photorinus Pathognomikus</bzg> <link ref="lichtenberg" linktext="true" /> in Göttingen, wo Kraus sich aufhält; „Photorin“ ist ein Pseudonym im <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-30338-4"><titel>Timorus</titel> […] (Berlin 1773)</wwwlink>; der Beiname „Pathognomikus“ nach Lichtenbergs Entgegnung auf <link ref="lavater" linktext="false">Lavater</link> (<link ref="lichtenberg" subref="lichtenberg-physiognomik" linktext="true"></link>), die den (wohl satirisch gemeinten) Begriff der Pathognomik entwickelt, die Möglichkeit, bestimmte seelische Vorgänge aus den unbewussten Bewegungen des menschlichen Gesichts zu erschließen.
 </marginal>
 
 <marginal letter="560" page="93" line="22" >
@@ -72703,7 +72707,7 @@ Brief Nr. 560
 </marginal>
 
 <marginal letter="560" page="93" line="27" >
-<bzg>Hermes</bzg> <link ref="hermes-jt" linktext="true" /> (wohl auch ein Spiel mit dem Götterboten, der auch für Reichtum und Handel steht)
+<bzg>Hermes</bzg> <link ref="hermes-jt" linktext="true" /> (wohl auch ein Spiel mit dem Götterboten, der ebenfalls für Reichtum und Handel steht)
 </marginal>
 
 <marginal letter="560" page="93" line="33" >
