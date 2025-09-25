@@ -74157,6 +74157,10 @@ Brief Nr. 567
 <bzg>HE Karl Berens</bzg> <link ref="berens-c" linktext="true" />
 </marginal>
 
+<marginal letter="567" page="121" line="16" >
+<bzg>Halter</bzg> <link ref="halter" linktext="true" />
+</marginal>
+
 <marginal letter="567" page="121" line="28" >
 <bzg>Jothams Fabel</bzg> <link ref="at-ri" subref="at-ri9" linktext="false">Ri 9,7–15</link>, vgl. <intlink letter="570" page="130" line="6" linktext="true" />
 </marginal>
@@ -74439,12 +74443,12 @@ Brief Nr. 569
 <bzg>Pack von Ehrmann</bzg> von <link ref="ehrmann" linktext="true" />, <intlink letter="563" page="102" line="2" linktext="false">HKB 563</intlink>
 </marginal>
 
-<marginal letter="569" page="125" line="" >
+<marginal letter="569" page="125" line="11" >
 <bzg>2 Probestücke von Schellinger</bzg> wohl Kupferstiche von <link ref="schellenberg" linktext="true" />, mglw. im Zusammenhang seiner <link ref="schellenberg" subref="schellenberg-prospecte" linktext="false"><titel>Schweizerprospekte</titel></link> (vgl. die Rezension im <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/image/1951387_028/203/LOG_0034/"><titel>Teutschen Merkur</titel></wwwlink> und Hamanns Anzeige in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, St. 88/1779 (Unger, Bd. 2, S. 920f.?!?)
 </marginal>
 
 <marginal letter="569" page="125" line="14" >
-<bzg>Schloßes mit 25 Zimmern</bzg> vgl. <intlink letter="563" page="104" line="16" linktext="true" />
+<bzg>Schloßes mit 25 Zimmern</bzg> Schloss <wwwlink address="https://www.geonames.org/12005313">Schloss Glarisegg</wwwlink> vgl. <intlink letter="563" page="104" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="569" page="125" line="15" >
@@ -74452,7 +74456,91 @@ Brief Nr. 569
 </marginal>
 
 <marginal letter="569" page="125" line="16" >
-<bzg>Polypragmosyne</bzg> Vielgeschäftigkeit?!?
+<bzg>Polypragmosyne</bzg> Vielgeschäftigkeit
+</marginal>
+
+<marginal letter="569" page="125" line="20" >
+<bzg>Pf. mir meldt</bzg> <link ref="pfenninger" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="569" page="125" line="21" sort="1" >
+<bzg>Apok. dem Heß</bzg> wohl <link ref="hess" subref="hess-reich" linktext="true" /> von 1774 gemeint
+</marginal>
+
+<marginal letter="569" page="125" line="21" sort="2" >
+<bzg>Uebersetzung&#x202F;…</bzg> Lavaters Versepos <link ref="lavater" subref="lavater-offenbarung" linktext="false"><titel>Jesus Messias</titel></link>
+</marginal>
+
+<marginal letter="569" page="125" line="25" >
+<bzg>Rad im Rade</bzg> nach <link ref="at-hes" subref="at-hes1" linktext="false">Hes 1,16</link>, in <link ref="herder" subref="herder-maran" linktext="true" /> nicht ermittelt?!?
+</marginal>
+
+<marginal letter="569" page="125" line="27" sort="1" >
+<bzg>מעשה מרכבה</bzg> Werk des Merkaba, rabbinische Bezeichnung für die Hesekiel-Vision des Wagens Gottes in <link ref="at-hes" subref="at-hes1" linktext="false">Hes 1</link>
+</marginal>
+
+<marginal letter="569" page="125" line="27" sort="2" >
+<bzg>opus quadrigae</bzg> dt. Werk des Vierspänners, nach <link ref="at-hes" subref="at-hes1" linktext="false">Hes 1,16</link>
+</marginal>
+
+<marginal letter="569" page="125" line="29" sort="1" >
+<bzg>männliche</bzg> Herders Familie mit nunmehr vier Söhnen
+</marginal>
+
+<marginal letter="569" page="125" line="29" sort="2" >
+<bzg>Claudius weibl</bzg> <link ref="claudius" linktext="false">Claudius’</link> Familie mit vier Töchtern
+</marginal>
+
+<marginal letter="569" page="125" line="29" sort="3" >
+<bzg>vermischte</bzg> Hamanns Familie mit einem Sohn und drei Töchtern
+</marginal>
+
+<marginal letter="569" page="125" line="30" sort="1" >
+<bzg>Wink S. 296. c.)</bzg> <link ref="herder" subref="herder-maran" linktext="true" />, ED, S.&#x202F;296 (zu den apokalyptischen Aussagen der Apostel): „Paulus erklärt sich über die Nähe des schnellen Tages; aber nicht also, daß er ihn ins Endlose fortschiebt“. Dazu Anm.: „<link ref="nt-th2" subref="nt-th2-2" linktext="false">2 Thess. 2</link> conf. Koppii N. T. excurs. II. ad h. I.“ 
+</marginal>
+
+<marginal letter="569" page="125" line="30" sort="2" >
+<bzg>Koppen’s Testament</bzg> vgl. die Excursion II in <link ref="koppe" subref="koppe-testamentum" linktext="true" />, 2.&#x202F;Aufl., S.&#x202F;112–136
+</marginal>
+
+<marginal letter="569" page="125" line="33" >
+<bzg>Gesangbuch</bzg> <link ref="herder" subref="herder-weimarer-gesangbuch1778" linktext="true" />, vgl. <intlink letter="565" page="115" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="125" line="34" sort="1" >
+<bzg>Hahn’s Postill</bzg> <link ref="hahn-pm" subref="hahn-sammlung" linktext="true" /> 
+</marginal>
+
+<marginal letter="569" page="125" line="34" sort="2" >
+<bzg>N. T.</bzg> <link ref="hahn-pm" subref="hahn-nt" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="125" line="36" >
+<bzg>Hartkn. oder Hart.</bzg> <link ref="hartknoch" linktext="true" /> oder <link ref="hartung" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="1" >
+<bzg>Sohn von Karl Berens</bzg> <link ref="berens-ac" linktext="true" />, Sohn von <link ref="berens-c" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="2" >
+<bzg>Halter</bzg> <link ref="halter" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="5" >
+<bzg>Herzeleid</bzg> vgl. die ausführliche Schilderung im Brief an Hartknoch, <intlink letter="567" page="118" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="8" >
+<bzg>epileptische Zufälle</bzg> vgl. <intlink letter="567" page="120" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="11" >
+<bzg>Hartk. u Arend in Petersb. nebst einem Konxompax</bzg> <link ref="hartknoch" linktext="true" />, <link ref="arndt-cg" linktext="true" /> und ein <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax-</titel></link>Exemplar für ihn, vgl. <intlink letter="567" page="120" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="15" >
+<bzg>meinen armen Bruder</bzg> <link ref="hamann-jc" linktext="true" />, vgl. <intlink letter="567" page="121" line="4" linktext="true" />
 </marginal>
 
 </marginalien>

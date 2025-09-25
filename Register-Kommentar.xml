@@ -6759,6 +6759,12 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 </eintrag>
 </kommentar>
 
+<kommentar id="halter" type="neuzeit">
+<lemma>Wilhelm Ferdinand Halter</lemma>
+<eintrag>1750–1806. Musiker und Komponist, siehe <wwwlink address="http://d-nb.info/gnd/140305491">GND</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="hamann" type="neuzeit">
 <lemma>Johann Georg Hamann</lemma>
 <eintrag>27. August 1730 bis 21. Juni 1788.<line type="break" />
@@ -8161,8 +8167,12 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </kommentar>
 
 <kommentar id="hess" type="neuzeit">
-<lemma>Johann Jakob Hess </lemma>
+<lemma>Johann Jakob Hess</lemma>
 <eintrag>1741–1828. Schweizer Theologe aus dem Lavater-Kreis, beschäftigte sich v.a. mit der Historischen Jesusforschung, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd119087863.html#ndbcontent">Pfister, Rudolf: Heß, Jakob, in: <titel>NDB</titel>&#x202F;9 (1972), S.&#x202F;2–3</wwwlink>.</eintrag>
+<subsection id="hess-reich" type="neuzeit">
+<lemma>Hess, <titel>Von dem Reiche Gottes</titel></lemma>
+<eintrag><titel>Von dem Reiche Gottes. Ein Versuch über den Plan der göttlichen Anstalten und Offenbarungen</titel> (Zürich 1774). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-89048">ZB Zürich:  7.124 &#x0026; a</wwwlink>.</eintrag>
+</subsection>
 <subsection id="hess-drey-lebensjahre" type="neuzeit">
 <lemma>Hess, <titel>Geschichte der drey letzten Lebensjahre Jesu</titel></lemma>
 <eintrag><titel>Geschichte der drey letzten Lebensjahre Jesu</titel> (3 Tle., in zahlreichen Auflagen ab 1768 erschienen). Digitalisat der Ausgabe Frankfurt 1775 (3 Bde.): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271721-0">BSB München: B.hist. 111 ia</wwwlink>.</eintrag>
@@ -9678,7 +9688,7 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 <subsection id="koppe-testamentum" type="neuzeit" sort="10">
 <lemma>Koppe, <titel>Novum Testamentum Graece</titel></lemma>
 <eintrag>
-<titel>Novum Testamentum Graece perpetua adnotatione</titel> (1. Teil [Gal 1,2; Thess., Eph] Göttingen 1778, 4. Teil [Röm] 1783). 
+<titel>Novum Testamentum Graece perpetua adnotatione</titel> (1. Teil [Gal 1,2; Thess., Eph] Göttingen 1778, 4. Teil [Röm] 1783). Digitalisat der 2. Ausgabe 1791 (die 1. von 1778 ist kaum erreichbar): <wwwlink address="https://hdl.handle.net/2027/hvd.ah52s7">Hathi Trust</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="koppe-jesaias" type="neuzeit" sort="20">
@@ -10631,10 +10641,15 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
     <eintrag>
     <titel>Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins</titel> (Leipzig: Weidmanns Erben und Reich 1777). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3206828977">SLUB Dresden: 39.8.10504</wwwlink>.</eintrag>
     </subsection>
-    <subsection id="lavater-pontius" type="neuzeit" sort="50">
+    <subsection id="lavater-offenbarung" type="neuzeit" sort="50">
+    <lemma>Lavater, <titel>Jesus Messias</titel></lemma>
+    <eintrag>
+    <titel>Jesus Messias, oder die Zukunft des Herrn. Nach der Offenbarung Johannes</titel> (Zürich: Füeßli 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271742-6">Stabi Bamberg: JH.L.g.o.44</wwwlink>.</eintrag>
+    </subsection>
+    <subsection id="lavater-pontius" type="neuzeit" sort="70">
     <lemma>Lavater, <titel>Pontius Pilatus</titel></lemma>
     <eintrag>
-    <titel>Pontius Pilatus. Oder Die Bibel im Kleinen und der Mensch im Großen</titel> (4 Bde. Zürich: Füeßli 1782–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271742-6">BSB München: B.hist. 155</wwwlink>.</eintrag>
+    <titel>Pontius Pilatus. Oder Die Bibel im Kleinen und der Mensch im Großen</titel> (4 Bde. Zürich: Füeßli 1782–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11712161-4">BSB München: B.hist. 155</wwwlink>.</eintrag>
     </subsection>
 </kommentar>
 
