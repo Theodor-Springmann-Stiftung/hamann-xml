@@ -10847,9 +10847,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="563">
-        <date value="Klarensegg, nach dem 8. September 1779" />
-        <sort value="1779-09-08" notBefore="1779-09-08" />
-        <location ref="-1" />
+        <date value="Glarisegg, zwischen 9. September 4. Oktober 1779" />
+        <sort value="1779-09-08" notBefore="1779-09-09" notAfter="1779-10-04" />
+        <location ref="45" />
         <senders>
           <sender ref="73" />
         </senders>
@@ -11208,7 +11208,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="582">
-        <date value="Klarensegg, 14. Februar 1780" />
+        <date value="Glarisegg, 14. Februar 1780" />
         <sort value="1780-02-14" />
         <location ref="-1" />
         <senders>

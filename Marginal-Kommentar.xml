@@ -73285,8 +73285,12 @@ Brief Nr. 562
 
 Brief Nr. 563
 
+<marginal letter="563" page="102" line="2" >
+<bzg>Zeitpunkt</bzg> zur Datierung des Briefs vgl. <intlink letter="563" page="103" line="32" linktext="true" /> und <intlink letter="569" page="125" line="10" linktext="true" /> (ein Brief zwischen Schloss Hegi und Königsberg brauchte etwa 17 Tage, vgl. <intlink letter="559" page="91" line="12" linktext="true" />)
+</marginal>
+
 <marginal letter="563" page="102" line="3" >
-<bzg>lieben Brief</bzg> Hamanns Antwort auf <intlink letter="558" page="86" line="11" linktext="false">HKB 558</intlink> bzw. <intlink letter="559" page="88" line="33" linktext="false">HKB 559</intlink>, vgl. <intlink letter="561" page="99" line="14" linktext="true" />
+<bzg>lieben Brief</bzg> Hamanns Antwort auf <intlink letter="558" page="86" line="11" linktext="false">HKB 558</intlink> bzw. <intlink letter="559" page="88" line="33" linktext="false">HKB 559</intlink> vom 7. August, vgl. <intlink letter="561" page="99" line="14" linktext="true" />
 </marginal>
 
 <marginal letter="563" page="102" line="4" >
@@ -73323,6 +73327,10 @@ Brief Nr. 563
 
 <marginal letter="563" page="107" line="37" >
 <bzg>civium potentiorum limina</bzg> dt. die Schwellen [der Häuser] mächtiger Bürger, nach dem römischen Klientelwesen
+</marginal>
+
+<marginal letter="563" page="109" line="10" >
+<bzg>Wint. Bürgers </bzg> nicht ermittelt
 </marginal>
 
 
@@ -74408,11 +74416,43 @@ Brief Nr. 569
 </marginal>
 
 <marginal letter="569" page="125" line="5" sort="2" >
-<bzg>Hauchwitz</bzg> vmtl. <link ref="haugwitz" linktext="true" />, mglw. Verwechslung mit dem Gut Glarisegg, vgl. <intlink letter="563" page="102" line="6" linktext="true" />
+<bzg>Hauchwitz</bzg> vmtl. <link ref="haugwitz" linktext="true" /> gemeint, Bedeutung unklar, wohl Reisepläne zum <wwwlink address="https://www.geonames.org/7533311">Schloss Krappitz in Schlesien</wwwlink>
+</marginal>
+
+<marginal letter="569" page="125" line="6" sort="1" >
+<bzg>Buchladen</bzg> wohl der <link ref="kanter" linktext="false">Kantersche Buchladen</link>
+</marginal>
+
+<marginal letter="569" page="125" line="6" sort="2" >
+<bzg>Schweitzer Kaufmanns&#x202F;…&#x202F;Wechselsache</bzg> vgl. <link ref="steiner-jh" linktext="true" />, vgl. <intlink letter="559" page="91" line="1" linktext="true" /> und <intlink letter="558" page="88" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="125" line="9" sort="1" >
+<bzg>Wanowsky</bzg> <link ref="wannowski" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="125" line="9" sort="2" >
+<bzg>Einl. von Pf.</bzg> von <link ref="pfenninger" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="569" page="125" line="10" >
+<bzg>Pack von Ehrmann</bzg> von <link ref="ehrmann" linktext="true" />, <intlink letter="563" page="102" line="2" linktext="false">HKB 563</intlink>
 </marginal>
 
 <marginal letter="569" page="125" line="" >
-<bzg></bzg> 
+<bzg>2 Probestücke von Schellinger</bzg> wohl Kupferstiche von <link ref="schellenberg" linktext="true" />, mglw. im Zusammenhang seiner <link ref="schellenberg" subref="schellenberg-prospecte" linktext="false"><titel>Schweizerprospekte</titel></link> (vgl. die Rezension im <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/image/1951387_028/203/LOG_0034/"><titel>Teutschen Merkur</titel></wwwlink> und Hamanns Anzeige in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, St. 88/1779 (Unger, Bd. 2, S. 920f.?!?)
+</marginal>
+
+<marginal letter="569" page="125" line="14" >
+<bzg>Schloßes mit 25 Zimmern</bzg> vgl. <intlink letter="563" page="104" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="125" line="15" >
+<bzg>Art von Inquisition</bzg> vgl. <intlink letter="563" page="105" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="125" line="16" >
+<bzg>Polypragmosyne</bzg> Vielgeschäftigkeit?!?
 </marginal>
 
 </marginalien>
