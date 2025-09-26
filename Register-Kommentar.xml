@@ -3370,6 +3370,13 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 <titel>Observationes ad Commentationem Dni. Imanuelis Kant de uno possibli fundamento Demonstr. Exist. Dei die von dem einzig möglichen Beweisgrund zu einer Demonstr. des Daseyns Gottes quas preside Godofr. Plouquet pp prorite consequendis Magisterii philosophici honoribus Dan. Fr. Hermann, Aldingensis in Tübingen im Octobr. 1763 gehalten</titel> (Tübingen 1763).
 </eintrag>
 </subsection>
+Die wahre Lehre des heilig Apostel Pauli vom Gesetz, aus dem Brief an die Römer vorgetragen und mit der neuen Deutung desselben verglichen. Tübingen 1777.[Rez. in AdB, Bd 39/2. Berlin/Stettin 1780, S.360- 365]. 
+<subsection id="cless-gesez" type="neuzeit" sort="20">
+<lemma>Cless, <titel>Die wahre Lehre des heil. Apostels Pauli vom Gesez</titel></lemma>
+<eintrag>
+<titel>Die wahre Lehre des heil. Apostels Pauli vom Gesez. Aus dem Brief an die Römer vorgetragen, und mit den neuen Deutungen derselben verglichen</titel> (Tübingen 1777.). Digitalisat 2. Aufl. 1779: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0002000200000000">Stabi Berlin: Bt 311</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="clerc" type="neuzeit">
@@ -6389,7 +6396,6 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <eintrag>Theil 1–16, 1763-1766, moralische Wochenschrift hrsg. in Magdeburg von Johann Samuel Patzke (1727–1787), evang. Theologe.</eintrag>
 </kommentar>
 
-
 <kommentar id="gresset" type="neuzeit">
 <lemma>Jean Baptiste Louis Gresset</lemma>
 <eintrag>1709–1777. Frz. Dichter, bis 1735 Jesuit, ab 1748 Mitglied der ‚Académie française‘. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;18, 1817), S.&#x202F;451–455.</eintrag>
@@ -6403,6 +6409,17 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <subsection id="Gresset-Oeuvres" type="neuzeit" sort="20">
 <lemma>Gresset, <titel>Oeuvres</titel></lemma>
 <eintrag><titel>Oeuvres de Monsieur Gresset, de l’Académie Françoise. Nouvelle Edition. Revue, corrigée &amp; considérablement augmentée</titel> (Amsterdam 1755) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;176/755: „Oeuvres de Mr. Gresset, Tom I. II. Amst. 755.“].</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="griesbach" type="neuzeit">
+<lemma>Johann Jakob Griesbach</lemma>
+<eintrag>1745–1812. seit 1775 Prof. der evang. Theologie in Jena</eintrag>
+<subsection id="griesbach-testamentum" type="neuzeit">
+<lemma>Griesbach, <titel>Novum Testamentum Graece</titel></lemma>
+<eintrag>
+<titel>Novum Testamentum Graece textum ad fidem codicum versionum et patrum emendavit et lectionis varietatem adiecit Io. Iac. Giesbach</titel> (2 Bde., Halle 1775 u. 1777). Bd.&#x202F;1 1777 (Evangelia und acta apostolorum) und Bd.&#x202F;2 1775 (epistoas omnes et apocalypsin) zusammengebunden: <wwwlink address="https://data.onb.ac.at/rep/109FE1D0">ÖNB Wien: 404926-B ALT MAG</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 
@@ -7278,10 +7295,10 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <titel>Entkleidung und Verklärung. Ein Fliegender Brief an Niemand den Kundbaren</titel> (unveröffentlicht; 1785–87).
 </eintrag>
 </subsection>
-<subsection id="hamann-metakritische-wannchen" type="neuzeit" sort="910">
+<subsection id="hamann-wannchen" type="neuzeit" sort="910">
 <lemma>Hamann, <titel>Metakritische Wannchen</titel></lemma>
 <eintrag>
-Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab den 1780ern geplantes Projekt einer Sammlung von Hamann-Schriften (zwischendurch auch unter dem Titel <titel>Saalbadereyen</titel>); nie erschienen.
+Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab 1779 geplantes Projekt einer Sammlung von Hamann-Schriften (zwischendurch auch unter dem Titel <titel>Saalbadereyen</titel>); nie erschienen.
 </eintrag>
 </subsection>
 </kommentar>
@@ -12657,7 +12674,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 <subsection id="michaelis-einleitung" type="neuzeit" sort="5">
 <lemma>Michaelis, <titel>Einleitung in die göttlichen Schriften</titel></lemma>
-<eintrag><titel>Einleitung in die göttlichen Schriften des Neuen Bundes</titel> (2&#x202F;Bde., Göttingen: Vandenhoek 1750/55). 
+<eintrag><titel>Einleitung in die göttlichen Schriften des Neuen Bundes</titel> (zuerst Göttingen: Vandenhoek 1750; 3. Aufl. in 2 Bde. Göttingen 1777). Digitalisat 3. Aufl. (Bd.&#x202F;2): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10484306-5">BSB München: 4 Exeg. 580-2</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="michaelis-salomon" type="neuzeit" sort="10">
@@ -16138,9 +16155,19 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <eintrag>1737–1796. 1762 Prof. der Altertümer in Basel, Hofrat in Karlsruhe, siehe <wwwlink address="https://d-nb.info/gnd/117722219">GND</wwwlink>.</eintrag>
 </kommentar>
 
-<kommentar id="schon" type="neuzeit">
-<lemma>Christoph Schön</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Studiengenosse Hamanns, später Pfarrer in Liebstadt und Reichertswalde.</eintrag>
+<kommentar id="schmidt-fs" type="neuzeit">
+<lemma>Friedrich Samuel Schmidt</lemma>
+<eintrag>1737–1796. 1762 Prof. der Altertümer in Basel, Hofrat in Karlsruhe, siehe <wwwlink address="https://d-nb.info/gnd/117722219">GND</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="schneider-cw" type="neuzeit">
+<lemma>Christian Wilhelm Schneider</lemma>
+<eintrag>1734–1797. Kirchenhistoriker in Weimar, 1776 Oberkonsistorialrat, 1782 Generalsuperintendent in Eisenach, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz78794.html#adbcontent">Frank, G.: Schneider, Christian Wilhelm, in: <titel>ADB</titel>&#x202F;32 (1891), S.&#x202F;102f.</wwwlink></eintrag>
+<subsection id="schneider-acta" type="neuzeit" sort="10">
+<lemma>Schneider, <titel>Acta historico-ecclesiastica nostri temporis</titel></lemma>
+<eintrag>
+<titel>Acta historico-ecclesiastica nostri temporis. Oder gesammlete Nachrichten und Urkunden zu der Kirchengeschichte unsrer Zeit</titel> (13 Bde. bzw. 100 Tle., Weimar: Hoffmann 1775–1790). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10022885-9">BSB München: H.eccl. 15-5</wwwlink>. Vgl. <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1010770144">ZDB</wwwlink></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="schoneich" type="neuzeit">
@@ -16150,7 +16177,7 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 
 <kommentar id="schonaich" type="neuzeit">
 <lemma>Christoph Otto v. Schönaich</lemma>
-<eintrag>1725–1809. Freiherr. Ehrenmitglied in der <link ref="konigliche-d-g" linktext="false">Kngl. Deutschen Gesellschaft zu Königsberg</link>. Von <link ref="gottsched" linktext="true" /> 1752 mit dem Lorbeerkranz für das Epos <titel>Hermann</titel> geehrt, um mit diesem Stück als regelpoetischem Exempel gegen <link ref="klopstock" linktext="true" /> zu polemisieren. Siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd108972755.html#adbcontent">Jentsch: Schönaich, Otto Freiherr von, in: <titel>ADB</titel>&#x202F;32 (1891), S.&#x202F;253f</wwwlink>.
+<eintrag>1725–1809. Freiherr. Ehrenmitglied in der <link ref="konigliche-d-g" linktext="false">Kngl. Deutschen Gesellschaft zu Königsberg</link>. Von <link ref="gottsched" linktext="true" /> 1752 mit dem Lorbeerkranz für das Epos <titel>Hermann</titel> geehrt, um mit diesem Stück als regelpoetischem Exempel gegen <link ref="klopstock" linktext="true" /> zu polemisieren. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd108972755.html#adbcontent">Jentsch: Schönaich, Otto Freiherr von, in: <titel>ADB</titel>&#x202F;32 (1891), S.&#x202F;253f</wwwlink>.
 </eintrag>
 <subsection id="schonaich-hermann" type="neuzeit" sort="10">
 <lemma>Schönaich, <titel>Hermann</titel></lemma>
@@ -18981,6 +19008,11 @@ W
 <lemma>Walch (Hg.) <titel>Philologische Bibliothek</titel></lemma>
 <eintrag>
 <titel>Philologische Bibliothek</titel> (3 Bde., Göttingen 1770–1777). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10765755-6">BSB München: Philol. 289 m-1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="walch-untersuchung" type="neuzeit" sort="20">
+<lemma>Walch <titel>Kritische Untersuchung</titel></lemma>
+<eintrag>
+<titel>D. Christian Wilhelm Franz Walchs kritische Untersuchung vom Gebrauch der heiligen Schrift unter den alten Christen in den vier ersten Jahrhunderten</titel> (Leipzig: Weygand 1779). <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN549325042">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 

@@ -72191,7 +72191,7 @@ Antwort auf <intlink letter="554" page="77" line="1" linktext="false">HKB 554</i
 </marginal>
 
 <marginal letter="556" page="84" line="5" >
-<bzg>verflogenen Kleinigkeiten eine Sammlung</bzg> ein erstes Konzept für die <link ref="hamann" subref="hamann-metakritische-wannchen" linktext="false"><titel>Metakritischen Wannchen</titel></link>
+<bzg>verflogenen Kleinigkeiten eine Sammlung</bzg> ein erstes Konzept für die <link ref="hamann" subref="hamann-wannchen" linktext="false"><titel>Metakritischen Wannchen</titel></link>
 </marginal>
 
 <marginal letter="556" page="84" line="6" >
@@ -72822,7 +72822,7 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="95" line="31" >
-<bzg>PfingstEinfall</bzg> Herders Vorschlag einer Sammlung von Hamann-Schriften (woraus später der Plan der <link ref="hamann" subref="hamann-metakritische-wannchen" linktext="false"><titel>Metakritischen Wannchen</titel></link> entsteht), vgl. <intlink letter="556" page="84" line="10" linktext="true" />
+<bzg>PfingstEinfall</bzg> Herders Vorschlag einer Sammlung von Hamann-Schriften (woraus später der Plan der <link ref="hamann" subref="hamann-wannchen" linktext="false"><titel>Metakritischen Wannchen</titel></link> entsteht), vgl. <intlink letter="556" page="84" line="10" linktext="true" />
 </marginal>
 
 <marginal letter="561" page="95" line="32" >
@@ -73076,7 +73076,7 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="98" line="18" sort="2" >
-<bzg>ein Ganzes</bzg> <link ref="hamann" subref="hamann-metakritische-wannchen" linktext="false">zu Herders Vorschlag</link> <intlink letter="561" page="95" line="31" linktext="false">s.o.</intlink>
+<bzg>ein Ganzes</bzg> <link ref="hamann" subref="hamann-wannchen" linktext="false">zu Herders Vorschlag</link> <intlink letter="561" page="95" line="31" linktext="false">s.o.</intlink>
 </marginal>
 
 <marginal letter="561" page="98" line="19" >
@@ -73990,7 +73990,7 @@ Brief Nr. 566
 Brief Nr. 567
 
 <marginal letter="567" page="117" line="32" >
-<bzg>durch einen Einschluß</bzg> Hartknochs Brief an Hamann nicht überliefert, vgl. auch <intlink letter="567" page="120" line="11" linktext="false">unten</intlink>
+<bzg>durch einen Einschluß</bzg> Hartknochs Brief an Hamann nicht überliefert, wohl vom 14. Oktober 1779, vgl. <intlink letter="569" page="126" line="17" linktext="true" />
 </marginal>
 
 <marginal letter="567" page="118" line="2" >
@@ -74002,7 +74002,11 @@ Brief Nr. 567
 </marginal>
 
 <marginal letter="567" page="118" line="4" sort="2" >
-<bzg>2 Aug. u 17 Sept</bzg> nicht überliefert
+<bzg>2 Aug.</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="567" page="118" line="4" sort="3" >
+<bzg>17 Sept</bzg> <intlink letter="564" page="109" line="18" linktext="false">HKB 564</intlink>
 </marginal>
 
 <marginal letter="567" page="118" line="5" >
@@ -74210,7 +74214,7 @@ Brief Nr. 567
 </marginal>
 
 <marginal letter="567" page="122" line="16" >
-<bzg>Operum omnium</bzg> nach den mit auf Initiative von Herder lose bestehenden Plänen für eine <link ref="hamann" subref="hamann-metakritische-wannchen" linktext="false">Gesamtausgabe von Hamann-Schriften</link>
+<bzg>Operum omnium</bzg> nach den mit auf Initiative von Herder lose bestehenden Plänen für eine <link ref="hamann" subref="hamann-wannchen" linktext="false">Sammlung von Hamann-Schriften</link>
 </marginal>
 
 <marginal letter="567" page="122" line="21" sort="1" >
@@ -74539,8 +74543,116 @@ Brief Nr. 569
 <bzg>Hartk. u Arend in Petersb. nebst einem Konxompax</bzg> <link ref="hartknoch" linktext="true" />, <link ref="arndt-cg" linktext="true" /> und ein <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax-</titel></link>Exemplar für ihn, vgl. <intlink letter="567" page="120" line="7" linktext="true" />
 </marginal>
 
+<marginal letter="569" page="126" line="14" sort="1" >
+<bzg>Herrn</bzg> <link ref="kenkel" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="14" sort="2" >
+<bzg>Bruinvisch</bzg> <link ref="bruinvisch-g" linktext="true" />
+</marginal>
+ 
 <marginal letter="569" page="126" line="15" >
 <bzg>meinen armen Bruder</bzg> <link ref="hamann-jc" linktext="true" />, vgl. <intlink letter="567" page="121" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="17" >
+<bzg>Brief von Hartkn.</bzg> von <link ref="harknoch" linktext="true" />, nicht überliefert; wohl vom 14. Oktober 1779, vgl. <intlink letter="567" page="117" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="18" >
+<bzg>Fragmente</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, wohl im Zusammenhang der angedachten <link ref="hamann" subref="hamann-wannchen" linktext="false">Sammlung von Hamann-Schriften</link>, vgl. <intlink letter="561" page="95" line="35" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="19" >
+<bzg>Briefe noch Beyl.</bzg> weder Briefe von Hamann noch Beilagen von Herder, vgl. <intlink letter="557" page="118" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="20" >
+<bzg>Lenzens kleine Aufsätze</bzg> <link ref="lenz" subref="lenz-aufsazze" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="23" >
+<bzg>Vater</bzg> <link ref="lenz-cd" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="26" >
+<bzg>diesen Mann</bzg> <link ref="lenz" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="27" >
+<bzg>Schloßers Behandl.</bzg> <link ref="schlosser" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="30" >
+<bzg>Dom. XXII.</bzg> 22. Sontag nach Trinitatis, 31. Oktober 1779
+</marginal>
+
+<marginal letter="569" page="126" line="31" >
+<bzg>Verf&#x202F;…</bzg> <link ref="cless" subref="cless-gesez" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="33" sort="1" >
+<bzg>Walchs neue Schrift</bzg> <link ref="walch" subref="walch-untersuchung" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="33" sort="2" >
+<bzg>Streit&#x202F;…</bzg> der <link ref="lessing" subref="lessing-geschichtelitteratur" linktext="false"></link>Fragmentenstreit zwischen <link ref="lessing" linktext="false">Lessing</link> und <link ref="goze" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="35" sort="1" >
+<bzg>Buchläden</bzg> der <link ref="kanter" linktext="false">Kantersche</link> und der <link ref="hartung-gl" linktext="false">Hartungsche</link> Buchladen
+</marginal>
+
+<marginal letter="569" page="126" line="35" sort="2" >
+<bzg>Bahrdt</bzg> <link ref="bahrdt" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="36" >
+<bzg>Kypke</bzg> <link ref="kypke" linktext="true" />, vgl. <intlink letter="568" page="124" line="8" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="126" line="37" >
+<bzg>Oberhofpr. Schultz</bzg> <link ref="schultz-je" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="127" line="1" >
+<bzg>Tochter</bzg> <link ref="schultz-f" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="127" line="3" >
+<bzg>verunglimpfenden Aufsatz&#x202F;…</bzg> In dem lutherisch-orthodox ausgerichteten Beitrag <titel>Itziger Zustand der Theologie auf der Universität Königsberg</titel> (anonym eingesendet), in: <link ref="schneider-cw" subref="schneider-acta" linktext="true" />, Bd.&#x202F;5, Tl.&#x202F;37, S.&#x202F;696–707 befindet sich zuletzt eine abschätzige Bewertung von <link ref="schultz-je" linktext="true" />: Er wird als ungelehrter Anfänger dargestellt; dass „er ein unansehnliches Exterieur, und schlechte Kantzelgabe hat“, werde ihm jedoch kein Kluger „zum Vorwurf machen“ (S.&#x202F;706).
+</marginal>
+
+<marginal letter="569" page="127" line="8" >
+<bzg>Verfaßer</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="569" page="127" line="9" >
+<bzg>W.</bzg> Weimar
+</marginal>
+
+<marginal letter="569" page="127" line="15" >
+<bzg>Michaelis Einl.</bzg> <link ref="michaelis" subref="michaelis-einleitung" linktext="true" /> (3., erweiterte Aufl. 1777)
+</marginal>
+
+<marginal letter="569" page="127" line="16" >
+<bzg>neuesten Ausleger</bzg> Herder, in <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha</titel></link>
+</marginal>
+
+<marginal letter="569" page="127" line="17" sort="1" >
+<bzg>pp. 1323. 1347. 1348.</bzg> <link ref="michaelis" subref="michaelis-einleitung" linktext="true" />, 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1323 u. 1347f. (meist zu sprachlich-poetischen Aspekten der Johannes-Offenbarung)
+</marginal>
+
+<marginal letter="569" page="127" line="17" sort="2" >
+<bzg>Griesbachs N. T.</bzg> <link ref="griesbach" subref="griesbach-testamentum" linktext="true" />, Bd. 2 (1775) mit der Johannes-Offenbarung
+</marginal>
+
+<marginal letter="569" page="127" line="19" >
+<bzg>Hyppolitum</bzg> ?!? – <link ref="michaelis" subref="michaelis-einleitung" linktext="true" />, 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1297f.
+</marginal>
+
+<marginal letter="569" page="127" line="20" >
+<bzg>Melito</bzg> ?!? – <link ref="michaelis" subref="michaelis-einleitung" linktext="true" />, 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1289f.
 </marginal>
 
 </marginalien>
