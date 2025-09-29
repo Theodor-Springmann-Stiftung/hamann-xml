@@ -50325,8 +50325,8 @@ Brief Nr. 408
 <bzg>Wirth des Miethmanns</bzg> <link ref="kanter" linktext="true" /> als Hauswirt <link ref="kant" linktext="true" />, vgl. auch Herders handschriftliche Notiz (siehe Seitenende)
 </marginal>
 
- <marginal letter="408" page="98" line="3">
- <bzg>Männin</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,23</link>
+ <marginal letter="408" page="98" line="23">
+ <bzg>Männin</bzg> <link ref="herder-c" linktext="true" />, nach <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,23</link>
  </marginal>
 
 <marginal letter="408" page="98" line="25">
@@ -50748,7 +50748,7 @@ Brief Nr. 411
 </marginal>
 
 <marginal letter="411" page="105" line="17">
-<bzg>Männin</bzg> <link ref="herder-c" linktext="true" />
+<bzg>Männin</bzg> <link ref="herder-c" linktext="true" />, nach <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,23</link>
 </marginal>
 
 <marginal letter="411" page="105" line="19">
@@ -54151,6 +54151,10 @@ Brief Nr. 437
 
 <marginal letter="437" page="161" line="24" sort="2">
 <bzg>Hornungs</bzg> Februars
+</marginal>
+
+<marginal letter="437" page="161" line="28">
+<bzg>Männin</bzg> <link ref="at-mo1" subref="at-mo1-2" linktext="false">1 Mo 2,23</link>
 </marginal>
 
 <marginal letter="437" page="161" line="29">
@@ -74643,16 +74647,153 @@ Brief Nr. 569
 <bzg>pp. 1323. 1347. 1348.</bzg> <link ref="michaelis" subref="michaelis-einleitung" linktext="true" />, 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1323 u. 1347f. (meist zu sprachlich-poetischen Aspekten der Johannes-Offenbarung)
 </marginal>
 
-<marginal letter="569" page="127" line="17" sort="2" >
+<marginal letter="569" page="127" line="17" sort="2" > 
 <bzg>Griesbachs N. T.</bzg> <link ref="griesbach" subref="griesbach-testamentum" linktext="true" />, Bd. 2 (1775) mit der Johannes-Offenbarung
 </marginal>
 
 <marginal letter="569" page="127" line="19" >
-<bzg>Hyppolitum</bzg> ?!? – <link ref="michaelis" subref="michaelis-einleitung" linktext="true" />, 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1297f.
+<bzg>Hyppolitum</bzg> <link ref="hippolyt" linktext="true" />; <link ref="michaelis" subref="michaelis-einleitung" linktext="true" />, 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1297f.
 </marginal>
 
-<marginal letter="569" page="127" line="20" >
-<bzg>Melito</bzg> ?!? – <link ref="michaelis" subref="michaelis-einleitung" linktext="true" />, 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1289f.
+<marginal letter="569" page="127" line="20" sort="1" >
+<bzg>Melito</bzg> <link ref="melito" linktext="true" /> – <link ref="michaelis" subref="michaelis-einleitung" linktext="true" />, 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1289f.
+</marginal>
+
+<marginal letter="569" page="127" line="20" sort="2" >
+<bzg>letzte der Erste</bzg> <link ref="nt-mt" subref="nt-mt19" linktext="false">Mt 19,30</link>
+</marginal>
+
+<marginal letter="569" page="127" line="21" > 
+<bzg>Sinn der Dedication&#x202F;…</bzg> nicht ermittelt?!? Weder Herders <titel>Maran Atha</titel> noch Michaelis’ <titel>Einleitung in die göttlichen Schriften</titel> haben eine Widmung oder ausführliche Vorrede. – Mglw. lässt Hamann den Plan für einen kurzen Text in der Art einer der drei ‚Dedicationen‘ für die <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> (vgl. <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;314–327) anklingen. Im Spiel der Identifikationen mit frühchristlichen Schriftstellern wäre Herder demnach <link ref="melito" linktext="false">Melito</link> (<intlink letter="569" page="128" line="11" linktext="false">s.u.</intlink>), Hamann als <link ref="hippolyt" linktext="false">„St. Hippolyt“</link> der Verteidiger von Herders <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha-</titel></link>-Schrift und Cajus einer der publizistischen Feinde, die sich bald durch Rezensionen bemerkbar machen und „dergl. es kaum unter unserm respectiven
+Publico fehlen dörfte.“
+</marginal>
+
+<marginal letter="569" page="127" line="23" >
+<bzg>Capitel gegen Cajus</bzg> Hippolyts Buch <titel>Von dem Evangelio und der Offenbahrung Johannis</titel> enthielt unter dem Titel <titel>Die Vertheidigung der Offenbahrung</titel> ein Kapitel gegen einen Cajus. Dieser dürfte ein römischer Presbyter gewesen sein, der die Offenbarung verworfen und sie dem Cerinthus zugeschrieben hat, nach <link ref="eusebios" subref="eusebios-historia" linktext="true" /> III,c. 28 u. VII,25.?!? (Eusebius-Zitat noch verifizieren?!?)
+</marginal>
+
+<marginal letter="569" page="127" line="24" >
+<bzg>lieben Schweizer Propheten&#x202F;…</bzg> <link ref="lavater" linktext="true" /> und <link ref="hess" linktext="true" />, <intlink letter="569" page="125" line="21" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="569" page="127" line="28" >
+<bzg>Titel im Meßkatalog</bzg> <intlink letter="569" page="124" line="25" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="569" page="127" line="31" >
+<bzg>Urkunde</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="127" line="32" >
+<bzg>Liedern der Liebe</bzg> <link ref="herder" subref="herder-lieder-liebe" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="127" line="34" >
+<bzg>Waßergalle</bzg> Regenbogen
+</marginal>
+
+<marginal letter="569" page="127" line="35" >
+<bzg>Mühle auf dem Butterberge</bzg> in der Nähe der Wallanlage in Steindamm (später Sitz der Sternwarte)
+</marginal>
+
+<marginal letter="569" page="128" line="2" >
+<bzg>todtes Tagewerk</bzg> als Packhofverwalter am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Königsberger Licent</link>
+</marginal>
+
+<marginal letter="569" page="128" line="4" >
+<bzg>Billets-doux über die Liebe des Vaterlandes</bzg> <link ref="friedrich-II" subref="friedrich-briefe-vaterland" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="6" >
+<bzg>Morungen</bzg> aus <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> von <link ref="herder-cd-g" linktext="false">Herders Schwester</link>
+</marginal>
+
+<marginal letter="569" page="128" line="7" >
+<bzg>Vergleichung</bzg> der Übersetzung der Johannes-Offenbarung in <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha</titel></link> mit dem <link ref="griesbach" subref="griesbach-testamentum" linktext="false"><titel>Novum Testamentum Graece</titel></link>, <intlink letter="569" page="127" line="17" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="569" page="128" line="9" >
+<bzg>Simonis Judä</bzg> Gedenktag der Apostel Simon und Judas, 28. Oktober
+</marginal>
+
+<marginal letter="569" page="128" line="11" sort="1" >
+<bzg>Melito</bzg> nach <link ref="melito" linktext="true" />, <intlink letter="569" page="127" line="21" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="569" page="128" line="11" sort="2" >
+<bzg>Sieben Engeln</bzg> nach <link ref="nt-off" subref="nt-off1" linktext="false">Offb 1,16 u. 20</link> bzw. Herders Kindern, vgl. <intlink letter="562" page="101" line="15" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="13" >
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="14" >
+<bzg>Freunde Lilienthal</bzg> <link ref="lilienthal-eg" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="15" >
+<bzg>Krata repoa</bzg> <link ref="koeppen" subref="koeppen-crata-repoa" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="16" >
+<bzg>Köppen</bzg> <link ref="koeppen" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="16" >
+<bzg>Kraus</bzg> <link ref="kraus" linktext="true" />, vgl. <intlink letter="551" page="73" line="33" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="19" sort="1" >
+<bzg>Gräfin Kayserlingk</bzg> <link ref="keyserling-c" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="19" sort="2" >
+<bzg>Plastick</bzg> <link ref="herder" subref="herder-plastik" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="20" >
+<bzg>Lieder der Liebe wider heimzuholen</bzg> <link ref="herder" subref="herder-lieder-liebe" linktext="true" />, vgl. <intlink letter="565" page="113" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="23" sort="1" >
+<bzg>Männin</bzg> <link ref="herder-c" linktext="true" />, vgl. <intlink letter="411" page="105" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="23" sort="2" >
+<bzg>heiliges Viereck</bzg> Herders vier Söhne, vgl. <intlink letter="562" page="101" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="24" >
+<bzg>wie ein blinder Jakob</bzg> <link ref="at-mo1" subref="at-mo1-48" linktext="false">1 Mo 48,10</link>
+</marginal>
+
+<marginal letter="569" page="128" line="26" >
+<bzg>Aufsatzes in den Actis Ecclesiasticis</bzg> <titel>Itziger Zustand der Theologie auf der Universität Königsberg</titel> (anonym eingesendet), in: <link ref="schneider-cw" subref="schneider-acta" linktext="true" />, Bd.&#x202F;5, Tl.&#x202F;37, S.&#x202F;696–707, <intlink letter="569" page="127" line="3" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="569" page="128" line="27" >
+<bzg>Liebe, Leben, Licht</bzg> die Leitmotive des Johannes-Evangeliums, Herders Petschaft mit den Zeichen A u. V.?!?
+</marginal>
+
+<marginal letter="569" page="128" line="29" sort="1" >
+<bzg>Pathchen</bzg> <link ref="hamann-ms" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="29" sort="2" >
+<bzg>Platons Eutyphron</bzg> <link ref="platon" subref="plat-euthyphr" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="29" sort="3" >
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="569" page="128" line="30" >
+<bzg>Arithmetick im Ernesti</bzg> Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 1750. Biga 134/60. IV,56; 117; 128(Arithmetik)?!?
+</marginal>
+
+<marginal letter="569" page="128" line="31" >
+<bzg>Engel zu Sardis</bzg> <link ref="nt-off" subref="nt-off3" linktext="false">Offb 3,11</link>
 </marginal>
 
 </marginalien>

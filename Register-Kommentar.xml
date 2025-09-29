@@ -4932,11 +4932,16 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 
 <kommentar id="eusebios" type="neuzeit">
 <lemma>Eusebios von Caesarea</lemma>
-<eintrag>um 265–339. Griech. Kirchenvater, um 313 Bischof von Caesarea.</eintrag>
+<eintrag>Um 265–339. Kirchenvater und Begründer der Kirchengeschichte, um 313 Bischof von Caesarea.</eintrag>
 <subsection id="eusebios-demonstratio" type="neuzeit" sort="10">
 <lemma>Eusebios, <titel>Demonstratio Evangelica</titel></lemma>
 <eintrag>
 <titel>Demonstratio Evangelica gr. et lat. ex ed. Valisii</titel> (Köln 1688). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 3/46: „Eusebii Pamphili Demonstratio Evangelica gr. &amp; lat. ex ed. Valesii, Col. 688“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-369932">ULB Halle: Ib 924, 2°</wwwlink>.</eintrag>
+</subsection>
+<subsection id="eusebios-historia" type="neuzeit" sort="10">
+<lemma>Eus. <titel>hist. eccl.</titel></lemma>
+<eintrag>
+<titel>Historia Ecclesiastica</titel>, griech. Ἐκκλησιαστικὴ ἱστορία [Biga&#x202F;1/10: „Eusebii Pamphili Historia Ecclesiastica gr. et lat. ex ed. Valesii, Mog. 679“].</eintrag>
 </subsection>
 </kommentar>
 
@@ -8451,6 +8456,11 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 </subsection>
 </kommentar>
 
+<kommentar id="hippolyt" type="neuzeit">
+<lemma>Hippolyt von Rom</lemma>
+<eintrag>Vmtl. um 170 bis 235 n.&#x202F;Chr. Frühchristlicher Kirchenschriftsteller in Rom.</eintrag>
+</kommentar>
+
 <kommentar id="hirzel" type="neuzeit">
 <lemma>Johann Caspar Hirzel</lemma>
 <eintrag>1725–1803. Arzt, Ratsherr in Zürich, Politiker und Ökonom, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz32614.html#adbcontent">mmm: Hirzel, Hans Caspar, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;485–488</wwwlink>.</eintrag>
@@ -9639,7 +9649,7 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 
 <kommentar id="koeppen" type="neuzeit">
 <lemma>Carl Friedrich Köppen</lemma>
-<eintrag>1737–1798. Preußischer Kriegsrat und Gründer des freimaurerischen Ordens der Afrikanischen Bauherren.</eintrag>
+<eintrag>1737–1798. Preußischer Kriegsrat in Berlin und Gründer des freimaurerischen Ordens der Afrikanischen Bauherren.</eintrag>
 <subsection id="koeppen-art-royal" type="neuzeit" sort="10">
 <lemma>Köppen, <titel>l’Art Royal du chevalier de Rose-Croix</titel></lemma>
 <eintrag>
@@ -10231,7 +10241,7 @@ Zur Biographie vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Johan
 
 <kommentar id="kreutzfeld" type="neuzeit">
 <lemma>Johann Gottlieb Kreutzfeld</lemma>
-<eintrag>1745–1784. Freund Hamanns, seit 1776 Professor der Poesie an der Universität Königsberg, siehe <wwwlink address="http://d-nb.info/gnd/129926590">GND</wwwlink> und <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;222–232</wwwlink>. </eintrag>
+<eintrag>1745–1784. Freund Hamanns, seit 1776 Professor der Poesie an der Universität Königsberg, siehe <wwwlink address="http://d-nb.info/gnd/129926590">GND</wwwlink> und <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;222–232</wwwlink>.</eintrag>
 <subsection id="kreutzfeld-blumenlese" type="neuzeit" sort="10">
 <lemma>Kreutzfeld, <titel>Preußische Blumenlese</titel></lemma>
 <eintrag>
@@ -11088,6 +11098,12 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 <kommentar id="lilienthal-js" type="neuzeit">
 <lemma>Johann Samuel Lilienthal</lemma>
 <eintrag>1724–1793. Kriegs- und Domänenrat in Königsberg, Bruder von <link ref="lilienthal-th" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="lilienthal-eg" type="neuzeit">
+<lemma>Ernst Gottlieb Lilienthal</lemma>
+<eintrag>1745–1807. Seegerichts- Assessor in Memel, vgl. <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;318</wwwlink>..
 </eintrag>
 </kommentar>
 
@@ -12394,6 +12410,13 @@ Aus der Ankündigung: „Les auteurs se sont imposé la loi de ne parler que de 
 </eintrag>
 </kommentar>
 
+<kommentar id="melito" type="neuzeit">
+<lemma>Melito von Sardes</lemma>
+<eintrag>
+Gest. um 180 n.&#x202F;Chr. Bischof von Sardes bei Smyrna und frühchristlicher Apologet.
+</eintrag>
+</kommentar>
+
 <kommentar id="mendelssohn" type="neuzeit">
 <lemma>Moses Mendelssohn</lemma>
 <eintrag>1729–1786. <wwwlink address="https://www.deutsche-biographie.de/pnd118580744.html#adbcontent">Muncker, Franz: Mendelssohn, Moses, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;316–324</wwwlink>.<line type="break" />
@@ -12674,7 +12697,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 <subsection id="michaelis-einleitung" type="neuzeit" sort="5">
 <lemma>Michaelis, <titel>Einleitung in die göttlichen Schriften</titel></lemma>
-<eintrag><titel>Einleitung in die göttlichen Schriften des Neuen Bundes</titel> (zuerst Göttingen: Vandenhoek 1750; 3. Aufl. in 2 Bde. Göttingen 1777). Digitalisat 3. Aufl. (Bd.&#x202F;2): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10484306-5">BSB München: 4 Exeg. 580-2</wwwlink>.
+<eintrag><titel>Einleitung in die göttlichen Schriften des Neuen Bundes</titel> (zuerst Göttingen: Vandenhoek 1750; 3. Aufl. in 2 Bde. Göttingen 1777). Digitalisat 1. Aufl. 1750: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN684907909">SUB Göttingen</wwwlink>. – 3. Aufl. (Bd.&#x202F;2): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10484306-5">BSB München: 4 Exeg. 580-2</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="michaelis-salomon" type="neuzeit" sort="10">
@@ -12738,7 +12761,6 @@ Zweite vermehrte Ausgabe 1775 in 6 Bde. [<link ref="hamann" subref="hamann-biga"
 <eintrag><titel>Erklärung der Begräbnis- und Auferstehungsgeschichte Christi nach den vier Evangelisten, mit Rücksicht auf die in den Fragmenten gemachten Einwürfe und deren Beantwortung</titel> (Halle 1783).
 </eintrag>
 </subsection>
-.
 </kommentar>
 
 <kommentar id="milton" type="neuzeit">
@@ -14399,6 +14421,10 @@ nicht ermittelt: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</
 <subsection id="plat-leg" type="neuzeit" sort="80">
 <lemma>Plat. <titel>leg.</titel></lemma>
 <eintrag>Nomoi, leges, griech. Νόµοι</eintrag>
+</subsection>
+<subsection id="plat-euthyphr" type="neuzeit" sort="90">
+<lemma>Plat. <titel>Euthyphr.</titel></lemma>
+<eintrag>Euthyphron, griech. Εὐθύφρων</eintrag>
 </subsection>
 <subsection id="plat-alkibiades" type="neuzeit" sort="100">
 <lemma><titel>Platos lehrreiches Gespräch</titel></lemma>
