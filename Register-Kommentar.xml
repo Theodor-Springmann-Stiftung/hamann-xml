@@ -389,7 +389,7 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 
 <kommentar id="andersen" type="neuzeit">
 <lemma>Adam Anderson</lemma>
-<eintrag>1692/93–1765. Schottischer Ökonom, siehe <wwwlink address="https://en.m.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Adam_Anderson">Encyclopædia Britannica</wwwlink>.</eintrag>
+<eintrag>1692–1765. Schottischer Ökonom, siehe <wwwlink address="https://en.m.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Adam_Anderson">Encyclopædia Britannica</wwwlink>.</eintrag>
 <subsection id="andersen-handel" type="neuzeit">
 <lemma>Andersen, <titel>Geschichte des Handels</titel></lemma>
 <eintrag>
@@ -3296,7 +3296,7 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 <kommentar id="claudius" type="neuzeit">
 <lemma>Matthias Claudius</lemma>
 <eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der <link ref="hamb-adresscomtoir" linktext="false">Hamburgische Adreß-Comtoir-Nachrichten</link>, 1771–1775 Redakteur des <titel>Wandsbecker Bothen</titel>, 1776–1777 Mitglied der Oberlandkommission in Darmstadt, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink><line type="break" />
-Übersetzungen etwa von <link ref="terrasson" subref="terrasson-sethos" linktext="true" /> und <link ref="" subref="" linktext="true" /><line type="break" />
+Übersetzungen etwa von <link ref="terrasson" subref="terrasson-sethos" linktext="true" /> und <link ref="ramsey" subref="ramsey-cyrus" linktext="true" /><line type="break" />
 Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>, hg. von Hans Jessen (Berlin 1938).</eintrag>
 <subsection id="claudius-bothe" type="neuzeit" sort="10">
 <lemma>Claudius, <titel>Der Wandsbecker Bothe</titel></lemma>
@@ -12637,12 +12637,6 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Michaelismesse des 1774 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1774). 
 </eintrag>
 </subsection>
-<subsection id="messkatalog-michaelis1774" type="neuzeit" sort="80">
-<lemma>Messkatalog für Michaelis 1774</lemma>
-<eintrag>
-<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Michaelismesse des 1774 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1774). 
-</eintrag>
-</subsection>
 <subsection id="messkatalog-michaelis1779" type="neuzeit" sort="90">
 <lemma>Messkatalog für Michaelis 1779</lemma>
 <eintrag>
@@ -16199,11 +16193,6 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <eintrag>1737–1796. 1762 Prof. der Altertümer in Basel, Hofrat in Karlsruhe, siehe <wwwlink address="https://d-nb.info/gnd/117722219">GND</wwwlink>.</eintrag>
 </kommentar>
 
-<kommentar id="schmidt-fs" type="neuzeit">
-<lemma>Friedrich Samuel Schmidt</lemma>
-<eintrag>1737–1796. 1762 Prof. der Altertümer in Basel, Hofrat in Karlsruhe, siehe <wwwlink address="https://d-nb.info/gnd/117722219">GND</wwwlink>.</eintrag>
-</kommentar>
-
 <kommentar id="schneider-cw" type="neuzeit">
 <lemma>Christian Wilhelm Schneider</lemma>
 <eintrag>1734–1797. Kirchenhistoriker in Weimar, 1776 Oberkonsistorialrat, 1782 Generalsuperintendent in Eisenach, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz78794.html#adbcontent">Frank, G.: Schneider, Christian Wilhelm, in: <titel>ADB</titel>&#x202F;32 (1891), S.&#x202F;102f.</wwwlink></eintrag>
@@ -16212,6 +16201,11 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <eintrag>
 <titel>Acta historico-ecclesiastica nostri temporis. Oder gesammlete Nachrichten und Urkunden zu der Kirchengeschichte unsrer Zeit</titel> (13 Bde. bzw. 100 Tle., Weimar: Hoffmann 1775–1790). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10022885-9">BSB München: H.eccl. 15-5</wwwlink>. Vgl. <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1010770144">ZDB</wwwlink></eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="schon" type="neuzeit">
+<lemma>Christoph Schön</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Studiengenosse Hamanns, später Pfarrer in Liebstadt und Reichertswalde.</eintrag>
 </kommentar>
 
 <kommentar id="schoneich" type="neuzeit">
