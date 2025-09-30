@@ -69843,7 +69843,7 @@ Brief Nr. 545
 </marginal>
 
 <marginal letter="545" page="56" line="36" sort="2">
-<bzg>Ernesti Initia</bzg> <link ref="ernesti" subref="ernesti-rhetorica" linktext="true" />
+<bzg>Ernesti Initia</bzg> <link ref="ernesti" subref="ernesti-doctrinae" linktext="true" />
 </marginal>
 
 <marginal letter="545" page="56" line="37">
@@ -73448,7 +73448,7 @@ Brief Nr. 565
 </marginal>
 
 <marginal letter="565" page="110" line="29" sort="1" >
-<bzg>zweyte Einl.</bzg> Herder an <link ref="hartknoch" linktext="false">Hartknoch</link>, 29.8.1779 (<link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;101), vgl. <intlink letter="564" page="109" line="20" linktext="true" />
+<bzg>zweyte Einl.</bzg> Herder an <link ref="hartknoch" linktext="false">Hartknoch</link>, 29.8.1779 (<link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;101), vgl. <intlink letter="564" page="109" line="20" linktext="true" /> 
 </marginal>
 
 <marginal letter="565" page="110" line="29" sort="2" >
@@ -73955,7 +73955,7 @@ Brief Nr. 566
 </marginal>
 
 <marginal letter="566" page="117" line="11" sort="2" >
-<bzg>Ernesti Initiis</bzg> <link ref="ernesti" subref="ernesti-rhetorica" linktext="true" />
+<bzg>Ernesti Initiis</bzg> <link ref="ernesti" subref="ernesti-doctrinae" linktext="true" />
 </marginal>
 
 <marginal letter="566" page="117" line="12" >
@@ -74182,7 +74182,7 @@ Brief Nr. 567
 </marginal>
 
 <marginal letter="567" page="121" line="35" >
-<bzg>Prof. Reusch</bzg> <link ref="reusch" linktext="true" /> 
+<bzg>Prof. Reusch</bzg> <link ref="reusch" linktext="true" />
 </marginal>
 
 <marginal letter="567" page="122" line="1" sort="1" >
@@ -74376,7 +74376,7 @@ Brief Nr. 568
 <bzg>Glave</bzg> <link ref="glave" linktext="true" />
 </marginal>
 
-<marginal letter="568" page="124" line="14" >
+<marginal letter="568" page="124" line="14" > 
 <bzg>Maran Atha</bzg> <link ref="herder" subref="herder-maran" linktext="true" />
 </marginal>
 
@@ -74773,7 +74773,7 @@ Publico fehlen dörfte.“
 </marginal>
 
 <marginal letter="569" page="128" line="27" >
-<bzg>Liebe, Leben, Licht</bzg> die Leitmotive des Johannes-Evangeliums, Herders Petschaft mit den Zeichen A u. V.?!?
+<bzg>Liebe, Leben, Licht</bzg> die Leitmotive des Johannes-Evangeliums, Herders Petschaft mit den Zeichen Α und Ω.?!? – Kombination von <link ref="nt-jo" subref="nt-jo1" linktext="false">Joh 1,4</link> und <link ref="nt-joh1" subref="nt-joh1-4" linktext="false">1 Joh 4,9</link> – lesen: Andres Straßberger, „Licht Liebe Leben“ – Johann Gottfried Herders Siegel, in: ZfK 130 (2019), S.176ff – Was hat es mit Herders Motto „Licht Liebe Leben“ auf sich (hat ja weitreichende kulturgeschichtliche Folgen bis Stalingrad) und was ist der Zusammenhang mit HKB 569 (IV 128/27)?!? Wenn Herder das Siegel erst später machen lässt, kann man die These schon wagen, dass es da einen Einfluss gibt.
 </marginal>
 
 <marginal letter="569" page="128" line="29" sort="1" >
@@ -74789,11 +74789,194 @@ Publico fehlen dörfte.“
 </marginal>
 
 <marginal letter="569" page="128" line="30" >
-<bzg>Arithmetick im Ernesti</bzg> Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 1750. Biga 134/60. IV,56; 117; 128(Arithmetik)?!?
+<bzg>Arithmetick im Ernesti</bzg> Kapitel 1 in <link ref="ernesti" subref="ernesti-doctrinae" linktext="true" />
 </marginal>
 
 <marginal letter="569" page="128" line="31" >
 <bzg>Engel zu Sardis</bzg> <link ref="nt-off" subref="nt-off3" linktext="false">Offb 3,11</link>
+</marginal>
+
+
+Brief Nr. 570
+
+<marginal letter="570" page="129" line="3" >
+<bzg>Zuschrift</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="570" page="129" line="4" >
+<bzg>Weimarschen Einschluß</bzg> <link ref="herder" linktext="false">Herders</link> Brief an Hartknoch, 29.8.1779 (<link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;101), den <link ref="rappolt-cs" linktext="true" /> übergeben sollte, vgl. <intlink letter="565" page="110" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="129" line="6" >
+<bzg>Made Courtan</bzg> <link ref="courtan-sm" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="129" line="8" >
+<bzg>Prof. Kreutzfeld</bzg> 
+</marginal>
+
+<marginal letter="570" page="129" line="9" >
+<bzg>Mann</bzg> <link ref="rappolt-cs" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="129" line="14" >
+<bzg>Br.</bzg> <link ref="bruinvisch-g" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="129" line="15" sort="1" >
+<bzg>Konxompax</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, vgl. <intlink letter="567" page="120" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="129" line="15" sort="2" >
+<bzg>Brief des Vaters</bzg> wohl ein Ermahnungsbrief von <link ref="berens-c" linktext="true" /> an seinen Sohn <link ref="berens-ac" linktext="true" /> in Königsberg
+</marginal>
+
+<marginal letter="570" page="129" line="24" >
+<bzg>Patron</bzg> <link ref="kenkel" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="129" line="27" >
+<bzg>Briefen für Sie u Arndt</bzg> an Hartknoch vom 2. August 1779 (vgl. <intlink letter="567" page="118" line="4" linktext="true" />) und an <link ref="arndt-cg" linktext="true" /> (vgl. <intlink letter="560" page="93" line="17" linktext="true" />)
+</marginal>
+
+<marginal letter="570" page="129" line="28" >
+<bzg>Zufalls</bzg> Hamann meint wohl seine fixe Idee, den Ursprung des Wortes ‚Konxompax‘ im Tibetischen zu finden, vgl. <intlink letter="560" page="93" line="3" linktext="true" />.
+</marginal>
+
+<marginal letter="570" page="129" line="30" >
+<bzg>jungen Menschen</bzg> <link ref="berens-ca" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="130" line="2" >
+<bzg>Loßspannung aus seinem Joche</bzg> die Abhängigkeit von <link ref="kenkel" linktext="true" />, bei dem er wohl eine Art Kaufmannsausbildung machte
+</marginal>
+
+<marginal letter="570" page="130" line="4" >
+<bzg>George</bzg> <link ref="berens-g" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="130" line="6" >
+<bzg>Jothams Fabel</bzg> <link ref="at-ri" subref="at-ri9" linktext="false">Ri 9,7–15</link>, vgl. <intlink letter="567" page="121" line="28" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="130" line="12" >
+<bzg>Dornstrauch</bzg> <link ref="at-mo2" subref="at-mo2-3" linktext="false">2 Mo 3,2</link>
+</marginal>
+
+<marginal letter="570" page="130" line="15" >
+<bzg>Schwager Motherby</bzg> <link ref="motherby-r" linktext="false">Robert Motherbys</link> Frau <link ref="motherby-cc" linktext="false">Charlotte</link> war die Schwester von <link ref="harknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="130" line="18" >
+<bzg>Maran Atha</bzg> <link ref="herder" subref="herder-maran" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="130" line="19" >
+<bzg>Simonis Judä</bzg> Gedenktag der Apostel Simon und Judas, 28. Oktober, vgl. <intlink letter="568" page="124" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="130" line="22" >
+<bzg>merkwürdigen Freund&#x202F;…</bzg> <link ref="penzel" linktext="true" />, vgl. <intlink letter="567" page="122" line="27" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="130" line="26" >
+<bzg>Contubernali</bzg> Kamerad, eigentlich Zeltgenosse; wohl <link ref="kraus" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="130" line="27" >
+<bzg>Chronique scandaleuse</bzg> <link ref="penzel" subref="penzel-musketier" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="130" line="35" >
+<bzg>T‥</bzg> Teufel
+</marginal>
+
+<marginal letter="570" page="130" line="36" >
+<bzg>Satan im Engel des Lichts</bzg> <link ref="nt-kor2" subref="nt-kor2-11" linktext="false">2&#x202F;Kor 11,14</link>
+</marginal>
+
+<marginal letter="570" page="131" line="1" >
+<bzg>Konxompax&#x202F;…&#x202F;für Freund Arndt</bzg> Ein Exemplar des <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link> für <link ref="arndt-cg" linktext="true" />, <intlink letter="570" page="129" line="27" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="570" page="131" line="2" >
+<bzg>George&#x202F;…&#x202F;mitbringen wird</bzg> <link ref="berens-g" linktext="true" />, der offenbar einen Besuch in Königsberg plante, auf seiner Rückreise nach Riga
+</marginal>
+
+<marginal letter="570" page="131" line="4" >
+<bzg>Weimarschen Einschluß</bzg> <intlink letter="570" page="129" line="4" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="570" page="131" line="5" >
+<bzg>Morungen</bzg> aus <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> an <link ref="herder-cd-g" linktext="false">Herders Schwester</link>
+</marginal>
+
+<marginal letter="570" page="131" line="6" >
+<bzg>Antwort</bzg> von <link ref="herder-cd-g" linktext="true" />, nicht erhalten
+</marginal>
+
+<marginal letter="570" page="131" line="8" >
+<bzg>versoffenen Mann</bzg> <link ref="gueldenhorn-c" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="131" line="9" >
+<bzg>Bruder</bzg> <link ref="herder" linktext="true" />, vgl. <intlink letter="572" page="136" line="36" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="131" line="12" >
+<bzg>Dornenfeuer</bzg> <link ref="at-ri" subref="at-ri9" linktext="false">Ri 9,15</link>
+</marginal>
+
+<marginal letter="570" page="131" line="14" >
+<bzg>2 Cor. XI. 29</bzg> <link ref="nt-kor2" subref="nt-kor2-11" linktext="false">2&#x202F;Kor 11,29</link>
+</marginal>
+
+<marginal letter="570" page="131" line="15" >
+<bzg>Briefe&#x202F;…&#x202F;Lenz</bzg> <link ref="lenz" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="570" page="131" line="18" >
+<bzg>George</bzg> <link ref="berens-g" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="131" line="21" >
+<bzg>Einschluß an Me Cruger</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="570" page="131" line="22" >
+<bzg>Passerii</bzg> <link ref="passeri" subref="passeri-picturae" linktext="true" />, vgl. <intlink letter="567" page="121" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="131" line="26" >
+<bzg>Oberburggrafen</bzg> <link ref="rohd-jf" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="131" line="27" >
+<bzg>Prof. Reusch</bzg> <link ref="reusch" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="131" line="30" >
+<bzg>HE Bruinvisch</bzg> <link ref="bruinvisch-g" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="131" line="31" >
+<bzg>seiner&#x202F;…</bzg> <link ref="berens-ac" linktext="true" />, vgl. <intlink letter="567" page="121" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="132" line="5" >
+<bzg>Oncle George</bzg> <link ref="berens-g" linktext="true" />
+</marginal>
+
+<marginal letter="570" page="132" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="570" page="132" line="" >
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="570" page="132" line="" >
+<bzg></bzg> 
 </marginal>
 
 </marginalien>

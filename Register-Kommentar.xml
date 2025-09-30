@@ -4780,18 +4780,26 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 <lemma>Johann August Ernesti</lemma>
 <eintrag>1707–1781. Evangelischer Theologe, Professor der Theologie und Beredsamkeit in Leipzig, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd100804500.html#adbcontent">Eckstein, Friedrich August: Ernesti, Johann August, in: <titel>ADB</titel>&#x202F;6 (1877), S.&#x202F;235–241</wwwlink>.
 </eintrag>
-<subsection id="ernesti-rhetorica" type="neuzeit">
+<subsection id="ernesti-rhetorica" type="neuzeit" sort="10">
 <lemma>Ernesti, <titel>Initia Rhetorica</titel></lemma>
 <eintrag>
 <titel>Initia Rhetorica</titel> (Leipzig 1750). Digitalisat, Ausg. 1769: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3506039018">SLUB Dresden: Encycl.681</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="ernesti-archaeologia" type="neuzeit">
+<subsection id="ernesti-doctrinae" type="neuzeit" sort="20">
+<lemma>Ernesti, <titel>Initia doctrinae solidioris</titel></lemma>
+<eintrag>
+<titel>Initia doctrinae solidioris auctore Io. Augusto Ernesti</titel> (zuerst 1736, auch Leipzig 1750) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;134/60: „Ernesti Initia doctrinae solidioris, Lips. 750“]. Digitalisat Leipzig 1750: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10047566-3">BSB München: Ph.u. 640 q</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="ernesti-archaeologia" type="neuzeit" sort="30">
 <lemma>Ernesti, <titel>Archaeologia literaria</titel></lemma>
 <eintrag>
 <titel>Archaeologia literaria</titel> (Leipzig: Fritsch 1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;134/63: „J. A. Ernesti Archaeologia litteraria, Lips. 768“]. Digitalisat, Ausg. 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10026745-3">BSB München: H.eccl. 849#Beibd.2</wwwlink>.
 </eintrag>
 </subsection>
+Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 1750. Biga 134/60.
+
 </kommentar>
 
 <kommentar id="ernst-gotha" type="neuzeit">
@@ -13316,7 +13324,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Mosheims Erklärung des ersten und zweyten Briefes des heiligen Apostels Pauli an die Gemeinde zu Corinthus, von neuem übers. u. verb. v. C. E. v. Windheim</titel> (Flensburg 1762).
 </eintrag>
 </subsection>
+</kommentar>
 
+<kommentar id="motherby-cc" type="neuzeit">
+<lemma>Christine Charlotte Motherby</lemma>
+<eintrag>1742–1794. Geb. <link ref="toussaint-jc" linktext="false">Toussaint</link>, Ehefrau von <link ref="motherby-r" linktext="false"></link> und Schwester von <link ref="hartknoch-a" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="motherby-g" type="neuzeit">
@@ -13712,8 +13724,8 @@ Digitalisat der berüchtigten Nr. 45: <wwwlink address="https://books.google.de/
 O
 
 <kommentar id="oberburggraf-amt" type="neuzeit">
-<lemma>Königliches Oberburggräfliches Amt in Konigsberg</lemma>
-<eintrag>Königliches Amt auf dem Königsberger Schloss mit diversen Befugnissen, u.a. der Aufsicht über die Universität und einige Vormundschaftsangelegenheiten. Vorstehend war ab 1753 der Oberburggraf und geheime Etatsminister Jakob Friedrich von Rohd (1703–1784), in seiner Abwesenheit von 1763–1772 wurde er bis 1768 von <link ref="braxein" linktext="true" /> vertreten, darauf von Friedrich Gottfried von der Gröben (1726–1799). Die Titulatur des Oberburggrafen leitet sich aus dem alten Herzogtum Preußen ab, 1781/82 wurde es mit verschiedenen Kollegien in der <link ref="provinzialregierung" linktext="false">Ostpreußischen Regierung</link> zusammengefasst. Vgl. <link ref="baczko-stadtkönigsberg" linktext="false">Baczko: <titel>Versuch einer Geschichte und Beschreibung der Stadt Königsberg</titel></link>, IV, S.&#x202F;327f.</eintrag>
+<lemma>Königliches Oberburggräfliches Amt in Königsberg</lemma>
+<eintrag>Königliches Amt auf dem Königsberger Schloss mit diversen Befugnissen, u.a. der Aufsicht über die Universität und einige Vormundschaftsangelegenheiten. Vorstehend war ab 1753 der Oberburggraf und geheime Etatsminister <link ref="rohd-jf" linktext="true" />, in seiner Abwesenheit von 1763–1772 wurde er bis 1768 von <link ref="braxein" linktext="true" /> vertreten, darauf von Friedrich Gottfried von der Gröben (1726–1799). Die Titulatur des Oberburggrafen leitet sich aus dem alten Herzogtum Preußen ab, 1781/82 wurde es mit verschiedenen Kollegien in der <link ref="provinzialregierung" linktext="false">Ostpreußischen Regierung</link> zusammengefasst. Vgl. <link ref="baczko-stadtkönigsberg" linktext="false">Baczko: <titel>Versuch einer Geschichte und Beschreibung der Stadt Königsberg</titel></link>, IV, S.&#x202F;327f.</eintrag>
 </kommentar>
 
 <kommentar id="oesfeld" type="neuzeit">
@@ -14078,7 +14090,7 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 <subsection id="penzel-musketier" type="neuzeit">
 <lemma>Penzel, <titel>Der Musketier</titel></lemma>
 <eintrag>
-Autobiographisches Theaterstück, das Penzel im Winter 1777/78 auf Anregung von Madame Schuch verfasste; die Aufführung wurde verboten, mit dem Verkauf des Stücks an <link ref="kriting" linktext="false">Kriting</link> für 100 Taler finanzierte Penzel seine Flucht aus Königsberg; zwischendurch befand sich das Manuskript auch in Hamanns Verwahrung, es ist aber schon zu Lebzeiten Penzels verschollen, letzter Besitzer war Kriting. Zum Inhalt vgl. <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>, S.&#x202F;94–100, außerdem <link ref="gaj-b-1986" linktext="false">Gajek: Zwei unbekannte Briefe Johann Georg Hamanns</link>, 38–40
+Autobiographisches Theaterstück, das Penzel im Winter 1777/78 auf Anregung von Madame Schuch verfasste; die Aufführung wurde verboten, mit dem Verkauf des Stücks an <link ref="kriting" linktext="false">Kriting</link> für 100 Taler finanzierte Penzel seine Flucht aus Königsberg; Hamann las das Manuskript angeblich mit Abscheu (vgl. <intlink letter="570" page="130" line="28" linktext="true" />), es ist aber schon zu Lebzeiten Penzels verschollen, letzter Besitzer war Kriting. Zum Inhalt vgl. <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>, S.&#x202F;94–100, außerdem <link ref="gaj-b-1986" linktext="false">Gajek: Zwei unbekannte Briefe Johann Georg Hamanns</link>, 38–40
 </eintrag>
 </subsection>
 <subsection id="penzel-cassio-dio" type="neuzeit">
@@ -14862,7 +14874,7 @@ Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag<
 
 <kommentar id="pupillenkollegium" type="neuzeit">
 <lemma>Königliches Pupillenkollegium in Königsberg</lemma>
-<eintrag>Betraut mit der Aufsicht über Waisen- und Vormundschaftssachen von höher gestellten Personen, wurde 1781/1782 ein Teil der <link ref="provinzialregierung" linktext="false">ostpreußischen Provinzialregierung</link> in Königsberg. Ansässig auf dem königlichen Schloss, bestehend aus einem Etatsminister und sieben Räten. Bis 1768 von <link ref="braxein" linktext="true" /> geführt, danach von <link ref="schlieben" linktext="true" />.</eintrag>
+<eintrag>Betraut mit der Aufsicht über Waisen- und Vormundschaftssachen von höher gestellten Personen, wurde 1781/1782 ein Teil der <link ref="provinzialregierung" linktext="false">ostpreußischen Provinzialregierung</link> in Königsberg. Ansässig auf dem königlichen Schloss, bestehend aus einem Etatsminister und sieben Räten. Bis 1768 von <link ref="braxein" linktext="true" /> geführt, danach von <link ref="schlieben" linktext="true" />, ab 1772 wieder von <link ref="rohd-jf" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="putter" type="neuzeit">
@@ -15485,6 +15497,12 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <eintrag>
 <titel>Kern Alter und Neuer geistreicher Lieder. Als der Zweyte Theil zu dem vom seligen D. Rogall edirten Gesang-Buch herausgegeben zur Erweckung, Unterhaltung und Beförderung Christlicher Privat-Andacht. Mit einer Vorrede: von dem Nutzen der geistlichen Lieder in der Kirche Christi von Frantz Albert Schultz, der H. Schrift D. und Prof. O.</titel> (Königsberg: Hartung 1739).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="rohd-jf" type="neuzeit">
+<lemma>Jakob Friedrich von Rohd</lemma>
+<eintrag>1703–1784. Oberburggraf und geheimer Etatsminister, Vorsitzender des <link ref="oberburggraf-amt" linktext="false">Oberburggräflichen Amtes in Königsberg</link> und des <link ref="pupillenkollegium" linktext="false">Pupillenkollegiums</link>, 1763 bis 1772 abwesend (brandenburg-preußischer Gesandter in Wien).
+</eintrag>
 </kommentar>
 
 <kommentar id="rollin" type="neuzeit">
