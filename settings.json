@@ -8,7 +8,7 @@
 	"FeatureManagement": {
 		"AdminService": true,
 		"LocalPublishService": false,
-		"Syntax-Check": true,
+		"Syntax-Check": false,
 		"Notifications": true
 	},
 	"FileSizeLimit": 52428800,
