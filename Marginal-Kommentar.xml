@@ -75071,6 +75071,10 @@ Brief Nr. 570
 <bzg>Loge</bzg> <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>
 </marginal>
 
+<marginal letter="570" page="133" line="13" >
+<bzg>Rede auf Dach</bzg> <link ref="lauson" subref="lauson-dach" linktext="true" />
+</marginal>
+
 </marginalien>
 </data>
 </opus>
