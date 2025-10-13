@@ -47733,7 +47733,7 @@ nicht abgesandt, vgl. <intlink letter="393" page="56" line="31" linktext="false"
 </marginal>
 
 <marginal letter="392" page="54" line="19">
-<bzg>Hanssächsische Knittelverse</bzg> vgl. <intlink letter="391" page="53" line="23" linktext="true" />
+<bzg>Hanssächsische Knittelverse</bzg> in der Art von <link ref="sachs-hans" linktext="true" />, vgl. <intlink letter="391" page="53" line="23" linktext="true" />
 </marginal>
 
 <marginal letter="392" page="54" line="20">
@@ -47883,7 +47883,7 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="56" line="34">
-<bzg>Knittelverse à la Hans Sachsen</bzg> vgl. <intlink letter="391" page="53" line="23" linktext="true" />
+<bzg>Knittelverse à la Hans Sachsen</bzg> in der Art von <link ref="sachs-hans" linktext="true" />, vgl. <intlink letter="391" page="53" line="23" linktext="true" />
 </marginal>
 
 <marginal letter="393" page="56" line="35">
@@ -69975,7 +69975,7 @@ Brief Nr. 545
 </marginal>
 
 <marginal letter="545" page="58" line="13"> 
-<bzg>Mercurs&#x202F;…&#x202F;Buncle</bzg> <link ref="wieland" linktext="false">Wieland</link> ‚zergliederte‘ im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> (Juli 1778, S.&#x202F;75–90, August 1778 165–172, Oktober 1778 S. 55–75) die bei <link ref="nicolai" linktext="false">Nicolai</link> erscheinende Übersetzung des <link ref="amory" subref="amory-buncle" linktext="false"><titel>Life of John Buncle</titel></link>, worauf Nicolai wiederum in <link ref="nicolai" subref="nicolai-bunkel" linktext="true" /> reagierte und der Streit sich hinzog.
+<bzg>Mercurs&#x202F;…&#x202F;Buncle</bzg> <link ref="wieland" linktext="false">Wieland</link> ‚zergliederte‘ im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> (Juli 1778, S.&#x202F;75–90, August 1778 165–172, Oktober 1778 S. 55–75) die bei <link ref="nicolai" linktext="false">Nicolai</link> erscheinende Übersetzung des <link ref="amory" subref="amory-buncle" linktext="false"><titel>Life of John Buncle</titel></link>, worauf Nicolai wiederum in <link ref="nicolai" subref="nicolai-bunkel" linktext="true" /> reagierte und der Streit sich hinzog, vgl. <intlink letter="572" page="135" line="20" linktext="true" />.
 </marginal>
 
 <marginal letter="545" page="58" line="14">
@@ -75154,7 +75154,7 @@ Brief Nr. 572
 </marginal>
 
 <marginal letter="572" page="135" line="4" >
-<bzg>doppeltes Andenken&#x202F;…&#x202F;unbeantworteter Brief</bzg> <link ref="herder" linktext="false">Herder</link> sandte im August 1777 im Auftrag <link ref="dalberg" linktext="false">Dalbergs</link> ein Exemplar der <titel>Betrachtungen über das Universum</titel> an Hamann, vgl. <intlink letter="" page="372" line="35" linktext="true" /> (daher das „doppelte Andenken der Freundschaft“); der „unbeantwortete Brief“ geht wohl auf Hamanns ausgebliebenes Dankschreiben an Dalberg ein, das er auch später, soweit bekannt, nie verfasste.
+<bzg>doppeltes Andenken&#x202F;…&#x202F;unbeantworteter Brief</bzg> <link ref="herder" linktext="false">Herder</link> sandte im August 1777 im Auftrag <link ref="dalberg" linktext="false">Dalbergs</link> ein Exemplar der <titel>Betrachtungen über das Universum</titel> an Hamann, vgl. <intlink letter="509" page="372" line="35" linktext="true" /> (daher das „doppelte Andenken der Freundschaft“); der „unbeantwortete Brief“ geht wohl auf Hamanns ausgebliebenes Dankschreiben an Dalberg ein, das er auch später, soweit bekannt, nie verfasste.
 </marginal>
 
 <marginal letter="572" page="135" line="7" >
@@ -75162,31 +75162,39 @@ Brief Nr. 572
 </marginal>
 
 <marginal letter="572" page="135" line="11" >
-<bzg>Oehninger</bzg> ?!? vgl. <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;357f.
+<bzg>Oehninger</bzg> <link ref="oehninger" subref="oehninger-capuciner" linktext="true" />, vgl. <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;357f.
 </marginal>
 
 <marginal letter="572" page="135" line="12" >
-<bzg>Hamberger u Meusel</bzg> ?!?
+<bzg>Hamberger u Meusel</bzg> vgl. <link ref="hamberger" subref="hamberger-gelehrtesteutschland" linktext="true" />, 3. Aufl. 1776, S.&#x202F;817
 </marginal>
 
 <marginal letter="572" page="135" line="14" >
-<bzg>Buchladen</bzg> im <link ref="hartung-hl" linktext="false">Hartungschen Buchladen</link>
+<bzg>Buchladen</bzg> im <link ref="hartung-gl" linktext="false">Hartungschen Buchladen</link>
+</marginal>
+
+<marginal letter="572" page="135" line="17" >
+<bzg>Orden</bzg> wegen Hamanns Interesse durch die Überschrift des Abschnitts „Charfreytagsbuße eines Capuziners“ in der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link>
 </marginal>
 
 <marginal letter="572" page="135" line="19" >
-<bzg>Meß Neuigkeiten&#x202F;…</bzg> auf einer wüsten Insel verödeten Arrestanten: H. selbst, weil es für ihn keine Buchläden mit ansprechenden Neuigkeiten gibt, 140,28ff.?!?
+<bzg>Meß Neuigkeiten&#x202F;…</bzg> Bücher und literarische Neuigkeiten von der Herbstmesse für Hamann selbst, der durch seine angeschlagene Gesundheit, die Arbeit als Packhofverwalter am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Königsberger Licent</link> und dem Niedergang des <link ref="kanter" linktext="false">Kanterschen Buchladens</link> den Anschluss zu verlieren fürchtet, vgl. <intlink letter="573" page="140" line="28" linktext="true" />.
 </marginal>
 
 <marginal letter="572" page="135" line="20" >
-<bzg>dritten Anhange&#x202F;…</bzg> H. interessierte im ersten Stück des 37. Bandes den nach den Kurzen Nachrichten und den Vermischten Nachrichten (als 3. Anhang) die mit Nachricht überschriebene Auseinandersetzung Nicolais mit Wielands Kritik der Übersetzung von Th. Amory's Bunkel- Roman, die Nicolai eingeleitet hatte, 141,10ff.?!?
+<bzg>dritten Anhange&#x202F;…</bzg> Hamann meint wohl <link ref="nicolai" linktext="false">Nicolais</link> als „Nachricht“ am Ende des 1.&#x202F;St. von Bd.&#x202F;37 der <link ref="allgemeine-deutsche-bib" linktext="false"><titel>Allgemeinen deutschen Bibliothek</titel></link>, S. 295–315 publizierten Text gegen <link ref="wieland" linktext="false">Wieland</link>, die nächste polemische Runde im Streit um die Übersetzung des <link ref="amory" subref="amory-buncle" linktext="false"><titel>Life of John Buncle</titel></link>, vgl. <intlink letter="545" page="58" line="13" linktext="true" /> und <intlink letter="573" page="141" line="11" linktext="true" />. 
 </marginal>
 
 <marginal letter="572" page="135" line="25" >
-<bzg>Ende der Welt leichter zu Pferde</bzg> Auerswald befand sich laut <wwwlink address="https://books.google.de/books?id=UJdAAAAAcAAJ">Voigt: Beiträge zur Geschichte der Familie von Auerswald aus urkundlichen Quellen (Königsberg 1824), S.&#x202F;61</wwwlink>, nachdem er den Bayerischen Erbfolgekrieg mitmachte, danach wieder in Garnison in <wwwlink address="https://www.geonames.org/776337">Bartenstein</wwwlink>; den längeren Weg von Bartenstein zum Königsberger Licent, den der adlige und berittene Offizier eher zurücklegen kann als der kranke Hamann, meint dieser hier wohl mit ihrem jeweiligen ‚Ende der Welt‘. 
+<bzg>Ende der Welt leichter zu Pferde</bzg> Auerswald befand sich wohl in Garnison in <wwwlink address="https://www.geonames.org/776337">Bartenstein</wwwlink>, nachdem er den Bayerischen Erbfolgekrieg mitmachte (vgl. <wwwlink address="https://books.google.de/books?id=UJdAAAAAcAAJ">Voigt: <titel>Beiträge zur Geschichte der Familie von Auerswald</titel>, S.&#x202F;61</wwwlink>); den längeren Weg von Bartenstein zum Königsberger Licent, den der adlige und berittene Offizier eher zurücklegen kann als der kranke Hamann, meint dieser hier wohl mit ihrem jeweiligen ‚Ende der Welt‘.
 </marginal>
 
-<marginal letter="572" page="135" line="26" >
-<bzg>Hans Sachsen Gradu ad Parnassum</bzg> an die Werkstatt gefesselt, in einsam fortschreitender Produktivität?!?
+<marginal letter="572" page="135" line="26" sort="1">
+<bzg>Hans Sachsen Gradu ad Parnassum</bzg> nach <link ref="sachs-hans" linktext="true" />, ist das eine Anspielung?!? Henkel: »an die Werkstatt gefesselt, in einsam fortschreitender Produktivität« ist doch Quatsch
+</marginal>
+
+<marginal letter="572" page="135" line="26" sort="2">
+<bzg>Gradu ad Parnassum</bzg> Dt. schrittweise zum Parnass (Gipfel der Kunst / Meisterschaft)
 </marginal>
 
 </marginalien>
