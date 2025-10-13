@@ -302,10 +302,16 @@ def.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de
 <kommentar id="alembert" type="neuzeit">
 <lemma>Jean-Baptiste-le-Rond d’Alembert</lemma>
 <eintrag>1717–1783. Frz. Philosoph in Paris, Mitherausgeber der <link ref="encyclopedie" linktext="false"><titel>Encyclopédie</titel></link>, Mitglied der frz. Akademie. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;1, 1811), S.&#x202F;482–488.</eintrag>
-<subsection id="alembert-melanges" type="neuzeit">
+<subsection id="alembert-melanges" type="neuzeit" sort="10">
 <lemma>d’Alembert, <titel>Mélanges de littérature, d’histoire et de philosophie</titel></lemma>
 <eintrag>
 <titel>Mélanges de littérature, d’histoire et de philosophie</titel> (2&#xA0;Bde., Berlin 1753) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;107/170: „Melange de Literature, d’Histoire &amp; de Philosophie par Mr. d’Alembert, Tom. I–IV. Amst. 760“]. Digitalisat: Bd.&#x202F;1/2, 1753: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k15100650">Bibliothèque nationale de France, département Réserve des livres rares, Z-29460</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="alembert-eloge" type="neuzeit" sort="20">
+<lemma>d’Alembert, <titel>Éloge de Milord Maréchal</titel></lemma>
+<eintrag>
+<titel>Éloge de Milord Maréchal par Mr. d’Alembert</titel> (Paris 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10064214-6">BSB München: Biogr. 576 f</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -778,7 +784,7 @@ Dt. Übers. zitiert nach: Kurt Flasch u. Burkhard Mojsisch (Übers.), <titel>Aug
 
 <kommentar id="auerswald" type="neuzeit">
 <lemma>Hans Jakob v. Auerswald</lemma>
-<eintrag>1757–1833. Offizier, später Kammerpräsident und Kanzler, Erbherr auf dem Gut Faulen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz1549.html#ndbcontent">Gollwitzer, Heinz: Auerswald, Hans Jakob von, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;439</wwwlink>.</eintrag>
+<eintrag>1757–1833. In den 1770er Jahren verschiedentlich beim Militär und an der Albertina inskribiert, 1776 Offizier, später Kammerpräsident und Kanzler, Erbherr auf dem Gut Faulen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz1549.html#adbcontent">Usinger: Auerswald, Hans Jakob von, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;645–650</wwwlink> und <wwwlink address="https://books.google.de/books?id=UJdAAAAAcAAJ">Voigt: Beiträge zur Geschichte der Familie von Auerswald aus urkundlichen Quellen (Königsberg 1824), S.&#x202F;61</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="auserlesene-bibliothek" type="neuzeit">
