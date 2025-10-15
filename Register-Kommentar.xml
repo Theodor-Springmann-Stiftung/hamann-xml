@@ -3765,7 +3765,7 @@ Le chef d'Oeuvre d'un Inconnu. Poème heureusement découvert et mis au jour, av
 
 <kommentar id="crichton" type="neuzeit">
 <lemma>Wilhelm Crichton</lemma>
-<eintrag>1732–1805. 1762 Leiter des reformierten Gymnasiums in Halle, ab 1772 Hofprediger in Königsberg, entwarf für die Burgschule die Instruktion, die die Philosophie anstelle der Theologie als Leitbild setzte; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100095674.html#adbcontent">Schwarze: Cronegk, Crichton, Wilhelm, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;596f.</wwwlink> und <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135576-8">Dr. Wilhelm Crichton’s nachgelassene Schriften (Königsberg: Nicolovius 1806).</wwwlink>
+<eintrag>1732–1805. 1762 Leiter des reformierten Gymnasiums in Halle, ab 1772 Hofprediger in Königsberg, entwarf für die Burgschule die Instruktion, die die Philosophie anstelle der Theologie als Leitbild setzte; 1779 Redakteur des gelehrten Teils der <link ref="konigsbergsche-gelehrte-p-z" linktext="false"><titel>KGPZ</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100095674.html#adbcontent">Schwarze: Cronegk, Crichton, Wilhelm, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;596f.</wwwlink> und <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135576-8">Dr. Wilhelm Crichton’s nachgelassene Schriften (Königsberg: Nicolovius 1806).</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -4562,6 +4562,12 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 
 
 E
+
+<kommentar id="ebeling-cd" type="neuzeit">
+<lemma>Christoph Daniel Ebeling</lemma>
+<eintrag>1741–1817. Amerikanist und Gymnasialprofessor in Hamburg, Mitarbeiter der <link ref="hamb-neuezeitungen" linktext="false"><titel>Hamburgischen neuen Zeitung</titel></link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz12205.html#ndbcontent">Kayser, Werner: Ebeling, Christoph Daniel, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;219f</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="eberhard-ja" type="neuzeit">
 <lemma>Johann August Eberhard</lemma>
 <eintrag>1739–1809. Deutscher Philosoph und Theologe in Berlin; Freund von <link ref="nicolai" linktext="true" />. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118687468.html#adbcontent">Richter, A: Eberhard, Johann August, in: <titel>ADB</titel>&#x202F;5 (1959), S.&#x202F;569–571.</wwwlink></eintrag>
@@ -6193,7 +6199,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 
 <kommentar id="goertz" type="neuzeit">
 <lemma>Johann Eustachius Graf von Goertz</lemma>
-<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar; 1778 erfolgreicher Diplomat für Brandenburg-Preußen im Vorfeld des Bayerischen Erbfolgekriegs, daraufhin von <link ref="friedrich-II" linktext="false">Friedrich II.</link> zum Staatsminister ernannt und 1779–1785 zum preußischen Gesandten in St. Petersburg, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink></eintrag>
+<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar; 1778 erfolgreicher Diplomat für Brandenburg-Preußen im Vorfeld des Bayerischen Erbfolgekriegs, daraufhin von <link ref="friedrich-II" linktext="false">Friedrich II.</link> zum Staatsminister ernannt und 1779–1785 zum preußischen Gesandten in St. Petersburg; Besuchte Hamann 1779 mit den <link ref="keyserling-h" linktext="false">Keyserlings</link> in Königsberg; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink></eintrag>
 <subsection id="goertz-briefe" type="neuzeit" >
 <lemma>Goertz, <titel>Briefe eines PrintzenHofmeisters</titel></lemma>
 <eintrag>
@@ -9261,15 +9267,27 @@ Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/cb32801271b/dat
 </eintrag>
 </kommentar>
 
-journal littéraire dedié au roi: par une societé d’academiciens
 <kommentar id="josephus" type="neuzeit">
 <lemma>Flavius Josephus</lemma>
-<eintrag>37- nach 100, römisch-jüdischer Geschichtsschreiber.
+<eintrag>37 bis nach 100, römisch-jüdischer Geschichtsschreiber.
 </eintrag>
 <subsection id="josephus-bell" type="neuzeit" sort="10">
 <lemma>Ios., <titel>bell. Iud.</titel></lemma>
 <eintrag>
-Jüdischer Krieg, lat. de bello Iudaico, griech. Περὶ τοῦ Ἰουδαικοῦ πολέµου
+Jüdischer Krieg, lat. de bello Iudaico, griech. Περὶ τοῦ Ἰουδαικοῦ πολέµου.
+</eintrag>
+</subsection>
+<subsection id="josephus-ant" type="neuzeit" sort="20">
+<lemma>Ios., <titel>ant. Iud.</titel></lemma>
+<eintrag>
+Jüdische Altertümer, lat. antiquitates Iudaicae, griech. Ἰουδαική ἀρχαιολογία.<line type="break" />
+Kritische Griechisch-Lateinische Gesamtausgabe in zwei Bänden von Haverkamp, Siwart 
+</eintrag>
+</subsection>
+<subsection id="josephus-opera" type="neuzeit" sort="20">
+<lemma>Josephus, <titel>Opera Omnia</titel></lemma>
+<eintrag>
+Kritische Griechisch-Lateinische Gesamtausgabe in zwei Bänden, hg. von <wwwlink address="https://d-nb.info/gnd/100352839">Siwert Haverkamp</wwwlink>, Amsterdam 1726. Digitalisat Bd.&#x202F;1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11054083-6">Stabi Regensburg: 999/2Class.3(1</wwwlink>; Bd.&#x202F;2: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11054084-2">Stabi Regensburg: 999/2Class.3(2</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -19355,7 +19373,7 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 
 <kommentar id="wezel" type="neuzeit">
 <lemma>Johann Karl Wezel</lemma>
-<eintrag>1747–1819. Romancier und Lustspieldichter, 1782 Theaterdichter in Wien.
+<eintrag>1747–1819. Romancier und Lustspieldichter; 1764 Studium in Leipzig, in den 1770ern auf Reisen, zugleich Kritiker der <link ref="weise" subref="weise-bibliothek" linktext="false"><titel>Neuen Bibliothek der schönen Wissenschaften und der freyen Künste</titel></link>; 1782 Theaterdichter in Wien, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118632108.html#adbcontent">Anemüller, Ernst: Wezel, Johann Karl, in: <titel>ADB</titel>&#x202F;42 (1897), S.&#x202F;292f</wwwlink>.
 </eintrag>
 <subsection id="wezel-knaut" type="neuzeit" sort="10">
 <lemma>Wezel, <titel>Tobias Knaut</titel></lemma>
