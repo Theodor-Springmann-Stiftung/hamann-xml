@@ -16203,7 +16203,12 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <subsection id="schlozer-universalhistorie" type="neuzeit" sort="20">
 <lemma>Schlözer, <titel>Vorstellung einer Universalhistorie</titel></lemma>
 <eintrag>
-August Ludwig Schlözers <titel>Vorstellung seiner Universal-Historie</titel> (2 Bde., Göttingen, Gotha: Dieterich 1772). Digitalisat Bd. 1: <wwwlink address="https://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-761">LB Oldenburg</wwwlink>; Digitalisat Bd. 2 (mit <link ref="herder" linktext="false">Herders</link> <titel>Beurtheilung der Schlözerischen Universalhistorie</titel> in den <link ref="frankfurter-gelehrte-anzeigen" linktext="true" />, 60.&#x202F;St. 1772 mit <titel>August Ludwig Schlözers Anmerkungen über die Kunst, Universalhistorien zu beurteilen</titel>): <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN665336047">SUB Göttingen</wwwlink>.</eintrag>
+<titel>August Ludwig Schlözers Vorstellung seiner Universal-Historie</titel> (2 Bde., Göttingen, Gotha: Dieterich 1772). Digitalisat Bd. 1: <wwwlink address="https://digital.lb-oldenburg.de/urn/urn:nbn:de:gbv:45:1-761">LB Oldenburg</wwwlink>; Digitalisat Bd. 2 (mit <link ref="herder" linktext="false">Herders</link> <titel>Beurtheilung der Schlözerischen Universalhistorie</titel> in den <link ref="frankfurter-gelehrte-anzeigen" linktext="true" />, 60.&#x202F;St. 1772 mit <titel>August Ludwig Schlözers Anmerkungen über die Kunst, Universalhistorien zu beurteilen</titel>): <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN665336047">SUB Göttingen</wwwlink>.</eintrag>
+</subsection>
+<subsection id="schlozer-briefwechsel" type="neuzeit" sort="20">
+<lemma>Schlözer, <titel>Briefwechsel, meist historischen und politischen Inhalts</titel></lemma>
+<eintrag>
+ <titel>Briefwechsel, meist historischen und politischen Inhalts</titel> (Göttingen: Vandenhoeck 1776–1782). Digitalisat Tl.&#x202F;5, H.&#x202F;25–30: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10716778-3">BSB München: Bibl.Mont. 1621-5</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1046051482">ZDB</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -19224,6 +19229,11 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 </subsection>
 </kommentar>
 
+<kommentar id="weber-gg" type="neuzeit">
+<lemma>Georg Gottlieb Weber</lemma>
+<eintrag>1744–1801. Stiftsprediger und zweiter Diakon der Stadkirche in Weimar, Herders Nachbar, siehe <wwwlink address="http://d-nb.info/gnd/117159174">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="weber-kf" type="neuzeit">
 <lemma>Karl Florian Weber</lemma>
 <eintrag>1739–1794. Priester, siehe <wwwlink address="http://d-nb.info/gnd/1017135835">GND</wwwlink>.</eintrag>
@@ -19495,11 +19505,29 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <titel>Bonifaz Schleicher oder kann man ein Heuchler sein ohne es selbst zu wissen? Eine gesellschaftliche Unterhaltung,</titel> in: <link ref="teutsche-merkur" linktext="true" />, 2.&#x202F;Vierteljahr 1776, S.&#x202F;249–261, 3.&#x202F;Vierteljahr, S.&#x202F;136–150 und 220–232.
 </eintrag>
 </subsection>
+<subsection id="wieland-laie" type="neuzeit" sort="100">
+<lemma>Wieland, <titel>Gedanken eines Laien über Bahrdts Glaubensbekenntnis</titel></lemma>
+<eintrag>
+<titel>Unmaasgebliche Gedanken eines Laien über Herrn D. Carl Friedrich Bahrdts Glaubensbekenntnis,</titel> in: <link ref="teutsche-merkur" linktext="true" />, S.&#x202F;170–179 (August) und S.&#x202F;218–262 (September)
+</eintrag>
+</subsection>
+
 </kommentar>
 
 <kommentar id="wieland-ad" type="neuzeit">
 <lemma>Anna Dorothea Wieland</lemma>
 <eintrag>1746–1801. Geb. von Hillenbrand, seit 1765 die Frau von <link ref="wieland" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="wieland-ec" type="neuzeit">
+<lemma>Ernst Carl Wieland</lemma>
+<eintrag>1755–1828. Professor der Philosophie in Leipzig ab 1780, siehe <wwwlink address="https://d-nb.info/gnd/117361534">GND</wwwlink>.</eintrag>
+<subsection id="wieland-ec-genie" type="neuzeit" >
+<lemma>E. C. Wieland, <titel>Versuch über das Genie</titel></lemma>
+<eintrag>
+<titel>Versuch über das Genie. von M. Ernst Carl Wieland</titel> (Leipzig: Kummer 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10044780-7">BSB München: Ph.sp. 942 n</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="wieland-rk" type="neuzeit">
