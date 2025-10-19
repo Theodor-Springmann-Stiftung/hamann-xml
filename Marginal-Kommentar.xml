@@ -8657,7 +8657,7 @@ Frau von <link ref="belger" linktext="true" /> aus Riga
 Brief Nr. 124
 
 <marginal letter="124" page="266" line="18">
-Zweizeiler aus einer Schulfibel; zitiert auch in N&#x202F;III S.&#x202F;207
+Zweizeiler aus einer Schulfibel; zitiert auch in <link ref="hamann" subref="hamann-schuerze" linktext="true" />, <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;275
 </marginal>
 
 <marginal letter="124" page="266" line="24">
@@ -75680,6 +75680,21 @@ Brief Nr. 573
 Im Folgenden schreibt Hamann einige Passagen aus der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> für Herder ab: die drei ‚Dedicationen‘ an <link ref="wieland" linktext="true" />, <link ref="busching" linktext="true" /> (ab <intlink letter="573" page="142" line="8" linktext="true" />) und <link ref="voss" linktext="true" /> (ab <intlink letter="573" page="142" line="21" linktext="true" />) sowie den Anfang des ‚Nachhelfs eines Vocativs‘ (ab <intlink letter="573" page="142" line="29" linktext="true" />). Sie entsprechen der ‚Fassung D‘, vgl. <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;268 und S.&#x202F;303; zur Kommentierung der Passagen vgl. <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;314–335. – Die folgende Abschrift kommentieren oder es bei dem Verweis hier belassen?!?
 </marginal>
 
+<marginal letter="573" page="141" line="32">
+<bzg>„schwachköpfigen&#x202F;…</bzg> ?!?
+</marginal>
+
+<marginal letter="573" page="142" line="5">
+<bzg>W! W! W!</bzg> <link ref="nt-off" subref="nt-off7" linktext="false">Offb 8,13</link> 
+</marginal>
+
+<marginal letter="573" page="142" line="6">
+<bzg>Und brumme&#x202F;…</bzg> Zweizeiler aus einer Schulfibel, vgl. <intlink letter="124" page="266" line="18" linktext="true" />?!?
+</marginal>
+
+
+
+
 <marginal letter="573" page="143" line="25">
 <bzg>Ohe iam satis est!</bzg> <link ref="horaz" subref="horaz-saturae" linktext="false">Hor. <titel>sat.</titel></link> 1,5,12f.: „Halt da, genug jetzt!“
 </marginal>
@@ -75789,7 +75804,71 @@ Im Folgenden schreibt Hamann einige Passagen aus der <link ref="hamann" subref="
 </marginal>
 
 <marginal letter="573" page="144" line="22">
-<bzg>Mendelssohn</bzg> Herder erwähnte in seinem nicht überlieferten Brief wohl, <link ref="herder" subref="herder-maran" linktext="false"></link> am 10. Oktober an <link ref="mendelssohn" linktext="false">Mendelssohn</link> geschickt zu haben, vgl. <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;103f.
+<bzg>Mendelssohn</bzg> Herder erwähnte in seinem nicht überlieferten Brief wohl, <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha</titel></link> am 10. Oktober an <link ref="mendelssohn" linktext="false">Mendelssohn</link> geschickt zu haben, vgl. <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;4, S.&#x202F;103f.
+</marginal>
+
+<marginal letter="573" page="144" line="23" sort="1">
+<bzg>Kypke Katalog</bzg> der Katalog für die Versteigerung der Bibliothek des verstorbenen <link ref="kypke" linktext="true" />, vgl. <intlink letter="565" page="114" line="21" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="144" line="23" sort="2">
+<bzg>†feld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="144" line="24">
+<bzg>Obseru.</bzg> <link ref="kypke" subref="kypke-observationes" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="144" line="27">
+<bzg>Alemberts&#x202F;…</bzg> <link ref="alembert" subref="alembert-eloge" linktext="true" />, vgl. <intlink letter="572" page="134" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="145" line="29">
+<bzg>Coyonnerien</bzg> scherzhafte Unverschämtheiten
+</marginal>
+
+<marginal letter="573" page="144" line="30">
+<bzg>nordischen Salomon</bzg> <link ref="friedrich-II" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="144" line="34">
+<bzg>liebsten Hälfte</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="144" line="35" sort="1">
+<bzg>Schreibmeister</bzg> <link ref="herder-g" linktext="false">Gottfried Herder</link>
+</marginal>
+
+<marginal letter="573" page="144" line="35" sort="1">
+<bzg>Jung</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="144" line="36">
+<bzg>ältestes Mädchen</bzg> <link ref="hamann-er" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="145" line="1">
+<bzg>Pathen</bzg> <link ref="herder-a" linktext="false">August Herder</link>
+</marginal>
+
+<marginal letter="573" page="145" line="3">
+<bzg>12 Kinder&#x202F;</bzg> Herders vier Söhne, Hamanns Sohn und drei Töchter sowie <link ref="claudius" linktext="false">Claudius’</link> vier Töchter
+</marginal>
+
+<marginal letter="573" page="145" line="6">
+<bzg>Cornetten</bzg> „eine Art des Kopfputzes des andern Geschlechtes […] jetzt zu einem Nachtzeuge herab gesunken“ (<wwwlink address="www.woerterbuchnetz.de/Adelung/Cornếtte">Adelung, Bd.&#x202F;1, Sp.&#x202F;1351, s.v. Cornette</wwwlink>)
+</marginal>
+
+<marginal letter="573" page="145" line="9">
+<bzg>Marianchen</bzg> <link ref="hamann-ms" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="145" line="11">
+<bzg>Josepho</bzg> <link ref="josephus" linktext="true" />
+</marginal>
+
+<marginal letter="573" page="145" line="13">
+<bzg>verEhrungswürdige Freundin</bzg> <link ref="herder-c" linktext="true" />
 </marginal>
 
 
