@@ -3324,7 +3324,13 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 <subsection id="claudius-werke" type="neuzeit" sort="20">
 <lemma>Claudius, <titel>Asmus omnia sua secum portans</titel></lemma>
 <eintrag>
-<titel>Asmus omnia sua secum portans oder Sämmtliche Werke des Wandsbecker Bothen</titel> (8 Tle., Hamburg: Perthes 1774–1811) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;164/566: „ASMVS omnia sua secum portans oder saemmtliche Werke des Wandsbecker Bothen, Th. I. II. Hamb. 775. Donum AVCTORIS.“]. Digitalisat Tl. 1/2 (1774): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925925-7">BSB München: Res/P.o.germ. 1981 e-1/3</wwwlink>. – Tl. 3 (1777): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925926-3">BSB München: Res/P.o.germ. 1981 e-1/3</wwwlink>
+<titel>Asmus omnia sua secum portans oder Sämmtliche Werke des Wandsbecker Bothen</titel> (8 Tle., Hamburg: Perthes 1774–1811) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;164/566: „ASMVS omnia sua secum portans oder saemmtliche Werke des Wandsbecker Bothen, Th. I. II. Hamb. 775. Donum AVCTORIS.“]. Digitalisat Tl. 1/2 (1774): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925925-7">BSB München: Res/P.o.germ. 1981 e-1/3</wwwlink>. – Tl. 3 (1777): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925926-3">BSB München: Res/P.o.germ. 1981 e-1/3</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="claudius-wachter" type="neuzeit" sort="20">
+<lemma>Claudius, <titel>Wächter und Burgermeister</titel></lemma>
+<eintrag>
+<titel>Wächter und Burgermeister</titel>. In: <link ref="voss" subref="voss-musenalmanach1777" linktext="true" />, <wwwlink address="https://viewer.onb.ac.at/108CBDED/221">S.&#x202F;151f.</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/beitrag/5169">vgl. Musenalm</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -7786,6 +7792,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <eintrag>
 <titel>Geschichte von den Seelen der Menschen und Thiere</titel> (Halle: Gebauer 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043419-2">BSB München: Ph.sp. 352</wwwlink>. </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hephaistion" type="neuzeit">
+<lemma>Hephaistion von Theben</lemma>
+<eintrag>Geb. 26. November 380. Hellenistischer Astrologe und Kompilator (kein Priester). Im Kontext der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> suchte Hamann nach Literatur bzw. Lexikoneinträgen über ihn, um <link ref="starck" linktext="false">Starck</link> der Beliebigkeit seines Titels <link ref="starck" subref="starck-hephaestion" linktext="false">zu überführen</link>.
+</eintrag>
 </kommentar>
 
 <kommentar id="herauld" type="neuzeit">
