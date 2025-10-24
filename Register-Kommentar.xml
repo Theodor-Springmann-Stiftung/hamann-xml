@@ -1700,7 +1700,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="biron-p" type="neuzeit">
 <lemma>Peter von Biron</lemma>
-<eintrag>1724–1800. Sohn von <link ref="biron" linktext="true" />. Herzog von Kurland und Semgallen seit 1769.
+<eintrag>1724–1800. Sohn von <link ref="biron" linktext="true" />. Herzog von Kurland und Semgallen seit 1769, siehe <wwwlink address="https://bbld.de/000000011001368X">BBLd</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -1777,6 +1777,11 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <lemma>Blervache, <titel>Considérations sur le commerce</titel></lemma>
 <eintrag>(zus. mit Vincent de Gournay) <titel>Considérations sur le commerce et en particulier sur les compagnies societés et maîtrises</titel> (Amsterdem 1758).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="blessig" type="neuzeit">
+<lemma>Johann Lorenz Blessig</lemma>
+<eintrag>1747–1816. Prof. der Philosophie in Straßburg, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd100043542.html#ndbcontent">Gerber, Harry: Blessig, Johann Lorenz, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;300.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bleterie" type="neuzeit">
@@ -4349,6 +4354,12 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinischer Text und kommentierte deutsche Übersetzung einer antiken Elementargrammatik aus dem 4. Jahrhundert nach Christus</titel> (Frankfurt 2008).</eintrag>
 </kommentar>
 
+<kommentar id="dorothea-kurland" type="neuzeit">
+<lemma>Dorothea von Kurland</lemma>
+<eintrag>1761–1821. Geb. von Medem, Herzogin von Kurland, Ehefrau <link ref="biron-p" linktext="false">Peter von Birons</link> und Halbschwester <link ref="recke-e" linktext="false">Elisa von der Reckes</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118680471.html#ndbcontent">Neander, Irene: Dorothea Anna, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;83</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="dorow-jf" type="neuzeit">
 <lemma>Jacob Friedrich Dorow</lemma>
 <eintrag>1735–1797. Hofmeister in Kurland, dann Lotterie-Sekretär; Schwager von <link ref="reichardt-jf" linktext="true" />.
@@ -5382,6 +5393,17 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 <kommentar id="frankfurter-gelehrte-anzeigen" type="neuzeit">
 <lemma>Frankfurter gelehrte Anzeigen</lemma>
 <eintrag>Erschienen 1772–1790, wichtiges literaturkritisches Organ des Sturm und Drang vor allem 1772, für das u.&#x202F;a. <link ref="herder" linktext="true" /> schrieb; anfänglich redigiert u.&#x202F;a. von <link ref="merck" linktext="true" />. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-695430">ULB Halle</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="frank-jg" type="neuzeit">
+<lemma>Johann Georg Frank</lemma>
+<eintrag>1705–1784. Lutherischer Theologe vor allem auf dem Gebiet der biblischen Chronologie, Superintendent in Hohnstedt im Fürstentum Calenberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd115571663.html#adbcontent">Redslob, Gustav Moritz: Frank, Johann Georg, in: <titel>ADB</titel>&#x202F;7 (1878), S.&#x202F;253f</wwwlink>; vgl. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;78/66: „J. G. Franck Praelusio Chrologiae fundamentalis, Goett. 774. Schreiben an einen Freund die Entdeckung der Franckschen Jobelperiode betreffend Hamb. 775“.</eintrag>
+<subsection id="frank-systema" type="neuzeit" sort="10">
+<lemma>Frank, <titel>Novum systema chronologiae fundamentalis</titel></lemma>
+<eintrag>
+<titel>Novum systema chronologiae fundamentalis, qua omnes anni ad solis et lunae cursum accurate describi, et novilunia a primordio mundi ad nostra usque tempora ut ulterius ope epactarum designari possunt: In cyclo iobeleo biblico detectae et ad chronologiam tam sacram, quam profanam applicatae; cum praefatione iohannis Christophori Gatterer</titel> (Göttingen: Vandenhoeck 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11196277-7">Stabi Augsburg: 2 Chron 8</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="freret" type="neuzeit">
@@ -7526,7 +7548,7 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="hartmann-gd" type="neuzeit">
 <lemma>Gottlob David Hartmann</lemma>
-<eintrag>1752–1775. 1774 Gymnasialprof. der Philosophie am akademischen Gymnasium in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>.</eintrag>
+<eintrag>1752–1775. 1774 Gymnasialprof. der Philosophie am akademischen Gymnasium in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>, befreundet mit <link ref="recke-e" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd101001037.html#adbcontent">Wohlwill, Adolf: Hartmann, Gottlob David, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;683f</wwwlink>.</eintrag>
  <subsection id="hartmann-sophron" type="neuzeit" sort="10">
 <lemma>Hartmann, <titel>Sophron, oder die Bestimmung des Jünglings</titel></lemma>
 <eintrag>
@@ -8076,7 +8098,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
-<lemma>Herder, <titel>Adreastea</titel></lemma>
+<lemma>Herder, <titel>Adrastea</titel></lemma>
 <eintrag>
 <titel>Adrastea.</titel> Herausgegeben von J. G. Herder (Leipzig: Hartknoch 1801–1803/4). – SWS XXIII und XXIV.
 </eintrag>
@@ -13498,6 +13520,12 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 </subsection>
 </kommentar>
 
+<kommentar id="mussin-puschkin" type="neuzeit">
+<lemma>Alexei Semjonowitsch Mussin-Puschkin</lemma>
+<eintrag>1730–1817. Russsischer Diplomat, Gesandter in Stockholm; verheirat mit Charlotta Amalia Isabella, geb. von Wartensleben (1758–1835).
+</eintrag>
+</kommentar>
+
 <kommentar id="mylius" type="neuzeit">
 <lemma>Christlob Mylius</lemma>
 <eintrag>1722–1754. Schriftsteller in Berlin, u.a. Mitarbeiter bei <link ref="berlinische" linktext="true" />; <wwwlink address="https://www.deutsche-biographie.de/pnd11858605X.html#adbcontent">Consentius, Ernst: Mylius, Christlob, in: <titel>ADB</titel>&#x202F;52 (1906), S.&#x202F;545–558</wwwlink>.
@@ -15412,6 +15440,11 @@ Ein literarischer Streit um Zensur zwischen <link ref="riedel" linktext="true" /
 <kommentar id="recke-e" type="neuzeit">
 <lemma>Elisa von der Recke</lemma>
 <eintrag>1754–1833. Charlotte Elisa (Elisabeth) Constantia von der Recke, geb. von Medem. Kurländische Adlige und am Okkulten interessierte Schriftstellerin, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz14653.html#adbcontent">Eckardt: Recke, Elisa Baronin von der, in: <titel>ADB</titel>&#x202F;27 (1888), S.&#x202F;502f.</wwwlink></eintrag>
+</kommentar>
+
+<kommentar id="recke-gm" type="neuzeit">
+<lemma>Georg Magnus von der Recke</lemma>
+<eintrag>1739–1795. Kammerherr und Ehemann <link ref="recke-e" linktext="false">Elisa von der Reckes</link> (Konvenienzehe, die 1781 geschieden wurde), sieh <wwwlink address="https://bbld.de/GND1016521324">BBLd</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="reime" type="neuzeit">
