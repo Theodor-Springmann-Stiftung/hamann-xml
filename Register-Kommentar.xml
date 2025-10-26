@@ -1782,6 +1782,12 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <kommentar id="blessig" type="neuzeit">
 <lemma>Johann Lorenz Blessig</lemma>
 <eintrag>1747–1816. Prof. der Philosophie in Straßburg, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd100043542.html#ndbcontent">Gerber, Harry: Blessig, Johann Lorenz, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;300.</wwwlink>.</eintrag>
+<subsection id="blessig-rede" type="neuzeit" sort="10">
+<lemma>Blessig, <titel>Rede bei dem Grabe des Freyherrn von Medem</titel></lemma>
+<eintrag>
+<titel>Rede bei dem Grabe des Freyherrn von Medem, gesprochen den 13. Brachmonats 1778. Nebst seinem Leben und Tod. von M. Johann Lorenz Blessig</titel> (o.O. 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10606146-6">BSB München: Or.fun. 59 f</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="bleterie" type="neuzeit">
@@ -5233,6 +5239,11 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <eintrag>1745–1801. Hospitalpfarrer in Königsberg.</eintrag>
 </kommentar>
 
+<kommentar id="fischer-e" type="neuzeit">
+<lemma>Elisabeth Fischer</lemma>
+<eintrag>Heiratete 1780 <link ref="graun" linktext="true" />, Scheidung 1786. Tochter eines Kaufmanns, Nichte von <link ref="hartung-gl" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="fischer-jf" type="neuzeit">
 <lemma>Johann Friedrich Fischer</lemma>
 <eintrag>1726–1799. Philologe, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz044_00331_1.html">Deutsche Biographie</wwwlink>.</eintrag>
@@ -6408,6 +6419,11 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <lemma>Le Grand Vocabulaire françois</lemma>
 <eintrag>Französisches Wörterbuch in 30 Bde., hg. von Joseph Nicolas Guyot (1728–1816), Nicolas Chamfort und Ferdinand Camille Duchemin de la Chesnaye (1741–1775), initiiert und verlegt von Charles-Joseph Panckoucke (Paris 1767–1774). Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523842-1">BSB München: 4 L.lat.f. 62-1</wwwlink>.</eintrag>
 </kommentar>
+
+<kommentar id="graun" type="neuzeit">
+<lemma>Carl Ferdinand Graun</lemma>
+<eintrag>1753–1819. Seit 1777 Hofgerichtsrat in Königsberg, heiratete 1780 <link ref="fischer-e" linktext="true" /> 1787 nach Berlin versetzt. Siehe Rolf Straubel: <titel>Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806</titel> (München 2009), Bd.&#x202F;1, S.&#x202F;345f.</eintrag>
+</kommentar> 
 
 <kommentar id="graville" type="neuzeit">
 <lemma>Barthélemy-Claude Graillard de Graville</lemma>
@@ -9625,7 +9641,7 @@ Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bs
 
 <kommentar id="kanter" type="neuzeit">
 <lemma>Johann Jakob Kanter</lemma>
-<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften) und Unternehmer in Königsberg, <wwwlink address="https://www.geonames.org/7532600">Elbing</wwwlink> (Filiale), <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink> (Druckerei) und <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>, Lotteriedirektor, Papiermüller, Erbherr von <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>. Errichtete anstelle der Papiermühle eine Schriftgießerei und eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; zum Niedergang seiner Unternehmungen, auch seines Buchladens in den späten 1770ern vgl. <intlink letter="545" page="54" line="11" linktext="false">HKB 545</intlink>; 1781 gab er die Buchhandlung an seinen Angestellten Wagner und den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
+<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften sowie der <link ref="konigsbergsche-gelehrte-p-z" linktext="false"><titel>KGPZ</titel></link>) und Unternehmer in Königsberg, <wwwlink address="https://www.geonames.org/7532600">Elbing</wwwlink> (Filiale), <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink> (Druckerei) und <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>, Lotteriedirektor, Papiermüller, Erbherr von <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>. Errichtete anstelle der Papiermühle eine Schriftgießerei und eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; zum Niedergang seiner Unternehmungen, auch seines Buchladens in den späten 1770ern vgl. <intlink letter="545" page="54" line="11" linktext="false">HKB 545</intlink> und zu finanziellen Details <intlink letter="574" page="149" line="17" linktext="false"></intlink>; 1781 gab er die Buchhandlung an seinen Angestellten Wagner und den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
 Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Ort, den Hamann häufig besuchte, und wo er vielerlei Leute traf. Er wurde 1760 in Kanters väterlichem Haus in der Altstädtischen Langgasse 23 eröffnet und zog Ende August 1768 um in das nach dem großen Brand von 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2. Über dem Eingang hing ein großer Preußenadler und im Inneren standen Büsten einerseits von Pindar, Caesar, Tacitus, Plutarch und anderen, andererseits von Kant, Scheffner, Hippel, Lindner und anderen (vgl. <intlink letter="351" page="419" line="26" linktext="true" />); später ebenso ein Gemälde von Hamann (vgl. <intlink letter="398" page="68" line="20" linktext="true" />).</eintrag>
 </kommentar>
 
@@ -12377,6 +12393,12 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 <kommentar id="meck" type="neuzeit">
 <lemma>Johann Erich v. Meck</lemma>
 <eintrag>1727–1771. Sekretär der livländischen Ritterschaft, Kreisdeputierter, Stallmeister des Herzogs Ernst Johann von Kurland. Gab in Riga das Wochenblatt <titel>Der ruhige Bemerker</titel> heraus (1746/47, 50 Hefte). <titel>Allgemeines Schriftsteller- und Gelehrten-Lexikon der Provinzen Livland, Esthland und Kurland</titel> (Mitau 1831, Bd.&#x202F;3), S.&#x202F;175f.
+</eintrag>
+</kommentar>
+
+<kommentar id="medem-jf" type="neuzeit">
+<lemma>Johann Friedrich Graf von Medem</lemma>
+<eintrag>1758–778. Bruder von <link ref="dorothea-kurland" linktext="true" /> und Halbbruder von <link ref="recke-e" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -15439,7 +15461,7 @@ Ein literarischer Streit um Zensur zwischen <link ref="riedel" linktext="true" /
 
 <kommentar id="recke-e" type="neuzeit">
 <lemma>Elisa von der Recke</lemma>
-<eintrag>1754–1833. Charlotte Elisa (Elisabeth) Constantia von der Recke, geb. von Medem. Kurländische Adlige und am Okkulten interessierte Schriftstellerin, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz14653.html#adbcontent">Eckardt: Recke, Elisa Baronin von der, in: <titel>ADB</titel>&#x202F;27 (1888), S.&#x202F;502f.</wwwlink></eintrag>
+<eintrag>1754–1833. Charlotte Elisa (Elisabeth) Constantia von der Recke, geb. von Medem (Halbschwester von <link ref="dorothea-kurland" linktext="true" /> und <link ref="medem-jf" linktext="true" />). Kurländische Adlige und am Okkulten interessierte Schriftstellerin, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz14653.html#adbcontent">Eckardt: Recke, Elisa Baronin von der, in: <titel>ADB</titel>&#x202F;27 (1888), S.&#x202F;502f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="recke-gm" type="neuzeit">
