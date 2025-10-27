@@ -1816,6 +1816,11 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <kommentar id="blom-wy" type="neuzeit">
 <lemma>Wybrand Blom</lemma>
 <eintrag>Gest. am 1. Januar 1777, königlicher Licentrath und Packhofinspector in Königsberg, Hamanns Vorgänger (Antecesseur).</eintrag>
+</kommentar>blumenlese-pr
+
+<kommentar id="blumenlese-pr" type="neuzeit">
+<lemma>Preußische Blumenlese</lemma>
+<eintrag><titel>Preußische Blumenlese für das Jahr 1780. Herausgegeben von Doerk und Mohr</titel> (Königsberg: Hartung 1780–1782, 1793). Herausgeber: <link ref="doerk" linktext="true" />, <link ref="mohr-s" linktext="true" />, <link ref="funck" linktext="true" />, <link ref="john" linktext="true" /> und <link ref="gerber-as" linktext="true" />. Digitalisat: <wwwlink address="https://resolver.staatsbibliothek-berlin.de/SBB0002687600000000">Stabi Berlin</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1177916665">ZDB</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="bluttheologie" type="neuzeit">
@@ -4305,6 +4310,11 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 </subsection>
 </kommentar>
 
+<kommentar id="doerk" type="neuzeit">
+<lemma>Johann Jakob Doerk</lemma>
+<eintrag>1755–1821. Hofgerichtsreferendar in Königsberg, siehe <wwwlink address="https://books.google.de/books?id=O4dLAAAAcAAJ">Hamberger/Meusel 1783, S.&#x202F;346</wwwlink>. Mitherausgeber der <link ref="blumenlese-pr" linktext="false"><titel>Preußischen Blumenlese</titel></link></eintrag>
+</kommentar>
+
 <kommentar id="dohna" type="neuzeit">
 <lemma>Friedrich Ludwig Dohna</lemma>
 <eintrag>1697&#x202F;1766. Graf auf Reichertswalde.</eintrag>
@@ -5938,6 +5948,11 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 </subsection>
 </kommentar>
 
+<kommentar id="gerber-as" type="neuzeit">
+<lemma>August Samuel Gerber</lemma>
+<eintrag>1766–1821. Pfarrer und Bibliothekar bei Königsberg, siehe <wwwlink address="http://d-nb.info/gnd/123031001">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="gerdes" type="neuzeit">
 <lemma>Daniel Gerdes</lemma>
 <eintrag>1698–1765. Reform. Theologe, Kirchenhistoriker, ab 1734 Prof. der Theologie in Groningen. <wwwlink address="https://www.deutsche-biographie.de/sfz20524.html#adbcontent">Krafft, Carl: Gerdes, Daniel, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;730f.</wwwlink></eintrag>
@@ -7376,7 +7391,8 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <subsection id="hamann-wannchen" type="neuzeit" sort="910">
 <lemma>Hamann, <titel>Metakritische Wannchen</titel></lemma>
 <eintrag>
-Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab 1779 geplantes Projekt einer Sammlung von Hamann-Schriften (zwischendurch auch unter dem Titel <titel>Saalbadereyen</titel>); nie erschienen.
+Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab 1779 geplantes Projekt einer Sammlung von Hamann-Schriften (zwischendurch auch unter den Titeln <titel>gallicanische Sottisen
+</titel> oder <titel>Saalbadereyen</titel>); nie erschienen.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11201,7 +11217,7 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 
 <kommentar id="lilienthal-eg" type="neuzeit">
 <lemma>Ernst Gottlieb Lilienthal</lemma>
-<eintrag>1745–1807. Seegerichts- Assessor in Memel, vgl. <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;318</wwwlink>..
+<eintrag>1745–1807. Seegerichts- Assessor in Memel, vgl. <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;318</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -12950,6 +12966,13 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <titel>Moiridos Attikistou lexeis Attikōn kai Hellēnōn kata stoikheton = Moeridis Atticistae lexicon Atticum cum Jo. Hudsoni, Steph. Bergleri, Claud. Salierii</titel> (Leiden: van der Eyk u. Pecker 1759; Erstausgabe 1711). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 12/183: „Moeridis Atticistae &amp; Timaei Sophistae Lexica graeca, ex ed. J. F. Fischeri, Lips. 756“]. Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/1042638E">ÖNB Wien: 756727-B</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="mohr-s" type="neuzeit">
+<lemma>Friedrich Samuel Mohr</lemma>
+<eintrag>
+Um 1760 bis 1805. Schriftsteller und Lehrer in Königsberg, siehe <wwwlink address="http://d-nb.info/gnd/1044447990">GND</wwwlink> und <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;320–322</wwwlink>
+</eintrag>
 </kommentar>
 
 <kommentar id="moine" type="neuzeit">
@@ -19182,14 +19205,29 @@ W
 <lemma>Christian Wilhelm Franz Walch</lemma>
 <eintrag>1726–1784. Evang. Theologe, 1757 Professor der Theologie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz34685.html#adbcontent">Tschackert, Paul: Walch, Christian Wilhelm Franz, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;646&#x2013;650</wwwlink>.</eintrag>
 <subsection id="walch-bibliothek" type="neuzeit" sort="10">
-<lemma>Walch (Hg.) <titel>Philologische Bibliothek</titel></lemma>
+<lemma>Walch (Hg.), <titel>Philologische Bibliothek</titel></lemma>
 <eintrag>
 <titel>Philologische Bibliothek</titel> (3 Bde., Göttingen 1770–1777). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10765755-6">BSB München: Philol. 289 m-1</wwwlink>.</eintrag>
 </subsection>
 <subsection id="walch-untersuchung" type="neuzeit" sort="20">
-<lemma>Walch <titel>Kritische Untersuchung</titel></lemma>
+<lemma>Walch, <titel>Kritische Untersuchung</titel></lemma>
 <eintrag>
 <titel>D. Christian Wilhelm Franz Walchs kritische Untersuchung vom Gebrauch der heiligen Schrift unter den alten Christen in den vier ersten Jahrhunderten</titel> (Leipzig: Weygand 1779). <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN549325042">SUB Göttingen</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="wannowski" type="neuzeit">
+<lemma>Johann Christoph Wannovius</lemma>
+<eintrag>1753–1814. Advokat am Hofgericht in Königsberg, siehe <wwwlink address="http://d-nb.info/gnd/142331740">GND</wwwlink> und <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;281f.</wwwlink></eintrag>
+<subsection id="wannowski-saytenspiel" type="neuzeit" sort="10">
+<lemma>Wannovius, <titel>Mein Saytenspiel</titel></lemma>
+<eintrag>
+<titel>Mein Saytenspiel</titel> (Danzig: Wedel 1775). <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN657047120">SUB Göttingen</wwwlink>.</eintrag>
+</subsection>
+<subsection id="wannowski-leonore" type="neuzeit" sort="20">
+<lemma>Wannovius, <titel>Leonore</titel></lemma>
+<eintrag>
+<titel>Leonore aus gleichzeitigen Nachrichten gezogen</titel> (Danzig: Flörke 1779). <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000EFE800000000">Stabi Berlin: Yw 341</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
