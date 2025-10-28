@@ -47035,7 +47035,7 @@ Brief Nr. 386
 Brief Nr. 387
 
 <marginal letter="387" page="42" line="8">
-<bzg>Herr Hofrath</bzg> Der Briefentwurf ist vmtl. an <link ref="tottien-ca" linktext="true" /> gerichtet, der Hofrat in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> war und mit Hamann gut bekannt. Der Briefentwurf ist überliefert einliegend in einem Entwurf von <link ref="hamann" subref="hamann-kermes" linktext="true" />. Mit dieser Schrift steht er wohl, wie mit <link ref="hamann" subref="hamann-lettreperdue" linktext="true" /> auch, in losem Zusammenhang.
+<bzg>Herr Hofrath</bzg> Der Briefentwurf ist vmtl. an <link ref="tottien-ca" linktext="true" /> gerichtet, der Hofrat in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> war und mit Hamann gut bekannt. Der Briefentwurf ist überliefert einliegend in einem Entwurf von <link ref="hamann" subref="hamann-kermes" linktext="true" />. Mit dieser Schrift steht er wohl, wie auch mit <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, in losem Zusammenhang.
 </marginal>
 
 <marginal letter="387" page="42" line="10">
@@ -57570,7 +57570,7 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="214" line="17">
-<bzg>Abeat cum ceteris erroribus!</bzg> dt. weg damit, wie mit anderen Irrtümern
+<bzg>Abeat cum ceteris erroribus!</bzg> dt. weg damit, wie mit anderen Irrtümern (wohl von Hamann selbst geprägte Formel)
 </marginal>
 
 <marginal letter="459" page="214" line="20">
@@ -64663,7 +64663,7 @@ Brief Nr. 507
 </marginal>
 
 <marginal letter="507a" page="366" line="4">
-<bzg>abeat cum caeteris omnibus</bzg> dt. möge der Wunsch mit allem anderen verschwinden
+<bzg>abeat cum caeteris omnibus</bzg> dt. möge der Wunsch mit allem anderen verschwinden (wohl von Hamann selbst geprägte Formel)
 </marginal>
 
 <marginal letter="507a" page="366" line="13">
@@ -71681,7 +71681,7 @@ Hamann sandte den Brief ab, bevor ihn <intlink letter="553" page="76" line="1" l
 </marginal>
 
 <marginal letter="554" page="78" line="5" >
-<bzg>abeat cum ceteris erroribus</bzg> dt. weg damit, wie mit anderen Irrtümern
+<bzg>abeat cum ceteris erroribus</bzg> dt. weg damit, wie mit anderen Irrtümern (wohl von Hamann selbst geprägte Formel)
 </marginal>
 
 <marginal letter="554" page="78" line="6" >
@@ -76111,8 +76111,12 @@ Brief Nr. 574
 <bzg>Herrenschmidt</bzg> <link ref="herrnschmidt" linktext="true" />
 </marginal>
 
-<marginal letter="574" page="145" line="26">
-<bzg>Hartung&#x202F;…&#x202F;Päckchens</bzg> <link ref="hartung-gl" linktext="true" />, vgl. <intlink letter="573" page="140" line="16" linktext="true" />
+<marginal letter="574" page="145" line="26" sort="1">
+<bzg>Hartung</bzg> <link ref="hartung-gl" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="145" line="26" sort="2">
+<bzg>Päckchens</bzg> mit <link ref="giorgi-aa" subref="giorgi-tibetanum" linktext="true" /> und dem <link ref="herder" subref="herder-weimarer-gesangbuch1778" linktext="false"><titel>Weimarischen Gesang-Buch</titel></link>, vgl. <intlink letter="573" page="140" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="145" line="27">
@@ -76343,15 +76347,27 @@ Brief Nr. 574
 <bzg>Beichtvater</bzg> <link ref="matthes" linktext="true" />
 </marginal>
 
-<marginal letter="574" page="149" line="29">
+<marginal letter="574" page="148" line="29">
 <bzg>fl.&#x202F;…&#x202F;gl.</bzg> Gulden&#x202F;…&#x202F;Groschen?!?
 </marginal>
 
-<marginal letter="574" page="149" line="2">
+<marginal letter="574" page="148" line="35">
+<bzg>hoff ich wenigstens</bzg> <intlink letter="574" page="152" line="16" linktext="false">s.u.</intlink>
+</marginal>
+
+<marginal letter="574" page="148" line="36">
+<bzg>alte Sibylle</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="574" page="149" line="2" sort="1">
+<bzg>Gottespfenning</bzg> „das Handgeld, welches auf einen Vertrag gegeben wird, weil es den Armen zu Gute kommt“ (<wwwlink address="www.woerterbuchnetz.de/Adelung/Góttesgróschen">Adelung, Bd.&#x202F;2, Sp.&#x202F;760, s.v. Gottesgroschen</wwwlink>)
+</marginal>
+
+<marginal letter="574" page="149" line="2" sort="2">
 <bzg>pro arrha</bzg> dt. Pfand
 </marginal>
 
-<marginal letter="574" page="149" line="29">
+<marginal letter="574" page="149" line="6">
 <bzg>wie Sie scherzen</bzg> wohl in dem nicht überlieferten Brief Herders, auf den <intlink letter="573" page="135" line="31" linktext="false">HKB 573</intlink> antwortet
 </marginal>
 
@@ -76520,7 +76536,7 @@ Brief Nr. 574
 </marginal>
 
 <marginal letter="574" page="150" line="30">
-<bzg>gallicanischen Sottisen</bzg> die projektierte <link ref="hamann" subref="hamann-wannchen" linktext="false">Sammlung von Hamann-Texten</link>, hier die französischen Schrifte gemeint
+<bzg>gallicanischen Sottisen</bzg> die projektierte <link ref="hamann" subref="hamann-wannchen" linktext="false">Sammlung von Hamann-Texten</link>, hier die französischen Schrifte gemeint; vgl. <link ref="phaedrus" subref="phaedrus-fabulae" linktext="true" />, Buch 3, Nr. 12 „Pullus ad margaritam“ (‚Das Huhn an die Perle‘), V.&#x202F;1f.: „In sterquilino pullus gallinaceus / Dum quaerit escam, margaritam repperit.“
 </marginal>
 
 <marginal letter="574" page="150" line="31">
@@ -76528,7 +76544,7 @@ Brief Nr. 574
 </marginal>
 
 <marginal letter="574" page="150" line="32">
-<bzg>sterquilinio</bzg> dt. Miststall; vgl. <link ref="phaedrus" subref="phaedrus-fabulae" linktext="true" />, Buch 3, Nr. 12 „Pullus ad margaritam“ (‚Das Huhn an die Perle‘)
+<bzg>sterquilinio</bzg> dt. Miststall; vgl. <link ref="phaedrus" subref="phaedrus-fabulae" linktext="true" />,3,12
 </marginal>
 
 <marginal letter="574" page="150" line="35">
@@ -76553,6 +76569,166 @@ Brief Nr. 574
 
 <marginal letter="574" page="151" line="1">
 <bzg>Quintus Icilius Antwort</bzg> <link ref="guichard" linktext="true" />, gemeint ist <intlink letter="395" page="61" line="33" linktext="false">HKB 395</intlink>
+</marginal>
+
+<marginal letter="574" page="151" line="3">
+<bzg>Cochenille</bzg> <link ref="hamann" subref="hamann-kermes" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="151" line="4">
+<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="151" line="5">
+<bzg>Essays à la Mosaique</bzg> <link ref="hamann" subref="hamann-essais" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="151" line="12">
+<bzg>franz. Hälfte des Msts.</bzg> <link ref="hamann" subref="hamann-salomon" linktext="true" />, dessen einst gescheiterte Publikationspläne zusammen mit den <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologische Einfälle</titel></link> Hamann hier offenbar wieder aufnimmt
+</marginal>
+
+<marginal letter="574" page="151" line="15">
+<bzg>Layenbruder im Depot</bzg> Hamann sandte das Doppelmanuskript 1774 gemeinsam mit seinem von Kanter ‚losgekauften‘ Porträt an <link ref="moser" linktext="true" />, vgl. <intlink letter="400" page="70" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="151" line="16">
+<bzg>Gräuel der Verwüstung in Pr.</bzg> Friedrichs II. Finanzreform (von wann? Schultze?!?) und das Walten der französischen Finanzverwaltung
+</marginal>
+
+<marginal letter="574" page="151" line="17">
+<bzg>von 67&#x202F;…&#x202F;bis zum Geburtstag des Königs 77</bzg> Hamanns Dienstzeit als Sekretair-Traducteur bei der Königsberger Accise etc.?!?
+</marginal>
+
+<marginal letter="574" page="151" line="19">
+<bzg>besonder Schicksal&#x202F;…&#x202F;übersehen worden bey der Regie</bzg> Hamanns publizistische Bemühungen gegen die französische Finanzregie, die von seinen Vorgesetzten stets wohlwollend ignoriert wurde, aber wohl auch leicht in Entlassung oder Arrest hätten münden können, jedenfalls in Hamanns Wahrnehmung?!?
+</marginal>
+
+<marginal letter="574" page="151" line="20">
+<bzg>Cammer Canzellist geschworen</bzg> ?!?
+</marginal>
+
+<marginal letter="574" page="151" line="21">
+<bzg>Zeichen u Wundern</bzg> <link ref="nt-apg" subref="nt-apg2" linktext="false">Apg 2,43</link>
+</marginal>
+
+<marginal letter="574" page="151" line="22">
+<bzg>Billet&#x202F;…</bzg> ?!?
+</marginal>
+
+<marginal letter="574" page="151" line="24">
+<bzg>Streich kommt vom ältesten von Witten</bzg> ?!?
+</marginal>
+
+<marginal letter="574" page="151" line="26">
+<bzg>Rückkunft&#x202F;…&#x202F;Aufenthalt in Mitau</bzg> ?!?
+</marginal>
+
+<marginal letter="574" page="151" line="29">
+<bzg>Baron v Budberg</bzg> <link ref="budberg-wd" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="151" line="30">
+<bzg>Beschreibung des Schlangenbads</bzg> <link ref="budberg-wd" subref="budberg-schlangenbad" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="151" line="32">
+<bzg>Hartknoch&#x202F;…&#x202F;Ostern</bzg> <link ref="hartknoch" linktext="false">Johann Friedrich</link> und <link ref="hartknoch-a" linktext="true" />, wohl auf der Reise zur Leipziger Buchmesse
+</marginal>
+
+<marginal letter="574" page="151" line="33">
+<bzg>Päckchen</bzg> <intlink letter="574" page="145" line="26" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="574" page="151" line="34">
+<bzg>Wezel</bzg> <link ref="wezel" linktext="true" />, nicht überliefert, <intlink letter="574" page="149" line="31" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="574" page="151" line="35">
+<bzg>Asmus</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="151" line="36">
+<bzg>ein paar Zeilen</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="574" page="152" line="2">
+<bzg>ExLandCommissair mit Extra</bzg> <link ref="claudius" linktext="true" /> (früher Teil der Oberlandkommission in Darmstadt) mit der Extrapost
+</marginal>
+
+<marginal letter="574" page="152" line="3">
+<bzg>Corresp. mit der Gen. Adm.</bzg> Hamanns <link ref="hamann" subref="hamann-generaladministration" linktext="false"><titel>An die Generaladministration</titel></link>, vgl. die Beilage zu <intlink letter="470" page="434" line="20" linktext="false">HKB 470</intlink>
+</marginal>
+
+<marginal letter="574" page="152" line="7">
+<bzg>Kindelbier in Bückeburg</bzg> ?!?
+</marginal>
+
+<marginal letter="574" page="152" line="9">
+<bzg>All mein Heil&#x202F;…</bzg> <link ref="at-sam2" subref="at-sam2-23" linktext="false">2 Sam 23,5</link> (allerdings eher eine Umkehrung)
+</marginal>
+
+<marginal letter="574" page="152" line="10" sort="1">
+<bzg>Mendelson</bzg> <link ref="mendelssohn" linktext="true" />, vgl. <intlink letter="224" page="143" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="152" line="10" sort="1">
+<bzg>schon geantwortet?</bzg> auf Herders Brief vom 10. Oktober zu <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha</titel></link>, vgl. <intlink letter="573" page="144" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="152" line="12">
+<bzg>wie Luther sagt </bzg> WA 54,98,30–99, 18]: Vorrede auff den Psalter: Das der Psalter die weil vnter der banck/ vnd in solchen finsternis lag/ das man nicht wol einen Psalmen recht verstund/ Vnd doch so trefflichen edlen geruch von sich gab/ das alle frome hertzen auch aus den vnbehandelten worten andacht vnd krafft empfunden/ vnd das Büchlein darumb lieb hatten […] Wir sind arme, dürfftige, dürre Herrn in unserm regiment, aber mein Sohn Messia, derZur Israel, das ist der man, Der hat den Sieg über Sünde, Tod, Teuffel, Helle, Welt und alles erhalten... das heißt, gegrünet, geblühet, fruchtbar sein, und das nimmer verdorren kann.?!?
+</marginal>
+
+<marginal letter="574" page="152" line="16">
+<bzg>Gottespfenning</bzg> vgl. <intlink letter="574" page="149" line="2" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="152" line="20">
+<bzg>Abeat</bzg> dt. weg damit, wie mit anderen Irrtümern (wohl von Hamann selbst geprägte Formel)
+</marginal>
+
+<marginal letter="574" page="152" line="21" sort="1">
+<bzg>†feld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="152" line="21" sort="2">
+<bzg>Unterlage meines Kopfküßens</bzg> <link ref="herder" subref="herder-maran" linktext="true" />, vgl. <intlink letter="573" page="138" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="152" line="22">
+<bzg>vertrauten Freundes</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="574" page="152" line="27" sort="1">
+<bzg>nahe</bzg> an Weimar
+</marginal>
+
+<marginal letter="574" page="152" line="27" sort="2">
+<bzg>Beyl.</bzg> wohl <intlink letter="575" page="153" line="6" linktext="false">HKB 575</intlink> an <link ref="kraus" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="152" line="28" sort="1">
+<bzg>Kypkens&#x202F;…&#x202F;Katalog</bzg> der Katalog für die Versteigerung der Bibliothek des verstorbenen <link ref="kypke" linktext="true" />, vgl. <intlink letter="573" page="144" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="152" line="28" sort="2">
+<bzg>Stelle ein M. Dietrichs</bzg> <link ref="diederichs" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="152" line="29">
+<bzg>Dachs Portrait</bzg> von <link ref="dach" linktext="true" />; wohl im Kontext ihrer Sammelbemühungen, aus denen vielleicht eine neue Dach-Ausgabe hätte entstehen sollen
+</marginal>
+
+<marginal letter="574" page="152" line="34">
+<bzg>Gevatterin</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="574" page="152" line="35">
+<bzg></bzg> Hamanns Handschrift, nach dem Untertitel von <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel></link>
+</marginal>
+
+<marginal letter="574" page="153" line="1">
+<bzg>Päckchen</bzg> <intlink letter="574" page="145" line="26" linktext="false">s.o.</intlink>
 </marginal>
 
 </marginalien>
