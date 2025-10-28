@@ -23584,7 +23584,7 @@ Brief Nr. 215
 </marginal>
 
 <marginal letter="215" page="120" line="11">
-<bzg>Inoculation</bzg> Impfung; Hamann hat die kleine Schrift, <link ref="selis" subref="selis-inoculation" linktext="true" />, anonym zugesandt bekommen.
+<bzg>Inoculation</bzg> Impfung; Hamann hat die kleine Schrift, <link ref="selis" subref="selis-inoculation" linktext="true" />, anonym zugesandt bekommen, später schreibt er sie <link ref="witten-pc" linktext="true" /> zu, vgl. <intlink letter="574" page="151" line="24" linktext="true" />.
 </marginal>
 
 <marginal letter="215" page="120" line="13">
@@ -76455,11 +76455,11 @@ Brief Nr. 574
 <bzg>prß. Mercur&#x202F;…&#x202F;Pr. Tempe</bzg> <link ref="baczko" subref="baczko-tempe" linktext="true" />; ein früherer Name des Projekts (oder auch nur Spitzname Hamanns) lautete ‚Westpreußischer Merkur‘, vgl. <intlink letter="544" page="50" line="17" linktext="true" />.
 </marginal>
 
-<marginal letter="574" page="150" line="2">
-<bzg>preuß. Blumenlese </bzg> <link ref="blumenlese-pr" linktext="true" />
+<marginal letter="574" page="150" line="2" sort="1">
+<bzg>preuß. Blumenlese</bzg> <link ref="blumenlese-pr" linktext="true" />
 </marginal>
 
-<marginal letter="574" page="150" line="2">
+<marginal letter="574" page="150" line="2" sort="2">
 <bzg>Mohr</bzg> <link ref="mohr-s" linktext="true" />
 </marginal>
 
@@ -76468,15 +76468,15 @@ Brief Nr. 574
 </marginal>
 
 <marginal letter="574" page="150" line="4">
-<bzg>Eleonore</bzg> <link ref="wannowski" subref="wannowski-leonore" linktext="true" />
+<bzg>Eleonore</bzg> <link ref="wannovius" subref="wannovius-leonore" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="150" line="6" sort="1">
-<bzg>Wannowius</bzg> <link ref="wannowski" linktext="true" />
+<bzg>Wannowius</bzg> <link ref="wannovius" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="150" line="6" sort="2">
-<bzg>Mein Saytenspiel</bzg> <link ref="wannowski" subref="wannowski-saytenspiel" linktext="true" />
+<bzg>Mein Saytenspiel</bzg> <link ref="wannovius" subref="wannovius-saytenspiel" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="150" line="8">
@@ -76592,35 +76592,43 @@ Brief Nr. 574
 </marginal>
 
 <marginal letter="574" page="151" line="16">
-<bzg>Gräuel der Verwüstung in Pr.</bzg> Friedrichs II. Finanzreform (von wann? Schultze?!?) und das Walten der französischen Finanzverwaltung
+<bzg>Gräuel der Verwüstung in Pr.</bzg> die 1766 von <link ref="friedrich-II" linktext="true" /> eingeführte Finanzverwaltung nach französischem Vorbild und das Walten der <link ref="general-akzise-und-zoll-direktion" linktext="false">französischen Finanzverwaltung</link>
 </marginal>
 
 <marginal letter="574" page="151" line="17">
-<bzg>von 67&#x202F;…&#x202F;bis zum Geburtstag des Königs 77</bzg> Hamanns Dienstzeit als Sekretair-Traducteur bei der Königsberger Accise etc.?!?
+<bzg>von 67&#x202F;…&#x202F;bis zum Geburtstag des Königs 77</bzg> Hamanns Dienstzeit als ‚Secrétaire-Traducteur‘ bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />, die durch seine Ernennung zum Packhofverwalter an <intlink letter="481" page="292" line="14" linktext="false">Königsgeburtstag 1777</intlink> endete
 </marginal>
 
 <marginal letter="574" page="151" line="19">
-<bzg>besonder Schicksal&#x202F;…&#x202F;übersehen worden bey der Regie</bzg> Hamanns publizistische Bemühungen gegen die französische Finanzregie, die von seinen Vorgesetzten stets wohlwollend ignoriert wurde, aber wohl auch leicht in Entlassung oder Arrest hätten münden können, jedenfalls in Hamanns Wahrnehmung?!?
+<bzg>besonder Schicksal&#x202F;…&#x202F;übersehen worden bey der Regie</bzg> Hamanns publizistische Bemühungen gegen die <link ref="general-akzise-und-zoll-direktion" linktext="false">französische Finanzregie</link>, die von seinen Vorgesetzten stets wohlwollend ignoriert wurde, aber wohl auch leicht in Entlassung oder Arrest hätten münden können, jedenfalls in Hamanns Wahrnehmung
 </marginal>
 
 <marginal letter="574" page="151" line="20">
-<bzg>Cammer Canzellist geschworen</bzg> ?!?
+<bzg>Cammer Canzellist geschworen</bzg> bei seiner kurzzeitigen Anstellung als Kanzlist bei der <link ref="kriegs-und-domaenenkammer" linktext="false"></link> 1763, vgl. <intlink letter="254a" page="XX" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="151" line="21">
 <bzg>Zeichen u Wundern</bzg> <link ref="nt-apg" subref="nt-apg2" linktext="false">Apg 2,43</link>
 </marginal>
 
-<marginal letter="574" page="151" line="22">
-<bzg>Billet&#x202F;…</bzg> ?!?
+<marginal letter="574" page="151" line="22" sort="1">
+<bzg>Billet&#x202F;…&#x202F;Vorrede der Kreuzzüge</bzg> <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" />, ED (Dem Leser unter der Rose): „‚Vt vos admoniti – – Virgil.‘ ‚Nimm hin, du sterbliches Gerippe Apollens! nimm hin dieses Buch, und wage dich nie wieder yber den RUBICON der Narrheit.‘“
+</marginal>
+
+<marginal letter="574" page="151" line="22" sort="2">
+<bzg>Abts Coyers Inoculation du bon sens</bzg> <link ref="selis" subref="selis-inoculation" linktext="true" />, das Hamann <link ref="coyer" linktext="true" /> zuschrieb
 </marginal>
 
 <marginal letter="574" page="151" line="24">
-<bzg>Streich kommt vom ältesten von Witten</bzg> ?!?
+<bzg>Streich kommt vom ältesten von Witten</bzg> <link ref="witten-pc" linktext="true" />
 </marginal>
 
-<marginal letter="574" page="151" line="26">
-<bzg>Rückkunft&#x202F;…&#x202F;Aufenthalt in Mitau</bzg> ?!?
+<marginal letter="574" page="151" line="24">
+<bzg>franquiren</bzg> vorauszubezahlen, sodass Hamann die Bezahlung beim Empfang übernehmen musste
+</marginal>
+
+<marginal letter="574" page="151" line="28">
+<bzg>Aufenthalt in Mitau</bzg> während Hamanns Aufenthalt in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> 1765–1767 als Sekretär von <link ref="tottien-ca" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="151" line="29">
@@ -76671,7 +76679,7 @@ Brief Nr. 574
 <bzg>Mendelson</bzg> <link ref="mendelssohn" linktext="true" />, vgl. <intlink letter="224" page="143" line="29" linktext="true" />
 </marginal>
 
-<marginal letter="574" page="152" line="10" sort="1">
+<marginal letter="574" page="152" line="10" sort="2">
 <bzg>schon geantwortet?</bzg> auf Herders Brief vom 10. Oktober zu <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha</titel></link>, vgl. <intlink letter="573" page="144" line="22" linktext="true" />
 </marginal>
 
