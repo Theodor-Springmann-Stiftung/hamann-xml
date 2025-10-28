@@ -48214,8 +48214,8 @@ Brief Nr. 394
 
 Brief Nr. 395
 
-<marginal letter="395" page="61" line="32">
-<bzg>deux billets-doux</bzg> Weder Hamanns Briefe noch andere von Guichard sind überliefert. Hamann führte den Briefwechsel nach der zweiten Auflage von <link ref="hamann" subref="hamann-lettreperdue" linktext="true" /> vom August 1773, deren zweiter Zusatz an Quintus Icilius (Guichard) gerichtet ist; offenbar noch immer im Zusammenhang der Publikationsversuche von <link ref="hamann" subref="hamann-salomon" linktext="true" />.
+<marginal letter="395" page="61" line="33">
+<bzg>deux billets-doux</bzg> Weder Hamanns Briefe noch andere von Guichard sind überliefert. Hamann führte den Briefwechsel nach der zweiten Auflage von <link ref="hamann" subref="hamann-lettreperdue" linktext="true" /> vom August 1773, deren zweiter Zusatz an Quintus Icilius (Guichard) gerichtet ist; offenbar noch immer im Zusammenhang der Publikationsversuche von <link ref="hamann" subref="hamann-salomon" linktext="true" />. – Grund für die Aufbewahrung dieser Abschrift könnte sein, dass Hamann den Brief zeitweise in die <link ref="hamann" subref="hamann-wannchen" linktext="false">Sammlung seiner Texte</link> zu integrieren vorhatte, vgl. <intlink letter="574" page="151" line="1" linktext="true" />
 </marginal>
 
 <marginal letter="395" page="61" line="37">
@@ -72962,7 +72962,7 @@ Brief Nr. 561
 </marginal>
 
 <marginal letter="561" page="97" line="7" >
-<bzg>Motto fol verso&#x202F;…</bzg> Das Motto auf der Rückseite des <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link>, N&#x202F;III,218/1–4; im ED fehlt die Stellenangabe aus dem 4. bzw. 5. Buch von <link ref="phaedrus" subref="phaedrus-fabulae" linktext="true" />; zum Motto vgl. <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;192f.
+<bzg>Motto fol verso&#x202F;…</bzg> Das Motto auf der Rückseite des <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link>, N&#x202F;III,218/1–4; im ED fehlt die Stellenangabe aus dem 4. bzw. 5. Buch des <link ref="phaedrus" subref="phaedrus-fabulae" linktext="true" />; zum Motto vgl. <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;192f.
 </marginal>
 
 <marginal letter="561" page="97" line="8" >
@@ -76528,31 +76528,31 @@ Brief Nr. 574
 </marginal>
 
 <marginal letter="574" page="150" line="32">
-<bzg>sterquilinio</bzg> 
+<bzg>sterquilinio</bzg> dt. Miststall; vgl. <link ref="phaedrus" subref="phaedrus-fabulae" linktext="true" />, Buch 3, Nr. 12 „Pullus ad margaritam“ (‚Das Huhn an die Perle‘)
 </marginal>
 
 <marginal letter="574" page="150" line="35">
-<bzg>Lettre neologique et provinciale</bzg> 
+<bzg>Lettre neologique et provinciale</bzg> <link ref="hamann" subref="hamann-lettre" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="150" line="36" sort="1">
-<bzg>Glose Philippique</bzg> 
+<bzg>Glose Philippique</bzg> <link ref="hamann" subref="hamann-glose" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="150" line="36" sort="2">
-<bzg>Lettres d’un Sauvage du Nord</bzg> 
+<bzg>Lettres d’un Sauvage du Nord</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="150" line="37" sort="1">
-<bzg>Cochenille de Pologne</bzg> 
+<bzg>Cochenille de Pologne</bzg> <link ref="hamann" subref="hamann-kermes" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="150" line="37" sort="2">
-<bzg>2 Pastoral Briefen an die Gen. Adm.</bzg> 
+<bzg>2 Pastoral Briefen an die Gen. Adm.</bzg> <link ref="hamann" subref="hamann-generaladministration" linktext="true" />
 </marginal>
 
 <marginal letter="574" page="151" line="1">
-<bzg>Quintus Icilius Antwort</bzg> 
+<bzg>Quintus Icilius Antwort</bzg> <link ref="guichard" linktext="true" />, gemeint ist <intlink letter="395" page="61" line="33" linktext="false">HKB 395</intlink>
 </marginal>
 
 </marginalien>
