@@ -6321,6 +6321,11 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <eintrag>Studienfreund Hamanns, später Waisengerichts-Sekretär.</eintrag>
 </kommentar>
 
+<kommentar id="gothaische-gelehrte-zeitungen" type="neuzeit">
+<lemma>Gothaische gelehrte Zeitungen</lemma>
+<eintrag>Erschienen 1774–1776 in Gotha, verlegt von Carl Wilhelm Ettinger. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1046526677">ZDB</wwwlink>. Digitalisat 1774–1775: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN776568612">SUB Göttingen</wwwlink>; 1776–1798: <wwwlink address="https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000538">BSB München</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="goldsmith" type="neuzeit">
 <lemma>Oliver Goldsmith</lemma>
 <eintrag>1728–1774. Irischer Schriftsteller, siehe <wwwlink address="https://doi.org/10.1093/ref:odnb/10924">John A. Dussinger: Goldsmith, Oliver, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
@@ -6872,6 +6877,12 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 <eintrag>
 <titel>Briefe über die wichtigsten Wahrheiten der Offenbarung. Zum Drucke befördert durch den Herausgeber der Geschichte Usongs</titel> (Bern: Neue Buchhandlung 1772) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;150/340: „Ei. Briefe über die wichtigsten Wahrheiten der Offenbarung 772“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-147729">ULB Halle: Ig 3150 z</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hallesche-gelehrte-zeitungen" type="neuzeit">
+<lemma>Hallische gelehrte Zeitungen</lemma>
+<eintrag>Erschienen 1766–1792 in Halle, verlegt von Johann Jakob Curt, siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1081269685">ZDB</wwwlink>. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/89305">ULB Halle</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="hallervord" type="neuzeit">
@@ -17619,7 +17630,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 <lemma>Stewart, <titel>An Account of the Kingdom of Thibet</titel></lemma>
 <eintrag>
 <titel>An Account of the Kingdom of Thibet. In a Letter from John Stewart, Esquire, F. R. S. to Sir John Pringle, Bart. P. R. S.</titel>. In: Philosophical Transactions of the Royal Society of London, vol. 77. For the Year 1777 (London 1777), S.465–492. Digitalisat: <wwwlink address="https://books.google.de/books?id=VY9eAAAAcAAJ">Google Books</wwwlink>.<line type="break" />
-Eine gekürzte Übersetzung erschien etwa in der <titel>Gothaischen gelehrten Zeitung,</titel> 5. Jg., 8.8.1778, S.&#x202F;515–519. Digitalisat: <wwwlink address="https://books.google.de/books?id=M9g9AQAAMAAJ">Google Books</wwwlink>.
+Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-zeitungen" linktext="false"><titel>Gothaischen gelehrten Zeitungen</titel></link>, <wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb10502262_00517_u001?page=3">St.&#x202F;63, 8.8.1778, S.&#x202F;515–519</wwwlink>.
 </eintrag>.
 </subsection>
 </kommentar>
