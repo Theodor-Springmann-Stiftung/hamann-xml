@@ -7767,6 +7767,11 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </subsection>
 </kommentar>
 
+<kommentar id="heinrich-reuss" type="neuzeit">
+<lemma>Heinrich Reuß von Plauen</lemma>
+<eintrag>1400–1470. Heerführer und ab 1469 kurzzeitig Hochmeister des Deutschen Ordens, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118826190.html#ndbcontent">Weise, Erich: Heinrich Reuß von Plauen, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;379f.</wwwlink></eintrag>
+</kommentar>
+
 <kommentar id="heintz-kr" type="neuzeit">
 <lemma>Karl Reinhold Heintz</lemma>
 <eintrag>1745–1807. Kriegs- und Domänenrat bei der Litauischen Kammer; Bekannter von Hamann in Königsberg; 1779 Professor der Juristerei in Königsberg.</eintrag>
@@ -14637,6 +14642,24 @@ Wiss. Ausg.: <titel>Plautus: Komödien. Lateinisch und deutsch</titel>, hrsg., �
 </subsection>
 </kommentar>
 
+<kommentar id="plessing-jf" type="neuzeit">
+<lemma>Johann Friedrich Plessing</lemma>
+<eintrag>1720–1793. Lutherischer Theologe und Oberhofprediger in Wernigerode, Vater von <link ref="plessing-fvl" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz97005.html#adbcontent">Förstemann: Plessing, Johann Friedrich, in: <titel>ADB</titel>&#x202F;28 (1888), S.&#x202F;281f</wwwlink>.</eintrag>
+<subsection id="plessing-abgotterey" type="neuzeit">
+<lemma>Plessing, <titel>Versuch vom Ursprung der Abgötterey</titel></lemma>
+<eintrag><titel>Johann Friedrich Plessings Versuch vom Ursprung der Abgötterey. Mit einer Vorrede von Hrn. Johann Rudolph Kieslings</titel> (2 Bde., Leipzig 1757–1758) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;70/190: „J. F. Plessings Versuch vom Ursprung der Abgötterey, Th. I. II. Leipz. 757“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11345992-9">Stabi Passau: S nv/Nn (b) 7-1</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="plessing-f" type="neuzeit">
+<lemma><titel>Friedrich</titel> Victor Leberecht Plessing</lemma>
+<eintrag>1752–1806. Philosoph und später Hochschullehrer; studierte ab 1779 bei Kant an der Albertina und kam Anfang 1780 mit Hamann in Kontakt; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118741063.html#adbcontent">Jacobs, Eduard: Plessing, Friedrich, in: <titel>ADB</titel>&#x202F;28 (1888), S.&#x202F;277–281</wwwlink>.</eintrag>
+<subsection id="plessing-vorsehung" type="neuzeit">
+<lemma>Plessing, <titel>Die Wahrheit der Vorsehung</titel></lemma>
+<eintrag><titel>Die Wahrheit der Vorsehung, dargestellt in einer Gastpredigt; gehalten zu Koniz in Westpreussen, den 6. December 1778; nebst einem Anhang; in welchem Die Geschichte Josephs, und die Verfolgung Jacobs vom Laban, als Beweise für die Wahrheit der Vorsehung, erläutert und betrachtet werden</titel> (Königsberg: Hartung 1779). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/74365"></wwwlink>ULB Halle: Il 6158 l</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="plinius" type="neuzeit">
 <lemma>Plinius der Ältere</lemma>
 <eintrag>Gaius Plinius Secundus Maior. 23/24–79.</eintrag>
@@ -16313,6 +16336,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <lemma>Leopold von Schlieben</lemma>
 <eintrag>1723–1788 Preuß. Etatsminister und Präsident des <link ref="pupillenkollegium" linktext="true" />.</eintrag>
 </kommentar>
+
+<kommentar id="schlieben-g" type="neuzeit">
+<lemma>Georg von Schlieben</lemma>
+<eintrag>Spätes 15. Jh. Söldnerführer für den Deutschen Orden und Stammvater der Adelsfamilie von Schlieben.</eintrag>
+</kommentar>schlieben-g
 
 <kommentar id="schlosser" type="neuzeit">
 <lemma>Johann Georg Schlosser</lemma>
@@ -19171,6 +19199,12 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <lemma>Voß (Hg.), <titel>(Hamburger) Musenalmanach 1777</titel></lemma>
 <eintrag>
 <titel>Poetische Blumenlese für das Jahr 1777.</titel> Herausgegeben von Jo.&#x202F;Heinr.&#x202F;Voß (Hamburg: Bohn 1777 [1776]). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDED">ÖNB Wien</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/104/">Musenalm</wwwlink>.
+</eintrag>
+</subsection>
+ <subsection id="voss-odyssee" type="neuzeit" sort="20">
+<lemma>Voß, <titel>Odyssee</titel></lemma>
+<eintrag>
+<titel>Homers Odüßee übersezt von Johann Heinrich Voß</titel> (Hamburg: Selbstverlag 1781). Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/voss_oduessee_1781">BBAW: B4/DWB</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
