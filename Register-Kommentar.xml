@@ -2730,7 +2730,11 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 </subsection>
 <subsection id="busching-nachrichten" type="neuzeit" sort="40">
 <lemma>Büsching, <titel>Wöchentliche Nachrichten</titel></lemma>
-<eintrag><titel>Wöchentliche Nachrichten von neuen Landcharten, geographischen, statistischen und historischen Büchern und Sachen</titel> (12 Bde., Berlin: Haude und Spener 1773–1785). Digitalisat: Tl. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10429060-2">BSB München: Res/Geo.u. 53 l-1</wwwlink>.</eintrag>
+<eintrag><titel>Wöchentliche Nachrichten von neuen Landcharten, geographischen, statistischen und historischen Büchern und Sachen</titel> (12 Bde., Berlin: Haude und Spener 1773–1785). Digitalisat Tl. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10429060-2">BSB München: Res/Geo.u. 53 l-1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="busching-judische-religion" type="neuzeit" sort="50">
+<lemma>Büsching, <titel>Geschichte der jüdischen Religion</titel></lemma>
+<eintrag><titel>Geschichte der jüdischen Religion, oder des Gesetzes, ein Grundriß, entworfen von D. Anton Friedrich Büsching</titel> (Berlin: Eisfeld 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10570302-4">BSB München: Jud. 10</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -5902,7 +5906,7 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 
 <kommentar id="general-akzise-und-zoll-direktion" type="neuzeit">
 <lemma>General-Akzise- und Zoll-Direktion</lemma>
-<eintrag>Zentrale königlich-preußische Akzise- und Zollbehörde in Berlin, eines der Departements im <link ref="generaldirektorium" linktext="true" />, von Hamann meist Generaladministration (Gen. Adm.) oder Generalregie genannt; ihm unterstanden die provinziellen Akzise- und Zollbehörden wie die <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />; 1766 von <link ref="friedrich-II" linktext="true" /> eingeführt und bis zu seinem Tod nach dem Vorbild des französischen Akzisesystems bestehend, zunächst nominell geleitet von <link ref="horst" linktext="true" />, dazu von fünf Generalregisseuren, darunter <link ref="launay" linktext="true" /> und <link ref="lattre" linktext="true" />; als Unterregisseur für Preußen war außerdem <link ref="morinval" linktext="true" /> für Hamann von Bedeutung. Nach Friedrichs Tod und der Auflösung der französischen Finanzverwaltung geleitet von <link ref="werder" linktext="true" />. Vgl. <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1888.</wwwlink></eintrag>
+<eintrag>Zentrale königlich-preußische Akzise- und Zollbehörde in Berlin, eines der Departements im <link ref="generaldirektorium" linktext="true" />, von Hamann meist Generaladministration (Gen. Adm.) oder Generalregie genannt; ihm unterstanden die provinziellen Akzise- und Zollbehörden wie die <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />; 1766 von <link ref="friedrich-II" linktext="true" /> eingeführt und bis zu seinem Tod nach dem Vorbild des französischen Akzisesystems bestehend, zunächst nominell geleitet von <link ref="horst" linktext="true" /> (ab 1774 von <link ref="goerne" linktext="false">Görne</link>), dazu von fünf Generalregisseuren, deren wichtigster und eigentlicher Leiter der Generaladministration war <link ref="launay" linktext="true" />; ein weiterer Generalregisseur war <link ref="lattre" linktext="true" />; als Unterregisseur für Preußen war außerdem <link ref="morinval" linktext="true" /> für Hamann von Bedeutung. Nach Friedrichs Tod und der Auflösung der französischen Finanzverwaltung geleitet von <link ref="werder" linktext="true" />. Vgl. <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1888.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="generaldirektorium" type="neuzeit">
@@ -6215,6 +6219,12 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <eintrag>
 <titel>Das Werther-Fieber</titel> (Leipzig 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10108896-0">BSB München: P.o.germ. 482 ru</wwwlink></eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="goerne" type="neuzeit">
+<lemma>Friedrich Christoph von Görne</lemma>
+<eintrag>1734–1817. Geheimer Staatsminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link> und Besitzer weit verstreuter Güter u.a. in Preußen; ab 1774 nomineller Leiter der <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>, vgl. <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC"> Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786, S.&#x202F;117</wwwlink>; außerdem Direktor der Seehandlung, wegen deren prekärer Finanzlage er Anfang 1782 entlassen und verhaftet wurde.
+</eintrag>
 </kommentar>
 
 <kommentar id="goeschen" type="neuzeit">
@@ -8850,7 +8860,7 @@ Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Fl
 
 <kommentar id="horst" type="neuzeit">
 <lemma>Julius August von der Horst</lemma>
-<eintrag>1723–1791. Freiherr und Staatsminister, ab 1766 der nominelle Vorsitzende der <link ref="general-akzise-und-zoll-direktion" linktext="true" />. Vgl. <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786 (Leipzig 1888), S.&#x202F;43f., 48–53 undc60.</wwwlink></eintrag>
+<eintrag>1723–1791. Freiherr und Staatsminister, ab 1766 der nominelle Vorsitzende der <link ref="general-akzise-und-zoll-direktion" linktext="true" />. Vgl. <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC">Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786 (Leipzig 1888), S.&#x202F;43f., 48–53 und 60.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="hottinger" type="neuzeit">
@@ -9230,7 +9240,7 @@ J
 <subsection id="jerusalem-jfw-betrachtungen" type="neuzeit" sort="20">
 <lemma>Jerusalem, <titel>Betrachtungen</titel></lemma>
 <eintrag>
-<titel>Betrachtungen über die vornehmsten Wahrheiten der Religion</titel> (2 Bde., Braunschweig 1768–1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10702295-3">Bayerische Staatsbibliothek: 40.5484-1</wwwlink>.</eintrag>
+<titel>Betrachtungen über die vornehmsten Wahrheiten der Religion</titel> (4 Bde., Braunschweig 1768–1779). Digitalisat Tl.&#x202F;1 (1769): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10702295-3">BSB München: 40.5484-1</wwwlink>. Digitalisat Tl.&#x202F;2,2 (1779): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10398408-1">BSB München: Dogm. 539 b-2,2</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -16923,6 +16933,12 @@ D. Joh. Salomo Semlers <titel>Abhandlung von freier Untersuchung des Canon nebst
 <lemma>Semler, <titel>Beantwortung der Fragmente eines Ungenanten</titel></lemma>
 <eintrag>
 <titel>D. Joh. Salomo Semlers Beantwortung der Fragmente eines Ungenanten, insbesondere vom Zweck Jesu und seiner Jünger</titel> (Halle: Erziehungsinstitut 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3273533845">SLUB Dresden: Theol.ev.pol.1410</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="semler-antwort-bahrdt" type="neuzeit" sort="40">
+<lemma>Semler, <titel>Antwort auf das Bahrdische Glaubensbekenntnis</titel></lemma>
+<eintrag>
+<titel>D. Joh. Sal. Semlers Antwort auf das Bahrdische Glaubensbekenntnis</titel> (Halle: Hemmerde 1779). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN338271201">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
