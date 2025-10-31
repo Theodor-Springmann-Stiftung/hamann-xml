@@ -1375,7 +1375,7 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 
 <kommentar id="benzler" type="neuzeit">
 <lemma>Johann Lorenz Benzler</lemma>
-<eintrag>1747–1817. Übersetzer, 1773 Redakteur des Lippischen Intelligenzblattes, seit 1783 Bibliothekar des Grafen Stolberg-Wernigerode.</eintrag>
+<eintrag>1747–1817. Übersetzer, 1773 Redakteur des Lippischen Intelligenzblattes, seit 1783 Bibliothekar des Grafen Stolberg-Wernigerode, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116118156.html#adbcontent">Jacobs, Eduard: Benzler, Lorenz, in: <titel>ADB</titel>&#x202F;46 (1902), S.&#x202F;364–366</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="berens-a" type="neuzeit">
@@ -7419,8 +7419,7 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <subsection id="hamann-wannchen" type="neuzeit" sort="910">
 <lemma>Hamann, <titel>Metakritische Wannchen</titel></lemma>
 <eintrag>
-Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab 1779 geplantes Projekt einer Sammlung von Hamann-Schriften (zwischendurch auch unter den Titeln <titel>gallicanische Sottisen
-</titel> oder <titel>Saalbadereyen</titel>); nie erschienen.
+Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab 1779 geplantes Projekt einer Sammlung von Hamann-Schriften (die französischen Schriften zwischendurch auch unter den Titeln <titel>Gallicanische Sottisen</titel> und <titel>Essays à la Mosaique</titel>; später als <titel>Saalbadereyen</titel>); nie erschienen.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9977,6 +9976,17 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 </subsection>
 </kommentar>
 
+<kommentar id="kindleben" type="neuzeit">
+<lemma>Christian Wilhelm Kindleben</lemma>
+<eintrag>1748–1785. Schriftsteller und Publizist, Sammler von Studentenliedern, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118723499.html#adbcontent">Muncker, Franz: Kindleben, Christian Wilhelm, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;765–768</wwwlink>.
+</eintrag>
+<subsection id="kindleben-orthographie" type="neuzeit" sort="10">
+<lemma>Kindleben, <titel>Die allerneueste deutsche Orthographie des achtzehnten Jahrhunderts</titel></lemma>
+<eintrag>
+<titel>Die allerneueste deutsche Orthographie des achtzehnten Jahrhunderts, erfunden von Klopstock, nachgeahmt von dem Dessauischen Erziehungsinstitute, ausgezischt von der gelehrten Welt, und übergegangen in die Vergessenheit. Herausgegeben von einem Mennoniten</titel> (Frankfurt, Leipzig 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3694212648">SLUB Dresden: Miscell.528,8</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="king-w" type="neuzeit">
 <lemma>William King</lemma>
 <eintrag>1650–1729. Erzbischof von Dublin. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15605">Connolly, S.: King, William, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -10005,7 +10015,7 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 
 <kommentar id="kleist" type="neuzeit">
 <lemma>Christian Ewald v. Kleist</lemma>
-<eintrag>1715–1759. Dichter u. preuß. Offizier, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118723499.html#adbcontent">Schwarze, R.: Kleist, Ewald Christian von, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;113–121</wwwlink>.
+<eintrag>1715–1759. Dichter u. preuß. Offizier, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118723499.html#adbcontent">Schwarze, R.: Kleist, Ewald Christian von, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;113–121</wwwlink>.
 </eintrag>
 <subsection id="kleist-paches" type="neuzeit" sort="10">
 <lemma>Kleist, <titel>Cißides und Paches</titel></lemma>
@@ -10045,7 +10055,7 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 <subsection id="kleuker-pascal" type="neuzeit" sort="50">
 <lemma>Kleuker, <titel>Gedanken Pascals</titel></lemma>
 <eintrag>
-<titel>Gedanken <link ref="pascal" linktext="false">Pascals</link>. Mit Anmerkungen und Gedanken von J. F. K.</titel> (Bremen 1777). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:3:3-14597">ULB Halle</wwwlink>.
+<titel>Gedanken Pascals. Mit Anmerkungen und Gedanken von J. F. K.</titel> (Bremen 1777). Übersetzung von <link ref="pascal" subref="pascal-pensees" linktext="true" />. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:3:3-14597">ULB Halle</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="kleuker-plato" type="neuzeit" sort="60">
@@ -10171,7 +10181,7 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 </subsection>
 <subsection id="klopstock-dichtkunst" type="neuzeit" sort="200">
 <lemma>Klopstock, <titel>Ueber Sprache und Dichtkunst</titel></lemma>
-<eintrag><titel>Ueber Sprache und Dichtkunst.</titel> Fragmente von Klopstock (Hamburg: Heroldsche Buchhandlung 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id43410647X4">SLUB Dresden: D.O.216,41"</wwwlink>.
+<eintrag><titel>Ueber Sprache und Dichtkunst. Fragmente von Klopstock</titel> (2 Bde., Hamburg: Heroldsche Buchhandlung 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10583953-3">BSB München: L.germ. 140-1/2</wwwlink>. Digitalisat der ‚Ersten Fortsezung‘: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10797586-2">BSB München: L.germ. 140-1/2</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -14162,6 +14172,18 @@ Auszug aus <link ref="pallas" subref="pallas-reise" linktext="true" />
 <kommentar id="pascal" type="neuzeit">
 <lemma>Blaise Pascal</lemma>
 <eintrag>1623–1662. Frz. Philosoph und Mathematiker.</eintrag>
+<subsection id="pascal-provinciales" type="neuzeit" sort="10">
+<lemma>Pascal, <titel>Lettres provinciales</titel></lemma>
+<eintrag>
+<titel>Les provinciales Ou les lettres escrites Par Louis de Montalte A un Provincial de ses amis, et aux RR. PP. Jesuites Sur la sujet de la Morale, et de la Politique de ces Peres</titel> (Köln 1757). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11088124-0">Stabi Regensburg: 999/Cas.275</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="pascal-pensees" type="neuzeit" sort="20">
+<lemma>Pascal, <titel>Pensées</titel></lemma>
+<eintrag>
+<titel>Pensées de M. Pascal sur la religion, et sur quelques autres sujets. Edition nouvelle. Augmentée</titel> (Amsterdam 1701; erste Nachlassausgabe von 1670) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;57/625: „Pensées de Pascal, Amst. 701“ – 124/370: „Pensées de Pascal, Amst. 701“]. Digitalisat der Ausgabe Amsterdam 1701: <wwwlink address="https://data.onb.ac.at/rec/AC10182476">ÖNB Wien: 213382-A ALT MAG</wwwlink>. 
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="passavant" type="neuzeit">
@@ -16922,6 +16944,12 @@ D. Joh. Salomo Semlers <titel>Abhandlung von freier Untersuchung des Canon nebst
 <lemma>Sen. <titel>epist.</titel></lemma>
 <eintrag>epistulae morales ad Lucilium.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="senff-ad" type="neuzeit">
+<lemma>Anna Dorothea Senff</lemma>
+<eintrag>Geb. <link ref="plessing-jf" linktext="false">Plessing</link>; Frau des Bürgermeisters von <wwwlink address="https://www.geonames.org/3101672">Konitz</wwwlink>, verwandt mit <link ref="plessing-f" linktext="false"></link>.
+</eintrag>
 </kommentar>
 
 <kommentar id="sevigne" type="neuzeit">
@@ -20156,6 +20184,12 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <kommentar id="zeise" type="neuzeit">
 <lemma>Johann Daniel Zeise</lemma>
 <eintrag>Gest. 1766. Buchhändler in Königsberg, ab 1764 als dritter Mann von <link ref="hartung-h" linktext="true" /> Geschäftsführer der Hartungschen Buchhandlung.
+</eintrag>
+</kommentar>
+
+<kommentar id="zesen" type="neuzeit">
+<lemma>Philipp von Zesen</lemma>
+<eintrag>1619–1789. Schriftsteller und Sprachreformer des Barock, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118636596.html#adbcontent ">Dissel, Karl: Zesen, Philipp von, in: <titel>ADB</titel>&#x202F;45 (1900), S.&#x202F;108–118</wwwlink>.
 </eintrag>
 </kommentar>
  
