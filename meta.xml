@@ -11133,7 +11133,7 @@
       </letterDesc>
       <letterDesc letter="578">
         <date value="Königsberg, 26. und 28. Januar 1780" />
-        <sort value="1780-01-26" order="100" />
+        <sort value="1780-01-26" order="200" />
         <location ref="2" />
         <senders>
           <sender ref="1" />

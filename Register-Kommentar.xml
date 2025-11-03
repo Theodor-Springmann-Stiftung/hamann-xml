@@ -2623,6 +2623,17 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 </subsection>
 </kommentar>
 
+<kommentar id="bunyan" type="neuzeit">
+<lemma>John Bunyan</lemma>
+<eintrag>1628–1688. Englischer Baptistenprediger und Schriftsteller, siehe <wwwlink address="https://d-nb.info/gnd/118517473">GND</wwwlink>.</eintrag>
+<subsection id="bunyan-pilgrim" type="neuzeit">
+<lemma>Bunyan, <titel>Pilgrim’s progress</titel></lemma>
+<eintrag>
+<titel>The pilgrim’s progress from this world, to that which is to come; delivered under the similitude of a dream. Wherin is discovered the manner of his setting out his dangerous journey; and safe arrival at the desired country</titel> (2 Tle., London 1678–1684). Bereits im 17. Jh. vielfach ins Deutsche übersetzt.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="burckardt" type="neuzeit">
 <lemma>Johann Jakob Burckardt</lemma>
 <eintrag>1718–1796.</eintrag>
@@ -10515,7 +10526,8 @@ Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. �
 <subsection id="kypke-observationes" type="neuzeit" sort="20">
 <lemma>Kypke, <titel>Observationes Sacrae</titel></lemma>
 <eintrag>
-<titel>Georgii Davidis Kypke Philosophiae et Lingvarvm Orientalivm Profess. Extraord. in Academ. Regiomont. Observationes Sacrae in Novi Foederis Libros: ex avctoribvs potissimvm graecis et antiqvitatibvs. [Tl.&#x202F;1:] Qvatvor Evangelistas Complexvs; [Tl.&#x202F;2:] Acta Apostolorvm, Epistolas et Apocalypsin Complexvs</titel> (Breslau: Kornius 1755) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;30/230: „G. D. Kypke Oberuationes sacrae, Tom. I. II. Vratisl. 755“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-509312">ULB Halle: Ie 295 (1/2)</wwwlink>.
+<titel>Georgii Davidis Kypke […] Observationes Sacrae in Novi Foederis Libros: ex avctoribvs potissimvm graecis et antiqvitatibvs. [Tl.&#x202F;1:] Qvatvor Evangelistas Complexvs; [Tl.&#x202F;2:] Acta Apostolorvm, Epistolas et Apocalypsin Complexvs</titel> (Breslau: Kornius 1755) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;30/230: „G. D. Kypke Oberuationes sacrae, Tom. I. II. Vratisl. 755“]. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/78792">ULB Halle: Ie 295 (1/2)</wwwlink>. <line type="break" />
+Nach Kypkes Tod sah Hamann wohl ein Manuskript mit Zusätzen zur Forführung aus Kypkes Nachlass ein vgl. <intlink letter="576" page="158" line="2" linktext="true" />.
 </eintrag>
 </subsection>
 <subsection id="kypke-ebrgrammatic" type="neuzeit" sort="30">

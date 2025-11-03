@@ -75509,7 +75509,7 @@ Brief Nr. 573
 </marginal>
 
 <marginal letter="573" page="140" line="4">
-<bzg>Bunians Reise</bzg> Bunyan, John: Pilgrim’s Progress from this World, to that to come, London 1678 ?!?
+<bzg>Bunians Reise</bzg> nach <link ref="bunyan" subref="bunyan-pilgrim" linktext="true" />
 </marginal>
 
 <marginal letter="573" page="140" line="6">
@@ -77279,7 +77279,7 @@ Brief Nr. 576
 </marginal>
 
 <marginal letter="576" page="158" line="2">
-<bzg>Kypkens Observationum&#x202F;…</bzg> ein Manuskript für <link ref="kypke" subref="kypke-observationes" linktext="true" /> aus Kypkes Nachlass?!? – Henkel: m[anu]s[cript]tum mit Zitatenanführungen; schon geredt: wohl Irrtum Hs.?!?
+<bzg>Kypkens Observationum&#x202F;…</bzg> wohl ein Manuskript mit Zusätzen für <link ref="kypke" subref="kypke-observationes" linktext="false"><titel>Observationes Sacrae in Novi Foederis Libros</titel></link> aus Kypkes Nachlass, vgl. <intlink letter="576" page="144" line="24" linktext="true" />
 </marginal>
 
 <marginal letter="576" page="158" line="5">
@@ -77287,11 +77287,11 @@ Brief Nr. 576
 </marginal>
 
 <marginal letter="576" page="158" line="6">
-<bzg>Observ.</bzg> <link ref="kypke" subref="kypke-observationes" linktext="true" />?!?
+<bzg>Observ.</bzg> <link ref="kypke" subref="kypke-observationes" linktext="true" />
 </marginal>
 
 <marginal letter="576" page="158" line="9">
-<bzg>vehiculo der Einlage aus Morungen</bzg> ?!?
+<bzg>vehiculo der Einlage aus Morungen</bzg> Zur Beförderung; gemeint ist entweder ein Brief von <link ref="herder-cd-g" linktext="false">Herders Schwester</link> an Hamann (<intlink letter="576" page="155" line="4" linktext="false">s.o.</intlink>) oder einer an Herder, den Hamann öffnete und mit diesem Brief (HKB 576) nach Weimar schickte.
 </marginal>
 
 <marginal letter="576" page="158" line="11">
@@ -77301,6 +77301,67 @@ Brief Nr. 576
 <marginal letter="576" page="158" line="13">
 <bzg>treusten Hälfte</bzg> <link ref="herder-c" linktext="true" />
 </marginal>
+
+
+Brief Nr. 577
+
+<marginal letter="577" page="158" line="23" sort="1">
+<bzg>heil. Abend des Krönungstages</bzg> am Abend vor dem 18. Januar (dem Krönungsfest in Erinnerung an die Krönung Friedrichs I. im Königsberger Schloss 1701)
+</marginal>
+
+<marginal letter="577" page="158" line="23" sort="2">
+<bzg>Ihrem Briefe</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="577" page="158" line="24" sort="1">
+<bzg>aus Morungen</bzg> von <link ref="herder-cd-g" linktext="false">Herders Schwester</link> aus <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>, vgl. <intlink letter="576" page="155" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="577" page="158" line="24" sort="2">
+<bzg>HE Müller</bzg> <link ref="mueller-ee" linktext="true" />
+</marginal>
+
+<marginal letter="577" page="158" line="25">
+<bzg>v Auerswalde</bzg> an <link ref="auerswald" linktext="true" />, vmtl. der Brief vom 28. Dezember 1779, der teilweise abgedruckt ist bei <wwwlink address="https://viewer.onb.ac.at/1054F451/100">Voigt: <titel>Das Leben des Professor Christian Jacob Kraus</titel></wwwlink>, S.&#x202F;73–83
+</marginal>
+
+<marginal letter="577" page="158" line="26">
+<bzg>Antwort vom 2ten über Weimar</bzg> <intlink letter="575" page="153" line="6" linktext="false">HKB 575</intlink> über <link ref="herder" linktext="false">Herder</link>
+</marginal>
+
+<marginal letter="577" page="158" line="28">
+<bzg>Konxomp.</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />, vgl. <intlink letter="576" page="156" line="24" linktext="true" />
+</marginal>
+
+<marginal letter="577" page="158" line="29">
+<bzg>andern Auflage</bzg> die geplante zweite Auflage von <titel>Konxompax</titel>, die nie zustande kam, vgl. <intlink letter="561" page="95" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="577" page="158" line="30">
+<bzg>Georgi Alph.</bzg> <link ref="giorgi-aa" subref="giorgi-tibetanum" linktext="true" />
+</marginal>
+
+<marginal letter="577" page="158" line="31" sort="1">
+<bzg>Päckchen</bzg> vgl. <intlink letter="576" page="155" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="577" page="158" line="31" sort="2">
+<bzg>Hartungs</bzg> <link ref="hartung-gl" linktext="true" />; zu dessen Unzuverlässigkeit im Aufbewahren bzw. Herausgeben von Briefen vgl. <intlink letter="574" page="145" line="33" linktext="true" />
+</marginal>
+
+<marginal letter="577" page="158" line="33">
+<bzg>Büttner den Panglotten</bzg> <link ref="buettner" linktext="true" />, nach der Figur im <link ref="voltaire" subref="voltaire-candide" linktext="false"><titel>Candide</titel></link> oder wg. seiner Vergleichungstafeln der Schriftarten (Henkel; was für Vergleichstafeln?!?)
+</marginal>
+
+<marginal letter="577" page="158" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="577" page="158" line="">
+<bzg></bzg> 
+</marginal>
+
+
 
 </marginalien>
 </data>
