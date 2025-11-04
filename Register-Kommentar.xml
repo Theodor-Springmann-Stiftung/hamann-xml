@@ -393,13 +393,13 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 <eintrag>1740–1817. <link ref="penzel" linktext="false">Penzels</link> Landesherr.</eintrag>
 </kommentar>
 
-<kommentar id="andersen" type="neuzeit">
+<kommentar id="anderson" type="neuzeit">
 <lemma>Adam Anderson</lemma>
 <eintrag>1692–1765. Schottischer Ökonom, siehe <wwwlink address="https://en.m.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Adam_Anderson">Encyclopædia Britannica</wwwlink>.</eintrag>
-<subsection id="andersen-handel" type="neuzeit">
-<lemma>Andersen, <titel>Geschichte des Handels</titel></lemma>
+<subsection id="anderson-handel" type="neuzeit">
+<lemma>Anderson, <titel>Geschichte des Handels</titel></lemma>
 <eintrag>
-<titel> A. Andersons historische und chronologische Geschichte des Handels von den ältesten bis auf jezzige Zeiten</titel>. Aus dem Englischen übersezt (7 Bde., Riga: Hartknoch 1773–1779). Digitalisat Bd. 4: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11765565-5">Stabi Bamberg: R.merc.o.9(4</wwwlink>.
+<titel>A. Andersons historische und chronologische Geschichte des Handels von den ältesten bis auf jezzige Zeiten</titel>. Aus dem Englischen übersezt (7 Bde., Riga: Hartknoch 1773–1779) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;88/215:: „A. Anderson’s historische und chronologische Geschichte des Handels, Th. I. II. III. Riga 773—75. Donum LIBRARII.“ und 195/41: „Anderson’s Geschichte des Handels, 2ter Th. Riga 773“]. Digitalisat Bd. 4: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11765565-5">Stabi Bamberg: R.merc.o.9(4</wwwlink>.
 </eintrag> 
 </subsection>
 </kommentar>
@@ -3667,7 +3667,7 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 
 <kommentar id="courtan-sm" type="neuzeit">
 <lemma>Sophie Marianne Courtan</lemma>
-<eintrag>Geboren 1741. Geb. Toussaint, seit 1761 Ehefrau von <link ref="courtan-pj" linktext="true" /> und Schwägerin von <link ref="lindner-m" linktext="true" />; ab Mitte der 1770er Schwägerin von <link ref="hartknoch" linktext="true" /> und Freundin Hamanns in Königsberg.
+<eintrag>Geboren 1741. Geb. <link ref="toussaint-jc" linktext="false">Toussaint</link>. Befreundet mit Hamann in Königsberg ab Mitte der 1770er Jahre, Patenmutter von <link ref="hamann-ms" linktext="true" />; seit 1761 Ehefrau von <link ref="courtan-pj" linktext="true" /> und Schwägerin von <link ref="lindner-m" linktext="true" />; später von <link ref="hartknoch" linktext="true" /> (Schwester von <link ref="hartknoch-a" linktext="true" />).
 </eintrag>
 </kommentar>
 
@@ -4986,6 +4986,19 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 <eintrag>Geb. ca.&#x202F;1720. Mitglied der Akademie der Wissenschaft in Montpellier. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;13, 1815), S.&#x202F;384.</eintrag>
 </kommentar>
 
+<kommentar id="estienne" type="neuzeit">
+<lemma>Henri Estienne</lemma>
+<eintrag>1528–1598. Auch Henri II Estienne oder Henricus Stephanus; protestantischer französischer Buchdrucker und humanistischer Gelehrter in Paris, siehe <wwwlink address="https://d-nb.info/gnd/118862758">GND</wwwlink>.
+</eintrag>
+<subsection id="estienne-thesaurus" type="neuzeit">
+<lemma>Estienne, <titel>Thesaurus graecae linguae</titel></lemma>
+<eintrag>
+<titel>Thesaurus graecae linguae</titel> (5 Bde., Paris 1572).
+</eintrag>
+</subsection>
+
+</kommentar>
+
 <kommentar id="estocq" type="neuzeit">
 <lemma>Johann Ludwig L’Estocq</lemma>
 <eintrag>1712–1779. Kriegsrat und Richter der französischen Kolonie in Königsberg, Stadtradt, Professor der Rechte und Kanzler der Albertina, siehe <wwwlink address="https://books.google.de/books?id=NgI_AAAAcAAJ">Meusel: Lexikon der vom Jahr 1750 bis 1800 verstorbenen teutschen Schriftsteller</wwwlink>, Bd.&#x202F;3, S.&#x202F;191.
@@ -5159,7 +5172,7 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 </kommentar>
 
 <kommentar id="ferdinand" type="neuzeit">
-<lemma>Ferdinand von Braunschweig-Wolfenbüttel</lemma>
+<lemma>Ferdinand von Braunschweig-Lüneburg</lemma>
 <eintrag>1721–1792. Generalfeldmarschall im Siebenjährigen Krieg, Schwager <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, Bruder des regierenden Fürten von Braunschweig-Wolfenbüttel (bzw. ab 1780 Onkel) und einer der führenden Freimaurer in Deutschland, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd119007754.html#ndbcontent">Mediger, Walther: Ferdinand, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;87f</wwwlink>.
 
 </eintrag>
@@ -7745,6 +7758,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <kommentar id="hecht" type="neuzeit">
 <lemma>Bäcker Hecht</lemma>
 <eintrag>Lebensdaten nicht ermittelt, Vorname mglw. Abraham oder Christian; Bäcker in Königsberg.
+</eintrag>
+</kommentar>
+
+<kommentar id="hecht-jj" type="neuzeit">
+<lemma>Johann Julius von Hecht</lemma>
+<eintrag>1721–1792. Preußischer Geheimrat und Legationsrat in Hamburg, siehe <link ref="https://d-nb.info/gnd/1074313755" linktext="false">GND</link>.
 </eintrag>
 </kommentar>
 
@@ -18498,7 +18517,7 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 
 <kommentar id="toussaint-f" type="neuzeit">
 <lemma>Frédéric Toussaint</lemma>
-<eintrag>1751–1809. Sohn von <link ref="toussaint-jc" linktext="true" /> und <link ref="toussaint-r" linktext="true" />, Bruder von <link ref="hartknoch-a" linktext="true" />, Kaufmann und Kommerzienrat in Königsberg.
+<eintrag>1751–1809. Kaufmann und Kommerzienrat in Königsberg; Sohn von <link ref="toussaint-jc" linktext="true" /> und <link ref="toussaint-r" linktext="true" />, Bruder von <link ref="hartknoch-a" linktext="true" /> und <link ref="courtan-sm" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -18510,7 +18529,7 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 
 <kommentar id="toussaint-jc" type="neuzeit">
 <lemma>Jean-Claude Toussaint</lemma>
-<eintrag>1709–1774. Kaufmann in Königsberg, Sohn des aus Frankreich nach Magdeburg eingewanderten Pierre Toussaint. Vater von <link ref="courtan-sm" linktext="true" />.
+<eintrag>1709–1774. Kaufmann in Königsberg, Sohn des aus Frankreich nach Magdeburg eingewanderten Pierre Toussaint. Vater von <link ref="courtan-sm" linktext="true" />, <link ref="hartknoch-a" linktext="true" /> und <link ref="toussaint-f" linktext="true" />.
 </eintrag>
 <subsection id="toussaint-perse" type="neuzeit">
 <lemma><titel>Mémoires secrets pour servir à l’histoire de Perse</titel></lemma>

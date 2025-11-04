@@ -61501,7 +61501,7 @@ Brief Nr. 480
 </marginal>
 
 <marginal letter="480" page="290" line="14" >
-<bzg>Andersons Geschichte&#x202F;…</bzg> <link ref="andersen" subref="andersen-handel" linktext="true" />, Bd. 4
+<bzg>Andersons Geschichte&#x202F;…</bzg> <link ref="anderson" subref="anderson-handel" linktext="true" />, Bd. 4
 </marginal>
 
 <marginal letter="480" page="290" line="15" >
@@ -72382,7 +72382,7 @@ Brief Nr. 557
 </marginal>
 
 <marginal letter="557" page="85" line="33" sort="2" >
-<bzg>Andersons Geschichte vom Handel</bzg> <link ref="andersen" subref="andersen-handel" linktext="true" />
+<bzg>Andersons Geschichte vom Handel</bzg> <link ref="anderson" subref="anderson-handel" linktext="true" />
 </marginal>
 
 <marginal letter="557" page="85" line="35" sort="1" >
@@ -75024,7 +75024,7 @@ Brief Nr. 570
 </marginal>
 
 <marginal letter="570" page="132" line="22" >
-<bzg>Andersons&#x202F;…</bzg> <link ref="andersen" subref="andersen-handel" linktext="true" />, vgl. <intlink letter="557" page="85" line="33" linktext="true" />
+<bzg>Andersons&#x202F;…</bzg> <link ref="anderson" subref="anderson-handel" linktext="true" />, vgl. <intlink letter="557" page="85" line="33" linktext="true" />
 </marginal>
 
 <marginal letter="570" page="132" line="24" >
@@ -77191,7 +77191,7 @@ Brief Nr. 576
 </marginal>
 
 <marginal letter="576" page="157" line="7" sort="2">
-<bzg>K.</bzg> <link ref="kanter" linktext="true" />, der vor dem Bankrott steht; Hamann scheint eine Übernahme des Kanterschen Buchladens durch Hartknoch vorzuschweben
+<bzg>K.</bzg> <link ref="kanter" linktext="true" />, der vor dem Bankrott steht; Hamann schwebt eine Übernahme des Kanterschen Buchladens durch Hartknoch vor, vgl. <intlink letter="578" page="162" line="5" linktext="true" />
 </marginal>
 
 <marginal letter="576" page="157" line="8">
@@ -77578,7 +77578,7 @@ Brief Nr. 577
 </marginal>
 
 <marginal letter="577" page="160" line="20">
-<bzg>Gevatter A</bzg> <link ref="claudius" linktext="true" />, dessen Brief an Hamann nicht überliefert
+<bzg>Gevatter A</bzg> Asmus/Asinus (<link ref="claudius" linktext="true" />), dessen Brief an Hamann nicht überliefert
 </marginal>
 
 <marginal letter="577" page="160" line="22">
@@ -77603,6 +77603,209 @@ Brief Nr. 577
 
 <marginal letter="577" page="160" line="25" sort="3">
 <bzg>junger Graf</bzg> nicht ermittelt
+</marginal>
+
+
+Brief Nr. 578
+
+<marginal letter="578" page="160" line="32">
+<bzg>Brief</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="578" page="161" line="4">
+<bzg>Ueberbringer</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="578" page="161" line="5" sort="1">
+<bzg>Prof. Reusch</bzg> <link ref="reusch" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="161" line="5" sort="2">
+<bzg>Passerii</bzg> <link ref="passeri" subref="passeri-picturae" linktext="true" />, <intlink letter="570" page="131" line="22" linktext="false" />
+</marginal>
+
+<marginal letter="578" page="161" line="6">
+<bzg>Minister v. Rhode</bzg> <link ref="rohd-jf" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="161" line="7">
+<bzg>temporisiren</bzg> die geeignete Zeit abwarten, vgl. <wwwlink address="www.woerterbuchnetz.de/DWB/temporisieren">DWB, 1. Aufl., Bd.&#x202F;21, Sp.&#x202F;252, s.v. temporisieren</wwwlink>
+</marginal>
+
+<marginal letter="578" page="161" line="8">
+<bzg>Prof. †feld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="161" line="12">
+<bzg>#</bzg> ?!?
+</marginal>
+
+<marginal letter="578" page="161" line="23">
+<bzg>Hartungs</bzg> <link ref="hartung-gl" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="161" line="24">
+<bzg>Päckchen von unserm Herder</bzg> ein Brief von <link ref="herder" linktext="false">Herder</link> an seine <link ref="herder-cd-g" linktext="false">Schwester</link>, mit dem Exemplar des <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha</titel></link>, vgl. <intlink letter="574" page="146" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="161" line="27">
+<bzg>andern Päckchen</bzg> von Herder an Hamann, mit <link ref="giorgi-aa" subref="giorgi-tibetanum" linktext="true" /> und dem <link ref="herder" subref="herder-weimarer-gesangbuch1778" linktext="false"><titel>Weimarischen Gesang-Buch</titel></link>, vgl. <intlink letter="574" page="145" line="26" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="161" line="30">
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="161" line="35">
+<bzg>Licents</bzg> der <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Königsberger Zollbehörde</link>, vgl. <intlink letter="574" page="146" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="161" line="37" sort="1">
+<bzg>Kleuker</bzg> <link ref="kleuker" linktext="true" />, vgl. <intlink letter="574" page="146" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="161" line="37" sort="2">
+<bzg>Lumpenbrief von Voß</bzg> <link ref="voss" linktext="true" />, vgl. <intlink letter="576" page="155" line="31" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="1" sort="1">
+<bzg>Schlegels</bzg> <link ref="schlegel-g" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="1" sort="2">
+<bzg>Odyßee</bzg> <link ref="voss" subref="voss-odyssee" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="3">
+<bzg>Buchbinder</bzg> vgl. <intlink letter="573" page="140" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="5">
+<bzg>verwaysten Ladens</bzg> des <link ref="kanter" linktext="false">Kanterschen Buchladens</link>
+</marginal>
+
+<marginal letter="578" page="162" line="10">
+<bzg>Konxompax&#x202F;…&#x202F;Arndt</bzg> eine Exemplar des <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link> für <link ref="arndt-cg" linktext="true" />, nachdem der erste Versuch wegen der Unzuverlässigkeit von <link ref="berens-ac" linktext="true" /> gescheitert war, vgl. <intlink letter="567" page="118" line="14" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="12">
+<bzg>Fortsetzung des Journals</bzg> die regelmäßige Übersendung des <link ref="arndt-cg" subref="arndt-petersburgjournal" linktext="false"><titel>St. Petersburgischen Journal</titel></link> durch Arndt
+</marginal>
+
+<marginal letter="578" page="162" line="13">
+<bzg>Xbr.</bzg> das Dezember-Heft, um den gesamten Jahrgang binden lassen zu können
+</marginal>
+
+<marginal letter="578" page="162" line="14" sort="1">
+<bzg>Andersons Geschichte</bzg> <link ref="anderson" subref="anderson-handel" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="14" sort="2">
+<bzg>Lauson</bzg> <link ref="lauson" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="15" sort="1">
+<bzg>Rede auf Simon Dach</bzg> <link ref="lauson" subref="lauson-dach" linktext="true" />, vgl. <intlink letter="570" page="133" line="13" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="15" sort="2">
+<bzg>Rappolt</bzg> <link ref="rappolt-cs" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="16">
+<bzg>Gevatter Claudius</bzg> <link ref="claudius" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="578" page="162" line="18">
+<bzg>junger feiner Engl.</bzg> wohl im Zusammenhang mit den Engländern, nach denen Hamann auch zuvor bereits Ausschau hielt, vgl. <intlink letter="573" page="140" line="10" linktext="true" />; nicht ermittelt
+</marginal>
+
+<marginal letter="578" page="162" line="19">
+<bzg>Mitau</bzg> <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> in Kurland
+</marginal>
+
+<marginal letter="578" page="162" line="21">
+<bzg>nach Leipzig</bzg> zur Osterbuchmesse
+</marginal>
+
+<marginal letter="578" page="162" line="26">
+<bzg>HErrn Vetter</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="578" page="162" line="30">
+<bzg>Gemalin</bzg> <link ref="hartknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="31">
+<bzg>Bruder, eine neue Schwester</bzg> nicht ermittelt, wohl Zuwachs in der Familie bei einem oder mehreren der <link ref="toussaint-f" linktext="false">Toussaint</link>-Geschwister
+</marginal>
+
+<marginal letter="578" page="162" line="32">
+<bzg>Frau Gevatterin</bzg> <link ref="courtan-sm" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="162" line="36">
+<bzg>wie Jonathans</bzg> <link ref="at-sam1" subref="at-sam1-14" linktext="false">1 Sam 14,27</link>
+</marginal>
+
+<marginal letter="578" page="162" line="37">
+<bzg>2 gl.</bzg> zwei-Groschen-Kerze?!?
+</marginal>
+
+<marginal letter="578" page="163" line="1">
+<bzg>Pölkerlicht</bzg> dünnes Talglicht, das eine Polke (Kupfermünze) kostet?!?
+</marginal>
+
+<marginal letter="578" page="163" line="3">
+<bzg>2 zu einem Düttchen</bzg> ?!?
+</marginal>
+
+<marginal letter="578" page="163" line="5" sort="1">
+<bzg>Extract</bzg> aus <link ref="claudius" linktext="false">Claudius’</link> Brief
+</marginal>
+
+<marginal letter="578" page="163" line="5" sort="2">
+<bzg>Schmidlin</bzg> <link ref="schmidlin" linktext="true" />; der folgende Satz ist offensichtlich ein direktes Zitat aus dem Claudius-Brief, und wohl auch der Rest des Absatzes (bis auf einige Einschübe).
+</marginal>
+
+<marginal letter="578" page="163" line="8" sort="1">
+<bzg>Cathol.</bzg> <link ref="schmidlin" subref="schmidlin-catholicon" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="163" line="8" sort="2">
+<bzg>HE von Hecht</bzg> <link ref="hecht-jj" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="163" line="11" sort="1">
+<bzg>Campe</bzg> <link ref="campe-jh" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="163" line="11" sort="2">
+<bzg>Herzog Ferdinand</bzg> wohl <link ref="ferdinand" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="163" line="14">
+<bzg>Stephan gieng über sein Lexicon Kaporis</bzg> Hintergrund von ‚Kaporis‘ unklar; gemeint ist <link ref="estienne" linktext="true" /> und sein epochemachender <link ref="estienne" subref="estienne-thesaurus" linktext="false"><titel>Thesaurus graecae linguae</titel></link>, an dem er aber wirtschaftlich zugrunde ging.
+</marginal>
+
+<marginal letter="578" page="163" line="15">
+<bzg>Scheißrecensent</bzg> nicht ermittelt?!?
+</marginal>
+
+<marginal letter="578" page="163" line="17">
+<bzg>Federics d’or</bzg> Federics d’or?!?
+</marginal>
+
+<marginal letter="578" page="163" line="22">
+<bzg>HE Gevattern</bzg> Hamann und vmtl. Hartknoch oder Herder
+</marginal>
+
+<marginal letter="578" page="163" line="24">
+<bzg>George</bzg> <link ref="berens-g" linktext="true" />, der zuvor wegen der prekären Situation von <link ref="berens-ac" linktext="true" /> in Königsberg angekündigt war, aber die Reise anscheinend doch unterließ, vgl. <intlink letter="570" page="130" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="578" page="163" line="28">
+<bzg>Bruinvisch</bzg> <link ref="bruinvisch-g" linktext="true" />
 </marginal>
 
 
