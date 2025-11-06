@@ -11170,8 +11170,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="580">
-        <date value="Königsberg, 2. oder 3. Februar 1780" />
-        <sort value="1780-02-02" cert="low" />
+        <date value="Königsberg, Anfang Februar 1780" />
+        <sort value="1780-02-02" notBefore="1780-01-09" notAfter="1780-01-05" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
