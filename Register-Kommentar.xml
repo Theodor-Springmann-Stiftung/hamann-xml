@@ -2307,6 +2307,16 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="brockes" type="neuzeit">
+<lemma>Barthold Heinrich Brockes</lemma>
+<eintrag>1680–1747. Schriftsteller, Senator und Diplomat aus Hamburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118515586.html#ndbcontent">Diederichsen, Diedrich: Brockes, Hinrich, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;661f</wwwlink>.</eintrag>
+<subsection id="brockes-vergnuegen" type="neuzeit">
+<lemma>Brockes, <titel>Irdisches Vergnügen in Gott</titel></lemma>
+<eintrag>
+<titel>Herrn B.H. Brockes Irdisches Vergnügen in Gott, bestehend in Physicalisch- und Moralischen Gedichten</titel> (9&#xA0;Bde., Hamburg: Herold 1721–1748, jeweils mehrere erweiterte Auflagen). Digitalisat Bd.&#x202F;2, 4.&#x202F;Aufl.: <wwwlink address="https://books.google.de/books?id=f79dAAAAcAAJ">Google Books</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="broe" type="neuzeit">
 <lemma>Samuel de Broë</lemma>
 <eintrag>17. Jh., frz. Schriftsteller, Präsident der Petitionen am Pariser Parlament.</eintrag>
@@ -5961,6 +5971,11 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 <eintrag>Königlich-preußisches General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für die Innen- und Finanz-Politik sowie für die Finanzierung der Armee; ihm unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kriegs-und-domaenenkammer" linktext="true" />.</eintrag>
 </kommentar>
 
+<kommentar id="genest" type="neuzeit">
+<lemma>Charles-Claude Genest</lemma>
+<eintrag>1639–1719. Französischer Geistlicher und Schriftsteller, siehe <link ref="hamann-jg" subref="hamann-jg-genest" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="gentlemens-magazine" type="neuzeit">
 <lemma>The Gentleman’s Magazine</lemma>
 <eintrag>1731–1907 erschienenes Londoner Periodikum, das vor allem Auszüge aus anderen Zeitschriften und Büchern sammelte. Hamann nutzte es als Quelle für seine Übersetzungen aus dem Englischen für die <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />. Digitalisat: <wwwlink address="https://catalog.hathitrust.org/Record/000542092">Hathi Trust</wwwlink>.</eintrag>
@@ -7492,6 +7507,18 @@ Vgl. über ihren Vater: Elisabeth Regina Hamann: <titel>Etwas über mich.</titel
 <eintrag>1732–1778. Bruder von <link ref="hamann" linktext="true" />, ab 1758 Lehrer in Riga, 1761–1765 im Löbenicht in Königsberg; litt ab etwa 1759 zunehmend an einer psychischen Krankheit (‚Melancholie‘, ‚Stupor‘) und musste wegen seiner geistigen Behinderung in Hamanns Haushalt gepflegt werden. Um seine Vormundschaft und das Vermögen führte Hamann 1769 einen Rechtsstreit mit <link ref="nuppenau-jp" linktext="true" />, danach konnte Johann Christoph Hamann wieder im Haushalt von Johann Georg leben, der dessen Vermögen verwaltete.</eintrag>
 </kommentar>
 
+<kommentar id="hamann-jg" type="neuzeit">
+<lemma>Johann Georg Hamann der Ältere</lemma>
+<eintrag>1697–1733. Schriftsteller des späten Barock, Onkel von <link ref="hamann" linktext="true" />.</eintrag>
+<subsection id="hamann-jg-genest" type="neuzeit" sort="910">
+<lemma>J.&#x202F;G. Hamann der Ältere, <titel>Genest-Übersetzung</titel></lemma>
+<eintrag>
+<titel>Herrn B. H. Brockes verdeutschte Grund-Sätze der Welt-Weisheit des Herrn Abts Genest, nebst   verschiedenen eigenen theils Physicalischen, theils Moralischen Gedichten, als des Jrdischen Vergnügens in Gott Dritter Theil. nebst verschiedenen eigenen theils Physicalischen, theils Moralischen Gedichten als des Jrdischen Vergnügens in Gott Dritter Theil; zum Druck befördert von Joh. George Hamann</titel> (Hamburg: König, Richter 1730). Übersetzung einer Schrift von <link ref="genest" linktext="true" />, veröffentlicht in <link ref="brockes" subref="brockes-vergnuegen" linktext="true" />, Bd.&#x202F;3. Digitalisat 2.&#x202F;Aufl. 1730: <wwwlink address="http://diglib.hab.de/drucke/lo-677-2-1/start.htm">HAB Wolfenbüttel</wwwlink>.
+</eintrag>
+</subsection>
+
+</kommentar>
+
 <kommentar id="hamann-jm" type="neuzeit">
 <lemma>Johann Michael Hamann</lemma>
 <eintrag>27. September 1769 bis 12. Dezember 1813. Sohn von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />. Studierte Medizin und begleitete seinen Vater auf der Reise nach Pempelfort; später angesehener Pädagoge am Altstädtischen Gymnasium und Lyriker.</eintrag>
@@ -8313,10 +8340,22 @@ Biga&#x202F;8/112: „Herodiani Historia gr. &amp; lat. Arg. 662“ und <link re
 <lemma>Johann Timotheus Hermes</lemma>
 <eintrag>1738–1821. Schriftsteller und 1771 Professor der Theologie in Breslau, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118933876.html#ndbcontent">Beyreuther, Erich: Hermes, Johann Timotheus, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;669f</wwwlink>.
 </eintrag>
-<subsection id="hermes-sophie" type="neuzeit" sort="10">
+<subsection id="hermes-predigten-kunstrichter" type="neuzeit" sort="10">
+<lemma>Hermes, <titel>Predigten an die Kunstrichter und Prediger</titel></lemma>
+<eintrag>
+<titel>Predigten an die Kunstrichter und Prediger</titel> (2 Bde., Leipzig: Junius 1771). Digitalisat Bd. 1: <wwwlink address="https://books.google.de/books?id=PaLMQubM7J0C">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="hermes-sophie" type="neuzeit" sort="20">
 <lemma>Hermes, <titel>Sophiens Reise von Memel nach Sachsen</titel></lemma>
 <eintrag>
 <titel>Sophiens Reise von Memel nach Sachsen</titel> (1. Aufl. 5 Bde., Leipzig 1769–1773, 2. Aufl. 6 Bde., Leipzig 1776). Digitalisat 2. Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925944-3">BSB München: Res/P.o.germ. 2030 v-1/2</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="hermes-gelegenheitspredigten" type="neuzeit" sort="30">
+<lemma>Hermes, <titel>Gelegenheitspredigten</titel></lemma>
+<eintrag>
+<titel>Gelegenheitspredigten von Johann Timotheus Hermes</titel> (Breslau: Löwe Verlag 1779). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/74692">ULB Halle: Il 5074</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
