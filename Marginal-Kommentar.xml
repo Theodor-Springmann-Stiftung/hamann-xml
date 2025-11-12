@@ -77879,7 +77879,7 @@ Brief Nr. 578
 Brief Nr. 579
 
 <marginal letter="579" page="164" line="23">
-<bzg>beykommendes Leben</bzg> nicht ermittelt, wohl ein zeitgenössischer Bericht über <link ref="eon" linktext="true" />, der ab Mitte der 1760er Jahre zumeist als Frau lebte
+<bzg>beykommendes Leben</bzg> <link ref="fortelle" subref="fortelle-leben" linktext="true" />
 </marginal>
 
 <marginal letter="579" page="164" line="24">
@@ -77891,7 +77891,7 @@ Brief Nr. 579
 </marginal>
 
 <marginal letter="579" page="164" line="25" sort="2">
-<bzg>garstigen Carons</bzg> <link ref="beaumarchais" linktext="true" />
+<bzg>garstigen Carons</bzg> <link ref="beaumarchais" linktext="true" />, gegen den ein wesentlicher Teil des <link ref="fortelle" subref="fortelle-leben" linktext="false"><titel>Lebens des Fräuleins D’Eon de Beaumont</titel></link> gerichtet ist, vgl. S.&#x202F;93–167
 </marginal>
 
 <marginal letter="579" page="164" line="26">
@@ -78471,7 +78471,23 @@ Brief Nr. 582
 Brief Nr. 583
 
 <marginal letter="583" page="171" line="16">
-<bzg>Ueberbringerin Ihres Billets</bzg> 
+<bzg>Billets</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="583" page="171" line="18">
+<bzg>alterirt</bzg> bringt aus der Fassung
+</marginal>
+
+<marginal letter="583" page="171" line="21" sort="1">
+<bzg>Miscellaneen bis auf des HE Pr. Hefen</bzg> nicht ermittelt?!? Henkels Hinweis scheint nicht sehr stichhaltig (wohl die Thornschen; HE Pr.[aetorius] / Praetorius, Ephraim Heinrich (1756- 1783), Sekretär der Stadt Thorn / Abhandlungen vermischten Inhalts. Lfg. 1, Warschau 1778)
+</marginal>
+
+<marginal letter="583" page="171" line="21" sort="2">
+<bzg>Hefen</bzg> Bodensatz
+</marginal>
+
+<marginal letter="583" page="171" line="23">
+<bzg>Leben der Beaumont</bzg> <link ref="fortelle" subref="fortelle-leben" linktext="true" />
 </marginal>
 
 
