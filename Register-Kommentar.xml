@@ -311,7 +311,7 @@ def.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de
 <subsection id="alembert-eloge" type="neuzeit" sort="20">
 <lemma>d’Alembert, <titel>Éloge de Milord Maréchal</titel></lemma>
 <eintrag>
-<titel>Éloge de Milord Maréchal par Mr. d’Alembert</titel> (Paris 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10064214-6">BSB München: Biogr. 576 f</wwwlink>.
+<titel>Éloge de Milord Maréchal par Mr. d’Alembert</titel> (Paris 1779; auf den Tod von <link ref="keith" linktext="true" />). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10064214-6">BSB München: Biogr. 576 f</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -4132,6 +4132,17 @@ Dangeuil verwandte sehr frei J. Tuckers <link ref="tucker" subref="tucker-essay"
 </subsection>
 </kommentar>
 
+<kommentar id="denis-jb" type="neuzeit">
+<lemma>Jean Baptiste Denis</lemma>
+<eintrag>Lebensdaten nicht ermittelt, schon im 18. Jh. ein weitgehend unbekannter Schriftsteller, vgl. <wwwlink address="https://books.google.de/books?id=93JoAAAAcAAJ">Ikonographische Bibliothek, St.&#x202F;4, S.&#x202F;471–473 (Hannover 1797)</wwwlink>.</eintrag>
+<subsection id="denis-memoires" type="neuzeit" sort="10">
+<lemma>Denis, <titel>Memoires anecdotes de la cour et du clergé de France</titel></lemma>
+<eintrag>
+<titel>Memoires anecdotes de la cour et du clergé de France. Par le Sieur Jean Baptiste Denis</titel> (London 1712). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11098068-2">Stabi Regensburg: 999/Hist.pol.3214</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="descartes" type="neuzeit">
 <lemma>René Descartes</lemma>
 <eintrag>1596–1650. <wwwlink address="https://plato.stanford.edu/archives/sum2019/entries/descartes/">Hatfield, Gary: René Descartes, in: <titel>The Stanford Encyclopedia of Philosophy (Summer 2019 Edition)</titel></wwwlink>. Siehe auch Hamanns Text zu Descartes: <link ref="hamann" subref="hamann-descartes" linktext="true" />
@@ -7740,6 +7751,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </eintrag>
 </kommentar>
 
+<kommentar id="hartung-sc" type="neuzeit">
+<lemma>Sophie Charlotte Hartung</lemma>
+<eintrag>1759–1819. Geb. Burckhardt. Seit 1780 Ehefrau von <link ref="hartung-gl" linktext="true" />.
+</eintrag>
+</kommentar>
+
 <kommentar id="harvey" type="neuzeit">
 <lemma>William Harvey</lemma>
 <eintrag>1578–1657. Engl. Arzt und Anatom, wies experimentell den (großen) Blutkreislauf nach; erforschte die Fortpflanzung (bspw. in <titel>Exercitationes de generatione animalum</titel>, 1651) und stand dabei mit seinen Beschreibungen der Epigenese im Widerstreit zur herrschenden Präformationslehre. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-12531">French, R.: Harvey, William, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -10016,6 +10033,11 @@ Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelbla
 <titel>Des seel. Zeugen Gottes, D. Martin Luthers, merkwürdige Lebens-Umstände bei seiner Medicinalischen Leibesconstitution, Krankheiten, geistlichen und leiblichen Anfechtungen und anderen Zufällen von dem Jahre seiner Geburt 1483 bis auf das Jahr 1520 beschrieben</titel> (4&#xA0;Bde., Leipzig 1753–64). Digitalisat: <wwwlink address="https://opendata.uni-halle.de//handle/1981185920/80459">ULB Halle: Pon Vg 5213</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="keith" type="neuzeit">
+<lemma>George Keith, 9. Earl Marischal</lemma>
+<eintrag>1693–1778. Schottischer Adeliger und Jakobit, später Freund und Diplomat für <link ref="friedrich-II" linktext="true" /> und Mitglied der Berliner Akademie, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104318511.html#adbcontent">Schaefer, Arnold: Keith, George Graf, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;551f</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="kennicott" type="neuzeit">
