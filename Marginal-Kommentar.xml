@@ -74468,7 +74468,7 @@ Brief Nr. 569
 </marginal>
 
 <marginal letter="569" page="125" line="14" >
-<bzg>Schloßes mit 25 Zimmern</bzg> Schloss <wwwlink address="https://www.geonames.org/12005313">Schloss Glarisegg</wwwlink> vgl. <intlink letter="563" page="104" line="16" linktext="true" />
+<bzg>Schloßes mit 25 Zimmern</bzg> <wwwlink address="https://www.geonames.org/12005313">Schloss Glarisegg</wwwlink> vgl. <intlink letter="563" page="104" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="569" page="125" line="15" >
@@ -78308,7 +78308,7 @@ Brief Nr. 581
 <bzg>Stelle p. 6 meines Mst</bzg> im mit <intlink letter="580" page="165" line="20" linktext="false">HKB 580</intlink> übersandten Manuskript der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>, vgl. die Erläuterungen zur Provenienz dort
 </marginal>
 
-<marginal letter="581" page="169" line="5">
+<marginal letter="581" page="169" line="6" sort="1">
 <bzg>Kleck</bzg> eigentlich Flecken, Klecks (vgl. <wwwlink address="www.woerterbuchnetz.de/Adelung/Klêck">Adelung, Bd.&#x202F;2, Sp.&#x202F;1612, s.v. Kleck</wwwlink>); hier wohl für die Kladde, welche für die Abschrift des <titel>Zwey Scherflein</titel>-Manuskripts als Vorlage diente; nicht überliefert
 </marginal>
 
@@ -78349,7 +78349,7 @@ Brief Nr. 581
 </marginal>
 
 <marginal letter="581" page="169" line="23">
-<bzg>Trescho</bzg> <link ref="trescho" linktext="true" />
+<bzg>Trescho</bzg> <link ref="trescho-sf" linktext="true" />
 </marginal>
 
 <marginal letter="581" page="169" line="24">
@@ -78442,6 +78442,36 @@ Brief Nr. 581
 
 <marginal letter="581" page="170" line="12">
 <bzg>Geschmier</bzg> vgl. <intlink letter="580" page="166" line="32" linktext="true" />
+</marginal>
+
+
+Brief Nr. 582
+
+<marginal letter="582" page="170" line="21">
+<bzg>Leztes</bzg> nicht überliefert, wohl eine Antwort auf <intlink letter="563" page="102" line="2" linktext="false">HKB 563</intlink>
+</marginal>
+
+<marginal letter="582" page="170" line="27" sort="1">
+<bzg>Schellenbergische Kupferbestellung</bzg> von <link ref="schellenberg" subref="schellenberg-prospecte" linktext="true" />, im Zusammenhang von Hamanns Anzeige in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, vgl. <intlink letter="569" page="125" line="11" linktext="true" /> und <intlink letter="570" page="132" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="582" page="170" line="27" sort="2">
+<bzg>Pfenninger</bzg> <link ref="pfenninger" linktext="true" />
+</marginal>
+
+<marginal letter="582" page="170" line="34">
+<bzg>Klarensegg</bzg> <wwwlink address="https://www.geonames.org/12005313">Schloss Glarisegg</wwwlink>
+</marginal>
+
+<marginal letter="582" page="171" line="5">
+<bzg>Weibs</bzg> <link ref="kaufmann-e" linktext="true" />
+</marginal>
+
+
+Brief Nr. 583
+
+<marginal letter="583" page="171" line="16">
+<bzg>Ueberbringerin Ihres Billets</bzg> 
 </marginal>
 
 
