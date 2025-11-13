@@ -52865,7 +52865,7 @@ Der Brief enthält bis <intlink letter="425" page="139" line="21" linktext="true
 <bzg>Freude</bzg> <link ref="at-pr" subref="at-pr2" linktext="false">Pred 2,2</link></marginal>
 
 <marginal letter="425" page="138" line="5">
-<bzg>Traurigkeit und Verzweifelung</bzg> <link ref="nt-jo" subref="nt-jo16" linktext="false">Joh 16,22</link>,  <link ref="nt-kor2" subref="nt-kor2-7" linktext="false">2 Kor 7,10</link>,  <link ref="nt-lk" subref="nt-lk6" linktext="false">Lk 6,25</link>
+<bzg>Traurigkeit und Verzweifelung</bzg> <link ref="nt-jo" subref="nt-jo16" linktext="false">Joh 16,22</link>,  <link ref="nt-kor2" subref="nt-kor2-7" linktext="false">2 Kor 7,10</link>, <link ref="nt-lk" subref="nt-lk6" linktext="false">Lk 6,25</link>
 </marginal>
 
 <marginal letter="425" page="138" line="6" sort="1">
@@ -78452,7 +78452,7 @@ Brief Nr. 582
 </marginal>
 
 <marginal letter="582" page="170" line="27" sort="1">
-<bzg>Schellenbergische Kupferbestellung</bzg> von <link ref="schellenberg" subref="schellenberg-prospecte" linktext="true" />, im Zusammenhang von Hamanns Anzeige in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, vgl. <intlink letter="569" page="125" line="11" linktext="true" /> und <intlink letter="570" page="132" line="19" linktext="true" />
+<bzg>Schellenbergische Kupferbestellung</bzg> von <link ref="schellenberg" subref="schellenberg-prospecte" linktext="true" />, im Zusammenhang von Hamanns Anzeige in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, vgl. <intlink letter="569" page="125" line="11" linktext="true" /> und <intlink letter="570" page="132" line="19" linktext="true" />; vgl. zur Übersendung von Schellenbergs Kupfern <intlink letter="585" page="173" line="38" linktext="true" />
 </marginal>
 
 <marginal letter="582" page="170" line="27" sort="2">
@@ -78561,19 +78561,61 @@ Brief Nr. 584
 Brief Nr. 585
 
 <marginal letter="585" page="172" line="28">
-Der Kontakt zu Häfeli kam über Hamanns Rätselraten um die Autorschaft des <titel>Merkur</titel>-Aufsatzes <link ref="haefeli" subref="haefeli-merkur" linktext="false"><titel>Eines Ungenannten Antwort</titel></link> von 1776 im Kontext der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> zustande, und zwar über <link ref="herder" linktext="false">Herder</link> und <link ref="pfenninger" linktext="false">Pfenninger</link>; dieser bat Häfeli schließlich, sich an Hamann wegen der Bedeutung der Formulierung „Brücke ohne Lehnen“ zu richten, vgl. <intlink letter="573" page="139" line="31" linktext="true" />.
+Der Kontakt zu Häfeli kam über Hamanns Rätselraten um die Autorschaft des <titel>Merkur</titel>-Aufsatzes <link ref="haefeli" subref="haefeli-merkur" linktext="false"><titel>Eines Ungenannten Antwort</titel></link> von 1776 im Kontext der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> zustande, und zwar über <link ref="herder" linktext="false">Herder</link> und <link ref="pfenninger" linktext="false">Pfenninger</link>; dieser bat Häfeli schließlich, sich an Hamann wegen der Bedeutung der Formulierung „Brücke ohne Lehnen“ zu richten, vgl. <intlink letter="573" page="139" line="31" linktext="true" />. Häfelis Brief gelangte offenbar als Teil der Sendung von <link ref="kaufmann-c" linktext="false">Kaufmann/Ehrmann</link> mit „Schellenbergschen Kupfern“ nach Königsberg, <intlink letter="585" page="173" line="38" linktext="false">s.u.</intlink>
 </marginal>
 
 <marginal letter="585" page="172" line="29">
-<bzg>zwei Bändchen Predigten</bzg> nicht ermittelt, vmtl. in geringer Auflage erschienene Predigten von Häfeli selbst
+<bzg>zwei Bändchen Predigten</bzg> nicht ermittelt, vmtl. in geringer Auflage erschienene Predigten von Häfeli
 </marginal>
 
-<marginal letter="585" page="172" line="29">
+<marginal letter="585" page="172" line="30">
 <bzg>δικαιοσυνη</bzg> dt. Gerechtigkeit
 </marginal>
 
-<marginal letter="585" page="172" line="29">
-<bzg>unanatomirten Kinderglaubens</bzg> ohne Lukanischen Einfluss?!?
+<marginal letter="585" page="172" line="33">
+<bzg>Blinden sehend&#x202F;…</bzg> <link ref="nt-jo" subref="nt-jo9" linktext="false">Joh 9,41</link>
+</marginal>
+
+<marginal letter="585" page="173" line="1">
+<bzg>ich werf’ mein Netz hin&#x202F;…</bzg> <link ref="nt-mt" subref="nt-mt4" linktext="false">Mt 4,19</link>
+</marginal>
+
+<marginal letter="585" page="173" line="2">
+<bzg>Füchse haben Gruben</bzg> <link ref="nt-mt" subref="nt-mt8" linktext="false">Mt 8,20</link>
+</marginal>
+
+<marginal letter="585" page="173" line="4">
+<bzg>lucianisches Gelächter</bzg> nach den Schriften des <link ref="lukian" linktext="true" /> und dem Titel von <link ref="haefeli" subref="haefeli-merkur" linktext="true" />
+</marginal>
+
+<marginal letter="585" page="173" line="7">
+<bzg>Deiner Kleider Geruch</bzg> <link ref="at-hld" subref="at-hld4" linktext="false">Hld 4,11</link>
+</marginal>
+
+<marginal letter="585" page="173" line="11">
+<bzg>Tage in Schweiß </bzg> <link ref="at-mo1" subref="at-mo1-3" linktext="false">1 Mo 3,19</link>
+</marginal>
+
+<marginal letter="585" page="173" line="13">
+<bzg>von reinem Wein, darin kein Hefen ist</bzg> <link ref="at-jes" subref="at-jes25" linktext="false">Jes 25,6</link>
+</marginal>
+
+<marginal letter="585" page="173" line="15">
+<bzg>deren Lohn groß ist&#x202F;…</bzg> <link ref="nt-lk" subref="nt-lk6" linktext="false">Lk 6,23 und 35</link>,23 
+</marginal>
+
+<marginal letter="585" page="173" line="17">
+<bzg>Briefe an Pfenninger</bzg> an <link ref="pfenninger" linktext="true" />, nicht überliefert, <intlink letter="585" page="172" line="28" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="585" page="173" line="18">
+<bzg>merkurialische Sünde&#x202F;…</bzg> nach der Frage im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> und <link ref="haefeli" subref="haefeli-merkur" linktext="false"><titel>Eines Ungenannten Antwort</titel></link> 
+</marginal>
+
+
+
+<marginal letter="585" page="173" line="38">
+<bzg>Schellenbergschen Kupfern</bzg> <link ref="schellenberg" subref="schellenberg-prospecte" linktext="true" />, vgl. <intlink letter="582" page="170" line="27" linktext="true" />
 </marginal>
 
 
