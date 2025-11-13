@@ -2563,7 +2563,7 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 <lemma>Woldemar Dietrich v. Budberg</lemma>
 <eintrag>1740–1786. Freiherr, Baron. Sohn von <link ref="budberg-bh" linktext="true" />, Herr auf <wwwlink address="https://www.geonames.org/458836">Kegeln</wwwlink>, Schüler <link ref="hamann" linktext="false">Hamanns</link> während dessen dortiger Arbeit als Hofmeister. Wurde 1754–57 beim Rektor der Domschule <link ref="lindner-jg" linktext="true" /> in Riga unterrichtet. 1757 Studium in Straßburg. Reisen in Deutschland, d. Schweiz, Italien, Frankreich, England u. d. Niederlanden. Ausbildung zum Künstler, u.a. bei A. F. Oeser in Leipzig u. A. R. Mengs in Dresden. Seit 1765 in Livland, lebte in Strasdenhof b. Riga, dann in Kegeln u. 1783 als Kreismarschall in Walk. (<titel>Allgemeines Schriftsteller- und Gelehrten-Lexikon der Provinzen Livland, Esthland und Kurland</titel> [Mitau 1827], Bd.&#x202F;1, S.&#x202F;294–296). Die Fam. v. Budberg gehörte zur livländischen Ritterschaft.</eintrag>
 <subsection id="budberg-schlangenbad" type="neuzeit">
-<lemma>Budberg, <titel>Beschreibung (m)eines Aufenthaltes im Schlangenbade 1771. Riga 1779.</titel></lemma>
+<lemma>Budberg, <titel>Beschreibung eines Aufenthaltes im Schlangenbade</titel></lemma>
 <eintrag>
 <titel>Beschreibung eines Aufenthalts im Schlangenbade. 1777</titel> (Riga: Hartknoch 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10018714-7">BSB München: Germ.sp. 80 txd</wwwlink>.
 </eintrag>
@@ -5695,11 +5695,11 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 </kommentar>
 
 <kommentar id="fuessli-jh" type="neuzeit">
-<lemma>Johann Heinrich Füssli</lemma>
-<eintrag>1741–1825. Schweiz.-engl. Maler und Schriftsteller (engl. Henry Fuseli), siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17979.html#ndbcontent">Schiff, Gert: Füßli, Heinrich, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;702–705</wwwlink>.
+<lemma>Johann Heinrich Füßli</lemma>
+<eintrag>1741–1825. Schweizerisch-englischer Maler und Schriftsteller (engl. Henry Fuseli), siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17979.html#ndbcontent">Schiff, Gert: Füßli, Heinrich, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;702–705</wwwlink>.
 </eintrag>
 <subsection id="fuessli-remarks" type="neuzeit">
-<lemma>Füssli, <titel>Remarks</titel></lemma>
+<lemma>Füßli, <titel>Remarks</titel></lemma>
 <eintrag>
 <titel>Remarks on the Writings and Conduct of. J. J. Rousseau</titel> (London 1767). Digitalisat: <wwwlink address="https://hdl.handle.net/2027/nyp.33433075822639">Hathi Trust</wwwlink>
 </eintrag>
@@ -5715,6 +5715,11 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wissenschaften und Künste</titel> (Zürich 1764–1766). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN556102800">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="fuessli-hr" type="neuzeit">
+<lemma>Hans Rudolf Füßli</lemma>
+<eintrag>Sekretär in Rußland, Begleiter von Hartknochs Sohn; wohl ein junger Verwandter der <link ref="fuessli-jh" linktext="false">Familie Füßli</link> in Zürich.</eintrag>
 </kommentar>
 
 <kommentar id="fulda" type="neuzeit">
@@ -18571,6 +18576,18 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <lemma>Tiphaigne de la Roche, <titel>Giphantie</titel></lemma>
 <eintrag>
 <titel>Giphantie. A Babylone</titel> (Paris 1760).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="titius" type="neuzeit">
+<lemma>Johann Daniel Titius</lemma>
+<eintrag>1729–1796. Astronom, Naturforscher, Übersetzer und Professor der Physik in Wittenberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd115648429.html#ndbcontent ">Kleinert, Andreas: Titius, Johann Daniel, in: <titel>NDB</titel>&#x202F;26 (2016), S.&#x202F;308f</wwwlink>.
+</eintrag>
+<subsection id="titius-montaigne" type="neuzeit">
+<lemma>Titius (Übers.), <titel>Michaels Herrn von Montagne Versuche, nebst des Verfassers Leben</titel></lemma>
+<eintrag>
+<titel>Michaels Herrn von Montagne Versuche, nebst des Verfassers Leben,</titel> nach der neuesten Ausgabe des Herrn Peter Coste ins Deutsche übersetzt [von Johann Daniel Titius] (3 Bde., Leipzig: Lankisch 1753). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11257921-1">Stabi Augsburg: LA 3474</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 
