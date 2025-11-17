@@ -385,7 +385,7 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 
 <kommentar id="anhalt-f" type="neuzeit">
 <lemma>Friedrich Graf von Anhalt</lemma>
-<eintrag>1732–1794. Generalmajor im Heer Friedrich II., siehe <wwwlink address="https://d-nb.info/gnd/102638403">GND</wwwlink>.</eintrag>
+<eintrag>1732–1794. Generalmajor im Heer <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://d-nb.info/gnd/102638403">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="anhalt-l" type="neuzeit">
@@ -1118,7 +1118,7 @@ D. Siegmund Jacob Baumgartens <titel>Untersuchung Theologischer Streitigkeiten.<
 
 <kommentar id="beaumelle" type="neuzeit">
 <lemma>Laurent Angliviel de la Beaumelle</lemma>
-<eintrag>1727–1773. Frz. Schriftsteller, 1749 bis 1751 Professor der frz. Literatur an der Universität Kopenhagen, 1751 zeitgleich mit <link ref="voltaire" linktext="false">Voltaire</link> bei <link ref="friedrich-II" linktext="false">Friedrich II.</link> in Potsdam, von Voltaire dort vertrieben, nach 1753 mehrmals wegen seiner Schriften in Paris in Haft; wofür er auch Voltaire verantwortlich machte. Um 1770 von König Ludwig XV. an die ‚Bibliothèque royale‘ berufen. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;3, 1811), S.&#x202F;639–642.</eintrag>
+<eintrag>1727–1773. Frz. Schriftsteller, 1749 bis 1751 Professor der frz. Literatur an der Universität Kopenhagen, 1751 zeitgleich mit <link ref="voltaire" linktext="false">Voltaire</link> bei <link ref="friedrich-II" linktext="true" /> in Potsdam, von Voltaire dort vertrieben, nach 1753 mehrmals wegen seiner Schriften in Paris in Haft; wofür er auch Voltaire verantwortlich machte. Um 1770 von König Ludwig XV. an die ‚Bibliothèque royale‘ berufen. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;3, 1811), S.&#x202F;639–642.</eintrag>
 <subsection id="beaumelle-pensees" type="neuzeit" sort="10">
 <lemma>Beaumelle, <titel>Mes pensées</titel></lemma>
 <eintrag>
@@ -5576,7 +5576,7 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 
 <kommentar id="friedrich-II" type="neuzeit">
 <lemma>Friedrich II.</lemma>
-<eintrag>1712–1786.<line type="break" />
+<eintrag>1712–1786. Ab 1740 König in Preußen (ab 1772 König von Preußen) und Kurfürst von Brandenburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118535749.html#ndbcontent">Stolberg-Wernigerode, Otto Graf zu: Friedrich der Große, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;545–558</wwwlink>.<line type="break" />
 Gustav Berthold Volz, <titel>Die Werke Friedrichs des Großen. In deutscher Übersetzung</titel> (10&#xA0;Bde., Berlin 1913f.)</eintrag>
 <subsection id="fr-memoires" type="neuzeit" sort="10">
 <lemma>Friedrich II., <titel>Mémoires pour servir à l’histoire de Brandebourg</titel></lemma>
@@ -6001,7 +6001,7 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 
 <kommentar id="generaldirektorium" type="neuzeit">
 <lemma>Generaldirektorium</lemma>
-<eintrag>Königlich-preußisches General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für die Innen- und Finanz-Politik sowie für die Finanzierung der Armee; ihm unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kriegs-und-domaenenkammer" linktext="true" />.</eintrag>
+<eintrag>Königlich-preußisches General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für die Innen- und Finanz-Politik sowie für die Finanzierung der Armee; diesem unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kriegs-und-domaenenkammer" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="genest" type="neuzeit">
@@ -6378,7 +6378,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 
 <kommentar id="goertz" type="neuzeit">
 <lemma>Johann Eustachius Graf von Goertz</lemma>
-<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar; 1778 erfolgreicher Diplomat für Brandenburg-Preußen im Vorfeld des Bayerischen Erbfolgekriegs, daraufhin von <link ref="friedrich-II" linktext="false">Friedrich II.</link> zum Staatsminister ernannt und 1779–1785 zum preußischen Gesandten in St. Petersburg; Besuchte Hamann 1779 mit den <link ref="keyserling-h" linktext="false">Keyserlings</link> in Königsberg; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink></eintrag>
+<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar; 1778 erfolgreicher Diplomat für Brandenburg-Preußen im Vorfeld des Bayerischen Erbfolgekriegs, daraufhin von <link ref="friedrich-II" linktext="true" /> zum Staatsminister ernannt und 1779–1785 zum preußischen Gesandten in St. Petersburg; Besuchte Hamann 1779 mit den <link ref="keyserling-h" linktext="false">Keyserlings</link> in Königsberg; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink></eintrag>
 <subsection id="goertz-briefe" type="neuzeit" >
 <lemma>Goertz, <titel>Briefe eines PrintzenHofmeisters</titel></lemma>
 <eintrag>
@@ -6908,7 +6908,7 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 
 <kommentar id="hahn" type="neuzeit">
 <lemma>Johann Friedrich Hähn</lemma>
-<eintrag>1710–1789. Abt in Klosterbergen, Pastor an der Dreifaltigkeitskirche und Inspektor der Realschule in Berlin, 1771 kurzzeitig unter dem Verdacht des Pietismus von Friedrich II. v. Preußen seines Amtes enthoben, dann Generalsuperintendent in Ostfriesland. <wwwlink address="https://www.deutsche-biographie.de/pnd11870009X.html#adbcontent">Kämmel, Heinrich: Hähn, Johann Friedrich in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;373f</wwwlink>.
+<eintrag>1710–1789. Abt in Klosterbergen, Pastor an der Dreifaltigkeitskirche und Inspektor der Realschule in Berlin, 1771 kurzzeitig unter dem Verdacht des Pietismus von <link ref="friedrich-II" linktext="true" /> seines Amtes enthoben, dann Generalsuperintendent in Ostfriesland. <wwwlink address="https://www.deutsche-biographie.de/pnd11870009X.html#adbcontent">Kämmel, Heinrich: Hähn, Johann Friedrich in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;373f</wwwlink>.
 </eintrag>
 <subsection id="hahn-gehorsam" type="neuzeit" sort="10">
 <lemma>Hähn, <titel>Glaubensgehorsam</titel></lemma>
@@ -7353,7 +7353,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;25–33.
 <lemma>Hamann, <titel>Philologische Einfälle</titel></lemma>
 <eintrag>
 <titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift. Entworfen vom Magus in Norden. Im Weinmonate 1772.</titel><line type="break" />
-Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift, in Kombination mit <link ref="hamann" subref="hamann-salomon" linktext="true" />, vgl. <intlink letter="380" page="23" line="15" linktext="true" />; im Frühjahr 1774 sandte Hamann das Manuskript an <link ref="moser" linktext="true" /> (<intlink letter="400" page="70" line="31" linktext="true" />), der es später an <link ref="herder" linktext="true" /> gab; zur abenteuerlichen Geschichte des Manuskripts vgl. zusammenfassend N&#x202F;III,423, zur politischen Brisanz <link ref="nad-j-1949b" linktext="true" />, ebd.,&#x202F;205f.<line type="break" />
+Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift, in Kombination mit <link ref="hamann" subref="hamann-salomon" linktext="true" />, vgl. <intlink letter="380" page="23" line="15" linktext="true" />; im Frühjahr 1774 sandte Hamann das Manuskript an <link ref="moser" linktext="true" /> (<intlink letter="400" page="70" line="31" linktext="true" />), der es 1776 an <link ref="herder" linktext="true" /> gab (im November 1776 gab dieser es Goethe zu lesen, vgl. Goethe: Briefe, Bd. 3 II A, Berlin u.a. 2014), S.&#x202F;429–431); zur abenteuerlichen Geschichte des Manuskripts vgl. zusammenfassend N&#x202F;III,423, zur politischen Brisanz <link ref="nad-j-1949b" linktext="true" />, ebd.,&#x202F;205f.<line type="break" />
 Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
 </eintrag>
@@ -9840,7 +9840,7 @@ Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bs
 
 <kommentar id="kanter" type="neuzeit">
 <lemma>Johann Jakob Kanter</lemma>
-<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften sowie der <link ref="konigsbergsche-gelehrte-p-z" linktext="false"><titel>KGPZ</titel></link>) und Unternehmer in Königsberg, <wwwlink address="https://www.geonames.org/7532600">Elbing</wwwlink> (Filiale), <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink> (Druckerei) und <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>, Lotteriedirektor, Papiermüller, Erbherr von <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>. Errichtete anstelle der Papiermühle eine Schriftgießerei und eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; zum Niedergang seiner Unternehmungen, auch seines Buchladens in den späten 1770ern vgl. <intlink letter="545" page="54" line="11" linktext="false">HKB 545</intlink> und zu finanziellen Details <intlink letter="574" page="149" line="17" linktext="false"></intlink>; 1781 gab er die Buchhandlung an seinen Angestellten Wagner und den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
+<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften sowie der <link ref="konigsbergsche-gelehrte-p-z" linktext="false"><titel>KGPZ</titel></link>) und Unternehmer in Königsberg, <wwwlink address="https://www.geonames.org/7532600">Elbing</wwwlink> (Filiale), <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink> (Druckerei) und <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>, Lotteriedirektor, Papiermüller, Erbherr von <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>. Errichtete anstelle der Papiermühle eine Schriftgießerei und eine Fabrik für Pressspanplatten, für deren Anlage <link ref="friedrich-II" linktext="true" /> 12.000 Taler bereitstellte; zum Niedergang seiner Unternehmungen, auch seines Buchladens in den späten 1770ern vgl. <intlink letter="545" page="54" line="11" linktext="false">HKB 545</intlink> und zu finanziellen Details <intlink letter="574" page="149" line="17" linktext="false"></intlink>; 1781 gab er die Buchhandlung an seinen Angestellten Wagner und den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
 Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Ort, den Hamann häufig besuchte, und wo er vielerlei Leute traf. Er wurde 1760 in Kanters väterlichem Haus in der Altstädtischen Langgasse 23 eröffnet und zog Ende August 1768 um in das nach dem großen Brand von 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2. Über dem Eingang hing ein großer Preußenadler und im Inneren standen Büsten einerseits von Pindar, Caesar, Tacitus, Plutarch und anderen, andererseits von Kant, Scheffner, Hippel, Lindner und anderen (vgl. <intlink letter="351" page="419" line="26" linktext="true" />); später ebenso ein Gemälde von Hamann (vgl. <intlink letter="398" page="68" line="20" linktext="true" />).</eintrag>
 </kommentar>
 
@@ -9869,7 +9869,7 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 
 <kommentar id="karsch" type="neuzeit">
 <lemma>Anna Louisa Karsch</lemma>
-<eintrag>1722–1791. Berühmt geworden als „deutsche Sappho“ durch Gedichte auf Friedrich II. v. Preußen und seine Siege im Siebenjährigen Krieg. <wwwlink address="https://www.deutsche-biographie.de/sfz40039.html#adbcontent">Palm, Hermann: Karsch, Anna Louisa, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;421f</wwwlink>.
+<eintrag>1722–1791. Berühmt geworden als „deutsche Sappho“ durch Gedichte auf <link ref="friedrich-II" linktext="true" /> und seine Siege im Siebenjährigen Krieg. <wwwlink address="https://www.deutsche-biographie.de/sfz40039.html#adbcontent">Palm, Hermann: Karsch, Anna Louisa, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;421f</wwwlink>.
 </eintrag>
 <subsection id="karsch-sammlung" type="neuzeit" sort="10">
 <lemma>Karsch, <titel>Sammlungs-Plan</titel></lemma>
@@ -10820,7 +10820,7 @@ L
 
 <kommentar id="lattre" type="neuzeit">
 <lemma>Nicolas Constantin de Lattre</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Geheimer Rat, ab 1766 Finanzrat und einer der fünf <link ref="general-akzise-und-zoll-direktion" linktext="false">Generalregisseure</link> in der französischen Finanzverwaltung von <link ref="friedrich-II" linktext="true" />, 1772 bei der Reform der Generalregie entlassen; richtete ab 1772 in Königsberg im Auftrag Friedrich II. die <link ref="seehandlungskompanie" linktext="true" /> ein, vgl. <link ref="gaj-b-1987b" linktext="false">Gajek (Hg.): Hamann und Frankreich</link>, S.&#x202F;154f.</eintrag>
+<eintrag>Lebensdaten nicht ermittelt. Geheimer Rat, ab 1766 Finanzrat und einer der fünf <link ref="general-akzise-und-zoll-direktion" linktext="false">Generalregisseure</link> in der französischen Finanzverwaltung von <link ref="friedrich-II" linktext="true" />, 1772 bei der Reform der Generalregie entlassen; richtete ab 1772 in Königsberg im Auftrag <link ref="friedrich-II" linktext="false">Friedrichs II.</link> die <link ref="seehandlungskompanie" linktext="true" /> ein, vgl. <link ref="gaj-b-1987b" linktext="false">Gajek (Hg.): Hamann und Frankreich</link>, S.&#x202F;154f.</eintrag>
 </kommentar>
 
 <kommentar id="lau-tl" type="neuzeit">
@@ -11301,7 +11301,7 @@ Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn
 <eintrag>
 Gespräche 1–3 (1778): <titel>Ernst und Falk. Gespräche für Freymäurer</titel> (Wolfenbüttel 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919441-6">BSB München: Res/H.g.hum. 138 l-1/2</wwwlink>. – Von Lessing selbst übersehener Druck; <link ref="ferdinand" linktext="false">Herzog Ferdinand</link>, dem das Buch gewidmet ist, war ein Druck der Gespräche 4 und 5 nicht genehm, Manuskripte zirkulierten jedoch unter Lessings Freunden.<line type="break" />
 Gespräche 4 und 5 (1780): <titel>Ernst und Falk. Gespräche für Freymäurer. Fortsetzung</titel> (s.l. 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919442-2">BSB München: Res/H.g.hum. 138 l-1/2.</wwwlink>. – Nicht von Lessing beaufsichtigter, fehlerhafter Druck auf Grundlage eines der zirkulierenden Manuskripte, von einem Unbekannten in Druck gegeben.<line type="break" />
-Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage eines Manuskripts, das <link ref="herder" linktext="false">Herder</link> ihm schickte, in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken: Das 4. Gespräch als <titel>Fortsetzung der Beylage zum 6ten Stücke dieser Zeitung von 1779</titel> im 37.&#x202F;und 38.&#x202F;St., 7. und 10. Mai 1781, S.&#x202F;145f. u.&#x202F;149f. – das 5. Gespräch nebst der „Nachricht“ in der Beilage zu St.&#x202F;38. und im 39.&#x202F;St., 10. und 14. Mai 1781, unpag. und S.&#x202F;153f. (vgl. Gotthold Ephraim Lessings sämtliche Schriften. Hg. v. Karl Lachmann. 3. Aufl. besorgt durch Franz Muncker. Leipzig 1897, Bd.&#x202F;13, S.&#x202F;388). – Hamann druckte keine »Vorrede eines Dritten« mit, führte die mit Sternchen markierten Auslassungen im Text (v.a. bei Namen) im Gegensatz zur Ausgabe von 1780 aus, ließ zwei Asterisken mitdrucken und zeigte im Text Anmerkungen von a bis k an, ohne sie auszuführen, die sich wohl auf Lessings Anmerkungen beziehen (vgl. Lessings Werke. Vollständige Ausgabe in 25 Teilen. Hg. von Julius Petersen und Waldemar von Olshausen. Anmerkungen zu Teil 1 bis 7. Berlin, Leipzig 1929, S.&#x202F;292–294 [von Waldemar von Olshausen]). – Obwohl der Hamann-Druck in den KGPZ sowohl Lachmann als auch Olshausen bei der Erstellung ihrer Ausgaben noch vorlag, gilt er heute als verschollen.
+Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage eines Manuskripts, das <link ref="herder" linktext="false">Herder</link> ihm schickte (die Sendung kam am 24. März 1780 in Königsberg an, vgl. <intlink letter="586" page="174" line="22" linktext="true" />), in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken: Das 4. Gespräch als <titel>Fortsetzung der Beylage zum 6ten Stücke dieser Zeitung von 1779</titel> im 37.&#x202F;und 38.&#x202F;St., 7. und 10. Mai 1781, S.&#x202F;145f. u.&#x202F;149f. – das 5. Gespräch nebst der „Nachricht“ in der Beilage zu St.&#x202F;38. und im 39.&#x202F;St., 10. und 14. Mai 1781, unpag. und S.&#x202F;153f. (vgl. Gotthold Ephraim Lessings sämtliche Schriften. Hg. v. Karl Lachmann. 3. Aufl. besorgt durch Franz Muncker. Leipzig 1897, Bd.&#x202F;13, S.&#x202F;388). – Hamann druckte keine „Vorrede eines Dritten“ mit, führte die mit Sternchen markierten Auslassungen im Text (v.a. bei Namen) im Gegensatz zur Ausgabe von 1780 aus, ließ zwei Asterisken mitdrucken und zeigte im Text Anmerkungen von a bis k an, ohne sie auszuführen, die sich wohl auf Lessings Anmerkungen beziehen (vgl. Lessings Werke. Vollständige Ausgabe in 25 Teilen. Hg. von Julius Petersen und Waldemar von Olshausen. Anmerkungen zu Teil 1 bis 7. Berlin, Leipzig 1929, S.&#x202F;292–294 [von Waldemar von Olshausen]). – Obwohl der Hamann-Druck in den KGPZ sowohl Lachmann als auch Olshausen bei der Erstellung ihrer Ausgaben noch vorlag, gilt er heute als verschollen.
 </eintrag>
 </subsection>
 <subsection id="lessing-nothige-antwort" type="neuzeit" sort="150">
@@ -11373,6 +11373,12 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 <titel>Ueber Physiognomik; wider die Physiognomen. Zu Beförderung der Menschenliebe und Menschenkenntniß</titel> (Göttingen: Dieterich 1778, zuvor im <wwwlink address="https://musenalm.de/beitrag/132558">Goettinger Taschen Calender vom Jahr 1778, Göttingen: Dieterich 1777</wwwlink>). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10435502-4">BSB München: H.g.hum. 153 w#Beibd.1</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="lichtenberg-magazin" type="neuzeit" sort="20">
+<lemma>Lichtenberg (mit <link ref="forster-g" linktext="false">Forster</link>), <titel>Göttingisches Magazin der Wissenschaften und Litteratur</titel></lemma>
+<eintrag>
+<titel>Göttingisches Magazin der Wissenschaften und Litteratur. Herausgegeben von Georg Christoph Lichtenberg und <link ref="forster-g" linktext="true" /></titel> (5 Bde., Göttingen: Dieterich 1780–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10926833-5">BSB München: Res/Per. 109</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=012724270">ZDB</wwwlink>
+</eintrag>
+</subsection>lichtenberg-magazin
 </kommentar>
 
 <kommentar id="lieberkuehn" type="neuzeit">
@@ -12952,7 +12958,13 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <subsection id="messkatalog-michaelis1779" type="neuzeit" sort="90">
 <lemma>Messkatalog für Michaelis 1779</lemma>
 <eintrag>
-<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Michaelismesse des 1774 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1779). 
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Michaelismesse des 1779 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1779). 
+</eintrag>
+</subsection>
+<subsection id="messkatalog-ostern1780" type="neuzeit" sort="90">
+<lemma>Messkatalog für Ostern 1780</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1780 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1779). 
 </eintrag>
 </subsection>
 </kommentar>
