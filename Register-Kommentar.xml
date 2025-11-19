@@ -1480,6 +1480,17 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 </eintrag>
 </kommentar>
 
+<kommentar id="berger-tb" type="neuzeit">
+<lemma>Traugott Benjamin Berger</lemma>
+<eintrag>1754–1810. Schriftsteller in Dresden.
+<subsection id="berger-galora" type="neuzeit" sort="10">
+<lemma>Berger, <titel>Galora von Venedig</titel></lemma>
+<eintrag>
+<titel>Galora von Venedig. Ein Trauerspiel in fünf Aufzügen, von Traugott Benjamin Berger</titel> (Leipzig: Hilscher 1778). Digitalisat. <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000DE3F00000000">Stabi Berlin: Yr 6931</wwwlink>.</eintrag>
+</subsection>
+</eintrag>
+</kommentar>
+
 <kommentar id="bernard" type="neuzeit">
 <lemma>Pierre-Joseph Bernard</lemma>
 <eintrag>1710–1775. Frz. Dichter, Dramatiker und Librettist. Lebte in Paris. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;4, 1811), S.&#x202F;293–295.</eintrag>
@@ -2903,6 +2914,12 @@ Er vermittelte 1753 für Hamann die Hausmeisterstelle in <wwwlink address="https
 </eintrag>
 </kommentar>
 
+<kommentar id="carmer" type="neuzeit">
+<lemma>Johann Heinrich von Carmer</lemma>
+<eintrag>1720–1801. 1779 Nachfolger <link ref="furst" linktext="false">von Fürst und Kupferbergs</link> als Großkanzler bzw. Justizminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link>; als solcher maßgeblich am Corpus Iuris Fridericianum beteiligt; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116456590.html#ndbcontent">Döhring, Erich: Carmer, Johann Heinrich Casimir Graf von, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;150</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="carpzov" type="neuzeit">
 <lemma>Johann Gottlob Carpzov</lemma>
 <eintrag>1679–1767. Theologe und Orientalist, ab 1708 in Leipzig, ab 1730 in Lübeck, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116458704.html#adbcontent">Siegfried, C.: Carpzov, Johann Gottlob, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;23–25</wwwlink>.
@@ -3681,7 +3698,7 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 
 <kommentar id="courtan-sm" type="neuzeit">
 <lemma>Sophie Marianne Courtan</lemma>
-<eintrag>Geboren 1741. Geb. <link ref="toussaint-jc" linktext="false">Toussaint</link>. Befreundet mit Hamann in Königsberg ab Mitte der 1770er Jahre, Patenmutter von <link ref="hamann-ms" linktext="true" />; seit 1761 Ehefrau von <link ref="courtan-pj" linktext="true" /> und Schwägerin von <link ref="lindner-m" linktext="true" />; später von <link ref="hartknoch" linktext="true" /> (Schwester von <link ref="hartknoch-a" linktext="true" />).
+<eintrag>Geboren 1741. Geb. <link ref="toussaint-jc" linktext="false">Toussaint</link>. Befreundet mit Hamann in Königsberg ab Mitte der 1770er Jahre, Patenmutter von <link ref="hamann-ms" linktext="true" />; seit 1761 Ehefrau von <link ref="courtan-pj" linktext="true" /> und Schwägerin von <link ref="lindner-m" linktext="true" />; später Schwägerin von <link ref="hartknoch" linktext="true" /> (als Schwester von <link ref="hartknoch-a" linktext="true" />).
 </eintrag>
 </kommentar>
 
@@ -5758,7 +5775,7 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 
 <kommentar id="furst" type="neuzeit">
 <lemma>Maximilian von Fürst und Kupferberg</lemma>
-<eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1763 Geheimer Etats- und Justizminister sowie Präsident des 1. Kammergerichts, 1770–1779 Großkanzler von Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>.
+<eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1763 Geheimer Etats- und Justizminister sowie Präsident des 1. Kammergerichts, 1770–1779 Großkanzler bzw. Justizminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -5878,6 +5895,11 @@ G
 <titel>Scelta di varii pezzi dei piu classici autori, con annotazione e giunte par la lingua e letteratura Italiana</titel> (2&#xA0;Bde., Göttingen: Vandenhoeck 1757/8) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;165/582: „Scelta die Vinc. Gaudio, Tom. I. II. Braunschw. 763. 764“]. Digitalisat; Bd. 1: <wwwlink address="https://books.google.de/books?id=sIZkJWzYR3MC">Google Books</wwwlink>; Digitalisat; Bd. 2: <wwwlink address="https://books.google.de/books?id=4dZgAAAAcAAJ">Google Books</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="gaudi" type="neuzeit">
+<lemma>Leopold Otto von Gaudi</lemma>
+<eintrag>1728–1789. Brandenburg-preußischer Geheimer Etats- Kriegs- und Finanzminister, ab 1775 im <link ref="generaldirektorium" linktext="true" /> zuständig für Ost- und Westpreußen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz20015.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="gaupp-e" type="neuzeit">
@@ -6558,7 +6580,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 
 <kommentar id="graun" type="neuzeit">
 <lemma>Carl Ferdinand Graun</lemma>
-<eintrag>1753–1819. Seit 1777 Hofgerichtsrat in Königsberg, heiratete 1780 <link ref="fischer-e" linktext="true" /> 1787 nach Berlin versetzt. Siehe Rolf Straubel: <titel>Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806</titel> (München 2009), Bd.&#x202F;1, S.&#x202F;345f.</eintrag>
+<eintrag>1753–1819. Seit 1777 Hofgerichtsrat in Königsberg, heiratete 1780 <link ref="fischer-e" linktext="true" />, 1787 nach Berlin versetzt. Siehe Rolf Straubel: <titel>Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806</titel> (München 2009), Bd.&#x202F;1, S.&#x202F;345f.</eintrag>
 </kommentar> 
 
 <kommentar id="graville" type="neuzeit">
@@ -11312,6 +11334,11 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 <subsection id="lessing-nathan" type="neuzeit" sort="160">
 <lemma>Lessing, <titel>Nathan der Weise</titel></lemma>
 <eintrag><titel>Nathan der Weise. Ein Dramatisches Gedicht, in fünf Aufzügen.</titel> Von Gotthold Ephraim Lessing (Berlin: Voß 1779). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-20358-9">HAB Wolfenbüttel, M: Lo 4559</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="lessing-nachlass" type="neuzeit" sort="170">
+<lemma>Lessing, <titel>Theologischer Nachlaß</titel></lemma>
+<eintrag><titel>Gotthold Ephraim Lessings theologischer Nachlaß</titel> [hg. von Karl Gotthelf Lessing] (Berlin: Voß 1784). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10785923-6">BSB München: Th.u.226</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -19944,6 +19971,12 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <lemma>Wieland, <titel>Gedanken eines Laien über Bahrdts Glaubensbekenntnis</titel></lemma>
 <eintrag>
 <titel>Unmaasgebliche Gedanken eines Laien über Herrn D. Carl Friedrich Bahrdts Glaubensbekenntnis,</titel> in: <link ref="teutsche-merkur" linktext="true" />, 3. Vj. 1779, S.&#x202F;170–179 (August) und S.&#x202F;218–262 (September).
+</eintrag>
+</subsection>
+<subsection id="wieland-oberon" type="neuzeit" sort="130">
+<lemma>Wieland, <titel>Oberon</titel></lemma>
+<eintrag>
+<titel>Oberon. Ein Gedicht in vierzehn gesängen,</titel> in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10617975?page=7">1. Vj. 1780</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
