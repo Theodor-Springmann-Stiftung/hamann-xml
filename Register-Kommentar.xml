@@ -5166,7 +5166,7 @@ F
 <subsection id="fabricius-bib" type="neuzeit">
 <lemma>Fabricius, <titel>Bibliotheca graeca</titel></lemma>
 <eintrag>
-Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca graeca sive notitia scriptorum veterum graecorum, quorumcunque monumenta integra aut fragmenta edita extant</titel> (14 Bde., 1705–1728). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10528404-5">BSB München: 4 N.libr. 21-1/3</wwwlink>.
+Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca graeca sive notitia scriptorum veterum graecorum, quorumcunque monumenta integra aut fragmenta edita extant</titel> (14 Bde., 1705–1728) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;60/38: „I. A. Fabricii Bibliotheca graeca, Tom. I—IX. Lips. 717“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10528404-5">BSB München: 4 N.libr. 21-1/3</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11978,8 +11978,15 @@ Dt. Übers. zitiert nach: Hermann Diels/Ernst Günther Schmidt (Übers.), <titel
 WA = <titel>D. Martin Luthers Werke</titel>, hg.&#x202F;v. Rudolf Hermann, Gerhard Ebeling u.a. (Weimar u.&#x202F;a. 1883–2009).
 </eintrag>
 <subsection id="luther-schriften" type="neuzeit" sort="10">
-<lemma>Luther, <titel>Schriften</titel></lemma>
-<eintrag><titel>Der […] Teil aller Bücher vnd Schrifften des thewren, seligen Mans Doct: Mart: Lutheri</titel> (1555–?) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;18/27: „Martin Luther’s Schriften, Th. I. II. IV–VIII. Jen. 555–62“].
+<lemma>Luther, <titel>Schriften (Jena 1555–1558)</titel></lemma>
+<eintrag><titel>Der […] Teil aller Bücher vnd Schrifften des thewren, seligen Mans Doct: Mart: Lutheri</titel> (Jena: Rödinger 1555–1558) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;18/27: „Martin Luther’s Schriften, Th. I. II. IV–VIII. Jen. 555–62“]. Digitalisat Bd.&#x202F;1: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00013497">Forschungsbibliothek Gotha: Th 4° 03071 (01)</wwwlink>. 
+– Digitalisat Bd.&#x202F;2: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030098">Forschungsbibliothek Gotha: Th 4° 03071 (02)</wwwlink>. 
+– Digitalisat Bd.&#x202F;3: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030099">Forschungsbibliothek Gotha: Th 4° 03071 (03)</wwwlink>. 
+– Digitalisat Bd.&#x202F;4: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030100">Forschungsbibliothek Gotha: Th 4° 03071 (04)</wwwlink>. 
+– Digitalisat Bd.&#x202F;5: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030101">Forschungsbibliothek Gotha: Th 4° 03071 (05)</wwwlink>. 
+– Digitalisat Bd.&#x202F;6: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030134">Forschungsbibliothek Gotha: Th 4° 03071 (06)</wwwlink>. 
+– Digitalisat Bd.&#x202F;7: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030102">Forschungsbibliothek Gotha: Th 4° 03071 (07)</wwwlink>. 
+– Digitalisat Bd.&#x202F;8: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030132">Forschungsbibliothek Gotha: Th 4° 03071 (08)</wwwlink>. – Nachdruck Jena 1575: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10812403-9">BSB Münschen: 2 Th.u. 99</wwwlink>
 </eintrag>
 </subsection>
 <subsection id="luther-colloquia" type="neuzeit" sort="15">
@@ -11996,6 +12003,11 @@ WA&#x202F;30, 1, S.&#x202F;123–238.
 <subsection id="luther-auszug" type="neuzeit" sort="30">
 <lemma><titel>Auszug aus Luthers Schriften</titel></lemma>
 <eintrag><titel>Das Nutzbareste aus den gesamten erbaulichen Schriften des seligen Herrn D. Martini Lutheri. In umständlichen Auszügen […] mit nöthigen u. nützlichen Registern versehen u. nebst e. Vorrede</titel> (Salfeld: Böhmer 1738–1754) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;29/205: „Benj. Lindners Auszug aus Luthers Schriften, 1–10 Th. Saalf. 741“].
+</eintrag>
+</subsection>
+<subsection id="luther-schriften1739" type="neuzeit" sort="35">
+<lemma>Luther, <titel>Schriften (Halle 1739–1753)</titel></lemma>
+<eintrag><titel>D. Martin Luthers sowol in Deutscher als Lateinischer Sprache verfertigte und aus der letztern in die erstere übersetzte Sämtliche Schriften</titel>, hg. v. <link ref="walch-jg" linktext="true" /> (22 Bde., Halle: Gebauer 1739–1753). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11230156-2">Stabi Augsburg: 4 Th Ref 36</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="luther-kleine" type="neuzeit" sort="40">
@@ -19556,6 +19568,11 @@ W
 <eintrag>
 <titel>D. Christian Wilhelm Franz Walchs kritische Untersuchung vom Gebrauch der heiligen Schrift unter den alten Christen in den vier ersten Jahrhunderten</titel> (Leipzig: Weygand 1779). <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN549325042">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="walch-jg" type="neuzeit">
+<lemma>Johann Georg Walch</lemma>
+<eintrag>1693–1775. Professor der Theologie in Jena, Herausgeber der <link ref="luther" subref="luther-schriften1739" linktext="false">Luther-Ausgabe Halle 1739–1753</link> und Vater von <link ref="walch" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="wannovius" type="neuzeit">
