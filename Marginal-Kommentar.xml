@@ -78980,11 +78980,11 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="178" line="17" sort="2">
-<bzg>Minister von Gaudi</bzg> <link ref="gaudi" linktext="true" />
+<bzg>Minister von Gaudi</bzg> <link ref="gaudy" linktext="true" />
 </marginal>
 
 <marginal letter="586" page="178" line="18">
-<bzg>unsers verfallnen Handels</bzg> Henkel: »Im Frühjahr 1780 schickte <link ref="friedrich-II" linktext="true" /> <link ref="gaudi" linktext="false">Gaudi</link> und den Geheimen Finanzrat Tarrach nach Königsberg, um die Gründe für den Rückgang des Handels zu ermitteln. Sie nannten als Ursache: Feuersbrünste, die Unruhen in Polen, die Abtretung Weißrußlands von Polen an Rußland, die hohen preußischen Zölle auf polnische Produkte, das Salzmonopol, und empfahlen, die hohen Zölle abzubauen und den Königsberger Kaufleuten den Handel mit seidenen und wollenen Waren und den Salzhandel nach Litauen freizugeben. Friedrich bedachte diese Vorschläge mit Hohn.« – Das klingt plausibel, aber was ist die Quelle?!?
+<bzg>unsers verfallnen Handels</bzg> Henkel: »Im Frühjahr 1780 schickte <link ref="friedrich-II" linktext="true" /> <link ref="gaudy" linktext="false">Gaudi</link> und den Geheimen Finanzrat Tarrach nach Königsberg, um die Gründe für den Rückgang des Handels zu ermitteln. Sie nannten als Ursache: Feuersbrünste, die Unruhen in Polen, die Abtretung Weißrußlands von Polen an Rußland, die hohen preußischen Zölle auf polnische Produkte, das Salzmonopol, und empfahlen, die hohen Zölle abzubauen und den Königsberger Kaufleuten den Handel mit seidenen und wollenen Waren und den Salzhandel nach Litauen freizugeben. Friedrich bedachte diese Vorschläge mit Hohn.« – Das klingt plausibel und steht etwas kürzer auch so bei Strobel; was ist aber Henkels Quelle?!?
 </marginal>
 
 <marginal letter="586" page="178" line="19" sort="1">
@@ -79298,7 +79298,7 @@ Henkel einfach löschen?!?: »über die Herkunft des Scheblimini bei Luther gibt
 </marginal>
 
 <marginal letter="589" page="182" line="37">
-<bzg>Simon Gorionides&#x202F;…</bzg> Herder behandelt in <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha</titel></link>, ED, S.&#x202F;92–94 die Raubzüge des Schimon bar Giora im Zusammenhang des Bildes der gepanzerten Heuschrecken aus <link ref="nt-off" subref="nt-off9" linktext="false">Offb 9,7</link>. – Auf S.&#x202F;93, Anm. z zitiert er aus <link ref="josephus" subref="josephus-bell" linktext="true" />, 4,7,2 („τεταρτον κακον προς την του εθνους καταλησιν“, Übers. ‚das vierte Übel, das zum Untergang des Volkes beitrug‘). – In <link ref="josephus" subref="josephus-bell" linktext="true" />, 4,9,7 findet sich indessen tatsächlich der Vergleich der Raubzüge des Simon Gorionides mit Heuschrecken („Et quemadmodum post locustas cernere est silvas frondibus nudatas, sic etiam qua Simonis transisset exercitus, a tergo solitudinem relinquebat […]“, Übers. ‚Und wie man nach einem Heuschreckenschwarm die Wälder ihrer Blätter beraubt sieht, so war auch überall dort, wo Simons Heer hindurchgezogen war, eine Einöde‘)
+<bzg>Simon Gorionides&#x202F;…</bzg> Herder behandelt in <link ref="herder" subref="herder-maran" linktext="false"><titel>Maran Atha</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10413471?page=100,101">ED, S.&#x202F;92–94</wwwlink> die Raubzüge des Schimon bar Giora im Zusammenhang des Bildes der gepanzerten Heuschrecken aus <link ref="nt-off" subref="nt-off9" linktext="false">Offb 9,7</link>. – Auf S.&#x202F;93, Anm. z zitiert er aus <link ref="josephus" subref="josephus-bell" linktext="true" />, 4,7,2 (<wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11054084?page=299">„τεταρτον κακον προς την του εθνους καταλησιν“</wwwlink>, Übers. ‚das vierte Übel, das zum Untergang des Volkes beitrug‘). – In <link ref="josephus" subref="josephus-bell" linktext="true" />, 4,9,7 findet sich indessen tatsächlich der Vergleich der Raubzüge des Simon Gorionides mit Heuschrecken (<wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11054084?page=309">„Et quemadmodum post locustas cernere est silvas frondibus nudatas, sic etiam qua Simonis transisset exercitus, a tergo solitudinem relinquebat […]“,</wwwlink> Übers. ‚Und wie man nach einem Heuschreckenschwarm die Wälder ihrer Blätter beraubt sieht, so war auch überall dort, wo Simons Heer hindurchgezogen war, eine Einöde‘).
 </marginal>
 
 <marginal letter="589" page="183" line="4">
@@ -79325,48 +79325,48 @@ Henkel einfach löschen?!?: »über die Herkunft des Scheblimini bei Luther gibt
 <bzg>Handels</bzg> vgl. <intlink letter="586" page="178" line="18" linktext="true" />
 </marginal>
 
-<marginal letter="589" page="183" line="21">
-<bzg>Ministers deutsche u französische Schrift</bzg> 
+<marginal letter="589" page="183" line="21" sort="1">
+<bzg>Ministers deutsche u französische Schrift</bzg> <link ref="hertzberg" linktext="true" /> hielt am 27. Januar 1780 vor der Berliner Akademie eine <link ref="hertzberg" subref="hertzberg-causes" linktext="false"><titel>Dissertation tendant a expliquer les causes de la supériorité des germains sur les romains et a prouver que le nord de la germanie ou teutonie entre le rhin et la vistule et principalment la presente monarchie prussienne est la patrie originaire de ces nations héroiques</titel></link>, die auch auf Deutsch gedruckt wurde, und offenbar bald darauf in Königsberg zirkulierte.
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="589" page="183" line="22">
+<bzg>Falk&#x202F;…&#x202F;Gräber der Vorfahren</bzg> 
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="589" page="183" line="23">
+<bzg></bzg> <link ref="lessing" subref="lessing-ernst-falk" linktext="true" />, Gespräche 4 und 5 (1781), S.&#x202F;7 (Hamann zitiert offenbar aus dem Manuskript, vgl. <intlink letter="586" page="174" line="22" linktext="true" />)
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="589" page="183" line="25">
+<bzg>paroissent devoir&#x202F;…</bzg> dt. sie scheinen so lange zu dauern, wie die gegenwärtige Welt besteht; <link ref="hertzberg" subref="hertzberg-causes" linktext="true" />, S.&#x202F;30
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="586" page="183" line="27">
+<bzg>Commission</bzg> bestehend aus <link ref="gaudy" linktext="false">Gaudi</link> und dem Geheimen Finanzrat Tarrach, vgl. <intlink letter="586" page="178" line="18" linktext="true" />
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="589" page="183" line="28">
+<bzg>Minister</bzg> <link ref="gaudy" linktext="true" />
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="589" page="183" line="30">
+<bzg>alte OberPräsident</bzg> wohl <link ref="rohd-jf" linktext="true" />
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="589" page="183" line="31">
+<bzg>molimina der güldnen Ader statt der Cur</bzg> ?!?
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="589" page="183" line="34">
+<bzg>Briefe eines Frauenzimmers&#x202F;…</bzg> 
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="589" page="183" line="36">
+<bzg>St. Affrenstag</bzg> 
 </marginal>
 
-<marginal letter="589" page="183" line="">
-<bzg></bzg> 
+<marginal letter="589" page="183" line="37">
+<bzg>Catalogs</bzg> des <link ref="kypke" linktext="false">Kypkeschen</link> Katalos, <intlink letter="589" page="181" line="12" linktext="false"></intlink>
 </marginal>
 
 
