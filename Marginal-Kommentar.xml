@@ -78860,7 +78860,7 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="176" line="23" sort="1">
-<bzg></bzg> wohl in die Altroßgärter Kirche im Hinterroßgarten, nordöstlich des Schlosses auf der anderen Seite der Stadt vom Packhof
+<bzg>nach der Roßgärtschen Kirche</bzg> wohl in die Altroßgärter Kirche im Hinterroßgarten, nordöstlich des Schlosses auf der anderen Seite der Stadt vom Packhof
 </marginal>
 
 <marginal letter="586" page="176" line="23" sort="2">
@@ -78984,7 +78984,7 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="178" line="18">
-<bzg>unsers verfallnen Handels</bzg> Henkel: »Im Frühjahr 1780 schickte <link ref="friedrich-II" linktext="true" /> <link ref="gaudy" linktext="false">Gaudi</link> und den Geheimen Finanzrat Tarrach nach Königsberg, um die Gründe für den Rückgang des Handels zu ermitteln. Sie nannten als Ursache: Feuersbrünste, die Unruhen in Polen, die Abtretung Weißrußlands von Polen an Rußland, die hohen preußischen Zölle auf polnische Produkte, das Salzmonopol, und empfahlen, die hohen Zölle abzubauen und den Königsberger Kaufleuten den Handel mit seidenen und wollenen Waren und den Salzhandel nach Litauen freizugeben. Friedrich bedachte diese Vorschläge mit Hohn.« – Das klingt plausibel und steht etwas kürzer auch so bei Strobel; was ist aber Henkels Quelle?!?
+<bzg>unsers verfallnen Handels</bzg> Henkel: »Im Frühjahr 1780 schickte <link ref="friedrich-II" linktext="true" /> <link ref="gaudy" linktext="false">Gaudi</link> und den Geheimen Finanzrat Tarrach nach Königsberg, um die Gründe für den Rückgang des Handels zu ermitteln. Sie nannten als Ursache: Feuersbrünste, die Unruhen in Polen, die Abtretung Weißrußlands von Polen an Rußland, die hohen preußischen Zölle auf polnische Produkte, das Salzmonopol, und empfahlen, die hohen Zölle abzubauen und den Königsberger Kaufleuten den Handel mit seidenen und wollenen Waren und den Salzhandel nach Litauen freizugeben. Friedrich bedachte diese Vorschläge mit Hohn.« – Das klingt plausibel und steht etwas kürzer auch so bei Strobel; was ist aber Henkels Quelle?!? vgl. <intlink letter="589" page="183" line="27" linktext="true" />
 </marginal>
 
 <marginal letter="586" page="178" line="19" sort="1">
@@ -78992,7 +78992,7 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="178" line="19" sort="2">
-<bzg>Pleßing</bzg> <link ref="plessing-f" linktext="true" />
+<bzg>Pleßing</bzg> <link ref="plessing-f" linktext="false">Friedrich Plessing</link>
 </marginal>
 
 <marginal letter="586" page="178" line="20">
@@ -79008,7 +79008,7 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="178" line="22">
-<bzg>sat prata biberunt</bzg> dt. Genug schon tranken die Wiesen; Ende von <link ref="vergil" subref="vergil-bucol" linktext="true" />, 3,111
+<bzg>sat prata biberunt</bzg> dt. Genug schon tranken die Wiesen; Ende von <link ref="vergil" subref="vergil-bucol" linktext="true" />, 3,111; zum Abbruch der Beziehungen zu <link ref="plessing-f" linktext="false">Friedrich Plessing</link> vgl. <intlink letter="589" page="185" line="26" linktext="true" />
 </marginal>
 
 <marginal letter="586" page="178" line="24" sort="1">
@@ -79245,7 +79245,7 @@ Brief Nr. 589
 </marginal>
 
 <marginal letter="589" page="182" line="10">
-<bzg>Ernesti Initia</bzg> <link ref="ernesti" subref="ernesti-doctrinae" linktext="true" />
+<bzg>Ernesti Initia</bzg> <link ref="ernesti" subref="ernesti-doctrinae" linktext="true" /> 
 </marginal>
 
 <marginal letter="589" page="182" line="15">
@@ -79306,7 +79306,7 @@ Henkel einfach löschen?!?: »über die Herkunft des Scheblimini bei Luther gibt
 </marginal>
 
 <marginal letter="589" page="183" line="5">
-<bzg>Mendelssohns Genesis</bzg> Mendelssohn arbeitete in den frühen 1780er Jahren nicht an einer Abhandlung oder Übersetzung der Genesis; Ursprung des Gerüchts nicht ermittelt?!?
+<bzg>Mendelssohns Genesis</bzg> <link ref="mendelssohn" linktext="true" />, nicht ermittelt, <intlink letter="589" page="185" line="20" linktext="false">s.u.</intlink>
 </marginal>
 
 <marginal letter="589" page="183" line="6">
@@ -79326,22 +79326,18 @@ Henkel einfach löschen?!?: »über die Herkunft des Scheblimini bei Luther gibt
 </marginal>
 
 <marginal letter="589" page="183" line="21" sort="1">
-<bzg>Ministers deutsche u französische Schrift</bzg> <link ref="hertzberg" linktext="true" /> hielt am 27. Januar 1780 vor der Berliner Akademie eine <link ref="hertzberg" subref="hertzberg-causes" linktext="false"><titel>Dissertation tendant a expliquer les causes de la supériorité des germains sur les romains et a prouver que le nord de la germanie ou teutonie entre le rhin et la vistule et principalment la presente monarchie prussienne est la patrie originaire de ces nations héroiques</titel></link>, die auch auf Deutsch gedruckt wurde, und offenbar bald darauf in Königsberg zirkulierte.
+<bzg>Ministers deutsche u französische Schrift&#x202F;…</bzg> <link ref="hertzberg" linktext="true" /> hielt am 27. Januar 1780 vor der Berliner Akademie eine <link ref="hertzberg" subref="hertzberg-causes" linktext="false"><titel>Dissertation tendant a expliquer les causes de la supériorité des germains sur les romains et a prouver que le nord de la germanie ou teutonie entre le rhin et la vistule et principalment la presente monarchie prussienne est la patrie originaire de ces nations héroiques</titel></link>, die auch auf Deutsch gedruckt wurde, und offenbar bald darauf in Königsberg zirkulierte.
 </marginal>
 
 <marginal letter="589" page="183" line="22">
-<bzg>Falk&#x202F;…&#x202F;Gräber der Vorfahren</bzg> 
-</marginal>
-
-<marginal letter="589" page="183" line="23">
-<bzg></bzg> <link ref="lessing" subref="lessing-ernst-falk" linktext="true" />, Gespräche 4 und 5 (1781), S.&#x202F;7 (Hamann zitiert offenbar aus dem Manuskript, vgl. <intlink letter="586" page="174" line="22" linktext="true" />)
+<bzg>Falk&#x202F;…&#x202F;Gräber der Vorfahren</bzg> <link ref="lessing" subref="lessing-ernst-falk" linktext="true" />, Gespräche 4 und 5 (1781), S.&#x202F;7 (Hamann zitiert offenbar aus dem Manuskript, vgl. <intlink letter="586" page="174" line="22" linktext="true" />)
 </marginal>
 
 <marginal letter="589" page="183" line="25">
 <bzg>paroissent devoir&#x202F;…</bzg> dt. sie scheinen so lange zu dauern, wie die gegenwärtige Welt besteht; <link ref="hertzberg" subref="hertzberg-causes" linktext="true" />, S.&#x202F;30
 </marginal>
 
-<marginal letter="586" page="183" line="27">
+<marginal letter="589" page="183" line="27">
 <bzg>Commission</bzg> bestehend aus <link ref="gaudy" linktext="false">Gaudi</link> und dem Geheimen Finanzrat Tarrach, vgl. <intlink letter="586" page="178" line="18" linktext="true" />
 </marginal>
 
@@ -79354,19 +79350,167 @@ Henkel einfach löschen?!?: »über die Herkunft des Scheblimini bei Luther gibt
 </marginal>
 
 <marginal letter="589" page="183" line="31">
-<bzg>molimina der güldnen Ader statt der Cur</bzg> ?!?
+<bzg>molimina der güldnen Ader statt der Cur</bzg> Anstrengung der Hämorrhoiden anstatt eine Besserung des Handels?!? Henkels Erklärung auch eher albern: die königlichen Beamten mit und als Hämorrhoiden, die die Bürger weiterhin zur Ader lassen.
 </marginal>
 
 <marginal letter="589" page="183" line="34">
-<bzg>Briefe eines Frauenzimmers&#x202F;…</bzg> 
+<bzg>Briefe eines Frauenzimmers&#x202F;…</bzg> <link ref="stetten" subref="stetten-briefe" linktext="true" />
 </marginal>
 
 <marginal letter="589" page="183" line="36">
-<bzg>St. Affrenstag</bzg> 
+<bzg>St. Affrenstag</bzg> Nach der Märtyrerin Afra von Augsburg (gest. 304 n.&#x202F;Chr.); ihr Gedenktag ist der 7. August; der Tag wird in <link ref="stetten" subref="stetten-briefe" linktext="true" />, S.&#x202F;12 erwähnt und war wohl nur lokal bekannt.
 </marginal>
 
 <marginal letter="589" page="183" line="37">
-<bzg>Catalogs</bzg> des <link ref="kypke" linktext="false">Kypkeschen</link> Katalos, <intlink letter="589" page="181" line="12" linktext="false"></intlink>
+<bzg>Catalogs</bzg> der Katalog für die Versteigerung der Bibliothek des verstorbenen <link ref="kypke" linktext="true" />, <intlink letter="589" page="181" line="12" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="589" page="184" line="2">
+<bzg>Prof.</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="184" line="5">
+<bzg>seel. Mann</bzg> <link ref="kypke" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="184" line="7">
+<bzg>Hartknoch</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="184" line="8" sort="1">
+<bzg>Gesangbuch</bzg> das <link ref="herder" subref="herder-weimarer-gesangbuch1778" linktext="false"><titel>Weimarischen Gesang-Buch</titel></link> aus dem ‚Päckchen‘, vgl. <intlink letter="586" page="177" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="184" line="8" sort="2">
+<bzg>Pathchen</bzg> <link ref="herder-a" linktext="true" />, wegen des ausbleibenden Besuchs, vgl. <intlink letter="586" page="174" line="33" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="184" line="11">
+<bzg>Weinstock&#x202F;…&#x202F;Ölzweige</bzg> <link ref="at-ps" subref="at-ps128" linktext="false">Ps 128, 3</link>
+</marginal>
+
+<marginal letter="589" page="184" line="13">
+<bzg>Loge</bzg> Hamanns Arbeitsraum am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Licent</link>, vgl. <intlink letter="484" page="306" line="18" linktext="true" />; wohl leicht ironisch-abfällige Bezeichnung (vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Loge: „eine Hütte, ein kleiner mit Brettern verschlagener Raum, ein Hundestall, eine Schiffskammer etc. etc. heißt“), ohne Bezug auf Freimaurer- oder Theaterlogen.
+</marginal>
+
+<marginal letter="589" page="184" line="14">
+<bzg>Assmus&#x202F;…</bzg> <link ref="claudius" linktext="true" />, dessen Brief, der 26. Januar in Königsberg ankam, nicht überliefert ist, vgl. <intlink letter="578" page="162" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="184" line="16">
+<bzg>Schildwache</bzg> Hamanns Dienst als <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Packhofverwalter am Königsberger Licent</link>
+</marginal>
+
+<marginal letter="589" page="184" line="18">
+<bzg>Ouidio&#x202F;…</bzg> <link ref="ovid" subref="ovid-met" linktext="true" />, <link ref="sueton" subref="sueton-kaiserviten" linktext="true" />, <link ref="platon" subref="plat-phaid" linktext="true" />, <link ref="gesner-jm" subref="gesner-jm-isagoge" linktext="true" /> und <link ref="ernesti" subref="ernesti-doctrinae" linktext="true" />, vgl. <intlink letter="589" page="182" line="7" linktext="false">oben</intlink> und <intlink letter="586" page="176" line="18" linktext="true" />
+</marginal> 
+
+<marginal letter="589" page="184" line="20">
+<bzg>Crethi und Plethi</bzg> u.a. <link ref="at-sam2" subref="at-sam2-8" linktext="false">2 Sam 8,18</link>
+</marginal>
+
+<marginal letter="589" page="184" line="21">
+<bzg>Schiblemini</bzg> zur <link ref="luther" linktext="false">Luther-</link>Lektüre, <intlink letter="589" page="182" line="22" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="589" page="184" line="23">
+<bzg>Lehnchen</bzg> <link ref="hamann-mc" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="184" line="25">
+<bzg>Marianchen</bzg> <link ref="hamann-ms" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="185" line="1">
+<bzg>Dom. Rogate</bzg> 30. April 1780
+</marginal>
+
+<marginal letter="589" page="185" line="2">
+<bzg>ganzen Catalog</bzg> den Katalog für die Versteigerung der Bibliothek des verstorbenen <link ref="kypke" linktext="true" />, <intlink letter="589" page="181" line="12" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="589" page="185" line="6">
+<bzg>Lauson</bzg> <link ref="lauson" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="185" line="7">
+<bzg>Patron des jungen Berens</bzg> <link ref="kenkel" linktext="true" />, bei dem <link ref="berens-ac" linktext="true" /> in die Lehre ging
+</marginal>
+
+<marginal letter="589" page="185" line="9">
+<bzg>Vater Karl</bzg> <link ref="berens-c" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="185" line="10">
+<bzg>damals</bzg> vgl. <intlink letter="567" page="121" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="185" line="13">
+<bzg>trauriger Selbsterfahrung</bzg> mit <link ref="hamann-jc" linktext="true" />, vgl. <intlink letter="567" page="121" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="185" line="14">
+<bzg>Breve vom 14 huj.</bzg> mglw. ist Herders nicht überlieferter Brief gemeint, dem <intlink letter="586" page="174" line="6" linktext="false">HKB 586</intlink> vorausging, und der vmtl. am 14. März geschrieben wurde
+</marginal>
+
+<marginal letter="589" page="185" line="18">
+<bzg>jüngsten unzeitigen Geburt</bzg> wohl <link ref="hamann" subref="hamann-scherflein" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="185" line="19">
+<bzg>africanische Ebentheuer</bzg> nach nach <link ref="plinius" subref="plinius-natur" linktext="true" />,7,17,42 „ex Africa semper aliquid novi“
+</marginal>
+
+<marginal letter="589" page="185" line="20">
+<bzg>Mendelssohn Genesis</bzg> <link ref="mendelssohn" linktext="true" />, nicht ermittelt, <intlink letter="589" page="183" line="5" linktext="false">s.o.</intlink>?!?
+</marginal>
+
+<marginal letter="589" page="185" line="21">
+<bzg>Meßcatalog</bzg> <link ref="messkatalog" subref="messkatalog-ostern1780" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="185" line="22" sort="1">
+<bzg>Laubmeier</bzg> <link ref="laubmeyer-jb" linktext="true" />, im Streit mit den <link ref="blom-w" linktext="false">Blomschen Erben</link>
+</marginal>
+
+<marginal letter="589" page="185" line="22" sort="2">
+<bzg>Penzels</bzg> <link ref="penzel" linktext="true" />, mit dem der Kontakt nach seiner Desertion kaum noch möglich und von Hamann auch nicht gewollt war
+</marginal>
+
+<marginal letter="589" page="185" line="23">
+<bzg>Vater</bzg> <link ref="penzel-jj" linktext="true" /> in Jeßnitz (etwa 20km südlich von Dessau)
+</marginal>
+
+<marginal letter="589" page="185" line="24">
+<bzg>Schwester, die jüngste</bzg> <link ref="penzel-ms" linktext="true" /> (sie war die ältere der beiden Schwestern, aber jünger als der Bruder)
+</marginal>
+
+<marginal letter="589" page="185" line="26">
+<bzg>Pleßing</bzg> <link ref="plessing-f" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="185" line="27">
+<bzg>morbi regii</bzg> meint hier Gelbsucht und wurde früher häufig dafür verwendet (jedoch auch für andere Krankheiten, die man durch eine Berührung des Königs zu heilen hoffte), vgl. etwa den Titel dieser <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN715905597"><titel>Dissertatio Inavgvralis Medica Sistens Pathologiam Et Therapiam Icteri Sive Morbi Regii</titel> (Erfurt 1727)</wwwlink>
+</marginal>
+
+<marginal letter="589" page="185" line="29">
+<bzg>blödes Gesicht</bzg> gemeint ist wohl in erster Linie eine Augenschwäche
+</marginal>
+
+<marginal letter="589" page="185" line="34">
+<bzg>Schiblemini</bzg> <intlink letter="589" page="182" line="22" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="589" page="185" line="36">
+<bzg>andere Brief</bzg> mit dem ‚Päckchen‘ (vgl. <intlink letter="586" page="177" line="20" linktext="true" />) und den Drucken der <link ref="hamann" subref="hamann" linktext="false"><titel>Zwey Scherflein</titel></link>
+</marginal>
+
+<marginal letter="589" page="186" line="2">
+<bzg>Gevatterin</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="589" page="186" line="3">
+<bzg>Paracletae</bzg> weibliche Trösterin bzw. Beistand
 </marginal>
 
 
