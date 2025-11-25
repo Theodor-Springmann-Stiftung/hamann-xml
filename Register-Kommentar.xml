@@ -55,7 +55,7 @@ A
 <subsection id="abbt-correspondenz" type="neuzeit" sort="50">
 <lemma>Abbt, <titel>Freundschaftliche Correspondenz</titel></lemma>
 <eintrag>
-Thomas Abbts […] <titel>freundschaftliche Correspondenz</titel> (hg. von <link ref="nicolai" linktext="true" />; Berlin, Stettin: Nicolai 1771) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;164/564: „Th. Abbt’s freundschaftliche Correspondenz, ib. 771. Donum EDITORIS.“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=uIqI43XGNzcC">Google Books</wwwlink>.
+Thomas Abbts […] <titel>freundschaftliche Correspondenz</titel> (hg. von <link ref="nicolai" linktext="true" />; Berlin, Stettin: Nicolai 1771; <link ref="abbt" subref="abbt-werke" linktext="true" />, Bd.&#x202F;3) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;164/564: „Th. Abbt’s freundschaftliche Correspondenz, ib. 771. Donum EDITORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11089980-1">Stabi Regensburg: 999/Germ.52(3</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="abbt-werke" type="neuzeit" sort="60">
@@ -981,7 +981,13 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
  <subsection id="basedow-dessau" type="neuzeit" sort="30">
 <lemma>Basedow, <titel>Philantropin</titel></lemma>
 <eintrag>
-<titel>Für Cosmopoliten etwas zu lesen, zu denken und zu thun: in Ansehung des in Anhalt-Dessau errichteten Philantropins oder Pädagogischen Seminars von ganz neuer Art, die schon alt seyn sollte</titel> von Joh. Bernhard Basedow (Leipzig 1775). Digitalisat: <wwwlink address=" http://data.onb.ac.at/rec/AC09684492">ÖNB Wien: *31.G.12</wwwlink>.
+<titel>Für Cosmopoliten etwas zu lesen, zu denken und zu thun: in Ansehung des in Anhalt-Dessau errichteten Philantropins oder Pädagogischen Seminars von ganz neuer Art, die schon alt seyn sollte</titel> von Joh. Bernhard Basedow (Leipzig 1775). Digitalisat: <wwwlink address="http://data.onb.ac.at/rec/AC09684492">ÖNB Wien: *31.G.12</wwwlink>.
+</eintrag>
+</subsection>
+ <subsection id="basedow-urkunde" type="neuzeit" sort="40">
+<lemma>Basedow, <titel>Urkunde des Jahrs 1780</titel></lemma>
+<eintrag>
+<titel>Eine Urkunde des Jahrs 1780 von der Neuen Gefahr des Christenthums durch die scheinbare Semlerische Vertheidigung desselben wider den ungenannten Fragmentisten</titel> (Dessau 1780). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/34443">ULB Halle: AB 39 4/h, 24</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -4322,6 +4328,11 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann
 <eintrag>
 <titel>Essai sur la vie de Séneque le philosophe, sur ses écrits, et sur les regnes de Claude et de Néron. Avec des Notes</titel> (Den Haag 1779). Digitalisat: <wwwlink address="https://books.google.ch/books?id=SqgPAAAAQAAJ">Google Books</wwwlink>.</eintrag>
 </subsection>
+<subsection id="diderot-jacques" type="neuzeit" sort="60">
+<lemma>Diderot, <titel>Jacques le fataliste</titel></lemma>
+<eintrag>
+<titel>Jacques le fataliste et son maître</titel>. Zu Lebzeiten Diderots nicht gedruckt, teilweise als Manuskript in <link ref="grimm-fm" linktext="false">Melchior Grimms</link>  <titel>Correspondance littéraire</titel> publiziert, erste Teilübersetzung 1785 von Schiller, erste französische Buchausgabe 1796; 1780 kursierte ein Manuskript in Weimar, vgl. <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;98f.</link></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="diederichs" type="neuzeit">
@@ -7660,6 +7671,18 @@ Dritte, durchaus vermehrte und verbesserte Ausgabe (von <link ref="meusel" linkt
 </subsection>
 </kommentar>
 
+<kommentar id="handel" type="neuzeit">
+<lemma>Georg Friedrich Händel</lemma>
+<eintrag>1685–1759. Komponist aus Halle, wirkte vor allem in England, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118544489.html#ndbcontent">Redlich, Hans Ferdinand: Händel, Georg Friedrich, in: <titel>NDB</titel>&#x202F;7 (1966), S.&#x202F;438–441</wwwlink>.
+</eintrag>
+<subsection id="handel-messiah" type="neuzeit">
+<lemma>Händel, <titel>Messiah</titel></lemma>
+<eintrag>
+Uraufführung 1742 in Dublin, ab 1775 auch in Deutschland, 1780 von Herder für eine Aufführung in Weimar übersetzt, der daraufhin das Libretto an Hamann schickte, vgl. SWS&#x202F;XXVIII, S.&#x202F;105–114 und 556
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="hanow" type="neuzeit">
 <lemma>Michael Christoph Hanow</lemma>
 <eintrag>1696–1773. Rektor in Danzig.
@@ -8274,6 +8297,11 @@ des N. T. aus einer morgenländischen Urquelle, Riga 775“]. <wwwlink address="
 <lemma>Herder, <titel>Gebet am Grabmale von Maria Barbara Eleonora zu Schaumburg-Lippe</titel></lemma>
 <eintrag>
 <titel>Gebet, am Grabmaale Ihro Erlauchten der weil. regierenden Gräfin von Schaumburg-Lippe etc. Maria Barbara Eleonora gebohrnen Gräfin und Edlen Frauen zur Lippe und Sternberg etc. gehalten den 7ten September 1776. zum Baum von J. G. Herder, Schaumburg Lippischen Superintendenten</titel> (Stadthagen: Althans 1776). SWS XXXI, S.&#x202F;416–421. – Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3657301811">SLUB Dresden: Hist.Westfal.510</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="herder-busstagszettel" type="neuzeit" sort="435">
+<lemma>Herder, <titel>Bußtagszettel</titel></lemma>
+<eintrag><titel>Bußtagszettel 1776–1803</titel>, in: SWS XXI, S.&#x202F;669–706.
 </eintrag>
 </subsection>
 <subsection id="herder-erkennen-empfinden" type="neuzeit" sort="440">
@@ -20027,7 +20055,7 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <subsection id="wieland-oberon" type="neuzeit" sort="130">
 <lemma>Wieland, <titel>Oberon</titel></lemma>
 <eintrag>
-<titel>Oberon. Ein Gedicht in vierzehn gesängen,</titel> in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10617975?page=7">1. Vj. 1780</wwwlink>.
+<titel>Oberon. Ein Gedicht in vierzehn gesängen,</titel> in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10617975?page=7">1. Vj. 1780</wwwlink>. Auch als Einzeldruck veröffentlicht, Weimar: Hoffmann 1780. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123359-3">BSB München: P.o.germ. 1614 w</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>

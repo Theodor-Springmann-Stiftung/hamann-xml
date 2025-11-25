@@ -11361,8 +11361,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="590">
-        <date value="Weimar, Mai 1780" />
-        <sort value="1780-05-15" notBefore="1780-05-01" notAfter="1780-05-31" />
+        <date value="Weimar, vor 31. Mai 1780" />
+        <sort value="1780-05-15" notBefore="1780-05-11" notAfter="1780-05-21" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
