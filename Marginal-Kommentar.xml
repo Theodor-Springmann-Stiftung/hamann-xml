@@ -79306,7 +79306,7 @@ Henkel einfach löschen?!?: »über die Herkunft des Scheblimini bei Luther gibt
 </marginal>
 
 <marginal letter="589" page="183" line="5">
-<bzg>Mendelssohns Genesis</bzg> <link ref="mendelssohn" linktext="true" />, nicht ermittelt, <intlink letter="589" page="185" line="20" linktext="false">s.u.</intlink>
+<bzg>Mendelssohns Genesis</bzg> <link ref="mendelssohn" subref="mendelssohn-pentateuch" linktext="true" />
 </marginal>
 
 <marginal letter="589" page="183" line="6">
@@ -79462,7 +79462,7 @@ Henkel einfach löschen?!?: »über die Herkunft des Scheblimini bei Luther gibt
 </marginal>
 
 <marginal letter="589" page="185" line="20">
-<bzg>Mendelssohn Genesis</bzg> <link ref="mendelssohn" linktext="true" />, nicht ermittelt, <intlink letter="589" page="183" line="5" linktext="false">s.o.</intlink>?!?
+<bzg>Mendelssohn Genesis</bzg> <link ref="mendelssohn" subref="mendelssohn-pentateuch" linktext="true" />
 </marginal>
 
 <marginal letter="589" page="185" line="21">
