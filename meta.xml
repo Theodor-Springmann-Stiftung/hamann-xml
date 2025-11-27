@@ -11380,8 +11380,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="591">
-        <date value="Weimar, Anfang Juni 1780" />
-        <sort value="1780-06-01" notBefore="1780-06-01" notAfter="1780-06-25" />
+        <date value="Weimar, zwischen 5. und 12. Juni 1780" />
+        <sort value="1780-06-01" notBefore="1780-06-05" notAfter="1780-06-12" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
