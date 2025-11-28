@@ -751,6 +751,15 @@ Vll. <titel>Fabvlae aesopicae graecae qvae Maximo Planudi tribvvntvr. Ad vetervm
 <eintrag>110 v. Chr.–32 v. Chr. Röm. Ritter.</eintrag>
 </kommentar>
 
+<kommentar id="aubigne" type="neuzeit">
+<lemma>Théodore Agrippa d’Aubigné</lemma>
+<eintrag>1552–1630. Frz. hugenottischer Adeliger, Militär und Schriftsteller; vgl N&#x202F;V,269.</eintrag>
+<subsection id="aubigne-denkwurdigkeiten" type="neuzeit" sort="10">
+<lemma>d’Aubigné, <titel>Denkwürdigkeiten</titel></lemma>
+<eintrag><titel>Denkwürdigkeiten aus dem Leben des Theodor Agrippa d’Aubigné, Stallmeisters von Heinrich dem Vierten, von ihm selbst an seine Kinder geschrieben. Aus dem Französischen übersetzt</titel> [von <link ref="huber" linktext="true" />] von  (Tübingen: Heerbrandt 1780) Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10413917-4">BSB München: Gall.com. 14</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="august-gotha" type="neuzeit">
 <lemma>August von Sachsen-Gotha-Altenburg</lemma>
 <eintrag>1747–1806. 1769 General der niederländischen Generalstaaten, 1771 und 1777 Italienreisen, Freund <link ref="herder" linktext="false">Herders</link> <link ref="goethe" linktext="false">Goethes</link> und <link ref="wieland" linktext="false">Wielands</link>; Bruder von <link ref="ernst-gotha" linktext="true" />.</eintrag>
@@ -10459,6 +10468,12 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <eintrag>Buchhändler und Verleger in Berlin, verlegte bspw. <link ref="melanges" linktext="true" />. Autor einer frz. Grammatik: <titel>Nouvelle grammaire theorique et pratique. oder neue franz. Sprach-Lehre zum Behuf einer leichten und bequemen Methode abgefasset […]</titel> (Halle: Verlag des Waysenhauses 1750).</eintrag>
 </kommentar>
 
+<kommentar id="knebel" type="neuzeit">
+<lemma>Karl Ludwig von Knebel</lemma>
+<eintrag>1744–1834. Preußischer Offizier, 1774 Erzieher am Weimarer Hof, Freund <link ref="goethe" linktext="false">Goethes</link> und <link ref="herder" linktext="false">Herders</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118777505.html#ndbcontent">Elschenbroich, Adalbert: Elschenbroich, Adalbert, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;169–171.</wwwlink>
+</eintrag>
+</kommentar>
+
 <kommentar id="knittel" type="neuzeit">
 <lemma>Franz Anton Knittel</lemma>
 <eintrag>1721–1792. Luth. Theologe. <wwwlink address="https://www.deutsche-biographie.de/pnd116255013.html#adbcontent">Zimmermann, Paul: Knittel, Franz Anton, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;299f</wwwlink>.
@@ -11979,7 +11994,7 @@ Dt. Übers. zitiert nach: Wilhelm Ehlers (Übers.), <titel>Lucanus, Marcus Annae
 
 <kommentar id="luise-swe" type="neuzeit">
 <lemma>Luise von Sachsen-Weimar-Eisenach</lemma>
-<eintrag>1757–1830. Geb. Prinzessin von Hessen-Darmstadt, seit 1775 die Frau von <link ref="carl-august" linktext="true" />.
+<eintrag>1757–1830. Geb. Prinzessin von Hessen-Darmstadt, seit 1775 Ehefrau von <link ref="carl-august" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -13589,6 +13604,14 @@ Um 1760 bis 1805. Schriftsteller und Lehrer in Königsberg, siehe <wwwlink addre
 <titel>Le mystère d’Iniquité, c’est à dire, L’Histoire de la papauté […] où sont aussi défendus les droicts des empereurs, rois et princes chrestiens contre les assertions des cardinaux Bellarmin et Baronius</titel> (Genf 1612) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;53/561: „Le Mystere ou d’Inquité l’Histoire de la Papauté par Ph. de Mornay, Gen. 612“]. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k3144086.image">Bibliothèque Nationale de France: D2-4189</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="mornay-memoires" type="neuzeit" sort="30">
+<lemma>Mornay, <titel>Mémoires de Messire Philippe de Mornay</titel></lemma>
+<eintrag>
+<titel>Memoires de messire Philippes de Mornay, seigneur Du Plessis Marli […] contenans divers discours, instructions, lettres, et depesches par lui dressées, ou escrites aux rois, roines […] depuis l’an 1572 jusques à l'an 1589, ensemble quelques lettres dessusdits audit sieur Du Plessis</titel> (4 Bde., s.l. 1624) . Digitalisat Bd. 1: <wwwlink address="https://gallica.bnf.fr/ark:/12148/btv1b8620760s/f7">Bibliothèque Nationale de France: RES4-LA23-3 (1)</wwwlink>.
+</eintrag>
+</subsection>
+ 
+
 </kommentar>
 
 <kommentar id="morstein" type="neuzeit">
@@ -17136,6 +17159,12 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 </subsection>
 </kommentar>
 
+<kommentar id="seckendorff-ks" type="neuzeit">
+<lemma>Karl Siegmund von Seckendorff</lemma>
+<eintrag>1744–1785. Schriftsteller, Musiker, 1775–1784 Sachsen-weimarischer Kammerherr, vertonte einige von <link ref="herder" linktext="false">Herders</link> Volksliedern; <wwwlink address="https://www.deutsche-biographie.de/pnd120713039.html#adbcontent ">Brümmer, Franz: Seckendorff, Karl Sigmund Freiherr von, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;518</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="seeligmann-j" type="neuzeit">
 <lemma>Joseph Seeligmann</lemma>
 <eintrag>1746–1824. Mitglied der jüdischen Gemeinde in Königsberg; arbeitete an der Königsberger Münze.</eintrag>
@@ -17828,6 +17857,11 @@ In mehreren überarbeiteten Auflagen erschienen, für Hamanns <link ref="hamann"
 <lemma>Starck, <titel>Geschichte der Christlichen Kirche des Ersten Jahrhunderts</titel></lemma>
 <eintrag>
 <titel>Geschichte der Christlichen Kirche des Ersten Jahrhunderts</titel> (3 Bde., Berlin, Leipzig: Decker 1779–1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10027762-2">BSB München: H.eccl. 1110</wwwlink>.</eintrag>
+</subsection>
+ <subsection id="starck-christenthum" type="neuzeit" sort="70">
+<lemma>Starck, <titel>Freymüthige Betrachtungen über das Christenthum</titel></lemma>
+<eintrag>
+<titel>Freymüthige Betrachtungen über das Christenthum</titel> (Berlin 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bvb:29-bv021843797-2">FAU Erlangen-Nürnberg: H00/THL-XV 563</wwwlink>. – <wwwlink address="https://books.google.de/books?id=XXQe0A85CXgC">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -20562,6 +20596,18 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <lemma><titel>Hamburgische Nachrichten aus dem Reiche der Gelehrsamkeit</titel></lemma>
 <eintrag>
 <titel>Hamburgische Nachrichten aus dem Reiche der Gelehrsamkeit</titel> (Hamburg 1758–1771). Digitalisate: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/hamburgische_nachrichten">UB Heidelberg/VD18 90372689</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="ziehen" type="neuzeit">
+<lemma>Conrad Siegmund Ziehen</lemma>
+<eintrag>1727–1780. Der ‚Zellerfelder Prophet‘; evangelischer Theologe, 1763 Superintendent in Hannoversch-Münden, 1769 Pastor in Zellerfeld.
+</eintrag>
+<subsection id="ziehen-revolution" type="neuzeit" sort="10">
+<lemma><titel>Nachricht von einer bevorstehenden großen Revolution der Erde</titel></lemma>
+<eintrag>
+<titel>Des Herrn Superintendenten Ziehen im Zellerfelde Nachricht von einer bevorstehenden großen Revolution der Erde, die insonderheit das südliche Europa und einen Theil Deutschlands treffen, und mit dem Ende des September-Monats 1780 anfangen wird. Im Auszuge herausgegeben. Mit einem Anhange über das Buch Chevilla</titel> (Frankfurt, Leipzig 1780). Digitalisate: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:061:1-529846">ULB Düsseldorf</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
