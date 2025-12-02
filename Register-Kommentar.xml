@@ -4816,10 +4816,16 @@ Online-Ausgabe: <wwwlink address="http://enccre.academie-sciences.fr/encyclopedi
 <lemma>Johann Jakob Engel</lemma>
 <eintrag>1741–1802. Schriftsteller, seit 1776 Professor der Moralphilosophie am Joachimsthalschen Gymnasium in Berlin, Prinzenerzieher am preußischen Hof und Akademiemitglied, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11868468X.html#ndbcontent">Elschenbroich, Adalbert: Engel, Johann Jakob, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;504f</wwwlink>.
 </eintrag>
-<subsection id="engel-philosoph" type="neuzeit">
+<subsection id="engel-philosoph" type="neuzeit" sort="10">
 <lemma>Engel, <titel>Der Philosoph für die Welt</titel></lemma>
 <eintrag>
 <titel>Der Philosoph für die Welt. Herausgegeben von J. J. Engel</titel> (2&#xA0;Tle., Leipzig: Dyck 1775–1777). Digitalisat, Tl. 2: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136175-7">BSB München: Var. 682 v</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="engel-vernunftlehre" type="neuzeit" sort="20">
+<lemma>Engel, <titel>Versuch einer Methode die Vernunftlehre aus Platonischen Dialogen zu entwickeln</titel></lemma>
+<eintrag>
+<titel>Versuch einer Methode die Vernunftlehre aus Platonischen Dialogen zu entwickeln</titel> (Berlin: Voß 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043113-0">BSB München: Ph.sp. 241</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -5385,7 +5391,7 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <eintrag>1710–1788. Kurländischer Gutsbesitzer, 1780 Herr auf <wwwlink address="https://www.geonames.org/460191">Dubenalken</wwwlink>, vgl. den Beitrag im <wwwlink address="https://rundale.net/de/museum/museumssammlung/erzaehlungen-der-dinge/die-tuer-des-guts-dunalka-firkspedvale"></wwwlink>Schlossmuseum Rundāle und den <wwwlink address="https://bbld.de/GND1195366442">BBLd-Eintrag zu seinem Vater</wwwlink>.</eintrag>
 </kommentar>
 
-<kommentar id="fircks-fe" type="neuzeit">
+<kommentar id="fircks-cu" type="neuzeit">
 <lemma>Carl Ulrich von Fircks</lemma>
 <eintrag>1738–1816. Sohn von <link ref="fircks-cl" linktext="true" />.</eintrag>
 </kommentar>

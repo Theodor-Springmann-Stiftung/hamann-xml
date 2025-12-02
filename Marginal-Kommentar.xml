@@ -80071,7 +80071,7 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 </marginal>
 
 <marginal letter="592" page="193" line="11" sort="2">
-<bzg>Landrath von Firks</bzg> wohl <link ref="fircks" linktext="true" />
+<bzg>Landrath von Firks</bzg> wohl <link ref="fircks-fe" linktext="true" />
 </marginal>
 
 <marginal letter="592" page="193" line="12">
@@ -80092,6 +80092,30 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 
 <marginal letter="592" page="193" line="17">
 <bzg>Schimmelpfennig</bzg> <link ref="schimmelpfennig-b" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="193" line="20">
+<bzg>wie neul. mit einer Republik</bzg> in einem der nicht überlieferten Briefe
+</marginal>
+
+<marginal letter="592" page="193" line="24">
+<bzg>Christiani</bzg> <link ref="christiani" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="193" line="25">
+<bzg>Kant</bzg> <link ref="kant" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="193" line="26" sort="1">
+<bzg>Minister</bzg> <link ref="zedlitz" linktext="true" />, vgl. <intlink letter="593" page="199" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="193" line="26" sort="2">
+<bzg>Engels Vorlesungen</bzg> <link ref="engel" subref="engel-vernunftlehre" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="193" line="28">
+<bzg>Nachricht dem Kraus</bzg> <link ref="kraus" linktext="true" />, <intlink letter="593" page="199" line="1" linktext="false">HKB 593</intlink>
 </marginal>
 
 </marginalien>
