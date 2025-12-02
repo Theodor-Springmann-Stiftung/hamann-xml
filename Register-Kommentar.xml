@@ -5380,6 +5380,21 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 </subsection>
 </kommentar>
 
+<kommentar id="fircks-cl" type="neuzeit">
+<lemma>Carl Lebrecht von Fircks</lemma>
+<eintrag>1710–1788. Kurländischer Gutsbesitzer, 1780 Herr auf <wwwlink address="https://www.geonames.org/460191">Dubenalken</wwwlink>, vgl. den Beitrag im <wwwlink address="https://rundale.net/de/museum/museumssammlung/erzaehlungen-der-dinge/die-tuer-des-guts-dunalka-firkspedvale"></wwwlink>Schlossmuseum Rundāle und den <wwwlink address="https://bbld.de/GND1195366442">BBLd-Eintrag zu seinem Vater</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="fircks-fe" type="neuzeit">
+<lemma>Carl Ulrich von Fircks</lemma>
+<eintrag>1738–1816. Sohn von <link ref="fircks-cl" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="fircks-fe" type="neuzeit">
+<lemma>Friedrich Ewald von Fircks</lemma>
+<eintrag>1733–1802. Kurländischer Gutsbesitzer, u.a. der Schlösser Hasenpoth und Kalwen, außerdem Landrat des Kreises Pilten; vgl. die Widmung des bei <link ref="hinz" linktext="false">Hinz</link> erschienenen Bandes <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10577006?page=3"><titel>Gedichte von einem pohlnischen Juden</titel></wwwlink> (Mitau, Leipzig 1772). Hinz war vmtl. 1780 Hofmeister bei einem seiner Söhne. Wohl Vetter von <link ref="fircks-cl" linktext="true" /></eintrag>
+</kommentar>
+
 <kommentar id="fischer-cg" type="neuzeit">
 <lemma>Carl Gottlob Fischer</lemma>
 <eintrag>1745–1801. Hospitalpfarrer in Königsberg.</eintrag>
@@ -8716,7 +8731,7 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 
 <kommentar id="hinz" type="neuzeit">
 <lemma>Jakob Friedrich Hinz</lemma>
-<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; kaufte 1769 mit <link ref="steidel" linktext="true" /> die Mitauer Buchhandlung <link ref="hartknoch" linktext="false">Hartknochs</link>; ab 1771/72 selbständiger Buchhändler und Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach Bankrott 1779 als Hofmeister auf Reisen, Notar, Landgerichtsrat in Pilten, 1785 Notar und Stadtsekretär in Pernau. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>. Seine Bücher waren schon im 18. Jh. kaum erreichbar.</eintrag>
+<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; kaufte 1769 mit <link ref="steidel" linktext="true" /> die Mitauer Buchhandlung <link ref="hartknoch" linktext="false">Hartknochs</link>; ab 1771/72 selbständiger Buchhändler und Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach dem Bankrott 1779 als Hofmeister vmtl. bei <link ref="fircks-fe" linktext="true" />, außerdem mit <link ref="stoltz-c" linktext="true" /> befreundet und auf Reisen; Notar, Landgerichtsrat in Pilten, 1785 Notar und Stadtsekretär in Pernau. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>. Seine Bücher waren schon im 18. Jh. kaum erreichbar.</eintrag>
 <subsection id="hinz-galimafreen" type="neuzeit" sort="10">
 <lemma>Hinz [mit <link ref="hippel" linktext="true" />], <titel>Galimafreen</titel></lemma>
 <eintrag>
@@ -16611,10 +16626,14 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 </subsection>
 </kommentar>
 
-
 <kommentar id="schimmelpfennig" type="neuzeit">
 <lemma>Johann Christian Schimmelpfennig</lemma>
 <eintrag>Tribunalsrat in Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="schimmelpfennig-b" type="neuzeit">
+<lemma>N. N. Schimmelpfennig</lemma>
+<eintrag>Vorname und Lebensdaten nicht ermittelt; Freundin <link ref="brahl" linktext="false">Johann Brahls</link> aus Litauen, 1780 kurz mit Hamann bekannt.</eintrag>
 </kommentar>
 
 <kommentar id="schlegel-ja" type="neuzeit">
@@ -18137,7 +18156,7 @@ Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-
 
 <kommentar id="stoltz-c" type="neuzeit">
 <lemma>Caroline Stoltz</lemma>
-<eintrag>1751–1792. Ab 1777 mit Hamann in Königsberg befreundet, auch mit <link ref="kreutzfeld" linktext="true" /> befreundet und zeitweise Freundin oder Geliebte von <link ref="penzel" linktext="true" />; ab den frühen 1770ern Freundin und Briefpartnerin <link ref="recke-e" linktext="false">Elisa von der Reckes</link>; reist Anfang 1780 nach <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> als Gouvernante von deren Schwester <link ref="dorothea-kurland" linktext="true" />.</eintrag>
+<eintrag>1751–1792. Ab 1777 mit Hamann in Königsberg befreundet, auch mit <link ref="kreutzfeld" linktext="true" /> befreundet und zeitweise Freundin oder Geliebte von <link ref="penzel" linktext="true" />; ab den frühen 1770ern Freundin und Briefpartnerin <link ref="recke-e" linktext="false">Elisa von der Reckes</link>; reist Anfang 1780 nach <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> als Gouvernante von deren Schwester <link ref="dorothea-kurland" linktext="true" />; 1780 hält sie sich jedoch bei <link ref="fircks-cl" linktext="true" /> oder dessen Sohn auf dem kurländischen Gut <wwwlink address="https://www.geonames.org/460191">Dubenalken</wwwlink> auf und ist kurz darauf mit <link ref="hinz" linktext="false">Hinz</link> befreundet.</eintrag>
 </kommentar>
 
 <kommentar id="stolz-jj" type="neuzeit">
