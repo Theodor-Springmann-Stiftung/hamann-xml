@@ -4673,6 +4673,12 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 <titel>Moralische Briefe zur Bildung des Herzens</titel> (2&#xA0;Tle., Leipzig: Breitkopf 1759). Digitalisat, Tl.1: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-151589">ULB Halle: AB 41 15/i, 12</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="dusch-ferdiner" type="neuzeit" sort="50">
+<lemma>Dusch, <titel>Geschichte Carl Ferdiners</titel></lemma>
+<eintrag>
+<titel>Geschichte Carl Ferdiners</titel> (3 Bde., Karlsruhe: Schmieder 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10107497-0">BSB München: P.o.germ. 284 k-1,1/2</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="dutens" type="neuzeit">
@@ -5170,6 +5176,12 @@ F
 <titel>Basilii Fabri Sorani Thesavrvs Ervditionis Scholasticæ omnivm vsvi et disciplinis omnibvs accommodatvs, post celeberrimorvm virorvm Bvchneri, Cellarii, Graevii, Operas et Adnotationes et Mvltiplices Andreae Stv̈bellii cvras itervm recensitvs, emendatvs, locvpletatvs, a Io. Matthia Gesnero</titel> (1.&#x202F;Aufl. 1571) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;58/7: Leipzig 1735]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-420606">UB Heidelberg: D 9896 A Folio RES</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="fabeck" type="neuzeit">
+<lemma>Karl Friedrich von Fabeck</lemma>
+<eintrag>1745–1829. Preußischer Offizier, ab 1790 als Kapitän a.D. Gutsherr auf Jablonken, Kulk und Waldpusch, zweiter Ehemann von <link ref="stockmar-h" linktext="true" /> siehe <wwwlink address="https://books.google.de/books?id=cUtjQyds1JQC">Gothaisches genealogisches Taschenbuch der briefadeligen Häuser, Jg. 2 (1908), S.&#x202F;267.</wwwlink>
+</eintrag>
 </kommentar>
 
 <kommentar id="faber-je" type="neuzeit">
@@ -8498,7 +8510,7 @@ Biga&#x202F;8/112: „Herodiani Historia gr. &amp; lat. Arg. 662“ und <link re
 <subsection id="hermes-sophie" type="neuzeit" sort="20">
 <lemma>Hermes, <titel>Sophiens Reise von Memel nach Sachsen</titel></lemma>
 <eintrag>
-<titel>Sophiens Reise von Memel nach Sachsen</titel> (1. Aufl. 5 Bde., Leipzig 1769–1773, 2. Aufl. 6 Bde., Leipzig 1776). Digitalisat 2. Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925944-3">BSB München: Res/P.o.germ. 2030 v-1/2</wwwlink>.
+<titel>Sophiens Reise von Memel nach Sachsen</titel> (1. Aufl. 5 Bde., Leipzig 1770–1773; 2. Aufl. 6 Bde., Leipzig 1776, 3. Aufl. Leipzig 1778) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;158/478: „Sophiens Reise von Memel nach Sachsen, 1.—5ter Th. Leipz. 772“]. Digitalisat 2. Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925944-3">BSB München: Res/P.o.germ. 2030 v-1/2</wwwlink>. 3.&#x202F;Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10924874-2">BSB München: Res/P.o.germ. 613-1.</wwwlink>
 </eintrag>
 </subsection>
 <subsection id="hermes-gelegenheitspredigten" type="neuzeit" sort="30">
@@ -10594,7 +10606,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="korff-nf" type="neuzeit">
 <lemma>Nikolaus Friedrich v. Korff</lemma>
-<eintrag>1710–1766. Generalleutnant und Kammerherr, im Siebenjährigen Krieg nach Fermor ab 1758–60 Gouverneur des kaiserlich-russ. besetzten Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1055292683.html">Deutsche Biographie</wwwlink>.</eintrag>
+<eintrag>1710–1766. Generalleutnant und Kammerherr, im Siebenjährigen Krieg nach Fermor ab 1758–60 Gouverneur des kaiserlich-russischen besetzten Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1055292683.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="korff-fa" type="neuzeit">
@@ -10784,6 +10796,11 @@ Nach Kypkes Tod sah Hamann wohl ein Manuskript mit Zusätzen zur Forführung aus
 </kommentar>
 
 L
+
+<kommentar id="lachmann-j" type="neuzeit">
+<lemma>Joseph Lachmann</lemma>
+<eintrag>1756 bis nach 1815. Jüdischer Medizinstudent in Königsberg (immatrikuliert 1777, Dr. med. 1782), danach Arzt in Bauske, Hasenpoth und ab 1803 in St. Petersburg; veröffentlichte 1787 in Mitau die emanzipatorische Schrift <titel>Beantwortung der Bemerkungen über die Duldung der Juden in den Herzogtümern Kurland und Semgallen;</titel> siehe Hans-Jürgen Krüger: <titel>Die Judenschaft von Königsberg in Preußen 1700–1812</titel> (Marburg 1966), S.&#x202F;94.</eintrag>
+</kommentar>
 
 <kommentar id="lacombe" type="neuzeit">
 <lemma>Jacques Lacombe</lemma>
@@ -17891,7 +17908,7 @@ In mehreren überarbeiteten Auflagen erschienen, für Hamanns <link ref="hamann"
  <subsection id="starck-christenthum" type="neuzeit" sort="70">
 <lemma>Starck, <titel>Freymüthige Betrachtungen über das Christenthum</titel></lemma>
 <eintrag>
-<titel>Freymüthige Betrachtungen über das Christenthum</titel> (Berlin 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bvb:29-bv021843797-2">FAU Erlangen-Nürnberg: H00/THL-XV 563</wwwlink>. – <wwwlink address="https://books.google.de/books?id=XXQe0A85CXgC">Google Books</wwwlink>.</eintrag>
+<titel>Freymüthige Betrachtungen über das Christenthum</titel> (Berlin: Himburg 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bvb:29-bv021843797-2">FAU Erlangen-Nürnberg: H00/THL-XV 563</wwwlink>. – <wwwlink address="https://books.google.de/books?id=XXQe0A85CXgC">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
