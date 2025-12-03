@@ -8693,7 +8693,7 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 
 <kommentar id="hill-c" type="neuzeit">
 <lemma>Christian Hill</lemma>
-<eintrag>Gest. 1809. Studierte Theologie in Königsberg; begab sich mittellos auf Reisen, wobei ihn Hamann durch finanzielle Zuwendungen und Empfehlungsbriefe unterstützte; stand später Hamanns Haushalt vor, als er mit seinem Sohn 1787 nach Pempelfort reiste.</eintrag>
+<eintrag>Gest. 1809. Studierte Theologie in Königsberg; begab sich mittellos auf Reisen, wobei ihn Hamann durch finanzielle Zuwendungen und Empfehlungsbriefe unterstützte; stand später Hamanns Haushalt vor, als dieser mit seinem Sohn 1787 nach Pempelfort reiste.</eintrag>
 </kommentar>
 
 <kommentar id="hill-j" type="neuzeit">
@@ -8730,6 +8730,17 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 <kommentar id="hillmer" type="neuzeit">
 <lemma>Joseph Hillmer</lemma>
 <eintrag>1729–?. Okulist und ordentlicher Professor des Berliner Collegium Medicum, Starstecher, galt als Scharlatan.</eintrag>
+</kommentar>
+
+<kommentar id="hilscher-pc" type="neuzeit">
+<lemma>Paul Christian Hilscher</lemma>
+<eintrag>1666–1730. Lutherischer Theologe und Schriftsteller, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120295997.html#adbcontent">Wagenmann, Julius August: Hilscher, Paul Christian, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;431</wwwlink>.
+</eintrag>
+<subsection id="hilscher-scheblimini" type="neuzeit">
+<lemma>Hilscher, <titel>Scheblimini</titel></lemma>
+<eintrag>
+<titel>Von D. Martini Lutheri, Vermeinten Spiritu Familiari Oder deßen so genannten Scheblimini, Worauff er sich nicht anders, Als auf Gott im Himmel selbst, verlassen, Auch von demselbigen zu Wiederherstellung der, in der Augspurgischen Confession, enthaltenen Evangel. Wahrheit, gar sonderlich ausgerüstet, und beschützet worden, Zu erbaulicher Betrachtung des herrlichen Vortheils aus dem Sitzen Christi zur Rechten Gottes</titel> (Dresden: G. C. Hilscher 1730) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;49/493: „P. L. Hilscher von D. Martin Luthers spiritu familiari, Scheblimini, Dresd. 730.“]. Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id428354882">SLUB Dresden: 4.A.2248</wwwlink>, <wwwlink address="https://books.google.de/books?id=haJdAAAAcAAJ">Google Books</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="hindersin" type="neuzeit">
@@ -9499,7 +9510,7 @@ J
 
 <kommentar id="jerusalem-kw" type="neuzeit">
 <lemma>Karl Wilhelm Jerusalem</lemma>
-<eintrag>1747–1772. Sohn von <link ref="jerusalem-jfw" linktext="true" />, Jurist, Schriftsteller und Vorbild für <link ref="goethe" subref="goethe-werther" linktext="false">Goethes Werther</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz37220.html#adbcontent">Elschenbroich, Adalbert: Jerusalem, Karl Wilhelm, in: <titel>NDB</titel> 10 (1974), S.&#x202F;416–418</wwwlink>.
+<eintrag>1747–1772. Sohn von <link ref="jerusalem-jfw" linktext="true" />, Jurist, Schriftsteller und ein Vorbild für <link ref="goethe" subref="goethe-werther" linktext="false">Goethes Werther</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz37220.html#adbcontent">Elschenbroich, Adalbert: Jerusalem, Karl Wilhelm, in: <titel>NDB</titel> 10 (1974), S.&#x202F;416–418</wwwlink>.
 </eintrag>
 <subsection id="jerusalem-philosophische-aufsätze" type="neuzeit" >
 <lemma>Jerusalem, <titel>Philosophische Aufsätze</titel></lemma>

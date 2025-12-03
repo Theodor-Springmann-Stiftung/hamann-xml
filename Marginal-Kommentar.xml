@@ -75805,7 +75805,7 @@ Brief Nr. 573
 </marginal>
 
 <marginal letter="573" page="142" line="25">
-<bzg>Reineke Schwanz</bzg> Bedeutung unklar, mglw. auf Interna im nicht überlieferten Briefwechsel zwischen Hamann und Voss zurückgehend; Reineke Fuchs könnte ein Wortspiel mit dem Namen Voss und dem niederdeutschen Tierepos „Reynke de vos“ (1498) darstellen?!?
+<bzg>Reineke Schwanz</bzg> Bedeutung unklar, mglw. auf Interna im nicht überlieferten Briefwechsel zwischen Hamann und Voss zurückgehend; zur Schreibung vgl. die textkritische Anmerkung. Der Verweis auf Reineke Fuchs ist wohl ein Wortspiel mit dem Namen Voss und dem niederdeutschen Tierepos „Reynke de vos“ (1498); zum ‚Schwanz‘ vgl. die seit Äsop überlieferte Fabel vom „Fuchs ohne Schwanz“, die ebenfalls von sophistischen Rechtfertigungen handelt, etwa bei <link ref="hagedorn" linktext="false">Hagedorn</link>: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10110138?page=62"><titel>Versuch in poetischen Fabeln und Erzehlungen</titel> (Hamburg 1738), S.&#x202F;50.</wwwlink>
 </marginal>
 
 <marginal letter="573" page="142" line="26">
@@ -79272,9 +79272,10 @@ Brief Nr. 589
 <bzg>summus φφus</bzg> antikisierende, scheinbare Ehrenbezeichnung: ‚der höchste Philosoph‘, nun ‚der höchste Pädagoge‘
 </marginal>
 
+
+
 <marginal letter="589" page="182" line="22">
-<bzg>Schiblemini</bzg> zu dem Wort bei <link ref="luther" linktext="false">Luther</link> vgl. ?!? es wird später für Hamann im Kontext von <link ref="hamann" subref="hamann-golgatha-scheblimini" linktext="false"><titel>Golgatha und Scheblimini</titel></link> wichtig.
-Henkel einfach löschen?!?: »über die Herkunft des Scheblimini bei Luther gibt Hilscher die Auskunft: Dieweil nun in dieser verblümten Redensart der Stand der Erhöhung der menschlichen Natur Christi und alle, die daher über seine Kirche, und ein jedwedes wahres Glied derselben abfließende Wohltaten in Zuwendung der ihnen erworbenen Güter, und Beschützung wieder so wohl leiblich, als geistliche Feinde, kurtz, und doch sehr nachdenklich enthalten, so hat der sel. Luther daraus gleichsam ein besonder Kunst- Wort gemacht, und den gantzen Reichtum solcher Gnade mit dieser aufgefundenen Bennenung andeuten, und verstanden haben wollen. Im [pardon!] abstract von Hilschers Buch heißt es: D. Luther soll einen spiritum familiarem gehabt haben, welches eine Erfindung des Ruach Schekers [Lügengeist] ist, und bößliche fortgetragen worden, weil man sich in den glücklichen Fortgang der Reformation, und vernichteten Anschläge wider Luther nicht recht finden können, dem nun abzuhelffen, wird angezeigt, wie Lutherus mit seinem Scheblimini so gewaltig groß getan, und damit dem Teufel, der Welt, Sünde, Tod und allen Feinden getrotzet. Verstehet aber dadurch niemanden anders, als den zur Rechten Gottes sitzenden Heyland der Menschen, darinne ein so vortrefflicher Trost lieget, daß sich Lutherus damit wider alle seine Feinde sowol leibliche als auch geistliche, kräftig aufgerichtet, und zum Genuß solcher Wohlthat eben so wie David ehemals, durch den Glauben gekommen, auch den Namen Scheblimini, seiner guten Art nach, nicht übel ausgesonnen.«] 
+<bzg>Schiblemini</bzg> Transkription und Komposition von hebr. שֵׁב לִימִינִי (<link ref="at-ps" subref="at-ps110" linktext="false">Ps 110,1</link> ): ‚sitze zu meiner Rechten‘. Gemeint ist der Schutzgeist (oder Spiritu familiari) <link ref="luther" linktext="false">Luthers</link> in den Disputationen mit seinen Widersachern; dieser sei laut <link ref="keil" subref="keil-luther" linktext="true" />, S.&#x202F;69 nicht, wie von jenen behauptet, der Teufel gewesen, sondern „sein Scheblimini der Sohn Gottes, der da sitzet zur rechten Hand Gottes“, vgl. auch <link ref="hilscher-pc" subref="hilscher-scheblimini" linktext="true" />, S.&#x202F;37. – Zugleich spielte der 110. Psalm in der typologischen Deutung des Alten Testaments eine wichtige Rolle in zeitgenössischen Diskussionen. Luther verstand die Sprechersituation im ersten Vers („Der HERR sprach zu meinem Herrn“) als Anrede Gottes an Christus im Sinne der Zweinaturenlehre und ‚Scheblimini‘ entsprechend als Erhöhung Jesu zu und zum Gott (*WA 41*, S.82–88). – Die Luther-Lektüre Anfang 1780 wird später für Hamann im Kontext von <link ref="hamann" subref="hamann-golgatha-scheblimini" linktext="false"><titel>Golgatha und Scheblimini</titel></link> wichtig, vgl. zunächst auch <intlink letter="592" page="195" line="24" linktext="true" />.
 </marginal>
 
 <marginal letter="589" page="182" line="23">
@@ -80222,14 +80223,6 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 <bzg>Canzler Korff</bzg> <link ref="korff-fa" linktext="true" />
 </marginal>
 
-<marginal letter="592" page="195" line="10" sort="1">
-<bzg>Verf.</bzg> <link ref="starck" linktext="true" />
-</marginal>
-
-<marginal letter="592" page="195" line="10" sort="2">
-<bzg>Verleger</bzg> <wwwlink address="https://d-nb.info/gnd/116893346">Christian Friedrich Himburg</wwwlink>
-</marginal>
-
 <marginal letter="592" page="195" line="11">
 <bzg>Hartk.</bzg> <link ref="hartknoch" linktext="true" />
 </marginal>
@@ -80244,6 +80237,50 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 
 <marginal letter="592" page="195" line="13">
 <bzg>Erziehung</bzg> <link ref="lessing" subref="lessing-erziehung" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="195" line="17" sort="1">
+<bzg>ton du siecle</bzg> Ton bzw. Stil des Jahrhunderts (also der Auflärung)
+</marginal>
+
+<marginal letter="592" page="195" line="17" sort="2">
+<bzg>sub vmbra alarum</bzg> unter dem Schutz der Flügel <link ref="at-ps" subref="at-ps17" linktext="false">Ps 17,8</link>
+</marginal>
+
+<marginal letter="592" page="195" line="20">
+<bzg>Jerusalem, Büsching</bzg> <link ref="jerusalem-jfw" linktext="true" /> und <link ref="busching" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="195" line="24">
+<bzg>Ey zu meinen Schiblemini</bzg> Zu Scheblimini vgl. <intlink letter="589" page="182" line="22" linktext="true" />; hier wohl bereits im Zusammenhang einer frühen Konzeption zu <link ref="hamann" subref="hamann-golgatha" linktext="true" />.
+</marginal>
+
+<marginal letter="592" page="195" line="26">
+<bzg>Sie ist mir lieb&#x202F;…</bzg> Erster Vers von <link ref="luther" linktext="false">Luthers</link> Kirchenlied von 1535, siehe im <wwwlink address="http://hdl.handle.net/10062/28685">Rigischen Gesangbuch (1750), S.&#x202F;724</wwwlink>; vgl. auch <wwwlink address="https://archive.org/details/werkekritischege35luthuoft/page/462">WA 35, S.&#x202F;462f.</wwwlink>, die Erläuterungen in <wwwlink address="https://archive.org/details/werkekritischege35luthuoft/page/254">WA 35, S.&#x202F;254–257</wwwlink> und <link ref="hamann" subref="hamann-klaggedicht" linktext="true" />, HKW, S.&#x202F;56/27
+</marginal>
+
+<marginal letter="592" page="195" line="27">
+<bzg>Schürze von Feigenblättern&#x202F;…</bzg> <link ref="hamann" subref="hamann-schuerze" linktext="true" />, nach der klärenden Mitteilung zur „Brücke ohne Lehnen“ durch <link ref="haefeli" linktext="true" /> in <intlink letter="585" page="172" line="28" linktext="false"></intlink>, vgl. <intlink letter="585" page="173" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="195" line="28" sort="1">
+<bzg>Auflösung im Mercur</bzg> <link ref="haefeli" subref="haefeli-merkur" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="195" line="28" sort="2">
+<bzg>Wieland</bzg> <link ref="wieland" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="195" line="28" sort="3">
+<bzg>Starken&#x202F;…&#x202F;ein solch Buch</bzg> <link ref="starck" subref="starck-christenthum" linktext="true" />, vgl. <intlink letter="591" page="189" line="10" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="195" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="592" page="195" line="">
+<bzg></bzg> 
 </marginal>
 
 <marginal letter="592" page="195" line="">
