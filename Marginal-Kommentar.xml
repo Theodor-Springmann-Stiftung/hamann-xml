@@ -7523,7 +7523,7 @@ Es ist nicht eindeutig zu klären, wann Hamann seine Übers. aus <link ref="shaf
 </marginal>
 
 <marginal letter="105" page="229" line="1">
-1756 erschienen die ersten zwei Bände der von Johann Heinrich Waser übers. Schriften Swifts, <link ref="swift" subref="swift-schriften" linktext="true" />; zu Hamanns Swift-Lektüren: <link ref="kno-r-1999" linktext="false">Knoll (1999)</link>.
+1756 erschienen die ersten zwei Bände der von <link ref="waser-jh1713" linktext="false">Johann Heinrich Waser</link> übersetzten Schriften Swifts, <link ref="swift" subref="swift-schriften" linktext="true" />; zu Hamanns Swift-Lektüren: <link ref="kno-r-1999" linktext="false">Knoll (1999)</link>.
 </marginal>
 
 <marginal letter="105" page="229" line="2">
@@ -22088,7 +22088,7 @@ Brief Nr. 207
 </marginal>
 
 <marginal letter="207" page="90" line="9">
-<bzg>moralischen Beobachtungen und Urtheile</bzg> <link ref="waser" subref="waser-moralische" linktext="true" />
+<bzg>moralischen Beobachtungen und Urtheile</bzg> <link ref="waser-jh1713" subref="waser-moralische" linktext="true" />
 </marginal>
 
 <marginal letter="207" page="90" line="10">
@@ -67253,7 +67253,7 @@ Brief Nr. 524
 </marginal>
 
 <marginal letter="524" page="10" line="25" >
-    <bzg>Nachtmalvergifters</bzg> Im September 1776 traten nach der Spende des Abendmahlweins Vergiftungserscheinungen auf. Der Verdacht wurde auf <link ref="waser" linktext="true" /> gelenkt, der die Tat aber bestritt; Lavater griff das Ergeignis in den <link ref="lavater" subref="lavater-abendmahl" linktext="false"><titel>Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins</titel></link> auf, vgl. <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/2587?page=10&#x26;comment=10247">JCLB</wwwlink>.
+    <bzg>Nachtmalvergifters</bzg> Im September 1776 traten nach der Spende des Abendmahlweins Vergiftungserscheinungen auf. Der Verdacht wurde auf <link ref="waser-jh1742" linktext="true" /> gelenkt, der die Tat aber bestritt; Lavater griff das Ergeignis in den <link ref="lavater" subref="lavater-abendmahl" linktext="false"><titel>Zwo Predigten bey Anlaß der Vergiftung des Nachtmahlweins</titel></link> auf, vgl. <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/2587?page=10&#x26;comment=10247">JCLB</wwwlink>.
 </marginal>
 
 
@@ -80367,6 +80367,94 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 
 <marginal letter="592" page="196" line="31">
 <bzg>Fueßli</bzg> <link ref="fuessli-hr" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="196" line="32" sort="1">
+<bzg>Dietrich</bzg> <link ref="diederichs" linktext="true" />, für die Antretung der Nachfolge <link ref="kypke" linktext="false">Kypkes</link>
+</marginal>
+
+<marginal letter="592" page="196" line="32" sort="2">
+<bzg>Kirchen R. Lilienthal</bzg> <link ref="lilienthal-th" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="196" line="35" sort="1">
+<bzg>Kraus</bzg> <link ref="kraus" linktext="true" />, wegen der Nachfolge der Professur <link ref="christiani" linktext="false">Christianis</link>, <intlink letter="592" page="193" line="28" linktext="false">s.u.</intlink>
+</marginal>
+
+<marginal letter="592" page="196" line="35" sort="2">
+<bzg>Buchholtz Physiognomie</bzg> <link ref="bucholtz-k-jc" linktext="true" />, als dessen Neffe
+</marginal>
+
+<marginal letter="592" page="196" line="36">
+<bzg>Lindner</bzg> <link ref="lindner-gi" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="2">
+<bzg>Einl.</bzg> Einlage von <link ref="lindner-aa" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="592" page="197" line="4" sort="1">
+<bzg>einige Scherfl. aus Riga</bzg> einige Exemplare der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>
+</marginal>
+
+<marginal letter="592" page="197" line="4" sort="2">
+<bzg>Note 14&#x202F;…&#x202F;Grundstriche</bzg> Im Erstdruck der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link> (wie auch im Manuskript an Herder) ist Anm.&#x202F;14 auf S.&#x202F;25 ohne Fußnotenanker im Text; der von Hamann hier zugewiesene Bezug „geraden und krummen Grundstrichen“ steht jedoch auf S.&#x202F;26, vgl. N&#x202F;III,240/27 u. 38.
+</marginal>
+
+<marginal letter="592" page="197" line="6">
+<bzg>Waser</bzg> <link ref="waser-jh1742" linktext="true" />, vgl. <intlink letter="606" page="236" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="7">
+<bzg>Zeitungen</bzg> vmtl. <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, Jg. nicht überliefert
+</marginal>
+
+<marginal letter="592" page="197" line="9">
+<bzg>Spittlers Geschichte</bzg> <link ref="spittler" subref="spittler-geschichte" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="11">
+<bzg>Brief vom ehrl. Hartknoch vom 11 hui. st. v.</bzg> von <link ref="hartknoch" linktext="true" />, 11. Juni alten Stils, also 22. Juni nach greg. Kalender; nicht überliefert
+</marginal>
+
+<marginal letter="592" page="197" line="13" sort="1">
+<bzg>Frau</bzg> <link ref="hartknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="13" sort="2">
+<bzg>Schenk</bzg> nicht ermittelt, wohl ein Freund der Hartknochs und vmtl. ein Verwandter der späteren Frau <link ref="hartknoch-j" linktext="false">Johann Friedrich Hartknochs des Jüngeren</link>, geb. Dorothee Albertine Schenk
+</marginal>
+
+<marginal letter="592" page="197" line="14">
+<bzg>Kypkische Auction</bzg> <intlink letter="592" page="191" line="34" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="592" page="197" line="15" sort="1">
+<bzg>Denkw. des Aubigné</bzg> <link ref="aubigne" subref="aubigne-denkwurdigkeiten" linktext="true" />, <intlink letter="592" page="196" line="16" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="592" page="197" line="15" sort="2">
+<bzg>Michaelis</bzg> <link ref="michaelis-jb" subref="michaelis-gedichte" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="592" page="197" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="592" page="197" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="592" page="197" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="592" page="197" line="">
+<bzg></bzg> 
 </marginal>
 
 </marginalien>

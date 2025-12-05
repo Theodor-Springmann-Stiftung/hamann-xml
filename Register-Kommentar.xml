@@ -11577,7 +11577,7 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 
 <kommentar id="lilienthal-eg" type="neuzeit">
 <lemma>Ernst Gottlieb Lilienthal</lemma>
-<eintrag>1745–1807. Seegerichts- Assessor in Memel, vgl. <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;318</wwwlink>.
+<eintrag>1745–1807. Seegerichts-Assessor in Memel, vgl. <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;318</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -11784,7 +11784,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 
 <kommentar id="lindner-gi" type="neuzeit">
 <lemma>Gottlob Immanuel Lindner</lemma>
-<eintrag>1734–1818. Bruder von <link ref="lindner-jg" linktext="true" />, Studium der Theologie in Königsberg; Hamanns Nachfolger als Hofmeister bei den <link ref="witten" linktext="false">v. Witten</link> in <wwwlink address="https://www.geonames.org/453987">Grünhof</wwwlink> und <wwwlink address="https://www.geonames.org/456645">Platohnen</wwwlink>; in den späten 1770ern Studium der Medizin, Arzt in Halle, Wien und Jena.</eintrag>
+<eintrag>1734–1818. Bruder von <link ref="lindner-jg" linktext="true" />, Studium der Theologie in Königsberg; Hamanns Nachfolger als Hofmeister bei den <link ref="witten" linktext="false">v. Witten</link> in <wwwlink address="https://www.geonames.org/453987">Grünhof</wwwlink> und <wwwlink address="https://www.geonames.org/456645">Platohnen</wwwlink>; in den späten 1770ern Studium der Medizin, dann Arzt in Halle, Wien und Jena.</eintrag>
 </kommentar>
 
 <kommentar id="lindner-m" type="neuzeit">
@@ -13256,6 +13256,17 @@ Zweite vermehrte Ausgabe 1775 in 6 Bde. [<link ref="hamann" subref="hamann-biga"
 <subsection id="michaelis-auferstehung" type="neuzeit" sort="100">
 <lemma>Michaelis, <titel>Erklärung der Begräbnis- und Auferstehungsgeschichte Christi</titel></lemma>
 <eintrag><titel>Erklärung der Begräbnis- und Auferstehungsgeschichte Christi nach den vier Evangelisten, mit Rücksicht auf die in den Fragmenten gemachten Einwürfe und deren Beantwortung</titel> (Halle 1783).
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="michaelis-jb" type="neuzeit">
+<lemma>Johann Benjamin Michaelis</lemma>
+<eintrag>1746–1772, Theaterdichter der Seylerschen Truppe, lebte seit 1771 bei <link ref="gleim" linktext="false">Gleim</link>, Dichter des Halberstädter Kreises, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117016640.html#ndbcontent">Elschenbroich, Adalbert: Michaelis, Johann Benjamin, in: <titel>NDB</titel>&#x202F;17 (1994), S.&#x202F;434f</wwwlink>.
+</eintrag>
+<subsection id="michaelis-gedichte" type="neuzeit">
+<lemma>Johann Benjamin Michaelis, <titel>Poetische Werke</titel></lemma>
+<eintrag><titel>Johann Benjamin Michaelis Poetische Werke</titel> (Gießen: Krieger 1780). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/77907">ULB Halle: Dd 3220 z</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -17806,6 +17817,18 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 </eintrag>
 </kommentar>
 
+<kommentar id="spittler" type="neuzeit">
+<lemma>Ludwig Timotheus Spittler</lemma>
+<eintrag>1752–1810. Schriftsteller und Historiker, 1779 Profesor der Philosophie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11875212X.html#ndbcontent">Fleischer, Dirk: Spittler, Ludwig Timotheus, in: <titel>NDB</titel>&#x202F;24 (2010), S.&#x202F;715f.</wwwlink>.
+</eintrag>
+<subsection id="spittler-geschichte" type="neuzeit" sort="10">
+<lemma>Spittler, <titel>Geschichte des kanonischen Rechts</titel></lemma>
+<eintrag>
+<titel>Geschichte des kanonischen Rechts bis auf die Zeit des falschen Isidors</titel> (Halle: Gebauer 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10726581-5">BSB München: Bibl.Mont. 5169</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="spinoza" type="neuzeit">
 <lemma>Baruch de Spinoza</lemma>
 <eintrag>1632–1677. <wwwlink address="https://plato.stanford.edu/archives/spr2019/entries/spinoza/">Nadler, Steven: Baruch Spinoza, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Spring 2019 Edition)</wwwlink>.
@@ -18401,7 +18424,7 @@ Wiss. Ausg.: <titel>Gesammelte Schriften. Kommentierte Ausgabe</titel>, hg.&#xA0
 <subsection id="swift-schriften" type="neuzeit" sort="20">
 <lemma>Swift, <titel>Satyrische und ernsthafte Schriften</titel></lemma>
 <eintrag>
-<titel>Satyrische und ernsthafte Schriften von Jonathan Swift</titel>, übers. v. Johann Heinrich Waser (Pseud.: Johann von Breitenfels) (8&#xA0;Bde., Hamburg, Leipzig 1756–66; ab 1759 erschien eine 2. Aufl.). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10750442-9">BSB München: P.o.angl. 422-1</wwwlink>.
+<titel>Satyrische und ernsthafte Schriften von Jonathan Swift</titel>, übers. v. <link ref="waser-jh1713" linktext="true" /> (Pseud.: Johann von Breitenfels) (8&#xA0;Bde., Hamburg, Leipzig 1756–66; ab 1759 erschien eine 2. Aufl.). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10750442-9">BSB München: P.o.angl. 422-1</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="swift-letters" type="neuzeit" sort="30">
@@ -19806,9 +19829,8 @@ W
 </subsection>
 </kommentar>
 
-
-<kommentar id="waser" type="neuzeit">
-<lemma>Johann Heinrich Waser</lemma>
+<kommentar id="waser-jh1713" type="neuzeit">
+<lemma>Johann Heinrich Waser (geb. 1713)</lemma>
 <eintrag>1713–1777. Übersetzer (Lukian, Shakespeare, Swift u.a.) und Schriftsteller.</eintrag>
 <subsection id="waser-moralische" type="neuzeit" sort="10">
 <lemma>Waser, <titel>Moralische Beobachtungen und Urtheile</titel></lemma>
@@ -19816,6 +19838,11 @@ W
 <titel>Moralische Beobachtungen und Urtheile</titel> (Zürich: Orell und Comp. 1757). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;135/88: „Moralische Betrachtungen und Urtheile, Zür. 757“]. Digitalisat: <wwwlink address="https://www.e-rara.ch/zuz/content/titleinfo/5682523">ZB Zürich: 7.427,2</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="waser-jh1742" type="neuzeit">
+<lemma>Johann Heinrich Waser (geb. 1742)</lemma>
+<eintrag>1742-1780. Schweizer reformierter Theologe, 1770 Pfarrer in Zürich, seit 1778 in der Staatskanzlei; nach Misshelligkeiten mit dem Zürcher Rat wegen Urkundendiebstahls und Landesverrats 1780 enthauptet; Vetter <link ref="haefeli" linktext="false">Häfelis</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120435659.html#adbcontent">Egli, Emil: Waser, Johann Heinrich, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;220–228.</wwwlink>, zu dem Justizskandal seiner Hinrichtung vgl. den Kommentar in <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/8771?page=1&#x26;comment=11353">JCLB</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="watelet" type="neuzeit">
