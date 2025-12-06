@@ -1918,7 +1918,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="bode-jjc" type="neuzeit">
 <lemma>Johann Joachim Christoph Bode</lemma>
-<eintrag>1730–1793. Buchdrucker, Übersetzer und Verleger in Hamburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>. – Zu seinen Übersetzungen vgl. <link ref="smollett" subref="smollett-clinker" linktext="true" />, <link ref="sterne" subref="sterne-shandy" linktext="true" />, <link ref="goldsmith" subref="goldsmith-wakefield" linktext="true" /> und <link ref="moore-e" subref="moore-world" linktext="true" />.</eintrag>
+<eintrag>1730–1793. Buchdrucker, Übersetzer und Verleger in Hamburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>. – Zu seinen Übersetzungen vgl. <link ref="smollett" subref="smollett-clinker" linktext="true" />, <link ref="sterne" subref="sterne-shandy" linktext="true" />, <link ref="sterne" subref="sterne-letters" linktext="true" />, <link ref="goldsmith" subref="goldsmith-wakefield" linktext="true" /> und <link ref="moore-e" subref="moore-world" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="bodin" type="neuzeit">
@@ -6618,6 +6618,21 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <eintrag>
 <titel>Leßings Schwächen,</titel> gezeigt von Johan Melchior Goezen (3&#x202F;St., Hamburg: Harmsen 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10732707-1">BSB München: H.lit.p. 151</wwwlink>.
 </eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="gozzi" type="neuzeit">
+<lemma>Carlo Gozzi</lemma>
+<eintrag>1720–1806. Italienischer Lustspieldichter.</eintrag>
+<subsection id="gozzi-briefe" type="neuzeit" sort="10">
+<lemma>Gozzi, <titel>Mancherley Briefe</titel></lemma>
+<eintrag>
+<titel>Herrn Caspar Gozzi mancherley Briefe</titel>. Aus dem Italienischen übersezt (2 Tle., Altenburg: Richter 1763). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10620847-7">BSB Müchen: Epist. 322-1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="gozzi-werke" type="neuzeit" sort="20">
+<lemma>Gozzi, <titel>Theatralische Werke</titel></lemma>
+<eintrag>
+<titel>Theatralische Werke von Carlo Gozzi</titel>. Aus dem Italiänischen übersezt [von Friedrich August Clemens Werthes] (5 Tle., Bern: Typographische Gesellschaft 1777–1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10756289-2">BSB Müchen: P.o.it. 455-1</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -18075,6 +18090,13 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 Übers.: <titel>Yoricks empfindsame Reise durch Frankreich und Italien,</titel> übersetzt von <link ref="bode-jjc" linktext="true" /> (Hamburg, Bremen 1768). Digitalisat der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10930080-8">BSB München: P.o.angl. 405-1/2</wwwlink>.
 </eintrag>.
 </subsection>
+<subsection id="sterne-letters" type="neuzeit" sort="30">
+<lemma>Sterne, <titel>Letters from Yorick to Eliza</titel></lemma>
+<eintrag>
+<titel>Letters from Yorick to Eliza</titel> (zuerst 1773, 2.&#x202F;Aufl. London 1775). Digitalisat: <wwwlink address="https://archive.org/details/bim_eighteenth-century_letters-from-yorick-to-e_sterne-laurence_1775_1">Internet Archive</wwwlink>.<line type="break" />
+Übers. (von <link ref="bode-jjc" linktext="true" />): <titel>Yoricks Briefe an Elisa</titel> (Hamburg: Bohn 1775) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;156/445: „Yorik’s Briefe an Elisa, Hamb. 775.“]. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/48410">ULB Halle: Dh 3451 d</wwwlink>. Bode übersetzte auch die gefälschten <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN81772401X"><titel>Briefe von Elisa an Yorick</titel> (Hamburg: Bode 1775).</wwwlink>
+</eintrag>.
+</subsection>
 </kommentar>
 
 <kommentar id="stetten" type="neuzeit">
@@ -19980,6 +20002,18 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 <lemma>Well, <titel>Wie weit gehet das Recht eines Reichs-Fiscals in Ansehung der Bücher-Censur?</titel></lemma>
 <eintrag>
 <titel>Wie weit gehet das Recht eines Reichs-Fiscals in Ansehung der Bücher-Censur? solches beantwortet Anton Well. Esq. und übersetzt aus dem Englischen T.</titel> (1757). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10667419-1">BSB München: 4 Diss. 812#Beibd.8</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="wendeborn" type="neuzeit">
+<lemma>Gebhard Friedrich August Wendeborn</lemma>
+<eintrag>1742–1811. Prediger und Kulturhistoriker in England, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100700268.html#adbcontent">Frank, G.: Wendeborn, Gebhard Friedrich August, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;172–1714</wwwlink>.
+</eintrag>
+<subsection id="wendeborn-beytrage" type="neuzeit" sort="10">
+<lemma>Wendeborn, <titel>Beyträge zur Kentniß Grosbritanniens vom Jahr 1779</titel></lemma>
+<eintrag>
+<titel>Beyträge zur Kentniß Grosbritanniens vom Jahr 1779. Aus der Handschrift eines Ungenannten herausgegeben von <link ref="forster-g" linktext="true" /></titel> (Lemgo: Meyer 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10667419-1">BSB München: 4 Diss. 812#Beibd.8</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>

@@ -79687,7 +79687,7 @@ Die Datierung stützt sich auf die Nennung Seckendorffs (<intlink letter="591" p
 </marginal>
 
 <marginal letter="591" page="188" line="27">
-<bzg>Buch Chevilah</bzg> vgl. <intlink letter="602" page="225" line="1" linktext="true" /> <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;105</link>
+<bzg>Buch Chevilah</bzg> vgl. <intlink letter="602" page="225" line="1" linktext="true" /> und <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;105</link>
 </marginal>
 
 <marginal letter="591" page="188" line="31">
@@ -80206,7 +80206,7 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 </marginal>
 
 <marginal letter="592" page="195" line="6">
-<bzg>Sophiens Reise&#x202F;…</bzg> In der ersten Auflage von <link ref="hermes" subref="hermes-sophie" linktext="false">Hermes’ <titel>Sophiens Reise von Memel nach Sachsen</titel></link>, die Hamann offenbar als einzige rezipierte, fand sich Sophie am Ende „von beyden Anbetern verlassen“, was in der zeitgenössischen Leserschaft für einige Verstörung sorgte, wie man in einer Rezension des <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614091?page=96"><titel>Teutschen Merkur,</titel> Bd.&#x202F;2 (April 1773), S.&#x202F;76</wwwlink> lesen kann. Für die zweite und dritte Auflage (1776 und 1778) arbeitete Hermes die Gesamtkonzeption stark um und versah den Briefroman mit einem harmonischeren Ende.
+<bzg>Sophiens Reise&#x202F;…</bzg> In der ersten Auflage von <link ref="hermes-jt" subref="hermes-sophie" linktext="false">Hermes’ <titel>Sophiens Reise von Memel nach Sachsen</titel></link>, die Hamann offenbar als einzige rezipierte, fand sich Sophie am Ende „von beyden Anbetern verlassen“, was in der zeitgenössischen Leserschaft für einige Verstörung sorgte, wie man in einer Rezension des <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614091?page=96"><titel>Teutschen Merkur,</titel> Bd.&#x202F;2 (April 1773), S.&#x202F;76</wwwlink> lesen kann. Für die zweite und dritte Auflage (1776 und 1778) arbeitete Hermes die Gesamtkonzeption stark um und versah den Briefroman mit einem harmonischeren Ende.
 </marginal>
 
 <marginal letter="592" page="195" line="8">
@@ -80250,7 +80250,7 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 </marginal>
 
 <marginal letter="592" page="195" line="24">
-<bzg>Ey zu meinen Schiblemini</bzg> Zu Scheblimini vgl. <intlink letter="589" page="182" line="22" linktext="true" />; hier wohl bereits im Zusammenhang einer frühen Konzeption zu <link ref="hamann" subref="hamann-golgatha" linktext="true" />.
+<bzg>Ey zu meinen Schiblemini</bzg> Zu Scheblimini vgl. <intlink letter="589" page="182" line="22" linktext="true" />; hier wohl bereits im Zusammenhang einer frühen Konzeption zu <link ref="hamann" subref="hamann-golgatha-scheblimini" linktext="true" />.
 </marginal>
 
 <marginal letter="592" page="195" line="26">
@@ -80291,6 +80291,10 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 
 <marginal letter="592" page="195" line="2">
 <bzg>Hat mir&#x202F;…&#x202F;Glück gewünscht</bzg> D.h. Claudius hat noch nicht auf Hamanns (nicht überlieferten) Brief geantwortet, in dem er wohl von seinem Gichtanfall berichtete, analog zu dem ‚podagrischen Brief‘ an Herder (<intlink letter="589" page="181" line="2" linktext="true" />).
+</marginal>
+
+<marginal letter="592" page="196" line="3">
+<bzg>Nachtigall</bzg> auch eine Anspielung auf den Titel von Claudius’ Gedicht, vgl. <link ref="claudius" subref="claudius-werke" linktext="true" />, I/II, S.&#x202F;56
 </marginal>
 
 <marginal letter="592" page="196" line="5">
@@ -80338,7 +80342,7 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 </marginal>
 
 <marginal letter="592" page="196" line="17">
-<bzg>Hartungs Katalog&#x202F;…</bzg> im Katalog der <link ref="hartung" linktext="false">Hartungschen Buchhandlung</link> nach der Frühjahrsbuchmesse; zu Hamanns Beschwerden über das Angebot des einzigen verbliebenen Königsberger Buchladens vgl. <intlink letter="576" page="157" line="9" linktext="true" />
+<bzg>Hartungs Katalog&#x202F;…</bzg> im Katalog der <link ref="hartung-gl" linktext="false">Hartungschen Buchhandlung</link> nach der Frühjahrsbuchmesse; zu Hamanns Beschwerden über das Angebot des einzigen verbliebenen Königsberger Buchladens vgl. <intlink letter="576" page="157" line="9" linktext="true" />
 </marginal>
 
 <marginal letter="592" page="196" line="21">
@@ -80437,24 +80441,124 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 <bzg>Michaelis</bzg> <link ref="michaelis-jb" subref="michaelis-gedichte" linktext="true" />
 </marginal>
 
-<marginal letter="592" page="197" line="">
-<bzg></bzg> 
+<marginal letter="592" page="197" line="16">
+<bzg>Brahl</bzg> <link ref="brahl" linktext="true" />
 </marginal>
 
-<marginal letter="592" page="197" line="">
-<bzg></bzg> 
+<marginal letter="592" page="197" line="17">
+<bzg>Gleim</bzg> <link ref="gleim" linktext="true" />
 </marginal>
 
-<marginal letter="592" page="197" line="">
-<bzg></bzg> 
+<marginal letter="592" page="197" line="18">
+<bzg>Yoriks u Elisens Briefe</bzg> <link ref="sterne" subref="sterne-letters" linktext="false">Sterne, <titel>Yoricks Briefe an Elisa</titel></link>, übers. von <link ref="bode-jjc" linktext="true" />; er übersetzte ebenfalls die gefälschten <link ref="sterne" subref="sterne-letters" linktext="false"><titel>Briefe von Elisa an Yorick</titel></link>
 </marginal>
 
-<marginal letter="592" page="197" line="">
-<bzg></bzg> 
+<marginal letter="592" page="197" line="18">
+<bzg>5te Theil von Gozzi</bzg> <link ref="gozzi" subref="gozzi-werke" linktext="true" />, Tl. 5
 </marginal>
 
-<marginal letter="592" page="197" line="">
-<bzg></bzg> 
+<marginal letter="592" page="197" line="19">
+<bzg>Mannes Briefe</bzg> <link ref="gozzi" subref="gozzi-briefe" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="20">
+<bzg>Curl. gelesen</bzg> wohl in seiner <wwwlink address="https://www.geonames.org/459279">Mitauer</wwwlink> Zeit 1765–1767
+</marginal>
+
+<marginal letter="592" page="197" line="21">
+<bzg>deutsche Ungenannte&#x202F;…</bzg> <link ref="wendeborn" subref="wendeborn-beytrage" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="21">
+<bzg>Foster</bzg> <link ref="forster-g" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="22">
+<bzg>Artikul über die Gesetze</bzg> Gemeint ist wohl das Kapitel über die „Staatsverfassung“ Englands in <link ref="wendeborn" subref="wendeborn-beytrage" linktext="true" />, S.&#x202F;50–102
+</marginal>
+
+<marginal letter="592" page="197" line="26" sort="1">
+<bzg>Marianchen</bzg> <link ref="hamann-ms" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="26" sort="2">
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="27">
+<bzg>Courtans</bzg> <link ref="courtan-sm" linktext="false">Sophie Marianne</link> <link ref="courtan-pj" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="28">
+<bzg>Weißagung des Zellerfelder</bzg> <link ref="ziehen" subref="ziehen-revolution" linktext="true" />, vgl. <intlink letter="591" page="188" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="29">
+<bzg>Schwester</bzg> <link ref="herder-cd-g" linktext="true" />, <intlink letter="592" page="191" line="21" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="592" page="197" line="30">
+<bzg>Strauchin</bzg> <link ref="strauch-j" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="197" line="32">
+<bzg>letzten May</bzg> <intlink letter="592" page="189" line="34" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="592" page="197" line="36" sort="1">
+<bzg>Heil zum Brunnen</bzg> <intlink letter="592" page="195" line="31" linktext="false">s.o.</intlink>
+</marginal>
+ 
+<marginal letter="592" page="197" line="36" sort="2">
+<bzg>Auch ich&#x202F;…</bzg> vgl. <intlink letter="591" page="188" line="2" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="198" line="1">
+<bzg>Gevatterin und Freundin</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="198" line="3">
+<bzg>Me Hartknoch</bzg> <link ref="hartknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="198" line="7">
+<bzg>Alphabetums Thibetanums</bzg> <link ref="giorgi-aa" subref="giorgi-tibetanum" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="198" line="13">
+<bzg>Gestern</bzg> Gemeint ist <intlink letter="591" page="188" line="4" linktext="true" /> in dem undatierten Brief.
+</marginal>
+
+<marginal letter="592" page="198" line="15">
+<bzg>Adelbertchen&#x202F;…&#x202F;Verlust</bzg> <link ref="herder-ad" linktext="false">Adelbert Herder</link>, vgl. <intlink letter="591" page="188" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="198" line="16">
+<bzg>Väterlichen Siege</bzg> vgl. <intlink letter="591" page="188" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="198" line="29">
+<bzg>Zellerfelder Propheten</bzg> <link ref="ziehen" subref="ziehen-revolution" linktext="true" />, vgl. <intlink letter="591" page="188" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="198" line="30">
+<bzg>Ziegenpropheten</bzg> Der lokale Emerit Komarnicki, über den Hamann und <link ref="kant" linktext="false">Kant</link> im ersten Jahrgang der <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> schrieben, vgl. v.a. das 3.&#x202F;St. vom 10. Februar 1764, S.&#x202F;9–11.
+</marginal>
+
+<marginal letter="592" page="198" line="31" sort="1">
+<bzg>Nachtigall</bzg> <intlink letter="592" page="196" line="3" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="592" page="198" line="31" sort="2">
+<bzg>Buch Chevilah</bzg> vgl. <intlink letter="591" page="188" line="27" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="198" line="33">
+<bzg>Knebel</bzg> <link ref="knebel" linktext="true" />, vgl. <intlink letter="591" page="188" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="592" page="198" line="34">
+<bzg>Ressouvenez-vous en&#x202F;…</bzg> dt. erinnern Sie sich daran, Madame! Das wird mir ein weiteres Alphabetum Thibetanum für meine Begierde sein.
 </marginal>
 
 </marginalien>
