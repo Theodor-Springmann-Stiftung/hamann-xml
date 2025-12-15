@@ -80406,7 +80406,7 @@ Hamann antwortet zunächst nur auf <intlink letter="590" page="187" line="28" li
 </marginal>
 
 <marginal letter="592" page="197" line="4" sort="2">
-<bzg>Note 14&#x202F;…&#x202F;Grundstriche</bzg> Im Erstdruck der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link> (wie auch im Manuskript an Herder) ist Anm.&#x202F;14 auf S.&#x202F;25 ohne Fußnotenanker im Text; der von Hamann hier zugewiesene Bezug „geraden und krummen Grundstrichen“ steht jedoch auf S.&#x202F;26, vgl. N&#x202F;III,240/27 u. 38.
+<bzg>Note 14&#x202F;…&#x202F;Grundstriche</bzg> Im Erstdruck der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link> (wie auch im Manuskript an Herder) ist Anm.&#x202F;14 auf S.&#x202F;25 ohne Fußnotenanker im Text; der von Hamann hier zugewiesene Bezug „geraden und krummen Grundstrichen“ steht jedoch auf S.&#x202F;26, vgl. N&#x202F;III,240/27 u. 38 und <intlink letter="594" page="202" line="15" linktext="true" />.
 </marginal>
 
 <marginal letter="592" page="197" line="6">
@@ -80759,24 +80759,104 @@ HKB 594
 <bzg>französischen Übersetzung</bzg> garde-fou
 </marginal>
 
-<marginal letter="594" page="201" line="34">
-<bzg>εις ους τα&#x202F;…</bzg> […], auf die das Ende der Zeiten gekommen ist; <link ref="nt-kor1" subref="nt-kor1-10" linktext="false">1 Kor 10,11</link>
+<marginal letter="594" page="201" line="32">
+<bzg>Wüsten&#x202F;…&#x202F;Kammer</bzg> <link ref="nt-mt" subref="nt-mt24" linktext="false">Mt 24,26</link>
 </marginal>
 
-<marginal letter="594" page="201" line="12">
+<marginal letter="594" page="201" line="34">
+<bzg>εις ους τα&#x202F;…</bzg> <link ref="nt-kor1" subref="nt-kor1-10" linktext="false">1 Kor 10,11</link>
+</marginal>
+
+<marginal letter="594" page="202" line="12">
 <bzg>Hr. Lavater</bzg> <link ref="lavater" linktext="true" />
 </marginal>
 
-<marginal letter="594" page="201" line="13">
-<bzg>zwey Scherflein</bzg> <link ref="hamann" subref="hamann-scherflein" linktext="true" />
+<marginal letter="594" page="202" line="13">
+<bzg>zwey Scherflein erhalten haben</bzg> <link ref="hamann" subref="hamann-scherflein" linktext="true" />, vgl. die Adressatenliste <intlink letter="580" page="166" line="21" linktext="true" />
 </marginal>
 
-<marginal letter="594" page="201" line="14">
-<bzg>S. 22 statt unwahrhaft</bzg> Gemeint ist, dass Häfeli im Erstruck der <titel>Zwey Scherflein</titel> auf S.&#x202F;22 anstelle von „unwahrhaft“ lesen soll: „unnahrhaft“, vgl. <intlink letter="592" page="191" line="17" linktext="true" />
+<marginal letter="594" page="202" line="14">
+<bzg>S. 22 statt unwahrhaft</bzg> Gemeint ist, dass Häfeli im Erstruck der <titel>Zwey Scherflein</titel> auf S.&#x202F;22 anstelle von „unwahrhaft“ lesen soll: „unnahrhaft“; vgl. <intlink letter="592" page="191" line="17" linktext="true" />
 </marginal>
 
-<marginal letter="594" page="201" line="15">
+<marginal letter="594" page="202" line="15" sort="1">
 <bzg>S. 29 statt Fiktionen&#x202F;…</bzg> <link ref="hamann" subref="hamann-scherflein" linktext="true" />, N&#x202F;III,241/37, vgl. <intlink letter="580" page="168" line="5" linktext="true" /> und <intlink letter="592" page="191" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="594" page="202" line="15" sort="2">
+<bzg>Note 14</bzg> Im Erstdruck der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link> (wie auch im Manuskript an Herder) ist Anm.&#x202F;14 auf S.&#x202F;25 ohne Fußnotenanker im Text; vgl. <intlink letter="592" page="197" line="4" linktext="true" /> und N&#x202F;III,240/27 u. 38.
+</marginal>
+
+<marginal letter="594" page="202" line="17">
+<bzg>Hiob XXXIX. 30</bzg> <link ref="at-hi" subref="at-hi39" linktext="false">Hiob 39,30</link>
+</marginal>
+
+<marginal letter="594" page="202" line="18">
+<bzg>weisen Rath</bzg> vgl. die Anm. in <link ref="haefeli" subref="haefeli-predigten" linktext="true" />, Bd.&#x202F;2, S.&#x202F;234f.
+</marginal>
+
+<marginal letter="594" page="202" line="20">
+<bzg>Prediger Wanowski</bzg> <link ref="wannowski" linktext="true" />
+</marginal>
+
+<marginal letter="594" page="202" line="21">
+<bzg>christlichen Magazins</bzg> <link ref="pfenninger" subref="pfenninger-magazin" linktext="true" />
+</marginal>
+
+<marginal letter="594" page="202" line="25">
+<bzg>Schellenbergschen Prospekten</bzg> <link ref="schellenberg" subref="schellenberg-prospecte" linktext="false">Schellenbergs <titel>Schweizerprospekte</titel></link>, die Hamann in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, St. 88, 4.11.1779 annoncierte und deren Exemplare er nach einer Sendung durch <link ref="kaufmann-c" linktext="false">Kaufmann/Ehrmann</link> in Königsberg vertrieb, vgl. <intlink letter="569" page="125" line="11" linktext="true" /> und <intlink letter="582" page="170" line="27" linktext="true" />.
+</marginal>
+
+<marginal letter="594" page="202" line="28">
+<bzg>Friedländische Comptoir</bzg> Das  <link ref="friedlaender-w" linktext="false">Friedländersche Comtoir</link>, über welches die Exemplare geliefert wurden, vgl. <intlink letter="585" page="173" line="37" linktext="true" />
+</marginal>
+
+<marginal letter="594" page="202" line="29">
+<bzg>Schellenberg</bzg> <link ref="schellenberg" linktext="true" />
+</marginal>
+
+<marginal letter="594" page="202" line="32">
+<bzg>eine hiesige Buchladen</bzg> der <link ref="kanter" linktext="false">Kantersche Buchladen</link>
+</marginal>
+
+<marginal letter="594" page="202" line="33" sort="1">
+<bzg>andre</bzg> der <link ref="hartung-gl" linktext="false">Hartungsche Buchladen</link>
+</marginal>
+
+<marginal letter="594" page="202" line="33" sort="2">
+<bzg>freimüthigen Nachrichten</bzg> <link ref="starck" subref="starck-christenthum" linktext="true" />
+</marginal>
+
+<marginal letter="594" page="202" line="35">
+<bzg>Magnaten</bzg> Gemeint ist <link ref="hippel" linktext="false">Hippel</link> oder <link ref="korff-fa" linktext="false">von Korff</link>, vgl. <intlink letter="592" page="195" line="9" linktext="true" />
+</marginal>
+
+<marginal letter="594" page="202" line="36">
+<bzg>publici saporis</bzg> für den Geschmack des Publikums bestimmt; <link ref="petron" subref="petron-satiren" linktext="true" />, 3
+</marginal>
+
+<marginal letter="594" page="203" line="6">
+<bzg>Verbrechen Ihres Mitbürgers</bzg> <link ref="waser-jh1742" linktext="true" />, vgl. <intlink letter="606" page="236" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="594" page="203" line="7">
+<bzg>vox in deserto&#x202F;…&#x202F;Kammer</bzg> <link ref="nt-mt" subref="nt-mt24" linktext="false">Mt 24,26</link>
+</marginal>
+
+<marginal letter="594" page="203" line="9">
+<bzg>dritte Bändchen Ihrer Predigten</bzg> <link ref="haefeli" subref="haefeli-predigten" linktext="true" />, Bd.&#x202F;3 (erscheint erst 1782)
+</marginal>
+
+<marginal letter="594" page="203" line="12">
+<bzg>ungerechten Haushältern</bzg> in Umkehrung des Gleichnisses bei Lk 12,42–48
+</marginal>
+
+<marginal letter="594" page="203" line="14">
+<bzg>bene latuit, bene vixit</bzg> <link ref="ovid" subref="ovid-tristia" linktext="true" />, 3, 4, 25
+</marginal>
+
+<marginal letter="594" page="203" line="17">
+<bzg>καιρους αναψυξεως&#x202F;…</bzg> <link ref="nt-apg" subref="nt-apg3" linktext="false">Apg 3,20</link>
 </marginal>
 
 </marginalien>
