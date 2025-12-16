@@ -5737,6 +5737,11 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 </subsection>
 </kommentar>
 
+<kommentar id="friedrich-wilhelm-II" type="neuzeit">
+<lemma>Friedrich Wilhelm II.</lemma>
+<eintrag>1744–1797. Sohn <link ref="friedrich-II" linktext="false">Friedrichs II.</link> und 1786 dessen Nachfolger, zuvor seit 1758 Prinz von Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11869362X.html#ndbcontent">Haussherr, Hans: Friedrich Wilhelm II., in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;558–560</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="friederike-schlieben" type="neuzeit">
 <lemma>Friederike von Schlieben</lemma>
 <eintrag>1757–1827 (Friederike Amalie Antonie Gräfin von Schlieben), heiratete 1780 <link ref="friedrich-schleswig" linktext="true" />. </eintrag>
@@ -7810,7 +7815,7 @@ Uraufführung 1742 in Dublin, ab 1775 auch in Deutschland, 1780 von Herder für 
 
 <kommentar id="harris" type="neuzeit">
 <lemma>James Harris</lemma>
-<eintrag>1709–1780. Engl. Gelehrter, siehe <wwwlink address="https://www.theodora.com/encyclopedia/h/james_harris.html">Encyclopedia Britannica 1911</wwwlink>.</eintrag>
+<eintrag>1709–1780. Englischer Gelehrter, siehe <wwwlink address="https://www.theodora.com/encyclopedia/h/james_harris.html">Encyclopedia Britannica 1911</wwwlink>.</eintrag>
 <subsection id="harris-hermes" type="neuzeit">
 <lemma>Harris, <titel>Hermes</titel></lemma>
 <eintrag>
@@ -7837,6 +7842,12 @@ Uraufführung 1742 in Dublin, ab 1775 auch in Deutschland, 1780 von Herder für 
 <kommentar id="hartknoch-j" type="neuzeit">
 <lemma>Johann Friedrich Hartknoch jun.</lemma>
 <eintrag>1768–1819. Sohn von <link ref="hartknoch" linktext="false">Johann Friedrich</link> und <link ref="hartknoch-a" linktext="true" />, Patenkind <link ref="herder" linktext="false">Herders</link>, 1779/1780 in St. Petersburg, 1780–1784 Buchhändlerlehre in Zürich, 1789 Nachfolger seines Vaters.
+</eintrag>
+</kommentar>
+
+<kommentar id="hartknoch-aj" type="neuzeit">
+<lemma>Albertine Hartknoch jun.</lemma>
+<eintrag>1775–1846. Tochter von <link ref="hartknoch" linktext="false">Johann Friedrich</link> und <link ref="hartknoch-a" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -8931,6 +8942,12 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 <lemma>Hirzel, <titel>Das Bild eines wahren Patrioten</titel></lemma>
 <eintrag>
 <titel>Das Bild eines wahren Patrioten, in einem Denkmal auf H. Blaarer v. Wartensee</titel> (Zürich: Orell und Gessner 1767).
+</eintrag>
+</subsection>
+<subsection id="hirzel-sulzer" type="neuzeit" sort="30">
+<lemma>Hirzel, <titel>Über Sulzer den Weltweisen</titel></lemma>
+<eintrag>
+<titel>Hirzel an Gleim über Sulzer den Weltweisen</titel> (2 Bde., Zürich Winterthur: Füeßli, Steiner 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10067249-8">BSB München: Biogr. 1132-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -15506,12 +15523,18 @@ Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag<
 
 <kommentar id="putter" type="neuzeit">
 <lemma>Johann Stephan Pütter</lemma>
-<eintrag>1725–1807. Prof. für Jurisprudenz in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz75338.html#adbcontent">Frensdorff, Ferdinand: Pütter, Johann Stephan, in: <titel>ADB</titel>&#x202F;26 (1888), S.&#x202F;749–777</wwwlink>.
+<eintrag>1725–1807. Professor für Jurisprudenz in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz75338.html#adbcontent">Frensdorff, Ferdinand: Pütter, Johann Stephan, in: <titel>ADB</titel>&#x202F;26 (1888), S.&#x202F;749–777</wwwlink>.
 </eintrag>
 <subsection id="staatsveraenderung" type="neuzeit">
 <lemma>Pütter, <titel>Grundriß der Staatsveränderungen des Teutschen Reichs</titel></lemma>
 <eintrag>
 <titel>Johann Stephan Pütters ordentlichen Lehrers der Rechte zu Göttingen Grundriß der Staatsveränderungen des Teutschen Reichs nebst einer Vorbereitung, worin zugleich ein Entwurf einer Bibliothek und gelehrten Geschichte der Teutschen Historie enthalten</titel> (2., verb. Aufl., Göttingen: Vandenhoeck 1755) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;84/165]. Digitalisat, Ausg. 1764: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-768549">ULB Halle: 17 WA 1348</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="putter-rechtschreibung" type="neuzeit">
+<lemma>Pütter, <titel>Über die Richtigkeit und Rechtschreibung der teutschen Sprache</titel></lemma>
+<eintrag>
+<titel>Ueber die Richtigkeit und Rechtschreibung der teutschen Sprache einige Bemerkungen vom geheimen Justitzrath Pütter</titel> (Göttingen: Vandenhoeck 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11105211-5">Stabi Regensburg: 999/Ling.1306</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -16108,6 +16131,21 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <kommentar id="roche-noblot" type="neuzeit">
 <lemma>Joseph Maximilian la Roche Noblot</lemma>
 <eintrag>Gest. am 25. Januar 1773 bei einer Schlittenfahrt auf der Düna. Bekannter Kalligraph aus Königsberg, vgl. <wwwlink address="https://books.google.de/books?id=VIFLAAAAcAAJ"><titel>Livländische Bibliothek,</titel> Bd.&#x202F;3 (Riga 1777), S.&#x202F;42</wwwlink>.</eintrag>
+</kommentar>La Roche, Marie Sophie v., geb. v. Gutermann zu Gutershofen (1730- 1807), dessen Frau (seit 1753), Pomona
+
+<kommentar id="laroche-s" type="neuzeit">
+<lemma>Sophie von La Roche</lemma>
+<eintrag>1730–1807. Geb. von Gutermann zu Gutershofen, Schriftstellein, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118569767.html#ndbcontent">Häntzschel, Günter: La Roche, Sophie von, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;640f.</wwwlink>.</eintrag>
+<subsection id="laroche-sternheim" type="neuzeit" sort="10">
+<lemma>La Roche, <titel>Geschichte des Fräuleins von Sternheim</titel></lemma>
+<eintrag>
+<titel>Geschichte des Fräuleins von Sternheim. Herausgegeben von Christoph Martin Wieland</titel> (2 Bde., Leipzig: Weidmann und Reich 1771). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-200905199553">HAB Wolfenbüttel: Wa 7074</wwwlink>.</eintrag>
+</subsection>
+<subsection id="laroche-rosalie" type="neuzeit" sort="20">
+<lemma>La Roche, <titel>Rosaliens Briefe</titel></lemma>
+<eintrag>
+<titel>Rosaliens Briefe an ihre Freundin Mariane von St**</titel> (3 Bde., Altenburg: Richter 1779–1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11940475-1">LB Coburg: D II 8</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="roeck-lp" type="neuzeit">
