@@ -5037,10 +5037,16 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 <lemma>Johann Joachim Eschenburg</lemma>
 <eintrag>1743–1820. Literaturhistoriker und <link ref="shakespeare" linktext="false">Shakespeare</link>-Übersetzer, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118685414.html#ndbcontent">Meyen, Fritz: Eschenburg, Johann Joachim, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;642f</wwwlink>.
 </eintrag>
-<subsection id="eschenburg-shakespeare" type="neuzeit">
+<subsection id="eschenburg-shakespeare" type="neuzeit" sort="10">
 <lemma>Eschenburg (Übers.), <titel>William Shakespear’s Schauspiele</titel></lemma>
 <eintrag>
 <titel>William Shakespear’s Schauspiele. Neue Ausgabe. Von Joh. Joach. Eschenburg</titel> (13 Bde., Zürich 1775–1782). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-18903">ZB Zürich: 15.231: a</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="eschenburg-museum" type="neuzeit" sort="20">
+<lemma>Eschenburg (Hrsg.), <titel>Brittisches Museum</titel></lemma>
+<eintrag>
+<titel>Brittisches Museum für die Deutschen. herausgegeben von Herrn Professor Eschenburg</titel> (6 Bde., Leipzig: Weygand 1777–1780). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3723119034">SLUB Dresden</wwwlink>. Digitalisat Bd.&#x202F;6: <wwwlink address="https://books.google.de/books?id=l2pLAAAAcAAJ">Google Books</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1027020992">ZDB</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -7609,6 +7615,12 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <titel>Zwey Scherflein zur neusten Deutschen Literatur</titel> (s.l. [Weimar: <link ref="hoffmann-kl" linktext="false">Hoffmann</link> 1779] 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235921">ULB Münster: N. Hamann Bd. 85–87</wwwlink>. N&#x202F;III,229–242.
 </eintrag>
 </subsection>
+<subsection id="hamann-dialogues" type="neuzeit" sort="730">
+<lemma>Hamann (Übers.), <titel>Dialogues concerning natural Religion</titel></lemma>
+<eintrag>
+Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Er wollte sie durch <link ref="hartknoch" linktext="false">Hartknoch</link> verlegen lassen (vgl. <intlink letter="596" page="205" line="25" linktext="true" />), das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung</link> bekannt wurde. Lediglich ein Bruchteil der geleisteten Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
+</eintrag>
+</subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="750">
 <lemma>Hamann, <titel>Metakritik über den Purismum der Vernunft</titel></lemma>
 <eintrag>
@@ -8433,6 +8445,12 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <titel>Briefe, das Studium der Theologie betreffend</titel> (4 Tle., Weimar: Hoffmann 1780–1781). Digitalisat Tl.&#x202F;1 und 2 (1780): <wwwlink address="https://data.onb.ac.at/rep/1063BB3B">ÖNB Wien: *31.F.26.(Vol.1.2) ALT PRUNK</wwwlink>. Tl.&#x202F;3 und 4 (1781): <wwwlink address="https://books.google.ch/books?id=l447AAAAcAAJ">Google Books</wwwlink>. – SWS X und XI. 
 </eintrag>
 </subsection>
+<subsection id="herder-einfluss-hohe-wissenschaften" type="neuzeit" sort="610">
+<lemma>Herder, <titel>Über den Einfluß der schönen in die höhern Wissenschaften</titel></lemma>
+<eintrag>
+<titel>J. G. Herder über den Einfluß der schönen in die höhern Wissenschaften</titel>, in: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=149"><titel>Abhandlungen der Baierischen Akademie über Gegenstände der schönen Wissenschaften</titel>, Bd.&#x202F;1 (München 1781), S.&#x202F;139–168.</wwwlink>
+</eintrag>
+</subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
 <lemma>Herder, <titel>Adrastea</titel></lemma>
 <eintrag>
@@ -9254,6 +9272,14 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 <eintrag>
 <titel>The History of England</titel> (6&#xA0;Bde., Edinburgh 1754/61).<line type="break" />
 Übers.: <titel>Geschichte von Grossbritannien. Aus dem Englischen des David Hume Esq.</titel>, übers. von <link ref="dusch" linktext="true" /> (4&#xA0;Bde., Breslau und Leipzig: Johann Ernst Meyer 1762/71). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11211786">SSB Augsburg: 4 Gs 1139-1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="hume-dialogues" type="neuzeit" sort="30">
+<lemma>Hume, <titel>Dialogues concerning natural Religion</titel></lemma>
+<eintrag>
+<titel>Dialogues concerning natural Religion.</titel> By David Hume, Esq. The second edition (London 1779). – Postume Ausgabe, hrsg. von David Humes Neffen; eine first edition erschien in geringer Auflage und kleiner Type ebenfalls London 1779, vgl. <wwwlink address="https://archive.org/details/in.ernet.dli.2015.507028/page/n11">Kemp: Humes Dialogues Concerning Natural Religion (London 1947)</wwwlink>; Hume schrieb die <titel>Dialogues</titel> 1751–1755, revidierte die Schrift aber noch im Todesjahr 1776; wegen des heiklen Themas beschloss er, sie erst postum zu veröffentlichen. – Digitalisat der 2nd edition: <wwwlink address="https://books.google.de/books?id=E7dbAAAAQAAJ">Google Books</wwwlink>.<line type="break" />
+Übers.: <titel>Gespräche über natürliche Religion von David Hume.</titel> Nach der zwoten Englischen Ausgabe [übersetzt von <wwwlink address="https://eip.hueb-staging.iued.uni-heidelberg.de/en/person/275/">Carl Gottfried Schreiter</wwwlink>]. Nebst einem Gespräch über den Atheismus von Ernst Platner (Leipzig: Weygand 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">SSB Augsburg: Phil 1716</wwwlink>.
+<line type="break" />Hamann setzte ebenfalls zu einer Übersetzung an, vgl. <link ref="hamann" subref="hamann-dialogues" linktext="true" />
 </eintrag>
 </subsection>
 </kommentar>
