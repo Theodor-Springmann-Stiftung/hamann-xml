@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <opus>
 <data>
 <kommentare>
@@ -55,7 +55,7 @@ A
 <subsection id="abbt-correspondenz" type="neuzeit" sort="50">
 <lemma>Abbt, <titel>Freundschaftliche Correspondenz</titel></lemma>
 <eintrag>
-Thomas Abbts […] <titel>freundschaftliche Correspondenz</titel> (hg. von <link ref="nicolai" linktext="true" />; Berlin, Stettin: Nicolai 1771) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;164/564: „Th. Abbt’s freundschaftliche Correspondenz, ib. 771. Donum EDITORIS.“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=uIqI43XGNzcC">Google Books</wwwlink>.
+Thomas Abbts […] <titel>freundschaftliche Correspondenz</titel> (hg. von <link ref="nicolai" linktext="true" />; Berlin, Stettin: Nicolai 1771 als Bd. 3 von <link ref="abbt" subref="abbt-werke" linktext="true" />) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;164/564: „Th. Abbt’s freundschaftliche Correspondenz, ib. 771. Donum EDITORIS.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11089980-1">Stabi Regensburg: 999/Germ.52(3</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="abbt-werke" type="neuzeit" sort="60">
@@ -385,7 +385,7 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 
 <kommentar id="anhalt-f" type="neuzeit">
 <lemma>Friedrich Graf von Anhalt</lemma>
-<eintrag>1732–1794. Generalmajor im Heer Friedrich II., siehe <wwwlink address="https://d-nb.info/gnd/102638403">GND</wwwlink>.</eintrag>
+<eintrag>1732–1794. Generalmajor im Heer <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://d-nb.info/gnd/102638403">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="anhalt-l" type="neuzeit">
@@ -751,6 +751,15 @@ Vll. <titel>Fabvlae aesopicae graecae qvae Maximo Planudi tribvvntvr. Ad vetervm
 <eintrag>110 v. Chr.–32 v. Chr. Röm. Ritter.</eintrag>
 </kommentar>
 
+<kommentar id="aubigne" type="neuzeit">
+<lemma>Théodore Agrippa d’Aubigné</lemma>
+<eintrag>1552–1630. Frz. hugenottischer Adeliger, Militär und Schriftsteller; vgl N&#x202F;V,269.</eintrag>
+<subsection id="aubigne-denkwurdigkeiten" type="neuzeit" sort="10">
+<lemma>d’Aubigné, <titel>Denkwürdigkeiten</titel></lemma>
+<eintrag><titel>Denkwürdigkeiten aus dem Leben des Theodor Agrippa d’Aubigné, Stallmeisters von Heinrich dem Vierten, von ihm selbst an seine Kinder geschrieben. Aus dem Französischen übersetzt</titel> [von <link ref="huber" linktext="true" />] von  (Tübingen: Heerbrandt 1780) Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10413917-4">BSB München: Gall.com. 14</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="august-gotha" type="neuzeit">
 <lemma>August von Sachsen-Gotha-Altenburg</lemma>
 <eintrag>1747–1806. 1769 General der niederländischen Generalstaaten, 1771 und 1777 Italienreisen, Freund <link ref="herder" linktext="false">Herders</link> <link ref="goethe" linktext="false">Goethes</link> und <link ref="wieland" linktext="false">Wielands</link>; Bruder von <link ref="ernst-gotha" linktext="true" />.</eintrag>
@@ -981,7 +990,13 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
  <subsection id="basedow-dessau" type="neuzeit" sort="30">
 <lemma>Basedow, <titel>Philantropin</titel></lemma>
 <eintrag>
-<titel>Für Cosmopoliten etwas zu lesen, zu denken und zu thun: in Ansehung des in Anhalt-Dessau errichteten Philantropins oder Pädagogischen Seminars von ganz neuer Art, die schon alt seyn sollte</titel> von Joh. Bernhard Basedow (Leipzig 1775). Digitalisat: <wwwlink address=" http://data.onb.ac.at/rec/AC09684492">ÖNB Wien: *31.G.12</wwwlink>.
+<titel>Für Cosmopoliten etwas zu lesen, zu denken und zu thun: in Ansehung des in Anhalt-Dessau errichteten Philantropins oder Pädagogischen Seminars von ganz neuer Art, die schon alt seyn sollte</titel> von Joh. Bernhard Basedow (Leipzig 1775). Digitalisat: <wwwlink address="http://data.onb.ac.at/rec/AC09684492">ÖNB Wien: *31.G.12</wwwlink>.
+</eintrag>
+</subsection>
+ <subsection id="basedow-urkunde" type="neuzeit" sort="40">
+<lemma>Basedow, <titel>Urkunde des Jahrs 1780</titel></lemma>
+<eintrag>
+<titel>Eine Urkunde des Jahrs 1780 von der Neuen Gefahr des Christenthums durch die scheinbare Semlerische Vertheidigung desselben wider den ungenannten Fragmentisten</titel> (Dessau 1780). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/34443">ULB Halle: AB 39 4/h, 24</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -1118,7 +1133,7 @@ D. Siegmund Jacob Baumgartens <titel>Untersuchung Theologischer Streitigkeiten.<
 
 <kommentar id="beaumelle" type="neuzeit">
 <lemma>Laurent Angliviel de la Beaumelle</lemma>
-<eintrag>1727–1773. Frz. Schriftsteller, 1749 bis 1751 Professor der frz. Literatur an der Universität Kopenhagen, 1751 zeitgleich mit <link ref="voltaire" linktext="false">Voltaire</link> bei <link ref="friedrich-II" linktext="false">Friedrich II.</link> in Potsdam, von Voltaire dort vertrieben, nach 1753 mehrmals wegen seiner Schriften in Paris in Haft; wofür er auch Voltaire verantwortlich machte. Um 1770 von König Ludwig XV. an die ‚Bibliothèque royale‘ berufen. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;3, 1811), S.&#x202F;639–642.</eintrag>
+<eintrag>1727–1773. Frz. Schriftsteller, 1749 bis 1751 Professor der frz. Literatur an der Universität Kopenhagen, 1751 zeitgleich mit <link ref="voltaire" linktext="false">Voltaire</link> bei <link ref="friedrich-II" linktext="true" /> in Potsdam, von Voltaire dort vertrieben, nach 1753 mehrmals wegen seiner Schriften in Paris in Haft; wofür er auch Voltaire verantwortlich machte. Um 1770 von König Ludwig XV. an die ‚Bibliothèque royale‘ berufen. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;3, 1811), S.&#x202F;639–642.</eintrag>
 <subsection id="beaumelle-pensees" type="neuzeit" sort="10">
 <lemma>Beaumelle, <titel>Mes pensées</titel></lemma>
 <eintrag>
@@ -1476,6 +1491,17 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 <lemma>Berger, <titel>Synchronistische Universalhistorie der vornehmsten europäischen Reiche und Staaten</titel></lemma>
 <eintrag>
 <titel>Synchronistische Universalhistorie der vornehmsten europäischen Reiche und Staaten von Erschaffung der Welt an bis auf das jetzt laufende Jahr</titel> (Coburg 1729).</eintrag>
+</subsection>
+</eintrag>
+</kommentar>
+
+<kommentar id="berger-tb" type="neuzeit">
+<lemma>Traugott Benjamin Berger</lemma>
+<eintrag>1754–1810. Schriftsteller in Dresden.
+<subsection id="berger-galora" type="neuzeit" sort="10">
+<lemma>Berger, <titel>Galora von Venedig</titel></lemma>
+<eintrag>
+<titel>Galora von Venedig. Ein Trauerspiel in fünf Aufzügen, von Traugott Benjamin Berger</titel> (Leipzig: Hilscher 1778). Digitalisat. <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000DE3F00000000">Stabi Berlin: Yr 6931</wwwlink>.</eintrag>
 </subsection>
 </eintrag>
 </kommentar>
@@ -1892,7 +1918,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="bode-jjc" type="neuzeit">
 <lemma>Johann Joachim Christoph Bode</lemma>
-<eintrag>1730–1793. Buchdrucker, Übersetzer und Verleger in Hamburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>. – Zu seinen Übersetzungen vgl. <link ref="smollett" subref="smollett-clinker" linktext="true" />, <link ref="sterne" subref="sterne-shandy" linktext="true" />, <link ref="goldsmith" subref="goldsmith-wakefield" linktext="true" /> und <link ref="moore-e" subref="moore-world" linktext="true" />.</eintrag>
+<eintrag>1730–1793. Buchdrucker, Übersetzer und Verleger in Hamburg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz4880.html#ndbcontent">Justi, Ludwig: Bode, Christoph, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;348f.</wwwlink>. – Zu seinen Übersetzungen vgl. <link ref="smollett" subref="smollett-clinker" linktext="true" />, <link ref="sterne" subref="sterne-shandy" linktext="true" />, <link ref="sterne" subref="sterne-letters" linktext="true" />, <link ref="goldsmith" subref="goldsmith-wakefield" linktext="true" /> und <link ref="moore-e" subref="moore-world" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="bodin" type="neuzeit">
@@ -2814,6 +2840,11 @@ C
 <eintrag>1469–1534. Päpstlicher Legat.</eintrag>
 </kommentar>
 
+<kommentar id="calvin" type="neuzeit">
+<lemma>Johannes Calvin</lemma>
+<eintrag>1509–1564. Französisch-schweizerischer Reformator.</eintrag>
+</kommentar>
+
 <kommentar id="camoens" type="neuzeit">
 <lemma>Luís de Camões</lemma>
 <eintrag>1524/1525–1680. Portugiesischer Nationaldichter, siehe <wwwlink address="https://theodora.com/encyclopedia/c/luis_vaz_de_camoens.html">Encyclopedia Britannica</wwwlink>.</eintrag>
@@ -2900,6 +2931,12 @@ Er vermittelte 1753 für Hamann die Hausmeisterstelle in <wwwlink address="https
 <kommentar id="carl-august" type="neuzeit">
 <lemma>Carl August von Sachsen-Weimar-Eisenach</lemma>
 <eintrag>1757–1828. 1758 Herzog von Sachsen-Weimar-Eisenach, bis 1775 unter der Vormundschaft seiner Mutter <link ref="anna-amalia" linktext="false">Anna Amalia</link>. Förderer von <link ref="goethe" linktext="true" />, <link ref="herder" linktext="true" /> etc.
+</eintrag>
+</kommentar>
+
+<kommentar id="carmer" type="neuzeit">
+<lemma>Johann Heinrich von Carmer</lemma>
+<eintrag>1720–1801. 1779 Nachfolger <link ref="furst" linktext="false">von Fürst und Kupferbergs</link> als Großkanzler bzw. Justizminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link>; als solcher maßgeblich am Corpus Iuris Fridericianum beteiligt; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116456590.html#ndbcontent">Döhring, Erich: Carmer, Johann Heinrich Casimir Graf von, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;150</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -3180,7 +3217,7 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 
 <kommentar id="christiani" type="neuzeit">
 <lemma>Karl Andreas Christiani</lemma>
-<eintrag>1707–1780. Seit 1746 Prof. der Philosophie in Königsberg.</eintrag>
+<eintrag>1707–1780. Seit 1746 Professor der Philosophie in Königsberg; Oberbibliothekar der Wallenrodtischen Bibliothek, siehe <wwwlink address="https://books.google.de/books?id=GlE2AAAAIAAJ">Hamberger/Meusel (1803), Bd.&#x202F;2, S.&#x202F;103</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="chrysostomos-d" type="neuzeit">
@@ -3681,7 +3718,7 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 
 <kommentar id="courtan-sm" type="neuzeit">
 <lemma>Sophie Marianne Courtan</lemma>
-<eintrag>Geboren 1741. Geb. <link ref="toussaint-jc" linktext="false">Toussaint</link>. Befreundet mit Hamann in Königsberg ab Mitte der 1770er Jahre, Patenmutter von <link ref="hamann-ms" linktext="true" />; seit 1761 Ehefrau von <link ref="courtan-pj" linktext="true" /> und Schwägerin von <link ref="lindner-m" linktext="true" />; später von <link ref="hartknoch" linktext="true" /> (Schwester von <link ref="hartknoch-a" linktext="true" />).
+<eintrag>Geboren 1741. Geb. <link ref="toussaint-jc" linktext="false">Toussaint</link>. Befreundet mit Hamann in Königsberg ab Mitte der 1770er Jahre, Patenmutter von <link ref="hamann-ms" linktext="true" />; seit 1761 Ehefrau von <link ref="courtan-pj" linktext="true" /> und Schwägerin von <link ref="lindner-m" linktext="true" />; später Schwägerin von <link ref="hartknoch" linktext="true" /> (als Schwester von <link ref="hartknoch-a" linktext="true" />).
 </eintrag>
 </kommentar>
 
@@ -3771,7 +3808,7 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 
 <kommentar id="cramer-cf" type="neuzeit">
 <lemma>Carl Friedrich Cramer</lemma>
-<eintrag>1752–1807. Sohn von <link ref="cramer-ja" linktext="true" />, Mitglied des Göttinger Hain, Verehrer <link ref="klopstock" linktext="false">Klopstocks</link>; 1780 Professor der griechische und orientalischen Sprachen und Homiletik in Kiel.
+<eintrag>1752–1807. Sohn von <link ref="cramer-ja" linktext="true" />, Mitglied des Göttinger Hain, Verehrer <link ref="klopstock" linktext="false">Klopstocks</link>; 1780 Professor der griechischen und orientalischen Sprachen und Homiletik in Kiel.
 </eintrag>
 <subsection id="cramer-tellow" type="neuzeit"  sort="10">
 <lemma>Cramer, <titel>Klopstock. In Fragmenten aus Briefen von Tellow an Elisa</titel></lemma>
@@ -4040,7 +4077,7 @@ Dangeuil verwandte sehr frei J. Tuckers <link ref="tucker" subref="tucker-essay"
     
 <kommentar id="darjes" type="neuzeit">
 <lemma>Joachim Georg Darjes</lemma>
-<eintrag>1714–1791.  Lutherischer Pfarrer; Jurist, Philosoph, Ökonom in Jena, ab 1763 in Frankfurt an der Oder.</eintrag>
+<eintrag>1714–1791. Lutherischer Pfarrer; Jurist, Philosoph, Ökonom in Jena, ab 1763 in Frankfurt an der Oder.</eintrag>
 <subsection id="darjes-sitten" type="neuzeit">
 <lemma>Darjes, <titel>Erste Gründe der philosophischen Sitten-Lehre</titel></lemma>
 <eintrag>
@@ -4102,6 +4139,11 @@ Dangeuil verwandte sehr frei J. Tuckers <link ref="tucker" subref="tucker-essay"
 <kommentar id="demosthenes" type="neuzeit">
 <lemma>Demosthenes</lemma>
 <eintrag>384 v.&#x202F;Chr.&#x202F;–&#x202F;322 v.&#x202F;Chr. Athenischer Staatsmann und Redner.</eintrag>
+</kommentar> 
+
+<kommentar id="dengel-cg" type="neuzeit">
+<lemma>Carl Gottlob Dengel</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Buchhändler aus Berlin, der 1780/81, gemeinsam mit <link ref="wagner-fd" linktext="true" />, den <link ref="kanter" linktext="false">Kanterschen Buchladen</link> und die <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> übernahm und einige Jahre lang als Verleger in Königsberg tätig ist; unterlag im Preiskampf mit <link ref="hartung-gl" linktext="false">Hartung</link>, der ein Monopol anstrebte, musste 1787 Konkurs anmelden und Buchladen sowie Verlag 1788 an Hartung verkaufen. Vgl. Georg Kessler: <titel>300 Jahre Gräfe und Unzer: 1722-2022</titel> (München 2022), S.&#x202F;47f.</eintrag>
 </kommentar>
 
 <kommentar id="denham" type="neuzeit">
@@ -4299,6 +4341,11 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann
 <lemma>Diderot, <titel>Essai sur la vie de Séneque</titel></lemma>
 <eintrag>
 <titel>Essai sur la vie de Séneque le philosophe, sur ses écrits, et sur les regnes de Claude et de Néron. Avec des Notes</titel> (Den Haag 1779). Digitalisat: <wwwlink address="https://books.google.ch/books?id=SqgPAAAAQAAJ">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="diderot-jacques" type="neuzeit" sort="60">
+<lemma>Diderot, <titel>Jacques le fataliste</titel></lemma>
+<eintrag>
+<titel>Jacques le fataliste et son maître</titel>. Zu Lebzeiten Diderots nicht gedruckt, teilweise als Manuskript in <link ref="grimm-fm" linktext="false">Melchior Grimms</link>  <titel>Correspondance littéraire</titel> publiziert, erste Teilübersetzung 1785 von Schiller, erste französische Buchausgabe 1796; 1780 kursierte ein Manuskript in Weimar, vgl. <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;98f.</link></eintrag>
 </subsection>
 </kommentar>
 
@@ -4626,6 +4673,12 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 <titel>Moralische Briefe zur Bildung des Herzens</titel> (2&#xA0;Tle., Leipzig: Breitkopf 1759). Digitalisat, Tl.1: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-151589">ULB Halle: AB 41 15/i, 12</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="dusch-ferdiner" type="neuzeit" sort="50">
+<lemma>Dusch, <titel>Geschichte Carl Ferdiners</titel></lemma>
+<eintrag>
+<titel>Geschichte Carl Ferdiners</titel> (3 Bde., Karlsruhe: Schmieder 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10107497-0">BSB München: P.o.germ. 284 k-1,1/2</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="dutens" type="neuzeit">
@@ -4769,10 +4822,16 @@ Online-Ausgabe: <wwwlink address="http://enccre.academie-sciences.fr/encyclopedi
 <lemma>Johann Jakob Engel</lemma>
 <eintrag>1741–1802. Schriftsteller, seit 1776 Professor der Moralphilosophie am Joachimsthalschen Gymnasium in Berlin, Prinzenerzieher am preußischen Hof und Akademiemitglied, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11868468X.html#ndbcontent">Elschenbroich, Adalbert: Engel, Johann Jakob, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;504f</wwwlink>.
 </eintrag>
-<subsection id="engel-philosoph" type="neuzeit">
+<subsection id="engel-philosoph" type="neuzeit" sort="10">
 <lemma>Engel, <titel>Der Philosoph für die Welt</titel></lemma>
 <eintrag>
 <titel>Der Philosoph für die Welt. Herausgegeben von J. J. Engel</titel> (2&#xA0;Tle., Leipzig: Dyck 1775–1777). Digitalisat, Tl. 2: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10136175-7">BSB München: Var. 682 v</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="engel-vernunftlehre" type="neuzeit" sort="20">
+<lemma>Engel, <titel>Versuch einer Methode die Vernunftlehre aus Platonischen Dialogen zu entwickeln</titel></lemma>
+<eintrag>
+<titel>Versuch einer Methode die Vernunftlehre aus Platonischen Dialogen zu entwickeln</titel> (Berlin: Voß 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043113-0">BSB München: Ph.sp. 241</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -4978,10 +5037,16 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 <lemma>Johann Joachim Eschenburg</lemma>
 <eintrag>1743–1820. Literaturhistoriker und <link ref="shakespeare" linktext="false">Shakespeare</link>-Übersetzer, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118685414.html#ndbcontent">Meyen, Fritz: Eschenburg, Johann Joachim, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;642f</wwwlink>.
 </eintrag>
-<subsection id="eschenburg-shakespeare" type="neuzeit">
+<subsection id="eschenburg-shakespeare" type="neuzeit" sort="10">
 <lemma>Eschenburg (Übers.), <titel>William Shakespear’s Schauspiele</titel></lemma>
 <eintrag>
 <titel>William Shakespear’s Schauspiele. Neue Ausgabe. Von Joh. Joach. Eschenburg</titel> (13 Bde., Zürich 1775–1782). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-18903">ZB Zürich: 15.231: a</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="eschenburg-museum" type="neuzeit" sort="20">
+<lemma>Eschenburg (Hrsg.), <titel>Brittisches Museum</titel></lemma>
+<eintrag>
+<titel>Brittisches Museum für die Deutschen. herausgegeben von Herrn Professor Eschenburg</titel> (6 Bde., Leipzig: Weygand 1777–1780). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3723119034">SLUB Dresden</wwwlink>. Digitalisat Bd.&#x202F;6: <wwwlink address="https://books.google.de/books?id=l2pLAAAAcAAJ">Google Books</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1027020992">ZDB</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -5119,6 +5184,12 @@ F
 </subsection>
 </kommentar>
 
+<kommentar id="fabeck" type="neuzeit">
+<lemma>Karl Friedrich von Fabeck</lemma>
+<eintrag>1745–1829. Preußischer Offizier, ab 1790 als Kapitän a.D. Gutsherr auf Jablonken, Kulk und Waldpusch, zweiter Ehemann von <link ref="stockmar-h" linktext="true" /> siehe <wwwlink address="https://books.google.de/books?id=cUtjQyds1JQC">Gothaisches genealogisches Taschenbuch der briefadeligen Häuser, Jg. 2 (1908), S.&#x202F;267.</wwwlink>
+</eintrag>
+</kommentar>
+
 <kommentar id="faber-je" type="neuzeit">
 <lemma>Johann Ernst Faber</lemma>
 <eintrag>1745–1774. 1772 Prof. für morgenländische Sprachen in Jena, siehe siehe <wwwlink address="https://www.deutsche-biographie.de/sfz14003.html">Redslob, Gustav Moritz: Faber, Johann Ernst, in: <titel>ADB</titel>&#x202F;6 (1877), S.&#x202F;495f</wwwlink>.
@@ -5144,7 +5215,7 @@ F
 <subsection id="fabricius-bib" type="neuzeit">
 <lemma>Fabricius, <titel>Bibliotheca graeca</titel></lemma>
 <eintrag>
-Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca graeca sive notitia scriptorum veterum graecorum, quorumcunque monumenta integra aut fragmenta edita extant</titel> (14 Bde., 1705–1728). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10528404-5">BSB München: 4 N.libr. 21-1/3</wwwlink>.
+Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca graeca sive notitia scriptorum veterum graecorum, quorumcunque monumenta integra aut fragmenta edita extant</titel> (14 Bde., 1705–1728) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;60/38: „I. A. Fabricii Bibliotheca graeca, Tom. I—IX. Lips. 717“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10528404-5">BSB München: 4 N.libr. 21-1/3</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -5331,6 +5402,21 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <eintrag>
 <titel>Vita di <link ref="rienzo" linktext="false">Cola di Renzo</link> tribuno del popolo romano. Scritta in lingua volgare romana di quella età da Tomao Fiortifiocca scribasenato. All’illustrissimo, et eccell. prencipe Paolo Giordano Orsino duca di Bracciano, prencipe di Piombino, etc</titel> (Bracciano 1624).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="fircks-cl" type="neuzeit">
+<lemma>Carl Lebrecht von Fircks</lemma>
+<eintrag>1710–1788. Kurländischer Gutsbesitzer, 1780 Herr auf <wwwlink address="https://www.geonames.org/460191">Dubenalken</wwwlink>, vgl. den Beitrag im <wwwlink address="https://rundale.net/de/museum/museumssammlung/erzaehlungen-der-dinge/die-tuer-des-guts-dunalka-firkspedvale"></wwwlink>Schlossmuseum Rundāle und den <wwwlink address="https://bbld.de/GND1195366442">BBLd-Eintrag zu seinem Vater</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="fircks-cu" type="neuzeit">
+<lemma>Carl Ulrich von Fircks</lemma>
+<eintrag>1738–1816. Sohn von <link ref="fircks-cl" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="fircks-fe" type="neuzeit">
+<lemma>Friedrich Ewald von Fircks</lemma>
+<eintrag>1733–1802. Kurländischer Gutsbesitzer, u.a. der Schlösser Hasenpoth und Kalwen, außerdem Landrat des Kreises Pilten; vgl. die Widmung des bei <link ref="hinz" linktext="false">Hinz</link> erschienenen Bandes <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10577006?page=3"><titel>Gedichte von einem pohlnischen Juden</titel></wwwlink> (Mitau, Leipzig 1772). Hinz war vmtl. 1780 Hofmeister bei einem seiner Söhne. Wohl Vetter von <link ref="fircks-cl" linktext="true" /></eintrag>
 </kommentar>
 
 <kommentar id="fischer-cg" type="neuzeit">
@@ -5576,7 +5662,7 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 
 <kommentar id="friedrich-II" type="neuzeit">
 <lemma>Friedrich II.</lemma>
-<eintrag>1712–1786.<line type="break" />
+<eintrag>1712–1786. Ab 1740 König in Preußen (ab 1772 König von Preußen) und Kurfürst von Brandenburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118535749.html#ndbcontent">Stolberg-Wernigerode, Otto Graf zu: Friedrich der Große, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;545–558</wwwlink>.<line type="break" />
 Gustav Berthold Volz, <titel>Die Werke Friedrichs des Großen. In deutscher Übersetzung</titel> (10&#xA0;Bde., Berlin 1913f.)</eintrag>
 <subsection id="fr-memoires" type="neuzeit" sort="10">
 <lemma>Friedrich II., <titel>Mémoires pour servir à l’histoire de Brandebourg</titel></lemma>
@@ -5649,6 +5735,11 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 <titel>Briefe über die Liebe zum Vaterland oder Briefwechsel zwischen Anapistemon und Philopatros. Aus dem Französischen</titel> (Berlin: Decker 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11109253-4">Stabi Regensburg: 999/Philos.392</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="friedrich-wilhelm-II" type="neuzeit">
+<lemma>Friedrich Wilhelm II.</lemma>
+<eintrag>1744–1797. Sohn <link ref="friedrich-II" linktext="false">Friedrichs II.</link> und 1786 dessen Nachfolger, zuvor seit 1758 Prinz von Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11869362X.html#ndbcontent">Haussherr, Hans: Friedrich Wilhelm II., in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;558–560</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="friederike-schlieben" type="neuzeit">
@@ -5758,7 +5849,7 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 
 <kommentar id="furst" type="neuzeit">
 <lemma>Maximilian von Fürst und Kupferberg</lemma>
-<eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1763 Geheimer Etats- und Justizminister sowie Präsident des 1. Kammergerichts, 1770–1779 Großkanzler von Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>.
+<eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1763 Geheimer Etats- und Justizminister sowie Präsident des 1. Kammergerichts, 1770–1779 Großkanzler bzw. Justizminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -5878,6 +5969,11 @@ G
 <titel>Scelta di varii pezzi dei piu classici autori, con annotazione e giunte par la lingua e letteratura Italiana</titel> (2&#xA0;Bde., Göttingen: Vandenhoeck 1757/8) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;165/582: „Scelta die Vinc. Gaudio, Tom. I. II. Braunschw. 763. 764“]. Digitalisat; Bd. 1: <wwwlink address="https://books.google.de/books?id=sIZkJWzYR3MC">Google Books</wwwlink>; Digitalisat; Bd. 2: <wwwlink address="https://books.google.de/books?id=4dZgAAAAcAAJ">Google Books</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="gaudy" type="neuzeit">
+<lemma>Leopold Otto von Gaudy</lemma>
+<eintrag>1728–1789. Brandenburg-preußischer Geheimer Etats- Kriegs- und Finanzminister, ab 1775 im <link ref="generaldirektorium" linktext="true" /> zuständig für Ost- und Westpreußen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz20015.html">Deutsche Biographie</wwwlink> und Rolf Straubel: <titel>Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806</titel> (München 2009), Bd.&#x202F;1, S.&#x202F;295.</eintrag>
 </kommentar>
 
 <kommentar id="gaupp-e" type="neuzeit">
@@ -6001,7 +6097,7 @@ Dt. Übers. zitiert nach: Georg Fritz Weiß (Übers.), <titel>Die attischen Näc
 
 <kommentar id="generaldirektorium" type="neuzeit">
 <lemma>Generaldirektorium</lemma>
-<eintrag>Königlich-preußisches General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für die Innen- und Finanz-Politik sowie für die Finanzierung der Armee; ihm unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kriegs-und-domaenenkammer" linktext="true" />.</eintrag>
+<eintrag>Königlich-preußisches General-Ober-Finanz-Kriegs- und Domainen-Direktorium, kurz Generaldirektorium. Zentrale Regierungsbehörde in Berlin für die Innen- und Finanz-Politik sowie für die Finanzierung der Armee; diesem unterstanden die provinziellen Kriegs- und Domänenkammern wie die <link ref="kriegs-und-domaenenkammer" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="genest" type="neuzeit">
@@ -6378,7 +6474,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 
 <kommentar id="goertz" type="neuzeit">
 <lemma>Johann Eustachius Graf von Goertz</lemma>
-<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar; 1778 erfolgreicher Diplomat für Brandenburg-Preußen im Vorfeld des Bayerischen Erbfolgekriegs, daraufhin von <link ref="friedrich-II" linktext="false">Friedrich II.</link> zum Staatsminister ernannt und 1779–1785 zum preußischen Gesandten in St. Petersburg; Besuchte Hamann 1779 mit den <link ref="keyserling-h" linktext="false">Keyserlings</link> in Königsberg; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink></eintrag>
+<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar; 1778 erfolgreicher Diplomat für Brandenburg-Preußen im Vorfeld des Bayerischen Erbfolgekriegs, daraufhin von <link ref="friedrich-II" linktext="true" /> zum Staatsminister ernannt und 1779–1785 zum preußischen Gesandten in St. Petersburg; Besuchte Hamann 1779 mit den <link ref="keyserling-h" linktext="false">Keyserlings</link> in Königsberg; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink></eintrag>
 <subsection id="goertz-briefe" type="neuzeit" >
 <lemma>Goertz, <titel>Briefe eines PrintzenHofmeisters</titel></lemma>
 <eintrag>
@@ -6536,6 +6632,21 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 </subsection>
 </kommentar>
 
+<kommentar id="gozzi" type="neuzeit">
+<lemma>Carlo Gozzi</lemma>
+<eintrag>1720–1806. Italienischer Lustspieldichter.</eintrag>
+<subsection id="gozzi-briefe" type="neuzeit" sort="10">
+<lemma>Gozzi, <titel>Mancherley Briefe</titel></lemma>
+<eintrag>
+<titel>Herrn Caspar Gozzi mancherley Briefe</titel>. Aus dem Italienischen übersezt (2 Tle., Altenburg: Richter 1763). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10620847-7">BSB Müchen: Epist. 322-1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="gozzi-werke" type="neuzeit" sort="20">
+<lemma>Gozzi, <titel>Theatralische Werke</titel></lemma>
+<eintrag>
+<titel>Theatralische Werke von Carlo Gozzi</titel>. Aus dem Italiänischen übersezt [von Friedrich August Clemens Werthes] (5 Tle., Bern: Typographische Gesellschaft 1777–1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10756289-2">BSB Müchen: P.o.it. 455-1</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="goudar" type="neuzeit">
 <lemma>Pierre Ange Goudar</lemma>
 <eintrag>1708–1791. Frz. Schriftsteller.</eintrag>
@@ -6558,7 +6669,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 
 <kommentar id="graun" type="neuzeit">
 <lemma>Carl Ferdinand Graun</lemma>
-<eintrag>1753–1819. Seit 1777 Hofgerichtsrat in Königsberg, heiratete 1780 <link ref="fischer-e" linktext="true" /> 1787 nach Berlin versetzt. Siehe Rolf Straubel: <titel>Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806</titel> (München 2009), Bd.&#x202F;1, S.&#x202F;345f.</eintrag>
+<eintrag>1753–1819. Seit 1777 Hofgerichtsrat in Königsberg, heiratete 1780 <link ref="fischer-e" linktext="true" />, 1787 nach Berlin versetzt. Siehe Rolf Straubel: <titel>Biographisches Handbuch der preußischen Verwaltungs- und Justizbeamten 1740–1806</titel> (München 2009), Bd.&#x202F;1, S.&#x202F;345f.</eintrag>
 </kommentar> 
 
 <kommentar id="graville" type="neuzeit">
@@ -6847,13 +6958,19 @@ H
 <lemma>Häfeli, <titel>Eines Ungenannten Antwort</titel></lemma>
 <eintrag>
 <titel>Eines Ungenannten Antwort auf die Frage: „Wird durch die Bemühungen kaltblütiger Philosophen und Lucianischer Geister gegen das, was sie Enthusiasmus und Schwärmerey nennen, mehr Böses als Gutes gestiftet? und in welchen Schranken müßten sich die Antiplatoniker und Luciane halten, um nützlich zu seyn?“</titel>. In: <link ref="teutsche-merkur" linktext="false">Teutscher Merkur</link>, 3. Vierteljahr 1776, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10726975?page=121">S.&#x202F;111–131 (Augustheft)</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10726975?page=213">S.&#x202F;207–220 (Septemberheft)</wwwlink>.<line type="break" />
-Für den Autor des anonymen Merkur-Beitrags, der Hamanns <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> veranlasste, hielt Hamann zunächst <link ref="herder" linktext="false">Herder</link> (vgl. <intlink letter="505" page="360" line="14" linktext="true" />), später <link ref="stolz-jj" linktext="true" /> (vgl. <intlink letter="573" page="139" line="29" linktext="true" />). Letztlich bekannte sich Häfeli dazu, vgl. <intlink letter="585" page="173" line="17" linktext="true" />, ebenso Hamanns Antwort <intlink letter="594" page="201" line="2" linktext="true" />.
+Für den Autor des anonymen <titel>Merkur</titel>-Beitrags, der Hamanns <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> veranlasste, hielt Hamann zunächst <link ref="herder" linktext="false">Herder</link> (vgl. <intlink letter="505" page="360" line="14" linktext="true" />), später <link ref="stolz-jj" linktext="true" /> (vgl. <intlink letter="573" page="139" line="29" linktext="true" />). Letztlich bekannte sich Häfeli dazu, vgl. <intlink letter="585" page="173" line="17" linktext="true" />, ebenso Hamanns Antwort <intlink letter="594" page="201" line="2" linktext="true" />.
 </eintrag>
 </subsection>
 <subsection id="haefeli-sendschreiben" type="neuzeit" sort="20">
 <lemma>Häfeli, <titel>Sendschreiben an den Bremischen Beantworter</titel></lemma>
 <eintrag>
 <titel>Sendschreiben an den Bremischen Beantworter der Lavaterschen eigentlichen Meynung</titel> (o.O. 1776). Digitalisat: <wwwlink address="https://books.google.de/books?id=9PA3zRBIcicC">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="haefeli-predigten" type="neuzeit" sort="30">
+<lemma>Häfeli, <titel>Predigten</titel></lemma>
+<eintrag>
+<titel>Predigten und Predigtfragmente gesä’t dem Tage der Garben</titel> (Zürich, Winterthur: Füeßli 1778–1782). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-86821">ZB Zürich: Zentralbibliothek Zürich, Gal Sp 238, 239</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6908,7 +7025,7 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 
 <kommentar id="hahn" type="neuzeit">
 <lemma>Johann Friedrich Hähn</lemma>
-<eintrag>1710–1789. Abt in Klosterbergen, Pastor an der Dreifaltigkeitskirche und Inspektor der Realschule in Berlin, 1771 kurzzeitig unter dem Verdacht des Pietismus von Friedrich II. v. Preußen seines Amtes enthoben, dann Generalsuperintendent in Ostfriesland. <wwwlink address="https://www.deutsche-biographie.de/pnd11870009X.html#adbcontent">Kämmel, Heinrich: Hähn, Johann Friedrich in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;373f</wwwlink>.
+<eintrag>1710–1789. Abt in Klosterbergen, Pastor an der Dreifaltigkeitskirche und Inspektor der Realschule in Berlin, 1771 kurzzeitig unter dem Verdacht des Pietismus von <link ref="friedrich-II" linktext="true" /> seines Amtes enthoben, dann Generalsuperintendent in Ostfriesland. <wwwlink address="https://www.deutsche-biographie.de/pnd11870009X.html#adbcontent">Kämmel, Heinrich: Hähn, Johann Friedrich in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;373f</wwwlink>.
 </eintrag>
 <subsection id="hahn-gehorsam" type="neuzeit" sort="10">
 <lemma>Hähn, <titel>Glaubensgehorsam</titel></lemma>
@@ -7353,7 +7470,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;25–33.
 <lemma>Hamann, <titel>Philologische Einfälle</titel></lemma>
 <eintrag>
 <titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift. Entworfen vom Magus in Norden. Im Weinmonate 1772.</titel><line type="break" />
-Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift, in Kombination mit <link ref="hamann" subref="hamann-salomon" linktext="true" />, vgl. <intlink letter="380" page="23" line="15" linktext="true" />; im Frühjahr 1774 sandte Hamann das Manuskript an <link ref="moser" linktext="true" /> (<intlink letter="400" page="70" line="31" linktext="true" />), der es später an <link ref="herder" linktext="true" /> gab; zur abenteuerlichen Geschichte des Manuskripts vgl. zusammenfassend N&#x202F;III,423, zur politischen Brisanz <link ref="nad-j-1949b" linktext="true" />, ebd.,&#x202F;205f.<line type="break" />
+Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift, in Kombination mit <link ref="hamann" subref="hamann-salomon" linktext="true" />, vgl. <intlink letter="380" page="23" line="15" linktext="true" />; im Frühjahr 1774 sandte Hamann das Manuskript an <link ref="moser" linktext="true" /> (<intlink letter="400" page="70" line="31" linktext="true" />), der es 1776 an <link ref="herder" linktext="true" /> gab (im November 1776 gab dieser es Goethe zu lesen, vgl. Goethe: Briefe, Bd. 3 II A, Berlin u.a. 2014), S.&#x202F;429–431); zur abenteuerlichen Geschichte des Manuskripts vgl. zusammenfassend N&#x202F;III,423, zur politischen Brisanz <link ref="nad-j-1949b" linktext="true" />, ebd.,&#x202F;205f.<line type="break" />
 Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
 </eintrag>
@@ -7503,6 +7620,12 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <titel>Zwey Scherflein zur neusten Deutschen Literatur</titel> (s.l. [Weimar: <link ref="hoffmann-kl" linktext="false">Hoffmann</link> 1779] 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235921">ULB Münster: N. Hamann Bd. 85–87</wwwlink>. N&#x202F;III,229–242.
 </eintrag>
 </subsection>
+<subsection id="hamann-dialogues" type="neuzeit" sort="730">
+<lemma>Hamann (Übers.), <titel>Dialogues concerning natural Religion</titel></lemma>
+<eintrag>
+Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Er wollte sie durch <link ref="hartknoch" linktext="false">Hartknoch</link> verlegen lassen (vgl. <intlink letter="596" page="205" line="25" linktext="true" />), das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung</link> bekannt wurde. Lediglich ein Bruchteil der geleisteten Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
+</eintrag>
+</subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="750">
 <lemma>Hamann, <titel>Metakritik über den Purismum der Vernunft</titel></lemma>
 <eintrag>
@@ -7633,6 +7756,18 @@ Dritte, durchaus vermehrte und verbesserte Ausgabe (von <link ref="meusel" linkt
 </subsection>
 </kommentar>
 
+<kommentar id="handel" type="neuzeit">
+<lemma>Georg Friedrich Händel</lemma>
+<eintrag>1685–1759. Komponist aus Halle, wirkte vor allem in England, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118544489.html#ndbcontent">Redlich, Hans Ferdinand: Händel, Georg Friedrich, in: <titel>NDB</titel>&#x202F;7 (1966), S.&#x202F;438–441</wwwlink>.
+</eintrag>
+<subsection id="handel-messiah" type="neuzeit">
+<lemma>Händel, <titel>Messiah</titel></lemma>
+<eintrag>
+Uraufführung 1742 in Dublin, ab 1775 auch in Deutschland, 1780 von Herder für eine Aufführung in Weimar übersetzt, der daraufhin das Libretto an Hamann schickte, vgl. SWS&#x202F;XXVIII, S.&#x202F;105–114 und 556
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="hanow" type="neuzeit">
 <lemma>Michael Christoph Hanow</lemma>
 <eintrag>1696–1773. Rektor in Danzig.
@@ -7680,7 +7815,7 @@ Dritte, durchaus vermehrte und verbesserte Ausgabe (von <link ref="meusel" linkt
 
 <kommentar id="harris" type="neuzeit">
 <lemma>James Harris</lemma>
-<eintrag>1709–1780. Engl. Gelehrter, siehe <wwwlink address="https://www.theodora.com/encyclopedia/h/james_harris.html">Encyclopedia Britannica 1911</wwwlink>.</eintrag>
+<eintrag>1709–1780. Englischer Gelehrter, siehe <wwwlink address="https://www.theodora.com/encyclopedia/h/james_harris.html">Encyclopedia Britannica 1911</wwwlink>.</eintrag>
 <subsection id="harris-hermes" type="neuzeit">
 <lemma>Harris, <titel>Hermes</titel></lemma>
 <eintrag>
@@ -7707,6 +7842,12 @@ Dritte, durchaus vermehrte und verbesserte Ausgabe (von <link ref="meusel" linkt
 <kommentar id="hartknoch-j" type="neuzeit">
 <lemma>Johann Friedrich Hartknoch jun.</lemma>
 <eintrag>1768–1819. Sohn von <link ref="hartknoch" linktext="false">Johann Friedrich</link> und <link ref="hartknoch-a" linktext="true" />, Patenkind <link ref="herder" linktext="false">Herders</link>, 1779/1780 in St. Petersburg, 1780–1784 Buchhändlerlehre in Zürich, 1789 Nachfolger seines Vaters.
+</eintrag>
+</kommentar>
+
+<kommentar id="hartknoch-aj" type="neuzeit">
+<lemma>Albertine Hartknoch jun.</lemma>
+<eintrag>1775–1846. Tochter von <link ref="hartknoch" linktext="false">Johann Friedrich</link> und <link ref="hartknoch-a" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -7741,7 +7882,7 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="hartung-gl" type="neuzeit">
 <lemma>Gottlieb Leberecht Hartung</lemma>
-<eintrag>1747–1797. Buchhändler in Königsberg, Sohn von <link ref="hartung-hj" linktext="true" /> und <link ref="hartung-h" linktext="true" />; 1759 Lehrling in der Hartungschen Buchdruckerei, die ihm seine Mutter nach dem Tod ihrer drei Ehemänner ab Mitte der 1760er Jahre übergab; erhielt 1771 das Privileg seines Vaters; Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Hamann versuchte ihn für den Verlag der <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfälle</titel></link> zu gewinnen (vgl. <intlink letter="380" page="23" line="15" linktext="true" />) und zerstritt sich mit ihm, nachdem sich das Projekt 1772 zerschlug; erst 1779/80 gab es wieder eine leichte Annäherung zu seiner Buchhandlung infolge des Niedergangs der <link ref="kanter" linktext="false">Kanterschen Buchhandlung</link> (vgl. <intlink letter="574" page="145" line="28" linktext="true" />), schnell erfolgte aber eine erneute Entzweiung wegen Hartungs Unzuverlässigkeit in der Besorgung eines ‚Päckchens‘ aus Weimar von Herder.  Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz27948.html#adbcontent">Kelchner, Ernst: Hartung, Johann Heinrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;713–715</wwwlink> und Carl Richard Dreher: Der Buchhandel und die Buchhändler zu Königsberg in Preußen im 18. Jahrhundert. In: Archiv für Geschichte des Deutschen Buchhandels 18 (1896), S.&#x202F; 171f. u. 204–206.
+<eintrag>1747–1797. Buchhändler in Königsberg, Sohn von <link ref="hartung-hj" linktext="true" /> und <link ref="hartung-h" linktext="true" />; 1759 Lehrling in der Hartungschen Buchdruckerei, die ihm seine Mutter nach dem Tod ihrer drei Ehemänner ab Mitte der 1760er Jahre übergab; erhielt 1771 das Privileg seines Vaters; Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Hamann versuchte ihn für den Verlag der <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfälle</titel></link> zu gewinnen (vgl. <intlink letter="380" page="23" line="15" linktext="true" />) und zerstritt sich mit ihm, nachdem sich das Projekt 1772 zerschlug; erst 1779/80 gab es wieder eine leichte Annäherung zu seiner Buchhandlung infolge des Niedergangs der <link ref="kanter" linktext="false">Kanterschen Buchhandlung</link> (vgl. <intlink letter="574" page="145" line="28" linktext="true" />), schnell erfolgte aber eine erneute Entzweiung wegen Hartungs Unzuverlässigkeit in der Besorgung eines ‚Päckchens‘ aus Weimar von Herder. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz27948.html#adbcontent">Kelchner, Ernst: Hartung, Johann Heinrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;713–715</wwwlink> und Carl Richard Dreher: Der Buchhandel und die Buchhändler zu Königsberg in Preußen im 18. Jahrhundert. In: Archiv für Geschichte des Deutschen Buchhandels 18 (1896), S.&#x202F; 171f. u. 204–206.
 </eintrag>
 </kommentar>
 
@@ -8024,6 +8165,20 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </subsection>
 </kommentar>
 
+<kommentar id="hertzberg" type="neuzeit">
+<lemma>Ewald Friedrich von Hertzberg</lemma>
+<eintrag>1725–1795. Seit 1763 Kabinettsminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, brandenburg-preußischer Außenminister und politischer Publizist, v.a. über die Berliner Akademie; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116754974.html#ndbcontent ">Skalweit, Stephan: Hertzberg, Ewald Graf von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;715–717.</wwwlink>
+</eintrag>
+<subsection id="hertzberg-causes" type="neuzeit">
+<lemma>Hertzberg, <titel>Causes de la supériorité des germains sur les romains</titel></lemma>
+<eintrag>
+<titel>
+    Dissertation tendant a expliquer les causes de la supériorité des germains sur les romains et a prouver que le nord de la germanie ou teutonie entre le rhin et la vistule et principalment la presente monarchie prussienne est la patrie originaire de ces nations héroiques […] Lue dans l’assemblée publique de l’academie des sciences et belles-lettres de Berlin le 27. janvier 1780 par Mr. de Hertzberg</titel> (Berlin: Decker 1780). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id321826280">SLUB Dresden: Ant.Germ.105,26</wwwlink>.<line type="break" />
+    Übers.: <titel>Abhandlung worin man die Ursachen der Ueberlegenheit der Teutschen über die Römer zu entwickeln, und zu beweisen sucht, daß der Norden des alten Teutschlands zwischen dem Rhein und der Weichsel und vorzüglich die gegenwärtige preussische Monarchie das Stammland der heroischen Nationen gewesen sey […] Abgelesen in der öffentlichen Versammlung der Akademie der Wissenschaften und schönen Künste zu Berlin, den 27. Januar 1780, von E. F. von Hertzberg. Aus dem Französischen übersezt</titel> (Berlin: Decker 1780). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id329682741">SLUB Dresden: Ant.Germ.101.m</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="herder" type="neuzeit">
 <lemma>Johann Gottfried Herder</lemma>
 <eintrag>1744–1803. Literaturtheoretiker und Dichter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz31807.html#adbcontent">Haym, Rudolf: Herder, Johann Gottfried, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;55–100</wwwlink>. <line type="break" />
@@ -8235,6 +8390,11 @@ des N. T. aus einer morgenländischen Urquelle, Riga 775“]. <wwwlink address="
 <titel>Gebet, am Grabmaale Ihro Erlauchten der weil. regierenden Gräfin von Schaumburg-Lippe etc. Maria Barbara Eleonora gebohrnen Gräfin und Edlen Frauen zur Lippe und Sternberg etc. gehalten den 7ten September 1776. zum Baum von J. G. Herder, Schaumburg Lippischen Superintendenten</titel> (Stadthagen: Althans 1776). SWS XXXI, S.&#x202F;416–421. – Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3657301811">SLUB Dresden: Hist.Westfal.510</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="herder-busstagszettel" type="neuzeit" sort="435">
+<lemma>Herder, <titel>Bußtagszettel</titel></lemma>
+<eintrag><titel>Bußtagszettel 1776–1803</titel>, in: SWS XXI, S.&#x202F;669–706.
+</eintrag>
+</subsection>
 <subsection id="herder-erkennen-empfinden" type="neuzeit" sort="440">
 <lemma>Herder, <titel>Vom Erkennen und Empfinden der menschlichen Seele</titel></lemma>
 <eintrag>
@@ -8284,10 +8444,22 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <titel>ΜΑΡΑΝ. ΑΘΑ. Das Buch von der Zukunft des Herrn, des Neuen Testaments Siegel</titel> (Riga: Hartknoch 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10413471-1">BSB München: Exeg. 1351 g</wwwlink>. – SWS IX, S.&#x202F;101–288. 
 </eintrag>
 </subsection>
+<subsection id="herder-gouvernement" type="neuzeit" sort="520">
+<lemma>Herder, <titel>Dissertation sur l’influence des Sciences sur le Gouvernement et du Gouvernement sur les Sciences</titel></lemma>
+<eintrag>
+<titel>Dissertation sur l’influence des Sciences sur le Gouvernement et du Gouvernement sur les Sciences, Qui a remporté le prix proposé par l’académie royale des sciences et belles-lettres pour l’année 1779</titel> (Berlin: Decker 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10688267-6">BSB München: 4 Pol.g. 257 n</wwwlink>. 
+</eintrag>
+</subsection>
 <subsection id="herder-briefe-theologie" type="neuzeit" sort="600">
 <lemma>Herder, <titel>Briefe, das Studium der Theologie betreffend</titel></lemma>
 <eintrag>
 <titel>Briefe, das Studium der Theologie betreffend</titel> (4 Tle., Weimar: Hoffmann 1780–1781). Digitalisat Tl.&#x202F;1 und 2 (1780): <wwwlink address="https://data.onb.ac.at/rep/1063BB3B">ÖNB Wien: *31.F.26.(Vol.1.2) ALT PRUNK</wwwlink>. Tl.&#x202F;3 und 4 (1781): <wwwlink address="https://books.google.ch/books?id=l447AAAAcAAJ">Google Books</wwwlink>. – SWS X und XI. 
+</eintrag>
+</subsection>
+<subsection id="herder-einfluss-hohe-wissenschaften" type="neuzeit" sort="610">
+<lemma>Herder, <titel>Über den Einfluß der schönen in die höhern Wissenschaften</titel></lemma>
+<eintrag>
+<titel>J. G. Herder über den Einfluß der schönen in die höhern Wissenschaften</titel>, in: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=149"><titel>Abhandlungen der Baierischen Akademie über Gegenstände der schönen Wissenschaften</titel>, Bd.&#x202F;1 (München 1781), S.&#x202F;139–168.</wwwlink>
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
@@ -8388,7 +8560,7 @@ Biga&#x202F;8/112: „Herodiani Historia gr. &amp; lat. Arg. 662“ und <link re
 <subsection id="hermes-sophie" type="neuzeit" sort="20">
 <lemma>Hermes, <titel>Sophiens Reise von Memel nach Sachsen</titel></lemma>
 <eintrag>
-<titel>Sophiens Reise von Memel nach Sachsen</titel> (1. Aufl. 5 Bde., Leipzig 1769–1773, 2. Aufl. 6 Bde., Leipzig 1776). Digitalisat 2. Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925944-3">BSB München: Res/P.o.germ. 2030 v-1/2</wwwlink>.
+<titel>Sophiens Reise von Memel nach Sachsen</titel> (1. Aufl. 5 Bde., Leipzig 1770–1773; 2. Aufl. 6 Bde., Leipzig 1776, 3. Aufl. Leipzig 1778) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;158/478: „Sophiens Reise von Memel nach Sachsen, 1.—5ter Th. Leipz. 772“]. Digitalisat 2. Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925944-3">BSB München: Res/P.o.germ. 2030 v-1/2</wwwlink>. 3.&#x202F;Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10924874-2">BSB München: Res/P.o.germ. 613-1.</wwwlink>
 </eintrag>
 </subsection>
 <subsection id="hermes-gelegenheitspredigten" type="neuzeit" sort="30">
@@ -8571,7 +8743,7 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 
 <kommentar id="hill-c" type="neuzeit">
 <lemma>Christian Hill</lemma>
-<eintrag>Gest. 1809. Studierte Theologie in Königsberg; begab sich mittellos auf Reisen, wobei ihn Hamann durch finanzielle Zuwendungen und Empfehlungsbriefe unterstützte; stand später Hamanns Haushalt vor, als er mit seinem Sohn 1787 nach Pempelfort reiste.</eintrag>
+<eintrag>Gest. 1809. Studierte Theologie in Königsberg; begab sich mittellos auf Reisen, wobei ihn Hamann durch finanzielle Zuwendungen und Empfehlungsbriefe unterstützte; stand später Hamanns Haushalt vor, als dieser mit seinem Sohn 1787 nach Pempelfort reiste.</eintrag>
 </kommentar>
 
 <kommentar id="hill-j" type="neuzeit">
@@ -8610,6 +8782,17 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 <eintrag>1729–?. Okulist und ordentlicher Professor des Berliner Collegium Medicum, Starstecher, galt als Scharlatan.</eintrag>
 </kommentar>
 
+<kommentar id="hilscher-pc" type="neuzeit">
+<lemma>Paul Christian Hilscher</lemma>
+<eintrag>1666–1730. Lutherischer Theologe und Schriftsteller, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120295997.html#adbcontent">Wagenmann, Julius August: Hilscher, Paul Christian, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;431</wwwlink>.
+</eintrag>
+<subsection id="hilscher-scheblimini" type="neuzeit">
+<lemma>Hilscher, <titel>Scheblimini</titel></lemma>
+<eintrag>
+<titel>Von D. Martini Lutheri, Vermeinten Spiritu Familiari Oder deßen so genannten Scheblimini, Worauff er sich nicht anders, Als auf Gott im Himmel selbst, verlassen, Auch von demselbigen zu Wiederherstellung der, in der Augspurgischen Confession, enthaltenen Evangel. Wahrheit, gar sonderlich ausgerüstet, und beschützet worden, Zu erbaulicher Betrachtung des herrlichen Vortheils aus dem Sitzen Christi zur Rechten Gottes</titel> (Dresden: G. C. Hilscher 1730) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;49/493: „P. L. Hilscher von D. Martin Luthers spiritu familiari, Scheblimini, Dresd. 730.“]. Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id428354882">SLUB Dresden: 4.A.2248</wwwlink>, <wwwlink address="https://books.google.de/books?id=haJdAAAAcAAJ">Google Books</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="hindersin" type="neuzeit">
 <lemma>Daniel Friedrich Hindersin</lemma>
 <eintrag>1704–1780. Kriegs- und Steuerrat, ab 1752 dirigierender Bürgermeister in Königsberg, Vorsitzer des <link ref="magistrat" linktext="false">Magistrats</link> und des bürgermeisterlichen Pupillenamtes, verantwortlich für Waisen- und Vormundschaftssachen, ‚Pupillaris‘. Bei Hamanns Rechtsstreit 1769 um die Vormundschaft von <link ref="hamann-jc" linktext="true" /> und das Erbe von <link ref="hamann-vjc" linktext="true" /> war er auf der Seite von <link ref="nuppenau-jp" linktext="true" /> (vgl. HKB 361–367).</eintrag>
@@ -8627,7 +8810,7 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 
 <kommentar id="hinz" type="neuzeit">
 <lemma>Jakob Friedrich Hinz</lemma>
-<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; kaufte 1769 mit <link ref="steidel" linktext="true" /> die Mitauer Buchhandlung <link ref="hartknoch" linktext="false">Hartknochs</link>; ab 1771/72 selbständiger Buchhändler und Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach Bankrott 1779 als Hofmeister auf Reisen, Notar, Landgerichtsrat in Pilten, 1785 Notar und Stadtsekretär in Pernau. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>. Seine Bücher waren schon im 18. Jh. kaum erreichbar.</eintrag>
+<eintrag>1743–1787. Während der russischen Besatzung Königsbergs Hauslehrer bei General <link ref="korff-fa" linktext="false">Korff</link>; 1762 Kollaborator an der Domschule in Riga; kaufte 1769 mit <link ref="steidel" linktext="true" /> die Mitauer Buchhandlung <link ref="hartknoch" linktext="false">Hartknochs</link>; ab 1771/72 selbständiger Buchhändler und Verleger in Mitau, u.a. von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> und <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />, nach dem Bankrott 1779 als Hofmeister vmtl. bei <link ref="fircks-fe" linktext="true" />, außerdem mit <link ref="stoltz-c" linktext="true" /> befreundet und auf Reisen; Notar, Landgerichtsrat in Pilten, 1785 Notar und Stadtsekretär in Pernau. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd103250790X.html">Deutsche Biographie</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/en/view/bsb00000341?page=314,315">Johann Friedrich von Recke: Allgemeines Schriftsteller- und Gelehrten-Lexicon der Provinzen Livland, Esthland und Kurland (Mitau 1829), II, S.&#x202F;313</wwwlink>. Seine Bücher waren schon im 18. Jh. kaum erreichbar.</eintrag>
 <subsection id="hinz-galimafreen" type="neuzeit" sort="10">
 <lemma>Hinz [mit <link ref="hippel" linktext="true" />], <titel>Galimafreen</titel></lemma>
 <eintrag>
@@ -8662,7 +8845,7 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 
 <kommentar id="hippel" type="neuzeit">
 <lemma>Theodor Gottlieb Hippel</lemma>
-<eintrag>1741–1796. Schriftsteller und Politiker. 1762 Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>, 1765 Advokat am Königsberger Stadtgericht, 1773 Königlicher Kriminalrat, ab Dezember 1780 Erster dirigierender Bürgermeister und Polizeidirektor von Königsberg, 1786 Geh. Kriegsrat und Stadtpräsident von Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz32479.html#adbcontent">Brenning: Hippel, Theodor Gottlieb von, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;463–466</wwwlink>. 
+<eintrag>1741–1796. Schriftsteller und Politiker. 1762 Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>, 1765 Advokat am Königsberger Stadtgericht, 1773 Königlicher Kriminalrat; am 7. Dezember 1780 zum Dirigierenden Bürgermeister und Polizeidirektor von Königsberg ernannt und am 4. Januar 1781 ins Amt introduziert (als Nachfolger von <link ref="hindersin" linktext="false">Hindersin</link>), 1786 Geh. Kriegsrat und Stadtpräsident, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz32479.html#adbcontent">Brenning: Hippel, Theodor Gottlieb von, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;463–466</wwwlink>. 
 </eintrag>
 <subsection id="hippel-galimafreen" type="neuzeit" sort="10">
 <lemma>Hippel [mit <link ref="hinz" linktext="true" />], <titel>Galimafreen nach dem heutigen Geschmack</titel></lemma>
@@ -8759,6 +8942,12 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 <lemma>Hirzel, <titel>Das Bild eines wahren Patrioten</titel></lemma>
 <eintrag>
 <titel>Das Bild eines wahren Patrioten, in einem Denkmal auf H. Blaarer v. Wartensee</titel> (Zürich: Orell und Gessner 1767).
+</eintrag>
+</subsection>
+<subsection id="hirzel-sulzer" type="neuzeit" sort="30">
+<lemma>Hirzel, <titel>Über Sulzer den Weltweisen</titel></lemma>
+<eintrag>
+<titel>Hirzel an Gleim über Sulzer den Weltweisen</titel> (2 Bde., Zürich Winterthur: Füeßli, Steiner 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10067249-8">BSB München: Biogr. 1132-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -8955,8 +9144,8 @@ Dt. Übers. zitiert nach: Wolfgang Schadewaldt (Hg.): Homer, Ilias (Düsseldorf,
 <eintrag>
 Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Flaccus, Sämtliche Werke. Lateinisch/Deutsch</titel> (Stuttgart 2006).<line type="break" />
 <titel>Q. Horatius Flaccus, Ex Recensione &amp; cum Notis atque Emendationibus Richardi Bentleii. Editio Tertia</titel> (Amsterdam: Wetstein 1728) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;4/64: „Q. Horatius Flaccus ex. ed. Bentleii, Amst. 728“]. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:468-1-830">UB Wuppertal: 04 ZZWX7682(3)</wwwlink>.<line type="break" /><line type="break" />
-<titel>Q. Horatii Flacci Eclogae vna cvm Scholiis Perpetvis […] Adiecit vbi visvm est et sva textvmqve ipsvm plvrimis locis vel corrvptvm vel tvrbatvm, restitvit Willielmus Baxter. Ad cvivs secvndam editionem recvdi cvravit et varietate lectionis svisqve observationibvs avxit Io. Matthias Gesnervs</titel> (Leipzig: Breitkopf 1752) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;10/158: „Horatius Flaccus ex ed. Jo. Matth. Gesneri, Lips. 752. Donum HINZII.“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-211106">ULB Halle: AB 40 5/h, 4</wwwlink>.<line type="break" />
-<titel>Q[uintus] Horatius Flaccus, ex recensione et cum notis atque emendationibus Richardi Bentleii</titel> (Leipzig: Georg 1764) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;10/159: „Id. ex ed. Bentleii, Lips. 764. Don. Ej. Amici.“].<line type="break" />
+<titel>Q. Horatii Flacci Eclogae vna cvm Scholiis Perpetvis […] Adiecit vbi visvm est et sva textvmqve ipsvm plvrimis locis vel corrvptvm vel tvrbatvm, restitvit Willielmus Baxter. Ad cvivs secvndam editionem recvdi cvravit et varietate lectionis svisqve observationibvs avxit Io. Matthias Gesnervs</titel> (Leipzig: Breitkopf 1752) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;10/158: „Horatius Flaccus ex ed. Jo. Matth. Gesneri, Lips. 752. Donum <link ref="hinz" linktext="false">HINZII</link>.“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-211106">ULB Halle: AB 40 5/h, 4</wwwlink>.<line type="break" />
+<titel>Q[uintus] Horatius Flaccus, ex recensione et cum notis atque emendationibus Richardi Bentleii</titel> (Leipzig: Georg 1764) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;10/159: „Id. ex ed. Bentleii, Lips. 764. Don. <link ref="hinz" linktext="false">Ej.</link> Amici.“].<line type="break" />
 <titel>Qvinti Horatius Flaccii Poemata cum gratia &amp; privilegio Serenissimi electoris Saxoniae scholiis sive annotationibus commentarii instar, illustrata à Joanne Bond. Accesserunt Parodiae in libros Odarum &amp; Epodon, rebus sacris maximam partem accomodatae. M. David. Hoppii, item aliorum cl. virorum</titel> (Braunschweig: Zilliger 1668) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;15/234: „Horatius ex ed. Bondii, Brunsw. 668“].</eintrag>
 </subsection>
 <subsection id="horaz-oden" type="neuzeit" sort="20">
@@ -8964,7 +9153,7 @@ Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Fl
 <eintrag>Oden, lat. carmina<line type="break" />
 Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Flaccus, Sämtliche Werke. Lateinisch/Deutsch</titel> (Stuttgart 2006).<line type="break" />
 <titel>Quinti Horatii Flacii Odarum libri V et de arte poetica lib. unus, Odae. Des Quintus Horatius Flaccus Oden fünf Bücher und von der Dichtkunst ein Buch</titel> (Halle: 1752) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;9/152: „Horatius Flaccus Oden und von der Dichtkunst mit S. G. Langens Übersetzung Halle 752“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3674732754">SLUB Dresden: Lit.Rom.A.1421</wwwlink>.<line type="break" />
-<titel>Q. Horatii Flacci poemata ex castigationibus observationibusque Bentleii, Cuningamii et Sanadonis emendata</titel>, ed. Michel Guyot de Merville (Hamburg: Vandenhoeck 1733) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;17/268: „Q. Horatii Flacci Poemata ex ed. M. G. Meruillii, Hamb. 733. (Donum HERDERI nostri)“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=90hWAAAAcAAJ">Google Books</wwwlink>.</eintrag>
+<titel>Q. Horatii Flacci poemata ex castigationibus observationibusque Bentleii, Cuningamii et Sanadonis emendata</titel>, ed. Michel Guyot de Merville (Hamburg: Vandenhoeck 1733) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;17/268: „Q. Horatii Flacci Poemata ex ed. M. G. Meruillii, Hamb. 733. (Donum <link ref="herder" linktext="false">HERDERI</link> nostri)“]. Digitalisat: <wwwlink address="https://books.google.de/books?id=90hWAAAAcAAJ">Google Books</wwwlink>.</eintrag>
 </subsection>
 <subsection id="horaz-oden-solms" type="neuzeit" sort="30">
 <lemma>Solms-Wildenfels, <titel>Uebersetzung der Oden des Horaz</titel></lemma>
@@ -9100,6 +9289,14 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 <eintrag>
 <titel>The History of England</titel> (6&#xA0;Bde., Edinburgh 1754/61).<line type="break" />
 Übers.: <titel>Geschichte von Grossbritannien. Aus dem Englischen des David Hume Esq.</titel>, übers. von <link ref="dusch" linktext="true" /> (4&#xA0;Bde., Breslau und Leipzig: Johann Ernst Meyer 1762/71). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11211786">SSB Augsburg: 4 Gs 1139-1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="hume-dialogues" type="neuzeit" sort="30">
+<lemma>Hume, <titel>Dialogues concerning natural Religion</titel></lemma>
+<eintrag>
+<titel>Dialogues concerning natural Religion.</titel> By David Hume, Esq. The second edition (London 1779). – Postume Ausgabe, hrsg. von David Humes Neffen; eine first edition erschien in geringer Auflage und kleiner Type ebenfalls London 1779, vgl. <wwwlink address="https://archive.org/details/in.ernet.dli.2015.507028/page/n11">Kemp: Humes Dialogues Concerning Natural Religion (London 1947)</wwwlink>; Hume schrieb die <titel>Dialogues</titel> 1751–1755, revidierte die Schrift aber noch im Todesjahr 1776; wegen des heiklen Themas beschloss er, sie erst postum zu veröffentlichen. – Digitalisat der 2nd edition: <wwwlink address="https://books.google.de/books?id=E7dbAAAAQAAJ">Google Books</wwwlink>.<line type="break" />
+Übers.: <titel>Gespräche über natürliche Religion von David Hume.</titel> Nach der zwoten Englischen Ausgabe [übersetzt von <wwwlink address="https://eip.hueb-staging.iued.uni-heidelberg.de/en/person/275/">Carl Gottfried Schreiter</wwwlink>]. Nebst einem Gespräch über den Atheismus von Ernst Platner (Leipzig: Weygand 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">SSB Augsburg: Phil 1716</wwwlink>.
+<line type="break" />Hamann setzte ebenfalls zu einer Übersetzung an, vgl. <link ref="hamann" subref="hamann-dialogues" linktext="true" />
 </eintrag>
 </subsection>
 </kommentar>
@@ -9377,7 +9574,7 @@ J
 
 <kommentar id="jerusalem-kw" type="neuzeit">
 <lemma>Karl Wilhelm Jerusalem</lemma>
-<eintrag>1747–1772. Sohn von <link ref="jerusalem-jfw" linktext="true" />, Jurist, Schriftsteller und Vorbild für <link ref="goethe" subref="goethe-werther" linktext="false">Goethes Werther</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz37220.html#adbcontent">Elschenbroich, Adalbert: Jerusalem, Karl Wilhelm, in: <titel>NDB</titel> 10 (1974), S.&#x202F;416–418</wwwlink>.
+<eintrag>1747–1772. Sohn von <link ref="jerusalem-jfw" linktext="true" />, Jurist, Schriftsteller und ein Vorbild für <link ref="goethe" subref="goethe-werther" linktext="false">Goethes Werther</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz37220.html#adbcontent">Elschenbroich, Adalbert: Jerusalem, Karl Wilhelm, in: <titel>NDB</titel> 10 (1974), S.&#x202F;416–418</wwwlink>.
 </eintrag>
 <subsection id="jerusalem-philosophische-aufsätze" type="neuzeit" >
 <lemma>Jerusalem, <titel>Philosophische Aufsätze</titel></lemma>
@@ -9419,6 +9616,12 @@ J
 <titel>Allgemeines Gelehrten-Lexicon. Darinne die Gelehrten aller Stände sowohl männ- als weiblichen Geschlechts, welche vom Anfange der Welt bis auf ietzige Zeit gelebt, und sich der gelehrten Welt bekannt gemacht; Nach ihrer Geburt, Leben, merckwürdigen Geschichten, Absterben und Schrifften aus den glaubwürdigsten Scribenten in alphabetischer Ordnung beschrieben werden</titel> (4&#x202F;Bde., Leipzig: Gleditsch 1750–1751) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;77/58: „Jöchers Gelehrten-Lexicon, 1–4ter Th. Leipz. 750. 57“]. Digitalisat, Tl.&#x202F;1 = A–C: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-627240">ULB Halle: Nv 155 b, 4Öʿ (1)</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="joel" type="neuzeit">
+<lemma>Dr. Joel</lemma>
+<eintrag>In den 1780er Jahren praktizierender Arzt in Berlin, befreunde mit <link ref="herz" linktext="true" />.
+</eintrag>
 </kommentar>
 
 <kommentar id="john" type="neuzeit">
@@ -9840,8 +10043,8 @@ Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bs
 
 <kommentar id="kanter" type="neuzeit">
 <lemma>Johann Jakob Kanter</lemma>
-<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften sowie der <link ref="konigsbergsche-gelehrte-p-z" linktext="false"><titel>KGPZ</titel></link>) und Unternehmer in Königsberg, <wwwlink address="https://www.geonames.org/7532600">Elbing</wwwlink> (Filiale), <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink> (Druckerei) und <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>, Lotteriedirektor, Papiermüller, Erbherr von <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>. Errichtete anstelle der Papiermühle eine Schriftgießerei und eine Fabrik für Pressspanplatten, für deren Anlage Friedrich II. 12.000 Taler bereitstellte; zum Niedergang seiner Unternehmungen, auch seines Buchladens in den späten 1770ern vgl. <intlink letter="545" page="54" line="11" linktext="false">HKB 545</intlink> und zu finanziellen Details <intlink letter="574" page="149" line="17" linktext="false"></intlink>; 1781 gab er die Buchhandlung an seinen Angestellten Wagner und den Berliner Buchhändler Carl Gottlob Dengel ab. Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
-Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Ort, den Hamann häufig besuchte, und wo er vielerlei Leute traf. Er wurde 1760 in Kanters väterlichem Haus in der Altstädtischen Langgasse 23 eröffnet und zog Ende August 1768 um in das nach dem großen Brand von 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2. Über dem Eingang hing ein großer Preußenadler und im Inneren standen Büsten einerseits von Pindar, Caesar, Tacitus, Plutarch und anderen, andererseits von Kant, Scheffner, Hippel, Lindner und anderen (vgl. <intlink letter="351" page="419" line="26" linktext="true" />); später ebenso ein Gemälde von Hamann (vgl. <intlink letter="398" page="68" line="20" linktext="true" />).</eintrag>
+<eintrag>1738–1786. Buchhändler, Verleger (auch von Hamanns Schriften sowie der <link ref="konigsbergsche-gelehrte-p-z" linktext="false"><titel>KGPZ</titel></link>) und Unternehmer in Königsberg, <wwwlink address="https://www.geonames.org/7532600">Elbing</wwwlink> (Filiale), <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink> (Druckerei) und <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>, Lotteriedirektor, Papiermüller, Erbherr von <wwwlink address="https://www.geonames.org/3083196">Trutenau</wwwlink>. Errichtete anstelle der Papiermühle eine Schriftgießerei und eine Fabrik für Pressspanplatten, für deren Anlage <link ref="friedrich-II" linktext="true" /> 12.000 Taler bereitstellte; zum Niedergang seiner Unternehmungen, auch seines Buchladens in den späten 1770ern vgl. <intlink letter="545" page="54" line="11" linktext="false">HKB 545</intlink> und zu finanziellen Details <intlink letter="574" page="149" line="17" linktext="false"></intlink>; 1780/81 gab er die Buchhandlung an seinen ehemaligen Angestellten <link ref="wagner-fd" linktext="false">Wagner</link> und den Berliner Buchhändler <link ref="dengel-cg" linktext="true" /> ab, zum weiteren Schicksal seiner Buchhandlung und Zeitung vgl. <wwwlink address="http://digital.slub-dresden.de/id405271263-18960180/207">Dreher: Der Buchhandel und die Buchhändler zu Königsberg in Preußen im 18. Jahrhundert, S.&#x202F;197–200</wwwlink>. Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz39753.html#ndbcontent">Göpfert, Herbert G.: Kanter, Johann Jakob, in: <titel>NDB</titel>&#x202F;11 (1977), S.&#x202F;125f.</wwwlink><line type="break" />
+Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Ort, den Hamann häufig besuchte, und wo er vielerlei Leute traf. Er wurde 1760 in Kanters väterlichem Haus in der Altstädtischen Langgasse 23 eröffnet und zog Ende August 1768 um in das nach dem großen Brand von 1764 neu errichtete Löbenichter Rathaus in der Mönchhofgasse 2. Über dem Eingang hing ein großer Preußenadler und im Inneren standen Büsten einerseits von Pindar, Caesar, Tacitus, Plutarch und anderen, andererseits von Kant, Scheffner, Hippel, Lindner und anderen (vgl. <intlink letter="351" page="419" line="26" linktext="true" />); später für einige Jahre auch ein Gemälde von Hamann (vgl. <intlink letter="398" page="68" line="20" linktext="true" />).</eintrag>
 </kommentar>
 
 <kommentar id="kanter-dch" type="neuzeit">
@@ -9869,7 +10072,7 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 
 <kommentar id="karsch" type="neuzeit">
 <lemma>Anna Louisa Karsch</lemma>
-<eintrag>1722–1791. Berühmt geworden als „deutsche Sappho“ durch Gedichte auf Friedrich II. v. Preußen und seine Siege im Siebenjährigen Krieg. <wwwlink address="https://www.deutsche-biographie.de/sfz40039.html#adbcontent">Palm, Hermann: Karsch, Anna Louisa, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;421f</wwwlink>.
+<eintrag>1722–1791. Berühmt geworden als „deutsche Sappho“ durch Gedichte auf <link ref="friedrich-II" linktext="true" /> und seine Siege im Siebenjährigen Krieg. <wwwlink address="https://www.deutsche-biographie.de/sfz40039.html#adbcontent">Palm, Hermann: Karsch, Anna Louisa, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;421f</wwwlink>.
 </eintrag>
 <subsection id="karsch-sammlung" type="neuzeit" sort="10">
 <lemma>Karsch, <titel>Sammlungs-Plan</titel></lemma>
@@ -10000,14 +10203,14 @@ J. G. Lindner konnte sein Buch zur <link ref="lindner-jg" subref="schreibart" li
 
 <kommentar id="konigsbergsche-gelehrte-p-z" type="neuzeit">
 <lemma>Königsbergsche Gelehrte und Politische Zeitungen</lemma>
-<eintrag>1764–1796, erschienen montags und freitags (ab 1773 oder 1774 montags und donnerstags) im Buchladen von <link ref="kanter" linktext="true" />, später die Dengelsche Zeitungen. Hamann war von Januar bis Mai 1764 Redakteur der Zeitungen und lieferte auch danach immer wieder Beiträge und Rezensionen für sie [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;179/10: „Königsbergsche gelehrte und politische Zeitungen von 767–75“; <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 182/47: „Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.“ u. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 199/115: „Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.“].<line type="break" />
-Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelblaska.pl/dlibra/publication/68995#structure">Biblioteka Elbląska</wwwlink>.
+<eintrag>1764–1796, erschienen montags und freitags (ab 1773 oder 1774 montags und donnerstags) im Buchladen von <link ref="kanter" linktext="true" />, ab 1781 die Dengelsche Zeitungen. Hamann war von Januar bis Mai 1764 Redakteur der Zeitungen und lieferte auch danach immer wieder Beiträge und Rezensionen für sie [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;179/10: „Königsbergsche gelehrte und politische Zeitungen von 767–75“; <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 182/47: „Koenigsbergsche gelehrte und politische Zeitungen, 764. Donum.“ u. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 199/115: „Königsbergsche gelehrte und politische Zeitungen 764. 65. 66. 73. 74. 75. 76. incompl.“].<line type="break" />
+Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771–72 sind vollständig erhalten, danach nur einzelne Beiträge; vgl. <link ref="hag-g-2016" linktext="false">Hagelweide: <titel>Ostpreußische Presse von den Anfängen bis 1945,</titel> S.&#x202F;233f</link>. Digitalisate, Ausgaben 1764/65: <wwwlink address="https://dlibra.bibliotekaelblaska.pl/dlibra/publication/68995#structure">Biblioteka Elbląska</wwwlink>.
 </eintrag>
 </kommentar>
 
 <kommentar id="koppe" type="neuzeit">
 <lemma>Johann Benjamin Koppe</lemma>
-<eintrag>1750–1791. 1774 Prof. der griechischen Sprache am Gymnasium in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>, 1775 Ruf nach Göttingen, 1784 Generalintendant in Gotha, 1787 in Hannover, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44518.html">Wagenmann, Julius August: Wagenmann, Julius August, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;692f.</wwwlink>
+<eintrag>1750–1791. 1774 Professor der griechischen Sprache am Gymnasium in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>, 1775 Ruf nach Göttingen, 1784 Generalintendant in Gotha, 1787 in Hannover, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz44518.html">Wagenmann, Julius August: Wagenmann, Julius August, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;692f.</wwwlink>
 </eintrag>
 <subsection id="koppe-testamentum" type="neuzeit" sort="10">
 <lemma>Koppe, <titel>Novum Testamentum Graece</titel></lemma>
@@ -10384,6 +10587,12 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <eintrag>Buchhändler und Verleger in Berlin, verlegte bspw. <link ref="melanges" linktext="true" />. Autor einer frz. Grammatik: <titel>Nouvelle grammaire theorique et pratique. oder neue franz. Sprach-Lehre zum Behuf einer leichten und bequemen Methode abgefasset […]</titel> (Halle: Verlag des Waysenhauses 1750).</eintrag>
 </kommentar>
 
+<kommentar id="knebel" type="neuzeit">
+<lemma>Karl Ludwig von Knebel</lemma>
+<eintrag>1744–1834. Preußischer Offizier, 1774 Erzieher am Weimarer Hof, Freund <link ref="goethe" linktext="false">Goethes</link> und <link ref="herder" linktext="false">Herders</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118777505.html#ndbcontent">Elschenbroich, Adalbert: Elschenbroich, Adalbert, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;169–171.</wwwlink>
+</eintrag>
+</kommentar>
+
 <kommentar id="knittel" type="neuzeit">
 <lemma>Franz Anton Knittel</lemma>
 <eintrag>1721–1792. Luth. Theologe. <wwwlink address="https://www.deutsche-biographie.de/pnd116255013.html#adbcontent">Zimmermann, Paul: Knittel, Franz Anton, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;299f</wwwlink>.
@@ -10478,7 +10687,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="korff-nf" type="neuzeit">
 <lemma>Nikolaus Friedrich v. Korff</lemma>
-<eintrag>1710–1766. Generalleutnant und Kammerherr, im Siebenjährigen Krieg nach Fermor ab 1758–60 Gouverneur des kaiserlich-russ. besetzten Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1055292683.html">Deutsche Biographie</wwwlink>.</eintrag>
+<eintrag>1710–1766. Generalleutnant und Kammerherr, im Siebenjährigen Krieg nach Fermor ab 1758–60 Gouverneur des kaiserlich-russischen besetzten Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1055292683.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="korff-fa" type="neuzeit">
@@ -10669,6 +10878,11 @@ Nach Kypkes Tod sah Hamann wohl ein Manuskript mit Zusätzen zur Forführung aus
 
 L
 
+<kommentar id="lachmann-j" type="neuzeit">
+<lemma>Joseph Lachmann</lemma>
+<eintrag>1756 bis nach 1815. Jüdischer Medizinstudent in Königsberg (immatrikuliert 1777, Dr. med. 1782), danach Arzt in Bauske, Hasenpoth und ab 1803 in St. Petersburg; veröffentlichte 1787 in Mitau die emanzipatorische Schrift <titel>Beantwortung der Bemerkungen über die Duldung der Juden in den Herzogtümern Kurland und Semgallen;</titel> siehe Hans-Jürgen Krüger: <titel>Die Judenschaft von Königsberg in Preußen 1700–1812</titel> (Marburg 1966), S.&#x202F;94.</eintrag>
+</kommentar>
+
 <kommentar id="lacombe" type="neuzeit">
 <lemma>Jacques Lacombe</lemma>
 <eintrag>1724–1801. Buchhändler, Advokat.</eintrag>
@@ -10820,7 +11034,7 @@ L
 
 <kommentar id="lattre" type="neuzeit">
 <lemma>Nicolas Constantin de Lattre</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Geheimer Rat, ab 1766 Finanzrat und einer der fünf <link ref="general-akzise-und-zoll-direktion" linktext="false">Generalregisseure</link> in der französischen Finanzverwaltung von <link ref="friedrich-II" linktext="true" />, 1772 bei der Reform der Generalregie entlassen; richtete ab 1772 in Königsberg im Auftrag Friedrich II. die <link ref="seehandlungskompanie" linktext="true" /> ein, vgl. <link ref="gaj-b-1987b" linktext="false">Gajek (Hg.): Hamann und Frankreich</link>, S.&#x202F;154f.</eintrag>
+<eintrag>Lebensdaten nicht ermittelt. Geheimer Rat, ab 1766 Finanzrat und einer der fünf <link ref="general-akzise-und-zoll-direktion" linktext="false">Generalregisseure</link> in der französischen Finanzverwaltung von <link ref="friedrich-II" linktext="true" />, 1772 bei der Reform der Generalregie entlassen; richtete ab 1772 in Königsberg im Auftrag <link ref="friedrich-II" linktext="false">Friedrichs II.</link> die <link ref="seehandlungskompanie" linktext="true" /> ein, vgl. <link ref="gaj-b-1987b" linktext="false">Gajek (Hg.): Hamann und Frankreich</link>, S.&#x202F;154f.</eintrag>
 </kommentar>
 
 <kommentar id="lau-tl" type="neuzeit">
@@ -10906,7 +11120,7 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
 
 <kommentar id="laval" type="neuzeit">
 <lemma>Jean Claude Laval</lemma>
-<eintrag>Gest. 1793, Schwager von <link ref="hartknoch" linktext="true" /> und Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge.</link></eintrag>
+<eintrag>Gest. 1793, Schwager <link ref="hartknoch" linktext="false">Hartknochs</link> und Miterbe der Firma <link ref="toussaint-jc" linktext="false">Jean-Claude Toussaints</link>; Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge.</link></eintrag>
 </kommentar>
 
 <kommentar id="lavalette" type="neuzeit">
@@ -11293,7 +11507,7 @@ Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn
 <subsection id="lessing-geist-kraft" type="neuzeit" sort="125">
 <lemma>Lessing, <titel>Über den Beweis des Geistes und der Kraft</titel></lemma>
 <eintrag>
-<titel>Über den Beweis des Geistes und der Kraft. An den Herrn Director Schumann zu Hannover</titel>  (Braunschweig 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10927792-7">BSB München: Res/Polem. 3022,12</wwwlink>.
+<titel>Über den Beweis des Geistes und der Kraft. An den Herrn Director Schumann zu Hannover</titel> (Braunschweig 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10927792-7">BSB München: Res/Polem. 3022,12</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="lessing-ernst-falk" type="neuzeit" sort="130">
@@ -11301,7 +11515,7 @@ Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn
 <eintrag>
 Gespräche 1–3 (1778): <titel>Ernst und Falk. Gespräche für Freymäurer</titel> (Wolfenbüttel 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919441-6">BSB München: Res/H.g.hum. 138 l-1/2</wwwlink>. – Von Lessing selbst übersehener Druck; <link ref="ferdinand" linktext="false">Herzog Ferdinand</link>, dem das Buch gewidmet ist, war ein Druck der Gespräche 4 und 5 nicht genehm, Manuskripte zirkulierten jedoch unter Lessings Freunden.<line type="break" />
 Gespräche 4 und 5 (1780): <titel>Ernst und Falk. Gespräche für Freymäurer. Fortsetzung</titel> (s.l. 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919442-2">BSB München: Res/H.g.hum. 138 l-1/2.</wwwlink>. – Nicht von Lessing beaufsichtigter, fehlerhafter Druck auf Grundlage eines der zirkulierenden Manuskripte, von einem Unbekannten in Druck gegeben.<line type="break" />
-Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage eines Manuskripts, das <link ref="herder" linktext="false">Herder</link> ihm schickte, in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken: Das 4. Gespräch als <titel>Fortsetzung der Beylage zum 6ten Stücke dieser Zeitung von 1779</titel> im 37.&#x202F;und 38.&#x202F;St., 7. und 10. Mai 1781, S.&#x202F;145f. u.&#x202F;149f. – das 5. Gespräch nebst der „Nachricht“ in der Beilage zu St.&#x202F;38. und im 39.&#x202F;St., 10. und 14. Mai 1781, unpag. und S.&#x202F;153f. (vgl. Gotthold Ephraim Lessings sämtliche Schriften. Hg. v. Karl Lachmann. 3. Aufl. besorgt durch Franz Muncker. Leipzig 1897, Bd.&#x202F;13, S.&#x202F;388). – Hamann druckte keine »Vorrede eines Dritten« mit, führte die mit Sternchen markierten Auslassungen im Text (v.a. bei Namen) im Gegensatz zur Ausgabe von 1780 aus, ließ zwei Asterisken mitdrucken und zeigte im Text Anmerkungen von a bis k an, ohne sie auszuführen, die sich wohl auf Lessings Anmerkungen beziehen (vgl. Lessings Werke. Vollständige Ausgabe in 25 Teilen. Hg. von Julius Petersen und Waldemar von Olshausen. Anmerkungen zu Teil 1 bis 7. Berlin, Leipzig 1929, S.&#x202F;292–294 [von Waldemar von Olshausen]). – Obwohl der Hamann-Druck in den KGPZ sowohl Lachmann als auch Olshausen bei der Erstellung ihrer Ausgaben noch vorlag, gilt er heute als verschollen.
+Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage eines Manuskripts, das <link ref="herder" linktext="false">Herder</link> ihm schickte (die Sendung kam am 24. März 1780 in Königsberg an, vgl. <intlink letter="586" page="174" line="22" linktext="true" />), in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken: Das 4. Gespräch als <titel>Fortsetzung der Beylage zum 6ten Stücke dieser Zeitung von 1779</titel> im 37.&#x202F;und 38.&#x202F;St., 7. und 10. Mai 1781, S.&#x202F;145f. u.&#x202F;149f. – das 5. Gespräch nebst der „Nachricht“ in der Beilage zu St.&#x202F;38. und im 39.&#x202F;St., 10. und 14. Mai 1781, unpag. und S.&#x202F;153f. (vgl. Gotthold Ephraim Lessings sämtliche Schriften. Hg. v. Karl Lachmann. 3. Aufl. besorgt durch Franz Muncker. Leipzig 1897, Bd.&#x202F;13, S.&#x202F;388). – Hamann druckte keine „Vorrede eines Dritten“ mit, führte die mit Sternchen markierten Auslassungen im Text (v.a. bei Namen) im Gegensatz zur Ausgabe von 1780 aus, ließ zwei Asterisken mitdrucken und zeigte im Text Anmerkungen von a bis k an, ohne sie auszuführen, die sich wohl auf Lessings Anmerkungen beziehen (vgl. Lessings Werke. Vollständige Ausgabe in 25 Teilen. Hg. von Julius Petersen und Waldemar von Olshausen. Anmerkungen zu Teil 1 bis 7. Berlin, Leipzig 1929, S.&#x202F;292–294 [von Waldemar von Olshausen]). – Obwohl der Hamann-Druck in den KGPZ sowohl Lachmann als auch Olshausen bei der Erstellung ihrer Ausgaben noch vorlag, gilt er heute als verschollen.
 </eintrag>
 </subsection>
 <subsection id="lessing-nothige-antwort" type="neuzeit" sort="150">
@@ -11312,6 +11526,16 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 <subsection id="lessing-nathan" type="neuzeit" sort="160">
 <lemma>Lessing, <titel>Nathan der Weise</titel></lemma>
 <eintrag><titel>Nathan der Weise. Ein Dramatisches Gedicht, in fünf Aufzügen.</titel> Von Gotthold Ephraim Lessing (Berlin: Voß 1779). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-20358-9">HAB Wolfenbüttel, M: Lo 4559</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="lessing-erziehung" type="neuzeit" sort="165">
+<lemma>Lessing, <titel>Die Erziehung des Menschengeschlechts</titel></lemma>
+<eintrag><titel>Die Erziehung des Menschengeschlechts</titel>. Herausgegeben von Gotthold Ephraim Lessing (Berlin: Voß 1784). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919443-8">BSB München: Res/H.g.hum. 138 mu</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="lessing-nachlass" type="neuzeit" sort="170">
+<lemma>Lessing, <titel>Theologischer Nachlaß</titel></lemma>
+<eintrag><titel>Gotthold Ephraim Lessings theologischer Nachlaß</titel> [hg. von Karl Gotthelf Lessing] (Berlin: Voß 1784). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10785923-6">BSB München: Th.u.226</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11373,6 +11597,12 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 <titel>Ueber Physiognomik; wider die Physiognomen. Zu Beförderung der Menschenliebe und Menschenkenntniß</titel> (Göttingen: Dieterich 1778, zuvor im <wwwlink address="https://musenalm.de/beitrag/132558">Goettinger Taschen Calender vom Jahr 1778, Göttingen: Dieterich 1777</wwwlink>). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10435502-4">BSB München: H.g.hum. 153 w#Beibd.1</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="lichtenberg-magazin" type="neuzeit" sort="20">
+<lemma>Lichtenberg (mit <link ref="forster-g" linktext="false">Forster</link>), <titel>Göttingisches Magazin der Wissenschaften und Litteratur</titel></lemma>
+<eintrag>
+<titel>Göttingisches Magazin der Wissenschaften und Litteratur. Herausgegeben von Georg Christoph Lichtenberg und <link ref="forster-g" linktext="true" /></titel> (5 Bde., Göttingen: Dieterich 1780–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10926833-5">BSB München: Res/Per. 109</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=012724270">ZDB</wwwlink>
+</eintrag>
+</subsection>lichtenberg-magazin
 </kommentar>
 
 <kommentar id="lieberkuehn" type="neuzeit">
@@ -11417,7 +11647,7 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 
 <kommentar id="lilienthal-eg" type="neuzeit">
 <lemma>Ernst Gottlieb Lilienthal</lemma>
-<eintrag>1745–1807. Seegerichts- Assessor in Memel, vgl. <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;318</wwwlink>.
+<eintrag>1745–1807. Seegerichts-Assessor in Memel, vgl. <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;318</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -11624,7 +11854,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 
 <kommentar id="lindner-gi" type="neuzeit">
 <lemma>Gottlob Immanuel Lindner</lemma>
-<eintrag>1734–1818. Bruder von <link ref="lindner-jg" linktext="true" />, Studium der Theologie in Königsberg; Hamanns Nachfolger als Hofmeister bei den <link ref="witten" linktext="false">v. Witten</link> in <wwwlink address="https://www.geonames.org/453987">Grünhof</wwwlink> und <wwwlink address="https://www.geonames.org/456645">Platohnen</wwwlink>; in den späten 1770ern Studium der Medizin, Arzt in Halle, Wien und Jena.</eintrag>
+<eintrag>1734–1818. Bruder von <link ref="lindner-jg" linktext="true" />, Studium der Theologie in Königsberg; Hamanns Nachfolger als Hofmeister bei den <link ref="witten" linktext="false">v. Witten</link> in <wwwlink address="https://www.geonames.org/453987">Grünhof</wwwlink> und <wwwlink address="https://www.geonames.org/456645">Platohnen</wwwlink>; in den späten 1770ern Studium der Medizin, dann Arzt in Halle, Wien und Jena.</eintrag>
 </kommentar>
 
 <kommentar id="lindner-m" type="neuzeit">
@@ -11888,7 +12118,7 @@ Dt. Übers. zitiert nach: Wilhelm Ehlers (Übers.), <titel>Lucanus, Marcus Annae
 
 <kommentar id="luise-swe" type="neuzeit">
 <lemma>Luise von Sachsen-Weimar-Eisenach</lemma>
-<eintrag>1757–1830. Geb. Prinzessin von Hessen-Darmstadt, seit 1775 die Frau von <link ref="carl-august" linktext="true" />.
+<eintrag>1757–1830. Geb. Prinzessin von Hessen-Darmstadt, seit 1775 Ehefrau von <link ref="carl-august" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -11902,8 +12132,8 @@ Dt. Übers. zitiert nach: Wilhelm Ehlers (Übers.), <titel>Lucanus, Marcus Annae
 <lemma>Lukian</lemma>
 <eintrag>Lukian von Samosata. ca.&#x202F;120&#x202F;–&#x202F;ca.&#x202F;180/200&#x202F;n.&#x202F;Chr.</eintrag>
 <subsection id="lukian-opera" type="neuzeit" sort="10">
-<lemma>Lukian, <titel>opera</titel></lemma>
-<eintrag>[<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;4/224: „Luciani Opera gr. &amp; lat. ex ed. Jo. P. Schmidii Tom. 1. Mit. apud Hinzium, 776. Donum LIBRARII.“].</eintrag>
+<lemma>Lukian, <titel>Opera</titel></lemma>
+<eintrag>Luciani Samosatensis opera graece latine cum notis selectis curavit <wwwlink address="http://d-nb.info/gnd/104281634">Petr. Schmidius</wwwlink> (8 Bde., Mitau: <link ref="hinz" linktext="false">Hinz</link> 1776–1780) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;4/224: „Luciani Opera gr. &amp; lat. ex ed. Jo. P. Schmidii Tom. 1. Mit. apud Hinzium, 776. Donum LIBRARII.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11088337-2"></wwwlink>Stabi Regensburg: 999/Class.96(1</eintrag>
 </subsection>
 <subsection id="lukian-marini" type="neuzeit" sort="15">
 <lemma>Lukian, <titel>dial. mar.</titel></lemma>
@@ -11940,8 +12170,15 @@ Dt. Übers. zitiert nach: Hermann Diels/Ernst Günther Schmidt (Übers.), <titel
 WA = <titel>D. Martin Luthers Werke</titel>, hg.&#x202F;v. Rudolf Hermann, Gerhard Ebeling u.a. (Weimar u.&#x202F;a. 1883–2009).
 </eintrag>
 <subsection id="luther-schriften" type="neuzeit" sort="10">
-<lemma>Luther, <titel>Schriften</titel></lemma>
-<eintrag><titel>Der […] Teil aller Bücher vnd Schrifften des thewren, seligen Mans Doct: Mart: Lutheri</titel> (1555–?) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;18/27: „Martin Luther’s Schriften, Th. I. II. IV–VIII. Jen. 555–62“].
+<lemma>Luther, <titel>Schriften (Jena 1555–1558)</titel></lemma>
+<eintrag><titel>Der […] Teil aller Bücher vnd Schrifften des thewren, seligen Mans Doct: Mart: Lutheri</titel> (Jena: Rödinger 1555–1558) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;18/27: „Martin Luther’s Schriften, Th. I. II. IV–VIII. Jen. 555–62“]. Digitalisat Bd.&#x202F;1: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00013497">Forschungsbibliothek Gotha: Th 4° 03071 (01)</wwwlink>. 
+– Digitalisat Bd.&#x202F;2: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030098">Forschungsbibliothek Gotha: Th 4° 03071 (02)</wwwlink>. 
+– Digitalisat Bd.&#x202F;3: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030099">Forschungsbibliothek Gotha: Th 4° 03071 (03)</wwwlink>. 
+– Digitalisat Bd.&#x202F;4: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030100">Forschungsbibliothek Gotha: Th 4° 03071 (04)</wwwlink>. 
+– Digitalisat Bd.&#x202F;5: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030101">Forschungsbibliothek Gotha: Th 4° 03071 (05)</wwwlink>. 
+– Digitalisat Bd.&#x202F;6: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030134">Forschungsbibliothek Gotha: Th 4° 03071 (06)</wwwlink>. 
+– Digitalisat Bd.&#x202F;7: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030102">Forschungsbibliothek Gotha: Th 4° 03071 (07)</wwwlink>. 
+– Digitalisat Bd.&#x202F;8: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00030132">Forschungsbibliothek Gotha: Th 4° 03071 (08)</wwwlink>. – Nachdruck Jena 1575: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10812403-9">BSB Münschen: 2 Th.u. 99</wwwlink>
 </eintrag>
 </subsection>
 <subsection id="luther-colloquia" type="neuzeit" sort="15">
@@ -11958,6 +12195,11 @@ WA&#x202F;30, 1, S.&#x202F;123–238.
 <subsection id="luther-auszug" type="neuzeit" sort="30">
 <lemma><titel>Auszug aus Luthers Schriften</titel></lemma>
 <eintrag><titel>Das Nutzbareste aus den gesamten erbaulichen Schriften des seligen Herrn D. Martini Lutheri. In umständlichen Auszügen […] mit nöthigen u. nützlichen Registern versehen u. nebst e. Vorrede</titel> (Salfeld: Böhmer 1738–1754) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;29/205: „Benj. Lindners Auszug aus Luthers Schriften, 1–10 Th. Saalf. 741“].
+</eintrag>
+</subsection>
+<subsection id="luther-schriften1739" type="neuzeit" sort="35">
+<lemma>Luther, <titel>Schriften (Halle 1739–1753)</titel></lemma>
+<eintrag><titel>D. Martin Luthers sowol in Deutscher als Lateinischer Sprache verfertigte und aus der letztern in die erstere übersetzte Sämtliche Schriften</titel>, hg. v. <link ref="walch-jg" linktext="true" /> (22 Bde., Halle: Gebauer 1739–1753). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11230156-2">Stabi Augsburg: 4 Th Ref 36</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="luther-kleine" type="neuzeit" sort="40">
@@ -12803,6 +13045,11 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <titel>ספר מגלת קהלת [Sēfer měgillat kohelet]</titel> (Berlin 1770). Kommentierte, hebräischsprachige Ausgabe des Prediger-Buchs (dt. Übersetzung des Kommentars durch Rainer Wenzel in JubA 20,1, S.&#x202F;177–282). Digitalisat: <wwwlink address="https://purl.uni-rostock.de/rosdok/ppn1020749431">UB Rostock: Cic-4046</wwwlink>. 
 </eintrag>
 </subsection>
+<subsection id="mendelssohn-pentateuch" type="neuzeit" sort="80">
+<lemma>Mendelssohn (u.a.), &lt;titel&gt;ספר נתיבות השלום&lt;/titel&gt;</lemma>
+<eintrag><titel>[Sefer netivot ha-schalom] ספר נתיבות השלום</titel> (Berlin 1780–1782). Die in hebräischen Lettern gedruckte deutsche Übersetzung des Pentateuch ist jeweils mit einem hebräischen Sachkommentar (Bi&apos;ur) und massoretischem Kommentar (Tikkun soferim) versehen. Eine Umschrift der Übersetzung ins Deutsche Alphabet erschien nur für den ersten Band durch Josias Friedrich Christian Löffler, <titel>Die fünf Bücher Mose zum Gebauch der jüdischdeutschen Nation</titel> (Berlin, Stettin: Nicolai 1780). Digitalisat:<wwwlink address="https://books.google.de/books?id=-mdrF8LY-5gC">
+Google Books</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="mendelssohn-b" type="neuzeit">
@@ -12952,7 +13199,13 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <subsection id="messkatalog-michaelis1779" type="neuzeit" sort="90">
 <lemma>Messkatalog für Michaelis 1779</lemma>
 <eintrag>
-<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Michaelismesse des 1774 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1779). 
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Michaelismesse des 1779 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1779). 
+</eintrag>
+</subsection>
+<subsection id="messkatalog-ostern1780" type="neuzeit" sort="90">
+<lemma>Messkatalog für Ostern 1780</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1780 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1780). 
 </eintrag>
 </subsection>
 </kommentar>
@@ -13073,6 +13326,17 @@ Zweite vermehrte Ausgabe 1775 in 6 Bde. [<link ref="hamann" subref="hamann-biga"
 <subsection id="michaelis-auferstehung" type="neuzeit" sort="100">
 <lemma>Michaelis, <titel>Erklärung der Begräbnis- und Auferstehungsgeschichte Christi</titel></lemma>
 <eintrag><titel>Erklärung der Begräbnis- und Auferstehungsgeschichte Christi nach den vier Evangelisten, mit Rücksicht auf die in den Fragmenten gemachten Einwürfe und deren Beantwortung</titel> (Halle 1783).
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="michaelis-jb" type="neuzeit">
+<lemma>Johann Benjamin Michaelis</lemma>
+<eintrag>1746–1772, Theaterdichter der Seylerschen Truppe, lebte seit 1771 bei <link ref="gleim" linktext="false">Gleim</link>, Dichter des Halberstädter Kreises, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117016640.html#ndbcontent">Elschenbroich, Adalbert: Michaelis, Johann Benjamin, in: <titel>NDB</titel>&#x202F;17 (1994), S.&#x202F;434f</wwwlink>.
+</eintrag>
+<subsection id="michaelis-gedichte" type="neuzeit">
+<lemma>Johann Benjamin Michaelis, <titel>Poetische Werke</titel></lemma>
+<eintrag><titel>Johann Benjamin Michaelis Poetische Werke</titel> (Gießen: Krieger 1780). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/77907">ULB Halle: Dd 3220 z</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -13475,6 +13739,14 @@ Um 1760 bis 1805. Schriftsteller und Lehrer in Königsberg, siehe <wwwlink addre
 <titel>Le mystère d’Iniquité, c’est à dire, L’Histoire de la papauté […] où sont aussi défendus les droicts des empereurs, rois et princes chrestiens contre les assertions des cardinaux Bellarmin et Baronius</titel> (Genf 1612) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;53/561: „Le Mystere ou d’Inquité l’Histoire de la Papauté par Ph. de Mornay, Gen. 612“]. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k3144086.image">Bibliothèque Nationale de France: D2-4189</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="mornay-memoires" type="neuzeit" sort="30">
+<lemma>Mornay, <titel>Mémoires de Messire Philippe de Mornay</titel></lemma>
+<eintrag>
+<titel>Memoires de messire Philippes de Mornay, seigneur Du Plessis Marli […] contenans divers discours, instructions, lettres, et depesches par lui dressées, ou escrites aux rois, roines […] depuis l’an 1572 jusques à l'an 1589, ensemble quelques lettres dessusdits audit sieur Du Plessis</titel> (4 Bde., s.l. 1624) . Digitalisat Bd. 1: <wwwlink address="https://gallica.bnf.fr/ark:/12148/btv1b8620760s/f7">Bibliothèque Nationale de France: RES4-LA23-3 (1)</wwwlink>.
+</eintrag>
+</subsection>
+ 
+
 </kommentar>
 
 <kommentar id="morstein" type="neuzeit">
@@ -14174,6 +14446,18 @@ Darin werden Textauszüge aus <titel>Discourse on the Resurrection of Jesus Chri
 </subsection>
 </kommentar>
 
+<kommentar id="ortlob" type="neuzeit">
+<lemma>August Wilhelm Ortlob</lemma>
+<eintrag>Lebensdaten nicht ermittelt, siehe <wwwlink address="http://d-nb.info/gnd/121773809">GND</wwwlink>.
+</eintrag>
+<subsection id="ortlob-phaidon" type="neuzeit">
+<lemma>Ortlob (Übers.), <titel>Phädon</titel></lemma>
+<eintrag>
+<titel>Phädon. Aus dem Griechischen des Plato sorgfältig übersetzt und mit Anmerkungen erläutert von August Wilhelm Ortlob</titel> (Frankfurt, Leipzig). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id367277239">SLUB Dresden: Lit.Graec.B.5119</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="ortmann" type="neuzeit">
 <lemma>Adolph Dietrich Ortmann</lemma>
 <eintrag>1718–1781. Prediger, Inspektor.
@@ -14185,7 +14469,7 @@ Darin werden Textauszüge aus <titel>Discourse on the Resurrection of Jesus Chri
 Berlin/Potsdam: Voß 1758/9) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;47/467: „Ortmanns Predigten und patriotische Briefe, Berl. 757–759“].
 </eintrag>
 </subsection>
-</kommentar>  
+</kommentar>
 
 <kommentar id="osten-fw" type="neuzeit">
 <lemma>Friedrich Wilhelm v. d. Osten</lemma>
@@ -14449,7 +14733,7 @@ Autobiographisches Theaterstück, das Penzel im Winter 1777/78 auf Anregung von 
 
 <kommentar id="penzel-ms" type="neuzeit">
 <lemma>Marie Sophie Penzel</lemma>
-<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder (dat. 28. September bis 2. Oktober 1777) ab, vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 u. 37–39</wwwlink>, ebenso <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel></link>, S.&#x202F;144–156.</eintrag>
+<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder ab (dat. 28. September bis 2. Oktober 1777), vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 u. 37–39</wwwlink>, ebenso <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel></link>, S.&#x202F;144–156.</eintrag>
 </kommentar>
 
 <kommentar id="percy" type="neuzeit">
@@ -14648,12 +14932,12 @@ Phaedrus, <titel>fabulae</titel></eintrag>
 </kommentar>
 
 <kommentar id="philon" type="neuzeit">
-<lemma>Philon von Alexandreia</lemma>
-<eintrag>Geb. 15/10 v. Chr. Jüd.-hellenist. Religionsphilosoph.</eintrag>
+<lemma>Philon von Alexandria</lemma>
+<eintrag>Geb. 15/10 v. Chr. Jüdisch-hellenistischer Religionsphilosoph.</eintrag>
 <subsection id="philon-opera" type="neuzeit">
 <lemma>Philon, <titel>Omnia quae extant opera</titel></lemma>
 <eintrag>
-<titel>Omnia quae extant opera. Ex accuratissima Sigismundi Gelenii et aliorium interpretatione […]</titel> (Frankfurt: Schrey &amp; Meyer 1691). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;3/42: „Philonis Opera, gr. &amp; lat. Francof. 695“].</eintrag>
+<titel>Omnia quae extant opera. Ex accuratissima Sigismundi Gelenii et aliorium interpretatione […]</titel> (Frankfurt: Schrey &amp; Meyer 1691). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/21 „Philonis Opera gr. &amp; lat. Franc. 691“ und 3/42: „Philonis Opera, gr. &amp; lat. Francof. 695“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10209728-2">BSB München: 2 A.gr.b. 824</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15239,12 +15523,18 @@ Am 24. Januar 1777 (<link ref="friedrich-II" linktext="false">Königsgeburtstag<
 
 <kommentar id="putter" type="neuzeit">
 <lemma>Johann Stephan Pütter</lemma>
-<eintrag>1725–1807. Prof. für Jurisprudenz in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz75338.html#adbcontent">Frensdorff, Ferdinand: Pütter, Johann Stephan, in: <titel>ADB</titel>&#x202F;26 (1888), S.&#x202F;749–777</wwwlink>.
+<eintrag>1725–1807. Professor für Jurisprudenz in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz75338.html#adbcontent">Frensdorff, Ferdinand: Pütter, Johann Stephan, in: <titel>ADB</titel>&#x202F;26 (1888), S.&#x202F;749–777</wwwlink>.
 </eintrag>
 <subsection id="staatsveraenderung" type="neuzeit">
 <lemma>Pütter, <titel>Grundriß der Staatsveränderungen des Teutschen Reichs</titel></lemma>
 <eintrag>
 <titel>Johann Stephan Pütters ordentlichen Lehrers der Rechte zu Göttingen Grundriß der Staatsveränderungen des Teutschen Reichs nebst einer Vorbereitung, worin zugleich ein Entwurf einer Bibliothek und gelehrten Geschichte der Teutschen Historie enthalten</titel> (2., verb. Aufl., Göttingen: Vandenhoeck 1755) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;84/165]. Digitalisat, Ausg. 1764: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-768549">ULB Halle: 17 WA 1348</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="putter-rechtschreibung" type="neuzeit">
+<lemma>Pütter, <titel>Über die Richtigkeit und Rechtschreibung der teutschen Sprache</titel></lemma>
+<eintrag>
+<titel>Ueber die Richtigkeit und Rechtschreibung der teutschen Sprache einige Bemerkungen vom geheimen Justitzrath Pütter</titel> (Göttingen: Vandenhoeck 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11105211-5">Stabi Regensburg: 999/Ling.1306</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -15841,6 +16131,21 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <kommentar id="roche-noblot" type="neuzeit">
 <lemma>Joseph Maximilian la Roche Noblot</lemma>
 <eintrag>Gest. am 25. Januar 1773 bei einer Schlittenfahrt auf der Düna. Bekannter Kalligraph aus Königsberg, vgl. <wwwlink address="https://books.google.de/books?id=VIFLAAAAcAAJ"><titel>Livländische Bibliothek,</titel> Bd.&#x202F;3 (Riga 1777), S.&#x202F;42</wwwlink>.</eintrag>
+</kommentar>La Roche, Marie Sophie v., geb. v. Gutermann zu Gutershofen (1730- 1807), dessen Frau (seit 1753), Pomona
+
+<kommentar id="laroche-s" type="neuzeit">
+<lemma>Sophie von La Roche</lemma>
+<eintrag>1730–1807. Geb. von Gutermann zu Gutershofen, Schriftstellein, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118569767.html#ndbcontent">Häntzschel, Günter: La Roche, Sophie von, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;640f.</wwwlink>.</eintrag>
+<subsection id="laroche-sternheim" type="neuzeit" sort="10">
+<lemma>La Roche, <titel>Geschichte des Fräuleins von Sternheim</titel></lemma>
+<eintrag>
+<titel>Geschichte des Fräuleins von Sternheim. Herausgegeben von Christoph Martin Wieland</titel> (2 Bde., Leipzig: Weidmann und Reich 1771). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-200905199553">HAB Wolfenbüttel: Wa 7074</wwwlink>.</eintrag>
+</subsection>
+<subsection id="laroche-rosalie" type="neuzeit" sort="20">
+<lemma>La Roche, <titel>Rosaliens Briefe</titel></lemma>
+<eintrag>
+<titel>Rosaliens Briefe an ihre Freundin Mariane von St**</titel> (3 Bde., Altenburg: Richter 1779–1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11940475-1">LB Coburg: D II 8</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="roeck-lp" type="neuzeit">
@@ -16457,10 +16762,14 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 </subsection>
 </kommentar>
 
-
 <kommentar id="schimmelpfennig" type="neuzeit">
 <lemma>Johann Christian Schimmelpfennig</lemma>
 <eintrag>Tribunalsrat in Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="schimmelpfennig-b" type="neuzeit">
+<lemma>N. N. Schimmelpfennig</lemma>
+<eintrag>Vorname und Lebensdaten nicht ermittelt; Freundin <link ref="brahl" linktext="false">Johann Brahls</link> aus Litauen, 1780 kurz mit Hamann bekannt.</eintrag>
 </kommentar>
 
 <kommentar id="schlegel-ja" type="neuzeit">
@@ -17008,6 +17317,12 @@ Kaufmann, Kommerzien- und Admiralitätsrat in Königsberg.
 Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzgefaßte Reformations-Geschichte</titel>, hg.&#xA0;v. Christian Friedrich Junius u. Benjamin Lindner (Frankfurt u.a.: Hallisches Waysenhaus 1755). Digitalisat: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11092562-5">Regensburg, Staatliche Bibliothek -- 999/4Hist.eccl.310(1/2)</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="seckendorff-ks" type="neuzeit">
+<lemma>Karl Siegmund von Seckendorff</lemma>
+<eintrag>1744–1785. Schriftsteller, Musiker, 1775–1784 Sachsen-weimarischer Kammerherr, vertonte einige von <link ref="herder" linktext="false">Herders</link> Volksliedern; <wwwlink address="https://www.deutsche-biographie.de/pnd120713039.html#adbcontent ">Brümmer, Franz: Seckendorff, Karl Sigmund Freiherr von, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;518</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="seeligmann-j" type="neuzeit">
@@ -17593,6 +17908,18 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 </eintrag>
 </kommentar>
 
+<kommentar id="spittler" type="neuzeit">
+<lemma>Ludwig Timotheus Spittler</lemma>
+<eintrag>1752–1810. Schriftsteller und Historiker, 1779 Profesor der Philosophie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11875212X.html#ndbcontent">Fleischer, Dirk: Spittler, Ludwig Timotheus, in: <titel>NDB</titel>&#x202F;24 (2010), S.&#x202F;715f.</wwwlink>.
+</eintrag>
+<subsection id="spittler-geschichte" type="neuzeit" sort="10">
+<lemma>Spittler, <titel>Geschichte des kanonischen Rechts</titel></lemma>
+<eintrag>
+<titel>Geschichte des kanonischen Rechts bis auf die Zeit des falschen Isidors</titel> (Halle: Gebauer 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10726581-5">BSB München: Bibl.Mont. 5169</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="spinoza" type="neuzeit">
 <lemma>Baruch de Spinoza</lemma>
 <eintrag>1632–1677. <wwwlink address="https://plato.stanford.edu/archives/spr2019/entries/spinoza/">Nadler, Steven: Baruch Spinoza, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Spring 2019 Edition)</wwwlink>.
@@ -17702,6 +18029,11 @@ In mehreren überarbeiteten Auflagen erschienen, für Hamanns <link ref="hamann"
 <lemma>Starck, <titel>Geschichte der Christlichen Kirche des Ersten Jahrhunderts</titel></lemma>
 <eintrag>
 <titel>Geschichte der Christlichen Kirche des Ersten Jahrhunderts</titel> (3 Bde., Berlin, Leipzig: Decker 1779–1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10027762-2">BSB München: H.eccl. 1110</wwwlink>.</eintrag>
+</subsection>
+ <subsection id="starck-christenthum" type="neuzeit" sort="70">
+<lemma>Starck, <titel>Freymüthige Betrachtungen über das Christenthum</titel></lemma>
+<eintrag>
+<titel>Freymüthige Betrachtungen über das Christenthum</titel> (Berlin: Himburg 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bvb:29-bv021843797-2">FAU Erlangen-Nürnberg: H00/THL-XV 563</wwwlink>. – <wwwlink address="https://books.google.de/books?id=XXQe0A85CXgC">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -17834,6 +18166,23 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 Übers.: <titel>Yoricks empfindsame Reise durch Frankreich und Italien,</titel> übersetzt von <link ref="bode-jjc" linktext="true" /> (Hamburg, Bremen 1768). Digitalisat der zweiten Auflage 1769: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10930080-8">BSB München: P.o.angl. 405-1/2</wwwlink>.
 </eintrag>.
 </subsection>
+<subsection id="sterne-letters" type="neuzeit" sort="30">
+<lemma>Sterne, <titel>Letters from Yorick to Eliza</titel></lemma>
+<eintrag>
+<titel>Letters from Yorick to Eliza</titel> (zuerst 1773, 2.&#x202F;Aufl. London 1775). Digitalisat: <wwwlink address="https://archive.org/details/bim_eighteenth-century_letters-from-yorick-to-e_sterne-laurence_1775_1">Internet Archive</wwwlink>.<line type="break" />
+Übers. (von <link ref="bode-jjc" linktext="true" />): <titel>Yoricks Briefe an Elisa</titel> (Hamburg: Bohn 1775) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;156/445: „Yorik’s Briefe an Elisa, Hamb. 775.“]. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/48410">ULB Halle: Dh 3451 d</wwwlink>. Bode übersetzte auch die gefälschten <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN81772401X"><titel>Briefe von Elisa an Yorick</titel> (Hamburg: Bode 1775).</wwwlink>
+</eintrag>.
+</subsection>
+</kommentar>
+
+<kommentar id="stetten" type="neuzeit">
+<lemma>Paul von Stetten</lemma>
+<eintrag>1731–1808. Augsburger Patrizier, Jurist und Schriftsteller, siehe <wwwlink address="https://d-nb.info/gnd/118753665">GND</wwwlink>.</eintrag>
+<subsection id="stetten-briefe" type="neuzeit" sort="10">
+<lemma>Stetten, <titel>Briefe eines Frauenzimmers, aus dem fünfzehenden Jahrhundert</titel></lemma>
+<eintrag><titel>Briefe eines Frauenzimmers, aus dem fünfzehenden Jahrhundert. Nach alten Urschriften</titel> (Augsburg: Stage 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11234337-7">Stabi Augsburg: Aug 2332</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="steuart" type="neuzeit">
@@ -17962,7 +18311,7 @@ Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-
 
 <kommentar id="stoltz-c" type="neuzeit">
 <lemma>Caroline Stoltz</lemma>
-<eintrag>1751–1792. Ab 1777 mit Hamann in Königsberg befreundet, auch mit <link ref="kreutzfeld" linktext="true" /> befreundet und zeitweise Freundin oder Geliebte von <link ref="penzel" linktext="true" />; ab den frühen 1770ern Freundin und Briefpartnerin <link ref="recke-e" linktext="false">Elisa von der Reckes</link>; reist Anfang 1780 nach <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> als Gouvernante von deren Schwester <link ref="dorothea-kurland" linktext="true" />.</eintrag>
+<eintrag>1751–1792. Ab 1777 mit Hamann in Königsberg befreundet, auch mit <link ref="kreutzfeld" linktext="true" /> befreundet und zeitweise Freundin oder Geliebte von <link ref="penzel" linktext="true" />; ab den frühen 1770ern Freundin und Briefpartnerin <link ref="recke-e" linktext="false">Elisa von der Reckes</link>; reist Anfang 1780 nach <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> als Gouvernante von deren Schwester <link ref="dorothea-kurland" linktext="true" />; 1780 hält sie sich jedoch bei <link ref="fircks-cl" linktext="true" /> oder dessen Sohn auf dem kurländischen Gut <wwwlink address="https://www.geonames.org/460191">Dubenalken</wwwlink> auf und ist kurz darauf mit <link ref="hinz" linktext="false">Hinz</link> befreundet.</eintrag>
 </kommentar>
 
 <kommentar id="stolz-jj" type="neuzeit">
@@ -18088,7 +18437,7 @@ in vier Aufzügen, Kopp. 767“]. Siehe <wwwlink address="https://zdb-katalog.de
 </eintrag>
 </subsection>
 <subsection id="sueton-kaiserviten" type="neuzeit" sort="20">
-<lemma>Sueton, <titel>Die Kaiserviten. Berühmte Männer.</titel></lemma>
+<lemma>Sueton, <titel>Kaiserviten</titel></lemma>
 <eintrag><titel>Die Kaiserviten. De Vita Caesarum. Berühmte Männer. De Viris Illustribus</titel> Hg. u. übers. v. Hans Martinet (Berlin 2014).
 </eintrag>
 </subsection>
@@ -18173,7 +18522,7 @@ Wiss. Ausg.: <titel>Gesammelte Schriften. Kommentierte Ausgabe</titel>, hg.&#xA0
 <subsection id="swift-schriften" type="neuzeit" sort="20">
 <lemma>Swift, <titel>Satyrische und ernsthafte Schriften</titel></lemma>
 <eintrag>
-<titel>Satyrische und ernsthafte Schriften von Jonathan Swift</titel>, übers. v. Johann Heinrich Waser (Pseud.: Johann von Breitenfels) (8&#xA0;Bde., Hamburg, Leipzig 1756–66; ab 1759 erschien eine 2. Aufl.). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10750442-9">BSB München: P.o.angl. 422-1</wwwlink>.
+<titel>Satyrische und ernsthafte Schriften von Jonathan Swift</titel>, übers. v. <link ref="waser-jh1713" linktext="true" /> (Pseud.: Johann von Breitenfels) (8&#xA0;Bde., Hamburg, Leipzig 1756–66; ab 1759 erschien eine 2. Aufl.). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10750442-9">BSB München: P.o.angl. 422-1</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="swift-letters" type="neuzeit" sort="30">
@@ -19464,7 +19813,7 @@ W
 
 <kommentar id="wagner-fd" type="neuzeit">
 <lemma>Friedrich David Wagner</lemma>
-<eintrag>Buchhändler und Lotterieeinnehmer in Königsberg im Auftrag von <link ref="kanter" linktext="true" />. Wohnte in der Königsberger Nachbarschaft von Hamann. Übernahm 1781 mit Carl Gottlob Dengel Kanters Buchhandlung, schied aber 1783 bereits aus.</eintrag>
+<eintrag>Buchhändler und Lotterieeinnehmer in Königsberg im Auftrag von <link ref="kanter" linktext="true" />. Wohnte in der Königsberger Nachbarschaft von Hamann, später Redakteur des Intelligenzblattes in <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink>. Übernahm 1781 mit Carl Gottlob Dengel Kanters Buchhandlung, schied aber 1783 bereits aus.</eintrag>
 </kommentar>
 
 <kommentar id="wagner-je" type="neuzeit">
@@ -19500,6 +19849,11 @@ W
 <eintrag>
 <titel>D. Christian Wilhelm Franz Walchs kritische Untersuchung vom Gebrauch der heiligen Schrift unter den alten Christen in den vier ersten Jahrhunderten</titel> (Leipzig: Weygand 1779). <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN549325042">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="walch-jg" type="neuzeit">
+<lemma>Johann Georg Walch</lemma>
+<eintrag>1693–1775. Professor der Theologie in Jena, Herausgeber der <link ref="luther" subref="luther-schriften1739" linktext="false">Luther-Ausgabe Halle 1739–1753</link> und Vater von <link ref="walch" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="wannovius" type="neuzeit">
@@ -19573,9 +19927,8 @@ W
 </subsection>
 </kommentar>
 
-
-<kommentar id="waser" type="neuzeit">
-<lemma>Johann Heinrich Waser</lemma>
+<kommentar id="waser-jh1713" type="neuzeit">
+<lemma>Johann Heinrich Waser (geb. 1713)</lemma>
 <eintrag>1713–1777. Übersetzer (Lukian, Shakespeare, Swift u.a.) und Schriftsteller.</eintrag>
 <subsection id="waser-moralische" type="neuzeit" sort="10">
 <lemma>Waser, <titel>Moralische Beobachtungen und Urtheile</titel></lemma>
@@ -19583,6 +19936,11 @@ W
 <titel>Moralische Beobachtungen und Urtheile</titel> (Zürich: Orell und Comp. 1757). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;135/88: „Moralische Betrachtungen und Urtheile, Zür. 757“]. Digitalisat: <wwwlink address="https://www.e-rara.ch/zuz/content/titleinfo/5682523">ZB Zürich: 7.427,2</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="waser-jh1742" type="neuzeit">
+<lemma>Johann Heinrich Waser (geb. 1742)</lemma>
+<eintrag>1742-1780. Schweizer reformierter Theologe, 1770 Pfarrer in Zürich, seit 1778 in der Staatskanzlei; nach Misshelligkeiten mit dem Zürcher Rat wegen Urkundendiebstahls und Landesverrats 1780 enthauptet; Vetter <link ref="haefeli" linktext="false">Häfelis</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120435659.html#adbcontent">Egli, Emil: Waser, Johann Heinrich, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;220–228.</wwwlink>, zu dem Justizskandal seiner Hinrichtung vgl. den Kommentar in <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/8771?page=1&#x26;comment=11353">JCLB</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="watelet" type="neuzeit">
@@ -19720,6 +20078,18 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 <lemma>Well, <titel>Wie weit gehet das Recht eines Reichs-Fiscals in Ansehung der Bücher-Censur?</titel></lemma>
 <eintrag>
 <titel>Wie weit gehet das Recht eines Reichs-Fiscals in Ansehung der Bücher-Censur? solches beantwortet Anton Well. Esq. und übersetzt aus dem Englischen T.</titel> (1757). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10667419-1">BSB München: 4 Diss. 812#Beibd.8</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="wendeborn" type="neuzeit">
+<lemma>Gebhard Friedrich August Wendeborn</lemma>
+<eintrag>1742–1811. Prediger und Kulturhistoriker in England, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100700268.html#adbcontent">Frank, G.: Wendeborn, Gebhard Friedrich August, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;172–1714</wwwlink>.
+</eintrag>
+<subsection id="wendeborn-beytrage" type="neuzeit" sort="10">
+<lemma>Wendeborn, <titel>Beyträge zur Kentniß Grosbritanniens vom Jahr 1779</titel></lemma>
+<eintrag>
+<titel>Beyträge zur Kentniß Grosbritanniens vom Jahr 1779. Aus der Handschrift eines Ungenannten herausgegeben von <link ref="forster-g" linktext="true" /></titel> (Lemgo: Meyer 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10667419-1">BSB München: 4 Diss. 812#Beibd.8</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -19920,6 +20290,12 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <lemma>Wieland, <titel>Gedanken eines Laien über Bahrdts Glaubensbekenntnis</titel></lemma>
 <eintrag>
 <titel>Unmaasgebliche Gedanken eines Laien über Herrn D. Carl Friedrich Bahrdts Glaubensbekenntnis,</titel> in: <link ref="teutsche-merkur" linktext="true" />, 3. Vj. 1779, S.&#x202F;170–179 (August) und S.&#x202F;218–262 (September).
+</eintrag>
+</subsection>
+<subsection id="wieland-oberon" type="neuzeit" sort="130">
+<lemma>Wieland, <titel>Oberon</titel></lemma>
+<eintrag>
+<titel>Oberon. Ein Gedicht in vierzehn gesängen,</titel> in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10617975?page=7">1. Vj. 1780</wwwlink>. Auch als Einzeldruck veröffentlicht, Weimar: Hoffmann 1780. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123359-3">BSB München: P.o.germ. 1614 w</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -20415,6 +20791,18 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <lemma><titel>Hamburgische Nachrichten aus dem Reiche der Gelehrsamkeit</titel></lemma>
 <eintrag>
 <titel>Hamburgische Nachrichten aus dem Reiche der Gelehrsamkeit</titel> (Hamburg 1758–1771). Digitalisate: <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/hamburgische_nachrichten">UB Heidelberg/VD18 90372689</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="ziehen" type="neuzeit">
+<lemma>Conrad Siegmund Ziehen</lemma>
+<eintrag>1727–1780. Der ‚Zellerfelder Prophet‘; evangelischer Theologe, 1763 Superintendent in Hannoversch-Münden, 1769 Pastor in Zellerfeld.
+</eintrag>
+<subsection id="ziehen-revolution" type="neuzeit" sort="10">
+<lemma><titel>Nachricht von einer bevorstehenden großen Revolution der Erde</titel></lemma>
+<eintrag>
+<titel>Des Herrn Superintendenten Ziehen im Zellerfelde Nachricht von einer bevorstehenden großen Revolution der Erde, die insonderheit das südliche Europa und einen Theil Deutschlands treffen, und mit dem Ende des September-Monats 1780 anfangen wird. Im Auszuge herausgegeben. Mit einem Anhange über das Buch Chevilla</titel> (Frankfurt, Leipzig 1780). Digitalisate: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:061:1-529846">ULB Düsseldorf</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>

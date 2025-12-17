@@ -11361,8 +11361,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="590">
-        <date value="Weimar, Mai 1780" />
-        <sort value="1780-05-15" notBefore="1780-05-01" notAfter="1780-05-31" />
+        <date value="Weimar, vor 31. Mai 1780" />
+        <sort value="1780-05-15" notBefore="1780-05-11" notAfter="1780-05-21" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -11380,8 +11380,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="591">
-        <date value="Weimar, Anfang Juni 1780" />
-        <sort value="1780-06-01" notBefore="1780-06-01" notAfter="1780-06-25" />
+        <date value="Weimar, zwischen 5. und 12. Juni 1780" />
+        <sort value="1780-06-01" notBefore="1780-06-05" notAfter="1780-06-12" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -11399,9 +11399,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="592">
-        <date value="11. und 25.–26. Juni 1780" />
+        <date value="Königsberg, 11. und 25.–26. Juni 1780" />
         <sort value="1780-06-11" from="1780-06-11" to="1780-06-26" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
