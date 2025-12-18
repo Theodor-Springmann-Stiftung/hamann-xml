@@ -7458,7 +7458,7 @@ Editionen: Seitenangaben im Briefkommentar nach N&#xA0;II S.&#x202F;241–274 un
 <lemma>Hamann (Übers.), <titel>Ferdinando Warner’s Beschreibung der Gicht</titel></lemma>
 <eintrag>
 <titel>Ferdinando Warner’s vollständige und deutliche Beschreibung der Gicht. Aus dem Englischen übersetzt</titel> (1770) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;110/211: „Ferdo. Warner’s Beschreibung der Gicht 770. nebst einer zu dieser Uebersetzung gehoerigen Beylage der hiesigen gelehrten und politischen Zeitung. Donum LIBRARII.“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id4159960313">SLUB Dresden: Path.spec.LGA.988</wwwlink>. <line type="break" />
-Übersetzung von <link ref="warner" subref="warner-gout" linktext="true" /> (Vorwort bei N&#x202F;IV,439f.). – Wohl von Hamann selbst rezensiert in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 64.&#x202F;St. vom 10.8.1770 (NIV,361f.).
+Übersetzung von <link ref="warner" subref="warner-gout" linktext="true" /> (Vorwort bei N&#x202F;IV,439f.). – Wohl von Hamann selbst rezensiert in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 64.&#x202F;St. vom 10.8.1770 (N&#x202F;IV,361f.).
 </eintrag>
 </subsection>
 <subsection id="hamann-zworecensionen" type="neuzeit" sort="520">
@@ -16071,6 +16071,33 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <lemma>Restaut, <titel>Principes généraux et raisonnés de la grammaire française</titel></lemma>
 <eintrag>
 <titel>Principes généraux et raisonnés de la grammaire française</titel> (Paris 1730). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;158/489: „Principes de la Grammaire françoise par Restaut. 749“]
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="restif" type="neuzeit">
+<lemma>Nicolas Edme Restif de la Bretonne</lemma>
+<eintrag>1734–1806. Französischer Schriftsteller, vor allem von sozialrealistisch-freizügigen Romanen.
+</eintrag>
+<subsection id="restif-fanchette" type="neuzeit" sort="10">
+<lemma>Restif, <titel>Le Pied de Fanchette</titel></lemma>
+<eintrag>
+<titel>Le Pied de Fanchette, ou l’Orpheline Française; Histoire intéressante et morale</titel> (2 Bde., Frankfurt, Leipzig 1769). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/79550">ULB Halle: AB 61252 </wwwlink>.<line type="break" />
+Übers.: <titel>Fanchettens Fuß, Oder Die Französische Wayse. Eine moralische Geschichte in drey Theilen</titel> Aus dem Französischen (Hamburg, Lüneburg 1770). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000EE3900000000">Stabi Berlin: Yt 518-1/2a</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="restif-abeilard" type="neuzeit" sort="20">
+<lemma>Restif, <titel>Le Nouvel Abeilard</titel></lemma>
+<eintrag>
+<titel>Le Nouvel Abeilard, ou Lettres de deux amants qui ne se sont jamais vus</titel> (4 Bde., Neuchatel 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10097001-2">BSB München: P.o.gall. 1880 sq-1</wwwlink>.<line type="break" />
+Übers.: <titel>Der neue Abeilard, oder Briefe zweyer Liebenden welche einander nie gesehn.</titel> Aus dem Französischen (4 Bde., Leipzig: Junius 1780).
+</eintrag>
+</subsection>
+<subsection id="restif-pere" type="neuzeit" sort="30">
+<lemma>Restif, <titel>La Vie de Mon Père</titel></lemma>
+<eintrag>
+<titel>La Vie de mon père. Par l’Auteur du Paysand perverti</titel> (Neuchatel 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10924335-0">BSB München: Res/P.o.gall. 2199</wwwlink>.<line type="break" />
+Übers.: <titel>Leben meines Vaters. Vom Verfasser des neuen Abeillards</titel>. Aus dem Französischen (2 Bde., Berlin: Voß 1780). Digitalisat: <wwwlink address="https://digital.staatsbibliothek-berlin.de/suche?queryString=PPN1678928437">Stabi Berlin: Bibl. Varnhagen 1493</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
