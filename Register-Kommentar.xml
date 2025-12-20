@@ -851,6 +851,23 @@ B
 <eintrag>1737–1776. Sohn eines Magdeburger Tuchhändlers, Mitbegründer der Magdeburger Mittwochsgesellschaft, Freund <link ref="gleim" linktext="false">Gleims</link> und Unterstützer von <link ref="karsch" linktext="true" />.</eintrag>
 </kommentar>
 
+<kommentar id="bachmair" type="neuzeit">
+<lemma>John James Bachmair</lemma>
+<eintrag>Gest. 1778, englischer Grammatiker und Philologe.</eintrag>
+<subsection id="bachmair-grammatike" type="neuzeit" sort="10">
+<lemma>Bachmair, <titel>Englische Grammatik</titel></lemma>
+<eintrag>
+<titel>Neue Englische Grammatike. In sich haltend Eine getreue, deutliche und leichte Anweisung, Die Englische Sprache In kurzer Zeit gründlich zu erlernen […] Von Johann Jacob Bachmair, M. A.</titel> (London 1753). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/53473">ULB Halle</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="bachmair-apokalypse" type="neuzeit" sort="20">
+<lemma>Bachmair, <titel>The revelation of St. John historically explained </titel></lemma>
+<eintrag>
+<titel>The revelation of St. John historically explained; Not compiled from Commentators and other Authors, but An Original, written by John James Bachmair, M.A.</titel> (London 1778). Digitalisat: <wwwlink address="https://books.google.de/books?id=AkFVAAAAcAAJ">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="bacon" type="neuzeit">
 <lemma>Francis Bacon</lemma>
 <eintrag>1561–1626. 1. Viscount St. Albans, 1. Baron Verulam; Philosoph, Jurist. <wwwlink address="https://plato.stanford.edu/archives/win2016/entries/francis-bacon/">Klein, Jürgen: Francis Bacon, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Winter 2016 Edition)</wwwlink>.
@@ -3050,6 +3067,19 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 </subsection>
 </kommentar>
 
+<kommentar id="chandler" type="neuzeit">
+<lemma>Samuel Chandler</lemma>
+<eintrag>1693–1766. Englischer nonkonformistischer Prediger und Schriftsteller.
+.</eintrag>
+<subsection id="chandler-david" type="neuzeit">
+<lemma>Chandler, <titel>A critical history of the life of David </titel></lemma>
+<eintrag>
+<titel>A critical history of the life of David</titel> (London 1766). Digitalisat: <wwwlink address="https://books.google.de/books?id=CatCAQAAMAAJ">Google Books</wwwlink>.<line type="break" />
+Übers.: Kritische Geschichte des Lebens Davids. Aus dem Englischen von <link ref="diederichs" linktext="true" /> (2 Bde., Bremen, Leipzig: Cramer 1777–1780). Digitalisat: <wwwlink address="https://purl.uni-rostock.de/rosdok/ppn820496480">UB Rostock</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="churchill" type="neuzeit">
 <lemma>Charles Churchill</lemma>
 <eintrag>1731–1764. Engl. Landprediger und Satiriker, siehe <wwwlink address="https://www.britannica.com/biography/Charles-Churchill">Encyclopaedia Britannica</wwwlink>.</eintrag>
@@ -3991,7 +4021,7 @@ Siehe auch Walther Ziesemer (Hg.), <titel>Simon Dach Gedichte</titel>, Bd.&#x202
 
 <kommentar id="dalberg" type="neuzeit">
 <lemma>Carl Theodor von Dalberg</lemma>
-<eintrag>1744–1817. Von 1772 bis 1787 Statthalter der kurmainzer Exklave in Erfurt, später u.a. Erzbischof und Kurfürst von Mainz, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118720961.html#ndbcontent">Lenhart, Ludwig: Dalberg, Carl Theodor Freiherr von, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;489f.</wwwlink>.</eintrag>
+<eintrag>1744–1817. Von 1772 bis 1787 Statthalter der kurmainzer Exklave in Erfurt, später u.a. Erzbischof und Kurfürst von Mainz; Hamann kam mit ihm über Herder in Kontakt und sandte am 20. Juli 1780 nach einigen Ansätzen einen <intlink letter="598" page="209" line="25" linktext="false">Brief</intlink> an ihn aus dem Zusammenhang der <link ref="hamann" subref="hamann-schuerze" linktext="false">Schürze von Feigenblättern</link>, der nicht überliefert ist (Dalberg vernichtete wohl Briefe in der Regal nach Empfang und Beantwortung, vgl. <link ref="herder" linktext="false">HGBA</link>, Bd.&#x202F;9, S.&#x202F;797); zu Dalberg siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118720961.html#ndbcontent">Lenhart, Ludwig: Dalberg, Carl Theodor Freiherr von, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;489f.</wwwlink>.</eintrag>
 <subsection id="dalberg-universum" type="neuzeit" sort="10">
 <lemma>Dalberg, <titel>Betrachtungen über das Universum</titel></lemma>
 <eintrag><titel>Betrachtungen über das Universum</titel> (Erfurt: Weber 1777). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/10499298">ÖNB Wien</wwwlink>. 2. Aufl. Mannheim 1778: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10042980-4">BSB München: Ph.sp. 183 sb</wwwlink>.
@@ -4357,7 +4387,18 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann
 <kommentar id="diederichs" type="neuzeit">
 <lemma>Johann Christian Wilhelm Diederichs</lemma>
 <eintrag>1750–1781. Evang. Theologe, <link ref="michaelis" linktext="false">Michaelis-</link>Schüler, 1780 Prof. der orientalischen Sprachen in Königsberg, Nachfolger <link ref="kypke" linktext="false">Kypkes</link>), verstarb im Jahr darauf.</eintrag>
+<subsection id="diederichs-grammatik" type="neuzeit" sort="10">
+<lemma>Diederichs, <titel>Hebräische Grammatik für Anfänger</titel></lemma>
+<eintrag>
+<titel>Hebräische Grammatik für Anfänger von J.C.W. Diederichs</titel> (Lemgo: Meyer 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11280300-8">Stabi Augsburg: Spw 456</wwwlink>.</eintrag>
+</subsection>
+<subsection id="diederichs-simson" type="neuzeit" sort="20">
+<lemma>Diederichs, <titel>Zur Geschichte Simsons</titel></lemma>
+<eintrag>
+<titel>Zur Geschichte Simsons</titel> (3 Ste., Göttingen 1778–1779).</eintrag>
+</subsection>
 </kommentar>
+
 
 <kommentar id="dieu" type="neuzeit">
 <lemma>Lodewijk de Dieu</lemma>
@@ -4778,6 +4819,16 @@ E
 <kommentar id="ehrmann" type="neuzeit">
 <lemma>Johann Christian Ehrmann</lemma>
 <eintrag>1749–1827. Arzt, später auch Satiriker; Begleiter und Schreiber von <link ref="kaufmann-c" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz23255.html#adbcontent">Roediger, Emil: Ehrmann, Johann Christian, in: <titel>ADB</titel>&#x202F;48 (1904), S.&#x202F;292</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="eichhorn" type="neuzeit">
+<lemma>Johann Gottfried Eichhorn</lemma>
+<eintrag>1752–1827. Seit 1775 Professor der evangelischen Theologie und Orientalistik in Jena, ab 1788 in Göttingen; rezensierte <link ref="herder" subref="herder-maran" linktext="false">Herders <titel>Maran Atha</titel></link> in der Allgemeinen deutschen Bibliothek; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118688294.html#ndbcontent">Eichhorn, Johann Gottfried: Engel, Johann Jakob, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;377f</wwwlink>.</eintrag>
+<subsection id="eichhorn-einleitung" type="neuzeit">
+<lemma>Eichhorn, <titel>Einleitung ins Alte Testament</titel></lemma>
+<eintrag>
+<titel>Einleitung ins Alte Testament</titel> (3 Bde., Leipzig: Weidmann und Reich 1780–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10410481-1">BSB München: Exeg. 289-1</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="eliberitanus" type="neuzeit">
@@ -6536,6 +6587,18 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <kommentar id="gothaische-gelehrte-zeitungen" type="neuzeit">
 <lemma>Gothaische gelehrte Zeitungen</lemma>
 <eintrag>Erschienen 1774–1776 in Gotha, verlegt von Carl Wilhelm Ettinger. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1046526677">ZDB</wwwlink>. Digitalisat 1774–1775: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN776568612">SUB Göttingen</wwwlink>; 1776–1798: <wwwlink address="https://digipress.digitale-sammlungen.de/calendar/newspaper/bsbmult00000538">BSB München</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="goldbeck" type="neuzeit">
+<lemma>Johann Friedrich Goldbeck</lemma>
+<eintrag>1748–1812. Evangelischer Theologe und Feldprediger in Graudenz.</eintrag>
+<subsection id="goldbeck-nachrichten" type="neuzeit" sort="10">
+<lemma>Goldbeck (Hg.), <titel>Litterarische Nachrichten von Preußen</titel></lemma>
+<eintrag>
+<titel>Litterarische Nachrichten von Preußen</titel>. Herausgegeben von J. F. Goldbeck (2 Bde.,Berlin, Leipzig und Dessau 1781–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10732713-5">BSB München: H.lit.p. 151 l-1/2</wwwlink>.
+
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="goldsmith" type="neuzeit">
@@ -11560,6 +11623,11 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 <subsection id="lessing-erziehung" type="neuzeit" sort="165">
 <lemma>Lessing, <titel>Die Erziehung des Menschengeschlechts</titel></lemma>
 <eintrag><titel>Die Erziehung des Menschengeschlechts</titel>. Herausgegeben von Gotthold Ephraim Lessing (Berlin: Voß 1784). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919443-8">BSB München: Res/H.g.hum. 138 mu</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="lessing-briefe-gottesgelehrte" type="neuzeit" sort="168">
+<lemma>Lessing, <titel>Briefe an verschiedene Gottesgelehrte</titel></lemma>
+<eintrag><titel>G. E. Lessings Briefe an verschiedene Gottesgelehrte</titel>. Für Sommer 1780 angekündigt, aber zu Lebzeiten nicht erschienen; <link ref="lessing" subref="lessing-nachlass" linktext="true" />, S.&#x202F;27f. und 113–154.
 </eintrag>
 </subsection>
 <subsection id="lessing-nachlass" type="neuzeit" sort="170">
@@ -17452,7 +17520,7 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 
 <kommentar id="seligmann" type="neuzeit">
 <lemma>Christian Gottfried Seligmann</lemma>
-<eintrag>1717–1780. Geb. Jakob Hirsch, kam nach der Vertreibung aus Prag 1748 nach Königsberg, konvertierte dort 1750 vom jüdischen zum evanglischen Glauben, studierte Philosophie und Mathematik, gab Privatunterricht in den hebräischen, rabbinischen und jüdisch-deutschen Sprachen, lehrte am Fridericianum, ab 1755 öffentlicher Dolmetscher der hebräischen, rabbinischen und jüdisch-deutschen Sprachen bei allen Landeskollegien Preußens. (J. F. Goldbeck, <titel>Litterarische Nachrichten von Preußen</titel>, Bd.&#x202F;1, Leipzig, Dessau 1781, S.&#x202F;219).</eintrag>
+<eintrag>1717–1780. Geb. Jakob Hirsch, kam nach der Vertreibung aus Prag 1748 nach Königsberg, konvertierte dort 1750 vom jüdischen zum evanglischen Glauben, studierte Philosophie und Mathematik, gab Privatunterricht in den hebräischen, rabbinischen und jüdisch-deutschen Sprachen, lehrte am Fridericianum, ab 1755 öffentlicher Dolmetscher der hebräischen, rabbinischen und jüdisch-deutschen Sprachen bei allen Landeskollegien Preußens; siehe <link ref="goldbeck" subref="goldbeck-nachrichten" linktext="true" />, Bd.&#x202F;1, S.&#x202F;219).</eintrag>
 </kommentar>
 
 <kommentar id="selis" type="neuzeit">
@@ -19151,7 +19219,7 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <subsection id="trescho-erdbeben" type="neuzeit" sort="20">
 <lemma>Trescho, <titel>Der Herr im Erdbeben</titel></lemma>
 <eintrag>
-<titel>Der Herr im Erdbeben</titel> (Königsberg 1755); Druck nicht ermittelt, Angabe gemäß J. F. Goldbeck, <titel>Litterarische Nachrichten von Preußen</titel>, Bd.&#x202F;1, Leipzig, Dessau 1781, S.&#x202F;128.
+<titel>Der Herr im Erdbeben</titel> (Königsberg 1755); Druck nicht ermittelt, Angabe gemäß <link ref="goldbeck" subref="goldbeck-nachrichten" linktext="true" />, Bd.&#x202F;1, S.&#x202F;128.
 </eintrag>
 </subsection>
 <subsection id="trescho-religion" type="neuzeit" sort="30">
