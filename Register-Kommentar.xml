@@ -5487,7 +5487,7 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 
 <kommentar id="fischer-jf" type="neuzeit">
 <lemma>Johann Friedrich Fischer</lemma>
-<eintrag>1726–1799. Philologe, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz044_00331_1.html">Deutsche Biographie</wwwlink>.</eintrag>
+<eintrag>1726–1799. Philologe in Leipzig, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz044_00331_1.html">Deutsche Biographie</wwwlink>.</eintrag>
 <subsection id="fischer-platonis" type="neuzeit" sort="10">
 <lemma>Fischer, <titel>Platonis Dialogi</titel></lemma>
 <eintrag><titel>Platonis Dialogi qvatvor Evthyphro Apolog. Socratis Crito Phaedo : Graece / e recensione Henrici Stephani; varietate lectionis animadversionibusque criticis brevibus illustrati ab Joh. Frider. Fischero</titel> (Leipzig: Langenheim 1760) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;13/196: „Platonis IV. Dialogi gr. ex ed. Fischeri. Lips 760“].</eintrag>
@@ -6595,7 +6595,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <subsection id="goldbeck-nachrichten" type="neuzeit" sort="10">
 <lemma>Goldbeck (Hg.), <titel>Litterarische Nachrichten von Preußen</titel></lemma>
 <eintrag>
-<titel>Litterarische Nachrichten von Preußen</titel>. Herausgegeben von J. F. Goldbeck (2 Bde.,Berlin, Leipzig und Dessau 1781–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10732713-5">BSB München: H.lit.p. 151 l-1/2</wwwlink>.
+<titel>Litterarische Nachrichten von Preußen</titel>. Herausgegeben von J. F. Goldbeck (2 Bde.,Berlin, Leipzig und Dessau 1781–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10732713-5">BSB München: H.lit.p. 151 l-1/2</wwwlink>. – Vgl. den Eintrag zu Hamann in <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10732713?page=61">Bd.&#x202F;1, S.&#x202F;47–50</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10732713?page=249">S.&#x202F;235</wwwlink> (N&#x202F;IV,449f.).
 
 </eintrag>
 </subsection>
@@ -7147,7 +7147,7 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 <subsection id="hahn-nt" type="neuzeit" sort="30">
     <lemma>Hahn, <titel>Neues Testament</titel></lemma>
     <eintrag>
-    <titel>Die heilige Schriften der guten Bothschaft vom verheissenen Königreich, oder das sogenannte neue Testament. Zum Dienste derer, welche sich aus den ersten Quellen der göttlichen Schriften selbst erbauen wollen, nach der heutigen Teutschen Sprachart neu übersetzt; und mit vielen zum lautern Wortverstand leitenden Hülfsmitteln, Fingerzeigen und Erklärungen versehen</titel> (s.l. 1777). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00004DD600000000">Stabi Berlin: Ct 6008</wwwlink>.</eintrag>
+    <titel>Die heilige Schriften der guten Botschaft vom verheissenen Königreich, oder das sogenannte neue Testament. Zum Dienste derer, welche sich aus den ersten Quellen der göttlichen Schriften selbst erbauen wollen, nach der heutigen Teutschen Sprachart neu übersetzt; und mit vielen zum lautern Wortverstand leitenden Hülfsmitteln, Fingerzeigen und Erklärungen versehen</titel> (s.l. 1777). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00004DD600000000">Stabi Berlin: Ct 6008</wwwlink>.</eintrag>
     </subsection>
 </kommentar>
 
@@ -13018,6 +13018,12 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 <lemma>Meiners, <titel>Ueber die Mysterien der Alten</titel></lemma>
 <eintrag>
 <titel>Ueber die Mysterien der Alten, besonders die Eleusinischen Geheimnisse.</titel> In: <link ref="meiners" subref="meiners-vermischte" linktext="true" />, Bd.&#x202F;3, S.&#x202F;164–342.
+</eintrag>
+</subsection>
+<subsection id="meiners-deo" type="neuzeit" sort="50">
+<lemma>Meiners, <titel>Historia doctrinae de vero Deo</titel></lemma>
+<eintrag>
+<titel>Historia doctrinae de vero Deo, omnium rerum auctore et rectore</titel> (2 Bde., Lemgo: Meyer 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11760999-6">Stabi Bamberg: Ph.o.739#1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
