@@ -29186,7 +29186,7 @@ Brief Nr. 248
 </marginal>
 
 <marginal letter="248" page="209" line="25">
-<bzg>Pillau</bzg> heute <wwwlink address="https://www.geonames.org/2609906">Baltijsk</wwwlink>, 60&#x202F;km westlich von Königsberg an der See-Durchfahrt auf der Frischen Nehrung
+<bzg>Pillau</bzg> 60&#x202F;km westlich von Königsberg an der See-Durchfahrt auf der Frischen Nehrung, heute <wwwlink address="https://www.geonames.org/2609906">Baltijsk</wwwlink>
 </marginal>
 
 <marginal letter="248" page="209" line="27" sort="1">
@@ -32424,7 +32424,7 @@ Brief Nr. 267
 </marginal>
 
 <marginal letter="267" page="257" line="23">
-<bzg>Pillau</bzg> heute <wwwlink address="https://www.geonames.org/2609906">Baltijsk</wwwlink>, 60&#x202F;km westlich von Königsberg an der See-Durchfahrt auf der Frischen Nehrung
+<bzg>Pillau</bzg> 60&#x202F;km westlich von Königsberg an der See-Durchfahrt auf der Frischen Nehrung, heute <wwwlink address="https://www.geonames.org/2609906">Baltijsk</wwwlink>
 </marginal>
 
 <marginal letter="267" page="257" line="27" sort="1">
@@ -64577,7 +64577,7 @@ Antwort auf einen nicht überlieferten Brief Hamanns (<intlink letter="506" page
 Brief Nr. 507
 
 <marginal letter="507" page="364" line="21">
-<bzg>Addresse nach Pillau</bzg> heute <wwwlink address="https://www.geonames.org/2609906">Baltijsk</wwwlink>, 60&#x202F;km westlich von Königsberg an der See-Durchfahrt auf der Frischen Nehrung; vmtl. im Zusammenhang von Besorgungen für <link ref="kaufmann-c" linktext="true" />, vgl. <intlink letter="507a" page="365" line="10" linktext="true" />
+<bzg>Addresse nach Pillau</bzg> 60&#x202F;km westlich von Königsberg an der See-Durchfahrt auf der Frischen Nehrung, heute <wwwlink address="https://www.geonames.org/2609906">Baltijsk</wwwlink>; vmtl. im Zusammenhang von Besorgungen für <link ref="kaufmann-c" linktext="true" />, vgl. <intlink letter="507a" page="365" line="10" linktext="true" />
 </marginal>
 
 <marginal letter="507" page="364" line="22">
@@ -73572,7 +73572,7 @@ Brief Nr. 565
 </marginal>
 
 <marginal letter="565" page="112" line="11" >
-<bzg>Pillau</bzg> heute <wwwlink address="https://www.geonames.org/2609906">Baltijsk</wwwlink>, 60&#x202F;km westlich von Königsberg an der See-Durchfahrt auf der Frischen Nehrung 
+<bzg>Pillau</bzg> 60&#x202F;km westlich von Königsberg an der See-Durchfahrt auf der Frischen Nehrung, heute <wwwlink address="https://www.geonames.org/2609906">Baltijsk</wwwlink>
 </marginal>
 
 <marginal letter="565" page="112" line="12" >
@@ -81236,7 +81236,7 @@ Brief Nr. 598
 </marginal>
 
 <marginal letter="598" page="208" line="20">
-<bzg>Namens Rhode</bzg> nicht ermittelt?!?
+<bzg>Namens Rhode</bzg> <link ref="rohd-d" linktext="true" />
 </marginal>
 
 <marginal letter="598" page="208" line="21">
@@ -81564,11 +81564,11 @@ Brief Nr. 598
 </marginal>
 
 <marginal letter="598" page="211" line="27">
-<bzg>Berenssche Blatt</bzg> <link ref="berens-jc" subref="berens-blatt" linktext="true" />, <intlink letter="598" page="208" line="24" linktext="false">s.o.</intlink>
+<bzg>Einfall&#x202F;…&#x202F;recensieren</bzg> Die Rezension von <link ref="berens-jc" subref="berens-blatt" linktext="true" /> für die <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> (ein Auftrag Hartknochs, <intlink letter="598" page="208" line="22" linktext="false">s.o.</intlink>); der ‚Einfall‘ dazu und die Niederschrift der Rezension fanden bereits früher statt, vgl. <intlink letter="599" page="213" line="11" linktext="true" />.
 </marginal>
 
 <marginal letter="598" page="211" line="28">
-<bzg>diesen Donnerstag in die Zeitungen</bzg> in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, nicht überliefert; Donnerstag ist 24. August 1780, die Rezension erschien aber wohl bereits redigiert am Montag, 21. August, und von <link ref="kanter" linktext="false">Kanter</link> redigiert, wie Hamann kurz darauf bemerkt, <intlink letter="598" page="212" line="11" linktext="false">s.u.</intlink>
+<bzg>diesen Donnerstag in die Zeitungen</bzg> in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, nicht überliefert; Donnerstag ist der 24. August 1780, die Rezension erschien aber wohl bereits am Montag, 21. August, und von <link ref="kanter" linktext="false">Kanter</link> redigiert, wie Hamann kurz darauf erwähnt, <intlink letter="598" page="212" line="11" linktext="false">s.u.</intlink>
 </marginal>
 
 <marginal letter="598" page="211" line="29">
@@ -81731,15 +81731,19 @@ Brief Nr. 598
 </marginal>
 
 <marginal letter="599" page="213" line="11">
-<bzg>fiel es mir einen Abend ein</bzg> vgl. <intlink letter="" page="" line="" linktext="true" />
+<bzg>fiel es mir einen Abend ein</bzg> vgl. <intlink letter="598" page="211" line="27" linktext="true" />
 </marginal>
 
 <marginal letter="599" page="213" line="12">
 <bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
-<marginal letter="599" page="213" line="13">
-<bzg>Dienstags</bzg> 22. August 1780; die Rezension erschien vmtl. bereits am Montag, 21. August und offenbar von Kanter stark geändert, vgl. <intlink letter="598" page="212" line="11" linktext="true" />
+<marginal letter="599" page="213" line="13" sort="1">
+<bzg>Pr. Abreise</bzg> <link ref="friedrich-wilhelm-II" linktext="false">Kronprinz Friedrich Wilhelm</link> reiste am Dienstag, 22. August ab, vgl. <intlink letter="598" page="211" line="26" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="213" line="13" sort="2">
+<bzg>Dienstags</bzg> 22. August 1780; die Rezension erschien vmtl. bereits am Montag, 21. August und offenbar von Kanter redigiert, vgl. <intlink letter="598" page="212" line="11" linktext="true" />
 </marginal>
 
 <marginal letter="599" page="213" line="14">
@@ -81747,11 +81751,155 @@ Brief Nr. 598
 </marginal>
 
 <marginal letter="599" page="213" line="15">
-<bzg>Interessenten und meines</bzg> dem Rigaer Rat und <link ref="berens-jc" linktext="true" />
+<bzg>Interessenten und meines</bzg> dem Rat der Stadt Riga und <link ref="berens-jc" linktext="true" />
 </marginal>
 
 <marginal letter="599" page="213" line="19">
 <bzg>Uebersetzung</bzg> <link ref="hamann" subref="hamann-dialogues" linktext="true" />, die zu verlegen Hartknoch zuvor zustimmte, vgl. <intlink letter="598" page="211" line="36" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="213" line="22" sort="1">
+<bzg>Gev. Herder&#x202F;…&#x202F;zu schreiben angefangen</bzg> <intlink letter="598" page="208" line="2" linktext="false">HKB 598</intlink> an <link ref="herder" linktext="false">Herder</link>
+</marginal>
+
+<marginal letter="599" page="213" line="22" sort="2">
+<bzg>Pathchen</bzg> <link ref="herder-a" linktext="false">August Herder</link>
+</marginal>
+
+<marginal letter="599" page="213" line="24">
+<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="213" line="25">
+<bzg>50jährigen Geistl. in Schwaben</bzg> der angedachte fingierte Übersetzer von <link ref="hamann" subref="hamann-dialogues" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="213" line="26">
+<bzg>Kant arbeitet in rechtem Ernst</bzg> an <link ref="kant" subref="kant-critik-vernunft" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="213" line="27">
+<bzg>Ihnen oder Hartung</bzg> <link ref="hartung-gl" linktext="true" />; Verleger wurde letztlich Hartknoch
+</marginal>
+
+<marginal letter="599" page="213" line="30">
+<bzg>diesmal Wort halten wird</bzg> Die <titel>Critik der reinen Vernunft</titel> sollte ursprünglich eine Überarbeitung von <link ref="kant" subref="kant-mundisensibilis" linktext="false">Kants Dissertation</link>; er änderte das Konzept aber grundlegend und verschob die Erscheinung in den 1770ern mehrfach.
+</marginal>
+
+<marginal letter="599" page="213" line="31">
+<bzg>Lavater u Pfenninger</bzg> <link ref="lavater" linktext="true" /> und <link ref="pfenninger" linktext="true" />; Hamann schrieb doch nur an Pfenninger (vgl. <intlink letter="601" page="223" line="18" linktext="true" />), nicht überliefert.
+</marginal>
+
+<marginal letter="599" page="213" line="33">
+<bzg>Rector Snell</bzg> <link ref="snell" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="213" line="34">
+<bzg>mitgetheilten Auszug</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="599" page="213" line="35" sort="2">
+<bzg>HE Courtan</bzg> <link ref="courtan-pj" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="213" line="35" sort="2">
+<bzg>Mama</bzg> <link ref="courtan-as" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="213" line="36">
+<bzg>Pillau</bzg> 60&#x202F;km westlich von Königsberg an der See-Durchfahrt auf der Frischen Nehrung, heute <wwwlink address="https://www.geonames.org/2609906">Baltijsk</wwwlink>
+</marginal>
+
+<marginal letter="599" page="214" line="1">
+<bzg>Prinz</bzg> 
+</marginal>
+
+<marginal letter="599" page="214" line="2">
+<bzg>3 Kronen</bzg> der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>; damit in Hamanns Nachbarschaft,vgl. <intlink letter="598" page="211" line="3" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="3">
+<bzg>HE. Rhod</bzg> <link ref="rohd-d" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="4">
+<bzg>Parisius</bzg> <link ref="parisius" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="5">
+<bzg>Arndt</bzg> <link ref="arndt-cg" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="7">
+<bzg>Hume Contrebande machen wird</bzg> wegen der kontroversen theologischen Thesen in <link ref="hume" subref="hume-dialogues" linktext="true" /> und Sorgen um die Zensur, die Hartknoch wohl zuvor äußerte
+</marginal>
+
+<marginal letter="599" page="214" line="10">
+<bzg>Retif de la Bret</bzg> <link ref="restif" linktext="true" />, vgl. <intlink letter="598" page="209" line="11" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="11" sort="1">
+<bzg>Geschichte meines Vaters</bzg> <link ref="restif" subref="restif-pere" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="11" sort="2">
+<bzg>neuen Abälard</bzg> <link ref="restif" subref="restif-abeilard" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="12" sort="1">
+<bzg>väterl. Fluch</bzg> <link ref="restif" subref="restif-malediction" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="12" sort="2">
+<bzg>Fanchettens Fuß</bzg> <link ref="restif" subref="restif-fanchette" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="12" sort="3">
+<bzg>glücklich widergefundene Tochter</bzg> <link ref="restif" subref="restif-fille" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="13">
+<bzg>Vierziger</bzg> <link ref="restif" subref="restif-quadragenaire" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="14" sort="1">
+<bzg>sämtl. Werke&#x202F;…&#x202F;Idées singulieres</bzg> ist der Reihentitel von Pornographe etc. gemeint oder gibts noch eine andere zeitgenössische Restif-Reihe oder gar Werkausgabe deutsch oder französisch? oder meint Hamann hier die Sache?!?; vgl. auch die <intlink letter="599" page="479" line="10" linktext="false">Notiz unten</intlink>.
+</marginal>
+
+<marginal letter="599" page="214" line="14" sort="2">
+<bzg>Väterschule</bzg> Hamann verwechselt wohl <link ref="restif" subref="restif-ecole" linktext="false">Restifs <titel>Die Väter-Schule</titel></link> – eine Übersetzung von <link ref="restif-ecole" subref="restif-ecole" linktext="false"><titel>l’École des pères</titel></link>, die 1781 erschien – mit <link ref="restif" subref="restif-jeunesse" linktext="true" />.
+</marginal>
+
+<marginal letter="599" page="214" line="15" sort="1">
+<bzg>femme dans les 3 Etats</bzg> ?!?
+</marginal>
+
+<marginal letter="599" page="214" line="15" sort="2">
+<bzg>paysan perverti</bzg> ; vgl. auch die <intlink letter="599" page="479" line="10" linktext="false">Notiz unten</intlink>?!?
+</marginal>
+
+<marginal letter="599" page="214" line="15" sort="3">
+<bzg>Gynographes</bzg> <link ref="restif" subref="restif-gynographe" linktext="true" /> – noch Übersetzung?!?
+</marginal>
+
+<marginal letter="599" page="214" line="15" sort="4">
+<bzg>Hibou</bzg> ?!?
+</marginal>
+
+<marginal letter="599" page="214" line="16">
+<bzg>Nouvelles</bzg> ?!?
+</marginal>
+
+<marginal letter="599" page="214" line="17">
+<bzg>RH. B. für Sein Blatt</bzg> <link ref="berens-jc" linktext="true" /> für sein <link ref="berens-jc" subref="berens-blatt" linktext="false"><titel>Blatt zur Chronik von Riga</titel></link>
+</marginal>
+
+<marginal letter="599" page="214" line="18" sort="1">
+<bzg>Hälfte</bzg> <link ref="hartknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="599" page="214" line="18" sort="2">
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
 </marginal>
 
 

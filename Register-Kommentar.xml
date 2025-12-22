@@ -3739,6 +3739,12 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 <eintrag>1647–1733. Marquise de Lambert. Schirmherrin eines berühmten Pariser Salons, Schriftstellerin. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;23, 1819), S.&#x202F;262f.</eintrag>
 </kommentar>
 
+<kommentar id="courtan-as" type="neuzeit">
+<lemma>Anne Susanne Courtan</lemma>
+<eintrag>Geb. 1690, geb. Bitaubé. Mutter von <link ref="courtan-pj" linktext="true" /> und <link ref="lindner-m" linktext="true" />; sie heiratete Simon Pierre Courtan am 25. November 1708; siehe <wwwlink address="https://homepages.ruhr-uni-bochum.de/raphael.dammer/pafg1819.htm#120256">Genealogische Forschung von Raphael Dammer</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="courtan-f" type="neuzeit">
 <lemma>Fritz Courtan</lemma>
 <eintrag>Sohn von <link ref="courtan-sm" linktext="true" /> und <link ref="courtan-pj" linktext="true" />.
@@ -7701,7 +7707,7 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 </eintrag>
 </subsection>
 <subsection id="hamann-dialogues" type="neuzeit" sort="730">
-<lemma>Hamann (Übers.), <titel>Dialogues concerning natural Religion</titel></lemma>
+<lemma>Hamann (Übers.), <titel>Dialogen die natürliche Religion betreffend</titel></lemma>
 <eintrag>
 Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Er wollte sie durch <link ref="hartknoch" linktext="false">Hartknoch</link> verlegen lassen (vgl. <intlink letter="596" page="205" line="25" linktext="true" />), das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung</link> bekannt wurde. Lediglich ein Bruchteil der geleisteten Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
 </eintrag>
@@ -16197,10 +16203,30 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <titel>La Mimographe, ou idées d’une honnête-femme pour la réformation du théâtre national</titel> (Amsterdam, Den Haag 1770). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/10419A59">ÖNB Wien: 621169-B.2 THE MAG</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="restif-jeunesse" type="neuzeit" sort="45">
+<lemma>Restif, <titel>Le Marquis de T***, ou l’École de la jeunesse</titel></lemma>
+<eintrag>
+<titel>Le Marquis de T***, ou l’École de la jeunesse. Tireé des Mémoires recueillies par N.E.A. Desforets, homme-d’affaires de la Maison de T***</titel> (4 Bde., London 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432013-9">Stabi Bamberg: Bip.L.fr.o.245</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="restif-ecole" type="neuzeit" sort="47">
+<lemma>Restif, <titel>l’École des pères</titel></lemma>
+<eintrag>
+<titel>L’École des pères</titel> par N.E. Retif de la Bretonne (3 Bde., Paris 1776). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432248-2">Stabi Bamberg: Bip.L.fr.o.330</wwwlink>.<line type="break" />
+Übers.: <titel>Die Väter-Schule</titel> aus dem Französischen nach der vollständigen Handschrift des Herrn N.E. Retif de la Bretonne (3 Bde., Berlin: Voß 1781–1782). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-502209">UB Heidelberg</wwwlink>. Vgl. N&#x202F;V,352f.
+</eintrag>
+</subsection>
 <subsection id="restif-gynographe" type="neuzeit" sort="50">
 <lemma>Restif, <titel>Les Gynographes</titel></lemma>
 <eintrag>
 <titel>Les Gynographes ou idées de deux honnêtes-femmes sur un projet de reglement</titel> (2 Bde., Den Haag 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432687-8">Stabi Bamberg: Bip.L.fr.o.455</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="restif-quadragenaire" type="neuzeit" sort="55">
+<lemma>Restif, <titel>Le Quadragénaire</titel></lemma>
+<eintrag>
+<titel>Le Quadragénaire, ou l’Âge de renoncer aux passions. Histoire utile à plus d’un lecteur</titel> (2 Bde., Genf 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432198-9">Stabi Bamberg: Bip.L.fr.o.315-a</wwwlink>.<line type="break" />
+Übers.: <titel>Der Vierziger, oder das schickliche Alter, der Liebe zu entsagen. Eine nützliche Geschichte aus dem Französischen</titel> (2 Bde., Leipzig 1778; siehe <wwwlink address="https://books.google.de/books?id=BAwWAAAAMAAJ">Bloch: Rétif-Bibliothek, S.&#x202F;30</wwwlink>). Vgl. N&#x202F;V,352f.
 </eintrag>
 </subsection>
 <subsection id="restif-abeilard" type="neuzeit" sort="60">
@@ -16345,6 +16371,12 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <kommentar id="rohd-jf" type="neuzeit">
 <lemma>Jakob Friedrich von Rohd</lemma>
 <eintrag>1703–1784. Oberburggraf und geheimer Etatsminister, Vorsitzender des <link ref="oberburggraf-amt" linktext="false">Oberburggräflichen Amtes in Königsberg</link> und des <link ref="pupillenkollegium" linktext="false">Pupillenkollegiums</link>, 1763 bis 1772 abwesend (brandenburg-preußischer Gesandter in Wien).
+</eintrag>
+</kommentar>
+
+<kommentar id="rohd-d" type="neuzeit">
+<lemma>N.N. Rohd</lemma>
+<eintrag>Lebensdaten nicht ermittelt; 1780 Leibchirurg im Gefolge von <link ref="friedrich-wilhelm-II" linktext="false">Kronprinz Friedrich Wilhelm</link> auf seiner Königsberg-Reise; Schulfreund <link ref="brahl" linktext="false">Johann Brahls</link> aus Königsberg.
 </eintrag>
 </kommentar>
 
@@ -17844,6 +17876,12 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 Übers.: <titel>Humphrey Klinkers Reise. Aus dem Englischen von <link ref="bode-jjc" linktext="true" /></titel> (3 Bde., Leipzig: Weidmanns Erben 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10750222-9">BSB München: P.o.angl. 387</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="snell" type="neuzeit">
+<lemma>Karl Philipp Michael Snell</lemma>
+<eintrag>1753–1806. Pastor, Pädagoge und Publizist, seit 1780 Rektor der Domschule in Riga, 1787 wegen Nachlässigkeit entlassen; siehe <wwwlink address="https://utlib.ut.ee/eeva/index.php?lang=de&#x26;do=autor&#x26;aid=134">EEVA</wwwlink> und <wwwlink address="https://bbld.de/GND14141054X">BBLD</wwwlink>.
+</eintrag>
 </kommentar>
  
 <kommentar id="soave" type="neuzeit">
