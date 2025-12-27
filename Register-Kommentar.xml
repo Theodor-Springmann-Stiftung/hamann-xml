@@ -16177,6 +16177,13 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <lemma>Nicolas Edme Restif de la Bretonne</lemma>
 <eintrag>1734–1806. Französischer Schriftsteller zahlreicher Romane, vor allem von sozialrealistisch-freizügigen Romanen.
 </eintrag>
+<subsection id="restif-lucile" type="neuzeit" sort="5">
+<lemma>Restif, <titel>Lucile, ou les progrès de la vertu</titel></lemma>
+<eintrag>
+<titel>Lucile, ou les progrès de la vertu. Par un Mousquetaire</titel> (Den Haag, Frankfurt 1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10781072-4">BSB München: Rem.IV 1544</wwwlink>.<line type="break" />
+Übers.: <titel>Die Unschuld in Gefahr, oder die ungewöhnlichen Ereignisse.</titel> Aus dem Französischen des Herrn Retif De-La-Bretonne (Breslau, Leipzig: Korn 1780). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN662032829">SUB Göttingen</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="restif-pornographe" type="neuzeit" sort="10">
 <lemma>Restif, <titel>Le Pornographe</titel></lemma>
 <eintrag>
@@ -16203,50 +16210,63 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 <titel>La Mimographe, ou idées d’une honnête-femme pour la réformation du théâtre national</titel> (Amsterdam, Den Haag 1770). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/10419A59">ÖNB Wien: 621169-B.2 THE MAG</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="restif-jeunesse" type="neuzeit" sort="45">
+<subsection id="restif-jeunesse" type="neuzeit" sort="50">
 <lemma>Restif, <titel>Le Marquis de T***, ou l’École de la jeunesse</titel></lemma>
 <eintrag>
 <titel>Le Marquis de T***, ou l’École de la jeunesse. Tireé des Mémoires recueillies par N.E.A. Desforets, homme-d’affaires de la Maison de T***</titel> (4 Bde., London 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432013-9">Stabi Bamberg: Bip.L.fr.o.245</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="restif-ecole" type="neuzeit" sort="47">
+<subsection id="restif-femme-etats" type="neuzeit" sort="60">
+<lemma>Restif, <titel>La femme dans les trois états de fille, d’épouse, et de mère</titel></lemma>
+<eintrag>
+<titel>La femme dans les trois états de fille, d’épouse, et de mère. Histoire morale, comique et véritable</titel> (3 Tle., London 1773). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k1513461n">BNF Paris: RES P-Y2-1415</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="restif-perverti" type="neuzeit" sort="70">
+<lemma>Restif, <titel>Le paysan perverti</titel></lemma>
+<eintrag>
+<titel>Le paysan perverti, ou les dangers de la ville; histoire récente, mise au jour d’après les véritables Lettres des Personnages.</titel> Par N.E. Rétif de la Bretone (5 Bde., Den Haag 1776, zuvor auch 1775 erschienen). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10781799-8">BSB München: Rem.IV 2814</wwwlink>.<line type="break" />
+Hamann erwähnt im Studienheft (1.8.1780, N&#x202F;V,352f.) die Übersetzung „Die Gefahr des Stadtlebens“; nicht ermittelt, mglw. ist eine vmtl. 1778 erschienene Übersetzung von J.A. Engelbrecht gemeint, vgl. <wwwlink address="https://books.google.de/books?id=BAwWAAAAMAAJ">Bloch: Rétif-Bibliothek, S.&#x202F;31f</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="restif-ecole" type="neuzeit" sort="75">
 <lemma>Restif, <titel>l’École des pères</titel></lemma>
 <eintrag>
 <titel>L’École des pères</titel> par N.E. Retif de la Bretonne (3 Bde., Paris 1776). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432248-2">Stabi Bamberg: Bip.L.fr.o.330</wwwlink>.<line type="break" />
 Übers.: <titel>Die Väter-Schule</titel> aus dem Französischen nach der vollständigen Handschrift des Herrn N.E. Retif de la Bretonne (3 Bde., Berlin: Voß 1781–1782). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-502209">UB Heidelberg</wwwlink>. Vgl. N&#x202F;V,352f.
 </eintrag>
 </subsection>
-<subsection id="restif-gynographe" type="neuzeit" sort="50">
+<subsection id="restif-gynographe" type="neuzeit" sort="80">
 <lemma>Restif, <titel>Les Gynographes</titel></lemma>
 <eintrag>
-<titel>Les Gynographes ou idées de deux honnêtes-femmes sur un projet de reglement</titel> (2 Bde., Den Haag 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432687-8">Stabi Bamberg: Bip.L.fr.o.455</wwwlink>.
+<titel>Les Gynographes ou idées de deux honnêtes-femmes sur un projet de reglement Proposé à toute l’Europe, pour mettre les Femmes à leur place, et opérer le bonheur des deux sexes; avec des notes historiques et justificatives, suivies des noms des femmes célébres</titel> (2 Bde., Den Haag 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432687-8">Stabi Bamberg: Bip.L.fr.o.455</wwwlink>. Vgl. N&#x202F;V,352f.: „Les Gynographes ou la femme reformée. 777. Paris Humblot S. 279 (†)“
 </eintrag>
 </subsection>
-<subsection id="restif-quadragenaire" type="neuzeit" sort="55">
+<subsection id="restif-quadragenaire" type="neuzeit" sort="90">
 <lemma>Restif, <titel>Le Quadragénaire</titel></lemma>
 <eintrag>
 <titel>Le Quadragénaire, ou l’Âge de renoncer aux passions. Histoire utile à plus d’un lecteur</titel> (2 Bde., Genf 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432198-9">Stabi Bamberg: Bip.L.fr.o.315-a</wwwlink>.<line type="break" />
 Übers.: <titel>Der Vierziger, oder das schickliche Alter, der Liebe zu entsagen. Eine nützliche Geschichte aus dem Französischen</titel> (2 Bde., Leipzig 1778; siehe <wwwlink address="https://books.google.de/books?id=BAwWAAAAMAAJ">Bloch: Rétif-Bibliothek, S.&#x202F;30</wwwlink>). Vgl. N&#x202F;V,352f.
 </eintrag>
 </subsection>
-<subsection id="restif-abeilard" type="neuzeit" sort="60">
+<subsection id="restif-abeilard" type="neuzeit" sort="100">
 <lemma>Restif, <titel>Le Nouvel Abeilard</titel></lemma>
 <eintrag>
 <titel>Le Nouvel Abeilard, ou Lettres de deux amants qui ne se sont jamais vus</titel> (4 Bde., Neuchatel 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10097001-2">BSB München: P.o.gall. 1880 sq-1</wwwlink>.<line type="break" />
 Übers.: <titel>Der neue Abeilard, oder Briefe zweyer Liebenden welche einander nie gesehn.</titel> Aus dem Französischen (4 Bde., Leipzig: Junius 1780). Vgl. N&#x202F;V,352f.
 </eintrag>
 </subsection>
-<subsection id="restif-pere" type="neuzeit" sort="70">
+<subsection id="restif-pere" type="neuzeit" sort="110">
 <lemma>Restif, <titel>La Vie de Mon Père</titel></lemma>
 <eintrag>
 <titel>La Vie de mon père. Par l’Auteur du Paysand perverti</titel> (Neuchatel 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10924335-0">BSB München: Res/P.o.gall. 2199</wwwlink>.<line type="break" />
 Übers.: <titel>Leben meines Vaters. Vom Verfasser des neuen Abeillards</titel>. Aus dem Französischen (2 Bde., Berlin: Voß 1780). Digitalisat: <wwwlink address="https://digital.staatsbibliothek-berlin.de/suche?queryString=PPN1678928437">Stabi Berlin: Bibl. Varnhagen 1493</wwwlink>. Vgl. N&#x202F;V,352f.
 </eintrag>
 </subsection>
-<subsection id="restif-malediction" type="neuzeit" sort="80">
+<subsection id="restif-malediction" type="neuzeit" sort="120">
 <lemma>Restif, <titel>La Malédiction paternelle</titel></lemma>
 <eintrag>
-<titel>La Malédiction paternelle: Lettres sincères et véritables de N.*******, à ses Parens, ses Amis, et ses Maîtresses; avec les Réponses: Recueillies et publiées par Timothée Joly, son Exécuteur testamentaire</titel> (2 Bde., Leipzig 1780). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k97657857">BNF Paris: 8-Z LE SENNE-4807</wwwlink>.<line type="break" />
+<titel>La Malédiction paternelle: Lettres sincères et véritables de N.*******, à ses Parens, ses Amis, et ses Maîtresses; avec les Réponses: Recueillies et publiées par Timothée Joly, son Exécuteur testamentaire</titel> (2 Bde., Leipzig 1780). Digitalisat Bd.&#x202F;1: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k97657857">BNF Paris: 8-Z LE SENNE-4807 (1)</wwwlink>. Bd.&#x202F;2: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k9765488f">BNF Paris: 8-Z LE SENNE-4807 (2)</wwwlink>.<line type="break" />
 Übers.: <titel>Der väterliche Fluch ein gesammleter ächter Briefwechsel eines verfluchten Sohns aus seinen Papieren herausgegeben von dem Vollstrecker seines letzten Willens Timotheus Joly</titel>. Aus dem Französischen (2 Bde., Leipzig: Junius 1780). Digitalisat: <wwwlink address="http://ub-goobi-pr2.ub.uni-greifswald.de/viewer/toc/PPN1026006686/0/">UB Greifswald</wwwlink>. Vgl. N&#x202F;V,352f.
 </eintrag>
 </subsection>
