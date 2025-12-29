@@ -5681,6 +5681,11 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 </subsection>
 </kommentar>
 
+<kommentar id="frankenberg-fd" type="neuzeit">
+<lemma>Friederike Dorothea Karoline von Frankenberg</lemma>
+<eintrag>1745–1832. Geb. Rüxleben. Ehefrau von Sylvius Ludwig Friedrich von Frankenberg und Ludwigsdorf (seit 1765 Geheimer Rat in Sachsen-Gotha); Patin von <link ref="herder-ad" linktext="false">Adelbert Herder</link>.</eintrag>
+</kommentar>
+
 <kommentar id="freret" type="neuzeit">
 <lemma>Nicolas Fréret</lemma>
 <eintrag>1688–1749. Frz. Historiker, siehe <wwwlink address="https://d-nb.info/gnd/118703056">GND</wwwlink>.</eintrag>
@@ -8002,12 +8007,18 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="hartwig" type="neuzeit">
 <lemma>Franz Gotthold Hartwig</lemma>
-<eintrag>1742–1820. Theologischer Publizist, Pfarrer in Grosshartmannsdorf, siehe <wwwlink address="https://d-nb.info/gnd/133738906">GND</wwwlink>.
+<eintrag>1742–1820. Theologischer Publizist, Pfarrer in Grosshartmannsdorf (Kursachsen), siehe <wwwlink address="https://d-nb.info/gnd/133738906">GND</wwwlink>.
 </eintrag>
-<subsection id="hartwig-apologie" type="neuzeit">
+<subsection id="hartwig-apologie" type="neuzeit" sort="10">
 <lemma>Hartwig, <titel>Apologie der Apokalypse</titel></lemma>
 <eintrag>
 <titel>Apologie der Apokalypse wider falschen Tadel und falsches Lob</titel> (4 Tle., Chemnitz 1780–1783). Digitalisat Tl.&#x202F;1 und 2: <wwwlink address="https://books.google.de/books?id=G9yZJKf-7j4">Google Books</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="hartwig-gedichte" type="neuzeit" sort="20">
+<lemma>Hartwig, <titel>Gedichte und poetische Abhandlung</titel></lemma>
+<eintrag>
+<titel>Gedichte und poetische Abhandlung von M. F.G.H. P.z.G.</titel> (Freiberg 1780). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3397148830">SLUB Dresden: 4.A.3521</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -8532,7 +8543,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <subsection id="herder-dichtkunst-wuerkung" type="neuzeit" sort="460">
 <lemma>Herder, <titel>Ueber die Würkung der Dichtkunst auf die Sitten der Völker in alten und neuen Zeiten</titel></lemma>
 <eintrag>
-<titel>Ueber die Würkung der Dichtkunst auf die Sitten der Völker in alten und neuen Zeiten.</titel> Erstdruck in: Abhandlungen der baierischen Akademie über Gegenstände der schönen Wissenschaften (München: Strobl 1781), 25–138. Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/10A0E35D">ÖNB Wien: 392785-B.1 ALT MAG</wwwlink>. – SWS VIII, S.&#x202F;334–436.
+<titel>Ueber die Würkung der Dichtkunst auf die Sitten der Völker in alten und neuen Zeiten.</titel> Erstdruck in: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=35"><titel>Abhandlungen der baierischen Akademie über Gegenstände der schönen Wissenschaften</titel> (München: Strobl 1781), S.&#x202F;25–138</wwwlink>. – SWS VIII, S.&#x202F;334–436.
 </eintrag>
 </subsection>
 <subsection id="herder-winkelmann" type="neuzeit" sort="490">
@@ -8568,7 +8579,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <subsection id="herder-einfluss-hohe-wissenschaften" type="neuzeit" sort="610">
 <lemma>Herder, <titel>Über den Einfluß der schönen in die höhern Wissenschaften</titel></lemma>
 <eintrag>
-<titel>J. G. Herder über den Einfluß der schönen in die höhern Wissenschaften</titel>, in: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=149"><titel>Abhandlungen der Baierischen Akademie über Gegenstände der schönen Wissenschaften</titel>, Bd.&#x202F;1 (München 1781), S.&#x202F;139–168.</wwwlink>
+<titel>J. G. Herder über den Einfluß der schönen in die höhern Wissenschaften</titel>. Erstdruck in: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=149"><titel>Abhandlungen der Baierischen Akademie über Gegenstände der schönen Wissenschaften</titel>, Bd.&#x202F;1 (München: Strobl 1781), S.&#x202F;139–168.</wwwlink>
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
@@ -15930,9 +15941,15 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 </eintrag>
 </subsection>
 <subsection id="reichardt-gulden" type="neuzeit" sort="20">
-<lemma>Reichardt, <titel>Leben des berühmten Tonkünstlers Heinrich Wilhelm Gulden </titel></lemma>
+<lemma>Reichardt, <titel>Leben des berühmten Tonkünstlers Heinrich Wilhelm Gulden</titel></lemma>
 <eintrag>
 <titel>Leben des berühmten Tonkünstlers Heinrich Wilhelm Gulden nachher genannt Guglielmo Enrico Fiorino. Erster Theil</titel> (Berlin: Mylius 1779). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10600103-9">BSB München: Mus.th. 4743-1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="reichardt-oden-lieder" type="neuzeit" sort="30">
+<lemma>Reichardt, <titel>Oden und Lieder von Klopstock, Stolberg, Claudius und Hoelty</titel></lemma>
+<eintrag>
+<titel>Oden und Lieder von Klopstock, Stolberg, Claudius und Hoelty. Mit Melodien beym Klavier zu singen. von Johann Friederich Reichardt</titel> (Berlin: Pauli 1779). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11131386-8">BSB München: 2 Mus. pr. 284</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -16191,7 +16208,7 @@ Bibliotheca Jo. Pistorii, Bas. 587“]
 
 <kommentar id="restif" type="neuzeit">
 <lemma>Nicolas Edme Restif de la Bretonne</lemma>
-<eintrag>1734–1806. Französischer Schriftsteller zahlreicher Romane, vor allem von sozialrealistisch-freizügigen Romanen.
+<eintrag>1734–1806. Französischer Schriftsteller, vor allem von sozialrealistisch-freizügigen Romanen.
 </eintrag>
 <subsection id="restif-lucile" type="neuzeit" sort="5">
 <lemma>Restif, <titel>Lucile, ou les progrès de la vertu</titel></lemma>
@@ -19784,6 +19801,16 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
 <kommentar id="vivonne" type="neuzeit">
 <lemma>Catherine de Vivonne</lemma>
 <eintrag>1588–1665. Marquise de Rambouillet. Schirmherrin eines berühmten Pariser Salons.</eintrag>
+</kommentar>
+
+<kommentar id="voigt-cg" type="neuzeit">
+<lemma>Christian Gottlob Voigt</lemma>
+<eintrag>1743–1819. Sachsen-Weimarischer Regierungsbeamter und Freund <link ref="goethe" linktext="false">Goethes</link>; Anfang der 1780er mit <link ref="herder" linktext="false">Herder</link> befreundet; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118852728.html#ndbcontent">Kreutzmann, Marko: Voigt, Christian Gottlob von, in: <titel>NDB</titel>&#x202F;27 (2020), S.&#x202F;59–61</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="voigt-cgj" type="neuzeit">
+<lemma>Christian Gottlob Voigt jun.</lemma>
+<eintrag>1774–1813. Sohn von <link ref="voigt-cg" linktext="true" />, später ebenfalls sachen-weimarischer Beamter, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz137275.html#index">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="voisenon" type="neuzeit">
