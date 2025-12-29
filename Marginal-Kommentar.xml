@@ -75657,7 +75657,7 @@ Brief Nr. 573
 </marginal>
 
 <marginal letter="573" page="141" line="16" sort="1">
-<bzg>physiognomischen Reisen</bzg> <link ref="musaus" subref="musaus-physiognomische-reisen" linktext="true" />
+<bzg>physiognomischen Reisen</bzg> <link ref="musaus" subref="musaus-physiognomische-reisen" linktext="true" />, vgl. Herders Antwort in <intlink letter="600" page="215" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="573" page="141" line="16" sort="2">
@@ -79684,7 +79684,11 @@ Die Datierung stützt sich auf die Nennung Seckendorffs (<intlink letter="591" p
 
 <marginal letter="591" page="188" line="19">
 <bzg>Mutter u. Gottfried</bzg> <link ref="herder-c" linktext="false">Caroline</link> und <link ref="herder-g" linktext="false">Gottfried Herder</link> 
-</marginal><bzg>Pyrmonter</bzg> 
+</marginal>
+
+<marginal letter="591" page="188" line="20">
+<bzg>Illmenau</bzg> In <wwwlink address="https://www.geonames.org/6551005">Ilmenau</wwwlink>
+</marginal>
 
 <marginal letter="591" page="188" line="21">
 <bzg>Pyrmonter</bzg> heilendes Mineralwasser
@@ -81887,11 +81891,11 @@ Brief Nr. 598
 </marginal>
 
 <marginal letter="599" page="214" line="15" sort="4">
-<bzg>Hibou u Nouvelles</bzg> Keine Werktitel Restifs bis 1781; „Hibou“ referiert wohl auf dessen Rolle als nächtlicher Beobachter der Pariser Sitten?!?
+<bzg>Hibou u Nouvelles</bzg> Keine Werktitel Restifs bis 1781; „Hibou“ (Eule) bezieht sich wohl auf Restifs Rolle als nächtlicher Beobachter der Pariser Sitten?!?
 </marginal>
 
 <marginal letter="599" page="214" line="17">
-<bzg>RH. B. für Sein Blatt</bzg> <link ref="berens-jc" linktext="true" /> für sein <link ref="berens-jc" subref="berens-blatt" linktext="false"><titel>Blatt zur Chronik von Riga</titel></link>
+<bzg>RH. B. für Sein Blatt</bzg> Ratsherr <link ref="berens-jc" linktext="true" /> für sein <link ref="berens-jc" subref="berens-blatt" linktext="false"><titel>Blatt zur Chronik von Riga</titel></link>
 </marginal>
 
 <marginal letter="599" page="214" line="18" sort="1">
@@ -81908,6 +81912,123 @@ Brief Nr. 598
 
 <marginal letter="599" page="479" line="12">
 <bzg>Mimographes</bzg> <link ref="restif" subref="restif-mimographe" linktext="true" />; Kontext der Notiz unklar: <link ref="restif" subref="restif-perverti" linktext="false"><titel>Le paysan perverti</titel></link> ist ein anderes Werk.
+</marginal>
+
+
+Brief Nr. 600
+
+<marginal letter="600" page="214" line="33">
+<bzg>geschrieben</bzg> Herders <intlink letter="591" page="187" line="31" linktext="false">letzter Brief</intlink> war von Anfang Juni 1780
+</marginal>
+
+<marginal letter="600" page="214" line="34">
+<bzg>gemeldet</bzg> vgl. <intlink letter="591" page="188" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="214" line="35">
+<bzg>Mutter u. die 2. ältesten Söhne</bzg> <link ref="herder-c" linktext="false">Caroline</link>, <link ref="herder-g" linktext="false">Gottfried</link> und <link ref="herder-a" linktext="false">August Herder</link>
+</marginal>
+
+<marginal letter="600" page="215" line="3">
+<bzg>Hier ist gut&#x202F;…</bzg> <link ref="nt-mt" subref="nt-mt17" linktext="false">Mt 17,4</link> <link ref="nt-mk" subref="nt-mk9" linktext="false">Mk 9,5</link>, <link ref="nt-lk" subref="nt-lk9" linktext="false">Lk 9,33</link>
+</marginal>
+
+<marginal letter="600" page="215" line="9">
+<bzg>Brunnen</bzg> vgl. <intlink letter="591" page="188" line="21" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="215" line="18">
+<bzg>Ilmenau&#x202F;…&#x202F;Alstedt</bzg> <wwwlink address="https://www.geonames.org/6551005">Ilmenau</wwwlink> und <wwwlink address="https://www.geonames.org/6550914">Allstedt</wwwlink>
+</marginal>
+
+<marginal letter="600" page="215" line="20">
+<bzg>Hase</bzg> <link ref="hase" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="215" line="32" sort="1">
+<bzg>Phys. Reisen </bzg> <link ref="musaus" subref="musaus-physiognomische-reisen" linktext="true" />, vgl. Hamanns Bemerkung in <intlink letter="573" page="141" line="15" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="215" line="32" sort="2">
+<bzg>Hase in Dresden</bzg> <link ref="hase-ft" linktext="true" />; von Herder irrtümlich als Verfasser der <titel>Physiognomischen Reisen</titel> angenommen; zur Entdeckung des Verfassers vgl. <intlink letter="627" page="318" line="8" linktext="true" />.
+</marginal>
+
+<marginal letter="600" page="215" line="33">
+<bzg>Uebersetzer</bzg> etwa <link ref="hase" subref="hase-reisen" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="216" line="1">
+<bzg>Besuch</bzg> bei <link ref="august-gotha" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="216" line="4" sort="1">
+<bzg>Kapellm. Reichard</bzg> <link ref="reichardt-jf" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="216" line="4" sort="2">
+<bzg>Frauen</bzg> <link ref="reichardt-jul" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="216" line="4" sort="3">
+<bzg>2. Kindern</bzg> <link ref="reichardt-w" linktext="false">Wilhelm</link> 
+</marginal>
+
+<marginal letter="600" page="216" line="5">
+<bzg>Schwestern</bzg> Marie Karoline Wolf und Wilhelmina Luisa Dorothea Buchholz, beide geb. Benda
+</marginal>
+
+<marginal letter="600" page="216" line="11">
+<bzg>Claudius</bzg> <link ref="claudius" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="216" line="12">
+<bzg>Klopstocken</bzg> <link ref="klopstock" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="216" line="14">
+<bzg>Lieder u. Oden</bzg> von Klopstock, Stolberg, Claudius und Hölty, mit Melodieen beym Klavier zu singen. 1. Teil. Von Klopstock sind: An Cidli, Die frühen Gräber, Lyda, Selma und Selmar?!?
+</marginal>
+
+<marginal letter="600" page="216" line="17">
+<bzg>großen u. schönen Geister</bzg> <link ref="goethe" linktext="true" /> und <link ref="wieland" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="216" line="22">
+<bzg>cum poculo&#x202F;…</bzg> mit dem Becher größter Heiterkeit
+</marginal>
+
+<marginal letter="600" page="216" line="23">
+<bzg>Pathens</bzg> <link ref="herder-a" linktext="false">August Herder</link>
+</marginal>
+
+<marginal letter="600" page="216" line="26">
+<bzg>Adalbert</bzg> <link ref="herder-ad" linktext="false">Adelbert Herder</link>, der ebenfalls am 25. August Geburtstag hatte
+</marginal>
+
+<marginal letter="600" page="216" line="29">
+<bzg>Frankenberg</bzg> 
+</marginal>
+
+<marginal letter="600" page="216" line="34">
+<bzg>Ihr u. Gottfrieds Geburtstag</bzg> Hamanns Geburtstag am 27. und <link ref="herder-g" linktext="false">Gottfried Herders</link> am 28. August
+</marginal>
+
+<marginal letter="600" page="216" line="36" sort="1">
+<bzg>Jubilaeum</bzg> vgl. ?!?
+</marginal>
+
+<marginal letter="600" page="216" line="36" sort="2">
+<bzg>Schulcameraden Voigt</bzg> 
+</marginal>
+
+<marginal letter="600" page="217" line="1">
+<bzg>Vat.</bzg> 
+</marginal>
+
+Brief Nr. 627
+
+<marginal letter="627" page="318" line="9">
+<bzg>proclamirt worden</bzg> vgl. Hamburger Buchhändlerzeitung 1781, 1. Quartal, S.&#x202F;71 zu <link ref="hase-ft" linktext="false">Hases</link> Erklärung, er sei nicht der Verfasser, und ADB 45, S.&#x202F;613 zur Proklamation von Musäus als Verfasser anlässlich einer Ankündigung einer holländischen übersetzung (HBGA 12,113)?!?
 </marginal>
 
 
