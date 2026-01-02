@@ -81399,11 +81399,11 @@ Brief Nr. 598
 <bzg>Bachmair auch über die Apok.</bzg> <link ref="bachmair" subref="bachmair-apokalypse" linktext="true" />
 </marginal>
 
-<marginal letter="598" page="209" line="30">
+<marginal letter="598" page="209" line="30" sort="1">
 <bzg>Statthalter zu Erfurt</bzg> <link ref="dalberg" linktext="true" />, nicht überliefert
 </marginal>
 
-<marginal letter="598" page="209" line="30" sort="1">
+<marginal letter="598" page="209" line="30" sort="2">
 <bzg>jüdischem Couvert</bzg> wohl über das <link ref="friedlaender-w" linktext="false">Friedländersche Comptoir</link>
 </marginal>
 
@@ -81647,11 +81647,11 @@ Brief Nr. 598
 <bzg>Urkunde a. c.</bzg> <link ref="basedow" subref="basedow-urkunde" linktext="true" />
 </marginal>
 
-<marginal letter="598" page="212" line="15">
+<marginal letter="598" page="212" line="15" sort="1">
 <bzg>Erstgebornen</bzg> <link ref="herder-g" linktext="false">Gottfried Herder</link>
 </marginal>
 
-<marginal letter="598" page="212" line="15">
+<marginal letter="598" page="212" line="15" sort="2">
 <bzg>unsere Geburtstage</bzg> Hamanns und Herders (sowie drei seiner Kinder) Geburtstage Ende August
 </marginal>
 
@@ -81802,7 +81802,7 @@ Brief Nr. 598
 <bzg>mitgetheilten Auszug</bzg> nicht überliefert
 </marginal>
 
-<marginal letter="599" page="213" line="35" sort="2">
+<marginal letter="599" page="213" line="35" sort="1">
 <bzg>HE Courtan</bzg> <link ref="courtan-pj" linktext="true" />
 </marginal>
 
@@ -82113,7 +82113,7 @@ Brief Nr. 600
 <bzg>Herausgeber der Rosalie ist Bode</bzg> <link ref="bode-jjc" linktext="true" />, Herausgeber von <link ref="laroche-s" subref="laroche-rosalie" linktext="true" />, vgl. <intlink letter="598" page="210" line="37" linktext="true" />
 </marginal>
 
-<marginal letter="600" page="217" line="36">
+<marginal letter="600" page="217" line="35">
 <bzg>Meine 2. Preise&#x202F;…&#x202F;anzuzeigen</bzg> Herder berichtete Hamann nur von dem ersten, vgl. <intlink letter="528" page="18" line="34" linktext="true" />; von dem zweiten meldete er nichts, was Hamann ihm zuletzt vorwarf, vgl. <intlink letter="598" page="211" line="7" linktext="true" />.
 </marginal>
 
@@ -82166,14 +82166,14 @@ Brief Nr. 600
 </marginal>
 
 <marginal letter="600" page="218" line="17">
-<bzg>Goldbecks Plan</bzg> <link ref="goldbeck" linktext="false">Johann Friedrich Goldbecks</link> Plan für die <link ref="goldbeck" subref="goldbeck-nachrichten" linktext="false"><titel>Litterarischen Nachrichten von Preußen</titel></link>, wegen denen Carl Gottlob Fischer bei Hamann war; dieser überlegte, Herder zu involvieren, vgl. <intlink letter="210" page="210" line="26" linktext="true" />.
+<bzg>Goldbecks Plan</bzg> <link ref="goldbeck" linktext="false">Johann Friedrich Goldbecks</link> Plan für die <link ref="goldbeck" subref="goldbeck-nachrichten" linktext="false"><titel>Litterarischen Nachrichten von Preußen</titel></link>, wegen denen Carl Gottlob Fischer bei Hamann war; dieser überlegte, Herder zu involvieren, vgl. <intlink letter="598" page="210" line="26" linktext="true" />.
 </marginal>
 
 <marginal letter="600" page="218" line="19" sort="1">
 <bzg>Volkslieder an Lauson</bzg> <link ref="herder" subref="herder-volkslieder" linktext="true" /> an <link ref="lauson" linktext="true" />, woran Hamann verschiedentlich erinnerte, vgl. <intlink letter="592" page="191" line="6" linktext="true" />
 </marginal>
 
-<marginal letter="600" page="218" line="19" sort="1">
+<marginal letter="600" page="218" line="19" sort="2">
 <bzg>durch Gelegenheit</bzg> durch einen Boten von Weimar nach Königsberg
 </marginal>
 
@@ -82298,7 +82298,7 @@ Brief Nr. 600
 </marginal>
 
 <marginal letter="600" page="220" line="28" sort="1">
-<bzg>Claud.</bzg> <link ref="cladius" linktext="true" />
+<bzg>Claud.</bzg> <link ref="claudius" linktext="true" />
 </marginal>
 
 <marginal letter="600" page="220" line="28" sort="2">
@@ -82306,11 +82306,91 @@ Brief Nr. 600
 </marginal>
 
 <marginal letter="600" page="220" line="29">
-<bzg>Otium&#x202F;…&#x202F;cum dignitate</bzg> Dt. Muße mit Würde, <link ref="cicero" subref="cic-ora" linktext="true" />, 1,1 u.ö. die Variation ‚cum voluptate‘ (Genuss) ist wohl von Herder.
+<bzg>Otium&#x202F;…&#x202F;cum dignitate</bzg> Dt. Muße mit Würde, <link ref="cicero" subref="cic-ora" linktext="true" />, 1,1 u.ö.; die Variation ‚cum voluptate‘ (mit Genuss) ist wohl von Herder.
 </marginal>
 
 <marginal letter="600" page="220" line="31">
-<bzg>Jacobi schen Kinder</bzg> die zwei ältesten Söhne <link ref="jacobi" linktext="false">Friedrich Heinrich Jacobis</link>, Johann Friedrich und Georg Arnold, vgl. <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;119</link>.
+<bzg>Jacobischen Kinder</bzg> die zwei ältesten Söhne <link ref="jacobi" linktext="false">Friedrich Heinrich Jacobis</link>, Johann Friedrich und Georg Arnold, vgl. <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;119</link>.
+</marginal>
+
+<marginal letter="600" page="220" line="32" sort="1">
+<bzg>Fr.</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="220" line="32" sort="2">
+<bzg>Schwägerin</bzg> <link ref="flachsland-cf" linktext="true" />, vgl. <intlink letter="604" page="230" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="220" line="34">
+<bzg>Bruders</bzg> <link ref="flachsland-fs" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="220" line="35">
+<bzg>Entwöhnung</bzg> Absetzen vom Stillen
+</marginal>
+
+<marginal letter="600" page="220" line="37">
+<bzg>Herzogin</bzg> <link ref="luise-swe" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="221" line="3">
+<bzg>Pereant Philisti!</bzg> Dt. mögen die Philister untergehen! Für die Weimarer Ärzte nach den biblischen Philistern, etwa nach <link ref="at-ri" subref="at-ri16" linktext="false">Ri 16,30</link>.
+</marginal>
+
+<marginal letter="600" page="221" line="4">
+<bzg>Statthalter</bzg> <link ref="dalberg" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="221" line="5">
+<bzg>Ihr Brief</bzg> Hamanns nicht überlieferter Brief an Dalberg vom 20. Juli 1780, vgl. <intlink letter="598" page="209" line="29" linktext="true" /> und <intlink letter="604" page="230" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="221" line="6">
+<bzg>Hofrath</bzg> vmtl. der kurmainzische Regierungsrat <wwwlink address="http://d-nb.info/gnd/17319947X">Johann Arnold von Bellmont</wwwlink>
+</marginal>
+
+<marginal letter="600" page="221" line="8">
+<bzg>Zeitungsbriefe</bzg> Brief voller vermischter Nachrichten
+</marginal>
+
+<marginal letter="600" page="221" line="9" sort="1">
+<bzg>Jes. 24, 16</bzg> <link ref="at-jes" subref="at-jes24" linktext="false">Jes 24,16</link>
+</marginal>
+
+<marginal letter="600" page="221" line="9" sort="2">
+<bzg>Ψ 88,16</bzg> <link ref="at-ps" subref="at-ps88" linktext="false">Ps 88,16</link>
+</marginal>
+
+<marginal letter="600" page="221" line="11" >
+<bzg>Keine Kraft&#x202F;…</bzg> nach <link ref="at-ps" subref="at-ps31" linktext="false">Ps 31, 11</link>
+</marginal>
+
+<marginal letter="600" page="221" line="15">
+<bzg>Väterl.- u. Brudererbtheils</bzg> vgl. <intlink letter="598" page="211" line="13" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="221" line="16">
+<bzg>Hüterdienst</bzg> als <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Packhofverwalter am Königsberger Licent</link>
+</marginal>
+
+<marginal letter="600" page="221" line="20">
+<bzg>Wilhelm</bzg> <link ref="herder-w" linktext="false">Wilhelm Herder</link>
+</marginal>
+
+<marginal letter="600" page="221" line="23">
+<bzg>Gottfr.</bzg> <link ref="herder-g" linktext="false">Gottfried Herder</link>
+</marginal>
+
+<marginal letter="600" page="221" line="29">
+<bzg>Roußeau&#x202F;…&#x202F;Dialogen</bzg> <link ref="rousseau" subref="rousseau-dialogues" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="221" line="31">
+<bzg>Gemächt</bzg> im Sinne von Machwerk, vgl. <wwwlink address="www.woerterbuchnetz.de/Adelung/1. Gemächt">Adelung, Bd.&#x202F;2, Sp.&#x202F;545, s.v. Gemächt 1</wwwlink>
+</marginal>
+
+<marginal letter="600" page="221" line="33">
+<bzg>Mosers Br. </bzg> <link ref="moser" linktext="false">Mosers</link> Brief an Herder vom 6. Juli 1780, vgl. Hamanns Abschrift in <intlink letter="604" page="479" line="30" linktext="false">HKB 604 Anhang</intlink>
 </marginal>
 
 

@@ -5511,6 +5511,12 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <eintrag>Kaufmann in Königsberg.</eintrag>
 </kommentar>
 
+<kommentar id="flachsland-cf" type="neuzeit">
+<lemma>Christine Wilhelmine Flachsland</lemma>
+<eintrag>Um 1760 bis 1780. Geb. Martin. Frau von <link ref="flachsland-cf" linktext="true" /> und Schwägerin von <link ref="herder-c" linktext="true" />.
+</eintrag>
+</kommentar>
+
 <kommentar id="flachsland-fs" type="neuzeit">
 <lemma>Friedrich Siegmund Flachsland</lemma>
 <eintrag>1743–1784. Bruder von <link ref="herder-c" linktext="true" />, hessen-darmstädtischer Geheimer Regierungssekretär.
@@ -11527,7 +11533,7 @@ Zweisprachige Dänisch/Lateinische Ausgabe (1767): Knud Leems <titel>Beskrivelse
 
 <kommentar id="less" type="neuzeit">
 <lemma>Gottfried Leß</lemma>
-<eintrag>1736–1797. 1765 Prof. der evang. Theologie in Göttingen, 1784 Konsistorialrat in Hannover, vgl. <wwwlink address="https://www.deutsche-biographie.de/sfz50610.html#adbcontent">Bertheau, Carl: Less, Gottfried, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;444–446</wwwlink>.</eintrag>
+<eintrag>1736–1797. 1765 Prof. der evangelischen Theologie in Göttingen, 1784 Konsistorialrat in Hannover, vgl. <wwwlink address="https://www.deutsche-biographie.de/sfz50610.html#adbcontent">Bertheau, Carl: Less, Gottfried, in: <titel>ADB</titel>&#x202F;18 (1883), S.&#x202F;444–446</wwwlink>.</eintrag>
 <subsection id="less-programma" type="neuzeit" sort="10">
 <lemma>Leß, <titel>Programma ad Johannem 17,3</titel></lemma>
 <eintrag>
@@ -11537,7 +11543,7 @@ Zweisprachige Dänisch/Lateinische Ausgabe (1767): Knud Leems <titel>Beskrivelse
 <subsection id="less-auferstehung" type="neuzeit" sort="20">
 <lemma>Leß, <titel>Auferstehungs-Geschichte Jesu</titel></lemma>
 <eintrag>
-<titel>Auferstehungs-Geschichte Jesu nach allen vier Evangelien. Nebst einem doppelten Anhange gegen die Wolfenbütteler Fragmente von der Auferstehung Jesu; und vom Zwecke Jesu und seiner Apostel. </titel> (Göttingen 1779).
+<titel>Auferstehungs-Geschichte Jesu nach allen vier Evangelien. Nebst einem doppelten Anhange gegen die Wolfenbütteler Fragmente von der Auferstehung Jesu; und vom Zwecke Jesu und seiner Apostel</titel> (Göttingen 1779).
 </eintrag>
 </subsection>
 </kommentar>
@@ -16596,7 +16602,13 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 <subsection id="rousseau-supplement" type="neuzeit" sort="90">
 <lemma>Rousseau, <titel>Supplément aux Oeuvres</titel></lemma>
 <eintrag>
-<titel>Supplément aux Oeuvres de J. J. Rousseau, Citoyen De Geneve,</titel> Pour servir de suite à toutes les éditions (Amsterdam, Lausanne 1779). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k850406b"> Stabi Bamberg: L.fr.o.94(12#1</wwwlink>. 
+<titel>Supplément aux Oeuvres de J. J. Rousseau, Citoyen De Geneve,</titel> Pour servir de suite à toutes les éditions (Amsterdam, Lausanne 1779). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k850406b">Stabi Bamberg: L.fr.o.94(12#1</wwwlink>. 
+</eintrag>
+</subsection>
+<subsection id="rousseau-dialogues" type="neuzeit" sort="95">
+<lemma>Rousseau, <titel>Rousseau Juge de Jean Jacques</titel></lemma>
+<eintrag>
+<titel>Rousseau Juge de Jean Jacques. Dialogue. D’après le Manuscrit de M. Rouseau, laissé entre les mains de M. Brooke Boothby</titel> (Lichfield 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10066334-1">BSB München: Biogr. 998 d</wwwlink>. 
 </eintrag>
 </subsection>
 <subsection id="rousseau-confessions" type="neuzeit" sort="100">
@@ -16611,8 +16623,6 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 <lemma>Joseph Leberecht Runtze</lemma>
 <eintrag>1729–1798. Erzieher der Söhne des Grafen v. Münnich.</eintrag>
 </kommentar>
- (), reform. Theologe, 
-. ?!?
 
 <kommentar id="runge" type="neuzeit">
 <lemma>Conrad Heinrich Runge</lemma>
