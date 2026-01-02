@@ -8567,7 +8567,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <subsection id="herder-andenken-dichter" type="neuzeit" sort="515">
 <lemma>Herder, <titel>Andenken an einige ältere deutsche Dichter</titel></lemma>
 <eintrag>
-<titel>Andenken an einige ältere deutsche Dichter, in Briefen an den Herausgeber</titel>, in: <link ref="boie" subref="boie-museum" linktext="true" />; <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614677?page=309">1. Brief: Bd.&#x202F;2, Oktober 1779, S.&#x202F;299–311</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614679?page=429">2. Brief: Bd.&#x202F;2, November 1780, S.&#x202F;415–425</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614679?page=495">3. Brief: Bd.&#x202F;2, Dezember 1780, S.&#x202F;481–488</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614680?page=12">4. Brief: Bd. 1, Januar 1781, S.&#x202F;2–6</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614680?page=274">5. Brief: Bd.&#x202F;1, März 1781, S.&#x202F;264–269</wwwlink> .  – SWS IX, S.&#x202F;101–288. 
+<titel>Andenken an einige ältere deutsche Dichter, in Briefen an den Herausgeber</titel>, in: <link ref="boie" subref="boie-museum" linktext="true" />; <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614677?page=309">1. Brief: Bd.&#x202F;2, Oktober 1779, S.&#x202F;299–311</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614679?page=429">2. Brief: Bd.&#x202F;2, November 1780, S.&#x202F;415–425</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614679?page=495">3. Brief: Bd.&#x202F;2, Dezember 1780, S.&#x202F;481–488</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614680?page=12">4. Brief: Bd. 1, Januar 1781, S.&#x202F;2–6</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614680?page=274">5. Brief: Bd.&#x202F;1, März 1781, S.&#x202F;264–269</wwwlink> .  – SWS XV, S.&#x202F;3–30. 
 </eintrag>
 </subsection>
 <subsection id="herder-gouvernement" type="neuzeit" sort="520">
@@ -8789,14 +8789,19 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 <eintrag>Gegründet 1770, unter diesem Titel bis 1790 geführt, danach unter verschiedenen anderen Namen bis 1935, siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=015150755">ZDB</wwwlink>; <link ref="claudius" linktext="true" /> publizierte darin. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-319211">UB Heidelberg</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="hessen-karoline-landgrafin" type="neuzeit">
+<lemma>Karoline von Hessen-Darmstadt </lemma>
+<eintrag>1721–1774. Geb. von Pfalz-Zweibrücken; erste Frau von <link ref="hessen-ludwig-landgraf" linktext="true" /> und ab 1768 Landgräfin von Hessen-Darmstadt; da der Landgraf zumeist mit Soldatenspielen in Pirmasens beschäftigt war, übte sie einen wesentlichen Teil der Regierung aus und berief <link ref="moser" linktext="true" /> als Ersten Minister; sie war als ‚Große Landgräfin‘ verschiedentlich in die literarischen Zirkel des 18. Jahrhunderts eingebunden; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118560271.html#ndbcontent">Gunzert, Walter: Karoline, Landgräfin , in: <titel>NDB</titel>&#x202F; 11 (1977), S.&#x202F;283f.</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="hessen-ludwig-erbprinz" type="neuzeit">
-<lemma>Ludwig, Erbprinz v. Hessen-Darmstadt</lemma>
-<eintrag>1753–1830.</eintrag>
+<lemma>Ludwig, Erbprinz von Hessen-Darmstadt</lemma>
+<eintrag>1753–1830.</eintrag> Sohn von <link ref="hessen-karoline-landgrafin" linktext="true" /> und <link ref="hessen-ludwig-landgraf" linktext="true" />; ab 1790 als Ludwig X. Landgraf von Hessen-Darmstadt, später Großherzog Ludewig I. von Hessen und Rhein; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118729446.html#ndbcontent">Franz, Eckhart: Ludwig I., in: <titel>NDB</titel>&#x202F; 15 (1987), S.&#x202F;395f.</wwwlink>.
 </kommentar>
 
 <kommentar id="hessen-ludwig-landgraf" type="neuzeit">
-<lemma>Ludwig IX., Landgraf v. Hessen-Darmstadt</lemma>
-<eintrag>1719–1790.</eintrag>
+<lemma>Ludwig IX. von Hessen-Darmstadt</lemma>
+<eintrag>1719–1790. Ab 1768 regierender Landgraf von Hessen-Darmstadt; er wurde wegen seiner vorwiegenden Beschäftigung mit der Armee als ‚Soldatenlandgraf‘ belächelt; Mann von <link ref="hessen-karoline-landgrafin" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd102119686.html#ndbcontent">Wolf, Jürgen Rainer: Ludwig IX., in: <titel>NDB</titel>&#x202F;15 (1987), S.&#x202F;392–394.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hesshus" type="neuzeit">
@@ -9130,6 +9135,12 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 Übers.: <titel>Zergliederung der Schönheit, die schwankenden Begriffe von dem Geschmack festzusetzen, geschrieben von Wilhelm Hogarth. Aus dem Englischen übersetzt von <link ref="mylius" linktext="true" /></titel> (hg. von <link ref="lessing" linktext="true" />) (Berlin, Potsdam: Voß 1754) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;131/28: „W. Hogarths Zergliederung der Schönheit, Berl. 754“]. Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-305368">ULB Halle: EA 2793</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hohenlohe-bartenstein" type="neuzeit">
+<lemma>Ludwig Carl Franz Leopold zu Hohenlohe-Waldenburg-Schillingfürst-Bartenstein</lemma>
+<eintrag>1731–1798. Reichsfürst; 1780 in den Streitfall mit <link ref="munster-landegge" linktext="true" /> involviert.
+</eintrag>
 </kommentar>
 
 <kommentar id="holberg" type="neuzeit">
@@ -11684,7 +11695,7 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 
 <kommentar id="leuchsenring" type="neuzeit">
 <lemma>Franz Michael Leuchsenring</lemma>
-<eintrag>1746–1826. Hess.-darmstädt. Hofrat, 1769–71 Hofmeister des Erbprinzen v. Hessen-Darmstadt in Leiden, 1784 Lehrer von Friedrich Wilhelm II. in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118572172.html#ndbcontent">Feilchenfeldt, Konrad: Leuchsenring, Franz Michael, in: <titel>NDB</titel>&#x202F;14 (1985), S.&#x202F;367f.</wwwlink>.</eintrag>
+<eintrag>1746–1826. Hessen-darmstädtischer Hofrat, 1769–71 Hofmeister des Erbprinzen v. Hessen-Darmstadt in Leiden, 1784 Lehrer von Friedrich Wilhelm II. in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118572172.html#ndbcontent">Feilchenfeldt, Konrad: Leuchsenring, Franz Michael, in: <titel>NDB</titel>&#x202F;14 (1985), S.&#x202F;367f.</wwwlink>.</eintrag>
 <subsection id="leuchsenring-journal" type="neuzeit">
 <lemma>Leuchsenring, <titel>Journal de lecture</titel></lemma>
 <eintrag><titel>Journal de lecture ou recueil pour les oisifs</titel> (12 Bde., Paris 1775–1781)
@@ -14139,6 +14150,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 </subsection>
 </kommentar> 
 
+<kommentar id="munster-landegge" type="neuzeit">
+<lemma>Georg August von Münster zu Landegge</lemma>
+<eintrag>1751–1801. Reichsfreiherr und bis 1780 Geheimer Rat und Kammerherr des Kurfürst-Erzbischofs von Köln, siehe <wwwlink address="https://d-nb.info/gnd/1030228418">GND</wwwlink>. Er war 1779/80 in einen lächerlichen Streitfall mit <link ref="hohenlohe-bartenstein" linktext="false">Ludwig zu Hohenlohe-Bartenstein</link> involviert und veröffentlichte die für Adelsstolz bezeichnende Korrespondenz (zunächst 1780 als Manuskript und Privatdruck, öffentlich gedruckt im <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10531494?page=31"><titel>Journal von für Deutschland</titel> 1784</wwwlink>).</eintrag>
+</kommentar>
+
 <kommentar id="munnich" type="neuzeit">
 <lemma>Burchard Christoph v. Münnich</lemma>
 <eintrag>1683–1767. Graf. Seit 1741 Reichsgraf v.; bildete das russische Heer nach preußischem Vorbild aus, stürzte im Polnischen Erbfolgekrieg die Regierung <link ref="biron" linktext="false">Biron</link>. Von Kaiserin Elisabeth 1742 nach Sibirien verbannt, 1762 wieder zurückberufen; Vater von <link ref="mengden-ce" linktext="true" />. <titel>Allgemeines Schriftsteller- und Gelehrten-Lexikon der Provinzen Livland, Esthland und Kurland</titel> (Mitau 1831, Bd.&#x202F;3), S.&#x202F;284ff.</eintrag>
@@ -14980,11 +14996,6 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <titel>Observations historiques et géographiques sur les peuples barbares, qui ont habité les bordes du Danube et du Pont-Euxin</titel> (Paris 1765). Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.28129">UB Heidelberg: B 3335 RES</wwwlink>.
 </eintrag>
 </subsection>
-</kommentar>
-
-<kommentar id="pfalz-zweibruecken-karoline" type="neuzeit">
-<lemma>Karoline Henriette Christine Philippine Luise von Pfalz-Zweibrücken</lemma>
-<eintrag>1721–1774. Erste Frau von <link ref="hessen-ludwig-landgraf" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="pfanner" type="neuzeit">

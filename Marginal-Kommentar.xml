@@ -30281,7 +30281,7 @@ Brief Nr. 254
 </marginal>
 
 <marginal letter="254" page="227" line="13">
-<bzg>Frau Erb. Prinzeßin</bzg> <link ref="pfalz-zweibruecken-karoline" linktext="true" />, erste Frau von <link ref="hessen-ludwig-landgraf" linktext="true" />
+<bzg>Frau Erb. Prinzeßin</bzg> <link ref="hessen-karoline-landgrafin" linktext="true" />, erste Frau von <link ref="hessen-ludwig-landgraf" linktext="true" />
 </marginal>
 
 <marginal letter="254" page="227" line="14">
@@ -81922,7 +81922,7 @@ Brief Nr. 600
 </marginal>
 
 <marginal letter="600" page="214" line="30">
-<bzg>Einl. an Hn Gildenhorn geschr. eod.</bzg> an <link ref="gueldenhorn-c" linktext="true" /> bzw. <link ref="herder-cd-g" linktext="false">Herders Schwester</link>, am selben Tag (eodem die); Herders Brief (die Einlage) und Hamanns Begleitschreiben nicht überliefert; vgl. <intlink letter="604" page="228" line="29" linktext="true" />
+<bzg>Einl. an Fr Gildenhorn geschr. eod.</bzg> an <link ref="herder-cd-g" linktext="false">Herders Schwester</link>, am selben Tag (eodem die); Herders Brief (die Einlage) und Hamanns Begleitschreiben nicht überliefert; vgl. <intlink letter="604" page="228" line="29" linktext="true" />
 </marginal>
 
 <marginal letter="600" page="214" line="33">
@@ -82205,8 +82205,12 @@ Brief Nr. 600
 <bzg>„Andenken&#x202F;…</bzg> <link ref="herder" subref="herder-andenken-dichter" linktext="true" />, Brief 1 und 2 (in: <link ref="boie" subref="boie-museum" linktext="true" />; <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614677?page=309">, Oktober 1779, Bd.&#x202F;2, S.&#x202F;299–311</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614679?page=429">November 1780, Bd.&#x202F;2, S.&#x202F;415–425</wwwlink>)
 </marginal>
 
-<marginal letter="600" page="219" line="2">
+<marginal letter="600" page="219" line="2" sort="1">
 <bzg>in ältern Br. schon geschrieben</bzg> nicht überliefert, mglw. in einem der nicht überlieferten
+</marginal>
+
+<marginal letter="600" page="219" line="2" sort="2">
+<bzg>Prophezeiung</bzg> <link ref="ziehen" linktext="false">des ‚Zellerfelder Propheten‘</link>, vgl. <intlink letter="598" page="210" line="1" linktext="true" />
 </marginal>
 
 <marginal letter="600" page="219" line="3">
@@ -82219,6 +82223,94 @@ Brief Nr. 600
 
 <marginal letter="600" page="219" line="5">
 <bzg>Werk</bzg> <link ref="ziehen" subref="ziehen-revolution" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="219" line="6">
+<bzg>sonderbare Sonderbarkeiten</bzg> <intlink letter="600" page="219" line="33" linktext="false">s.u.</intlink>
+</marginal>
+
+<marginal letter="600" page="219" line="7">
+<bzg>ander Blatt&#x202F;…</bzg> Die Zeilen sind in den äußersten unteren Rand der letzten Seite von Herders erstem Quartbogen für den Brief gepresst. Mit dem nächsten Absatz fängt Herder einen neuen Briefbogen an, worauf er hier Bezug nimmt.
+</marginal>
+
+<marginal letter="600" page="219" line="10">
+<bzg>George&#x202F;…</bzg> <link ref="munster-landegge" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="219" line="11">
+<bzg>schreibt an&#x202F;…</bzg> an <link ref="hohenlohe-bartenstein" linktext="false">Ludwig zu Hohenlohe-Bartenstein</link>; der lächerliche Streitfall um adlige Titulaturen zirkulierte 1780 als Manuskript und Privatdruck und wurde 1784 im <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10531494?page=31"><titel>Journal von für Deutschland</titel></wwwlink> gedruckt, zu dem ersten Brief vgl. <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10531494?page=37"><titel>Journal von für Deutschland</titel> (Januar 1784), S.&#x202F;7</wwwlink>, zu dem Streitfall außerdem <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;117f.</link>
+</marginal>
+
+<marginal letter="600" page="219" line="23">
+<bzg>basse nicht haute noblesse</bzg> vgl. <link ref="hohenlohe-bartenstein" linktext="false">Ludwig zu Hohenlohe-Bartenstein</link> an <link ref="munster-landegge" linktext="true" />, 28.6.1779, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10531494?page=126"><titel>Journal von für Deutschland</titel> (Februar 1784), S.&#x202F;92</wwwlink>
+</marginal>
+
+<marginal letter="600" page="219" line="31">
+<bzg>aux portes de l’Enfer</bzg> vgl. <link ref="munster-landegge" linktext="true" /> an <link ref="hohenlohe-bartenstein" linktext="false">Ludwig zu Hohenlohe-Bartenstein</link>, 15.4.1780, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10531494?page=278"><titel>Journal von für Deutschland</titel> (März 1784), S.&#x202F;224</wwwlink>
+</marginal>
+
+<marginal letter="600" page="219" line="33">
+<bzg>singulierement singulier</bzg> vgl. <link ref="hohenlohe-bartenstein" linktext="false">Ludwig zu Hohenlohe-Bartenstein</link> an <link ref="munster-landegge" linktext="true" />, 28.6.1779, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10531494?page=126"><titel>Journal von für Deutschland</titel> (Februar 1784), S.&#x202F;91</wwwlink>
+</marginal>
+
+<marginal letter="600" page="219" line="35" sort="1">
+<bzg>Moser</bzg> <link ref="moser" linktext="true" /> und dessen Entlassung als Erster Minister von Hessen-Darmstadt; Hamann fragte danach, vgl. <intlink letter="598" page="209" line="33" linktext="true" />.
+</marginal>
+
+<marginal letter="600" page="219" line="35" sort="2">
+<bzg>Landgrafen&#x202F;…&#x202F;Regiment stellen</bzg> <link ref="hessen-ludwig-landgraf" linktext="true" />; zu Mosers Entlassung vgl. <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;118.</link>
+</marginal>
+
+<marginal letter="600" page="220" line="5">
+<bzg>M.</bzg> <link ref="moser" linktext="false">Moser</link> an Herder, 6.7.1780; Herder schickte den Brief mit diesem Brief an Hamann (<intlink letter="600" page="221" line="21" linktext="false">s.u.</intlink>) und dieser schrieb ihn ab, <intlink letter="604" page="480" line="5" linktext="false">vgl. HKB 604 Anhang</intlink>.
+</marginal>
+
+<marginal letter="600" page="220" line="8">
+<bzg>Erbprinz</bzg> <link ref="hessen-ludwig-erbprinz" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="220" line="9">
+<bzg>Zwingenberg&#x202F;…&#x202F;Landgut</bzg> <intlink letter="604" page="480" line="8" linktext="false">vgl. HKB 604 Anhang</intlink>
+</marginal>
+
+<marginal letter="600" page="220" line="14">
+<bzg>HE. Schwager</bzg> <link ref="flachsland-fs" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="220" line="17" sort="1">
+<bzg>eventus fefellit spem</bzg> dt. der Ausgang enttäuschte die Hoffnung
+</marginal>
+
+<marginal letter="600" page="220" line="17" sort="2">
+<bzg>Abtragung der Schulden</bzg> zur immensen Staatsverschuldung Hessen-Darmstadts und Mosers ausgehandeltem Schuldvergleich vgl. <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;119</link>
+</marginal>
+
+<marginal letter="600" page="220" line="23">
+<bzg>Lavat&#x202F;…&#x202F;entamirt</bzg> <link ref="lavater" linktext="false">Lavater</link> habe mit <link ref="goethe" linktext="false">Goethe</link> einen Briefwechsel über <link ref="waser-jh1742" linktext="true" /> angefangen; Hamann fragte bei Herder nach der Zeitungsnachricht, später auch bei <link ref="haefeli" linktext="false">Häfeli</link> vgl. <intlink letter="592" page="197" line="6" linktext="true" /> und <intlink letter="594" page="203" line="6" linktext="true" />; zum Briefwechsel Lavater/Goethe vgl. <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;119</link>.
+</marginal>
+
+<marginal letter="600" page="220" line="25">
+<bzg>Herzoge</bzg> <link ref="carl-august" linktext="true" />; im Thüringerwald, um einige Ortschaften unter des Herzogs Besitztümern zu besuchen, die er bisher nicht kannte.
+</marginal>
+
+<marginal letter="600" page="220" line="26">
+<bzg>Lav&#x202F;…&#x202F;Briefwechsel</bzg> <link ref="lavater" linktext="false">Lavaters</link> letzter Brief datiert vom 16. Februar 1780, Herders letzter vom Juli 1779.
+</marginal>
+
+<marginal letter="600" page="220" line="28" sort="1">
+<bzg>Claud.</bzg> <link ref="cladius" linktext="true" />
+</marginal>
+
+<marginal letter="600" page="220" line="28" sort="2">
+<bzg>Reichard</bzg> <link ref="reichardt-jf" linktext="true" />, <intlink letter="600" page="216" line="4" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="600" page="220" line="29">
+<bzg>Otium&#x202F;…&#x202F;cum dignitate</bzg> Dt. Muße mit Würde, <link ref="cicero" subref="cic-ora" linktext="true" />, 1,1 u.ö. die Variation ‚cum voluptate‘ (Genuss) ist wohl von Herder.
+</marginal>
+
+<marginal letter="600" page="220" line="31">
+<bzg>Jacobi schen Kinder</bzg> die zwei ältesten Söhne <link ref="jacobi" linktext="false">Friedrich Heinrich Jacobis</link>, Johann Friedrich und Georg Arnold, vgl. <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;119</link>.
 </marginal>
 
 
