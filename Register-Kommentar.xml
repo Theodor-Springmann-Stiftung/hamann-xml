@@ -7720,7 +7720,7 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <subsection id="hamann-dialogues" type="neuzeit" sort="730">
 <lemma>Hamann (Übers.), <titel>Dialogen die natürliche Religion betreffend</titel></lemma>
 <eintrag>
-Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Er wollte sie durch <link ref="hartknoch" linktext="false">Hartknoch</link> verlegen lassen (vgl. <intlink letter="596" page="205" line="25" linktext="true" />), das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung</link> bekannt wurde. Lediglich ein Bruchteil der geleisteten Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
+Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Er wollte sie durch <link ref="hartknoch" linktext="false">Hartknoch</link> verlegen lassen (vgl. <intlink letter="596" page="205" line="25" linktext="true" />), das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung</link> bekannt wurde. Lediglich ein Bruchteil der niedergeschriebenen Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
 </eintrag>
 </subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="750">
@@ -11684,7 +11684,7 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 </subsection>
 <subsection id="lessing-briefe-gottesgelehrte" type="neuzeit" sort="168">
 <lemma>Lessing, <titel>Briefe an verschiedene Gottesgelehrte</titel></lemma>
-<eintrag><titel>G. E. Lessings Briefe an verschiedene Gottesgelehrte</titel>. Für Sommer 1780 angekündigt, aber zu Lebzeiten nicht erschienen; <link ref="lessing" subref="lessing-nachlass" linktext="true" />, S.&#x202F;27f. und 113–154.
+<eintrag><titel>G. E. Lessings Briefe an verschiedene Gottesgelehrte</titel>. Für Sommer 1780 angekündigt (vgl. <link ref="messkatalog" subref="messkatalog-ostern1780" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000127/full/full/0/default.jpg">, ‚Schriften welche künftig herauskommen sollen‘, S.&#x202F;941</wwwlink>), aber zu Lebzeiten nicht erschienen; <link ref="lessing" subref="lessing-nachlass" linktext="true" />, S.&#x202F;27f. und 113–154.
 </eintrag>
 </subsection>
 <subsection id="lessing-nachlass" type="neuzeit" sort="170">
@@ -13364,6 +13364,12 @@ Google Books</wwwlink>.</eintrag>
 </subsection>
 <subsection id="messkatalog-ostern1780" type="neuzeit" sort="90">
 <lemma>Messkatalog für Ostern 1780</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1780 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1780). 
+</eintrag>
+</subsection>
+<subsection id="messkatalog-michaelis1780" type="neuzeit" sort="100">
+<lemma>Messkatalog für Michaelis 1780</lemma>
 <eintrag>
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1780 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1780). 
 </eintrag>

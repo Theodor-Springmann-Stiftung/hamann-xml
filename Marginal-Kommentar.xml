@@ -81074,7 +81074,7 @@ Brief Nr. 596
 </marginal>
 
 <marginal letter="596" page="206" line="5">
-<bzg>vor einem Jahre die Uebersetzung angemeldet worden, aber nicht erfolgt</bzg>  wurde <link ref="hume" subref="hume-dialogues" linktext="false">Carl Gottfried Schreiters Übersetzung von 1781 bereits angekündigt</link>?!? oder eine andere? – wenn in Hamann und England nichts zu finden, Messkataloge durchschauen!
+<bzg>vor einem Jahre&#x202F;…&#x202F;nicht erfolgt</bzg> In den Messkatalogen für Ostern und Michaelis 1779 wurde noch keine Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> angekündigt (vgl. <link ref="messkatalog" subref="messkatalog-michaelis1779" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822487772:00000064/full/full/0/default.jpg">, ‚Schriften welche künftig herauskommen sollen‘, S.&#x202F;799</wwwlink>) – im <link ref="messkatalog" subref="messkatalog-ostern1780" linktext="true" /> dagegen schon, vgl. <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000124/full/full/0/default.jpg">, ‚Schriften welche künftig herauskommen sollen‘, S.&#x202F;938</wwwlink>: Die für Weygand in Leipzig angekündigte Übersetzung ist wohl diejenige von <wwwlink address="https://eip.hueb-staging.iued.uni-heidelberg.de/en/person/275/">Carl Gottfried Schreiter</wwwlink>, welche <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">1781 erschien</wwwlink>.
 </marginal>
 
 <marginal letter="596" page="206" line="10">
@@ -81444,7 +81444,7 @@ Brief Nr. 598
 </marginal>
 
 <marginal letter="598" page="210" line="7">
-<bzg>Leßings Briefe</bzg> <link ref="lessing" subref="lessing-briefe-gottesgelehrte" linktext="true" />
+<bzg>Leßings Briefe</bzg> <link ref="lessing" subref="lessing-briefe-gottesgelehrte" linktext="true" />, vgl. <intlink letter="601" page="222" line="23" linktext="true" />
 </marginal>
 
 <marginal letter="598" page="210" line="8" sort="1">
@@ -82390,8 +82390,144 @@ Brief Nr. 600
 </marginal>
 
 <marginal letter="600" page="221" line="33">
-<bzg>Mosers Br. </bzg> <link ref="moser" linktext="false">Mosers</link> Brief an Herder vom 6. Juli 1780, vgl. Hamanns Abschrift in <intlink letter="604" page="479" line="30" linktext="false">HKB 604 Anhang</intlink>
+<bzg>Mosers Br.</bzg> <link ref="moser" linktext="false">Mosers</link> Brief an Herder vom 6. Juli 1780, vgl. Hamanns Abschrift in <intlink letter="604" page="479" line="30" linktext="false">HKB 604 Anhang</intlink>
 </marginal>
+
+
+Brief Nr. 601
+
+<marginal letter="601" page="222" line="3">
+<bzg>Abschrift meiner Uebersetzung</bzg> <link ref="hamann" subref="hamann-dialogues" linktext="false">Hamanns Übersetzung</link> von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link>, die Hartknoch zuvor einwilligte zu verlegen (vgl. <intlink letter="598" page="211" line="36"  linktext="true" />) und Hamann sich zuletzt vornahm, „ins reine zu bringen“ (<intlink letter="599" page="213" line="19" linktext="true" />).
+</marginal>
+
+<marginal letter="601" page="222" line="4" sort="1">
+<bzg>Lauson</bzg> <link ref="lauson" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="222" line="4" sort="2">
+<bzg>Kant</bzg> <link ref="kant" linktext="true" />, vgl. <intlink letter="596" page="205" line="28" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="222" line="5">
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="222" line="6">
+<bzg>Hofhalsrichter</bzg> <link ref="hippel" linktext="true" /> (Titel des Direktors des Königsberger Kriminalgerichts, wozu er kürzlich ernannt wurde)
+</marginal>
+
+<marginal letter="601" page="222" line="9">
+<bzg>H. in W&#x202F;…</bzg> <link ref="herder" linktext="false">Herder</link> in Weimar, vgl. <intlink letter="598" page="212" line="2" linktext="true" /> und zu dessen Bereitschaft, es anzukündigen <intlink letter="600" page="218" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="222" line="11">
+<bzg>Asmus</bzg> <link ref="claudius" linktext="true" />, Hamanns Schreiben nicht überliefrt
+</marginal>
+
+<marginal letter="601" page="222" line="13">
+<bzg>1 hui&#x202F;…&#x202F;Kraus</bzg> Weder ist der Brief von <link ref="kraus" linktext="true" /> überliefert, der Hamann am 1.&#x202F;September erreichte, noch Hamanns Schreiben, in dem er Kraus von seiner Hume-Übersetzung Mitteilung machte, noch ein Antwortschreiben Hamanns.
+</marginal>
+
+<marginal letter="601" page="222" line="14">
+<bzg>Geistl. in Schwaben</bzg> Der fingierte Übersetzer von <link ref="hamann" subref="hamann-dialoges" linktext="false">Hamanns <titel>Dialogen die natürliche Religion betreffend</titel></link>, nach dem fingierten Autor der <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="false"><titel>Beylage zun Denkwürdigkeiten des seligen Sokrates</titel></link>.
+</marginal>
+
+<marginal letter="601" page="222" line="15">
+<bzg>Humischen Hausgott deutsch gekleidet haben</bzg> D.h. dabei sind, <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> ins Deutschte zu übersetzen.
+</marginal>
+
+<marginal letter="601" page="222" line="17">
+<bzg>was ihm zur Erbauung&#x202F;…&#x202F;als es so verstreuen</bzg> Hamann solle demnach seinen geplanten Begleitessay zur Hume-Übersetzung separat veröffentlichen.
+</marginal>
+
+<marginal letter="601" page="222" line="22">
+<bzg>im Meßkatalog angemeldet</bzg> Im <link ref="messkatalog" subref="messkatalog-michaelis1780" linktext="true" /> ist, wie auch bereits im <link ref="messkatalog" subref="messkatalog-ostern1780" linktext="true" />, lediglich die Hume-Übersetzung bei Weygand in Leipzig angezeigt, vgl. <intlink letter="596" page="206" line="5" linktext="true" />.
+</marginal>
+
+<marginal letter="601" page="222" line="23">
+<bzg>Leßings Briefe zu Johannis</bzg> <link ref="lessing" subref="lessing-briefe-gottesgelehrte" linktext="true" />, die im <link ref="messkatalog" subref="messkatalog-ostern1780" linktext="true" /> (unter <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000127/full/full/0/default.jpg">, ‚Schriften welche künftig herauskommen sollen‘, S.&#x202F;941</wwwlink>) als „zu Johannis gewiß fertig“ angekündigt wurden; vgl. auch <intlink letter="598" page="210" line="7" linktext="true" />.
+</marginal>
+
+<marginal letter="601" page="222" line="24">
+<bzg>Dialogen&#x202F;…</bzg> <link ref="hamann" subref="hamann-dialogues" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="222" line="26">
+<bzg>Uebersetzungen diese Meße erscheinen</bzg> Im Herbst 1780 erschien noch keine Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link>; die erste war die für Weygand in Leipzig angekündigte Übersetzung <wwwlink address="https://eip.hueb-staging.iued.uni-heidelberg.de/en/person/275/">Carl Gottfried Schreiters</wwwlink>, welche <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">1781 erschien</wwwlink>.
+</marginal>
+
+<marginal letter="601" page="222" line="36">
+<bzg>Beylage oder Anhange</bzg> Hamanns geplanter Begleitessay zur Hume-Übersetzung
+</marginal>
+
+<marginal letter="601" page="223" line="5">
+<bzg>Engl. Exemplar</bzg> der 2nd edition (London 1779) von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link>, die Hamann zur Grundlage nahm
+</marginal>
+
+<marginal letter="601" page="223" line="8">
+<bzg>Mendelsohns philos. Schriften</bzg> <link ref="mendelssohn" subref="mendelssohn-schriften" linktext="true" /> in normalem Oktav-Format
+</marginal>
+
+<marginal letter="601" page="223" line="14">
+<bzg>Termin halten</bzg> für die Publikation der <link ref="kant" subref="kant-critik-vernunft" linktext="false"><titel>Critik der reinen Vernunft</titel></link>, vgl. <intlink letter="599" page="213" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="223" line="15">
+<bzg>Ihnen u Hartung</bzg> <link ref="hartung-gl" linktext="true" />; Verleger wurde letztlich Hartknoch
+</marginal>
+
+<marginal letter="601" page="223" line="17" sort="1">
+<bzg>Sohn entwischt ist</bzg> dass Hamann <link ref="hartknoch-j" linktext="true" /> nicht antraf, als dieser durch Königsberg ging
+</marginal>
+
+<marginal letter="601" page="223" line="17" sort="2">
+<bzg>Füeßli</bzg> <link ref="fuessli-hr" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="223" line="18">
+<bzg>Pfenninger</bzg> <link ref="pfenninger" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="601" page="223" line="19">
+<bzg>Lavater u Häfeli</bzg> <link ref="lavater" linktext="true" /> und <link ref="haefeli" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="223" line="20">
+<bzg>christl. Magazins</bzg> <link ref="pfenninger" subref="pfenninger-magazin" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="223" line="28">
+<bzg>Gemalin und Tochter</bzg> <link ref="hartknoch-a" linktext="true" /> und <link ref="hartknoch-aj" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="223" line="30">
+<bzg>P‥l</bzg> <link ref="penzel" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="223" line="32">
+<bzg>Pr. Residenten</bzg> ?!?
+</marginal>
+
+<marginal letter="601" page="223" line="33">
+<bzg>W.</bzg> Warschau
+</marginal>
+
+<marginal letter="601" page="223" line="34">
+<bzg>würkl. Druck</bzg> von <link ref="hamann" subref="hamann-dialogues" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="224" line="1">
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="224" line="2">
+<bzg>Reisegefährten</bzg> wohl <link ref="fuessli-hr" linktext="true" />
+</marginal>
+
+<marginal letter="601" page="224" line="9">
+<bzg>7 Sept 1780</bzg> wohl ein Schreibfehler Hartknochs oder eine Fehllesung
+</marginal>
+
 
 
 
