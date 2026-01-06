@@ -50704,7 +50704,7 @@ Brief Nr. 411
 </marginal>
 
 <marginal letter="411" page="104" line="20">
-<bzg>Naber Flink</bzg> niederdt. flinker Nachbar (vgl. <link ref="tiling-e" subref="tiling-versuch" linktext="true" />, Bd.&#x202F;1, S.&#x202F;422 und Bd.&#x202F;3, S.&#x202F;211). Hamann ahmt damit in <link ref="hamann" subref="hamann-mancherley" linktext="false"><titel>Mancherley und Etwas</titel></link> Claudius’ niederdeutscher Schreibweise nach. Naber Flink ist wohl eine Typenbezeichnung, so etwa in dem Auftritt von <link ref="friedrich-II" linktext="true" /> als „Naber Flink“ in der niederdeutschen Bauernposse <wwwlink address="http://dx.doi.org/10.25673/78386"><titel>Ernsthafte vertrauliche Bauern-Gespräche</titel></wwwlink> (Berlin 1757/58). Darin gelingen ihm unter der Maske des Bauern „Naber Flink“ siegreiche Spitzen gegen die ebenfalls als Bäuerinnen auftretenden Herrscherinnen von Russland und Österreich.
+<bzg>Naber Flink</bzg> niederdt. flinker Nachbar (vgl. <link ref="tiling-e" subref="tiling-versuch" linktext="true" />, Bd.&#x202F;1, S.&#x202F;422 und Bd.&#x202F;3, S.&#x202F;211). Hamann ahmt damit in <link ref="hamann" subref="hamann-mancherley" linktext="false"><titel>Mancherley und Etwas</titel></link> Claudius’ niederdeutsche Schreibweise nach. Naber Flink ist wohl eine Typenbezeichnung, so etwa in dem Auftritt <link ref="friedrich-II" linktext="false">Friedrichs II.</link> als „Naber Flink“ in der niederdeutschen Bauernposse <wwwlink address="http://dx.doi.org/10.25673/78386"><titel>Ernsthafte vertrauliche Bauern-Gespräche</titel></wwwlink> (Berlin 1757/58). Darin gelingen ihm unter der Maske des Bauern „Naber Flink“ siegreiche Spitzen gegen die ebenfalls als Bäuerinnen auftretenden Herrscherinnen von Russland und Österreich.
 </marginal>
 
 <marginal letter="411" page="104" line="22">
@@ -82496,6 +82496,10 @@ Brief Nr. 601
 <bzg>christl. Magazins</bzg> <link ref="pfenninger" subref="pfenninger-magazin" linktext="true" />
 </marginal>
 
+<marginal letter="601" page="223" line="23">
+<bzg>häusl. Unglück</bzg> vgl. <intlink letter="602" page="225" line="35" linktext="true" />
+</marginal>
+
 <marginal letter="601" page="223" line="28">
 <bzg>Gemalin und Tochter</bzg> <link ref="hartknoch-a" linktext="true" /> und <link ref="hartknoch-aj" linktext="true" />
 </marginal>
@@ -82656,11 +82660,75 @@ Brief Nr. 602
 </marginal>
 
 <marginal letter="602" page="225" line="26">
-<bzg>Nachbar Stark</bzg> <link ref="starck" linktext="true" />; waren die einmal Nachbarn?!? – wegen seiner Nachbarschaft zur Freimaurerloge? Assoziation mit Stockmar?
+<bzg>Nachbar Stark</bzg> <link ref="starck" linktext="true" />; die Nachbarschaft leitet sich aus dessen intensivem Engagement in der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> her, die in Hamanns Nachbarschaft lag, vgl. <intlink letter="425" page="139" line="16" linktext="true" />.
 </marginal>
 
 <marginal letter="602" page="225" line="27">
 <bzg>freymüthige Betrachtungen</bzg> <link ref="starck" subref="starck-christenthum" linktext="true" />
+</marginal>
+
+<marginal letter="602" page="225" line="29">
+<bzg>Frau Gevatterin als Verlegerin</bzg> <link ref="herder-c" linktext="true" />; vmtl. im Zusammenhang von Plänen und Verhandlungen für <link ref="herder" subref="herder-andreae-denkmal" linktext="true" />, die Hartknoch mit ihr führte, und wovon Hartknoch im nicht überlieferten Brief an Hamann schrieb. [Henkel schreibt: »zur Ostermesse hatte Hartknoch das Denkmal auf Andreae angekündigt; das Ms. war aber über anderen Arbeiten liegengeblieben. Karoline verhandelte darüber mit Hartknoch zwischen dem 4. September u. 25. November 1780, wobei, wie immer, die Honorarfrage eine Rolle spielte«; das ist alles nicht zu verifizieren, im Messkatalog ist nichts angekündigt, das Projekt war noch in sehr früher Planungsphase; Briefe aus der Zeit von Herder an Hartknoch gibts weder in HBGA noch bei Düntzer; wie kommt Henkel auf diese genauen Daten?!? – sonst löschen]
+</marginal>
+
+<marginal letter="602" page="225" line="30">
+<bzg>Andräische Uebersetzung</bzg> das Gesamtprojekt bzw. Übersetzungen von <link ref="andreae-jv" linktext="true" /> wie die <link ref="andreae-jv" subref="herder-andreae-gesprache" linktext="false"><titel>Gespräche aus dem Latein eines berühmten, frommen und verdienstvollen Theologen des vorigen Jahrhunderts</titel></link>
+</marginal>
+
+<marginal letter="602" page="225" line="31">
+<bzg>3 Qvartlangen Briefe</bzg> <intlink letter="600" page="214" line="31" linktext="false"></intlink>
+</marginal>
+
+<marginal letter="602" page="225" line="33" sort="1">
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="602" page="225" line="33" sort="2">
+<bzg>kleine Toussaint</bzg> Pierre Louis Claude Toussaint, der wohl bald nach seiner Geburt 1780 starb
+</marginal>
+
+<marginal letter="602" page="225" line="35">
+<bzg>Ihrem Verlust</bzg> vgl. <intlink letter="601" page="223" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="602" page="225" line="37">
+<bzg>Kunstschüler</bzg> <link ref="hartknoch-j" linktext="true" />
+</marginal>
+
+<marginal letter="602" page="226" line="2">
+<bzg>Gemalin</bzg> <link ref="hartknoch-a" linktext="true" />
+</marginal>
+
+<marginal letter="602" page="226" line="3" sort="1">
+<bzg>Chronikenschreiber</bzg> <link ref="berens-jc" linktext="true" />, nach dessen <link ref="berens-jc" subref="berens-blatt" linktext="false"><titel>Blatt zur Chronik von Riga</titel></link>
+</marginal>
+
+<marginal letter="602" page="226" line="3" sort="2">
+<bzg>im Merkur angemeldet werden</bzg> <link ref="teutsche-merkur" linktext="true" />, vgl. <intlink letter="600" page="217" line="26" linktext="true" />
+</marginal>
+
+<marginal letter="602" page="226" line="4">
+<bzg>Freund Wezel zu seinem Roman</bzg> <link ref="wezel" linktext="true" />, wohl für dessen <link ref="wezel" subref="wezel-wilhelmine" linktext="false"><titel>Wilhelmine Arend, oder die Gefahren der Empfindsamkeit</titel></link>
+</marginal>
+
+<marginal letter="602" page="226" line="5" sort="1">
+<bzg>HE Rhode&#x202F;…&#x202F;Scherflein</bzg> einige Exemplare von <link ref="hamann" subref="hamann-scherflein" linktext="false">Hamanns <titel>Zwey Scherflein</titel></link> für <link ref="rohd-d" linktext="true" />
+</marginal>
+
+<marginal letter="602" page="226" line="5" sort="2">
+<bzg>Klopst. gewirkt</bzg> <link ref="klopstock" linktext="true" />, vgl. <intlink letter="600" page="218" line="24" linktext="true" />
+</marginal>
+
+<marginal letter="602" page="226" line="6">
+<bzg>Billetdoux</bzg> Liebesbrief (wörtl. etwa süßer Zettel), bei Hamann meist allgemeiner für kurzen, persönlichen Brief; gemeint ist <intlink letter="603" page="226" line="19" linktext="false">HKB 603</intlink>.
+</marginal>
+
+<marginal letter="602" page="226" line="7" sort="1">
+<bzg>Claudius antworte</bzg> auf <link ref="claudius" linktext="false">Claudius’</link> Brief, der am <intlink letter="602" page="224" line="23" linktext="false">27. September</intlink> in Königsberg ankam
+</marginal>
+
+<marginal letter="602" page="226" line="7" sort="2">
+<bzg>Verleger von Kant</bzg> der <link ref="kant" subref="kant-critik-vernunft" linktext="false"><titel>Critik der reinen Vernunft</titel></link>, <intlink letter="602" page="224" line="17" linktext="false">s.o.</intlink>
 </marginal>
 
 

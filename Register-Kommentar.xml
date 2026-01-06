@@ -419,7 +419,12 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 <kommentar id="andreae-j" type="neuzeit">
 <lemma>Jakob Andreae</lemma>
 <eintrag>1731–1814. Von 1759 bis 1769 Sekretär des <wwwlink address="https://www.geonames.org/459279">Mitauischen</wwwlink> Instanzgerichts, siehe <wwwlink address="https://pbc.gda.pl/Content/80758/H_3.pdf">Wilhelm Räder: <titel>Die Juristen Kurlands im 18. Jahrhundert</titel> (Posen 1942)</wwwlink>.</eintrag>
-</kommentar>
+</kommentar> 
+
+<kommentar id="andreae-jv" type="neuzeit">
+<lemma>Johann Valentin Andreae</lemma>
+<eintrag>1586–1654. Protestantischer Theologe, wichtigster Vertreter des württembergischen Pietismus, Hofprediger und Generalsuperintendent in Stuttgart und Bebenhausen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118502883.html#ndbcontent">Schottenloher, Otto: Andreae, Johann Valentin, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;277f</wwwlink>.</eintrag>
+</kommentar> 
 
 <kommentar id="anchersen-jp" type="neuzeit">
 <lemma>Johannes Peder Anchersen</lemma>
@@ -8580,6 +8585,16 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <lemma>Herder, <titel>Dissertation sur l’influence des Sciences sur le Gouvernement et du Gouvernement sur les Sciences</titel></lemma>
 <eintrag>
 <titel>Dissertation sur l’influence des Sciences sur le Gouvernement et du Gouvernement sur les Sciences, Qui a remporté le prix proposé par l’académie royale des sciences et belles-lettres pour l’année 1779</titel> (Berlin: Decker 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10688267-6">BSB München: 4 Pol.g. 257 n</wwwlink>. 
+</eintrag>
+</subsection>
+<subsection id="herder-andreae-gesprache" type="neuzeit" sort="540">
+<lemma>Herder, <titel>Gespräche aus dem Latein eines berühmten, frommen und verdienstvollen Theologen des vorigen Jahrhunderts</titel></lemma>
+<eintrag><titel>Gespräche aus dem Latein eines berühmten, frommen und verdienstvollen Theologen des vorigen Jahrhunderts</titel> [<link ref="andreae-jv" linktext="true" />, übersetzt und herausgegeben von Herder], in: <link ref="pfenninger" subref="pfenninger-magazin" linktext="true" />, <wwwlink address="https://www.e-rara.ch/zuz/content/zoom/9674315">Bd.&#x202F;3 (1780), St.&#x202F;2, S.&#x202F;102–118</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="herder-andreae-denkmal" type="neuzeit" sort="540">
+<lemma>Herder, <titel>Plan eines Denkmals für Johann Valentin Andreae</titel></lemma>
+<eintrag>Plan eines Denkmals für <link ref="andreae-jv" linktext="true" />, aus seinen Schriften errichtet. 1780–1783; vgl. SWS XVI, S.&#x202F;298–302 und 591.
 </eintrag>
 </subsection>
 <subsection id="herder-briefe-theologie" type="neuzeit" sort="600">
@@ -20499,9 +20514,12 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 <eintrag>
 <titel>Lebensgeschichte Tobias Knauts des Weisen, sonst der Stammler genannt. Aus Familiennachrichten gesammelt</titel> (4 Bde., Leipzig 1773–1776) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;151/367: „Lebensgeschichte Tob. Knauts, iter Th. Leipz. 773“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123089-4">BSB München: 1592 b-1/2</wwwlink>.</eintrag>
 </subsection>
-</kommentar>
- (), 
- IV,19; 219(schon geschrieben).
+<subsection id="wezel-wilhelmine" type="neuzeit" sort="20">
+<lemma>Wezel, <titel>Wilhelmine Arend</titel></lemma>
+<eintrag>
+<titel>Wilhelmine Arend, oder die Gefahren der Empfindsamkeit</titel> (2 Bde., Dessau, Leipzig: Buchhandlung der Gelehrten, Schwickert 1782–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925956-9">BSB München: Res/P.o.germ. 2041 s</wwwlink>.</eintrag>
+</subsection>
+</kommentar> 
 
 <kommentar id="wiedeburg" type="neuzeit">
 <lemma>Basilius Christian Bernhard Wiedeburg</lemma>
