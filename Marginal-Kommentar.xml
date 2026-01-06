@@ -3412,7 +3412,7 @@ Brief Nr. 44
 </marginal>
 
 <marginal letter="44" page="111" line="16">
-<link ref="oest" subref="oest-schlüsse" linktext="true" />, <intlink letter="44" page="112" line="1" linktext="true" />, <intlink letter="58" page="143" line="3" linktext="true" />, <intlink letter="60" page="149" line="30" linktext="true" />
+<link ref="oest" subref="oest-streitschriften" linktext="true" />, <intlink letter="44" page="112" line="1" linktext="true" />, <intlink letter="58" page="143" line="3" linktext="true" />, <intlink letter="60" page="149" line="30" linktext="true" />
 </marginal>
 
 <marginal letter="44" page="111" line="20">
@@ -3440,7 +3440,7 @@ Brief Nr. 44
 </marginal>
 
 <marginal letter="44" page="112" line="1">
-<link ref="oest" subref="oest-schlüsse" linktext="true" />, vgl. <intlink letter="44" page="111" line="16" linktext="true" />, <intlink letter="58" page="143" line="3" linktext="true" />, <intlink letter="60" page="149" line="30" linktext="true" />
+<link ref="oest" subref="oest-streitschriften" linktext="true" />, vgl. <intlink letter="44" page="111" line="16" linktext="true" />, <intlink letter="58" page="143" line="3" linktext="true" />, <intlink letter="60" page="149" line="30" linktext="true" />
 </marginal>
 
 <marginal letter="44" page="112" line="3">
@@ -3456,11 +3456,11 @@ vll. <link ref="diogenes" subref="diogenes-opera" linktext="true" /> 2,5,22: „
 </marginal>
 
 <marginal letter="44" page="112" line="9">
-<link ref="ditton" linktext="true" />, dessen Thesen in <link ref="oest" subref="oest-schlüsse" linktext="true" /> diskutiert werden.
+<link ref="ditton" linktext="true" />, dessen Thesen in <link ref="oest" subref="oest-streitschriften" linktext="true" /> diskutiert werden.
 </marginal>
 
 <marginal letter="44" page="112" line="10">
-<bzg>Gedicht</bzg> „Schreiben an Doris“ in <link ref="oest" subref="oest-schlüsse" linktext="true" />
+<bzg>Gedicht</bzg> „Schreiben an Doris“ in <link ref="oest" subref="oest-streitschriften" linktext="true" />
 </marginal>
 
 <marginal letter="44" page="112" line="12">
@@ -4528,12 +4528,16 @@ wahrscheinlich <link ref="petron" subref="petron-satiren" linktext="false">La Sa
 <link ref="lauson" linktext="true" />
 </marginal>
 
+<marginal letter="58" page="143" line="3">
+<bzg>Wochenschrift</bzg><link ref="oest" subref="oest-wochenblaetter" linktext="true" />
+</marginal>
+
 <marginal letter="58" page="143" line="6">
-<link ref="oest" subref="oest-schlüsse" linktext="true" />, vgl. <intlink letter="44" page="111" line="16" linktext="true" />, <intlink letter="44" page="112" line="1" linktext="true" />, <intlink letter="60" page="149" line="30" linktext="true" />
+<link ref="oest" subref="oest-streitschriften" linktext="true" />, vgl. <intlink letter="44" page="111" line="16" linktext="true" />, <intlink letter="44" page="112" line="1" linktext="true" />, <intlink letter="60" page="149" line="30" linktext="true" />
 </marginal>
 
 <marginal letter="58" page="143" line="8">
-Zitat in <link ref="oest" subref="oest-schlüsse" />, S.&#x202F;5 u. 6
+Zitat in <link ref="oest" subref="oest-streitschriften" />, S.&#x202F;5 u. 6
 </marginal>
 
 <marginal letter="58" page="143" line="14">
@@ -4897,7 +4901,7 @@ R.[everendus] P.[ater]
 </marginal>
 
 <marginal letter="60" page="149" line="30" sort="1">
-<link ref="oest" subref="oest-schlüsse" linktext="true" />, <intlink letter="44" page="111" line="16" linktext="true" />, <intlink letter="44" page="112" line="1" linktext="true" />, <intlink letter="58" page="143" line="3" linktext="true" />
+<link ref="oest" subref="oest-streitschriften" linktext="true" />, <intlink letter="44" page="111" line="16" linktext="true" />, <intlink letter="44" page="112" line="1" linktext="true" />, <intlink letter="58" page="143" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="60" page="149" line="30" sort="2">
@@ -19765,7 +19769,7 @@ Brief Nr. 194
 </marginal>
 
 <marginal letter="194" page="45" line="24" sort="2">
-<bzg>Oestens an Doris</bzg> <link ref="oest" subref="oest-schlüsse" linktext="true" />. Dass Voltaires und Oestens Schriften zum Muster dienten, behauptet auch die Nachschrift des <link ref="hamann" subref="hamann-klaggedicht" linktext="false"><titel>Klaggedichts</titel></link>, ED S.&#x202F;63, N&#x202F;II, S.&#x202F;150/8f.
+<bzg>Oestens an Doris</bzg> <link ref="oest" subref="oest-streitschriften" linktext="true" />. Dass Voltaires und Oestens Schriften zum Muster dienten, behauptet auch die Nachschrift des <link ref="hamann" subref="hamann-klaggedicht" linktext="false"><titel>Klaggedichts</titel></link>, ED S.&#x202F;63, N&#x202F;II, S.&#x202F;150/8f.
 </marginal>
 
 <marginal letter="194" page="45" line="25">
