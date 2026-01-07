@@ -3981,6 +3981,17 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 </subsection>
 </kommentar>
 
+<kommentar id="cuper" type="neuzeit">
+<lemma>Gisbert Cuper</lemma>
+<eintrag>1644–1716. Niederländischer Politiker in Deventer und klassischer Philologe und Altertumskundler.
+</eintrag>
+<subsection id="cuper-observationes" type="neuzeit">
+<lemma>Cuper, <titel>Observationes</titel></lemma>
+<eintrag>
+<titel>Gisberti Cuperi Observationum Libri Tres</titel> (Utrecht: Elzevier 1670) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;66/131: „G. Cuperi Obseruationes, Trai. 670“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10765878-7">BSB München: Philol. 321 o</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="cupner" type="neuzeit">
 <lemma>Christoph Wilhelm Cupner</lemma>
 <eintrag>1720–1788. <link ref="kriegs-und-domaenenkammer" linktext="false">Kriegs- und Domänenrat in Königsberg</link>.
@@ -5231,6 +5242,16 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 <lemma>Eus. <titel>hist. eccl.</titel></lemma>
 <eintrag>
 <titel>Historia Ecclesiastica</titel>, griech. Ἐκκλησιαστικὴ ἱστορία [Biga&#x202F;1/10: „Eusebii Pamphili Historia Ecclesiastica gr. et lat. ex ed. Valesii, Mog. 679“].</eintrag>
+</subsection>
+</kommentar> 
+
+<kommentar id="eustathios" type="neuzeit">
+<lemma>Eustathios von Thessalonike</lemma>
+<eintrag>Um 1110 bis um 1195. Byzantinischer Gelehrter, Erzbischof von Thessalonike und Verfasser eines umfangreichen Homer-Kommentars, der im 17. und 18. Jahrhundert für Editionen wirkmächtig war.</eintrag>
+<subsection id="eusthatius-parekbolai" type="neuzeit" sort="10">
+<lemma>Eustathios, <titel>Homer-Kommentar</titel></lemma>
+<eintrag>Ευσταθιου παρεκβολαι εις την Ομηρος Ιλιαδα (Bd.&#x202F;1, Rom 1542 [Biga&#x202F;2/24: „Ευσταθιου παρεκβολαι εις την Ομηρος Ιλιαδα Tom. I. Rom. 1542“]). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/10802BE2">ÖNB Wien: *35.A.25.(Vol.1) ALT PRUNK</wwwlink>. Digitalisat der weiteren Bde. der Homer-Kommentare Rom 1542–1549: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11199179-0">Stabi Augsburg: 2 LG 133</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 
@@ -10680,7 +10701,7 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <subsection id="klopstock-oden1771" type="neuzeit" sort="130">
 <lemma>Klopstock, <titel>Oden</titel></lemma>
 <eintrag>
-<titel>Oden</titel>. (Hamburg: Bode 1771) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;145/264: „(Klopstock’s) Oden, Hamb. 771“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-342339">ULB Halle: Dd 2483 z</wwwlink>.</eintrag>
+<titel>Oden</titel> (Hamburg: Bode 1771) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;145/264: „(Klopstock’s) Oden, Hamb. 771“]. Digitalisat: <wwwlink address="https://nbn-resolving.de/urn:nbn:de:gbv:3:1-342339">ULB Halle: Dd 2483 z</wwwlink>.</eintrag>
 </subsection>
 <subsection id="klopstock-gelehrtenrepublik" type="neuzeit" sort="140">
 <lemma>Klopstock, <titel>Die Gelehrtenrepublik</titel></lemma>
