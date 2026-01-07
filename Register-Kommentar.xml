@@ -15394,7 +15394,7 @@ Wiss. Ausg.: <titel>Plautus: Komödien. Lateinisch und deutsch</titel>, hrsg., �
 <subsection id="plut-mor" type="neuzeit" sort="20">
 <lemma>Plut. <titel>mor.</titel></lemma>
 <eintrag>Moralia, griech. Ἠθικά (Ēthiká).<line type="break" />
-Dt. Übers. zitiert nach: Christian Weise u. Manuel Vogel (Hg.), <titel>Plutarch: Moralia </titel> (2&#xA0;Bde., Wiesbaden 2012).
+Dt. Übers. zitiert nach: Christian Weise u. Manuel Vogel (Hg.), <titel>Plutarch: Moralia </titel> (2&#xA0;Bde., Wiesbaden 2012). Für eine Übersicht mit Verlinkungen zur Loeb-Ausgabe vgl. <wwwlink address="https://www.attalus.org/info/moralia.html">https://www.attalus.org/info/moralia.html</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="plut-vit" type="neuzeit" sort="30">
@@ -17470,7 +17470,11 @@ Zweite Auflage: <titel>Lyrische, Elegische und Epische Poesien, nebst einer krit
 
 <kommentar id="schultz-jf" type="neuzeit">
 <lemma>Johann Friedrich Schultz</lemma>
-<eintrag>1739–1805. Königsberger Theologe, Mathematiker und Philosoph, ab 1776 zweiter Hofprediger an der Schlosskirche, 1786 Professor der Mathematik an der Albertina; Freund von <link ref="kant" linktext="false">Kant</link>.</eintrag>
+<eintrag>1739–1805. Königsberger Theologe, Mathematiker und Philosoph, ab 1776 zweiter Hofprediger an der Schlosskirche, 1786 Professor der Mathematik an der Albertina; Freund <link ref="kant" linktext="false">Kants</link>.</eintrag>
+<subsection id="schultz-parallellinien" type="neuzeit" sort="10">
+<lemma>Schultz, <titel>Entdekte Theorie der Parallelen</titel></lemma>
+<eintrag><titel>Entdekte Theorie der Parallelen nebst einer Untersuchung über den Ursprung ihrer bisherigen Schwierigkeit</titel> (Königsberg: Kanter, Dengel 1784). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:8:2-544546">UB Kiel: Ke 2258</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="schulz-je" type="neuzeit">
