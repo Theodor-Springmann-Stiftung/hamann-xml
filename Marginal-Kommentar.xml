@@ -22687,6 +22687,10 @@ Brief Nr. 212
 <bzg>Lauson</bzg> <link ref="lauson" linktext="true" />
 </marginal>
 
+<marginal letter="212" page="103" line="14">
+<bzg>Einen</bzg> Möglicherweise der in &lt;intlink letter=&quot;210&quot; page=&quot;101&quot; line=&quot;34&quot; linktext=&quot;false&quot;&gt;HKB 210&lt;/intlink&gt; erwähnte Däntler.
+</marginal>
+
 <marginal letter="212" page="103" line="17">
 <bzg>Alkoran</bzg> <link ref="hinkelmann" subref="hinkelmann-koran" linktext="true" />
 </marginal>
@@ -23278,7 +23282,7 @@ Brief Nr. 214
 </marginal>
 
 <marginal letter="214" page="115" line="26">
-<bzg>Mosheims</bzg> <link ref="mosheim" linktext="true" />
+<bzg>Mosheims</bzg> <link ref="mosheim" subref="mosheim-anweisung" linktext="true" />, S.132.
 </marginal>
 
 <marginal letter="214" page="115" line="30">
