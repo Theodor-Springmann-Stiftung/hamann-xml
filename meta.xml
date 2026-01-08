@@ -11628,9 +11628,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="604">
-        <date value="25.–26. und 29.–30. Oktober 1780" />
+        <date value="Königsberg, 25., 26., 29. und 30. Oktober 1780" />
         <sort value="1780-10-25" from="1780-10-25" to="1780-10-30" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
