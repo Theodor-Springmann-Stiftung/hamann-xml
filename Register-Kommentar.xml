@@ -4841,7 +4841,7 @@ E
 
  <kommentar id="ehrenreich" type="neuzeit">
 <lemma>Johann Eberhard Ludwig Ehrenreich</lemma>
-<eintrag>1723–1803. Chemiker, 1747–1753 Hofzahnarzt in Stockholm, dann Porzellanfabrikant, ab 1772 in Königsberg.</eintrag>
+<eintrag>1723–1803. Chemiker, 1747–1753 Hofzahnarzt in Stockholm, dann Porzellanfabrikant, ab 1772 in Königsberg, gründete 1776 eine Steingut- und Fayencefabrik; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd1012184749.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar> 
 
 <kommentar id="ehrmann" type="neuzeit">
@@ -10366,6 +10366,11 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <eintrag>Vmtl. 551 v. Chr. bis 479 v. Chr. Chinesischer Philosoph.</eintrag>
 </kommentar>
 
+<kommentar id="konig-cg" type="neuzeit">
+<lemma>Christian Gottlieb König</lemma>
+<eintrag>1711–1782. Philosophieprofessor in Gießen, Prediger in Elberfeld und schließlich Orientalist in Leiden; er vertrat ein stark schwärmerisches Christentum; siehe <wwwlink address="http://d-nb.info/gnd/116288744">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="konigliche-d-g" type="neuzeit">
 <lemma>Königliche deutsche Gesellschaft von Königsberg</lemma>
 <eintrag>1741 gegründete Vereinigung zur Pflege der deutschen Sprache und Literatur, erster Direktor war Prof. <link ref="flottwell" linktext="true" />. Er folgte damit den Empfehlungen von <link ref="gottsched" linktext="true" />, der ihm auch die Vorlage für die Vereinssatzung lieferte (April 1741). Daraufhin galt es ein königliches Privileg zu erhalten nach dem Vorbild der Deutschen Gesellschaft in Greifswald. Flottwells und Gottscheds Anliegen war es, ein Gegengewicht zur Orthodoxie an der Universität Königsberg zu entwickeln, wo das Lateinische noch Hauptsprache des wissenschaftlichen Austauschs war. Von den Prof. der Universität war keine Unterstützung zu erwarten, auch Flottwells Versuch, dort eine Professur für Beredsamkeit zu erlangen, musste mit preußisch-königlichem Privileg gegen den Widerstand des Ordinariats forciert werden. Das Privileg für die Gesellschaft wurde im August 1743 erlangt (wie auch die Professur für Flottwell). Ein wichtiger Förderer dem preußischen Hof gegenüber und Mäzen war Johann Ernst v. Wallenrodt, der 1742 als Staats- und Kriegsminister nach Königsberg zog. Siehe zur Geschichte der Gesellschaft unter Flottwell bes.: Krause, Gottlieb: <titel>Gottsched und Flottwell, die Begründer der Deutschen Gesellschaft in Königsberg</titel> (Leipzig 1893).<line type="break" />
@@ -10519,6 +10524,12 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 <eintrag>
 <titel>Die allerneueste deutsche Orthographie des achtzehnten Jahrhunderts, erfunden von Klopstock, nachgeahmt von dem Dessauischen Erziehungsinstitute, ausgezischt von der gelehrten Welt, und übergegangen in die Vergessenheit. Herausgegeben von einem Mennoniten</titel> (Frankfurt, Leipzig 1779). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3694212648">SLUB Dresden: Miscell.528,8</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="kindermann" type="neuzeit">
+<lemma>Eberhard Christian Kindermann</lemma>
+<eintrag>Geb. 1713. Kursächsischer Hofastronom, bekannt für phantastisch-astronomische Bücher wie <wwwlink address="https://books.google.de/books?id=xFHgMQAACAAJ"><titel>Die Geschwinde Reise auf dem Lufft-Schiff nach der obern Welt, welche jüngsthin fünff Personen angestellet, um zu erfahren, ob es eine Wahrheit sey, daß der Planet Mars den 10. Jul. dieses Jahrs das erste mahl, so lange die Welt stehet, mit einem Trabanten oder Mond erschienen? Der untern Welt zu curieuser Gemüths-Ergötzung und Versicherung dieser Begebenheit mitgetheilet durch die allgemeine Fama</titel> (Berlin 1744)</wwwlink>; siehe <wwwlink address="https://d-nb.info/gnd/141099992">GND</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="king-w" type="neuzeit">
@@ -15988,7 +15999,7 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 
 <kommentar id="reccard" type="neuzeit">
 <lemma>Gotthilf Christian Reccard</lemma>
-<eintrag>1735–1798. Evang. Theologe, seit 1772 Konsistorialrat und seit 1775 Direktor des Fridericianums in Königsberg, Schwiegersohn von <link ref="bucholtz-k-jc" linktext="true" />.</eintrag>
+<eintrag>1735–1798. Evangelischer Theologe, seit 1772 Konsistorialrat und seit 1775 Direktor des Fridericianums in Königsberg, Schwiegersohn von <link ref="bucholtz-k-jc" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="reichs-post-reuter" type="neuzeit">
@@ -21181,7 +21192,7 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <eintrag>1727–1780. Der ‚Zellerfelder Prophet‘; evangelischer Theologe, 1763 Superintendent in Hannoversch-Münden, 1769 Pastor in Zellerfeld.
 </eintrag>
 <subsection id="ziehen-revolution" type="neuzeit" sort="10">
-<lemma><titel>Nachricht von einer bevorstehenden großen Revolution der Erde</titel></lemma>
+<lemma>Ziehen, <titel>Nachricht von einer bevorstehenden großen Revolution der Erde</titel></lemma>
 <eintrag>
 <titel>Des Herrn Superintendenten Ziehen im Zellerfelde Nachricht von einer bevorstehenden großen Revolution der Erde, die insonderheit das südliche Europa und einen Theil Deutschlands treffen, und mit dem Ende des September-Monats 1780 anfangen wird. Im Auszuge herausgegeben. Mit einem Anhange über das Buch Chevilla</titel> (Frankfurt, Leipzig 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:061:1-529846">ULB Düsseldorf</wwwlink>. – Zirkulierte zuvor als Manuskript, wovon Herder eines an Hamann schickte, der es für sich abschrieb, vgl. <intlink letter="604" page="228" line="30" linktext="true" />.
 </eintrag>

@@ -82854,7 +82854,7 @@ Der Brief wurde erst später abgeschickt, vgl. <intlink letter="604" page="228" 
 Brief Nr. 604
 
 <marginal letter="604" page="228" line="3">
-<bzg>Michaelis</bzg> <intlink letter="600" page="214" line="29" linktext="false"></intlink>, der am 29. September 1780 in Königsberg ankam
+<bzg>Michaelis</bzg> <intlink letter="600" page="214" line="29" linktext="false">HKB 600</intlink>, der am 29. September 1780 in Königsberg ankam
 </marginal>
 
 <marginal letter="604" page="228" line="4">
@@ -82930,7 +82930,35 @@ Brief Nr. 604
 </marginal>
 
 <marginal letter="604" page="228" line="31">
-<bzg>aus den hamb. Zeitungen</bzg> Die Quelle ist vmtl. <link ref="lichtenberg" linktext="false">Lichtenbergs</link> Artikel <wwwlink address="https://www.deutsche-digitale-bibliothek.de/newspaper/item/WRPNJPYPO6WJMHSY5Z3ZK7HMRW4SB3Q2?issuepage=1">„Ueber die Weissagungen des verstorbenen Herrn Superintendenten Ziehen in Zellerfeld“ in den <link ref="hamb-adresscomtoir" linktext="false"><titel>Hamburgischen Adreß-Comtoir-Nachrichten</titel></link>, St.&#x202F;82, 19.10.1780, S.&#x202F;649–651</wwwlink>, wo es auch heißt, dass „ein Auszug davon wirklich gedruckt ist, und sogar zum Verkauf in die Häuser gebracht wird“.
+<bzg>aus den hamb. Zeitungen</bzg> Die Quelle ist <link ref="lichtenberg" linktext="false">Lichtenbergs</link> Artikel „Ueber die Weissagungen des verstorbenen Herrn Superintendenten Ziehen in Zellerfeld“ in den <link ref="hamb-adresscomtoir" linktext="false"><titel>Hamburgischen Adreß-Comtoir-Nachrichten</titel></link>, <wwwlink address="https://www.deutsche-digitale-bibliothek.de/newspaper/item/WRPNJPYPO6WJMHSY5Z3ZK7HMRW4SB3Q2?issuepage=1">St.&#x202F;82, 19.10.1780, S.&#x202F;649–651</wwwlink>, wo es auch heißt, dass „ein Auszug davon wirklich gedruckt ist, und sogar zum Verkauf in die Häuser gebracht wird“.
+</marginal>
+
+<marginal letter="604" page="228" line="35">
+<bzg>Hofrath Ehrenreich</bzg> <link ref="ehrenreich" linktext="true" /> 
+</marginal>
+
+<marginal letter="604" page="229" line="1">
+<bzg>Prof. König</bzg> <link ref="konig-cg" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="4">
+<bzg>Kant</bzg> <link ref="kant" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="5">
+<bzg>D. Reccard</bzg> <link ref="reccard" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="6">
+<bzg>gleichfalls für Kindermannsche Grillen</bzg> nach dem phantastisch-astronomischen Autor <link ref="kindermann" linktext="true" />; vgl. Lichtenbergs Ausführungen im Artikel über Ziehen (<intlink letter="604" page="228" line="31" linktext="false">s.o.</intlink>), S.&#x202F;649: „[…], daß das ganze Fundament dieser Weissagungen ein so abscheulicher Fehlschluß ist, daß ich mich nicht erinnere, je etwas ähnliches gedruckt gelesen zu haben, es müßten denn die Schlüsse des Astronomen Kindermann seyn, der ein Perspectiv erfunden zu haben glaubte, womit man von Dresden aus die Schiffe auf dem stillen Meere sehen konnte.“
+</marginal>
+
+<marginal letter="604" page="229" line="8">
+<bzg>sonderbare Sonderbarkeiten</bzg> vgl. <intlink letter="600" page="219" line="6" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="15">
+<bzg>Uebersetzung des Hume</bzg> <link ref="hamann" subref="hamann-dialogues" linktext="true" />
 </marginal>
 
 
