@@ -81990,7 +81990,7 @@ Brief Nr. 600
 </marginal>
 
 <marginal letter="600" page="216" line="4" sort="3">
-<bzg>2. Kindern</bzg> <link ref="reichardt-w" linktext="false">Wilhelm</link> 
+<bzg>2. Kindern</bzg> <link ref="reichardt-w" linktext="false">Wilhelm</link> und <link ref="reichardt-l" linktext="true" />
 </marginal>
 
 <marginal letter="600" page="216" line="5">
@@ -82520,8 +82520,8 @@ Brief Nr. 601
 <bzg>P‥l</bzg> <link ref="penzel" linktext="true" />; Quelle der Gerüchte könnte Hamanns Nachbar  <link ref="stockmar" linktext="true" /> oder Königsberger Stadtklatsch sein (vgl. <intlink letter="604" page="231" line="12" linktext="true" /> und <intlink letter="605" page="233" line="21" linktext="true" />); Penzel war tatsächlich seit Anfang 1780 als falscher Abbé in Krakau und gelangte im Laufe des Jahres an bedeutende Stellen der Krakauer Universität, vgl. <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>, S.&#x202F;168–171.
 </marginal>
 
-<marginal letter="601" page="223" line="30">
-<bzg></bzg> demnach noch immer versuche, von Warschau aus eine Begnadigung wegen seiner Desertion aus dem Preußischen Militär zu erreichen und nach Königsberg zurückzukehren
+<marginal letter="601" page="223" line="32">
+<bzg>mit Händen&#x202F;…</bzg> demnach noch immer versuche, von Warschau aus eine Begnadigung wegen seiner Desertion aus dem Preußischen Militär zu erreichen und nach Königsberg zurückzukehren
 </marginal>
 
 <marginal letter="601" page="223" line="34">
@@ -82556,7 +82556,7 @@ Brief Nr. 602
 </marginal>
 
 <marginal letter="602" page="224" line="14" sort="1">
-<bzg>Berl. u Warschau</bzg> an <link ref="reichardt-jf" linktext="true" /> und <link ref="penzel" linktext="true" />?!?
+<bzg>Berl. u Warschau</bzg> Henkel: an <link ref="reichardt-jf" linktext="true" /> und <link ref="penzel" linktext="true" />?!? – Penzel war in Krakau, vgl. <intlink letter="601" page="223" line="30" linktext="true" />; und was hatte Hartknoch mit Reichardt zu tun?
 </marginal>
 
 <marginal letter="602" page="224" line="14" sort="2">
@@ -82612,7 +82612,7 @@ Brief Nr. 602
 </marginal>
 
 <marginal letter="602" page="224" line="27" sort="3">
-<bzg>Commere Courtan</bzg> <link ref="courtan-pj" linktext="true" />
+<bzg>Commere Courtan</bzg> <link ref="courtan-sm" linktext="true" />
 </marginal>
 
 <marginal letter="602" page="224" line="30">
@@ -82957,8 +82957,76 @@ Brief Nr. 604
 <bzg>sonderbare Sonderbarkeiten</bzg> vgl. <intlink letter="600" page="219" line="6" linktext="true" />
 </marginal>
 
-<marginal letter="604" page="229" line="15">
-<bzg>Uebersetzung des Hume</bzg> <link ref="hamann" subref="hamann-dialogues" linktext="true" />
+<marginal letter="604" page="229" line="15" sort="1">
+<bzg>Uebersetzung&#x202F;…&#x202F;ad Acta</bzg> <link ref="hamann" subref="hamann-dialogues" linktext="true" />; vgl. die Verhandlungen zuvor mit Hartknoch im September und Oktober, <intlink letter="601" page="222" line="20" linktext="true" /> und <intlink letter="602" page="225" line="19" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="15" sort="2">
+<bzg>mit künftiger Meße eine andere</bzg> <link ref="hume" subref="hume-dialogues" linktext="false"><titel>Gespräche über natürliche Religion von David Hume</titel> (Leipzig: Weygand 1781)</link>; zu den Ankündigungen in den Messkatalogen vgl. <intlink letter="596" page="206" line="5" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="16">
+<bzg>Kant, Lauson, Kreutzfeld, Hippel</bzg> <link ref="kant" linktext="true" />, <link ref="lauson" linktext="true" />, <link ref="kreutzfeld" linktext="true" />, <link ref="hippel" linktext="true" />, vgl. <intlink letter="601" page="222" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="19">
+<bzg>Briefen die natürl. Religion betreffend</bzg> Hamanns angedachter Titel für den Text, der sich aus den Konzepten für einen Begleitessay zur Hume-Übersetzung herausbildeten; der Titel kombiniert <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> mit den <link ref="briefe-literatur" linktext="false">Briefen die neueste Litteratur betreffend</link>. Zuletzt waren auch <link ref="starck" subref="starck-christenthum" linktext="false">Starcks <titel>Freymüthige Betrachtungen über das Christenthum</titel></link> teil der Titelkombination, vgl. <intlink letter="602" page="225" line="25" linktext="true" />.
+</marginal>
+
+<marginal letter="604" page="229" line="21">
+<bzg>Ankündigung der Uebersetzung</bzg> Herders kündigte die Hume-Übersetzung „von dem berühmten Hamann“ bereits an, im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10617978?page=94">4.&#x202F;Vj. 1780 (Oktober), S.&#x202F;90</wwwlink>; vgl. <intlink letter="600" page="218" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="23">
+<bzg>freymüthigen Betrachtungen</bzg> <link ref="starck" subref="starck-christenthum" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="28">
+<bzg>Irwings Untersuchungen&#x202F;…</bzg> <link ref="irwing" subref="irwing-untersuchungen" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="30">
+<bzg>dimidium animae meae</bzg> dt. Hälfte meiner Seele, <link ref="horaz" subref="horaz-oden" linktext="true" />, 1,3,8
+</marginal>
+
+<marginal letter="604" page="229" line="31">
+<bzg>CapellMeister</bzg> <link ref="reichardt-jf" linktext="true" />; zu dessen Besuch in Weimar vgl. <intlink letter="600" page="216" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="33">
+<bzg>unterkötigen</bzg> vgl. <wwwlink address="www.woerterbuchnetz.de/DWB/unterkötig">DWB, 1.&#x202F;Aufl., Bd.&#x202F;24, Sp.&#x202F;1643</wwwlink>: „unterköthig heiszt eine beule oder wunde, wenn sich eiter unter der oberfläche befindet“
+</marginal>
+
+<marginal letter="604" page="229" line="34">
+<bzg>Claud.</bzg> <link ref="claudius" linktext="true" />, in seinem nicht überlieferten Brief, der am 27. September in Königsberg ankam, vgl. <intlink letter="602" page="224" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="229" line="36">
+<bzg>Cyrus</bzg> <link ref="ramsey" subref="ramsey-cyrus" linktext="false">Claudius (Übers.), <titel>Die Reisen des Cyrus</titel></link>
+</marginal>
+
+<marginal letter="604" page="230" line="2" sort="1">
+<bzg>Beichtvater</bzg> <link ref="matthes" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="2" sort="2">
+<bzg>Hofhalsrichter Hippel</bzg> <link ref="hippel" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="2" sort="3">
+<bzg>Me Commere</bzg> <link ref="courtan-sm" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="3">
+<bzg>Brahl</bzg> <link ref="brahl" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="4">
+<bzg>Schimmelpfenning</bzg> <link ref="schimmelpfennig-b" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="5">
+<bzg>aurum potabile</bzg> Trinkgold, dem ein mittelalterlich-alchemistischer Aberglaube eine verjüngende Wirkung zuschrieb
 </marginal>
 
 
