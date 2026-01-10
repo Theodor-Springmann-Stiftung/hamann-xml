@@ -81962,7 +81962,7 @@ Brief Nr. 600
 </marginal>
 
 <marginal letter="600" page="215" line="20">
-<bzg>Hase</bzg> <link ref="hase" linktext="true" />
+<bzg>Hase</bzg> <link ref="hase" linktext="true" />, vgl. <intlink letter="604" page="231" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="600" page="215" line="32" sort="1">
@@ -82517,7 +82517,7 @@ Brief Nr. 601
 </marginal>
 
 <marginal letter="601" page="223" line="30">
-<bzg>P‥l</bzg> <link ref="penzel" linktext="true" />; Quelle der Gerüchte könnte Hamanns Nachbar  <link ref="stockmar" linktext="true" /> oder Königsberger Stadtklatsch sein (vgl. <intlink letter="604" page="231" line="12" linktext="true" /> und <intlink letter="605" page="233" line="21" linktext="true" />); Penzel war tatsächlich seit Anfang 1780 als falscher Abbé in Krakau und gelangte im Laufe des Jahres an bedeutende Stellen der Krakauer Universität, vgl. <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>, S.&#x202F;168–171.
+<bzg>P‥l</bzg> <link ref="penzel" linktext="true" />; Quelle der Gerüchte könnte Hamanns Nachbar  <link ref="stockmar" linktext="true" /> oder Königsberger Stadtklatsch sein (vgl. <intlink letter="604" page="231" line="12" linktext="true" /> und <intlink letter="605" page="233" line="21" linktext="true" />); Penzel war tatsächlich seit Anfang 1780 als falscher Abbé in Krakau und gelangte im Laufe des Jahres an bedeutende Stellen der Krakauer Universität, vgl. <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>, S.&#x202F;168–171 und <intlink letter="604" page="231" line="13" linktext="true" />.
 </marginal>
 
 <marginal letter="601" page="223" line="32">
@@ -82918,7 +82918,7 @@ Brief Nr. 604
 </marginal>
 
 <marginal letter="604" page="228" line="26" sort="2">
-<bzg>noch hier liegt</bzg> Der Brief ging irgendwann zwischen November 1780 und April 1781 an Klopstock, vgl. <intlink letter="617" page="287" line="18" linktext="true" />.
+<bzg>noch hier liegt</bzg> Der Brief ging irgendwann zwischen November 1780 und April 1781 über <link ref="claudius" linktext="false">Claudius</link> an Klopstock, vgl. <intlink letter="617" page="287" line="18" linktext="true" />.
 </marginal>
 
 <marginal letter="604" page="228" line="29">
@@ -83026,7 +83026,175 @@ Brief Nr. 604
 </marginal>
 
 <marginal letter="604" page="230" line="5">
-<bzg>aurum potabile</bzg> Trinkgold, dem ein mittelalterlich-alchemistischer Aberglaube eine verjüngende Wirkung zuschrieb
+<bzg>aurum potabile</bzg> Trinkgold, dem ein mittelalterlich-alchemistische Vorstellung eine verjüngende Wirkung zuschrieb
+</marginal>
+
+<marginal letter="604" page="230" line="8">
+<bzg>Diedrichs</bzg> <link ref="diederichs" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="10">
+<bzg>engl. Krankheit</bzg> Rachitis
+</marginal>
+
+<marginal letter="604" page="230" line="12">
+<bzg>Leßing </bzg> <link ref="lessing" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="13">
+<bzg>Briefen</bzg> <link ref="lessing" subref="lessing-briefe-gottesgelehrte" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="15">
+<bzg>Autorschaft</bzg> <link ref="herder" subref="herder-briefe-theologie" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="16">
+<bzg>mein Bogen&#x202F;…</bzg> <link ref="at-hi" subref="at-hi29" linktext="false">Hi 29,20</link>
+</marginal>
+
+<marginal letter="604" page="230" line="18" sort="1">
+<bzg>Herr Schwager</bzg> <link ref="flachsland-fs" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="18" sort="2">
+<bzg>Hälfte</bzg> <link ref="flachsland-cf" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="19">
+<bzg>Liedern der Liebe Anlass gab</bzg> <link ref="herder" subref="herder-lieder-liebe" linktext="true" />, vgl. <intlink letter="539" page="39" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="20">
+<bzg>Leibjäger aus Eutin</bzg> <link ref="flachsland-f" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="22">
+<bzg>Statthalter</bzg> auf Hamanns nicht überlieferten Brief an <link ref="dalberg" linktext="true" /> vom 20. Juli 1780, vgl. <intlink letter="600" page="221" line="5" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="23">
+<bzg>jüdischem Einschluß</bzg> wohl über das <link ref="friedlaender-w" linktext="false">Friedländersche Comptoir</link>
+</marginal>
+
+<marginal letter="604" page="230" line="24">
+<bzg>Schellenberg&#x202F;…&#x202F;zusammgebracht</bzg> nach dem Vertrieb von <link ref="schellenberg" subref="schellenberg-prospecte" linktext="false">Schellenbergs <titel>Schweizerprospekte</titel></link> in Königsberg, vgl. <intlink letter="594" page="202" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="26">
+<bzg>Brief vom 1 Sept.</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="604" page="230" line="27" sort="1">
+<bzg>Kaufmann</bzg> <link ref="kaufmann-c" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="27" sort="2">
+<bzg>mich gegen Klopstock&#x202F;…</bzg> <intlink letter="603" page="226" line="19" linktext="false">HKB 603</intlink>, <intlink letter="604" page="228" line="25" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="604" page="230" line="28">
+<bzg>Cl.</bzg> Das Billet ging irgendwann zwischen November 1780 und April 1781 über <link ref="claudius" linktext="false">Claudius</link> an Klopstock, vgl. <intlink letter="617" page="287" line="18" linktext="true" />.
+</marginal>
+
+<marginal letter="604" page="230" line="29">
+<bzg>drollichten Frage</bzg> Klopstocks Frage an Bode, vgl. <intlink letter="600" page="218" line="24" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="31">
+<bzg>Briefen</bzg> Hamanns Entwurf über Hume, <intlink letter="604" page="229" line="19" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="604" page="230" line="35">
+<bzg>Hartkn&#x202F;…&#x202F;Kanten</bzg> <link ref="hartknoch" linktext="true" /> der Verleger von <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link>, vgl. <intlink letter="602" page="224" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="37">
+<bzg>Iudaeus Apella</bzg> nach <link ref="horaz" subref="horaz-saturae" linktext="true" />, 1,5,100
+</marginal>
+
+<marginal letter="604" page="231" line="3">
+<bzg>alten Freunde</bzg> <link ref="hase" linktext="true" />, vgl. <intlink letter="600" page="215" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="231" line="5">
+<bzg>Habeat sibi&#x202F;…</bzg> dt. soll er das seine haben, mit seiner habgierigen Untätigkeit
+</marginal>
+
+<marginal letter="604" page="231" line="6">
+<bzg>physiognomische Reisebeschreiber</bzg> <link ref="hase-ft" linktext="true" />, den Herder irrtümlich als Verfasser von <link ref="musaus" subref="musaus-physiognomische-reisen" linktext="false">Musäus’ <titel>Physiognomischen Reisen</titel></link> annahm, vgl. <intlink letter="600" page="215" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="231" line="7">
+<bzg>homuncio lepidissimus</bzg> dt. niedliches Menschlein
+</marginal>
+
+<marginal letter="604" page="231" line="10">
+<bzg>Prof.</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="231" line="11" sort="1">
+<bzg>Nachbar&#x202F;…&#x202F;Weibern entsagt</bzg> <link ref="stockmar" linktext="true" />, dessen Tochter <link ref="stockmar-s" linktext="false">‚Selma‘</link> eine Zeit lang <link ref="penzel" linktext="false">Penzels</link> Geliebte war
+</marginal>
+
+<marginal letter="604" page="231" line="11" sort="2">
+<bzg>Loge</bzg> Hamanns Arbeitsraum am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Licent</link>, vgl. <intlink letter="484" page="306" line="18" linktext="true" />; wohl leicht ironisch-abfällige Bezeichnung (vgl. <wwwlink address="https://www.kruenitz1.uni-trier.de/">Krünitz</wwwlink>, s.v. Loge: „eine Hütte, ein kleiner mit Brettern verschlagener Raum, ein Hundestall, eine Schiffskammer etc. etc. heißt“), ohne Bezug auf Freimaurer- oder Theaterlogen.
+</marginal>
+
+<marginal letter="604" page="231" line="12">
+<bzg>entre chien et loup</bzg> dt. in der Dämmerung
+</marginal>
+
+<marginal letter="604" page="231" line="13">
+<bzg>Penzel aus Krakau</bzg> <link ref="penzel" linktext="false">Penzel</link> war seit Anfang 1780 als falscher Abbé in Krakau und gelangte im Laufe des Jahres an bedeutende Stellen der Krakauer Universität, vgl. <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>, S.&#x202F;168–171 und <intlink letter="601" page="223" line="30" linktext="true" />.
+</marginal>
+
+<marginal letter="604" page="231" line="19">
+<bzg>Vater</bzg> <link ref="penzel-jj" linktext="true" />; Penzels Katholizismus war nicht unwesentlich durch die Auflehnung gegen seinen Vater geprägt, einen reformierten Prediger.
+</marginal>
+
+<marginal letter="604" page="231" line="20">
+<bzg>Schwester</bzg> <link ref="penzel-ms" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="231" line="22">
+<bzg>Dom. XXIII.</bzg> 29. Oktober 1780 (23. Sonntag nach Trinitatis)
+</marginal>
+
+<marginal letter="604" page="231" line="23">
+<bzg>Prinz</bzg> <link ref="friedrich-wilhelm-II" linktext="false">Kronprinz Friedrich Wilhelm</link> auf seiner Rückkehr aus Russland über Königsberg
+</marginal>
+
+<marginal letter="604" page="231" line="26">
+<bzg>Hippel</bzg> <link ref="hippel" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="231" line="27">
+<bzg>Scheffner&#x202F;…&#x202F;Stoltzenberg bey Danzig</bzg> <link ref="scheffner" linktext="true" />, ?!?
+</marginal>
+
+<marginal letter="604" page="231" line="28">
+<bzg>Lauson</bzg> <link ref="lauson" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="231" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="604" page="231" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="604" page="231" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="604" page="231" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="604" page="231" line="">
+<bzg></bzg> 
 </marginal>
 
 
