@@ -29975,8 +29975,12 @@ Brief Nr. 251
 <bzg>Was ich geschrieben&#x202F;…</bzg> Verse wohl von Hamann selbst
 </marginal>
 
-<marginal letter="251" page="220" line="6">
-<bzg>Der Gott Daniels</bzg> <link ref="moser" subref="moser-daniel" linktext="true" />
+<marginal letter="251" page="220" line="6" sort="1">
+<bzg>Der Gott Daniels</bzg> <link ref="moser" subref="moser-daniel" linktext="true"/>
+</marginal>
+
+<marginal letter="251" page="220" line="6" sort="2">
+<bzg>Schild u. großer Lohn</bzg> <link ref="at-mo1" subref="at-mo1-15" linktext="false">1 Mo 15,1</link>
 </marginal>
 
 Brief Nr. 252
@@ -30097,8 +30101,12 @@ Brief Nr. 252
 <bzg>Was ich geschrieben&#x202F;…</bzg> Verse wohl von Hamann selbst
 </marginal>
 
-<marginal letter="252" page="222" line="17">
-<bzg>Gott Daniels</bzg> <link ref="moser" subref="moser-daniel" linktext="true" />
+<marginal letter="252" page="222" line="17" sort="1">
+<bzg>Gott Daniels</bzg> <link ref="moser" subref="moser-daniel" linktext="true"/>
+</marginal>
+
+<marginal letter="252" page="222" line="17" sort="2">
+<bzg>Schild und sehr großer Lohn</bzg> <link ref="at-mo1" subref="at-mo1-15" linktext="false" >1 Mo 15,1</link>
 </marginal>
 
 <marginal letter="252" page="222" line="20">
@@ -30575,7 +30583,7 @@ Brief Nr. 254a (letter 1187)
 </marginal>
 
 <marginal letter="254a" page="XXII" line="22">
-<bzg>Principe de Convenance</bzg> Bequemlichkeit
+<bzg>Principe de Convenance</bzg> Bequemlichkeit, Schicklichkeit; auch ironisch gebraucht i.S.v. Willkür. 
 </marginal>
 
 <marginal letter="254a" page="XXII" line="30">
@@ -30776,6 +30784,10 @@ Brief Nr. 255
 <bzg>Moser</bzg> <link ref="moser" linktext="true" />
 </marginal>
 
+<marginal letter="255" page="231" line="25">
+<bzg>treuherzigen Schreibens</bzg> <link ref="moser" subref="moser-schreiben" linktext="true" />
+</marginal>
+
 Brief Nr. 255a (letter 1188)
 
 <marginal letter="255a" page="XXVI" line="34">
@@ -30839,7 +30851,7 @@ Brief Nr. 255a (letter 1188)
 </marginal>
 
 <marginal letter="255a" page="XXVIII" line="1">
-<bzg>Bilefeld</bzg> <link ref="bielfeld" linktext="true" />
+<bzg>Bilefeld</bzg> <link ref="bielfeld" linktext="true"/>, dem 1763 von <link ref="katharina" linktext="true" /> der St. Annen-Orden verliehen wurde.
 </marginal>
 
 <marginal letter="255a" page="XXVIII" line="2">
@@ -53940,7 +53952,7 @@ Brief Nr. 434
 </marginal>
 
 <marginal letter="434" page="156" line="22">
-<bzg>Principe de convenance</bzg> Anstand
+<bzg>Principe de convenance</bzg> Anstand, Schicklichkeit; auch ironisch gebraucht i.S.v. Willkür.
 </marginal>
 
 <marginal letter="434" page="156" line="23">
