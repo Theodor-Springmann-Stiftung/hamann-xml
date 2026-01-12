@@ -30706,13 +30706,6 @@ Brief Nr. 254a (letter 1187)
 <bzg>Sprachenverwirrung</bzg> Anspielung auf <link ref="at-mo1" subref="at-mo1-11" linktext="false">1 Mo 11,1–9</link>, um das Verhältnis zur Familie Berens zu illustrieren.
 </marginal>
 
-<marginal letter="254a" page="XIX" line="32">
-<bzg>verlorne Sohn</bzg> <link ref="nt-lk" subref="nt-lk15" linktext="false" >Lk 15,13f.</link>
-</marginal>
-
-<marginal letter="254a" page="XXI" line="12">
-<bzg>er</bzg> <link ref="hamann-jc" linktext="true" />
-</marginal>
 
 Brief Nr. 255
 
@@ -83508,16 +83501,32 @@ Brief Nr. 627
 
 Brief Nr. 606
 
-<marginal letter="606" page="234" line="23" >
+<marginal letter="606" page="234" line="24" >
 <bzg>väterliche Aufnahme</bzg> Hamanns gewogene Antwort vom 30. Juni 1780 (<intlink letter="594" page="200" line="30" linktext="false">HKB 594</intlink>) auf Häfelis Brief vom 20. März 1780 (<intlink letter="585" page="172" line="28" linktext="false">HKB 585</intlink>)
 </marginal>
 
-<marginal letter="606" page="234" line="" >
-<bzg></bzg>
+<marginal letter="606" page="234" line="26" >
+<bzg>Gabe</bzg> <link ref="haefeli" subref="haefeli-predigten" linktext="true" />, vgl. <intlink letter="594" page="200" line="30" linktext="true" />
 </marginal>
 
-<marginal letter="606" page="234" line="" >
-<bzg></bzg>
+<marginal letter="606" page="234" line="5" >
+<bzg>wunderlichen Ausarbeitung</bzg> <link ref="hamann" subref="hamann-schuerze" linktext="true" />, vgl. <intlink letter="585" page="172" line="28" linktext="true" />
+</marginal>
+
+<marginal letter="606" page="235" line="6" >
+<bzg>Stüke des Merkurs</bzg> <link ref="haefeli" subref="haefeli-merkur" linktext="true" />
+</marginal>
+
+<marginal letter="606" page="235" line="12" sort="1" >
+<bzg>„der Brücke ohne Lehne“</bzg> vgl. <intlink letter="585" page="173" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="606" page="235" line="12" sort="2" >
+<bzg>Ausleger&#x202F;…</bzg> vgl. <intlink letter="594" page="201" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="606" page="235" line="14" >
+<bzg>Aufsatz&#x202F;…</bzg> <link ref="haefeli" subref="haefeli-reich" linktext="true" />
 </marginal>
 
 
