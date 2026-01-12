@@ -30450,6 +30450,10 @@ Brief Nr. 254a (letter 1187)
 <bzg>Reise nach Holland u. England</bzg> 1757/58
 </marginal>
 
+<marginal letter="254a" page="XIX" line="32">
+<bzg>verlorne Sohn</bzg> <link ref="nt-lk" subref="nt-lk15" linktext="false" >Lk 15,13f.</link>
+</marginal>
+
 <marginal letter="254a" page="XX" line="7">
 <bzg>Magistrats</bzg> <link ref="magistrat" linktext="true" />
 </marginal>
@@ -30504,6 +30508,10 @@ Brief Nr. 254a (letter 1187)
 
 <marginal letter="254a" page="XXI" line="5">
 <bzg>Nieren u. Herzen</bzg> <link ref="at-ps" subref="at-ps7" linktext="false">Ps 7,10</link>
+</marginal>
+
+<marginal letter="254a" page="XXI" line="12">
+<bzg>er</bzg> <link ref="hamann-jc" linktext="true" />
 </marginal>
 
 <marginal letter="254a" page="XXI" line="19">
@@ -30688,14 +30696,6 @@ Brief Nr. 254a (letter 1187)
 
 <marginal letter="254a" page="XXVI" line="8">
 <bzg>Sprachenverwirrung</bzg> Anspielung auf <link ref="at-mo1" subref="at-mo1-11" linktext="false">1 Mo 11,1–9</link>, um das Verhältnis zur Familie Berens zu illustrieren.
-</marginal>
-
-<marginal letter="254" page="XIX" line="32">
-<bzg>verlorne Sohn</bzg> <link ref="nt-lk" subref="nt-lk15" linktext="false" >Lk 15,13f.</link>
-</marginal>
-
-<marginal letter="254" page="XXI" line="12">
-<bzg>er</bzg> <link ref="hamann-jc" linktext="true" />
 </marginal>
 
 Brief Nr. 255
@@ -83482,8 +83482,24 @@ Brief Nr. 627
 </marginal>
 
 <marginal letter="605" page="234" line="21" sort="2">
-<bzg>Hänschen&#x202F;…&#x202F;Lehrherren in spe</bzg> zu Hamanns Phantasie, <link ref="hamann-jm" linktext="false">Johann Michel</link> bei Hartknoch in die Lehre zu geben, vgl. <intlink letter="589" page="181" line="4" linktext="true" />
+<bzg>Hänschen&#x202F;…&#x202F;Lehrherren in spe</bzg> zu Hamanns Phantasie, <link ref="hamann-jm" linktext="true" /> bei Hartknoch in die Lehre zu geben, vgl. <intlink letter="589" page="181" line="4" linktext="true" />
 </marginal>
+
+
+Brief Nr. 606
+
+<marginal letter="606" page="234" line="23" >
+<bzg>väterliche Aufnahme</bzg> Hamanns gewogene Antwort vom 30. Juni 1780 (<intlink letter="594" page="200" line="30" linktext="false">HKB 594</intlink>) auf Häfelis Brief vom 20. März 1780 (<intlink letter="585" page="172" line="28" linktext="false">HKB 585</intlink>)
+</marginal>
+
+<marginal letter="606" page="234" line="" >
+<bzg></bzg>
+</marginal>
+
+<marginal letter="606" page="234" line="" >
+<bzg></bzg>
+</marginal>
+
 
 
 
