@@ -5278,6 +5278,12 @@ F
 </subsection>
 </kommentar>
 
+<kommentar id="fabeln-kinder" type="neuzeit">
+<lemma>Fabeln und Erzählungen zum Gebrauch für Kinder</lemma>
+<eintrag>Fabeln und Erzählungen zum Gebrauch für Kinder (Riga: Hartknoch 1780). Digitalisat: <wwwlink address="https://sammlungen.ub.uni-frankfurt.de/urn:nbn:de:hebis:30:2-13126">UB Frankfurt am Main</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="fabeck" type="neuzeit">
 <lemma>Karl Friedrich von Fabeck</lemma>
 <eintrag>1745–1829. Preußischer Offizier, ab 1790 als Kapitän a.D. Gutsherr auf Jablonken, Kulk und Waldpusch, zweiter Ehemann von <link ref="stockmar-h" linktext="true" /> siehe <wwwlink address="https://books.google.de/books?id=cUtjQyds1JQC">Gothaisches genealogisches Taschenbuch der briefadeligen Häuser, Jg. 2 (1908), S.&#x202F;267.</wwwlink>
@@ -11820,6 +11826,12 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 <titel>Göttingisches Magazin der Wissenschaften und Litteratur. Herausgegeben von Georg Christoph Lichtenberg und <link ref="forster-g" linktext="true" /></titel> (5 Bde., Göttingen: Dieterich 1780–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10926833-5">BSB München: Res/Per. 109</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=012724270">ZDB</wwwlink>
 </eintrag>
 </subsection>
+<subsection id="lichtenberg-ziehen" type="neuzeit" sort="30">
+<lemma>Lichtenberg, <titel>Ueber die Weissagungen des verstorbenen Herrn Superintendenten Ziehen in Zellerfeld</titel></lemma>
+<eintrag>
+<titel>Ueber die Weissagungen des verstorbenen Herrn Superintendenten Ziehen in Zellerfeld</titel>, in: <link ref="hamb-adresscomtoir" linktext="false"><titel>Hamburgische Adreß-Comtoir-Nachrichten</titel></link>, <wwwlink address="https://www.deutsche-digitale-bibliothek.de/newspaper/item/WRPNJPYPO6WJMHSY5Z3ZK7HMRW4SB3Q2?issuepage=1">St.&#x202F;82, 19.10.1780, S.&#x202F;649–651</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="lieberkuehn" type="neuzeit">
@@ -12386,6 +12398,11 @@ Dt. Übers. zitiert nach: Hermann Diels/Ernst Günther Schmidt (Übers.), <titel
 <eintrag>1483–1546.<line type="break" />
 WA = <titel>D. Martin Luthers Werke</titel>, hg.&#x202F;v. Rudolf Hermann, Gerhard Ebeling u.a. (Weimar u.&#x202F;a. 1883–2009).
 </eintrag>
+<subsection id="luther-genesin" type="neuzeit" sort="5">
+<lemma>Luther, <titel>In Genesin Enarrationum</titel></lemma>
+<eintrag><titel>In Genesin Enarrationum Reverendi Patris, Domini Doctoris Martini Lutheri, Bona Fide et diligenter collectarum, per Hieronymum Besoldum Noribergensem</titel> (4 Bde., Nürnberg 1544–1554). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11924213-8">LA Coburg: Coburg, Landesbibliothek: Cas A 1629</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="luther-schriften" type="neuzeit" sort="10">
 <lemma>Luther, <titel>Schriften (Jena 1555–1558)</titel></lemma>
 <eintrag><titel>Der […] Teil aller Bücher vnd Schrifften des thewren, seligen Mans Doct: Mart: Lutheri</titel> (Jena: Rödinger 1555–1558) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;18/27: „Martin Luther’s Schriften, Th. I. II. IV–VIII. Jen. 555–62“]. Digitalisat Bd.&#x202F;1: <wwwlink address="https://dhb.thulb.uni-jena.de/receive/ufb_cbu_00013497">Forschungsbibliothek Gotha: Th 4° 03071 (01)</wwwlink>. 
@@ -13461,6 +13478,17 @@ Google Books</wwwlink>.</eintrag>
 <lemma>Johann Georg Meusel</lemma>
 <eintrag>1743–1820. Philologe, Lexikograph und Biograph in Halle und Erfurt, zum <titel>Gelehrten Teutschland</titel> siehe den Eintrag zu <link ref="hamberger" subref="hamberger-gelehrtesteutschland" linktext="true" />.
 </eintrag>
+</kommentar>
+
+<kommentar id="meyer-a" type="neuzeit">
+<lemma>Andreas Meyer</lemma>
+<eintrag>1742–1807. Schriftsteller, Theologe, Postmeister, siehe <wwwlink address="https://d-nb.info/gnd/100613365">GND</wwwlink>.
+</eintrag>
+<subsection id="meyer-briefe" type="neuzeit" sort="10">
+<lemma>Meyer, <titel>Briefe eines iungen Reisenden durch Liefland, Kurland und Deutschland</titel></lemma>
+<eintrag>
+<titel>Briefe eines iungen Reisenden durch Liefland, Kurland und Deutschland an seinen Freund Herrn Hofrath K… in Liefland</titel> (2 Bde., Erlangen: Walther 1777). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:32-1-10005752152">Bd. 1, HAAM Weimar</wwwlink>, <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:32-1-10005755429">Bd. 2, HAAM Weimar</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="meynieres" type="neuzeit">
@@ -18045,6 +18073,11 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 <lemma>Karl Philipp Michael Snell</lemma>
 <eintrag>1753–1806. Pastor, Pädagoge und Publizist, seit 1780 Rektor der Domschule in Riga, 1787 wegen Nachlässigkeit entlassen; siehe <wwwlink address="https://utlib.ut.ee/eeva/index.php?lang=de&#x26;do=autor&#x26;aid=134">EEVA</wwwlink> und <wwwlink address="https://bbld.de/GND14141054X">BBLD</wwwlink>.
 </eintrag>
+<subsection id="snell-chrestomathia" type="neuzeit" sort="10">
+<lemma>Snell, <titel>Chrestomathia oeconomica</titel></lemma>
+<eintrag><titel>Chrestomathia oeconomica</titel> (Gießen: Krieger 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10389957-3">BSB München: Catech. 595#Beibd.1</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
  
 <kommentar id="soave" type="neuzeit">
