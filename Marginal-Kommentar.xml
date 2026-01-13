@@ -30899,10 +30899,6 @@ Brief Nr. 255a (letter 1188)
 <bzg>Freunden</bzg> <link ref="berens-jc" linktext="true" /> und vll. <link ref="kant" linktext="true" />
 </marginal>
 
-<marginal letter="255a" page="XXIX" line="11">
-<bzg>vi inertiæ</bzg> Beharrungsvermögen
-</marginal>
-
 <marginal letter="255a" page="XXIX" line="13" sort="1">
 <bzg>Descartes Thiersystem</bzg> <link ref="descartes" linktext="true" /> nimmt an, dass nur Menschen, nicht aber Tiere das Vermögen zu denken und zu fühlen besitzen, weshalb er Tiere als Maschinen begreift.
 </marginal>
@@ -30975,6 +30971,14 @@ Brief Nr. 255a (letter 1188)
 <bzg>Monats- oder Wochenschrift</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />
 </marginal>
 
+<marginal letter="255a" page="XXIX" line="11">
+<bzg>vi inertiæ</bzg> Beharrungsvermögen, Trägheit
+</marginal>
+
+<marginal letter="255a" page="XXIX" line="28">
+<bzg>Warten […] Gott</bzg> <link ref="nt-heb" subref="nt-heb11" linktext="false" >Heb 11,10</link>
+</marginal>
+
 Brief Nr. 256
 
 <marginal letter="256" page="231" line="35">
@@ -31004,7 +31008,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="233" line="4">
-<bzg>einen guten Sprung ... Die Zeitungen</bzg> Lindners Mitarbeit bei <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />
+<bzg>einen guten Sprung ... Die Zeitungen</bzg> Lindners Mitarbeit bei <link ref="konigsbergsche-gelehrte-p-z" linktext="true"/>, deren 1. Stück auf den 3. Februar 1764 datiert. 
 </marginal>
 
 <marginal letter="257" page="233" line="9">
@@ -31116,7 +31120,7 @@ Brief Nr. 257
 </marginal>
 
 <marginal letter="257" page="234" line="18" sort="1">
-<bzg>D Bock</bzg> <link ref="bock-jg" linktext="true" />
+<bzg>D Bock</bzg> <link ref="bock-fs" linktext="true" />
 </marginal>
 
 <marginal letter="257" page="234" line="18" sort="2">
@@ -31261,6 +31265,10 @@ Brief Nr. 258
 <bzg>Ruhen Sie&#x202F;…</bzg> <link ref="nt-off" subref="nt-off14" linktext="false">Offb 14,13</link>
 </marginal>
 
+<marginal letter="258" page="236" line="20">
+<bzg>wandern […] Hütten</bzg> <link ref="at-ps" subref="at-ps84" linktext="false">Ps 84</link>
+</marginal>
+
 <marginal letter="258" page="236" line="27">
 <bzg>Albus ut&#x202F;…</bzg> dt. „So wie hell vertreibt das Gewölk vom verdüsterten Himmel / häufig der Südwind und nicht hervorbringt Schauer / unausgesetzt, so sollst auch du weise zu enden trachten / Trauer und Lebens Mühsal“ (<link ref="horaz" subref="horaz-oden" linktext="true" />, 1,7, 15ff.).
 </marginal>
@@ -31338,7 +31346,7 @@ Brief Nr. 258
 </marginal>
 
 <marginal letter="258" page="238" line="8">
-<bzg>Bockens Stelle</bzg> <link ref="bock-jg" linktext="true" />, seit 1733 Prof. der Dichtkunst in Königsberg
+<bzg>Bockens Stelle</bzg> Die noch unbesetzte Professur für Dichtkunst, seit dem Tod von <link ref="bock-jg" linktext="true"/> 1762 vakant.
 </marginal>
 
 <marginal letter="258" page="238" line="9">
@@ -31608,6 +31616,10 @@ Brief Nr. 259
 <bzg>Inspectorstelle</bzg> am Collegium Fridericianum
 </marginal>
 
+<marginal letter="259" page="242" line="2">
+<bzg>Glaube macht alles möglich</bzg> Vgl. <link ref="nt-mt" subref="nt-mt17" linktext="false" >Mt 17,7</link> u. <link ref="nt-mk" subref="nt-mk9" linktext="false" >Mk 9,23</link>
+</marginal>
+
 <marginal letter="259" page="242" line="5">
 <bzg>Regierung</bzg> <link ref="provinzialregierung" linktext="true" />
 </marginal>
@@ -31616,8 +31628,12 @@ Brief Nr. 259
 <bzg>Cammer</bzg> <link ref="kriegs-und-domaenenkammer" linktext="true" />
 </marginal>
 
-<marginal letter="259" page="242" line="8">
-<bzg>D. Arnoldt</bzg> <link ref="arnoldt" linktext="true" />
+<marginal letter="259" page="242" line="8" sort="1">
+<bzg>D. Arnoldt</bzg> <link ref="arnoldt" linktext="true"/>
+</marginal>
+
+<marginal letter="259" page="242" line="8" sort="2">
+<bzg>professor Stelle der Poesie</bzg> Seit dem Tod von <link ref="bock-jg" linktext="true"/> 1762 vakant.
 </marginal>
 
 <marginal letter="259" page="242" line="9">
@@ -31645,7 +31661,7 @@ Brief Nr. 259
 </marginal>
 
 <marginal letter="259" page="242" line="27" sort="1">
-<bzg>Bock</bzg> <link ref="bock-jg" linktext="true" />
+<bzg>Bock</bzg> <link ref="bock-fs" linktext="true" />
 </marginal>
 
 <marginal letter="259" page="242" line="27" sort="2">
@@ -31863,7 +31879,7 @@ Brief Nr. 260
 </marginal>
 
 <marginal letter="260" page="246" line="10">
-<bzg>D. Bock ... Beschreibung vom Saturgusschen Cabinet</bzg> <link ref="bock-jg" linktext="true" /> gab in: <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 34., 35. und 36.&#x202F;St. vom 38.5., 1. und 2.6.1764, eine Beschreibung des Naturalienkabinetts von <link ref="saturgus" linktext="true" />.
+<bzg>D. Bock ... Beschreibung vom Saturgusschen Cabinet</bzg> <link ref="bock-fs" linktext="true" /> gab in: <link ref="konigsbergsche-gelehrte-p-z" linktext="true"/>, 34., 35. und 36. St. vom 38.5., 1. und 2.6.1764, eine Beschreibung des Naturalienkabinetts von <link ref="saturgus" linktext="true"/>.
 </marginal>
 
 <marginal letter="260" page="246" line="11">
@@ -31975,7 +31991,7 @@ Brief Nr. 262
 </marginal>
 
 <marginal letter="262" page="248" line="26">
-<bzg>D. Bock</bzg> <link ref="bock-jg" linktext="true" />
+<bzg>D. Bock</bzg> <link ref="bock-fs" linktext="true" />
 </marginal>
 
 <marginal letter="262" page="248" line="28" sort="1">
