@@ -8835,7 +8835,9 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 <eintrag>1741–1828. Schweizer Theologe aus dem Lavater-Kreis, beschäftigte sich v.a. mit der Historischen Jesusforschung, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd119087863.html#ndbcontent">Pfister, Rudolf: Heß, Jakob, in: <titel>NDB</titel>&#x202F;9 (1972), S.&#x202F;2–3</wwwlink>.</eintrag>
 <subsection id="hess-reich" type="neuzeit">
 <lemma>Hess, <titel>Von dem Reiche Gottes</titel></lemma>
-<eintrag><titel>Von dem Reiche Gottes. Ein Versuch über den Plan der göttlichen Anstalten und Offenbarungen</titel> (Zürich 1774). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-89048">ZB Zürich:  7.124 &#x0026; a</wwwlink>.</eintrag>
+<eintrag><titel>Von dem Reiche Gottes. Ein Versuch über den Plan der göttlichen Anstalten und Offenbarungen. Von dem Verfasser der Geschichte Jesu</titel> (2 Bde., Zürich 1774). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-89048">ZB Zürich: 7.124 &#x0026; a</wwwlink>.<line type="break" />
+2. verbesserte Aufl. 1781: <wwwlink address="https://nbn-resolving.org/html/urn%3Anbn%3Ade%3Absz%3A21-dt-178930">UB Tübingen: Ge 1413 a-1</wwwlink>
+</eintrag>
 </subsection>
 <subsection id="hess-drey-lebensjahre" type="neuzeit">
 <lemma>Hess, <titel>Geschichte der drey letzten Lebensjahre Jesu</titel></lemma>
@@ -9604,9 +9606,9 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 <titel>Philosophische und patriotische Träume eines Menschenfreundes</titel> (Zürich: Orell 1758).</eintrag>
 </subsection>
 <subsection id="iselin-ephemeriden" type="neuzeit" sort="20">
-    <lemma>Iseli, <titel>Ephemeriden</titel></lemma>
+    <lemma>Iselin, <titel>Ephemeriden</titel></lemma>
     <eintrag>
-    <titel>Ephemeriden der Menschheit oder Bibliothek der Sittenlehre und der Politik [ab Heft 2: der Sittenlehre, der Politik und der Gesetzgebung]</titel>, hg. von Isaac Iselin (Basel, Leipzig 1776–1778, 1780–1784, 1786 [ab 1782 hg. v. Wilhelm Gottlieb Becker].) Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/2091681/0/LOG_0000/">Universität Bielefeld</wwwlink>.
+    <titel>Ephemeriden der Menschheit oder Bibliothek der Sittenlehre und der Politik [ab Heft 2: der Sittenlehre, der Politik und der Gesetzgebung]</titel>, hg. von Isaac Iselin (Basel, Leipzig 1776–1778, 1780–1784, 1786 [ab 1782 hg. v. Wilhelm Gottlieb Becker]). Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=987619969">ZDB</wwwlink>. Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/2091681/0/LOG_0000/">Universität Bielefeld</wwwlink>. <wwwlink address="https://www.digitale-sammlungen.de/search?query=manifestation_id%3A%22ZDB%7C550428-4%7C%22&#x26;sortField=date&#x26;sortOrder=asc&#x26;handler=simple-metadata">BSB München</wwwlink>.
     </eintrag>
     </subsection>
 </kommentar>
@@ -19661,6 +19663,17 @@ Auszüge von dessen frz. Übers. von Hamann ins Deutsche übers., siehe <link re
 </subsection>
 </kommentar>
 
+<kommentar id="ulrich-jhf" type="neuzeit">
+<lemma>Johann Heinrich Friedrich Ulrich</lemma>
+<eintrag>1751–1798. Prediger in Berlin, siehe <wwwlink address="http://d-nb.info/gnd/115549366">GND</wwwlink>.
+</eintrag>
+<subsection id="ulrich-reformation" type="neuzeit" sort="10">
+<lemma>Ulrich, <titel>Ueber die Reformation</titel></lemma>
+<eintrag>
+<titel>Ueber die Reformation. 1ster Band</titel> (Berlin 1780). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN729636976">SUB Göttingen</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="luise-ulrike" type="neuzeit">
 <lemma>Luise Ulrike von Preußen</lemma>
@@ -20391,7 +20404,7 @@ W
 
 <kommentar id="waser-jh1742" type="neuzeit">
 <lemma>Johann Heinrich Waser (geb. 1742)</lemma>
-<eintrag>1742-1780. Schweizer reformierter Theologe, 1770 Pfarrer in Zürich, seit 1778 in der Staatskanzlei; nach Misshelligkeiten mit dem Zürcher Rat wegen Urkundendiebstahls und Landesverrats 1780 enthauptet; Vetter <link ref="haefeli" linktext="false">Häfelis</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120435659.html#adbcontent">Egli, Emil: Waser, Johann Heinrich, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;220–228.</wwwlink>, zu dem Justizskandal seiner Hinrichtung vgl. den Kommentar in <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/8771?page=1&#x26;comment=11353">JCLB</wwwlink>.</eintrag>
+<eintrag>1742-1780. Schweizer reformierter Theologe, 1770 Pfarrer in Zürich, seit 1778 in der Staatskanzlei; nach Misshelligkeiten mit dem Zürcher Rat wegen Urkundendiebstahls und Landesverrats am 27. Mai 1780 enthauptet, was europaweit für Aufsehen sorgte; Vetter <link ref="haefeli" linktext="false">Häfelis</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120435659.html#adbcontent">Egli, Emil: Waser, Johann Heinrich, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;220–228.</wwwlink>; zu dem Justizskandal seiner Hinrichtung vgl. den Kommentar in <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/8771?page=1&#x26;comment=11353">JCLB</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="watelet" type="neuzeit">
