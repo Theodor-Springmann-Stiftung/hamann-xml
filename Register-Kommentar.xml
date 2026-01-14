@@ -7104,7 +7104,7 @@ Für den Autor des anonymen <titel>Merkur</titel>-Beitrags, der Hamanns <link re
 <subsection id="haefeli-predigten" type="neuzeit" sort="30">
 <lemma>Häfeli, <titel>Predigten</titel></lemma>
 <eintrag>
-<titel>Predigten und Predigtfragmente gesä’t dem Tage der Garben</titel> (Zürich, Winterthur: Füeßli 1778–1782). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-86821">ZB Zürich: Zentralbibliothek Zürich, Gal Sp 238, 239</wwwlink>.
+<titel>Predigten und Predigtfragmente gesä’t dem Tage der Garben</titel> (3 Bde., Zürich, Winterthur: Füeßli 1778–1782). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-86821">ZB Zürich: Zentralbibliothek Zürich, Gal Sp 238, 239</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="haefeli-reich" type="neuzeit" sort="40">
@@ -8108,7 +8108,7 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="haugwitz" type="neuzeit">
 <lemma>Christian Heinrich August Curt von Haugwitz</lemma>
-<eintrag>1752–1832. Preußischer Jurist, Herr auf <wwwlink address="https://www.geonames.org/7533311">Krappitz</wwwlink>, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116527080.html#ndbcontent">Skalweit, Stephan: Haugwitz, Christian Graf von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;94f.</wwwlink>.
+<eintrag>1752–1832. Preußischer Jurist, Herr auf <wwwlink address="https://www.geonames.org/7533311">Krappitz</wwwlink>; befreundet mit <link ref="kaufmann-c" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116527080.html#ndbcontent">Skalweit, Stephan: Haugwitz, Christian Graf von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;94f.</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -11426,6 +11426,11 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
     <lemma>Lavater, <titel>Jesus Messias</titel></lemma>
     <eintrag>
     <titel>Jesus Messias, oder die Zukunft des Herrn. Nach der Offenbarung Johannes</titel> (Zürich: Füeßli 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271742-6">Stabi Bamberg: JH.L.g.o.44</wwwlink>.</eintrag>
+    </subsection>
+    <subsection id="lavater-therese" type="neuzeit" sort="60">
+    <lemma>Lavater, <titel>Therese Czartoriska</titel></lemma>
+    <eintrag>
+    <titel>Therese Czartoriska. 1780. Im Semptember</titel>, in: <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN733609147&#x26;PHYSID=PHYS_0119&#x26;DMDID=DMDLOG_0001">Poesieen von Johann Caspar Lavater. Erster Band. Den Freunden des Verfassers gewiedmet (Leipzig 1781), S.&#x202F;112ff</wwwlink>.</eintrag>
     </subsection>
     <subsection id="lavater-pontius" type="neuzeit" sort="70">
     <lemma>Lavater, <titel>Pontius Pilatus</titel></lemma>
@@ -16628,6 +16633,17 @@ Außerdem kursierte eine Übers. der Kinderphysik als <titel>Carl Rollins Natur-
 <eintrag>
 <titel>Der Tod der Naemi. Ein musikalisches Drama, als ein Nachspiel zum Trauerspiel Naemi</titel> (1578). In ders.: <titel>Proben Dramatischer Gedichte</titel> (Nürnberg 1768), S.&#x202F;245–262. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00062739-8">BSB München: Slg.Her 1396</wwwlink>.<line type="break" />
 Nachgedruckt in: <link ref="schmid-ch" subref="schmid-zusatze" linktext="true" />, 3.&#x202F;Sammlung (Leipzig 1769), S. &#x202F;135–144.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="rosel" type="neuzeit">
+<lemma>August Johann Rösel von Rosenhof</lemma>
+<eintrag>1705–1759. Kupferstecher und Naturforscher, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116593598.html#ndbcontent">Geus, Armin: Rösel von Rosenhof, August Johann, in: <titel>NDB</titel>&#x202F;21 (2003), S.&#x202F;738f</wwwlink>.</eintrag>
+<subsection id="rosel-insecten" type="neuzeit">
+<lemma>Rösel, <titel>Insecten-Belustigung</titel></lemma>
+<eintrag>
+<titel>Insecten-Belustigung</titel> (4 Tle., 1746–1761). Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1234094193">ZDB</wwwlink>. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:kobv:11-714882">UB der Humboldt-Universität zu Berlin</wwwlink>.
+</eintrag>
 </subsection>
 </kommentar>
 
