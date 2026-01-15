@@ -78705,6 +78705,10 @@ Der Kontakt zu Häfeli kam über Hamanns Rätselraten um die Autorschaft des <ti
 <bzg>Deiner Kleider Geruch</bzg> <link ref="at-hld" subref="at-hld4" linktext="false">Hld 4,11</link>
 </marginal>
 
+<marginal letter="585" page="173" line="10">
+<bzg></bzg> <link ref="haefeli-ar" linktext="true" />
+</marginal>
+
 <marginal letter="585" page="173" line="11">
 <bzg>Tage in Schweiß </bzg> <link ref="at-mo1" subref="at-mo1-3" linktext="false">1 Mo 3,19</link>
 </marginal>
@@ -80966,6 +80970,10 @@ HKB 594
 
 <marginal letter="594" page="203" line="14">
 <bzg>bene latuit, bene vixit</bzg> <link ref="ovid" subref="ovid-tristia" linktext="true" />, 3, 4, 25
+</marginal>
+
+<marginal letter="594" page="203" line="16">
+<bzg>Weib</bzg> <link ref="haefeli-ar" linktext="true" />
 </marginal>
 
 <marginal letter="594" page="203" line="17">
@@ -83525,6 +83533,10 @@ Brief Nr. 606
 <bzg>Gabe</bzg> <link ref="haefeli" subref="haefeli-predigten" linktext="true" />, vgl. <intlink letter="594" page="200" line="30" linktext="true" />
 </marginal>
 
+<marginal letter="606" page="234" line="26">
+<bzg>Weib</bzg> <link ref="haefeli-ar" linktext="true" />
+</marginal>
+
 <marginal letter="606" page="235" line="5">
 <bzg>wunderlichen Ausarbeitung</bzg> <link ref="hamann" subref="hamann-schuerze" linktext="true" />, vgl. <intlink letter="585" page="172" line="28" linktext="true" />
 </marginal>
@@ -83574,7 +83586,7 @@ Brief Nr. 606
 </marginal>
 
 <marginal letter="606" page="235" line="33">
-<bzg>Über die Reformation</bzg> <link ref="ulrich" subref="ulrich-reformation" linktext="true" />
+<bzg>Über die Reformation</bzg> <link ref="ulrich-jhf" subref="ulrich-reformation" linktext="true" />
 </marginal>
 
 <marginal letter="606" page="236" line="1" sort="1">
@@ -83590,7 +83602,7 @@ Brief Nr. 606
 </marginal>
 
 <marginal letter="606" page="236" line="22">
-<bzg>ältliches Frauenzimmer</bzg> nicht ermittelt
+<bzg>ältliches Frauenzimmer</bzg> <link ref="waser-ak" linktext="true" /> (bei der Hochzeit 38 Jahre alt)
 </marginal>
 
 <marginal letter="606" page="237" line="18" sort="1">
@@ -83602,12 +83614,13 @@ Brief Nr. 606
 </marginal>
 
 <marginal letter="606" page="238" line="3">
-<bzg>großes chronologisches Werk, das nun würklich bey Orell gedruckt</bzg> nicht verifiziert?!? – eines hiervon? <wwwlink address="https://data.onb.ac.at/rep/10AEE8D6">Betrachtungen über die Zürcherischen Wohnhäuser (Orell 1778)</wwwlink>, <wwwlink address="https://data.onb.ac.at/rep/109FDAC6">Abhandlung vom Geld (Orell 1778)</wwwlink>, <wwwlink address="https://data.onb.ac.at/rep/102B5B6E">Historisch Diplomatisches Jahrzeitbuch Zur Prüfung Der Urkunden</wwwlink> – vgl. auch <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10067802-5">Merkwürdige Schriften und Anecdoten von dem am 27. May 1780 in Zürch enthaupteten Prediger Heinrich Waser (Berlin, Leipzig 1780)</wwwlink> und <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11279241-7">Wasers des unglücklichen Briefe an seine Verwandten, und einige sein Schicksal betreffende kleine Schriften (Schafhausen 1780)</wwwlink>
+<bzg>großes chronologisches Werk, das nun würklich bey Orell gedruckt</bzg> <link ref="waser-jh1742" subref="waser-jahrzeitbuch" linktext="true" />
+nicht verifiziert?!? – eines hiervon? <wwwlink address="https://data.onb.ac.at/rep/10AEE8D6">Betrachtungen über die Zürcherischen Wohnhäuser (Orell 1778)</wwwlink>, <wwwlink address="https://data.onb.ac.at/rep/109FDAC6">Abhandlung vom Geld (Orell 1778)</wwwlink>, <wwwlink address="https://data.onb.ac.at/rep/102B5B6E">Historisch Diplomatisches Jahrzeitbuch Zur Prüfung Der Urkunden</wwwlink> – vgl. auch <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10067802-5">Merkwürdige Schriften und Anecdoten von dem am 27. May 1780 in Zürch enthaupteten Prediger Heinrich Waser (Berlin, Leipzig 1780)</wwwlink> und <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11279241-7">Wasers des unglücklichen Briefe an seine Verwandten, und einige sein Schicksal betreffende kleine Schriften (Schafhausen 1780)</wwwlink>
 </marginal>
 
 <marginal letter="606" page="238" line="5">
-<bzg>Beleidiger</bzg> nicht ermittelt?!?
-</marginal>
+<bzg>Beleidiger&#x202F;…&#x202F;Frau</bzg> Nicht ermittelt; der Bruder von Wasers <link ref="waser-ak" linktext="false">Frau Anna Kleophea</link> war bspw. Vogt zu Regensberg, vgl. <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F104783?main_person=I300289">Historisches Familienlexikon der Schweiz</wwwlink>.
+</marginal> 
 
 <marginal letter="606" page="238" line="8">
 <bzg>Lebensgeschichte&#x202F;…&#x202F;an Schlözern</bzg> ?!? – <link ref="schlozer" linktext="true" />
@@ -83618,11 +83631,11 @@ Brief Nr. 606
 </marginal>
 
 <marginal letter="606" page="238" line="13">
-<bzg>Vaters</bzg> ?!?
+<bzg>Vaters</bzg> <link ref="waser-h" linktext="true" />
 </marginal>
 
 <marginal letter="606" page="238" line="19">
-<bzg>Lavatern</bzg> <link ref="lavater" linktext="true" />
+<bzg>Lavatern</bzg> <link ref="lavater" linktext="true" />; über die letzten Stunden schrieb der irgendetwas oder?!?
 </marginal>
 
 <marginal letter="606" page="238" line="34">
@@ -83646,7 +83659,7 @@ Brief Nr. 606
 </marginal>
 
 <marginal letter="606" page="239" line="8">
-<bzg>Unterredung&#x202F;…</bzg> vgl. die Schilderung der Abschiedsunterredung <link ref="waser" linktext="false">Wasers</link> mit seinen Söhnen in <link ref="iselin" subref="iselin-ephemeriden" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10611952?page=456">2.&#x202F;Hj.&#x202F;1780 (Oktoberheft), S.&#x202F;452–460</wwwlink>, in der er merkwürdig einsichtig in seine Verbrechen erscheint.
+<bzg>Unterredung&#x202F;…</bzg> vgl. die Schilderung der Abschiedsunterredung <link ref="waser-jh1742" linktext="false">Wasers</link> mit seinen Söhnen in <link ref="iselin" subref="iselin-ephemeriden" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10611952?page=456">2.&#x202F;Hj.&#x202F;1780 (Oktoberheft), S.&#x202F;452–460</wwwlink>, in der er merkwürdig einsichtig in seine Verbrechen erscheint.
 </marginal>
 
 <marginal letter="606" page="239" line="11">
@@ -83666,35 +83679,31 @@ Brief Nr. 606
 </marginal>
 
 <marginal letter="606" page="240" line="14">
-<bzg>Therese Czartoriska</bzg> ?!?
+<bzg>Therese Czartoriska</bzg> <link ref="czartoryska-t" linktext="true" />
 </marginal>
 
 <marginal letter="606" page="240" line="15">
-<bzg>Mutter</bzg> ?!?
+<bzg>Mutter</bzg> <link ref="czartoryska-i" linktext="true" />
 </marginal>
 
 <marginal letter="606" page="240" line="17">
-<bzg>Graf Cheruski</bzg> ?!?
+<bzg>Graf Cheruski</bzg> <link ref="rzewuski" linktext="true" />
 </marginal>
 
 <marginal letter="606" page="240" line="19">
 <bzg>diesem Gedichte</bzg> <link ref="lavater" subref="lavater-therese" linktext="true" />
 </marginal>
 
-<marginal letter="606" page="240" line="20">
-<bzg>Cheruski Rczewusky</bzg> ?!?
-</marginal>
-
 <marginal letter="606" page="240" line="24">
-<bzg>Königs</bzg> Stanislaus III. Poniatowsky
+<bzg>Königs</bzg> <link ref="stanislaw-II" linktext="true" />
 </marginal>
 
 <marginal letter="606" page="240" line="29">
-<bzg>Kampfspiel</bzg> nicht ermittelt?!?
+<bzg>Kampfspiel</bzg> nicht ermittelt, vmtl. ein Flugblatt oder dgl. von 1776 (er heiratete am <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F150427">31.3.1777</wwwlink>)
 </marginal>
 
 <marginal letter="606" page="240" line="32">
-<bzg>Kaufmann </bzg> <link ref="kaufmann-c" linktext="true" />
+<bzg>Kaufmann</bzg> <link ref="kaufmann-c" linktext="true" />
 </marginal>
 
 <marginal letter="606" page="240" line="33">

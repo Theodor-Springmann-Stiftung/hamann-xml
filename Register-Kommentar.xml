@@ -4004,6 +4004,18 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 </eintrag>
 </kommentar>
 
+<kommentar id="czartoryska-i" type="neuzeit">
+<lemma>Izabela Czartoryska</lemma>
+<eintrag>1745–1835. Fürstin Izabela Dorota Fortunata Czartoryska geb. Gräfin von Flemming. Polnische Adlige, Schriftstellerin und Kunstsammlerin, siehe <wwwlink address="https://d-nb.info/gnd/118919067">GND</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="czartoryska-t" type="neuzeit">
+<lemma>Teresa Czartoryska</lemma>
+<eintrag>Gest. 1780 bei einem Brand; Tochter von <link ref="czartoryska-i" linktext="true" />; vgl. <link ref="lavater" subref="lavater-therese" linktext="true" />.
+</eintrag>
+</kommentar>
+
 D
 
 <kommentar id="dach" type="neuzeit">
@@ -7113,6 +7125,12 @@ Für den Autor des anonymen <titel>Merkur</titel>-Beitrags, der Hamanns <link re
 <titel>Ueber Reich und Zukunft des Herrn, in Rücksicht auf einige neuere theologische Behauptungen und Aeußerungen</titel>, in: <link ref="pfenninger" subref="pfenninger-magazin" linktext="true" />, <wwwlink address="https://www.e-rara.ch/zuz/content/zoom/9674577">Bd.&#x202F;4, St.&#x202F;1, S.&#x202F;112–176</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="haefeli-ar" type="neuzeit">
+<lemma>Anna Regula Häfeli</lemma>
+<eintrag>1749–1812. Geb. Trachsler, seit 1777 Ehefrau von <link ref="haefeli" linktext="true" />, siehe <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F150427?main_person=I409290">Historisches Familienlexikon der Schweiz</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="hagedorn" type="neuzeit">
@@ -16782,6 +16800,11 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 </eintrag>
 </kommentar>
 
+<kommentar id="rzewuski" type="neuzeit">
+<lemma>Severin Graf Rzewuski</lemma>
+<eintrag>1725–1811. Polnischer Staatsmann, siehe <wwwlink address="https://de.wikisource.org/wiki/BLK%C3%96:Rzewuski,_Severin_Graf">Biographisches Lexikon des Kaiserthums Oesterreich</wwwlink>.</eintrag>
+</kommentar>
+
 
 
 S
@@ -18405,7 +18428,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="stanislaw" type="neuzeit">
 <lemma>Stanislaw I. Lesczynski</lemma>
-<eintrag>1677–1766. Gen. Senestal. 1704–1709 und 1733–1736 König von Polen, ab 1736 Titularherrscher von Polen-Litauen, Schwiegervater von Ludwig XV. von Frankreich, Herzog von Lothringen und Bar.</eintrag>
+<eintrag>1677–1766. Genannt Senestal. 1704–1709 und 1733–1736 König von Polen, ab 1736 Titularherrscher von Polen-Litauen, Schwiegervater von Ludwig XV. von Frankreich, Herzog von Lothringen und Bar.</eintrag>
 <subsection id="stanislaw-gespraech" type="neuzeit" sort="10">
 <lemma>Stanislaw I. Lesczynski, <titel>Gespräch eines Europäers</titel></lemma>
 <eintrag>
@@ -18413,6 +18436,11 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 Übers.: <titel>Gespräch eines Europäers, mit einem Insulaner aus dem Königreiche Dümocala nebst beygefügten Auszügen und Urteilen, die in einigen Monatschriften hierüber zum Vorschein gekommen sind. Aus dem Französischen übersetzt [von Friedrich Wilhelm Eichholtz]</titel> (Berlin, Frankfurt, Leipzig 1755). Digitalisat: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10769193-9">BSB München: Pol.g. 360</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="stanislaw-II" type="neuzeit">
+<lemma>Stanisław II. August Poniatowski</lemma>
+<eintrag>1732–1798. Von 1764 bis 1795 König von Polen, siehe <wwwlink address="https://d-nb.info/gnd/119095777">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="stanley" type="neuzeit">
@@ -20420,7 +20448,23 @@ W
 
 <kommentar id="waser-jh1742" type="neuzeit">
 <lemma>Johann Heinrich Waser (geb. 1742)</lemma>
-<eintrag>1742-1780. Schweizer reformierter Theologe, 1770 Pfarrer in Zürich, seit 1778 in der Staatskanzlei; nach Misshelligkeiten mit dem Zürcher Rat wegen Urkundendiebstahls und Landesverrats am 27. Mai 1780 enthauptet, was europaweit für Aufsehen sorgte; Vetter <link ref="haefeli" linktext="false">Häfelis</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120435659.html#adbcontent">Egli, Emil: Waser, Johann Heinrich, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;220–228.</wwwlink>; zu dem Justizskandal seiner Hinrichtung vgl. den Kommentar in <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/8771?page=1&#x26;comment=11353">JCLB</wwwlink>.</eintrag>
+<eintrag>1742-1780. Reformierter Pfarrer und Mathematiker in Zürich ab 1770, 1774 vom Pfarrdienst suspendiert; nach Misshelligkeiten mit dem Zürcher Rat wegen Urkundendiebstahls und Landesverrats am 27. Mai 1780 enthauptet, was europaweit für Aufsehen sorgte; Vetter <link ref="haefeli" linktext="false">Häfelis</link>, vgl <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F108135?main_person=I310016">Historische Familienlexikon der Schweiz</wwwlink>. <wwwlink address=""></wwwlink>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120435659.html#adbcontent">Egli, Emil: Waser, Johann Heinrich, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;220–228.</wwwlink>; zu dem Justizskandal seiner Hinrichtung vgl. den Kommentar in <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/8771?page=1&#x26;comment=11353">JCLB</wwwlink>.</eintrag>
+<subsection id="waser-jahrzeitbuch" type="neuzeit" sort="10">
+<lemma>Waser, <titel>Historisch Diplomatisches JahrzeitbuchHistorisch Diplomatisches Jahrzeitbuch</titel></lemma>
+<eintrag>
+<titel>Historisch Diplomatisches Jahrzeitbuch, zur Prüfung Der Urkunden. Auch Einzelne Begebenheit Der Heiligen- und Weltgeschichte, nach der wahren Schöpfungs Epoche in eine richtige und ununterbrochene Zeitordnung zu bringen, und mit den Erscheinungen am Himmel zu verbinden. Mit benoetigten Kupfern und Tabellen, einer kurzen Anweisung, und zum Gebrauch dienlichen Beyspielen vorgetragen von Joh. Heinrich waser </titel> (Zürich: Orell, Gessner, Fuesslin 1779). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/102B5B6E">ÖNB Wien: 397351-D ALT MAG</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="waser-ak" type="neuzeit">
+<lemma>Anna Kleophea Waser</lemma>
+<eintrag>1726–1806. Geb. Scheuchzer, ab 1765 Ehefrau von <link ref="waser-jh1742" linktext="true" />, siehe <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F108135?main_person=I310475">Historisches Familienlexikon der Schweiz</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="waser-h" type="neuzeit">
+<lemma>Heinrich Waser</lemma>
+<eintrag>1719–1797. Vater von <link ref="waser-jh1742" linktext="true" />, siehe <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F107909?main_person=I309523">Historisches Familienlexikon der Schweiz</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="watelet" type="neuzeit">
