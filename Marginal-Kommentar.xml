@@ -83756,11 +83756,79 @@ Brief Nr. 607
 </marginal>
 
 <marginal letter="607" page="241" line="32" sort="2">
-<bzg>Illustres Voyageurs</bzg> die berühmten Reisenden aus Weimar, <link ref="goethe" linktext="true" /> und <link ref="carl-august" linktext="true" />
+<bzg>Illustres Voyageurs</bzg> die berühmten Reisenden aus Weimar, <link ref="goethe" linktext="false">Goethe</link> und <link ref="carl-august" linktext="false">Carl August</link>
 </marginal>
 
 <marginal letter="607" page="241" line="34">
 <bzg>zarte Mann</bzg> Lavater
+</marginal>
+
+<marginal letter="607" page="242" line="2">
+<bzg>Ihre Werke&#x202F;…</bzg> Zu Herders angespanntem Verhältnis zu <link ref="goethe" linktext="false">Goethe</link> und <link ref="carl-august" linktext="false">Carl August</link>, denen er hier unterstellt, schlecht über ihn bei Lavater gesprochen zu haben, vgl. <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;136.
+</marginal>
+
+<marginal letter="607" page="242" line="15">
+<bzg>de his satis superque</bzg> davon genug und übergenug
+</marginal>
+
+<marginal letter="607" page="242" line="19">
+<bzg>Offenbar.</bzg> <link ref="lavater" subref="lavater-offenbarung" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="242" line="20">
+<bzg>H. Füßli</bzg> <link ref="fuessli-jh" linktext="true" />, tatsächlich stammten die Kupfer von <link ref="schellenberg" linktext="true" /> und <link ref="chodowiecki" linktext="true" />.
+</marginal>
+
+<marginal letter="607" page="242" line="22">
+<bzg>Therese Czatoriska</bzg> <link ref="czartoryska-t" linktext="true" />, vgl. <link ref="lavater" subref="lavater-therese" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="242" line="23">
+<bzg>Fräul. Dommhard</bzg> die Tochter von <link ref="domhardt" linktext="true" />, vgl. <intlink letter="612" page="264" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="242" line="25">
+<bzg>Br.</bzg> <link ref="herder" subref="herder-briefe-theologie" linktext="true" />, Tl.&#x202F;3 und 4; zur Vorankündigung vgl. <intlink letter="604" page="228" line="11" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="242" line="29">
+<bzg>Rec.</bzg> Rezension
+</marginal>
+
+<marginal letter="607" page="242" line="31">
+<bzg>Fr.</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="242" line="34">
+<bzg>1 Mos. 49, 22&#x202F;…</bzg> <link ref="at-mo1" subref="at-mo1-49" linktext="false">1&#x202F;Mo 49,22</link>; gemeint ist die Stelle in den <link ref="herder" subref="herder-briefe-theologie" linktext="false"><titel>Briefen, das Studium der Theologie betreffend</titel></link>, <wwwlink address="https://viewer.onb.ac.at/1063BB3B/96">Tl.&#x202F;1, S.&#x202F;86</wwwlink>, nach der Hamann in <intlink letter="604" page="228" line="15" linktext="true" /> fragte.
+</marginal>
+
+<marginal letter="607" page="242" line="36">
+<bzg>70. u. dem Araber</bzg> der Septuaginta und Herders Arabisch-Übersetzung des alten Testaments (vgl. SWS X, S.&#x202F;61f.)
+</marginal>
+
+<marginal letter="607" page="242" line="37">
+<bzg>בנוֺת צערה</bzg> 
+</marginal>
+
+<marginal letter="607" page="243" line="1">
+<bzg>Mendelsohn</bzg> <link ref="mendelssohn" linktext="true" />, vgl. <link ref="mendelssohn" subref="mendelssohn-pentateuch" linktext="false"><titel>Die fünf Bücher Mose zum Gebauch der jüdischdeutschen Nation</titel></link>, S.&#x202F;309
+</marginal>
+
+<marginal letter="607" page="243" line="2">
+<bzg>Masorethischen Text</bzg> Rabbinische Überlieferung (Textkritik und Überlieferung) des Alten Testaments
+</marginal>
+
+<marginal letter="607" page="243" line="4">
+<bzg>Stelle aus den Maccab.</bzg> vgl. <intlink letter="604" page="228" line="16" linktext="true" />?!?
+</marginal>
+
+<marginal letter="607" page="243" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="607" page="243" line="">
+<bzg></bzg> 
 </marginal>
 
 
@@ -83768,7 +83836,7 @@ Brief Nr. 607
 
 Brief Nr. 627
 
-<marginal letter="607" page="" line="6">
+<marginal letter="627" page="318" line="9">
 <bzg>καιρων αναψυξεως</bzg> Zeit der Erquickung, <link ref="nt-apg" subref="nt-apg3" linktext="false">Apg 3,20</link>, vgl. <intlink letter="594" page="203" line="17" linktext="true" />
 </marginal>
 
