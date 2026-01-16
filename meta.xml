@@ -11685,9 +11685,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="607">
-        <date value="Mitte oder Ende November bis 18. Dezember 1780" />
-        <sort value="1780-12-10" notAfter="1780-12-18" />
-        <location ref="-1" />
+        <date value="Weimar, Mitte November und 18. Dezember 1780" />
+        <sort value="1780-11-21" from="1780-11-15" to="1780-12-18" />
+        <location ref="22" />
         <senders>
           <sender ref="41" />
         </senders>
