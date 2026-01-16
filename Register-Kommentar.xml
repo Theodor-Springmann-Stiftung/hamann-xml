@@ -11445,6 +11445,11 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
     <eintrag>
     <titel>Jesus Messias, oder die Zukunft des Herrn. Nach der Offenbarung Johannes</titel> (Zürich: Füeßli 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271742-6">Stabi Bamberg: JH.L.g.o.44</wwwlink>.</eintrag>
     </subsection>
+    <subsection id="lavater-waser" type="neuzeit" sort="55">
+    <lemma>Lavater, <titel>Wasers des unglücklichen Briefe an seine Verwandten, und einige sein Schicksal betreffende kleine Schriften</titel></lemma>
+    <eintrag>
+    <titel>Wasers des unglücklichen Briefe an seine Verwandten, und einige sein Schicksal betreffende kleine Schriften nebst einer Predigt und Gebet über diesen Vorfall von J. C. Lavater</titel> (Schafhausen 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11279241-7">Stabi Augsburg: S 1766</wwwlink>.</eintrag>
+    </subsection>
     <subsection id="lavater-therese" type="neuzeit" sort="60">
     <lemma>Lavater, <titel>Therese Czartoriska</titel></lemma>
     <eintrag>
@@ -17276,7 +17281,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 
 <kommentar id="schlozer" type="neuzeit">
 <lemma>August Ludwig Schlözer</lemma>
-<eintrag>1735–1809. Göttinger Historiker und Staatsrechtler, 1761–1770 in Russland u.a. als Adjunkt der Petersburger Akademie der Wissenschaften, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118608339.html#ndbcontent">Fleischer, Dirk: Schlözer, August Ludwig von, in: <titel>NDB</titel>&#x202F;23 (2007), S.&#x202F;98f.</wwwlink></eintrag>
+<eintrag>1735–1809. Historiker und Staatsrechtler, 1761–1770 in Russland u.a. als Adjunkt der Petersburger Akademie der Wissenschaften, ab 1770 Professor in Göttingen und als aufklärerischer Publizist aktiv; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118608339.html#ndbcontent">Fleischer, Dirk: Schlözer, August Ludwig von, in: <titel>NDB</titel>&#x202F;23 (2007), S.&#x202F;98f.</wwwlink></eintrag>
 <subsection id="schlozer-nordischegeschichte" type="neuzeit" sort="10">
 <lemma>Schlözer, <titel>Allgemeine Nordische Geschichte</titel></lemma>
 <eintrag>
@@ -20448,7 +20453,7 @@ W
 
 <kommentar id="waser-jh1742" type="neuzeit">
 <lemma>Johann Heinrich Waser (geb. 1742)</lemma>
-<eintrag>1742-1780. Reformierter Pfarrer und Mathematiker in Zürich ab 1770, 1774 vom Pfarrdienst suspendiert; nach Misshelligkeiten mit dem Zürcher Rat wegen Urkundendiebstahls und Landesverrats am 27. Mai 1780 enthauptet, was europaweit für Aufsehen sorgte; Vetter <link ref="haefeli" linktext="false">Häfelis</link>, vgl <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F108135?main_person=I310016">Historische Familienlexikon der Schweiz</wwwlink>. <wwwlink address=""></wwwlink>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120435659.html#adbcontent">Egli, Emil: Waser, Johann Heinrich, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;220–228.</wwwlink>; zu dem Justizskandal seiner Hinrichtung vgl. den Kommentar in <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/8771?page=1&#x26;comment=11353">JCLB</wwwlink>.</eintrag>
+<eintrag>1742-1780. Reformierter Pfarrer und Mathematiker in Zürich ab 1770, 1774 vom Pfarrdienst suspendiert; nach Misshelligkeiten mit dem Zürcher Rat und der Publikation von diskreditierenden Aufsätzen in  <link ref="schlozer" subref="schlozer-briefwechsel" linktext="false">Schlözers <titel>Briefwechsel, meist historischen und politischen Inhalts</titel></link> 1780 verhaftet und wegen Urkundendiebstahls und Landesverrats am 27. Mai 1780 enthauptet, was europaweit für Aufsehen sorgte; Vetter <link ref="haefeli" linktext="false">Häfelis</link>, vgl <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F108135?main_person=I310016">Historische Familienlexikon der Schweiz</wwwlink>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd120435659.html#adbcontent">Egli, Emil: Waser, Johann Heinrich, in: <titel>ADB</titel>&#x202F;41 (1896), S.&#x202F;220–228.</wwwlink>; zu dem Justizskandal seiner Hinrichtung vgl. <wwwlink address="https://www.e-periodica.ch/digbib/view?pid=zut-001%3A2000%3A120%3A%3A217">Uwe Hentschel: <titel>Der Waser-Handel im Spiegel der deutschen Literatur,</titel> in: Zürcher Taschenbuch 120 (2000), S.&#x202F;177–192</wwwlink>, außerdem den Kommentar in <wwwlink address="https://www.jclavater-briefwechsel.ch/letter/8771?page=1&#x26;comment=11353">JCLB</wwwlink>.</eintrag>
 <subsection id="waser-jahrzeitbuch" type="neuzeit" sort="10">
 <lemma>Waser, <titel>Historisch Diplomatisches JahrzeitbuchHistorisch Diplomatisches Jahrzeitbuch</titel></lemma>
 <eintrag>
