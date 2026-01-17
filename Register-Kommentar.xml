@@ -2187,6 +2187,17 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="bormel" type="neuzeit">
+<lemma>Johann Gottfried Börmel</lemma>
+<eintrag>2. Hälfte des 18. Jh. Kandidat der Theologie in Weimar, dann Pfarrer in Frankendorf, siehe <wwwlink address="http://d-nb.info/gnd/140994343"></wwwlink>GND.</eintrag>
+<subsection id="bormel-jeremias" type="neuzeit">
+<lemma>Börmel, <titel>Jeremias Propheta</titel></lemma>
+<eintrag>
+<titel>Jeremias Klagegesänge übersetzt und mit Anmerkungen von J. Gottfried Börmel mit einer Vorrede begleitet vom Herrn General Superintendent <link ref="herder" linktext="false">Herder</link></titel> (Weimar 1781). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id321775848">SLUB Dresden: Biblia.2034.m</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="borowski" type="neuzeit">
 <lemma>Ludwig Ernst v. Borowski</lemma>
 <eintrag>1740–1831. Hauslehrer im Hause des General K. G. v. Knobloch, seit 1762 Feldprediger, seit 1783 Prediger an der Roßgärtschen Kirche in Königsberg; zuletzt Bischof der evanglischen Kirche.</eintrag>
@@ -3177,6 +3188,11 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <titel>Instructions pour un jeune seigneur, ou l’idée d’un galant-homme</titel> (Paris 1682).<line type="break" />
 Übers.: in: <link ref="maubert" subref="maubert-ecole" linktext="true" />, S.&#x202F;249ff.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="chevilla" type="neuzeit">
+<lemma>Buch Chevilla</lemma>
+<eintrag>Mysteriöses Buch, auf das Hamann durch die Lektüre des Manuskripts des <link ref="ziehen" linktext="false">‚Zellerfelder Propheten‘</link> kam, auf das <link ref="herder" linktext="false">Herder</link> ihn scherzhaft aufmerksam machte; Hamann suchte lange nach dem Buch; vgl. zusammenfassend <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;105</link> und ?!?.</eintrag>
 </kommentar>
 
 <kommentar id="chladenius" type="neuzeit">
@@ -5880,6 +5896,11 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 <eintrag>1757–1816. Preußischer Offizier und Herzog von Schleswig-Holstein-Sonderburg-Beck, heiratete 1780 <link ref="friederike-schlieben" linktext="true" />.</eintrag>
 </kommentar>
 
+<kommentar id="fritsch" type="neuzeit">
+<lemma>Jakob Friedrich von Fritsch</lemma>
+<eintrag>1731–1814. Seit 1767 leitender Staatsbeamter in Sachsen-Weimar, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118693735.html#ndbcontent">Huschke, Wolfgang: Fritsch, Jakob Friedrich, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;622f</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="fritz" type="neuzeit">
 <lemma>Andreas Fritz</lemma>
 <eintrag>1711–1790. Jesuit, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz049_00226_1.html">Deutsche Biographie</wwwlink>.</eintrag>
@@ -6624,7 +6645,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 
 <kommentar id="goettingische-anzeigen" type="neuzeit">
 <lemma>Göttingische Anzeigen von gelehrten Sachen</lemma>
-<eintrag>214 Bde. Seit 1739 unter dem Titel Göttingische Zeitung(en) von gelehrten Sachen, seit 1747 unter Leitung von Albrecht von Haller. Seit 1753 wurde die Zeitschrift von der Akademie der Wissenschaften zu Göttingen herausgegeben, bis 1801 unter dem Titel Göttingische Anzeigen von gelehrten Sachen. Digitalisat: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN31973076X ">SUB Göttingen</wwwlink>.</eintrag>
+<eintrag>214 Bde. Seit 1739 unter dem Titel <titel>Göttingische Zeitung(en) von gelehrten Sachen</titel>, seit 1747 unter Leitung von Albrecht von Haller. Seit 1753 wurde die Zeitschrift von der Akademie der Wissenschaften zu Göttingen herausgegeben, bis 1801 unter dem Titel <titel>Göttingische Anzeigen von gelehrten Sachen</titel>. Digitalisat: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN31973076X ">SUB Göttingen</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="goguet" type="neuzeit">
@@ -8826,6 +8847,11 @@ Eine Erweiterung erschien ab 1753 als Teil 2 u. 3. <titel>Theron and Aspasio or,
 <lemma>Herz, <titel>Versuch über die Ursachen der Verschiedenheit des Geschmacks</titel></lemma>
 <eintrag><titel>Versuch über die Ursachen der Verschiedenheit des Geschmacks</titel> (Mitau, Leipzig: Hinz 1776) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;122/340: „Versuch über den Geschmack und die Ursachen seiner Verschiedenheit, Leipz. 776. Dona.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273189-3">BSB München: Phil 1587</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="herz-jg" type="neuzeit">
+<lemma>Johann Georg Herz</lemma>
+<eintrag>1725–1800. Lehrer der Freischule bzw. Armenschule und Waisenhausinspektor in Weimar, protegiert von <link ref="fritsch" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="hesiod" type="neuzeit">
@@ -20350,7 +20376,7 @@ W
 
 <kommentar id="walch" type="neuzeit">
 <lemma>Christian Wilhelm Franz Walch</lemma>
-<eintrag>1726–1784. Evang. Theologe, 1757 Professor der Theologie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz34685.html#adbcontent">Tschackert, Paul: Walch, Christian Wilhelm Franz, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;646&#x2013;650</wwwlink>.</eintrag>
+<eintrag>1726–1784. Evangelischer Theologe, 1757 Professor der Theologie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz34685.html#adbcontent">Tschackert, Paul: Walch, Christian Wilhelm Franz, in: <titel>ADB</titel>&#x202F;40 (1896), S.&#x202F;646&#x2013;650</wwwlink>.</eintrag>
 <subsection id="walch-bibliothek" type="neuzeit" sort="10">
 <lemma>Walch (Hg.), <titel>Philologische Bibliothek</titel></lemma>
 <eintrag>

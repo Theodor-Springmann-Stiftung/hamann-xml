@@ -79808,7 +79808,7 @@ Die Datierung stützt sich auf die Nennung Seckendorffs (<intlink letter="591" p
 </marginal>
 
 <marginal letter="591" page="188" line="27">
-<bzg>Buch Chevilah</bzg> vgl. <intlink letter="602" page="225" line="1" linktext="true" /> und <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;105</link>
+<bzg>Buch Chevilah</bzg> <link ref="chevilla" linktext="true" />, vgl. <intlink letter="602" page="225" line="1" linktext="true" /> 
 </marginal>
 
 <marginal letter="591" page="188" line="31">
@@ -80671,7 +80671,7 @@ Hamann antwortet zunächst nur auf Brief <intlink letter="590" page="187" line="
 </marginal>
 
 <marginal letter="592" page="198" line="31" sort="2">
-<bzg>Buch Chevilah</bzg> vgl. <intlink letter="591" page="188" line="27" linktext="true" />
+<bzg>Buch Chevilah</bzg> <link ref="chevilla" linktext="true" />, vgl. <intlink letter="591" page="188" line="27" linktext="true" />
 </marginal>
 
 <marginal letter="592" page="198" line="33">
@@ -82728,6 +82728,10 @@ Brief Nr. 602
 <bzg></bzg> <link ref="ziehen" subref="ziehen-revolution" linktext="true" />, vgl. <intlink letter="600" page="219" line="2" linktext="true" />
 </marginal>
 
+<marginal letter="602" page="225" line="1">
+<bzg>Buch Chevilah</bzg> <link ref="chevilla" linktext="true" />
+</marginal>
+
 <marginal letter="602" page="225" line="13">
 <bzg>Bocher</bzg> jiddisch Jüngling, auch Talmudbeflissener (Student), nicht ermittelt
 </marginal>
@@ -82987,7 +82991,7 @@ Brief Nr. 604
 </marginal>
 
 <marginal letter="604" page="228" line="17">
-<bzg>fehlt&#x202F;…&#x202F;Maccab</bzg> vgl. <link ref="herder" subref="herder-briefe-theologie" linktext="true" />, <wwwlink address="https://viewer.onb.ac.at/1063BB3B/316">Tl.&#x202F;2, S.&#x202F;302</wwwlink>: „in den Büchern der Maccabäer finden wir die Erwartung des Meßias als Eines, der kommen sollte, deutlich.“
+<bzg>fehlt&#x202F;…&#x202F;Maccab</bzg> vgl. <link ref="herder" subref="herder-briefe-theologie" linktext="true" />, <wwwlink address="https://viewer.onb.ac.at/1063BB3B/316">Tl.&#x202F;2, S.&#x202F;302</wwwlink>: „in den Büchern der Maccabäer finden wir die Erwartung des Meßias als Eines, der kommen sollte, deutlich“ und <intlink letter="607" page="243" line="4" linktext="true" />
 </marginal>
 
 <marginal letter="604" page="228" line="18">
@@ -83027,7 +83031,7 @@ Brief Nr. 604
 </marginal>
 
 <marginal letter="604" page="228" line="30">
-<bzg>Mst. des Ziehens</bzg> des durch Herder geschickten Manuskripts von <link ref="ziehen" subref="ziehen-revolution" linktext="true" />, vgl. <intlink letter="600" page="219" line="2" linktext="true" />
+<bzg>Mst. des Ziehens</bzg> des durch Herder geschickten Manuskripts des <link ref="ziehen" linktext="false">‚Zellerfelder Propheten‘</link>, vgl. <intlink letter="600" page="219" line="2" linktext="true" />
 </marginal>
 
 <marginal letter="604" page="228" line="31">
@@ -83035,6 +83039,10 @@ Brief Nr. 604
 </marginal>
 
 <marginal letter="604" page="228" line="35">
+<bzg>Chevilah</bzg> <link ref="chevilla" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="228" line="36">
 <bzg>Hofrath Ehrenreich</bzg> <link ref="ehrenreich" linktext="true" /> 
 </marginal>
 
@@ -83206,8 +83214,12 @@ Brief Nr. 604
 <bzg>Briefen</bzg> Hamanns Entwurf über Hume, <intlink letter="604" page="229" line="19" linktext="false">s.o.</intlink>
 </marginal>
 
-<marginal letter="604" page="230" line="35">
+<marginal letter="604" page="230" line="35" sort="1">
 <bzg>Hartkn&#x202F;…&#x202F;Kanten</bzg> <link ref="hartknoch" linktext="true" /> der Verleger von <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link>, vgl. <intlink letter="602" page="224" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="604" page="230" line="35" sort="2">
+<bzg>Chevila</bzg> <link ref="chevilla" linktext="true" />
 </marginal>
 
 <marginal letter="604" page="230" line="37">
@@ -83287,7 +83299,7 @@ Brief Nr. 604
 </marginal>
 
 <marginal letter="604" page="231" line="32">
-<bzg>Lichtenbergs Deduction</bzg> Lichtenbergs behandelt in seinem Artikel <link ref="lichtenberg" subref="lichtenberg-ziehen" linktext="false"><titel>Ueber die Weissagungen des verstorbenen Herrn Superintendenten Ziehen in Zellerfeld</titel></link> die Prophezeihungen <link ref="ziehen" linktext="false">Ziehens</link> als Unsinn.
+<bzg>Lichtenbergs Deduction</bzg> Lichtenberg behandelt in seinem Artikel <link ref="lichtenberg" subref="lichtenberg-ziehen" linktext="false"><titel>Ueber die Weissagungen des verstorbenen Herrn Superintendenten Ziehen in Zellerfeld</titel></link> die Prophezeihungen <link ref="ziehen" linktext="false">Ziehens</link> als Unsinn.
 </marginal>
 
 <marginal letter="604" page="231" line="36">
@@ -83416,6 +83428,10 @@ Brief Nr. 627
 
 <marginal letter="605" page="233" line="13">
 <bzg>Pr. Kant u D. Reccard</bzg> <link ref="kant" linktext="true" /> und <link ref="reccard" linktext="true" />, vgl. <intlink letter="604" page="229" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="605" page="233" line="14">
+<bzg>Chevila</bzg> <link ref="chevilla" linktext="true" />
 </marginal>
 
 <marginal letter="605" page="233" line="15">
@@ -83820,18 +83836,76 @@ Brief Nr. 607
 </marginal>
 
 <marginal letter="607" page="243" line="4">
-<bzg>Stelle aus den Maccab.</bzg> vgl. <intlink letter="604" page="228" line="16" linktext="true" />?!?
+<bzg>Stelle aus den Maccab.</bzg> <link ref="apo-makk1" subref="apo-makk1-14" linktext="false">1 Makk 14,41</link> vgl. <intlink letter="604" page="228" line="17" linktext="true" />
 </marginal>
 
-<marginal letter="607" page="243" line="">
-<bzg></bzg> 
+<marginal letter="607" page="243" line="5">
+<bzg>Götting. Weihnachtprogr.</bzg> Vmtl. erinnert Herder sich vage an <link ref="walch" linktext="false">Walchs</link> Rezension eines 1771 lokal zirkulierenden Göttinger ‚Weihnachtsprogramms‘ über die Frage, ob Jesus selber bekannt habe, dass er der Messias sei; vgl. <link ref="goettingische-anzeigen" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN31973076X_1771_01:00000154/full/full/0/default.jpg">St.&#x202F;19, 14.2.1771, S.&#x202F;153–155</wwwlink>.
 </marginal>
 
-<marginal letter="607" page="243" line="">
-<bzg></bzg> 
+<marginal letter="607" page="243" line="7">
+<bzg>Candidat&#x202F;…&#x202F;Uebersetzung</bzg> <link ref="bormel" subref="bormel-jeremias" linktext="true" />, vgl. <intlink letter="627" page="316" line="26" linktext="true" />
 </marginal>
 
+<marginal letter="607" page="243" line="14">
+<bzg>Plan zum seminario für Landschulmeister</bzg> Herder wurde im Dezember 1777 mit der Aufgabe betraut, einen Plan zur Errichtung eines solchen Seminars zu erarbeiten. Zum 31. Oktober 1780 reichte er seinen Plan ein und entschuldigte die Verspätung damit, dass er sich erst von Einrichtungen dieser Art in anderen Ländern habe Kenntnis verschaffen müssen; vgl. seinen <titel>Entwurf eines Seminarii zu Lehrern für Landschulen</titel> in SWS XXX, S.&#x202F;453–455, außerdem <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;125 und 138.
+</marginal>
 
+<marginal letter="607" page="243" line="19">
+<bzg>Vormundschaft</bzg> während der vormundschaftlichen Regentschaft <link ref="anna-amalia" linktext="false">Anna Amalias</link>
+</marginal>
+
+<marginal letter="607" page="243" line="20">
+<bzg></bzg> <link ref="fritsch" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="243" line="21">
+<bzg>aus der Lausnitz einen frommen Mann</bzg> <link ref="herz-jg" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="243" line="22">
+<bzg>Präsidenten des Ob. Cons.</bzg> <link ref="lynker-kf" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="244" line="2">
+<bzg>ad votandum singulatim</bzg> zur Einzelabstimmung
+</marginal>
+
+<marginal letter="607" page="244" line="19">
+<bzg>Ziehens Mscr.</bzg> das Manuskript des <link ref="ziehen" linktext="false">‚Zellerfelder Propheten‘</link>, das Herder an Hamann sandte und dieser bat, behalten zu können, da es mittlerweile im <link ref="ziehen" subref="ziehen-revolution" linktext="false">Druck</link> erschien, vgl. <intlink letter="604" page="229" line="2" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="244" line="20">
+<bzg>Deutsche Merkur, u. die Fr. Gen. Sup.</bzg> demnach, dass <link ref="wieland" linktext="true" /> und <link ref="herder-c" linktext="true" /> das Manuskript des Zellerfelder Propheten abschrieben
+</marginal>
+
+<marginal letter="607" page="244" line="21">
+<bzg>dasselbe Urtheil</bzg> wie in Königsberg und <link ref="kant" linktext="false">Kant</link> und <link ref="reccard" linktext="false">Reccard</link>, vgl. <intlink letter="604" page="229" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="244" line="22">
+<bzg>seine Mscr.</bzg> Hamann fragte nach <link ref="ziehen" linktext="false">Ziehens</link> Nachlass, vgl. <intlink letter="604" page="229" line="9" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="244" line="26">
+<bzg>Prophetische Zeit</bzg> innerhalb derer die Weissagungen, Erdbeben etc. hätten eintreffen sollen, also bis Dezember 1786
+</marginal>
+
+<marginal letter="607" page="244" line="27">
+<bzg>Buch Chevilah</bzg> <link ref="chevilla" linktext="true" />
+</marginal>
+
+<marginal letter="607" page="244" line="34" sort="1">
+<bzg>humilium</bzg> Niedrigkeiten
+</marginal>
+
+<marginal letter="607" page="244" line="34" sort="2">
+<bzg>altiora canamus</bzg> Lasst uns von Höherem singen, nach <link ref="vergil" subref="vergil-bucol" linktext="true" />, 4,1
+</marginal>
+
+<marginal letter="607" page="244" line="">
+<bzg>Neues Papier her</bzg> Herder schreibt dies am unteren Ende des ersten Quartbogens.
+</marginal>
 
 
 Brief Nr. 627
