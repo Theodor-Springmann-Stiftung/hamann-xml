@@ -2650,9 +2650,9 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 <lemma>Georges-Louis Leclerc de Buffon</lemma>
 <eintrag>1707–1788. Comte. Frz. Naturforscher. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;6, 1812), S.&#x202F;234–242.</eintrag>
 <subsection id="histoirenaturelle" type="neuzeit" sort="10">
-<lemma>Buffon, <titel>Histoire Naturelle Générale et particulière</titel></lemma>
+<lemma>Buffon, <titel>Histoire naturelle générale et particulière</titel></lemma>
 <eintrag>
-<titel>Histoire Naturelle Générale et particulière. Théorie de la terre; histoire naturelle de l’homme; animaux quadrupèdes. Par Buffon et Louis-Jean-Marie Daubenton</titel> (15&#xA0;Bde., Paris 1749–1767; 44&#xA0;Bde., Paris 1749–1804).<line type="break" />
+<titel>Histoire naturelle générale et particulière. Théorie de la terre; histoire naturelle de l’homme; animaux quadrupèdes. Par Buffon et Louis-Jean-Marie Daubenton</titel> (15&#xA0;Bde., Paris 1749–1767; 44&#xA0;Bde., Paris 1749–1804).<line type="break" />
 1. Übers.: <titel>Allgemeine Historie der Natur nach allen ihren besonderen Theilen abgehandelt; nebst einer Beschreibung der Naturalienkammer Sr. Majestät des Königes von Frankreich. Mit einer Vorrede Herrn Doctor <link ref="haller" linktext="false">Albrecht von Haller</link> […]</titel> (Bd.&#x202F;1–3 übers. u. mit Anm. von <link ref="kastner" linktext="true" />) (11&#xA0;Bde., Hamburg, Leipzig: Grund und Holle 1750–1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;97/14: „Büffon’s allgemeine Geschichte der Natur, 1–5ter Th. Hamb. 756. m. K.“]. Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id434773980">SLUB Dresden: Hist.nat.B.251-1,1ff.</wwwlink>
 <line type="break" />
 2. Übers.: <titel>Herrn von Buffons allgemeine Naturgeschichte. Eine freye mit einigen Zusätzen vermehrte Übersetzung nach der neuesten französ. Außgabe von 1769</titel>, von F. H. W. Martini (7&#xA0;Bde., Berlin 1771–1774). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://digi.ub.uni-heidelberg.de/diglit/buffon1771bd1">UB Heidelberg: O 449-3::1-2</wwwlink>.
@@ -5998,7 +5998,13 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 
 <kommentar id="furst" type="neuzeit">
 <lemma>Maximilian von Fürst und Kupferberg</lemma>
-<eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1763 Geheimer Etats- und Justizminister sowie Präsident des 1. Kammergerichts, 1770–1779 Großkanzler bzw. Justizminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>.
+<eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1763 Geheimer Etats- und Justizminister sowie Präsident des 1. Kammergerichts, 1770–1779 Großkanzler bzw. Justizminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>
+</eintrag>
+</kommentar>
+
+<kommentar id="furstenberg" type="neuzeit">
+<lemma>Franz von Fürstenberg</lemma>
+<eintrag>1729–1810. Domherr in Münster und Paderborn, ab 1761 Minister des Fürstbistums Münster, wo er umfangreiche Reformen des Schul- und Medizinalwesens durchsetzte, auch 1773 die Universität Münster gründete; als Minister 1780 abberufen, behielt aber weiter die Aufsicht über Schulen und Universität; Mittelpunkt des Kreises von Münster; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11869412X.html#ndbcontent">Trunz, Erich: Fürstenberg, Franz Friedrich Wilhelm Maria Freiherr von, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;696–698</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -13098,6 +13104,12 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 </subsection>
 </kommentar>
 
+<kommentar id="maximilian-franz" type="neuzeit">
+<lemma>Maximilian Franz von Österreich</lemma>
+<eintrag>1756–1801. Erzherzog von Österreich, jüngster Sohn Maria Theresias, 1780 zum Koadjutor in Köln und Münster gewählt, 1784 Fürstbischof von Münster, Kurfürst und Erzbischof von Köln, Coadjutor; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118579398.html#ndbcontent">Christ, Günter: Maximilian Franz, Erzherzog von Österreich, in: <titel>NDB</titel>&#x202F;16 (1990), S.&#x202F;502–506</wwwlink>.</eintrag>
+</kommentar>
+
+
 <kommentar id="maupertuis" type="neuzeit">
 <lemma>Pierre Louis Moreau de Maupertuis</lemma>
 <eintrag>1698–1759. Frz. Mathematiker, Geodät, Astronom, Naturforscher und Philosoph. 1746–1753 Präsident der Berliner Akademie. <wwwlink address="https://www.deutsche-biographie.de/pnd118731998.html#adbcontent">Koser, R.: Maupertuis, Pierre-Louis Moreau de, in: <titel>ADB</titel> 20 (1884), S.&#x202F;691–693</wwwlink>.
@@ -13425,13 +13437,13 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 
 <kommentar id="merck" type="neuzeit">
 <lemma>Johann Heinrich Merck</lemma>
-<eintrag>1741–1791. Schriftsteller in Darmstadt und Freund von <link ref="goethe" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz53095.html#ndbcontent">Elschenbroich, Adalbert: Merck, Johann Heinrich, in: <titel>NDB</titel>&#x202F;17 (1994), S.&#x202F;117–120</wwwlink>.
+<eintrag>1741–1791. Schriftsteller und Politiker in Darmstadt, Freund <link ref="goethe" linktext="false">Goethes</link>; besuchte Hamann in Königsberg 1773 (vgl. <intlink letter="396" page="62" line="23" linktext="true" />), hinterließ aber einen sehr negativen Eindruck (vgl. <intlink letter="402" page="75" line="23" linktext="true" />), ebenso bei Herder (vgl. <intlink letter="407" page="92" line="28" linktext="true" />); siehe <wwwlink address="https://www.deutsche-biographie.de/sfz53095.html#ndbcontent">Elschenbroich, Adalbert: Merck, Johann Heinrich, in: <titel>NDB</titel>&#x202F;17 (1994), S.&#x202F;117–120</wwwlink>.
 </eintrag>
 </kommentar>
 
 <kommentar id="merian" type="neuzeit">
 <lemma>Johann Bernhard Merian</lemma>
-<eintrag>1723–1807. Schweizer. reform. Theologe, 1749 Prof. der Philosophie in Berlin, 1750 Akademiemitglied, 1770 Direktor der Klasse Belles-Lettres.
+<eintrag>1723–1807. Schweizerischer reformierter Theologe, 1749 Prof. der Philosophie in Berlin, 1750 Akademiemitglied, 1770 Direktor der Klasse Belles-Lettres.
 </eintrag>
 </kommentar>
 
@@ -14149,6 +14161,12 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Reliquien</titel> (Frankfurt und Leipzig 1766) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;103/105: „Reliquien, Frft. 766.“]. Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11278621">SSB Augsburg:  S 1115</wwwlink>.   
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="moser-wg" type="neuzeit">
+<lemma>Wilhelm Gottfried von Moser</lemma>
+<eintrag>1729–1793. Forstwissenschaftler und Politiker, 1780 neben seinem Bruder <link ref="moser" linktext="true" /> als hessen-darmstädtischer Cammer-Präsident entlassen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116939443.html#ndbcontent">Hauff, Dorothea, Moser von Filseck, Wilhelm Gottfried, in: <titel>NDB</titel>&#x202F;18 (1997), S.&#x202F;181</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="moserj" type="neuzeit">
