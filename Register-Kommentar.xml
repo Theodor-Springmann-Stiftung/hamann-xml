@@ -3527,6 +3527,12 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 </eintrag>
 </kommentar>
 
+<kommentar id="clemens-wenzeslaus" type="neuzeit">
+<lemma>Clemens Wenzeslaus von Sachsen</lemma>
+<eintrag>1739–1812. Erzbischof und Kurfürst von Trier, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118640208.html#ndbcontent">Just, Leo: Clemens Wenzeslaus, Herzog zu Sachsen, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;282f</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="cless" type="neuzeit">
 <lemma>David Jonathan Cless</lemma>
 <eintrag>1731–1803. Evangelischer Theologe in Göppingen.
@@ -3608,7 +3614,7 @@ Die wahre Lehre des heilig Apostel Pauli vom Gesetz, aus dem Brief an die Römer
 
 <kommentar id="coccejus-j" type="neuzeit">
 <lemma>Johannes Coccejus</lemma>
-<eintrag>1603–1669. Protestantischer Theologe, einer der Hauptvertreter der Föderaltheologie, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118676504.html#ndbcontent"> Walter Hollweg: Coccejus, Johannes, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;302f</wwwlink>.
+<eintrag>1603–1669. Protestantischer Theologe, einer der Hauptvertreter der Föderaltheologie, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118676504.html#ndbcontent">Walter Hollweg: Coccejus, Johannes, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;302f</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -4482,6 +4488,12 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 <kommentar id="diogenes-s" type="neuzeit">
 <lemma>Diogenes von Sinope</lemma>
 <eintrag>Um 413 bis um 323 v. Chr. Kynischer Philosoph, von dessen Leben uns Aussprüchen viele Anekdoten überliefert sind.
+</eintrag>
+</kommentar>
+
+<kommentar id="dissertation-extraordinaire" type="neuzeit">
+<lemma>Dissertation sur la question extraordinaire</lemma>
+<eintrag>Dissertation sur la question extraordinaire proposée par l’académie royale des sciences et belles-lettres, qui a partagé le prix adiugé le 1. Juin MDCCLXXX (Berlin: Decker 1780). – Die Publikation enthält zwei Beantwortungen, eine negative von <wwwlink address="https://www.deutsche-biographie.de/pnd118508121.html#ndbcontent">Rudolf Zacharias Becker</wwwlink> und eine positive von <wwwlink address="https://www.deutsche-biographie.de/sfz8061.html">Frédéric de Castillon</wwwlink>. – Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id322848024">SLUB Dresden: Encycl.104</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -5877,6 +5889,13 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 <lemma>Friedrich II., <titel>Briefe über die Liebe zum Vaterland</titel></lemma>
 <eintrag>
 <titel>Briefe über die Liebe zum Vaterland oder Briefwechsel zwischen Anapistemon und Philopatros. Aus dem Französischen</titel> (Berlin: Decker 1779). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11109253-4">Stabi Regensburg: 999/Philos.392</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="friedrich-litterature-allemande" type="neuzeit" sort="100">
+<lemma>Friedrich II., <titel>De la littérature allemande</titel></lemma>
+<eintrag>
+<titel>De la littérature allemande; des défauts qu’on peut lui réprocher; quelles en sont les causes; et par quels moyens on peut les corriger</titel> (Berlin: Decker 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074454-7">BSB München: Rar. 1722</wwwlink>.<line type="break" />
+Übers.: <titel>Ueber die deutsche Litteratur, die Mängel, die man ihr vorwerfen kann; die Ursachen derselben und die Mittel sie zu verbessern. Aus dem Französischen übersetzt</titel> (Berlin: Decker 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11266790-1">Stabi Augsburg: Lw 976</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -16592,11 +16611,22 @@ Hamann erwähnt im Studienheft (1.8.1780, N&#x202F;V,352f.) die Übersetzung „
 <kommentar id="roche-noblot" type="neuzeit">
 <lemma>Joseph Maximilian la Roche Noblot</lemma>
 <eintrag>Gest. am 25. Januar 1773 bei einer Schlittenfahrt auf der Düna. Bekannter Kalligraph aus Königsberg, vgl. <wwwlink address="https://books.google.de/books?id=VIFLAAAAcAAJ"><titel>Livländische Bibliothek,</titel> Bd.&#x202F;3 (Riga 1777), S.&#x202F;42</wwwlink>.</eintrag>
-</kommentar>La Roche, Marie Sophie v., geb. v. Gutermann zu Gutershofen (1730- 1807), dessen Frau (seit 1753), Pomona
+</kommentar>
+
+<kommentar id="laroche-gmf" type="neuzeit">
+<lemma>Georg Michael Frank von La Roche</lemma>
+<eintrag>1720–1788. Kurtrierischer Geheimer Rat, 1775 Staatsrat, 1778 Kanzler, 1780 gestürzt (als Kritiker des Mönchswesens); siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116737883.html#adbcontent">Irmer: La Roche, Georg Michael Frank von La, in: <titel>ADB</titel>&#x202F;17 (1889), S.&#x202F;716f</wwwlink>.</eintrag>
+<subsection id="laroche-monchswesen" type="neuzeit" sort="10">
+<lemma>La Roche, <titel>Briefe über das Mönchswesen</titel></lemma>
+<eintrag>
+<titel>Briefe über das Mönchswesen von einem catholischen Pfarrer an einen Freund</titel> ([Zürich] 1771; die Bde., zwei bis vier, 1780–1781 stammten nicht von ihm, sondern von <wwwlink address="https://www.deutsche-biographie.de/pnd119275147.html#adbcontent">Johann Kaspar Riesbeck</wwwlink>). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10029572-5">BSB München: H.mon. 72 e</wwwlink>. 
+</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="laroche-s" type="neuzeit">
 <lemma>Sophie von La Roche</lemma>
-<eintrag>1730–1807. Geb. von Gutermann zu Gutershofen, Schriftstellein, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118569767.html#ndbcontent">Häntzschel, Günter: La Roche, Sophie von, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;640f.</wwwlink>.</eintrag>
+<eintrag>1730–1807. Geb. von Gutermann zu Gutershofen, Schriftstellerin, Ehefrau von <link ref="laroche-" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118569767.html#ndbcontent">Häntzschel, Günter: La Roche, Sophie von, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;640f.</wwwlink>.</eintrag>
 <subsection id="laroche-sternheim" type="neuzeit" sort="10">
 <lemma>La Roche, <titel>Geschichte des Fräuleins von Sternheim</titel></lemma>
 <eintrag>
