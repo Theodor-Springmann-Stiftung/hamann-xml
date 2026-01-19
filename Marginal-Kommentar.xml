@@ -33769,6 +33769,10 @@ Brief Nr. 280
 <bzg>D. Bohlius</bzg> <link ref="bohlius" linktext="true" />
 </marginal>
 
+<marginal letter="280" page="281" line="27">
+<bzg>D. Quandt</bzg> <link ref="quandt" linktext="true" />
+</marginal>
+
 <marginal letter="280" page="281" line="29">
 <bzg>HE Prof Lindners</bzg> <link ref="lindner-jg" linktext="true" />
 </marginal>
@@ -33789,6 +33793,10 @@ Brief Nr. 280
 <bzg>ipse fecit</bzg> dt. „er [...] hat es selbst gesagt“ (<link ref="cicero" subref="cic-nat" linktext="true" />, I,10)
 </marginal>
 
+<marginal letter="280" page="282" line="9">
+<bzg>Vorgänger</bzg> <link ref="bock-jg" linktext="true" />
+</marginal>
+
 <marginal letter="280" page="282" line="20">
 <bzg>Id quod male.</bzg> dt. „Das ist krank.“
 </marginal>
@@ -33805,8 +33813,12 @@ Brief Nr. 280
 <bzg>Opera supererogationis</bzg> Werk über das verlangte Maß hinaus
 </marginal>
 
-<marginal letter="280" page="283" line="19">
-<bzg>Colleg. Fr. mit der Prof.</bzg> Collegium Fridericianum, Gymnasium in Königsberg; Professur
+<marginal letter="280" page="283" line="19" sort="1">
+<bzg>Colleg. Fr.</bzg> Collegium Fridericianum, Gymnasium in Königsberg; Professur
+</marginal>
+
+<marginal letter="280" page="283" line="19" sort="2">
+<bzg>Prof.</bzg> Professur für Dichtkunst an der Universität Königsberg
 </marginal>
 
 <marginal letter="280" page="283" line="30">
@@ -33840,7 +33852,7 @@ Brief Nr. 280
 Brief Nr. 281
 
 <marginal letter="281" page="284" line="14" sort="1">
-<bzg>Correctur</bzg>vgl. <intlink letter="284" page="292" line="35" linktext="true" />
+<bzg>Correctur</bzg> vgl. &lt;intlink letter=&quot;284&quot; page=&quot;292&quot; line=&quot;35&quot; linktext=&quot;true&quot;/&gt;
 </marginal>
 
 <marginal letter="281" page="284" line="14" sort="2">
@@ -33880,7 +33892,7 @@ Brief Nr. 281
 </marginal>
 
 <marginal letter="281" page="285" line="1">
-<bzg>verecunda in pudibunda</bzg> dt. schüchtern, schamhaft
+<bzg>verecunda in pudibunda</bzg> dt. schüchtern zu schamhaft
 </marginal>
 
 <marginal letter="281" page="285" line="2">
@@ -33888,7 +33900,7 @@ Brief Nr. 281
 </marginal>
 
 <marginal letter="281" page="285" line="5">
-<bzg>Gellerts Tode</bzg> <link ref="gellert-cf" linktext="true" />
+<bzg>Gellerts Tode</bzg> <link ref="gellert-cf" linktext="true"/>, vgl. <intlink letter="278" page="277" line="29" linktext="true"/>
 </marginal>
 
 <marginal letter="281" page="285" line="6" sort="1">
@@ -34062,8 +34074,12 @@ Brief Nr. 282
 <bzg>Maßon</bzg> Jean Masson, evangelischer Geistlicher in England und Holland
 </marginal>
 
+<marginal letter="282" page="288" line="37">
+<bzg>Anmerkung …</bzg> <link ref="koler" subref="koler-blainville" linktext="true"/>, Bd.1, S. 14f.
+</marginal>
+
 <marginal letter="282" page="289" line="6">
-<bzg>„eingebildete&#x202F;…</bzg> <link ref="koler" subref="koler-blainville" linktext="true" />, Bd.&#x202F;1, S.&#x202F;130
+<bzg>„eingebildete …</bzg> <link ref="koler" subref="koler-blainville" linktext="true"/>, Bd. 1, S. 130
 </marginal>
 
 <marginal letter="282" page="289" line="11">
