@@ -29479,6 +29479,10 @@ Brief Nr. 249
 <bzg>Schwarzer</bzg> <link ref="schwarzer" subref="schwarzer-arithmetica" linktext="true" />
 </marginal>
 
+<marginal letter="249" page="213" line="10">
+<bzg>Rechnen [‌­…] lustig</bzg> <link ref="schwarzer" subref="schwarzer-arithmetica" linktext="true" /> (Ausg. 1771), S.&#x202F;10: »Rechnen ist es leicht, aber demonstriren ist noch angenehmer.« 
+</marginal>
+
 <marginal letter="249" page="213" line="13">
 <bzg>Aeginus</bzg> <link ref="aepinus" subref="aepinus-briefe" linktext="true" />
 </marginal>
@@ -29692,11 +29696,11 @@ Brief Nr. 249
 </marginal>
 
 <marginal letter="249" page="215" line="15">
-<bzg>Wind und Waßer gebiethen</bzg> <link ref="nt-mt" subref="nt-mt8" linktext="false" >Mt 8,27</link>, <link ref="nt-mk" subref="nt-mk4" linktext="false" >Mk 4,41</link> u. <link ref="nt-lk" subref="nt-lk8" linktext="false" >Lk 8,25</link>
+<bzg>Wind und Waßer gebiethen</bzg> <link ref="nt-mt" subref="nt-mt8" linktext="false">Mt 8,27</link>, <link ref="nt-mk" subref="nt-mk4" linktext="false">Mk 4,41</link> u. <link ref="nt-lk" subref="nt-lk8" linktext="false">Lk 8,25</link>
 </marginal>
 
 <marginal letter="249" page="215" line="18">
-<bzg>verjüngte Abälard</bzg> Unter diesem Pseudonym erschien <link ref="hamann" subref="hamann-einfalle" linktext="true" />
+<bzg>verjüngte Abälard</bzg> Mit Rekurs auf das Autoren-Pseudonym von <link ref="hamann" subref="hamann-einfalle" linktext="true"/>, »Abaelardi Virbii«: der nach seiner Kastration wieder bemannte, ›Zweimal-Mann Abaelard‹.
 </marginal>
 
 <marginal letter="249" page="215" line="25" sort="1">
@@ -31704,8 +31708,12 @@ Brief Nr. 259
 <bzg>Thornsche Briefwechsel</bzg> <link ref="lindner-jg" subref="lindner-briefwechsel" linktext="true" />
 </marginal>
 
-<marginal letter="259" page="243" line="6">
-<bzg>Hirtenbriefe</bzg> <link ref="hamann" subref="hamann-hirten" linktext="true" />
+<marginal letter="259" page="243" line="6" sort="1">
+<bzg>Hirtenbriefe</bzg> <link ref="hamann" subref="hamann-hirten" linktext="true"/>
+</marginal>
+
+<marginal letter="259" page="243" line="6" sort="2">
+<bzg>Schulhandlungen</bzg> <link ref="lindner-jg" subref="lindner-beytrag" linktext="true"/>
 </marginal>
 
 <marginal letter="259" page="243" line="7">
@@ -32630,7 +32638,7 @@ Brief Nr. 269
 </marginal>
 
 <marginal letter="269" page="260" line="14">
-<bzg>Behn</bzg> Friedrich Daniel Behn (1734–1804), Konrektor in Lübeck. Hamann sah im Lübecker Buchladen vmtl. Friedrich Daniel Behns <titel>Gedanken von der Gewißheit der menschlichen Erkenntniß von geometrischen und metaphysischen Wahrheiten</titel> (Lübeck: Jonas Schmidt und Donatius 1764), die auf S. 20 auch von einer Preisfrage der Berliner Akademie handelt (Digitalisat: <wwwlink address=" https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10042719-3">BSB München: Ph.sp. 67</wwwlink> ).
+<bzg>Behn</bzg> Friedrich Daniel Behn (1734–1804), Konrektor in Lübeck. Hamann sah im Lübecker Buchladen vmtl. Friedrich Daniel Behns &lt;titel&gt;Gedanken von der Gewißheit der menschlichen Erkenntniß von geometrischen und metaphysischen Wahrheiten&lt;/titel&gt; (Lübeck: Jonas Schmidt und Donatius 1764; Digitalisat: &lt;wwwlink address=&quot; https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10042719-3&quot;&gt;BSB München: Ph.sp. 67&lt;/wwwlink&gt;). Das Buch greift in Titel und Thematik die Preisfrage der Berliner Akademie für 1763 auf: „Sind die metaphysischen Wissenschaften derselben Evidenz fähig wie die mathematischen?“ 
 </marginal>
 
 <marginal letter="269" page="260" line="16">
@@ -32642,7 +32650,7 @@ Brief Nr. 269
 </marginal>
 
 <marginal letter="269" page="260" line="19">
-<bzg>Litteraturbriefe</bzg> <link ref="briefe-literatur" linktext="true" />
+<bzg>Litteraturbriefe</bzg> 18. Tl. der <link ref="briefe-literatur" linktext="true"/>
 </marginal>
 
 <marginal letter="269" page="260" line="23">
