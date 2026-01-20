@@ -16636,7 +16636,7 @@ Hamann erwähnt im Studienheft (1.8.1780, N&#x202F;V,352f.) die Übersetzung „
 
 <kommentar id="laroche-gmf" type="neuzeit">
 <lemma>Georg Michael Frank von La Roche</lemma>
-<eintrag>1720–1788. Kurtrierischer Geheimer Rat, 1775 Staatsrat, 1778 Kanzler, 1780 gestürzt (als Kritiker des Mönchswesens); siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116737883.html#adbcontent">Irmer: La Roche, Georg Michael Frank von La, in: <titel>ADB</titel>&#x202F;17 (1889), S.&#x202F;716f</wwwlink>.</eintrag>
+<eintrag>1720–1788. Kurtrierischer Geheimer Rat, 1775 Staatsrat, 1778 Kanzler, 1780 gestürzt (als Kritiker des Mönchswesens); Ehemann von <link ref="laroche-s" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116737883.html#adbcontent">Irmer: La Roche, Georg Michael Frank von La, in: <titel>ADB</titel>&#x202F;17 (1889), S.&#x202F;716f</wwwlink>.</eintrag>
 <subsection id="laroche-monchswesen" type="neuzeit" sort="10">
 <lemma>La Roche, <titel>Briefe über das Mönchswesen</titel></lemma>
 <eintrag>
@@ -16647,7 +16647,7 @@ Hamann erwähnt im Studienheft (1.8.1780, N&#x202F;V,352f.) die Übersetzung „
 
 <kommentar id="laroche-s" type="neuzeit">
 <lemma>Sophie von La Roche</lemma>
-<eintrag>1730–1807. Geb. von Gutermann zu Gutershofen, Schriftstellerin, Ehefrau von <link ref="laroche-" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118569767.html#ndbcontent">Häntzschel, Günter: La Roche, Sophie von, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;640f.</wwwlink>.</eintrag>
+<eintrag>1730–1807. Geb. von Gutermann zu Gutershofen, Schriftstellerin, Ehefrau von <link ref="laroche-gmf" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118569767.html#ndbcontent">Häntzschel, Günter: La Roche, Sophie von, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;640f.</wwwlink>.</eintrag>
 <subsection id="laroche-sternheim" type="neuzeit" sort="10">
 <lemma>La Roche, <titel>Geschichte des Fräuleins von Sternheim</titel></lemma>
 <eintrag>
@@ -20797,7 +20797,7 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 
 <kommentar id="weymann-d" type="neuzeit">
 <lemma>Daniel Weymann</lemma>
-<eintrag>1732–1795. Ab 1762 Konrektor an der Löbenichtschen Schule in Königsberg; Kritiker <link ref="kant" linktext="false">Kants</link>.
+<eintrag>1732–1795. Magister 1759, ab 1762 Konrektor an der Löbenichtschen Schule in Königsberg; Kritiker <link ref="kant" linktext="false">Kants</link>; siehe den biographischen Abriss bei <wwwlink address="users.manchester.edu/facstaff/ssnaragon/kant/Bio/BioKonData.html#WeymannD">Kant in the Classroom</wwwlink>.
 </eintrag>
 <subsection id="weymann-diss" type="neuzeit" sort="10">
 <lemma>Weymann, <titel>Dissertatio philosophica de mundo non optimo</titel></lemma>
