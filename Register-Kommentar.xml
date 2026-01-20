@@ -1376,6 +1376,12 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 </subsection>
 </kommentar>
 
+<kommentar id="benner" type="neuzeit">
+<lemma>Johann Hermann Benner. Seit 1735 Professor der Theologie in Gießen, siehe <wwwlink address="http://d-nb.info/gnd/116121254">GND</wwwlink>.</lemma>
+<eintrag>1699–1782
+</eintrag>
+</kommentar>
+
 <kommentar id="benoit" type="neuzeit">
 <lemma>Françoise-Albine Puzin de la Martinière Benoit</lemma>
 <eintrag>1724–1809. Frz. Schriftstellerin. 
@@ -6648,7 +6654,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 
 <kommentar id="goertz" type="neuzeit">
 <lemma>Johann Eustachius Graf von Goertz</lemma>
-<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar; 1778 erfolgreicher Diplomat für Brandenburg-Preußen im Vorfeld des Bayerischen Erbfolgekriegs, daraufhin von <link ref="friedrich-II" linktext="true" /> zum Staatsminister ernannt und 1779–1785 zum preußischen Gesandten in St. Petersburg; Besuchte Hamann 1779 mit den <link ref="keyserling-h" linktext="false">Keyserlings</link> in Königsberg; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink></eintrag>
+<eintrag>1737–1821. Reichsgraf von Schlitz, genannt von Goertz; 1756 sachsen-weimarischer Legationsrat, Prinzenerzieher in Weimar; 1778 erfolgreicher Diplomat für Brandenburg-Preußen im Vorfeld des Bayerischen Erbfolgekriegs, daraufhin von <link ref="friedrich-II" linktext="true" /> zum Staatsminister ernannt und 1779–1785 zum preußischen Gesandten in St. Petersburg; besuchte Hamann 1779 mit den <link ref="keyserling-h" linktext="false">Keyserlings</link> in Königsberg; Bruder von <link ref="goertz-kfa" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118540211.html#ndbcontent">Stribrny, Wolfgang: Görtz, Johann Eustach Graf von, in: <titel>NDB</titel>&#x202F; 6 (1966), S.&#x202F;538f.</wwwlink></eintrag>
 <subsection id="goertz-briefe" type="neuzeit" >
 <lemma>Goertz, <titel>Briefe eines PrintzenHofmeisters</titel></lemma>
 <eintrag>
@@ -6664,7 +6670,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 
 <kommentar id="goertz-kfa" type="neuzeit">
 <lemma>Karl Friedrich Adam von Görtz</lemma>
-<eintrag>1733–1797. Reichsgraf von Schlitz, genannt von Goertz. Offizier, ab 1771 in brandenburg-preußischen Diensten, zuletzt General der Kavallerie; 1780 Begleiter des   <link ref="friedrich-wilhelm-II" linktext="false">Kronprinzen Friedrichrich Wilhelm</link>nach Russland.
+<eintrag>1733–1797. Reichsgraf von Schlitz, genannt von Goertz. Offizier, ab 1771 in brandenburg-preußischen Diensten, zuletzt General der Kavallerie; Bruder von <link ref="goertz" linktext="true" />; 1780 Begleiter des <link ref="friedrich-wilhelm-II" linktext="false">Kronprinzen Friedrichrich Wilhelm</link>nach Russland.
 </eintrag>
 </kommentar>
 
@@ -8729,11 +8735,6 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <eintrag>25.8.1779–8.7.1857. Vierter Sohn von <link ref="herder" linktext="false">Johann Gottfried</link> und <link ref="herder-c" linktext="true" />, siehe <wwwlink address="http://d-nb.info/gnd/115485864">GND</wwwlink>.</eintrag>
 </kommentar>
 
-<kommentar id="herder-g" type="neuzeit">
-<lemma>Wilhelm Christian <titel>Gottfried</titel> Herder</lemma>
-<eintrag>28.8.1774–11.5.1806. Erster Sohn von <link ref="herder" linktext="false">Johann Gottfried</link> und <link ref="herder-c" linktext="true" />, siehe <wwwlink address="https://d-nb.info/gnd/116732385">GND</wwwlink>.</eintrag>
-</kommentar>
-
 <kommentar id="herder-ae" type="neuzeit">
 <lemma>Anna Elisabeth Herder</lemma>
 <eintrag>1717–1772. Geb. Peltz. Mutter von <link ref="herder" linktext="true" /> in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>.</eintrag>
@@ -8742,6 +8743,16 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <kommentar id="herder-c" type="neuzeit">
 <lemma>Caroline Herder</lemma>
 <eintrag>28.1.1750–15.9.1809. Geb. Flachsland, ab 1773 Ehefrau von <link ref="herder" linktext="true" /> und Patenmutter von <link ref="hamann-ms" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz29949.html#ndbcontent">Dobbek, Wilhelm: Herder, Carolina, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;603f.</wwwlink></eintrag>
+</kommentar>
+
+<kommentar id="herder-g" type="neuzeit">
+<lemma>Wilhelm Christian <titel>Gottfried</titel> Herder</lemma>
+<eintrag>28.8.1774–11.5.1806. Erster Sohn von <link ref="herder" linktext="false">Johann Gottfried</link> und <link ref="herder-c" linktext="true" />, siehe <wwwlink address="https://d-nb.info/gnd/116732385">GND</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="herder-l" type="neuzeit">
+<lemma><titel>Luise</titel> Theodora Emilie Herder</lemma>
+<eintrag>23.4.1781–12.3.1860. Einzige Tochter von <link ref="herder" linktext="false">Johann Gottfried</link> und <link ref="herder-c" linktext="true" />, später verh. Stichling; siehe <wwwlink address="https://d-nb.info/gnd/11724791X">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="herder-w" type="neuzeit">
@@ -10039,7 +10050,7 @@ Kritische Griechisch-Lateinische Gesamtausgabe in zwei Bänden, hg. von <wwwlink
  
  <kommentar id="joseph-II" type="neuzeit">
 <lemma>Joseph II.</lemma>
-<eintrag>1741–1790. Von Habsburg-Lothringen, ab 1765 Kaiser des Heiligen Römischen Reiches und Erzherzog von Österreich etc.; bis 1780 Mitregent seiner Mutter Maria Theresia, ab 1780 Alleinherrscher.
+<eintrag>1741–1790. Von Habsburg-Lothringen, ab 1765 Kaiser des Heiligen Römischen Reiches und Erzherzog von Österreich etc.; bis 1780 Mitregent seiner Mutter <link ref="maria-theresia" linktext="true" />, ab 1780 Alleinherrscher.
 </eintrag>
 </kommentar>
  
@@ -12877,7 +12888,12 @@ In der <link ref="hamann" subref="h-dangeuil" linktext="false"><titel>Beylage zu
 <kommentar id="marianus-raynaldis" type="neuzeit">
 <lemma>Marianus de Raynaldis</lemma>
 <eintrag>Mglw. ein Bischof von Nuceria Mitte des 13. Jahrhunderts. Grundlage ist der Eintrag in<link ref="jacobillus" subref="jacobillus-bibliotheca" linktext="true" />, S.&#x202F;196, der Hamann für die <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> interessierte (vgl. <link ref="1962" linktext="false">HHE 5</link>, S.&#x202F;276f.): „Marianus de Raynaldis Meuanas, Episcopus Ciuit. Nuceriae in Neapolitano regno an. 1244. multorum linguarum generum peritus, transtulit è Graeco in latinum Centiloquium Ephestionis Thebani; et reliquit tractatum de Immortalitate Animae; vt refert Henricus Barcellius in Biblot. Mundi.“ Übers.: „Marianus de Raynaldis Meuanas, Bischof der Stadt Nuceria im neapolitanischen Königreich im Jahr 1244, vieler Sprachen und Gattungen kundig, übertrug aus dem Griechischen ins Lateinische das ‚Centiloquium‘ des Ephaestion von Theben und hinterließ einen Traktat über die Unsterblichkeit der Seele, wie Henricus Barcellius in seiner Bibliotheca mundi berichtet.“ – Die „Bibliotheca Mundi“ des Henricus Barcellius ist wohl eine Fälschung von Alfonso Ceccarelli (1532–1583), vgl. <wwwlink address="https://books.google.de/books?id=EqbNAAAAMAAJ">A. Riegl: <titel>Alfonso Ceccarelli und seine Fälschungen von Kaiserurkunden</titel>, in: MIÖG 15 (1894), S.&#x202F;206</wwwlink>.</eintrag>
+</kommentar>
 
+<kommentar id="maria-theresia" type="neuzeit">
+<lemma>Maria Theresia</lemma>
+<eintrag>1717–1780. Erzherzogin von Österreich und Kaiserin des Heiligen Römischen Reiches.
+</eintrag>
 </kommentar>
 
 <kommentar id="marin" type="neuzeit">
@@ -13125,7 +13141,7 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 
 <kommentar id="maximilian-franz" type="neuzeit">
 <lemma>Maximilian Franz von Österreich</lemma>
-<eintrag>1756–1801. Erzherzog von Österreich, jüngster Sohn Maria Theresias, 1780 zum Koadjutor in Köln und Münster gewählt, 1784 Fürstbischof von Münster, Kurfürst und Erzbischof von Köln, Coadjutor; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118579398.html#ndbcontent">Christ, Günter: Maximilian Franz, Erzherzog von Österreich, in: <titel>NDB</titel>&#x202F;16 (1990), S.&#x202F;502–506</wwwlink>.</eintrag>
+<eintrag>1756–1801. Erzherzog von Österreich, jüngster Sohn <link ref="maria-theresia" linktext="false">Maria Theresias</link>, 1780 zum Koadjutor in Köln und Münster gewählt, 1784 Fürstbischof von Münster, Kurfürst und Erzbischof von Köln, Coadjutor; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118579398.html#ndbcontent">Christ, Günter: Maximilian Franz, Erzherzog von Österreich, in: <titel>NDB</titel>&#x202F;16 (1990), S.&#x202F;502–506</wwwlink>.</eintrag>
 </kommentar>
 
 
@@ -14217,10 +14233,15 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Schreiben an den Herrn Vikar in Savoyen abzugeben bey dem Herrn Johann Jacob Rousseau</titel> (Hamburg/Leipzig 1764). Digitalisat der Ausgabe Bremen 1777: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München: L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
 </subsection>
 <subsection id="moserj-schriften" type="neuzeit" sort="50">
-    <lemma>Möser, <titel>Kleine Schriften</titel></lemma>
-    <eintrag>
-    <titel>Kleine Schriften</titel> (Bremen 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München: L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
-    </subsection>
+<lemma>Möser, <titel>Kleine Schriften</titel></lemma>
+<eintrag>
+<titel>Kleine Schriften</titel> (Bremen 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München: L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="moserj-schreiben" type="neuzeit" sort="60">
+<lemma>Möser, <titel>Schreiben an den P. J. K. in W… </titel></lemma>
+<eintrag>
+<titel>Schreiben an den P. J. K. in W… den ersten Schritt zur künftigen Vereinigung der Evangelischen und Catholischen Kirche betreffend, von dem Verfasser der patriotischen Phantasien</titel> (Hamm: Perrenon 1780). Digitalisat: <wwwlink address="https://data.onb.ac.at/rec/AC10131230">ÖNB Wien: 300664-B.Adl.6 ALT MAG</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="mosheim" type="neuzeit">
@@ -16944,6 +16965,18 @@ S
 </subsection>
 </kommentar>
 
+<kommentar id="saint-martin" type="neuzeit">
+<lemma>Louis Claude de Saint-Martin</lemma>
+<eintrag>1743–1803. Französischer Freimauer und Mystiker, siehe <wwwlink address="https://d-nb.info/gnd/118604929">GND</wwwlink>.</eintrag>
+<subsection id="saint-martin-verite" type="neuzeit">
+<lemma>Saint-Martin, <titel>Des Erreurs et de la Vérité</titel></lemma>
+<eintrag>
+<titel>Des Erreurs et de la Vérité, ou les hommes rappellés au principe universel de la science</titel> (Edimbourg 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273708-1">Stabi Augsburg: Phil 3213</wwwlink>.<line type="break" />
+Übers. (von <link ref="claudius" linktext="true" />): <titel>Irrthümer und Wahrheit, oder Rückweiß für die Menschen auf das allgemeine Principium aller Erkenntniß […] von einem unbek. Ph. Aus dem Französischen Übersetzt von Matthias Claudius (Breslau: Löwe 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046837-3">BSB München: Ph.u. 429 sh</wwwlink>.</titel>
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="saint-pierre" type="neuzeit">
 <lemma>Charles Irenée Castel de Saint-Pierre</lemma>
 <eintrag>1658–1743. Sozialphilosoph und Publizist. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;40, 1825), S.&#x202F;44–51.</eintrag>
@@ -18534,7 +18567,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="starck" type="neuzeit">
 <lemma>Johann August Starck</lemma>
-<eintrag>1741–1816. Evang. Theologe, 1763 Lehrer in St. Petersburg, 1769 außerordentlicher Professor der morgenländischen Sprachen in Königsberg (protegiert von <link ref="busching" linktext="true" />, wohnhaft zunächst bei <link ref="kanter" linktext="true" />), 1770 Zweiter Hofprediger, 1776 Oberhofprediger, Generalsuperintendent, verläßt 1777 Königsberg nach Streitigkeiten in der Fakultät, darauf Gymnasialprofessor in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> und 1781 Oberhofprediger und Konsistorialrat in Darmstadt; Mitte der 1780er Jahre in den Kryptokatholizismusstreit mit <link ref="nicolai" linktext="true" /> verwickelt, an dem Hamann indirekt über <link ref="jacobi" linktext="true" /> Anteil nahm (posthum stellte sich heraus, dass er 1766 heimlich in Paris zum Katholizismus konvertiert war); gründete als Freimaurer das ‚Klerikat der Templer‘ und war auch sonst sehr aktiv in der Freimaurerszene, 1770–1777 Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>; Hamanns Beichtvater 1775–1776; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink> und <link ref="ves-m-2012" linktext="false">Vesper: <titel>Aufklärung – Esoterik – Reaktion. Johann August Starck (1741–1816)</titel></link>.</eintrag>
+<eintrag>1741–1816. Evangelischer Theologe, 1763 Lehrer in St. Petersburg, 1769 außerordentlicher Professor der morgenländischen Sprachen in Königsberg (protegiert von <link ref="busching" linktext="true" />, wohnhaft zunächst bei <link ref="kanter" linktext="true" />), 1770 Zweiter Hofprediger, 1776 Oberhofprediger, Generalsuperintendent, verläßt 1777 Königsberg nach Streitigkeiten in der Fakultät, darauf Gymnasialprofessor in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> und 1781 Oberhofprediger und Konsistorialrat in Darmstadt; Mitte der 1780er Jahre in den Kryptokatholizismusstreit mit <link ref="nicolai" linktext="true" /> verwickelt, an dem Hamann indirekt über <link ref="jacobi" linktext="true" /> Anteil nahm (posthum stellte sich heraus, dass er 1766 heimlich in Paris zum Katholizismus konvertiert war); gründete als Freimaurer das ‚Klerikat der Templer‘ und war auch sonst sehr aktiv in der Freimaurerszene, 1770–1777 Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>; Hamanns Beichtvater 1775–1776; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz81000.html#ndbcontent">Fleischer, Dirk: Starck, Johann August Freiherr von, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;64f.</wwwlink> und <link ref="ves-m-2012" linktext="false">Vesper: <titel>Aufklärung – Esoterik – Reaktion. Johann August Starck (1741–1816)</titel></link>.</eintrag>
 <subsection id="starck-aeschylo" type="neuzeit" sort="10">
 <lemma>Starck, <titel>De Aeschylo</titel></lemma>
 <eintrag>
@@ -19165,6 +19198,15 @@ Torquato Tasso: <titel>Aminta.</titel> Uraufführung 1573, Druck 1580.<line type
 <kommentar id="tellier" type="neuzeit">
 <lemma>Charles Maurice Le Tellier</lemma>
 <eintrag>1642–1710. Erzbischof von Reims.</eintrag>
+</kommentar>
+
+<kommentar id="temple" type="neuzeit">
+<lemma>William Temple</lemma>
+<eintrag>1628–1699. Englischer Diplomat und Schriftsteller, Dienstherr von Jonathan Swift, siehe <wwwlink address="https://d-nb.info/gnd/118801619">GND</wwwlink>.</eintrag>
+<subsection id="temple-denkwurdigkeiten" type="neuzeit" sort="10">
+<lemma>Temple, <titel>Moralische und Historische Denkwürdigkeiten</titel></lemma>
+<eintrag><titel>Moralische und Historische Denkwürdigkeiten, vom Herrn Temple. Aus dem Englischen übersetzt</titel> (Halle: Gebauer 1780). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/57766">ULB Halle: Fc 1345</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="terenz" type="neuzeit">
