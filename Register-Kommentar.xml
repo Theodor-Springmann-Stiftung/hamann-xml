@@ -183,12 +183,12 @@ Hamann versuchte 1771/1772 über <link ref="eberhard-ja" linktext="true" /> in B
 <subsection id="aguesseau-oeuvres" type="neuzeit" sort="10">
 <lemma>d’Aguesseau, <titel>Oeuvres</titel></lemma>
 <eintrag>
-<titel>Oeuvres de M. le Chancelier d’Aguesseau</titel> (13 Bde., Paris 1759–1789). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10528861-1">BSB München: 4 Opp. 198</wwwlink>.</eintrag>
+<titel>Oeuvres de M. le Chancelier d’Aguesseau</titel> (13 Bde., Paris 1759–1789) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;127/414: „d’Aguesseau, Tom. I–IV. Yverd. 773“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10528861-1">BSB München: 4 Opp. 198</wwwlink>.</eintrag>
 </subsection>
 <subsection id="aguesseau-meditations" type="neuzeit" sort="20">
-<lemma>d’Aguesseau, <titel>Méditations</titel></lemma>
+<lemma>d’Aguesseau, <titel>Méditations philosophiques</titel></lemma>
 <eintrag>
-<titel>Méditations philosophiques sur l'origine de la justice</titel> (4 Bde., Yverdon 1780) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;127/414: „d’Aguesseau, Tom. I–IV. Yverd. 773“].</eintrag>
+<titel>Méditations philosophiques sur l'origine de la justice</titel> (4 Bde., Yverdon 1780). Digitalisat Bd.&#x202F;1: <wwwlink address="https://books.google.ch/books?id=cawPAAAAQAAJ">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -2337,7 +2337,13 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="breitinger" type="neuzeit">
 <lemma>Johann Jakob Breitinger</lemma>
-<eintrag>1701–1776. Philologe und Ästhetiker. Mit einer Vorrede Bodmers versehen erschien 1740 B.s „Critische Dichtkunst“, worin das alte Prinzip der Nachahmung der Natur hin zur freien Schöpferkraft der Phantasie überschritten wird. <wwwlink address="https://www.deutsche-biographie.de/pnd118514881.html#ndbcontent"> Ernst, Fritz: Breitinger, Johann Jakob, in: <titel>NDB</titel>&#x202F; 2 (1955), S.&#x202F;578.</wwwlink>.
+<eintrag>1701–1776. Philologe und Ästhetiker. 1740 erschien, versehen mit einer Vorrede Bodmers, 1740 Breitingers <titel>Critische Dichtkunst,</titel> worin das alte Prinzip der Nachahmung der Natur hin zur freien Schöpferkraft der Phantasie überschritten wird. <wwwlink address="https://www.deutsche-biographie.de/pnd118514881.html#ndbcontent"> Ernst, Fritz: Breitinger, Johann Jakob, in: <titel>NDB</titel>&#x202F; 2 (1955), S.&#x202F;578.</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="breitinger-d" type="neuzeit">
+<lemma>David Breitinger</lemma>
+<eintrag>1737–1817. Lehrer an der Kunstschule in Zürich, vgl. <wwwlink address="https://hls-dhs-dss.ch/de/articles/025861/2002-12-18/">Historisches Lexikon der Schweiz</wwwlink> und <wwwlink address="https://digital.ulb.hhu.de/download/pdf/7573382.pdf">Ulrich Ernst: <titel>Die Kunstschule in Zürich, die erste zürcherische Industrieschule 1773–1833</titel> (Zürich 1900), S.&#x202F;13f. und 29f.</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -2675,6 +2681,12 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 <lemma>Buffon, <titel>Naturgeschichte der vierfüßigen Thiere</titel></lemma>
 <eintrag>
 <titel>Herrn von Büffons Naturgeschichte der vierfüßigen Thiere</titel> (23 Bde., Berlin 1772–1802). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10928761-5">BSB München: Res/Zool. 634 z</wwwlink>.
+</eintrag>
+</subsection>
+ <subsection id="buffon-epoques" type="neuzeit"  sort="40">
+<lemma>Buffon, <titel>Les Époques de la Nature</titel></lemma>
+<eintrag>
+<titel>Les Époques de la Nature, par Monsieur le Comte de Buffon</titel> (2 Bde.,, Paris 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919727-5">BSB München: Res/H.nat. 83-1/2</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -8273,6 +8285,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <titel>Beobachtungen über Stumme, und über die menschliche Sprache, in Briefen von Samuel Heinicke. Erster Theil</titel> (Hamburg: Herold 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10763036-5">BSB München: Paed.th. 1916-1</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="heinicke-abc" type="neuzeit">
+<lemma>Heinicke, <titel>Neues A, B, C, Sylben- und Lesebuch</titel></lemma>
+<eintrag>
+<titel>Neues A, B, C, Sylben- und Lesebuch, nebst einer Anweisung, das Lesen in kurzer Zeit, auf die leichteste Art und ohne Buchstabiren zu lernen</titel> (Leipzig: Churfürstliches Institut für Stumme 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:0111-bbf-spo-19118849">Bibliothek für Bildungsgeschichtliche Forschung</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="heinrich-reuss" type="neuzeit">
@@ -8709,6 +8727,12 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <lemma>Herder, <titel>Briefe, das Studium der Theologie betreffend</titel></lemma>
 <eintrag>
 <titel>Briefe, das Studium der Theologie betreffend</titel> (4 Tle., Weimar: Hoffmann 1780–1781). Digitalisat Tl.&#x202F;1 und 2 (1780): <wwwlink address="https://data.onb.ac.at/rep/1063BB3B">ÖNB Wien: *31.F.26.(Vol.1.2) ALT PRUNK</wwwlink>. Tl.&#x202F;3 und 4 (1781): <wwwlink address="https://books.google.ch/books?id=l447AAAAcAAJ">Google Books</wwwlink>. – SWS X und XI. 
+</eintrag>
+</subsection>
+<subsection id="herder-kasualpredigten1780" type="neuzeit" sort="605">
+<lemma>Herder, <titel>Zwo heilige Reden bey einer besondern wichtigen Veranlassung</titel></lemma>
+<eintrag>
+<titel>Zwo heilige Reden bey einer besondern wichtigen Veranlassung gehalten von H.</titel> ([Stendal] 1780): Vgl. <wwwlink address="https://opac.tib.eu/DB=10/XMLPRS=N/PPN?PPN=225218801">Opac der Bibliothek IM Landeskirchamt Hannover</wwwlink>. – <titel>Predigt am Dankfest wegen der glücklichen Entbindung der regierenden Herzogin zu S.W. mit einer Prinzessin</titel>, in: SWS, Bd.&#x202F;31, S.&#x202F;478–491 und <titel>Rede bey der Taufe der Prinzessin Louise Auguste Amalie von Sachsen Weimar</titel>, in: SWS, Bd.&#x202F;31, S.&#x202F;491–496.
 </eintrag>
 </subsection>
 <subsection id="herder-einfluss-hohe-wissenschaften" type="neuzeit" sort="610">
@@ -9573,7 +9597,7 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 <lemma>Hume, <titel>Dialogues concerning natural Religion</titel></lemma>
 <eintrag>
 <titel>Dialogues concerning natural Religion.</titel> By David Hume, Esq. The second edition (London 1779). – Postume Ausgabe, hrsg. von David Humes Neffen; eine first edition erschien in geringer Auflage und kleiner Type ebenfalls London 1779, vgl. <wwwlink address="https://archive.org/details/in.ernet.dli.2015.507028/page/n11">Kemp: Humes Dialogues Concerning Natural Religion (London 1947)</wwwlink>; Hume schrieb die <titel>Dialogues</titel> 1751–1755, revidierte die Schrift aber noch im Todesjahr 1776; wegen des heiklen Themas beschloss er, sie erst postum zu veröffentlichen. – Digitalisat der 2nd edition: <wwwlink address="https://books.google.de/books?id=E7dbAAAAQAAJ">Google Books</wwwlink>.<line type="break" />
-Übers.: <titel>Gespräche über natürliche Religion von David Hume.</titel> Nach der zwoten Englischen Ausgabe [übersetzt von <wwwlink address="https://eip.hueb-staging.iued.uni-heidelberg.de/en/person/275/">Carl Gottfried Schreiter</wwwlink>]. Nebst einem Gespräch über den Atheismus von Ernst Platner (Leipzig: Weygand 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">SSB Augsburg: Phil 1716</wwwlink>.
+Übers.: <titel>Gespräche über natürliche Religion von David Hume.</titel> Nach der zwoten Englischen Ausgabe [übersetzt von <link ref="schreiter-cg" linktext="true" />]. Nebst einem Gespräch über den Atheismus von Ernst Platner (Leipzig: Weygand 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">SSB Augsburg: Phil 1716</wwwlink>.
 <line type="break" />Hamann setzte ebenfalls zu einer Übersetzung an, vgl. <link ref="hamann" subref="hamann-dialogues" linktext="true" />
 </eintrag>
 </subsection>
@@ -17552,6 +17576,12 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 </subsection>
 </kommentar>
 
+<kommentar id="schreiter-cg" type="neuzeit">
+<lemma>Carl Gottfried Schreiter</lemma>
+<eintrag>1756-1809. Übersetzer von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> (vgl. <wwwlink address="https://eip.hueb-staging.iued.uni-heidelberg.de/en/person/275/"></wwwlink>); siehe <wwwlink address="http://d-nb.info/gnd/120039249">GND</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="schrevel" type="neuzeit">
 <lemma>Cornelius Schrevel</lemma>
 <eintrag>1608–1664. Philologe, Herausgeber u.a. von <link ref="juvenal" linktext="false">Juvenal</link> und <link ref="persius" linktext="false">Persius</link>, <link ref="hesiod" linktext="false">Hesiod</link> und <link ref="erasmus" linktext="false">Erasmus</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd122243552.html#adbcontent">Hoche, Richard: Schrevel, Cornelius, in: <titel>ADB</titel>&#x202F;32 (1891), S.&#x202F;491f</wwwlink>.
@@ -18464,6 +18494,12 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 </subsection>
 </kommentar>
 
+<kommentar id="spener-jkp" type="neuzeit">
+<lemma>Johann Karl Philipp Spener</lemma>
+<eintrag>1749–1827. Berliner Verleger und Drucker, Inhaber der Haude und Spenerschen Buchhandlung; druckte und redigierte <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link>; Verleger der Berlinischen Monatsschrift; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11875212X.html#ndbcontent">Haug, Christine: Spener, Johann Carl (Karl) Philipp, in: <titel>NDB</titel>&#x202F;24 (2010), S.&#x202F;661f.</wwwlink>
+</eintrag>
+</kommentar>
+
 <kommentar id="spenser" type="neuzeit">
     <lemma>Edmund Spenser</lemma>
     <eintrag>Um 1552 bis 1599. Engl. Dichter, <wwwlink address="https://www.oxforddnb.com/display/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-26145">Andrew Hadfield: Spenser, Edmund, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -18485,7 +18521,7 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 
 <kommentar id="spittler" type="neuzeit">
 <lemma>Ludwig Timotheus Spittler</lemma>
-<eintrag>1752–1810. Schriftsteller und Historiker, 1779 Profesor der Philosophie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11875212X.html#ndbcontent">Fleischer, Dirk: Spittler, Ludwig Timotheus, in: <titel>NDB</titel>&#x202F;24 (2010), S.&#x202F;715f.</wwwlink>.
+<eintrag>1752–1810. Schriftsteller und Historiker, 1779 Profesor der Philosophie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11875212X.html#ndbcontent">Fleischer, Dirk: Spittler, Ludwig Timotheus, in: <titel>NDB</titel>&#x202F;24 (2010), S.&#x202F;715f.</wwwlink>
 </eintrag>
 <subsection id="spittler-geschichte" type="neuzeit" sort="10">
 <lemma>Spittler, <titel>Geschichte des kanonischen Rechts</titel></lemma>
@@ -19633,6 +19669,20 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <kommentar id="toussaint-r" type="neuzeit">
 <lemma>Regine Toussaint</lemma>
 <eintrag>1726–1787. Geb. Götz, seit 1745 zweite Ehefrau von <link ref="toussaint-jc" linktext="true" />, Mutter von <link ref="rappolt-eh" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="trapp" type="neuzeit">
+<lemma>Ernst Christian Trapp</lemma>
+<eintrag>1745–1818. Professor der Pädagogik in Halle, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz239.html#ndbcontent">Schmitt, Hanno: Trapp, Ernst Christian, in: <titel>NDB</titel>&#x202F;26 (2016), S.&#x202F;357f.</wwwlink>
+<subsection id="trapp-sendschreiben" type="neuzeit" sort="10">
+<lemma>Trapp, <titel>Sendschreiben an den Herrn Doktor Semler</titel></lemma>
+<eintrag>
+<titel>Sendschreiben an den Herrn Doktor Semler. Angefangen im Oktober 1779; geendiget dem 20sten Januar 1780</titel> (s.l. 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10735375-1">BSB München: H.lit.p. 387 h</wwwlink>.
+</eintrag>
+</subsection>
+
+
 </eintrag>
 </kommentar>
 
