@@ -84306,7 +84306,7 @@ Brief Nr. 609
 </marginal>
 
 <marginal letter="609" page="250" line="3" sort="2">
-<bzg>2 Casualpredigten</bzg> wohl <link ref="herder" subref="herder-kasualpredigten1780" linktext="true" />
+<bzg>2 Casualpredigten</bzg> <link ref="herder" subref="herder-kasualpredigten1780" linktext="true" />
 </marginal>
 
 <marginal letter="609" page="250" line="5">
@@ -84528,15 +84528,39 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 <marginal letter="611" page="253" line="8">
-<bzg>Casualpredigten</bzg> 
+<bzg>Casualpredigten</bzg> <link ref="herder" subref="herder-kasualpredigten1780" linktext="true" />, vgl. <intlink letter="609" page="250" line="3" linktext="true" />
 </marginal>
 
 <marginal letter="611" page="253" line="10">
-<bzg>Novbr des Museums</bzg> 
+<bzg>Novbr des Museums</bzg> <link ref="boie" subref="boie-museum" linktext="true" />; im <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614679?page=429">November-Heft</wwwlink> werden <link ref="herder" subref="herder-andenken-dichter" linktext="false">Herders <titel>Andenken an einige ältere deutsche Dichter</titel></link> weitergeführt, über <link ref="andreae-jv" linktext="true" />.
 </marginal>
 
-<marginal letter="611" page="253" line="11">
-<bzg>Briefe über Andreä</bzg> 
+<marginal letter="611" page="253" line="12" sort="1">
+<bzg>seel. K</bzg> Zusammenhang nicht ermittelt
+</marginal>
+
+<marginal letter="611" page="253" line="12" sort="2">
+<bzg>Uebersetzer u Sammler</bzg> vgl. <link ref="herder" subref="herder-andenken-dichter" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10614679?page=429">S.&#x202F;417</wwwlink>: „Ich kenne einen Freund, der seine [Andreäs] Schriften so klein zerstreuet und selten sie zum Theil sind, mit grosser Liebhaberei gesamlet, gelesen, zum Theil übersezt hat und diesem guten Andreä ein kleines Denkmal zu stiften Willens ist, wie es unsere Zeit fodert und gewiß mit Liebe, wenigstens nicht ohne Nuzen wird aufnehmen können.“ Herder meint in der Tat sich selbst.
+</marginal>
+
+<marginal letter="611" page="253" line="14" sort="1">
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>kreutzfeld-geschlechter
+
+<marginal letter="611" page="253" line="14" sort="2">
+<bzg>Dialog über den Rang der Geschlechter</bzg> <link ref="kreutzfeld" subref="kreutzfeld-geschlechter" linktext="true" /> bzw. ein Manuskript davon
+</marginal>
+
+<marginal letter="611" page="253" line="16">
+<bzg>W. ihn werthhielte für seinen Mercur</bzg> <link ref="wieland" linktext="true" /> ihn für den <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> annehmne; Kreutzfelds Dialog erschien tatsächlich im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617979?page=112%2C113">1.&#x202F;Vj. 1781 (Februar), S.&#x202F;106–135.</wwwlink>
+</marginal>
+
+<marginal letter="611" page="253" line="">
+<bzg>eingerückt</bzg> die Publikation ist tatsächlich mit „K***“ (Königsberg) K*f*d. (Kreutzfeld) unterzeichnet, vgl. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617979?page=140%2C141">ebd., S.&#x202F;135</wwwlink>
+</marginal>
+
+<marginal letter="611" page="253" line="">
+<bzg></bzg> 
 </marginal>
 
 
