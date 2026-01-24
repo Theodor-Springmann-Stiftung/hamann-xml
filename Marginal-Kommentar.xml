@@ -84313,11 +84313,11 @@ Brief Nr. 609
 <bzg>Postille</bzg> Predigtbuch (<wwwlink address="www.woerterbuchnetz.de/Adelung/Postílle">Adelung, Bd.&#x202F;3, Sp.&#x202F;816, s.v. Postille</wwwlink>); vgl. <intlink letter="611" page="253" line="9" linktext="true" />
 </marginal>
 
-<marginal letter="609" page="250" line="6">
-<bzg>Trappens Hirtenbrief</bzg> wohl <link ref="trapp" subref="trapp-sendschreiben" linktext="true" />
+<marginal letter="609" page="250" line="6" sort="1">
+<bzg>Trappens Hirtenbrief</bzg> das Manuskript für <link ref="trapp" subref="trapp-sendschreiben" linktext="true" />, vgl. <intlink letter="611" page="254" line="21" linktext="true" />
 </marginal>
 
-<marginal letter="609" page="250" line="6">
+<marginal letter="609" page="250" line="6" sort="2">
 <bzg>Hartungschen Buchhandl.</bzg> <link ref="hartung-gl" linktext="true" />
 </marginal>
 
@@ -84341,7 +84341,7 @@ Brief Nr. 609
 <bzg>Matthäi am letzten</bzg> redensartlich: wirtschaftlich oder anderweitig vor dem Ende
 </marginal>
 
-<marginal letter="609" page="250" line="10">
+<marginal letter="609" page="250" line="11">
 <bzg>Scherflein</bzg> für die Zusendung der Exemplare der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>, vgl. <intlink letter="605" page="234" line="20" linktext="true" />
 </marginal>
 
@@ -84620,11 +84620,75 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 <marginal letter="611" page="254" line="9">
-<bzg>Gesangbuch</bzg> hg. von J. Ch. Diterich, J. J. Spalding und W. A. Teller (heil. Dreyeinigkeit), die alle Infinitive zu Endungen (desinentia) auf - a machen wird (gemeint ist wohl: zur Banalität verflachen).
+<bzg>Gesangbuch&#x202F;…&#x202F;82 eingeführt werden solle</bzg> Im Herbst 1780 wurde das <link ref="gesangbuch-preussisch" linktext="false">Neue Preußische Gesangbuch</link> angekündigt und erschien 1780/81 bei Mylius in Berlin. Hamann bezieht sich vmtl. auf einen <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0002C42C00000000">gedruckten Erlass Friedrichs II. vom 9. November 1780</wwwlink>, der das Gesangbuch für 1782 verpflichtend öffentlich einführt. <link ref="friedrich-II" linktext="false">Friedrichs II.</link> Versuch, den Kirchengesang in rationalistisch-aufklärerischer Richtung von oben zu reformieren, verursachte 1781 den Widerstand vieler brandenburg-preußischer Gemeinden und wurde bald aufgehoben.
+</marginal>
+
+<marginal letter="611" page="254" line="11">
+<bzg>Ministerium zu Berlin&#x202F;…&#x202F;machen</bzg> alle Infinitive auf -a enden zu lassen befehlen; Karikatur einer gleichmacherischen Sprachreform
+</marginal>
+
+<marginal letter="611" page="254" line="12" sort="1">
+<bzg>wäßrichen Liturgie</bzg> die moralisch-rationalistische Ausrichtung des <link ref="gesangbuch-preussisch" linktext="false">Neuen Preußische Gesangbuchs</link>, wo es u.a. eine Rubrik von Liedern zum „Allgemeinen Landeswohlstand“ gibt (vgl. das <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10590324?page=8,9">Inhaltsverzeichnis</wwwlink>)
+</marginal>
+
+<marginal letter="611" page="254" line="12" sort="2">
+<bzg>Principium der 3 Einheiten</bzg> vgl. Friedrichs II. äußerst negative Charakterisierung <link ref="shakespeare" linktext="false">Shakespeares</link> und des <link ref="goethe" subref="goethe-goetz" linktext="false"><titel>Götz von Berlichingen</titel></link> mit dem Argument, sie würden gegen die drei Einheiten verstoßen, in <link ref="friedrich-II" subref="friedrich-litterature-allemande" linktext="false"><titel>De la littérature allemande</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00074454?page=50%2C51">S.&#x202F;46f.</wwwlink>
+</marginal>
+
+<marginal letter="611" page="254" line="14">
+<bzg>Bahrdt</bzg> <link ref="bahrdt" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="254" line="15">
+<bzg>Bibel im Kleinen</bzg> <link ref="bahrdt" subref="bahrdt-kleine-bibel" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="254" line="16" sort="1">
+<bzg>Kr. Scheffner</bzg> <link ref="scheffner" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="254" line="16" sort="2">
+<bzg>Versuch vom Tacitus</bzg> <link ref="bahrdt" subref="bahrdt-tacitus" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="254" line="17">
+<bzg>Verhältnis meines Hungers</bzg> Hamanns Bücherhunger und die Schwierigkeiten, ihn im <link ref="hartung-gl" linktext="false">Hartungschen Buchladen</link> zu befriedigen, vgl. <intlink letter="609" page="250" line="8" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="254" line="19" sort="1">
+<bzg>Heinikens Abcbuch</bzg> <link ref="heinicke" subref="heinicke-abc" linktext="true" /> 
+</marginal>
+
+<marginal letter="611" page="254" line="19" sort="2">
+<bzg>Käthe</bzg> <link ref="hamann" subref="hamann-mc" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="254" line="21">
+<bzg>Trappens Sendschreiben</bzg> das Manuskript für <link ref="trapp" subref="trapp-sendschreiben" linktext="true" />, vgl. <intlink letter="609" page="250" line="6" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="254" line="22">
+<bzg>Beantwortung unter dem Namen Semler</bzg> die Gegen-Polemik von <link ref="schwager" subref="schwager-briefe" linktext="false">Johann Moritz Schwager, <titel>Semler. Ein Sendschreiben an den Herrn Prof. Ernst Christian Trapp in Halle</titel></link>
+</marginal>
+
+<marginal letter="611" page="254" line="24">
+<bzg>Verlegers</bzg> <link ref="hartung-gl" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="254" line="25">
+<bzg>Döderleins Antifragmente</bzg> <link ref="doderlein" subref="doderlein-antifragmente" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="254" line="26">
+<bzg>Meine Gedanken über die natürl. Religion</bzg> im Zusammenhang von Hamanns angedachtem Text über <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link>, der aus dem Plan für die mittlerweile aufgegebene <link ref="hamann" subref="hamann-dialogues" linktext="false">Übersetzung</link> hervorging (vgl. <intlink letter="604" page="229" line="19" linktext="true" />)
+</marginal>
+
+<marginal letter="611" page="254" line="27">
+<bzg></bzg> <link ref="doderlein" subref="doderlein-antifragmente" linktext="true" />, <wwwlink address="https://viewer.onb.ac.at/10862DE2/186,187">Bd.&#x202F;2, S.&#x202F;174f.</wwwlink>
 </marginal>
 
 <marginal letter="611" page="254" line="">
-<bzg>Ministerium zu Berlin&#x202F;…</bzg> 
+<bzg></bzg> 
 </marginal>
 
 <marginal letter="611" page="254" line="">
