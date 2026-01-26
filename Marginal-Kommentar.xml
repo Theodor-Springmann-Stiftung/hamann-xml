@@ -56339,7 +56339,7 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="192" line="13">
-<bzg>Litth. Lieder in der Preuß. Saml.</bzg> In der <link ref="kreutzfeld" subref="kreutzfeld-blumenlese" linktext="false"><titel>Preußischen Blumenlese</titel> (1775)</link>, <wwwlink address="https://polona.pl/item-view/dac1b46a-6b13-4544-8904-245a67265e84?page=154">S.&#x202F;153–159</wwwlink> übersetzte Kreutzfeld vier litauische ‚Dainos‘; in <link ref="herder" subref="herder-volkslieder" linktext="false">Herders <titel>Volksliedern</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10110906?page=34%2C35">Bd.&#x202F;1, S.&#x202F;31–37</wwwlink> nahm er daraus „Die kranke Braut“ und das „Abschiedslied eines Mädchens“ auf; der „Der versunkne Brautring“ ist nicht unter den in der <titel>Preußischen Blumenlese</titel> gedruckten Liedern, mglw. sandte Hamann später, vgl. <intlink letter="455" page="205" line="7" linktext="true" />.
+<bzg>Litth. Lieder in der Preuß. Saml.</bzg> In der <link ref="kreutzfeld" subref="kreutzfeld-blumenlese" linktext="false"><titel>Preußischen Blumenlese</titel> (1775)</link>, <wwwlink address="https://polona.pl/item-view/dac1b46a-6b13-4544-8904-245a67265e84?page=154">S.&#x202F;153–159</wwwlink> übersetzte Kreutzfeld vier litauische ‚Dainos‘; in <link ref="herder" subref="herder-volkslieder" linktext="false">Herders <titel>Volksliedern</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10110906?page=34%2C35">Bd.&#x202F;1, S.&#x202F;31–37</wwwlink> nahm er daraus „Die kranke Braut“ und das „Abschiedslied eines Mädchens“ auf; der „Der versunkne Brautring“ ist nicht unter den in der <titel>Preußischen Blumenlese</titel> gedruckten Liedern, mglw. sandte Hamann es später, vgl. <intlink letter="455" page="205" line="7" linktext="true" />.
 </marginal>
 
 <marginal letter="450" page="192" line="17">
@@ -82023,7 +82023,7 @@ Brief Nr. 598
 </marginal>
 
 <marginal letter="599" page="214" line="14" sort="2">
-<bzg>Väterschule&#x202F;…&#x202F;Jeunesse</bzg> Hamann verwechselt wohl <link ref="restif" subref="restif-ecole" linktext="false">Restifs <titel>Die Väter-Schule</titel></link> – eine Übersetzung von <link ref="restif-ecole" subref="restif-ecole" linktext="false"><titel>l’École des pères</titel></link>, die 1781 erschien – mit <link ref="restif" subref="restif-jeunesse" linktext="true" />.
+<bzg>Väterschule&#x202F;…&#x202F;Jeunesse</bzg> Hamann verwechselt wohl <link ref="restif" subref="restif-ecole" linktext="false">Restifs <titel>Die Väter-Schule</titel></link> – eine Übersetzung von <link ref="restif" subref="restif-ecole" linktext="false"><titel>l’École des pères</titel></link>, die 1781 erschien – mit <link ref="restif" subref="restif-jeunesse" linktext="true" />.
 </marginal>
 
 <marginal letter="599" page="214" line="14" sort="3">
@@ -82934,12 +82934,12 @@ Der Brief wurde erst später abgeschickt, vgl. <intlink letter="604" page="228" 
 <bzg>Einkleidung</bzg> im Sinne von Literarisierung bzw. stilistischer Formung des Themas in einen Hamann-Text
 </marginal>
 
-<marginal letter="603" page="226" line="34">
-<bzg>Anfang u Ende</bzg> von <link ref="hamann" subref="hamann-scherflein" linktext="true" />, vgl. N&#x202F;III,231 und 242
+<marginal letter="603" page="226" line="34" sort="1">
+<bzg>pars minima sui</bzg> dt. der kleinste Teil seiner selbst
 </marginal>
 
-<marginal letter="603" page="226" line="34">
-<bzg>pars minima sui</bzg> dt. der kleinste Teil seiner selbst
+<marginal letter="603" page="226" line="34" sort="2">
+<bzg>Anfang u Ende</bzg> von <link ref="hamann" subref="hamann-scherflein" linktext="true" />, vgl. N&#x202F;III,231 und 242
 </marginal>
 
 <marginal letter="603" page="227" line="2">
@@ -83014,7 +83014,7 @@ Brief Nr. 604
 </marginal>
 
 <marginal letter="604" page="228" line="11">
-<bzg>Meß Catalog</bzg> Die Teile 3 und 4 werden im <link ref="messkatalog-michaelis1780" linktext="true" /> angekündigt, vgl. <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822493845:00000067/full/full/0/default.jpg">S.&#x202F;1021</wwwlink> (im Frühjahrskatalog noch nicht).
+<bzg>Meß Catalog</bzg> Die Teile 3 und 4 werden im <link ref="messkatalog" subref="messkatalog-michaelis1780" linktext="true" /> angekündigt, vgl. <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822493845:00000067/full/full/0/default.jpg">S.&#x202F;1021</wwwlink> (im Frühjahrskatalog noch nicht).
 </marginal>
 
 <marginal letter="604" page="228" line="13">
@@ -83038,7 +83038,7 @@ Brief Nr. 604
 </marginal>
 
 <marginal letter="604" page="228" line="20">
-<bzg>Preisschrift&#x202F;…&#x202F;Meßkatalog</bzg> Keine von Herders aktuellen drei Preisschriften – <link ref="herder" subref="herder-gouvernement" linktext="false"><titel>Dissertation sur l’influence des Sciences sur le Gouvernement et du Gouvernement sur les Sciences</titel></link>, <link ref="herder" subref="herder-einfluss-hohe-wissenschaften" linktext="false"><titel>Über den Einfluß der schönen in die höhern Wissenschaften</titel></link> und <link ref="herder" subref="herder-dichtkunst-wuerkung" linktext="false"><titel>Ueber die Würkung der Dichtkunst auf die Sitten der Völker in alten und neuen Zeiten</titel></link>, vgl. <intlink letter="600" page="217" line="35" linktext="true" /> – ist im aktuellen <link ref="messkatalog-michaelis1780" linktext="true" /> angezeigt; Hamann meint diejenige <titel>Über den Einfluß der schönen in die höhern Wissenschaften</titel>, vgl. <intlink letter="598" page="211" line="7" linktext="true" /> und <intlink letter="607" page="246" line="16" linktext="true" />.
+<bzg>Preisschrift&#x202F;…&#x202F;Meßkatalog</bzg> Keine von Herders aktuellen drei Preisschriften – <link ref="herder" subref="herder-gouvernement" linktext="false"><titel>Dissertation sur l’influence des Sciences sur le Gouvernement et du Gouvernement sur les Sciences</titel></link>, <link ref="herder" subref="herder-einfluss-hohe-wissenschaften" linktext="false"><titel>Über den Einfluß der schönen in die höhern Wissenschaften</titel></link> und <link ref="herder" subref="herder-dichtkunst-wuerkung" linktext="false"><titel>Ueber die Würkung der Dichtkunst auf die Sitten der Völker in alten und neuen Zeiten</titel></link>, vgl. <intlink letter="600" page="217" line="35" linktext="true" /> – ist im aktuellen <link ref="messkatalog" subref="messkatalog-michaelis1780" linktext="true" /> angezeigt; Hamann meint diejenige <titel>Über den Einfluß der schönen in die höhern Wissenschaften</titel>, vgl. <intlink letter="598" page="211" line="7" linktext="true" /> und <intlink letter="607" page="246" line="16" linktext="true" />.
 </marginal>
 
 <marginal letter="604" page="228" line="21">
@@ -83584,7 +83584,7 @@ Brief Nr. 606
 <bzg>Gabe</bzg> <link ref="haefeli" subref="haefeli-predigten" linktext="true" />, vgl. <intlink letter="594" page="200" line="30" linktext="true" />
 </marginal>
 
-<marginal letter="606" page="234" line="26">
+<marginal letter="606" page="234" line="29">
 <bzg>Weib</bzg> <link ref="haefeli-ar" linktext="true" />
 </marginal>
 
@@ -83683,7 +83683,7 @@ Brief Nr. 606
 <bzg>Vaters</bzg> <link ref="waser-h" linktext="true" />
 </marginal>
 
-<marginal letter="606" page="238" line="13">
+<marginal letter="606" page="238" line="14">
 <bzg>Frau</bzg> <link ref="waser-ak" linktext="true" />
 </marginal>
 
@@ -84187,7 +84187,7 @@ Brief Nr. 607
 </marginal>
 
 <marginal letter="607" page="248" line="1">
-<bzg>Lavat. Offenbarung</bzg> <link ref="lavater-offenbarung" linktext="true" />
+<bzg>Lavat. Offenbarung</bzg> <link ref="lavater" subref="lavater-offenbarung" linktext="true" />
 </marginal>
 
 <marginal letter="607" page="248" line="3">
@@ -84574,12 +84574,12 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 <bzg>Ausarbeitung des Criminalrechts</bzg> nicht ermittelt 
 </marginal>
 
-<marginal letter="611" page="253" line="28">
-<bzg>sub vmbra alarum suarum</bzg> unter dem Schutz seiner Flügel, nach <link ref="at-ps" subref="at-ps17" linktext="false">Ps 17,8</link>
+<marginal letter="611" page="253" line="28" sort="1">
+<bzg>Sitz im Rathsstande</bzg> Es ist nicht bekannt, ob Hamann tatsächlich versuchte, ins <link ref="magistrat" linktext="true" /> zu gelangen; mglw. auch hier nicht ernst gemeint.
 </marginal>
 
-<marginal letter="611" page="253" line="28">
-<bzg>Sitz im Rathsstande</bzg> Es ist nicht bekannt, ob Hamann tatsächlich versuchte, ins <link ref="magistrat" linktext="true" /> zu gelangen; mglw. auch hier nicht ernst gemeint.
+<marginal letter="611" page="253" line="28" sort="2">
+<bzg>sub vmbra alarum suarum</bzg> unter dem Schutz seiner Flügel, nach <link ref="at-ps" subref="at-ps17" linktext="false">Ps 17,8</link>
 </marginal>
 
 <marginal letter="611" page="253" line="33" sort="1">
@@ -84667,7 +84667,7 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 <marginal letter="611" page="254" line="19" sort="2">
-<bzg>Käthe</bzg> <link ref="hamann" subref="hamann-mc" linktext="true" />
+<bzg>Käthe</bzg> <link ref="hamann-mc" linktext="true" />
 </marginal>
 
 <marginal letter="611" page="254" line="21">
@@ -84698,7 +84698,7 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 <bzg>ουσια του σωματος</bzg> dt. Wesen des Leibes?!?
 </marginal>
 
-<marginal letter="611" page="254" line="30" sort="1">
+<marginal letter="611" page="254" line="30" sort="2">
 <bzg>εξουσια του αξιωματος</bzg> dt. Autorität des Amtes?!?
 </marginal>
 
@@ -84727,11 +84727,135 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 <marginal letter="611" page="255" line="11">
-<bzg>Kanter&#x202F;…&#x202F;Blumenlese</bzg> <link ref="kreutzfeld" subref="kreutzfeld-blumenlese" linktext="false"><titel>Preußische Blumenlese</titel> (1775)</link>
+<bzg>Kanter&#x202F;…&#x202F;Blumenlese</bzg> <link ref="kanter" linktext="false">Kanter</link>, Verleger der <link ref="kreutzfeld" subref="kreutzfeld-blumenlese" linktext="false"><titel>Preußischen Blumenlese</titel> (1775)</link>
 </marginal>
 
 <marginal letter="611" page="255" line="12">
-<bzg>Kreuzfeld&#x202F;…</bzg> <link ref="kreutzfeld" linktext="true" />, <link ref="reichardt-jf" linktext="true" />, <link ref="john" linktext="true" />, <link ref="bock-cg" linktext="true" />, <link ref="diericke" linktext="true" />, (Verfasser von <link ref="diericke" subref="diericke-montrose" linktext="false"><titel>Eduard Montrose</titel></link>), <link ref="czerwansky" linktext="true" />
+<bzg>Kreuzfeld&#x202F;…</bzg> <link ref="kreutzfeld" linktext="true" />, <link ref="reichardt-jf" linktext="true" />, <link ref="john" linktext="true" />, <link ref="bock-cg" linktext="true" />, <link ref="diericke" linktext="true" />, (Verfasser von <link ref="diericke" subref="diericke-montrose" linktext="false"><titel>Eduard Montrose</titel></link>), <link ref="czerwansky" linktext="true" /> und <link ref="lilienthal-eg" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="16">
+<bzg>Exemplar von Hartknoch</bzg> von <link ref="hartknoch" linktext="true" />; Herder kannte das Buch jedenfalls, vgl.  <intlink letter="450" page="192" line="13" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="17">
+<bzg>Hinz</bzg> <link ref="hinz" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="18">
+<bzg>Samml&#x202F;…</bzg> <link ref="blumenlese-pr" linktext="false"><titel>Preußische Blumenlese</titel> (1780)</link>
+</marginal>
+
+<marginal letter="611" page="255" line="19">
+<bzg>Mohr und Doerk</bzg> <link ref="mohr-s" linktext="true" /> und <link ref="doerk" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="20">
+<bzg>Referendarius Herklots</bzg> <link ref="herklots" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="21" sort="1">
+<bzg>D. Funken Sohn</bzg> <link ref="funck-jd" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="21" sort="2">
+<bzg>Wannowius</bzg> <link ref="wannovius" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="22">
+<bzg>Dii minorum gentium</bzg> Götter geringerer Völker, ‚kleine Lichter‘
+</marginal>
+
+<marginal letter="611" page="255" line="23" sort="1">
+<bzg>Kantersche Zeitung</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Jg. 1780 nicht überliefert
+</marginal>
+
+<marginal letter="611" page="255" line="23" sort="2">
+<bzg>Froschmäuseler</bzg> nach dem <link ref="homer" subref="froschkrieg" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="24">
+<bzg>Glawe</bzg> <link ref="glave" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="26">
+<bzg>T. Mercur</bzg> <link ref="teutsche-merkur" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="27">
+<bzg>allgem. Bibl.</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="28">
+<bzg>Jener Glawe recensirt&#x202F;…</bzg> insgesamt nicht überliefert
+</marginal>
+
+<marginal letter="611" page="255" line="30" sort="1">
+<bzg>Prolog von der Gr. Kayserlingk</bzg> <link ref="keyserling-c" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="611" page="255" line="30" sort="2">
+<bzg>Prinzen Gegenwart</bzg> aus Anlass des Besuchs des <link ref="friedrich-wilhelm-II" linktext="false">Kronprinzen Friedrich Wilhelm</link>, vgl. <intlink letter="598" page="208" line="7" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="31">
+<bzg>elende dramatische Vorspiele von John</bzg> von <link ref="john" linktext="true" />, nicht überliefert, vgl. <wwwlink address="www.woerterbuchnetz.de/Adelung/Vorspiel">Adelung, Bd.&#x202F;4, Sp.&#x202F;1299, s.v. Vorspiel</wwwlink>
+</marginal>
+
+<marginal letter="611" page="255" line="34" sort="1">
+<bzg>officia Ciceronis</bzg> <link ref="cicero" subref="cic-off" linktext="false">Cicero, <titel>de officiis</titel></link>; wohl mit der Bedeutung, dass man eher um seine Pflichten sich kümmern solle als Gedichte zu schreiben
+</marginal>
+
+<marginal letter="611" page="255" line="34" sort="2">
+<bzg>Buchdrucker Hartung&#x202F;…&#x202F;ein Versifex</bzg> <link ref="hartung-gl" linktext="true" />, ein Verseschmied
+</marginal>
+
+<marginal letter="611" page="255" line="35">
+<bzg>Blumenlese</bzg> <link ref="blumenlese-pr" linktext="false"><titel>Preußische Blumenlese</titel> (1780)</link>
+</marginal>
+
+<marginal letter="611" page="255" line="35">
+<bzg>derbe Apologie des Funk</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="611" page="256" line="37">
+<bzg>Dörk</bzg> <link ref="doerk" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="256" line="1">
+<bzg>Kanzlers Excell.</bzg> <link ref="korff-fa" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="256" line="4">
+<bzg>Baczko</bzg> <link ref="baczko" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="256" line="5" sort="1">
+<bzg>Tempe</bzg> <link ref="baczko" subref="baczko-tempe" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="256" line="5" sort="2">
+<bzg>Brahl</bzg> <link ref="brahl" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="256" line="6" sort="1">
+<bzg>Zitterland</bzg> <link ref="zitterland" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="256" line="6" sort="2">
+<bzg>Fabel im Styl der Bücher der Makkabäer</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="611" page="256" line="8">
+<bzg>hautement</bzg> mit Nachdruck
+</marginal>
+
+<marginal letter="611" page="256" line="12">
+<bzg>Manifest von Mohr</bzg> von <link ref="mohr-s" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="611" page="256" line="8">
+<bzg>Decanum&#x202F;…&#x202F;Officium Fisci</bzg> <link ref="kreutzfeld" linktext="true" />?!? die Zensurbehörde?!?
 </marginal>
 
 

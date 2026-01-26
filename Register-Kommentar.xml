@@ -1883,7 +1883,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="blumenlese-pr" type="neuzeit">
 <lemma>Preußische Blumenlese</lemma>
-<eintrag><titel>Preußische Blumenlese für das Jahr 1780. Herausgegeben von Doerk und Mohr</titel> (Königsberg: Hartung 1780–1782, 1793). Herausgeber: <link ref="doerk" linktext="true" />, <link ref="mohr-s" linktext="true" />, <link ref="funck" linktext="true" />, <link ref="john" linktext="true" /> und <link ref="gerber-as" linktext="true" />. Digitalisat: <wwwlink address="https://resolver.staatsbibliothek-berlin.de/SBB0002687600000000">Stabi Berlin</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1177916665">ZDB</wwwlink>.</eintrag>
+<eintrag><titel>Preußische Blumenlese für das Jahr 1780. Herausgegeben von Doerk und Mohr</titel> (Königsberg: Hartung 1780–1782, 1793). Herausgeber: <link ref="doerk" linktext="true" />, <link ref="mohr-s" linktext="true" />, <link ref="funck-jd" linktext="true" />, <link ref="john" linktext="true" /> und <link ref="gerber-as" linktext="true" />. Digitalisat: <wwwlink address="https://resolver.staatsbibliothek-berlin.de/SBB0002687600000000">Stabi Berlin</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1177916665">ZDB</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="bluttheologie" type="neuzeit">
@@ -6074,7 +6074,7 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 
 <kommentar id="funck" type="neuzeit">
 <lemma>Johann Daniel Funck</lemma>
-<eintrag>1721–1764. Professor beider Rechte, Privatdozent an der Universität Königsberg.</eintrag>
+<eintrag>1721–1764. Professor beider Rechte, Privatdozent an der Universität Königsberg, siehe <wwwlink address="https://d-nb.info/gnd/102887233">GND</wwwlink>.</eintrag>
 <subsection id="funck-rechtsgelahrsamkeit" type="neuzeit">
 <lemma>Funck, <titel>Rechtsgelahrsamkeit</titel></lemma>
 <eintrag>
@@ -6083,9 +6083,15 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 </subsection>
 </kommentar>
 
+<kommentar id="funck-jd" type="neuzeit">
+<lemma>Johann Daniel Funck jun.</lemma>
+<eintrag>1757–1807. Jurist und Schriftsteller, Sohn von <link ref="funck" linktext="true" />, Mitarbeiter bei der <link ref="blumenlese-pr" linktext="false"><titel>Preußischen Blumenlese</titel> (1780)</link>, siehe <wwwlink address="https://d-nb.info/gnd/120428466">GND</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="funck-jo" type="neuzeit">
 <lemma>Johann Funck</lemma>
-<eintrag>1518–1566. Ab 1549 Hofprediger und Hofrat in Königsberg, als Anhänger Andreas Osianders wurde er 1566 als Gefährder der öffentl. Ordnung verurteilt und hingerichtet. <wwwlink address="https://www.deutsche-biographie.de/pnd124899617.html#adbcontent">Möller: Funck, Johannes, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;197–199</wwwlink>.
+<eintrag>1518–1566. Ab 1549 Hofprediger und Hofrat in Königsberg, als Anhänger Andreas Osianders wurde er 1566 als Gefährder der öffentlichen Ordnung verurteilt und hingerichtet. <wwwlink address="https://www.deutsche-biographie.de/pnd124899617.html#adbcontent">Möller: Funck, Johannes, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;197–199</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -6603,7 +6609,7 @@ eruditionem vniuersam, Goett. 756“]. Digitalisat: <wwwlink address="https://md
 
 <kommentar id="glave" type="neuzeit">
 <lemma>Carl Georg Gottfried Glave</lemma>
-<eintrag>1752–1831, auch Karl Kolbielski. 1778 Hofgerichtsrat in Königsberg, 1786 wegen Amtsmissbrauch verurteilt, später Projektemacher in Polen und Österreich; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd115531726.html#ndbcontent">Freudenberger, Herman: Kolbielski, Karl, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;455f</wwwlink>.
+<eintrag>1752–1831, auch Karl Kolbielski. 1778 Hofgerichtsrat in Königsberg, 1786 wegen Amtsmissbrauch verurteilt, später politischer und wirtschaftlicher Abenteurer in Polen und Österreich; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd115531726.html#ndbcontent">Freudenberger, Herman: Kolbielski, Karl, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;455f</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -7956,7 +7962,6 @@ Vgl. über ihren Vater: Elisabeth Regina Hamann: <titel>Etwas über mich.</titel
 <titel>Herrn B. H. Brockes verdeutschte Grund-Sätze der Welt-Weisheit des Herrn Abts Genest, nebst   verschiedenen eigenen theils Physicalischen, theils Moralischen Gedichten, als des Jrdischen Vergnügens in Gott Dritter Theil. nebst verschiedenen eigenen theils Physicalischen, theils Moralischen Gedichten als des Jrdischen Vergnügens in Gott Dritter Theil; zum Druck befördert von Joh. George Hamann</titel> (Hamburg: König, Richter 1730). Übersetzung einer Schrift von <link ref="genest" linktext="true" />, veröffentlicht in <link ref="brockes" subref="brockes-vergnuegen" linktext="true" />, Bd.&#x202F;3. Digitalisat 2.&#x202F;Aufl. 1730: <wwwlink address="http://diglib.hab.de/drucke/lo-677-2-1/start.htm">HAB Wolfenbüttel</wwwlink>.
 </eintrag>
 </subsection>
-
 </kommentar>
 
 <kommentar id="hamann-jm" type="neuzeit">
@@ -8482,6 +8487,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <eintrag>
 <titel>Fragment de l’Examen du Prince de Machiavel: où il est traicté, dès Confidens, Ministres, et Conseillers Particuliers du Prince, ensemble, de la Fortune des Favoris</titel> (Paris: Pacard 1622). Digitalisat, 2. Auflage 1633: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10769333-2">BSB München: Pol.g. 400 h</wwwlink>. </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="herklots" type="neuzeit">
+<lemma>Carl Alexander Herklots</lemma>
+<eintrag>1759–1830. Hofgerichts-Referendar in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117519901.html#adbcontent">Kürschner, Joseph: Herklots, Karl Alexander, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;115</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="hertzberg" type="neuzeit">
@@ -10008,7 +10019,7 @@ J
 
 <kommentar id="john" type="neuzeit">
 <lemma>George Friedrich John</lemma>
-<eintrag>1742–1800. Lokaldichter und Theaterkritiker in Königsberg, 1765 Kreisaktuarius, 1770 Justizamtmann, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz37766.html">Motekat, Helmut G.: John, George Friedrich, in: <titel>NDB</titel>&#x202F;10 (1974), S.&#x202F;582</wwwlink> und <wwwlink address="https://www.mgh-bibliothek.de/bibliothek/altpreussischemonatsschrift.html">Altpreußische Monatsschrift</wwwlink> 45 (1908), S.&#x202F;232–247.
+<eintrag>1742–1800. Lokaldichter und Theaterkritiker in Königsberg, 1765 Kreisaktuarius, 1770 Justizamtmann, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz37766.html">Motekat, Helmut G.: John, George Friedrich, in: <titel>NDB</titel>&#x202F;10 (1974), S.&#x202F;582</wwwlink> und <wwwlink address="https://www.mgh.de/de/bibliothek/digitale-angebote/zeitschriften-digital">Altpreußische Monatsschrift</wwwlink> 45 (1908), S.&#x202F;232–247.
 </eintrag>
 </kommentar>
 
@@ -11085,13 +11096,13 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 </kommentar>
 
 <kommentar id="korff-nf" type="neuzeit">
-<lemma>Nikolaus Friedrich v. Korff</lemma>
+<lemma>Nikolaus Friedrich von Korff</lemma>
 <eintrag>1710–1766. Generalleutnant und Kammerherr, im Siebenjährigen Krieg nach Fermor ab 1758–60 Gouverneur des kaiserlich-russischen besetzten Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd1055292683.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="korff-fa" type="neuzeit">
-<lemma>Friedrich Alexander v. Korff</lemma>
-<eintrag>1713–1786. Staatsminister und Kanzler in Preußen, während des Siebenjährigen Krieges als Legationsrat in St. Petersburg, <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> u.a. tätig. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz140864.html">Deutsche Biographie</wwwlink>.</eintrag>
+<lemma>Friedrich Alexander von Korff</lemma>
+<eintrag>1713–1786. Staatsminister und Kanzler in Preußen, Hofgerichts-Präsident; während des Siebenjährigen Krieges als Legationsrat in St. Petersburg, <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> u.a. tätig. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz140864.html">Deutsche Biographie</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="kornmann" type="neuzeit">
@@ -11184,7 +11195,7 @@ Zur Biographie vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Johan
 <subsection id="kreutzfeld-geschlechter" type="neuzeit" sort="30">
 <lemma>Kreutzfeld, <titel>Ueber das Verhältnis beyder Geschlechter</titel></lemma>
 <eintrag>
-<titel>Ueber das Verhältnis beyder Geschlechter. Eine Unterreung,</titel>, in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617979?page=112%2C113">1.&#x202F;Vj. 1781 (Februar), S.&#x202F;106–135.</wwwlink> – Hamann vermittelte die Publikation, vgl. <intlink letter="610" page="253" line="14" linktext="true" />.
+<titel>Ueber das Verhältnis beyder Geschlechter. Eine Unterreung,</titel>, in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617979?page=112%2C113">1.&#x202F;Vj. 1781 (Februar), S.&#x202F;106–135.</wwwlink> – Hamann vermittelte die Publikation, vgl. <intlink letter="611" page="253" line="14" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
