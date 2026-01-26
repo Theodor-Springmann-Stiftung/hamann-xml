@@ -1931,7 +1931,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="bock-fs" type="neuzeit">
 <lemma>Friedrich Samuel Bock</lemma>
-<eintrag>1716–1785. Prof. der evang. Theologie und griechischen Sprache in Königsberg, Consistorialrat, seit 1753 Universitätsbibliothekar und Aufseher der Schloßbibliothek, Bruder von <link ref="bock-jg" linktext="true" />.
+<eintrag>1716–1785. Professor der evangelischen Theologie und griechischen Sprache in Königsberg, Consistorialrat, seit 1753 Universitätsbibliothekar und Aufseher der Schloßbibliothek, Bruder von <link ref="bock-jg" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -2931,6 +2931,12 @@ C
 <lemma>Campe, <titel>Robinson der Jüngere</titel></lemma>
 <eintrag>
 <titel>Robinson der Jüngere, zur angenehmen und nützlichen Unterhaltung für Kinder</titel> (2 Bde., Hamburg: Bohn 1779–1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-20090519748">Stabi Berlin: B VIII, 24704-1 R</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="campe-seelenlehre" type="neuzeit">
+<lemma>Campe, <titel>Kleine Selenlehre für Kinder</titel></lemma>
+<eintrag>
+<titel>Kleine Selenlehre für Kinder von J. H. Campe</titel> (Hamburg: Bohn 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10761906-2">BSB München: Paed.pr. 4446 l</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -4068,6 +4074,12 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 </eintrag>
 </kommentar>
 
+<kommentar id="czerwansky" type="neuzeit">
+<lemma>Johann Samuel von Czerwansky</lemma>
+<eintrag>1747–1809. In österreichischem Militärdienst; Beiträger der <link ref="kreutzfeld" subref="kreutzfeld-blumenlese" linktext="false"><titel>Preußischen Blumenlese</titel> (1775)</link>, vgl. <link ref="goldbeck" subref="goldbeck-nachrichten" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10732713?page=254%2C255">, Bd.&#x202F;1, S.&#x202F;241f.</wwwlink>
+</eintrag>
+</kommentar>
+
 D
 
 <kommentar id="dach" type="neuzeit">
@@ -4491,6 +4503,20 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann
 </subsection>
 </kommentar>
 
+<kommentar id="diericke" type="neuzeit">
+<lemma>Christoph Friedrich Otto von Diericke</lemma>
+<eintrag>1743–1819. Offizier, 1777 Kapitän, zuletzt Generalleutnant; bildete sich in den 1770er Jahren in seiner Garnisonsstadt Königsberg weiter; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd135737354.html#adbcontent">Diericke: Diericke, Christian Friedrich von, in: <titel>ADB</titel>&#x202F;47 (1903), S.&#x202F;683–685</wwwlink>.</eintrag>
+<subsection id="diericke-montrose" type="neuzeit" sort="20">
+<lemma>Diericke, <titel>Eduard Montrose</titel></lemma>
+<eintrag>
+<titel>Eduard Montrose, ein Trauerspiel in fünf Aufzügen</titel> (Königsberg, Leipzig: Kanter 1776, in Theater der Deutschen, 16. Tl.). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/1045C414">ÖNB Wien: 25407-B.16 ALT MAG</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="diericke-r" type="neuzeit">
+<lemma>Rosina von Diericke</lemma>
+<eintrag>1718–1780. Mutter von <link ref="diericke" linktext="true" />, Witwe des als Oberstleutnant bei Leuthen gefallenen Kaspar Christoph von Diericke (1706–1757).</eintrag>
+</kommentar>
 
 <kommentar id="dieu" type="neuzeit">
 <lemma>Lodewijk de Dieu</lemma>
@@ -4873,22 +4899,28 @@ E
 <kommentar id="eberhard-ja" type="neuzeit">
 <lemma>Johann August Eberhard</lemma>
 <eintrag>1739–1809. Deutscher Philosoph und Theologe in Berlin; Freund von <link ref="nicolai" linktext="true" />. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118687468.html#adbcontent">Richter, A: Eberhard, Johann August, in: <titel>ADB</titel>&#x202F;5 (1959), S.&#x202F;569–571.</wwwlink></eintrag>
-<subsection id="eberhard-apologie" type="neuzeit">
+<subsection id="eberhard-apologie" type="neuzeit" sort="10">
 <lemma>Eberhard, <titel>Neue Apologie des Sokrates</titel></lemma>
 <eintrag>
 <titel>Neue Apologie des Sokrates, oder Untersuchung der Lehre von der Seligkeit der Heiden</titel> (Berlin, Stettin: Nicolai 1772, 2. Aufl. 2 Bde., 1776/1778) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;103/110: „J. A. Eberhard’s neue Apologie des Sokrates, Berl. 725“]. Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000662600000000">SBB-PK Berlin: Dd 8901</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="eberhard-theorie" type="neuzeit">
+<subsection id="eberhard-theorie" type="neuzeit" sort="20">
 <lemma>Eberhard, <titel>Allgemeine Theorie des Denkens und Empfindens</titel></lemma>
 <eintrag>
 <titel>Allgemeine Theorie des Denkens und Empfindens. Eine Abhandlung, welche den von der Königl. Akademie der Wissenschaften in Berlin auf das Jahr 1776 ausgesetzten Preis erhalten hat, von Johann August Eberhard</titel> (Berlin: Voss 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043089-9">BSB München: Ph.sp. 229</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="eberhard-philosophie" type="neuzeit">
+<subsection id="eberhard-philosophie" type="neuzeit" sort="30">
 <lemma>Eberhard, <titel>Von dem Begriffe der Philosophie und ihren Theilen</titel></lemma>
 <eintrag>
 <titel>Von dem Begriffe der Philosophie und ihren Theilen. Ein Versuch womit beym Antritt des von Seiner Königlichen Majestät Allergnädigst ihm anvertraueten Amts eines öffentlichen Lehrers der Philosophie auf der Königl. Friedrichs-Universität zu Halle, seine Vorlesungen ankündigt Johann August Eberhard, Mag. der Philosophie</titel> (Berlin: Voss 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10841895-3">BSB München: Diss. 757,5</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="eberhard-sittenlehre" type="neuzeit" sort="40">
+<lemma>Eberhard, <titel>Sittenlehre der Vernunft</titel></lemma>
+<eintrag>
+<titel>Sittenlehre der Vernunft. Zum Gebrauch seiner Vorlesungen von Johann August Eberhard</titel> (Berlin: Nicolai 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040367-3">BSB München: Ph.pr. 380</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9623,7 +9655,14 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 Übers.: <titel>Geschichte von Grossbritannien. Aus dem Englischen des David Hume Esq.</titel>, übers. von <link ref="dusch" linktext="true" /> (4&#xA0;Bde., Breslau und Leipzig: Johann Ernst Meyer 1762/71). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11211786">SSB Augsburg: 4 Gs 1139-1</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="hume-dialogues" type="neuzeit" sort="30">
+<subsection id="hume-geschichte-religion" type="neuzeit" sort="30">
+<lemma>Hume, <titel>The natural history of religion</titel></lemma>
+<eintrag>
+<titel>The natural history of religion</titel>, in: Four Dissertations by David Hume (London: 1757). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/1071C141">ÖNB Wien: 273603-A / FKB 202-320 (XVII-017) FID MAG</wwwlink>.<line type="break" />
+Übers.: <titel>Die natürliche Geschichte der Religion</titel>, in: Vier Abhandlungen von David Hume, aus dem Englischen übersetzt (Quedlinburg, Leipzig 1759). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/54273">ULB Halle: Fa 3269 a (1)</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="hume-dialogues" type="neuzeit" sort="40">
 <lemma>Hume, <titel>Dialogues concerning natural Religion</titel></lemma>
 <eintrag>
 <titel>Dialogues concerning natural Religion.</titel> By David Hume, Esq. The second edition (London 1779). – Postume Ausgabe, hrsg. von David Humes Neffen; eine first edition erschien in geringer Auflage und kleiner Type ebenfalls London 1779, vgl. <wwwlink address="https://archive.org/details/in.ernet.dli.2015.507028/page/n11">Kemp: Humes Dialogues Concerning Natural Religion (London 1947)</wwwlink>; Hume schrieb die <titel>Dialogues</titel> 1751–1755, revidierte die Schrift aber noch im Todesjahr 1776; wegen des heiklen Themas beschloss er, sie erst postum zu veröffentlichen. – Digitalisat der 2nd edition: <wwwlink address="https://books.google.de/books?id=E7dbAAAAQAAJ">Google Books</wwwlink>.<line type="break" />
@@ -11127,7 +11166,7 @@ Zur Biographie vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Johan
 <subsection id="kreutzfeld-blumenlese" type="neuzeit" sort="10">
 <lemma>Kreutzfeld, <titel>Preußische Blumenlese</titel></lemma>
 <eintrag>
-<titel>Preußische Blumenlese</titel> (Königsberg 1775).
+<titel>Preußische Blumenlese</titel> (Königsberg: Kanter 1775). Digitalisat: <wwwlink address="http://polona.pl/item/127253088/">Biblioteka Narodowa</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="kreutzfeld-hudibras" type="neuzeit" sort="20">

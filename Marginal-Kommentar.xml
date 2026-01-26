@@ -48887,7 +48887,7 @@ Brief Nr. 400
 </marginal>
 
 <marginal letter="400" page="70" line="24">
-<bzg>Einlagen eingehändigt</bzg> nicht ermittelt, offenbar Briefe von Moser an Bekannte von Hamann in Königsberg
+<bzg>Einlagen eingehändigt</bzg> an <link ref="diericke-r" linktext="true" /> (offenbar Briefe von Moser an Bekannte von Hamann in Königsberg), vgl. den <intlink letter="400" page="418" line="12" linktext="false">Entwurf</intlink> 
 </marginal>
 
 <marginal letter="400" page="70" line="27">
@@ -49025,6 +49025,13 @@ nicht ermittelt, ob Moser die Bitte verstand und erfüllte
 <marginal letter="400" page="73" line="11">
 <bzg>Nikodemus</bzg> <link ref="nt-jo" subref="nt-jo3" linktext="false">Joh 3</link>
 </marginal>
+
+
+<marginal letter="400" page="418" line="12">
+<bzg>Fr. Oberstin v. D.</bzg> <link ref="diericke-r" linktext="true" />
+</marginal>
+
+
 
 Brief Nr. 401
 
@@ -56332,7 +56339,7 @@ Brief Nr. 450
 </marginal>
 
 <marginal letter="450" page="192" line="13">
-<bzg>Litth. Lieder in der Preuß. Saml.</bzg> <link ref="kreutzfeld" subref="kreutzfeld-blumenlese" linktext="true" />; in <link ref="herder" subref="herder-volkslieder" linktext="true" /> aufgenommen: „Die kranke Braut“, „Abschiedslied eines Mädchens“, „Der versunkne Brautring“
+<bzg>Litth. Lieder in der Preuß. Saml.</bzg> In der <link ref="kreutzfeld" subref="kreutzfeld-blumenlese" linktext="false"><titel>Preußischen Blumenlese</titel> (1775)</link>, <wwwlink address="https://polona.pl/item-view/dac1b46a-6b13-4544-8904-245a67265e84?page=154">S.&#x202F;153–159</wwwlink> übersetzte Kreutzfeld vier litauische ‚Dainos‘; in <link ref="herder" subref="herder-volkslieder" linktext="false">Herders <titel>Volksliedern</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10110906?page=34%2C35">Bd.&#x202F;1, S.&#x202F;31–37</wwwlink> nahm er daraus „Die kranke Braut“ und das „Abschiedslied eines Mädchens“ auf; der „Der versunkne Brautring“ ist nicht unter den in der <titel>Preußischen Blumenlese</titel> gedruckten Liedern, mglw. sandte Hamann später, vgl. <intlink letter="455" page="205" line="7" linktext="true" />.
 </marginal>
 
 <marginal letter="450" page="192" line="17">
@@ -57083,7 +57090,7 @@ Brief Nr. 455
 </marginal>
 
 <marginal letter="455" page="205" line="7">
-<bzg>Dainos</bzg> litauische Volkslieder, für <link ref="herder" subref="herder-volkslieder" linktext="true" />, vgl. <intlink letter="539" page="41" line="23" linktext="true" />
+<bzg>Dainos</bzg> litauische Volkslieder, für <link ref="herder" subref="herder-volkslieder" linktext="true" />, vgl. <intlink letter="450" page="192" line="13" linktext="true" />
 </marginal>
 
 <marginal letter="455" page="205" line="11">
@@ -84687,12 +84694,44 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 <bzg></bzg> <link ref="doderlein" subref="doderlein-antifragmente" linktext="true" />, <wwwlink address="https://viewer.onb.ac.at/10862DE2/186,187">Bd.&#x202F;2, S.&#x202F;174f.</wwwlink>
 </marginal>
 
-<marginal letter="611" page="254" line="">
-<bzg></bzg> 
+<marginal letter="611" page="254" line="30" sort="1">
+<bzg>ουσια του σωματος</bzg> dt. Wesen des Leibes?!?
 </marginal>
 
-<marginal letter="611" page="254" line="">
-<bzg></bzg> 
+<marginal letter="611" page="254" line="30" sort="1">
+<bzg>εξουσια του αξιωματος</bzg> dt. Autorität des Amtes?!?
+</marginal>
+
+<marginal letter="611" page="254" line="32">
+<bzg>κοινωνια</bzg> dt. Gemeinschaft; etwa in <link ref="nt-kor1" subref="nt-kor1-10" linktext="false">1 Kor 10,16</link>
+</marginal>
+
+<marginal letter="611" page="254" line="35">
+<bzg>Hartknoch&#x202F;…&#x202F;Vernunft</bzg> <link ref="hartknoch" linktext="true" /> der Verleger von <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link> vgl. <intlink letter="604" page="230" line="35" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="3">
+<bzg>Hume’s Essays</bzg> <link ref="hume" subref="hume-essays" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="5" sort="1">
+<bzg></bzg> <link ref="hume" subref="hume-geschichte-religion" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="5" sort="2">
+<bzg>Eberhards Sittenlehre der Vernunft</bzg> <link ref="eberhard-ja" subref="eberhard-sittenlehre" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="8">
+<bzg>Campe&#x202F;…</bzg> <link ref="campe-jh" subref="campe-seelenlehre" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="255" line="11">
+<bzg>Kanter&#x202F;…&#x202F;Blumenlese</bzg> <link ref="kreutzfeld" subref="kreutzfeld-blumenlese" linktext="false"><titel>Preußische Blumenlese</titel> (1775)</link>
+</marginal>
+
+<marginal letter="611" page="255" line="12">
+<bzg>Kreuzfeld&#x202F;…</bzg> <link ref="kreutzfeld" linktext="true" />, <link ref="reichardt-jf" linktext="true" />, <link ref="john" linktext="true" />, <link ref="bock-cg" linktext="true" />, <link ref="diericke" linktext="true" />, (Verfasser von <link ref="diericke" subref="diericke-montrose" linktext="false"><titel>Eduard Montrose</titel></link>), <link ref="czerwansky" linktext="true" />
 </marginal>
 
 
