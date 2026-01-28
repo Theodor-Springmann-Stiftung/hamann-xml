@@ -2129,6 +2129,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <eintrag>1699–1772. Kaufmann und Kommerzienrat in Königsberg.</eintrag>
 </kommentar>
 
+<kommentar id="botticher-jgi" type="neuzeit">
+<lemma>Jakob Gottlieb Isaak Bötticher</lemma>
+<eintrag>1754–1792. 1780 Hofmeister beim Grafen <wwwlink address="https://d-nb.info/gnd/118571125">Ernst Ahasverus Heinrich Graf von Lehndorff (1727–1811)</wwwlink>, später Domvikar, siehe <wwwlink address="http://d-nb.info/gnd/120187698">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="boileau" type="neuzeit">
 <lemma>Nicolas Boileau-Despréaux</lemma>
 <eintrag>1636–1711. Frz. Schriftsteller. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;2, 1812), S.&#x202F;6–14.</eintrag>
@@ -3978,7 +3983,7 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 
 <kommentar id="crichton" type="neuzeit">
 <lemma>Wilhelm Crichton</lemma>
-<eintrag>1732–1805. 1762 Leiter des reformierten Gymnasiums in Halle, ab 1772 Hofprediger in Königsberg, entwarf für die Burgschule die Instruktion, die die Philosophie anstelle der Theologie als Leitbild setzte; 1779 Redakteur des gelehrten Teils der <link ref="konigsbergsche-gelehrte-p-z" linktext="false"><titel>KGPZ</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100095674.html#adbcontent">Schwarze: Cronegk, Crichton, Wilhelm, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;596f.</wwwlink> und <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135576-8">Dr. Wilhelm Crichton’s nachgelassene Schriften (Königsberg: Nicolovius 1806).</wwwlink>
+<eintrag>1732–1805. 1762 Leiter des reformierten Gymnasiums in Halle, ab 1772 Hofprediger in Königsberg, entwarf für die Burgschule die Instruktion, die die Philosophie anstelle der Theologie als Leitbild setzte; 1776 Betreiber einer Leihbücherei in Königsberg; 1779 Redakteur des gelehrten Teils der <link ref="konigsbergsche-gelehrte-p-z" linktext="false"><titel>KGPZ</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100095674.html#adbcontent">Schwarze: Cronegk, Crichton, Wilhelm, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;596f.</wwwlink> und <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135576-8">Dr. Wilhelm Crichton’s nachgelassene Schriften (Königsberg: Nicolovius 1806).</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -19802,8 +19807,6 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <titel>Sendschreiben an den Herrn Doktor Semler. Angefangen im Oktober 1779; geendiget dem 20sten Januar 1780</titel> (s.l. 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10735375-1">BSB München: H.lit.p. 387 h</wwwlink>.
 </eintrag>
 </subsection>
-
-
 </eintrag>
 </kommentar>
 
@@ -20821,6 +20824,11 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 <titel>Warum ist der Sohn Gottes in die Welt gekommen, und hat doch die Menschen in ihren Sünden und bey ihren Irrthümem gelassen?</titel> ( Breslau: Korn 1776). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000690E00000000">Stabi Berlin: De 585</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar> 
+
+<kommentar id="wedeke" type="neuzeit">
+<lemma>Johann Christoph Wedeke</lemma>
+<eintrag>1755–1815. 1780 Hofmeister und Gesellschafter bei der Familie zu Dohna-Schlobitten, später Pfarrer und Oberhofprediger in Königsberg; siehe <link ref="http://d-nb.info/14319867X" linktext="false">Deutsche Biographie</link>.</eintrag>
 </kommentar>
 
 <kommentar id="wegelin" type="neuzeit">

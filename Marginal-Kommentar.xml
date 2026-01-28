@@ -84150,7 +84150,7 @@ Brief Nr. 607
 </marginal>
 
 <marginal letter="607" page="247" line="13" sort="2">
-<bzg>Fischern&#x202F;…</bzg> auf <link ref="fischer-cg" linktext="false">Carl Gottlob Fischers</link> Einlage vom 30.10.1780, die Hamann zuletzt mitschickte, vgl. <intlink letter="604" page="232" line="7" linktext="true" />.
+<bzg>Fischern&#x202F;…</bzg> auf <link ref="fischer-cg" linktext="false">Carl Gottlob Fischers</link> Einlage vom 30.10.1780, die Hamann zuletzt mitschickte, vgl. <intlink letter="604" page="232" line="7" linktext="true" />; Herder schickte offenbar einen Brief an Fischer mit, vgl. <intlink letter="612" page="259" line="10" linktext="true" />.
 </marginal>
 
 <marginal letter="607" page="247" line="17">
@@ -84817,16 +84817,12 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 <bzg>Buchdrucker Hartung&#x202F;…&#x202F;ein Versifex</bzg> Ein Verseschmied: In der <link ref="blumenlese-pr" linktext="false"><titel>Preußischen Blumenlese</titel></link> von <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1049011406&#x26;PHYSID=PHYS_0256&#x26;DMDID=DMDLOG_0001">1780</wwwlink> und <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN1049012445&#x26;PHYSID=PHYS_0320&#x26;DMDID=DMDLOG_0001">1781</wwwlink> sind eine Reihe von Gedichten eines „Johann Heinrich Hartung, des jüngeren“ abgedruckt, den Hamann nur hier als „Buchdrucker Hartung“ nennt; es handelt sich dabei entweder um einen ansonsten unbekannten Verwandten des Buchhändlers und Verlegers <link ref="hartung-gl" linktext="true" /> oder um ein Pseudonym (wie Henkel annimmt)?!? – im Hartung-Artikel <wwwlink address="http://www.zeno.org/Schmidt-1902/A/Hartung,+Familie">Schmidt: in Deutsche Buchdrucker</wwwlink> wird kein Johann Heinrich Hartung, der jüngere genannt; <link ref="reh-1942" linktext="false">Rehberg, S.&#x202F;108</link> schreibt, G.L. Hartung habe spätestens ab 1777 auch die Druckerei des Hartungschen Familienbetriebs geleitet und Sembritzki oder Kohnen schreiben im Kontext der Königsberger Blumenlesen und Dichter auch nichts über einen J.H. Hartung den jüngeren; also ein Pseudonym?!? aber G.L. Hartung soll nicht musisch veranlagt gewesen sein.
 </marginal>
 
-<marginal letter="611" page="255" line="34" sort="2">
-<bzg>Apologie des Funk</bzg> Die Polemik des Buchdruckers Hartung, die anscheinend <link ref="funck-jd" linktext="true" /> verteidigt, ist ebenfalls nicht überliefert.
-</marginal>
-
 <marginal letter="611" page="255" line="35">
 <bzg>Blumenlese</bzg> <link ref="blumenlese-pr" linktext="false"><titel>Preußische Blumenlese</titel> (1780)</link>
 </marginal>
 
-<marginal letter="611" page="255" line="35">
-<bzg>derbe Apologie des Funk</bzg> nicht überliefert
+<marginal letter="611" page="255" line="36">
+<bzg>derbe Apologie des Funk</bzg> Die Polemik des Buchdruckers Hartung, die anscheinend <link ref="funck-jd" linktext="true" /> verteidigt, ist ebenfalls nicht überliefert.
 </marginal>
 
 <marginal letter="611" page="255" line="37">
@@ -85062,7 +85058,7 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 <marginal letter="611" page="258" line="17">
-<bzg>Gegners libellum</bzg> <link ref="trapp-sendschreiben" linktext="true" />
+<bzg>Gegners libellum</bzg> <link ref="trapp" subref="trapp-sendschreiben" linktext="true" />
 </marginal>
 
 <marginal letter="611" page="258" line="18">
@@ -85078,11 +85074,37 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 
-
-
-
-
 Brief Nr. 612
+
+<marginal letter="612" page="258" line="28">
+<bzg>trächtigen Briefes</bzg> <intlink letter="607" page="245" line="1" linktext="false">HKB 607</intlink>
+</marginal>
+
+<marginal letter="612" page="258" line="29" sort="1">
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="258" line="29" sort="2">
+<bzg>Wedicke&#x202F;…</bzg> <link ref="wedeke" linktext="true" />, Hofmeister bei der Familie zu Dohna-Schlobitten
+</marginal>
+
+<marginal letter="612" page="258" line="29" sort="3">
+<bzg>Bötticher&#x202F;…</bzg> <link ref="botticher-jgi" linktext="true" />, Hofmeister bei <wwwlink address="https://d-nb.info/gnd/118571125">Ernst Ahasverus Heinrich Graf von Lehndorff (1727–1811)</wwwlink>
+</marginal>
+
+<marginal letter="612" page="259" line="10" sort="1">
+<bzg>Einschluß dem Pf. Fischer</bzg> <link ref="fischer-cg" linktext="true" />, vgl. <intlink letter="607" page="247" line="13" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="259" line="10" sort="2">
+<bzg>Durow</bzg> <link ref="dorow-jf" linktext="true" />, Schwager <link ref="reichardt-jf" linktext="false">Reichardts</link>
+</marginal>
+
+
+
+
+
+
 
 <marginal letter="612" page="260" line="9">
 <bzg>zweyköpfige außerordentl.</bzg> <link ref="dissertation-extraordinaire" linktext="true" />, vgl. <intlink letter="607" page="246" line="9" linktext="true" />
