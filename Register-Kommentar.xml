@@ -4658,7 +4658,7 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 
 <kommentar id="dorow-jf" type="neuzeit">
 <lemma>Jacob Friedrich Dorow</lemma>
-<eintrag>1735–1797. Hofmeister in Kurland, dann Lotterie-Sekretär; Schwager von <link ref="reichardt-jf" linktext="true" />.
+<eintrag>1735–1797. Hofmeister in Kurland, dann Lotterie-Sekretär, 1780 Buchhalter von <link ref="fahrenheit" linktext="true" />; Schwager von <link ref="reichardt-jf" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -5444,6 +5444,12 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <titel>Le miroir des princesses orientales</titel> (2&#xA0;Bde., Paris 1755). Digitalisat, Bd. 1: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10091114">BSB München: P.o.gall. 763-1</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="fahrenheit" type="neuzeit">
+<lemma>Reinhold Friedrich Fahrenheit</lemma>
+<eintrag>1703–1781. Großkaufmann in Königsberg und reichster Mann Ostpreußens, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100796923.html#ndbcontent">Klemm, Friedrich: Fahrenheit, Farenheid, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;746</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="faulques" type="neuzeit">
@@ -10541,6 +10547,11 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <eintrag>1. September 1778 bis Herbst 1779. Sohn von <link ref="kaufmann-c" linktext="true" /> und <link ref="kaufmann-e" linktext="true" />, Patenkind Hamanns.</eintrag>
 </kommentar>
 
+<kommentar id="kaufmann-m" type="neuzeit">
+<lemma>Maria Kaufmann</lemma>
+<eintrag>Geb. 1780. Tochter von <link ref="kaufmann-c" linktext="true" /> und <link ref="kaufmann-e" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="koepken" type="neuzeit">
 <lemma>Arnd von Koepken</lemma>
 <eintrag>1732–1789, auch Arend Köpke. Königlich-preußischer Oberfinanz-, Kriegs- und Domänenrat. Ab 1786 Mitglied der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> und bis zu seinem Tod im <link ref="generaldirektorium" linktext="true" /> tätig.</eintrag>
@@ -12341,7 +12352,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 
 <kommentar id="lippert" type="neuzeit">
 <lemma>Philipp Daniel Lippert</lemma>
-<eintrag>1702–1785. Zeichenmeister an der Meißner Porzellanmanufaktur, später Aufseher der Antiken und Prof. der Akademie der Künste in Dresden, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz51826.html">Urlichs: Lippert, Philipp Daniel, in: <titel>ADB</titel>&#x202F;18 (188387), S.&#x202F;763f.</wwwlink>
+<eintrag>1702–1785. Zeichenmeister an der Meißner Porzellanmanufaktur, später Aufseher der Antiken und Professor der Akademie der Künste in Dresden, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz51826.html">Urlichs: Lippert, Philipp Daniel, in: <titel>ADB</titel>&#x202F;18 (188387), S.&#x202F;763f.</wwwlink>
 </eintrag>
 <subsection id="lippert-dactyliothec" type="neuzeit">
 <lemma>Lippert, <titel>Dactyliothec</titel></lemma>
