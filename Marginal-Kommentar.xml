@@ -2835,8 +2835,7 @@ Brief Nr. 36
 </marginal>
 
 <marginal letter="36" page="92" line="20" sort="1">
-<bzg>Magister</bzg>
-<link ref="lindner-jg" linktext="true" />
+<bzg>Magister</bzg> <link ref="lindner-jg" linktext="true" />
 </marginal>
 
 <marginal letter="36" page="92" line="20" sort="2">
@@ -11707,7 +11706,7 @@ vll. <link ref="wolf" linktext="true" />
 </marginal>
 
 <marginal letter="146" page="345" line="29">
-<bzg>Fürst</bzg> Dass mit der Anspielung auf <link ref="nt-jo" subref="nt-jo12" linktext="false">Joh 12,31</link> Friedrich II. gemeint ist, ergäbe sich aus Lausons Panegyrik, etwa im 1763 erscheinenden Preisgedicht <titel>Paean. Friedrichs Palmen geheiligt</titel> (Königsberg: Kanter)
+<bzg>Fürst</bzg> Dass mit der Anspielung auf <link ref="nt-jo" subref="nt-jo12" linktext="false">Joh 12,31</link> <link ref="friedrich-II" linktext="true" /> gemeint ist, ergäbe sich aus Lausons Panegyrik, etwa im 1763 erscheinenden Preisgedicht <titel>Paean. Friedrichs Palmen geheiligt</titel> (Königsberg: Kanter)
 </marginal>
 
 <marginal letter="146" page="345" line="30">
@@ -59248,7 +59247,7 @@ Brief Nr. 467
 </marginal>
 
 <marginal letter="467" page="243" line="27">
-<bzg>Nicolai</bzg>
+<bzg>Nicolai</bzg> <link ref="nicolai" linktext="true" />
 </marginal>
 
 <marginal letter="467" page="243" line="32" sort="1">
@@ -71953,7 +71952,7 @@ Hamann sandte den Brief ab, bevor ihn <intlink letter="553" page="76" line="1" l
 </marginal>
 
 <marginal letter="554" page="79" line="1" sort="1" >
-<bzg>Sprengel&#x202F;…</bzg> Stadtbezirk; Hamann wohnte in der Laak im westlichen Königsberg am Pregel, der Steindann befand sich im Nordwesten.
+<bzg>Sprengel&#x202F;…</bzg> Stadtbezirk; Hamann wohnte in der Laak im westlichen Königsberg am Pregel, der Steindamm befand sich im Nordwesten.
 </marginal>
 
 <marginal letter="554" page="79" line="5" > 
@@ -81711,6 +81710,10 @@ Brief Nr. 598
 <bzg>Advokaten</bzg> nicht ermittelt
 </marginal>
 
+<marginal letter="598" page="211" line="17">
+<bzg>ehrl. Mann</bzg> nicht ermittelt, vgl. <intlink letter="611" page="257" line="33" linktext="true" />
+</marginal>
+
 <marginal letter="598" page="211" line="23">
 <bzg>seel. Vater</bzg> <link ref="hamann-vjc" linktext="true" />
 </marginal>
@@ -83751,8 +83754,12 @@ Brief Nr. 606
 <bzg>Kampfspiel</bzg> nicht ermittelt, vmtl. ein Flugblatt oder dgl. von 1776 (er heiratete am <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F150427">31.3.1777</wwwlink>)
 </marginal>
 
-<marginal letter="606" page="240" line="32">
+<marginal letter="606" page="240" line="32" sort="1">
 <bzg>Kaufmann</bzg> <link ref="kaufmann-c" linktext="true" />
+</marginal>
+
+<marginal letter="606" page="240" line="32" sort="2">
+<bzg>Weib und Kind</bzg> <link ref="kaufmann-e" linktext="true" /> und <link ref="kaufmann-m" linktext="true" />
 </marginal>
 
 <marginal letter="606" page="240" line="33">
@@ -84887,7 +84894,7 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 <marginal letter="611" page="256" line="26">
-<bzg>Deduction&#x202F;…</bzg> <link ref="friedrich" subref="friedrich-litterature-allemande" linktext="true" />, <intlink letter="611" page="253" line="36" linktext="false">s.o.</intlink>
+<bzg>Deduction&#x202F;…</bzg> <link ref="friedrich-II" subref="friedrich-litterature-allemande" linktext="true" />, <intlink letter="611" page="253" line="36" linktext="false">s.o.</intlink>
 </marginal>
 
 <marginal letter="611" page="256" line="27">
@@ -84959,14 +84966,14 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 <marginal letter="611" page="257" line="8" sort="2">
-<bzg>Kaufmann</bzg> <link ref="kaufmann-c" linktext="true" />
+<bzg>Kaufmann</bzg> <link ref="kaufmann-c" linktext="true" />; nach <link ref="haefeli" linktext="false">Häfelis Bericht</link>, vgl. <intlink letter="606" page="240" line="32" linktext="true" />
 </marginal>
 
-<marginal letter="611" page="257" line="9">
+<marginal letter="611" page="257" line="9" sort="1">
 <bzg>Haugwitz</bzg> <link ref="haugwitz" linktext="true" />, in Schlesien
 </marginal>
 
-<marginal letter="611" page="257" line="9">
+<marginal letter="611" page="257" line="9" sort="2">
 <bzg>Frau u dem engl. Mariachen</bzg> <link ref="kaufmann-e" linktext="true" /> und <link ref="kaufmann-m" linktext="true" />
 </marginal>
 
@@ -84975,7 +84982,99 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 <marginal letter="611" page="257" line="14" sort="2">
-<bzg>Parasche der ältesten Urkunde</bzg> Parascha: Wochenabschnitt der Tora, hier benannt nach <link ref="herder" subref="herder-altesteurkunde" linktext="false">Herders <titel>Aeltester Urkunde des Menschengeschlechts</titel></link>
+<bzg>Parasche der ältesten Urkunde</bzg> Parascha: Wochenabschnitt der Tora, gemeint ist die Genesis-Lektüre (vgl. <intlink letter="609" page="250" line="22" linktext="true" />), hier benannt nach <link ref="herder" subref="herder-altesteurkunde" linktext="false">Herders <titel>Aeltester Urkunde des Menschengeschlechts</titel></link>
+</marginal>
+
+<marginal letter="611" page="257" line="17">
+<bzg>St. Thomas Tage</bzg> 21. Dezember 1780
+</marginal>
+
+<marginal letter="611" page="257" line="22">
+<bzg>Hälfte</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="257" line="23">
+<bzg>Pathchen</bzg> <link ref="herder-a" linktext="false">August Herder</link>
+</marginal>
+
+<marginal letter="611" page="257" line="25" sort="1">
+<bzg>Präsident von der Akademie</bzg> Anspielung auf Hamanns wohl nicht ganz ernst gemeinte Forderung in <link ref="hamann" subref="hamann-salomon" linktext="false"><titel>Au Salomon de Prusse</titel></link> (vgl. <link ref="1963" linktext="false">HHE 4</link>, S.&#x202F;273), Herder zum Präsidenten der Berliner Akademie der Wissenschaften zu machen; die Stelle war seit 1764 unbesetzt, wurde von <link ref="friedrich-II" linktext="true" /> in Vakanz unmittelbar ausgeführt und Herder war nie dafür im Gespräch, vgl. auch <intlink letter="384" page="35" line="24" linktext="true" />.
+</marginal>
+
+<marginal letter="611" page="257" line="25" sort="2">
+<bzg>dirigirender Bürgermeister</bzg> <link ref="hippel" linktext="true" />; wohl im Zuge seiner Berufung zum dirigierenden Bürgermeister, wozu er am 6. Dezember 1780 ernannt wurde; am 4. Januar 1781 wurde er in Königsberg ins Amt introduziert (vgl. <link ref="koh-j-2008" linktext="false">Kohnen: <titel>Theodor Gottlieb von Hippel als Oberbürgermeister von Königsberg (1781–1796)</titel></link>, S.&#x202F;189–192).
+</marginal>
+
+<marginal letter="611" page="257" line="29" sort="1">
+<bzg>letzten Einnahme</bzg> wohl das Trinkgeld für die Abfertigung einer Ladung in seiner Eigenschaft als <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Packhofverwalter am Königsberger Licent</link>
+</marginal>
+
+<marginal letter="611" page="257" line="29" sort="2">
+<bzg>Facit</bzg> die Gesamtrechnung der Ein- und Ausgaben für das Jahr 1780
+</marginal>
+
+<marginal letter="611" page="257" line="32">
+<bzg>gerichtliche Unkosten</bzg> wegen der Gerichtsprozesse um seine Häuser, vgl. <intlink letter="598" page="211" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="257" line="33">
+<bzg>ehrlichen Mann</bzg> nicht ermittelt, vgl. <intlink letter="598" page="211" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="258" line="1">
+<bzg>seel. Bruder</bzg> <link ref="hamann-jc" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="258" line="3">
+<bzg>nihil agendo</bzg> untätig, vgl. indessen <intlink letter="480" page="291" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="258" line="8">
+<bzg>Mutter</bzg> <link ref="schumacher-ar" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="258" line="10">
+<bzg>Genius Seculi</bzg> Geist des Jahrhunderts, vgl. <link ref="hamann" subref="hamann-salomon" linktext="true" />, vgl. <link ref="1963" linktext="false">HHE 4</link>, S.&#x202F;273f.
+</marginal>
+
+<marginal letter="611" page="258" line="11">
+<bzg>Fürst dieser Welt</bzg> <link ref="nt-jo" subref="nt-jo12" linktext="false">Joh 12,31</link> (im Hintergrund <link ref="friedrich-II" linktext="true" />)
+</marginal>
+
+<marginal letter="611" page="258" line="12">
+<bzg>Nicolai’s Erzehlung</bzg> <link ref="nicolay" subref="nicolay-schoene" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="258" line="13">
+<bzg>Mährchen im 3 Buch Esra</bzg> Im apokryphen <wwwlink address="https://www.bibelbuch.de/apokryphe-schriften/3-esra/">3. Buch Esra, Kap. 3</wwwlink> geht es um den Wettstreit der Kammerdiener des Königs Dareios, und darum, was das Stärkste ist: der Wein, der König, die Weiber oder die Wahrheit; vgl. <intlink letter="477" page="278" line="35" linktext="true" />.
+</marginal>
+
+<marginal letter="611" page="258" line="15">
+<bzg>Pleßing</bzg> <link ref="plessing-f" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="258" line="16" sort="1">
+<bzg>Aposteltages</bzg> <intlink letter="611" page="257" line="17" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="611" page="258" line="16" sort="2">
+<bzg>Apologie des Semmlers</bzg> wohl schriftstellernde Entwürfe Plessings über die pädagogische Kontroverse um <link ref="semler" linktext="true" />, <intlink letter="611" page="254" line="21" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="611" page="258" line="17">
+<bzg>Gegners libellum</bzg> <link ref="trapp-sendschreiben" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="258" line="18">
+<bzg>relationes curiosas</bzg> Anekdoten, nach <link ref="happel" subref="happel-welt" linktext="true" />
+</marginal>
+
+<marginal letter="611" page="258" line="21">
+<bzg>Schild und großer Lohn</bzg> <link ref="at-mo1" subref="at-mo1-15" linktext="false">1 Mo 15,1</link>
+</marginal>
+
+<marginal letter="611" page="258" line="23">
+<bzg>Marianchen</bzg> <link ref="hamann-ms" linktext="true" />
 </marginal>
 
 
