@@ -4673,6 +4673,12 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 </eintrag>
 </kommentar>
 
+<kommentar id="dorow-w" type="neuzeit">
+<lemma>Wilhelm Dorow</lemma>
+<eintrag>1780–1783. Sohn von <link ref="dorow-jf" linktext="true" /> und <link ref="dorow-s" linktext="true" />.
+</eintrag>
+</kommentar>
+
 <kommentar id="dow" type="neuzeit">
 <lemma>Alexander Dow</lemma>
 <eintrag>Gest. 1779. Schott. Offizier der ostinidischen Kompanie.</eintrag>
@@ -8183,6 +8189,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <kommentar id="hartung-gl" type="neuzeit">
 <lemma>Gottlieb Leberecht Hartung</lemma>
 <eintrag>1747–1797. Buchhändler in Königsberg, Sohn von <link ref="hartung-hj" linktext="true" /> und <link ref="hartung-h" linktext="true" />; 1759 Lehrling in der Hartungschen Buchdruckerei, die ihm seine Mutter nach dem Tod ihrer drei Ehemänner ab Mitte der 1760er Jahre übergab; erhielt 1771 das Privileg seines Vaters; Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Hamann versuchte ihn für den Verlag der <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfälle</titel></link> zu gewinnen (vgl. <intlink letter="380" page="23" line="15" linktext="true" />) und zerstritt sich mit ihm, nachdem sich das Projekt 1772 zerschlug; erst 1779/80 gab es wieder eine leichte Annäherung zu seiner Buchhandlung infolge des Niedergangs der <link ref="kanter" linktext="false">Kanterschen Buchhandlung</link> (vgl. <intlink letter="574" page="145" line="28" linktext="true" />), schnell erfolgte aber eine erneute Entzweiung wegen Hartungs Unzuverlässigkeit in der Besorgung eines ‚Päckchens‘ aus Weimar von Herder. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz27948.html#adbcontent">Kelchner, Ernst: Hartung, Johann Heinrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;713–715</wwwlink> und Carl Richard Dreher: Der Buchhandel und die Buchhändler zu Königsberg in Preußen im 18. Jahrhundert. In: Archiv für Geschichte des Deutschen Buchhandels 18 (1896), S.&#x202F; 171f. u. 204–206.
+</eintrag>
+</kommentar>
+
+<kommentar id="hartung-jf" type="neuzeit">
+<lemma>Johann Friedrich Hartung</lemma>
+<eintrag>1753–1782. Bruder von <link ref="hartung-gl" linktext="true" /> (Sohn von <link ref="hartung-hj" linktext="false">Johann Heinrich</link> und <link ref="hartung-h" linktext="true" />); arbeitete in der Druckerei seines Bruders und schrieb Gedichte, vgl. <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908),</wwwlink> S.&#x202F;310.
 </eintrag>
 </kommentar>
 
@@ -17275,6 +17287,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>1610–1660. Frz. Schriftsteller nach spanischem Vorbild, mittellos, gelähmt seit 1640.</eintrag>
 </kommentar>
 
+<kommentar id="scipio" type="neuzeit">
+<lemma>Scipio Africanus</lemma>
+<eintrag>Publius Cornelius Scipio Africanus. 235–183 v.&#x202F;Chr. Römischer Feldherr.</eintrag>
+</kommentar>
+
 <kommentar id="scultetus" type="neuzeit">
 <lemma>Abraham Scultetus</lemma>
 <eintrag>1566–1624. Reformierter Theologe, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz79822.html#adbcontent">Cuno: Scultetus, Abraham, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;492–496</wwwlink>.</eintrag>
@@ -20828,7 +20845,7 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 
 <kommentar id="wedeke" type="neuzeit">
 <lemma>Johann Christoph Wedeke</lemma>
-<eintrag>1755–1815. 1780 Hofmeister und Gesellschafter bei der Familie zu Dohna-Schlobitten, später Pfarrer und Oberhofprediger in Königsberg; siehe <link ref="http://d-nb.info/14319867X" linktext="false">Deutsche Biographie</link>.</eintrag>
+<eintrag>1755–1815. Von 1776 bis 1784 Hofmeister für die Familien Dohna-Lauck und Dohna-Schlodien, 1784 Pfarrer in Riesenburg, später Oberhofprediger in Königsberg; siehe <link ref="http://d-nb.info/14319867X" linktext="false">Deutsche Biographie</link> und Eilert Herms, Joachim Ringleben (Hg.): Vergessene Theologen des 19. und frühen 20. Jahrhunderts (Göttingen 1984), S.&#x202F;11–36.</eintrag>
 </kommentar>
 
 <kommentar id="wegelin" type="neuzeit">
