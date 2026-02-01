@@ -84605,7 +84605,7 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 <bzg>Freytags</bzg> 15. Dezember 1780, durch Kreutzfeld, vgl. <intlink letter="612" page="259" line="32" linktext="true" />
 </marginal>
 
-<marginal letter="611" page="254" line="1" sort="1">
+<marginal letter="611" page="254" line="1" sort="2">
 <bzg>Skarteque</bzg> Scharteke, abgegriffenes, altes Buch (‚Skarteque‘ ist einer altertümliche französierende Schreibweise); <link ref="friedrich-II" subref="friedrich-litterature-allemande" linktext="true" />
 </marginal>
 
@@ -84818,7 +84818,7 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von <link ref="herder-cd
 </marginal>
 
 <marginal letter="611" page="255" line="34" sort="2">
-<bzg>Buchdrucker Hartung&#x202F;…&#x202F;ein Versifex</bzg> <link ref="hartung-jg" linktext="true" />, der Bruder von <link ref="hartung-gl" linktext="true" />, steuerte für die <link ref="blumenlese-pr" linktext="true" />, Jg.&#x202F;1780 und 1781 jeweils einige Gedichte bei, vgl. deren Register.
+<bzg>Buchdrucker Hartung&#x202F;…&#x202F;ein Versifex</bzg> <link ref="hartung-jf" linktext="true" />, der Bruder von <link ref="hartung-gl" linktext="true" />, steuerte für die <link ref="blumenlese-pr" linktext="true" />, Jg.&#x202F;1780 und 1781 jeweils einige Gedichte bei, vgl. deren Register.
 </marginal>
 
 <marginal letter="611" page="255" line="35">
@@ -85129,7 +85129,7 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="259" line="30">
-<bzg>Dedications Exemplar</bzg> <link ref="herder" subref="herder-gouvernement" linktext="true" />, vgl. <intlink letter="612" page="246" line="16" linktext="true" />
+<bzg>Dedications Exemplar</bzg> <link ref="herder" subref="herder-gouvernement" linktext="true" />, vgl. <intlink letter="607" page="246" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="612" page="259" line="31">
@@ -85346,9 +85346,64 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="262" line="18">
-<bzg>Ankündigung der Humischen Uebersetzung</bzg> Herders Ankündigung der Hume-Übersetzung „von dem berühmten Hamann“ im <link ref="teutsche-merkur" linktext="false">Teutschen Merkur</link>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10617978?page=94">4.&#x202F;Vj. 1780 (Oktober), S.&#x202F;90</wwwlink>, vgl. <intlink letter="607" page="241" line="22" linktext="true" />
+<bzg>Ankündigung der Humischen Uebersetzung</bzg> Herders Ankündigung der Hume-Übersetzung „von dem berühmten Hamann“ im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10617978?page=94">4.&#x202F;Vj. 1780 (Oktober), S.&#x202F;90</wwwlink>, vgl. <intlink letter="607" page="241" line="22" linktext="true" />
 </marginal>
 
+<marginal letter="612" page="262" line="20">
+<bzg>erste Erklärung</bzg> Nicht überliefert; wohl Hartknochs positive Antwort auf <intlink letter="596" page="205" line="26" linktext="true" />; nachdem man von der anderen Übersetzung hörte, folgte noch eine Änderung des Projekts (<intlink letter="601" page="222" line="20" linktext="true" />) und der Vorschlag, eine zweite Übersetzung zu verlegen (<intlink letter="602" page="225" line="19" linktext="true" />), schließlich die Absage (<intlink letter="605" page="233" line="10" linktext="true" />).
+</marginal>
+
+<marginal letter="612" page="262" line="22">
+<bzg>Kant&#x202F;…</bzg> <link ref="kant" linktext="false"></link>, der das Manuskript der <link ref="hamann" subref="hamann-dialogues" linktext="false"><titel>Dialogen die natürliche Religion betreffend</titel></link> korrigierte, vgl. <intlink letter="602" page="222" line="4" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="262" line="23">
+<bzg>Hippel u Pleßing</bzg> <link ref="hippel" linktext="true" /> und <link ref="plessing-f" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="262" line="25">
+<bzg>Nicolai’s Erzehlung</bzg> <link ref="nicolay" subref="nicolay-schoene" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="262" line="26">
+<bzg>Götterbote&#x202F;…&#x202F;Lügner</bzg> der <link ref="teutsche-merkur" linktext="false"><titel>Merkur</titel></link> durch Herders Ankündigung
+</marginal>
+
+<marginal letter="612" page="262" line="28">
+<bzg>beyden Uebersetzungen</bzg> Hamanns eigener und der <link ref="hume" subref="hume-dialogues" linktext="false">anderen</link>, die seit der <link ref="messkatalog" subref="messkatalog-ostern1780" linktext="false">Frühjahrsmesse 1780</link> angekündigt ist, vgl. <intlink letter="596" page="206" line="5" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="262" line="31">
+<bzg>verführerischen Buchs</bzg> <link ref="hume" subref="hume-dialogues" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="262" line="35" sort="1">
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="262" line="35" sort="2">
+<bzg>Florus</bzg> <link ref="florus" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="262" line="36" sort="1">
+<bzg>Odyssée</bzg> <link ref="homer" subref="homer-odyss" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="262" line="36" sort="2">
+<bzg>große Märksche Grammatik</bzg> wohl <link ref="grammatica-marchica" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="262" line="37">
+<bzg>gr.</bzg> griechische Grammatik, nicht ermittelt
+</marginal>
+
+<marginal letter="612" page="263" line="1">
+<bzg>Ebert</bzg> wohl <link ref="ebert-jj" subref="ebert-naturlehre" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="263" line="2">
+<bzg>Voltairens Werke</bzg> <link ref="voltaire" subref="voltaire-collection-complette" linktext="true" />
+</marginal>
 
 
 

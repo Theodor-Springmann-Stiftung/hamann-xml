@@ -4942,6 +4942,18 @@ E
 </eintrag>
 </kommentar>
 
+<kommentar id="ebert-jj" type="neuzeit">
+<lemma>Johann Jacob Ebert</lemma>
+<eintrag>1737–1805. Ab 1770 Professor der Mathematik in Wittenberg; pädagischer Schriftsteller, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118111116.html#adbcontent">Spehr, Ludwig Ferdinand: Ebert, Johann Jakob, in: <titel>ADB</titel>&#x202F;5 (1877), S.&#x202F;587</wwwlink>.
+</eintrag>
+<subsection id="ebert-naturlehre" type="neuzeit">
+<lemma>Ebert, <titel>Naturlehre für die Jugend</titel></lemma>
+<eintrag>
+<titel>Naturlehre für die Jugend. Herausgegeben von Johann Jacob Ebert</titel> (3 Bde., Leipzig: Weidmann und Reich 1776–1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11271958-5">Stabi Augsburg: Nat 304 -1</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="eckart-cg" type="neuzeit">
 <lemma>Christoph Gottfried Eckart</lemma>
 <eintrag>1693–1750. Buchhändler (die Buchhandlung wurde 1746 von <link ref="hartung-hj" linktext="true" /> übernommen) und Negociant in Königsberg.</eintrag>
@@ -6955,6 +6967,11 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <eintrag>
 <titel>Rélation historique du tremblement de terre, survenu à Lisbonne le premier Novembre 1755: avec un détail contenant la perte en hommes, eglises, convens, palais, maissons, diamans, meubles, marchandises, etc. Précedée d’un discours politique sur les avantages que le Portugal pourroit retirer de son malheur dans lequel l’auteur développe les moyens que l’Angleterre avoit mis jusques-là en usage pour ruiner cette monarchie</titel> (Den Haag 1756) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;120/318: „Relation historique du tremblement de terre, survenu à Lisbonne avec un un Discours politique sur les avantages, que le Portugal pourroit retirer de son malheur (par Goudard) Haye 756“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="grammatica-marchica" type="neuzeit">
+<lemma>Grammatica Marchica</lemma>
+<eintrag><titel>Vollständigere Lateinische Grammatica Marchica, in welcher zu den nöthigen Regeln nützliche Anmerkungen und gute Exempel gesetzet sind</titel>. In vielen Auflagen erschienen; Digitalisat Leipzig 1775: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104920-2">Stabi Regensburg: 999/Ling.369</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="grand-vocabulaire" type="neuzeit">
@@ -20566,6 +20583,12 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <titel>Le taureau blanc traduit du Syriaque</titel> („Memphis“ 1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;150/351: „Le Taureau blanc traduit du Syriaque, Memph. 774.“]. Übers.: <titel>Der weiße Stier. Aus dem Syrischen übersetzt. Memphis 1774.</titel>  Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/49892">ULB Halle: AB 153770 (8)</wwwlink>.
 </eintrag>
 </subsection>
+ <subsection id="voltaire-collection-complette" type="neuzeit" sort="230">
+<lemma>Voltaire, <titel>Collection complette</titel></lemma>
+<eintrag>
+<titel>Collection complette des oeuvres de Mr. de Voltaire</titel> (57 Bde., Lausanne: Grasset 1770–1781). – Hamann erwähnt in <intlink letter="612" page="266" line="8" linktext="true" /> eine Ausgabe, von der im Januar 1780 etwa Teile erschienen sind. Siehe die <wwwlink address="https://de.wikipedia.org/wiki/Liste_der_Werke_von_Voltaire">Liste von zeitgenössischen Voltaire-Werkausgabe</wwwlink>. Digitalisat Bd.&#x202F;57 (London 1781): <wwwlink address="https://data.onb.ac.at/rep/10AEAB2E">ÖNB Wien: 407981-B.57 ALT MAG</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="voss" type="neuzeit">
@@ -20845,7 +20868,7 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 
 <kommentar id="wedeke" type="neuzeit">
 <lemma>Johann Christoph Wedeke</lemma>
-<eintrag>1755–1815. Von 1776 bis 1784 Hofmeister für die Familien Dohna-Lauck und Dohna-Schlodien, 1784 Pfarrer in Riesenburg, später Oberhofprediger in Königsberg; siehe <link ref="http://d-nb.info/14319867X" linktext="false">Deutsche Biographie</link> und Eilert Herms, Joachim Ringleben (Hg.): Vergessene Theologen des 19. und frühen 20. Jahrhunderts (Göttingen 1984), S.&#x202F;11–36.</eintrag>
+<eintrag>1755–1815. Von 1776 bis 1784 Hofmeister für die Familien Dohna-Lauck und Dohna-Schlodien, 1784 Pfarrer in Riesenburg, später Oberhofprediger in Königsberg; siehe <wwwlink address="http://d-nb.info/14319867X">Deutsche Biographie</wwwlink> und Eilert Herms, Joachim Ringleben (Hg.): Vergessene Theologen des 19. und frühen 20. Jahrhunderts (Göttingen 1984), S.&#x202F;11–36.</eintrag>
 </kommentar>
 
 <kommentar id="wegelin" type="neuzeit">
