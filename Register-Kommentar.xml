@@ -136,6 +136,11 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 <eintrag>
 <titel>Versuch eines vollständigen grammatisch-kritischen Wörterbuches der Hochdeutschen Mundart,</titel> mit beständiger Vergleichung der übrigen Mundarten, besonders aber der oberdeutschen (5 Bde., Leipzig: Breitkopf 1774–1786) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;130/8: „J. C. Adelung’s Wörterbuch der hochdeutschen Mundart, 1 Th. Leipz. 774“ und <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;131/27: „Adelungs Wörterbuch, Th. 1. Leipz. 774“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10523232-5">BSB München: 4 L.germ. 1-1.</wwwlink></eintrag>
 </subsection>
+<subsection id="adelung-fertigkeiten" type="neuzeit" sort="30">
+<lemma>Adelung, <titel>Kurzer Begriff menschlicher Fertigkeiten und Kenntnisse</titel></lemma>
+<eintrag>
+<titel>Kurzer Begriff menschlicher Fertigkeiten und Kenntnisse so fern sie auf Erwerbung des Unterhalts, auf Vergnügen, auf Wissenschaft, und auf Regierung der Gesellschaft abzielen. Für Realschulen und das bürgerliche Leben, von dem Verfasser der Unterweisung in Künsten und Wissenschaften</titel> (4 Bde., Leipzig: Hertel 1778–1781). Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN1001469585">SUB Göttingen</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="aderkas" type="neuzeit">
@@ -11072,6 +11077,19 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 </eintrag>
 </kommentar>
 
+<kommentar id="knight" type="neuzeit">
+<lemma>Samuel Knight</lemma>
+<eintrag>1675–1746. Englischer Geistlicher und Biograph, siehe <wwwlink address="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Knight,_Samuel_(1675-1746)">Dictionary of National Biography</wwwlink>.
+<subsection id="knight-eramus" type="neuzeit" sort="10">
+<lemma>Knight, </lemma>
+<eintrag>
+<titel>The life of Erasmus, More particularly that part of it, which He spent in England; Wherein an Account is given of his Learned Friends, And the State of Religion and Learning At that Time in both our Universities; with an appendix Containing several original papers. By Samuel Knight, D. D. Prebendary of Ely</titel> (London 1726). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-197632">ULB Münster</wwwlink>.<line type="break" />
+Übers.: <titel>Das Leben des fürtrefflichen Erasmi von Rotterdam, Insonderheit aber derjenige merckwürdigste Theil davon, den er in Engeland zugebracht; Worinnen Eine Nachricht von seinen gelehrten Freunden, wie auch dem Zustand der Religion und Gelehrsamkeit zur selben Zeit, so wohl auf der Universität Cambridge als Oxford, ertheilet wird. Nebst Einem Anhang unterschiedener rarer Urkunden. Abgefasset von Samuel Knight, ins Deutsche übersetzt von Theodoro Arnold (Leipzig: Löwe 1736). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11425682-1"></wwwlink>Stabi Bamberg: Bg.o.164</titel>. Vgl. N&#x202F;V,355.
+</eintrag>
+</subsection>
+</eintrag>
+</kommentar>
+
 <kommentar id="knittel" type="neuzeit">
 <lemma>Franz Anton Knittel</lemma>
 <eintrag>1721–1792. Luth. Theologe. <wwwlink address="https://www.deutsche-biographie.de/pnd116255013.html#adbcontent">Zimmermann, Paul: Knittel, Franz Anton, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;299f</wwwlink>.
@@ -13738,6 +13756,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <lemma>Messkatalog für Michaelis 1780</lemma>
 <eintrag>
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1780 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1780). 
+</eintrag>
+</subsection>
+<subsection id="messkatalog-ostern1781" type="neuzeit" sort="110">
+<lemma>Messkatalog für Ostern 1781</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1781 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1781). 
 </eintrag>
 </subsection>
 </kommentar>
@@ -16781,6 +16805,18 @@ Hamann erwähnt im Studienheft (1.8.1780, N&#x202F;V,352f.) die Übersetzung „
 <lemma>Cola di Rienzo</lemma>
 <eintrag>1313–1354. Römischer Politiker und Volkstribun (Zedler, <titel>Grosses vollständiges Universal-Lexicon Aller Wissenschafften und Künste</titel>, Bd.&#x202F;10, Sp.&#xA0;28, s.v. Gabrini, Nicol); siehe auch: <link ref="dujardin" subref="dujardin-rienzy" linktext="true" />; <link ref="fiortifiocca" subref="vitadirenzo" linktext="true" />.
 </eintrag>
+</kommentar>
+
+<kommentar id="ritter" type="neuzeit">
+<lemma>Johann Balthasar Ritter</lemma>
+<eintrag>1674–1743. Lutherischer Theologe und Kirchenhistoriker, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd138052468.html#adbcontent">Dechent, Hermann: Ritter, in: <titel>ADB</titel>&#x202F;28 (1889), S.&#x202F;666–670</wwwlink>.
+</eintrag>
+<subsection id="ritter-leben" type="neuzeit" sort="10">
+<lemma>Ritter, <titel>M. Matthiae Flacii Illyrici Leben und Tod</titel></lemma>
+<eintrag>
+<titel>M. Matthiae Flacii Illyrici, Ehemals berühmt- und gelährten Theologi in Teutschland Leben und Tod </titel> […] (2.&#x202F;Aufl., Frankfurt und Leipzig: Ziegler 1725). Vgl. N&#x202F;V,355.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="rittersdorf" type="neuzeit">
