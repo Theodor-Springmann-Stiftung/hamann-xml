@@ -2352,6 +2352,12 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+<kommentar id="brechter" type="neuzeit">
+<lemma>Johann Jakob Brechter</lemma>
+<eintrag>1734–1772. Pfarrer und Schriftsteller, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd124508812.html">Deutsche Biographie</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="breitinger" type="neuzeit">
 <lemma>Johann Jakob Breitinger</lemma>
 <eintrag>1701–1776. Philologe und Ästhetiker. 1740 erschien, versehen mit einer Vorrede Bodmers, 1740 Breitingers <titel>Critische Dichtkunst,</titel> worin das alte Prinzip der Nachahmung der Natur hin zur freien Schöpferkraft der Phantasie überschritten wird. <wwwlink address="https://www.deutsche-biographie.de/pnd118514881.html#ndbcontent"> Ernst, Fritz: Breitinger, Johann Jakob, in: <titel>NDB</titel>&#x202F; 2 (1955), S.&#x202F;578.</wwwlink>.
@@ -4075,7 +4081,7 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 
 <kommentar id="czartoryska-t" type="neuzeit">
 <lemma>Teresa Czartoryska</lemma>
-<eintrag>Gest. 1780 bei einem Brand; Tochter von <link ref="czartoryska-i" linktext="true" />; vgl. <link ref="lavater" subref="lavater-therese" linktext="true" />.
+<eintrag>Gest. 1780 in Warschau bei einem Brand; Tochter von <link ref="czartoryska-i" linktext="true" />; vgl. <link ref="lavater" subref="lavater-therese" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -4628,7 +4634,13 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 
 <kommentar id="domhardt" type="neuzeit">
 <lemma>Johann Friedrich Domhardt</lemma>
-<eintrag>1712–1781. Ab 1763 Präsident der <link ref="kriegs-und-domaenenkammer" linktext="true" />.
+<eintrag>1712–1781. Ab 1763 Präsident der <link ref="kriegs-und-domaenenkammer" linktext="true" />; vgl. <wwwlink address="https://books.google.de/books?id=q6ExedbDR-MC">Erich Joachim: Johann Friedrich Domhardt. Ein Beitrag zur Geschichte von Ost- und Westpreußen unter Friedrich dem Großen (Berlin 1899).</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="domhardt-df" type="neuzeit">
+<lemma>Dorothea Friederike Domhardt</lemma>
+<eintrag>Um 1755 bis 1775. Tochter von <link ref="domhardt" linktext="true" />, die bei einem häuslichen Brandunfall starb; vgl. <wwwlink address="https://books.google.de/books?id=q6ExedbDR-MC">Joachim: Johann Friedrich Domhardt, S.&#x202F;151f</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -6124,6 +6136,18 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 </eintrag>
 </kommentar>
 
+<kommentar id="funk-gb" type="neuzeit">
+<lemma>Gottfried Benedict Funk</lemma>
+<eintrag>1734–1814. Pädagoge und Schriftsteller, Rektor der Domschule in Magdeburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116873655.html#adbcontent">Janicke, Karl: Funk, Gottfried Benedict, in: <titel>ADB</titel>&#x202F;8 (1878), S.&#x202F;201f</wwwlink>.
+</eintrag>
+<subsection id="funk-schulen" type="neuzeit">
+<lemma>Funk, <titel>Gedanken von dem Nutzen richtig getriebener Philologie in den Schulen</titel></lemma>
+<eintrag>
+<titel>Gedanken von dem Nutzen richtig getriebner Philologie in den Schulen</titel> (4 Fortsetzungen, Magdeburg 1775–1777). Digitalisat: <wwwlink address="https://digital.staatsbibliothek-berlin.de/suche?queryString=PPN857832239">Stabi Berlin</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="furst" type="neuzeit">
 <lemma>Maximilian von Fürst und Kupferberg</lemma>
 <eintrag>1717–1790. 1740 Geheimer Justizrat und Mitarbeiter von Cocceji bei der Justizreform, 1763 Geheimer Etats- und Justizminister sowie Präsident des 1. Kammergerichts, 1770–1779 Großkanzler bzw. Justizminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17943.html">Virneisel, Wilhelm: Fürst von Kupferberg, Carl, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;693f.</wwwlink>
@@ -6779,7 +6803,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 
 <kommentar id="goertz-kfa" type="neuzeit">
 <lemma>Karl Friedrich Adam von Görtz</lemma>
-<eintrag>1733–1797. Reichsgraf von Schlitz, genannt von Goertz. Offizier, ab 1771 in brandenburg-preußischen Diensten, zuletzt General der Kavallerie; Bruder von <link ref="goertz" linktext="true" />; 1780 Begleiter des <link ref="friedrich-wilhelm-II" linktext="false">Kronprinzen Friedrichrich Wilhelm</link>nach Russland.
+<eintrag>1733–1797. Reichsgraf von Schlitz, genannt von Goertz. Offizier, ab 1771 in brandenburg-preußischen Diensten, zuletzt General der Kavallerie; Bruder von <link ref="goertz" linktext="true" />; 1780 Begleiter des <link ref="friedrich-wilhelm-II" linktext="false">Kronprinzen Friedrichrich Wilhelm</link> nach Russland.
 </eintrag>
 </kommentar>
 
@@ -13346,20 +13370,20 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 </kommentar>
 
 <kommentar id="meck" type="neuzeit">
-<lemma>Johann Erich v. Meck</lemma>
+<lemma>Johann Erich von Meck</lemma>
 <eintrag>1727–1771. Sekretär der livländischen Ritterschaft, Kreisdeputierter, Stallmeister des Herzogs Ernst Johann von Kurland. Gab in Riga das Wochenblatt <titel>Der ruhige Bemerker</titel> heraus (1746/47, 50 Hefte). <titel>Allgemeines Schriftsteller- und Gelehrten-Lexikon der Provinzen Livland, Esthland und Kurland</titel> (Mitau 1831, Bd.&#x202F;3), S.&#x202F;175f.
 </eintrag>
 </kommentar>
 
 <kommentar id="medem-jf" type="neuzeit">
 <lemma>Johann Friedrich Graf von Medem</lemma>
-<eintrag>1758–778. Bruder von <link ref="dorothea-kurland" linktext="true" /> und Halbbruder von <link ref="recke-e" linktext="true" />.
+<eintrag>1758–1778. Bruder von <link ref="dorothea-kurland" linktext="true" /> und Halbbruder von <link ref="recke-e" linktext="true" />.
 </eintrag>
 </kommentar>
 
 <kommentar id="meier-gf" type="neuzeit">
 <lemma>Georg Friedrich Meier</lemma>
-<eintrag>1718–1777. 1748 Prof. der Philosophie in Halle, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118580051.html#ndbcontent">Segreff, Klaus-Werner: Meier, Georg Friedrich, in: <titel>ADB</titel>&#x202F;16 (1990), S.&#x202F;649–651</wwwlink>.
+<eintrag>1718–1777. 1748 Professor der Philosophie in Halle, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118580051.html#ndbcontent">Segreff, Klaus-Werner: Meier, Georg Friedrich, in: <titel>ADB</titel>&#x202F;16 (1990), S.&#x202F;649–651</wwwlink>.
 </eintrag>
 <subsection id="meier-anfangsgruende" type="neuzeit">
 <lemma>Meier, <titel>Anfangsgründe</titel></lemma>
@@ -14519,6 +14543,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <kommentar id="mueller-ms" type="neuzeit">
 <lemma>M. S. Müller</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Beb. Baranowski, Ehefrau von <link ref="mueller-ee" linktext="true" /> und Pflegemutter von <link ref="kraus" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="mueller-nn" type="neuzeit">
+<lemma>N.N. Müller</lemma>
+<eintrag>Gest. 1783. Sohn von <link ref="mueller-ee" linktext="true" /> und <link ref="mueller-ms" linktext="true" />.</eintrag>
 </kommentar>
 
  <kommentar id="mun" type="neuzeit">
@@ -16807,7 +16836,7 @@ Hamann erwähnt im Studienheft (1.8.1780, N&#x202F;V,352f.) die Übersetzung „
 <subsection id="laroche-monchswesen" type="neuzeit" sort="10">
 <lemma>La Roche, <titel>Briefe über das Mönchswesen</titel></lemma>
 <eintrag>
-<titel>Briefe über das Mönchswesen von einem catholischen Pfarrer an einen Freund</titel> ([Zürich] 1771; die Bde., zwei bis vier, 1780–1781 stammten nicht von ihm, sondern von <wwwlink address="https://www.deutsche-biographie.de/pnd119275147.html#adbcontent">Johann Kaspar Riesbeck</wwwlink>). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10029572-5">BSB München: H.mon. 72 e</wwwlink>. 
+<titel>Briefe über das Mönchswesen von einem catholischen Pfarrer an einen Freund</titel> ([Zürich] 1771, hg. vmtl. von <link ref="brechter" linktext="true" />; die Bände zwei bis vier, 1780–1781, stammten nicht von ihm, sondern von <wwwlink address="https://www.deutsche-biographie.de/pnd119275147.html#adbcontent">Johann Kaspar Riesbeck</wwwlink>). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10029572-5">BSB München: H.mon. 72 e</wwwlink>. 
 </eintrag>
 </subsection>
 </kommentar>

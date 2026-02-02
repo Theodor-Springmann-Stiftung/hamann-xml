@@ -83865,10 +83865,6 @@ Brief Nr. 607
 <bzg>70. u. dem Araber</bzg> der Septuaginta und Herders Arabisch-Übersetzung des alten Testaments (vgl. SWS X, S.&#x202F;61f.)
 </marginal>
 
-<marginal letter="607" page="242" line="37">
-<bzg>בנוֺת צערה</bzg> 
-</marginal>
-
 <marginal letter="607" page="243" line="1">
 <bzg>Mendelsohn</bzg> <link ref="mendelssohn" linktext="true" />, vgl. <link ref="mendelssohn" subref="mendelssohn-pentateuch" linktext="false"><titel>Die fünf Bücher Mose zum Gebauch der jüdischdeutschen Nation</titel></link>, S.&#x202F;309
 </marginal>
@@ -84411,7 +84407,7 @@ Brief Nr. 610
 </marginal>
 
 <marginal letter="610" page="250" line="32">
-<bzg>Beschreibung vom Prinzen&#x202F;…&#x202F;Brief</bzg> Nicht überliefert; gemeint ist die Reise des <link ref="friedrich-wilhelm-II" linktext="false">Kronprinzen Friedrich Wilhelm</link> über das Baltikum nach Russland, vgl. <intlink letter="598" page="208" line="7" linktext="true" />.
+<bzg>Beschreibung vom Prinzen&#x202F;…&#x202F;Brief</bzg> Nicht überliefert; gemeint ist die Reise des <link ref="friedrich-wilhelm-II" linktext="false">Kronprinzen Friedrich Wilhelm</link> über das Baltikum nach Russland, vgl. <intlink letter="598" page="208" line="7" linktext="true" />; zu <link ref="recke-e" linktext="false">Elisa von der Reckes</link> Brief vgl. auch <intlink letter="612" page="264" line="28" linktext="true" />.
 </marginal>
 
 <marginal letter="610" page="251" line="6">
@@ -85141,7 +85137,7 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="259" line="36">
-<bzg></bzg> <link ref="fischer-cg" linktext="true" />, vgl. <intlink letter="607" page="247" line="13" linktext="true" />
+<bzg>Pf. Fischer</bzg> <link ref="fischer-cg" linktext="true" />, vgl. <intlink letter="607" page="247" line="13" linktext="true" />
 </marginal>
 
 <marginal letter="612" page="260" line="4">
@@ -85270,7 +85266,7 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="262" line="1" sort="1">
-<bzg>Kanter</bzg> 
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
 
 <marginal letter="612" page="262" line="1" sort="2">
@@ -85354,7 +85350,7 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="262" line="22">
-<bzg>Kant&#x202F;…</bzg> <link ref="kant" linktext="false"></link>, der das Manuskript der <link ref="hamann" subref="hamann-dialogues" linktext="false"><titel>Dialogen die natürliche Religion betreffend</titel></link> korrigierte, vgl. <intlink letter="602" page="222" line="4" linktext="true" />
+<bzg>Kant&#x202F;…</bzg> <link ref="kant" linktext="false"></link>, der das Manuskript der <link ref="hamann" subref="hamann-dialogues" linktext="false"><titel>Dialogen die natürliche Religion betreffend</titel></link> korrigierte, vgl. <intlink letter="601" page="222" line="4" linktext="true" />
 </marginal>
 
 <marginal letter="612" page="262" line="23">
@@ -85445,31 +85441,183 @@ Brief Nr. 612
 <bzg>Mysterium stupiditatis und iniquitatis</bzg> das Geheimnis der Dummheit und Bosheit/Ungerechtigkeit; nach <link ref="nt-th2" subref="nt-th2-2" linktext="false">2 Thess 2,7</link> (dort ohne stupiditas)
 </marginal>
 
-<marginal letter="612" page="263" line="">
+<marginal letter="612" page="263" line="28">
+<bzg>Kraus</bzg> <link ref="kraus" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="263" line="29" sort="1">
+<bzg>Müllers jüngsten Sohn</bzg> <link ref="mueller-nn" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="263" line="29" sort="2">
+<bzg>meinen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="263" line="30" sort="1">
+<bzg>Mlle Schimmelpfenning</bzg> <link ref="schimmelpfennig-b" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="263" line="30" sort="2">
+<bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="263" line="31" sort="1">
+<bzg>Brahl</bzg> <link ref="brahl" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="263" line="32" sort="2">
+<bzg>Wedicke</bzg> <link ref="wedeke" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="263" line="32">
+<bzg>erster Dialog</bzg> <link ref="kreutzfeld" subref="kreutzfeld-geschlechter" linktext="true" />, vgl. 
+</marginal>
+
+<marginal letter="612" page="263" line="33">
+<bzg>Vernunft u Glauben</bzg> nicht überliefert
+</marginal>
+
+<marginal letter="612" page="263" line="34">
+<bzg>Kypkischen Katalog</bzg> den Katalog der Bibliothek des verstorbenen <link ref="kypke" linktext="false">Kypke</link>, an dessen Erstellung Kreutzfeld beteiligt war, vgl. <intlink letter="592" page="191" line="34" linktext="true" />; sein Brief an Herder nicht überliefert
+</marginal>
+
+<marginal letter="612" page="264" line="3" sort="1">
+<bzg>Princeßin Czartor.</bzg> <link ref="czartoryska-t" linktext="true" />, vgl. <link ref="lavater" subref="lavater-therese" linktext="true" /> und <intlink letter="607" page="242" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="3" sort="2">
+<bzg>Zeitungen</bzg> wohl <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>
+</marginal>
+
+<marginal letter="612" page="264" line="4">
+<bzg>Präsident</bzg> <link ref="domhardt" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="5">
+<bzg>Bar. von Bondeli</bzg> <link ref="bondeli" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="10">
+<bzg>halb Dutzend voll</bzg> Gemeint ist die Ankündigung eines neuen Kindes, vgl. <intlink letter="607" page="247" line="9" linktext="true" />.
+</marginal>
+
+<marginal letter="612" page="264" line="12">
+<bzg>Präsidenten der Akademie</bzg> vgl. <intlink letter="611" page="257" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="13">
+<bzg>Königs</bzg> <link ref="friedrich-II" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="14">
+<bzg>Nasendrücker</bzg> Sarg mit plattem Deckel, vgl. <wwwlink address="www.woerterbuchnetz.de/DWB/nasendrücker">DWB, 1.&#x202F;Aufl., Bd.&#x202F;13, Sp.&#x202F;411, s.v. nasendrücker</wwwlink>
+</marginal>
+
+<marginal letter="612" page="264" line="20">
+<bzg></bzg> die anonym publizierten <link ref="laroche-gmf" subref="laroche-monchswesen" linktext="false"><titel>Briefe über das Mönchswesen</titel></link>; Bd.&#x202F;1 stammte von <link ref="laroche-gmf" linktext="true" />, Bd. 2 und 3 (1780) von <wwwlink address="https://www.deutsche-biographie.de/pnd119275147.html#adbcontent">Johann Kaspar Riesbeck</wwwlink>, vgl. <intlink letter="607" page="245" line="33" linktext="true" />.
+</marginal>
+
+<marginal letter="612" page="264" line="21">
+<bzg>seel. Brechter</bzg> <link ref="brechter" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="26" sort="1">
+<bzg>coemeterium</bzg> Ruhestätte, Friedrhof
+</marginal>
+
+<marginal letter="612" page="264" line="26" sort="2">
+<bzg>Hippel</bzg> <link ref="hippel" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="28">
+<bzg>Brief der Cammerherrin von der Recke</bzg> <link ref="recke-e" linktext="true" />, nicht überliefert, vgl. <intlink letter="610" page="250" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="29">
+<bzg>Herzogin in Curl.</bzg> <link ref="dorothea-kurland" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="30" sort="1">
+<bzg>Leichensermon des Bleßig</bzg> <link ref="blessig" subref="blessig-rede" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="30" sort="2">
+<bzg>seel. Bruder</bzg> <link ref="medem-jf" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="31">
+<bzg>Freundin Stoltz</bzg> <link ref="stoltz-c" linktext="true" />vgl. <intlink letter="610" page="250" line="32" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="32">
+<bzg>Prinzen</bzg> <link ref="friedrich-wilhelm-II" linktext="false">Kronprinz Friedrich Wilhelm</link>
+</marginal>
+
+<marginal letter="612" page="264" line="33" sort="1">
+<bzg>Graf Görz</bzg> <link ref="goertz-kfa" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="33" sort="2">
+<bzg>Abgesandten in Petersb. Bruder</bzg> <link ref="goertz" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="264" line="34">
+<bzg>Cammerherr von Bielau</bzg> nicht ermittelt, mglw. eine Verwechslung in Caroline Stoltz’ Brief
+</marginal>
+
+<marginal letter="612" page="264" line="35" sort="1">
+<bzg>Pr.</bzg> Prinzen
+</marginal>
+
+<marginal letter="612" page="264" line="35" sort="2">
+<bzg>Wieland Göthe u den Stolbergen</bzg> <link ref="wieland" linktext="true" />, <link ref="goethe" linktext="true" /> und <link ref="stolberg" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="265" line="1" sort="1">
+<bzg>Bötticher</bzg> <link ref="botticher-jgi" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="265" line="1" sort="2">
+<bzg>Rector Funk</bzg> <link ref="funk-gb" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="265" line="1" sort="3">
+<bzg>Gedanken&#x202F;…</bzg> <link ref="funk-gb" subref="funk-schulen" linktext="true" />
+</marginal>
+
+<marginal letter="612" page="265" line="5">
+<bzg>2 Symbola</bzg> wohl Kirchenlieder oder Predigten (eigentlich Glaubensbekenntnisse)
+</marginal>
+
+<marginal letter="612" page="265" line="">
 <bzg></bzg> 
 </marginal>
 
-<marginal letter="612" page="263" line="">
+<marginal letter="612" page="265" line="">
 <bzg></bzg> 
 </marginal>
 
-<marginal letter="612" page="263" line="">
+<marginal letter="612" page="265" line="">
 <bzg></bzg> 
 </marginal>
 
-<marginal letter="612" page="263" line="">
+<marginal letter="612" page="265" line="">
 <bzg></bzg> 
 </marginal>
 
-<marginal letter="612" page="263" line="">
+<marginal letter="612" page="265" line="">
 <bzg></bzg> 
 </marginal>
 
-<marginal letter="612" page="263" line="">
+<marginal letter="612" page="265" line="">
 <bzg></bzg> 
 </marginal>
 
-<marginal letter="612" page="263" line="">
+<marginal letter="612" page="265" line="">
+<bzg></bzg> 
+</marginal>
+
+<marginal letter="612" page="265" line="">
 <bzg></bzg> 
 </marginal>
 
