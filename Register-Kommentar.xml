@@ -9798,11 +9798,22 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 <titel>An Inquiry into the Original of our Ideas of Beauty and Virtue, in two Treatises; I. Concerning Beauty, Order, Harmony, Design. II. Concerning Moral Good and Evil</titel> (London 1725) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;118/287: „F. Hutchinson’s Enquiry into the Original of our Ideas of Beauty and Virtue, Lond. 725“]. Digitalisat, Ausg. 1726: <wwwlink address="http://commons.ptsem.edu/id/inquiryintoorigi1726hutc">John Adams L./Boston PL.: Adams 291.8</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="Hutcheson-moralis" type="neuzeit" sort="20">
+<subsection id="hutcheson-moralis" type="neuzeit" sort="20">
 <lemma>Hutcheson, <titel>Philosophiae moralis</titel></lemma>
 <eintrag><titel>Philosophiae moralis institutio compendiaria. Libris III. Ethices et jurisprudentiae naturalis elementa continens</titel> (Glasgow 1745) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;118/288: „Ei. Philosophiae Moralis, Rott. 745.“].
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hyde" type="neuzeit">
+<lemma>Thomas Hyde</lemma>
+<eintrag>1636–1703. Englischer Orientalist und Sprachwissenschaftler, siehe <wwwlink address="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Hyde,_Thomas_(1636-1703)">Dictionary of National Biography</wwwlink>.
+<subsection id="hyde-persarum" type="neuzeit" sort="10">
+<lemma>Hyde, <titel>Historia religionis veterum Persarum</titel></lemma>
+<eintrag><titel>Historia religionis veterum Persarum, eorumque Magorum</titel> […] (Oxford 1700; 1760 neu aufgelegt). Digitalisat Oxford 1700: <wwwlink address="https://data.onb.ac.at/rep/1059ECE0">ÖNB Wien: 65.E.14 ALT PRUNK</wwwlink>, Oxford 1760: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10359455-5">BSB München: 4 H.ant. 66 b</wwwlink>.
+</eintrag>
+</subsection>
+</eintrag>
 </kommentar>
 
 <kommentar id="hypochondrist" type="neuzeit">
@@ -11081,7 +11092,7 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <lemma>Samuel Knight</lemma>
 <eintrag>1675–1746. Englischer Geistlicher und Biograph, siehe <wwwlink address="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Knight,_Samuel_(1675-1746)">Dictionary of National Biography</wwwlink>.
 <subsection id="knight-eramus" type="neuzeit" sort="10">
-<lemma>Knight, </lemma>
+<lemma>Knight, <titel>The life of Erasmus</titel></lemma>
 <eintrag>
 <titel>The life of Erasmus, More particularly that part of it, which He spent in England; Wherein an Account is given of his Learned Friends, And the State of Religion and Learning At that Time in both our Universities; with an appendix Containing several original papers. By Samuel Knight, D. D. Prebendary of Ely</titel> (London 1726). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-197632">ULB Münster</wwwlink>.<line type="break" />
 Übers.: <titel>Das Leben des fürtrefflichen Erasmi von Rotterdam, Insonderheit aber derjenige merckwürdigste Theil davon, den er in Engeland zugebracht; Worinnen Eine Nachricht von seinen gelehrten Freunden, wie auch dem Zustand der Religion und Gelehrsamkeit zur selben Zeit, so wohl auf der Universität Cambridge als Oxford, ertheilet wird. Nebst Einem Anhang unterschiedener rarer Urkunden. Abgefasset von Samuel Knight, ins Deutsche übersetzt von Theodoro Arnold (Leipzig: Löwe 1736). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11425682-1"></wwwlink>Stabi Bamberg: Bg.o.164</titel>. Vgl. N&#x202F;V,355.
@@ -19732,7 +19743,12 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <subsection id="tiedemann-mensch" type="neuzeit" sort="20">
 <lemma>Tiedemann, <titel>Untersuchungen über den Menschen</titel></lemma>
 <eintrag>
-<titel>Untersuchungen über den Menschen</titel> von Dieterich Tiedemann (3 Bde., Leipzig: Weidmann und Reich 1777–1778). Digitalisat <wwwlink address="http://data.onb.ac.at/rep/1082CBB6">ÖNB Wien</wwwlink>.</eintrag>
+<titel>Untersuchungen über den Menschen</titel> von Dieterich Tiedemann (3 Bde., Leipzig: Weidmann und Reich 1777–1778). Digitalisat <wwwlink address="http://data.onb.ac.at/rep/1082CBB6">ÖNB Wien: *46.K.30.(Vol.1) ALT PRUNK</wwwlink>.</eintrag>
+</subsection>
+<subsection id="tiedemann-philosophen" type="neuzeit" sort="30">
+<lemma>Tiedemann, <titel>Griechenlands erste Philosophen</titel></lemma>
+<eintrag>
+<titel>Griechenlands erste Philosophen oder Leben und Systeme des Orpheus, Pherecydes, Thales und Pythagoras</titel> von Dieterich Tiedemann (Leipzig: Weidmann und Reich 1780). Digitalisat <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10047172-6">BSB München: Ph.u. 508 e</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 

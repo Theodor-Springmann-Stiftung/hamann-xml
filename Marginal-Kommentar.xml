@@ -53387,7 +53387,7 @@ Brief Nr. 426
 </marginal>
 
 <marginal letter="426" page="143" line="37">
-<bzg>Onesimo</bzg> entflohener Sklave in <link ref="nt-philemon" subref="nt-philemon1" linktext="false">Phlm 9n19</link>
+<bzg>Onesimo</bzg> entflohener Sklave in <link ref="nt-philemon" subref="nt-philemon1" linktext="false">Phlm 9–19</link>
 </marginal>
 
 <marginal letter="426" page="144" line="2">
@@ -85710,7 +85710,7 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="266" line="6" sort="1">
-<bzg>Erasmi Leben von Knight</bzg> <link ref="knight" subref="knight-eramus" linktext="true" />
+<bzg>Erasmi Leben von Knight</bzg> <link ref="knight" subref="knight-eramus" linktext="false">Knight, <titel>Das Leben des fürtrefflichen Erasmi von Rotterdam</titel></link>
 </marginal>
 
 <marginal letter="612" page="266" line="6" sort="2">
@@ -85718,7 +85718,7 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="266" line="7">
-<bzg>Hyde de Religione Persarum</bzg> 
+<bzg>Hyde de Religione Persarum</bzg> <link ref="hyde" subref="hyde-persarum" linktext="true" />
 </marginal>
 
 <marginal letter="612" page="266" line="8">
@@ -85726,11 +85726,11 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="266" line="11">
-<bzg>Irrthümer u Wahrheit</bzg> 
+<bzg>Irrthümer u Wahrheit</bzg> <link ref="saint-martin" subref="saint-martin-verite" linktext="true" /> und <link ref="claudius" linktext="false">Claudius’</link> Übersetzung, vgl. <intlink letter="607" page="247" line="29" linktext="true" />
 </marginal>
 
 <marginal letter="612" page="266" line="13">
-<bzg>Tidemans stoische φφie</bzg> 
+<bzg>Tidemans stoische φφie</bzg> <link ref="tiedemann" subref="tiedemann-philosophen" linktext="true" />
 </marginal>
 
 <marginal letter="612" page="266" line="14">
@@ -85738,22 +85738,16 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="266" line="15" sort="1">
-<bzg>Ihr Seminarium</bzg> 
+<bzg>Ihr Seminarium</bzg> vgl. <intlink letter="607" page="243" line="11" linktext="true" />
 </marginal>
 
 <marginal letter="612" page="266" line="15" sort="2">
-<bzg>3 sokratische Gespräche&#x202F;…</bzg> 
+<bzg>Χαιρομεν&#x202F;…</bzg> <link ref="nt-kor2" subref="nt-kor2-13" linktext="false">2 Kor 13,9</link>
 </marginal>
 
-<marginal letter="612" page="266" line="">
-<bzg>Ονησιμος αχρηστος</bzg> 
+<marginal letter="612" page="266" line="20">
+<bzg>Ονησιμος αχρηστος</bzg> unnützer Onesimos, nach <link ref="nt-philemon" subref="nt-philemon1" linktext="false">Phlm 11</link>
 </marginal>
-
-<marginal letter="612" page="266" line="">
-<bzg></bzg> 
-</marginal>
-
-
 
 
 Brief Nr. 627
