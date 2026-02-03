@@ -11742,7 +11742,7 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="610">
-        <date value="Drubenalken, 18. Dezember 1780" />
+        <date value="Dubenalken, 18. Dezember 1780" />
         <sort value="1780-12-18" order="100" />
         <location ref="32" />
         <senders>
@@ -11818,9 +11818,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="614">
-        <date value="25. Februar 1781" />
+        <date value="Königsberg, 25. Februar 1781" />
         <sort value="1781-02-25" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -11857,9 +11857,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="616">
-        <date value="8. und 10. April 1781" />
+        <date value="Königsberg, 8. und 10. April 1781" />
         <sort value="1781-04-08" from="1781-04-08" to="1781-04-10" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -11876,9 +11876,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="617">
-        <date value="27. und 29. April 1781" />
+        <date value="Königsberg, 27. und 29. April 1781" />
         <sort value="1781-04-27" from="1781-04-27" to="1781-04-29" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
