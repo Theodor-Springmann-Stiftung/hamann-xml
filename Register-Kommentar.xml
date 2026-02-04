@@ -8028,7 +8028,7 @@ Vgl. über ihren Vater: Elisabeth Regina Hamann: <titel>Etwas über mich.</titel
 <subsection id="hamann-jg-genest" type="neuzeit" sort="910">
 <lemma>J.&#x202F;G. Hamann der Ältere, <titel>Genest-Übersetzung</titel></lemma>
 <eintrag>
-<titel>Herrn B. H. Brockes verdeutschte Grund-Sätze der Welt-Weisheit des Herrn Abts Genest, nebst   verschiedenen eigenen theils Physicalischen, theils Moralischen Gedichten, als des Jrdischen Vergnügens in Gott Dritter Theil. nebst verschiedenen eigenen theils Physicalischen, theils Moralischen Gedichten als des Jrdischen Vergnügens in Gott Dritter Theil; zum Druck befördert von Joh. George Hamann</titel> (Hamburg: König, Richter 1730). Übersetzung einer Schrift von <link ref="genest" linktext="true" />, veröffentlicht in <link ref="brockes" subref="brockes-vergnuegen" linktext="true" />, Bd.&#x202F;3. Digitalisat 2.&#x202F;Aufl. 1730: <wwwlink address="http://diglib.hab.de/drucke/lo-677-2-1/start.htm">HAB Wolfenbüttel</wwwlink>.
+<titel>Herrn B. H. Brockes verdeutschte Grund-Sätze der Welt-Weisheit des Herrn Abts Genest, nebst verschiedenen eigenen theils Physicalischen, theils Moralischen Gedichten, als des Jrdischen Vergnügens in Gott Dritter Theil. nebst verschiedenen eigenen theils Physicalischen, theils Moralischen Gedichten als des Jrdischen Vergnügens in Gott Dritter Theil; zum Druck befördert von Joh. George Hamann</titel> (Hamburg: König, Richter 1730). Übersetzung einer Schrift von <link ref="genest" linktext="true" />, veröffentlicht in <link ref="brockes" subref="brockes-vergnuegen" linktext="true" />, Bd.&#x202F;3. Digitalisat 2.&#x202F;Aufl. 1730: <wwwlink address="http://diglib.hab.de/drucke/lo-677-2-1/start.htm">HAB Wolfenbüttel</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -12064,7 +12064,7 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 </subsection>
 <subsection id="lessing-briefe-gottesgelehrte" type="neuzeit" sort="168">
 <lemma>Lessing, <titel>Briefe an verschiedene Gottesgelehrte</titel></lemma>
-<eintrag><titel>G. E. Lessings Briefe an verschiedene Gottesgelehrte</titel>. Für Sommer 1780 angekündigt (vgl. <link ref="messkatalog" subref="messkatalog-ostern1780" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000127/full/full/0/default.jpg">, ‚Schriften welche künftig herauskommen sollen‘, S.&#x202F;941</wwwlink>), aber zu Lebzeiten nicht erschienen; <link ref="lessing" subref="lessing-nachlass" linktext="true" />, S.&#x202F;27f. und 113–154.
+<eintrag><titel>G. E. Lessings Briefe an verschiedene Gottesgelehrte</titel>. Für Sommer 1780 angekündigt (vgl. <link ref="messkatalog" subref="messkatalog-ostern1780" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000127/full/full/0/default.jpg">, ‚Schriften welche künftig herauskommen sollen‘, S.&#x202F;941</wwwlink>), aber zu Lebzeiten nicht erschienen; siehe <link ref="lessing" subref="lessing-nachlass" linktext="true" />, S.&#x202F;27f. und 113–154.
 </eintrag>
 </subsection>
 <subsection id="lessing-nachlass" type="neuzeit" sort="170">
@@ -13777,6 +13777,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 <subsection id="messkatalog-ostern1781" type="neuzeit" sort="110">
 <lemma>Messkatalog für Ostern 1781</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1781 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1781). 
+</eintrag>
+</subsection>
+<subsection id="messkatalog-michaelis1781" type="neuzeit" sort="110">
+<lemma>Messkatalog für Michaelis 1781</lemma>
 <eintrag>
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1781 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1781). 
 </eintrag>
@@ -20477,6 +20483,11 @@ Dt. Übers. zitiert nach: Michael von Albrecht u. Otto Schönberger (Übers.), <
 <eintrag>1734–1801. Studierte 1751 in Königsberg u. 1753 in Leipzig.</eintrag>
 </kommentar>
 
+<kommentar id="voldenscherer" type="neuzeit">
+<lemma>N.N. Voldenscherer</lemma>
+<eintrag>Lebensdaten nicht ermittelt (von Hamann sehr variabel geschrieben), offenbar ein Freund <link ref="hartknoch" linktext="false">Hartknochs</link>.</eintrag>
+</kommentar>
+
 <kommentar id="voltaire" type="neuzeit">
 <lemma>Voltaire</lemma>
 <eintrag>1694–1778. Eigentlich François-Marie Arouet. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-68321">Williams, D.: Arouet, François-Marie, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -20671,9 +20682,9 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 </eintrag>
 </subsection>
  <subsection id="voltaire-collection-complette" type="neuzeit" sort="230">
-<lemma>Voltaire, <titel>Collection complette</titel></lemma>
+<lemma>Voltaire, <titel>Collection complette</titel> (1770–1781)</lemma>
 <eintrag>
-<titel>Collection complette des oeuvres de Mr. de Voltaire</titel> (57 Bde., Lausanne: Grasset 1770–1781). – Hamann erwähnt in <intlink letter="612" page="266" line="8" linktext="true" /> eine Ausgabe, von der im Januar 1780 etwa Teile erschienen sind. Siehe die <wwwlink address="https://de.wikipedia.org/wiki/Liste_der_Werke_von_Voltaire">Liste von zeitgenössischen Voltaire-Werkausgabe</wwwlink>. Digitalisat Bd.&#x202F;57 (London 1781): <wwwlink address="https://data.onb.ac.at/rep/10AEAB2E">ÖNB Wien: 407981-B.57 ALT MAG</wwwlink>
+<titel>Collection complette des oeuvres de Mr. de Voltaire</titel> (57 Bde., Lausanne: Grasset 1770–1781). – Hamann erwähnt in <intlink letter="612" page="266" line="8" linktext="true" /> eine Ausgabe, von der im Januar 1780 etwa 50 Teile erschienen sind (vgl. die <wwwlink address="https://de.wikipedia.org/wiki/Liste_der_Werke_von_Voltaire">Liste von zeitgenössischen Voltaire-Werkausgabe</wwwlink>). Digitalisat aller Tle.: <wwwlink address="http://dx.doi.org/10.25673/88783">ULB Halle</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
