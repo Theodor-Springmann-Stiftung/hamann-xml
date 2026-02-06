@@ -803,7 +803,7 @@ Dt. Übers. zitiert nach: Kurt Flasch u. Burkhard Mojsisch (Übers.), <titel>Aug
 
 <kommentar id="auerswald" type="neuzeit">
 <lemma>Hans Jakob v. Auerswald</lemma>
-<eintrag>1757–1833. In den 1770er Jahren verschiedentlich beim Militär und an der Albertina inskribiert, 1776 Offizier, Freimaurer (vgl. <intlink letter="575" page="154" line="6" linktext="true" />);später Kammerpräsident und Kanzler, Erbherr auf dem Gut Faulen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz1549.html#adbcontent">Usinger: Auerswald, Hans Jakob von, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;645–650</wwwlink> und <wwwlink address="https://books.google.de/books?id=UJdAAAAAcAAJ">Voigt: <titel>Beiträge zur Geschichte der Familie von Auerswald aus urkundlichen Quellen</titel> (Königsberg 1824), S.&#x202F;61</wwwlink>.</eintrag>
+<eintrag>1757–1833. In den 1770er Jahren verschiedentlich beim Militär und an der Albertina inskribiert, 1776 Offizier, Freimaurer (vgl. <intlink letter="575" page="154" line="6" linktext="true" />); später Kammerpräsident und Kanzler, Erbherr auf dem Gut Faulen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz1549.html#adbcontent">Usinger: Auerswald, Hans Jakob von, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;645–650</wwwlink> und <wwwlink address="https://books.google.de/books?id=UJdAAAAAcAAJ">Voigt: <titel>Beiträge zur Geschichte der Familie von Auerswald aus urkundlichen Quellen</titel> (Königsberg 1824), S.&#x202F;61</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="auserlesene-bibliothek" type="neuzeit">
@@ -2705,7 +2705,7 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 <subsection id="histoirenaturelle" type="neuzeit" sort="10">
 <lemma>Buffon, <titel>Histoire naturelle générale et particulière</titel></lemma>
 <eintrag>
-<titel>Histoire naturelle générale et particulière. Théorie de la terre; histoire naturelle de l’homme; animaux quadrupèdes. Par Buffon et Louis-Jean-Marie Daubenton</titel> (15&#xA0;Bde., Paris 1749–1767; 44&#xA0;Bde., Paris 1749–1804).<line type="break" />
+<titel>Histoire naturelle générale et particulière. Théorie de la terre; histoire naturelle de l’homme; animaux quadrupèdes. Par Buffon et Louis-Jean-Marie Daubenton</titel> (15&#xA0;Bde., Paris 1749–1767; 44&#xA0;Bde., Paris 1749–1804). Zu Digitalisaten vgl. die <wwwlink address="https://en.wikipedia.org/wiki/Histoire_Naturelle">Wikipedia-Überblicksseite</wwwlink>.<line type="break" />
 1. Übers.: <titel>Allgemeine Historie der Natur nach allen ihren besonderen Theilen abgehandelt; nebst einer Beschreibung der Naturalienkammer Sr. Majestät des Königes von Frankreich. Mit einer Vorrede Herrn Doctor <link ref="haller" linktext="false">Albrecht von Haller</link> […]</titel> (Bd.&#x202F;1–3 übers. u. mit Anm. von <link ref="kastner" linktext="true" />) (11&#xA0;Bde., Hamburg, Leipzig: Grund und Holle 1750–1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;97/14: „Büffon’s allgemeine Geschichte der Natur, 1–5ter Th. Hamb. 756. m. K.“]. Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id434773980">SLUB Dresden: Hist.nat.B.251-1,1ff.</wwwlink>
 <line type="break" />
 2. Übers.: <titel>Herrn von Buffons allgemeine Naturgeschichte. Eine freye mit einigen Zusätzen vermehrte Übersetzung nach der neuesten französ. Außgabe von 1769</titel>, von F. H. W. Martini (7&#xA0;Bde., Berlin 1771–1774). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://digi.ub.uni-heidelberg.de/diglit/buffon1771bd1">UB Heidelberg: O 449-3::1-2</wwwlink>.
@@ -2724,7 +2724,13 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 <titel>Herrn von Büffons Naturgeschichte der vierfüßigen Thiere</titel> (23 Bde., Berlin 1772–1802). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10928761-5">BSB München: Res/Zool. 634 z</wwwlink>.
 </eintrag>
 </subsection>
- <subsection id="buffon-epoques" type="neuzeit"  sort="40">
+ <subsection id="buffon-vogel" type="neuzeit"  sort="40">
+<lemma>Buffon, <titel>Naturgeschichte der Vögel</titel></lemma>
+<eintrag>
+<titel>Herrn von Büffons Naturgeschichte der Vögel</titel> […] (35 Bde., Berlin: Pauli 1772–1809). Erweiterte Übersetzung der Vogel-Bände 16–24 der <link ref="buffon" subref="histoirenaturelle" linktext="true" />. – Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10309535-5">BSB München: Zool. 635</wwwlink>.
+</eintrag>
+</subsection>
+ <subsection id="buffon-epoques" type="neuzeit"  sort="50">
 <lemma>Buffon, <titel>Les Époques de la Nature</titel></lemma>
 <eintrag>
 <titel>Les Époques de la Nature, par Monsieur le Comte de Buffon</titel> (2 Bde.,, Paris 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919727-5">BSB München: Res/H.nat. 83-1/2</wwwlink>.
@@ -9764,7 +9770,7 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 <lemma>Hume, <titel>Dialogues concerning natural Religion</titel></lemma>
 <eintrag>
 <titel>Dialogues concerning natural Religion.</titel> By David Hume, Esq. The second edition (London 1779). – Postume Ausgabe, hrsg. von David Humes Neffen; eine first edition erschien in geringer Auflage und kleiner Type ebenfalls London 1779, vgl. <wwwlink address="https://archive.org/details/in.ernet.dli.2015.507028/page/n11">Kemp: Humes Dialogues Concerning Natural Religion (London 1947)</wwwlink>; Hume schrieb die <titel>Dialogues</titel> 1751–1755, revidierte die Schrift aber noch im Todesjahr 1776; wegen des heiklen Themas beschloss er, sie erst postum zu veröffentlichen. – Digitalisat der 2nd edition: <wwwlink address="https://books.google.de/books?id=E7dbAAAAQAAJ">Google Books</wwwlink>.<line type="break" />
-Übers.: <titel>Gespräche über natürliche Religion von David Hume.</titel> Nach der zwoten Englischen Ausgabe [übersetzt von <link ref="schreiter-cg" linktext="true" />]. Nebst einem Gespräch über den Atheismus von Ernst Platner (Leipzig: Weygand 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">SSB Augsburg: Phil 1716</wwwlink>.
+Übers.: <titel>Gespräche über natürliche Religion von David Hume.</titel> Nach der zwoten Englischen Ausgabe [übersetzt von <link ref="schreiter-cg" linktext="true" />]. Nebst einem Gespräch über den Atheismus von Ernst Platner (Leipzig: <link ref="weygand" linktext="false">Weygand</link> 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">SSB Augsburg: Phil 1716</wwwlink>.
 <line type="break" />Hamann setzte ebenfalls zu einer Übersetzung an, vgl. <link ref="hamann" subref="hamann-dialogues" linktext="true" />
 </eintrag>
 </subsection>
@@ -20841,6 +20847,11 @@ W
 <eintrag>1749–1812. Rektor der reformierten Burg-Schule in Königsberg, auch gut bekannt mit <link ref="kant" linktext="true" />, siehe <wwwlink address="https://ncatlab.org/nlab/show/Stephan+Wannowski">nLab</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="wannowski-m" type="neuzeit">
+<lemma>Michael Wannowski</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Neffe von <link ref="wannowski" linktext="true" />, Polnisch-Lehrer <link ref="hamann-jm" linktext="false">Johann Michael Hamanns</link></eintrag>
+</kommentar>
+
 <kommentar id="warburton" type="neuzeit">
 <lemma>William Warburton</lemma>
 <eintrag>1698–1779. Engl. Theologe, 1757 Dechant in Bristol, 1759 Bischof von Gloucester. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-28680">B. W. Young: Warburton, William, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
@@ -21135,6 +21146,12 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 <kommentar id="wettstein" type="neuzeit">
 <lemma>Johann Jakob Wettstein</lemma>
 <eintrag>1693–1754. Schweiz. reformierter Theologe und 1731 Professor der Philosophie und Geschichte in Amsterdam</eintrag>
+</kommentar>
+
+<kommentar id="weygand" type="neuzeit">
+<lemma>Johann Friedrich Weygand</lemma>
+<eintrag>1743–1806. Verleger in Leipzig, u.a. der Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes</link> <titel>Dialogues concerning natural Religion</titel> (oder zuvor von <link ref="goethe" subref="goethe-werther" linktext="false">Goethes Werther</link>); häufig für seine gewinnorientierte Verlagspraxis geschmäht; siehe <wwwlink address="https://saebi.isgv.de/biografie/24196">Sächsische Biographie</wwwlink> und <wwwlink address="https://d-nb.info/gnd/142221511">GND</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="weymann-d" type="neuzeit">
