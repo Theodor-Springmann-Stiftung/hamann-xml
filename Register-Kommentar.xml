@@ -3071,6 +3071,20 @@ Er vermittelte 1753 für Hamann die Hausmeisterstelle in <wwwlink address="https
 </subsection>
 </kommentar>
 
+
+<kommentar id="carpzov" type="neuzeit">
+<lemma>Jonathan Carver</lemma>
+<eintrag>1732–1780. Engl. Weltreisender 
+</eintrag>
+<subsection id="carver-travels" type="neuzeit">
+<lemma>Carver, <titel>Travels through the interior parts of North America</titel></lemma>
+<eintrag>
+<titel>Travels through the interior parts of North America in the years 1766–1778</titel> (London 1778).<line type="break" />
+Übers.: <titel>Johann Carvers Reisen durch die inneren Gegenden von Nordamerika in den Jahren 1766, 1767 und 1768, mit einer Landkarte.</titel> Aus dem Englischen (Hamburg: Bohn 1780). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/1088F6EA">ÖNB Wien: 44.Q.92 ALT PRUNK</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="casaubonus" type="neuzeit">
 <lemma>Isaak de Casaubon</lemma>
 <eintrag>1559–1614. Frz. Philologe. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;7, 1813), S.&#x202F;259–262.</eintrag>
@@ -8019,7 +8033,7 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <subsection id="hamann-dialogues" type="neuzeit" sort="730">
 <lemma>Hamann (Übers.), <titel>Dialogen die natürliche Religion betreffend</titel></lemma>
 <eintrag>
-Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Er wollte sie durch <link ref="hartknoch" linktext="false">Hartknoch</link> verlegen lassen (vgl. <intlink letter="596" page="205" line="25" linktext="true" />), das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung</link> bekannt wurde. Lediglich ein Bruchteil der niedergeschriebenen Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
+Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Er wollte sie durch <link ref="hartknoch" linktext="false">Hartknoch</link> verlegen lassen (vgl. <intlink letter="596" page="205" line="25" linktext="true" />) und mit einem Begleitessay versehen, das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung</link> bekannt wurde. Hamann laborierte aber noch länger an den Plänen für den Begleitessay. – Lediglich ein Entwurf für die finale Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
 </eintrag>
 </subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="750">
@@ -14782,7 +14796,25 @@ N
 
 <kommentar id="necker" type="neuzeit">
 <lemma>Jacques Necker</lemma>
-<eintrag>1732–1804. Schriftsteller, genfer Bankier, frz. Finanzminister von 1777–1781 und 1788–1790.</eintrag>
+<eintrag>1732–1804. Schriftsteller, Genfer Bankier, französischer Finanzminister von 1777–1781 und 1788–1790.</eintrag>
+<subsection id="necker-reponse" type="neuzeit" sort="10">
+<lemma>Necker, <titel>Réponse au mémoire de M. l’abbé Morellet, sur la Compagnie des Indes</titel></lemma>
+<eintrag>
+<titel>Réponse au mémoire de M. l’abbé Morellet, sur la Compagnie des Indes</titel> (Paris 1769). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/109AF77B">ÖNB Wien: 211299-C ALT MAG</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="necker-eloge" type="neuzeit" sort="20">
+<lemma>Necker, <titel>Eloge de Jean-Baptiste Colbert</titel></lemma>
+<eintrag>
+<titel>Eloge de Jean-Baptiste Colbert, discours, qui a remporté le prix de l’ Académie Française, en 1777</titel> (Paris 1773). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10070155-2">BSB München: Biogr.c. 90 u-2#Beibd.1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="necker-compte" type="neuzeit" sort="30">
+<lemma>Necker, <titel>Compte rendu au Roi</titel></lemma>
+<eintrag>
+<titel>Compte rendu au Roi, Par M. Necker, Directeur général des Finances. Au mois de Janvier 1781</titel> (Wien: Trattner 1781). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/107520FB">ÖNB Wien: 254007-C / FKB 39-087 (XVII-10) FID MAG</wwwlink>. Vgl. N&#x202F;V,355f.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="nemours" type="neuzeit">
@@ -16643,90 +16675,6 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <eintrag>1770 Remuß Erben, Kaffee- und Gasthaus im Kneiphof, Nr. 273.</eintrag>
 </kommentar>
 
-<kommentar id="riccoboni" type="neuzeit">
-<lemma>Marie-Jeanne Riccoboni</lemma>
-<eintrag>1713–1792. Frz. Schauspielerin, Schriftstellerin.</eintrag>
-<subsection id="riccoboni-lettres" type="neuzeit" sort="10">
-<lemma>Riccoboni, <titel>Lettres de mistriss Fanni Butlerd</titel></lemma>
-<eintrag>
-<titel>Lettres de mistriss Fanni Butlerd, a milord Charles Alfred de Caitombridge, comte de Plisinthe, duc de Raflingth, ecrites en 1735 ; traduites de l’anglois en 1756. Par Adélaïde de Varançai. Avec plusieurs pièces de poësies, aussi traduites de l’anglois</titel> (Amsterdam: Schneider 1757). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k6514363g.texteImage">Bibliothèque nationale de France, département Littérature et art, Y2-62649</wwwlink>.</eintrag>
-</subsection>
-<subsection id="riccoboni-histoire" type="neuzeit" sort="20">
-<lemma>Riccoboni, <titel>Histoire de M. le Marquis de Cressy</titel></lemma>
-<eintrag>
-<titel>Histoire de M. le Marquis de Cressy, par M ** de, traduite de*** l’Anglois</titel> (Amsterdam 1758). Digitalisat einer Ausgabe Paris 1790: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0002FC5300020000">SBB-PK: 32 ZZ 806-2</wwwlink></eintrag>
-</subsection>
-<subsection id="riccoboni-catesby" type="neuzeit" sort="30">
-<lemma>Riccoboni, <titel>Lettres de milady Juliette Catesby</titel></lemma>
-<eintrag>
-<titel>Lettres de milady Juliette Catesby à milady Henriette Campley, son amie</titel> (Zweite Aufl. 1759). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-752062">ULB Halle: AB 108359</wwwlink>.<line type="break" />
-Dt. Übers.: <titel>Briefe der Milady Juliane Catesby an die Milady Henriette Campley, ihre Freundin von der Madame Riccoboni. Aus dem engl. u. franz. in das teutsche übersetzt.</titel> (Frankfurt/Leipzig 1760).</eintrag>
-</subsection>
-</kommentar>
-
-<kommentar id="richardson-j" type="neuzeit">
-<lemma>Jonathan Richardson</lemma>
-<eintrag>1665–1745. Engl. Kunsttheoretiker.</eintrag>
-<subsection id="richardson-j-essay" type="neuzeit" sort="10">
-<lemma>Richardson, <titel>Essay on the Theory of Painting</titel></lemma>
-<eintrag>
-<titel>Essay on the Theory of Painting</titel> (3 Bde, London 1715).<line type="break" />
-Übers.: <titel>Traité de la peinture, et de la sculpture. Par Mrs. Richardson, Père &amp; fils: Divisé en trois tomes</titel> (3&#xA0;Bde., Amsterdam 1728) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;162/544: „Traite de la Peinture et de la Sculpture par Richardson, Pere et Fils, Tom. I. II. III. Amst. 728“]. Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.27078">UB Heidelberg: C 4833-2 RES::1</wwwlink>.
-</eintrag>
-</subsection>
-</kommentar>
-
-<kommentar id="richardson" type="neuzeit">
-<lemma>Samuel Richardson</lemma>
-<eintrag>1689–1761. Engl. Schriftsteller, siehe <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-23582">John A. Dussinger: Richardson, Samuel, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
-<subsection id="richardson-clarissa" type="neuzeit" sort="10">
-<lemma>Richardson, <titel>Clarissa Harlowe</titel></lemma>
-<eintrag>
-<titel>Clarissa Harlowe; Or the History of a Young Lady. Comprehending the Most Important Concerns of Private Life. And Particularly Sheving the Distresses that May Attend the Misconduct Both of Parents and Children, in Relation to Marriage. Published by the Editor of Pamela</titel> (London 1748).<line type="break" />
-Übers.: <titel>Clarissa, die Geschichte eines vornehmen Frauenzimmers</titel>, übers. v. <link ref="michaelis" linktext="true" /> (8&#xA0;Tle., Göttingen: Vandenhöck 1748–1753) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;149/338: „Ei. Geschichte der Clarissa, 1.–8ter Theil, Gött. 749“].
-</eintrag>
-</subsection>
-</kommentar>
-
-<kommentar id="richter-jg" type="neuzeit">
-<lemma>Johann Gottlieb Richter</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Sohn des Pfarrers Gottlieb Richter (1709–1775); Sekretär bei der Kriegs- und Domänenkammer in Königsberg.</eintrag>
-</kommentar>
-
-<kommentar id="riedel" type="neuzeit">
-<lemma>Friedrich Justus Riedel</lemma>
-<eintrag>1742–1785. 1768 Prof. in Erfurt, 1772 Prof. an der Wiener Kunstakademie.</eintrag>
-<subsection id="riedel-theorie" type="neuzeit" sort="10">
-<lemma>Riedel, <titel>Theorie der schönen Künste und Wissenschaften</titel></lemma>
-<eintrag>
-<titel>Theorie der schönen Künste und Wissenschaften</titel> (Jena: Cuno 1767) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;134/67: „J. F. Riedels Theorie der schönen Künste und Wissenschaften, Jena 767“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574504-4">München, Bayerische Staatsbibliothek: L.eleg.g. 341 z</wwwlink>.</eintrag>
-</subsection>
-<subsection id="riedel-antikritikus" type="neuzeit" sort="20">
-<lemma>Riedel, <titel>Streitschriften mit „Der Antikritikus“</titel></lemma>
-<eintrag>
-Ein literarischer Streit um Zensur zwischen <link ref="riedel" linktext="true" /> und dem Journal „Der Antikritikus“, hg. von Christian August Wichmann und Gottfried Joachim Wichmann (Lübeck 1768–1769).
-<titel>Briefwechsel des Herrn Prossor Riedel mit dem Antikritikus</titel>. Herausgegeben von J.&#x202F;G.&#x202F;C. Gleichmann (1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;302/147: „Riedels Briefwechsel mit dem Antikritikus, 768“]. Digitalisat: <wwwlink address=" https://doi.org/10.11588/diglit.33688">UB Heidelberg: H 337B RES</wwwlink>.<line type="break" />
-<titel>Fortsetzung des Briefwechsels zwischen dem Herausgeber des Antikritikus und dem Herrn Professor Riedel zu Erfurt</titel> (1768). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;302/147: Fortsetzung des Riedelschen Briefwechsels].<line type="break" />
-<titel>Memento Mori an den Antikritikus.</titel> Von J.&#x202F;G.&#x202F;C. Gleichmann [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;302/147: J. C. Gleichmanns Memento mori]. Digitalisat: <wwwlink address=" 	http://resolver.staatsbibliothek-berlin.de/SBB00006AFD00000000">SBPK Berlin: Mus. E 3255</wwwlink>.
-</eintrag>
-</subsection>
-<subsection id="riedel-publicum" type="neuzeit" sort="20">
-<lemma>Riedel, <titel>Ueber das Publicum</titel></lemma>
-<eintrag>
-<titel>Ueber das Publicum. Briefe an einige Glieder desselben von Friedrich Just Riedel</titel> (Jena: Cuno 1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;134/68: „über das Publicum, [Jena] 768“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574502-4">München, Bayerische Staatsbibliothek: L.eleg.g. 341</wwwlink>. – Von Hamann rezensiert in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 99.&#x202F;St. vom 9.12.1768 (N&#x202F;IV,323–325).</eintrag>
-</subsection>
-</kommentar>
-
-<kommentar id="ringeltaube" type="neuzeit">
-<lemma>Michael Ringeltaube</lemma>
-<eintrag>1730–1784. Prediger.</eintrag>
-<subsection id="ringeltaube-briefe" type="neuzeit" sort="10">
-<lemma>Ringeltaube, <titel>Briefe an die Christen in der Welt</titel></lemma>
-<eintrag>
-<titel>Briefe an die Christen in der Welt</titel> (2&#xA0;Tle., Breslau 1757/8).</eintrag>
-</subsection>
-</kommentar>
-
 <kommentar id="recke-e" type="neuzeit">
 <lemma>Elisa von der Recke</lemma>
 <eintrag>1754–1833. Charlotte Elisa (Elisabeth) Constantia von der Recke, geb. von Medem (Halbschwester von <link ref="dorothea-kurland" linktext="true" /> und <link ref="medem-jf" linktext="true" />). Kurländische Adlige und am Okkulten interessierte Schriftstellerin, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz14653.html#adbcontent">Eckardt: Recke, Elisa Baronin von der, in: <titel>ADB</titel>&#x202F;27 (1888), S.&#x202F;502f.</wwwlink></eintrag>
@@ -16880,6 +16828,95 @@ Hamann erwähnt im Studienheft (1.8.1780, N&#x202F;V,352f.) die Übersetzung „
 <kommentar id="reusch" type="neuzeit">
 <lemma>Carl Daniel Reusch</lemma>
 <eintrag>1735–1806. Hofmeister bei der Gräfin Finck von Finckenstein, 1772 Prof. der Physik in Königsberg, 1778 zweiter Bibliothekar der Königsberger Universitätsbibliothek, 1781 Oberinspektor des akademischen Kollegiums und Aufseher der Universitätsbibliothek, vgl. <wwwlink address="https://books.google.de/books?id=xY0IAAAAQAAJ">Hamberger/Meusel: <titel>Das gelehrte Teutschland,</titel> Bd.&#x202F;6 (Lemgo 1798), S.&#x202F;320</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="riccoboni" type="neuzeit">
+<lemma>Marie-Jeanne Riccoboni</lemma>
+<eintrag>1713–1792. Frz. Schauspielerin, Schriftstellerin.</eintrag>
+<subsection id="riccoboni-lettres" type="neuzeit" sort="10">
+<lemma>Riccoboni, <titel>Lettres de mistriss Fanni Butlerd</titel></lemma>
+<eintrag>
+<titel>Lettres de mistriss Fanni Butlerd, a milord Charles Alfred de Caitombridge, comte de Plisinthe, duc de Raflingth, ecrites en 1735 ; traduites de l’anglois en 1756. Par Adélaïde de Varançai. Avec plusieurs pièces de poësies, aussi traduites de l’anglois</titel> (Amsterdam: Schneider 1757). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k6514363g.texteImage">Bibliothèque nationale de France, département Littérature et art, Y2-62649</wwwlink>.</eintrag>
+</subsection>
+<subsection id="riccoboni-histoire" type="neuzeit" sort="20">
+<lemma>Riccoboni, <titel>Histoire de M. le Marquis de Cressy</titel></lemma>
+<eintrag>
+<titel>Histoire de M. le Marquis de Cressy, par M ** de, traduite de*** l’Anglois</titel> (Amsterdam 1758). Digitalisat einer Ausgabe Paris 1790: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0002FC5300020000">SBB-PK: 32 ZZ 806-2</wwwlink></eintrag>
+</subsection>
+<subsection id="riccoboni-catesby" type="neuzeit" sort="30">
+<lemma>Riccoboni, <titel>Lettres de milady Juliette Catesby</titel></lemma>
+<eintrag>
+<titel>Lettres de milady Juliette Catesby à milady Henriette Campley, son amie</titel> (Zweite Aufl. 1759). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:3:1-752062">ULB Halle: AB 108359</wwwlink>.<line type="break" />
+Dt. Übers.: <titel>Briefe der Milady Juliane Catesby an die Milady Henriette Campley, ihre Freundin von der Madame Riccoboni. Aus dem engl. u. franz. in das teutsche übersetzt.</titel> (Frankfurt/Leipzig 1760).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="rhinton" type="neuzeit">
+<lemma>Rhinton</lemma>
+<eintrag>Etwa 323–285 v.&#x202F;Chr. Hellenistischer Dramatiker.</eintrag>
+</kommentar>
+
+<kommentar id="richardson-j" type="neuzeit">
+<lemma>Jonathan Richardson</lemma>
+<eintrag>1665–1745. Engl. Kunsttheoretiker.</eintrag>
+<subsection id="richardson-j-essay" type="neuzeit" sort="10">
+<lemma>Richardson, <titel>Essay on the Theory of Painting</titel></lemma>
+<eintrag>
+<titel>Essay on the Theory of Painting</titel> (3 Bde, London 1715).<line type="break" />
+Übers.: <titel>Traité de la peinture, et de la sculpture. Par Mrs. Richardson, Père &amp; fils: Divisé en trois tomes</titel> (3&#xA0;Bde., Amsterdam 1728) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;162/544: „Traite de la Peinture et de la Sculpture par Richardson, Pere et Fils, Tom. I. II. III. Amst. 728“]. Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.27078">UB Heidelberg: C 4833-2 RES::1</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="richardson" type="neuzeit">
+<lemma>Samuel Richardson</lemma>
+<eintrag>1689–1761. Engl. Schriftsteller, siehe <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-23582">John A. Dussinger: Richardson, Samuel, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
+<subsection id="richardson-clarissa" type="neuzeit" sort="10">
+<lemma>Richardson, <titel>Clarissa Harlowe</titel></lemma>
+<eintrag>
+<titel>Clarissa Harlowe; Or the History of a Young Lady. Comprehending the Most Important Concerns of Private Life. And Particularly Sheving the Distresses that May Attend the Misconduct Both of Parents and Children, in Relation to Marriage. Published by the Editor of Pamela</titel> (London 1748).<line type="break" />
+Übers.: <titel>Clarissa, die Geschichte eines vornehmen Frauenzimmers</titel>, übers. v. <link ref="michaelis" linktext="true" /> (8&#xA0;Tle., Göttingen: Vandenhöck 1748–1753) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;149/338: „Ei. Geschichte der Clarissa, 1.–8ter Theil, Gött. 749“].
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="richter-jg" type="neuzeit">
+<lemma>Johann Gottlieb Richter</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Sohn des Pfarrers Gottlieb Richter (1709–1775); Sekretär bei der Kriegs- und Domänenkammer in Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="riedel" type="neuzeit">
+<lemma>Friedrich Justus Riedel</lemma>
+<eintrag>1742–1785. 1768 Prof. in Erfurt, 1772 Prof. an der Wiener Kunstakademie.</eintrag>
+<subsection id="riedel-theorie" type="neuzeit" sort="10">
+<lemma>Riedel, <titel>Theorie der schönen Künste und Wissenschaften</titel></lemma>
+<eintrag>
+<titel>Theorie der schönen Künste und Wissenschaften</titel> (Jena: Cuno 1767) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;134/67: „J. F. Riedels Theorie der schönen Künste und Wissenschaften, Jena 767“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574504-4">München, Bayerische Staatsbibliothek: L.eleg.g. 341 z</wwwlink>.</eintrag>
+</subsection>
+<subsection id="riedel-antikritikus" type="neuzeit" sort="20">
+<lemma>Riedel, <titel>Streitschriften mit „Der Antikritikus“</titel></lemma>
+<eintrag>
+Ein literarischer Streit um Zensur zwischen <link ref="riedel" linktext="true" /> und dem Journal „Der Antikritikus“, hg. von Christian August Wichmann und Gottfried Joachim Wichmann (Lübeck 1768–1769).
+<titel>Briefwechsel des Herrn Prossor Riedel mit dem Antikritikus</titel>. Herausgegeben von J.&#x202F;G.&#x202F;C. Gleichmann (1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;302/147: „Riedels Briefwechsel mit dem Antikritikus, 768“]. Digitalisat: <wwwlink address=" https://doi.org/10.11588/diglit.33688">UB Heidelberg: H 337B RES</wwwlink>.<line type="break" />
+<titel>Fortsetzung des Briefwechsels zwischen dem Herausgeber des Antikritikus und dem Herrn Professor Riedel zu Erfurt</titel> (1768). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;302/147: Fortsetzung des Riedelschen Briefwechsels].<line type="break" />
+<titel>Memento Mori an den Antikritikus.</titel> Von J.&#x202F;G.&#x202F;C. Gleichmann [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;302/147: J. C. Gleichmanns Memento mori]. Digitalisat: <wwwlink address=" 	http://resolver.staatsbibliothek-berlin.de/SBB00006AFD00000000">SBPK Berlin: Mus. E 3255</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="riedel-publicum" type="neuzeit" sort="20">
+<lemma>Riedel, <titel>Ueber das Publicum</titel></lemma>
+<eintrag>
+<titel>Ueber das Publicum. Briefe an einige Glieder desselben von Friedrich Just Riedel</titel> (Jena: Cuno 1768) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;134/68: „über das Publicum, [Jena] 768“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574502-4">München, Bayerische Staatsbibliothek: L.eleg.g. 341</wwwlink>. – Von Hamann rezensiert in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 99.&#x202F;St. vom 9.12.1768 (N&#x202F;IV,323–325).</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="ringeltaube" type="neuzeit">
+<lemma>Michael Ringeltaube</lemma>
+<eintrag>1730–1784. Prediger.</eintrag>
+<subsection id="ringeltaube-briefe" type="neuzeit" sort="10">
+<lemma>Ringeltaube, <titel>Briefe an die Christen in der Welt</titel></lemma>
+<eintrag>
+<titel>Briefe an die Christen in der Welt</titel> (2&#xA0;Tle., Breslau 1757/8).</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="ricci" type="neuzeit">
@@ -19574,7 +19611,7 @@ Torquato Tasso: <titel>Aminta.</titel> Uraufführung 1573, Druck 1580.<line type
 <eintrag>1628–1699. Englischer Diplomat und Schriftsteller, Dienstherr von Jonathan Swift, siehe <wwwlink address="https://d-nb.info/gnd/118801619">GND</wwwlink>.</eintrag>
 <subsection id="temple-denkwurdigkeiten" type="neuzeit" sort="10">
 <lemma>Temple, <titel>Moralische und Historische Denkwürdigkeiten</titel></lemma>
-<eintrag><titel>Moralische und Historische Denkwürdigkeiten, vom Herrn Temple. Aus dem Englischen übersetzt</titel> (Halle: Gebauer 1780). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/57766">ULB Halle: Fc 1345</wwwlink>.</eintrag>
+<eintrag><titel>Moralische und Historische Denkwürdigkeiten, vom Herrn Temple. Aus dem Englischen übersetzt</titel> (Halle: Gebauer 1780). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/57766">ULB Halle: Fc 1345</wwwlink>. Vgl. N&#x202F;V,355/33–36.</eintrag>
 </subsection>
 </kommentar>
 
@@ -21223,7 +21260,7 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 
 <kommentar id="weygand" type="neuzeit">
 <lemma>Johann Friedrich Weygand</lemma>
-<eintrag>1743–1806. Verleger in Leipzig, u.a. der Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes</link> <titel>Dialogues concerning natural Religion</titel> (oder zuvor von <link ref="goethe" subref="goethe-werther" linktext="false">Goethes Werther</link>); häufig für seine gewinnorientierte Verlagspraxis geschmäht; siehe <wwwlink address="https://saebi.isgv.de/biografie/24196">Sächsische Biographie</wwwlink> und <wwwlink address="https://d-nb.info/gnd/142221511">GND</wwwlink>.
+<eintrag>1743–1806. Verleger in Leipzig, u.a. der Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes</link> <titel>Dialogues concerning natural Religion</titel> (oder zuvor von <link ref="goethe" subref="goethe-werther" linktext="false">Goethes Werther</link>), häufig für seine gewinnorientierte Verlagspraxis geschmäht; siehe <wwwlink address="https://saebi.isgv.de/biografie/24196">Sächsische Biographie</wwwlink> und <wwwlink address="https://d-nb.info/gnd/142221511">GND</wwwlink>.
 </eintrag>
 </kommentar>
 
