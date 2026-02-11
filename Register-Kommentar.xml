@@ -2213,7 +2213,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </kommentar>
 
 <kommentar id="bondeli" type="neuzeit">
-<lemma>Juliane Charlotte Sophie Baronesse von Bondeli</lemma>
+<lemma></lemma>
 <eintrag>1740–1796. Tochter von <link ref="bondeli-fj" linktext="true" />; Ende der 1760er Jahre Wirtin und Schülerin Hamanns (vgl. <intlink letter="622" page="302" line="30" linktext="true" />), in den 1780er Jahren die Erzieherin von <link ref="hamann-er" linktext="false">Lisette Reinette</link>.</eintrag>
 </kommentar>
 
@@ -2860,6 +2860,11 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 </subsection>
 </kommentar>
 
+<kommentar id="bursy" type="neuzeit">
+<lemma>Ernst Daniel Bursy</lemma>
+<eintrag>1756–1831. Kommissionshändler in Königsberg, siehe <wwwlink address="https://bbld.de/0000000010495298">BBLd</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="bury" type="neuzeit">
 <lemma>Richard de Bury</lemma>
 <eintrag>1730–1794. Frz. Jurist.</eintrag>
@@ -3071,10 +3076,9 @@ Er vermittelte 1753 für Hamann die Hausmeisterstelle in <wwwlink address="https
 </subsection>
 </kommentar>
 
-
-<kommentar id="carpzov" type="neuzeit">
+<kommentar id="carver" type="neuzeit">
 <lemma>Jonathan Carver</lemma>
-<eintrag>1732–1780. Engl. Weltreisender 
+<eintrag>1732–1780. Britisch-amerikanischer Entdecker, siehe <wwwlink address="https://d-nb.info/gnd/119222949">GND</wwwlink>.
 </eintrag>
 <subsection id="carver-travels" type="neuzeit">
 <lemma>Carver, <titel>Travels through the interior parts of North America</titel></lemma>
@@ -4558,7 +4562,7 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann
 
 <kommentar id="diederichs" type="neuzeit">
 <lemma>Johann Christian Wilhelm Diederichs</lemma>
-<eintrag>1750–1781. Evang. Theologe, <link ref="michaelis" linktext="false">Michaelis-</link>Schüler, 1780 Prof. der orientalischen Sprachen in Königsberg, Nachfolger <link ref="kypke" linktext="false">Kypkes</link>), verstarb im Jahr darauf.</eintrag>
+<eintrag>1750–1781. Evangelischer Theologe, <link ref="michaelis" linktext="false">Michaelis-</link>Schüler, 1780 Prof. der orientalischen Sprachen in Königsberg, Nachfolger <link ref="kypke" linktext="false">Kypkes</link>), verstarb im Jahr darauf.</eintrag>
 <subsection id="diederichs-grammatik" type="neuzeit" sort="10">
 <lemma>Diederichs, <titel>Hebräische Grammatik für Anfänger</titel></lemma>
 <eintrag>
@@ -5106,7 +5110,6 @@ Cha–Consécration: Oktober 1753; Conseil–Dizier, Saint: Oktober 1754; Do–E
 Online-Ausgabe: <wwwlink address="http://enccre.academie-sciences.fr/encyclopedie/">Édition Numérique Collaborative et Critique de l’Encyclopédie</wwwlink>.
 </eintrag>
 </kommentar>
-,  (), Schriftsteller, seit 1776 Prof. der Moralphilosophie am Joachimsthalschen Gymnasium in Berlin, Prinzenerzieher am preuß. Hof, Akademiemitglied
 
 <kommentar id="engel" type="neuzeit">
 <lemma>Johann Jakob Engel</lemma>
@@ -5122,6 +5125,12 @@ Online-Ausgabe: <wwwlink address="http://enccre.academie-sciences.fr/encyclopedi
 <lemma>Engel, <titel>Versuch einer Methode die Vernunftlehre aus Platonischen Dialogen zu entwickeln</titel></lemma>
 <eintrag>
 <titel>Versuch einer Methode die Vernunftlehre aus Platonischen Dialogen zu entwickeln</titel> (Berlin: Voß 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043113-0">BSB München: Ph.sp. 241</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="engel-lobrede" type="neuzeit" sort="30">
+<lemma>Engel, <titel>Lobrede auf den König</titel></lemma>
+<eintrag>
+<titel>Lobrede auf den König</titel> (Berlin: Voß 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11940134-8">LB Coburg: D II 4</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9781,6 +9790,12 @@ Dt. Übers. zitiert nach: Bernhard Kytzler (Übers.), <titel>Quintus Horatius Fl
 <lemma>David Hume</lemma>
 <eintrag>1711–1776. Schottischer Philosoph, Ökonom und Historiker. <wwwlink address="https://plato.stanford.edu/archives/sum2019/entries/hume/">Morris, William Edward/Brown, Charlotte R.: David Hume, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Summer 2019 Edition)</wwwlink>.
 </eintrag>
+<subsection id="hume-treatise" type="neuzeit" sort="5">
+<lemma>Hume, <titel>Treatise of Human Nature</titel></lemma>
+<eintrag>
+<titel>A Treatise of Human Nature: Being An Attempt to introduce the experimental Method of Reasoning into Moral Subjects</titel> (3 Bde., London 1739–1740). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:45:1-1208">LB Oldenburg</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="hume-essays" type="neuzeit" sort="10">
 <lemma>Hume, <titel>Essays</titel></lemma>
 <eintrag>Die Essays von Hume waren zur Zeit von Hamanns erster Lektüre (1754/55) bereits auf Englisch in mehreren Auflagen und verschiedenen Sammlungen greifbar; im deutsprachigen Raum wurden jedoch meist frz. oder eben deutsche Übersetzungen rezipiert. <link ref="sulzer" linktext="true" /> gab die ersten Übersetzungen mit eigenen Anmerkungen heraus (der Übersetzer selbst ist nicht ermittelt, nur für Band 2 ist Andreas Pistorius wahrscheinlich), in 4 Bänden:<line type="break" />
@@ -10105,6 +10120,11 @@ J
 <lemma>Jerusalem, <titel>Betrachtungen</titel></lemma>
 <eintrag>
 <titel>Betrachtungen über die vornehmsten Wahrheiten der Religion</titel> (4 Bde., Braunschweig 1768–1779). Digitalisat Tl.&#x202F;1 (1769): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10702295-3">BSB München: 40.5484-1</wwwlink>. Digitalisat Tl.&#x202F;2,2 (1779): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10398408-1">BSB München: Dogm. 539 b-2,2</wwwlink>.</eintrag>
+</subsection>
+<subsection id="jerusalem-jfw-litteratur" type="neuzeit" sort="30">
+<lemma>Jerusalem, <titel>Ueber die deutsche Sprache und Litteratur</titel></lemma>
+<eintrag>
+<titel>Ueber die deutsche Sprache und Litteratur von Abt Jerusalem</titel>, in: <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10733677?page=60%2C61"><titel>Über die deutsche Litteratur. König Friederich, Jerusalem, Tralles</titel> (München: Ströbl 1781), S.&#x202F;51–74</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -11295,6 +11315,12 @@ Zu seinen Werken vgl. die postum von <link ref="auerswald" linktext="false">Auer
 Zur Biographie vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Johannes Voigt: <titel>Das Leben des Professor Christian Jacob Kraus […] aus den Mittheilungen seiner Freunde und seinen Briefen</titel> (Königsberg 1819; zugleich Bd.&#x202F;8 der <titel>Vermischten Schriften</titel></wwwlink>; außerdem: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11575327-0">Gottlieb Krause: <titel>Beiträge zum Leben von Christian Jakob Kraus</titel>, in: Altpreußische Monatsschrift 18 (1881), S.&#x202F;53–96 u. 193–224</wwwlink>.<line type="break" />
 Übersetzer von <link ref="young-a" subref="young-political-arithmatic" linktext="true" /> (Königsberg 1778).
 </eintrag>
+<subsection id="kraus-paradoxo" type="neuzeit" sort="10">
+<lemma>Kraus, <titel>de paradoxo</titel></lemma>
+<eintrag>
+<titel>Dissertatio psychologico-moralis de paradoxo: edi interdvm ab homine actiones volvntarias, ipso non invito solvm, vervm adeo relvctante</titel> […] (Königsberg: Hartung 1781). Digitalisat: <wwwlink address="https://polona.pl/item-view/d15f11b5-2c4c-4392-9b33-0a9cd91870ce/0/9c6ee1b9-cf66-450b-8da1-9dde617160df">Biblioteka Narodowa</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="krebs" type="neuzeit">
@@ -12110,8 +12136,8 @@ Digitalisat Beytrag 6 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn
 <lemma>Lessing, <titel>Ernst und Falk</titel></lemma>
 <eintrag>
 Gespräche 1–3 (1778): <titel>Ernst und Falk. Gespräche für Freymäurer</titel> (Wolfenbüttel 1778). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919441-6">BSB München: Res/H.g.hum. 138 l-1/2</wwwlink>. – Von Lessing selbst übersehener Druck; <link ref="ferdinand" linktext="false">Herzog Ferdinand</link>, dem das Buch gewidmet ist, war ein Druck der Gespräche 4 und 5 nicht genehm, Manuskripte zirkulierten jedoch unter Lessings Freunden.<line type="break" />
-Gespräche 4 und 5 (1780): <titel>Ernst und Falk. Gespräche für Freymäurer. Fortsetzung</titel> (s.l. 1780 [bei Brönner in Frankfurt]). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919442-2">BSB München: Res/H.g.hum. 138 l-1/2.</wwwlink>. – Nicht von Lessing beaufsichtigter, fehlerhafter Druck auf Grundlage eines der zirkulierenden Manuskripte, versehen mit einer „Vorrede eines Dritten“, der unbekannt blieb.<line type="break" />
-Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage eines Manuskripts, das <link ref="herder" linktext="false">Herder</link> ihm schickte (die Sendung kam am 24. März 1780 in Königsberg an, vgl. <intlink letter="586" page="174" line="22" linktext="true" />), in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken: Das 4. Gespräch als <titel>Fortsetzung der Beylage zum 6ten Stücke dieser Zeitung von 1779</titel> im 37.&#x202F;und 38.&#x202F;St., 7. und 10. Mai 1781, S.&#x202F;145f. u.&#x202F;149f. – das 5. Gespräch nebst der „Nachricht“ in der Beilage zu St.&#x202F;38. und im 39.&#x202F;St., 10. und 14. Mai 1781, unpag. und S.&#x202F;153f. (vgl. Gotthold Ephraim Lessings sämtliche Schriften. Hg. v. Karl Lachmann. 3. Aufl. besorgt durch Franz Muncker. Leipzig 1897, Bd.&#x202F;13, S.&#x202F;388). – Hamann druckte keine „Vorrede eines Dritten“ mit, führte die mit Sternchen markierten Auslassungen im Text (v.a. bei Namen) im Gegensatz zur Ausgabe von 1780 aus, ließ zwei Asterisken mitdrucken und zeigte im Text Anmerkungen von a bis k an, ohne sie auszuführen, die sich wohl auf Lessings Anmerkungen beziehen (vgl. Lessings Werke. Vollständige Ausgabe in 25 Teilen. Hg. von Julius Petersen und Waldemar von Olshausen. Anmerkungen zu Teil 1 bis 7. Berlin, Leipzig 1929, S.&#x202F;292–294 [von Waldemar von Olshausen]). – Obwohl der Hamann-Druck in den KGPZ sowohl Lachmann als auch Olshausen bei der Erstellung ihrer Ausgaben noch vorlag, gilt er heute als verschollen.
+Gespräche 4 und 5 (1780): <titel>Ernst und Falk. Gespräche für Freymäurer. Fortsetzung</titel> (s.l. 1780 [bei Brönner in Frankfurt, recte Frühjahr 1781, vgl. <link ref="messkatalog" subref="messkatalog-ostern1781" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207931:00000030/full/full/0/default.jpg">S.&#x202F;30</wwwlink>] und <intlink letter="617" page="284" line="18" linktext="true" />). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10919442-2">BSB München: Res/H.g.hum. 138 l-1/2.</wwwlink>. Von Lessing nicht beaufsichtigter, fehlerhafter Druck auf Grundlage eines der zirkulierenden Manuskripte, versehen mit einer „Vorrede eines Dritten“, der unbekannt blieb.<line type="break" />
+Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage der Abschrift eines Manuskripts, das <link ref="herder" linktext="false">Herder</link> ihm schickte (die Sendung kam am 24. März 1780 in Königsberg an, vgl. <intlink letter="586" page="174" line="22" linktext="true" />), in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken: Das 4. Gespräch als <titel>Fortsetzung der Beylage zum 6ten Stücke dieser Zeitung von 1779</titel> im 37.&#x202F;und 38.&#x202F;St., 7. und 10. Mai 1781, S.&#x202F;145f. u.&#x202F;149f. – das 5. Gespräch nebst der „Nachricht“ in der Beilage zu St.&#x202F;38. und im 39.&#x202F;St., 10. und 14. Mai 1781, unpag. und S.&#x202F;153f. (vgl. Gotthold Ephraim Lessings sämtliche Schriften. Hg. v. Karl Lachmann. 3. Aufl. besorgt durch Franz Muncker. Leipzig 1897, Bd.&#x202F;13, S.&#x202F;388). – Hamann druckte keine „Vorrede eines Dritten“ mit, führte die mit Sternchen markierten Auslassungen im Text (v.a. bei Namen) im Gegensatz zur Ausgabe von 1780 aus, ließ zwei Asterisken mitdrucken und zeigte im Text Anmerkungen von a bis k an, ohne sie auszuführen, die sich wohl auf Lessings Anmerkungen beziehen (vgl. Lessings Werke. Vollständige Ausgabe in 25 Teilen. Hg. von Julius Petersen und Waldemar von Olshausen. Anmerkungen zu Teil 1 bis 7. Berlin, Leipzig 1929, S.&#x202F;292–294 [von Waldemar von Olshausen]). – Obwohl der Hamann-Druck in den KGPZ sowohl Lachmann als auch Olshausen bei der Erstellung ihrer Ausgaben noch vorlag, gilt er heute als verschollen.
 </eintrag>
 </subsection>
 <subsection id="lessing-nothige-antwort" type="neuzeit" sort="150">
@@ -19448,7 +19474,13 @@ Wiss. Ausg.: <titel>Gesammelte Schriften. Kommentierte Ausgabe</titel>, hg.&#xA0
 <subsection id="sulzer-theorie" type="neuzeit" sort="20">
 <lemma>Sulzer, <titel>Allgemeine Theorie der schönen Künste</titel></lemma>
 <eintrag>
-<titel>Allgemeine Theorie der schönen Künste in einzeln, nach alphabetischer Ordnung der Kunstwörter aufeinanderfolgenden, Artikeln</titel> (4&#xA0;Bde., Leipzig: Weidmann und Reich 1771–74) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;130/6: „J. G. Sulzers allgemeine Theorie der schönen Künste, 1. Th. Leipz. 771. Der 2te ist ungeb.“]. Digitalisat: <wwwlink address=" http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10903915-2">BSB München: Res/4 L.eleg.g. 57-1</wwwlink>.
+<titel>Allgemeine Theorie der schönen Künste in einzeln, nach alphabetischer Ordnung der Kunstwörter aufeinanderfolgenden, Artikeln</titel> (4&#xA0;Bde., Leipzig: Weidmann und Reich 1771–1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;130/6: „J. G. Sulzers allgemeine Theorie der schönen Künste, 1. Th. Leipz. 771. Der 2te ist ungeb.“]. Digitalisat: <wwwlink address=" http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10903915-2">BSB München: Res/4 L.eleg.g. 57-1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="sulzer-schriften" type="neuzeit" sort="25">
+<lemma>Sulzer, <titel>Vermischte Philosophische Schriften</titel></lemma>
+<eintrag>
+<titel>Johann George Sulzers vermischte Philosophische Schriften</titel>. Aus den Jahrbüchern der Akademie der Wissenschaften zu Berlin gesammelt (2 Bde., Leipzig: Weidmann, Reich 1773–1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10047093-3">BSB München: Ph.u. 486</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="sulzer-reise" type="neuzeit" sort="30">
@@ -19646,6 +19678,12 @@ Sethos, histoire ou vie tirée des monumens anecdotes de l’ancienne Egypte. Tr
 Übersetzung: <titel>Geschichte des egyptischen Königs Sethos.</titel> Aus dem Französischen übersetzt von <link ref="claudius" linktext="true" /> (Breslau: 1777–1778). Digitalisat Bd. 1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10098506-1">BSB München: P.o.gall. 2111 oh-1</wwwlink>; Bd. 2: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN863319181">SUB Göttingen: DD92 A 34360:2</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="terrasse" type="neuzeit">
+<lemma>Peter Friedrich de la Terrasse</lemma>
+<eintrag>Gest. 1781 in Königsberg, Leutnant.
+</eintrag>
 </kommentar>
 
 <kommentar id="tertullian" type="neuzeit">
