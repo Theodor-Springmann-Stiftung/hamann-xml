@@ -660,13 +660,19 @@ In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202F;2, S.&#x202F;177�
 <subsection id="arndt-petersburgjournal" type="neuzeit" sort="10">
 <lemma>Arndt, <titel>St. Petersburgisches Journal</titel></lemma>
 <eintrag>
-<titel>St. Petersburgisches Journal</titel> (10 Bde., St. Petersburg: Weitbrecht 1776–1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10613225-5">BSB München: Per. 83-1</wwwlink>.
+<titel>St. Petersburgisches Journal</titel> (10 Bde., St. Petersburg: Weitbrecht 1776–1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10613225-5">BSB München: Per. 83-1</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=01297370X">ZDB</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="arndt-verordnungen" type="neuzeit" sort="20">
 <lemma>Arndt, <titel>Verordnungen des Rußischen Reichs</titel></lemma>
 <eintrag>
 <titel>Ihro Kaiserlichen Majestät Catharina der Zweiten Verordnungen zur Verwaltung der Gouvernements des Rußischen Reichs. Aus dem Rußischen übersetzt von C. G. Arndt</titel> (2 Bde., St. Petersburg: Weitbrecht 1776–1780). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/1065A0B9">ÖNB Wien</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="arndt-neues-petersburgjournal" type="neuzeit" sort="30">
+<lemma>Arndt, <titel>Neues St. Petersburgisches Journal</titel></lemma>
+<eintrag>
+<titel>Neues St. Petersburgisches Journal</titel> (8 Bde., St. Petersburg: Schnoor 1781–1784). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10613235%2FBV011838827">BSB München: Per. 83-1</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1046059394">ZDB</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -1218,7 +1224,7 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 
 <kommentar id="beaumont-jm" type="neuzeit">
 <lemma>Marie Le Prince de Beaumont</lemma>
-<eintrag>1711–1780. Frz. Schriftstellerin und Pädagogin. Geboren in Rouen, lebte in London, ließ sich in der Umgebung von Annecy, in den Savojen, nieder. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;24, 1819), S.&#x202F;224–228.</eintrag>
+<eintrag>1711–1780. Französische Schriftstellerin und Pädagogin. Geboren in Rouen, lebte in London, ließ sich in der Umgebung von Annecy (Savoyen) nieder. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;24, 1819), S.&#x202F;224–228.</eintrag>
 <subsection id="beaumont-jm-enfants" type="neuzeit">
 <lemma>Beaumont, <titel>Magazin des Enfans</titel></lemma>
 <eintrag>
@@ -14237,11 +14243,16 @@ Um 1760 bis 1805. Schriftsteller und Lehrer in Königsberg, siehe <wwwlink addre
 
 <kommentar id="monboddo" type="neuzeit">
 <lemma>James Burnett, Lord Monboddo</lemma>
-<eintrag>1714–1799. Schottischer Liguist, Richter und Philosoph, siehe siehe <wwwlink address="https://www.britannica.com/biography/James-Burnett-Lord-Monboddo">Encyclopedia Brittannica</wwwlink>.
+<eintrag>1714–1799. Schottischer Liguist, Richter und Philosoph, siehe <wwwlink address="https://www.britannica.com/biography/James-Burnett-Lord-Monboddo">Encyclopedia Brittannica</wwwlink>.
 </eintrag>
 <subsection id="monboddo-language" type="neuzeit" sort="10">
 <lemma>Monboddo, <titel>Of the Origin and Progress of Language</titel></lemma>
 <eintrag><titel>Of the Origin and Progress of Language</titel> (6 Bde., London 1773–1792). Digitalisat: <wwwlink address="https://archive.org/details/originandprogre01conggoog">Internet Archive</wwwlink>. – Übersetzung von Christian August Schmidt, mit einer Vorrede von <link ref="herder" linktext="false">Herder</link> (Riga: hartknoch 1784): <wwwlink address="http://data.onb.ac.at/rep/103989D2">ÖNB Wien</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="monboddo-metaphysics" type="neuzeit" sort="20">
+<lemma>Monboddo, <titel>Antient metaphysics</titel></lemma>
+<eintrag><titel>Antient metaphysics: or, The science of universals</titel> (6 Bde., Edinburgh 1779–1799). Digitalisat: <wwwlink address="https://catalog.hathitrust.org/Record/007701544">University of Calivornia</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14444,8 +14455,6 @@ Um 1760 bis 1805. Schriftsteller und Lehrer in Königsberg, siehe <wwwlink addre
 <titel>Memoires de messire Philippes de Mornay, seigneur Du Plessis Marli […] contenans divers discours, instructions, lettres, et depesches par lui dressées, ou escrites aux rois, roines […] depuis l’an 1572 jusques à l'an 1589, ensemble quelques lettres dessusdits audit sieur Du Plessis</titel> (4 Bde., s.l. 1624) . Digitalisat Bd. 1: <wwwlink address="https://gallica.bnf.fr/ark:/12148/btv1b8620760s/f7">Bibliothèque Nationale de France: RES4-LA23-3 (1)</wwwlink>.
 </eintrag>
 </subsection>
- 
-
 </kommentar>
 
 <kommentar id="morstein" type="neuzeit">
@@ -19682,7 +19691,7 @@ Sethos, histoire ou vie tirée des monumens anecdotes de l’ancienne Egypte. Tr
 
 <kommentar id="terrasse" type="neuzeit">
 <lemma>Peter Friedrich de la Terrasse</lemma>
-<eintrag>Gest. 1781 in Königsberg, Leutnant.
+<eintrag>1741–1781. Leutnant in Königsberg, befreundet mit Hamann und <link ref="bondeli" linktext="true" />.
 </eintrag>
 </kommentar>
 

@@ -79131,7 +79131,7 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="178" line="17" sort="1">
-<bzg>Großkanzler</bzg> <link ref="furst" linktext="true" />
+<bzg>Großkanzler</bzg> <link ref="carmer" linktext="true" />
 </marginal>
 
 <marginal letter="586" page="178" line="17" sort="2">
@@ -85844,7 +85844,7 @@ Brief Nr. 614
 </marginal>
 
 <marginal letter="614" page="268" line="1">
-<bzg>Arndt</bzg> von <link ref="arndt-cg" linktext="true" /> in St. Petersburg
+<bzg>Arndt</bzg> <link ref="arndt-cg" linktext="true" /> in St. Petersburg, von dem er einen Brief für Hamann mitbrachte, vgl. <intlink letter="617" page="286" line="26" linktext="true" />
 </marginal>
 
 <marginal letter="614" page="268" line="4">
@@ -86270,7 +86270,7 @@ Brief Nr. 617
 </marginal>
 
 <marginal letter="616" page="279" line="25">
-<bzg>König</bzg> <link ref="friedrich-II" linktext="true" />; Starck traf letztlich nur <link ref="friedrich-wilhelm-II" linktext="false">Kronprinzen Friedrich Wilhelm</link>.
+<bzg>König</bzg> <link ref="friedrich-II" linktext="true" />; Starck traf letztlich nur <link ref="friedrich-wilhelm-II" linktext="false">Kronprinz Friedrich Wilhelm</link>.
 </marginal>
 
 <marginal letter="616" page="279" line="26">
@@ -86522,7 +86522,7 @@ Brief Nr. 617
 </marginal>
 
 <marginal letter="616" page="281" line="34" sort="2">
-<bzg>Preußen&#x202F;…&#x202F;Osten</bzg> Eine solche Reise des Königs, weder nach Ost- oder Westpreußen, fand 1781 statt; Friedrich II. war Königsberg nicht gewogen, seit er die Stadt 1741 zuletzt besuchte und sie während der Besatzung im Siebenjährigen Krieg der Zarin huldigte.
+<bzg>Preußen&#x202F;…&#x202F;Osten</bzg> Eine solche Reise des Königs fand 1781 nicht statt, er war jedoch im Juni zur Revue in <wwwlink address="https://www.geonames.org/7532081">Graudenz</wwwlink> (Westpreußen), vgl. <intlink letter="617" page="286" line="24" linktext="true" />. Friedrich II. war Königsberg nicht gewogen, seit er die Stadt 1741 zuletzt besuchte und sie während der Besatzung im Siebenjährigen Krieg der Zarin huldigte.
 </marginal>
 
 <marginal letter="616" page="281" line="35">
@@ -86908,16 +86908,84 @@ Brief Nr. 617
 <bzg>zappele&#x202F;…</bzg> <link ref="at-jer" subref="at-jer48" linktext="false">Jer 49,23f.</link>
 </marginal>
 
+<marginal letter="617" page="286" line="5">
+<bzg>Atonie</bzg> Schwäche, Schlaffheit, vgl. <wwwlink address="www.woerterbuchnetz.de/Herder/Atonie">Herders Conversations-Lexikon, Bd.&#x202F;1, Sp.&#x202F;313, s.v. Atonie</wwwlink>
+</marginal>
+
 <marginal letter="617" page="286" line="7">
 <bzg>Lieutenant de la Terrasse</bzg> <link ref="terrasse" linktext="true" />
 </marginal>
 
-<marginal letter="617" page="286" line="">
-<bzg></bzg> 
+<marginal letter="617" page="286" line="11">
+<bzg>seelige Mutter</bzg> <link ref="hamann-mm" linktext="true" />
 </marginal>
 
-<marginal letter="617" page="286" line="">
-<bzg></bzg> 
+<marginal letter="617" page="286" line="15">
+<bzg>Baroneße v Bondeli</bzg> <link ref="bondeli" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="17" sort="1">
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="17" sort="2">
+<bzg>Fräul. von Morstein</bzg> <link ref="morstein" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="20">
+<bzg>Beaumont</bzg> nach <link ref="beaumont-jm" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="23">
+<bzg>König&#x202F;…&#x202F;erwartet</bzg> <link ref="friedrich-II" linktext="true" />, vgl. <intlink letter="616" page="281" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="24" sort="1">
+<bzg>Graudenz&#x202F;…&#x202F;Revue</bzg> nach <wwwlink address="https://www.geonames.org/7532081">Graudenz</wwwlink> in der Provinz Westpreußen, was Anfang Juni tatsächlich geschah, vgl. <wwwlink address="https://friedrich.uni-trier.de/fr/roedenbeck/3/261/text">Rödenbeck: <titel>Tagebuch oder Geschichtskalender aus Friedrich’s des Großen Regentenleben (1740- 1786),</titel> Bd.&#x202F;3 (Berlin 1842), S.&#x202F;261</wwwlink>
+</marginal>
+
+<marginal letter="617" page="286" line="24" sort="2">
+<bzg>Großkanzlers</bzg> <link ref="carmer" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="25">
+<bzg>Hippels Reise nach Berl.</bzg> <link ref="hippel" linktext="true" />, vgl. <intlink letter="612" page="261" line="33" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="26">
+<bzg>Prof. Bause</bzg> <link ref="bause" linktext="true" />, vgl. <intlink letter="614" page="268" line="1" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="27">
+<bzg>Arndt</bzg> <link ref="arndt-cg" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="617" page="286" line="30">
+<bzg>Gesetzbuchs</bzg> <link ref="katharina" subref="katharina-instruction" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="30">
+<bzg>Petersb. Journal</bzg> <link ref="arndt-cg" subref="arndt-verordnungen" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="32">
+<bzg>Neuen</bzg> <link ref="arndt-cg" subref="arndt-neues-petersburgjournal" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="35" sort="1">
+<bzg>Chevilah</bzg> <link ref="chevilla" linktext="true" />, vgl. <intlink letter="611" page="256" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="35" sort="2">
+<bzg>Monboddo’s Werk über die Sprache</bzg> <link ref="monboddo" subref="monboddo-language" linktext="true" />, vgl. <intlink letter="600" page="217" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="36">
+<bzg>Göttingschen Magazin</bzg> <link ref="lichtenberg" subref="lichtenberg-magazin" linktext="true" />, Jg.&#x202F;1, St.&#x202F;3, S.&#x202F;462; vgl. <intlink letter="598" page="209" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="617" page="286" line="37">
+<bzg>Ankündigung seiner Ancient Metaphysicks</bzg> <link ref="monboddo" subref="monboddo-metaphysics" linktext="true" /> (Bd.&#x202F;1, 1779) wurde etwa im <link ref="eschenburg" subref="eschenburg-museum" linktext="false">Brittischen Museum für die Deutschen</link>, <wwwlink address="http://digital.slub-dresden.de/id372311903-17800600/205">Bd.&#x202F;6, S.&#x202F;201–215</wwwlink> besprochen.
 </marginal>
 
 
