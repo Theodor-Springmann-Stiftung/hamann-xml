@@ -45335,7 +45335,7 @@ Brief Nr. 377
 </marginal>
 
 <marginal letter="377" page="13" line="7" sort="1">
-<bzg>Gurt</bzg> als Teil der hohepriesterlichen Kleidung, vgl. etwa <link ref="at-mo2" subref="at-mo2-28" linktext="false">2 Mo 27,2</link>
+<bzg>Gurt</bzg> als Teil der hohepriesterlichen Kleidung, vgl. etwa <link ref="at-mo2" subref="at-mo2-28" linktext="false">2 Mo 28,4</link>
 </marginal>
 
 <marginal letter="377" page="13" line="7" sort="2">
@@ -86143,7 +86143,7 @@ Wegen der langen Abfassungsphase antwortet Herder mit diesem Brief auf verschied
 </marginal> 
 
 <marginal letter="615" page="272" line="6">
-Mit diesem Passus antwortet Herder auf <intlink letter="617" page="" line="" linktext="false"></intlink>; zur langen Abfassungsphase des Briefs <intlink letter="615" page="270" line="12" linktext="false">s.o.</intlink>
+Mit diesem Passus antwortet Herder auf <intlink letter="617" page="282" line="25" linktext="false">HKB 617</intlink>; zur langen Abfassungsphase des Briefs <intlink letter="615" page="270" line="12" linktext="false">s.o.</intlink>
 </marginal>
 
 <marginal letter="615" page="272" line="8">
@@ -86171,19 +86171,51 @@ Mit diesem Passus antwortet Herder auf <intlink letter="617" page="" line="" lin
 </marginal>
 
 <marginal letter="615" page="272" line="20">
-<bzg>Oster Kantate</bzg> wohl ein zuvor zirkulierender Privatdruck von <link ref="wolf-ew" subref="wolf-osterkantate" linktext="true" />
+<bzg>Oster Kantate</bzg> wohl ein zuvor zirkulierender Privatdruck von <link ref="wolf-ef" subref="wolf-osterkantate" linktext="true" />
 </marginal>
 
 <marginal letter="615" page="272" line="21">
-<bzg>Kapellmeister Wolf</bzg> <link ref="wolf-ew" linktext="true" />
+<bzg>Kapellmeister Wolf</bzg> <link ref="wolf-ef" linktext="true" />
 </marginal>
 
 <marginal letter="615" page="272" line="23">
 <bzg>meine u. meiner Familie</bzg> abgebildet bei <wwwlink address="https://books.google.de/books/about/Johann_Gottfried_Herder.html?id=LaDBugEACAAJ">Peter von Gebhardt, Hans Schauer: <titel>Johann Gottfried Herder: seine vorfahren und seine nachkommen</titel> (Leipzig 1930), Tafel XX,2</wwwlink>, vgl. auch <intlink letter="622" page="301" line="7" linktext="true" />
 </marginal>
 
+<marginal letter="615" page="272" line="27">
+<bzg>Michels</bzg> <link ref="hamann-jm" linktext="true" />
+</marginal>
 
-Brief Nr. 617
+<marginal letter="615" page="272" line="28">
+<bzg>Kreuzfeld&#x202F;…&#x202F;Lauson</bzg> <link ref="kreutzfeld" linktext="true" /> und <link ref="lauson" linktext="true" />, von denen Hamann auch einen Schattenrisse mitsandte, vgl. <intlink letter="617" page="283" line="11" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="272" line="29">
+<bzg>Wielands&#x202F;…</bzg> <link ref="wieland" linktext="true" />, <link ref="goethe" linktext="true" />, <link ref="knebel" linktext="true" />, <link ref="carl-august" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="272" line="32">
+<bzg>Urim u. Thummim</bzg> <link ref="at-mo2" subref="at-mo2-28" linktext="false">2 Mo 28,30</link>, <link ref="at-sam1" subref="at-sam1-14" linktext="false">1 Sam 14,41</link>
+</marginal>
+
+<marginal letter="615" page="272" line="31">
+<bzg>Prophetenglauben&#x202F;…&#x202F;Lustrum</bzg> <link ref="lavater" linktext="false">Lavater</link> seine physiognomsichen Theorien, ‚Lustrum‘ bezieht sich wohl auf die etwa fünf Jahre, die das Erscheinen der <link ref="lavater" subref="lavater-fragmente" linktext="false"></link> her ist
+</marginal>
+
+<marginal letter="615" page="272" line="33">
+<bzg>Buch des erreurs</bzg> <link ref="saint-martin" subref="saint-martin-verite" linktext="true" />, die französische Ausgabe, vgl. <intlink letter="633" page="335" line="9" linktext="true" />, außerdem <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;170
+</marginal>
+
+<marginal letter="615" page="272" line="35">
+<bzg>in Ihrem Briefe&#x202F;…&#x202F;Claudius</bzg> Aus <link ref="claudius" linktext="true" /> nicht überliefertem Brief an Hamann, was er in <intlink letter="617" page="287" line="2" linktext="true" /> erwähnt; zu Hamanns Antwort vgl. <intlink letter="622" page="303" line="22" linktext="true" />.
+</marginal>
+
+<marginal letter="615" page="273" line="1">
+<bzg>Mosers Entlaßung</bzg> <link ref="moser" linktext="true" />; zu dessen Entlassung vgl. <intlink letter="600" page="219" line="35" linktext="true" />
+</marginal>
+
+
+Brief Nr. 616
 
 <marginal letter="616" page="278" line="7">
 <bzg>54 volumes des Voltaire</bzg> <link ref="voltaire" subref="voltaire-collection-complette" linktext="true" /> (Bd.&#x202F;55–57 erschienen erst im Laufe des Jahres 1781)
@@ -87038,6 +87070,10 @@ Brief Nr. 617
 
 <marginal letter="617" page="287" line="1">
 <bzg>Claudius</bzg> <link ref="claudius" linktext="true" />, in seinem nicht überlieferten Brief, der am 4. April in Königsberg ankam
+</marginal>
+
+<marginal letter="617" page="287" line="2">
+<bzg>Buch</bzg> aus <link ref="saint-martin" subref="saint-martin-verite" linktext="true" /> (mglw. die Stelle <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11273708?page=248%2C249">S.&#x202F;234</wwwlink>); vgl.<intlink letter="615" page="272" line="35" linktext="true" /> und <intlink letter="622" page="303" line="22" linktext="true" />
 </marginal>
 
 <marginal letter="617" page="287" line="4">
