@@ -86295,11 +86295,55 @@ Mit diesem Passus antwortet Herder auf <intlink letter="617" page="282" line="25
 </marginal>
 
 <marginal letter="615" page="274" line="7">
-<bzg>Meiners</bzg> 
+<bzg>Meiners</bzg> <link ref="meiners" subref="meiners-wissenschaften" linktext="true" />
 </marginal>
 
 <marginal letter="615" page="274" line="8">
-<bzg>Adlung</bzg> 
+<bzg>Adlung</bzg> <link ref="adelung" subref="adelung-geschichte" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="274" line="9">
+<bzg>Buchhandl. der Gelehrten </bzg> Die genossenschaftliche „Buchhhandlung der Gelehrten“ in Dessau: Selbstverlag auf Kosten der Autoren, nach einer Provision kam der volle Ertrag den Autoren zugute; geleitet von <link ref="reiche" linktext="true" />.
+</marginal>
+
+<marginal letter="615" page="274" line="12">
+<bzg>Berichte</bzg> <link ref="reiche" subref="reiche-buchhandlung" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="274" line="13" sort="1">
+<bzg>Reichart</bzg> <link ref="reichardt-jf" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="274" line="13" sort="2">
+<bzg>Chevilah</bzg> <link ref="chevilla" linktext="true" />; zu Hamanns Fragen vgl. <intlink letter="611" page="256" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="274" line="14">
+<bzg>Zeitungsblatt</bzg> Vmtl. ist der Artikel über <link ref="ziehen" linktext="false">Ziehen</link> in den Greifswalder <link ref="neue-critische-nachrichten" linktext="false">Neuesten Critischen Nachrichten</link> gemeint, der in <wwwlink address="https://www.digitale-bibliothek-mv.de/viewer/image/PPN774811161_1780/430/">St.&#x202F;53, S.&#x202F;322–324</wwwlink> erschien; zum Hintergrund vgl. <link ref="herder" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;164–167 u. 337 sowie Bd.&#x202F;12, S.&#x202F;159f. u. 172; vgl. weiterhin Hamanns Antworten <intlink letter="622" page="304" line="33" linktext="true" /> und <intlink letter="627" page="318" line="10" linktext="true" /> sowie im Brief an Hartknoch <intlink letter="629" page="323" line="11" linktext="true" />.
+</marginal>
+
+<marginal letter="615" page="274" line="16" sort="1">
+<bzg>Blatt</bzg> nicht ermittelt
+</marginal>
+
+<marginal letter="615" page="274" line="16" sort="2">
+<bzg></bzg> <link ref="monboddo" subref="monboddo-language" linktext="true" />, vgl. <intlink letter="617" page="286" line="35" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="274" line="18">
+<bzg>freimüthige Betrachtungen</bzg> <link ref="starck" subref="starck-christenthum" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="274" line="19">
+<bzg>Lehrbuch des Χth.</bzg> <link ref="hermes-ja" subref="hermes-religion" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="274" line="20">
+<bzg>Steinbart&#x202F;…</bzg> <link ref="steinbart" linktext="true" />, in: <link ref="goettingische-anzeigen" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN31973076X_1781:00001564/full/full/0/default.jpg">Zugabe zum 15.&#x202F;St., 14.4.1781, S.&#x202F;225–239</wwwlink> und <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN31973076X_1781:00001591/full/full/0/default.jpg">Zugabe zum 16.&#x202F;St., 21.4.1781, S.&#x202F;252–256</wwwlink>, von <link ref="less" linktext="true" />
+</marginal>
+
+<marginal letter="615" page="274" line="21">
+<bzg>Leß</bzg> <link ref="less" linktext="true" />
 </marginal>
 
 

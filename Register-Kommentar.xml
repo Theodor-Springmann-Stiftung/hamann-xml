@@ -141,6 +141,11 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 <eintrag>
 <titel>Kurzer Begriff menschlicher Fertigkeiten und Kenntnisse so fern sie auf Erwerbung des Unterhalts, auf Vergnügen, auf Wissenschaft, und auf Regierung der Gesellschaft abzielen. Für Realschulen und das bürgerliche Leben, von dem Verfasser der Unterweisung in Künsten und Wissenschaften</titel> (4 Bde., Leipzig: Hertel 1778–1781). Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN1001469585">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
+<subsection id="adelung-geschichte" type="neuzeit" sort="40">
+<lemma>Adelung, <titel>Über die Geschichte der Deutschen Sprache</titel></lemma>
+<eintrag>
+<titel>Über die Geschichte der Deutschen Sprache, über Deutsche Mundarten und Deutsche Sprachlehre. Von Johann Christoph Adelung</titel> (Leipzig: Breitkopf 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10583299-3">BSB München: L.germ. 6</wwwlink>. Vgl. N&#x202F;V,357.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="aderkas" type="neuzeit">
@@ -9053,6 +9058,18 @@ Biga&#x202F;8/112: „Herodiani Historia gr. &amp; lat. Arg. 662“ und <link re
 <eintrag>Um 1480 oder 1500 bis 1561. Kantor in St. Joachimsthal und protestantischer Kirchenlieddichter.</eintrag>
 </kommentar>
 
+<kommentar id="hermes-ja" type="neuzeit">
+<lemma>Johann August Hermes</lemma>
+<eintrag>1736–1822. Evangelischer Theologe, 1780 Oberhofprediger in Quedlinburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11752011X.html#ndbcontent">Beyreuther, Erich: Hermes, Johann Timotheus, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;668f</wwwlink>.
+<subsection id="hermes-religion" type="neuzeit" sort="10">
+<lemma>Hermes, <titel>Handbuch der Religion</titel></lemma>
+<eintrag>
+<titel>Handbuch der Religion, von Johann August Hermes</titel> (2 Bde., Berlin: Himburg 1779). Digitalisat 2.&#x202F;Aufl. 1780: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11278234-5">Stabi Augsburg: S 659</wwwlink>.
+</eintrag>
+</subsection>
+</eintrag>
+</kommentar>
+
 <kommentar id="hermes-jf" type="neuzeit">
 <lemma>Johann Friedrich Hermes</lemma>
 <eintrag>Sohn eines Mühlenaufsehers; ging unter der Aufsicht von <link ref="kraus" linktext="true" /> nach Göttingen.
@@ -13627,7 +13644,13 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 <subsection id="meiners-deo" type="neuzeit" sort="50">
 <lemma>Meiners, <titel>Historia doctrinae de vero Deo</titel></lemma>
 <eintrag>
-<titel>Historia doctrinae de vero Deo, omnium rerum auctore et rectore</titel> (2 Bde., Lemgo: Meyer 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11760999-6">Stabi Bamberg: Ph.o.739#1</wwwlink>.
+<titel>Historia doctrinae de vero Deo, omnium rerum auctore et rectore</titel> (2 Bde., Lemgo: Meyer 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11760999-6">Stabi Bamberg: Ph.o.739</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="meiners-wissenschaften" type="neuzeit" sort="60">
+<lemma>Meiners, <titel>Geschichte des Ursprungs, Fortgangs und Verfalls der Wissenschaften in Griechenland und Rom</titel></lemma>
+<eintrag>
+<titel>Geschichte des Ursprungs, Fortgangs und Verfalls der Wissenschaften in Griechenland und Rom von Christoph Meiners</titel> (2 Bde., Lemgo: Meyer 1781–1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11760021-3">Stabi Bamberg: Ph.o.40</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -14895,7 +14918,13 @@ N
 
 <kommentar id="neue-hallische-zeitungen" type="neuzeit">
 <lemma>Neue Hallische Gelehrte Zeitungen</lemma>
-<eintrag>Bde. 1-27, Halle: Curt 1766–92, hg. von <link ref="klotz" linktext="true" />; <wwwlink address="https://digitale.bibliothek.uni-halle.de/urn/urn:nbn:de:gbv:3:1-696871">Halle, Saale: Universitäts- und Landesbibliothek Sachsen-Anhalt, 2016</wwwlink>.
+<eintrag>27 Bde., Halle: Curt 1766–1792, hg. von <link ref="klotz" linktext="true" />. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/89305">ULB Halle</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="neue-critische-nachrichten" type="neuzeit">
+<lemma>Neueste Critische Nachrichten</lemma>
+<eintrag>Erschienen Greifswald 1775–1804. Digitalisat: <wwwlink address="http://ub-goobi-pr2.ub.uni-greifswald.de/viewer/toc/PPN774811161/0/">UB Greifswald</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1045247677">ZDB</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -16646,11 +16675,17 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 
 <kommentar id="reiche" type="neuzeit">
 <lemma>Carl Christoph Reiche</lemma>
-<eintrag>1739–1793. Prediger und Buchhändler, Begründer und Leiter der Dessauer Buchhandlung der Gelehrten, siehe <wwwlink address="https://d-nb.info/gnd/1073399214">GND</wwwlink>.</eintrag>
+<eintrag>1739–1793. Prediger und Buchhändler, Begründer und Leiter der genossenschaftlichen Dessauer Buchhandlung der Gelehrten, siehe <wwwlink address="https://d-nb.info/gnd/1073399214">GND</wwwlink>.</eintrag>
 <subsection id="reiche-taufe" type="neuzeit">
 <lemma>Reiche, <titel>Die Taufe der Christen, ein ehrwürdiger Gebrauch, und kein Gesetz Christi</titel></lemma>
 <eintrag>
 <titel>Die Taufe der Christen, ein ehrwürdiger Gebrauch, und kein Gesetz Christi. Man muss mich aber recht verstehen und das Ganze von Anfang bis zu Ende lesen</titel> (Berlin und Leipzig: Decker 1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;32/249: „Die Taufe der Christen ein ehrwürdiger Gebrauch, und kein Gesetz Christi, Berl. 774.“]. Digitalisat, Bd.&#x202F;1: <wwwlink address="http://dx.doi.org/10.25673/66430">ULB Halle: AB 101782</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="reiche-buchhandlung" type="neuzeit">
+<lemma>Reiche (Hg.), <titel>Berichte der Allgemeinen Buchhandlung der Gelehrten</titel></lemma>
+<eintrag>
+<titel>Berichte der Allgemeinen Buchhandlung der Gelehrten</titel> (Dessau, Leipzig: Buchhandlung der Gelehrten 1781–1784). <wwwlink address="http://tudigit.ulb.tu-darmstadt.de/show/Zs-2636">TU Darmstadt</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1135919801">ZDB</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
