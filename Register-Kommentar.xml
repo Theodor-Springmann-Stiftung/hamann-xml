@@ -2969,6 +2969,11 @@ C
 <eintrag>100–44 v. Chr.</eintrag>
 </kommentar>
 
+<kommentar id="cagliostro" type="neuzeit">
+<lemma>Alessandro Cagliostro</lemma>
+<eintrag>1743–1795. Italienischer Okkultist, Abenteurer und Hochstapler, 1779 in Mitau, St. Petersburg, 1780 in Straßburg und Paris, siehe <wwwlink address="https://d-nb.info/gnd/118518305">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="cajetan" type="neuzeit">
 <lemma>Thomas Cajetan</lemma>
 <eintrag>1469–1534. Päpstlicher Legat.</eintrag>
@@ -5631,8 +5636,7 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 
 <kommentar id="ferdinand" type="neuzeit">
 <lemma>Ferdinand von Braunschweig-Lüneburg</lemma>
-<eintrag>1721–1792. Generalfeldmarschall im Siebenjährigen Krieg, Schwager <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, Bruder des regierenden Fürten von Braunschweig-Wolfenbüttel (bzw. ab 1780 Onkel) und einer der führenden Freimaurer in Deutschland, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd119007754.html#ndbcontent">Mediger, Walther: Ferdinand, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;87f</wwwlink>.
-
+<eintrag>1721–1792. Generalfeldmarschall im Siebenjährigen Krieg, Schwager <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, Bruder des regierenden Fürsten von Braunschweig-Wolfenbüttel (bzw. ab 1780 <link ref="karl-wilhelm-ferdinand" linktext="false">Onkel</link>) und einer der führenden Freimaurer in Deutschland, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd119007754.html#ndbcontent">Mediger, Walther: Ferdinand, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;87f</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -10630,6 +10634,11 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <eintrag>1725–1812. Buchdrucker in Königsberg, Bruder von <link ref="kanter" linktext="true" />, siehe <wwwlink address="http://d-nb.info/gnd/137712804">GND</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="karl-wilhelm-ferdinand" type="neuzeit">
+<lemma>Karl Wilhelm Ferdinand von Braunschweig-Wolfenbüttel</lemma>
+<eintrag>1735–1806. Ab März 1780 Landesherr im Fürstentum Braunschweig-Wolfenbüttel, übte bereits ab 1773 die Regierungsgeschäfte aus; siehe <wwwlink address="https://d-nb.info/gnd/11913988X">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="karoline" type="neuzeit">
 <lemma>Karoline. Eine Wochenschrift</lemma>
 <eintrag>1761. Herausgegeben von Jakob Friedrich Schmidt (geb. 1740). Gedruckt in Königsberg: Driest 1761. Im Stil und bzgl. der Themen ahmt die Zeitschrift die <link ref="hamann" subref="daphne" linktext="false"><titel>Daphne</titel></link> nach; im ersten Heft wird auch auf diese verwiesen. Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN672256886">SUB Göttingen</wwwlink>.
@@ -12183,6 +12192,11 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 </subsection>
 </kommentar>
 
+<kommentar id="lessing-kg" type="neuzeit">
+<lemma>Karl Gotthelf Lessing</lemma>
+<eintrag>1740–1812. Münzdirektor und Schriftsteller, Bruder und Nachlassverwalter von <link ref="lessing" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116950390.html#ndbcontent">Milde, Wolfgang: Leuchsenring, Lessing, Karl Gotthelf, in: <titel>NDB</titel>&#x202F;14 (1985), S.&#x202F;346f.</wwwlink></eintrag>
+</kommentar>
+
 <kommentar id="lettres-edifiantes" type="neuzeit">
 <lemma>Lettres édifiantes et curieuses</lemma>
 <eintrag><titel>Lettres édifiantes et curieuses, ecrites des missions etrangeres, par quelques Missionaires de la Compagnie de Jesus</titel>. Briefe von jesuitischen Missianaren des 18. Jh. über außereuropäische Völker und ihre Sitten, in erster Auflage 1702–1776 in 34 Bde. in Paris herausgegeben von Charles Le Gobien (1653–1708), Jean-Baptiste Du Halde (1674–1743), Louis Patouillet (1699–1779) und Nicolas Maréchal (1744–1803). – Digitalisat Bd. 15 (Paris 1722): <wwwlink address="https://data.onb.ac.at/rep/10A936FC">ÖNB Wien: BE.7.S.16 ALT PRUNK</wwwlink></eintrag>.
@@ -13349,6 +13363,12 @@ Dt. Übers. zitiert nach: Paul Barié u. Winfried Schindler (Hg. u. Übers.), <t
 <titel>M. Val. Martialis epigrammata.</titel> In usum Scholæ Westmonasteriensis, et Carthusianæ (London 1724) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;15/237: „Martialis Epigrammata in vsum Scholarum, Lond. 724“].<line type="break" />
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="martinez" type="neuzeit">
+<lemma>Martinez Pasqualis</lemma>
+<eintrag>Um 1715 bis um 1779. Wohl ein Portugiesischer Jude und Theosoph; er führte in französischen Freimaurerlogen den okkultistisch-kabbalistischen Ritus ein, siehe <wwwlink address="https://d-nb.info/gnd/118578391">GND</wwwlink>. 
+</eintrag>
 </kommentar>
 
 <kommentar id="martianus" type="neuzeit">
@@ -17855,6 +17875,11 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <lemma>Schmid, <titel>Kurze Anmerkungen über eines Ungenannten Neue Gedanken vom Ersten und Andren Adam</titel></lemma>
 <eintrag><titel>Kurze Anmerkungen über eines Ungenannten Neue Gedanken vom Ersten und Andren Adam auf Veranstaltung und unter der Aufsicht Herrn D. <link ref="teller-wa" linktext="false">Tellers</link> in Helmstädt aus dem Lateinischen übersetzt. Nebst einer Geschichte dieser Uebersetzung einem Beytrag zu einer Bestimmung der Grenzen der Nachahmung und Anhang einiger Beylagen</titel> (Halle und Helmstedt: Hemmerde 1766). Digitalisat: <wwwlink address="http://diglib.hab.de/drucke/g-205a-8f-helmst/start.htm">HAB Wolfenbüttel: H: G 205a.8° Helmst</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="schmid-ka" type="neuzeit">
+<lemma>Konrad Arnold Schmid</lemma>
+<eintrag>1716–1789. Schriftsteller und Philologe, ab 1761 Professor am Collegium Carolinum in Braunschweig, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117499498.html#adbcontent">Zimmermann, Paul: Schmid, Konrad Arnold, in: <titel>ADB</titel>&#x202F;31 (1890), S.&#x202F;686–688.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="schmidlin" type="neuzeit">
