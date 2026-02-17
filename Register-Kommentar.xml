@@ -1579,6 +1579,17 @@ Es wurde wohl auch eine französische Version für <link ref="friedrich-II" link
 </eintrag>
 </kommentar>
 
+<kommentar id="berger-cg" type="neuzeit">
+<lemma>Christian Gottlieb Berger</lemma>
+<eintrag>1741–1795. Arzt und theologischer Autor, seit 1777 in Graudenz, siehe <wwwlink address="http://d-nb.info/gnd/117587109">GND</wwwlink>.
+<subsection id="berger-antidiluviana" type="neuzeit" >
+<lemma>Berger, <titel>Antidiluviana</titel></lemma>
+<eintrag>
+<titel>Antidiluviana; oder Schrift- und vernunftmäßiger Beweis von den großen Fähigkeiten und Kenntnissen der Einwohner der ersten Welt, nebst einer geographischen Beschreibung des Paradises, und der Erde vor der Sündflüth, wie auch einer Berechnung ihrer Menschenzahl; zur Erläuterung der heiligen Schrift und der Geschichte der Menschheit. von D. Christian Gottlieb Berger</titel> (Berlin: Stahlbaum 1780). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id31287121X">SLUB Dresden: 23.8.5428</wwwlink>.</eintrag>
+</subsection>
+</eintrag>
+</kommentar>
+
 <kommentar id="berger-tb" type="neuzeit">
 <lemma>Traugott Benjamin Berger</lemma>
 <eintrag>1754–1810. Schriftsteller in Dresden.
@@ -2224,8 +2235,8 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </kommentar>
 
 <kommentar id="bondeli" type="neuzeit">
-<lemma></lemma>
-<eintrag>1740–1796. Tochter von <link ref="bondeli-fj" linktext="true" />; Ende der 1760er Jahre Wirtin und Schülerin Hamanns (vgl. <intlink letter="622" page="302" line="30" linktext="true" />), in den 1780er Jahren die Erzieherin von <link ref="hamann-er" linktext="false">Lisette Reinette</link>.</eintrag>
+<lemma>Juliane Charlotte Sophie von Bondeli</lemma>
+<eintrag>1740–1796. Baronesse, Tochter von <link ref="bondeli-fj" linktext="true" />; Ende der 1760er Jahre Wirtin und Schülerin Hamanns (vgl. <intlink letter="622" page="302" line="30" linktext="true" />), in den 1780er Jahren die Erzieherin von <link ref="hamann-er" linktext="false">Lisette Reinette</link>.</eintrag>
 </kommentar>
 
 <kommentar id="bondeli-fj" type="neuzeit">
@@ -2236,6 +2247,11 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <kommentar id="bondeli-fa" type="neuzeit">
 <lemma>Friedrich Albrecht Baron von Bondeli</lemma>
 <eintrag>1736–1783. Bruder von <link ref="bondeli" linktext="true" />, Offizier in preußischem Dienst, in der Schweiz.</eintrag>
+</kommentar>
+
+<kommentar id="bondeli-j" type="neuzeit">
+<lemma>Julie von Bondeli</lemma>
+<eintrag>1731–1778. Cousine <link ref="bondeli" linktext="false">Juliane von Bondelis</link>, Freundin Rousseaus, Wielands, Lavaters; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118661388.html#adbcontent">Bodemann, Eduard: Bondeli, Julie von, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;120</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="borde" type="neuzeit">
@@ -4645,6 +4661,12 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 </eintrag>
 </kommentar>
 
+<kommentar id="diotima" type="neuzeit">
+<lemma>Diotima</lemma>
+<eintrag>Priesterin aus <link ref="platon" subref="plat-symp" linktext="false">Platons <titel>Symposion</titel></link>
+</eintrag>
+</kommentar>
+
 <kommentar id="dissertation-extraordinaire" type="neuzeit">
 <lemma>Dissertation sur la question extraordinaire</lemma>
 <eintrag>Dissertation sur la question extraordinaire proposée par l’académie royale des sciences et belles-lettres, qui a partagé le prix adiugé le 1. Juin MDCCLXXX (Berlin: Decker 1780). – Die Publikation enthält zwei Beantwortungen, eine negative von <wwwlink address="https://www.deutsche-biographie.de/pnd118508121.html#ndbcontent">Rudolf Zacharias Becker</wwwlink> und eine positive von <wwwlink address="https://www.deutsche-biographie.de/sfz8061.html">Frédéric de Castillon</wwwlink>. – Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id322848024">SLUB Dresden: Encycl.104</wwwlink>.
@@ -5332,6 +5354,12 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 <titel>Grammatica Arabica, quinque libris methodicé explicata</titel> (Leiden 1613).
 </eintrag>
 </subsection>
+</kommentar>. 
+
+<kommentar id="erthal" type="neuzeit">
+<lemma>Franz Ludwig von Erthal</lemma>
+<eintrag>1730–1795. Seit 1779 Fürstbischof, Herzog in Franken, Vertreter der katholischen Aufklärung, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118692984.html#ndbcontent">Kist, Johannes: Franz Ludwig Freiherr von Erthal, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;371f</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="eschenbach" type="neuzeit">
@@ -8579,7 +8607,7 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="hemsterhuis" type="neuzeit">
 <lemma>Frans Hemsterhuis</lemma>
-<eintrag>1721–1790. Niederl. Philosoph und Schriftsteller, nahm später am Münsterschen Kreis teil, <wwwlink address="http://www.zeno.org/Meyers-1905/A/Hemsterhuis">Meyers Großes Konversations-Lexikon, Band 9. Leipzig 1907, S. 164</wwwlink>.
+<eintrag>1721–1790. Niederländischer Philosoph und Schriftsteller, befreundet mit <link ref="gallitzin-a" linktext="true" />, Mitte der 1780er Teil des Kreises von Münster; siehe <wwwlink address="http://www.zeno.org/Meyers-1905/A/Hemsterhuis">Meyers Großes Konversations-Lexikon, Band 9. Leipzig 1907, S. 164</wwwlink>.
 </eintrag>
 <subsection id="hemsterhuis-desirs" type="neuzeit" sort="10">
 <lemma>Hemsterhuis, <titel>Lettre sur les désirs</titel></lemma>
@@ -8596,6 +8624,16 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <eintrag>
 <titel>Lettre Sur La sculpture</titel> à Monsieur Théod. de Smeth, Ancien Président des Echevins de la Ville d’Amsterdam  (Amsterdam: Rey 1769). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-63128">UB Heidelberg: C 2330 Folio RES, angeb.</wwwlink>.</eintrag>
 </subsection>
+<subsection id="hemsterhuis-aristee" type="neuzeit" sort="30">
+<lemma>Hemsterhuis, <titel>Aristée ou de la divinité</titel></lemma>
+<eintrag>
+<titel>Aristée ou de la divinité</titel> (Paris 1779). Digitalisat: <wwwlink address="https://books.google.de/books?id=ebe0-DwRSHYC">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="hemsterhuis-simon" type="neuzeit" sort="40">
+<lemma>Hemsterhuis, <titel>Simon ou des facultés de l’âme</titel></lemma>
+<eintrag>
+<titel>Simon ou des facultés de l’âme</titel>; zirkulierte 1781 als Manuskript. Digitalisat eines Drucks 1792: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-63128">Oeuvres philosophiques, Bd.&#x202F;2, S.&#x202F;187–277</wwwlink>.</eintrag>
+</subsection> 
 </kommentar>
 
 <kommentar id="hemsterhuis-t" type="neuzeit">
@@ -17343,6 +17381,12 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 <titel>Les Confessions</titel> de J.&#x202F;J. Rousseau (2 Bde. Genf 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10915559-7">BSB München: Res/Biogr. 3333 t-1</wwwlink>. 
 </eintrag>
 </subsection>
+<subsection id="rousseau-collection-complette" type="neuzeit" sort="110">
+<lemma>Rousseau, <titel>Collection complete</titel></lemma>
+<eintrag>
+<titel>Collection complete des Oeuvres de J. J. Rousseau, Citoyen de Geneve</titel> (24 Bde., Genf 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11719199-6">Stabi Bamberg: L.fr.o.94-a</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="runtze" type="neuzeit">
@@ -17675,7 +17719,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 
 <kommentar id="schardt-fse" type="neuzeit">
 <lemma>Friederike Sophie Eleonore von Schardt</lemma>
-<eintrag>1755–1819. Geb. v. <link ref="bernstorff-ce" linktext="false">Bernstorff</link>, seit 1778 Ehefrau von <link ref="schardt-ekk" linktext="true" />.</eintrag>
+<eintrag>1755–1819. Geb. v. <link ref="bernstorff-ce" linktext="false">Bernstorff</link>, seit 1778 Ehefrau von <link ref="schardt-ekk" linktext="true" />; vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11157727-2">Heinrich Düntzer: <titel>Zwei Bekehrte: Zacharias Werner und Sophie von Schardt</titel> (Leipzig 1873)</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="schaumburg-lippe-wilhelm" type="neuzeit">
@@ -20098,6 +20142,18 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <titel>Witterunglehre für den Feldbau. Eine, von der Königl. Societät der Wissenschaften zu Montpellier gekrönte Preisschrift, über die für das Jahr 1774. aufgelegte Frage: Was hat die Witterung für Einfluß auf den Wachsthum der Pflanzen, und was für praktische Folgerungen lassen sich, in Rücksicht auf den Wachsthum, aus den verschiedenen bisher gemachten Wetterbeobachtungen ziehen? Vom Herrn Abt, Joseph Toaldo […], Aus dem Italienischen übersetzt von Johann Gottlieb Steudel.</titel> (Berlin: Himburg 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10299293-4">BSB München: Oecon. 1707</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar> 
+
+<kommentar id="tobler-gc" type="neuzeit">
+<lemma>Georg Christoph Tobler</lemma>
+<eintrag>1757–1812. Sohn von <link ref="tobler-j" linktext="true" />, reformierter Theologe, 1781 Gast <link ref="knebel" linktext="false">Knebels</link> in Weimar, Bekanntschaft mit <link ref="goethe" linktext="false">Goethe</link> und <link ref="herder" linktext="false">Herder</link>, 1784 Prediger in Offenbach; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118623052.html#adbcontent">Baechtold, Jakob: Tobler, Georg Christoph, in: <titel>ADB</titel>&#x202F;38 (1894), S.&#x202F;392</wwwlink>.
+</eintrag>
+<subsection id="tobler-sophokles" type="neuzeit">
+<lemma>Tobler, <titel>Sophokles</titel></lemma>
+<eintrag>
+<titel>Sophokles. Verdeutscht von Georg Christoph Tobler</titel> (2 Bde., Basel: Schweighauser 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10234092-7">BSB München: A.gr.a. 2150</wwwlink>. 
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="tobler-j" type="neuzeit">
@@ -21546,6 +21602,12 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <lemma>Wieland, <titel>Oberon</titel></lemma>
 <eintrag>
 <titel>Oberon. Ein Gedicht in vierzehn gesängen,</titel> in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10617975?page=7">1. Vj. 1780</wwwlink>. Auch als Einzeldruck veröffentlicht, Weimar: Hoffmann 1780. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123359-3">BSB München: P.o.germ. 1614 w</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="wieland-horaz-episteln" type="neuzeit" sort="140">
+<lemma>Wieland, <titel>Horazens Briefe</titel></lemma>
+<eintrag>
+<titel>Horazens Briefe aus dem Lateinischen übersezt und mit historischen Einleitungen und andern nöthigen Erläuterungen versehen von C. M. Wieland</titel> (2 Tle., Dessau: Buchhandlung der Gelehrten 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10241577-3">BSB München: A.lat.a. 506</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
