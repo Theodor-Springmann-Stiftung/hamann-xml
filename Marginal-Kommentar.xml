@@ -83822,7 +83822,7 @@ Brief Nr. 607
 </marginal>
 
 <marginal letter="607" page="241" line="34">
-<bzg>zarte Mann</bzg> Lavater
+<bzg>zarte Mann</bzg> <link ref="lavater" linktext="true" /> 
 </marginal>
 
 <marginal letter="607" page="242" line="2">
@@ -83830,7 +83830,7 @@ Brief Nr. 607
 </marginal>
 
 <marginal letter="607" page="242" line="15">
-<bzg>de his satis superque</bzg> davon genug und übergenug
+<bzg>de his satis superque</bzg> dt. davon genug und übergenug
 </marginal>
 
 <marginal letter="607" page="242" line="19">
@@ -83866,7 +83866,7 @@ Brief Nr. 607
 </marginal>
 
 <marginal letter="607" page="242" line="36">
-<bzg>70. u. dem Araber</bzg> der Septuaginta und Herders Arabisch-Übersetzung des alten Testaments (vgl. SWS X, S.&#x202F;61f.)
+<bzg>70. u. dem Araber</bzg> der Septuaginta und Herders Arabisch-Übersetzung des Alten Testaments (vgl. SWS X, S.&#x202F;61f.)
 </marginal>
 
 <marginal letter="607" page="243" line="1">
@@ -84242,6 +84242,10 @@ Brief Nr. 608
 
 <marginal letter="608" page="248" line="25">
 <bzg>Prof. Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
+</marginal>
+
+<marginal letter="608" page="249" line="2">
+<bzg>Veni, vide, vale!</bzg> dt. Komm, sieh (<link ref="nt-jo" subref="nt-jo11" linktext="false">Joh 11,34</link>) und lebe wohl!
 </marginal>
 
 
