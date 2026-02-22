@@ -889,6 +889,18 @@ B
 </subsection>
 </kommentar>
 
+<kommentar id="bacmeister" type="neuzeit">
+<lemma>Hartwich Ludwig Christian Bacmeister</lemma>
+<eintrag>1730–1806. Deutscher Gelehrter in St. Petersburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118651587.html#adbcontent">Wegele, Franz Xaver von: Bacmeister, H. L. Christian, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;757f</wwwlink>.
+</eintrag>
+<subsection id="bacmeister-bibliothek" type="neuzeit" sort="10">
+<lemma>Bacmeister (Hg.), <titel>Russische Bibliothek</titel></lemma>
+<eintrag>
+<titel>Russische Bibliothek, zur Kenntnis des gegenwärtigen Zustandes der Literatur in Rußland</titel> (10 Bde., St. Petersburg, Riga, Leipzig: Harknoch 1772–1786). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10730626-1">BSB München: H.lit.p. 26</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=015268357">ZDB</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="bacon" type="neuzeit">
 <lemma>Francis Bacon</lemma>
 <eintrag>1561–1626. 1. Viscount St. Albans, 1. Baron Verulam; Philosoph, Jurist. <wwwlink address="https://plato.stanford.edu/archives/win2016/entries/francis-bacon/">Klein, Jürgen: Francis Bacon, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Winter 2016 Edition)</wwwlink>.
@@ -9949,6 +9961,18 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 </eintrag>
 </kommentar>
 
+<kommentar id="hupel" type="neuzeit">
+<lemma>August Wilhelm Hupel</lemma>
+<eintrag>1737–1819. Deutschbaltischer Pastor, Regionalhistoriker und Sprachforscher, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117546674.html#adbcontent">Eckardt: Jablonski, Hupel, August Wilhelm, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;422</wwwlink>
+</eintrag>
+<subsection id="hupel-miscellaneen" type="neuzeit" sort="10">
+<lemma>Hupel, <titel>Nordische Miscellaneen</titel></lemma>
+<eintrag>
+<titel>Nordische Miscellaneen</titel> (28 St., Riga: Hartknoch 1781–1791). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10782555-0">BSB München: Russ. 70</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=989789462">ZDB</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="hurd" type="neuzeit">
 <lemma>Richard Hurd</lemma>
 <eintrag>1720–1808. Theologe und klass. Philologe, Bischof von Worcester. <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-14249">Ditchfield, G.M.: Hurd, Richard, in: <titel>Oxford DNB</titel></wwwlink>.
@@ -14557,6 +14581,16 @@ Um 1760 bis 1805. Schriftsteller und Lehrer in Königsberg, siehe <wwwlink addre
 </subsection>
 </kommentar>
 
+<kommentar id="moritz-jcf" type="neuzeit">
+<lemma>Johann Christian Friedrich Moritz</lemma>
+<eintrag>1741–1795. Diakon in Riga und Direktor des Lyceums, siehe <wwwlink address="https://bbld.de/GND1016521324">BBLd</wwwlink>.</eintrag>
+<subsection id="moritz-beytrage" type="neuzeit" sort="10">
+<lemma>Moritz, <titel>Beyträge zur liefländischen Pädagogik</titel></lemma>
+<eintrag>
+<titel>Beyträge zur liefländischen Pädagogik. Erste Sammlung, welche ein Programm und drey bey einer feyerlichen Gelegenheit gehaltene Reden enthält, zusammen getragen von Johann Christian Friedrich Moritz</titel> (Riga: Hartknoch 1781). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0001C64500000000">Stabi Berlin: Az 43280</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="mornay" type="neuzeit">
 <lemma>Philippe de Mornay, Seigneur du Plessis–Marly</lemma>
 <eintrag>1549–1623. Reformierter Theologe und Politiker.</eintrag>
@@ -16858,7 +16892,7 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 
 <kommentar id="recke-gm" type="neuzeit">
 <lemma>Georg Magnus von der Recke</lemma>
-<eintrag>1739–1795. Kammerherr und Ehemann <link ref="recke-e" linktext="false">Elisa von der Reckes</link> (Konvenienzehe, die 1781 geschieden wurde), sieh <wwwlink address="https://bbld.de/GND1016521324">BBLd</wwwlink></eintrag>
+<eintrag>1739–1795. Kammerherr und Ehemann <link ref="recke-e" linktext="false">Elisa von der Reckes</link> (Konvenienzehe, die 1781 geschieden wurde), sieh <wwwlink address="https://bbld.de/GND1016521324">BBLd</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="reime" type="neuzeit">
@@ -18436,6 +18470,12 @@ Kaufmann, Kommerzien- und Admiralitätsrat in Königsberg.
 </eintrag>
 </kommentar>
 
+<kommentar id="scriver" type="neuzeit">
+<lemma>Etatsrat Scriver</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Anfang der 1780er in Königsberg, wo Hamann für Hartknoch mit ihm Buchgeschäfte tätigte.
+</eintrag>
+</kommentar>
+
 <kommentar id="seckendorff" type="neuzeit">
 <lemma>Veit Ludwig v. Seckendorff</lemma>
 <eintrag>1626–1692. Gothaischer und Zeitzer Staatsmann; Polyhistor; Verwaltungsfachmann; <wwwlink address="https://www.deutsche-biographie.de/pnd118760343.html#adbcontent">Kolde, Theodor: Seckendorff, Veit Ludwig v., in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;519–521</wwwlink>.
@@ -19263,7 +19303,7 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 
 <kommentar id="stein-g" type="neuzeit">
 <lemma>Carl Gideo von Stein</lemma>
-<eintrag>1731–1799. Ab 1778 polnischer Oberst-Leutnant und Herr zu Ulpisch, verh. mit Christina Louise geb. v. Löwis (1744–1796); siehe <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN82593625X:00000186/full/full/0/default.jpg">Siebmacher’s grosses und allgemeines Wappenbuch. Bd. 3, Abt. 11, Tl. 1: Der Adel der Rss. Ostseeprovinzen. Erster Theil: Die Ritterschaft, bearb. v. M. Gritzner (Nürnberg 1898).</wwwlink>.</eintrag>
+<eintrag>1731–1799. Ab 1778 polnischer Oberst-Leutnant und Herr zu Ulpisch, verh. mit Christina Louise geb. v. Löwis (1744–1796); siehe <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN82593625X"><titel>Siebmacher’s grosses und allgemeines Wappenbuch.</titel> Bd. 3, Abt. 11, Tl. 1: Der Adel der Russ. Ostseeprovinzen. Erster Theil: Die Ritterschaft, bearb. v. M. Gritzner (Nürnberg 1898),</wwwlink> <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN82593625X:00000186/full/full/0/default.jpg">S.&#x202F;445</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="steinbruchel" type="neuzeit">
@@ -20423,6 +20463,11 @@ Im Anhang sind sieben Gedichte von <link ref="lindner-jg" linktext="true" /> abg
 <eintrag>1741–1821, geb. v. Flörke; heiratete 1763 Friedrich Ludwig I. Truchseß von Waldburg (1711–1777), im März 1779 den Hauptmann Friedrich Wilhelm von Bär.</eintrag>
 </kommentar>
 
+<kommentar id="wulf-kf" type="neuzeit">
+<lemma>Karl Friedrich von Wulf</lemma>
+<eintrag>1723–1798, russ. Karl Iwanowitsch (Карл Иванович фон Вульф). Russischer Generalleutnant der Artillerie, 1781 in Riga stationiert. Seine Frau war als geb. von Löwitz (bzw. Lewiz) wohl eine Schwester der Frau von <link ref="stein-g" linktext="false">Christina Louise geb. v. Löwis (1744–1796)</link>; vgl. die <wwwlink address="https://ru.wikipedia.org/wiki/Вульф%2C_Карл_Иванович_фон">Russische Wikipedia</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="tschepius" type="neuzeit">
 <lemma>Samuel Ernst Tschepius</lemma>
 <eintrag>Geb. 1704. Unterbibliothekar der Wallenrodtschen Bibliothek, siehe <wwwlink address="http://d-nb.info/gnd/1033524832">GND</wwwlink>.</eintrag>
@@ -21053,7 +21098,7 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
  <subsection id="voltaire-oeuvres-complette" type="neuzeit" sort="240">
 <lemma>Voltaire, <titel>Oeuvres complètes</titel> (Kehler Ausgabe)</lemma>
 <eintrag>
-<titel>Oeuvres complètes de Voltaire</titel> (70 Bde. Oktav, 92 Bde Duodez, [Kehl]: Société littéraire typographique). Die Edition war ab Januar 1781 angekündigt und zur Subskription ausgeschrieben, vgl. <wwwlink address="https://archive.org/details/editiondesoeuvre00soci"><titel>Èdition des Oeuvres de M. de Voltaire. Avec les Caractères de Baskerville</titel></wwwlink> (bzw. den <wwwlink address="https://catalogue.bnf.fr/ark%3A/12148/cb31602353f">Katalog-Eintrag der BnF</wwwlink>). Eines der größten Druck- und Editionsprojekte Europas der 1780er Jahre, von <link ref="beaumarchais" linktext="true" /> und <link ref="condorcet" linktext="true" /> initiiert und auf der anderen Rheinseite in Kehl gedruckt, um der französischen Zensur zu entgehen. Digitalisat der Duodez-Ausgabe: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10946938%2FBV011476549">BSB München: Bibl.Mont. 664</wwwlink>
+<titel>Oeuvres complètes de Voltaire</titel> (70 Bde. Oktav, 92 Bde Duodez, [Kehl]: Société littéraire typographique). Die Edition war ab Januar 1781 angekündigt und zur Subskription ausgeschrieben, vgl. <wwwlink address="https://archive.org/details/editiondesoeuvre00soci"><titel>Édition des Oeuvres de M. de Voltaire. Avec les Caractères de Baskerville</titel></wwwlink> (bzw. den <wwwlink address="https://catalogue.bnf.fr/ark%3A/12148/cb31602353f">Katalog-Eintrag der BnF</wwwlink>). Eines der größten Druck- und Editionsprojekte Europas der 1780er Jahre, von <link ref="beaumarchais" linktext="true" /> und <link ref="condorcet" linktext="true" /> initiiert und auf der anderen Rheinseite in Kehl gedruckt, um der französischen Zensur zu entgehen. Digitalisat der Duodez-Ausgabe: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10946938%2FBV011476549">BSB München: Bibl.Mont. 664</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
