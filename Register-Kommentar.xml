@@ -4046,6 +4046,12 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 </subsection>
 </kommentar>
 
+<kommentar id="cranz-af" type="neuzeit">
+<lemma>August Friedrich Cranz</lemma>
+<eintrag>1737–1801. Schriftsteller, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11941340X.html#adbcontent">Redlich: Cranz, August Friedrich, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;564–566 .</wwwlink>
+</eintrag>
+</kommentar>
+
 <kommentar id="cramer-ja" type="neuzeit">
 <lemma>Johann Andreas Cramer</lemma>
 <eintrag>1723–1788. Evang. Theologe, 1754 Kopenhagen, 1774 in Kiel, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118973258.html#adbcontent">Pressel, Paul: Cramer, Johann Andreas, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;550f.</wwwlink>
@@ -14976,6 +14982,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 
 N
 
+<kommentar id="nachricht-buchhandlung-gelehrten" type="neuzeit">
+<lemma>Nachricht und Fundations-Gesetze von der Buchhandlung der Gelehrten</lemma>
+<eintrag><titel>Nachricht und Fundations-Gesetze von der Buchhandlung der Gelehrten, die in der fürstl. Anhalt. Residenzstadt Dessau errichtet ist</titel> (Dessau: Buchhandlung der Gelehrten 1781). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-54814">ZB Zürich: 25.1408,9</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="nast-j" type="neuzeit">
 <lemma>Johannes Nast</lemma>
 <eintrag>1722–1807. Prof. am Gymnasium in Stuttgart, siehe <wwwlink address="https://d-nb.info/gnd/116884541">GND</wwwlink>.</eintrag>
@@ -15547,7 +15558,7 @@ Auszug aus <link ref="pallas" subref="pallas-reise" linktext="true" />
 </kommentar>
 
 <kommentar id="parisius" type="neuzeit">
-<lemma>NN. Parisius</lemma>
+<lemma>N.N. Parisius</lemma>
 <eintrag>Regiments-Feldscher und Chirurg bei der russischen Armee, Halbbruder von <link ref="gericke-jcs" linktext="true" /> (s. LS S.&#x202F;328).
 </eintrag>
 </kommentar>
@@ -17803,6 +17814,17 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>1755–1819. Geb. v. <link ref="bernstorff-ce" linktext="false">Bernstorff</link>, seit 1778 Ehefrau von <link ref="schardt-ekk" linktext="true" />; vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11157727-2">Heinrich Düntzer: <titel>Zwei Bekehrte: Zacharias Werner und Sophie von Schardt</titel> (Leipzig 1873)</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="schaufelberger" type="neuzeit">
+<lemma>Johann Schaufelberger</lemma>
+<eintrag>1727–1800. Zürcher Pädagoge und Altphilologe, siehe <wwwlink address="https://d-nb.info/gnd/100330843">GND</wwwlink>.</eintrag>
+<subsection id="schaufelberger-clavis" type="neuzeit" sort="10">
+<lemma>Schaufelberger, <titel>Nova Clavis Homerica</titel></lemma>
+<eintrag>
+<titel>Nova Clavis Homerica</titel> […] (8 Bde., Zürich: Heidegger 1761–1768). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11911959-9">LB Coburg: A I 8</wwwlink>.</eintrag>
+</subsection>
+
+</kommentar>
+
 <kommentar id="schaumburg-lippe-wilhelm" type="neuzeit">
 <lemma>Graf Wilhelm Friedrich Ernst zu Schaumburg-Lippe</lemma>
 <eintrag>1724–1777. Regent der Grafschaft Schaumburg-Lippe, Generalmajor im Siebenjährigen Krieg und Militärtheoretiker, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz85621.html">Falkmann, Rudolf: Wilhelm, in: <titel>ADB</titel>&#x202F;43 (1898), S.&#x202F;202f.</wwwlink></eintrag>
@@ -19548,6 +19570,11 @@ Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-
 <eintrag>1750–1819. Dichter und Politiker; Mitglied des Göttinger Hains, 1776–1781 Gesandter des Herzogs von Oldenburg und Fürstbischofs von Lübeck am dänischen Hof, 1789–1791 dänischer Gesandter in Berlin, Amtmann zu Neuenburg/Oldenburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118755552.html#ndbcontent">Hempel, Dirk: Stolberg-Stolberg, Friedrich Leopold Graf zu, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;407–409.</wwwlink></eintrag>
 </kommentar>
 
+<kommentar id="stolberg-k" type="neuzeit">
+<lemma>Katharina zu Stolberg-Stolberg</lemma>
+<eintrag>1751–1832. Schwester von <link ref="stolberg" linktext="true" />, befreundet u.a. mit <link ref="claudius" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116000031.html#adbcontent ">Jacobs, Eduard: Stolberg-Stolberg, Katharina, in: <titel>ADB</titel>&#x202F;36 (1893), S.&#x202F;367–370</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="stoltz-c" type="neuzeit">
 <lemma>Caroline Stoltz</lemma>
 <eintrag>1751–1792. Ab 1777 mit Hamann in Königsberg befreundet, ebenso mit <link ref="kreutzfeld" linktext="true" />; auch zeitweise Freundin oder Geliebte von <link ref="penzel" linktext="true" />; ab den frühen 1770ern Freundin und Briefpartnerin <link ref="recke-e" linktext="false">Elisa von der Reckes</link>; reist Anfang 1780 nach <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> als Gouvernante von deren Schwester <link ref="dorothea-kurland" linktext="true" />; 1780 hält sie sich jedoch bei <link ref="fircks-cl" linktext="true" /> oder dessen Sohn auf dem kurländischen Gut <wwwlink address="https://www.geonames.org/460191">Dubenalken</wwwlink> auf und ist kurz darauf mit <link ref="hinz" linktext="false">Hinz</link> befreundet.</eintrag>
@@ -21133,7 +21160,13 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <titel>Poetische Blumenlese für das Jahr 1777.</titel> Herausgegeben von Jo.&#x202F;Heinr.&#x202F;Voß (Hamburg: Bohn 1777 [1776]). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDED">ÖNB Wien</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/104/">Musenalm</wwwlink>.
 </eintrag>
 </subsection>
- <subsection id="voss-odyssee" type="neuzeit" sort="20">
+ <subsection id="voss-musenalmanach1781" type="neuzeit" sort="30">
+<lemma>Voß (Hg.), <titel>(Hamburger) Musenalmanach 1781</titel></lemma>
+<eintrag>
+<titel>Musen-Almanach oder poetische Blumenlese für das Jahr 1781.</titel> Herausgegeben von Voß und Gockingk (Hamburg: Bohn 1780). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDED">ÖNB Wien</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/104/">Musenalm</wwwlink>.
+</eintrag>
+</subsection>
+ <subsection id="voss-odyssee" type="neuzeit" sort="40">
 <lemma>Voß, <titel>Odyssee</titel></lemma>
 <eintrag>
 <titel>Homers Odüßee übersezt von Johann Heinrich Voß</titel> (Hamburg: Selbstverlag 1781). Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/voss_oduessee_1781">BBAW: B4/DWB</wwwlink>.
