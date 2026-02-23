@@ -309,6 +309,16 @@ def.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de
 </subsection>
 </kommentar>
 
+<kommentar id="alberti-dc" type="neuzeit">
+<lemma>Dorothea Charlotte Alberti</lemma>
+<eintrag>1733–1809. Ehefrau von <link ref="alberti-jg" linktext="true" /> seit 1754.</eintrag>
+</kommentar>
+
+<kommentar id="alberti-jg" type="neuzeit">
+<lemma>Julius Gustav Alberti</lemma>
+<eintrag>1723–1772. Pastor in Hamburg, theolischer Gegner von <link ref="goze" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116276738.html#adbcontent">Klose: Alberti, Julius Gustav, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;213f</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="alembert" type="neuzeit">
 <lemma>Jean-Baptiste-le-Rond d’Alembert</lemma>
 <eintrag>1717–1783. Frz. Philosoph in Paris, Mitherausgeber der <link ref="encyclopedie" linktext="false"><titel>Encyclopédie</titel></link>, Mitglied der frz. Akademie. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;1, 1811), S.&#x202F;482–488.</eintrag>
@@ -6079,6 +6089,11 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 <eintrag>1725–1790. Lehrer an der Königsberger Domschule.</eintrag>
 </kommentar>
 
+<kommentar id="friederike-schlieben" type="neuzeit">
+<lemma>Friederike von Schlieben</lemma>
+<eintrag>1757–1827 (Friederike Amalie Antonie Gräfin von Schlieben), heiratete 1780 <link ref="friedrich-schleswig" linktext="true" />. </eintrag>
+</kommentar>
+
 <kommentar id="friedlaender-d" type="neuzeit">
 <lemma>David Friedländer</lemma>
 <eintrag>1750–1834. Ab 1771 als Seidenfabrikant in Berlin, Freund von <link ref="mendelssohn" linktext="true" /> und Schwiegersohn von <link ref="itzig-d" linktext="true" />.</eintrag>
@@ -6178,14 +6193,14 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 </subsection>
 </kommentar>
 
+<kommentar id="friedrich-jd" type="neuzeit">
+<lemma>Johann Daniel Friedrich</lemma>
+<eintrag>1753–1826. Buchhandelsgehilfe bei <link ref="kanter" linktext="false">Kanter</link> sowie <link ref="dengel-cg" linktext="false">Wagner und Dengel</link> Anfang der 1780er Jahre; ab 1785 Juniorpartner der Verlagsbuchhandlung ‚Lagarde und Friedrich‘ in <wwwlink address="https://www.geonames.org/457955">Libau</wwwlink>; vgl. <link ref="ger-k-2024" linktext="false">Gerlach: <titel>Freimaurer im Alten Preußen 1738–1815</titel></link> und Heinz Ischreyt: <titel>Zwischen Paris und Mitau.</titel> Die Geschichte der Verlagsbuchhandlung Lagarde und Friedrich, in: <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=011151889">Deutsche Studien 10/39 (1972)</wwwlink>, S.&#x202F;319–336.</eintrag>
+</kommentar>
+
 <kommentar id="friedrich-wilhelm-II" type="neuzeit">
 <lemma>Friedrich Wilhelm II.</lemma>
 <eintrag>1744–1797. Sohn <link ref="friedrich-II" linktext="false">Friedrichs II.</link> und 1786 dessen Nachfolger, zuvor seit 1758 Prinz von Preußen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11869362X.html#ndbcontent">Haussherr, Hans: Friedrich Wilhelm II., in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;558–560</wwwlink>.</eintrag>
-</kommentar>
-
-<kommentar id="friederike-schlieben" type="neuzeit">
-<lemma>Friederike von Schlieben</lemma>
-<eintrag>1757–1827 (Friederike Amalie Antonie Gräfin von Schlieben), heiratete 1780 <link ref="friedrich-schleswig" linktext="true" />. </eintrag>
 </kommentar>
 
 <kommentar id="friedrich-schleswig" type="neuzeit">
@@ -7361,7 +7376,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 
 <kommentar id="grundt" type="neuzeit">
 <lemma>Elisabeth Grundt</lemma>
-<eintrag>Lebensdaten nicht ermittelt; geb. Presch, Witwe eines Seidenhändlers in Libau, dessen Geschäft sie weiterführte.</eintrag>
+<eintrag>Lebensdaten nicht ermittelt; geb. Presch, Witwe eines Seidenhändlers in <wwwlink address="https://www.geonames.org/457955">Libau</wwwlink>, dessen Geschäft sie weiterführte.</eintrag>
 </kommentar>
 
 <kommentar id="grynäus" type="neuzeit">
@@ -8397,7 +8412,7 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="hartung-gl" type="neuzeit">
 <lemma>Gottlieb Leberecht Hartung</lemma>
-<eintrag>1747–1797. Buchhändler in Königsberg, Sohn von <link ref="hartung-hj" linktext="true" /> und <link ref="hartung-h" linktext="true" />; 1759 Lehrling in der Hartungschen Buchdruckerei, die ihm seine Mutter nach dem Tod ihrer drei Ehemänner ab Mitte der 1760er Jahre übergab; erhielt 1771 das Privileg seines Vaters, 1774 übernahm er auch die anderen Zweige des väterlichen Geschäfts; Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Hamann versuchte ihn für den Verlag der <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfälle</titel></link> zu gewinnen (vgl. <intlink letter="380" page="23" line="15" linktext="true" />) und zerstritt sich mit ihm, nachdem sich das Projekt 1772 zerschlug; erst 1779/80 gab es wieder eine leichte Annäherung zu seiner Buchhandlung infolge des Niedergangs der <link ref="kanter" linktext="false">Kanterschen Buchhandlung</link> (vgl. <intlink letter="574" page="145" line="28" linktext="true" />), schnell erfolgte aber eine erneute Entzweiung wegen Hartungs Unzuverlässigkeit in der Besorgung eines ‚Päckchens‘ aus Weimar von Herder. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz27948.html#adbcontent">Kelchner, Ernst: Hartung, Johann Heinrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;713–715</wwwlink> und <wwwlink address="http://digital.slub-dresden.de/id405271263-18960180/214">Carl Richard Dreher: Der Buchhandel und die Buchhändler zu Königsberg in Preußen im 18. Jahrhundert. In: Archiv für Geschichte des Deutschen Buchhandels 18 (1896), S.&#x202F; 171f. u. 204–206.</wwwlink>
+<eintrag>1747–1797. Buchhändler in Königsberg, Sohn von <link ref="hartung-hj" linktext="true" /> und <link ref="hartung-h" linktext="true" />; 1759 Lehrling in der Hartungschen Buchdruckerei, die ihm seine Mutter nach dem Tod ihrer drei Ehemänner ab Mitte der 1760er Jahre übergab; erhielt 1771 das Privileg seines Vaters, 1774 übernahm er auch die anderen Zweige des väterlichen Geschäfts; Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>. Hamann versuchte ihn für den Verlag der <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfälle</titel></link> zu gewinnen (vgl. <intlink letter="380" page="23" line="15" linktext="true" />) und zerstritt sich mit ihm, nachdem sich das Projekt 1772 zerschlug; 1779/80 gab es wieder eine leichte Annäherung zu seiner Buchhandlung infolge des Niedergangs der <link ref="kanter" linktext="false">Kanterschen Buchhandlung</link> (vgl. <intlink letter="574" page="145" line="28" linktext="true" />), schnell erfolgte aber eine erneute Entzweiung wegen Hartungs Unzuverlässigkeit in der Besorgung eines ‚Päckchens‘ aus Weimar von Herder. Siehe <wwwlink address="https://www.deutsche-biographie.de/sfz27948.html#adbcontent">Kelchner, Ernst: Hartung, Johann Heinrich, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;713–715</wwwlink> und <wwwlink address="http://digital.slub-dresden.de/id405271263-18960180/214">Carl Richard Dreher: Der Buchhandel und die Buchhändler zu Königsberg in Preußen im 18. Jahrhundert. In: Archiv für Geschichte des Deutschen Buchhandels 18 (1896), S.&#x202F; 171f. u. 204–206.</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -11404,7 +11419,7 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kolbe" type="neuzeit">
 <lemma>Daniel Kolbe</lemma>
-<eintrag>1712–1762. Fürstl. Lizentinspektor, Kommissionsrat in Libau.</eintrag>
+<eintrag>1712–1762. Fürstl. Lizentinspektor, Kommissionsrat in <wwwlink address="https://www.geonames.org/457955">Libau</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="kongehl" type="neuzeit">
@@ -18152,7 +18167,7 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 
 <kommentar id="schreiter-cg" type="neuzeit">
 <lemma>Carl Gottfried Schreiter</lemma>
-<eintrag>1756-1809. Übersetzer von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> (vgl. <wwwlink address="https://eip.hueb-staging.iued.uni-heidelberg.de/en/person/275/"></wwwlink>); siehe <wwwlink address="http://d-nb.info/gnd/120039249">GND</wwwlink>.
+<eintrag>1756-1809. Übersetzer von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> (vgl. <wwwlink address="https://eip.hueb-staging.iued.uni-heidelberg.de/en/person/275/"></wwwlink>), 1787 Professor der Philosophie in Leipzig ; siehe <wwwlink address="http://d-nb.info/gnd/120039249">GND</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -19510,7 +19525,7 @@ Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-
 
 <kommentar id="stockmar" type="neuzeit">
 <lemma>Carl Christoph Stockmar</lemma>
-<eintrag>Um 1740 bis nach 1812. Licent-Direktor am ostpreußischen Department in Königsberg; <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Provincial-, Akzise- und Zolldirektor</link> seit Oktober 1774; Hamanns Vorgesetzter und ab 1777 sein Nachbar; 1786 Kriegsrat; ab 1774 Mitglied der Freimaurerloge „Zum Totenkopf“, 1775 Mitgründer der Schwesterloge „Phönix“. Vgl. <link ref="ger-k-2024" linktext="true" />, S.&#x202F;144.</eintrag>
+<eintrag>Um 1740 bis nach 1812. Licent-Direktor am ostpreußischen Department in Königsberg; <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Provincial-, Akzise- und Zolldirektor</link> seit Oktober 1774; Hamanns Vorgesetzter und ab 1777 sein Nachbar; 1786 Kriegsrat; ab 1774 Mitglied der Freimaurerloge „Zum Totenkopf“, 1775 Mitgründer der Schwesterloge „Phönix“. Vgl. <link ref="ger-k-2024" linktext="false">Gerlach: <titel>Freimaurer im Alten Preußen 1738–1815</titel></link>, S.&#x202F;144.</eintrag>
 </kommentar>
 
 <kommentar id="stockmar-h" type="neuzeit">
@@ -19936,7 +19951,7 @@ Sethos, histoire ou vie tirée des monumens anecdotes de l’ancienne Egypte. Tr
 Über die allgemeine speculative Philosophie. Bützow 1775. 
 <kommentar id="tetsch-cl" type="neuzeit">
 <lemma>Carl Ludwig Tetsch</lemma>
-<eintrag>1708–1771. 1732–1766 Pastor der deutschen Gemeinde in Libau, 1744–1746 Propst der Grobinschen Diözese. Legte 1742 den Grundstein zur Dreifaltigkeitskirche. Stifter der Kirchenbibliothek von Libau.
+<eintrag>1708–1771. 1732–1766 Pastor der deutschen Gemeinde in <wwwlink address="https://www.geonames.org/457955">Libau</wwwlink>, 1744–1746 Propst der Grobinschen Diözese. Legte 1742 den Grundstein zur Dreifaltigkeitskirche. Stifter der Kirchenbibliothek von Libau.
 </eintrag>
 <subsection id="tetsch-kirchen" type="neuzeit">
 <lemma>Tetsch, <titel>Curländischer Kirchengeschichte</titel></lemma>
@@ -21167,7 +21182,7 @@ W
 
 <kommentar id="wagner-fd" type="neuzeit">
 <lemma>Friedrich David Wagner</lemma>
-<eintrag>Buchhändler und Lotterieeinnehmer in Königsberg im Auftrag von <link ref="kanter" linktext="true" />. Wohnte in der Königsberger Nachbarschaft von Hamann, später Redakteur des Intelligenzblattes in <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink>. Übernahm 1781 mit Carl Gottlob Dengel Kanters Buchhandlung, schied aber 1783 bereits aus.</eintrag>
+<eintrag>Buchhändler und Lotterieeinnehmer in Königsberg im Auftrag von <link ref="kanter" linktext="true" />. Wohnte in der Königsberger Nachbarschaft von Hamann, später Redakteur des Intelligenzblattes in <wwwlink address="https://www.geonames.org/3094086">Marienwerder</wwwlink>. Übernahm 1781 mit <link ref="dengel-cg" linktext="false"></link> Kanters Buchhandlung, schied aber 1783 bereits aus.</eintrag>
 </kommentar>
 
 <kommentar id="wagner-je" type="neuzeit">
