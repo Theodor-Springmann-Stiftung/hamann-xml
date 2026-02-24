@@ -3950,6 +3950,11 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 </subsection>
 </kommentar>
 
+<kommentar id="coste" type="neuzeit">
+<lemma>Pierre Coste</lemma>
+<eintrag>1668–1747. Französischer Theologe, Freund und Übersetzer von <link ref="locke" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="cornaro" type="neuzeit">
 <lemma>Luigi Cornaro</lemma>
 <eintrag>1467–1566. Italienischer Humanist, Agrarökonom.</eintrag>
@@ -9297,6 +9302,12 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 </subsection>
 </kommentar>
 
+<kommentar id="hesse-jh" type="neuzeit">
+<lemma>Johanne Henriette von Hesse</lemma>
+<eintrag>1764–1800. Tochter von <link ref="herder-c" linktext="false">Caroline Herders</link> Schwester Friederike Katharina von Hesse, geb. Flachsland.
+</eintrag>
+</kommentar>
+
 <kommentar id="hessen-darmstaedtische-landeszeitung" type="neuzeit">
 <lemma>Hessen-Darmstädtische privilegierte Landeszeitung</lemma>
 <eintrag>Gegründet 1770, unter diesem Titel bis 1790 geführt, danach unter verschiedenen anderen Namen bis 1935, siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=015150755">ZDB</wwwlink>; <link ref="claudius" linktext="true" /> publizierte darin. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-319211">UB Heidelberg</wwwlink>.</eintrag>
@@ -10627,6 +10638,24 @@ K
 <titel>Genvina Lingvæ Hebraicæ Grammatica. Sive, Vetvs Illa Sine Masoretharvm Pvnctis Hebraisandi Via : Quam prius […], ingenui Discipuli sui, admodum reuerendi P. Cyrilli, Equestris Academiae, quae Petrupoli est, Presbyteri, priuatum in usum, noua plane aptioreue methodo, delineatam […] publici iam iuris esse uult Georgivs Kalmár</titel> (Genf: Pellet 1760).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="kanitz-hf" type="neuzeit">
+<lemma>Henning Friedrich von Kanitz</lemma>
+<eintrag>1721–1791. Vetter von <link ref="kanitz-sf" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="kanitz-lal" type="neuzeit">
+<lemma>Ludwig Albrecht Leopold von Kanitz</lemma>
+<eintrag>1734–1778. Sohn von <link ref="kanitz-sf" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="kanitz-sf" type="neuzeit">
+<lemma>Samuel Friedrich von Kanitz</lemma>
+<eintrag>1690–1762. Preußischer Kammerherr, siehe <wwwlink address="https://d-nb.info/gnd/104169907">GND</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="kant" type="neuzeit">
@@ -12767,7 +12796,8 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <lemma>Locke, <titel>An Essay concerning humane Understanding</titel></lemma>
 <eintrag>
 <titel>An essay concerning humane understanding</titel> (1690). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10862496">BSB München: Rar. 4613</wwwlink>.<line type="break" />
-Übers.: <titel>Johann Lockens Anleitung des menschlichen Verstandes zur Erkäntniß der Wahrheit nebst desselben Abhandlung von den Wunderwerken, aus dem Englischen übersetzt von <link ref="kypke" linktext="true" />George David Kypke der Weltweisheit und der morgenländischen Sprachen Professore</titel> (Königsberg: Hartung 1755). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN882701894">SUB Göttingen: DD96 A 247</wwwlink>.
+Übers.: <titel>Johann Lockens Anleitung des menschlichen Verstandes zur Erkäntniß der Wahrheit nebst desselben Abhandlung von den Wunderwerken, aus dem Englischen übersetzt von <link ref="kypke" linktext="false">George David Kypke der Weltweisheit und der morgenländischen Sprachen Professore</link></titel> (Königsberg: Hartung 1755). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN882701894">SUB Göttingen: DD96 A 247</wwwlink>.<line type="break" />
+Hamann las v.a. die französische Übersetzung von <link ref="coste" linktext="true" />: <titel>Essai philosophique concernant l’entendement humain, ou l’on montre quelle est l’entendue de nos connoissances certaines, et la manière dont nous y parvenons. Traduit de l’Anglois par M. Coste</titel> (Amsterdam: Mortier 1742, zuerst 1700) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;97/21: „Essay philosophique concernant l’entendement humain par Locke, Amst. 742“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11916553-0">LB Coburg: B III 3</wwwlink>. 
 </eintrag>
 </subsection>
 </kommentar>
@@ -16266,7 +16296,7 @@ Dt. Übers. zitiert nach: Konrat Ziegler (Übers.), <titel>Plutarch: Große Grie
 <subsection id="pope-homer" type="neuzeit" sort="50">
 <lemma>Pope, <titel>Iliad/Odyssey</titel></lemma>
 <eintrag>
-<titel>The Iliad of Homer</titel> (London 1715–1720) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;172/686: „Homer’s Iliad translated by Pope, Tom. I.–VI. ib. 756“]; <titel>The Odyssey of Homer</titel> (London 1725–1726) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;172/687: „Ei. Odyssey, Tom. I–V. ib. 752“].
+<titel>The Iliad of Homer</titel> (London 1715–1720) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;172/686: „Homer’s Iliad translated by Pope, Tom. I.–VI. ib. 756“]; <titel>The Odyssey of Homer</titel> (London 1725–1726) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;172/687: „Ei. Odyssey, Tom. I–V. ib. 752“]. Digitalisat Bd.&#x202F;1 der Ilias-Übersetzung: <wwwlink address="https://archive.org/details/iliadtrbymrpope00homegoog/page/n4/mode/2up">Internet Archive</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -19689,7 +19719,13 @@ in vier Aufzügen, Kopp. 767“]. Siehe <wwwlink address="https://zdb-katalog.de
 <subsection id="sturz-bernstorf" type="neuzeit" sort="20">
 <lemma>Sturz, <titel>Erinnerungen aus dem Leben des Grafen Johann Hartwig Ernst von Bernstorf</titel></lemma>
 <eintrag>
-<titel>Erinnerungen aus dem Leben des Grafen Johann Hartwig Ernst von Bernstorf</titel> (Leipzig : Weidmann, Reich 1777). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id356431509">SLUB Dresden</wwwlink>.
+<titel>Erinnerungen aus dem Leben des Grafen Johann Hartwig Ernst von Bernstorf</titel> (Leipzig: Weidmann, Reich 1777). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id356431509">SLUB Dresden</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="sturz-schriften" type="neuzeit" sort="30">
+<lemma>Sturz, <titel>Schriften</titel></lemma>
+<eintrag>
+<titel>Schriften von Helfrich Peter Sturz</titel> (2 Sammlungen, Leipzig: Weidmann, Reich 1779–1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10121015-1">BSB München: P.o.germ. 1428 s</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -21193,6 +21229,11 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <kommentar id="voss-chf" type="neuzeit">
 <lemma>Christian Friedrich Voß</lemma>
 <eintrag>1724–1795. Verleger in Berlin, u.a. von <link ref="lessing" linktext="true" /> und <link ref="herder" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd140135723.html#adbcontent">, in: <titel>ADB</titel></wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="voss-wfl" type="neuzeit">
+<lemma>Wilhelm Ferdinand Voß</lemma>
+<eintrag>1781–1840. Sohn von <link ref="voss" linktext="true" />, später Arzt in Eutin.</eintrag>
 </kommentar>
 
 <kommentar id="vossius" type="neuzeit">
