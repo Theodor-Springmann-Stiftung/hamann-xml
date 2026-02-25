@@ -1604,6 +1604,7 @@ Es wurde wohl auch eine französische Version für <link ref="friedrich-II" link
 <kommentar id="berger-cg" type="neuzeit">
 <lemma>Christian Gottlieb Berger</lemma>
 <eintrag>1741–1795. Arzt und theologischer Autor, seit 1777 in Graudenz, siehe <wwwlink address="http://d-nb.info/gnd/117587109">GND</wwwlink>.
+</eintrag>
 <subsection id="berger-sistem" type="neuzeit" sort="20">
 <lemma>Berger, <titel>Sistem der Ewigkeit zur Erkenntniß Gottes</titel></lemma>
 <eintrag>
@@ -1623,8 +1624,12 @@ Es wurde wohl auch eine französische Version für <link ref="friedrich-II" link
 <lemma>Berger, <titel>Untersuchung von der Beschaffenheit der künftigen Schöpfungen</titel></lemma>
 <eintrag>
 <titel>Untersuchung von der Beschaffenheit der künftigen Schöpfungen, dem Zustande des künftigen Lebens und der Geschlechtsliebe in der Seligkeit; von D. Christian Gottlieb Berger</titel> (Berlin 1780). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN1793527385">SUB Göttingen: DD2004 A 169</wwwlink>.</eintrag>
+</subsection>Daedalus, d. i. neue Erfindung zum Vortheil der Schiffahrt. Berlin 1781
+<subsection id="berger-daedalus" type="neuzeit" sort="50">
+<lemma>Berger, <titel>Daedalus</titel></lemma>
+<eintrag>
+<titel>Daedalus, das iist, Neue Erfindung zum Vortheil der Schiffahrt überhaupt, hauptsächlich aber auf der See, von Christian Gottlieb Berger</titel> (Berlin 1781). Digitalisat: <wwwlink address="https://nbn-resolving.org/html/urn%3Anbn%3Ade%3Absz%3A21-dt-133042">UB Tübingen</wwwlink>.</eintrag>
 </subsection>
-</eintrag>
 </kommentar>
 
 <kommentar id="berger-tb" type="neuzeit">
@@ -7616,6 +7621,11 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
     <lemma>Hahn, <titel>Neues Testament</titel></lemma>
     <eintrag>
     <titel>Die heilige Schriften der guten Botschaft vom verheissenen Königreich, oder das sogenannte neue Testament. Zum Dienste derer, welche sich aus den ersten Quellen der göttlichen Schriften selbst erbauen wollen, nach der heutigen Teutschen Sprachart neu übersetzt; und mit vielen zum lautern Wortverstand leitenden Hülfsmitteln, Fingerzeigen und Erklärungen versehen</titel> (s.l. 1777). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB00004DD600000000">Stabi Berlin: Ct 6008</wwwlink>.</eintrag>
+    </subsection>
+<subsection id="hahn-schriften" type="neuzeit" sort="40">
+    <lemma>Hahn, <titel>Vermischte theologische Schriften</titel></lemma>
+    <eintrag>
+    <titel>Eines ungenannten Schriftforschers vermischte theologische Schriften</titel> (3 Bde., Winterthur: Steiner 1779–1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bvb:19-epub-17463-1">LMU München</wwwlink>.</eintrag>
     </subsection>
 </kommentar>
 
