@@ -4681,7 +4681,7 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann
 
 <kommentar id="diederichs" type="neuzeit">
 <lemma>Johann Christian Wilhelm Diederichs</lemma>
-<eintrag>1750–1781. Evangelischer Theologe, <link ref="michaelis" linktext="false">Michaelis-</link>Schüler, 1780 Prof. der orientalischen Sprachen in Königsberg, Nachfolger <link ref="kypke" linktext="false">Kypkes</link>), verstarb im Jahr darauf; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116099224.html#adbcontent">Siegfried: Diederichs, Johann Christian Wilhelm, in: <titel>ADB</titel>&#x202F;5 (1877), S.&#x202F;119f</wwwlink>.</eintrag>
+<eintrag>1750–1781. Evangelischer Theologe, <link ref="michaelis" linktext="false">Michaelis-</link>Schüler, 1780 Professor der orientalischen Sprachen in Königsberg, Nachfolger <link ref="kypke" linktext="false">Kypkes</link>), verstarb im Jahr darauf; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116099224.html#adbcontent">Siegfried: Diederichs, Johann Christian Wilhelm, in: <titel>ADB</titel>&#x202F;5 (1877), S.&#x202F;119f</wwwlink>.</eintrag>
 <subsection id="diederichs-grammatik" type="neuzeit" sort="10">
 <lemma>Diederichs, <titel>Hebräische Grammatik für Anfänger</titel></lemma>
 <eintrag>
@@ -4763,7 +4763,7 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 <subsection id="doderlein-antifragmente" type="neuzeit" sort="10">
 <lemma>Döderlein, <titel>Fragmente und Antifragmente</titel></lemma>
 <eintrag>
-<titel>Fragmente und Antifragmente. Zwey Fragmente eines Ungenannten aus Herrn Lessings Beyträgen zur Litteratur abgedruckt mit Betrachungen darüber</titel> (2 Bde; Nürnberg: Lochner 1778). Digitalisat Bd.&#x202F;1: <wwwlink address="https://data.onb.ac.at/rep/10862DE2">ÖNB Wien: 176797-A.1 ALT MAG</wwwlink>, Bd.&#x202F;2: <wwwlink address="https://data.onb.ac.at/rep/10862DE2">ÖNB Wien: 176797-A.2 ALT MAG</wwwlink>.
+<titel>Fragmente und Antifragmente. Zwey Fragmente eines Ungenannten aus Herrn Lessings Beyträgen zur Litteratur abgedruckt mit Betrachungen darüber</titel> (2 Bde; Nürnberg: Lochner 1778–1779). Digitalisat Bd.&#x202F;1: <wwwlink address="https://data.onb.ac.at/rep/10862DFB">ÖNB Wien: 176797-A.1 ALT MAG</wwwlink>, Bd.&#x202F;2: <wwwlink address="https://data.onb.ac.at/rep/10862DE2">ÖNB Wien: 176797-A.2 ALT MAG</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11179,7 +11179,7 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 </subsection>
 <subsection id="kleuker-salomo" type="neuzeit" sort="30">
 <lemma>Kleuker, <titel>Salomo’s Schriften</titel></lemma>
-<eintrag><titel>Salomo’s Schriften. Erster Theil welcher den Prediger enthält von Johann Friedrich Kleuker</titel> (Leipzig: Weygand 1777). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN683143255">SUB Göttingen</wwwlink>. 
+<eintrag><titel>Salomo’s Schriften. Erster Theil welcher den Prediger enthält von Johann Friedrich Kleuker</titel> (Leipzig: Weygand 1777). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN683143255">SUB Göttingen</wwwlink>. – Zur Fortsetzung siehe <link ref="kleuker" subref="kleuker-gedichte-salomos" linktext="true" />.
 </eintrag>
 </subsection>
 <subsection id="kleuker-beantwortungsversuch" type="neuzeit" sort="40">
@@ -11203,6 +11203,12 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 <lemma>Kleuker, <titel>Einige Belehrungen</titel></lemma>
 <eintrag>
 <titel>Einige Belehrungen über Toleranz, Vernunft, Offenbarung, Theologie, Wandrung der Israeliten durchs rothe Meer, und Auferstehung Christi von den Todten; veranlaßt durch einige Fragmente in den Lessingschen Beyträgen zur Geschichte und Litteratur (Viert. Beytr.) nebst noch einer Nachschrift und neuen Zusätzen, die Lessingsche Duplik (Braunschw. 1778) betreffend von Joh. Fried. Kleuker</titel> (Frankfurt: Eichenberg 1778). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN723880751">SUB Göttingen</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="kleuker-gedichte-salomos" type="neuzeit" sort="80">
+<lemma>Kleuker, <titel>Sammlung der Gedichte Salomons</titel></lemma>
+<eintrag>
+<titel>Sammlung der Gedichte Salomons, sonst das Hohelied oder Lied der Lieder genannt</titel> (Hamm: Perrenon 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:3:1-478127-p0005-5">ULB Halle</wwwlink>. – Eine Art Fortsetzung von <link ref="kleuker" subref="kleuker-salomo" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11462,9 +11468,21 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 </subsection>
 </kommentar>
 
+<kommentar id="kohler" type="neuzeit">
+<lemma>Johann Bernhard Köhler</lemma>
+<eintrag>1742–1802. Philologe und Orientalist, 1781–1786 Professor der griechischen und morgenländischen Sprachen in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11627669X.html#adbcontent">Siegfried, C.: Köhler, Johann Bernhard, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;444f.</wwwlink>
+</eintrag>
+<subsection id="kohler-phaedon" type="neuzeit" sort="10">
+<lemma>Koch, <titel>Phädon</titel></lemma>
+<eintrag>
+<titel>Phädon. Aus dem Griechischen des Plato übersetzt von Johann Bernhard Köhler</titel> (Lübeck: Donatius 1769).
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="koler" type="neuzeit">
 <lemma>Johann Tobias Köler</lemma>
-<eintrag>1720–1768. Prof. für Geschichte und Numismatik in Göttingen.
+<eintrag>1720–1768. Professor für Geschichte und Numismatik in Göttingen.
 </eintrag>
 <subsection id="koler-blainville" type="neuzeit" sort="10">
 <lemma>Köler, <titel>Des Herrn von Blainville Reisebeschreibung</titel></lemma>
@@ -15470,18 +15488,6 @@ O
 <eintrag>
 <titel>Remarks on the life and writings of Dr. Jonathan Swift, Dean of St. Patrick’s, Dublin in a series of letters from John Earl of Orrery to his son, the Honourable Hamilton Boyle</titel> (Dublin 1752) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;91/256: „Lord Orrery’s Remarks on the Life and Writings of Dr. Jon. Swift, Dubl. 752“].<line type="break" />
 <titel>Des Grafen John von Orrery Väterliche Briefe an seinen zu Oxford studirenden Sohn Hamilton Boyle in moralischen und kritischen Anmerkungen über das Leben und die Schriften des berühmten satyrischen Dechanten Dr. Jonathan Swift verfasset</titel> (Hamburg, Leipzig: Grund u. Holle 1752).</eintrag>
-</subsection>
-</kommentar>
-
-<kommentar id="ortlob" type="neuzeit">
-<lemma>August Wilhelm Ortlob</lemma>
-<eintrag>Lebensdaten nicht ermittelt, siehe <wwwlink address="http://d-nb.info/gnd/121773809">GND</wwwlink>.
-</eintrag>
-<subsection id="ortlob-phaidon" type="neuzeit">
-<lemma>Ortlob (Übers.), <titel>Phädon</titel></lemma>
-<eintrag>
-<titel>Phädon. Aus dem Griechischen des Plato sorgfältig übersetzt und mit Anmerkungen erläutert von August Wilhelm Ortlob</titel> (Frankfurt, Leipzig). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id367277239">SLUB Dresden: Lit.Graec.B.5119</wwwlink>.
-</eintrag>
 </subsection>
 </kommentar>
 
