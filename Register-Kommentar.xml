@@ -319,6 +319,18 @@ def.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de
 <eintrag>1723–1772. Pastor in Hamburg, theolischer Gegner von <link ref="goze" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116276738.html#adbcontent">Klose: Alberti, Julius Gustav, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;213f</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="aldabi" type="neuzeit">
+<lemma>Meir ibn Aldabi</lemma>
+<eintrag>14. Jh., hebr. מאיר אבן אלדבי, jüdischer Schriftsteller.
+</eintrag>
+<subsection id="aldabi-shebile" type="neuzeit">
+<lemma>Aldabi, <titel>Shebile Emunah</titel></lemma>
+<eintrag>
+<titel>Shebile Emunah</titel> (1360), hebr. שבילי אמונה, lat. Semitae fidei. Digitalisat einer Ausgabe Amsterdam 1708: <wwwlink address="https://data.onb.ac.at/rep/10ABA6B5">ÖNB Wien: 20.J.38 ALT PRUNK</wwwlink> – Riva 1558: <wwwlink address="https://data.onb.ac.at/rep/10ABA834">ÖNB Wien: 20.J.12 ALT PRUNK</wwwlink>. Vgl. <link ref="chevilla" linktext="true" />
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="alembert" type="neuzeit">
 <lemma>Jean-Baptiste-le-Rond d’Alembert</lemma>
 <eintrag>1717–1783. Frz. Philosoph in Paris, Mitherausgeber der <link ref="encyclopedie" linktext="false"><titel>Encyclopédie</titel></link>, Mitglied der frz. Akademie. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;1, 1811), S.&#x202F;482–488.</eintrag>
@@ -3387,7 +3399,7 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 
 <kommentar id="chevilla" type="neuzeit">
 <lemma>Buch Chevilla</lemma>
-<eintrag>Mysteriöses Buch, auf das Hamann durch die Lektüre des Manuskripts des <link ref="ziehen" linktext="false">‚Zellerfelder Propheten‘</link> kam, auf das <link ref="herder" linktext="false">Herder</link> ihn scherzhaft aufmerksam machte; Hamann suchte lange nach dem Buch; vgl. zusammenfassend <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;105</link> und ?!?.</eintrag>
+<eintrag>Mysteriöses Buch, auf das Hamann durch die Lektüre des Manuskripts des <link ref="ziehen" linktext="false">‚Zellerfelder Propheten‘</link> kam, auf das <link ref="herder" linktext="false">Herder</link> ihn scherzhaft aufmerksam machte; Hamann suchte lange nach dem Buch, hielt schließlich das gefundene Werk <link ref="aldabi" subref="aldabi-shebile" linktext="true" /> dafür, vgl. <intlink letter="623" page="307" line="35" linktext="true" />; siehe zusammenfassend <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;105</link>.</eintrag>
 </kommentar>
 
 <kommentar id="chladenius" type="neuzeit">
@@ -11646,6 +11658,18 @@ Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. �
 </eintrag>
 </kommentar>
 
+<kommentar id="kutner" type="neuzeit">
+<lemma>Karl August Kütner</lemma>
+<eintrag>1749–1800. Dichter und Literaturhistoriker, seit 1775 Professor der griechischen Sprache an der Petrina in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100615104.html#ndbcontent">Häntzschel, Günter: Kütner, Karl August, in: <titel>NDB</titel>&#x202F;13 (1982), S.&#x202F;240</wwwlink>.
+</eintrag> 
+<subsection id="kutner-charactere" type="neuzeit" sort="10">
+<lemma>Kütner, <titel>Charaktere teutscher Dichter und Prosaisten</titel></lemma>
+<eintrag>
+<titel>Charactere teutscher Dichter und Prosaisten. Von Kaiser Karl, dem Großen, bis aufs Jahr 1780</titel> (2 Bde., Berlin: Voß 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10733511-9">BSB München: H.lit.p. 204 ts</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="kypke" type="neuzeit">
 <lemma>Georg David Kypke</lemma>
 <eintrag>1724–1779. Evang. Theologe, Prof. für oriental. Sprachen in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100212778.html">Deutsche Biographie</wwwlink>.</eintrag>
@@ -19391,8 +19415,13 @@ Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/
 </kommentar>
 
 <kommentar id="stein-g" type="neuzeit">
-<lemma>Carl Gideo von Stein</lemma>
+<lemma>Carl Gideon von Stein</lemma>
 <eintrag>1731–1799. Ab 1778 polnischer Oberst-Leutnant und Herr zu Ulpisch, verh. mit Christina Louise geb. v. Löwis (1744–1796); siehe <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN82593625X"><titel>Siebmacher’s grosses und allgemeines Wappenbuch.</titel> Bd. 3, Abt. 11, Tl. 1: Der Adel der Russ. Ostseeprovinzen. Erster Theil: Die Ritterschaft, bearb. v. M. Gritzner (Nürnberg 1898),</wwwlink> <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN82593625X:00000186/full/full/0/default.jpg">S.&#x202F;445</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="stein-cl" type="neuzeit">
+<lemma>Christina Louise von Stein</lemma>
+<eintrag>1744–1796. Geb. v. Löwis, Frau von <link ref="stein-g" linktext="true" /> und Schwester der Frau <link ref="wulf-kf" linktext="false">Karl Heinrich von Wulfs</link>.</eintrag>
 </kommentar>
 
 <kommentar id="steinbruchel" type="neuzeit">
@@ -20565,7 +20594,7 @@ Im Anhang sind sieben Gedichte von <link ref="lindner-jg" linktext="true" /> abg
 
 <kommentar id="wulf-kf" type="neuzeit">
 <lemma>Karl Friedrich von Wulf</lemma>
-<eintrag>1723–1798, russ. Karl Iwanowitsch (Карл Иванович фон Вульф). Russischer Generalleutnant der Artillerie, 1781 in Riga stationiert. Seine Frau war als geb. von Löwitz (bzw. Lewiz) wohl eine Schwester der Frau von <link ref="stein-g" linktext="false">Christina Louise geb. v. Löwis (1744–1796)</link>; vgl. die <wwwlink address="https://ru.wikipedia.org/wiki/Вульф%2C_Карл_Иванович_фон">Russische Wikipedia</wwwlink>.</eintrag>
+<eintrag>1723–1798, russ. Karl Iwanowitsch (Карл Иванович фон Вульф). Russischer Generalleutnant der Artillerie, 1781 in Riga stationiert. Seine Frau war als geb. von Löwitz (bzw. Lewiz) wohl eine Schwester der Frau von <link ref="stein-cl" linktext="true" />; vgl. die <wwwlink address="https://ru.wikipedia.org/wiki/Вульф%2C_Карл_Иванович_фон">Russische Wikipedia</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="tschepius" type="neuzeit">
