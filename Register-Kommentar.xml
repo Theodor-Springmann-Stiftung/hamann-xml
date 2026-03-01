@@ -477,8 +477,9 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 <lemma>Abraham Hyacinthe Anquetil-Duperron</lemma>
 <eintrag>1731–1805. Frz. Orientalist, Begründer der Iranistik und des Zend-Studiums.</eintrag>
 <subsection id="anquetil-duperron-zend" type="neuzeit">
-<lemma>Anquetil-Duperron, <titel>Zend-Avesta, Zoroaster’s lebendiges Wort</titel></lemma>
-<eintrag><titel>Zend-Avesta, Zoroaster’s lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes der Parsen aufbehalten sind</titel> [übers. aus dem Franz. von <link ref="kleuker" linktext="true" />] (3 Tle. Riga: Hartknoch 1776–1777). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219965-9">BSB München: 4 A.or. 3605</wwwlink>.
+<lemma>Anquetil-Duperron, <titel>Zend-Avesta</titel></lemma>
+<eintrag>Zend-Avesta, ouvrage de Zoroastre (3 Tle.; Paris 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219962-2">BSB München: 4 A.or. 3604</wwwlink>.<line type="break" />
+Übers.: siehe <link ref="kleuker" subref="kleuker-zendavesta" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
@@ -11177,6 +11178,10 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 <eintrag><titel>Menschlicher Versuch über den Sohn Gottes und der Menschen</titel> (Bremen: Cramer 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10399809-4">BSB München: Dogm. 1053</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="kleuker-zendavesta" type="neuzeit" sort="25">
+<lemma>Kleuker (Übers.), <titel>Zend-Avesta</titel></lemma>
+<titel>Zend-Avesta, Zoroaster’s lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes der Parsen aufbehalten sind</titel> (3 Tle. Riga: Hartknoch 1776–1777). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219965-9">BSB München: 4 A.or. 3605</wwwlink>. Übersetzung von <link ref="anquetil" subref="anquetil-duperron-zend" linktext="true" />
+</subsection>
 <subsection id="kleuker-salomo" type="neuzeit" sort="30">
 <lemma>Kleuker, <titel>Salomo’s Schriften</titel></lemma>
 <eintrag><titel>Salomo’s Schriften. Erster Theil welcher den Prediger enthält von Johann Friedrich Kleuker</titel> (Leipzig: Weygand 1777). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN683143255">SUB Göttingen</wwwlink>. – Zur Fortsetzung siehe <link ref="kleuker" subref="kleuker-gedichte-salomos" linktext="true" />.
@@ -11209,6 +11214,12 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 <lemma>Kleuker, <titel>Sammlung der Gedichte Salomons</titel></lemma>
 <eintrag>
 <titel>Sammlung der Gedichte Salomons, sonst das Hohelied oder Lied der Lieder genannt</titel> (Hamm: Perrenon 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:3:1-478127-p0005-5">ULB Halle</wwwlink>. – Eine Art Fortsetzung von <link ref="kleuker" subref="kleuker-salomo" linktext="true" />.
+</eintrag>
+</subsection>
+<subsection id="kleuker-zendavesta-anhang" type="neuzeit" sort="90">
+<lemma>Kleuker, <titel>Anhang zum Zend-Avesta</titel></lemma>
+<eintrag>
+<titel>Anhang zum Zend-Avesta</titel> (2 Bde. in je 2 Tln., Leipzig, Riga: Hartknoch 1781–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219968-5">BSB München: 4 A.or. 3605-4</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -13111,6 +13122,12 @@ WA&#x202F;30, 1, S.&#x202F;123–238.
 <eintrag>
 <titel>D. Martin Luthers merckwürdiger Sendbrief vom Dollmetschen mit Historischen und Apologetischen Anmerckungen versehen, nebst eben desselben erläuterten Aussprüchen von der Buchdruckerey und den Buchdruckern als einem Beytrage zu der dritten Jubel-Feyer</titel>, hg.&#xA0;v. Daniel Peucer (Leipzig: Gessner 1740). Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id36302462X">SLUB Dresden: Hist.lit.2113,misc.2</wwwlink>.<line type="break" />
 WA 30, 2, S.&#x202F;632–646.
+</eintrag>
+</subsection>
+<subsection id="luther-briefe" type="neuzeit" sort="60">
+<lemma>Luther, <titel>Bisher ungedruckte Briefe (1780/81)</titel></lemma>
+<eintrag>
+<titel>D. Martin Luthers bisher ungedruckte Briefe. aus Handschriften auf der öffentlichen Stadtbibliothek zu Hamburg mitgetheilet von D. Gottfried Schütze</titel> (3 Bde., Leipzig: Weygand 1780–1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10403355-2">BSB München: Epist. 540</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
