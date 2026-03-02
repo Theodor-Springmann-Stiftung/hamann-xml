@@ -12047,9 +12047,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="626">
-        <date value="22. Juli 1781" />
+        <date value="Königsberg, 22. Juli 1781" />
         <sort value="1781-07-22" order="200" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>

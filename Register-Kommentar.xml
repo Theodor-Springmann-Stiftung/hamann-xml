@@ -4185,6 +4185,16 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 </eintrag>
 </kommentar>
 
+<kommentar id="croix" type="neuzeit">
+<lemma>Louis-Étienne de la Croix</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Katholischer Publizist, 2. Hälfte des 18. Jahrhunderts.</eintrag>
+<subsection id="croix-verite" type="neuzeit" sort="20">
+<lemma>La Croix, <titel>La Verité retablie</titel></lemma>
+<eintrag>
+<titel>La Verité retablie, par le Sieur Louis Etienne de la Criox</titel> (s.l. 1778).</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="critische-nachrichten" type="neuzeit">
 <lemma>Critische Nachrichten aus dem Reiche der Gelehrsamkeit</lemma>
 <eintrag>Hrsg. v. <link ref="ramler" linktext="true" />, <link ref="sulzer" linktext="true" /> und Chrl. Mylius. Berlin: Haude und Spener 1750–51, 105 Stück. Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN555610861">SUB Göttingen: 4 Eph.lit. 178/13</wwwlink>.</eintrag>
@@ -5933,6 +5943,16 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <lemma>Paul Fleming</lemma>
 <eintrag>1609–1640. Lyriker des Barock, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17979.html#ndbcontent">Flemming, Willi: Fleming, Paul, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;238f</wwwlink>.
 </eintrag>
+</kommentar>
+
+<kommentar id="fleury" type="neuzeit">
+<lemma>Claude Fleury</lemma>
+<eintrag>1640–1723. Französischer Pädagoge und Kirchenhistoriker, siehe <wwwlink address="https://d-nb.info/gnd/118683977">GND</wwwlink>.
+</eintrag>
+<subsection id="fleury-abrege" type="neuzeit" sort="10">
+<lemma>Fleury, <titel>Abrégé de l’histoire ecclésiastique de Fleury</titel></lemma>
+<eintrag>Abrégé de l’histoire ecclésiastique de Fleury. Traduit de l’Angloit (2 Tle., Berne [Berlin] 1766) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;93/294: „Abregé de l’Histoire ecclesiastique de Fleury, Tom. I. II. Bern 766.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11092052-3">Stabi Regensburg: 999/Hist.eccl.16</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="florus" type="neuzeit">
@@ -8786,6 +8806,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </eintrag>
 </kommentar>
 
+<kommentar id="heraklit" type="neuzeit">
+<lemma>Heraklit</lemma>
+<eintrag>Um 520 bis um 460 v.&#x202F;Chr. Vorsokratischer Philosoph.
+</eintrag>
+</kommentar>
+
 <kommentar id="herauld" type="neuzeit">
 <lemma>Didier Hérauld</lemma>
 <eintrag>1579–1649. Parlamentsadvokat in Paris.
@@ -11197,7 +11223,7 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 </subsection>
 <subsection id="kleuker-zendavesta" type="neuzeit" sort="25">
 <lemma>Kleuker (Übers.), <titel>Zend-Avesta</titel></lemma>
-<eintrag><titel>Zend-Avesta, Zoroaster’s lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes der Parsen aufbehalten sind</titel> (3 Tle. Riga: Hartknoch 1776–1777). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219965-9">BSB München: 4 A.or. 3605</wwwlink>. Übersetzung von <link ref="anquetil" subref="anquetil-duperron-zend" linktext="true" /></eintrag>
+<eintrag><titel>Zend-Avesta, Zoroaster’s lebendiges Wort, worin die Leben und Meinungen […] des heiligen Dienstes der Parsen aufbehalten sind</titel> (3 Tle. Riga: Hartknoch 1776–1777). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219965-9">BSB München: 4 A.or. 3605</wwwlink>. Übersetzung von <link ref="anquetil-duperron" subref="anquetil-duperron-zend" linktext="true" /></eintrag>
 </subsection>
 <subsection id="kleuker-salomo" type="neuzeit" sort="30">
 <lemma>Kleuker, <titel>Salomo’s Schriften</titel></lemma>
@@ -20217,12 +20243,6 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <lemma>Thomas von Aquin</lemma>
 <eintrag>1225–1274. Theologe der Scholastik.
 </eintrag>
-<subsection id="thomas-oeuvres" type="neuzeit" sort="10">
-<lemma>Thomas, <titel>Oeuvres diverses</titel></lemma>
-<eintrag>
-<titel>Oeuvres diverses</titel> (2&#xA0;Bde., Amsterdam 1762). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10099062-7">BSB München: P.o.gall. 2130 d</wwwlink>.
-</eintrag>
-</subsection>
 </kommentar>
 
 <kommentar id="thomas-al" type="neuzeit">
@@ -21515,6 +21535,17 @@ W
 <kommentar id="waser-ak" type="neuzeit">
 <lemma>Anna Kleophea Waser</lemma>
 <eintrag>1726–1806. Geb. Scheuchzer, ab 1765 Ehefrau von <link ref="waser-jh1742" linktext="true" />, siehe <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F108135?main_person=I310475">Historisches Familienlexikon der Schweiz</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="waser-f" type="neuzeit">
+<lemma>Felix Waser</lemma>
+<eintrag>1722–1799. Pfarrer in Bischofszell, pädagogischer Schriftsteller; Bruder von <link ref="waser-jh1713" linktext="true" />, siehe <wwwlink address="https://hls-dhs-dss.ch/de/articles/026272/2013-04-03/">Historisches Lexikon der Schweiz</wwwlink>.</eintrag>
+<subsection id="waser-f-predigten1781" type="neuzeit" sort="10">
+<lemma>Waser, <titel>Sammlung einiger Predigten</titel></lemma>
+<eintrag>
+<titel>Sammlung einiger Predigten. Von F. Waser</titel> (Zürich 1781). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-85138">ZB Zürich: Gal Sp 309</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="waser-h" type="neuzeit">
