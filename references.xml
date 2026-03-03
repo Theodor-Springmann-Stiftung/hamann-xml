@@ -232,9 +232,9 @@
 				ref="https://d-nb.info/gnd/100158706" vorname="Johann Michael"
 				nachname="Hamann" komm="hamann-jm" />
 			<personDef index="99" name="" />
-			<personDef index="100" name="Dirk Graf van Hogendorp"
+			<personDef index="100" name="Dirk van Hogendorp"
 				ref="https://d-nb.info/gnd/116953144" vorname="Dirk Graf van"
-				nachname="Hogendorp" komm="hogendorp-d" />
+				nachname="Hogendorp" komm="hogendorp" />
 			<personDef index="101" name="Samuel Wolff Friedländer"
 				vorname="Samuel Wolff" nachname="Friedländer" komm="friedlaender-sw" />
 			<personDef index="102" name="" />

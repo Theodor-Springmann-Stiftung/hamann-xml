@@ -66,6 +66,11 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 </subsection>
 </kommentar>
 
+<kommentar id="abhandlungen-baierische-akademie" type="neuzeit">
+<lemma>Abhandlungen der Baierischen Akademie über Gegenstände der schönen Wissenschaften</lemma>
+<eintrag>Abhandlungen der Baierischen Akademie über Gegenstände der schönen Wissenschaften, Bd.&#x202F;1 (München: Strobl 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10369928-3">BSB München: Bavar. 17-1</wwwlink>. Vgl. <link ref="herder" subref="herder-dichtkunst-wuerkung" linktext="true" /> und <link ref="herder" subref="herder-einfluss-hohe-wissenschaften" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="achenwall" type="neuzeit">
 <lemma>Gottfried Achenwall</lemma>
 <eintrag>1719–1772. Historiker und Jurist, 1748–1762 an der Universität Göttingen; Begründer der Statistik, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118643657.html#adbcontent">Steffenhagen: Achenwall, Gottfried, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;30</wwwlink>.
@@ -1490,6 +1495,12 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 <eintrag>
 <titel>Abhandlungen und Betrachtungen über einige wichtige Wahrheiten der Religion. Aus dem Englischen übersetzt von Johann Peter Bamberger</titel> (Halle 1763).</eintrag>
 </subsection>
+</kommentar>
+ 
+<kommentar id="bentivegni" type="neuzeit">
+<lemma>Girolamo Saverio von Bentivegni</lemma>
+<eintrag>1746–1795. Lieutnant, der mit <link ref="hamann-m" linktext="true" /> englisch und griechisch lernt; später Major in Danzig.
+</eintrag>
 </kommentar>
 
 <kommentar id="benzler" type="neuzeit">
@@ -3737,6 +3748,12 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 <kommentar id="clemens" type="neuzeit">
 <lemma>Clemens von Alexandria</lemma>
 <eintrag>Um 150 bis um 215 n.&#x202F;Chr. Frühchristlicher Philosoph.
+</eintrag>
+</kommentar>
+
+<kommentar id="clemens-xiv" type="neuzeit">
+<lemma>Clemens XIV.</lemma>
+<eintrag>1705–1774. Papst seit 1769, vorher Giovanni Vicenzo Antonio Ganganelli.
 </eintrag>
 </kommentar>
 
@@ -8678,6 +8695,11 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </subsection>
 </kommentar>
 
+<kommentar id="heinrich-prinz" type="neuzeit">
+<lemma>Prinz Heinrich von Preußen</lemma>
+<eintrag>1726–1802 (Friedrich Heinrich Ludwig von Preußen), Bruder <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://d-nb.info/gnd/11870978X">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="heinrich-reuss" type="neuzeit">
 <lemma>Heinrich Reuß von Plauen</lemma>
 <eintrag>1400–1470. Heerführer und ab 1469 kurzzeitig Hochmeister des Deutschen Ordens, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd137406916.html#ndbcontent">Weise, Erich: Heinrich Reuß von Plauen, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;379f.</wwwlink></eintrag>
@@ -8781,6 +8803,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <eintrag>
 <titel>Nouvel abrégé chronologique de l’histoire de France</titel> (1744; 4. Aufl., 2&#x202F;Bde., Paris 1752) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;87/197: „Nouvel Abregé chronologique de l’Histoire de France, Par. 752“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="hennig-k" type="neuzeit">
+<lemma>N.N. Hennig</lemma>
+<eintrag>Lebensdaten nicht ermittelt, Halbbruder von <link ref="kreutzfeld" linktext="true" />, Schulmeister und Organist in <wwwlink address="https://www.geonames.org/557906">Neuhausen</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="hennings" type="neuzeit">
@@ -9087,7 +9115,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <subsection id="herder-dichtkunst-wuerkung" type="neuzeit" sort="460">
 <lemma>Herder, <titel>Ueber die Würkung der Dichtkunst auf die Sitten der Völker in alten und neuen Zeiten</titel></lemma>
 <eintrag>
-<titel>Ueber die Würkung der Dichtkunst auf die Sitten der Völker in alten und neuen Zeiten.</titel> Erstdruck in: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=35"><titel>Abhandlungen der baierischen Akademie über Gegenstände der schönen Wissenschaften</titel> (München: Strobl 1781), S.&#x202F;25–138</wwwlink>. – SWS VIII, S.&#x202F;334–436.
+<titel>Ueber die Würkung der Dichtkunst auf die Sitten der Völker in alten und neuen Zeiten.</titel> Erstdruck in: <link ref="abhandlungen-baierische-akademie" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11039133?page=35">, Bd.&#x202F;1, S.&#x202F;25–138</wwwlink>. – SWS VIII, S.&#x202F;334–436.
 </eintrag>
 </subsection>
 <subsection id="herder-winkelmann" type="neuzeit" sort="490">
@@ -9145,7 +9173,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <subsection id="herder-einfluss-hohe-wissenschaften" type="neuzeit" sort="610">
 <lemma>Herder, <titel>Über den Einfluß der schönen in die höhern Wissenschaften</titel></lemma>
 <eintrag>
-<titel>J. G. Herder über den Einfluß der schönen in die höhern Wissenschaften</titel>. Erstdruck in: <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=149"><titel>Abhandlungen der Baierischen Akademie über Gegenstände der schönen Wissenschaften</titel>, Bd.&#x202F;1 (München: Strobl 1781), S.&#x202F;139–168.</wwwlink>
+<titel>J. G. Herder über den Einfluß der schönen in die höhern Wissenschaften</titel>. Erstdruck in: <link ref="abhandlungen-baierische-akademie" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=149">, Bd.&#x202F;1, S.&#x202F;139–168.</wwwlink>
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
@@ -9709,9 +9737,35 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 <eintrag>1729–1780. Buchhändler in Weimar, verlegte <link ref="hamann" subref="hamann-konxompax" linktext="false">Konxompax</link>, <link ref="hamann" subref="hamann-scherflein" linktext="false">Zwey Scherflein</link> und Herders <link ref="herder" subref="herder-briefe-theologie" linktext="false">Briefe, das Studium der Theologie betreffend.</link></eintrag>
 </kommentar>
 
-<kommentar id="hogendorp-d" type="neuzeit">
-<lemma>Dirk Graf van Hogendorp</lemma>
-<eintrag>1761–1822. Preuß. Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er <link ref="kant" linktext="true" /> kennenlernte. Hat ein Duell, bei dem er einen Schuß in den Unterleib davonträgt. Nimmt, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Hamann hält ihn zunächst für einen schlechten Charakter. Eine Zeitlang kampiert er in einem Zelt in Hamanns Garten. Dessen moralischer Groll mildert sich. Hogendorp geht bald nach Holland, segelt am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain- Lieutenant nach Südafrika, lebt eine gewisse Zeit in Kapstadt.</eintrag>
+<kommentar id="hogendorp" type="neuzeit">
+<lemma>Dirk van Hogendorp</lemma>
+<eintrag>1761–1822. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>. 1781 als brandenburg-preußischer Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er auch <link ref="kant" linktext="false">Kant</link> kennenlernte. Bei einem Duell trägt er einen Schuss in den Unterleib davon und nimmt, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Hamann hält ihn zunächst für einen schlechten Charakter, sein moralischer Groll mildert sich aber. Eine Zeitlang kampiert er in einem Zelt in Hamanns Garten. Hogendorp geht bald nach Holland und segelt am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain-Lieutenant nach Südafrika, lebt eine gewisse Zeit in Kapstadt als Beamter der Ostindischen Kompanie. Später holländischer Kriegsminister und General unter Napoleon; siehe <wwwlink address="https://d-nb.info/gnd/116953144">GND</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="hogendorp-cw" type="neuzeit">
+<lemma>Carolina Wilhelmine van Hogendorp</lemma>
+<eintrag>1762–1834. Geb. van Haren, Mutter von <link ref="hogendorp" linktext="true" /> und <link ref="hogendorp-g" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="hogendorp-g" type="neuzeit">
+<lemma>Gijsbert Karel van Hogendorp</lemma>
+<eintrag>1762–1834. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp" linktext="true" />. 1778 als Fähnrich der brandenburg-preußischen Armee im bayrischen Erbfolgekrieg, danach in Berlin, 1781 als Leutnant im Königsberger Grenadier-Bataillon; später bedeutender niederländischer Jurist und Staatsmann, siehe <wwwlink address="https://d-nb.info/gnd/118774727">GND</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="hogendorp-w" type="neuzeit">
+<lemma>Willem van Hogendorp</lemma>
+<eintrag>1735–1784. Vater von <link ref="hogendorp" linktext="true" />. Jurist, Mitglied des Rotterdamer Magistrats und ab 1773 in Diensten der Niederländischen Ostindien-Kompanie; Mitgründer der Königlich Batavische Gesellschaft der Künste und Wissenschaften und Autor aufklärerischer Erzählungen; siehe <wwwlink address="https://nl.wikipedia.org/wiki/Willem_van_Hogendorp_(1735-1784)">Niederländische Wikipedia</wwwlink>.
+</eintrag>
+<subsection id="hogendorp-sophronisba" type="neuzeit" sort="10">
+<lemma>Hogendorp, <titel>Sophronisba</titel></lemma>
+<eintrag><titel>Sophronisba of de gelukkige moeder door de inëntinge van haare dochters. Europeesche Geschiedenis, ter lezinge voorgesteld aan de moeders van Batavia, door Mr. W. van Hogendorp</titel> (Battavia 1779). Digitalisat: <wwwlink address="https://books.google.de/books?id=oSE7kIoY0TcC">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="hogendorp-kraspoekol" type="neuzeit" sort="20">
+<lemma>Hogendorp, <titel>Kraspoekol</titel></lemma>
+<eintrag><titel>Kraspoekol, of de droevige gevolgan van eene te verre gaande strengheid, jegens de slaaven. Zedekundige Vertellung, door Mr. W. van Hogendorp</titel> (Battavia 1780). Digitalisat: <wwwlink address="https://books.google.de/books?id=S2Gn0PT6RewC">Google Books</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="hogarth" type="neuzeit">
