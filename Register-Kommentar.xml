@@ -710,6 +710,17 @@ In der <titel>Opera</titel>-Ausgabe von 1590 (s.o.) Bd.&#x202F;2, S.&#x202F;177�
 </subsection>
 </kommentar>
 
+<kommentar id="arnoldi" type="neuzeit">
+<lemma>Albert Jakob Arnoldi</lemma>
+<eintrag>1750–1835. Orientalist und 1778 Professor der Philologia sacra und Kirchengeschichte in Hanau, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116352043.html#adbcontent">Henke, Ernst, Arnoldi, Albert Jakob, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;589</wwwlink>.</eintrag>
+<subsection id="arnoldi-exegetik" type="neuzeit" sort="10">
+<lemma>Arnoldi, <titel>Zur Exegetik und Kritik des Alten Testaments</titel></lemma>
+<eintrag>
+<titel>Zur Exegetik und Kritik des Alten Testaments von Albert Jabob Arnoldi. Erster Beitrag. Anmerkungen über einzelne Stellen der Sprache Salomons</titel> (Frankfurt, Leipzig:Fleischer 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10409812-8">BSB München: Exeg. 56-1</wwwlink>
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="arnoldt" type="neuzeit">
 <lemma>Daniel Heinrich Arnoldt</lemma>
 <eintrag>1706–1775. Ab 1770 Generalsuperintendent zu Königsberg.</eintrag>
@@ -990,6 +1001,12 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 <titel>Kirchen- und Ketzeralmanach aufs Jahr 1781</titel> (Häresiopel [Züllichau]: im Verlag der Ekklesia pressa 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11092258-6">Stabi Regensburg: 999/Hist.eccl.137</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="bahrdt-apologie" type="neuzeit" sort="50">
+<lemma>Bahrdt, <titel>Apologie der Vernunft</titel></lemma>
+<eintrag>
+<titel>Apologie der Vernunft durch Gründe der Schrift unterstüzt, in Bezug auf die christliche Versöhnungslehre. Herrn D. Seiler gewidmet</titel> (Basel 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10400125-1">BSB München: Dogm. 1231 u</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="ballath" type="neuzeit">
@@ -1207,10 +1224,15 @@ D. Siegmund Jacob Baumgartens <titel>Untersuchung Theologischer Streitigkeiten.<
 <kommentar id="beattie" type="neuzeit">
 <lemma>James Beattie</lemma>
 <eintrag>1735–1803. Schottischer Dichter und Essayist, siehe <wwwlink address="https://www.britannica.com/biography/Samuel-Butler-English-author-1612-1680">Encyclopaedia Britannica</wwwlink>.</eintrag>
-<subsection id="beattie-wahrheit" type="neuzeit">
+<subsection id="beattie-wahrheit" type="neuzeit" sort="10">
 <lemma>Beattie, <titel>Essay on the Nature and Immutability of Truth</titel></lemma>
 <eintrag><titel>Essay on the Nature and Immutability of Truth, in Opposition to Sophistry and Scepticism</titel> (1770).<line type="break" />
 Übers.: <titel>James Beattie’s […] Versuch über die Natur und Unveränderlicheit der Wahrheit; im Gegensatze der Klügeley und der Zweifelsucht. Aus dem Englischen</titel> (Copenhagen, Leipzig: Faber 1772). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10042710-0">BSB München: Ph.sp. 63 q</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="beattie-versuche" type="neuzeit" sort="20">
+<lemma>Beattie, <titel>Neue philosophische Versuche</titel></lemma>
+<eintrag><titel>Neue philosophische Versuche. Aus dem Englischen übersetzt. Mit einer Vorrede vom <link ref="meiners" linktext="false"></link>Herrn Professor Meiners</titel> (2 Bde., Leipzig: Weygand 1779–1780).
 </eintrag>
 </subsection>
 </kommentar>
@@ -1597,15 +1619,20 @@ Es wurde wohl auch eine französische Version für <link ref="friedrich-II" link
 <kommentar id="berkeley" type="neuzeit">
 <lemma>George Berkeley</lemma>
 <eintrag>1685–1753. Irischer Philosoph, Bischof, siehe <wwwlink address="https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-2211">M. A. Stewart: Berkeley, George, in: <titel>Oxford DNB</titel></wwwlink>.</eintrag>
-<subsection id="berkeley-dialogues" type="neuzeit" sort="5">
+<subsection id="berkeley-dialogues" type="neuzeit" sort="10">
 <lemma>Berkeley, <titel>Three Dialogues between Hylas and Philonous</titel></lemma>
 <eintrag>
 <titel>Three Dialogues between Hylas and Philonous</titel> (London: G. James for Henry Clements 1713).</eintrag>
 </subsection>
-<subsection id="berkeley-miscellany" type="neuzeit" sort="10">
+<subsection id="berkeley-miscellany" type="neuzeit" sort="20">
 <lemma>Berkeley, <titel>A Miscellany</titel></lemma>
 <eintrag>
 <titel>A Miscellany, Containing Several Tracts on Various Subjects</titel> (London: Tonson and Draper 1752) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;117/283: „(Berkley’s) Miscellany containing Thoughts on Tarwater an Essay; an Discourse; a Word to the Wise; the Querist; a Proposal; a Sermon; and de Motus Principio et Natura“]. Digitalisat: <wwwlink address="https://hdl.handle.net/2027/uc1.31822043020361">University of California</wwwlink>.</eintrag>
+</subsection>
+<subsection id="berkeley-werke" type="neuzeit" sort="30">
+<lemma>Berkeley, <titel>Philosophische Werke</titel></lemma>
+<eintrag>
+<titel>Gerge Berkeley’ Philosophische Werke. Erster Theil</titel> (Leipzig: Schwickert 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10045201-0">BSB München: Ph.u. 44-1</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -8242,13 +8269,19 @@ Zitation im Briefkommentar nach <link ref="1962" linktext="false">HHE 5</link>, 
 <subsection id="hamann-dialogues" type="neuzeit" sort="730">
 <lemma>Hamann (Übers.), <titel>Dialogen die natürliche Religion betreffend</titel></lemma>
 <eintrag>
-Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Er wollte sie durch <link ref="hartknoch" linktext="false">Hartknoch</link> verlegen lassen (vgl. <intlink letter="596" page="205" line="25" linktext="true" />) und mit einem Begleitessay versehen, das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung</link> bekannt wurde. Hamann laborierte aber noch länger an den Plänen für den Begleitessay. – Lediglich ein Entwurf für die finale Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
+Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Er wollte sie durch <link ref="hartknoch" linktext="false">Hartknoch</link> verlegen lassen (vgl. <intlink letter="596" page="205" line="25" linktext="true" />) und mit einem Begleitessay versehen, das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung</link> bekannt wurde. Hamann laborierte aber noch länger an den Plänen für den Begleitessay; ab 1781 verband sich mit dem Hume-Projekt ein Kant-Projekt. – Lediglich ein Entwurf für die finale Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
+</eintrag>
+</subsection>
+<subsection id="hamann-kantkritik" type="neuzeit" sort="740">
+<lemma>Hamann, <titel>Rezension von Kants Critik der reinen Vernunft</titel></lemma>
+<eintrag>
+<titel>Kritik der reinen Vernunft von Immanuel Kant, Professor in Königsberg. Riga. Hartknoch 81. S. 856 in gr. 8<super>o</super></titel>. Auf den 1. Juli 1781 datiert, nicht veröffentlicht. Vgl. ULB Münster: N. Hamann Bd. 64, N&#x202F;III,275–280 u. 467f., außerdem N&#x202F;V,358f. und den Erstdruck in <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10046707?page=220%2C221">C.L. Reinhold (Hg.), <titel>Beyträge zur leichtern Übersicht des Zustandes der Philosophie beym Anfange des 19. Jahrhunderts</titel>, H.&#x202F;2 (Hamburg: Perthes 1801), S.&#x202F;206–212</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="hamann-metakritik" type="neuzeit" sort="750">
 <lemma>Hamann, <titel>Metakritik über den Purismum der Vernunft</titel></lemma>
 <eintrag>
-<titel>Metakritik über den Purismum der Vernunft</titel> (unveröffentlicht; 1784). 
+<titel>Metakritik über den Purismum der Vernunft</titel> (nicht veröffentlicht; 1784). 
 </eintrag>
 </subsection>
 <subsection id="hamann-golgatha-scheblimini" type="neuzeit" sort="800">
@@ -13042,12 +13075,9 @@ Hamann las v.a. die französische Übersetzung von <link ref="coste" linktext="t
 <subsection id="lowth-isaiah" type="neuzeit">
 <lemma>Lowth, <titel>Isaiah</titel></lemma>
 <eintrag>
-<titel>Isaiah. A New Translation; with a preliminary dissertation, and notes critical, philological, and explanatory.</titel> By Robert Lowth (London: Nichols 1778). Digitalisat: <wwwlink address="https://books.google.de/books?id=ta8WAAAAQAAJ">Google Books</wwwlink>. – Zur Übersetzung vgl. <link ref="koppe" subref="koppe-jesaias" linktext="true" />
+<titel>Isaiah. A New Translation; with a preliminary dissertation, and notes critical, philological, and explanatory.</titel> By Robert Lowth (London: Nichols 1778). Digitalisat: <wwwlink address="https://books.google.de/books?id=ta8WAAAAQAAJ">Google Books</wwwlink>. – Zur Übersetzung vgl. <link ref="koppe" subref="koppe-jesaias" linktext="true" />.
 </eintrag>
 </subsection>
-koppe-jesaias
-Jesaias neu übersetzt nebst einer Einleitung und  Anmerkungen. Mit Zusätzen v. Johann Benjamin Koppe. (4 Bde., Leipzig 1779–1781). Übersetzung von <link ref="lowth" subref="lowth-isaiah" linktext="true" />
-
 </kommentar>
 
 <kommentar id="luebeck" type="neuzeit">
@@ -13388,6 +13418,17 @@ Hamann arbeitete im Juli 1763 für einen Monat als Volontär in der Kantzlei des
 <lemma>Mainvilliers, <titel>La Pétréade</titel></lemma>
 <eintrag>
 <titel>La Pétréade, ou Pierre le createur</titel> (Amsterdam: J. H. Schneider 1762) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;141/186: „La petreade par le Chevalier de Maivilliers, Amst. 762“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10094075-6">BSB München: P.o.gall. 1312 b</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="malebranche" type="neuzeit">
+<lemma>Nicolas Malebranche</lemma>
+<eintrag>1638–1715. Französischer Philosoph und Theologe.</eintrag>
+<subsection id="malebranche-recherche" type="neuzeit">
+<lemma>Malebranche, <titel>De la recherche de la verité</titel></lemma>
+<eintrag>
+<titel>De la recherche de la verité. Où l’on traitte de la nature de l’Esprit de l’homme, et de l’usage qu’il en doit faire pour éviter l’erreur dans les Sciences</titel> (2 Bde., Paris 1674–1675) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;125/380: „De la Recherche de la Verité par Malebranche, Tom. I. II. Par. 678“]. Digitalisat der 3.&#x202F;Aufl. Paris 1678: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10045006-6">BSB München: Ph.sp. 1083 y</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -18465,7 +18506,7 @@ Zweite Auflage: <titel>Lyrische, Elegische und Epische Poesien, nebst einer krit
 
 <kommentar id="schultens" type="neuzeit">
 <lemma>Albert Schultens</lemma>
-<eintrag>1686–1750. Niederländ. reform. Theologe und Orientalist, 1713 Prof. der oriental. Sprachen in Franecker, 1732 in Leiden. <wwwlink address="http://www.jewishencyclopedia.com//articles/13330-schultens-albert">Jacobs, Joseph: Schultens, Albert, in: <titel>Jewish Encyclopedia</titel> (1906), S.&#x202F;115</wwwlink>.</eintrag>
+<eintrag>1686–1750. Niederländischer reformierter Theologe und Orientalist, 1713 Prof. der oriental. Sprachen in Franecker, 1732 in Leiden. <wwwlink address="http://www.jewishencyclopedia.com//articles/13330-schultens-albert">Jacobs, Joseph: Schultens, Albert, in: <titel>Jewish Encyclopedia</titel> (1906), S.&#x202F;115</wwwlink>.</eintrag>
 <subsection id="schultens-liber" type="neuzeit" sort="10">
 <lemma>Schultens, <titel>Liber Jobi</titel></lemma>
 <eintrag>
