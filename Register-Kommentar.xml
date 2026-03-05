@@ -2518,6 +2518,17 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </eintrag>
 </kommentar>
 
+<kommentar id="breitkopf" type="neuzeit">
+<lemma>Johann Gottlob Immanuel Breitkopf</lemma>
+<eintrag>1719–1794. Buchhändler, Verleger und Typograph in Leipzig, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118809873.html#ndbcontent"> Schmieder, Wolfgang: Breitkopf, Johann Gottlob Immanuel, in: <titel>NDB</titel>&#x202F; 2 (1955), S.&#x202F;578f.</wwwlink>
+</eintrag>
+<subsection id="breitkopf-magazin" type="neuzeit">
+<lemma>Breitkopf (Hg.), <titel>Magazin des Buch- und Kunsthandels</titel></lemma>
+<eintrag>
+<titel>Magazin des Buch- und Kunsthandels, welches zum Besten der Wissenschaften und Künste von den dahin gehörigen Neuigkeiten Nachricht giebt</titel> (Leipzig: Breitkopf 1780–1782, erschien monatlich). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10601627%2FBV002562413">BSB München: N.libr. 200 m</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1059623234">ZDB</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="briefe-literatur" type="neuzeit">
 <lemma>Briefe die neueste Litteratur betreffend</lemma>
 <eintrag>Literarische Wochenschrift, erschien 1759 bis 1765 in der Nicolaischen Verlagsbuchhandlung in Berlin; von <link ref="lessing" linktext="true" />, <link ref="mendelssohn" linktext="true" /> und <link ref="nicolai" linktext="true" /> begründet; die meisten Briefe (83) stammten von Mendelssohn; Friedrich Nicolai war mit 63 vertreten, Lessing mit 55, außerdem schrieben u.a. Thomas Abbt, Gabriel Resewitz und Friedrich Grillo Beiträge. Digitalisate der Ausgaben: <wwwlink address="http://ds.ub.uni-bielefeld.de/viewer/toc/1921386/0/LOG_0000/">Digitale Sammlung der UB Bielefeld</wwwlink>. – <wwwlink address="https://mdz-nbn-resolving.de/details:bsb10539049">BSB München</wwwlink>
@@ -8671,6 +8682,18 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </subsection>
 </kommentar>
 
+<kommentar id="hayter" type="neuzeit">
+<lemma>Thomas Hayter</lemma>
+<eintrag>1747–1799. Gelehrter am King’s College in Cambridge, Autor einer ersten Replik auf <link ref="hume" subref="hume-dialogues" linktext="false">Hume’s <titel>Dialogues concerning natural religion</titel></link>.
+</eintrag>
+<subsection id="hayter-remarks" type="neuzeit">
+<lemma>Hayter, <titel>Remarks on Mr Hume’s Dialogues concerning natural religion</titel></lemma>
+<eintrag>
+<titel>Remarks on Mr Hume’s Dialogues concerning natural religion. By T. Hayter</titel> (Cambridge 1780).
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="hecht" type="neuzeit">
 <lemma>Bäcker Hecht</lemma>
 <eintrag>Lebensdaten nicht ermittelt, Vorname mglw. Abraham oder Christian; Bäcker in Königsberg.
@@ -14203,6 +14226,18 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </eintrag>
 </kommentar>
 
+<kommentar id="mercier" type="neuzeit">
+<lemma>Louis-Sebastian de Mercier</lemma>
+<eintrag>1740–1814. Französischer Schriftsteller, siehe <wwwlink address="https://d-nb.info/gnd/118581007">GND</wwwlink>.
+</eintrag>
+<subsection id="mercier-theatre" type="neuzeit">
+<lemma>Mercier, <titel>Du théatre</titel></lemma>
+<eintrag>
+<titel>Du théatre, ou nouvel essai sur l’art dramatique</titel> (Amsterdam 1773). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/10ADFF31">ÖNB Wien: 221821-B ALT MAG</wwwlink>.<line type="break" />
+Übers.: <titel>Neuer Versuch über die Schauspielkunst. Aus dem Französischen [von Heinrich Leopold Wagner]. Mit einem Anhang aus <link ref="goethes" linktext="false">Goethes</link> Brieftasche</titel> (Leipzig: Schwickert 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574318-1">BSB München: L.eleg.g. 265 hc</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="merck" type="neuzeit">
 <lemma>Johann Heinrich Merck</lemma>
 <eintrag>1741–1791. Schriftsteller und Politiker in Darmstadt, Freund <link ref="goethe" linktext="false">Goethes</link>; besuchte Hamann in Königsberg 1773 (vgl. <intlink letter="396" page="62" line="23" linktext="true" />), hinterließ aber einen sehr negativen Eindruck (vgl. <intlink letter="402" page="75" line="23" linktext="true" />), ebenso bei Herder (vgl. <intlink letter="407" page="92" line="28" linktext="true" />); siehe <wwwlink address="https://www.deutsche-biographie.de/sfz53095.html#ndbcontent">Elschenbroich, Adalbert: Merck, Johann Heinrich, in: <titel>NDB</titel>&#x202F;17 (1994), S.&#x202F;117–120</wwwlink>.
@@ -14839,6 +14874,16 @@ Um 1760 bis 1805. Schriftsteller und Lehrer in Königsberg, siehe <wwwlink addre
 </subsection>
 </kommentar>
 
+<kommentar id="moritz" type="neuzeit">
+<lemma>Karl Philipp Moritz</lemma>
+<eintrag>1756–1793. Schriftsteller, ab 1778 in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118584162.html#ndbcontent">Meier, Albert: Moritz, Carl Philipp, in: <titel>NDB</titel>&#x202F;18 (1997), S.&#x202F;149–152</wwwlink>.</eintrag>
+<subsection id="moritz-sprachlehre" type="neuzeit" sort="10">
+<lemma>Moritz, <titel>Deutsche Sprachlehre für die Damen</titel></lemma>
+<eintrag>
+<titel>Deutsche Sprachlehre für die Damen In Briefen von Carl Philipp Moritz</titel> (Berlin: Wever 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584078-2">Stabi Berlin: L.germ. 183</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="moritz-jcf" type="neuzeit">
 <lemma>Johann Christian Friedrich Moritz</lemma>
 <eintrag>1741–1795. Diakon in Riga und Direktor des Lyceums, siehe <wwwlink address="https://bbld.de/GND1016521324">BBLd</wwwlink>.</eintrag>
@@ -14996,9 +15041,14 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Kleine Schriften</titel> (Bremen 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München: L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
 </subsection>
 <subsection id="moserj-schreiben" type="neuzeit" sort="60">
-<lemma>Möser, <titel>Schreiben an den P. J. K. in W… </titel></lemma>
+<lemma>Möser, <titel>Schreiben an den P. J. K. in W…</titel></lemma>
 <eintrag>
 <titel>Schreiben an den P. J. K. in W… den ersten Schritt zur künftigen Vereinigung der Evangelischen und Catholischen Kirche betreffend, von dem Verfasser der patriotischen Phantasien</titel> (Hamm: Perrenon 1780). Digitalisat: <wwwlink address="https://data.onb.ac.at/rec/AC10131230">ÖNB Wien: 300664-B.Adl.6 ALT MAG</wwwlink>.</eintrag>
+</subsection>
+<subsection id="moserj-sprache-litteratur" type="neuzeit" sort="70">
+<lemma>Möser, <titel>Ueber die deutsche Sprache und Litteratur</titel></lemma>
+<eintrag>
+<titel>Ueber die deutsche Sprache und Litteratur. An einen Freund</titel> (Hamburg: Hoffmann 1781). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN63866215X">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15064,6 +15114,17 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <kommentar id="motherby-r" type="neuzeit">
 <lemma>Robert Motherby</lemma>
 <eintrag>1736–1801. Engl. Kaufmann in Königsberg, Freund von <link ref="green" linktext="true" /> und <link ref="kant" linktext="true" />, Bruder von <link ref="motherby-g" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="mouffle" type="neuzeit">
+<lemma>Barthélemy François Joseph Mouffle d’Angerville</lemma>
+<eintrag>1728–1795. Französischer Schriftsteller, siehe <wwwlink address="https://fr.wikipedia.org/wiki/Barth%C3%A9l%C3%A9my_Mouffle_d%27Angerville">Französische Wikipedia</wwwlink>.</eintrag>
+<subsection id="mouffle-vie-privee" type="neuzeit" sort="10">
+<lemma>Mouffle, <titel>Vie privée de Louis XV</titel></lemma>
+<eintrag>
+<titel>Vie privée de Louis XV, ou principaux événements, particularités et anecdotes de son règne</titel> (4&#x202F;Bde., London 1781). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10419764%2FBV001622853">BSB München: Gall.g. 1003</wwwlink>
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="mourges" type="neuzeit">
@@ -16644,6 +16705,18 @@ Zum Streit um die Voyengelder. 1781 liefen sie noch sehr gut (vgl. <intlink lett
 <eintrag>
 <titel>The old and New Testament connected in the history of the Jews and neighbouring nations, from the Declension of the Kingdoms of Israel and Judah to the Time of Christ</titel> (2&#xA0;Tl., London 1716/18.).<line type="break" />
 Übers.: <titel>Humphrey Prideaux’, Alt- und Neues Testament in eine Connexion mit der Jüden und benachbarten Völcker Historie gebracht, vom Verfall der Reiche Israel und Juda an, biß auf Christi Himmelfahrt. Nach der Achten Englischen Auflage, so an verschiedenen Orten von dem Autore selbst verbessert worden, ins Hoch-Teutsche übersetzet durch August Titteln, Und von denen in der Ersten Edition mit eingelauffenen Druck-Fehlern gesaubert, durch […] Valentin Ernst Löschers Hinzugefügte älteste Geschichte der Welt, ingleichen zweye besondere Register über die in dem gantzen Werck allegirten Schrifft-Stellen, und Profan-Scribenten vermehret; Nebst […] Approbation, und allerhand Kupffern</titel> (Dresden: Lobeck 1726; 1. Aufl., Dresden: Lobeck 1721). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10005436-3">BSB München: 4 H.eccl. 637-1</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="priestley" type="neuzeit">
+<lemma>Joseph Priestley</lemma>
+<eintrag>1733–1804. Englischer Theologe und Chemiker, siehe <wwwlink address="https://d-nb.info/gnd/118793357">GND</wwwlink>.</eintrag>
+<subsection id="priestley-letters" type="neuzeit">
+<lemma>Priestley, <titel>Letters to a philosophical unbeliever</titel></lemma>
+<eintrag>
+<titel>Letters to a philosophical unbeliever</titel> (2 Bde., Bath 1780). Digitalisat: <wwwlink address="https://books.google.de/books?id=YBFeAAAAcAAJ">Google Books, Bd. 1</wwwlink>, <wwwlink address="https://books.google.de/books?id=EqLZWHy5il4C">Bd. 2</wwwlink>.<line type="break" />
+Übers.: <titel>Joseph Priestley’s Briefe an einen philosophischen Zweifler in Beziehung auf Hume’s Gespräche, das System der Natur, und ähnliche Schriften</titel> (Leipzig: Weygand 1782). Digitalisat: <wwwlink address="http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&#x26;pid=4978624">FAU Erlangen-Nürnberg: H00/PHS-I 25</wwwlink>. 
 </eintrag>
 </subsection>
 </kommentar>
