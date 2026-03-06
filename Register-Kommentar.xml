@@ -8757,6 +8757,11 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </subsection>
 </kommentar>
 
+<kommentar id="heinrich-I" type="neuzeit">
+<lemma>Heinrich I</lemma>
+<eintrag>Um 876 bis 936. Genannt der Vogler. König des Ostfrankenreichs und Vater Ottos I.</eintrag>
+</kommentar>
+
 <kommentar id="heinrich-prinz" type="neuzeit">
 <lemma>Prinz Heinrich von Preußen</lemma>
 <eintrag>1726–1802 (Friedrich Heinrich Ludwig von Preußen), Bruder <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://d-nb.info/gnd/11870978X">GND</wwwlink>.</eintrag>
@@ -9801,7 +9806,7 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 
 <kommentar id="hogendorp" type="neuzeit">
 <lemma>Dirk van Hogendorp</lemma>
-<eintrag>1761–1822. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>. 1781 als brandenburg-preußischer Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er auch <link ref="kant" linktext="false">Kant</link> kennenlernte. Bei einem Duell trägt er einen Schuss in den Unterleib davon und nimmt, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Hamann hält ihn zunächst für einen schlechten Charakter, sein moralischer Groll mildert sich aber. Eine Zeitlang kampiert er in einem Zelt in Hamanns Garten. Hogendorp geht bald nach Holland und segelt am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain-Lieutenant nach Südafrika, lebt eine gewisse Zeit in Kapstadt als Beamter der Ostindischen Kompanie. Später holländischer Kriegsminister und General unter Napoleon; siehe <wwwlink address="https://d-nb.info/gnd/116953144">GND</wwwlink>.</eintrag>
+<eintrag>1761–1822. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp-g" linktext="true" />. 1781 als brandenburg-preußischer Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er auch <link ref="kant" linktext="false">Kant</link> kennenlernte. Bei einem Duell trägt er einen Schuss in den Unterleib davon und nimmt, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Hamann hält ihn zunächst für einen schlechten Charakter, sein moralischer Groll mildert sich aber. Eine Zeitlang kampiert er in einem Zelt in Hamanns Garten. Hogendorp kehrt schließlich in die Niederlande zurück und segelt am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain-Lieutenant nach Kapstadt, wo er als Beamter der VOC lebt. Später holländischer Kriegsminister und General unter Napoleon; siehe <wwwlink address="https://d-nb.info/gnd/116953144">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hogendorp-cw" type="neuzeit">
@@ -9812,13 +9817,13 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 
 <kommentar id="hogendorp-g" type="neuzeit">
 <lemma>Gijsbert Karel van Hogendorp</lemma>
-<eintrag>1762–1834. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp" linktext="true" />. 1778 als Fähnrich der brandenburg-preußischen Armee im bayrischen Erbfolgekrieg, danach in Berlin, 1781 als Leutnant im Königsberger Grenadier-Bataillon; später bedeutender niederländischer Jurist und Staatsmann, siehe <wwwlink address="https://d-nb.info/gnd/118774727">GND</wwwlink>.
+<eintrag>1762–1834. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp" linktext="true" />. 1778 als Fähnrich der brandenburg-preußischen Armee im bayrischen Erbfolgekrieg, danach in Berlin, wo er Latein und Griechisch von <link ref="biester" linktext="false">Biester</link> lernte; im Sommer 1781 bei seinem Bruder in Königsberg, wo er Hamann kennenlernt, der ihn sehr sympathisch findet; er kehrt aber bald in die Niederlande zurück; später bedeutender niederländischer Jurist und orangistischer Staatsmann, siehe <wwwlink address="https://d-nb.info/gnd/118774727">GND</wwwlink>.
 </eintrag>
 </kommentar>
 
 <kommentar id="hogendorp-w" type="neuzeit">
 <lemma>Willem van Hogendorp</lemma>
-<eintrag>1735–1784. Vater von <link ref="hogendorp" linktext="true" />. Jurist, Mitglied des Rotterdamer Magistrats und ab 1773 in Diensten der Niederländischen Ostindien-Kompanie; Mitgründer der Königlich Batavische Gesellschaft der Künste und Wissenschaften und Autor aufklärerischer Erzählungen; siehe <wwwlink address="https://nl.wikipedia.org/wiki/Willem_van_Hogendorp_(1735-1784)">Niederländische Wikipedia</wwwlink>.
+<eintrag>1735–1784. Vater von <link ref="hogendorp" linktext="true" />. Jurist, Mitglied des Rotterdamer Magistrats und ab 1773 in Diensten der VOC; Mitgründer der Königlich Batavischen Gesellschaft der Künste und Wissenschaften und Autor aufklärerischer Erzählungen; siehe <wwwlink address="https://nl.wikipedia.org/wiki/Willem_van_Hogendorp_(1735-1784)">Niederländische Wikipedia</wwwlink>.
 </eintrag>
 <subsection id="hogendorp-sophronisba" type="neuzeit" sort="10">
 <lemma>Hogendorp, <titel>Sophronisba</titel></lemma>
@@ -11640,12 +11645,18 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 
 <kommentar id="kohler" type="neuzeit">
 <lemma>Johann Bernhard Köhler</lemma>
-<eintrag>1742–1802. Philologe und Orientalist, 1781–1786 Professor der griechischen und morgenländischen Sprachen in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11627669X.html#adbcontent">Siegfried, C.: Köhler, Johann Bernhard, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;444f.</wwwlink>
+<eintrag>1742–1802. Philologe und Orientalist, 1781–1786 Professor der griechischen und morgenländischen Sprachen in Königsberg (Nachfolger <link ref="diederich" linktext="false">Diederichs</link>), siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11627669X.html#adbcontent">Siegfried, C.: Köhler, Johann Bernhard, in: <titel>ADB</titel>&#x202F;16 (1882), S.&#x202F;444f.</wwwlink>
 </eintrag>
 <subsection id="kohler-phaedon" type="neuzeit" sort="10">
-<lemma>Koch, <titel>Phädon</titel></lemma>
+<lemma>Köhler, <titel>Phädon</titel></lemma>
 <eintrag>
-<titel>Phädon. Aus dem Griechischen des Plato übersetzt von Johann Bernhard Köhler</titel> (Lübeck: Donatius 1769).
+<titel>Phädon. Aus dem Griechischen des Plato übersetzt von Johann Bernhard Köhler</titel> (Lübeck: Donatius 1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11912669-7">LB Coburg: A II 10</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="kohler-phaedon" type="neuzeit" sort="20">
+<lemma>Köhler, <titel>Praetermissa ad constitvtionem δεδωκεν</titel></lemma>
+<eintrag>
+<titel>Io. Bern. Koehleri praetermissa ad constitvtionem ΔΕΔΩΚΕΝ. Accessit Index Lectionvm Per Hiemem MDCCLXXXI Habendarvm</titel> (Königsberg: Hartung 1781). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/62319">LB ULB Halle: Koenigsberg, Diss., 1740-99 (20)</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
