@@ -6365,10 +6365,16 @@ Zwischen 1759 und 1763 erschienen zahlreiche, meistens unautorisierte, Ausgaben 
 <lemma>Johann Heinrich Füßli</lemma>
 <eintrag>1741–1825. Schweizerisch-englischer Maler, Kupferstecher und Schriftsteller (engl. Henry Fuseli), siehe <wwwlink address="https://www.deutsche-biographie.de/sfz17979.html#ndbcontent">Schiff, Gert: Füßli, Heinrich, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;702–705</wwwlink>.
 </eintrag>
-<subsection id="fuessli-remarks" type="neuzeit">
+<subsection id="fuessli-remarks" type="neuzeit" sort="10">
 <lemma>Füßli, <titel>Remarks</titel></lemma>
 <eintrag>
 <titel>Remarks on the Writings and Conduct of. J. J. Rousseau</titel> (London 1767). Digitalisat: <wwwlink address="https://hdl.handle.net/2027/nyp.33433075822639">Hathi Trust</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="fuessli-waldmann" type="neuzeit" sort="20">
+<lemma>Füßli, <titel>Waldmann</titel></lemma>
+<eintrag>
+<titel>Joh. Waldmann Ritter, Burgermeister der Stadt Zürich. Ein Versuch die Sitten der Alten aus den Quellen zu erforschen</titel> (Zürich: Orell, Geßner, Füßli 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11251547-7">Stabi Augsburg: H 783</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -10943,6 +10949,12 @@ Briefe Online: <wwwlink address="https://korpora.org/kant/aa10/Inhalt10.html">AA
 <titel>Critik der reinen Vernunft</titel> (Riga: Hartknoch 1781).<line type="break" />
 Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00073694-9">BSB München: Rar. 1473</wwwlink>.<line type="break" />
 <titel>AA</titel>&#xA0;IV: Kritik der reinen Vernunft (1. Aufl. 1781), Prolegomena, Grundlegung zur Metaphysik der Sitten, Metaphysische Anfangsgründe der Naturwissenschaft, S.&#x202F;1–252.</eintrag>
+</subsection>
+<subsection id="kant-prolegomena" type="neuzeit" sort="110">
+<lemma>Kant, <titel>Prolegomena</titel></lemma>
+<eintrag>
+<titel>Prolegomena zu einer jeden künftigen Metaphysik die als Wissenschaft wird auftreten können, von Immanuel Kant</titel> (Riga: Hartknoch 1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10927045-5">BSB München: Res/Ph.sp. 427 d</wwwlink>.<line type="break" />
+<titel>AA</titel>&#xA0;IV: Kritik der reinen Vernunft (1. Aufl. 1781), Prolegomena, Grundlegung zur Metaphysik der Sitten, Metaphysische Anfangsgründe der Naturwissenschaft, S.&#x202F;253–383.</eintrag>
 </subsection>
 <subsection id="kant-grundlegung" type="neuzeit" sort="300">
 <lemma>Kant, <titel>Grundlegung zur Metaphysik der Sitten</titel></lemma>
@@ -19161,9 +19173,15 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 </subsection>
 </kommentar>
 
+<kommentar id="silhouette" type="neuzeit">
+<lemma><titel>Étienne de Silhouette</titel></lemma>
+<eintrag>1709–1767. Französischer Finanzminister 1759; bekannt für seine Sparpolitik und Sparmaßnamen, sodass der Schattenriss (als Gemälde-Ersatz) nach ihm benannt wurde.
+</eintrag>
+</kommentar>
+
 <kommentar id="simon-weib" type="neuzeit">
-<lemma>Anonym, <titel>Simon! Siehest du dies Weib?</titel></lemma>
-<eintrag>Erbauungsroman, erschienen in Halle: Hesse 1776. Vgl. das Exzerpt N&#x202F;V,328. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/42593">ULB Halle</wwwlink>.
+<lemma><titel>Simon! Siehest du dies Weib?</titel></lemma>
+<eintrag>Anonym erschienener Erbauungsroman, erschienen in Halle: Hesse 1776. Vgl. das Exzerpt N&#x202F;V,328. Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/42593">ULB Halle</wwwlink>.
 </eintrag>
 </kommentar>
 
