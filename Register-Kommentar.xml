@@ -3803,7 +3803,7 @@ Briefe Teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>
 
 <kommentar id="cless" type="neuzeit">
 <lemma>David Jonathan Cless</lemma>
-<eintrag>1731–1803. Evangelischer Theologe in Göppingen, siehe <wwwlink address="">Deutsche Biographie</wwwlink>.
+<eintrag>1731–1803. Evangelischer Theologe in Göppingen, siehe <wwwlink address="http://d-nb.info/116545542">GND</wwwlink>.
 </eintrag>
 <subsection id="cless-observationes" type="neuzeit" sort="10">
 <lemma>Cless, <titel>Observationes ad Commentationem Dni. Imanuelis Kant</titel></lemma>
@@ -8735,6 +8735,17 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </subsection>
 </kommentar>
 
+<kommentar id="hegelmaier" type="neuzeit">
+<lemma>Thomas Gottfried Hegelmaier</lemma>
+<eintrag>1730–1786. Professor der evangelischen Theologie in Tübingen, siehe <wwwlink address="https://d-nb.info/gnd/116571209">GND</wwwlink>.</eintrag>
+<subsection id="hegelmaier-prufung" type="neuzeit">
+<lemma>Heilmann, <titel>Prüfung der Freymüthigen Betrachtungen</titel></lemma>
+<eintrag>
+<titel>Die Freymüthige Betrachtungen über das Christenthum geprüft von Thomas Gottfried Hegelmaier</titel> (3 Bde., Tübingen: Heerbrandt 1780–1782). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB000076A000000000">SBB-PK Berlin: Dm 12820</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="heilmann" type="neuzeit">
 <lemma>Johann David Heilmann</lemma>
 <eintrag>1727–1764, seit 1758 Prof. für Praktische Theologie in Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116651814.html#adbcontent">Halm, Karl Ritter von: Heilmann, Johann David, in: <titel>ADB</titel>&#x202F;11 (1880), S.&#x202F;317</wwwlink>.</eintrag>
@@ -9234,7 +9245,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <subsection id="herder-briefe-theologie" type="neuzeit" sort="600">
 <lemma>Herder, <titel>Briefe, das Studium der Theologie betreffend</titel></lemma>
 <eintrag>
-<titel>Briefe, das Studium der Theologie betreffend</titel> (4 Tle. in 2 Bde., Weimar: Hoffmann 1780–1781). Digitalisat Tl.&#x202F;1 und 2 (1780): <wwwlink address="https://data.onb.ac.at/rep/1063BB3B">ÖNB Wien: *31.F.26.(Vol.1.2) ALT PRUNK</wwwlink>. Tl.&#x202F;3 und 4 (1781): <wwwlink address="https://books.google.ch/books?id=l447AAAAcAAJ">Google Books</wwwlink>. – SWS X und XI. 
+<titel>Briefe, das Studium der Theologie betreffend</titel> (4 Tle. in 2 Bde., Weimar: Hoffmann 1780–1781). Digitalisat Bd.&#x202F;1 (Tl.&#x202F;1 und 2, 1780): <wwwlink address="https://data.onb.ac.at/rep/1063BB3B">ÖNB Wien: *31.F.26.(Vol.1.2) ALT PRUNK</wwwlink>. Bd.&#x202F;2 (Tl.&#x202F;3 und 4, 1781): <wwwlink address="https://books.google.ch/books?id=l447AAAAcAAJ">Google Books</wwwlink>. – SWS X und XI. 
 </eintrag>
 </subsection>
 <subsection id="herder-kasualpredigten1780" type="neuzeit" sort="605">
@@ -9246,7 +9257,13 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <subsection id="herder-einfluss-hohe-wissenschaften" type="neuzeit" sort="610">
 <lemma>Herder, <titel>Über den Einfluß der schönen in die höhern Wissenschaften</titel></lemma>
 <eintrag>
-<titel>J. G. Herder über den Einfluß der schönen in die höhern Wissenschaften</titel>. Erstdruck in: <link ref="abhandlungen-baierische-akademie" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=149">, Bd.&#x202F;1, S.&#x202F;139–168.</wwwlink>
+<titel>J. G. Herder über den Einfluß der schönen in die höhern Wissenschaften</titel>. Erstdruck 1781 in: <link ref="abhandlungen-baierische-akademie" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=149">, Bd.&#x202F;1, S.&#x202F;139–168.</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="herder-ideen" type="neuzeit" sort="690">
+<lemma>Herder, <titel>Ideen zur Philosophie der Geschichte der Menschheit</titel></lemma>
+<eintrag>
+<titel>Ideen zur Philosophie der Geschichte der Menschheit von Johann Gottfried Herder</titel> (4 Bde., Riga, Leipzig: Hartknoch 1784–1791). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10897891-5">BSB München: Res/4 H.g.hum. 8</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="herder-adrastea" type="neuzeit" sort="700">
@@ -19962,6 +19979,11 @@ Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-
 <kommentar id="storch" type="neuzeit">
 <lemma>Licentrat Storch</lemma>
 <eintrag>Lebensdaten nicht ermittelt, Vorname mglw. Jakob. Ein Vorgänger Hamanns als <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Packhofverwalter</link> (Vorgänger von <link ref="blom-wy" linktext="true" />).</eintrag>
+</kommentar>
+
+<kommentar id="storr" type="neuzeit">
+<lemma>Gottlob Christian Storr</lemma>
+<eintrag>1746–1805. Professor der Theologie in Tübingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104285931.html#ndbcontent ">Raupp, Werner: Storr, Gottlob Christian, in: <titel>NDB</titel>&#x202F;25 (2013), S.&#x202F;447–449.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="strabon" type="neuzeit">
