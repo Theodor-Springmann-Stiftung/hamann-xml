@@ -2192,6 +2192,10 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 <subsection id="bodmer-vater" type="neuzeit" sort="110">
 <lemma>Bodmer, <titel>Der Vater der Gläubigen</titel></lemma>
 <eintrag><titel>Der Vater der Gläubigen. Ein religioses Drama.</titel> (Zürich: Orell, Geßner, Füeßlin 1778). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000BDF900000000">Stabi Berlin: Yp 5318-64</wwwlink>.</eintrag>
+</subsection> 
+<subsection id="bodmer-momus" type="neuzeit" sort="120">
+<lemma>Bodmer, <titel>Der gerechte Momus</titel></lemma>
+<eintrag><titel>Der gerechte Momus</titel> (Frankfurt, Leipzig 1780). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-59582">ZB Zürich: 3.351,13</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -2890,7 +2894,7 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
  <subsection id="buffon-vogel" type="neuzeit"  sort="40">
 <lemma>Buffon, <titel>Naturgeschichte der Vögel</titel></lemma>
 <eintrag>
-<titel>Herrn von Büffons Naturgeschichte der Vögel</titel> […] (35 Bde., Berlin: Pauli 1772–1809). Erweiterte Übersetzung der Vogel-Bände 16–24 der <link ref="buffon" subref="histoirenaturelle" linktext="true" />. – Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10309535-5">BSB München: Zool. 635</wwwlink>.
+<titel>Herrn von Büffons Naturgeschichte der Vögel</titel> […] (35 Bde., Berlin: Pauli 1772–1809). Erweiterte Übersetzung der Vogel-Bände 16–24 der <link ref="buffon" subref="histoirenaturelle" linktext="false"><titel>Histoire naturelle</titel></link>. – Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10309535-5">BSB München: Zool. 635</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="buffon-epoques" type="neuzeit"  sort="50">
@@ -9840,7 +9844,7 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 
 <kommentar id="hogendorp-g" type="neuzeit">
 <lemma>Gijsbert Karel van Hogendorp</lemma>
-<eintrag>1762–1834. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp" linktext="true" />. 1778 als Fähnrich der brandenburg-preußischen Armee im bayrischen Erbfolgekrieg, danach in Berlin, wo er Latein und Griechisch von <link ref="biester" linktext="false">Biester</link> lernte; im Sommer 1781 bei seinem Bruder in Königsberg, wo er Hamann kennenlernt, der ihn sehr sympathisch findet; er kehrt aber bald in die Niederlande zurück; später bedeutender niederländischer Jurist und orangistischer Staatsmann, siehe <wwwlink address="https://d-nb.info/gnd/118774727">GND</wwwlink>.
+<eintrag>1762–1834. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp" linktext="true" />. 1778 als Fähnrich der brandenburg-preußischen Armee im bayrischen Erbfolgekrieg, danach in Berlin, wo er Latein und Griechisch von <link ref="biester" linktext="false">Biester</link> lernte; im Sommer 1781 bei seinem Bruder in Königsberg, wo er auf Vermittlung <link ref="reichardt-jf" linktext="false">Reichardts</link> Hamann kennenlernt, der ihn sehr sympathisch findet; er kehrt aber bald in die Niederlande zurück; später bedeutender niederländischer Jurist und orangistischer Staatsmann, siehe <wwwlink address="https://d-nb.info/gnd/118774727">GND</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -16997,6 +17001,12 @@ Tom. I–VI, Amst. 725“]. Digitalisat der Ausgabe 1732: <wwwlink address="http
 <lemma>Ramler (Hg.), <titel>Lieder der Deutschen</titel></lemma>
 <eintrag>
 <titel>Lieder der Deutschen</titel> (Berlin: Winter 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116685-8">BSB München: P.o.germ. 1119 x</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="ramler-sinngedichte" type="neuzeit">
+<lemma>Ramler (Hg.), <titel>Sammlung der besten Sinngedichte der deutschen Poeten</titel></lemma>
+<eintrag>
+<titel>Sammlung der besten Sinngedichte der deutschen Poeten. Erster Theil</titel> (Riga: Hartknoch 1766). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/79156">ULB Halle: AB 35194 (1)</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
