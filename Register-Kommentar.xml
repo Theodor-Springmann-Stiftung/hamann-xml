@@ -14398,6 +14398,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1781 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1781). 
 </eintrag>
 </subsection>
+<subsection id="messkatalog-ostern1782" type="neuzeit" sort="120">
+<lemma>Messkatalog für Ostern 1782</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1782 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1782). 
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="meurer" type="neuzeit">
@@ -21597,7 +21603,8 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
  <subsection id="voss-odyssee" type="neuzeit" sort="40">
 <lemma>Voß, <titel>Odyssee</titel></lemma>
 <eintrag>
-<titel>Homers Odüßee übersezt von Johann Heinrich Voß</titel> (Hamburg: Selbstverlag 1781). Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/voss_oduessee_1781">BBAW: B4/DWB</wwwlink>.
+<titel>Homers Odüßee übersezt von Johann Heinrich Voß</titel> (Hamburg: auf Kosten des Verfassers 1781 [vmtl. in der Dessauer Buchhandlung der Gelehrten]). Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/voss_oduessee_1781">BBAW: B4/DWB</wwwlink>.<line type="break" />
+Das genaue Datum der Auslieferung ist nicht bekannt, vmtl. wurde die Publikation aber rückdatiert; im Messverkehr war das Buch jedenfalls erst ab Ostern 1782 vorhanden, vgl. <link ref="messkatalog" subref="messkatalog-ostern1782" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN82220794X:00000047/full/full/0/default.jpg">S.&#x202F;297</wwwlink> (und als Kontrast den <link ref="messkatalog" subref="messkatalog-michaelis1781" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207931:00000049/full/full/0/default.jpg">S.&#x202F;49</wwwlink>, wo das Buch noch nicht aufgeführt ist).
 </eintrag>
 </subsection>
 </kommentar>

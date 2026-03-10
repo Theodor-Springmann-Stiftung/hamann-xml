@@ -306,6 +306,8 @@
 				nachname="Patz" komm="patz-v" />
 			<personDef index="133" name="Vmtl. Carl Christoph Stockmar"
 				vorname="Carl Christoph" nachname="Stockmar" komm="stockmar" />
+			<personDef index="134" name="Johann Gottlieb Kreutzfeld"
+				vorname="Johann Gottlieb" nachname="Kreutzfeld" komm="kreutzfeld" />
 		</personDefs>
 		<handDefs>
 			<handDef index="-1" name="Unbekannt" />

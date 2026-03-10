@@ -12123,10 +12123,11 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="630">
-        <date value="Königsberg, 23. August 1781" />
-        <sort value="1781-08-23" />
+        <date value="Königsberg, 21. und 23. August 1781" />
+        <sort value="1781-08-23" from="1781-08-21" to="1781-08-23"/>
         <location ref="2" />
         <senders>
+          <sender ref="134" />
           <sender ref="1" />
         </senders>
         <receivers>
