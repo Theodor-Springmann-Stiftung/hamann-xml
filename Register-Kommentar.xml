@@ -15176,9 +15176,10 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <lemma>Barthélemy François Joseph Mouffle d’Angerville</lemma>
 <eintrag>1728–1795. Französischer Schriftsteller, siehe <wwwlink address="https://fr.wikipedia.org/wiki/Barth%C3%A9l%C3%A9my_Mouffle_d%27Angerville">Französische Wikipedia</wwwlink>.</eintrag>
 <subsection id="mouffle-vie-privee" type="neuzeit" sort="10">
-<lemma>Mouffle, <titel>Vie privée de Louis XV</titel></lemma>
+<lemma>d’Angerville, <titel>Vie privée de Louis XV</titel></lemma>
 <eintrag>
-<titel>Vie privée de Louis XV, ou principaux événements, particularités et anecdotes de son règne</titel> (4&#x202F;Bde., London 1781). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10419764%2FBV001622853">BSB München: Gall.g. 1003</wwwlink>
+<titel>Vie privée de Louis XV, ou principaux événements, particularités et anecdotes de son règne</titel> (4&#x202F;Bde., London 1781). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10419764%2FBV001622853">BSB München: Gall.g. 1003</wwwlink><line type="break" />
+Übers.: <titel>Geschichte des Privatlebens Ludwigs XV Königs von Frankreich, oder genaue aus geheimen Nachrichten geschöpfte Erzählung aller merkwürdigen während seiner Regierung, und an seinem Hofe vorgefallenen Begebenheiten.</titel> Aus dem Französischen übersetzt [von <link ref="trost" linktext="true" />] (5 Bde., Berlin, Stettin: Nicolai 1781–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10418588-3">BSB München: Gall.g. 670 t</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -15520,11 +15521,21 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 <eintrag>
 <titel>Ein paar Worte betreffend Johann Bunkel und Christoph Martin Wieland von Friedrich Nicolai</titel> (Berlin, Stettin 1779). Digitalisat: <wwwlink address="https://books.google.de/books?id=BOA6AAAAcAAJ"></wwwlink></eintrag>
 </subsection>
+<subsection id="nicolai-reise" type="neuzeit" sort="100">
+<lemma>Nicolai, <titel>Beschreibung einer Reise durch Deutschland und die Schweiz</titel></lemma>
+<eintrag>
+<titel>Beschreibung einer Reise durch Deutschland und die Schweiz, im Jahre 1781. Nebst Bemerkungen über Gelehrsamkeit, Industrie, Religion und Sitten, von Friedrich Nicolai</titel> (12 Bde., Berlin, Stettin 1783–1796). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11748063%2FBV041632418">BSB München: Hbh/Bh 446</wwwlink></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="nicolai-g" type="neuzeit">
 <lemma>Georg Nicolai</lemma>
 <eintrag>1714–1793. Ab 1750–1793 Pfarrer am Dom zu Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="nicolai-sf" type="neuzeit">
+<lemma>Samuel Friedrich Nicolai</lemma>
+<eintrag>1762–1790. Sohn von <link ref="nicolai" linktext="true" />, begleitete ihn auf der Reise 1781 nach Wien; siehe <wwwlink address="http://d-nb.info/gnd/123157691X">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="nicolay" type="neuzeit">
@@ -20901,6 +20912,11 @@ Im Anhang sind sieben Gedichte von <link ref="lindner-jg" linktext="true" /> abg
 </subsection>
 </kommentar>
 
+<kommentar id="trost" type="neuzeit">
+<lemma>Carl Friedrich Trost</lemma>
+<eintrag>1740–1807. Bekannter <link ref="nicolai" linktext="false">Nicolais</link> und Übersetzer von <link ref="mouffle" subref="mouffle-vie-privee" linktext="true" />, siehe <wwwlink address="https://d-nb.info/gnd/10064337X">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="trublet" type="neuzeit">
 <lemma>Abbé Nicolas-Charles-Josèphe Trublet</lemma>
 <eintrag>1697–1770. Frz. Schriftsteller. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;46, 1826), S.&#x202F;599–601.</eintrag>
@@ -22036,8 +22052,9 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 </kommentar>
 
 <kommentar id="wezel" type="neuzeit">
-<lemma>Johann Karl Wezel</lemma>
-<eintrag>1747–1819. Romancier und Lustspieldichter; 1764 Studium in Leipzig, in den 1770ern auf Reisen, zugleich Kritiker der <link ref="weise" subref="weise-bibliothek" linktext="false"><titel>Neuen Bibliothek der schönen Wissenschaften und der freyen Künste</titel></link>; 1782 Theaterdichter in Wien, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118632108.html#adbcontent">Anemüller, Ernst: Wezel, Johann Karl, in: <titel>ADB</titel>&#x202F;42 (1897), S.&#x202F;292f</wwwlink>.
+<lemma>Johann Carl Wezel</lemma>
+<eintrag>1747–1819. Romancier und Lustspieldichter; 1764 Studium in Leipzig, in den 1770ern auf Reisen, zugleich Kritiker der <link ref="weise" subref="weise-bibliothek" linktext="false"><titel>Neuen Bibliothek der schönen Wissenschaften und der freyen Künste</titel></link>; 1782 Theaterdichter in Wien, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118632108.html#adbcontent">Anemüller, Ernst: Wezel, Johann Karl, in: <titel>ADB</titel>&#x202F;42 (1897), S.&#x202F;292f</wwwlink>.<line type="break" />
+Zu den Werken siehe Johann Carl Wezel: <titel>Gesamtausgabe in acht Bänden. Jenaer Ausgabe.</titel> Hg. von Klaus Manger u.a. (Heidelberg: Mattes 1997–2025).
 </eintrag>
 <subsection id="wezel-knaut" type="neuzeit" sort="10">
 <lemma>Wezel, <titel>Tobias Knaut</titel></lemma>
@@ -22054,7 +22071,13 @@ Ausgabe hg.&#xA0;v. <link ref="bodmer" linktext="true" />: <titel>N. Wernikens, 
 <eintrag>
 <titel>Wilhelmine Arend, oder die Gefahren der Empfindsamkeit</titel> (2 Bde., Dessau, Leipzig: Buchhandlung der Gelehrten, Schwickert 1782–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10925956-9">BSB München: Res/P.o.germ. 2041 s</wwwlink>.</eintrag>
 </subsection>
-<subsection id="wezel-sprache" type="neuzeit" sort="40">
+<subsection id="wezel-privatanstalt" type="neuzeit" sort="40">
+<lemma>Wezel, <titel>Vorschlag zu einer Privatanstalt</titel></lemma>
+<eintrag>
+<titel>Vorschlag zu einer Privatanstalt für den Unterricht und die Erziehung junger Leute von 12 bis 18 Jahren</titel> (Leipzig: Dyck 1780). Ein Digitalisat der Schrift ist nicht erhalten, vgl. JA, Bd.&#x202F;7 und die Ankündigung der Privatanstalt in <link ref="boie" subref="boie-museum" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10614678?page=300%2C301">März 1780, S.&#x202F;291–296.</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="wezel-sprache" type="neuzeit" sort="50">
 <lemma>Wezel, <titel>Ueber Sprache, Wissenschaften und Geschmack der Teutschen</titel></lemma>
 <eintrag>
 <titel>Ueber Sprache, Wissenschaften und Geschmack der Teutschen</titel> (Leipzig: Dyck 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584399-3">BSB München: L.germ. 252</wwwlink>.</eintrag>
