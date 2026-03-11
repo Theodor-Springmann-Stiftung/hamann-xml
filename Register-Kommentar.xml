@@ -1763,7 +1763,7 @@ Es wurde wohl auch eine französische Version für <link ref="friedrich-II" link
 
 <kommentar id="bernoulli-j-iii" type="neuzeit">
 <lemma>Johann III Bernoulli</lemma>
-<eintrag>1744–1807. Mathematiker und Geograph, seit 1764 Mitglied der Berliner Akademie und königlich-preußischer Astronom in Berlin; im Freundeskreis von <link ref="friedrich-II" linktext="true" />. Reiste 1779 durch Königsberg und berichtete darüber im 3. Band seiner <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel>. Sohn von <link ref="bernoulli-j-ii" linktext="true" />.
+<eintrag>1744–1807. Mathematiker und Geograph, seit 1764 Mitglied der Berliner Akademie und königlich-preußischer Astronom in Berlin; im Freundeskreis von <link ref="friedrich-II" linktext="true" />. Reiste 1779 durch Königsberg und berichtete darüber im 3. Band seiner <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel>, zu Hamann vgl. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10466343?page=82%2C83">S.&#x202F;76</wwwlink>; Sohn von <link ref="bernoulli-j-ii" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116170654.html#ndbcontent">Spiess, Otto: Bernoulli, Johann (III), in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;131</wwwlink>.
 </eintrag>
 <subsection id="bernoulli-reisen" type="neuzeit" sort="10">
 <lemma>Bernoulli, <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel></lemma>
@@ -21623,7 +21623,12 @@ Das genaue Datum der Auslieferung ist nicht bekannt, vmtl. wurde die Publikation
 <eintrag>1724–1795. Verleger in Berlin, u.a. von <link ref="lessing" linktext="true" /> und <link ref="herder" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd140135723.html#adbcontent">, in: <titel>ADB</titel></wwwlink>.</eintrag>
 </kommentar>
 
-<kommentar id="voss-wfl" type="neuzeit">
+<kommentar id="voss-mce" type="neuzeit">
+<lemma>Marie Christine Ernestine Voß</lemma>
+<eintrag>1756–1834. Geb. Boie (Schwester von <link ref="boie" linktext="true" />), Ehefrau von <link ref="voss" linktext="true" /> (sie heirateten am 15.7.1777); siehe <wwwlink address="https://www.deutsche-biographie.de/sfz239.html#ndbcontent">Stemper, Dagny: Voß, Maria Christiana Ernestine, geborene Boie, in: <titel>NDB</titel>&#x202F;27 (2020), S.&#x202F;124f</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="voss-wf" type="neuzeit">
 <lemma>Wilhelm Ferdinand Voß</lemma>
 <eintrag>1781–1840. Sohn von <link ref="voss" linktext="true" />, später Arzt in Eutin.</eintrag>
 </kommentar>
