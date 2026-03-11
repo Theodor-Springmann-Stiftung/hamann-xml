@@ -16392,7 +16392,11 @@ nicht ermittelt: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</
 <lemma>Plat. <titel>Euthyphr.</titel></lemma>
 <eintrag>Euthyphron, griech. Εὐθύφρων</eintrag>
 </subsection>
-<subsection id="plat-alkibiades" type="neuzeit" sort="100">
+<subsection id="plat-tim" type="neuzeit" sort="110">
+<lemma>Plat. <titel>Tim.</titel></lemma>
+<eintrag>Timaios, griech. Τίµαιος</eintrag>
+</subsection>
+<subsection id="plat-alkibiades" type="neuzeit" sort="110">
 <lemma><titel>Platos lehrreiches Gespräch</titel></lemma>
 <eintrag><titel>Platos lehrreiches Gespräch von der menschlichen Natur</titel> (Glogau, Leipzig: Günther 1755), der Übers. wird nicht genannt; enthält den ersten pseudo-platonischen Alkibiades-Dialog. Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id367035855">SLUB Dresden: Lit.Graec.B.5113</wwwlink>.<line type="break" />
 Es handelt sich wahrscheinlich um eine Übers. aus <titel>Les oeuvres de Platon traduites en françois, avec des remarques. Et la vie de ce philosophe, avec l’exposition des principaux dogmes de sa philosophie. T. 1: Discours sur Platon. La vie de Platon. La doctrine de Platon. Du stile et de la methode de Platon. Des interpretes et des commentateurs de Platon. Le premier Alcibiade. Le second Alcibiade. Le Theagés. L’Eutyphron. Abregé du premier Alcibiade. Abregé du second Alcibiade. Abregé de l’Eutyphron</titel> (Paris 1701) von André Dacier, oder aus der englischen Übers. davon: <titel>The works of Plato abridg’d with an account of his life, philosophy, morals, and politicks. Together with a translation of his choicest dialogues, Viz. 1. Of Human Nature. 2. Of Prayer. 3. Of Wisdom. 4. Of Holiness. 5. What one ought to do. 6. Immortality of the soul. 7. Valour. 8. Philosophy. In two volumes. Illustrated with notes. By M. Dacier. Translated from the French, by several hands</titel> (London 1720; 1.&#x202F;Aufl., London 1701).<line type="break" />
@@ -21597,14 +21601,14 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
  <subsection id="voss-musenalmanach1781" type="neuzeit" sort="30">
 <lemma>Voß (Hg.), <titel>(Hamburger) Musenalmanach 1781</titel></lemma>
 <eintrag>
-<titel>Musen-Almanach oder poetische Blumenlese für das Jahr 1781.</titel> Herausgegeben von Voß und Gockingk (Hamburg: Bohn 1780). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/108CBDED">ÖNB Wien</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/104/">Musenalm</wwwlink>.
+<titel>Musen-Almanach oder poetische Blumenlese für das Jahr 1781.</titel> Herausgegeben von Voß und Gockingk (Hamburg: Bohn 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10122320-0">BSB München: P.o.germ. 1531-1781</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/113/">Musenalm</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="voss-odyssee" type="neuzeit" sort="40">
 <lemma>Voß, <titel>Odyssee</titel></lemma>
 <eintrag>
 <titel>Homers Odüßee übersezt von Johann Heinrich Voß</titel> (Hamburg: auf Kosten des Verfassers 1781 [vmtl. in der Dessauer Buchhandlung der Gelehrten]). Digitalisat: <wwwlink address="https://www.deutschestextarchiv.de/book/show/voss_oduessee_1781">BBAW: B4/DWB</wwwlink>.<line type="break" />
-Das genaue Datum der Auslieferung ist nicht bekannt, vmtl. wurde die Publikation aber rückdatiert; im Messverkehr war das Buch jedenfalls erst ab Ostern 1782 vorhanden, vgl. <link ref="messkatalog" subref="messkatalog-ostern1782" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN82220794X:00000047/full/full/0/default.jpg">S.&#x202F;297</wwwlink> (und als Kontrast den <link ref="messkatalog" subref="messkatalog-michaelis1781" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207931:00000049/full/full/0/default.jpg">S.&#x202F;49</wwwlink>, wo das Buch noch nicht aufgeführt ist).
+Das genaue Datum der Auslieferung ist nicht bekannt, vmtl. wurde die Publikation aber rückdatiert; im Messverkehr war das Buch jedenfalls erst ab Ostern 1782 vorhanden, vgl. <link ref="messkatalog" subref="messkatalog-ostern1782" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN82220794X:00000047/full/full/0/default.jpg">S.&#x202F;297</wwwlink>, außerdem den <link ref="messkatalog" subref="messkatalog-michaelis1781" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207931:00000049/full/full/0/default.jpg">S.&#x202F;49</wwwlink>, wo das Buch noch nicht aufgeführt ist). – Erste Rezensionen wurden indessen bereits vor der Ostermesse publiziert, vgl. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617984?page=92%2C93">Teutscher Merkur, April 1782, S.&#x202F;S.&#x202F;87</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
