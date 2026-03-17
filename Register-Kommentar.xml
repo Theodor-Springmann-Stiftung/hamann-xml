@@ -13237,7 +13237,7 @@ Dt. Übers. zitiert nach: Wilhelm Ehlers (Übers.), <titel>Lucanus, Marcus Annae
 
 <kommentar id="ludke" type="neuzeit">
 <lemma>Friedrich Germanus Lüdke</lemma>
-<eintrag>1730–1792. Evang. Theologe. <wwwlink address="https://www.deutsche-biographie.de/pnd101878141.html#adbcontent">Wagenmann, Julius August: Lüdke, Friedrich Germanus, in: <titel>ADB</titel>&#x202F;19 (1884), S.&#x202F;383f</wwwlink>.
+<eintrag>1730–1792. Theologe, Prediger an der Nicolaikirche in Berlin, Redaktionsgehilfe <link ref="nicolai" linktext="false">Nicolais</link>; siehe  <wwwlink address="https://www.deutsche-biographie.de/pnd101878141.html#adbcontent">Wagenmann, Julius August: Lüdke, Friedrich Germanus, in: <titel>ADB</titel>&#x202F;19 (1884), S.&#x202F;383f</wwwlink>.
 </eintrag>
 <subsection id="ludke-briefe" type="neuzeit">
 <lemma>Lüdke, <titel>Briefe an Freunde</titel></lemma>
@@ -13656,7 +13656,7 @@ In der <link ref="hamann" subref="h-dangeuil" linktext="false"><titel>Beylage zu
 <kommentar id="mare-n" type="neuzeit">
 <lemma>Nicolas de La Mare</lemma>
 <eintrag>1639–1723. Geb. Schmeling; Opernsängerin, 1776 in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118921088.html#adbcontent">Kürschner, Joseph: Mara, Elisabeth, in: <titel>ADB</titel>&#x202F;20 (1884), S.&#x202F;286–289.</wwwlink></eintrag>
-<subsection id="mare-weisen" type="neuzeit">
+<subsection id="mare-police" type="neuzeit">
 <lemma>de La Mare, <titel>Traité de la police</titel></lemma>
 <eintrag>
 <titel>Traité de la police, Où l’on trouvera l’histoire de son établissement, les fonctions et les prérogatives de ses magistrats ; toutes les loix et tous les réglemens qui la concernent: On y a joint une description historique et topographique de Paris, et huit Plans gravez, qui representent son ancien Etat, et ses divers accroissemens, avec un recueil de tous les statuts et réglemens des six corps des marchands, et de toutes les Communautez des Arts et Métiers</titel> (4 Bde., Amsterdam 1729; zuerst 1705–1710) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;96/12: „Traité de la Police par M. de la Mare, Tom. I—IV. Amst. 729“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10635521-9">2 Pol.civ. 4</wwwlink>.</eintrag>
@@ -14337,7 +14337,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <lemma>Mercier, <titel>Du théatre</titel></lemma>
 <eintrag>
 <titel>Du théatre, ou nouvel essai sur l’art dramatique</titel> (Amsterdam 1773). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/10ADFF31">ÖNB Wien: 221821-B ALT MAG</wwwlink>.<line type="break" />
-Übers.: <titel>Neuer Versuch über die Schauspielkunst. Aus dem Französischen [von Heinrich Leopold Wagner]. Mit einem Anhang aus <link ref="goethe" linktext="false">Goethes</link> Brieftasche</titel> (Leipzig: Schwickert 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574318-1">BSB München: L.eleg.g. 265 hc</wwwlink>.</eintrag>
+Übers.: <titel>Neuer Versuch über die Schauspielkunst. Aus dem Französischen [von <link ref="wagner-hl" linktext="true" />]. Mit einem Anhang aus <link ref="goethe" linktext="false">Goethes</link> Brieftasche</titel> (Leipzig: Schwickert 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574318-1">BSB München: L.eleg.g. 265 hc</wwwlink>.</eintrag>
+</subsection>
+<subsection id="mercier-tableau" type="neuzeit">
+<lemma>Mercier, <titel>Tableau de Paris</titel></lemma>
+<eintrag>
+<titel>Tableau de Paris</titel> (2 Bde., Hamburg: Virchaux, Neuchatel: Fauche 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10427070-0">BSB München: Gall.sp. 121 bo</wwwlink>. Neuausgabe in 12 Bde., Amsterdam 1782–1788: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10427076-2">BSB München: Gall.sp. 121 bq</wwwlink>. Vgl. N&#x202F;V,360–364.</eintrag>
 </subsection>
 </kommentar>
 
@@ -16376,6 +16381,17 @@ Eine deutsche Übersetzung erschien in Leipzig in 9&#xA0;Bde. 1747/67: <titel>Ga
 <kommentar id="pittius" type="neuzeit">
 <lemma>Johann Reichard Pittius</lemma>
 <eintrag>Seit 1742 Prediger an der deutschen lutherischen Marienkirche im Savoy-Palast in London; dort besuchte Hamann dessen Predigten 1758 (vgl. <link ref="hamann" subref="gedanken-lebenslauf" linktext="true" />, LS S.&#x202F;349).</eintrag>
+</kommentar>
+
+<kommentar id="planck" type="neuzeit">
+<lemma>Gottlieb Jakob Planck</lemma>
+<eintrag>1751–1833. Theologe und Kirchenhistoriker, 1781–1784 Prediger und außerordentlicher Professor an der hohen Karlsschule in Stuttgart; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz97005.html#adbcontent">Wagenmann, Julius August: Planck, Gottlieb Jakob, in: <titel>ADB</titel>&#x202F;26 (1888), S.&#x202F;224–227</wwwlink>.
+<subsection id="planck-geschichte" type="neuzeit" sort="10">
+<lemma>Planck, <titel>Geschichte des protestantischen Lehrbegriffs</titel></lemma>
+<eintrag>
+<titel>Geschichte der Entstehung, der Veränderungen und der Bildung unsers protestantischen Lehrbegriffs vom Anfang der Reformation bis zu der Einführung der Koncordienformel</titel> (6 Bde., Leipzig: Crusius 1781–1789). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10449135-8">BSB München: H.ref. 165</wwwlink>.
+</eintrag>
+</subsection></eintrag>
 </kommentar>
 
 <kommentar id="platon" type="neuzeit">
