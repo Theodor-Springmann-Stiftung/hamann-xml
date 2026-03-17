@@ -12315,9 +12315,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="640">
-        <date value="Datum unbekannt" />
-        <sort value="1782-01-05" notBefore="1780-11-02" cert="low" />
-        <location ref="-1" />
+        <date value="Königsberg, 18. Dezember 1779" />
+        <sort value="1779-12-18" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
