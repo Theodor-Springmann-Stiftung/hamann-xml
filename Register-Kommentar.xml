@@ -858,7 +858,7 @@ Dt. Übers. zitiert nach: Kurt Flasch u. Burkhard Mojsisch (Übers.), <titel>Aug
 </kommentar>
 
 <kommentar id="auerswald" type="neuzeit">
-<lemma>Hans Jakob v. Auerswald</lemma>
+<lemma>Hans Jakob von Auerswald</lemma>
 <eintrag>1757–1833. In den 1770er Jahren verschiedentlich beim Militär und an der Albertina inskribiert, 1776 Offizier, Freimaurer (vgl. <intlink letter="575" page="154" line="6" linktext="true" />); später Kammerpräsident und Kanzler, Erbherr auf dem Gut Faulen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz1549.html#adbcontent">Usinger: Auerswald, Hans Jakob von, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;645–650</wwwlink> und <wwwlink address="https://books.google.de/books?id=UJdAAAAAcAAJ">Voigt: <titel>Beiträge zur Geschichte der Familie von Auerswald aus urkundlichen Quellen</titel> (Königsberg 1824), S.&#x202F;61</wwwlink>.</eintrag>
 </kommentar>
 
@@ -3728,7 +3728,7 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 
 <kommentar id="claudian" type="neuzeit">
 <lemma>Claudius Claudianus</lemma>
-<eintrag>Gest. um 404 n.&#x202F;Chr. Spätantiker römischer Dichter und Beamter. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;15/238: „Cl. Claudianus ex ed. Heinsii, Lugd. 624“</eintrag>
+<eintrag>Um 370 bis nach 404 n.&#x202F;Chr. Spätantiker römischer Dichter und Beamter. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;15/238: „Cl. Claudianus ex ed. Heinsii, Lugd. 624“</eintrag>
 </kommentar>
 
 <kommentar id="claudius" type="neuzeit">
@@ -18042,7 +18042,7 @@ S
 
 <kommentar id="saint-martin" type="neuzeit">
 <lemma>Louis Claude de Saint-Martin</lemma>
-<eintrag>1743–1803. Französischer Freimauer und Mystiker, siehe <wwwlink address="https://d-nb.info/gnd/118604929">GND</wwwlink>.</eintrag>
+<eintrag>1743–1803. Französischer Freimaurer und Mystiker, siehe <wwwlink address="https://d-nb.info/gnd/118604929">GND</wwwlink>.</eintrag>
 <subsection id="saint-martin-verite" type="neuzeit">
 <lemma>Saint-Martin, <titel>Des Erreurs et de la Vérité</titel></lemma>
 <eintrag>
@@ -22375,6 +22375,12 @@ Digitalisat 19. Stück (1762): <wwwlink address="https://kpbc.umk.pl/dlibra/publ
 </eintrag>
 </subsection>
 </kommentar>
+
+<kommentar id="willermoz" type="neuzeit">
+<lemma>Jean-Baptiste Willermoz</lemma>
+<eintrag>1730–1824. Seidenhändler in Lyon, Freimaurer und Martinist, siehe <wwwlink address="https://d-nb.info/gnd/129541605">GND</wwwlink>.
+</eintrag>
+</kommentar> 
 
 <kommentar id="willis" type="neuzeit">
 <lemma>Thomas Willis</lemma>
