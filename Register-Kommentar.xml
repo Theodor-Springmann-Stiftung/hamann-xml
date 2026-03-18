@@ -115,9 +115,9 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 <eintrag>1672–1719. Engl. Dichter, Politiker und Journalist. <wwwlink address="https://en.wikisource.org/wiki/Addison,_Joseph_(DNB00)">Leslie Stephen: Addison, Joseph, in: Dictionary of National Biography (1885–1900, V.&#xA0;1)</wwwlink>.
 </eintrag>
 <subsection id="addison-spectator" type="neuzeit" sort="10">
-<lemma>Addison (Hg.), <titel>The Spectator</titel></lemma>
+<lemma>Addison (Hg. mit <link ref="steele" linktext="false">Steele</link>), <titel>The Spectator</titel></lemma>
 <eintrag>
-<titel>The Spectator</titel>, hg.&#xA0;v. Addison zus. mit Richard Steele, zuerst tägl. 1711/12 (London); ohne R. Steele 1714 wiederbelebt und erschien dann sechs Monate lang dreimal die Woche. Diese neue Serie umfasste acht Bände. [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;174/711: „The Spectator, Vol.&#xA0;I–VIII. Lond. 726“ = Ausg. in 8&#xA0;Bde. 1726].</eintrag>
+<titel>The Spectator</titel>, hg.&#xA0;v. Addison zus. mit <link ref="steele" linktext="true" />, zuerst tägl. 1711/12 (London) als Nachfolgeblatt von <link ref="steele" subref="steele-tatler" linktext="true" />; ohne R. Steele 1714 wiederbelebt und erschien dann sechs Monate lang dreimal die Woche. Diese neue Serie umfasste acht Bände. [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;174/711: „The Spectator, Vol.&#xA0;I–VIII. Lond. 726“ = Ausg. in 8&#xA0;Bde. 1726].</eintrag>
 </subsection>
 <subsection id="addison-medals" type="neuzeit" sort="20">
 <lemma>Addison, <titel>Ancient Medals</titel></lemma>
@@ -5661,6 +5661,12 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 <eintrag>
 <titel>Theodoriti et Evagrii Historia Ecclesiastica item excerpta ex historia ecclesiastica Philostorgii et Theodori lectoris</titel>, graece et latine (Mainz: Beckensteinii, 1679) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/12 und 3/50: „Theodoreti &amp; Euagrii Hist. Eccl. gr. &amp; lat. ex ed. ej. ib. 679“]. Digitalisat: <wwwlink address="https://digital.ub.uni-paderborn.de/retro/urn/urn:nbn:de:hbz:466:1-14162">UB Paderborn</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="euchel" type="neuzeit">
+<lemma>Isaac Abraham Euchel</lemma>
+<eintrag>1754–1804. Hauslehrer der Familie Meyer Friedlaender, Schüler <link ref="kant" linktext="false">Kants</link>, sollte auf dessen Vorschlag Dozent für Hebräisch werden,  Übersetzer für Hebräisch und Jiddisch in Königsberg, begründete 1782 mit <link ref="friedlaender-d" linktext="true" /> die Gesellschaft zur Förderung der hebräischen Literaturfreunde und ihr Organ <titel>Ha-Meassef</titel> (Der Sammler); siehe <wwwlink address="https://d-nb.info/gnd/122891961">GND</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="euripides" type="neuzeit">
@@ -14463,6 +14469,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 </kommentar>
 
+<kommentar id="metastasio" type="neuzeit">
+<lemma>Pietro Metastasio</lemma>
+<eintrag>1698–1782, eigentlich Pietro Antonio Domenico Bonaventura Trapassi. Italienischer Dichter und Librettist, siehe <wwwlink address="https://d-nb.info/gnd/118733141">GND</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="meurer" type="neuzeit">
 <lemma>Christian Meurer</lemma>
 <eintrag>1558–1616. Prof. der Mathematik und Arzt in Leipzig. Herausgeber von <link ref="psellos" subref="psellos-arithmetik" linktext="true" /> und <link ref="archimedes" subref="archimedes-circuli" linktext="true" />.
@@ -19805,6 +19817,11 @@ In mehreren überarbeiteten Auflagen erschienen, für Hamanns <link ref="hamann"
 <titel>The Christian Hero:</titel> An Argument Proving That No Principles But Those Of Religion Are Sufficient To Make A Great Man (London 1701). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 45/435 „Reich. Steele’s christl. Held, Basel 771.“] <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10922971?page=,1">Digitalisat: BSB München: Res/Mor. 980 b</wwwlink>
 Digitalisat (Übersetzung): <wwwlink address="https://digi.ub.uni-heidelberg.de/diglit/steele1767">UB Heidelberg: Waldberg 2301 RES</wwwlink>
 </eintrag>
+</subsection>
+<subsection id="steele-tatler" type="neuzeit" sort="5">
+<lemma>Steele, <titel>The Tatler</titel></lemma>
+<eintrag>
+<titel>The Tatler</titel> (London 1709–1712, drei Mal wöchentlich) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;174/712: „The Tatler, Vol. I. III. IV. ib. 764. Der erste Theil dieses ganz neu in Engl. gebundenen Werks ist mir beym Bau meines Hauses von Händen gekommen. Ich erbiete mich dem gegenwärtigen Besitzer sehr gern das, was er selbst  afür bezahlt, oder auch 1/4 dessen, was mir das ganze Buch selbst gekostet, zu ersetzen, ohne mich weiter um seinen modum noch titulum acquisitioniszu bekümmern“].</eintrag>
 </subsection>
 </kommentar>
 
