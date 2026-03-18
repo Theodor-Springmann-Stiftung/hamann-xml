@@ -10212,7 +10212,7 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 <eintrag>
 <titel>Dialogues concerning natural Religion.</titel> By David Hume, Esq. The second edition (London 1779). – Postume Ausgabe, hrsg. von David Humes Neffen; eine first edition erschien in geringer Auflage und kleiner Type ebenfalls London 1779, vgl. <wwwlink address="https://archive.org/details/in.ernet.dli.2015.507028/page/n11">Kemp: Humes Dialogues Concerning Natural Religion (London 1947)</wwwlink>; Hume schrieb die <titel>Dialogues</titel> 1751–1755, revidierte die Schrift aber noch im Todesjahr 1776; wegen des heiklen Themas beschloss er, sie erst postum zu veröffentlichen. – Digitalisat der 2nd edition: <wwwlink address="https://books.google.de/books?id=E7dbAAAAQAAJ">Google Books</wwwlink>.<line type="break" />
 Übers.: <titel>Gespräche über natürliche Religion von David Hume.</titel> Nach der zwoten Englischen Ausgabe [übersetzt von <link ref="schreiter-cg" linktext="true" />]. Nebst einem Gespräch über den Atheismus von Ernst Platner (Leipzig: <link ref="weygand" linktext="false">Weygand</link> 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">SSB Augsburg: Phil 1716</wwwlink>.
-<line type="break" />Hamann setzte ebenfalls zu einer Übersetzung an (vgl. <link ref="hamann" subref="hamann-dialogues" linktext="true" />), legte das Projekt aber ad acta, nachdem er im Messkatalog für Michaelis 1780 die Ankündigung einer Konkurrenz-Übersetzung las, vgl. <intlink letter="596" page="206" line="5" linktext="true" />. Hamann meinte die Weygand-Übersetzung für das Folgeprojekt über Hume und Kant zu benötigen; die Publikation verschob sich aber immer weiter, vgl. <intlink letter="614" page="269" line="15" linktext="true" />. Zwischendurch schwankte die Ausrichtung des Weygand-Projekts bzw. die Auswahl der Begleitpublikation wohl immer wieder (vgl. <intlink letter="627" page="317" line="15" linktext="true" />), letztlich kam auch die Publikation zu Michaelis 1781 wohl nur auf Initiative Hartknochs hin zustande, der für Hamann im Sinne einer baldigen Publikation intervenierte, vgl. <intlink letter="632" page="333" line="8" linktext="true" />.
+<line type="break" />Hamann setzte ebenfalls zu einer Übersetzung an (vgl. <link ref="hamann" subref="hamann-dialogues" linktext="true" />), legte das Projekt aber ad acta, nachdem er im Messkatalog für Michaelis 1780 die Ankündigung einer Konkurrenz-Übersetzung las, vgl. <intlink letter="596" page="206" line="5" linktext="true" />. Hamann meinte die Weygand-Übersetzung für das Folgeprojekt über Hume und Kant zu benötigen; die Publikation verschob sich aber immer weiter, vgl. <intlink letter="614" page="269" line="15" linktext="true" />. Zwischendurch schwankte die Ausrichtung des Weygand-Projekts bzw. die Auswahl der Begleitpublikation wohl immer wieder (vgl. <intlink letter="627" page="317" line="15" linktext="true" />), letztlich kam auch die Publikation zu Michaelis 1781 wohl nur auf Intervention Hartknochs hin zustande, der für Hamann im Sinne einer baldigen Publikation Druck machte, vgl. <intlink letter="632" page="333" line="8" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
@@ -15280,6 +15280,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <eintrag>1723–1807. Manufakturhändler in Königsberg, väterlicher Freund von <link ref="kraus" linktext="true" />, vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Voigt: <titel>Das Leben des Professor Christian Jacob Kraus </titel>, S.&#x202F;59</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="mueller-eej" type="neuzeit">
+<lemma>Ernst Egid Müller</lemma>
+<eintrag>Gest. 1783. Sohn von <link ref="mueller-ee" linktext="true" /> und <link ref="mueller-ms" linktext="true" />; Jugendfreund von <link ref="hamann-jm" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="mueller-ge" type="neuzeit">
 <lemma>Gottfried Ephraim Müller</lemma>
 <eintrag>1712–1752. Pfarrer, Philologe, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100216536.html">Deutsche Biographie</wwwlink>.</eintrag>
@@ -15327,11 +15332,6 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <kommentar id="mueller-ms" type="neuzeit">
 <lemma>M. S. Müller</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Beb. Baranowski, Ehefrau von <link ref="mueller-ee" linktext="true" /> und Pflegemutter von <link ref="kraus" linktext="true" />.</eintrag>
-</kommentar>
-
-<kommentar id="mueller-nn" type="neuzeit">
-<lemma>N.N. Müller</lemma>
-<eintrag>Gest. 1783. Sohn von <link ref="mueller-ee" linktext="true" /> und <link ref="mueller-ms" linktext="true" />.</eintrag>
 </kommentar>
 
  <kommentar id="mun" type="neuzeit">
