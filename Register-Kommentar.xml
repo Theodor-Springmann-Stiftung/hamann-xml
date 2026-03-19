@@ -1847,7 +1847,7 @@ ULB Halle: Dd 5485 (2)</wwwlink>
 
 <kommentar id="bibliotheca-fratrum-polonorum" type="neuzeit">
 <lemma>Bibliotheca Fratrum Polonorum quos Unitarios vocant</lemma>
-<eintrag>Sammlung socinianischer Schriften, hg.&#xA0;v. Frans Kuyper, Daniel Bakkamude und Andrzej Wiszowaty, 8 Bde und ein Ergänzungsband, Irenopoli [Amsterdam] 1656–169. Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11203283%2FBV004757324">Stabi Augsburg: 2 Th Ex 38</wwwlink>.</eintrag>
+<eintrag>Sammlung socinianischer Schriften, hg.&#xA0;v. Frans Kuyper, Daniel Bakkamude und Andrzej Wiszowaty, 8 Bde und ein Ergänzungsband, Irenopoli [Amsterdam] 1656–169. Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11203283%2FBV004757324">Stabi Augsburg: 2 Th Ex 38</wwwlink>. – Bd.&#x202F;1 und 2 enthalten die opera omnia von <link ref="sozzini" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="bibl-wiss-kuenste" type="neuzeit">
@@ -5973,12 +5973,22 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <eintrag>1733–1802. Kurländischer Gutsbesitzer, u.a. der Schlösser Hasenpoth und Kalwen, außerdem Landrat des Kreises Pilten; vgl. die Widmung des bei <link ref="hinz" linktext="false">Hinz</link> erschienenen Bandes <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10577006?page=3"><titel>Gedichte von einem pohlnischen Juden</titel></wwwlink> (Mitau, Leipzig 1772). Hinz war vmtl. 1780 Hofmeister bei einem seiner Söhne; Friedrich Ewald war wohl der Vetter von <link ref="fircks-cl" linktext="true" />.</eintrag>
 </kommentar>
 
-<kommentar id="fischer-cg" type="neuzeit">
-<lemma>Carl Gottlob Fischer</lemma>
-<eintrag>1745–1801. Pfarrer am Königlichen großen Hospital in Königsberg; arbeitete 1780 mit Goldbeck an der Beschaffung von Informationen für die <link ref="goldbeck" subref="goldbeck-nachrichten" linktext="false"><titel>Litterarischen Nachrichten von Preußen</titel></link>.</eintrag>
+<kommentar id="fischer-ad" type="neuzeit">
+<lemma>Anna Dorothea Fischer</lemma>
+<eintrag>Geb. Golitz, Mutter von <link ref="fischer-cg" linktext="true" />, Witwe des Pastors an der Altstädtischen Kirche in Thorn, Christoph Karl Fischer.</eintrag>
 </kommentar>
 
-<kommentar id="fischer-nn" type="neuzeit">
+<kommentar id="fischer-cg" type="neuzeit">
+<lemma>Carl Gottlob Fischer</lemma>
+<eintrag>1745–1801. Pfarrer am Königlichen großen Hospital in Königsberg; arbeitete 1780 mit Goldbeck an der Beschaffung von Informationen für die <link ref="goldbeck" subref="goldbeck-nachrichten" linktext="false"><titel>Litterarischen Nachrichten von Preußen</titel></link>; guter Bekannter Hamanns ab den späten 1770er Jahren und Studienfreund Herders.</eintrag>
+</kommentar>
+
+<kommentar id="fischer-nns" type="neuzeit">
+<lemma>N.N. Fischer</lemma>
+<eintrag>Geb. 1780. Sohn von <link ref="fischer-cg" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="fischer-nnf" type="neuzeit">
 <lemma>N.N. Fischer</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Geb. Damus. Frau von <link ref="fischer-cg" linktext="true" />.</eintrag>
 </kommentar>
@@ -10333,7 +10343,12 @@ Von dem Nutzen der Reisen in fremde Länder, insofern dieselben als ein Stück E
 <subsection id="irwing-untersuchungen" type="neuzeit" sort="10">
 <lemma>Irwing, <titel>Erfahrungen und Untersuchungen über den Menschen</titel></lemma>
 <eintrag>
-<titel>Erfahrungen und Untersuchungen über den Menschen. Von Karl Franz von Irwing</titel> (4 Bde., Berlin: Realschulbuchhandlung 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11916862-6">Stabi Coburg: B III 11</wwwlink>.</eintrag>
+<titel>Erfahrungen und Untersuchungen über den Menschen. Von Karl Franz von Irwing</titel> (4 Bde., Berlin: Realschulbuchhandlung 1777–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11916862-6">Stabi Coburg: B III 11</wwwlink>.</eintrag>
+</subsection>
+<subsection id="irwing-versuch" type="neuzeit" sort="20">
+<lemma>Irwing, <titel>Versuch über den Ursprung der Erkenntniß der Wahrheit und der Wissenschaften</titel></lemma>
+<eintrag>
+<titel>Versuch über den Ursprung der Erkenntniß der Wahrheit und der Wissenschaften. Ein Beytrag zur philosophischen Geschichte der Menschheit</titel> (Berlin: Voß 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10435290-1">BSB München: H.g.hum. 123 n</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15437,6 +15452,11 @@ N
 </subsection>
 </kommentar>
 
+<kommentar id="naugardt" type="neuzeit">
+<lemma>N. N. Naugardt</lemma>
+<eintrag>Gest. 1781, Sekretär auf der <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Königsberger Akzise</link>, Schwager von <link ref="fischer-cg" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="neander" type="neuzeit">
 <lemma>Christoph Friedrich Neander</lemma>
 <eintrag>1724–1802. Evang. Theologe, Pastor und Superintendent in Kurland (Grenzhof).</eintrag>
@@ -19414,6 +19434,12 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 <lemma>Soave, <titel>Ricerche intorno all’istituzione naturale d’una società e d’una lingua</titel></lemma>
 <eintrag><titel>Ricerche intorno all’istituzione naturale d’una società e d’una lingua, e all’influenza dell’una e dell’altra sulle umane cognizioni</titel> (Mailand 1772). Digitalisat: <wwwlink address="https://books.google.de/books?id=hcAdJtLYSYoC">Google Books</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+ 
+<kommentar id="sozzini" type="neuzeit">
+<lemma>Fausto Sozzini</lemma>
+<eintrag>1539–1604. Italienischer Theologe und Jurist; er und sein Onkel Lelio Sozzini (1525–1562) sind mit ihrer unitarischen Lehre die Leitfiguren des antitrinitarisch und religiös tolerant ausgerichteten Sozianismus, der sich zunächst in Polen, dann in Europa und später in Amerika ausbreitete, zugleich als Häresie bekämpft wurde; siehe <wwwlink address="https://d-nb.info/gnd/118615815">GND</wwwlink>. Zu seinen Werken vgl. <link ref="bibliotheca-fratrum-polonorum" linktext="true" />.
+</eintrag>
 </kommentar>
 
 <kommentar id="sokrates" type="neuzeit">
