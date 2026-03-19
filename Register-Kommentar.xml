@@ -559,6 +559,10 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 </subsection>
 </kommentar>
 
+<kommentar id="arrest-parlement" type="neuzeit">
+<lemma>Arrest de la cour de Parlement</lemma>
+<eintrag><titel>Arrest de la cour de Parlement, qui condamne un Imprimé […]</titel>. Der gedruckte Parlamentsarrest gegen die 3. Auflage von <link ref="raynal" subref="raynal-indes" linktext="true" />, datiert auf den 25. Mai 1781. Die Broschüre zirkulierte in Europa und trug erheblich zur Steigerung des Interesses an dem Werk bei. Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/btv1b8619506t">Bibliothèque nationale de France</wwwlink>.</eintrag>
+</kommentar>
 
 <kommentar id="apuleius" type="neuzeit">
 <lemma>Lucius Apuleius</lemma>
@@ -17210,7 +17214,7 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 
 <kommentar id="raynal" type="neuzeit">
 <lemma>Guillaume-Thomas-François Raynal</lemma>
-<eintrag>1713–1796. Frz. Schriftsteller, verließ 1747 den Jesuitenorden, Hauslehrer, literarischer Korrespondent, Redakteur des Mercure de France; nach der Publikation der 3.&#x202F;Aufl. der <link ref="raynal" subref="raynal-indes" linktext="false"><titel>Histoire des deux Indes</titel></link> und dem Verbot des Buchs 1781–88 im Exil in Brandenburg-Preußen und der Schweiz.</eintrag>
+<eintrag>1713–1796. Frz. Schriftsteller, verließ 1747 den Jesuitenorden, Hauslehrer, literarischer Korrespondent, Redakteur des Mercure de France; nach der Publikation der 3.&#x202F;Aufl. der <link ref="raynal" subref="raynal-indes" linktext="false"><titel>Histoire des deux Indes</titel></link> und dem Verbot des Buchs 1781–1788 im Exil in Brandenburg-Preußen und der Schweiz.</eintrag>
 <subsection id="raynal-anecdoten" type="neuzeit">
 <lemma>Raynal, <titel>Anecdoten zur Lebensgeschichte</titel></lemma>
 <eintrag>
@@ -17221,7 +17225,7 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <subsection id="raynal-indes" type="neuzeit">
 <lemma>Raynal, <titel>Histoire des deux Indes</titel></lemma>
 <eintrag>
-<titel>Histoire philosophique et politique Des Établissements &#x26; du Commerce des Européens dans les deux Indes</titel>. 1. Aufl. (6 Bde., Amsterdam 1770) anonym publiziert, ebenso die 2.&#x202F;Aufl. Den Haag 1774; 3.&#x202F;Aufl. (10. Bde., Genf 1780) unter Raynals Namen; sie löste eine breite Debatte über Ausbeutung in den Kolonien aus und wurde 1781 verboten und verbrannt; neben Raynal auch <link ref="diderot" linktext="true" /> zugeschrieben, der besonders für die 3.&#x202F;Aufl intensiv mitarbeitete. Digitalisat 1. Aufl.: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k109687x.r">Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, G-28071.</wwwlink> Digitalisat 3. Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10434330-4">BSB München: H.e.e. 94 b</wwwlink>.<line type="break" />
+<titel>Histoire philosophique et politique des Établissements &#x26; du Commerce des Européens dans les deux Indes</titel>. 1. Aufl. (6 Bde., Amsterdam 1770) anonym publiziert, ebenso die 2.&#x202F;Aufl. Den Haag 1774; 3.&#x202F;Aufl. (10. Bde., Genf 1780) unter Raynals Namen; sie löste eine breite Debatte über Ausbeutung in den Kolonien aus und wurde im Mai 1781 verboten und verbrannt, vgl. <link ref="arrest-parlement" linktext="true" />; neben Raynal auch <link ref="diderot" linktext="true" /> zugeschrieben, der besonders für die 3.&#x202F;Aufl intensiv mitarbeitete. Digitalisat 1. Aufl.: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k109687x.r">Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, G-28071.</wwwlink> Digitalisat 3. Aufl.: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10434330-4">BSB München: H.e.e. 94 b</wwwlink>.<line type="break" />
 Übers. (1780): <titel>Europens Handel mit beyden Indien. Ein Auszug aus Raynals Geschichte, von M. Franz Christian Lorenz Karsten</titel> (Rostock, Leipzig: Koppe 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10291186-6">BSB München: Merc. 115</wwwlink>.
 </eintrag>
 </subsection>
