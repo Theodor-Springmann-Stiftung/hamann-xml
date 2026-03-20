@@ -7123,6 +7123,11 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <eintrag>
 <titel>Götter, Helden und Wieland. Eine Farce. Satirisches Gespräch</titel> (anonym, Leipzig 1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;141/192: „Götter, Helden und Wieland, 774.“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10109251-9">BSB München: P.o.germ. 490 b</wwwlink>.</eintrag>
 </subsection>
+<subsection id="goethe-tasso" type="neuzeit" sort="100">
+<lemma>Goethe, <titel>Torquato Tasso</titel></lemma>
+<eintrag>
+<titel>Torquato Tasso. Ein Schauspiel. Von Goethe. Aechte Ausgabe</titel> (Leipzig: Goeschen 1790). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-200905191823">BBAW, (Goethe 795)</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="goethe-c" type="neuzeit">
@@ -8778,8 +8783,15 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <kommentar id="hegelmaier" type="neuzeit">
 <lemma>Thomas Gottfried Hegelmaier</lemma>
 <eintrag>1730–1786. Professor der evangelischen Theologie in Tübingen, siehe <wwwlink address="https://d-nb.info/gnd/116571209">GND</wwwlink>.</eintrag>
-<subsection id="hegelmaier-prufung" type="neuzeit">
-<lemma>Heilmann, <titel>Prüfung der Freymüthigen Betrachtungen</titel></lemma>
+
+<subsection id="hegelmaier-selbstgesprache" type="neuzeit" sort="10">
+<lemma>Hegelmaier, <titel>Ich bin ein Christ</titel></lemma>
+<eintrag>
+<titel>Ich bin ein Christ. Selbstgespräche von dem Verfasser der Zeichen dieser Zeit nach ihren Aussichten für die Religion</titel> (3 Bde., Frankfurt: Mezler 1775–1776).
+</eintrag>
+</subsection>
+<subsection id="hegelmaier-prufung" type="neuzeit" sort="20">
+<lemma>Hegelmaier, <titel>Prüfung der Freymüthigen Betrachtungen</titel></lemma>
 <eintrag>
 <titel>Die Freymüthige Betrachtungen über das Christenthum geprüft von Thomas Gottfried Hegelmaier</titel> (3 Bde., Tübingen: Heerbrandt 1780–1782). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB000076A000000000">SBB-PK Berlin: Dm 12820</wwwlink>.
 </eintrag>
@@ -8909,6 +8921,11 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <lemma>Hemsterhuis, <titel>Simon ou des facultés de l’âme</titel></lemma>
 <eintrag>
 <titel>Simon ou des facultés de l’âme</titel>; zirkulierte 1781 als Manuskript. Digitalisat eines Drucks 1792: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:bsz:16-diglit-63128">Oeuvres philosophiques, Bd.&#x202F;2, S.&#x202F;187–277</wwwlink>.</eintrag>
+</subsection>
+<subsection id="hemsterhuis-schriften" type="neuzeit" sort="50">
+<lemma>Hemsterhuis, <titel>Vermischte Philosophische Schriften</titel></lemma>
+<eintrag>
+<titel>Vermischte Philosophische Schriften des H. Hemsterhuis. Aus dem Französischen Übersetzt</titel> [von <wwwlink address="http://d-nb.info/gnd/119025701">Christian Friedrich von Blanckenburg</wwwlink>] (2 Bde., Leipzig: Weidmann und Reich 1782, Bd.&#x202F;3 1797). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046014-6">BSB München: Ph.u. 241 c</wwwlink>.</eintrag>
 </subsection> 
 </kommentar>
 
