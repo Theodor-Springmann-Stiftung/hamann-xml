@@ -5295,6 +5295,16 @@ E
 </subsection>
 </kommentar>
 
+<kommentar id="eifert" type="neuzeit">
+<lemma>Karl Traugott Eifert</lemma>
+<eintrag>1740–1787. Theologe, Diakon am Merseburger Dom, sieh <wwwlink address="http://d-nb.info/gnd/122605381">GND</wwwlink></eintrag>
+<subsection id="eifert-untersuchung" type="neuzeit">
+<lemma>Eifert, <titel>Untersuchung</titel></lemma>
+<eintrag>
+<titel>Carl Traugott Eiferts Untersuchung der Frage: Könte nicht die mosaische Erzählung vom Sündenfalle buchstäblich wahr, und durch den Fall ein erbliches Verderben auf die Menschen gekommen seyn?</titel> (Halle: Hemmerde 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10410522-0">BSB München: Exeg. 292 d</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="eliberitanus" type="neuzeit">
 <lemma>Johannes Eliberitanus</lemma>
 <eintrag>Auch: Leo Africanus; eigentlich: Al Hassan Ibn Mohammed Al Wezza Al Fasi. 1490–1540. Arabischer Afrikaforscher.</eintrag>
@@ -11758,6 +11768,12 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <lemma>Köhler, <titel>Praetermissa ad constitvtionem δεδωκεν</titel></lemma>
 <eintrag>
 <titel>Io. Bern. Koehleri praetermissa ad constitvtionem ΔΕΔΩΚΕΝ. Accessit Index Lectionvm Per Hiemem MDCCLXXXI Habendarvm</titel> (Königsberg: Hartung 1781). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/62319">LB ULB Halle: Koenigsberg, Diss., 1740-99 (20)</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="kohler-ecclesiastae" type="neuzeit" sort="20">
+<lemma>Köhler, <titel>Observationes criticae ad ecclesiastae caput ultimum</titel></lemma>
+<eintrag>
+<titel>Observationes criticae ad ecclesiastae caput ultimum. Scripsit Io. Bernhardus Koehler</titel> (Königsberg: Hartung 1782, 2. Aufl.). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN683145258">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
