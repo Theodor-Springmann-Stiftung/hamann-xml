@@ -12040,7 +12040,7 @@ L
 
 <kommentar id="lactanz" type="neuzeit">
 <lemma>Lactanz</lemma>
-<eintrag>Lucius Caecilius Firmianus, Lactantius. Um 250–um 320.</eintrag>
+<eintrag>Lucius Caecilius Firmianus, Lactantius. Um 250 bis um 320 n.&#x202F;Chr.</eintrag>
 <subsection id="lactanz-opera" type="neuzeit" sort="10">
 <lemma>Lactanz, <titel>Opera</titel></lemma>
 <eintrag><titel>Lucii Coelii Lactantii Firmiani Opera Omnia quae extant, accedunt Carmina vulgò asscripta Lactantia, cum selectio variorum commentariis; Opera et Partis Servatii Gallaei</titel> (Leyden 1660) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;7/99: „Lactantii Opera ex. ed. Gallaei, Lugd. 660“].</eintrag>
@@ -15559,12 +15559,12 @@ N
 
 <kommentar id="neumann-d" type="neuzeit">
 <lemma>David Neumann</lemma>
-<eintrag>1734–1807. Preuß. Generalmajor. Hofmeister der beiden Söhne von <link ref="korff-fa" linktext="true" />.</eintrag>
+<eintrag>1734–1807. Preußischer Generalmajor. Hofmeister der beiden Söhne von <link ref="korff-fa" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="neumann-j" type="neuzeit">
 <lemma>Johann Christoph Neumann</lemma>
-<eintrag>1763 bis nach 1788. Neffe von <link ref="herder" linktext="true" /> (einziger Sohn von Herders Schwester Anna Luise, verh. Neumann, gest. 1767). Er wurde im April/Mai 1775 durch <link ref="hartknoch" linktext="false">Hartknoch</link> von <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> über Königsberg nach Bückeburg zu Herder gebracht; ab Juni 1782 in Riga, 1783 Angestellter eines Handelskontor, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
+<eintrag>1763 bis nach 1788. Neffe von <link ref="herder" linktext="true" /> (einziger Sohn von Herders Schwester Anna Luise, verh. Neumann, gest. 1767). Er wurde im April/Mai 1775 durch <link ref="hartknoch" linktext="false">Hartknoch</link> von <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink> über Königsberg nach Bückeburg zu Herder gebracht; ab Juni 1782 in Riga, 1783 Angestellter eines Handelskontors, 1788 Kanzleikopist beim Kreisgericht in Riga.</eintrag>
 </kommentar>
 
 <kommentar id="neumann-jd" type="neuzeit">
@@ -20492,14 +20492,18 @@ Torquato Tasso: <titel>Aminta.</titel> Uraufführung 1573, Druck 1580.<line type
 <lemma>Terenz</lemma>
 <eintrag>Publius Terentius Afer. 195/184–159/158 v.&#x202F;Chr.<line type="break" />
 <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;4/62: „P. Terentii Comoediae ex ed. Lindenbergii, Franc. 623“. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11060681-1">SB Regensburg: 999/4Class.92</wwwlink>.</eintrag>
-<subsection id="terenz-andria" type="neuzeit">
+<subsection id="terenz-andria" type="neuzeit" sort="10">
 <lemma>Ter. <titel>Andr.</titel></lemma>
-<eintrag>Das Mädchen von Andros, griech. Άνδρία (Andria).</eintrag>
+<eintrag>Andria, dt. Das Mädchen von Andros.</eintrag>
 </subsection>
-<subsection id="terenz-heaut" type="neuzeit">
+<subsection id="terenz-heaut" type="neuzeit" sort="20">
 <lemma>Ter. <titel>Heaut.</titel></lemma>
-<eintrag>Der Selbstquäler, griech. Ἑαυτὸν τιμωρούμενος (Heautontimoroumenos).<line type="break" />
+<eintrag>Heautontimoroumenos, dt. Der Selbstquäler.<line type="break" />
 Zit. nach: Karl Lietzmann (Hg.), <titel>Publius Terentius Afer (Terenz), Heautontimorumenos</titel> (2&#xA0;Bde., Münster 1974/75).</eintrag>
+</subsection>
+<subsection id="terenz-phormio" type="neuzeit" sort="30">
+<lemma>Ter. <titel>Phorm.</titel></lemma>
+<eintrag>Phormio.</eintrag>
 </subsection>
 </kommentar>
 
