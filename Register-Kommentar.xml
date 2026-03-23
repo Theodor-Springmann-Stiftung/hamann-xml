@@ -5233,6 +5233,12 @@ E
 <titel>Sittenlehre der Vernunft. Zum Gebrauch seiner Vorlesungen von Johann August Eberhard</titel> (Berlin: Nicolai 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040367-3">BSB München: Ph.pr. 380</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="eberhard-vorbereitung" type="neuzeit" sort="50">
+<lemma>Eberhard, <titel>Vorbereitung zur natürlichen Theologie</titel></lemma>
+<eintrag>
+<titel>Vorbereitung zur natürlichen Theologie. Zum Gebrauch akademischer Vorlesungen von Johann August Eberhard</titel> (Halle: Waisenhaus 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10043091-2">BSB München: Ph.sp. 231</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="ebert-ja" type="neuzeit">
@@ -7821,7 +7827,7 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 </kommentar>
 
 <kommentar id="haller" type="neuzeit">
-<lemma>Albrecht v. Haller</lemma>
+<lemma>Albrecht von Haller</lemma>
 <eintrag>1710–1789. Schweizer Mediziner, Arzt, Naturforscher, Dichter; siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118545140.html#adbcontent">Blösch: Haller, Albrecht von, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;420–427</wwwlink>.
 </eintrag>
 <subsection id="haller-offenbarungsbriefe" type="neuzeit" sort="10">
@@ -10258,7 +10264,7 @@ Französische Übersetzungen wurden vorgelegt von Abbé le Blanc, <titel>Discour
 <lemma>Hume, <titel>Dialogues concerning natural Religion</titel></lemma>
 <eintrag>
 <titel>Dialogues concerning natural Religion.</titel> By David Hume, Esq. The second edition (London 1779). – Postume Ausgabe, hrsg. von David Humes Neffen; eine first edition erschien in geringer Auflage und kleiner Type ebenfalls London 1779, vgl. <wwwlink address="https://archive.org/details/in.ernet.dli.2015.507028/page/n11">Kemp: Humes Dialogues Concerning Natural Religion (London 1947)</wwwlink>; Hume schrieb die <titel>Dialogues</titel> 1751–1755, revidierte die Schrift aber noch im Todesjahr 1776; wegen des heiklen Themas beschloss er, sie erst postum zu veröffentlichen. – Digitalisat der 2nd edition: <wwwlink address="https://books.google.de/books?id=E7dbAAAAQAAJ">Google Books</wwwlink>.<line type="break" />
-Übers.: <titel>Gespräche über natürliche Religion von David Hume.</titel> Nach der zwoten Englischen Ausgabe [übersetzt von <link ref="schreiter-cg" linktext="true" />]. Nebst einem Gespräch über den Atheismus von Ernst Platner (Leipzig: <link ref="weygand" linktext="false">Weygand</link> 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">SSB Augsburg: Phil 1716</wwwlink>.
+Übers.: <titel>Gespräche über natürliche Religion von David Hume.</titel> Nach der zwoten Englischen Ausgabe [übersetzt von <link ref="schreiter-cg" linktext="true" />]. Nebst einem Gespräch über den Atheismus von <link ref="platner" linktext="true" /> (Leipzig: <link ref="weygand" linktext="false">Weygand</link> 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273248-7">SSB Augsburg: Phil 1716</wwwlink>.
 <line type="break" />Hamann setzte ebenfalls zu einer Übersetzung an (vgl. <link ref="hamann" subref="hamann-dialogues" linktext="true" />), legte das Projekt aber ad acta, nachdem er im Messkatalog für Michaelis 1780 die Ankündigung einer Konkurrenz-Übersetzung las, vgl. <intlink letter="596" page="206" line="5" linktext="true" />. Hamann meinte die Weygand-Übersetzung für das Folgeprojekt über Hume und Kant zu benötigen; die Publikation verschob sich aber immer weiter, vgl. <intlink letter="614" page="269" line="15" linktext="true" />. Zwischendurch schwankte die Ausrichtung des Weygand-Projekts bzw. die Auswahl der Begleitpublikation wohl immer wieder (vgl. <intlink letter="627" page="317" line="15" linktext="true" />), letztlich kam auch die Publikation zu Michaelis 1781 wohl nur auf Intervention Hartknochs hin zustande, der für Hamann im Sinne einer baldigen Publikation Druck machte, vgl. <intlink letter="632" page="333" line="8" linktext="true" />.
 </eintrag>
 </subsection>
@@ -11490,7 +11496,9 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 <subsection id="kleuker-zendavesta-anhang" type="neuzeit" sort="90">
 <lemma>Kleuker, <titel>Anhang zum Zend-Avesta</titel></lemma>
 <eintrag>
-<titel>Anhang zum Zend-Avesta</titel> (2 Bde. in je 2 Tln., Leipzig, Riga: Hartknoch 1781–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219968-5">BSB München: 4 A.or. 3605-4</wwwlink>.
+<titel>Anhang zum Zend-Avesta</titel> (2 Bde. in je 2 Tln., Leipzig, Riga: Hartknoch 1781–1783).<line type="break" />
+1,1: <titel>verschiedene Abhandlungen von Herrn Anquetil du Perron über wichtige Gegenstände der persischen Religion, Philosophie und Geschichte</titel>.  Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219968-5">BSB München: 4 A.or. 3605-4</wwwlink>.<line type="break" />
+1,2: <titel>Herrn Fouchers historische Abhandlung über die Religion der Perser.</titel> Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219969-5">BSB München: 4 A.or. 3605-4,1,1/2</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -11977,6 +11985,12 @@ Hamann arbeitete von Anfang August 1763 bis Ende Februar 1764 als Copist bzw. �
 <kommentar id="kurella-eg" type="neuzeit">
 <lemma>Ernst Gottfried Kurella</lemma>
 <eintrag>1725–1799. Arzt in Berlin, Bruder von <link ref="kurella-jh" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="kurow" type="neuzeit">
+<lemma>Martin Jacob Kurow, </lemma>
+<eintrag>Hofpostmeister in Königsberg von 1757–1797.
 </eintrag>
 </kommentar>
 
@@ -14440,7 +14454,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 
 <kommentar id="messkatalog" type="neuzeit">
 <lemma>Messkataloge</lemma>
-<eintrag>Messkataloge der Oster- bzw. Frühjahrsbuchmesse und der Herbstbuchmesse in Leipzig. Am wichtigsten war die Frühjahrsbuchmesse, die offiziell am Sonntag Jubilate (3. Sonntag nach Ostern) eröffnet und acht Tage später ausgeläutet wurde; der Messbetrieb lief aber in der Regel bereits eine Woche vor Jubilate an und dauerte eine Woche länger (insgesamt 3 Wochen). Der Messkatalog zirkulierte zumeist kurz vor Eröffnung der Buchmesse und wurde von Hamann regelmäßig studiert; vgl. <wwwlink address="https://www.wallstein-open-library.de/openaccess/9783835355125-002.pdf?">Michael Pilz: <titel>„Den 21. brachte Kant den Messkatalog.“ Zur Praxeologie und Geschichte eines literarischen Informationsmediums im 18. Jahrhundert.</titel></wwwlink> – Digitalisate ab 1770: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN525606394">SUB Göttingen</wwwlink>. Jahrgänge davor über <wwwlink address="http://www.olmsonline.de/">Olms Online</wwwlink>.</eintrag>
+<eintrag>Messkataloge der Oster- bzw. Frühjahrsbuchmesse und der Herbstbuchmesse in Leipzig. Am wichtigsten war die Frühjahrsbuchmesse, die offiziell am Sonntag Jubilate (3. Sonntag nach Ostern) eröffnet und acht Tage später ausgeläutet wurde; der Messbetrieb lief aber in der Regel bereits eine Woche vor Jubilate an und dauerte eine Woche länger (insgesamt 3 Wochen). Der Messkatalog zirkulierte zumeist kurz vor Eröffnung der Buchmesse und wurde von Hamann regelmäßig studiert; vgl. <wwwlink address="https://www.wallstein-open-library.de/openaccess/9783835355125-002.pdf?">Michael Pilz: <titel>„Den 21. brachte Kant den Messkatalog.“ Zur Praxeologie und Geschichte eines literarischen Informationsmediums im 18. Jahrhundert.</titel></wwwlink> Digitalisate 1760–1769: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10501273%2FBV011734487">BSB München: 4 Cat. 61-1760/69</wwwlink>. – Digitalisate ab 1770: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN525606394">SUB Göttingen</wwwlink>. </eintrag>
 <subsection id="messkatalog-ostern1761" type="neuzeit" sort="10">
 <lemma>Messkatalog für Ostern 1761</lemma>
 <eintrag>
@@ -16172,21 +16186,31 @@ Wiss. Ausg.: <titel>Pausanias: Reisen in Griechenland</titel>, auf Grund der kom
 <kommentar id="penzel" type="neuzeit">
 <lemma>Abraham Jakob Penzel</lemma>
 <eintrag>1749–1819. Klassischer Philologe, Abenteurer und zeitweiliger Freund Hamanns. Wuchst in Anhalt-Dessau auf, studierte in Leipzig, Halle und Würzburg, 1775–1778 Musketier des Regimentes Alt-Stutterheim in Königsberg, Übersetzer von <link ref="strabon" subref="strabon-erdbeschreibung" linktext="true" />, 1776/77 Factotum der Kanterschen Buchhandlung (vgl. <intlink letter="470" page="259" line="28" linktext="true" />), Privatdozent für alte Geschichte; desertierte 1778 angesichts des Bayerischen Erbfolgekries, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz94560.html#adbcontent">Hoche, Richard: Penzel, Abraham Jakob, in: <titel>ADB</titel>&#x202F; 25 (1887), S.&#x202F;363f.</wwwlink>, <link ref="gaj-b-1986" linktext="false">Gajek: Zwei unbekannte Briefe Johann Georg Hamanns</link>, S.&#x202F;34–45 und <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>.</eintrag>
-<subsection id="penzel-gedichte" type="neuzeit">
+<subsection id="penzel-gedichte" type="neuzeit" sort="10">
 <lemma>Penzel, <titel>Sieben kleine Gedichte</titel></lemma>
 <eintrag>
 <titel>Sieben kleine Gedichte, der Venus Erycina, dem Schmerz und der Freude gesungen</titel> (Berlin: Mylius 1769). <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN886168511">SUB Göttingen: 8 P GERM IV, 1140</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="penzel-musketier" type="neuzeit">
+<subsection id="penzel-musketier" type="neuzeit" sort="20">
 <lemma>Penzel, <titel>Der Musketier</titel></lemma>
 <eintrag>
 Autobiographisches Theaterstück, das Penzel im Winter 1777/78 auf Anregung von Madame Schuch verfasste; die Aufführung wurde verboten, mit dem Verkauf des Stücks an <link ref="kriting" linktext="false">Kriting</link> für 100 Taler finanzierte Penzel seine Flucht aus Königsberg; Hamann las das Manuskript angeblich mit Abscheu (vgl. <intlink letter="570" page="130" line="28" linktext="true" />), es ist aber schon zu Lebzeiten Penzels verschollen, letzter Besitzer war Kriting. Zum Inhalt vgl. <link ref="koep-h-1937" linktext="false">Köppe: Abraham Jakob Penzels Lebensirrfahrten</link>, S.&#x202F;94–100, außerdem <link ref="gaj-b-1986" linktext="false">Gajek: Zwei unbekannte Briefe Johann Georg Hamanns</link>, 38–40
 </eintrag>
 </subsection>
-<subsection id="penzel-cassio-dio" type="neuzeit">
+<subsection id="penzel-cassio-dio" type="neuzeit" sort="30">
 <lemma>Penzel, <titel>Übersetzung des Cassius Dio</titel></lemma>
 <eintrag><titel>Des Titus Dio Kaßius Kokkejanus ehemaligen Bürgermeisters in Rom Jahrbücher Römischer Geschichte. Aus dem Griechischen übersetzt und mit Anmerkungen versehen von Abraham Jakob Penzel</titel> (3 Bde., Leipzig: Schwickert 1786, 1799 und 1818). Digitalisat Bd. 1 (2.&#x202F;Bd., 1.&#x202F;Abt.): <wwwlink address="https://data.onb.ac.at/rep/10B6A721">ÖNB Wien: 27.Gg.9.(Vol.1) ALT PRUNK</wwwlink>. Digitalisat Bd. 2 (2.&#x202F;Bd., 1.&#x202F;Abt.): <wwwlink address="https://data.onb.ac.at/rep/10B6A73A">ÖNB Wien: 27.Gg.9.(Vol.2,1) ALT PRUNK</wwwlink>. Digitalisat Bd. 3 (2.&#x202F;Bd., 2.&#x202F;Abt.): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10235612-5">BSB München: A.gr.b. 1245-2,2</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="penzel-katholisch" type="neuzeit" sort="40">
+<lemma>Penzel, <titel>Vernuenftiger Versuch ueber die Grvndwahrheiten des katholischen Glavbens</titel></lemma>
+<eintrag>Vernuenftiger Versuch ueber die Grvndwahrheiten des katholischen Glavbens. Eine Sammlung von Briefen, an dissidentische Freunde von Abraham Iacob Penzel<titel></titel> (Krakau 1782). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN723700915">SUB Göttingen: 8 TH POLEM 292/9:1</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="penzel-arte" type="neuzeit" sort="50">
+<lemma>Penzel, <titel>De arte historica ad Stanislavm comitem de Sołtyk</titel></lemma>
+<eintrag>De arte historica ad Stanislavm comitem de Sołtyk Abrahami Iacobi Penzelii libellvs<titel></titel> (Krakau 1782). Digitalisat: <wwwlink address="https://polona.pl/item-view/76c2f7c4-7256-4788-9268-cd33934c916d/0/04703123-af9f-4afd-942f-8322e4ca307f">Biblioteka Narodowa</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -16546,6 +16570,11 @@ Es handelt sich wahrscheinlich um eine Übers. aus <titel>Les oeuvres de Platon 
 Zu Hamanns Bezug auf diesen Text in den Briefen 1759: <link ref="ste-h-2016" linktext="false">Steffes 2016</link>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="platner" type="neuzeit">
+<lemma>Ernst Platner</lemma>
+<eintrag>1744–1818. Philosoph und Professor der Physiologie und Medizin in Leipzig; Verfasser des <titel>Gesprächs über den Atheismus</titel>, des Begleittexts zur <link ref="weygand" linktext="false">Weygand</link>-Übersetzung der <link ref="hume" subref="hume-dialogues" linktext="false"><titel>Gespräche über natürliche Religion von David Hume</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118594885.html#ndbcontent">Košenina, Alexander: Plat(t)ner, Ernst, in: <titel>NDB</titel>&#x202F; 20 (2001), S.&#x202F;513f.</wwwlink></eintrag>
 </kommentar>
     
 <kommentar id="plautus" type="neuzeit">
@@ -17246,6 +17275,17 @@ Lehrer der Kinder und Hausgenosse <link ref="lilienthal-m" linktext="false">M. L
 <lemma>Raspe, <titel>Hermin und Gunilde</titel></lemma>
 <eintrag>
 <titel>Hermin und Gunilde, eine Geschichte aus den Ritterzeiten, die sich zwischen Adelepsen und Ußlar am Schäferberge zugetragen, nebst einem Vorberichte über die Ritterzeiten, und einer Allegorie</titel> (Leipzig: Weidmanns Erben und Reich 1766). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116723-1">BSB München: P.o.germ. 1123 h</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="rathlef" type="neuzeit">
+<lemma>Ernst Lorenz Michael Rathlef</lemma>
+<eintrag>1749–1791. Amtsschreiber verschiedener hannoveranischer Bezirke und Schriftsteller, siehe <wwwlink address="https://d-nb.info/gnd/120376148">GND</wwwlink>.</eintrag>
+<subsection id="rathlef-geist" type="neuzeit" sort="40">
+<lemma>Rathlef, <titel>Vom Geiste der deutschen Geschichte</titel></lemma>
+<eintrag>
+<titel>Vom Geiste der deutschen Geschichte</titel> (Lüneburg: Lemke 1781). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN656842954">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
