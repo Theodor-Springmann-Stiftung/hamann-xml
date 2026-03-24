@@ -4904,8 +4904,14 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 </kommentar>
 
 <kommentar id="dohm-cw" type="neuzeit">
-<lemma>Christian Konrad Wilhelm von Dohm</lemma>
+<lemma>Christian Wilhelm Dohm</lemma>
 <eintrag>1751&#x202F;1820. Geheimer Archiv- und Kriegsrat in Berlin sowie Gesandter in Köln, später bekannt für seine Schriften zur Judenemanzipation, siehe <wwwlink address="https://d-nb.info/gnd/118680145">GND</wwwlink>.</eintrag>
+<subsection id="dohm-juden" type="neuzeit" sort="10">
+<lemma>Dohm, <titel>Ueber die bügerliche Verbesserung der Juden</titel></lemma>
+<eintrag>
+<titel>Ueber die bügerliche Verbesserung der Juden von Christian Wilhelm Dohm</titel> (Berlin, Stettin: Niclai 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10570349-7">BSB München: Jud. 20-1/2</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="dolgorukow-ws" type="neuzeit">
@@ -4916,7 +4922,8 @@ Dt. Übers. zitiert nach: Otto Apel u. Hans Günter Zekl (Übers.), <titel>Leben
 <kommentar id="domat" type="neuzeit">
 <lemma>Jean Domat</lemma>
 <eintrag>1625–1695. Frz. Rechtsphilosoph und Advocat.
-</eintrag><subsection id="domat-loixciviles" type="neuzeit">
+</eintrag>
+<subsection id="domat-loixciviles" type="neuzeit">
 <lemma>Domat, <titel>Les Loix Civiles</titel></lemma>
 <eintrag>
 <titel>Les Loix Civiles dans leur ordre naturel, le droit public, et legum delectus. Par M. Domat, Avocat du Roy au Siege Présidial de Clermont en Auvergne. Nouv. éd., revuë, corrigée &#x26; augmentée du Troisiéme et Quatriéme Livres du Droit Public, Qui ne se trouvent point dans les Editions précedentes</titel> (2 Bde., Paris: Gosselin 1723). Digitalisat: <wwwlink address="https://gallica.bnf.fr/ark:/12148/bpt6k3103451">Bibliothèque nationale de France, département Réserve des livres rares: F-11763</wwwlink>.
@@ -14806,9 +14813,26 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 
 <kommentar id="mohr-s" type="neuzeit">
 <lemma>Friedrich Samuel Mohr</lemma>
-<eintrag>
-Um 1760 bis 1805. Schriftsteller und Lehrer in Königsberg, siehe <wwwlink address="http://d-nb.info/gnd/1044447990">GND</wwwlink> und <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;320–322</wwwlink>
+<eintrag>Um 1760 bis 1805. Schriftsteller und Lehrer in Königsberg, siehe <wwwlink address="http://d-nb.info/gnd/1044447990">GND</wwwlink> und <wwwlink address="https://books.google.de/books?id=R8YOAAAAYAAJ">Sembritzki: <titel>Die ostpreussische Dichtung 1770–1800,</titel> in: Altpreussische Monatsschrift 45 (1908), S.&#x202F;320–322</wwwlink>
 </eintrag>
+</kommentar>
+
+<kommentar id="moehsen" type="neuzeit">
+<lemma>Johann Karl Wilhelm Moehsen</lemma>
+<eintrag>1722–1795. Leibarzt <link ref="friedrich-II" linktext="false">Friedrichs II.</link> und Historiker, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd10116033X.html#ndbcontent">Engel, Michael: Moehsen, Johann Carl Wilhelm, in: <titel>NDB</titel>&#x202F;17 (1994), S.&#x202F;623–625</wwwlink>.
+</eintrag>
+<subsection id="moehsen-bildnisse" type="neuzeit" sort="10">
+<lemma>Moehsen, <titel>Verzeichnis einer Samlung von Bildnissen, gröstentheils berühmter Aerzte</titel></lemma>
+<eintrag>
+<titel>Verzeichnis einer Samlung von Bildnissen, gröstentheils berühmter Aerzte; so wohl in Kupferstichen, schwarzer Kunst und Holzschnitten, als auch in einigen Handzeichnungen: diesem sind verschiedene Nachrichten und Anmerkungen vorgesetzt, die so wohl zur Geschichte der Arzeneygelahrtheit, als vornehmlich zur Geschichte der Künste gehören; von J. C. W. Moehsen. Mit Vignetten</titel> (Berlin: Himburg 1771). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222409-2">BSB München: 4 Art. 68</wwwlink>. 
+</eintrag>
+</subsection>
+<subsection id="moehsen-medaillen" type="neuzeit" sort="20">
+<lemma>Moehsen, <titel>Beschreibung einer Berlinischen Medaillen-Sammlung, die vorzüglich aus Gedächtnis-Münzen berühmter Aerzte bestehet</titel></lemma>
+<eintrag>
+<titel>Beschreibung einer Berlinischen Medaillen-Sammlung, die vorzüglich aus Gedächtnis-Münzen berühmter Aerzte bestehet</titel> (2 Tle., Berlin, Leipzig: Decker 1773–1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10222409-2">BSB München: 4 Art. 68</wwwlink>. 
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="moine" type="neuzeit">
