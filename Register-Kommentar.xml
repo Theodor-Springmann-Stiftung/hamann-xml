@@ -2126,7 +2126,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="bodin" type="neuzeit">
 <lemma>Jean Bodin</lemma>
-<eintrag>1530–1596. Frz. Philosoph. <wwwlink address="https://plato.stanford.edu/archives/fall2018/entries/bodin/">Turchetti, Mario: Jean Bodin, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Fall 2018 Edition)</wwwlink></eintrag>
+<eintrag>1530–1596. Französischer Philosoph. <wwwlink address="https://plato.stanford.edu/archives/fall2018/entries/bodin/">Turchetti, Mario: Jean Bodin, in: <titel>The Stanford Encyclopedia of Philosophy</titel> (Fall 2018 Edition)</wwwlink></eintrag>
 <subsection id="bodin-republica" type="neuzeit" sort="10">
 <lemma>Bodin, <titel>De Republica Ebraeorum</titel></lemma>
 <eintrag>
@@ -6633,6 +6633,11 @@ G
 </subsection>
 </kommentar>
 
+<kommentar id="garzoni" type="neuzeit">
+<lemma>Tommaso Garzoni</lemma>
+<eintrag>1549–1589. Italienischer Augustinermönch und Autor einer frühneuzeitlichen Berufs-Enzyklopädie, <titel>La piazza universale di tutte le professioni del mondo</titel> (Venedig 1585). Digitalisat einer Ausgabe Venedig 1587: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11210842-1">Stabi Augsburg: 4 Enc 124</wwwlink>. Digitalisat der deutschen Übersetzung Frankfurt 1659: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11111143-1">SB Regensburg: 999/Philos.2377</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="gaudio" type="neuzeit">
 <lemma>Vincenz Maria Gaudio</lemma>
 <eintrag>1722–1796. Lehrer der ital. Sprache in Gießen und Göttingen, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd100849008.html">Deutsche Biographie</wwwlink>.</eintrag>
@@ -10970,6 +10975,13 @@ K
 Wiss. Ausg.: <titel>Kant’s Gesammelte Schriften. Akademieausgabe</titel> (AA) (bisher 29&#xA0;Bde.; Berlin 1900ff.)<line type="break" />
 Briefe Online: <wwwlink address="https://korpora.org/kant/aa10/Inhalt10.html">AA X</wwwlink>.
 </eintrag>
+<subsection id="kant-krafte" type="neuzeit" sort="5">
+<lemma>Kant, <titel>Gedanken von der wahren Schätzung der lebendigen Kräfte</titel></lemma>
+<eintrag>
+<titel>Gedanken von der wahren Schätzung der lebendigen Kräfte und Beurtheilung der Beweise derer sich Herr von Leibnitz und andere Mechaniker in dieser Streitsache bedienet haben, nebst einigen vorhergehenden Betrachtungen welche die Kraft der Körper überhaupt betreffen, durch Immanuel Kant</titel> (Königsberg: Dorn 1746). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00074230-5">BSB München: Rar. 4173</wwwlink>.<line type="break" />
+<titel>AA</titel>&#xA0;I: Vorkritische Schriften I, S.&#x202F;1–218.
+</eintrag>
+</subsection>
 <subsection id="kant-dilucidatio" type="neuzeit" sort="10">
 <lemma>Kant, <titel>Nova dilucidatio</titel></lemma>
 <eintrag>
@@ -14466,7 +14478,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 
 <kommentar id="messkatalog" type="neuzeit">
 <lemma>Messkataloge</lemma>
-<eintrag>Messkataloge der Oster- bzw. Frühjahrsbuchmesse und der Herbstbuchmesse in Leipzig. Am wichtigsten war die Frühjahrsbuchmesse, die offiziell am Sonntag Jubilate (3. Sonntag nach Ostern) eröffnet und acht Tage später ausgeläutet wurde; der Messbetrieb lief aber in der Regel bereits eine Woche vor Jubilate an und dauerte eine Woche länger (insgesamt 3 Wochen). Der Messkatalog zirkulierte zumeist kurz vor Eröffnung der Buchmesse und wurde von Hamann regelmäßig studiert; vgl. <wwwlink address="https://www.wallstein-open-library.de/openaccess/9783835355125-002.pdf?">Michael Pilz: <titel>„Den 21. brachte Kant den Messkatalog.“ Zur Praxeologie und Geschichte eines literarischen Informationsmediums im 18. Jahrhundert.</titel></wwwlink> Digitalisate 1760–1769: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10501273%2FBV011734487">BSB München: 4 Cat. 61-1760/69</wwwlink>. – Digitalisate ab 1770: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN525606394">SUB Göttingen</wwwlink>. </eintrag>
+<eintrag>Messkataloge der Oster- bzw. Frühjahrsbuchmesse und der Michaelis- bzw. Herbstbuchmesse in Leipzig. Am wichtigsten war die Frühjahrsbuchmesse, die offiziell am Sonntag Jubilate (3. Sonntag nach Ostern) eröffnet und acht Tage später ausgeläutet wurde; der Messbetrieb lief aber in der Regel bereits eine Woche vor Jubilate an und dauerte eine Woche länger (insgesamt 3 Wochen). Der Messkatalog zirkulierte zumeist kurz vor Eröffnung der Buchmesse und wurde von Hamann regelmäßig studiert; vgl. <wwwlink address="https://www.wallstein-open-library.de/openaccess/9783835355125-002.pdf?">Michael Pilz: <titel>„Den 21. brachte Kant den Messkatalog.“ Zur Praxeologie und Geschichte eines literarischen Informationsmediums im 18. Jahrhundert.</titel></wwwlink> Digitalisate 1760–1769: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10501273%2FBV011734487">BSB München: 4 Cat. 61-1760/69</wwwlink>. – Digitalisate ab 1770: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN525606394">SUB Göttingen</wwwlink>.</eintrag>
 <subsection id="messkatalog-ostern1761" type="neuzeit" sort="10">
 <lemma>Messkatalog für Ostern 1761</lemma>
 <eintrag>
@@ -17954,6 +17966,11 @@ Außerdem kursierte eine Übers. der Kinderphysik als <titel>Carl Rollins Natur-
 <titel>Lehre und Lebensgeschichte Jesu</titel> (2 Tle., Tübingen: Fues 1776–1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271812-5">BSB München: B.hist. 302 u-1</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+ 
+<kommentar id="rorarius" type="neuzeit">
+<lemma>Hieronymus Rorarius</lemma>
+<eintrag>1485–1556. Päbstlicher Nuntius und Autor eines kurzen Pamphlets mit dem Argument, Tiere machen besseren Gebrauch ihres Verstandes als Menschen: <titel>Quod animalia bruta ratione utantur melius homine</titel>. Digitalisat einer Ausgabe Paris 1648: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11273698-0">Stabi Augsburg: Phil 3150</wwwlink>.</eintrag>
 </kommentar>
  
 <kommentar id="rose" type="neuzeit">
