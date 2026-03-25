@@ -2887,7 +2887,7 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 <subsection id="histoirenaturelle" type="neuzeit" sort="10">
 <lemma>Buffon, <titel>Histoire naturelle générale et particulière</titel></lemma>
 <eintrag>
-<titel>Histoire naturelle générale et particulière. Théorie de la terre; histoire naturelle de l’homme; animaux quadrupèdes. Par Buffon et Louis-Jean-Marie Daubenton</titel> (15&#xA0;Bde., Paris 1749–1767; 44&#xA0;Bde., Paris 1749–1804). Zu Digitalisaten vgl. die <wwwlink address="https://en.wikipedia.org/wiki/Histoire_Naturelle">Wikipedia-Überblicksseite</wwwlink>.<line type="break" />
+<titel>Histoire naturelle générale et particulière. Théorie de la terre; histoire naturelle de l’homme; animaux quadrupèdes. Par Buffon et Louis-Jean-Marie Daubenton</titel> (15&#xA0;Bde., Paris 1749–1767; 44&#xA0;Bde. in Quarto, Paris 1749–1804). Zu Digitalisaten vgl. die <wwwlink address="https://en.wikipedia.org/wiki/Histoire_Naturelle">Wikipedia-Überblicksseite</wwwlink>.<line type="break" />
 1. Übers.: <titel>Allgemeine Historie der Natur nach allen ihren besonderen Theilen abgehandelt; nebst einer Beschreibung der Naturalienkammer Sr. Majestät des Königes von Frankreich. Mit einer Vorrede Herrn Doctor <link ref="haller" linktext="false">Albrecht von Haller</link> […]</titel> (Bd.&#x202F;1–3 übers. u. mit Anm. von <link ref="kastner" linktext="true" />) (11&#xA0;Bde., Hamburg, Leipzig: Grund und Holle 1750–1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;97/14: „Büffon’s allgemeine Geschichte der Natur, 1–5ter Th. Hamb. 756. m. K.“]. Digitalisat: <wwwlink address="http://digital.slub-dresden.de/id434773980">SLUB Dresden: Hist.nat.B.251-1,1ff.</wwwlink>
 <line type="break" />
 2. Übers.: <titel>Herrn von Buffons allgemeine Naturgeschichte. Eine freye mit einigen Zusätzen vermehrte Übersetzung nach der neuesten französ. Außgabe von 1769</titel>, von F. H. W. Martini (7&#xA0;Bde., Berlin 1771–1774). Digitalisat, Bd.&#x202F;1: <wwwlink address="http://digi.ub.uni-heidelberg.de/diglit/buffon1771bd1">UB Heidelberg: O 449-3::1-2</wwwlink>.
@@ -2906,10 +2906,16 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire natur
 <titel>Herrn von Büffons Naturgeschichte der vierfüßigen Thiere</titel> (23 Bde., Berlin 1772–1802). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10928761-5">BSB München: Res/Zool. 634 z</wwwlink>.
 </eintrag>
 </subsection>
+ <subsection id="buffon-oiseaux" type="neuzeit"  sort="35">
+<lemma>Buffon, <titel>Histoire naturelle des oiseaux</titel></lemma>
+<eintrag>
+<titel>Histoire naturelle des oiseaux</titel> (18 Bde. in Duodez, Paris 1770–1785). Separatpublikation der Vogelsektion (Bd.&#x202F;16–24) der <link ref="buffon" subref="histoirenaturelle" linktext="false"><titel>Histoire naturelle</titel></link> in Duodez. Digitalisate: <wwwlink address="https://doi.org/10.5962/bhl.title.66490">Biodiversity Heritage Library</wwwlink>. 
+</eintrag>
+</subsection>
  <subsection id="buffon-vogel" type="neuzeit"  sort="40">
 <lemma>Buffon, <titel>Naturgeschichte der Vögel</titel></lemma>
 <eintrag>
-<titel>Herrn von Büffons Naturgeschichte der Vögel</titel> […] (35 Bde., Berlin: Pauli 1772–1809). Erweiterte Übersetzung der Vogel-Bände 16–24 der <link ref="buffon" subref="histoirenaturelle" linktext="false"><titel>Histoire naturelle</titel></link>. – Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10309535-5">BSB München: Zool. 635</wwwlink>.
+<titel>Herrn von Büffons Naturgeschichte der Vögel</titel> […] (35 Bde., Berlin: Pauli 1772–1809). Erweiterte Übersetzung der Vogelsektion (Bd.&#x202F;16–24) der <link ref="buffon" subref="histoirenaturelle" linktext="false"><titel>Histoire naturelle</titel></link>. – Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10309535-5">BSB München: Zool. 635</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="buffon-epoques" type="neuzeit"  sort="50">
@@ -4574,7 +4580,7 @@ Dangeuil verwandte sehr frei J. Tuckers <link ref="tucker" subref="tucker-essay"
 
 <kommentar id="dengel-cg" type="neuzeit">
 <lemma>Carl Gottlob Dengel</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Buchhändler aus Berlin, der 1781, gemeinsam mit <link ref="wagner-fd" linktext="true" />, den <link ref="kanter" linktext="false">Kanterschen Buchladen</link> und die <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> übernahm und einige Jahre lang als Verleger in Königsberg tätig ist; er unterlag im Preiskampf mit <link ref="hartung-gl" linktext="false">Hartung</link>, der ein Monopol anstrebte, musste 1787 Konkurs anmelden und Buchladen sowie Verlag 1788 an Hartung verkaufen. Vgl. Georg Kessler: <titel>300 Jahre Gräfe und Unzer: 1722-2022</titel> (München 2022), S.&#x202F;47f.</eintrag>
+<eintrag>Lebensdaten nicht ermittelt. Buchhändler aus Berlin, der 1781, gemeinsam mit <link ref="wagner-fd" linktext="true" />, den <link ref="kanter" linktext="false">Kanterschen Buchladen</link> und die <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> übernahm und einige Jahre lang als Verleger in Königsberg tätig ist; er unterlag im Preiskampf mit <link ref="hartung-gl" linktext="false">Hartung</link> (vgl. <intlink letter="636" page="347" line="3" linktext="true" />), der ein Monopol anstrebte, musste 1787 Konkurs anmelden und Buchladen sowie Verlag 1788 an Hartung verkaufen. Vgl. Georg Kessler: <titel>300 Jahre Gräfe und Unzer: 1722-2022</titel> (München 2022), S.&#x202F;47f.</eintrag>
 </kommentar>
 
 <kommentar id="dengel-jm" type="neuzeit">
