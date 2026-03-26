@@ -1851,7 +1851,7 @@ ULB Halle: Dd 5485 (2)</wwwlink>
 
 <kommentar id="bibliotheca-fratrum-polonorum" type="neuzeit">
 <lemma>Bibliotheca Fratrum Polonorum quos Unitarios vocant</lemma>
-<eintrag>Sammlung socinianischer Schriften, hg.&#xA0;v. Frans Kuyper, Daniel Bakkamude und Andrzej Wiszowaty, 8 Bde und ein Ergänzungsband, Irenopoli [Amsterdam] 1656–169. Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11203283%2FBV004757324">Stabi Augsburg: 2 Th Ex 38</wwwlink>. – Bd.&#x202F;1 und 2 enthalten die opera omnia von <link ref="sozzini" linktext="true" />.</eintrag>
+<eintrag>Sammlung socinianischer Schriften, hg.&#xA0;v. Frans Kuyper, Daniel Bakkamude und Andrzej Wiszowaty, (8 Bde und ein Ergänzungsband, Irenopoli [Amsterdam] 1656–169). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11203283%2FBV004757324">Stabi Augsburg: 2 Th Ex 38</wwwlink>. – Bd.&#x202F;1 und 2 enthalten die opera omnia von <link ref="sozzini" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="bibl-wiss-kuenste" type="neuzeit">
@@ -9369,6 +9369,12 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <titel>J. G. Herder über den Einfluß der schönen in die höhern Wissenschaften</titel>. Erstdruck 1781 in: <link ref="abhandlungen-baierische-akademie" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11039133?page=149">, Bd.&#x202F;1, S.&#x202F;139–168.</wwwlink>
 </eintrag>
 </subsection>
+<subsection id="herder-lessing" type="neuzeit" sort="620">
+<lemma>Herder, <titel>Lessing</titel></lemma>
+<eintrag>
+<titel>G. E. Leßing. Gebohren 1729, gestorben 1781</titel>, in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=18%2C19">4. Vj. 1781 (Oktober), S.&#x202F;1–29</wwwlink>. 
+</eintrag>
+</subsection>
 <subsection id="herder-ideen" type="neuzeit" sort="690">
 <lemma>Herder, <titel>Ideen zur Philosophie der Geschichte der Menschheit</titel></lemma>
 <eintrag>
@@ -10490,6 +10496,11 @@ J
 <lemma>Friedrich Heinrich Jacobi</lemma>
 <eintrag>1743–1819. Philosoph, Schriftsteller und Kaufmann in Pempelfort bei Düsseldorf, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz36627.html#ndbcontent">Hammacher, Klaus: Jacobi, Friedrich Heinrich Ritter von, in: <titel>NDB</titel>&#x202F;10 (1974), S.&#x202F;222–224</wwwlink>.
 </eintrag>
+<subsection id="jacobi-vermischte-schriften" type="neuzeit" sort="10">
+<lemma>Jacobi, <titel>Vermischte Schriften</titel></lemma>
+<eintrag>
+<titel>Vermischte Schriften von Friedrich Heinrich Jacobi. Erster Theil</titel> (Breslau: Löwe 1781).</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="jacobi-jc" type="neuzeit">
@@ -10502,17 +10513,17 @@ J
 <lemma>Johann Friedrich Jacobi</lemma>
 <eintrag>1712–1791. Lutherischer Theologe; Generalsuperintendent des Fürstentums Lüneburg in Celle; Schriftsteller; Konsistorialrat; Mitbegründer und Direktor der Landwirtschaftsgesellschaft, Onkel von <link ref="jacobi" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz36642.html#adbcontent">Franck, Jakob: Jacobi, Johann Friedrich, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;586f</wwwlink>.</eintrag>
 <subsection id="jacobi-reden" type="neuzeit" sort="10">
-<lemma>Johann Friedrich Jacobi, <titel>Sammlung einiger geistlicher Reden</titel></lemma>
+<lemma>J.F. Jacobi, <titel>Sammlung einiger geistlicher Reden</titel></lemma>
 <eintrag>
 <titel>Sammlung einiger geistlicher Reden, welche bey besondern Gelegenheiten gehalten worden</titel> (Hannover: Richter 1757).</eintrag>
 </subsection>
 <subsection id="jacobi-katechismus" type="neuzeit" sort="20">
-<lemma>Johann Friedrich Jacobi, <titel>Katechismus 1765</titel></lemma>
+<lemma>J.F. Jacobi, <titel>Katechismus 1765</titel></lemma>
 <eintrag>
 <titel>Einleitung in die christliche Glaubens- und Sittenlehre in Frage und Antwort abgefasset</titel> (Hannover: Richter 1765).</eintrag>
 </subsection>
 <subsection id="jacobi-religion" type="neuzeit" sort="25">
-    <lemma>Johann Friedrich Jacobi, <titel>Abhandlungen über wichtige Gegenstände der Religion</titel></lemma>
+    <lemma>J.F. Jacobi, <titel>Abhandlungen über wichtige Gegenstände der Religion</titel></lemma>
     <eintrag>
     <titel>Abhandlungen über wichtige Gegenstände der Religion</titel> (3 Bde., Zelle: Gsell, 1773/76) Digitalisat, 2. Auflage 1776: <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht/?PPN=PPN1671576438">Stabi Berlin: Be 3686-1/2</wwwlink>.</eintrag>
     </subsection>
@@ -10522,7 +10533,7 @@ J
 <lemma>Christoph Gottfried Jacobi</lemma>
 <eintrag>1724–1789. Theologe und Dichter geistlicher Lieder. 1749 in Wernigerode, 1763 als Diakon in Magdeburg, 1773 als Generalsuperintendent in Halberstadt <wwwlink address="https://www.deutsche-biographie.de/sfz36621.html#adbcontent ">Jacobs, Eduard: Jacobi, Christoph Gottfried, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;573f.</wwwlink></eintrag>
 <subsection id="jacobi-cf-offenbarung" type="neuzeit" sort="10">
-<lemma>Christoph Gottfried Jacobi, <titel>Die ursprüngliche Offenbarung Gottes</titel></lemma>
+<lemma>C.G. Jacobi, <titel>Die ursprüngliche Offenbarung Gottes</titel></lemma>
 <eintrag>
 <titel>Die ursprüngliche Offenbarung Gottes erwogen und zu weiterer Untersuchung vorgetragen</titel> (Halle 1759).</eintrag>
 </subsection>
@@ -10532,7 +10543,7 @@ J
 <lemma>Johann Georg Jacobi</lemma>
 <eintrag>1740–1814. Bruder von <link ref="jacobi" linktext="true" />, 1768–1774 Kanonicus in Halberstadt, seit 1784 Prof. in Freiburg. <wwwlink address="https://www.deutsche-biographie.de/sfz36643.html#adbcontent">Jacoby, Daniel: Jacobi, Johann Georg, in: <titel>ADB</titel>&#x202F;13 (1881), S.&#x202F;587–592</wwwlink></eintrag>
 <subsection id="jacobi-jh-gongora" type="neuzeit" sort="10">
-<lemma>Johann Georg Jacobi, <titel>Romanzen aus dem Spanischen des Gongora übersetzt</titel></lemma>
+<lemma>J.G. Jacobi, <titel>Romanzen aus dem Spanischen des Gongora übersetzt</titel></lemma>
 <eintrag>
 <titel>Romanzen aus dem Spanischen des Gongora übersetzt</titel> (Halle: Gebauer 1767). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11343047-1">Passau, Staatliche Bibliothek: S nv/Lg (b) 42</wwwlink>.</eintrag>
 </subsection>
@@ -17094,6 +17105,11 @@ Zum Streit um die Voyengelder. 1781 liefen sie noch sehr gut (vgl. <intlink lett
 <kommentar id="propertius" type="neuzeit">
 <lemma>Sextus Aurelius Propertius</lemma>
 <eintrag>47–2 v. Chr. Röm. Elegiker.</eintrag>
+</kommentar>
+
+<kommentar id="przypkowski" type="neuzeit">
+<lemma>Samuel Przypkowski</lemma>
+<eintrag>1592–1670. Polnischer unitarischer Schriftsteller und Politiker, siehe <wwwlink address="https://d-nb.info/gnd/124494161">GND</wwwlink>. Zu seinen Werken vgl. den <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10871130-8">Ergänzungsband 9 der <titel>Bibliotheca Fratrum Polonorum</titel></wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="psellos" type="neuzeit">
