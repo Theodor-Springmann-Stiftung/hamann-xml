@@ -5935,8 +5935,20 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 
 <kommentar id="ficino" type="neuzeit">
 <lemma>Marsilio Ficino</lemma>
-<eintrag>1433–1499. Italienischer Humanist.
+<eintrag>1433–1499. Italienischer Humanist, siehe <wwwlink address="https://d-nb.info/gnd/118532855">GND</wwwlink>.
 </eintrag>
+<subsection id="ficino-theologia-platonica" type="neuzeit" sort="10">
+<lemma>Ficino, <titel>Theologia Platonica</titel></lemma>
+<eintrag>
+<titel>Theologia Platonica de immortalitate animarum</titel> […] (zuerst 1482 gedruckt). Digitalisat einer Ausgabe Paris 1559: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10191951-6">BSB München: Ph.sp. 277</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="ficino-epistolae" type="neuzeit" sort="20">
+<lemma>Ficino, <titel>Epistolae Marsilii Ficini Florentini</titel></lemma>
+<eintrag>
+<titel>Epistolae Marsilii Ficini Florentini</titel> (1497). Digitalisat der Ausgabe von 1497: <wwwlink address="http://dx.doi.org/10.17169/refubium-34686">FU Berlin</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar> 
 
 <kommentar id="fielding-h" type="neuzeit">
@@ -9810,7 +9822,8 @@ Durchsuchbarer Text auf Grundlage der Edition von Karl Helm (Berlin 1907): <wwwl
 
 <kommentar id="hippel" type="neuzeit">
 <lemma>Theodor Gottlieb Hippel</lemma>
-<eintrag>1741–1796. Schriftsteller und Politiker. 1762 Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>, 1765 Advokat am Königsberger Stadtgericht, 1773 Königlicher Kriminalrat; am 18. Oktober 1780 in das Amt des ‚Hofhalsrichters‘ (Direktor des Königsberger Kriminalgerichts) eingeführt; am 7. Dezember 1780 zum Dirigierenden Bürgermeister und Polizeidirektor von Königsberg ernannt und am 4. Januar 1781 ins Amt introduziert (als Nachfolger von <link ref="hindersin" linktext="false">Hindersin</link>), 1786 Geh. Kriegsrat und Stadtpräsident, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz32479.html#adbcontent">Brenning: Hippel, Theodor Gottlieb von, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;463–466</wwwlink>. 
+<eintrag>1741–1796. Schriftsteller und Politiker. 1762 Mitglied der <link ref="dreikronenloge" linktext="false">Dreikronenloge</link>, 1765 Advokat am Königsberger Stadtgericht, 1773 Königlicher Kriminalrat; am 18. Oktober 1780 in das Amt des ‚Hofhalsrichters‘ (Direktor des Königsberger Kriminalgerichts) eingeführt; am 7. Dezember 1780 zum Dirigierenden Bürgermeister und Polizeidirektor von Königsberg ernannt und am 4. Januar 1781 ins Amt introduziert (als Nachfolger von <link ref="hindersin" linktext="false">Hindersin</link>), 1786 Geh. Kriegsrat und Stadtpräsident, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz32479.html#adbcontent">Brenning: Hippel, Theodor Gottlieb von, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;463–466</wwwlink>.<line type="break" />
+Zu seiner Tätigkeit als dirigierender Bürgermeister von Königsberg vgl. <link ref="koh-j-2008" linktext="true" />; zu seiner geheimen Verfasserschaft der <link ref="hippel" subref="hippel-lebenslaufe" linktext="false"><titel>Lebensläufe</titel></link> und Hamanns Suche nach dem Autorschaftsbeweis vgl. <wwwlink address="https://de.wikisource.org/wiki/Altpreu%C3%9Fische_Monatsschrift">Ferdinand Josef Schneider: <titel>Theodor Gottlieb von Hippels Schriftstellergeheimnis,</titel> in: Altpreußische Monatsschrift, 51 (1914), S.&#x202F;1–35</wwwlink>. Allgemeiner zur Biographie Joseph Kohnen: <titel>Theodor Gottlieb von Hippel. Eine zentrale Persönlichkeit der Königsberger Geistesgeschichte. Biographie und Bibliographie</titel> (Lüneburg 1987).
 </eintrag>
 <subsection id="hippel-galimafreen" type="neuzeit" sort="10">
 <lemma>Hippel [mit <link ref="hinz" linktext="true" />], <titel>Galimafreen nach dem heutigen Geschmack</titel></lemma>
@@ -10915,7 +10928,8 @@ Kritische Griechisch-Lateinische Gesamtausgabe in zwei Bänden, hg. von <wwwlink
 <lemma>Iuv. <titel>saturae</titel></lemma>
 <eintrag>Dt. Übers. zitiert nach: Sven Lorenz (Übers.), <titel>Juvenal, Satiren/Saturae</titel> (Berlin, Boston 2017).<line type="break" />
 <titel>D. Junii Juvenalis et Auli Persii Flacci Satyrae. Cum Veteris Scholiastae &amp; Variorum Commentariis. Accurante Cornelio <link ref="schrevel" linktext="false">Schrevelio</link></titel> (Lyon 1648) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;10/156: „Juvenalis et Persius ex ed. Schreuelii, Lugd. 648.“].<line type="break" />
-<titel>The Satires of D. J. Juvenalis. Translated Into English Verse. By Mr. Dryden. And […] Other […] Hands. Together with the Satires of Aulus Persius Flaccus. Made English by Mr. Dryden […] To which is Prefix’d, a Discourse Concerning the Original and Progress of Satir […] Third Edition, Adorn’d with Sculptures</titel> (London 1693; wurde dann zahlreich wieder aufgelegt) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;165/583: „Dryden’s Juvenal and Persius, Lond. 706“].
+<titel>The Satires of D. J. Juvenalis. Translated Into English Verse. By Mr. Dryden. And […] Other […] Hands. Together with the Satires of Aulus Persius Flaccus. Made English by Mr. Dryden […] To which is Prefix’d, a Discourse Concerning the Original and Progress of Satir […] Third Edition, Adorn’d with Sculptures</titel> (London 1693; wurde dann zahlreich wieder aufgelegt) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;165/583: „Dryden’s Juvenal and Persius, Lond. 706“].<line type="break" />
+1781 erwarb Hamann auch eine Inkunabel Leipzig 1497, vgl. <intlink letter="636" page="350" line="2" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
@@ -15842,6 +15856,17 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 </subsection>
 </kommentar>
 
+<kommentar id="noris" type="neuzeit">
+<lemma>Enrico Noris</lemma>
+<eintrag>1631–1704. Italienischer Kirchenhistoriker und Kardinal; siehe <wwwlink address="https://d-nb.info/gnd/118588672">GND</wwwlink>.</eintrag>
+<subsection id="noris-cenotaphia" type="neuzeit">
+<lemma>Noris, <titel>Cenotaphia Pisana</titel></lemma>
+<eintrag>
+<titel>Cenotaphia Pisana Caii et Lvcii Caesarum dissertationibus illustrata</titel> […] (Venedig 1781). Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.19138">UB Heidelberg</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="north-briton" type="neuzeit">
 <lemma>The North Briton</lemma>
 <eintrag>Wochenschrift 1762–1763, die Nummern 1–46 hrsg. von <link ref="wilkes" linktext="true" />. Die Nummer 45 vom 23. April 1763 kritisierte eine Rede von König George III. Wilkes wurde angeklagt, aber schließlich vor Gericht freigesprochen. Die Nummern 47 bis 218 (1768–1771) wurden von William Bingley herausgegeben.<line type="break" />
@@ -16390,6 +16415,11 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <titel>Titi Petroni Arbitri, Equitis Romani, Satyricon. Cum Fragmentis Albae Graecae Recuperatis Anno 1688</titel> (Leipzig: Fritsch 1731) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;9/146: „T. Petronii Arbitri Satyricon, Lips. 731“].<line type="break" />
 <titel>Titi Petronii Arbitri Equitis Romani Satyricon, et diversorum poetarum Lusus in Priapum, cum selectis variorum commentariis. Accedunt Pervigilium Veneris; Ausonii Cento nuptialis; Cupido couci affixus, [atque alia nonnulla, notis doctorum virorum illustrata] Titus Petronius Arbiter; accurante Simone Abbes Gabbema</titel> (Utrecht 1654) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;10/156: „Petronius &amp; Priapeia ex. ed. Gabbemae, Traj. 654“].</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="petrus-vinea" type="neuzeit">
+<lemma>Petrus de Vinea</lemma>
+<eintrag>Um 1190 bis 1249. Protonotarius und Kanzler (quasi leitender Minister) von Kaiser Friedrich II. – Bekannt auch für seine Briefe, von denen sich Hamann 1781 eine (nicht spezifizierte) Ausgabe kaufte, siehe die <wwwlink address="https://it.alim.unisi.it/dl/resource/558">Lateinischen Briefe bei ALIM</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="petty" type="neuzeit">
@@ -18166,6 +18196,11 @@ Rousseau antwortete damit kritisch auf <link ref="voltaire" subref="voltaire-lis
 </subsection>
 </kommentar>
 
+<kommentar id="ruarus" type="neuzeit">
+<lemma>Martinus Ruarus</lemma>
+<eintrag>Etwa 1588 bis 1657. Unitarischer Theologe und Socinianer, zunächst in Altdorf, dann in Danzig; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11759833X.html#adbcontent">Wagenmann, Julius August: Ruarus, Martin, in: <titel>ADB</titel>&#x202F;30 (1890), S.&#x202F;96f</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="runtze" type="neuzeit">
 <lemma>Joseph Leberecht Runtze</lemma>
 <eintrag>1729–1798. Erzieher der Söhne des Grafen v. Münnich.</eintrag>
@@ -18360,9 +18395,20 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 </subsection>
 </kommentar>
 
+<kommentar id="sand" type="neuzeit">
+<lemma>Christoph Sand</lemma>
+<eintrag>1644–1680 (auch Christophorus Sandius). Unitarischer Theologe und Schriftsteller aus Königsberg, lebte in Amsterdam; Freund <link ref="spinoza" linktext="false">Spinozas</link>; siehe <wwwlink address="http://d-nb.info/gnd/124732747">GND</wwwlink>.
+<subsection id="sand-bibliotheca" type="neuzeit">
+<lemma>Sand, <titel>Bibliotheca Anti-Trinitatiorum</titel></lemma>
+<eintrag>
+<titel>Bibliotheca Anti-Trinitatiorum, sive Catalogus Scriptorum, et succincta narratio de vita eorum auctorum […]. Opus posthumum Christophori Chr. Sandii. Accedunt quaedam scripta […] Quae omnia simul juncta Compendium Historiae Ecclesiasticae Unitariorum, qui Sociniani vulgo audiunt, exhibent</titel> (Freistadii [Amsterdam] 1684) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;81/119: „C. C. Sandi Bibliotheca Anti-Trinitariorum, Freist. 624“. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10389217-9">BSB München: Catech. 120#Beibd.1</wwwlink></eintrag>
+</subsection>
+ </eintrag>
+</kommentar>
+
 <kommentar id="sander-h" type="neuzeit">
 <lemma>Heinrich Sander</lemma>
-<eintrag>1754–1782. Kir.chenrat in Kindringen
+<eintrag>1754–1782. Kirchenrat in Kindringen.
  </eintrag>
 </kommentar>
 
@@ -19175,7 +19221,7 @@ Sinnbildern</titel> (Wolfenbüttel: Meißner 1763) [<link ref="hamann" subref="h
 
 <kommentar id="schwarz-chg" type="neuzeit">
 <lemma>Christian Gottlieb Schwarz</lemma>
-<eintrag>1675–1751. Prof. der Geschichte in Altdorf; <wwwlink address="https://www.deutsche-biographie.de/pnd115661069.html#adbcontent">Hoche, Richard: Schwarz, Christian Gottlieb, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;227f.</wwwlink>.
+<eintrag>1675–1751. Professor der Geschichte in Altdorf; <wwwlink address="https://www.deutsche-biographie.de/pnd115661069.html#adbcontent">Hoche, Richard: Schwarz, Christian Gottlieb, in: <titel>ADB</titel>&#x202F;33 (1891), S.&#x202F;227f.</wwwlink>.
 </eintrag>
 <subsection id="schwarz-miscellanea" type="neuzeit" sort="10">
 <lemma>Schwarz, <titel>Miscellanea Politioris Humanitatis</titel></lemma>
@@ -22289,6 +22335,17 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 <eintrag>1488–1534. Franziskaner, Kirchenlieddichter.</eintrag>
 </kommentar>
 
+<kommentar id="waissel" type="neuzeit">
+<lemma>Matthäus Waissel</lemma>
+<eintrag>1540–1602. Theologe, Schriftsteller und Lautenist in Königsberg; siehe <wwwlink address="https://d-nb.info/gnd/128740205">GND</wwwlink>.
+<subsection id="weissel-chronica" type="neuzeit" sort="10">
+<lemma>Waissel, <titel>Chronica</titel></lemma>
+<eintrag>
+<titel>Chronica alter Preusscher, Eifflendischer, und Curlendischer Historien</titel> […] (Königsberg: Osterberger 1599). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10983551-4">BSB München: 4 Bor. 50</wwwlink>.
+</eintrag>
+</subsection></eintrag>
+</kommentar>
+
 <kommentar id="well" type="neuzeit">
 <lemma>Anthony Well</lemma>
 <eintrag>Lebensdaten nicht ermittelt.
@@ -23037,9 +23094,21 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 </eintrag>
 </kommentar>
 
+<kommentar id="zeltner" type="neuzeit">
+<lemma>Gustav Georg Zeltner</lemma>
+<eintrag>1672–1738. Lutherischer Theologe und Historiker in Altdorf, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd115540806.html#adbcontent">Tschackert, Paul: Zeltner, Gustav Georg, in: <titel>ADB</titel>&#x202F;45 (1900), S.&#x202F;52f</wwwlink>.
+</eintrag>
+<subsection id="zeltner-crypto-socinismi" type="neuzeit" sort="10">
+<lemma>Zeltner, <titel>Historia crypto-socinismi</titel></lemma>
+<eintrag>
+<titel>Historia crypto-socinismi altorfinae quondam academiae infesti arcana</titel> (2 Bde., Leipzig 1729). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10361118-1">BSB München: 4 H.ref. 777 b</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="zesen" type="neuzeit">
 <lemma>Philipp von Zesen</lemma>
-<eintrag>1619–1789. Schriftsteller und Sprachreformer des Barock, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118636596.html#adbcontent ">Dissel, Karl: Zesen, Philipp von, in: <titel>ADB</titel>&#x202F;45 (1900), S.&#x202F;108–118</wwwlink>.
+<eintrag>1619–1789. Schriftsteller und Sprachreformer des Barock, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118636596.html#adbcontent">Dissel, Karl: Zesen, Philipp von, in: <titel>ADB</titel>&#x202F;45 (1900), S.&#x202F;108–118</wwwlink>.
 </eintrag>
 </kommentar>
  
