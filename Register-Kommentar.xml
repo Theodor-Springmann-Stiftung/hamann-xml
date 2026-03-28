@@ -802,7 +802,7 @@ Vll. <titel>Fabvlae aesopicae graecae qvae Maximo Planudi tribvvntvr. Ad vetervm
 
 <kommentar id="athenaios" type="neuzeit">
 <lemma>Athenaios</lemma>
-<eintrag>Um 200. Schriftsteller in Alexandria und Rom.</eintrag>
+<eintrag>Um 200 n.&#x202F;Chr. Schriftsteller in Alexandria und Rom.</eintrag>
 <subsection id="athenaios-casaubonus" type="neuzeit">
 <lemma><titel>Athēnaiu Deipnosophistōn Biblia Pentekaideka</titel></lemma>
 <eintrag>
@@ -3714,9 +3714,14 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 <eintrag>Rede für Aulus Cluentius Habitus, lat. pro A. Cluentio<line type="break" />
 </eintrag>
 </subsection>
-<subsection id="cic-prodomo" type="neuzeit" sort="180">
+<subsection id="cic-prodomo" type="neuzeit" sort="190">
 <lemma>Cic. <titel>Dom.</titel></lemma>
 <eintrag>Rede über sein eigenes Haus, lat. oratio pro domo oder de domo sua<line type="break" />
+</eintrag>
+</subsection>
+<subsection id="cic-defato" type="neuzeit" sort="200">
+<lemma>Cic. <titel>fat.</titel></lemma>
+<eintrag>Über das Schicksal, lat. de fato<line type="break" />
 </eintrag>
 </subsection>
 </kommentar>
@@ -4098,6 +4103,12 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 <kommentar id="courtan-as" type="neuzeit">
 <lemma>Anne Susanne Courtan</lemma>
 <eintrag>Geb. 1690, geb. Bitaubé. Mutter von <link ref="courtan-pj" linktext="true" /> und <link ref="lindner-m" linktext="true" />; sie heiratete Simon Pierre Courtan am 25. November 1708; siehe <wwwlink address="https://homepages.ruhr-uni-bochum.de/raphael.dammer/pafg1819.htm#120256">Genealogische Forschung von Raphael Dammer</wwwlink>.
+</eintrag>
+</kommentar>
+
+<kommentar id="courtan-c" type="neuzeit">
+<lemma>Carl Courtan</lemma>
+<eintrag>Jüngerer Sohn von <link ref="courtan-sm" linktext="true" /> und <link ref="courtan-pj" linktext="true" />.
 </eintrag>
 </kommentar>
 
@@ -11758,14 +11769,26 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 </eintrag>
 </kommentar>
 
+<kommentar id="knigge" type="neuzeit">
+<lemma>Adolph Knigge</lemma>
+<eintrag>1752–1796. Aufklärerischer Schriftsteller und Geheimbündler an verschiedenen deutschen Höfen; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd11856370X.html#ndbcontent">Hay, Oda: Knigge, Adolph Freiherr, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;184–186.</wwwlink>
+</eintrag>
+<subsection id="knigge-jesuiten" type="neuzeit" sort="10">
+<lemma>Knigge, <titel>Ueber Jesuiten, Freymaurer und deutsche Rosencreutzer</titel></lemma>
+<eintrag>
+<titel>Ueber Jesuiten, Freymaurer und deutsche Rosencreutzer. Herausgegeben von Joseph Aoilius Maier, der Gesellschaft Jesu ehemaligen Mitgliede</titel> (Leipzig [Frankfurt: Brönner] 1781. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10435471-1">BSB München: H.g.hum. 148.</wwwlink>
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="knight" type="neuzeit">
 <lemma>Samuel Knight</lemma>
 <eintrag>1675–1746. Englischer Geistlicher und Biograph, siehe <wwwlink address="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Knight,_Samuel_(1675-1746)">Dictionary of National Biography</wwwlink>.
 <subsection id="knight-eramus" type="neuzeit" sort="10">
-<lemma>Knight, <titel>The life of Erasmus</titel></lemma>
+<lemma>Knight, <titel>The Life of Erasmus</titel></lemma>
 <eintrag>
-<titel>The life of Erasmus, More particularly that part of it, which He spent in England; Wherein an Account is given of his Learned Friends, And the State of Religion and Learning At that Time in both our Universities; with an appendix Containing several original papers. By Samuel Knight, D. D. Prebendary of Ely</titel> (London 1726). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-197632">ULB Münster</wwwlink>.<line type="break" />
-Übers.: <titel>Das Leben des fürtrefflichen Erasmi von Rotterdam, Insonderheit aber derjenige merckwürdigste Theil davon, den er in Engeland zugebracht; Worinnen Eine Nachricht von seinen gelehrten Freunden, wie auch dem Zustand der Religion und Gelehrsamkeit zur selben Zeit, so wohl auf der Universität Cambridge als Oxford, ertheilet wird. Nebst Einem Anhang unterschiedener rarer Urkunden. Abgefasset von Samuel Knight, ins Deutsche übersetzt von Theodoro Arnold (Leipzig: Löwe 1736). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11425682-1"></wwwlink>Stabi Bamberg: Bg.o.164</titel>. Vgl. N&#x202F;V,355.
+<titel>The Life of Erasmus, More particularly that part of it, which He spent in England; Wherein an Account is given of his Learned Friends, And the State of Religion and Learning At that Time in both our Universities; with an appendix Containing several original papers. By Samuel Knight, D. D. Prebendary of Ely</titel> (London 1726). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-197632">ULB Münster</wwwlink>.<line type="break" />
+Übers.: <titel>Das Leben des fürtrefflichen Erasmi von Rotterdam, Insonderheit aber derjenige merckwürdigste Theil davon, den er in Engeland zugebracht; Worinnen Eine Nachricht von seinen gelehrten Freunden, wie auch dem Zustand der Religion und Gelehrsamkeit zur selben Zeit, so wohl auf der Universität Cambridge als Oxford, ertheilet wird. Nebst Einem Anhang unterschiedener rarer Urkunden. Abgefasset von Samuel Knight, ins Deutsche übersetzt von Theodoro Arnold</titel> (Leipzig: Löwe 1736). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11425682-1">Stabi Bamberg: Bg.o.164.</wwwlink> Vgl. N&#x202F;V,355.
 </eintrag>
 </subsection>
 </eintrag>
@@ -19555,7 +19578,7 @@ Gai Solii Apollinaris Sidonii epistulae et carmina, recensvit et emandavit Chris
 
 <kommentar id="sidow" type="neuzeit">
 <lemma>N. N. Sidow</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Wandernder Silhouetteur, d.h. Hersteller von Schattenrissen, arbeitete mit <link ref="pohlkahnin" linktext="true" /> zusammen; er stellte im April 1781 die Schattenrisse von Hamann und seinem Sohn her, die er danach an Herder und Hartknoch sandte, vgl. <intlink letter="617" page="283" line="1" linktext="true" /> und <intlink letter="618" page="290" line="21" linktext="true" />; die Silhouetten sind abgebildet bei <wwwlink address="https://books.google.de/books?id=_34VAAAAYAAJ">Arthur Warda: <titel>Joh. Georg Hamann und Joh. Michael Hamann. Zwei Silhouetten,</titel> in: Altpreußische Monatsschrift 49 (1912), S.&#x202F;187–189.</wwwlink>
+<eintrag>Lebensdaten nicht ermittelt. Wandernder Silhouetteur, d.h. Hersteller von Schattenrissen, arbeitete mit <link ref="pohlkahnin" linktext="true" /> zusammen; er stellte im April 1781 die Schattenrisse von Hamann und seinem Sohn her, die er danach an Herder, Hartknoch und Claudius sandte, vgl. <intlink letter="617" page="283" line="1" linktext="true" />, <intlink letter="618" page="290" line="21" linktext="true" /> und <intlink letter="636" page="352" line="6" linktext="true" />; die Silhouetten sind abgebildet bei <wwwlink address="https://books.google.de/books?id=_34VAAAAYAAJ">Arthur Warda: <titel>Joh. Georg Hamann und Joh. Michael Hamann. Zwei Silhouetten,</titel> in: Altpreußische Monatsschrift 49 (1912), S.&#x202F;187–189.</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -22778,6 +22801,17 @@ Digitalisat 19. Stück (1762): <wwwlink address="https://kpbc.umk.pl/dlibra/publ
 <lemma>Windheim, <titel>Commentatio philologico-critica de Hebraeorum</titel></lemma>
 <eintrag>
 <titel>Commentatio philologico-critica de Hebraeorum vav conversivo futurorum: qua viro summe reverendo excellentissimo doctissimo <link ref="baumgarten-sj" linktext="false">Sigismundo Jacobo Baumgarten</link> […] </titel> (Halle: Schneider 1744). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10971071-3">BSB München:4 Diss. 3663,16</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="winzler" type="neuzeit">
+<lemma>Zachaeus Andreas Winzler</lemma>
+<eintrag>1750 bis nach 1820. Industrieller und Erfinder, siehe <wwwlink address="https://de.wikisource.org/wiki/BLK%C3%96%3AWinzler%2C_Zach%C3%A4us_Andreas">BLdKO</wwwlink>.</eintrag>
+<subsection id="winzler-sendschreiben" type="neuzeit" sort="10">
+<lemma>vmtl. Winzler, <titel>Sendschreiben an die erhabenen Unbekannten, oder die ächten und rechten Freymäurer</titel></lemma>
+<eintrag>
+<titel>Sendschreiben an die erhabenen Unbekannten, oder die ächten und rechten Freymäurer</titel> (anonym, s.l. 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10446609-2">BSB München: H.g.hum. 447 x</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
