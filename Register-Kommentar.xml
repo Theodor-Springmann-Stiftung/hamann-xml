@@ -867,7 +867,7 @@ Dt. Übers. zitiert nach: Kurt Flasch u. Burkhard Mojsisch (Übers.), <titel>Aug
 </kommentar>
 
 <kommentar id="auserlesene-bibliothek" type="neuzeit">
-<lemma><titel>Auserlesene Bibliothek der neuesten deutschen Litteratur </titel></lemma>
+<lemma><titel>Auserlesene Bibliothek der neuesten deutschen Litteratur</titel></lemma>
 <eintrag><titel>Auserlesene Bibliothek der neuesten deutschen Litteratur.</titel> Hg. von <link ref="hausen" linktext="true" />, verlegt von Christian Friedrich Helwing (20 Bde., Lemgo 1772–1781). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3761551162">SLUB Leipzig</wwwlink>. </eintrag>
 </kommentar>
 
@@ -1579,7 +1579,7 @@ Es wurde wohl auch eine französische Version für <link ref="friedrich-II" link
 
 <kommentar id="berens-g" type="neuzeit">
 <lemma>Georg Berens</lemma>
-<eintrag>1739–1813. Bruder von <link ref="berens-a" linktext="false">Arend</link>, <link ref="berens-c" linktext="false">Carl</link>, <link ref="berens-ah" linktext="false">Adam Heinrich</link>, <link ref="berens-ca" linktext="false">Catharina</link> u. <link ref="berens-jc" linktext="true" />.</eintrag>
+<eintrag>1739–1813. Bruder von <link ref="berens-a" linktext="false">Arend</link>, <link ref="berens-c" linktext="false">Carl</link>, <link ref="berens-ah" linktext="false">Adam Heinrich</link>, <link ref="berens-ca" linktext="false">Catharina</link> und <link ref="berens-jc" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="berens-gu" type="neuzeit">
@@ -5912,6 +5912,12 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 <titel>Anleitung zum rechten Verstand und Gebrauch der Offenbarung Johannis oder vielmehr Jesu Christi : aus den Schriften bewährter Schriftausleger zusammengezogen … / nebst einer Vorrede … Herrn D. Christian August Crusius</titel> (Altenburg: Richter 1760). Digitalisat <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11116846-8">Staatsbibliothek Regensburg: 999/Script.936</wwwlink>. 
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="fenton" type="neuzeit">
+<lemma>Philip Ibbetson Fenton</lemma>
+<eintrag>1735–1806. Bis 1792 in Riga als Mitglied des Handelshauses Cumming, Fenton &#x26; Co, vgl. <wwwlink address="https://www.google.de/books/edition/Rigasche_stadtblätter/H6YtAAAAYAAJ?hl=de&#x26;gbpv=1&#x26;pg=PA403&#x26;printsec=frontcover"><titel>Rigaische Stadtblätter,</titel> Nr. 52, 31.12.1869</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="ferdinand" type="neuzeit">
