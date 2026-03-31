@@ -8509,7 +8509,7 @@ Vgl. über ihren Vater: Elisabeth Regina Hamann: <titel>Etwas über mich.</titel
 
 <kommentar id="hamann-ms" type="neuzeit">
 <lemma>Marianne Sophie Hamann</lemma>
-<eintrag>18. November 1778 bis 15. März 1855. Dritte Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />; Patenkind von <link ref="courtan-sm" linktext="true" /> und <link ref="herder-c" linktext="true" />; sie heiratete später <link ref="nicolovius-t" linktext="false">Theodor Nicolovius</link>.</eintrag>
+<eintrag>18. November 1778 bis 15. März 1855. Dritte Tochter von <link ref="hamann" linktext="true" /> und <link ref="schumacher-ar" linktext="true" />; Patenkind von <link ref="herder-c" linktext="true" /> und <link ref="courtan-sm" linktext="true" />; sie heiratete später <link ref="nicolovius-t" linktext="false">Theodor Nicolovius</link>.</eintrag>
 </kommentar>
 
 <kommentar id="hamberger" type="neuzeit">
@@ -9251,6 +9251,12 @@ Vgl. <link ref="hamann" subref="hamann-herder-litteraturannalen" linktext="true"
 <lemma>Herder, <titel>Brutus</titel></lemma>
 <eintrag>
 <titel>Brutus. Ein Drama zur Musik. In Musik gesetzt von dem Concertmeister Bach zu Bückeburg</titel> (1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;162/535: „Brutus, ein Drama zur Music, 774. Donum AVCTORIS.“]. – SWS,&#x202F;XXVIII, S.&#x202F;52–68.
+</eintrag>
+</subsection>
+<subsection id="herder-alten-tod" type="neuzeit" sort="170">
+<lemma>Herder, <titel>Wie die Alten den Tod gebildet?</titel></lemma>
+<eintrag>
+<titel>Wie die Alten den Tod gebildet?</titel> (Hannover 1774, anonym). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:urmel-cf6cc417-4d49-4679-a234-692977b7496c9">ThULB Jena</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="herder-altesteurkunde" type="neuzeit" sort="200">
@@ -16447,7 +16453,7 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 </subsection>
 </kommentar>
 
-<kommentar id="petrus-abano " type="neuzeit">
+<kommentar id="petrus-abano" type="neuzeit">
 <lemma>Petrus de Abano</lemma>
 <eintrag>Um 1250 bis um 1316. Italienischer Arzt und Philosoph, siehe <wwwlink address="https://d-nb.info/gnd/118889443">GND</wwwlink>.</eintrag>
 <subsection id="petrus-conciliator" type="neuzeit">
@@ -21241,7 +21247,7 @@ Dt. Übers. zitiert nach: Dietrich Klose u. Peter Steinmetz (Übers.), <titel>Ch
 <lemma>Lorenzo Guglielmo Traversagni de Savone</lemma>
 <eintrag>Ca. 1425–1503. Franziskaner aus Savona, humanistischer Gelehrter, siehe <wwwlink address="http://d-nb.info/gnd/1021024139">GND</wwwlink>.
 </eintrag>
-<subsection id="traversagni-epistulandi " type="neuzeit" sort="10">
+<subsection id="traversagni-epistulandi" type="neuzeit" sort="10">
 <lemma>Traversagni, <titel>Modus epistulandi</titel></lemma>
 <eintrag>
 <titel>Modus epistulandi Guilhelmi Saphonensis</titel> (auch <titel>Ars epistolandi</titel>). Zuerst etwa 1478. Digitalisat einer Inkunabel Leipzig 1499: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00006362-2">BSB München: Res/4 Ph.sp. 14 c#Beibd.2</wwwlink>.
