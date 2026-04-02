@@ -1685,11 +1685,16 @@ Es wurde wohl auch eine französische Version für <link ref="friedrich-II" link
 <lemma>Berger, <titel>Untersuchung von der Beschaffenheit der künftigen Schöpfungen</titel></lemma>
 <eintrag>
 <titel>Untersuchung von der Beschaffenheit der künftigen Schöpfungen, dem Zustande des künftigen Lebens und der Geschlechtsliebe in der Seligkeit; von D. Christian Gottlieb Berger</titel> (Berlin 1780). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN1793527385">SUB Göttingen: DD2004 A 169</wwwlink>.</eintrag>
-</subsection>Daedalus, d. i. neue Erfindung zum Vortheil der Schiffahrt. Berlin 1781
+</subsection>
 <subsection id="berger-daedalus" type="neuzeit" sort="50">
 <lemma>Berger, <titel>Daedalus</titel></lemma>
 <eintrag>
-<titel>Daedalus, das iist, Neue Erfindung zum Vortheil der Schiffahrt überhaupt, hauptsächlich aber auf der See, von Christian Gottlieb Berger</titel> (Berlin 1781). Digitalisat: <wwwlink address="https://nbn-resolving.org/html/urn%3Anbn%3Ade%3Absz%3A21-dt-133042">UB Tübingen</wwwlink>.</eintrag>
+<titel>Daedalus, das ist, Neue Erfindung zum Vortheil der Schiffahrt überhaupt, hauptsächlich aber auf der See, von Christian Gottlieb Berger</titel> (Berlin 1781). Digitalisat: <wwwlink address="https://nbn-resolving.org/html/urn%3Anbn%3Ade%3Absz%3A21-dt-133042">UB Tübingen</wwwlink>.</eintrag>
+</subsection>
+<subsection id="berger-grundkrafte" type="neuzeit" sort="60">
+<lemma>Berger, <titel>Die Lehre von den drey Grundkräften</titel></lemma>
+<eintrag>
+<titel>Die Lehre von den drey Grundkräften und Elementen aller Dinge; nebst Beweisen daß die Erde etc. von einem maiestätischen Eisgewölbe umgeben sey, und andern damit verwandten neuen Wahrheiten und Entdeckungen in der Physik, von D. Christian Gottlieb Berger</titel> (Dessau: Buchhand der Gelehrten 1781). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN678785147">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -4525,9 +4530,14 @@ Dangeuil verwandte sehr frei J. Tuckers <link ref="tucker" subref="tucker-essay"
 </subsection>
 </kommentar>
 
+<kommentar id="danovius" type="neuzeit">
+<lemma>Ernst Jakob Danovius</lemma>
+<eintrag>1741–1782. Ital. Lutherischer Theologe in Jena, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd115358072.html#adbcontent">Frank, G.: Danovius, Ernst Jakob, in: <titel>ADB</titel>&#x202F;4 (1876), S.&#x202F;746</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="dante" type="neuzeit">
 <lemma>Dante Alighieri</lemma>
-<eintrag>1256–1321. Ital. Dichter und Philosoph</eintrag>
+<eintrag>1256–1321. Italienischer Dichter und Philosoph</eintrag>
 <subsection id="dante-commedia" type="neuzeit">
 <lemma>Dante, <titel>Divina Commedia</titel></lemma>
 <eintrag>
@@ -9118,7 +9128,7 @@ Zitierte Ausgabe der Werke:<line type="break" />
 Johann Gottfried Herder: <titel>Werke</titel> in zehn Bänden., hg.&#xA0;v. Martin Bollacher, Günter Arnold u.a. (Frankfurt a.&#x202F;M. 1985–2000).<line type="break" />
 Sofern Texte dort nicht ediert sind: SWS: <titel>Herders Sämmtliche Werke,</titel> hg.&#xA0;v. Bernhard Suphan (33 Bde., Berlin 1877–1913).<line type="break" />
 Zitierte Ausgabe der Briefe:<line type="break" />
-Von Herder: Johann Gottfried Herder: <titel>Briefe</titel>, Gesamtausgabe 1763–1803, 18 Bde., hg.&#xA0;v. der Stiftung Weimarer Klassik (Goethe- und Schiller-Archiv) (Weimar 1977–2016) [=&#x202F;HBGA].<line type="break" />
+Von Herder: <link ref="1977" linktext="true" />.<line type="break" />
 An Herder:<line type="break" />
 <titel>Johann Gottfried von Herder’s Lebensbild.</titel> Sein chronologisch geordneter Briefwechsel […]. Hg. von seinem Sohne Dr. Emil Gottfried von Herder (6 Bde., Erlangen 1846).<line type="break" />
 Von und an Herder: <titel>Ungedruckte Briefe aus Herders Nachlaß;</titel> Herders Briefwechsel mit Gleim, Nicolai, Harknoch, Heyne u.a., hg.&#x202F;von Heinrich Düntzer und Ferdinand Gottfried Herder, 3 Bde. (Leipzig 1861–1862). Digitalisate: <wwwlink address="https://books.google.de/books?id=_iBTAAAAcAAJ">Bd. 1 (Briefwechsel mit Gleim und Nicolai)</wwwlink>, <wwwlink address="https://books.google.de/books?id=F_4p94semywC">Bd. 2 (Briefwechsel mit Hartknoch, Heyne u.a.)</wwwlink>, <wwwlink address="https://books.google.de/books?id=5yhU_A1yQfoC">Bd. 3</wwwlink>.<line type="break" />
@@ -9426,6 +9436,12 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <lemma>Herder, <titel>Winkelmann, Leßing, Sulzer</titel></lemma>
 <eintrag>
 <titel>Winkelmann, Leßing, Sulzer</titel>. – Drei Würdigungstexte über <link ref="winckelmann" linktext="false">Winckelmann</link>, <link ref="lessing" linktext="false">Lessing</link> und <link ref="sulzer" linktext="false">Sulzer</link> in den September/Oktober-Heften des <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkurs</titel></link>: <titel>Johann Winkelmann. Gebohren 1718, ermordet 1768</titel> im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=18%2C19">3. Vj. 1781 (September), S.&#x202F;194–210</wwwlink> – <titel>G. E. Leßing. Gebohren 1729, gestorben 1781</titel> im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=18%2C19">4. Vj. 1781 (Oktober), S.&#x202F;1–29</wwwlink> – und <titel>J.G. Sulzer. Gebohren 1719. gestorben 1779</titel> <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=46%2C47">4. Vj. 1781 (Oktober), S.&#x202F;30–35</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="herder-seelenwandrung" type="neuzeit" sort="630">
+<lemma>Herder, <titel>Ueber die Seelenwandrung</titel></lemma>
+<eintrag>
+<titel>Ueber die Seelenwandrung. Drei Gespräche</titel>, in: <link ref="teutsche-merkur" linktext="false"><titel>Teutscher Merkur</titel></link>, 1.&#x202F;Vj. 1782; Gespräch 1 und 2 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=18%2C19">Januar-Heft, S.&#x202F;12–54</wwwlink>, Gespräch 3 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=106%2C107">Februar-Heft, S.&#x202F;96–123</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="herder-ideen" type="neuzeit" sort="690">
@@ -22053,7 +22069,13 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
  <subsection id="voss-musenalmanach1781" type="neuzeit" sort="30">
 <lemma>Voß (Hg.), <titel>(Hamburger) Musenalmanach 1781</titel></lemma>
 <eintrag>
-<titel>Musen-Almanach oder poetische Blumenlese für das Jahr 1781.</titel> Herausgegeben von Voß und Gockingk (Hamburg: Bohn 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10122320-0">BSB München: P.o.germ. 1531-1781</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/113/">Musenalm</wwwlink>.
+<titel>Musen-Almanach oder poetische Blumenlese für das Jahr 1781.</titel> Herausgegeben von Voß und Gockingk (Hamburg: Bohn [1780]). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10122320-0">BSB München: P.o.germ. 1531-1781</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/113/">Musenalm</wwwlink>.
+</eintrag>
+</subsection>
+ <subsection id="voss-musenalmanach1782" type="neuzeit" sort="35">
+<lemma>Voß (Hg.), <titel>(Hamburger) Musenalmanach 1782</titel></lemma>
+<eintrag>
+<titel>Musen-Almanach oder poetische Blumenlese für das Jahr 1782.</titel> Herausgegeben von Voß und Gockingk (Hamburg: Bohn [1781]). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10122320-0">BSB München: P.o.germ. 1531-1781</wwwlink>. Vgl. <wwwlink address="https://musenalm.de/almanach/114/">Musenalm</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="voss-odyssee" type="neuzeit" sort="40">
