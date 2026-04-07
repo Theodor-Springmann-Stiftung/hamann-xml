@@ -2275,7 +2275,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
  <subsection id="boie-museum" type="neuzeit" sort="20">
 <lemma><titel>Deutsches Museum</titel></lemma>
 <eintrag>
-<titel>Deutsches Museum</titel> (Leipzig 1776–1788). Bis 1778 gemeinsam herausgegeben mit <link ref="dohm-cw" linktext="true" />. Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1923976/">Universitätsbibliothek Bielefeld</wwwlink>. – <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10614670-0">BSB München: Per. 163</wwwlink>
+<titel>Deutsches Museum</titel> (Leipzig 1776–1788). Bis 1778 gemeinsam herausgegeben mit <link ref="dohm-cw" linktext="true" />. Digitalisat: <wwwlink address="https://ds.ub.uni-bielefeld.de/viewer/toc/1923976/">Universitätsbibliothek Bielefeld</wwwlink>. – <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10614670%2FBV002590692">BSB München: Per. 163</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -2912,7 +2912,7 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 <lemma>Buffon, <titel>Discours prononcé</titel></lemma>
 <eintrag>
 <titel>Discours prononcé dans l'Académie Françoise le Samedi 25 Août 1753</titel>.<line type="break" />
-Wiederabruck als Anhang zum 5. Teil der <titel>Histoire Naturelle.Histoire naturelle, générale et particulière. Nouvelle Édition</titel> (Bd. 5, Paris 1769).
+Wiederabruck als Anhang zum 5. Teil der <titel>Histoire naturelle, générale et particulière. Nouvelle Édition</titel> (Bd. 5, Paris 1769), Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10919777?page=426%2C427">BSB München: Res/H.nat. 88-5</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="buffon-4fuesse" type="neuzeit"  sort="30">
@@ -3458,7 +3458,7 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <eintrag>
 <titel>Vida y Hechos del ingenioso Hidalgo Don Quixote de la Mancha, compuesta por Miguèl de Cervantes Saavedra</titel>, 4 Bde (Den Haag 1744) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 164/560: „Vida y Hechos del ingenioso Hidalgo Don Quixote de la Mancha, compuesta por Miguel de Cervantes Saavedra, Tom. I–IV. Haia 744. mit Kupf.“]. Digitalisat: <wwwlink address="http://bdh.bne.es/bnesearch/detalle/bdh0000022647">Biblioteca Digital Hispánica: R/32262 V.1–jR/32265 V.4</wwwlink>.<line type="break" />
 Übers.: <titel>Des berühmten Ritters Don Quixote von Mancha lustige und sinnreiche Geschichte, abgefasset von Migvel Cervantes Saavedra</titel> (2 Bde., 2. Aufl., Leipzig 1753) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 149/331: „Geschichte des Don Quixote, 1. 2. Th. Leipz. 753“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10607210-9">BSB München: P.o.hisp. 63 q-1</wwwlink>.<line type="break" />
-Übers.: <titel>Leben und Thaten des weisen Junkers Don Quixote von Mancha. Neue Ausgabe, aus der Urschrifft des Cervantes, nebst der Fortsetzung des Avellaneda</titel>, übers. von <link ref="bertuch" linktext="true" /> (6 Bde., Weimar, Leipzig 1775–1777). Digitalisate: <wwwlink address="https://opendata.uni-halle.de/handle/1981185920/83307">ULB Halle: Dk 1265 d</wwwlink>. Diese Übersetzung wurde von Hamanns rezensiert in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beylage zu St.&#x202F;19, 4.3.1776, siehe N&#x202F;IV, S.&#x202F;426–427.
+Übers.: <titel>Leben und Thaten des weisen Junkers Don Quixote von Mancha. Neue Ausgabe, aus der Urschrifft des Cervantes, nebst der Fortsetzung des Avellaneda</titel>, übersetzt von <link ref="bertuch" linktext="true" /> (6 Bde., Weimar, Leipzig 1775–1777). Digitalisate: <wwwlink address="https://opendata.uni-halle.de/handle/1981185920/83307">ULB Halle: Dk 1265 d</wwwlink>. Von Hamann rezensiert in <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, Beylage zu St.&#x202F;19, 4.3.1776, siehe N&#x202F;IV, S.&#x202F;426–427.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9495,7 +9495,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 
 <kommentar id="herder-cd-g" type="neuzeit">
 <lemma>Catharina Dorothea Güldenhorn</lemma>
-<eintrag>1748–1793. Geb. Herder, jüngere Schwester von <link ref="herder" linktext="true" />, verheiratet mit <link ref="gueldenhorn-c" linktext="true" />.</eintrag>
+<eintrag>1748–1793. Geb. Herder, jüngere Schwester von <link ref="herder" linktext="true" />, verheiratet mit <link ref="gueldenhorn-c" linktext="true" />, lebte bis 1789 in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="herel" type="neuzeit">
