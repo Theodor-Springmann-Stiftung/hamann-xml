@@ -538,7 +538,19 @@ Bd. 1 (London 1755): <titel>Memoirs: containing the lives of several ladies of G
 <eintrag><titel>Archimedis Circuli dimensio. Cum programmate Chph. Meureri</titel> (Leipzig 1601). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 13/202: „Archimedis Circulus Lips. 601“].
 </eintrag>
 </subsection>
-</kommentar>	
+</kommentar>
+
+<kommentar id="arconville" type="neuzeit">
+<lemma>Geneviève Thiroux d’Arconville</lemma>
+<eintrag>1720–1805. Französische Schriftstellerin und Naturforscherin, siehe <wwwlink address="https://d-nb.info/gnd/120869055">GND</wwwlink>.
+</eintrag>
+<subsection id="arconville-morales" type="neuzeit" >
+<lemma>Geneviève Thiroux d’Arconville, <titel>Les Oeuvres Morales de Mr. Diderot</titel></lemma>
+<eintrag>
+<titel>Les Oeuvres Morales de Mr. Diderot: Contenant son traité de l’amitié et celui des passions</titel> (Frankfurt 1770). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040291-7">BSB München: Ph.pr. 341-1/2</wwwlink>. – Unter <link ref="diderot" linktext="false">Diderots</link> Namen veröffentlicht.<line type="break" />
+Übers.: <titel>Des Herrn Diderot Moralische Wercke</titel> (2 Bde., Frankfurt, Leipzig 1770). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040299-5">BSB München: Ph.pr. 343</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
 
 <kommentar id="argis" type="neuzeit">
 <lemma>Antoine-Gaspard Boucher d’Argis</lemma>
@@ -1778,7 +1790,7 @@ Es wurde wohl auch eine französische Version für <link ref="friedrich-II" link
 
 <kommentar id="bernoulli-j-iii" type="neuzeit">
 <lemma>Johann III Bernoulli</lemma>
-<eintrag>1744–1807. Mathematiker und Geograph, seit 1764 Mitglied der Berliner Akademie und königlich-preußischer Astronom in Berlin; im Freundeskreis von <link ref="friedrich-II" linktext="true" />. Reiste 1779 durch Königsberg und berichtete darüber im 3. Band seiner <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel>, zu Hamann vgl. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10466343?page=82%2C83">S.&#x202F;76</wwwlink>; Sohn von <link ref="bernoulli-j-ii" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116170654.html#ndbcontent">Spiess, Otto: Bernoulli, Johann (III), in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;131</wwwlink>.
+<eintrag>1744–1807. Mathematiker und Geograph, seit 1764 Mitglied der Berliner Akademie und königlich-preußischer Astronom in Berlin; im Freundeskreis von <link ref="friedrich-II" linktext="true" /> Reiste 1779 durch Königsberg und berichtete darüber im 3. Band seiner <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel>, zu Hamann vgl. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10466343?page=82%2C83">S.&#x202F;76</wwwlink>; Sohn von <link ref="bernoulli-j-ii" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116170654.html#ndbcontent">Spiess, Otto: Bernoulli, Johann (III), in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;131</wwwlink>.
 </eintrag>
 <subsection id="bernoulli-reisen" type="neuzeit" sort="10">
 <lemma>Bernoulli, <titel>Reisen durch Brandenburg, Pommern, Preussen, Curland, Russland und Pohlen in den Jahren 1777 und 1778</titel></lemma>
@@ -4812,11 +4824,6 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann
 <subsection id="diderot-art" type="neuzeit" sort="40">
 <lemma>Diderot, <titel>Art</titel></lemma>
 <eintrag>Zusammen mit <link ref="yvon" linktext="true" /> und <link ref="mallet" linktext="true" />, Artikel „Art“ in der <link ref="encyclopedie" linktext="true" />, Bd.&#x202F;1, S.&#x202F;713ff.</eintrag>
-</subsection>
-<subsection id="diderot-morales" type="neuzeit" sort="50">
-<lemma>Marie Geneviève Charlotte Thiroux d’Arconville, <titel>Les Oeuvres Morales de Mr. Diderot</titel></lemma>
-<eintrag>
-<titel>Les Oeuvres Morales De Mr. Diderot: Contenant son traité de l’amitié et celui des passions</titel> (Frankfurt 1770). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040291-7">BSB München: Ph.pr. 341-1/2</wwwlink>. – Diderot zugeschrieben.</eintrag>
 </subsection>
 <subsection id="diderot-seneque" type="neuzeit" sort="60">
 <lemma>Diderot, <titel>Essai sur la vie de Séneque</titel></lemma>
@@ -8286,7 +8293,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;25–33.
 <lemma>Hamann, <titel>Philologische Einfälle</titel></lemma>
 <eintrag>
 <titel>Philologische Einfälle und Zweifel über eine akademische Preisschrift. Entworfen vom Magus in Norden. Im Weinmonate 1772.</titel><line type="break" />
-Zu Lebzeiten nicht gedruckt. Hamann drängte <link ref="nicolai" linktext="true" />, <link ref="kanter" linktext="true" />, <link ref="hartung-gl" linktext="true" /> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift, in Kombination mit <link ref="hamann" subref="hamann-salomon" linktext="true" />, vgl. <intlink letter="380" page="23" line="15" linktext="true" />; im Frühjahr 1774 sandte Hamann das Manuskript an <link ref="moser" linktext="true" /> (<intlink letter="400" page="70" line="31" linktext="true" />), der es 1776 an <link ref="herder" linktext="true" /> gab (im November 1776 gab dieser es Goethe zu lesen, vgl. Goethe: Briefe, Bd. 3 II A, Berlin u.a. 2014), S.&#x202F;429–431); zur abenteuerlichen Geschichte des Manuskripts vgl. zusammenfassend N&#x202F;III,423, zur politischen Brisanz <link ref="nad-j-1949b" linktext="true" />, ebd.,&#x202F;205f.<line type="break" />
+Zu Lebzeiten nicht gedruckt. Hamanns Publikationspläne gingen stets auf eine gemeinsame Publikation mit <link ref="hamann" subref="hamann-salomon" linktext="false"><titel>Au Salomon de Prusse</titel></link>, mit welcher Schrift die <titel>Philologischen Einfälle</titel> auch gemeinsam überliefert sind. Hamann drängte zunächst halböffentlich <link ref="kanter" linktext="false">Kanter</link>, <link ref="hartung-gl" linktext="false">Hartung</link> und die <link ref="dreikronenloge" linktext="false">Dreikronenloge</link> zum Druck der Schrift (vgl. <intlink letter="380" page="23" line="15" linktext="true" />), 1773 auch öffentlich <link ref="nicolai" linktext="false">Nicolai</link> (im <link ref="hamann-selbstgesprach-eines-autors" linktext="false"><titel>Selbstgespräch eines Autors</titel></link>), 1772/73 wohl auch <link ref="hartknoch" linktext="false">Hartknoch</link> (vgl. <intlink letter="460" page="216" line="25" linktext="true" />). Im Frühjahr 1774 sandte Hamann das Manuskript an <link ref="moser" linktext="true" /> (<intlink letter="400" page="70" line="31" linktext="true" />), der es 1776 an <link ref="herder" linktext="true" /> gab (im November 1776 gab dieser es Goethe zu lesen, vgl. Goethe: Briefe, Bd. 3 II A, Berlin u.a. 2014), S.&#x202F;429–431); zur abenteuerlichen Geschichte des Manuskripts vgl. zusammenfassend N&#x202F;III,423, zur politischen Brisanz <link ref="nad-j-1949b" linktext="true" />, ebd.,&#x202F;205f.<line type="break" />
 Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
 </eintrag>
@@ -9080,7 +9087,7 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="hephaistion" type="neuzeit">
 <lemma>Hephaistion von Theben</lemma>
-<eintrag>Geb. 26. November 380. Hellenistischer Astrologe und Kompilator (kein Priester). Im Kontext der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> suchte Hamann nach Literatur bzw. Lexikoneinträgen über ihn, um <link ref="starck" linktext="false">Starck</link> der Beliebigkeit seines Titels <link ref="starck" subref="starck-hephaestion" linktext="false">zu überführen</link>.
+<eintrag>Geb. 26. November 380. Hellenistischer Astrologe und Kompilator (kein Priester). Im Kontext der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> suchte Hamann nach Literatur bzw. Lexikoneinträgen über ihn, um <link ref="starck" linktext="false">Starck</link> der Beliebigkeit seines <link ref="starck" subref="starck-hephaestion" linktext="false">Titels</link> zu überführen.
 </eintrag>
 </kommentar>
 
