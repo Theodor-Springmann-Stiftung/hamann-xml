@@ -2592,6 +2592,12 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 </subsection>
 </kommentar>
 
+
+<kommentar id="bremer" type="neuzeit">
+<lemma>Benedikt Karl Christian Bremer</lemma>
+<eintrag>1717–1779. Geheimrat und Staatsminister der Landesregierung von Hannover, siehe <wwwlink address="https://d-nb.info/gnd/137213115">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="bremse" type="neuzeit">
 <lemma>NN. Bremse (Brömbsen)</lemma>
 <eintrag>Vll. Assessor bei der holsteinischen Kanzlei in St. Petersburg.</eintrag>
@@ -5276,7 +5282,7 @@ E
 <subsection id="eberhard-apologie" type="neuzeit" sort="10">
 <lemma>Eberhard, <titel>Neue Apologie des Sokrates</titel></lemma>
 <eintrag>
-<titel>Neue Apologie des Sokrates, oder Untersuchung der Lehre von der Seligkeit der Heiden</titel> (Berlin, Stettin: Nicolai 1772, 2. Aufl. 2 Bde., 1776/1778) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;103/110: „J. A. Eberhard’s neue Apologie des Sokrates, Berl. 725“]. Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000662600000000">SBB-PK Berlin: Dd 8901</wwwlink>.
+<titel>Neue Apologie des Sokrates, oder Untersuchung der Lehre von der Seligkeit der Heiden</titel> (Berlin, Stettin: Nicolai 1772, neue erweiterte Auflage 2 Bde., 1776–1778) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;103/110: „J. A. Eberhard’s neue Apologie des Sokrates, Berl. 725“]. Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB0000662600000000">SBB-PK Berlin: Dd 8901</wwwlink>. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10773210-8">BSB München: Polem. 788</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="eberhard-theorie" type="neuzeit" sort="20">
@@ -23155,7 +23161,7 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 
 <kommentar id="zachariae" type="neuzeit">
 <lemma>Just Friedrich Wilhelm Zachariae</lemma>
-<eintrag>1726–1777. Prof. der Dichtkunst am Collegium Carolinum in Braunschweig, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118808230.html#adbcontent">Schüddekopf, Carl: Zachariae, Justus Friedrich Wilhelm, in: <titel>ADB</titel>&#x202F;44 (1898), S.&#x202F;634–641</wwwlink>.
+<eintrag>1726–1777. Professor der Dichtkunst am Collegium Carolinum in Braunschweig, siehe: <wwwlink address="https://www.deutsche-biographie.de/pnd118808230.html#adbcontent">Schüddekopf, Carl: Zachariae, Justus Friedrich Wilhelm, in: <titel>ADB</titel>&#x202F;44 (1898), S.&#x202F;634–641</wwwlink>.
 </eintrag>
 <subsection id="zachariae-poesien" type="neuzeit" sort="10">
 <lemma>Zachariae, <titel>Scherzhafte Epische Poesien</titel></lemma>
@@ -23192,6 +23198,12 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <eintrag><titel>Auserlesene Stücke der besten Deutschen Dichter von Martin Opitz bis auf gegenwärtige Zeiten. Mit historischen Nachrichten und kritischen Anmerkungen versehen Friedrich Wilhelm Zachariae. Erster Band</titel> (Braunschweig: Fürstl. Waisenhausbuchhandlung 1766).
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="zachariae-gt" type="neuzeit">
+<lemma>Gotthilf Traugott Zachariae</lemma>
+<eintrag>1729–1777. Lutherischer Theologe, 1765 –1775 Professor der Theologie in Göttingen, 1775 Ruf nach Göttingen; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118808354.html#adbcontent">Carstens, Carsten Erich: Zachariae, Gotthilf Traugott, in: <titel>ADB</titel>&#x202F;44 (1898), S.&#x202F;617</wwwlink>.
+</eintrag>
 </kommentar>
  
 <kommentar id="zedlitz" type="neuzeit">
