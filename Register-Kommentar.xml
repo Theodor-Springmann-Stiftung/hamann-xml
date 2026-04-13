@@ -11383,7 +11383,7 @@ J. G. Lindner konnte sein Buch zur <link ref="lindner-jg" subref="schreibart" li
 
 <kommentar id="konigsberger-f-a" type="neuzeit">
 <lemma>Wochentliche Königsbergische Frag- und Anzeigungsnachrichten</lemma>
-<eintrag>„Intelligenzblatt“, erschien ab 1727, herausgegeben vom Königsberger Adress-Kontor, ab 1752 von <link ref="hartung-hj" linktext="true" /> gedruckt, Anzeigenblatt mit privaten und amtlichen Bekanntmachungen in Königsberg sowie kürzerern wissenschaftlichen Beiträgen der Universitätsprofessoren (seit 1729 waren diese dazu verpflichtet); auch <link ref="knutzen" linktext="true" />, <link ref="kypke" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="kant" linktext="true" /> veröffentlichte darin. Letzterer schon 1754 zur Bewerbung auf eine Professur, 1756 schrieb er dort ausführlich über das Erdbeben in Lissabon. <link ref="hamann" linktext="false">Hamann</link> veröffentlichte 1760 die <link ref="hamann" subref="hamann-versuch" linktext="false"><titel>Akad. Frage</titel></link>, die <link ref="hamann" subref="hamann-anmerkungen" linktext="false"><titel>Wortfügung</titel></link> und die <link ref="hamann" subref="hamann-magi" linktext="false"><titel>Magi</titel></link> darin.</eintrag>
+<eintrag>„Intelligenzblatt“, erschien ab 1727, herausgegeben vom Königsberger Adress-Kontor, ab 1752 von <link ref="hartung-hj" linktext="true" /> gedruckt, Anzeigenblatt mit privaten und amtlichen Bekanntmachungen in Königsberg sowie kürzerern wissenschaftlichen Beiträgen der Universitätsprofessoren (seit 1729 waren diese dazu verpflichtet); auch <link ref="knutzen" linktext="true" />, <link ref="kypke" linktext="true" />, <link ref="hippel" linktext="true" /> und <link ref="kant" linktext="true" /> veröffentlichten darin. Letzterer schon 1754 zur Bewerbung auf eine Professur, 1756 schrieb er dort ausführlich über das Erdbeben in Lissabon. <link ref="hamann" linktext="false">Hamann</link> veröffentlichte 1760 die <link ref="hamann" subref="hamann-versuch" linktext="false"><titel>Akad. Frage</titel></link>, die <link ref="hamann" subref="hamann-anmerkungen" linktext="false"><titel>Wortfügung</titel></link> und die <link ref="hamann" subref="hamann-magi" linktext="false"><titel>Magi</titel></link> darin.</eintrag>
 </kommentar>
 
 <kommentar id="konigsbergsche-gelehrte-p-z" type="neuzeit">
@@ -13872,12 +13872,12 @@ In der <link ref="hamann" subref="h-dangeuil" linktext="false"><titel>Beylage zu
 
 <kommentar id="mara-ge" type="neuzeit">
 <lemma>Gertrud Elisabeth Mara</lemma>
-<eintrag>1749–1833. Französischer commissaire de police</eintrag>
+<eintrag>1749–1833. Geb. Schmeling. Opernsängerin, 1776 in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118730770.html#adbcontent">Kürschner, Joseph: Mara, Gertrud, in: <titel>ADB</titel>&#x202F;20 (1884), S.&#x202F;286–289.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="mare-n" type="neuzeit">
 <lemma>Nicolas de La Mare</lemma>
-<eintrag>1639–1723. Geb. Schmeling; Opernsängerin, 1776 in Berlin, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118921088.html#adbcontent">Kürschner, Joseph: Mara, Elisabeth, in: <titel>ADB</titel>&#x202F;20 (1884), S.&#x202F;286–289.</wwwlink></eintrag>
+<eintrag>1639–1723. Französischer commissaire de police, siehe <wwwlink address="http://d-nb.info/gnd/1053408900">GND</wwwlink>.</eintrag>
 <subsection id="mare-police" type="neuzeit">
 <lemma>de La Mare, <titel>Traité de la police</titel></lemma>
 <eintrag>
@@ -17909,7 +17909,12 @@ Dt. Übers.: <titel>Briefe der Milady Juliane Catesby an die Milady Henriette Ca
 
 <kommentar id="richter-jg" type="neuzeit">
 <lemma>Johann Gottlieb Richter</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Sohn des Pfarrers Gottlieb Richter (1709–1775); Sekretär bei der Kriegs- und Domänenkammer in Königsberg.</eintrag>
+<eintrag>Lebensdaten nicht ermittelt. Sohn von <link ref="richter-g" linktext="true" />, Sekretär bei der Kriegs- und Domänenkammer in Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="richter-g" type="neuzeit">
+<lemma>Gottlieb Richter</lemma>
+<eintrag>1709–1775. Pfarrer in Königsberg und Magister.</eintrag>
 </kommentar>
 
 <kommentar id="riedel" type="neuzeit">
