@@ -3789,7 +3789,7 @@ Dt. Übers. zitiert nach: Manfred Fuhrmann (Hg.), <titel>Die Reden gegen Verres 
 <kommentar id="claudius" type="neuzeit">
 <lemma>Matthias Claudius</lemma>
 <eintrag>1740–1815. Sekretär in Kopenhagen, 1768–1770 Mitarbeiter der <link ref="hamb-adresscomtoir" linktext="false">Hamburgischen Adreß-Comtoir-Nachrichten</link>, 1771–1775 Redakteur des <titel>Wandsbecker Bothen</titel>, 1776–1777 Mitglied der Oberlandkommission in Darmstadt; Freund Hamanns; siehe <wwwlink address="https://www.deutsche-biographie.de/sfz35433.html#ndbcontent">Roedl, Urban: Claudius, Matthias, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;266f.</wwwlink><line type="break" />
-Der umfangreiche Briefwechsel mit Hamann ist bis auf wenige Ausnahmen nicht überliefert; Hamanns Briefe verbrandte Claudius aus Diskretionsgründen vmtl. 1806. Claudius’ Briefe sind teilweise ediert bei: <titel>Matthias Claudius: Briefe an Freunde</titel>, hg. von Hans Jessen (Berlin 1938). – Zu Hamanns Freundschaft mit Claudius und ihrem Briefwechsel vgl. <link ref="kra-x-2016" linktext="false">Kranefuss: <titel>»Und ließen sich das Heu und Stroh nicht irren«</titel></link>.<line type="break" />
+Der umfangreiche Briefwechsel mit Hamann ist bis auf wenige Ausnahmen nicht überliefert; Hamanns Briefe verbrandte Claudius aus Diskretionsgründen vmtl. 1806. Claudius’ Briefe sind teilweise ediert in <titel>Matthias Claudius: Briefe</titel>, hg. von Hans Jessen (2 Bde., Berlin 1938). – Zu Hamanns Freundschaft mit Claudius und ihrem Briefwechsel vgl. <link ref="kra-x-2016" linktext="false">Kranefuss: <titel>»Und ließen sich das Heu und Stroh nicht irren«</titel></link>, allgemein zur Biographie: Annelen Kranefuss: <titel>Matthias Claudius</titel> (Hamburg 2011).<line type="break" />
 Claudius übersetzte u.a. <link ref="terrasson" subref="terrasson-sethos" linktext="true" /> und <link ref="ramsey" subref="ramsey-cyrus" linktext="true" />.
 </eintrag>
 <subsection id="claudius-bothe" type="neuzeit" sort="10">
@@ -5802,6 +5802,11 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 <eintrag>
 <titel>Some specimens of the Poetry of the antient Welsh Bards translated into english, with Explanatory Notes on the Historical Passages and a short Account of Men and Places mentioned by the Bards […] By the Revd Mr. Evan Evans</titel> (London 1764). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 132/42: „Some Specimens of the Poetry of the ancient Welsh Bards by Mr. Evan Evans, Lond. 764“]. Digitalisat: <wwwlink address="http://hdl.handle.net/10107/4788816">The National Library of Wales</wwwlink>.</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="eymes" type="neuzeit">
+<lemma>Carl Valentin Eymes</lemma>
+<eintrag>1744–1788. Literarisch dilettierender Jurist und <link ref="claudius" linktext="false">Claudius’</link> Vorgesetzter in der Darmstädter Oberlandkommission, vgl. Kranefuss: <titel>Matthias Claudius</titel> (Hamburg 2011), S.&#x202F;145.</eintrag>
 </kommentar>
 
 F
@@ -8834,6 +8839,18 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <lemma>Hausen, <titel>Neue Kriegslieder mit Melodien</titel></lemma>
 <eintrag>
 <titel>Neue Kriegslieder mit Melodien</titel> (Leipzig, Cassel und Zwäzen [Erfurt] 1769). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10576364-6">BSB München: L.eleg.m. 467 b</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="hautchamp" type="neuzeit">
+<lemma>Barthélemi Marmont du Hautchamp</lemma>
+<eintrag>1682-1760. Französischer Ökonom, siehe <wwwlink address="http://d-nb.info/gnd/100795323">GND</wwwlink>.
+</eintrag>
+<subsection id="hautchamp-finances" type="neuzeit">
+<lemma>Hautchamp, <titel>Histoire du Systeme des Finances</titel></lemma>
+<eintrag>
+<titel>Histoire du Systeme des Finances, Sous la Minorité de Louis XV</titel> (6 Bde., Den Haag 1739). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10917027-0">BSB München: Res/Gall.g. 241 e</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -18654,7 +18671,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 </kommentar>
 
 <kommentar id="schaumburg-lippe-wilhelm" type="neuzeit">
-<lemma>Graf Wilhelm Friedrich Ernst zu Schaumburg-Lippe</lemma>
+<lemma>Graf Wilhelm zu Schaumburg-Lippe</lemma>
 <eintrag>1724–1777. Regent der Grafschaft Schaumburg-Lippe, Generalmajor im Siebenjährigen Krieg und Militärtheoretiker, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz85621.html">Falkmann, Rudolf: Wilhelm, in: <titel>ADB</titel>&#x202F;43 (1898), S.&#x202F;202f.</wwwlink></eintrag>
 </kommentar>
 
