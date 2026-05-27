@@ -8856,7 +8856,7 @@
 		<letterTradition letter="486">
 			<app ref="1">
 				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr.
-				487 und 488.
+				488 und 490.
 </app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
@@ -8869,6 +8869,9 @@
 
 
 		<letterTradition letter="487">
+			<app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 485 und 488.
+</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
@@ -8970,7 +8973,9 @@
 		</letterTradition>
 
 
-		<letterTradition letter="488">
+		<letterTradition letter="488"><app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 487 und 486.
+</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths

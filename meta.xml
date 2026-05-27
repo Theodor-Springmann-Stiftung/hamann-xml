@@ -9321,7 +9321,7 @@
       </letterDesc>
       <letterDesc letter="486">
         <date value="Königsberg, 13. April 1777" />
-        <sort value="1777-04-13" />
+        <sort value="1777-04-13" order="200" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
@@ -9359,7 +9359,7 @@
       </letterDesc>
       <letterDesc letter="488">
         <date value="Königsberg, 13. April 1777" />
-        <sort value="1777-04-13" />
+        <sort value="1777-04-13" order="100" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
