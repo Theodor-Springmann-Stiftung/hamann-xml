@@ -5803,6 +5803,11 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 <eintrag>
 <titel>Some specimens of the Poetry of the antient Welsh Bards translated into english, with Explanatory Notes on the Historical Passages and a short Account of Men and Places mentioned by the Bards […] By the Revd Mr. Evan Evans</titel> (London 1764). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> 132/42: „Some Specimens of the Poetry of the ancient Welsh Bards by Mr. Evan Evans, Lond. 764“]. Digitalisat: <wwwlink address="http://hdl.handle.net/10107/4788816">The National Library of Wales</wwwlink>.</eintrag>
 </subsection>
+<subsection id="evans-ballads" type="neuzeit" sort="10">
+<lemma>Evans, <titel>Some specimens of the Poetry of the antient Welsh Bards</titel></lemma>
+<eintrag>
+<titel>Evan’s Edition. Old ballads, historical and narrative, with some of modern date; Now first collected, and reprinted from rare Copies. With notes</titel> (2 Bde., London 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10744757-2">BSB München: P.o.angl. 23</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="eymes" type="neuzeit">
@@ -21506,13 +21511,13 @@ Hamann muss das Exemplar dieses Werk nach 1756 bekommen haben, da es ihm für di
 
 <kommentar id="twiss" type="neuzeit">
 <lemma>Richard Twiss</lemma>
-<eintrag>1747–1821. Engl. Schriftsteller.</eintrag>
+<eintrag>1747–1821. Englischer Reiseschriftsteller, siehe <wwwlink address="http://d-nb.info/gnd/117638951">GND</wwwlink>.</eintrag>
 <subsection id="twiss-travels" type="neuzeit">
 <lemma>Twiss, <titel>Travels through Portugal and Spain</titel></lemma>
 <eintrag>
-<titel>Travels through Portugal and Spain, in 1772 and 1773. With copper- plates and an appendix</titel> (London 1775).<line type="break" />
-Deutsche Übersetzung: <titel>Twiß's Reise durch Porugal und Spanien im Jahre 1772 und 1773 mit Anmerkungen von C. D. Ebeling</titel> (Leipzig 1776). <line type="break" />
-Französische Übersetzungen: <titel>Voyage en Portugal et en Espagne […] de Mr. Twiss à son journal</titel> (Berne 1776). – <titel>Voyage en Portugal et en Espagne fait en 1772 et 1773, traduit de l’Anglois</titel> (Berne 1776).
+<titel>Travels through Portugal and Spain, in 1772 and 1773. With copper- plates and an appendix</titel> (London 1775). Digitalisat: <wwwlink address="https://purl.pt/17071">Biblioteca Nacional de Portugal.</wwwlink><line type="break" />
+Deutsche Übersetzung: <titel>Twiß’s Reise durch Portugal und Spanien im Jahre 1772 und 1773 mit Anmerkungen von C. D. Ebeling</titel> (Leipzig 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11095705-5">SB Regensburg: 999/Hist.pol.661</wwwlink>.<line type="break" />
+Französische Übersetzungen: <titel>Voyage en Portugal et en Espagne fait en 1772 et 1773 par Richard Twiss</titel> (Bern 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10468403-4">BSB München: It.sing. 1085</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
