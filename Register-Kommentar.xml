@@ -3894,7 +3894,7 @@ Claudius übersetzte u.a. <link ref="terrasson" subref="terrasson-sethos" linkte
 </eintrag>
 </subsection>
 <subsection id="cless-magazin" type="neuzeit" sort="30">
-<lemma>Cless, <titel>Allgemeines geistliches Magazin</titel></lemma>
+<lemma>Cless, <titel>Algemeines geistliches Magazin</titel></lemma>
 <eintrag>
 <titel>Algemeines geistliches Magazin von Wörtern und Redensarten, deren richtige Erklärung und Gebrauch zum thätigen Christentum nüzlich und nötig ist mitgetheilt von M.D.J. Cleß</titel> (6 Bde., Tübingen: Heerbrandt 1779–1781). Digitalisat: <wwwlink address="https://catalog.hathitrust.org/Record/100220133">Ohio State University</wwwlink>. Vgl. das Studienheft 1780, N&#x202F;V,354. – Von Hamann für die <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> rezensiert, vgl. <intlink letter="598" page="212" line="9" linktext="true" /> und <intlink letter="614" page="267" line="24" linktext="true" />.
 </eintrag>
@@ -7538,6 +7538,16 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <eintrag>Lebensdaten nicht ermittelt. Zusammen mit <link ref="lindner-jg" linktext="true" /> und <link ref="lauson" linktext="true" /> in Königsberg immatrikuliert.</eintrag>
 </kommentar>
 
+<kommentar id="gregory" type="neuzeit">
+<lemma>John Gregory</lemma>
+<eintrag>1724–1773. Schottischer Arzt und medizinischer Schriftsteller, siehe <wwwlink address="https://d-nb.info/gnd/100142729">GND</wwwlink>.</eintrag>
+<subsection id="gregory-anfangsgrunde" type="neuzeit">
+<lemma>Gregory, <titel>Anfangsgründe der Behandlung der Krankheiten überhaupt, und der fieberhaften Krankheiten insbesondere</titel></lemma>
+<eintrag><titel>John Gregory Anfangsgründe der Behandlung der Krankheiten überhaupt, und der fieberhaften Krankheiten insbesondere. Aus dem Englischen nach der zweyten verbesserten Ausgabe übersetzt</titel> (Leipzig: Dyck 1777). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN728146142">SUB Göttingen</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="gresset" type="neuzeit">
 <lemma>Jean Baptiste Louis Gresset</lemma>
 <eintrag>1709–1777. Französischer Dichter, bis 1735 Jesuit, ab 1748 Mitglied der ‚Académie française‘. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;18, 1817), S.&#x202F;451–455.</eintrag>
@@ -7590,7 +7600,7 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 
 <kommentar id="grimm-fm" type="neuzeit">
 <lemma>Friedrich Melchior Grimm</lemma>
-<eintrag>1723–1807. Seit 1777 Frh. Grimm von Grimmhof, französischer Schriftsteller und Kritiker deutscher Sprache, seit 1748 in Paris, seit 1776 sachsen-goth. Gesandter am französischen Hof. Bedeutend auch als Dokumentar der Kultur- und Sozialgeschichte Frankreichs. Hg. der Correspondance littéraire, philosophique et critique (Paris 1753–82). <wwwlink address="https://www.deutsche-biographie.de/pnd118697765.html#ndbcontent"> Haacke, Wilmont: Grimm, Melchior Freiherr von, in: <titel>NDB</titel>&#x202F; 7 (1966), S.&#x202F;86–88</wwwlink>.
+<eintrag>1723–1807. Seit 1777 Freiherr Grimm von Grimmhof, französischer Schriftsteller und Kritiker deutscher Sprache, seit 1748 in Paris, seit 1776 sachsen-gothaischer Gesandter am französischen Hof. Bedeutend auch als Dokumentar der Kultur- und Sozialgeschichte Frankreichs. Hg. der Correspondance littéraire, philosophique et critique (Paris 1753–82). <wwwlink address="https://www.deutsche-biographie.de/pnd118697765.html#ndbcontent"> Haacke, Wilmont: Grimm, Melchior Freiherr von, in: <titel>NDB</titel>&#x202F; 7 (1966), S.&#x202F;86–88</wwwlink>.
 </eintrag>
 <subsection id="grimm-fm-petit" type="neuzeit" sort="10">
 <lemma>Grimm, <titel>Le petit prophète</titel></lemma>
@@ -15459,7 +15469,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <subsection id="moserj-schriften" type="neuzeit" sort="50">
 <lemma>Möser, <titel>Kleine Schriften</titel></lemma>
 <eintrag>
-<titel>Kleine Schriften</titel> (Bremen 1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10574327-1">BSB München: L.eleg.g. 266 o#Beibd.1</wwwlink>.</eintrag>
+<titel>Kleine Schriften</titel>. 1777 erschien in Bremen bei Cramer eine Neuauflage von verschiedenen kleinen Schriften Mösers, jedoch wohl ohne eigenständiges Titelblatt (auch welche Schriften zusammengebunden wurden, variierte wohl). Vgl. den Scan bei <wwwlink address="https://books.google.de/books?id=k88JHBn9B4wC">Google Books</wwwlink> und die unter <wwwlink address="https://mdz-nbn-resolving.de/details:bsb10574327">BSB München: L.eleg.g. 266 o#Beibd.1</wwwlink> zusammengebundenen Schriften.</eintrag>
 </subsection>
 <subsection id="moserj-schreiben" type="neuzeit" sort="60">
 <lemma>Möser, <titel>Schreiben an den P. J. K. in W…</titel></lemma>
