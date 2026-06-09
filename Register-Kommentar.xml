@@ -3038,7 +3038,7 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire naturelle, générale et
     <subsection id="burnet-archaeologicae" type="neuzeit" sort="20">
         <lemma>Burnet, <titel>Archaeologicae Philosophicae</titel></lemma>
         <eintrag>
-        <titel>Archaeologicae Philosophicae, sive doctrina antiqua de rerum originibus</titel> (London 1692) [Biga&#x202F;101/71: „Th. Burneti […] archeologiae, Philosophicae, Amst. 699“]. Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/109A8D49">London 1682 (ÖNB Wien: BE.3.N.12 ALT PRUNK)</wwwlink>
+        <titel>Archaeologicae Philosophicae, sive doctrina antiqua de rerum originibus</titel> (London 1692) [Biga&#x202F;101/71: „Th. Burneti […] archeologiae, Philosophicae, Amst. 699“]. Digitalisat einer Ausgabe London 1682: <wwwlink address="https://data.onb.ac.at/rep/109A8D49">ÖNB Wien: BE.3.N.12 ALT PRUNK.</wwwlink>
         </eintrag>
         </subsection>
 </kommentar>
@@ -7536,16 +7536,6 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim u. Brigitte 
 <kommentar id="gregorovius" type="neuzeit">
 <lemma>Theodor Theophil Gregorovius</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Zusammen mit <link ref="lindner-jg" linktext="true" /> und <link ref="lauson" linktext="true" /> in Königsberg immatrikuliert.</eintrag>
-</kommentar>
-
-<kommentar id="gregory" type="neuzeit">
-<lemma>John Gregory</lemma>
-<eintrag>1724–1773. Schottischer Arzt und medizinischer Schriftsteller, siehe <wwwlink address="https://d-nb.info/gnd/100142729">GND</wwwlink>.</eintrag>
-<subsection id="gregory-anfangsgrunde" type="neuzeit">
-<lemma>Gregory, <titel>Anfangsgründe der Behandlung der Krankheiten überhaupt, und der fieberhaften Krankheiten insbesondere</titel></lemma>
-<eintrag><titel>John Gregory Anfangsgründe der Behandlung der Krankheiten überhaupt, und der fieberhaften Krankheiten insbesondere. Aus dem Englischen nach der zweyten verbesserten Ausgabe übersetzt</titel> (Leipzig: Dyck 1777). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN728146142">SUB Göttingen</wwwlink>.
-</eintrag>
-</subsection>
 </kommentar>
 
 <kommentar id="gresset" type="neuzeit">
@@ -14393,7 +14383,7 @@ Im zweiten Teil des Kompendiums wird die Querelle zwischen Johann Samuel König,
 <subsection id="meiners-mysterien" type="neuzeit" sort="40">
 <lemma>Meiners, <titel>Ueber die Mysterien der Alten</titel></lemma>
 <eintrag>
-<titel>Ueber die Mysterien der Alten, besonders die Eleusinischen Geheimnisse.</titel> In: <link ref="meiners" subref="meiners-vermischte" linktext="true" />, Bd.&#x202F;3, S.&#x202F;164–342.
+<titel>Ueber die Mysterien der Alten, besonders die Eleusinischen Geheimnisse.</titel> In: <link ref="meiners" subref="meiners-vermischte" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10046443?page=172%2C173">Bd.&#x202F;3, S.&#x202F;164–342.</wwwlink>
 </eintrag>
 </subsection>
 <subsection id="meiners-deo" type="neuzeit" sort="50">
