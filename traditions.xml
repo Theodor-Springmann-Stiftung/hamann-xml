@@ -10254,10 +10254,6 @@ den letzten Dezember 1777
 
 
 		<letterTradition letter="543">
-			<app ref="3">
-				Die Datierung wurde gegenüber ZH korrigiert (dort: „Mitte Februar 1779“), daher erfolgt die
-				Einsortierung chronologisch zwischen Brief Nr. 544 und 545.
-</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
@@ -10287,11 +10283,11 @@ den letzten Dezember 1777
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VI
 				59–73.<line type="break" /> ZH IV 50&#x2009;f., Nr. 545. </app>
 			<app ref="9">
-				<note>Dem Brief lagen Gedichte von <link ref="dach" linktext="true" /> in Abschriften von Hamanns Hand bei (vgl. <intlink letter="545" page="56" line="16" linktext="true" />), um die Herder im Kontext seiner <link ref="herder" subref="herder-volkslieder" linktext="false">Volkslied-Sammlungen</link> bat, vgl. <intlink letter="539" page="42" line="7" linktext="true" />. Provenienz: Stabi Berlin, Nachlass Johann Gottfried Herder, Kapsel 32,
+				<note>Dem Brief lagen Gedichte von <link ref="dach" linktext="true" /> in Abschriften von Hamanns Hand bei (vgl. <intlink letter="545" page="56" line="16" linktext="true" />), um die Herder im Kontext seiner <link ref="herder" subref="herder-volkslieder" linktext="false">Volkslieder-Sammlungen</link> bat, vgl. <intlink letter="539" page="42" line="7" linktext="true" />. Provenienz: Stabi Berlin, Nachlass Johann Gottfried Herder, Kapsel 32,
 					12 Quartblätter (vgl. dazu <link ref="irm-h-1960" linktext="false">Irmscher: Handschriften Hamanns im Nachlaß Herders</link>, S.&#x202F;111–117).<line type="break" /> Wie Hamann im Anhang erwähnt (vgl. <intlink letter="545" page="475" line="33" linktext="false">HKB 545, Anhang
 					IV 475/33–476/7</intlink>), besteht die Grundlage für die Abschriften vmtl. in Einzeldrucken und
 					Abschriften, die in Königsberg zirkulierten. Der Text der Abschriften stimmt bis auf
-					gelegentliche Abweichungen überein mit der Edition <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>.</note>
+					gelegentliche Abweichungen überein mit der Edition von <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="474" autopsic="474" />

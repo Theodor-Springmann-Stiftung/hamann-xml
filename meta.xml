@@ -10466,8 +10466,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="543">
-        <date value="Königsberg, Ende Februar 1779" />
-        <sort value="1779-02-20" notBefore="1779-02-20" notAfter="1779-02-28" />
+        <date value="Königsberg, Mitte/Ende Februar 1779" />
+        <sort value="1779-02-18" notBefore="1779-02-15" notAfter="1779-02-25" />
         <location ref="2" />
         <senders>
           <sender ref="1" />
