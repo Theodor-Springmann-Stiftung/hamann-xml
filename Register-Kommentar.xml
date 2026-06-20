@@ -981,8 +981,8 @@ Dt. Übers. zitiert nach: E. u. L.L. Schücking u. J. Klein (Übers.), <titel>Fr
 </kommentar>
 
 <kommentar id="baczko" type="neuzeit">
-<lemma>Ludwig Adolph Franz Joseph von Baczko</lemma>
-<eintrag>1756–1823. Zunächst eine Art gelehrter Ladendiener Kanters, eröffnete 1781 die erste öffentliche Leihbibliothek Königsbergs, später Historiker der Stadt Königsberg und Professor der Geschichte an der Artillerieakademie und an der Divisionsschule, erblindete als Student, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd104275197.html#ndbcontent">Motekat, Helmut:, Baczko, Ludwig Franz Adolf Josef von, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;509</wwwlink>.</eintrag>
+<lemma>Ludwig von Baczko</lemma>
+<eintrag>1756–1823. Zunächst eine Art gelehrter Ladendiener Kanters, eröffnete 1781 die erste öffentliche Leihbibliothek Königsbergs, später Historiker der Stadt Königsberg und Professor der Geschichte an der Artillerieakademie und an der Divisionsschule; erblindete als Student an den Pocken, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd104275197.html#ndbcontent">Motekat, Helmut:, Baczko, Ludwig Franz Adolf Josef von, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;509</wwwlink>.</eintrag>
 <subsection id="baczko-tempe" type="neuzeit" sort="10">
 <lemma>Baczko, <titel>Das preußische Tempe</titel></lemma>
 <eintrag>
@@ -8473,7 +8473,8 @@ Zitation im Briefkommentar nach <link ref="bla-f-1962" linktext="false">HHE 5</l
 <subsection id="hamann-konxompax" type="neuzeit" sort="710">
 <lemma>Hamann, <titel>Konxompax</titel></lemma>
 <eintrag>
-<titel>ΚΟΓΞΟΜΠΑΞ. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel> (s.l. s.t. [Weimar: <link ref="hoffmann-kl" linktext="false">Hoffmann</link> 1779]). Das Manuskript wurde mit <intlink letter="550" page="68" line="20" linktext="false">HKB 550</intlink> an <link ref="herder" linktext="false">Herder</link> geschickt. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235915">ULB Münster: N. Hamann Bd. 37–40, 116</wwwlink>. N&#x202F;III,215–228.
+<titel>ΚΟΓΞΟΜΠΑΞ. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel> (s.l. s.t. [Weimar: <link ref="hoffmann-kl" linktext="false">Hoffmann</link> 1779]). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235915">ULB Münster: N. Hamann Bd. 37–40, 116</wwwlink>. N&#x202F;III,215–228.<line type="break" />
+Das Manuskript zu <titel>Konxompax</titel> wurde am 12. April fertig (vgl. <intlink letter="550" page="68" line="15" linktext="true" />; vmtl. etwa am 14. März schrieb Hamann einen ersten Entwurf, vgl. <intlink letter="548" page="61" line="27" linktext="false">HKB 548</intlink>). Die Auslieferung des Druckes konnte, nachdem Hamann das Manuskript im April an Herder sandte und dieser erstaunlich schnell bei der Drucklegung vorging (vgl. <intlink letter="553" page="76" line="1" linktext="true" />), kurz nach der Frühjahrsmesse stattfinden, allerdings ohne in den <link ref="messkatalog" subref="messkatalog-ostern1779" linktext="false">Messkatalogen</link> angezeigt zu werden.
 </eintrag>
 </subsection>
 <subsection id="hamann-scherflein" type="neuzeit" sort="720">
@@ -12897,7 +12898,7 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 auf der Grundlage
 </subsection>
 <subsection id="lessing-nathan" type="neuzeit" sort="160">
 <lemma>Lessing, <titel>Nathan der Weise</titel></lemma>
-<eintrag><titel>Nathan der Weise. Ein Dramatisches Gedicht, in fünf Aufzügen.</titel> Von Gotthold Ephraim Lessing (Berlin: Voß 1779). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-20358-9">HAB Wolfenbüttel, M: Lo 4559</wwwlink>.
+<eintrag><titel>Nathan der Weise. Ein Dramatisches Gedicht, in fünf Aufzügen.</titel> Von Gotthold Ephraim Lessing (Berlin: Voß 1779). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-20358-9">HAB Wolfenbüttel, M: Lo 4559</wwwlink>. – Erschien zur Ostermesse 1779, wurde aber erst im <link ref="messkatalog" subref="messkatalog-michaelis1779" linktext="false">Katalog der Michaelismesse</link>, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822487772:00000023/full/full/0/default.jpg">S.&#x202F;757</wwwlink> angezeigt (wohl eine Nachmeldung wegen verspäteter Meldung für den Ostermesskatalog). Hamann las Anfang Mai Vorabbogen über Kant (<intlink letter="554" page="77" line="20" linktext="true" />) und meldete Mitte/Ende Mai das Erscheinen in Königsberg (<intlink letter="556" page="84" line="13" linktext="true" />).
 </eintrag>
 </subsection>
 <subsection id="lessing-erziehung" type="neuzeit" sort="165">

@@ -10561,14 +10561,14 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="548">
-        <date value="Vmtl. Mitte oder Ende März 1779" />
-        <sort value="1779-03-25" notBefore="1779-03-10" notAfter="1779-03-31" cert="low" />
+        <date value="Vmtl. Mitte März 1779" />
+        <sort value="1779-03-10" notBefore="1779-03-10" notAfter="1779-04-12" cert="low" />
         <location ref="-1" />
         <senders>
           <sender ref="1" />
         </senders>
         <receivers>
-          <receiver ref="-1" />
+          <receiver ref="41" />
         </receivers>
         <hasOriginal value="false" />
         <isProofread value="true" />
