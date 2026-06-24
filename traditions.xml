@@ -9952,7 +9952,18 @@ Vor dem Entwurf an die Witwe Blom notierte sich Hamann einen weiteren, den er da
 </app>
 			<app ref="5">
 				ZH III 397&#x2009;f., Nr. 521.
-</app>
+</app><app ref="11">
+				<text> <note>Rohübersetzung (chat GPT), ohne Streichungen, noch durch Joscha zu korrigieren, grad am Ende ist das recht stark literarisiert (?!?):</note><line type="break" />
+Meine Herren, Sie übertreffen alle meine Bekundungen der Dankbarkeit dadurch, dass Sie selbst die Grenzen und die genaue Bestimmung meines Amtes festgelegt haben, das ich Ihrer Gnade verdanke und das ich mit einer Eifersucht (d. h. mit äußerster Sorge und Wachsamkeit) liebe wie mein eigenes Leben. Diese hat mich einige Befürchtungen hegen lassen, da mein Vorgänger als ehemaliger Inspektor des Zolls offenbar gewisse Vorrechte genossen hat, die er als wirkliche Befugnisse seines Amtes ansah. –<line type="break" />
+Doch die erste Sorge hat Ihre höchste Entscheidung vom 19. dieses Monats soeben beseitigt und damit den Eifer zum Schweigen gebracht, der mich verzehrt hat.<line type="break" />
+Der zweite Punkt gehört nicht zu meinen Beschwerden; denn ich habe von mir aus auf die 50 Écus, auf die damit verbundenen Gegenstände und auf den dazugehörigen Zuständigkeitsbereich verzichtet.<line type="break" />
+Drittens. In Anbetracht der Aufklärungen, die Ihnen, meine Herren, gegeben worden sind, sowie der Weisungen, die mir der Generalinspektor erteilt hat, als er mir am 8. dieses Monats das Register der den Lotsen ausgestellten Pässe übergab, bitte ich Sie ganz ergeben, mich von der Ausfertigung dieser Schriftstücke zu entbinden; denn ich bin ebenso wenig geneigt, sie zu beanspruchen, wie ich es mir selbst verzeihen könnte, mich mit der Mühe abzugeben, derartige Neuerungen einzuführen bzw. zu betreuen.<line type="break" />
+Viertens. Sobald ich mich von einer Verletzung am Knochen meines linken Beines erholt haben werde, die mich vor einem weit gefährlicheren Sturz bewahrt hat, werde ich nur noch dafür leben, meine vier Register ordnungsgemäß zu führen und den Vorschriften ihrer Überschriften und Spalten Genüge zu tun – im Geiste meiner Einsetzung und im Sinne Ihrer höchsten Entscheidung –, und dies mit der gewissenhaftesten Unterwerfung und dem gehorsamsten Pflichtgefühl.<line type="break" />
+Doch glauben Sie das nicht, meine Herren: Meine gärtnerische Muse wäre niemals zu jener Grobheit fähig gewesen, deren Sie sie verdächtigen. Ihnen hat der König den Weinberg seiner Finanzen anvertraut; Ihnen verdanke ich die Genugtuung, die Ehre und den Vorteil, als rechtmäßiger Mieter und Nutznießer eines königlichen Gutes zu leben. Gott bewahre, dass ich daraus einen Marktplatz oder gar eine Räuberhöhle mache! Gott bewahre ebenso, dass Ihre Lage, meine Herren, die meine und die des Psalmisten werde: „Der Eber aus dem Wald hat ihn verwüstet, und das wilde Tier hat ihn abgeweidet.“ Mit anderen Worten: Die Wildschweine des Waldes hätten ihn zerstört, und allerlei wilde Tiere hätten ihn kahlgefressen. Gott bewahre schließlich, dass diese angeblichen Beschwerden besser begründet und folgenreicher sein sollten als die Erklärungen, die sie widerlegen – so wie ein armer Narr die Wechsel seines betrügerischen und törichten Gefährten unterschreibt. <line type="break" />
+Gott, der mein Zeuge ist, wird mir Recht verschaffen, mein Schild sein und mein reicher Lohn. Amen! <line type="break" />Ich habe die Ehre, für mein ganzes Leben mit der größten Hochachtung, der tiefsten Ergebenheit und der aufrichtigsten Verbundenheit zu verbleiben<line type="break" />
+den letzten Dezember 1777
+				</text> 
+					</app>
 		</letterTradition>
 
 
@@ -10243,10 +10254,6 @@ Vor dem Entwurf an die Witwe Blom notierte sich Hamann einen weiteren, den er da
 
 
 		<letterTradition letter="543">
-			<app ref="3">
-				Die Datierung wurde gegenüber ZH korrigiert (dort: „Mitte Februar 1779“), daher erfolgt die
-				Einsortierung chronologisch zwischen Brief Nr. 544 und 545.
-</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
@@ -10276,11 +10283,11 @@ Vor dem Entwurf an die Witwe Blom notierte sich Hamann einen weiteren, den er da
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VI
 				59–73.<line type="break" /> ZH IV 50&#x2009;f., Nr. 545. </app>
 			<app ref="9">
-				<note>Dem Brief lagen Gedichte von <link ref="dach" linktext="true" /> in Abschriften von Hamanns Hand bei (vgl. <intlink letter="545" page="56" line="16" linktext="true" />), um die Herder im Kontext seiner <link ref="herder" subref="herder-volkslieder" linktext="false">Volkslied-Sammlungen</link> bat, vgl. <intlink letter="539" page="42" line="7" linktext="true" />. Provenienz: Stabi Berlin, Nachlass Johann Gottfried Herder, Kapsel 32,
+				<note>Dem Brief lagen Gedichte von <link ref="dach" linktext="true" /> in Abschriften von Hamanns Hand bei (vgl. <intlink letter="545" page="56" line="16" linktext="true" />), um die Herder im Kontext seiner <link ref="herder" subref="herder-volkslieder" linktext="false">Volkslieder-Sammlungen</link> bat, vgl. <intlink letter="539" page="42" line="7" linktext="true" />. Provenienz: Stabi Berlin, Nachlass Johann Gottfried Herder, Kapsel 32,
 					12 Quartblätter (vgl. dazu <link ref="irm-h-1960" linktext="false">Irmscher: Handschriften Hamanns im Nachlaß Herders</link>, S.&#x202F;111–117).<line type="break" /> Wie Hamann im Anhang erwähnt (vgl. <intlink letter="545" page="475" line="33" linktext="false">HKB 545, Anhang
 					IV 475/33–476/7</intlink>), besteht die Grundlage für die Abschriften vmtl. in Einzeldrucken und
 					Abschriften, die in Königsberg zirkulierten. Der Text der Abschriften stimmt bis auf
-					gelegentliche Abweichungen überein mit der Edition <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>.</note>
+					gelegentliche Abweichungen überein mit der Edition von <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="474" autopsic="474" />
@@ -10982,6 +10989,9 @@ Vor dem Entwurf an die Witwe Blom notierte sich Hamann einen weiteren, den er da
 
 
 		<letterTradition letter="548">
+			<app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 546 und 547.
+				</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Sammlung Warda
