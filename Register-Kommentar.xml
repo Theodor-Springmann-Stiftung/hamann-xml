@@ -4361,7 +4361,13 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 
 <kommentar id="cromwell" type="neuzeit">
 <lemma>Oliver Cromwell</lemma>
-<eintrag>1599–1658. Engl. Staatsmann. 
+<eintrag>1599–1658. Englischer Staatsmann. 
+</eintrag>
+</kommentar>
+
+<kommentar id="cruciger" type="neuzeit">
+<lemma>Caspar Cruciger der Ältere</lemma>
+<eintrag>1504–1548. Protestantischer Theologe und Mitarbeiter Luthers, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118670646.html#ndbcontent">Kähler, Ernst: Cruciger, Caspar der Ältere, in: <titel>ADB</titel>&#x202F;3 (1957), S.&#x202F;427f.</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -10067,13 +10073,13 @@ Zu seiner Tätigkeit als dirigierender Bürgermeister von Königsberg vgl. <link
 </kommentar>
 
 <kommentar id="hoffmann-kl" type="neuzeit">
-<lemma>Karl Ludolph Hoffmann</lemma>
-<eintrag>1729–1780. Buchhändler in Weimar, verlegte <link ref="hamann" subref="hamann-konxompax" linktext="false">Konxompax</link>, <link ref="hamann" subref="hamann-scherflein" linktext="false">Zwey Scherflein</link> und Herders <link ref="herder" subref="herder-briefe-theologie" linktext="false">Briefe, das Studium der Theologie betreffend.</link></eintrag>
+<lemma>Carl Ludolph Hoffmann</lemma>
+<eintrag>1729–1780. Inhaber der Die Hoffmann’schen Hofbuchhandlung in Weimar; er verlegte auf Vermittlung Herders u.a. <link ref="hamann" subref="hamann-konxompax" linktext="false">Hamanns <titel>Konxompax</titel></link> und <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>.</eintrag>
 </kommentar>
 
 <kommentar id="hogendorp" type="neuzeit">
 <lemma>Dirk van Hogendorp</lemma>
-<eintrag>1761–1822. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp-g" linktext="true" />. 1781 als brandenburg-preußischer Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er auch <link ref="kant" linktext="false">Kant</link> kennenlernte. Bei einem Duell trägt er einen Schuss in den Unterleib davon und nimmt, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Hamann hält ihn zunächst für einen schlechten Charakter, sein moralischer Groll mildert sich aber. Eine Zeitlang kampiert er in einem Zelt in Hamanns Garten. Hogendorp kehrt schließlich in die Niederlande zurück und segelt am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain-Lieutenant nach Kapstadt, wo er als Beamter der VOC lebt. Später holländischer Kriegsminister und General unter Napoleon; siehe <wwwlink address="https://d-nb.info/gnd/116953144">GND</wwwlink>.</eintrag>
+<eintrag>1761–1822. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp-g" linktext="true" />. 1781 als brandenburg-preußischer Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er auch <link ref="kant" linktext="false">Kant</link> kennenlernte. Bei einem Duell verletzte er sich durch einen Schuss in den Unterleib und nahm, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Hamann hielt ihn zunächst für einen schlechten Charakter, sein moralischer Groll milderte sich aber. Eine Zeitlang kampierte er in einem Zelt in Hamanns Garten. Hogendorp kehrt schließlich in die Niederlande zurück und segelt am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain-Lieutenant nach Kapstadt, wo er als Beamter der VOC lebt. Später holländischer Kriegsminister und General unter Napoleon; siehe <wwwlink address="https://d-nb.info/gnd/116953144">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hogendorp-cw" type="neuzeit">
@@ -18145,6 +18151,11 @@ Ein literarischer Streit um Zensur zwischen <link ref="riedel" linktext="true" /
 <kommentar id="roeck-hh" type="neuzeit">
 <lemma>Hermann Heinrich Roeck</lemma>
 <eintrag>1731–1797. Kaufmann in Lübeck, Sohn von <link ref="roeck-lp" linktext="true" /> hatte seine Lehre als Kaufmannsgehilfe in Königsberg absolviert; vmtl. darüber bestand die Bekanntschaft mit Hamann. (Mit Dank an Sigmar von Blanckenburg für den Hinweis.)</eintrag>
+</kommentar>
+
+<kommentar id="roerer" type="neuzeit">
+<lemma>Georg Rörer</lemma>
+<eintrag>1492–1557. Protestantischer Theologe und Mitarbeiter <link ref="luther" linktext="false">Luthers</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd100256236.html#ndbcontent">Koch, Ernst: Rörer (Rorarius, Rorer), Georg, in: <titel>NDB</titel>&#x202F;21 (2003), S.&#x202F;735f.</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="rogall" type="neuzeit">
