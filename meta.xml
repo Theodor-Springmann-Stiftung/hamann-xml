@@ -10847,8 +10847,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="563">
-        <date value="Glarisegg, zwischen 9. September 4. Oktober 1779" />
-        <sort value="1779-09-08" notBefore="1779-09-09" notAfter="1779-10-04" />
+        <date value="Glarisegg, Anfang Oktober 1779" />
+        <sort value="1779-10-04" notBefore="1779-09-09" notAfter="1779-10-04" />
         <location ref="45" />
         <senders>
           <sender ref="73" />
