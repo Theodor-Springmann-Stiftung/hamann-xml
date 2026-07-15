@@ -8489,7 +8489,7 @@ Zitation im Briefkommentar nach <link ref="bla-f-1962" linktext="false">HHE 5</l
 <subsection id="hamann-konxompax" type="neuzeit" sort="710">
 <lemma>Hamann, <titel>Konxompax</titel></lemma>
 <eintrag>
-<titel>ΚΟΓΞΟΜΠΑΞ. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel> (s.l. s.t. [Weimar: <link ref="hoffmann-kl" linktext="false">Hoffmann</link> 1779]). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235915">ULB Münster: N. Hamann Bd. 37–40, 116</wwwlink>. Außerdem im Hamann-Nachlass Münster enthalten: Kaps.&#x202F;1,57: „Konxompax. Entwurf. O.O.u.D. E.Ms. 3 Bl. davon 1 Bl. Notizen von fremder Hand.“ und Kaps.1,58: „Konxompax. Druck S. 16 mit handschr. Bemerkungen Hamanns. 1 Bl.“ – N&#x202F;III,215–228.<line type="break" />
+<titel>ΚΟΓΞΟΜΠΑΞ. Fragmente einer apokryphischen Sibylle über apokalyptische Mysterien</titel> (s.l. s.t. [Weimar: <link ref="hoffmann-kl" linktext="false">Hoffmann</link> 1779]). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:6:1-235915">ULB Münster: N. Hamann Bd. 37–40, 116</wwwlink>. Außerdem im Hamann-Nachlass Münster enthalten: Kaps.&#x202F;1,57: „Konxompax. Entwurf. O.O.u.D. E.Ms. 3 Bl. davon 1 Bl. Notizen von fremder Hand.“ und Kaps.1,58: „Konxompax. Druck S. 16 mit handschr. Bemerkungen Hamanns. 1 Bl.“ – Die maßgebliche Edition befindet sich im Anhang von <link ref="man-i-1963" linktext="false">Manegold: <titel>Johann Georg Hamanns Schrift „Konxompax“</titel></link> (bei N&#x202F;III,215–228 sind Hamanns spätere handschriftliche Annotationen willkürlich in den Drucktext interpoliert).<line type="break" />
 Das Manuskript zu <titel>Konxompax</titel> wurde am 12. April abgeschlossen (vgl. <intlink letter="550" page="68" line="15" linktext="true" />; wohl um den 14. März schrieb Hamann einen ersten Entwurf, vgl. <intlink letter="548" page="61" line="27" linktext="false">HKB 548</intlink>). Die Auslieferung des Druckes konnte, nachdem Hamann das Manuskript im April an Herder sandte und dieser erstaunlich schnell bei der Drucklegung vorging (vgl. <intlink letter="553" page="76" line="1" linktext="true" />), kurz nach der Frühjahrsmesse stattfinden, allerdings ohne in den <link ref="messkatalog" subref="messkatalog-ostern1779" linktext="false">Messkatalogen</link> angezeigt zu werden.
 </eintrag>
 </subsection>
@@ -22099,6 +22099,12 @@ Die Ausgabe von 1755 war nicht von Voltaire autorisiert. Sein Text kursierte zu 
 <lemma>Voltaire, <titel>La Religion naturelle</titel></lemma>
 <eintrag>
 <titel>La Religion naturelle, poème en quatre parties. Au Roi de Prusse, par M. V***</titel> (Genf 1756). Digitalisat: <wwwlink address="http://catalogue.bnf.fr/ark:/12148/cb316038501">Bibliothèque nationale de France, Rés. Z-Beuchot-762 (1)</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="voltaire-nations" type="neuzeit" sort="135">
+<lemma>Voltaire, <titel>Essai sur les mœurs et l’esprit des nations</titel></lemma>
+<eintrag>
+<titel>Essai sur les mœurs et l’esprit des nations</titel> (zuerst Genf 1756). Mehrfach überarbeitet, der „Discours préliminaire“ kam etwa erst 1769 dazu. Digitalisat des ersten Bandes in der <link ref="voltaire" subref="voltaire-collection-complette" linktext="false"><titel>Collection complette</titel> (1770–1781)</link>: <wwwlink address="http://dx.doi.org/10.25673/88844">ULB Halle: AB 22 5/i (1)</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="voltaire-refutation" type="neuzeit" sort="140">
