@@ -146,6 +146,11 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 <eintrag>
 <titel>Kurzer Begriff menschlicher Fertigkeiten und Kenntnisse so fern sie auf Erwerbung des Unterhalts, auf Vergnügen, auf Wissenschaft, und auf Regierung der Gesellschaft abzielen. Für Realschulen und das bürgerliche Leben, von dem Verfasser der Unterweisung in Künsten und Wissenschaften</titel> (4 Bde., Leipzig: Hertel 1778–1781). Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN1001469585">SUB Göttingen</wwwlink>.</eintrag>
 </subsection>
+<subsection id="adelung-sprachlehre" type="neuzeit" sort="35">
+<lemma>Adelung, <titel>Deutsche Sprachlehre</titel></lemma>
+<eintrag>
+<titel>Johann Christoph Adelungs Deutsche Sprachlehre. Zum Gebrauche der Schulen in den Königl. Preuß. Landen. Mit allergnädigsten Privilegien</titel> (Berlin: Voß 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10583310-8">BSB München: L.germ. 8 z</wwwlink>.</eintrag>
+</subsection>
 <subsection id="adelung-geschichte" type="neuzeit" sort="40">
 <lemma>Adelung, <titel>Über die Geschichte der Deutschen Sprache</titel></lemma>
 <eintrag>
@@ -7235,7 +7240,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 
 <kommentar id="goerne" type="neuzeit">
 <lemma>Friedrich Christoph von Görne</lemma>
-<eintrag>1734–1817. Geheimer Staatsminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link> und Besitzer weit verstreuter Güter u.a. in Preußen; ab 1774 nomineller Leiter der <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>, vgl. <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC"> Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786, S.&#x202F;117</wwwlink>; außerdem Direktor der Seehandlung, wegen deren prekärer Finanzlage er Anfang 1782 entlassen und verhaftet wurde.
+<eintrag>1734–1817. Geheimer Staatsminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link> und Besitzer weit verstreuter Güter u.a. in Preußen; ab 1774 nomineller Leiter der <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>, vgl. <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC"> Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786, S.&#x202F;117</wwwlink>; außerdem 1775 Direktor der <link ref="seehandlungskompanie" linktext="false">Seehandlung</link>, 1782 wegen Korruption und der Unterschlagung von weit über einer Million Reichstaler entlassen und verurteilt, vgl. <wwwlink address="https://doi.org/10.25932/publishup-59252">Iwan-Michelangelo D’Aprile: <titel>Ökonomische Aufklärung und europäische Friedenspolitik,</titel> in: Monika Wienfort (Hg.): <titel>Die Preußische Seehandlung zwischen Markt, Staat und Kultur</titel> (Potsdam 2023), 26f.</wwwlink>
 </eintrag>
 </kommentar>
 
@@ -12134,10 +12139,16 @@ Zur Biographie vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Johan
 <titel>An Herrn Johann George Hamann.</titel> Unterz. „Stauropedion, den 27ten August, 1777“ (Geburtstagsgedicht auf Hamann). Wohl zunächst lokal zirkulierender Druck, den Hamann vmtl. an Herder sandte, vgl. <intlink letter="512" page="376" line="12" linktext="true" />; dieser bewahrte ihn jedenfalls auf (Nachlass Johann Gottfried Herder in der Staatsbibliothek zu Berlin, Kapsel 38,&#x202F;13); Beschreibung und Teilfaksimile in <link ref="kno-r-1988" linktext="false">Knoll: <titel>Quellen und Forschungen,</titel> S.48f.</link> – Später auch gedruckt in <link ref="baczko" subref="baczko-tempe" linktext="true" />, 2. Jg. 1781, S.&#x202F;5–13.
 </eintrag>
 </subsection>
-<subsection id="kreutzfeld-geschlechter" type="neuzeit" sort="30">
+<subsection id="kreutzfeld-friedrich1780" type="neuzeit" sort="40">
+<lemma>Kreutzfeld, <titel>Geburtstagsgedicht auf Friedrich II. 1780</titel></lemma>
+<eintrag>
+<titel>Den hohen Geburtstag Sr. Königlichen Majestät, des Allerdurchlauchtigsten, Großmächtigsten Königs und Herrn Friederichs des Zweiten Königes von Preußen Churfürsten zu Brandenburg, des. H.R. Reichs Erzkämmerern, etc. etc. etc. feierte den 24 Jänner 1780 die hiesige Königliche Universität mit pflichtmäßiger Devotion und Unterthänigkeit durch ein Gedicht von Johann Gottlieb Kreutzfeldt, ordentl. Prof. der Poesie</titel> (Königsberg: Hartung 1780). Digitalisat: <wwwlink address="https://polona.pl/item-view/f222bf3d-3982-4d43-87ba-962e0ddd1f04/0/638ddd8e-80ba-4f14-a15d-513578af91aa">Biblioteka Narodowa</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="kreutzfeld-geschlechter" type="neuzeit" sort="50">
 <lemma>Kreutzfeld, <titel>Ueber das Verhältnis beyder Geschlechter</titel></lemma>
 <eintrag>
-<titel>Ueber das Verhältnis beyder Geschlechter. Eine Unterreung,</titel>, in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617979?page=112%2C113">1.&#x202F;Vj. 1781 (Februar), S.&#x202F;106–135.</wwwlink> – Hamann vermittelte die Publikation, vgl. <intlink letter="611" page="253" line="14" linktext="true" />.
+<titel>Ueber das Verhältnis beyder Geschlechter. Eine Unterreung,</titel> in: <link ref="teutsche-merkur" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617979?page=112%2C113">1.&#x202F;Vj. 1781 (Februar), S.&#x202F;106–135.</wwwlink> – Hamann vermittelte die Publikation, vgl. <intlink letter="611" page="253" line="14" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
@@ -19499,7 +19510,7 @@ Eine kürzende Übers. erschien als <titel>Compendium Seckendorfianum oder Kurzg
 
 <kommentar id="seehandlungskompanie" type="neuzeit">
 <lemma>Königlich Preußische Seehandlungskompanie</lemma>
-<eintrag>Gegründet im Oktober 1772 von <link ref="friedrich-II" linktext="true" /> für den Salzhandel mit den annektierten, ehemals polnischen Gebieten (vgl. das Edikt in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, Beilage zum 86. St. vom 26. Oktober 1772); 1774 mit der Salzhandlungskompanie vereinigt. Ihr Sitz in Königsberg war neben Hamanns Haus am alten Graben 758 (vgl. <intlink letter="393" page="58" line="7" linktext="true" />), sie wurde zunächst geführt von <link ref="lattre" linktext="true" />. Siehe <wwwlink address="https://doi.org/10.25932/publishup-59252">Jürgen Luh: <titel>Das Jahr 1772,</titel> in: Monika Wienfort (Hg.): <titel>Die Preußische Seehandlung zwischen Markt, Staat und Kultur</titel> (Potsdam 2023), 9–24</wwwlink>.</eintrag>
+<eintrag>Gegründet im Oktober 1772 von <link ref="friedrich-II" linktext="true" /> für den Salzhandel mit den annektierten, ehemals polnischen Gebieten (vgl. das Edikt in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, Beilage zum 86. St. vom 26. Oktober 1772); 1774 mit der Salzhandlungskompanie vereinigt. Ihr Sitz in Königsberg war neben Hamanns Haus am alten Graben 758 (vgl. <intlink letter="393" page="58" line="7" linktext="true" />), sie wurde zunächst geführt von <link ref="lattre" linktext="true" />. Siehe <wwwlink address="https://doi.org/10.25932/publishup-59252">Jürgen Luh: <titel>Das Jahr 1772,</titel> in: Monika Wienfort (Hg.): <titel>Die Preußische Seehandlung zwischen Markt, Staat und Kultur</titel> (Potsdam 2023), 9–24</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="seiff" type="neuzeit">
