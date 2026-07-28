@@ -5526,7 +5526,7 @@ Dt. Übers. zitiert nach: Otto Weinreich, <titel>Römische Satiren</titel> (Zür
 
 <kommentar id="eon" type="neuzeit">
 <lemma>Charles-Geneviève-Louis-Auguste-André-Timothée d’Éon de Beaumont</lemma>
-<eintrag>1728–1810. Französischer Diplomat, Soldat, Freimaurer, Schriftsteller. Lebte u.a. in Paris, Versailles, St. Petersburg, London; ab Mitte der 1760er Jahre als Frau. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;13, 1815), S.&#x202F;183–188.</eintrag>
+<eintrag>1728–1810. Französischer Diplomat, Soldat, Freimaurer, Schriftsteller. Lebte u.a. in Paris, Versailles, St. Petersburg, London; ab Mitte der 1760er Jahre als Frau. Vgl. <link ref="fortelle" subref="fortelle-leben" linktext="true" /> und <wwwlink address="https://archive.org/details/bub_gb_mgpAAAAAcAAJ/page/182/mode/2up"><titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;13, 1815), Sp.&#x202F;183–188.</wwwlink></eintrag>
 <subsection id="eon-commerce" type="neuzeit" sort="10">
 <lemma>Beaumont, <titel>Pensées sur le commerce</titel></lemma>
 <eintrag>
@@ -6606,7 +6606,7 @@ Füßli (Hg.), <titel>Wöchentliche Anzeigen zum Vortheil der Liebhaber der Wiss
 
 <kommentar id="fuessli-hr" type="neuzeit">
 <lemma>Hans Rudolf Füßli</lemma>
-<eintrag>Sekretär in Rußland, Begleiter von Hartknochs Sohn; wohl ein junger Verwandter der <link ref="fuessli-jh" linktext="false">Familie Füßli</link> in Zürich.</eintrag>
+<eintrag>Sekretär in Rußland, Begleiter von <link ref="hartknoch-j" linktext="false">Hartknochs Sohn</link>; wohl ein junger Verwandter der <link ref="fuessli-jh" linktext="false">Familie Füßli</link> in Zürich.</eintrag>
 </kommentar>
 
 <kommentar id="fulda" type="neuzeit">
