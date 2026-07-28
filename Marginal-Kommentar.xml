@@ -75691,7 +75691,7 @@ Brief Nr. 569
 </marginal>
 
 <marginal letter="569" page="127" line="20" sort="1" >
-<bzg>Melito</bzg> <link ref="melito" linktext="true" />, „der um das Jahr 170 lebte, hat ein Buch von dem Teifel, und der Offenbahrung Johannis geschrieben“, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10484306?page=526%2C527">ebd., 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1289f.</wwwlink>
+<bzg>Melito</bzg> <link ref="melito" linktext="true" />, „der um das Jahr 170 lebte, hat ein Buch von dem Teufel, und der Offenbahrung Johannis geschrieben“, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10484306?page=526%2C527">ebd., 3.&#x202F;Aufl. (1777), Bd.&#x202F;2, S.&#x202F;1289f.</wwwlink>
 </marginal>
 
 <marginal letter="569" page="127" line="20" sort="2" >
@@ -79769,16 +79769,20 @@ Der Kontakt zu Häfeli kam über Hamanns Rätselraten um die Autorschaft des <ti
 
 Brief Nr. 586
 
-<marginal letter="586" page="174" line="1">
+<marginal letter="586" page="174" line="2">
 <bzg>Mariä Verkünd.</bzg> 25. März
 </marginal>
 
+<marginal letter="586" page="174" line="3">
+<bzg>Krone aller Frauen&#x202F;…&#x202F;Gevatterin</bzg> Hamann parallelisiert <link ref="herder-c" linktext="true" /> und Maria (anlässlich des Feiertags Mariä Verkündigung), da Herder im nicht überlieferten Brief wohl schrieb, sie habe ihn zu antworten ermutigt, <intlink letter="586" page="177" line="37" linktext="false">s.u.</intlink>
+</marginal>
+
 <marginal letter="586" page="174" line="6">
-<bzg>Ihr Stillschweigen</bzg> vor Herders Sendung, die am 24. März (<intlink letter="586" page="174" line="18" linktext="false">s.u.</intlink>) in Königsberg eintraf und deren Begleitbrief nicht überliefert ist
+<bzg>Ihr Stillschweigen</bzg> vor Herders nicht überliefertem Brief, der am 24. März in Königsberg eintraf, <intlink letter="586" page="174" line="18" linktext="false">s.u.</intlink>
 </marginal>
 
 <marginal letter="586" page="174" line="7">
-<bzg>fünf Briefe</bzg> nach Herders letztem Brief, der am 12. Dezember in Königsberg eintraf (vgl. <intlink letter="573" page="136" line="3" linktext="true" />), schrieb Hamann tatsächlich fünf Briefe nach Weimar, <intlink letter="573" page="135" line="31" linktext="false">HKB 573</intlink>, <intlink letter="574" page="145" line="19" linktext="false">HKB 574</intlink>, <intlink letter="576" page="155" line="2" linktext="false">HKB 576</intlink>, <intlink letter="580" page="165" line="20" linktext="false">HKB 580</intlink> und <intlink letter="581" page="169" line="2" linktext="false">HKB 581</intlink>
+<bzg>fünf Briefe</bzg> Nach Herders letztem Brief, der am 12. Dezember in Königsberg eintraf (vgl. <intlink letter="573" page="136" line="3" linktext="true" />), schrieb Hamann tatsächlich fünf überlieferte Briefe nach Weimar, <intlink letter="573" page="135" line="31" linktext="false">HKB 573</intlink>, <intlink letter="574" page="145" line="19" linktext="false">HKB 574</intlink>, <intlink letter="576" page="155" line="2" linktext="false">HKB 576</intlink>, <intlink letter="580" page="165" line="20" linktext="false">HKB 580</intlink> und <intlink letter="581" page="169" line="2" linktext="false">HKB 581</intlink>.
 </marginal>
 
 <marginal letter="586" page="174" line="9">
@@ -79786,11 +79790,11 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="174" line="10">
-<bzg>Verdrus wegen Censur p</bzg> Bezieht sich auf das Manuskript der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>, das Hamann an Herder zum Druck nach Weimar sandte, und dort auch die Zensur passierte, vgl. die Provenienz-Beschreibung zu <intlink letter="580" page="165" line="20" linktext="false">HKB 585</intlink>
+<bzg>Verdrus wegen Censur p</bzg> Hamann bezieht sich auf das Manuskript der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>, das er an Herder zum Druck nach Weimar sandte, und das dort auch die Zensur passierte, vgl. die Provenienz-Beschreibung zu <intlink letter="580" page="165" line="20" linktext="false">HKB 580</intlink>.
 </marginal>
 
 <marginal letter="586" page="174" line="11">
-<bzg>Quarantaine</bzg> zuvor von Hamman für seinen häuslichen Rückzug wegen Krankheit verwendet, vgl. etwa <intlink letter="580" page="167" line="22" linktext="true" />
+<bzg>Quarantaine</bzg> zuvor von Hamann für seinen häuslichen Rückzug wegen Krankheit verwendet, vgl. etwa <intlink letter="580" page="167" line="22" linktext="true" />
 </marginal>
 
 <marginal letter="586" page="174" line="13">
@@ -79798,23 +79802,23 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="174" line="15" sort="1">
-<bzg>Maran Atha</bzg> <link ref="herder" subref="herder-maran" linktext="true" /> wohl Hamanns ausführliche briefliche Rezension von <link ref="herder" subref="herder-maran" linktext="true" /> in <intlink letter="574" page="147" line="5" linktext="true" />
+<bzg>Maran Atha</bzg> Gemeint ist wohl Hamanns ausführliche briefliche Rezension von <link ref="herder" subref="herder-maran" linktext="false">Herders <titel>Maran Atha</titel></link> in <intlink letter="574" page="147" line="5" linktext="true" />.
 </marginal>
 
 <marginal letter="586" page="174" line="16">
-<bzg>Ich zählte&#x202F;…&#x202F;jüngsten Briefe</bzg> <intlink letter="581" page="169" line="2" linktext="false">HKB 581</intlink>: von Do, 5. Februar 1780 gerechnet tatsächlich sieben Wochen (der 25. März war auch ein Donnerstag); zur Siebenzahl vgl. <intlink letter="536" page="31" line="8" linktext="true" /> und die Zahlenmystik in <titel>Maran Atha</titel>?!?.
+<bzg>Ich zählte&#x202F;…&#x202F;jüngsten Briefe</bzg> <intlink letter="581" page="169" line="2" linktext="false">HKB 581</intlink>: von Do, 5. Februar 1780 gerechnet tatsächlich sieben Wochen (der 25. März war auch ein Donnerstag). – Zahlenmystik um die „heilige[n] Zahl“ Sieben zieht sich in vielfacher Form durch Herders <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10413471?page=330%2C331"><titel>Maran Atha</titel> (S.&#x202F;323)</wwwlink>; an anderer Stelle parallelisert Hamann sie Siebenzahl mit den Mitgliedern seines Haushalts oder seinen Lebensjahren, vgl. <intlink letter="546" page="60" line="4" linktext="true" /> und <intlink letter="536" page="31" line="8" linktext="true" />.
 </marginal>
 
 <marginal letter="586" page="174" line="17">
-<bzg>Briefe an den Bischof zu Sardes</bzg> Gemeint ist wohl der Brief an den Engel der Gemeinde in Sardes aus <link ref="nt-off" subref="nt-off3" linktext="false">Offb 3,11</link> in  <link ref="herder" subref="herder-maran" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10413471?page=38%2C39">ED S.&#x202F;287</wwwlink>; zum Bischof von Sardes (<link ref="melito" linktext="false">Melito</link>) vgl. auch <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10413471?page=294%2C295">ebd., S.&#x202F;287</wwwlink> und <intlink letter="569" page="127" line="20" linktext="true" />.
+<bzg>Briefe an den Bischof zu Sardes</bzg> Gemeint ist wohl der Brief an den Engel der Gemeinde in Sardes aus <link ref="nt-off" subref="nt-off3" linktext="false">Offb 3</link> in  <link ref="herder" subref="herder-maran" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10413471?page=38%2C39">ED S.&#x202F;30</wwwlink>; zum Bischof von Sardes (<link ref="melito" linktext="false">Melito</link>) vgl. auch <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10413471?page=294%2C295">ebd., S.&#x202F;287</wwwlink> und <intlink letter="569" page="127" line="20" linktext="true" />.
 </marginal>
 
 <marginal letter="586" page="174" line="18">
-<bzg>gestern erhört wurde</bzg> Brief von Herder nicht überliefert
+<bzg>gestern erhört wurde</bzg> Herders Brief ist nicht überliefert.
 </marginal>
 
 <marginal letter="586" page="174" line="19">
-<bzg>gedrucktes</bzg> Hamann denkt an Durchführung und Übersendung des Drucks der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>; Herder sandte die Schrift Mitte Mai, vgl. <intlink letter="590" page="186" line="11" linktext="true" />.
+<bzg>gedrucktes</bzg> Hamann denkt an die Durchführung und Übersendung des Drucks der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>; Herder sandte die Schrift Mitte Mai, vgl. <intlink letter="590" page="186" line="11" linktext="true" />.
 </marginal>
 
 <marginal letter="586" page="174" line="20">
@@ -79822,7 +79826,7 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="174" line="22">
-<bzg>Beylage</bzg> Die Sendung enthielt das Manuskript zu den Gesprächen 4 und 5 von <link ref="lessing" subref="lessing-ernst-falk" linktext="false">Lessings <titel>Ernst und Falk</titel></link>, vgl. <intlink letter="586" page="477" line="21" linktext="false">Herders handschriftliche Anmerkung</intlink>.
+<bzg>fast vergeßene Beylage</bzg> Die Sendung enthielt das Manuskript zu den Gesprächen 4 und 5 von <link ref="lessing" subref="lessing-ernst-falk" linktext="false">Lessings <titel>Ernst und Falk</titel></link>, vgl. <intlink letter="586" page="477" line="21" linktext="false">Herders handschriftliche Anmerkung</intlink>; Hamann fragte zuvor mehrfach danach, vgl. zuletzt <intlink letter="573" page="141" line="24" linktext="true" />.
 </marginal>
 
 <marginal letter="586" page="174" line="24">
@@ -79834,7 +79838,7 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="174" line="26">
-<bzg>Erl.</bzg> Erlaubnis; ob mit oder ohne Erlaubnis – Hamann ließ das Manuskript von <link ref="lessing" subref="lessing-ernst-falk" linktext="false">Lessings <titel>Ernst und Falk</titel></link> in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken.
+<bzg>Erl.</bzg> Erlaubnis (zum Lesen); Hamann ließ das Manuskript kurz nach Lessings Tod in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> abdrucken.
 </marginal>
 
 <marginal letter="586" page="174" line="28">
@@ -79878,7 +79882,7 @@ Brief Nr. 586
 </marginal>
 
 <marginal letter="586" page="175" line="11" sort="2">
-<bzg>gezweifelt&#x202F;…&#x202F;gedruckt werden können</bzg> wegen der Zensur in Weimar, vgl. die Provenienz-Beschreibung zu <intlink letter="580" page="165" line="20" linktext="false">HKB 585</intlink> 
+<bzg>gezweifelt&#x202F;…&#x202F;gedruckt werden können</bzg> wegen der Zensur in Weimar, vgl. die Provenienz-Beschreibung zu <intlink letter="580" page="165" line="20" linktext="false">HKB 580</intlink> 
 </marginal>
 
 <marginal letter="586" page="175" line="13" sort="1">
