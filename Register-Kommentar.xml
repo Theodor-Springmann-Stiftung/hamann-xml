@@ -2454,7 +2454,12 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="bosshard" type="neuzeit">
 <lemma>Heinrich Bosshard</lemma>
-<eintrag>1748–1815. Schweizer Bauer, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118894609.html ">Deutsche Biographie</wwwlink>.</eintrag>
+<eintrag>1748–1815. Schweizer Bauer, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118894609.html">Deutsche Biographie</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="bossuet" type="neuzeit">
+<lemma>Jacques Bénigne Bossuet</lemma>
+<eintrag>1627–1704. Französischer Bischof und Theologe, siehe <wwwlink address="https://d-nb.info/gnd/118513915">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="boulainvilliers" type="neuzeit">
@@ -10870,6 +10875,18 @@ J
 </eintrag>
 </kommentar>
 
+<kommentar id="jordan-ce" type="neuzeit">
+<lemma>Charles Etienne Jordan</lemma>
+<eintrag>1700–1745. Frühaufklärerischer Schriftsteller und Vertrauter <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd11910007X.html#ndbcontent">Knoll, Gerhard: Jordan, Charles Etienne, in: <titel>NDB</titel>&#x202F;10 (1974), S.&#x202F;599f.</wwwlink>
+</eintrag>
+<subsection id="jordan-voyage" type="neuzeit" sort="10">
+<lemma>Jordan, <titel>Histoire d’un voyage littéraire</titel></lemma>
+<eintrag>
+<titel>Histoire d’un voyage littéraire fait en M.DCC.XXXXIII. en France, en Angleterre et en Hollande: Avec une lettre fort curieuse, Concernant les prétendus Miracles de l’Abbé Paris, et les Convulsions risibles du Chevalier Folard</titel> (Den Haag: Moetjens 1735). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10469599-2">BSB München: It.sing. 1463 w</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="jortin" type="neuzeit">
 <lemma>John Jortin</lemma>
 <eintrag>1698–1770. Englischer Kirchenhistoriker.
@@ -11518,7 +11535,7 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 
 <kommentar id="keith" type="neuzeit">
 <lemma>George Keith, 9. Earl Marischal</lemma>
-<eintrag>1693–1778. Schottischer Adeliger und Jakobit, später Freund und Diplomat für <link ref="friedrich-II" linktext="true" /> und Mitglied der Berliner Akademie, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd104318511.html#adbcontent">Schaefer, Arnold: Keith, George Graf, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;551f</wwwlink>.</eintrag>
+<eintrag>1693–1778. Schottischer Adeliger und Jakobit, später Freund und Diplomat für <link ref="friedrich-II" linktext="true" /> und Mitglied der Berliner Akademie, siehe <link ref="alembert" subref="alembert-eloge" linktext="true" /> und <wwwlink address="https://www.deutsche-biographie.de/pnd104318511.html#adbcontent">Schaefer, Arnold: Keith, George Graf, in: <titel>ADB</titel>&#x202F;15 (1882), S.&#x202F;551f</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="kennicott" type="neuzeit">
