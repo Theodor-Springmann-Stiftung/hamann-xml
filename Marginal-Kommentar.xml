@@ -60266,7 +60266,7 @@ Brief Nr. 470
 </marginal>
 
 <marginal letter="470" page="259" line="17">
-<bzg>Lemgoer Bibliothek</bzg> <link ref="auserlesene-bibliothek" linktext="true" />; Herder hatte Penzel vorgeworfen, ihn dort schlecht rezensiert zu haben (<intlink letter="466" page="233" line="18" linktext="true" />; vgl. außerdem <intlink letter="469" page="251" line="35" linktext="true" /> und <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten,</titel></link> S.&#x202F;135f.
+<bzg>Lemgoer Bibliothek</bzg> <link ref="auserlesene-bibliothek" linktext="true" />; Herder hatte Penzel vorgeworfen, ihn dort schlecht rezensiert zu haben (<intlink letter="466" page="233" line="18" linktext="true" />); vgl. außerdem <intlink letter="469" page="251" line="35" linktext="true" /> und <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten,</titel></link> S.&#x202F;135f.
 </marginal>
 
 <marginal letter="470" page="259" line="18">
@@ -69162,7 +69162,7 @@ Brief Nr. 536
 </marginal>
 
 <marginal letter="536" page="32" line="32" sort="2">
-<bzg>Oberhofprediger Schultz</bzg> <link ref="schultz-jf" linktext="true" />
+<bzg>Oberhofprediger Schultz</bzg> <link ref="schulz-je" linktext="true" />
 </marginal>
 
 <marginal letter="536" page="32" line="33">
@@ -83869,7 +83869,7 @@ Brief Nr. 601
 Brief Nr. 602
 
 <marginal letter="602" page="224" line="12">
-<bzg>25 pr&#x202F;…</bzg> 25. September 1780, nicht überliefert (der nicht überlieferte Brief Hartknochs ist die Antwort auf <intlink letter="601" page="222" line="1" linktext="false">HKB 610</intlink>)
+<bzg>25 pr&#x202F;…</bzg> 25. September 1780, nicht überliefert; der nicht überlieferte Brief Hartknochs ist die Antwort auf <intlink letter="601" page="222" line="1" linktext="false">HKB 601</intlink>.
 </marginal>
 
 <marginal letter="602" page="224" line="13" sort="1">
@@ -83877,27 +83877,35 @@ Brief Nr. 602
 </marginal>
 
 <marginal letter="602" page="224" line="13" sort="2">
-<bzg>HE Bruder</bzg> <link ref="toussaint-f" linktext="true" />
+<bzg>HE Bruder</bzg> wohl der Schwager <link ref="toussaint-f" linktext="true" />
 </marginal>
 
 <marginal letter="602" page="224" line="14" sort="1">
-<bzg>Berl. u Warschau</bzg> Henkel: an <link ref="reichardt-jf" linktext="true" /> und <link ref="penzel" linktext="true" />?!? – Penzel war in Krakau, vgl. <intlink letter="601" page="223" line="30" linktext="true" />; und was hatte Hartknoch mit Reichardt zu tun?
+<bzg>Berl. u Warschau</bzg> an unbekannte Verlagskontakte Hartknochs in Berlin und Warschau
 </marginal>
 
 <marginal letter="602" page="224" line="14" sort="2">
-<bzg>Hofpr. Schultz&#x202F;…&#x202F; Antwort</bzg> wohl <link ref="schultz-jf" linktext="true" />, <intlink letter="602" page="225" line="17" linktext="false">s.u.</intlink>
+<bzg>Hofpr. Schultz&#x202F;…&#x202F; Antwort</bzg> <link ref="schultz-jf" linktext="true" />, <intlink letter="602" page="225" line="17" linktext="false">s.u.</intlink>
 </marginal> 
 
-<marginal letter="602" page="224" line="16">
-<bzg>hohe Zeit gehabt zu schreiben</bzg> vgl. Hartknochs Brief an Kant, vom 9. September (jul.) / 20. September (greg.), <wwwlink address="https://www.korpora.org/Kant/aa10/260.html">Kant: AA X, Briefwechsel 1780 , S.&#x202F;260f.</wwwlink>, abgeschickt zwei Tage nach dem Empfang von <intlink letter="601" page="224" line="9" linktext="false">HKB 601</intlink>
+<marginal letter="602" page="224" line="15">
+<bzg>Pr. Kant</bzg> Hamann gab Hartknochs Brief an <link ref="kant" linktext="false">Kant</link> vom 9. September (jul.) / 20. September (greg.) bei ihm ab (<wwwlink address="https://www.korpora.org/Kant/aa10/260.html">Kant: AA X, Briefwechsel 1780, S.&#x202F;260f.</wwwlink>). Hartknoch warb darin, auf Hamanns Vermittlung, um den Verlag von <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link>, und versuchte <link ref="hartung-gl" linktext="false">Hartung</link> auszustechen.
+</marginal>
+
+<marginal letter="602" page="224" line="16" sort="1">
+<bzg>Kant&#x202F;…&#x202F;antworten</bzg> nicht überliefert, vgl. <wwwlink address="https://www.korpora.org/Kant/aa10/260.html">Kant: AA X, Briefwechsel 1780, S.&#x202F;261</wwwlink>
+</marginal>
+
+<marginal letter="602" page="224" line="16" sort="1">
+<bzg>hohe Zeit gehabt zu schreiben</bzg> Hartknoch sandte den Brief zwei Tage nach dem Empfang von <intlink letter="601" page="224" line="9" linktext="false">HKB 601</intlink> ab.
 </marginal>
 
 <marginal letter="602" page="224" line="17">
-<bzg>Kanter</bzg> <link ref="kanter" linktext="true" /> habe sich in die Konkurrenz um den Verlag von <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link> zwischen Hartknoch und <link ref="hartung-gl" linktext="false">Hartung</link> eingemischt (vgl. <intlink letter="601" page="223" line="14" linktext="true" />).
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" /> habe sich in die Konkurrenz um den Verlag der <titel>Critik der reinen Vernunft</titel> zwischen Hartknoch und Hartung eingemischt (vgl. <intlink letter="601" page="223" line="14" linktext="true" />).
 </marginal>
 
 <marginal letter="602" page="224" line="19">
-<bzg>Absatz des Werks zu verbreiten</bzg> vgl. Hartknoch an Kant, 9. September (jul.) / 20. September (greg.), <wwwlink address="https://www.korpora.org/Kant/aa10/260.html">Kant: AA X, Briefwechsel 1780 , S.&#x202F;261: „Die Vertheilung Ihrer Werke unter alle Buchhändler, sowol die zur Meße kommen, als die nicht dahin kommen, geschieht auch weit besser durch mich, als durch Hartungen, ich habe mit Leuten zu thun, mit denen er in keiner Verbindung steht. Es ist nicht leicht ein Winkel in Deutschland dahin ich nicht Geschäfte mache.“</wwwlink>
+<bzg>Absatz des Werks zu verbreiten</bzg> Vgl. Hartknoch an Kant, 9. September (jul.) / 20. September (greg.), <wwwlink address="https://www.korpora.org/Kant/aa10/260.html">Kant: AA X, Briefwechsel 1780 , S.&#x202F;261: „Die Vertheilung Ihrer Werke unter alle Buchhändler, sowol die zur Meße kommen, als die nicht dahin kommen, geschieht auch weit besser durch mich, als durch Hartungen, ich habe mit Leuten zu thun, mit denen er in keiner Verbindung steht. Es ist nicht leicht ein Winkel in Deutschland dahin ich nicht Geschäfte mache.“</wwwlink>
 </marginal>
 
 <marginal letter="602" page="224" line="20">
@@ -83905,11 +83913,11 @@ Brief Nr. 602
 </marginal>
 
 <marginal letter="602" page="224" line="21" sort="1">
-<bzg>Hart.</bzg> <link ref="hartung-gl" linktext="true" />
+<bzg>Hart.</bzg> G.L. Hartung, mit dem Hamann verfeindet war
 </marginal>
 
 <marginal letter="602" page="224" line="21" sort="2">
-<bzg>Gevatter</bzg> <link ref="kanter" linktext="true" />
+<bzg>Gevatter&#x202F;…</bzg> <link ref="kanter" linktext="true" />, dessen Geschäfte dem Bankrott entgegen gingen, vgl. <intlink letter="574" page="149" line="17" linktext="true" />
 </marginal>
 
 <marginal letter="602" page="224" line="23" sort="1">
@@ -83941,7 +83949,7 @@ Brief Nr. 602
 </marginal>
 
 <marginal letter="602" page="224" line="30">
-<bzg>Michelstage</bzg> 29. September 1780, als <intlink letter="600" page="214" line="29" linktext="false">HKB 600</intlink> ankam
+<bzg>Michelstage</bzg> 29. September 1780, als die Sendung mit <intlink letter="600" page="214" line="29" linktext="false">HKB 600</intlink> ankam
 </marginal>
 
 <marginal letter="602" page="224" line="33">
