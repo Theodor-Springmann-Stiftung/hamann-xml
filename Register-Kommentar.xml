@@ -1525,8 +1525,8 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 </kommentar>
 
 <kommentar id="benner" type="neuzeit">
-<lemma>Johann Hermann Benner. Seit 1735 Professor der Theologie in Gießen, siehe <wwwlink address="http://d-nb.info/gnd/116121254">GND</wwwlink>.</lemma>
-<eintrag>1699–1782
+<lemma>Johann Hermann Benner</lemma>
+<eintrag>1699–1782. Seit 1735 Professor der Theologie in Gießen, siehe <wwwlink address="http://d-nb.info/gnd/116121254">GND</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -5417,7 +5417,7 @@ Hamann setzte im Herbst 1776 zu einem Text gegen die 2. Aufl. an, vgl. <intlink 
 
 <kommentar id="eichhorn" type="neuzeit">
 <lemma>Johann Gottfried Eichhorn</lemma>
-<eintrag>1752–1827. Seit 1775 Professor der evangelischen Theologie und Orientalistik in Jena, ab 1788 in Göttingen; rezensierte <link ref="herder" subref="herder-maran" linktext="false">Herders <titel>Maran Atha</titel></link> in der Allgemeinen deutschen Bibliothek; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118688294.html#ndbcontent">Eichhorn, Johann Gottfried: Engel, Johann Jakob, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;377f</wwwlink>.</eintrag>
+<eintrag>1752–1827. Seit 1775 Professor der evangelischen Theologie und Orientalistik in Jena, ab 1788 in Göttingen; rezensierte <link ref="herder" subref="herder-maran" linktext="false">Herders <titel>Maran Atha</titel></link> in der <link ref="allgemeine-deutsche-bib" linktext="false"><titel>Allgemeinen deutschen Bibliothek</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118688294.html#ndbcontent">Eichhorn, Johann Gottfried: Engel, Johann Jakob, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;377f</wwwlink>.</eintrag>
 <subsection id="eichhorn-einleitung" type="neuzeit">
 <lemma>Eichhorn, <titel>Einleitung ins Alte Testament</titel></lemma>
 <eintrag>
@@ -8526,7 +8526,7 @@ Das Manuskript zu <titel>Konxompax</titel> wurde am 12. April abgeschlossen (vgl
 <subsection id="hamann-dialogues" type="neuzeit" sort="730">
 <lemma>Hamann (Übers.), <titel>Dialogen die natürliche Religion betreffend</titel></lemma>
 <eintrag>
-Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link>. Der fingierte Übersetzer sollte ein <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="false">50jähriger Geistlicher in Schwaben</link> sein, <link ref="hartknoch" linktext="false">Hartknoch</link> der Verleger (vgl. <intlink letter="596" page="205" line="25" linktext="true" />), außerdem sollte es einen Begleitessay geben. Das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung bei Weygand</link> bekannt wurde (vgl. <intlink letter="604" page="229" line="15" linktext="true" />); an den Plänen für den Begleitessay bzw. dem <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essay,</link> der sich daraus verselbstständigte, laborierte Hamann aber noch lange. – Von der Hume-Übersetzung ist lediglich ein Entwurf für die finale Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
+Hamann setzte im Sommer 1780 zu einer Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> an, vmtl. auf Anregung <link ref="kant" linktext="false">Kants</link> (vgl. <intlink letter="" page="" line="" linktext="true" />). Der fingierte Übersetzer sollte ein <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="false">50jähriger Geistlicher in Schwaben</link> sein, <link ref="hartknoch" linktext="false">Hartknoch</link> der Verleger (vgl. <intlink letter="596" page="205" line="25" linktext="true" />), außerdem sollte es einen Begleitessay geben. Das Projekt zerschlug sich jedoch, nachdem eine <link ref="hume" subref="hume-dialogues" linktext="false">Konkurrenz-Übersetzung bei Weygand</link> bekannt wurde (vgl. <intlink letter="604" page="229" line="15" linktext="true" />); an den Plänen für den Begleitessay bzw. dem <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essay,</link> der sich daraus verselbstständigte, laborierte Hamann aber noch lange. – Von der Hume-Übersetzung ist lediglich ein Entwurf für die finale Übersetzung ist in ULB Münster: N. Hamann Bd. 79/80 überliefert und in N&#x202F;III,245–274 ediert, vgl. auch ebd. 463f.
 </eintrag>
 </subsection>
 <subsection id="hamann-kantkritik" type="neuzeit" sort="740">
@@ -14615,7 +14615,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </subsection>
 <subsection id="mendelssohn-pentateuch" type="neuzeit" sort="80">
 <lemma>Mendelssohn (u.a.), &lt;titel&gt;ספר נתיבות השלום&lt;/titel&gt;</lemma>
-<eintrag><titel>[Sefer netivot ha-schalom] ספר נתיבות השלום</titel> (Berlin 1780–1782). Die in hebräischen Lettern gedruckte deutsche Übersetzung des Pentateuch ist jeweils mit einem hebräischen Sachkommentar (Bi&apos;ur) und massoretischem Kommentar (Tikkun soferim) versehen. Eine Umschrift der Übersetzung ins Deutsche Alphabet erschien nur für den ersten Band durch Josias Friedrich Christian Löffler, <titel>Die fünf Bücher Mose zum Gebauch der jüdischdeutschen Nation</titel> (Berlin, Stettin: Nicolai 1780). Digitalisat: <wwwlink address="https://books.google.de/books?id=-mdrF8LY-5gC">Google Books</wwwlink>.</eintrag>
+<eintrag><titel>[Sefer netivot ha-schalom] ספר נתיבות השלום</titel> (Berlin 1780–1782). Die in hebräischen Lettern gedruckte deutsche Übersetzung des Pentateuch ist jeweils mit einem hebräischen Sachkommentar (Bi&apos;ur) und massoretischem Kommentar (Tikkun soferim) versehen. Eine Umschrift der Übersetzung ins Deutsche Alphabet erschien nur für den ersten Band durch Josias Friedrich Christian Löffler, <titel>Die fünf Bücher Mose zum Gebrauch der jüdischdeutschen Nation</titel> (Berlin, Stettin: Nicolai 1780). Digitalisat: <wwwlink address="https://books.google.de/books?id=-mdrF8LY-5gC">Google Books</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -15580,7 +15580,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <subsection id="moserj-sprache-litteratur" type="neuzeit" sort="70">
 <lemma>Möser, <titel>Ueber die deutsche Sprache und Litteratur</titel></lemma>
 <eintrag>
-<titel>Ueber die deutsche Sprache und Litteratur. An einen Freund</titel> (Hamburg: Hoffmann 1781). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN63866215X">SUB Göttingen</wwwlink>. – Neben der Hamburger Ausgabe, die Hamann las, erschien von März bis April 1781 ein Journaldruck im Osnabrücker Intelligenzblatt (<titel>Westphälische Beyträge zum Nutzen und Vergnügen</titel>) und eine Einzelausgabe in Osnabrück. – Digitalisat des Journaldrucks (<titel>Westphälische Beyträge zum Nutzen und Vergnügen</titel> St.&#x202F;9–17, 3. März bis 28. April): <wwwlink address="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9144579">Nds. Landesarchiv, Abt. Osnabrück</wwwlink>. – Digitalisat der Einzelausgabe Osnabrück 1781: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584398-4">BSB München: L.germ. 251 m</wwwlink></eintrag>
+<titel>Ueber die deutsche Sprache und Litteratur. An einen Freund</titel> (Hamburg: Hoffmann 1781). Digitalisat der Hamburger Ausgabe: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN63866215X">SUB Göttingen</wwwlink>. – Neben der Hamburger Ausgabe, die Hamann las, erschien von März bis April 1781 ein Journaldruck im Osnabrücker Intelligenzblatt (<titel>Westphälische Beyträge zum Nutzen und Vergnügen</titel>) und eine Einzelausgabe in Osnabrück. – Digitalisat des Journaldrucks (<titel>Westphälische Beyträge zum Nutzen und Vergnügen</titel> St.&#x202F;9–17, 3. März bis 28. April): <wwwlink address="https://www.arcinsys.niedersachsen.de/arcinsys/detailAction?detailid=v9144579">Nds. Landesarchiv, Abt. Osnabrück</wwwlink>. – Digitalisat der Einzelausgabe Osnabrück 1781: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10584398-4">BSB München: L.germ. 251 m</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -15955,7 +15955,7 @@ N
 
 <kommentar id="nicolai" type="neuzeit">
 <lemma>Friedrich Nicolai</lemma>
-<eintrag>1733–1811. Schriftsteller, Verlagsbuchhändler, Kritiker; Mitherausgeber u.a. von <link ref="briefe-literatur" linktext="true" />, <link ref="bibl-wiss-kuenste" linktext="true" /> und der <link ref="allgemeine-deutsche-bib" linktext="false">Allgemeinen deutschen Bibliothek</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118587668.html#adbcontent">Muncker, Franz: Nicolai, Friedrich, in: <titel>ADB</titel>&#x202F;23 (1886), S.&#x202F;580–590</wwwlink>.<line type="break" />
+<eintrag>1733–1811. Schriftsteller, Verlagsbuchhändler, Kritiker; Mitherausgeber u.a. von <link ref="briefe-literatur" linktext="true" />, <link ref="bibl-wiss-kuenste" linktext="true" /> und der <link ref="allgemeine-deutsche-bib" linktext="false"><titel>Allgemeinen deutschen Bibliothek</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118587668.html#adbcontent">Muncker, Franz: Nicolai, Friedrich, in: <titel>ADB</titel>&#x202F;23 (1886), S.&#x202F;580–590</wwwlink>.<line type="break" />
 Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. Falk, I. Gombocz, H.-G. Roloff und J. Weber (Bern/Stuttgart 1991ff.)
 </eintrag>
 <subsection id="nicolai-berlocken" type="neuzeit" sort="5">
