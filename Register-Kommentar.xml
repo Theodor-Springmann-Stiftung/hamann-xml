@@ -893,6 +893,12 @@ Dt. Übers. zitiert nach: Kurt Flasch und Burkhard Mojsisch (Übers.), <titel>Au
 <eintrag>1757–1833. In den 1770er Jahren verschiedentlich beim Militär und an der Albertina inskribiert, 1776 Offizier, Freimaurer (vgl. <intlink letter="575" page="154" line="6" linktext="true" />); später Kammerpräsident und Kanzler, Erbherr auf dem Gut Faulen, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz1549.html#adbcontent">Usinger: Auerswald, Hans Jakob von, in: <titel>ADB</titel>&#x202F;1 (1875), S.&#x202F;645–650</wwwlink> und <wwwlink address="https://books.google.de/books?id=UJdAAAAAcAAJ">Voigt: <titel>Beiträge zur Geschichte der Familie von Auerswald aus urkundlichen Quellen</titel> (Königsberg 1824), S.&#x202F;61</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="auerswald-sca" type="neuzeit">
+<lemma>Sophie Charlotte Albertine von Auerswald</lemma>
+<eintrag>1760–1813. Geb. Gräfin zu Dohna-Lauck, seit 1784 Ehefrau von <link ref="auerswald" linktext="true" />.
+</eintrag>
+</kommentar>
+
 <kommentar id="auserlesene-bibliothek" type="neuzeit">
 <lemma><titel>Auserlesene Bibliothek der neuesten deutschen Litteratur</titel></lemma>
 <eintrag><titel>Auserlesene Bibliothek der neuesten deutschen Litteratur.</titel> Hg. von <link ref="hausen" linktext="true" />, verlegt von Christian Friedrich Helwing (20 Bde., Lemgo 1772–1781). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3761551162">SLUB Leipzig</wwwlink>. </eintrag>
@@ -2083,7 +2089,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="blumenlese-pr" type="neuzeit">
 <lemma>Preußische Blumenlese</lemma>
-<eintrag><titel>Preußische Blumenlese für das Jahr 1780. Herausgegeben von Doerk und Mohr</titel> (Königsberg: Hartung 1780–1782, 1793). Herausgeber: <link ref="doerk" linktext="true" />, <link ref="mohr-s" linktext="true" />, <link ref="funck-jd" linktext="true" />, <link ref="john" linktext="true" /> und <link ref="gerber-as" linktext="true" />. Digitalisat: <wwwlink address="https://resolver.staatsbibliothek-berlin.de/SBB0002687600000000">Stabi Berlin</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1177916665">ZDB</wwwlink>.</eintrag>
+<eintrag><titel>Preußische Blumenlese für das Jahr 1780. Herausgegeben von Doerk und Mohr</titel> (4 Bde., Königsberg: Hartung 1780, 1781, 1782, 1793). Herausgeber: <link ref="doerk" linktext="true" />, <link ref="mohr-s" linktext="true" />, <link ref="funck-jd" linktext="true" />, <link ref="john" linktext="true" /> und <link ref="gerber-as" linktext="true" />. Digitalisat: <wwwlink address="https://resolver.staatsbibliothek-berlin.de/SBB0002687600000000">Stabi Berlin</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=1177916665">ZDB</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="boccaccio" type="neuzeit">
@@ -2340,7 +2346,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="botticher-jgi" type="neuzeit">
 <lemma>Jakob Gottlieb Isaak Bötticher</lemma>
-<eintrag>1754–1792. 1780 Hofmeister beim Grafen <wwwlink address="https://d-nb.info/gnd/118571125">Ernst Ahasverus Heinrich Graf von Lehndorff (1727–1811)</wwwlink>, später Domvikar, siehe <wwwlink address="http://d-nb.info/gnd/120187698">GND</wwwlink>.</eintrag>
+<eintrag>1754–1792. 1780 Hofmeister der Söhne des Grafen <link ref="lehndorff" linktext="true" />, später Domvikar; siehe <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10043973?page=42%2C43"><titel>Magazin zur Erfahrungsseelenkunde,</titel> Bd.&#x202F;2, St.&#x202F;2 (1784), S.&#x202F;39</wwwlink> und <wwwlink address="http://d-nb.info/gnd/120187698">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="boileau" type="neuzeit">
@@ -3235,13 +3241,19 @@ C
 <kommentar id="campe-jh" type="neuzeit">
 <lemma>Joachim Heinrich Campe</lemma>
 <eintrag>1746–1818. Schriftsteller, Pädagoge, Verleger, Mitbegründer und Leiter des Dessauer Philanthropins, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118518658.html#ndbcontent">Hausmann, Gottfried: Campe, Joachim Heinrich, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;110f</wwwlink>.</eintrag>
-<subsection id="campe-robinson" type="neuzeit">
+<subsection id="campe-robinson" type="neuzeit" sort="10">
 <lemma>Campe, <titel>Robinson der Jüngere</titel></lemma>
 <eintrag>
 <titel>Robinson der Jüngere, zur angenehmen und nützlichen Unterhaltung für Kinder</titel> (2 Bde., Hamburg: Bohn 1779–1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-20090519748">Stabi Berlin: B VIII, 24704-1 R</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="campe-seelenlehre" type="neuzeit">
+<subsection id="campe-unsterblichkeit" type="neuzeit" sort="20">
+<lemma>Campe, <titel>Versuch eines neuen Beweises für die Unsterblichkeit unsrer Seele</titel>, in: <link ref="boie" subref="boie-museum" linktext="false"><titel>Deutsches Museum</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10614679?page=204%2C205">Bd.&#x202F;2, September 1780, S.&#x202F;195–213</wwwlink>.</lemma>
+<eintrag>
+<titel>Kleine Selenlehre für Kinder von J. H. Campe</titel> (Hamburg: Bohn 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10761906-2">BSB München: Paed.pr. 4446 l</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="campe-seelenlehre" type="neuzeit" sort="30">
 <lemma>Campe, <titel>Kleine Selenlehre für Kinder</titel></lemma>
 <eintrag>
 <titel>Kleine Selenlehre für Kinder von J. H. Campe</titel> (Hamburg: Bohn 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10761906-2">BSB München: Paed.pr. 4446 l</wwwlink>.
@@ -8373,7 +8385,7 @@ Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;35–53.
 <lemma>Hamann, <titel>Au Salomon de Prusse</titel></lemma>
 <eintrag>
 <titel>Av Salomon de Prusse.</titel><line type="break" />
-Zu Lebzeiten nicht gedruckt; in derselben korrigierten Abschrift wie <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> überliefert, mit denen sie gemeinsam gedruckt werden sollte. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. <line type="break" />
+Zu Lebzeiten nicht gedruckt; in derselben korrigierten Abschrift wie <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false">Hamanns <titel>Philologische Einfälle</titel></link> überliefert, mit denen die Schrift gemeinsam gedruckt werden sollte. – Original der Handschrift verschollen. Photographie: ULB Münster: N. Hamann Bd.&#x202F;55–60. <line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;55–60.
 </eintrag>
 </subsection>
@@ -9207,7 +9219,7 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="herklots" type="neuzeit">
 <lemma>Carl Alexander Herklots</lemma>
-<eintrag>1759–1830. Hofgerichts-Referendar in Königsberg, <link ref="blumenlese-pr" linktext="false"><titel>Preußischen Blumenlese</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117519901.html#adbcontent">Kürschner, Joseph: Herklots, Karl Alexander, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;115</wwwlink>.
+<eintrag>1759–1830. Hofgerichts-Referendar in Königsberg, Beiträger für die <link ref="blumenlese-pr" linktext="false"><titel>Preußische Blumenlese (1780)</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd117519901.html#adbcontent">Kürschner, Joseph: Herklots, Karl Alexander, in: <titel>ADB</titel>&#x202F;12 (1880), S.&#x202F;115</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -11282,7 +11294,7 @@ Briefe Online: <wwwlink address="https://korpora.org/kant/aa10/Inhalt10.html">AA
 <subsection id="kant-critik-vernunft" type="neuzeit" sort="100">
 <lemma>Kant, <titel>Critik der reinen Vernunft</titel></lemma>
 <eintrag>
-<titel>Critik der reinen Vernunft</titel> (Riga: Hartknoch 1781).<line type="break" />
+<titel>Critik der reinen Vernunft</titel> (Riga: Hartknoch 1781). Erschien zur Frühjahrsbuchmesse 1781, vgl. <link ref="messkatalog" subref="messkatalog-ostern1781" linktext="true" />, <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207931:00000053/full/full/0/default.jpg">S.&#x202F;53</wwwlink>; Hamann las kurz zuvor bereits Probebogen, an die er über <link ref="hartknoch" linktext="false">Hartknoch</link> kam, nachdem er im Herbst 1780 den Verlag vermittelte.<line type="break" />
 Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00073694-9">BSB München: Rar. 1473</wwwlink>.<line type="break" />
 <titel>AA</titel>&#xA0;IV: Kritik der reinen Vernunft (1. Aufl. 1781), Prolegomena, Grundlegung zur Metaphysik der Sitten, Metaphysische Anfangsgründe der Naturwissenschaft, S.&#x202F;1–252.</eintrag>
 </subsection>
@@ -12162,7 +12174,7 @@ Zur Biographie vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Johan
 <subsection id="kreutzfeld-blumenlese" type="neuzeit" sort="10">
 <lemma>Kreutzfeld, <titel>Preußische Blumenlese</titel></lemma>
 <eintrag>
-<titel>Preußische Blumenlese</titel> (Königsberg: Kanter 1775). Digitalisat: <wwwlink address="http://polona.pl/item/127253088/">Biblioteka Narodowa</wwwlink>. – Die <wwwlink address="https://polona.pl/item-view/dac1b46a-6b13-4544-8904-245a67265e84?page=154">vier litauischen ‚Dainos‘</wwwlink> übersetzte Kreutzfeld, auch die literaturgeschichtliche Einleitung stammt wohl von ihm.
+<titel>Preußische Blumenlese</titel> (Königsberg: Kanter 1775). Digitalisat: <wwwlink address="http://polona.pl/item/127253088/">Biblioteka Narodowa</wwwlink>. – Die <wwwlink address="https://polona.pl/item-view/dac1b46a-6b13-4544-8904-245a67265e84?page=154">vier litauischen ‚Dainos‘</wwwlink> übersetzte Kreutzfeld, auch die literaturgeschichtliche Einleitung stammte wohl von ihm; zu anderen Beiträgern vgl. <intlink letter="611" page="255" line="12" linktext="true" />.
 </eintrag>
 </subsection>
 <subsection id="kreutzfeld-hudibras" type="neuzeit" sort="20">
@@ -12741,6 +12753,11 @@ Zweisprachige Dänisch/Lateinische Ausgabe (1767): Knud Leems <titel>Beskrivelse
 <kommentar id="lefort" type="neuzeit">
 <lemma>Daniel Le Fort</lemma>
 <eintrag>Gest. 1804. Prediger der französisch-reformierten Kirche in Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="lehndorff" type="neuzeit">
+<lemma>Ernst Ahasverus Heinrich Graf von Lehndorff</lemma>
+<eintrag>1727–1811. Preußischer Kammerherr, lebte ab 1775 auf <wwwlink address="https://de.wikipedia.org/wiki/Schloss_Steinort">Schloss Steinort</wwwlink>, siehe <wwwlink address="https://d-nb.info/gnd/118571125">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="leibniz" type="neuzeit">
@@ -13386,6 +13403,11 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <kommentar id="link-i" type="neuzeit">
 <lemma>Immanuel Link</lemma>
 <eintrag>Mitglied der <link ref="konigliche-d-g" linktext="false">Königlichen Deutschen Gesellschaft</link> in Königsberg.</eintrag>
+</kommentar>
+
+<kommentar id="liphardt" type="neuzeit">
+<lemma>Hans Heinrich von Liphardt</lemma>
+<eintrag>1736–1806. Deutschbaltischer Kammerjunker aus Holstein, 1780 Besitzer des Gutes <wwwlink address="https://www.geonames.org/592593">Aya (Ahja, Kreis Põlva)</wwwlink>, wo sich <link ref="lenz" linktext="false">Lenz</link> als Hofmeister aufhielt, siehe Heinrich Bosse: <titel>Jacob Lenz in Livland 1779–1781. Lebensgeschichte und Erzählmuster</titel>, in: Maris Saagpakk (Hg. u.a.): Baltische Erzähl- und Lebenswelten (Oldenburg 2023), S.&#x202F;74f.</eintrag>
 </kommentar>
 
 <kommentar id="lippert" type="neuzeit">
@@ -22579,7 +22601,7 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 
 <kommentar id="wedeke" type="neuzeit">
 <lemma>Johann Christoph Wedeke</lemma>
-<eintrag>1755–1815. Von 1776 bis 1784 Hofmeister für die Familien Dohna-Lauck und Dohna-Schlodien, 1784 Pfarrer in Riesenburg, später Oberhofprediger in Königsberg; siehe <wwwlink address="http://d-nb.info/14319867X">Deutsche Biographie</wwwlink> und Eilert Herms, Joachim Ringleben (Hg.): Vergessene Theologen des 19. und frühen 20. Jahrhunderts (Göttingen 1984), S.&#x202F;11–36.</eintrag>
+<eintrag>1755–1815. Von 1776 bis 1784 Hofmeister für die Familien Dohna-Lauck und Dohna-Schlodien, 1784 Pfarrer in Riesenburg, später Oberhofprediger in Königsberg; siehe <wwwlink address="http://d-nb.info/14319867X">Deutsche Biographie</wwwlink> und Eilert Herms, Joachim Ringleben (Hg.): <titel>Vergessene Theologen des 19. und frühen 20. Jahrhunderts</titel> (Göttingen 1984), S.&#x202F;11–36.</eintrag>
 </kommentar>
 
 <kommentar id="wegelin" type="neuzeit">
