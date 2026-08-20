@@ -86012,12 +86012,12 @@ Hamann beginnt den Brief als Begleitschreiben zum Brief von Herders Schwester an
 <bzg>Käthe</bzg> <link ref="hamann-mc" linktext="true" />
 </marginal>
 
-<marginal letter="611" page="254" line="21">
+<marginal letter="611" page="254" line="21" sort="1">
 <bzg>Trappens Sendschreiben</bzg> das Manuskript für <link ref="trapp" subref="trapp-sendschreiben" linktext="true" />, vgl. <intlink letter="609" page="250" line="6" linktext="true" />
 </marginal>
 
-<marginal letter="611" page="254" line="22">
-<bzg>Beantwortung unter dem Namen Semler</bzg> die Gegen-Polemik von <link ref="schwager" subref="schwager-briefe" linktext="false">Johann Moritz Schwager: <titel>Semler. Ein Sendschreiben an den Herrn Prof. Ernst Christian Trapp in Halle</titel></link>
+<marginal letter="611" page="254" line="21" sort="2">
+<bzg>Beantwortung&#x202F;…&#x202F;Semler</bzg> die Gegen-Polemik von <link ref="schwager" subref="schwager-briefe" linktext="false">Johann Moritz Schwager: <titel>Semler. Ein Sendschreiben an den Herrn Prof. Ernst Christian Trapp in Halle</titel></link>
 </marginal>
 
 <marginal letter="611" page="254" line="24">
@@ -86500,7 +86500,7 @@ Brief Nr. 612
 </marginal>
 
 <marginal letter="612" page="260" line="9">
-<bzg>zweyköpfige außerordentl.</bzg> <link ref="dissertation-extraordinaire" linktext="true" />, wo die veröffentlichte Frage lautet: „Est-il utile au Peuple d’être trompé, soit qu’on l’induise dans de nouvelles erreurs, ou qu’on l’entretienne dans celles où il est?“; vgl. auch <intlink letter="607" page="246" line="9" linktext="true" />.
+<bzg>zweyköpfige außerordentl.</bzg> <link ref="dissertation-extraordinaire" linktext="true" />, wo die veröffentlichte Frage lautet: „Est-il utile au Peuple d’être trompé, soit qu’on l’induise dans de nouvelles erreurs, ou qu’on l’entretienne dans celles où il est?“; vgl. auch <intlink letter="607" page="246" line="9" linktext="true" /> und zur Thematik des Volksbetrugs <intlink letter="612" page="263" line="18" linktext="false">unten</intlink>.
 </marginal>
 
 <marginal letter="612" page="260" line="10">
@@ -87136,6 +87136,10 @@ Brief Nr. 614
 <marginal letter="614" page="267" line="10">
 <bzg>Krönungsfeste</bzg> 18. Januar (in Erinnerung an die Krönung Friedrichs I. im Königsberger Schloss 1701)
 </marginal>
+ 
+<marginal letter="614" page="267" line="11">
+<bzg>großen Pack</bzg> Es enthielt u.a. Bücher, von denen Hamann in <intlink letter="609" page="250" line="8" linktext="true" /> klagte, sie seien in Königsberg nicht aufzutreiben, und die Hartknoch vorauseilend überschickte, <intlink letter="614" page="268" line="19" linktext="false">s.u.</intlink>
+</marginal>
 
 <marginal letter="614" page="267" line="11">
 <bzg>Assignation</bzg> Anzeige (eigentlich Bankanweisung); nicht überliefert
@@ -87230,7 +87234,7 @@ Brief Nr. 614
 </marginal>
 
 <marginal letter="614" page="268" line="12" sort="2">
-<bzg>Edomsgemüse</bzg> Wohl nach dem Rotelinsengericht, das Edom bzw. Esau gegen sein Erstgeburtsrecht mit Jakob tauscht (<link ref="at-mo1" subref="at-mo1-25" linktext="false">1 Mo 25,30</link>); im Hintergrund wohl auch die wörtliche Bedeutung von Edom (‚rötlich‘) im Zusammenhang von Voltaires Exotismus-Assoziation von Kaffee und rotem Meer (von woher Kaffee importiert wurde).
+<bzg>Edomsgemüse</bzg> Nach dem Rotelinsengericht, das Edom bzw. Esau gegen sein Erstgeburtsrecht mit Jakob tauschte (<link ref="at-mo1" subref="at-mo1-25" linktext="false">1 Mo 25,30</link>, vgl. auch <intlink letter="616" page="281" line="36" linktext="true" />); im Hintergrund steht wohl die wörtliche Bedeutung von Edom (‚rötlich‘) im Zusammenhang von Voltaires Exotismus-Assoziation von Kaffee und rotem Meer (über dieses wurde Kaffee nach Europa importiert).
 </marginal>
 
 <marginal letter="614" page="268" line="14" sort="1">
@@ -87246,7 +87250,7 @@ Brief Nr. 614
 </marginal>
 
 <marginal letter="614" page="268" line="19">
-<bzg>über unsern Büchermangel klagte</bzg> das Angebot in der <link ref="hartung-gl" linktext="false">Hartung’schen Buchhandlung</link>,  vgl. <intlink letter="609" page="250" line="8" linktext="true" />
+<bzg>über unsern Büchermangel klagte</bzg> Das Angebot in der <link ref="hartung-gl" linktext="false">Hartung’schen Buchhandlung</link>, vgl. <intlink letter="609" page="250" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="614" page="268" line="20">
@@ -87270,11 +87274,11 @@ Brief Nr. 614
 </marginal>
 
 <marginal letter="614" page="268" line="27">
-<bzg>Histoire&#x202F;…</bzg> <link ref="buffon" subref="histoirenaturelle" linktext="false">Buffons <titel>Histoire naturelle</titel></link>; die Vogelsektion ist in den Bde.&#x202F;16–24 enthalten, wurde aber auch separat als <link ref="buffon" subref="buffon-oiseaux" linktext="false"><titel>Histoire naturelle des oiseaux</titel></link> publiziert.
+<bzg>Histoire&#x202F;…</bzg> <link ref="buffon" subref="histoirenaturelle" linktext="false">Buffons <titel>Histoire naturelle</titel></link>; die Vogelsektion ist in den Bänden 16–24 enthalten, wurde aber auch separat als <link ref="buffon" subref="buffon-oiseaux" linktext="false"><titel>Histoire naturelle des oiseaux</titel></link> publiziert.
 </marginal>
 
 <marginal letter="614" page="268" line="28">
-<bzg>gestern Abend dem heil. Matthias zu Ehren</bzg> 24. Februar, Tag des hl. Matthias
+<bzg>gestern&#x202F;…&#x202F;zu Ehren</bzg> 24. Februar, Tag des hl. Matthias
 </marginal>
 
 <marginal letter="614" page="268" line="29">
@@ -87286,7 +87290,7 @@ Brief Nr. 614
 </marginal>
 
 <marginal letter="614" page="268" line="31">
-<bzg>Trappischen Semmler</bzg> Das Manuskript für <link ref="trapp" subref="trapp-sendschreiben" linktext="true" />; mglw. versuchte Hamann, die Polemik gegen <link ref="semler" linktext="false">Semler</link> nach der Ablehnung von <link ref="hartung-gl" linktext="false">Hartung</link> an Hartknoch zu vermitteln, vgl. <intlink letter="611" page="254" line="21" linktext="true" />.
+<bzg>Trappischen Semmler</bzg> Das Manuskript für <link ref="trapp" subref="trapp-sendschreiben" linktext="true" />; mglw. versuchte Hamann, die Polemik gegen <link ref="semler" linktext="false">Semler</link> an Hartknoch zu vermitteln, vgl. <intlink letter="611" page="254" line="21" linktext="true" />.
 </marginal>
 
 <marginal letter="614" page="268" line="33">
@@ -87294,11 +87298,11 @@ Brief Nr. 614
 </marginal>
 
 <marginal letter="614" page="268" line="37">
-<bzg>Probebogen von Kant</bzg> <link ref="kant" subref="kant-critik-vernunft" linktext="true" />, die zur <link ref="messkatalog" subref="messkatalog-ostern1781" linktext="false">Frühjahrsmesse 1781</link> erschien (also Anfang Mai 1781), wie im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207931:00000053/full/full/0/default.jpg">Messkatalog, S.&#x202F;53</wwwlink> verzeichnet. – Hamanns im Folgenden ausgebreiteter Plan, über Hartknoch und Spener früher an Probebogen der <titel>Critik der reinen Vernunft</titel> zu gelangen, ging auf, vgl. <intlink letter="616" page="278" line="12" linktext="true" />.
+<bzg>Probebogen von Kant</bzg> <link ref="kant" subref="kant-critik-vernunft" linktext="true" />, die zur <link ref="messkatalog" subref="messkatalog-ostern1781" linktext="false">Frühjahrsmesse 1781</link> erschien (also Anfang Mai 1781), wie im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207931:00000053/full/full/0/default.jpg">Messkatalog, S.&#x202F;53</wwwlink> verzeichnet. – Hamanns im Folgenden ausgebreiteter Plan, über Hartknoch und <link ref="spener-jkp" linktext="false">Spener</link> früher an Probebogen der <titel>Critik der reinen Vernunft</titel> zu gelangen, ging auf, vgl. <intlink letter="616" page="278" line="12" linktext="true" />.
 </marginal>
 
 <marginal letter="614" page="269" line="1">
-<bzg>Autor&#x202F;…&#x202F;Probe</bzg> Hamann hörte wohl mündlich davon in Königsberg. Überliefert ist <link ref="spener-jkp" linktext="false">Speners</link> Begleitbrief für die zweite Lieferung an Aushängebögen vom 28. April sowie <link ref="kant" linktext="false">Kants</link> Antwortschreiben, in denen er sich zufrieden mit dem Druck zeigt, vgl. <wwwlink address="https://www.korpora.org/Kant/aa10/265.html">Kant: AA X, Briefwechsel 1780 , S.&#x202F;265–286</wwwlink>.
+<bzg>Autor&#x202F;…&#x202F;Probe</bzg> Hamann hörte wohl mündlich davon in Königsberg. Überliefert ist Speners Begleitbrief für die zweite Lieferung an Aushängebögen vom 28. April sowie <link ref="kant" linktext="false">Kants</link> Antwortschreiben, in denen er sich zufrieden mit dem Druck zeigt, vgl. <wwwlink address="https://www.korpora.org/Kant/aa10/265.html">Kant: AA X, Briefwechsel 1780 , S.&#x202F;265–268</wwwlink>.
 </marginal>
 
 <marginal letter="614" page="269" line="7">
@@ -87326,23 +87330,19 @@ Brief Nr. 614
 </marginal>
 
 <marginal letter="614" page="269" line="15">
-<bzg>Humischen Uebersetzung</bzg> Die <link ref="hume" subref="hume-dialogues" linktext="false"><titel>Gespräche über natürliche Religion von David Hume</titel></link>, welche ebenfalls für die <link ref="messkatalog" subref="messkatalog-ostern1781" linktext="false">Frühjahrsmesse 1781</link> angekündigt waren (vgl. <intlink letter="596" page="206" line="5" linktext="true" />) und die Hamann eigentlich für die Neuausrichtung seines <link ref="hamann" subref="hamann-dialogues" linktext="false">eigenen Übersetzungsvorhabens</link> benötigte, erschienen erst zur <link ref="messkatalog" subref="messkatalog-michaelis1781" linktext="false">Herbstmesse 1781</link>; vgl. die Liste der ‚fertig gewordenen Schriften‘ im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822501333:00000024/full/full/0/default.jpg">Messkatalog für Michaelis 1781, S.&#x202F;190</wwwlink> und dieselbe Stelle im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207931:00000049/full/full/0/default.jpg">Messkatalog für Ostern 1781, S.&#x202F;49</wwwlink>, außerdem das „Leipziger Michael-Messe 1781“ unterschriebene <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11273248?page=10%2C11">Vorwort</wwwlink>.
+<bzg>Humischen Uebersetzung</bzg> Die angekündigte <link ref="hume" subref="hume-dialogues" linktext="false">Übersetzung der <titel>Gespräche über natürliche Religion von David Hume</titel> bei Weygand</link>, welche ebenfalls für die <link ref="messkatalog" subref="messkatalog-ostern1781" linktext="false">Frühjahrsmesse 1781</link> angekündigt war (vgl. <intlink letter="596" page="206" line="5" linktext="true" />) und die Hamann für die Neuausrichtung seines <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Projekts</link> benötigte. Die Weygand-Übersetzung erschienen aber erst zur <link ref="messkatalog" subref="messkatalog-michaelis1781" linktext="false">Herbstmesse 1781</link>, vgl. die Liste der ‚fertig gewordenen Schriften‘ im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822501333:00000024/full/full/0/default.jpg">Messkatalog für Michaelis 1781, S.&#x202F;190</wwwlink> und dieselbe Stelle im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207931:00000049/full/full/0/default.jpg">Messkatalog für Ostern 1781, S.&#x202F;49</wwwlink>, außerdem das „Leipziger Michael-Messe 1781“ unterschriebene <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11273248?page=10%2C11">Vorwort</wwwlink>.
 </marginal>
 
 <marginal letter="614" page="269" line="18">
-<bzg>Philisterplagen</bzg> wohl die ‚Philisterflechte‘, also die Hautkrankheit, die Hamann scherzhaft nach den Plagen der Philister benannte (<link ref="at-sam1" subref="at-sam1-5" linktext="false">1 Sam 5,6–12</link>)
+<bzg>Philisterplagen</bzg> Wohl die ‚Philisterflechte‘, also die Hautkrankheit, die Hamann scherzhaft nach den Plagen der Philister benannte (<link ref="at-sam1" subref="at-sam1-5" linktext="false">1 Sam 5,6–12</link>), vgl. <intlink letter="545" page="51" line="28" linktext="true" />.
 </marginal>
 
 <marginal letter="614" page="269" line="21" sort="1">
-<bzg>Ziegenpropheten</bzg> Gemeint ist der <link ref="ziehen" linktext="false">‚Zellerfelder Prophet‘ Conrad Siegmund Ziehen</link>, dessen geweissagte Flutkatastrophe in diesem Monat stattfinden sollte; hier benannt nach dem ‚Ziegenpropheten‘ Komarnicki, über den Hamann und <link ref="kant" linktext="false">Kant</link> 1764 in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">Königsbergschen Gelehrten und Politischen Zeitungen</link> schrieben, vgl. <intlink letter="257" page="235" line="33" linktext="true" />.
-</marginal>
-
-<marginal letter="614" page="269" line="21" sort="2">
-<bzg>Brut der Projectmacher</bzg> wohl die französische Finanzverwaltung unter <link ref="launay" linktext="true" />
+<bzg>Ziegenpropheten</bzg> Gemeint ist der <link ref="ziehen" linktext="false">‚Zellerfelder Prophet‘ Conrad Siegmund Ziehen</link>, dessen geweissagte Flutkatastrophe in diesem Monat stattfinden sollte; hier benannt nach dem ‚Ziegenpropheten‘ Komarnicki, über den Hamann und <link ref="kant" linktext="false">Kant</link> 1764 in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link> schrieben, vgl. <intlink letter="257" page="235" line="33" linktext="true" />.
 </marginal>
 
 <marginal letter="614" page="269" line="22">
-<bzg>alten Vater Friedrich</bzg> <link ref="friedrich-II" linktext="true" />
+<bzg>Projectmacher&#x202F;…&#x202F;Vater Friedrich</bzg> <link ref="friedrich-II" linktext="true" />; zu Hamanns verspottender Opposition gegen die jüngsten friderizianischen Reformprojekte in Kultur und Wirtschaft vgl. <intlink letter="612" page="260" line="22" linktext="true" /> und <intlink letter="614" page="268" line="10" linktext="false">oben</intlink>.
 </marginal>
 
 <marginal letter="614" page="269" line="24">
