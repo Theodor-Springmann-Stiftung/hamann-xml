@@ -18,6 +18,8 @@ TAG_RE = re.compile(r"</?\s*([A-Za-z_][\w:.-]*)")
 ATTR_RE = re.compile(r"([A-Za-z_][\w:.-]*)\s*=\s*(['\"])(.*?)\2", re.DOTALL)
 ENTITY_RE = re.compile(r"&(?:#x[0-9A-Fa-f]+|#\d+|amp|lt|gt|apos|quot);")
 WORD_RE = re.compile(r"\w+(?:[’'-]\w+)*|[^\w\s]+", re.UNICODE)
+LEXICAL_WORD_RE = re.compile(r"\w+", re.UNICODE)
+DICTIONARY_FORMAT = 1
 
 
 class Normalizer(Protocol):
@@ -289,14 +291,11 @@ def _project_segment(
     return ambiguous, _word_alignment(source, normalized)
 
 
-def transform_xml(
+def _prepare_xml(
     source_path: Path,
-    output_path: Path,
-    normalizer: Normalizer,
-    report_path: Path | None = None,
     letters: set[str] | None = None,
     excluded_tags: set[str] | None = None,
-) -> dict[str, int]:
+) -> tuple[list[Token], list[Segment], set[str], str]:
     raw_bytes = source_path.read_bytes()
     available_letters = _validated_letter_ids(raw_bytes)
     selected_letters = letters or available_letters
@@ -309,7 +308,17 @@ def transform_xml(
     raw = raw_bytes.decode(encoding)
     tokens = _tokenize(raw)
     segments = _collect_segments(tokens, selected_letters, excluded_tags or {"nr", "gr", "hb"})
-    normalized_texts = normalizer.normalize_many([segment.source for segment in segments])
+    return tokens, segments, selected_letters, encoding
+
+
+def _apply_normalizations(
+    tokens: list[Token],
+    segments: list[Segment],
+    normalized_texts: Sequence[str],
+    output_path: Path,
+    report_path: Path | None,
+    encoding: str,
+) -> tuple[int, int]:
     if len(normalized_texts) != len(segments):
         raise ValueError("Normalizer returned a different number of segments")
 
@@ -343,9 +352,134 @@ def transform_xml(
             for record in report_records:
                 report.write(json.dumps(record, ensure_ascii=False) + "\n")
 
+    return changed, ambiguous_total
+
+
+def _load_dictionary(path: Path, model_id: str) -> dict[str, str]:
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if data.get("format") != DICTIONARY_FORMAT:
+        raise ValueError(f"Unsupported dictionary format in {path}")
+    if data.get("model") != model_id:
+        raise ValueError(
+            f"Dictionary {path} belongs to model {data.get('model')!r}, not {model_id!r}"
+        )
+    words = data.get("words")
+    if not isinstance(words, dict) or not all(
+        isinstance(source, str) and isinstance(output, str)
+        for source, output in words.items()
+    ):
+        raise ValueError(f"Invalid word mapping in dictionary {path}")
+    return words
+
+
+def _save_dictionary(path: Path, model_id: str, words: dict[str, str]) -> None:
+    data = {
+        "format": DICTIONARY_FORMAT,
+        "model": model_id,
+        "words": dict(sorted(words.items())),
+    }
+    temporary_path = path.with_suffix(path.suffix + ".tmp")
+    temporary_path.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    temporary_path.replace(path)
+
+
+def _preserve_capitalization(source: str, output: str) -> str:
+    if not source or not output:
+        return output
+    if source.isupper():
+        return output.upper()
+    if source[0].isupper() and output[0].islower():
+        return output[0].upper() + output[1:]
+    if source[0].islower() and output[0].isupper():
+        return output[0].lower() + output[1:]
+    return output
+
+
+def transform_xml(
+    source_path: Path,
+    output_path: Path,
+    normalizer: Normalizer,
+    report_path: Path | None = None,
+    letters: set[str] | None = None,
+    excluded_tags: set[str] | None = None,
+) -> dict[str, int]:
+    tokens, segments, selected_letters, encoding = _prepare_xml(
+        source_path, letters, excluded_tags
+    )
+    normalized_texts = normalizer.normalize_many([segment.source for segment in segments])
+    changed, ambiguous_total = _apply_normalizations(
+        tokens,
+        segments,
+        normalized_texts,
+        output_path,
+        report_path,
+        encoding,
+    )
+
     return {
         "letters": len(selected_letters),
         "segments": len(segments),
+        "changed_segments": changed,
+        "ambiguous_markup_spans": ambiguous_total,
+    }
+
+
+def transform_xml_words(
+    source_path: Path,
+    output_path: Path,
+    normalizer: Normalizer,
+    dictionary_path: Path,
+    model_id: str,
+    report_path: Path | None = None,
+    letters: set[str] | None = None,
+    excluded_tags: set[str] | None = None,
+) -> dict[str, int]:
+    tokens, segments, selected_letters, encoding = _prepare_xml(
+        source_path, letters, excluded_tags
+    )
+
+    unique_words: dict[str, None] = {}
+    for segment in segments:
+        for match in LEXICAL_WORD_RE.finditer(segment.source):
+            unique_words.setdefault(match.group(), None)
+
+    dictionary = _load_dictionary(dictionary_path, model_id)
+    cached_words = sum(word in dictionary for word in unique_words)
+    missing_words = [word for word in unique_words if word not in dictionary]
+    if missing_words:
+        outputs = normalizer.normalize_many(missing_words)
+        if len(outputs) != len(missing_words):
+            raise ValueError("Normalizer returned a different number of words")
+        dictionary.update(
+            (source, _preserve_capitalization(source, output.strip()))
+            for source, output in zip(missing_words, outputs, strict=True)
+        )
+        _save_dictionary(dictionary_path, model_id, dictionary)
+
+    normalized_texts = [
+        LEXICAL_WORD_RE.sub(lambda match: dictionary[match.group()], segment.source)
+        for segment in segments
+    ]
+    changed, ambiguous_total = _apply_normalizations(
+        tokens,
+        segments,
+        normalized_texts,
+        output_path,
+        report_path,
+        encoding,
+    )
+
+    return {
+        "letters": len(selected_letters),
+        "segments": len(segments),
+        "unique_words": len(unique_words),
+        "cached_words": cached_words,
+        "normalized_words": len(missing_words),
         "changed_segments": changed,
         "ambiguous_markup_spans": ambiguous_total,
     }

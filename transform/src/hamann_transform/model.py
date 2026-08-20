@@ -14,6 +14,7 @@ class Transnormer:
         batch_size: int = 4,
         num_beams: int = 4,
         show_progress: bool = True,
+        progress_unit: str = "segment",
     ) -> None:
         import torch
         from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
@@ -31,6 +32,7 @@ class Transnormer:
         self.batch_size = batch_size
         self.num_beams = num_beams
         self.show_progress = show_progress
+        self.progress_unit = progress_unit
         self.tokenizer = AutoTokenizer.from_pretrained(model_id)
         self.model = AutoModelForSeq2SeqLM.from_pretrained(model_id).to(self.device)
         self.model.eval()
@@ -42,7 +44,7 @@ class Transnormer:
         with tqdm(
             total=len(texts),
             desc="Normalizing XML",
-            unit="segment",
+            unit=self.progress_unit,
             disable=not self.show_progress,
         ) as progress:
             for start in range(0, len(texts), self.batch_size):

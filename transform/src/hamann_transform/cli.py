@@ -5,7 +5,7 @@ import json
 from pathlib import Path
 
 from .model import MODEL_ID, Transnormer
-from .xml_transform import transform_xml
+from .xml_transform import transform_xml, transform_xml_words
 
 
 def _arguments() -> argparse.Namespace:
@@ -16,6 +16,8 @@ def _arguments() -> argparse.Namespace:
     parser.add_argument("output", type=Path)
     parser.add_argument("--alignment-report", type=Path)
     parser.add_argument("--letters", help="Comma-separated letterText IDs")
+    parser.add_argument("--mode", choices=("lines", "words"), default="lines")
+    parser.add_argument("--dictionary", type=Path)
     parser.add_argument("--model", default=MODEL_ID)
     parser.add_argument("--device", default="auto")
     parser.add_argument("--batch-size", type=int, default=4)
@@ -35,14 +37,28 @@ def main() -> None:
         batch_size=args.batch_size,
         num_beams=args.num_beams,
         show_progress=not args.no_progress,
+        progress_unit="word" if args.mode == "words" else "segment",
     )
-    summary = transform_xml(
-        args.input,
-        args.output,
-        normalizer,
-        report_path=args.alignment_report,
-        letters=letters,
-    )
+    if args.mode == "words":
+        if args.dictionary is None:
+            raise SystemExit("--dictionary is required with --mode words")
+        summary = transform_xml_words(
+            args.input,
+            args.output,
+            normalizer,
+            dictionary_path=args.dictionary,
+            model_id=args.model,
+            report_path=args.alignment_report,
+            letters=letters,
+        )
+    else:
+        summary = transform_xml(
+            args.input,
+            args.output,
+            normalizer,
+            report_path=args.alignment_report,
+            letters=letters,
+        )
     print(json.dumps(summary, ensure_ascii=False))
 
 
