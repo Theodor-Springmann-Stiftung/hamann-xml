@@ -61116,7 +61116,7 @@ Brief Nr. 474
 </marginal>
 
 <marginal letter="474" page="272" line="20">
-<bzg>harmonia praestabilita</bzg> Lehre von Leibniz, der zufolge zwischen dem Reich der Natur und dem der Gnade, zwischen Körper und Seele, eine von Gott verbürgte Harmonie herrscht, die keiner Wechselwirkung zwischen den disparaten Entitäten verlangt, vgl. etwa <link ref="leibniz" subref="leibniz-PhilSchriften" linktext="false"><titel>Monadologie</titel></link>, §87 u.ö. 
+<bzg>harmonia praestabilita</bzg> Lehre von Leibniz, der zufolge zwischen dem Reich der Natur und dem der Gnade, zwischen Körper und Seele, eine von Gott verbürgte Harmonie herrscht, die keiner Wechselwirkung zwischen den disparaten Sphären verlangt, vgl. etwa <link ref="leibniz" subref="leibniz-PhilSchriften" linktext="false"><titel>Monadologie</titel></link>, §87 u.ö.
 </marginal>
 
 <marginal letter="474" page="272" line="25" >
@@ -61214,8 +61214,12 @@ Brief Nr. 474
 
 Brief Nr. 475
 
-<marginal letter="475" page="274" line="28" >
-<bzg>Εχαρην δε …</bzg> <link ref="nt-phil" subref="nt-phil4" linktext="false">Phil 4,10 u. 17</link>
+<marginal letter="475" page="274" line="28" sort="1">
+<bzg>Εχαρην … φρονειν</bzg> <link ref="nt-phil" subref="nt-phil4" linktext="false">Phil 4,10 </link>: „Ich bin aber höchlich erfreut in dem Herrn, daß ihr wieder wacker geworden seid, für mich zu sorgen“
+</marginal>
+
+<marginal letter="475" page="274" line="28" sort="2">
+<bzg>ουχ … καρπον</bzg> <link ref="nt-phil" subref="nt-phil4" linktext="false">Phil 4,17 </link>: „Nicht, daß ich das Geschenk suche; sondern ich suche die Frucht“
 </marginal>
 
 <marginal letter="475" page="274" line="30" >
@@ -61286,12 +61290,12 @@ Brief Nr. 475
 <bzg>Leibnitzens Theodicée</bzg> <link ref="leibniz" subref="leibniz-theodizee" linktext="true" />
 </marginal>
 
-<marginal letter="475" page="276" line="13" >
-<bzg>harmoniam praestabilitam</bzg> die von Gott im Voraus festgelegte Harmonie der Dinge nach der Monadologie von <link ref="leibniz" linktext="true" />
+<marginal letter="475" page="276" line="13">
+<bzg>harmoniam praestabilitam</bzg> Lehre von Leibniz, der zufolge zwischen dem Reich der Natur und dem der Gnade, zwischen Körper und Seele, eine von Gott verbürgte Harmonie herrscht, die keiner Wechselwirkung zwischen den disparaten Sphären verlangt, vgl. etwa <link ref="leibniz" subref="leibniz-PhilSchriften" linktext="false"><titel>Monadologie</titel></link>, §87 u.ö.
 </marginal>
 
-<marginal letter="475" page="276" line="14" >
-<bzg>Cartesii</bzg> <link ref="descartes" linktext="true" />
+<marginal letter="475" page="276" line="14">
+<bzg>Cartesii</bzg> <link ref="descartes" linktext="true" />. Zur Kritik an dessen Methode vgl. <link ref="hamann" subref="hamann-descartes" linktext="true" />.
 </marginal>
 
 <marginal letter="475" page="276" line="22" sort="1">
@@ -61448,8 +61452,8 @@ Brief Nr. 477
 <bzg>Kreutzfeld</bzg> <link ref="kreutzfeld" linktext="true" />
 </marginal>
 
-<marginal letter="477" page="278" line="14" >
-<bzg>entre chien et loup</bzg> redensartlich für ‚in der Dämmerung‘ (wenn man Hund und Wolf nicht mehr unterscheiden kann), hier im Sinne von nicht genau erkennbar
+<marginal letter="477" page="278" line="14">
+<bzg>entre chien et loup</bzg> redensartlich für ‚in der Dämmerung‘ (wenn man Hund und Wolf nicht mehr unterscheiden kann)
 </marginal>
 
 <marginal letter="477" page="278" line="22" >
@@ -61481,7 +61485,7 @@ Brief Nr. 477
 </marginal>
 
 <marginal letter="477" page="278" line="35" sort="2">
-<bzg>ersten Cammerdiener&#x202F;…</bzg> Im apokryphen <wwwlink address="https://www.bibelbuch.de/apokryphe-schriften/3-esra/">3. Buch Esra, Kap. 3</wwwlink> geht es um den Wettstreit der Kammerdiener des Königs Dareios, und darum, was das Stärkste ist: der Wein, der König, die Weiber oder die Wahrheit; der erste Kammerdiener schreibt auf einen Zettel: „Der Wein ist am mächtigsten.“ (3 Esr 3,10).
+<bzg>ersten Cammerdiener …</bzg> Im apokryphen <wwwlink address="https://www.bibelbuch.de/apokryphe-schriften/3-esra/">3. Buch Esra, Kap. 3</wwwlink> geht es um den Wettstreit der Kammerdiener des Königs Dareios, und darum, was das Stärkste ist: der Wein, der König, die Frauen oder die Wahrheit; der erste Kammerdiener schreibt auf einen Zettel: „Der Wein ist am mächtigsten.“ (3 Esr 3,10).
 </marginal>
 
 <marginal letter="477" page="279" line="2" sort="1" >
@@ -61524,8 +61528,8 @@ Brief Nr. 477
 <bzg>Garde-Magazin</bzg> Packhofverwalter
 </marginal>
 
-<marginal letter="477" page="279" line="20" >
-<bzg>Voyen Geldern</bzg> Biergelder, d.h. zusätzliche Einkünfte am <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Licent</link>
+<marginal letter="477" page="279" line="20">
+<bzg>Voyen Geldern</bzg> Biergelder, eine von den jeweils ein- und ausgehenden Schiffen zu bezahlende Abgabe, als Tantieme an manche Angestellten des <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Licent</link> ausgezahlt.
 </marginal>
 
 <marginal letter="477" page="279" line="24" >
@@ -61544,8 +61548,8 @@ Brief Nr. 477
 <bzg>licentiam poeticam</bzg> dichterische Freiheit (<link ref="quintilian" subref="quintilian-institutiones" linktext="true" /> 2,4,3)
 </marginal>
 
-<marginal letter="477" page="279" line="35" >
-<bzg>drey Briefe</bzg> Neben den beiden kürzlich verfassten Briefen an die <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link> (vgl. <intlink letter="470" page="434" line="20" linktext="true" /> und <intlink letter="470" page="436" line="9" linktext="true" />) ist als dritter vermutlich das Gesuch um die Licentratsteller <link ref="heusinger" linktext="false">Heusingers</link> von 1772 gemeint, vgl. <intlink letter="376" page="9" line="15" linktext="true" />.
+<marginal letter="477" page="279" line="35">
+<bzg>drey Briefe</bzg> Neben den beiden kürzlich verfassten Briefen an die <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link> (vgl. <intlink letter="470" page="434" line="20" linktext="true" /> und <intlink letter="470" page="436" line="9" linktext="true" />) ist als dritter vermutlich das Gesuch um die Licentratstelle <link ref="heusinger" linktext="false">Heusingers</link> von 1772 gemeint, vgl. <intlink letter="376" page="9" line="15" linktext="true" />.
 </marginal>
 
 <marginal letter="477" page="279" line="36" >
@@ -61568,8 +61572,8 @@ Brief Nr. 477
 <bzg>P.</bzg> <link ref="penzel" linktext="true" />
 </marginal>
 
-<marginal letter="477" page="280" line="13" >
-<bzg>Mosaischen Rechte</bzg> <link ref="at-mo5" subref="at-mo5-24" linktext="false">5 Mo 24,5</link>
+<marginal letter="477" page="280" line="13">
+<bzg>Mosaischen Rechte</bzg> <link ref="at-mo5" subref="at-mo5-24" linktext="false">5 Mo 24,5</link>: Befreiung vom Kriegsdienst.
 </marginal>
 
 <marginal letter="477" page="280" line="16" >
@@ -61640,8 +61644,8 @@ Brief Nr. 477
 <bzg>Operations-Plan</bzg> für das Gesuch um die Licentratsstelle von <link ref="blom-wy" linktext="true" />, vgl. <intlink letter="484" page="300" line="14" linktext="true" />
 </marginal>
 
-<marginal letter="477" page="281" line="21" >
-<bzg>Maupertuisischem Grundsatze</bzg> wohl das Prinzip der kleinsten Wirkung nach <link ref="maupertuis" linktext="true" />
+<marginal letter="477" page="281" line="21">
+<bzg>Maupertuisischem Grundsatze</bzg> das Prinzip der kleinsten Wirkung nach <link ref="maupertuis" linktext="true" />
 </marginal>
 
 <marginal letter="477" page="281" line="28" >
@@ -61707,7 +61711,11 @@ Brief Nr. 478
 <bzg>Bibliotheca Graeca</bzg> <link ref="fabricius" subref="fabricius-bib" linktext="true" />
 </marginal>
 
-<marginal letter="478" page="282" line="29" >
+<marginal letter="478" page="282" line="29" sort="1">
+<bzg>Quarantaine</bzg> zu Hamanns Erkrankung an Quartanfieber vgl. <intlink letter="470" page="255" line="22" linktext="true" />
+</marginal>
+
+<marginal letter="478" page="282" line="29" sort="2">
 <bzg>18 pr.</bzg> praeterito (vergangenen Monats), also wohl 18. Dezember 1776
 </marginal>
 
