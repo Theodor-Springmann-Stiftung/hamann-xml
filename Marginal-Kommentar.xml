@@ -64744,8 +64744,8 @@ Hamann schrieb den Briefentwurf im Zuge des Streits mit der Witwe seines Vorgän
 
 Brief Nr. 502
 
-<marginal letter="502" page="352" line="20" >
-<bzg>Sale Weina&#x202F;…Chunstoffischen Gütern</bzg> Laut <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:32-1-10005858134">Düntzer: <titel>Christoph Kaufmann, der Kraftapostel der Geniezeit</titel> (1859)</wwwlink>, S.&#x202F;79 die „Chwastowischen Besitzungen zu Salo Weina“; den „jungen Rußen“, den Kaufmann nach Hause begleitete, erwähnte auch Herder, vgl. <intlink letter="479" page="288" line="15" linktext="true" />.
+<marginal letter="502" page="352" line="20">
+<bzg>Sale Weina …Chunstoffischen Gütern</bzg> Laut <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:32-1-10005858134">Düntzer: <titel>Christoph Kaufmann, der Kraftapostel der Geniezeit</titel> (1859)</wwwlink>, S. 79 die „Chwastowischen Besitzungen zu Salo Weina“; den „jungen Rußen“, den Kaufmann nach Hause begleitete, erwähnte auch Herder, vgl. <intlink letter="479" page="288" line="15" linktext="true" />.
 </marginal>
 
 <marginal letter="502" page="352" line="29" >
@@ -65017,8 +65017,12 @@ Brief Nr. 505
 <bzg>damalige Nachrichten</bzg> vgl. <intlink letter="500" page="349" line="9" linktext="true" />
 </marginal>
 
-<marginal letter="505" page="359" line="5" >
+<marginal letter="505" page="359" line="5" sort="1">
 <bzg>Antwort zu erhalten</bzg> Herder antwortete zuvor nicht auf <intlink letter="484" page="298" line="29" linktext="false">HKB 484</intlink> und <intlink letter="500" page="344" line="28" linktext="false">HKB 500</intlink>.
+</marginal>
+
+<marginal letter="505" page="359" line="5" sort="2">
+<bzg>Hinz </bzg> <link ref="hinz" linktext="true" />
 </marginal>
 
 <marginal letter="505" page="359" line="7" >
@@ -65139,6 +65143,10 @@ Brief Nr. 505
 
 <marginal letter="505" page="360" line="12" sort="2">
 <bzg>Frage des Mercurs</bzg> <link ref="teutsche-merkur" linktext="false"><titel>Teutscher Merkur</titel></link>, vgl. zu <intlink letter="480" page="290" line="27" linktext="true" />
+</marginal>
+
+<marginal letter="505" page="360" line="14">
+<bzg>von Ihnen ist oder nicht</bzg> vgl. <intlink letter="500" page="349" line="2" linktext="true" />
 </marginal>
 
 <marginal letter="505" page="360" line="15">
@@ -65514,7 +65522,7 @@ Brief Nr. 507
 </marginal>  
 
 <marginal letter="507a" page="367" line="11">
-<bzg>harmoniam praestabilitam zwischen Können u. Wollen&#x202F;…</bzg> nach Kaufmanns Motto und Variationen darauf (vgl. <intlink letter="506" page="362" line="5" linktext="true" />), hier kombiniert mit Leibniz’ prästabilierter Harmonie
+<bzg>harmoniam praestabilitam zwischen Können u. Wollen&#x202F;…</bzg>Lehre von Leibniz, der zufolge zwischen dem Reich der Natur und dem der Gnade, wie auch zwischen Körper und Seele, eine von Gott verbürgte Harmonie herrscht, die nach keiner Wechselwirkung zwischen den disparaten Sphären verlangt, vgl. etwa <link ref="leibniz" subref="leibniz-PhilSchriften" linktext="false"><titel>Monadologie</titel></link>, §87 u.ö. Ehrmann hatte das Motto Kaufmanns bereits in diese Richtung gedeutet (vgl. <intlink letter="506" page="362" line="5" linktext="true"/>), was Hamann hier pointiert.
 </marginal>
 
 <marginal letter="507a" page="367" line="18">
