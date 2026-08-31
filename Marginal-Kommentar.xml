@@ -3275,7 +3275,7 @@ Brief Nr. 43
 </marginal>
 
 <marginal letter="43" page="107" line="25" sort="1">
-<link ref="parisius" linktext="true" />
+<link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="43" page="107" line="25" sort="2">
@@ -4882,7 +4882,7 @@ R.[everendus] P.[ater]
 </marginal>
 
 <marginal letter="60" page="149" line="20">
-<link ref="parisius" linktext="true" />
+<link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="60" page="149" line="21">
@@ -5160,7 +5160,7 @@ Brief Nr. 63
 </marginal>
 
 <marginal letter="63" page="157" line="8">
-<link ref="parisius" linktext="true" />
+<link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="63" page="157" line="9" sort="1">
@@ -5268,7 +5268,7 @@ vll. <link ref="funck" linktext="true" />
 </marginal>
 
 <marginal letter="63" page="159" line="6" sort="2">
-<bzg>Regimentsfeldscher</bzg> <link ref="parisius" linktext="true" />
+<bzg>Regimentsfeldscher</bzg> <link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="63" page="159" line="7">
@@ -5394,7 +5394,7 @@ Frau von <link ref="kade" linktext="true" />
 </marginal>
 
 <marginal letter="64" page="162" line="30">
-<link ref="parisius" linktext="true" />
+<link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="64" page="162" line="31">
@@ -5516,7 +5516,7 @@ Brief Nr. 67
 </marginal>
 
 <marginal letter="67" page="167" line="24">
-<link ref="parisius" linktext="true" />
+<link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="67" page="167" line="28">
@@ -5782,7 +5782,7 @@ Brief Nr. 72
 </marginal>
 
 <marginal letter="72" page="180" line="20">
-<link ref="parisius" linktext="true" />
+<link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="72" page="180" line="21">
@@ -5882,7 +5882,7 @@ vll. <link ref="crusius-ca" linktext="true" />
 </marginal>
 
 <marginal letter="72" page="181" line="7">
-<link ref="parisius" linktext="true" />
+<link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="72" page="181" line="11">
@@ -83326,7 +83326,7 @@ Brief Nr. 599
 </marginal>
 
 <marginal letter="599" page="214" line="4">
-<bzg>Parisius</bzg> <link ref="parisius" linktext="true" />
+<bzg>Parisius</bzg> <link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="599" page="214" line="5">
@@ -89833,7 +89833,7 @@ Brief Nr. 620
 Brief Nr. 621
 
 <marginal letter="621" page="297" line="3">
-<bzg>28 huj&#x202F;…&#x202F;Franz</bzg> 28. Mai, <link ref="franz" linktext="true" />
+<bzg>28 huj&#x202F;…&#x202F;Franz</bzg> 28. Mai, der Fuhrmann <link ref="franz" linktext="false">Franz</link>
 </marginal>
 
 <marginal letter="621" page="297" line="4">
@@ -89877,15 +89877,15 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="297" line="16">
-<bzg>HE v Auerswald</bzg> <link ref="auerswald" linktext="true" />
+<bzg>HE v Auerswald</bzg> <link ref="auerswald" linktext="true" />, wohl in Graudenz, wo auch <link ref="friedrich-II" linktext="true" /> anwesend war, vgl. <intlink letter="617" page="286" line="24" linktext="true" />
 </marginal>
 
 <marginal letter="621" page="297" line="17" sort="1">
-<bzg>Bartenstein</bzg> <wwwlink address="https://www.geonames.org/776337">Bartenstein</wwwlink>
+<bzg>Bartenstein</bzg> <wwwlink address="https://www.geonames.org/776337">Bartenstein</wwwlink>, Auerswalds Garnisonsstadt
 </marginal>
 
 <marginal letter="621" page="297" line="17" sort="2">
-<bzg>Empfang des Geldes</bzg> wohl für <link ref="buffon" subref="buffon-epoques" linktext="true" />; Hamann vermittelte den Kauf bei Hartknoch für Auerswald, vgl. <intlink letter="616" page="280" line="37" linktext="true" />.
+<bzg>Empfang des Geldes</bzg> Für <link ref="buffon" subref="buffon-epoques" linktext="false">Buffons <titel>Époques de la Nature</titel></link>, Hamann vermittelte den Kauf bei Hartknoch für Auerswald, vgl. <intlink letter="616" page="280" line="37" linktext="true" />.
 </marginal>
 
 <marginal letter="621" page="297" line="18">
@@ -89893,7 +89893,7 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="297" line="20">
-<bzg>Programm&#x202F;…&#x202F;Voltairischen Werke</bzg> den Prospekt zur Subskription der <wwwlink address="voltaire-oeuvres-complette">Kehler Ausgabe der Werke Voltaires</wwwlink>: <wwwlink address="https://archive.org/details/editiondesoeuvre00soci"><titel>Édition des Oeuvres de M. de Voltaire. Avec les Caractères de Baskerville</titel></wwwlink>
+<bzg>Programm&#x202F;…&#x202F;Voltairischen Werke</bzg> den Prospekt zur Subskription der <link ref="voltaire" subref="voltaire-oeuvres-complette" linktext="false">Kehler Ausgabe der Werke Voltaires</link>: <wwwlink address="https://archive.org/details/editiondesoeuvre00soci"><titel>Édition des Oeuvres de M. de Voltaire. Avec les Caractères de Baskerville</titel></wwwlink>
 </marginal>
 
 <marginal letter="621" page="297" line="21" sort="1">
@@ -89905,15 +89905,15 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="297" line="26">
-<bzg>6 huj&#x202F;…&#x202F;Kritik</bzg> die Probebogen der <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=512%2C513">Seiten 481</wwwlink> bis <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=800%2C801">S.&#x202F;768</wwwlink> von <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link>, von <link ref="spener-jkp" linktext="true" /> gesandt und von Hartknoch vermittelt, am 6. Mai, vgl. <intlink letter="618" page="289" line="18" linktext="true" />
+<bzg>6 huj&#x202F;…&#x202F;Kritik</bzg> Hamann erhielt am 6. Mai von <link ref="spener-jkp" linktext="false">Spener</link> zuletzt die Probebogen der <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=512%2C513">Seiten 481</wwwlink> bis <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=800%2C801">768</wwwlink> von <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link>, vgl. <intlink letter="618" page="289" line="18" linktext="true" />.
 </marginal>
 
 <marginal letter="621" page="297" line="27">
-<bzg>Kant&#x202F;…</bzg> <link ref="kant" linktext="false">Kant</link> den <link ref="messkatalog" subref="messkatalog-ostern1781" linktext="true" />
+<bzg>Kant&#x202F;…</bzg> <link ref="kant" linktext="true" />, den <link ref="messkatalog" subref="messkatalog-ostern1781" linktext="true" />
 </marginal>
 
 <marginal letter="621" page="297" line="28">
-<bzg>2 Exempl.</bzg> der gedruckten Auflage von Ostern 1781
+<bzg>2 Exempl.</bzg> der gedruckten Auflage von der Frühjahrsbuchmesse 1781
 </marginal>
 
 <marginal letter="621" page="297" line="29">
@@ -89929,7 +89929,7 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="298" line="2">
-<bzg>Mein Antheil&#x202F;…</bzg> Hamanns Vermittlung der <link ref="kant" subref="kant-critik-vernunft" linktext="false"><titel>Critik der reinen Vernunft</titel></link> an Hartknoch, vgl. <intlink letter="599" page="213" line="28" linktext="true" />
+<bzg>Mein Antheil&#x202F;…</bzg> Hamanns Vermittlung des Verlags der <link ref="kant" subref="kant-critik-vernunft" linktext="false"><titel>Critik der reinen Vernunft</titel></link> zwischen Kant und Hartknoch, vgl. <intlink letter="601" page="223" line="14" linktext="true" />.
 </marginal>
 
 <marginal letter="621" page="298" line="4">
@@ -89941,7 +89941,7 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="298" line="9" sort="2">
-<bzg>Hume’s Uebersetzung</bzg> Die Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> bei <link ref="weygand" linktext="false">Weygand</link>, die angekündigt war, jedoch erst später 1781 erschien; zu den Messkatalogen vgl. <intlink letter="614" page="269" line="15" linktext="true" />. Hamann wollte die Übersetzung für ein <link ref="hamann" subref="hamann-humeessay" linktext="false">Übersetzungs- oder Begleitessay-Projekt</link> bei Hartknoch verwenden.
+<bzg>Hume’s Uebersetzung</bzg> Die Übersetzung von <link ref="hume" subref="hume-dialogues" linktext="false">Humes <titel>Dialogues concerning natural Religion</titel></link> bei <link ref="weygand" linktext="false">Weygand</link>, die angekündigt war, jedoch erst im Herbst 1781 erschien; zu den Messkatalogen vgl. <intlink letter="614" page="269" line="15" linktext="true" />. Hamann wollte die Übersetzung für eine Kritik in seinem geplanten <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essay</link> bei Hartknoch verwenden.
 </marginal>
 
 <marginal letter="621" page="298" line="11">
@@ -89949,11 +89949,11 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="298" line="12">
-<bzg>Kant</bzg> <link ref="kant" linktext="false">Kant</link>, mit dem Hamann das Projekt anfänglich zusammen entwickelte (vgl. <intlink letter="596" page="205" line="24" linktext="true" />); das Projekt des  <link ref="hamann" subref="hamann-humeessay" linktext="false">Begleitessays</link> entwickelt sich aber mehr in thematischer Richtung gegen Kants <titel>Critik der reinen Vernunft</titel>.
+<bzg>Kant</bzg> <link ref="kant" linktext="false">Kant</link>, mit dem Hamann das Projekt anfänglich zusammen entwickelte (vgl. <intlink letter="596" page="205" line="28" linktext="true" />); das Projekt des  <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essays</link> entwickelte sich aber nun in thematischer Richtung gegen Kants <titel>Critik der reinen Vernunft</titel>.
 </marginal>
 
 <marginal letter="621" page="298" line="13">
-<bzg>Preuß.</bzg> Kant als ‚preußischer Hume‘, vgl. <intlink letter="619" page="293" line="36" linktext="true" />
+<bzg>Preuß.</bzg> Kant als ‚preußischer <link ref="hume" linktext="false">Hume</link>‘, vgl. <intlink letter="619" page="293" line="36" linktext="true" />.
 </marginal>
 
 <marginal letter="621" page="298" line="14">
@@ -89965,11 +89965,11 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="298" line="18">
-<bzg>Beyl.</bzg> in der Ankündigung im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000124/full/full/0/default.jpg">Messkatalog für Ostern 1780, S.&#x202F;938</wwwlink> ist von „einigen der in England darüber herausgekommenen, als auch eigenen Anmerkungen des Uebersetzers“ die Rede
+<bzg>Beyl.</bzg> In der Ankündigung im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000124/full/full/0/default.jpg">Messkatalog für Ostern 1780, S.&#x202F;938</wwwlink> ist die Rede von „einigen der in England darüber herausgekommenen, als auch eigenen Anmerkungen des Uebersetzers“.
 </marginal>
 
 <marginal letter="621" page="298" line="21" sort="1">
-<bzg>Einschluß von HE Toussaint</bzg> wohl ein nicht überlieferter Brief Hartknochs an Hamann, den <link ref="toussaint-f" linktext="true" /> übergab
+<bzg>Einschluß von HE Toussaint</bzg> Gemeint ist wohl ein nicht überlieferter Brief Hartknochs an Hamann, den <link ref="toussaint-f" linktext="true" /> übergab.
 </marginal>
 
 <marginal letter="621" page="298" line="21" sort="2">
@@ -89981,7 +89981,7 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="298" line="23">
-<bzg>Urkunde u Fragmenten</bzg> <link ref="herder" subref="herder-fragmente" linktext="true" /> und <link ref="herder" subref="herder-altesteurkunde" linktext="true" />, von denen überarbeitete Neuauflagen geplant waren
+<bzg>Urkunde u Fragmenten</bzg> Herders <link ref="herder" subref="herder-altesteurkunde" linktext="false"><titel>Aelteste Urkunde des Menschengeschlechts</titel></link> und <link ref="herder" subref="herder-fragmente" linktext="false"><titel>Fragmente über die neuere Deutsche Literatur</titel></link>, von denen eine Fortsetzung bzw. eine überarbeitete Neuauflagen geplant waren.
 </marginal>
 
 <marginal letter="621" page="298" line="24">
@@ -90025,11 +90025,11 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="298" line="37" sort="1">
-<bzg>Musenalmanach u Cranziana</bzg> wohl <link ref="voss" subref="voss-musenalmanach1781" linktext="true" />
+<bzg>Musenalmanach u Cranziana</bzg> vmtl. <link ref="voss" subref="voss-musenalmanach1781" linktext="true" />
 </marginal>
 
 <marginal letter="621" page="298" line="37" sort="2">
-<bzg>Cranziana</bzg> wohl von <link ref="cranz-af" linktext="true" />, nicht ermittelt
+<bzg>Cranziana</bzg> Schriften von <link ref="cranz-af" linktext="true" />
 </marginal>
 
 <marginal letter="621" page="299" line="1">
@@ -90045,15 +90045,15 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="299" line="6">
-<bzg>Silhouette&#x202F;…</bzg> wohl das versprochene Gegengeschenk eines Schattenrisses, nachdem Hamann im Kontext von <intlink letter="618" page="290" line="21" linktext="false">HKB 618</intlink> seine Silhouette sandte, die er von dem wandernden Silhouetteur <link ref="sidow" linktext="false">Sidow</link> machen ließ, der von Königsberg nach Riga ging
+<bzg>Silhouette&#x202F;…</bzg> Wohl das versprochene Gegengeschenk eines Schattenrisses, nachdem Hamann im Kontext von <intlink letter="618" page="290" line="21" linktext="false">HKB 618</intlink> einen von sich sandte, den er von dem wandernden Silhouetteur <link ref="sidow" linktext="false">Sidow</link> machen ließ, der von Königsberg nach Riga ging.
 </marginal>
 
 <marginal letter="621" page="299" line="9">
-<bzg>Gevatter Claudius</bzg> <link ref="claudius" linktext="false">Claudius</link>, wie er offenbar in seinem nicht überlieferten Brief schrieb, als Antwort auf Hamanns Sendung von Schattenrissen (vgl. <intlink letter="618" page="290" line="24" linktext="true" />)
+<bzg>Gevatter Claudius</bzg> <link ref="claudius" linktext="false">Claudius</link>, wie er offenbar in seinem nicht überlieferten Brief schrieb, als Antwort auf Hamanns Sendung von Schattenrissen (vgl. <intlink letter="618" page="290" line="24" linktext="true" />).
 </marginal>
 
 <marginal letter="621" page="299" line="10">
-<bzg>Abeat&#x202F;…</bzg> dt. weg damit, wie mit anderen Irrtümern (wohl von Hamann selbst geprägte Formel)
+<bzg>Abeat&#x202F;…</bzg> Dt. weg damit, wie mit anderen Irrtümern (wohl von Hamann selbst geprägte Formel)
 </marginal>
 
 <marginal letter="621" page="299" line="12">
@@ -90073,7 +90073,7 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="299" line="17">
-<bzg>Artzt</bzg> <link ref="parisius" linktext="true" />
+<bzg>Artzt</bzg> <link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="621" page="299" line="18">
@@ -90137,7 +90137,7 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="299" line="35">
-<bzg>iam claudite&#x202F;…</bzg> <link ref="vergil" subref="vergil-bucol" linktext="true" />, 3,111
+<bzg>iam claudite&#x202F;…</bzg> <link ref="vergil" subref="vergil-bucol" linktext="true" />, 3,111, dt. „Schließt jetzt die Gräben, ihr Knaben: Genug schon tranken die Wiesen.“
 </marginal>
 
 <marginal letter="621" page="300" line="1">
@@ -90145,7 +90145,7 @@ Brief Nr. 621
 </marginal>
 
 <marginal letter="621" page="300" line="4">
-<bzg>Sirach&#x202F;…</bzg> <link ref="apo-sir" subref="apo-sir50" linktext="false">Sir 38,26</link>
+<bzg>Sirach&#x202F;…</bzg> <link ref="apo-sir" subref="apo-sir38" linktext="false">Sir 38,25</link>
 </marginal>
 
 <marginal letter="621" page="300" line="5">
@@ -92285,7 +92285,7 @@ Brief Nr. 629
 </marginal>
 
 <marginal letter="629" page="324" line="33">
-<bzg>würdigen Halbbrüder</bzg> <link ref="parisius" linktext="true" /> und <link ref="gericke-jcs" linktext="true" />
+<bzg>würdigen Halbbrüder</bzg> <link ref="parisius" linktext="false">Parisius</link> und <link ref="gericke-jcs" linktext="true" />
 </marginal>
 
 <marginal letter="629" page="324" line="34" sort="1">
@@ -92754,7 +92754,7 @@ Brief Nr. 632
 </marginal>
 
 <marginal letter="632" page="331" line="19">
-<bzg>Anverwandten</bzg> wohl <link ref="gericke-jcs" linktext="true" /> und <link ref="parisius" linktext="true" />, <intlink letter="632" page="334" line="7" linktext="false">s.u.</intlink>
+<bzg>Anverwandten</bzg> wohl <link ref="gericke-jcs" linktext="true" /> und <link ref="parisius" linktext="false">Parisius</link>, <intlink letter="632" page="334" line="7" linktext="false">s.u.</intlink>
 </marginal>
 
 <marginal letter="632" page="331" line="21">
@@ -92982,7 +92982,7 @@ Brief Nr. 632
 </marginal>
 
 <marginal letter="632" page="334" line="6">
-<bzg>Arzt</bzg> <link ref="parisius" linktext="true" />
+<bzg>Arzt</bzg> <link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="632" page="334" line="7" sort="1">
@@ -93935,7 +93935,7 @@ Brief Nr. 634
 </marginal>
 
 <marginal letter="634" page="344" line="1" sort="1">
-<bzg>Parisius</bzg> <link ref="parisius" linktext="true" />
+<bzg>Parisius</bzg> <link ref="parisius" linktext="false">Parisius</link>
 </marginal>
 
 <marginal letter="634" page="344" line="1" sort="2">
