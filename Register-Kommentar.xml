@@ -2407,7 +2407,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="bondeli" type="neuzeit">
 <lemma>Juliane Charlotte Sophie von Bondeli</lemma>
-<eintrag>1740–1796. Baronesse, Tochter von <link ref="bondeli-fj" linktext="true" />; Ende der 1760er Jahre Wirtin und Schülerin Hamanns (vgl. <intlink letter="622" page="302" line="30" linktext="true" />), in den 1780er Jahren die Erzieherin von <link ref="hamann-er" linktext="false">Lisette Reinette</link>.</eintrag>
+<eintrag>1740–1796. Baronesse, Tochter von <link ref="bondeli-fj" linktext="true" />; Ende der 1760er Jahre Wirtin und Schülerin Hamanns ; in den 1770er Jahren wegen der Glücksspielerei ihres Bruders verarmt und daher gezwungen, ein Erziehungsinstitut in Königsberg zu führen (vgl. <intlink letter="622" page="302" line="30" linktext="true" />); in den 1780er Jahren die Erzieherin von <link ref="hamann-er" linktext="false">Hamanns ältester Tochter</link>.</eintrag>
 </kommentar>
 
 <kommentar id="bondeli-fj" type="neuzeit">
@@ -8918,7 +8918,7 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 
 <kommentar id="haugwitz" type="neuzeit">
 <lemma>Christian von Haugwitz</lemma>
-<eintrag>1752–1832. Preußischer Jurist und Freimaurer, Herr auf <wwwlink address="https://www.geonames.org/7533311">Krappitz</wwwlink>; befreundet mit <link ref="claudius" linktext="true" /> und <link ref="kaufmann-c" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116527080.html#ndbcontent">Skalweit, Stephan: Haugwitz, Christian Graf von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;94f.</wwwlink>.
+<eintrag>1752–1832 (Christian August Heinrich Curt von Haugwitz, ab 1786 Graf). Preußischer Jurist und Freimaurer, Herr auf <wwwlink address="https://www.geonames.org/7533311">Krappitz</wwwlink>; befreundet mit <link ref="claudius" linktext="true" /> und <link ref="kaufmann-c" linktext="true" />; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116527080.html#ndbcontent">Skalweit, Stephan: Haugwitz, Christian Graf von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;94f.</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -18315,12 +18315,12 @@ Ein literarischer Streit um Zensur zwischen <link ref="riedel" linktext="true" /
 
 <kommentar id="rollenhagen" type="neuzeit">
 <lemma>Georg Rollenhagen</lemma>
-<eintrag>1542–1609. Schriftsteller, Pädagoge, Prediger, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116593598.html#ndbcontent">Kühlmann, Wilhelm: Rollenhagen, Georg, in: <titel>NDB</titel>&#x202F;22 (2005), S.&#x202F;12f</wwwlink>.
+<eintrag>1542–1609. Schriftsteller, Pädagoge und Prediger in Magdeburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116593598.html#ndbcontent">Kühlmann, Wilhelm: Rollenhagen, Georg, in: <titel>NDB</titel>&#x202F;22 (2005), S.&#x202F;12f</wwwlink>.
 </eintrag>
 <subsection id="rollenhagen-froschmeuseler" type="neuzeit" sort="10">
 <lemma>Rollenhagen, <titel>Froschmeuseler</titel></lemma>
 <eintrag>
-<titel>Sinnreicher Froschmäuseler, vorstellend Der Frösche und Mäuse wunderbahre Hoffhaltung, Der fröhlichen, zur Weißheit und Regimenten erzogenen Jugend zur anmuthigen und nützlichen Lehre, aus den alten Poeten und Reim-Dichtern, wie auch insonderheit aus der Natur-Kündiger Bericht, von vieler zahmen und wilden Thiere Natur und Eigenschafft</titel> (Frankfurt, Leipzig 1730; Erstausgabe Magdeburg 1595) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;143/225: „Der Froschmäuseler, Frkft. 730“, 161/526: „Der Froschmaeuseler, s. t.“]. Digitalisat der Ausgabe 1730: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10128820-5">BSB München: P.o.germ. 2013 q</wwwlink>.</eintrag>
+<titel>Sinnreicher Froschmäuseler, vorstellend Der Frösche und Mäuse wunderbahre Hoffhaltung, Der fröhlichen, zur Weißheit und Regimenten erzogenen Jugend zur anmuthigen und nützlichen Lehre, aus den alten Poeten und Reim-Dichtern, wie auch insonderheit aus der Natur-Kündiger Bericht, von vieler zahmen und wilden Thiere Natur und Eigenschafft</titel> (Frankfurt, Leipzig 1730; Erstausgabe Magdeburg 1595) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;143/225: „Der Froschmäuseler, Frkft. 730“, 161/526: „Der Froschmaeuseler, s. t.“]. Frühneuzeitliche Bearbeitung des <link ref="homer" subref="froschkrieg" linktext="false">pseudohomerischen Stoffs</link>. Digitalisat der Ausgabe Frankfurt 1730: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10128820-5">BSB München: P.o.germ. 2013 q</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -21292,11 +21292,16 @@ Dt. Übers. zitiert nach: Dietrich Klose und Peter Steinmetz (Übers.), <titel>C
 <lemma>Samuel Auguste Tissot</lemma>
 <eintrag>1728–1797. Schweizer Arzt, siehe <wwwlink address="https://hls-dhs-dss.ch/de/articles/014666/2012-10-29/">Historisches Lexikon der Schweiz</wwwlink>. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;110/209: „Tissots practische Vertheidigung des Einpfropfens der Pocken, nebst einem Versuch über die Veränderung der Stimme, Hall. 756“, 124/374: „Lettres choisies de Simon Tissot de Patot, Tom. I. II. Haye 727“, 185/89: „Tissot von der Gesundheit der Gelehrten, Leipz. 769“.
 </eintrag>
-<subsection id="tissot-avis" type="neuzeit" sort="10">
+<subsection id="tissot-gelehrte" type="neuzeit" sort="10">
+<lemma>Tissot, <titel>Von der Gesundheit der Gelehrten</titel></lemma>
+<eintrag>S.A. D. Tissot, von der Gesundheit der Gelehrten, und anderer Leute, die bey ihren Geschäfften wenige Bewegung machen. Aus dem Französischen übersetzt (Augsburg, Innsbruck: Wolff 1769) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;185/89: „Tissot von der Gesundheit der Gelehrten, Leipz. 769“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10475066-1">BSB München: Path. 1258 r</wwwlink>. Digitalisat der vermehrten Auflage 1770: <wwwlink address="https://doi.org/10.3931/e-rara-11461">ETH-Bibliothek Zürich, Rar 553</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="tissot-avis" type="neuzeit" sort="20">
 <lemma>Tissot, <titel>Avis au peuple sur sa santé</titel></lemma>
 <eintrag>
 <titel>Avis au peuple sur sa santé</titel> (2 Bde., Lyon 1764, danach in vielen erweiterten Auflagen und Übersetzungen). Digitalisat Paris 1780: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:061:1-588883">ULB Düsseldorf</wwwlink>.<line type="break" />
-Übers. 1785: Herrn S.A. Tissot’s medicinisches, praktisches Handbuch aus dessen sämtlichen Schriften herausgezogen von D. Christian Friedrich Held (Leipzig: Jacobäer 1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10475069-2">BSB München: Path. 1258 u-1</wwwlink>
+Übers. 1785: <titel>Herrn S.A. Tissot’s medicinisches, praktisches Handbuch aus dessen sämtlichen Schriften herausgezogen von D. Christian Friedrich Held</titel> (Leipzig: Jacobäer 1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10475069-2">BSB München: Path. 1258 u-1</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
