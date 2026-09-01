@@ -90157,7 +90157,11 @@ Brief Nr. 621
 <bzg>iam claudite&#x202F;…</bzg> <link ref="vergil" subref="vergil-bucol" linktext="true" />, 3,111, dt. „Schließt jetzt die Gräben, ihr Knaben: Genug schon tranken die Wiesen.“
 </marginal>
 
-<marginal letter="621" page="300" line="1">
+<marginal letter="621" page="300" line="1" sort="1">
+<bzg>Buchhandlung&#x202F;…&#x202F;Gelehrten</bzg> Gemeint ist das Projekt der Dessauer Buchhandlung der Gelehrten, vgl. <intlink letter="622" page="304" line="27" linktext="true" /> und <intlink letter="621" page="299" line="1" linktext="false">oben</intlink>.
+</marginal>
+
+<marginal letter="621" page="300" line="1" sort="2">
 <bzg>Achitophels</bzg> nach <link ref="at-sam2" subref="at-sam2-15" linktext="false">2 Sam 15,31 u. 34</link>: schlechter Ratgeber
 </marginal>
 
@@ -90505,7 +90509,7 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="303" line="26">
-<bzg>Martinez</bzg> <link ref="martinez" linktext="true" />, vgl. <intlink letter="615" page="273" line="35" linktext="true" />
+<bzg>Martinez</bzg> <link ref="martinez" linktext="true" />, vgl. <intlink letter="615" page="273" line="32" linktext="true" />
 </marginal>
 
 <marginal letter="622" page="303" line="27">
@@ -90513,7 +90517,7 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="303" line="28">
-<bzg>von den transcendentalIdeen bis zu der Dämonologie</bzg> vgl. Herders Ausgangsgedanken über die Neigung zur Magie im Jahrhundert der Aufklärung und den „Schwefelblumen der reinen Vernunft“ (<intlink letter="615" page="273" line="36" linktext="true" />)
+<bzg>transcendentalIdeen&#x202F;…&#x202F;Dämonologie</bzg> Vgl. Herders Ausgangsgedanken über die Neigung zur Magie im Jahrhundert der Aufklärung und den „Schwefelblumen der reinen Vernunft“ in <intlink letter="615" page="273" line="36" linktext="true" />.
 </marginal>
 
 <marginal letter="622" page="303" line="29">
@@ -90521,15 +90525,15 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="303" line="31">
-<bzg>Freude&#x202F;…&#x202F;Jagd</bzg> <link ref="locke" subref="locke-understanding" linktext="true" />, „Book III, Of Words“, ab <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10862496?page=200%2C201">S.&#x202F;185</wwwlink>
+<bzg>III Buch&#x202F;…</bzg> <link ref="locke" subref="locke-understanding" linktext="true" />, „Book III, Of Words“, ab <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10862496?page=200%2C201">S.&#x202F;185</wwwlink>
 </marginal>
 
 <marginal letter="622" page="303" line="32">
-<bzg>Freude&#x202F;…&#x202F;Jagd</bzg> im „Préface de l’auteur“, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11916553?page=36%2C37">S.&#x202F;XXX</wwwlink>
+<bzg>Freude&#x202F;…&#x202F;Jagd</bzg> im „Préface de l’auteur“, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11916553?page=36%2C37">S.&#x202F;xxx</wwwlink>
 </marginal>
 
 <marginal letter="622" page="303" line="35">
-<bzg>4ten Theil Ihrer Briefe</bzg> <link ref="herder" subref="herder-briefe-theologie" linktext="true" />, Tl.&#x202F;4; zu Hamanns recht abenteuerlicher Lektüre des 3. Teils, nachdem ihm der 2. Band (mit Tl. 3 und 4) zugeschickt wurde, vgl. <intlink letter="619" page="293" line="15" linktext="true" />.
+<bzg>4ten Theil Ihrer Briefe</bzg> <link ref="herder" subref="herder-briefe-theologie" linktext="true" />, Tl.&#x202F;4; zu Hamanns recht abenteuerlicher Lektüre des 3. Teils, nachdem ihm der 2. Band (mit Tl.&#x202F;3 und 4) zugeschickt wurde, vgl. <intlink letter="619" page="293" line="15" linktext="true" />.
 </marginal>
 
 <marginal letter="622" page="303" line="37">
@@ -90557,7 +90561,7 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="304" line="8">
-<bzg>angeführten Stelle</bzg> Das Zitat aus <link ref="berger-cg" subref="berger-sistem" linktext="true" />, <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN853805288&#x26;PHYSID=PHYS_0149">S.&#x202F;45</wwwlink> in <link ref="herder" subref="herder-briefe-theologie" linktext="true" />, <wwwlink address="https://books.google.ch/books?id=l447AAAAcAAJ&#x26;hl=de&#x26;pg=PA292#v=onepage&#x26;q=ewigkeiten&#x26;f=false">Tl.&#x202F;4, ED S.&#x202F;292</wwwlink>; vgl. <intlink letter="615" page="277" line="11" linktext="true" />.
+<bzg>angeführten Stelle</bzg> Das Zitat aus <link ref="berger-cg" subref="berger-sistem" linktext="true" />, <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht?PPN=PPN853805288&#x26;PHYSID=PHYS_0149">S.&#x202F;45</wwwlink> in <link ref="herder" subref="herder-briefe-theologie" linktext="true" />, <wwwlink address="https://books.google.ch/books?id=l447AAAAcAAJ&#x26;hl=de&#x26;pg=PA292">Tl.&#x202F;4, ED S.&#x202F;292</wwwlink>; vgl. <intlink letter="615" page="277" line="11" linktext="true" />.
 </marginal>
 
 <marginal letter="622" page="304" line="9">
@@ -90584,6 +90588,10 @@ Brief Nr. 622
 <bzg>Pleßing</bzg> <link ref="plessing-f" linktext="false">Friedrich Plessing</link>
 </marginal>
 
+<marginal letter="622" page="304" line="13">
+<bzg>dort</bzg> in <wwwlink address="https://www.geonames.org/7532081">Graudenz</wwwlink>
+</marginal>
+
 <marginal letter="622" page="304" line="16">
 <bzg>Hahns theol. Schriften</bzg> wohl <link ref="hahn-pm" subref="hahn-schriften" linktext="true" />
 </marginal>
@@ -90601,7 +90609,7 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="304" line="19" sort="2">
-<bzg>Ihren kleinen Anhang</bzg> Nicht ermittelt; vmtl. sandte Herder zuvor ein Manuskript an Hamann, das einen Entwurf seines <link ref="teutsche-merkur" linktext="false"><titel>Merkur</titel>-Beitrags</link> <titel>Liebe und Selbstheit. Ein Nachtrag zum Briefe des Herrn Hemsterhuis</titel> enthielt, das im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=234%2C235">Heft für Dezember 1781, S.&#x202F;211–235</wwwlink> erschien („Nachtrag“ bezieht sich auf Herders Übersetzung von <titel>Ueber das Verlangen</titel> im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10614113?page=388%2C389">November-Heft, S.&#x202F;97–122</wwwlink>).
+<bzg>Ihren kleinen Anhang</bzg> Nicht ermittelt; vmtl. sandte Herder zuvor ein Manuskript an Hamann, das einen Entwurf enthielt für seinen <link ref="teutsche-merkur" linktext="false"><titel>Merkur</titel>-Beitrag</link> <titel>Liebe und Selbstheit. Ein Nachtrag zum Briefe des Herrn Hemsterhuis</titel>, der im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=234%2C235">Heft für Dezember 1781, S.&#x202F;211–235</wwwlink> erschien („Nachtrag“ bezieht sich auf Herders Übersetzung von Hemsterhuis’ <titel>Ueber das Verlangen</titel> im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10614113?page=388%2C389">Heft für November 1781, S.&#x202F;97–122</wwwlink>).
 </marginal>
 
 <marginal letter="622" page="304" line="20">
@@ -90635,17 +90643,17 @@ Brief Nr. 622
 <marginal letter="622" page="304" line="26">
 <bzg>Goldbeck</bzg> <link ref="goldbeck" linktext="true" />
 </marginal>
+ 
+<marginal letter="622" page="304" line="27">
+<bzg>Vorurtheil&#x202F;…&#x202F;Gelehrte</bzg> Hamann ist negativ eingestellt gegenüber der Kommerzialisierung der Autorschaft, welche er durch die genossenschaftliche Organisation des Selbstverlagsmodells durch die Dessauer Buchhandlung der Gelehrten vorangetrieben sieht. Handeltreibende Fürsten wurden u.a. wegen der Gefahr von Monopolen kritisch gesehen, womit Hamann als Zöllner im friderizianischen Preußen tagtäglich konfrontiert war (vgl. etwa <intlink letter="614" page="268" line="10" linktext="true" />); ein Vorbild für diese Gegnerschaft könnte in Montesquieu liegen, <link ref="montesquieu" subref="espritloix" linktext="false"><titel>de l’Esprit des loix</titel></link>, <wwwlink address="https://www.e-rara.ch/zuz/content/zoom/21504833">livre&#x202F;20, cap.&#x202F;17 „Que le Prince ne doit point faire le Commerce“</wwwlink>.
+</marginal>
 
 <marginal letter="622" page="304" line="28">
-<bzg>Wetzel</bzg> <link ref="wezel" linktext="true" />, nicht überliefert, vgl. <intlink letter="621" page="300" line="5" linktext="true" />
+<bzg>Wetzel</bzg> <link ref="wezel" linktext="true" /> fange also bereits an, sich im literarischen Bereich als Geschäftsmann zu betätigen (der Brief ist nicht überliefert, vgl. auch <intlink letter="621" page="300" line="5" linktext="true" />).
 </marginal>
 
 <marginal letter="622" page="304" line="33">
-<bzg>Blättchen von dem Chevilah</bzg> über das <link ref="chevilla" linktext="true" />, vmtl. der Artikel über <link ref="ziehen" linktext="false">Ziehen</link> in den Greifswalder <link ref="neue-critische-nachrichten" linktext="false"><titel>Neuesten Critischen Nachrichten</titel></link>, vgl. <intlink letter="615" page="274" line="14" linktext="true" />
-</marginal>
-
-<marginal letter="622" page="304" line="34">
-<bzg>Auszug</bzg> vgl. <intlink letter="615" page="274" line="16" linktext="true" />
+<bzg>Blättchen von dem Chevilah</bzg> Gemeint ist der Artikel oder das Blatt über das <link ref="chevilla" linktext="true" /> bzw. den <link ref="ziehen" linktext="false">‚Zellerfelder Propheten‘</link>, den Herder mitschickte, vgl. <intlink letter="615" page="274" line="16" linktext="true" />.
 </marginal>
 
 <marginal letter="622" page="304" line="37">
@@ -90653,7 +90661,7 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="305" line="3">
-<bzg>Pf. Skubich</bzg> <link ref="skubich-f" linktext="true" /> aus <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>
+<bzg>Pf. Skubich</bzg> die Pfarrerin <link ref="skubich-f" linktext="false"> Skubich</link> aus <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>
 </marginal>
 
 <marginal letter="622" page="305" line="4" sort="1">
@@ -90665,7 +90673,7 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="305" line="7" sort="1">
-<bzg>Kl. Billet-doux an B.</bzg> <link ref="klopstock" linktext="false">Klopstocks</link> Billet an <link ref="bode-jjc" linktext="true" />, das Herder mitschickte, vgl. <intlink letter="615" page="274" line="28" linktext="true" /> und <intlink letter="600" page="218" line="14" linktext="true" />
+<bzg>Kl. Billet-doux an B.</bzg> <link ref="klopstock" linktext="false">Klopstocks</link> Billet an <link ref="bode-jjc" linktext="true" />, das Herder mitschickte, vgl. <intlink letter="615" page="274" line="28" linktext="true" /> und <intlink letter="600" page="218" line="24" linktext="true" />
 </marginal>
 
 <marginal letter="622" page="305" line="7" sort="2">
@@ -90676,6 +90684,10 @@ Brief Nr. 622
 <bzg>homerischen Schlummers</bzg> nach <link ref="horaz" subref="horaz-poetica" linktext="true" />, 359 („quandoque bonus dormitat Homerus“)
 </marginal>
 
+<marginal letter="622" page="305" line="8">
+<bzg>Friedens&#x202F;…&#x202F;Saltz</bzg> <link ref="nt-mk" subref="nt-mk9" linktext="false">Mk 9,50</link>
+</marginal>
+ 
 <marginal letter="622" page="305" line="10">
 <bzg>Montags</bzg> 4. Juni 1781
 </marginal>
@@ -90701,15 +90713,19 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="305" line="16">
-<bzg>Päckchen von Berl&#x202F;…</bzg> Gemeint sind wohl die übrigen Probebogen für die Vorrede (sowie Widmung) und die letzten knapp 100 Seiten von <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link>, <intlink letter="622" page="300" line="26" linktext="false">s.o.</intlink>; genau genommen die Bogen Ccc bis Hhh bzw. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=800%2C801">S.&#x202F;769</wwwlink> bis <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=888%2C889">S.&#x202F;856</wwwlink> sowie Bogen a bis b bzw. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=10%2C11">Widmung</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=14%2C15">Vorrede</wwwlink>. – Die Aussage steht in Widerspruch zu den bald darauf erfolgenden an Hartknoch, weder er noch Kant hätten die Probebogen bisher erhalten, vgl. <intlink letter="623" page="308" line="5" linktext="true" /> und <intlink letter="624" page="308" line="23" linktext="true" />?!?
+<bzg>Päckchen von Berl&#x202F;…</bzg> Gemeint sind wohl die übrigen Probebogen für die Vorrede (sowie Widmung) und die letzten knapp 100 Seiten von <link ref="kant" subref="kant-critik-vernunft" linktext="false">Kants <titel>Critik der reinen Vernunft</titel></link>, <intlink letter="622" page="300" line="26" linktext="false">s.o.</intlink> (präziser: die Bogen Ccc bis Hhh bzw. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=800%2C801">S.&#x202F;769</wwwlink> bis <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=888%2C889">S.&#x202F;856</wwwlink> sowie Bogen a bis b bzw. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=10%2C11">Widmung</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb00073694?page=14%2C15">Vorrede</wwwlink>). – Die Aussage steht in Widerspruch zu den bald darauf erfolgenden an Hartknoch, weder er noch Kant hätten die Probebogen bisher erhalten, vgl. <intlink letter="623" page="308" line="5" linktext="true" /> und <intlink letter="624" page="308" line="23" linktext="true" />.
 </marginal>
 
 <marginal letter="622" page="305" line="17">
-<bzg>keine Nachricht&#x202F;…</bzg> von Spener über die <link ref="hume" subref="hume-dialogues" linktext="false">Hume-Übersetzung</link>, vgl. <intlink letter="621" page="298" line="10" linktext="true" />
+<bzg>keine Nachricht&#x202F;…</bzg> von <link ref="spener-jkp" linktext="false">Spener</link> über die <link ref="hume" subref="hume-dialogues" linktext="false">Hume-Übersetzung bei Weygand</link>, vgl. <intlink letter="621" page="298" line="10" linktext="true" />
 </marginal>
 
 <marginal letter="622" page="305" line="18">
 <bzg>Katalog</bzg> im <link ref="messkatalog" subref="messkatalog-ostern1781" linktext="true" />, vgl. <intlink letter="614" page="269" line="15" linktext="true" />
+</marginal>
+ 
+<marginal letter="622" page="305" line="19">
+<bzg>Meynung&#x202F;…&#x202F;Uebersetzung</bzg> Hamanns eigene Hume-Übersetzung <link ref="hamann" subref="hamann-dialogues" linktext="false"><titel>Dialogen die natürliche Religion betreffend</titel></link>, die er zuvor wegen der Konkurrenz-Übersetzung ‚ad acta reponirt‘ (vgl. <intlink letter="604" page="229" line="15" linktext="true" />) und sich als Alternative bereits eine Übersetzungskritik im <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essay</link> überlegt hatte. Da die Weygand-Übersetzung nun nicht erschien, denkt Hamann daran, seine fertige Übersetzung doch zu veröffentlichen.
 </marginal>
 
 <marginal letter="622" page="305" line="20">
@@ -90717,23 +90733,23 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="305" line="21">
-<bzg>Beylagen</bzg> in der Ankündigung im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000124/full/full/0/default.jpg">Messkatalog für Ostern 1780, S.&#x202F;938</wwwlink> ist von „einigen der in England darüber herausgekommenen, als auch eigenen Anmerkungen des Uebersetzers“ die Rede
+<bzg>Beylagen</bzg> In der Ankündigung im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000124/full/full/0/default.jpg">Messkatalog für Ostern 1780, S.&#x202F;938</wwwlink> ist die Rede von „einigen der in England darüber herausgekommenen, als auch eigenen Anmerkungen des Uebersetzers“.
 </marginal>
 
 <marginal letter="622" page="305" line="23">
-<bzg>engl. u preuß. Hume</bzg> <link ref="hume" linktext="true" /> und <link ref="kant" linktext="true" />, vgl. <intlink letter="621" page="298" line="13" linktext="true" />
+<bzg>engl. u preuß. Hume</bzg> <link ref="hume" linktext="true" /> und <link ref="kant" linktext="true" />, ein Thema in Hamanns im <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essay</link>, vgl. <intlink letter="621" page="298" line="13" linktext="true" />
 </marginal>
 
 <marginal letter="622" page="305" line="24">
-<bzg>aufführen zu können</bzg> in einem Text auftreten zu lassen
+<bzg>aufführen zu können</bzg> in einer Schrift gemeinsam zu behandeln bzw. Zitate aus beiden Schriftstellern zusammen auftreten zu lassen
 </marginal>
 
 <marginal letter="622" page="305" line="25">
-<bzg>Buchführer</bzg> die Königsberger Buchhändler (<link ref="dengel-cg" linktext="true" />, <link ref="wagner-fd" linktext="true" /> und <link ref="hartung-gl" linktext="true" />), die um Pfingsten von der Leipziger Frühjahrsbuchmesse zurückkehren
+<bzg>Buchführer</bzg> Die Königsberger Buchhändler (<link ref="dengel-cg" linktext="true" />, <link ref="wagner-fd" linktext="true" /> und <link ref="hartung-gl" linktext="true" />), die um Pfingsten von der Leipziger Frühjahrsbuchmesse zurück erwartet wurden.
 </marginal>
 
 <marginal letter="622" page="305" line="27">
-<bzg></bzg> <intlink letter="622" page="301" line="1" linktext="false">s.o.</intlink>
+<bzg>Rolle mit der That</bzg> <intlink letter="622" page="301" line="1" linktext="false">s.o.</intlink>
 </marginal>
 
 <marginal letter="622" page="305" line="28">
@@ -90745,7 +90761,7 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="305" line="31">
-<bzg>vorteilhafte&#x202F;…&#x202F;Magazin</bzg> die positive Rezension der <link ref="starck" subref="starck-christenthum" linktext="false"><titel>Freymüthigen Betrachungen</titel></link> in <link ref="pfenninger" subref="pfenninger-magazin" linktext="false">Pfenningers <titel>Christlichem Magazin</titel></link>, <wwwlink address="https://www.e-rara.ch/zuz/content/zoom/9675002">Bd.&#x202F;4 (1781), St.&#x202F;2, S.&#x202F;193–198</wwwlink>
+<bzg>vorteilhafte&#x202F;…&#x202F;Magazin</bzg> die positive Rezension von <link ref="starck" subref="starck-christenthum" linktext="false">Starcks <titel>Freymüthigen Betrachungen</titel></link> in <link ref="pfenninger" subref="pfenninger-magazin" linktext="false">Pfenningers <titel>Christlichem Magazin</titel></link>, <wwwlink address="https://www.e-rara.ch/zuz/content/zoom/9675002">Bd.&#x202F;4 (1781), St.&#x202F;2, S.&#x202F;193–198</wwwlink>
 </marginal>
 
 <marginal letter="622" page="305" line="33">
@@ -90757,11 +90773,11 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="305" line="36">
-<bzg>Graudenz</bzg> nach <wwwlink address="https://www.geonames.org/7532081">Graudenz</wwwlink> in der Provinz Westpreußen, wohl zur Revue unter Anwesenheit des Königs, vgl. <intlink letter="617" page="286" line="24" linktext="true" />
+<bzg>Graudenz</bzg> nach <wwwlink address="https://www.geonames.org/7532081">Graudenz</wwwlink> in der Provinz Westpreußen, wohl zur Revue unter Anwesenheit des <link ref="friedrich-II" linktext="false">Königs</link>, vgl. <intlink letter="617" page="286" line="24" linktext="true" />
 </marginal>
 
 <marginal letter="622" page="306" line="4">
-<bzg>franco&#x202F;…&#x202F;Halle</bzg> Das Postgeld beim Aufgeben des Brief ganz bis nach Weimar; die preußische Post ging nur bis nach Halle, von Halle bis Weimar war ein sächsisches Postunternehmen oder die Reichspost verantwortlich.
+<bzg>franco&#x202F;…&#x202F;Halle</bzg> Das Postgeld beim Aufgeben eines Briefs ganz bis nach Weimar; die preußische Post ging nur bis nach Halle, von Halle bis Weimar war ein sächsisches Postunternehmen oder die Reichspost verantwortlich.
 </marginal>
 
 <marginal letter="622" page="306" line="5">
@@ -90793,7 +90809,7 @@ Brief Nr. 622
 </marginal>
 
 <marginal letter="622" page="306" line="19">
-<bzg>sein</bzg> <link ref="lenz" linktext="true" /> (er war der leibliche Vater?!?)
+<bzg>Schwiegervater</bzg> Moritz heiratete 1767 Dorothea Charlotte Maria Lenz (1747–1819), die älteste Tochter von Christian David Lenz, vgl. Julia Freytag (Hg. u.a.): <titel>J.M.R.-Lenz-Handbuch</titel> (Berlin, Boston 2017), S.&#x202F;2.
 </marginal>
 
 <marginal letter="622" page="306" line="22">
