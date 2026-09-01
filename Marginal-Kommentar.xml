@@ -61238,6 +61238,10 @@ Brief Nr. 475
 <bzg>Recension</bzg> in den <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, für die Penzel zur Zeit arbeitete; Jg. nicht überliefert
 </marginal>
 
+<marginal letter="475" page="275" line="4">
+<bzg>Vorrede</bzg> In der Vorrede persifliert Nicolai u.a. <link ref="herder" subref="herder-deutsch" linktext="false">Herders <titel>Von Deutscher Art und Kunst</titel></link>.
+</marginal>
+
 <marginal letter="475" page="275" line="8" >
 <bzg>malcontenten</bzg> Nörgler, auch als typisierte Bühnenfigur
 </marginal>
@@ -61910,8 +61914,8 @@ Brief Nr. 479
 <bzg>Allgem. Dreckbibl&#x202F;…</bzg> Die Rezension von <link ref="lavater" subref="lavater-fragmente" linktext="false">Lavaters <titel>Physiognomischen Fragmenten</titel></link> in <link ref="allgemeine-deutsche-bib" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10710959?page=436%2C437">Bd. 29, S. 411</wwwlink> moniert v.a. die Dunkelheit und Unverständlichkeit von Herders Stil, vgl. auch <intlink letter="474" page="273" line="4" linktext="true" />.
 </marginal>
 
-<marginal letter="479" page="287" line="15" sort="1" >
-<bzg>Allmanach von Volksliedern</bzg> <link ref="nicolai" subref="nicolai-seuberlich" linktext="true" />
+<marginal letter="479" page="287" line="15" sort="1">
+<bzg>Allmanach von Volksliedern</bzg> <link ref="nicolai" subref="nicolai-seuberlich" linktext="true" />. In der Vorrede persifliert Nicolai u.a. <link ref="herder" subref="herder-deutsch" linktext="false"><titel>Von Deutscher Art und Kunst</titel></link>.
 </marginal>
 
 <marginal letter="479" page="287" line="15" sort="2" >
@@ -66481,8 +66485,21 @@ Brief Nr. 513
 </marginal>
 
 <marginal letter="513" page="380" line="14">
-<bzg>n: 15 von Furwitz den Kramer</bzg> <link ref="nicolai" subref="nicolai-seuberlich" linktext="true" />, S.&#x202F;93–97
+<bzg>n: 15 von Furwitz den Kramer</bzg> <link ref="nicolai" subref="nicolai-seuberlich" linktext="true" />, S. 93–97; Zweifel am Alter des Stückes äußert etwa <link ref="goettingische-anzeigen" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10538835_00487_u001?page=4%2C5">Jg. 1776, 141. St., 23.11.1776, S. 1213</wwwlink>.
 </marginal>
+
+<marginal letter="513" page="380" line="15">
+<bzg>2ten Theil</bzg> Der zweite Teil des <link ref="nicolai" subref="nicolai-seuberlich" linktext="false"><titel>Kleyne[n] Almanach[s]</titel></link> erschien im Frühjahr 1778.
+</marginal>
+
+<marginal letter="513" page="380" line="19">
+<bzg>Volks Lieder Genies</bzg> Vgl. die Kritik des <titel>Kleyne[n] Almanach[s]</titel> in <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10538835_00487_u001?page=4%2C5">Jg. 1776, 141. St., 23.11.1776, S. 1214</wwwlink>: „Gegenwärtige Volkslieder lesen sich freylich ganz anders, als wenn ein Genie, um Original zu erscheinen, Nachahmungen anderer Genies nachahmt.“
+</marginal>
+
+<marginal letter="513" page="380" line="26">
+<bzg>beschriebenen Bergen Arabiens</bzg> Gemeint sind Gebel el-Mokatab, dt. die beschriebenen Berge. Der irische Bischof Robert Clayton vermutete bei den Inschriften handle es sich um Zeugnisse der Israeliten, die Rückschlüsse auf deren Flucht durch die Wüste erlaubten. Er forderte deshalb ihre Transkription und Entschlüsselung, für die er auch persönlich Geld bereit stellte; vgl. <link ref="clayton" subref="clayton-sinai" linktext="true" />
+</marginal>
+
     
 <marginal letter="513" page="380" line="28">
 <bzg>lapides&#x202F;…&#x202F;MeßCatalogo</bzg> Von lapides oder Meilensteinen Brandenburgs ist in den <link ref="messkatalog" linktext="false">Messkatalogen</link> für Michaelis 1777 und Ostern 1778 nichts angekündigt; vmtl. meint Nicolai die <wwwlink address="https://archive.org/details/bub_gb_Ni4CAAAAcAAJ/page/n3/mode/2up">zweite, neu bearbeitete Auflage</wwwlink> seiner <link ref="nicolai" subref="nicolai-beschreibung" linktext="false"><titel>Beschreibung der Königlichen Residenzstädte Berlin und Potsdam</titel></link>, die 1779 erscheinen wird.
