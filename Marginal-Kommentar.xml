@@ -66617,11 +66617,17 @@ Brief Nr. 515
 
    <marginal letter="515" page="382" line="15">
     <bzg>Briefe </bzg> vgl. etwa <intlink letter="504" page="354" line="8" linktext="false">HKB 504</intlink>; Reichardt war Hamanns Verbindung nach Berlin im Streit mit den <link ref="blom-w" linktext="false">Blomschen Erben</link> um den Garten seiner Dienstwohnung.
-   </marginal> 
-
-<marginal letter="515" page="382" line="18">
-    <bzg>Namenstage&#x202F;…&#x202F;Lieschen</bzg> am 19. November, dem Namenstag von <link ref="hamann-er" linktext="true" />
    </marginal>
+
+<marginal letter="515" page="382" line="18" sort="1">
+<bzg>Namenstage&#x202F;…&#x202F;Lieschen</bzg> am 19. November, dem Namenstag von <link ref="hamann-er" linktext="true" />
+</marginal>
+
+<marginal letter="515" page="382" line="18" sort="2">
+<bzg>Elisa</bzg> dt. Gott hat gerettet; Name des Propheten in <link ref="at-koe2" linktext="true" />
+</marginal>
+
+ 
 
    <marginal letter="515" page="382" line="20">
     <bzg>huj.&#x202F;…&#x202F;Briefe</bzg> huius, d. dieses Monats; nicht überliefert
@@ -66637,19 +66643,27 @@ Brief Nr. 515
 
    <marginal letter="515" page="382" line="29">
     <bzg>Tempel</bzg> vgl. <link ref="nt-mt" subref="nt-mt21" linktext="false">Mt 21,12</link>
-   </marginal> 
+   </marginal>
 
-   <marginal letter="515" page="383" line="1">
-    <bzg>Intelligenzblätter</bzg> <link ref="konigsberger-f-a" linktext="true" />
-   </marginal> 
+<marginal letter="515" page="383" line="1">
+<bzg>Intelligenzblätter</bzg> <link ref="konigsberger-f-a" linktext="true" />, Jahrgang nicht überliefert
+</marginal>
 
    <marginal letter="515" page="383" line="2">
     <bzg>pr.</bzg> praeterito, vergangenen Monats, hier aber 29. September gemeint, vgl. <intlink letter="511" page="374" line="23" linktext="true" />
-   </marginal> 
+   </marginal>
 
-   <marginal letter="515" page="383" line="10">
-    <bzg>Brüder Boanerges</bzg> Jacobus und Johannes, nach <link ref="nt-mk" subref="nt-mk3" linktext="false">Mk 3,17</link> die Donnersöhne
-   </marginal> 
+<marginal letter="515" page="383" line="10" sort="1">
+<bzg>Brüder Boanerges</bzg> Jacobus und Johannes, nach <link ref="nt-mk" subref="nt-mk3" linktext="false">Mk 3,17</link> die Donnersöhne
+</marginal>
+
+<marginal letter="515" page="383" line="10" sort="2">
+<bzg>Salve&#x202F;…&#x202F;Mann Gottes</bzg> hier wohl nach <link ref="at-koe2" subref="at-koe2-1" linktext="false">2 Kön 1,10</link>
+</marginal>
+
+<marginal letter="515" page="383" line="12">
+<bzg>en galla</bzg> im Festgewand
+</marginal> 
 
    <marginal letter="515" page="383" line="13">
     <bzg>bal paré</bzg> in Gesellschaftskleidern, vgl. <intlink letter="514" page="381" line="23" linktext="true" />
@@ -66663,19 +66677,23 @@ Brief Nr. 515
 
    <marginal letter="515" page="383" line="15">
     <bzg>Crethi und Plethi</bzg> u.a. <link ref="at-sam2" subref="at-sam2-8" linktext="false">2 Sam 8,18</link>
-   </marginal> 
+   </marginal>
 
-   <marginal letter="515" page="383" line="17">
-    <bzg>Es haben ihn …</bzg> <link ref="at-ps" subref="at-ps80" linktext="false">Ps 80,14</link>, vgl. <intlink letter="511" page="374" line="24" linktext="true" />
-   </marginal> 
+<marginal letter="515" page="383" line="17">
+<bzg>Es haben&#x202F;…&#x202F;verderbt</bzg> <link ref="at-ps" subref="at-ps80" linktext="false">Ps 80,14</link>, vgl. <intlink letter="511" page="374" line="24" linktext="true" />
+</marginal>
 
    <marginal letter="515" page="383" line="19">
 <bzg>Geländer der kleinen Brücke</bzg> Vgl. die für Hamann wichtige Formulierung „Brücke ohne Lehnen“ aus der <link ref="hamann" subref="hamann-schuerze" linktext="false">Schürze von Feigenblättern</link> (<intlink letter="505" page="360" line="18" linktext="true" />), die er hier mit dem Garten seiner Dienstwohnung parallelisiert.
-</marginal> 
+</marginal>
 
-   <marginal letter="515" page="383" line="24">
-    <bzg>Kluft</bzg> <link ref="nt-lk" subref="nt-lk16" linktext="false">Lk 16,26</link>
-   </marginal> 
+<marginal letter="515" page="383" line="21">
+<bzg>kahl und rein</bzg> nach <link ref="at-mo3" subref="at-mo3-13" linktext="false">3 Mo 13,40</link>
+</marginal>
+
+<marginal letter="515" page="383" line="24">
+<bzg>Kluft&#x202F;…&#x202F;Hölle</bzg> <link ref="nt-lk" subref="nt-lk16" linktext="false">Lk 16,23–26</link>
+</marginal>
 
    <marginal letter="515" page="383" line="31">
     <bzg>Vorgesetzten u. getreuen Nachbarn</bzg> <link ref="marvilliers" linktext="true" /> u. <link ref="stockmar" linktext="true" />; „getreuen Nachbarn“ mit ironischem Anklang an die Auslegung der 4. Bitte des Vaterunser durch <link ref="luther" linktext="true"/> im <wwwlink address="https://books.google.de/books?id=DUVkAAAAcAAJ"><titel>Kleinen Katechismus</titel></wwwlink>. 
@@ -66691,11 +66709,11 @@ Brief Nr. 515
 
 <marginal letter="515" page="383" line="32">
    <bzg>Vorfahren</bzg> Im Sinne von Vorgänger im Amt des Packhofverwalters; Hamann hatte sich vorgenommen, das Grundstück seiner Dienstwohnung intakt an seinen Nachfolger zu übergeben und es nicht, wie sein unmittelbarer Vorgänger <link ref="blom-wy" linktext="true" /> und seine Erben, für den eigenen Profit zu missbrauchen, vgl. <intlink letter="499" page="341" line="7" linktext="true" />
-   </marginal> 
+   </marginal>
 
-   <marginal letter="515" page="383" line="35">
-    <bzg>Iesebel wie ein Naboth:</bzg> nach <link ref="at-koe1" subref="at-koe1-21" linktext="false">1 Kön 21,3</link>, vgl auch <link ref="hamann" subref="hamann-hierophant" linktext="true" />, N&#x202F;III,159/20–23
-   </marginal> 
+<marginal letter="515" page="383" line="35">
+<bzg>Jesebel wie ein Naboth:</bzg> nach <link ref="at-koe1" subref="at-koe1-21" linktext="false">1 Kön 21,3</link>, vgl auch <link ref="hamann" subref="hamann-hierophant" linktext="true" />, N III,159/20–23
+</marginal>
 
    <marginal letter="515" page="383" line="37">
 <bzg>Wittwe Blom</bzg> <link ref="blom-w" linktext="true" />; die Briefentwürfe an sie bewahrte Hamann anscheinend aus diesem Grund auf.
@@ -66735,11 +66753,11 @@ Brief Nr. 515
 
    <marginal letter="515" page="385" line="8">
     <bzg>Sturz</bzg> vgl. <link ref="sturz" subref="sturz-bernstorf" linktext="true" /> 
-   </marginal> 
+   </marginal>
 
-   <marginal letter="515" page="385" line="9">
-    <bzg>Bode die Wittwe heyrathet</bzg> <link ref="bode-jjc" linktext="true" /> und <link ref="bernstorff-ce" linktext="true" />; die Hochzeit ist nur ein Gerücht.
-   </marginal> 
+<marginal letter="515" page="385" line="9">
+<bzg>Bode die Wittwe heyrathet</bzg> <link ref="bode-jjc" linktext="true" /> und <link ref="bernstorff-ce" linktext="true" />; die Hochzeit ist nur ein Gerücht; Bode folgte der Witwe lediglich als Verwalter nach Weimar.
+</marginal>
 
    <marginal letter="515" page="385" line="10">
     <bzg>Prof. Engel</bzg> <link ref="engel" subref="engel-philosoph" linktext="true" />
