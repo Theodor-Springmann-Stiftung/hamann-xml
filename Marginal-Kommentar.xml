@@ -91119,7 +91119,7 @@ Der Brief wurde vor HKB 623 abgeschickt, vgl. <intlink letter="623" page="308" l
 Brief Nr. 625
 
 <marginal letter="625" page="310" line="4">
-<bzg>Einlage&#x202F;…&#x202F;17 April</bzg> Weder <link ref="hartknoch" linktext="false">Hartknochs</link> noch Kleukers Brief sind überliefert (zu Hartknochs Brief vgl. Hamanns Antwort <intlink letter="629" page="321" line="17" linktext="false">HKB 629</intlink>), auch kein vorheriger Briefwechsel mit Kleuker.
+<bzg>Einlage&#x202F;…&#x202F;17 April</bzg> Weder <link ref="hartknoch" linktext="false">Hartknochs</link> noch Kleukers Brief sind überliefert (zu Hartknochs Brief vgl. Hamanns Antwort <intlink letter="629" page="321" line="17" linktext="true" />), auch kein vorheriger Briefwechsel mit Kleuker.
 </marginal>
 
 <marginal letter="625" page="310" line="5">
@@ -91139,7 +91139,7 @@ Brief Nr. 625
 </marginal>
 
 <marginal letter="625" page="310" line="11" sort="1">
-<bzg>D. Köhler</bzg> <link ref="kohler" linktext="true" />
+<bzg>D. Köhler</bzg> <link ref="kohler" linktext="true" />, der Nachfolger Diederichs
 </marginal>
 
 <marginal letter="625" page="310" line="11" sort="2">
@@ -91147,7 +91147,7 @@ Brief Nr. 625
 </marginal>
 
 <marginal letter="625" page="310" line="14">
-<bzg>Päck</bzg> wohl eine Antwort Kleukers auf Hamanns Übersendung der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link> (vgl. <intlink letter="580" page="166" line="21" linktext="true" />), in Form einer eigenen Büchersendung (die aber verloren ging)
+<bzg>Päck</bzg> Eine Antwort Kleukers auf Hamanns Übersendung der <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link> (vgl. <intlink letter="580" page="166" line="21" linktext="true" />), in Form einer eigenen Büchersendung, die aber verloren ging.
 </marginal>
 
 <marginal letter="625" page="310" line="16">
@@ -91155,7 +91155,7 @@ Brief Nr. 625
 </marginal>
 
 <marginal letter="625" page="310" line="17">
-<bzg>Döderlein&#x202F;…&#x202F;anführt</bzg> in <link ref="doderlein" subref="doderlein-antifragmente" linktext="true" />, nicht ermittelt
+<bzg>Döderlein&#x202F;…&#x202F;anführt</bzg> <link ref="doderlein" linktext="true" />, nicht ermittelt; mglw. eine Verwechslung Hamanns, in <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10785538?page=326%2C327">Döderleins <titel>Auserlesener theologischer Bibliothek,</titel> Bd.&#x202F;1, St.&#x202F;5 (1780), S.&#x202F;325–341</wwwlink> wird Kleukers <link ref="kleuker" subref="kleuker-gedichte-salomos" linktext="false"><titel>Sammlung der Gedichte Salomons</titel></link> rezensiert.
 </marginal>
 
 <marginal letter="625" page="310" line="18">
@@ -91175,7 +91175,7 @@ Brief Nr. 625
 </marginal>
 
 <marginal letter="625" page="310" line="22" sort="2">
-<bzg>litterarische Brodtkorb</bzg> das Angebot der Königsberger Buchläden
+<bzg>litterarische Brodtkorb</bzg> das Angebot der Königsberger Buchhandlungen
 </marginal>
 
 <marginal letter="625" page="310" line="23">
@@ -91211,11 +91211,11 @@ Brief Nr. 625
 </marginal>
 
 <marginal letter="625" page="310" line="32">
-<bzg>Westphälischen Schinken&#x202F;…&#x202F;kleine Bratwürste</bzg> wohl für die voluminöseren Bücher, die Kleuker aus Osnabrück sandte (vgl. <intlink letter="505" page="360" line="8" linktext="true" /> oder <intlink letter="532" page="26" line="29" linktext="true" />), im Gegensatz zu den kurzen Schriften, die Hamann ihm sandte, etwa <titel>Konxompax</titel> (vgl. <intlink letter="550" page="69" line="10" linktext="true" />) oder die <titel>Zwey Scherflein</titel> (vgl. <intlink letter="580" page="166" line="21" linktext="true" />)
+<bzg>Westphälischen Schinken&#x202F;…&#x202F;kleine Bratwürste</bzg> Gemeint sind die voluminöseren Bücher, die Kleuker aus Osnabrück sandte (vgl. <intlink letter="505" page="360" line="8" linktext="true" /> oder <intlink letter="532" page="26" line="29" linktext="true" />), im Gegensatz zu den kurzen Schriften, die Hamann ihm sandte, <link ref="hamann" subref="hamann-konxompax" linktext="false"><titel>Konxompax</titel></link> (vgl. <intlink letter="550" page="69" line="10" linktext="true" />) und die <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link> (vgl. <intlink letter="580" page="166" line="21" linktext="true" />).
 </marginal>
  
 <marginal letter="625" page="311" line="2">
-<bzg>Weimarsches nach Morungen</bzg> von <link ref="herder" linktext="false">Herder</link> an seine <link ref="herder-cd-g" linktext="false">Schwester</link>
+<bzg>Weimarsches nach Morungen</bzg> von <link ref="herder" linktext="false">Herder</link> an seine <link ref="herder-cd-g" linktext="false">Schwester</link> in <wwwlink address="https://www.geonames.org/3091462">Mohrungen</wwwlink>
 </marginal>
 
 <marginal letter="625" page="311" line="3">
@@ -91227,11 +91227,11 @@ Brief Nr. 625
 </marginal>
 
 <marginal letter="625" page="311" line="7">
-<bzg>Schellenbergs Kupfern</bzg> <link ref="schellenberg" linktext="true" />, dessen <link ref="schellenberg" subref="schellenberg-prospecte" linktext="false">Schweizerprospekte</link> Hamann in Königsberg vertrieb; Hartung sollte wohl eine zweite Lieferung von der Leipziger Buchmesse für Hamann mitbringen, vgl. <intlink letter="622" page="305" line="29" linktext="true" />.
+<bzg>Schellenbergs Kupfern</bzg> <link ref="schellenberg" linktext="true" /> und dessen <link ref="schellenberg" subref="schellenberg-prospecte" linktext="false"><titel>Schweizerprospekte</titel></link>, die Hamann in Königsberg vertrieb; Hartung sollte wohl eine zweite Lieferung von der Leipziger Buchmesse für Hamann mitbringen, vgl. <intlink letter="622" page="305" line="29" linktext="true" />.
 </marginal>
 
 <marginal letter="625" page="311" line="9">
-<bzg>Hartknoch, oder Wagner u Dengel</bzg> <link ref="hartknoch" linktext="false">Hartknoch</link>, <link ref="wagner-fd" linktext="false">Wagner</link> und <link ref="dengel-cg" linktext="false">Dengel</link>
+<bzg>Hartknoch, oder Wagner u Dengel</bzg> <link ref="hartknoch" linktext="false">Hartknoch</link> und <link ref="dengel-cg" linktext="false">Wagner und Dengel</link>
 </marginal>
 
 <marginal letter="625" page="311" line="20" sort="1">
@@ -91239,7 +91239,7 @@ Brief Nr. 625
 </marginal>
 
 <marginal letter="625" page="311" line="20" sort="2">
-<bzg>stante pede oder sedens in telonio</bzg> dt. stehenden Fußes oder am Zoll sitzend (demnach bei Verrichtung seiner Pflichten als Packhofverwalter); mischt eine lat. Redensart mit einer privatsprachlichen Wendung nach <link ref="nt-mt" subref="nt-mt9" linktext="false">Mt 9,9</link>.
+<bzg>stante pede oder sedens in telonio</bzg> Dt. stehenden Fußes oder am Zoll sitzend, demnach bei Verrichtung seiner Pflichten als <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Packhofverwalter am Königsberger Licent</link>; mischt eine lat. Redensart mit einer privatsprachlichen Wendung nach <link ref="nt-mt" subref="nt-mt9" linktext="false">Mt 9,9</link>.
 </marginal>
 
 <marginal letter="625" page="311" line="22" sort="1">
@@ -91267,15 +91267,15 @@ Brief Nr. 625
 </marginal>
 
 <marginal letter="625" page="311" line="28">
-<bzg>wegen seiner Politik</bzg> Thomas’ Kommentar zu Aristoteles Politik, <titel>Sententia libri Politicorum</titel>, Kapitel 11/12
+<bzg>wegen seiner Politik</bzg> Thomas’ Kommentar zur Politik des <link ref="aristoteles" linktext="false">Aristoteles</link> , <titel>Sententia libri Politicorum</titel>, Kapitel 11/12
 </marginal>
 
 <marginal letter="625" page="311" line="29">
-<bzg>heil. Helvetius&#x202F;…</bzg> <link ref="helvetius" linktext="true" /> (das „heil.“ ist ironisch zu verstehen), stellt in <link ref="helvetius" subref="helvetius-homme" linktext="false"><titel>de l’homme</titel></link>, 9. Abschn., Kap. 22 (in der <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10255199?page=360%2C361">Übersetzung Bd.&#x202F;2, S.&#x202F;337–341</wwwlink>) einen polemischen Vergleich des heiligen Thomas mit <link ref="machiavelli" linktext="false">Machiavelli</link> an, und zwar anhand eines langen Zitats aus dessen Kommentar zum 5. Buch der aristotelischen Politik; ebd. auch eine Übersetzung.
+<bzg>heil. Helvetius&#x202F;…</bzg> <link ref="helvetius" linktext="true" /> (das „heil.“ ist ironisch zu verstehen), stellt in <link ref="helvetius" subref="helvetius-homme" linktext="false"><titel>de l’homme</titel></link>, 9. Abschn., Kap. 22 (in der <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10255199?page=360%2C361">Übersetzung Bd.&#x202F;2, S.&#x202F;337–341</wwwlink>) einen polemischen Vergleich des heiligen Thomas mit <link ref="machiavelli" linktext="false">Machiavelli</link> an, und zwar anhand eines langen Zitats aus dessen Kommentar zum 5. Buch der aristotelischen Politik; ebd. auch eine Übersetzung der Thomas-Stelle.
 </marginal>
 
 <marginal letter="625" page="311" line="32" sort="1">
-<bzg>Geburtstage des Königs</bzg> <link ref="friedrich-II" linktext="true" />, vgl. <intlink letter="616" page="278" line="8" linktext="true" />
+<bzg>Geburtstage des Königs</bzg> <link ref="friedrich-II" linktext="false">Friedrichs II.</link> am 24. Februar 1781, vgl. <intlink letter="616" page="278" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="625" page="311" line="32" sort="2">
@@ -91322,8 +91322,12 @@ Brief Nr. 625
 <bzg>einer der ersten Leser&#x202F;…</bzg> vgl. <intlink letter="592" page="195" line="8" linktext="true" />
 </marginal>
 
+<marginal letter="625" page="312" line="10">
+<bzg>Verfaßer zugetraut</bzg> vgl. <intlink letter="592" page="195" line="29" linktext="true" />
+</marginal>
+
 <marginal letter="625" page="312" line="12">
-<bzg>Hume</bzg> <link ref="hume" subref="hume-dialogues" linktext="true" />
+<bzg>Hume</bzg> Hamanns <link ref="hamann" subref="hamann-dialogues" linktext="false">Hume-Übersetzungsprojekt</link> bzw. der <link ref="hamann" subref="hamann-humeessay" linktext="false">Begleitessay</link>
 </marginal>
 
 <marginal letter="625" page="312" line="13">
@@ -91338,6 +91342,10 @@ Brief Nr. 625
 <bzg>Beyl.</bzg> In der Ankündigung im <wwwlink address="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN822207915:00000124/full/full/0/default.jpg">Messkatalog für Ostern 1780, S.&#x202F;938</wwwlink> ist von „einigen der in England darüber herausgekommenen, als auch eigenen Anmerkungen des Uebersetzers“ die Rede.
 </marginal>
 
+<marginal letter="625" page="312" line="14">
+<bzg>Arbeit</bzg> den <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essay</link>
+</marginal>
+ 
 <marginal letter="625" page="312" line="17">
 <bzg>Ankündigung im Mercur</bzg> Herders Ankündigung der Hume-Übersetzung „von dem berühmten Hamann“ im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10617978?page=94">4.&#x202F;Vj. 1780 (Oktober), S.&#x202F;90</wwwlink>, vgl. <intlink letter="600" page="218" line="7" linktext="true" /> 
 </marginal>
@@ -91348,6 +91356,10 @@ Brief Nr. 625
 
 <marginal letter="625" page="312" line="21">
 <bzg>Kritik</bzg> <link ref="kant" subref="kant-critik-vernunft" linktext="true" />
+</marginal>
+
+<marginal letter="625" page="312" line="22">
+<bzg>Hume</bzg> <link ref="hume" linktext="true" />
 </marginal>
 
 <marginal letter="625" page="312" line="23">
@@ -91370,7 +91382,7 @@ Brief Nr. 625
 <bzg>Urkunde</bzg> <link ref="kleuker" subref="kleuker-zendavesta" linktext="true" />
 </marginal>
 
-<marginal letter="625" page="312" line="32">
+<marginal letter="625" page="312" line="30">
 <bzg>fastigia und puncta liuidiora</bzg> Gipfel und bläuliche bzw. dunkle Stellen
 </marginal>
 
@@ -91390,6 +91402,10 @@ Brief Nr. 625
 <bzg>Hume</bzg> <link ref="hume" subref="hume-dialogues" linktext="true" />
 </marginal>
 
+<marginal letter="625" page="313" line="6">
+<bzg>sieben Hügel&#x202F;…&#x202F;Königsburg</bzg> ?!?
+</marginal>
+ 
 <marginal letter="625" page="313" line="10">
 <bzg>L. u P.</bzg> <link ref="lavater" linktext="true" /> und <link ref="pfenninger" linktext="true" />
 </marginal>
