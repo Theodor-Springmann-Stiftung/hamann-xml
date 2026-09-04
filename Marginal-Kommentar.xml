@@ -91402,15 +91402,19 @@ Brief Nr. 625
 <bzg>Hume</bzg> <link ref="hume" subref="hume-dialogues" linktext="true" />
 </marginal>
 
-<marginal letter="625" page="313" line="6">
-<bzg>sieben Hügel&#x202F;…&#x202F;Königsburg</bzg> ?!?
+<marginal letter="625" page="313" line="5">
+<bzg>sieben Hügel&#x202F;…&#x202F;Königsburg</bzg> Königsberg, nach dem topischen Vergleich mit Rom
 </marginal>
  
 <marginal letter="625" page="313" line="10">
 <bzg>L. u P.</bzg> <link ref="lavater" linktext="true" /> und <link ref="pfenninger" linktext="true" />
 </marginal>
+ 
+<marginal letter="625" page="313" line="12" sort="1">
+<bzg>Armuth des Geistes</bzg> <link ref="nt-mt" subref="nt-mt5" linktext="false">Mt 5,3</link>
+</marginal>
 
-<marginal letter="625" page="313" line="12">
+<marginal letter="625" page="313" line="12" sort="2">
 <bzg>göttlich schönen Pflichten der Dunkelheit</bzg> nach den häufig zitierten Versen aus <link ref="gellert-cf" subref="gellert-lehrgedichte" linktext="false">Gellerts Lehrgedicht</link> <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10108597?page=28%2C29"><titel>Reichthum und Ehre</titel>, S.&#x202F;20</wwwlink>, vgl. <intlink letter="219" page="129" line="18" linktext="true" />
 </marginal>
 
@@ -91503,16 +91507,17 @@ Brief Nr. 625
 </marginal>
 
 <marginal letter="625" page="314" line="6">
-<bzg></bzg> <link ref="at-pr" subref="at-pr4" linktext="false">Pred 4,11</link>, nach Kleukers <link ref="kleuker" subref="kleuker-salomo" linktext="true" />
+<bzg>Prediger Salomo</bzg> <link ref="at-pr" subref="at-pr4" linktext="false">Pred 4,11</link>, nach Kleukers <link ref="kleuker" subref="kleuker-salomo" linktext="false"><titel>Salomo’s Schriften</titel></link>
 </marginal>
 
 <marginal letter="625" page="314" line="7">
-<bzg>vom Rath zur That</bzg> Kleuker heiratete 1784 Klara Auguste geb. von Lengercke
+<bzg>vom Rath zur That</bzg> Kleuker heiratete 1784 Klara Auguste geb. von Lengercke.
 </marginal>
 
 <marginal letter="625" page="314" line="11">
-<bzg>Gevatter&#x202F;…&#x202F;Scherflein</bzg> die Verschickung von <link ref="hamann" subref="hamann-scherflein" linktext="false">Hamanns <titel>Zwey Scherflein</titel></link> durch <link ref="herder" linktext="false">Herder</link>, wie er sie in Auftrag gab, vgl. <intlink letter="580" page="166" line="21" linktext="true" />
+<bzg>Gevatter&#x202F;…&#x202F;Scherflein</bzg> die Verschickung von <link ref="hamann" subref="hamann-scherflein" linktext="false">Hamanns <titel>Zwey Scherflein</titel></link> an Kleuker durch <link ref="herder" linktext="false">Herder</link>, nach Hamanns Auftrag in <intlink letter="580" page="166" line="21" linktext="true" />
 </marginal>
+
 
 Brief Nr. 626
 
