@@ -1905,7 +1905,7 @@ ULB Halle: Dd 5485 (2)</wwwlink>
 
 <kommentar id="bibliotheca-fratrum-polonorum" type="neuzeit">
 <lemma>Bibliotheca Fratrum Polonorum</lemma>
-<eintrag><titel>Bibliotheca Fratrum Polonorum quos Unitarios vocant</titel>. Sammlung socinianischer Schriften, hg.&#xA0;v. Frans Kuyper, Daniel Bakkamude und Andrzej Wiszowaty, (8 Bde und ein Ergänzungsband, Irenopoli [Amsterdam] 1656–169). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11203283%2FBV004757324">Stabi Augsburg: 2 Th Ex 38</wwwlink>. – Bd.&#x202F;1 und 2 enthalten die opera omnia von <link ref="sozzini" linktext="true" />.</eintrag>
+<eintrag><titel>Bibliotheca Fratrum Polonorum quos Unitarios vocant</titel>. Sammlung socinianischer Schriften, hg.&#xA0;v. Frans Kuyper, Daniel Bakkamude und Andrzej Wiszowaty, (8 Bde und ein Ergänzungsband, Irenopoli [Amsterdam] 1656–1692). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11203283%2FBV004757324">Stabi Augsburg: 2 Th Ex 38</wwwlink>. – Bd.&#x202F;1 und 2 enthalten sämtliche Werke von <link ref="sozzini" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="bibl-wiss-kuenste" type="neuzeit">
@@ -6187,22 +6187,22 @@ Jo. Alberti Fabricii SS. Theologiæ D. &amp; Prof. Publ. <titel>Bibliotheca grae
 
 <kommentar id="fischer-ad" type="neuzeit">
 <lemma>Anna Dorothea Fischer</lemma>
-<eintrag>Geb. Golitz, Mutter von <link ref="fischer-cg" linktext="true" />, Witwe des Pastors an der Altstädtischen Kirche in Thorn, Christoph Karl Fischer.</eintrag>
+<eintrag>Geb. Golitz, Mutter von <link ref="fischer-kg" linktext="true" />, Witwe des 1776 verstorbenen Pastors an der Altstädtischen Kirche in Thorn, Christoph Karl Fischer.</eintrag>
 </kommentar>
 
-<kommentar id="fischer-cg" type="neuzeit">
-<lemma>Carl Gottlob Fischer</lemma>
-<eintrag>1745–1801. Pfarrer am Königlichen großen Hospital in Königsberg; arbeitete 1780 mit Goldbeck an der Beschaffung von Informationen für die <link ref="goldbeck" subref="goldbeck-nachrichten" linktext="false"><titel>Litterarischen Nachrichten von Preußen</titel></link>; guter Bekannter Hamanns ab den späten 1770er Jahren und Studienfreund Herders.</eintrag>
+<kommentar id="fischer-kg" type="neuzeit">
+<lemma>Karl Gottlieb Fischer</lemma>
+<eintrag>1745–1801. Pfarrer am Königlichen großen Hospital in Königsberg; guter Bekannter Hamanns ab den späten 1770er Jahren und Studienfreund Herders; arbeitete 1780 mit Goldbeck an der Beschaffung von Informationen für die <link ref="goldbeck" subref="goldbeck-nachrichten" linktext="false"><titel>Litterarischen Nachrichten von Preußen</titel></link>; eine ausführliche Biographie schrieb <link ref="kraus" linktext="false">Kraus’</link> im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10070837?page=238%2C239"><titel>Nekrolog der Teutschen für das neunzehnte Jahrhundert</titel>, hg. von Friedrich Schlichtegroll, Bd.&#x202F;2 (Gotha: Perthes 1803), S.&#x202F;225–328</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="fischer-nns" type="neuzeit">
 <lemma>N.N. Fischer</lemma>
-<eintrag>Geb. 1780. Sohn von <link ref="fischer-cg" linktext="true" />.</eintrag>
+<eintrag>Geb. 1780. Ein früh verstorbener Sohn von <link ref="fischer-kg" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="fischer-nnf" type="neuzeit">
-<lemma>N.N. Fischer</lemma>
-<eintrag>Lebensdaten nicht ermittelt. Geb. Damus. Frau von <link ref="fischer-cg" linktext="true" />.</eintrag>
+<lemma>Johanna Eleonora Fischer</lemma>
+<eintrag>10.7.1747, geb. Damus. Seit 1777 Frau von <link ref="fischer-kg" linktext="true" />, vgl. <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10070837?page=266%2C267"><titel>Nekrolog der Teutschen für das neunzehnte Jahrhundert</titel>, hg. von Friedrich Schlichtegroll, Bd.&#x202F;2 (Gotha: Perthes 1803), S.&#x202F;253f.</wwwlink> und <wwwlink address="https://www.genealogie-tagebuch.de/?p=14874">Genealogie-Tagebuch von Irmi Gegner-Sünkler</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="fischer-e" type="neuzeit">
@@ -15892,7 +15892,7 @@ N
 
 <kommentar id="naugardt" type="neuzeit">
 <lemma>N. N. Naugardt</lemma>
-<eintrag>Gest. 1781, Sekretär auf der <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Königsberger Akzise</link>, Schwager von <link ref="fischer-cg" linktext="true" />.</eintrag>
+<eintrag>Gest. 1781, Sekretär auf der <link ref="provinzial-akzise-und-zoll-direktion" linktext="false">Königsberger Akzise</link>, Schwager von <link ref="fischer-kg" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="neander" type="neuzeit">
