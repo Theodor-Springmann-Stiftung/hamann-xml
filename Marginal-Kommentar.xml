@@ -67681,7 +67681,7 @@ Brief Nr. 522
    </marginal>
 
    <marginal letter="522" page="2" line="2">
-    <bzg>Rebecca</bzg> <link ref="at-mo1" subref="at-mo1-25" linktext="false">1 Mo 25,22</link> 
+   <bzg>Rebecca&#x202F;…&#x202F;sollte</bzg> <link ref="at-mo1" subref="at-mo1-25" linktext="false">1 Mo 25,22</link>
    </marginal>
 
    <marginal letter="522" page="2" line="3" sort="1">
@@ -67689,11 +67689,15 @@ Brief Nr. 522
    </marginal>
 
    <marginal letter="522" page="2" line="3" sort="2">
-    <bzg>prima Donna und dem Chef&#x202F;…</bzg> wohl <link ref="friedrich-II" linktext="true" /> (<intlink letter="522" page="3" line="1" linktext="false">s. u.</intlink>) und <link ref="morinval" linktext="true" /> 
+   <bzg>prima Donna</bzg> wohl <link ref="friedrich-II" linktext="true" /> (<intlink letter="522" page="3" line="1" linktext="false">s. u.</intlink>)
+   </marginal>
+
+   <marginal letter="522" page="2" line="3" sort="3">
+   <bzg>Chef des Departements</bzg> <link ref="morinval" linktext="true" />
    </marginal>
 
    <marginal letter="522" page="2" line="5">
-    <bzg>Apoll dem Horaz an seinem Ohr</bzg> Das Motiv des Ohrziehens durch Apollo war zeitgenössisch als Topos der dichterischen Zurechtweisung bekannt und bezieht sich eigentlich auf Vergil („Cynthius aurem vellit“, <link ref="vergil" subref="vergil-bucol" linktext="true" />, 6, 3f.); da Horaz die Stelle verschiedentlich aufnahm (etwa „Phoebus volentem“, <link ref="horaz" subref="horaz-oden" linktext="true" />, 4,15,1–4), war das Ohrziehen durch Apollo leicht mit Horaz assoziierbar. Hamann meint, dass er in seinem Brief Friedrich II. gegenüber unterwürfig und Morinval gegenüber zurechtweisend schrieb.
+   <bzg>Apoll dem Horaz an seinem Ohr</bzg> Das Motiv des Ohrziehens durch Apollo war zeitgenössisch als Topos der dichterischen Zurechtweisung bekannt und bezieht sich eigentlich auf Vergil („Cynthius aurem vellit“, <link ref="vergil" subref="vergil-bucol" linktext="true" />, 6, 3f.); da Horaz die Stelle verschiedentlich aufnahm (etwa „Phoebus volentem“, <link ref="horaz" subref="horaz-oden" linktext="true" />, 4,15,1–4), war das Ohrziehen durch Apollo leicht mit Horaz assoziierbar.
    </marginal>
 
    <marginal letter="522" page="2" line="6">
@@ -67744,7 +67748,7 @@ Brief Nr. 522
    </marginal>
 
    <marginal letter="522" page="2" line="33">
-    <bzg>Charakter indelebilis</bzg> dt. unzerstörbares Merkmal
+   <bzg>indelebilis</bzg> dt. unvertilgbar, unvergänglich
    </marginal>
 
    <marginal letter="522" page="2" line="34">
@@ -67803,6 +67807,9 @@ Brief Nr. 522
     <bzg>Mutter</bzg> <link ref="reichardt-jul" linktext="true" /> 
    </marginal>
 
+   <marginal letter="522" page="3" line="18">
+   <bzg>Engel</bzg> <link ref="engel" linktext="true" />
+   </marginal>
 
    Brief Nr. 523
 
