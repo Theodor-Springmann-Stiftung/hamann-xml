@@ -87621,7 +87621,7 @@ Brief Nr. 614
 </marginal>
 
 <marginal letter="614" page="270" line="9">
-<bzg>beantw. 27</bzg> nicht überliefert
+<bzg>beantw. 27</bzg> am 10. März 1781 (greg.), nicht überliefert
 </marginal>
 
 
@@ -94601,11 +94601,15 @@ Brief Nr. 636
 </marginal>
 
 <marginal letter="636" page="348" line="15">
-<bzg>Brief vom 27 Febr.</bzg> nicht überliefert
+<bzg>Brief vom 27 Febr.</bzg> die Antwort auf <intlink letter="614" page="270" line="9" linktext="false">HKB 614</intlink> vom 10. März 1781 (greg.), nicht überliefert
 </marginal>
 
 <marginal letter="636" page="348" line="16">
 <bzg>Epoques de la Nature</bzg> <link ref="buffon" subref="buffon-epoques" linktext="true" />
+</marginal>
+
+<marginal letter="636" page="348" line="17">
+<bzg>7 fl.</bzg> vgl. <intlink letter="616" page="280" line="37" linktext="true" />
 </marginal>
 
 <marginal letter="636" page="348" line="18">
@@ -94633,15 +94637,15 @@ Brief Nr. 636
 </marginal>
 
 <marginal letter="636" page="349" line="1">
-<bzg>Fortsetzung&#x202F;…&#x202F;abermal</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />; Hamann bat etwa in <intlink letter="622" page="304" line="21" linktext="true" /> darum und wiederholte es in <intlink letter="637" page="356" line="10" linktext="false">HKB 637</intlink>.
+<bzg>Fortsetzung&#x202F;…&#x202F;abermal</bzg> <link ref="herder" subref="herder-altesteurkunde" linktext="true" />; Hamann bat etwa in <intlink letter="622" page="304" line="21" linktext="true" /> darum und wiederholte es in <intlink letter="637" page="356" line="10" linktext="true"/>.
 </marginal>
 
-<marginal letter="636" page="349" line="2" sort="1">
-<bzg>Denkmal auf Leßing</bzg> <link ref="herder" subref="herder-winckelmann-lessing-sulzer" linktext="false">Herders Würding von Lessing</link> im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=18%2C19">4. Vj. 1781 (Oktober), S.&#x202F;1–29</wwwlink>, vgl. <intlink letter="637" page="352" line="33" linktext="true" />
+<marginal letter="636" page="349" line="2">
+<bzg>Denkmal auf Leßing</bzg> <link ref="herder" subref="herder-winckelmann-lessing-sulzer" linktext="false">Herders Würding Lessings</link> im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=18%2C19">4. Vj. 1781 (Oktober), S.&#x202F;1–29</wwwlink>, vgl. <intlink letter="637" page="352" line="33" linktext="true" />
 </marginal>
 
-<marginal letter="636" page="349" line="2" sort="2">
-<bzg>T. M.</bzg> <link ref="teutsche-merkur" linktext="true" />
+<marginal letter="636" page="349" line="6">
+<bzg>Waßerbäche&#x202F;…&#x202F;Mitternacht</bzg> vgl. <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,10</link>
 </marginal>
 
 <marginal letter="636" page="349" line="9" sort="1">
@@ -94649,17 +94653,24 @@ Brief Nr. 636
 </marginal>
 
 <marginal letter="636" page="349" line="9" sort="2">
-<bzg>hat sich ein Haus gekauft</bzg> Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selben Tag vom Grafen Schimmelmann notariell quittiert – Nachweis?!? – –
-In gängigen Claudius-Biographien nichts spezifischeres gefunden, als dass Claudius sich 1781 das bekannte Haus an der Lübecker Straße kaufte, dafür 3500 Mark und Hypothekenzinsen aufbringen musste, und die Familie das Haus zu Fastnacht 1782 bezog; vgl. Martin Geck: Matthias Claudius. Biographie eines Unzeitgemäßen (München 2014), S.&#x202F;171; die Geschichte von dem Hauskauf und der Kuh erzählt Claudius auch im Brief an Herder, 2.1.1782 (Claudius: <titel>Briefe an Freunde,</titel> hg. von Jens Jessen, Berlin 1937, S.&#x202F;291).
-– – Fechner bereitete lange eine Claudius-Briefe-Ausgabe vor, der Hinweis ist also vmtl. stichhaltig; für den Hamann-Kontext gleichwohl ziemlich irrelevant. Andererseits schon interessant, dass einer der größten Sklavenhändler seiner Zeit, und Besitzer von Wandsbek, Claudius’ Hauskauf quittiert. Ist Claudius Großzügigkeit trotz Armut etwa aus Schimmelmann-Zuwendungen zu erklären? – Nein, laut Kranefuss, 184 konnte sich Claudius das wegen einer großzügigen Zuwendung Gustav von Schlabrendorfs leisten; außerdem verkaufte sich seine Saint-Martin-Übersetzung ziemlich gut. 
+<bzg>Asmus&#x202F;…&#x202F;Kühe</bzg> <link ref="claudius" linktext="true" />, der Brief mit der Ankündigung ist nicht überliefert; eine ähnliche Geschichte vom Hauskauf in Wandsbek und der Kuh erzählt Claudius Herder in einem Brief vom 2.1.1782 (vgl. <link ref="claudius" linktext="false">Jessen (Hg.): <titel>Claudius: Briefe an Freunde</titel>,</link> S.&#x202F;291). Claudius kaufte sich 1781 das bekannte Haus an der Lübecker Straße, und musste dafür 3500 Mark und Hypothekenzinsen aufbringen; die Familie bezog das Haus zu Fastnacht 1782, vgl. Martin Geck: <titel>Matthias Claudius. Biographie eines Unzeitgemäßen</titel> (München 2014), S.&#x202F;171.
+</marginal>
+
+<marginal letter="636" page="349" line="16">
+<bzg>armer Mann&#x202F;…&#x202F;Freygebigkeit</bzg> Claudius konnte sich den Hauskauf hauptsächlich infolge großzügiger Zuwendungen von Freunden leisten, etwa von <link ref="haugwitz" linktext="false">Haugwitz</link> oder <link ref="jacobi" linktext="false">Jacobi</link>; Gustav von Schlabrendorf zahlte zudem eine jährliche Pension von 200 Reichstalern, deren Auszahlung <link ref="reichardt-jf" linktext="false">Reichardt</link> besorgte, vgl. Annelen Kranefuss: <titel>Matthias Claudius</titel> (Hamburg 2011), S.&#x202F;183f. – –
+Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selben Tag vom Grafen Schimmelmann notariell quittiert – Nachweis?!? – Fechner bereitete lange eine Claudius-Briefe-Ausgabe vor, der Hinweis ist also vmtl. stichhaltig, für den Hamann-Kontext gleichwohl ziemlich irrelevant. Andererseits schon interessant, dass einer der größten Sklavenhändler seiner Zeit, und Besitzer von Wandsbek, Claudius’ Hauskauf quittierte.
 </marginal>
 
 <marginal letter="636" page="349" line="16">
 <bzg>Hinc illae lacrimae</bzg> dt. daher also die Tränen (von einem erkannten Handlungsmotiv, nach <link ref="terenz" linktext="false">Ter.</link> <titel>And.</titel> 1,1,125)
 </marginal>
 
+<marginal letter="636" page="349" line="17">
+<bzg>Arche</bzg> Claudius’ „Kasten“, die per Schiff kommen sollte (<intlink letter="636" page="349" line="9" linktext="false">s.o.</intlink>), nach <link ref="at-mo1" subref="at-mo1-6" linktext="false">1 Mo 6,14</link>; er kam am 1. Februar 1782 an, vgl. <intlink letter="642" page="365" line="35" linktext="true" />.
+</marginal>
+ 
 <marginal letter="636" page="349" line="18" sort="1">
-<bzg>Klopstock von seiner Meßiade</bzg> <link ref="klopstock" subref="klopstock-messias" linktext="true" />; die Erfüllung einer Bitte Hamanns von 1780 (vgl. <intlink letter="603" page="227" line="16" linktext="true" />), nach der Vermittlung von Hamanns damaligem Brief durch Claudius (vgl. <intlink letter="617" page="287" line="18" linktext="true" />)
+<bzg>Klopstock von seiner Meßiade</bzg> <link ref="klopstock" subref="klopstock-messias" linktext="true" />; die Erfüllung einer Bitte Hamanns von 1780 (vgl. <intlink letter="603" page="227" line="16" linktext="true" />), nach der Vermittlung von Hamanns damaligem Brief durch Claudius, vgl. <intlink letter="617" page="287" line="18" linktext="true" />.
 </marginal>
 
 <marginal letter="636" page="349" line="18" sort="2">
@@ -94671,7 +94682,7 @@ In gängigen Claudius-Biographien nichts spezifischeres gefunden, als dass Claud
 </marginal>
 
 <marginal letter="636" page="349" line="21">
-<bzg>Bibl.</bzg> <link ref="bibliotheca-fratrum-polonorum" linktext="true" />, für Recherchen zum Socianismus im Kontext der <link ref="hamann" subref="hamann-humeessay" linktext="false"><titel>Epistolischen Nachlese eines Misologen</titel></link>
+<bzg>Bibl.</bzg> <link ref="bibliotheca-fratrum-polonorum" linktext="true" />, für Recherchen zum Socianismus im Kontext des <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essays</link>
 </marginal>
 
 <marginal letter="636" page="349" line="22">
