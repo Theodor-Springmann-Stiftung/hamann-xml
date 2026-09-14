@@ -3567,7 +3567,7 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 
 <kommentar id="chevilla" type="neuzeit">
 <lemma>Buch Chevilla</lemma>
-<eintrag>Mysteriöses Buch, auf das Hamann durch die Lektüre des Manuskripts des <link ref="ziehen" linktext="false">‚Zellerfelder Propheten‘</link> kam, das <link ref="herder" linktext="false">Herder</link> ihm <intlink letter="602" page="224" line="30" linktext="false">1780</intlink> schickte. Hamann suchte lange nach dem Buch und erhoffte sich davon eine Hieroglyphenentschlüsselung, schließlich hielt er das gefundene Werk von <link ref="aldabi" subref="aldabi-shebile" linktext="true" /> dafür, vgl. <intlink letter="623" page="307" line="35" linktext="true" />; siehe zusammenfassend <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;105</link>.</eintrag>
+<eintrag>Mysteriöses Buch, auf das Hamann durch die Lektüre des Manuskripts des <link ref="ziehen" linktext="false">‚Zellerfelder Propheten‘</link> aufmerksam wurde, das <link ref="herder" linktext="false">Herder</link> ihm <intlink letter="602" page="224" line="30" linktext="false">1780</intlink> schickte, besonders durch die <wwwlink address="https://digital.ulb.hhu.de/ulbdvd18/content/zoom/9726359">„Vorläufige allgemeine Nachricht von einer herauszugebenden Hieroglyphischen Sprachkunst, und von dem Buche Chevilla“</wwwlink> am Ende der Schrift. Hamann suchte lange nach dem Buch und erhoffte sich davon eine Hieroglyphenentschlüsselung; zwischendurch hielt er das gefundene Werk von <link ref="aldabi" subref="aldabi-shebile" linktext="true" /> dafür, vgl. <intlink letter="623" page="307" line="35" linktext="true" />. Siehe zusammenfassend auch <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;105</link>.</eintrag>
 </kommentar>
 
 <kommentar id="chladenius" type="neuzeit">
@@ -5050,7 +5050,7 @@ Dt. Übers. zitiert nach: Otto Apel und Hans Günter Zekl (Übers.), <titel>Lebe
 
 <kommentar id="dohm-cw" type="neuzeit">
 <lemma>Christian Wilhelm Dohm</lemma>
-<eintrag>1751&#x202F;1820. Geheimer Archiv- und Kriegsrat in Berlin sowie Gesandter in Köln, später bekannt für seine Schriften zur Judenemanzipation, siehe <wwwlink address="https://d-nb.info/gnd/118680145">GND</wwwlink>.</eintrag>
+<eintrag>1751–1820. Geheimer Archiv- und Kriegsrat in Berlin sowie Gesandter in Köln, später bekannt für seine Schriften zur Judenemanzipation, siehe <wwwlink address="https://d-nb.info/gnd/118680145">GND</wwwlink>.</eintrag>
 <subsection id="dohm-juden" type="neuzeit" sort="10">
 <lemma>Dohm, <titel>Ueber die bügerliche Verbesserung der Juden</titel></lemma>
 <eintrag>
@@ -13118,7 +13118,7 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 im Mai 1781, kurz
 <subsection id="lichtenberg-ziehen" type="neuzeit" sort="30">
 <lemma>Lichtenberg, <titel>Ueber die Weissagungen des verstorbenen Herrn Superintendenten Ziehen in Zellerfeld</titel></lemma>
 <eintrag>
-<titel>Ueber die Weissagungen des verstorbenen Herrn Superintendenten Ziehen in Zellerfeld</titel>, in: <link ref="hamb-adresscomtoir" linktext="false"><titel>Hamburgische Adreß-Comtoir-Nachrichten</titel></link>, <wwwlink address="https://www.deutsche-digitale-bibliothek.de/newspaper/item/WRPNJPYPO6WJMHSY5Z3ZK7HMRW4SB3Q2?issuepage=1">St.&#x202F;82, 19.10.1780, S.&#x202F;649–651</wwwlink>.
+<titel>Ueber die Weissagungen des verstorbenen Herrn Superintendenten Ziehen in Zellerfeld</titel>; verschiedentlich abgedruckt, etwa in: <link ref="hamb-adresscomtoir" linktext="false"><titel>Hamburgische Adreß-Comtoir-Nachrichten</titel></link>, <wwwlink address="https://www.deutsche-digitale-bibliothek.de/newspaper/item/WRPNJPYPO6WJMHSY5Z3ZK7HMRW4SB3Q2?issuepage=1">St.&#x202F;82, 19.10.1780, S.&#x202F;649–651</wwwlink>. Ebenso als Einzeldruck s.l. 1780, mit einer Zusammenfassung von <link ref="ziehen" subref="ziehen-revolution" linktext="false">Ziehens <titel>Nachricht von einer bevorstehenden großen Revolution der Erde</titel></link>. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10946850-0">BSB München: Polem. 388 o#Beibd.1.</wwwlink>
 </eintrag>
 </subsection>
 </kommentar>
@@ -23555,7 +23555,7 @@ Hamann las die Ausgabe <titel>Consultationes Zacchei christiani et Apollonii phi
 <subsection id="ziehen-revolution" type="neuzeit" sort="10">
 <lemma>Ziehen, <titel>Nachricht von einer bevorstehenden großen Revolution der Erde</titel></lemma>
 <eintrag>
-<titel>Des Herrn Superintendenten Ziehen im Zellerfelde Nachricht von einer bevorstehenden großen Revolution der Erde, die insonderheit das südliche Europa und einen Theil Deutschlands treffen, und mit dem Ende des September-Monats 1780 anfangen wird. Im Auszuge herausgegeben. Mit einem Anhange über das Buch <link ref="chevilla" linktext="false">Chevilla</link></titel> (Frankfurt, Leipzig 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:061:1-529846">ULB Düsseldorf</wwwlink>. – Zirkulierte zuvor als Manuskript, wovon Herder eines an Hamann schickte, der es für sich abschrieb, vgl. <intlink letter="604" page="228" line="30" linktext="true" />.
+<titel>Des Herrn Superintendenten Ziehen im Zellerfelde Nachricht von einer bevorstehenden großen Revolution der Erde, die insonderheit das südliche Europa und einen Theil Deutschlands treffen, und mit dem Ende des September-Monats 1780 anfangen wird. Im Auszuge herausgegeben. Mit einem Anhange über das <link ref="chevilla" linktext="false">Buch Chevilla</link></titel> (Frankfurt, Leipzig 1780). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:hbz:061:1-529846">ULB Düsseldorf</wwwlink>. – Zirkulierte zuvor als Manuskript, wovon Herder eines an Hamann schickte, der es für sich abschrieb, vgl. <intlink letter="604" page="228" line="30" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
