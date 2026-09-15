@@ -68496,11 +68496,15 @@ Brief Nr. 525
    <marginal letter="527" page="14" line="8">
     <bzg>Lavater</bzg> <link ref="lavater" linktext="true" />
    </marginal>
-   
-   <marginal letter="527" page="14" line="21">
-    <bzg>Porkirche</bzg> Chorraum
+
+   <marginal letter="527" page="14" line="9">
+   <bzg>Priester&#x202F;…&#x202F;Menschen</bzg> vgl. <link ref="at-jes" subref="at-jes61" linktext="false">Jes 61,6</link> u. <link ref="nt-gal" subref="nt-gal1" linktext="false">Gal 1,10</link>
    </marginal>
-   
+
+   <marginal letter="527" page="14" line="21">
+   <bzg>Porkirche</bzg> Empore
+   </marginal>
+
    <marginal letter="527" page="14" line="24">
     <bzg>Wint.</bzg> Winterthur
    </marginal>
@@ -68528,11 +68532,15 @@ Brief Nr. 525
    <marginal letter="527" page="15" line="35">
     <bzg>Lips</bzg> <link ref="lips-jh" linktext="true" />
    </marginal>
-   
-   <marginal letter="527" page="15" line="36">
-    <bzg>Ricci u. Cunego</bzg> Gemeint ist wohl eine Darstellung des Begräbnisses Christi der Maler Sebastiano oder Marco Ricci (1659–1734 bzw. 1676–1729) in einer Gravur von Domenico Cunego (1726–1803).
+
+   <marginal letter="527" page="15" line="36" sort="1">
+   <bzg>Ricci u. Cunego</bzg> Gemeint ist wohl eine Darstellung des Begräbnisses Christi von Sebastiano oder Marco Ricci (1659–1734 bzw. 1676–1729) in einer Gravur von Domenico Cunego (1726–1803).
    </marginal>
-   
+
+   <marginal letter="527" page="15" line="36" sort="2">
+   <bzg>Solcher ist das Reich Gottes</bzg> <link ref="nt-mt" subref="nt-mt19" linktext="false">Mt 19,14</link>, <link ref="nt-mk" subref="nt-mk10" linktext="false">Mk 10,14</link> u. <link ref="nt-lk" subref="nt-lk18" linktext="false">Lk 18,16</link>
+   </marginal>
+
    <marginal letter="527" page="16" line="9">
     <bzg>irdischen Engels</bzg> <link ref="goethe-c" linktext="true" />
    </marginal>
