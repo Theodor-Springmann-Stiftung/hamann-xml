@@ -19735,7 +19735,7 @@ Brief Nr. 194
 </marginal>
 
 <marginal letter="194" page="45" line="15" sort="1">
-<bzg>Athenaeus</bzg> vll. <link ref="athenaios" subref="athenaios-casaubonus" linktext="true" />
+<bzg>Athenaeus</bzg> vll. <link ref="athenaios" subref="athenaios-deipnosophistae" linktext="false">Athenaios, <titel>Deipnosophistae</titel></link>
 </marginal>
 
 <marginal letter="194" page="45" line="15" sort="2">
@@ -94214,7 +94214,7 @@ Brief Nr. 635
 </marginal>
 
 <marginal letter="635" page="344" line="12" sort="1">
-<bzg>Schellenbergschen Kupfer</bzg> im Zusammenhang von <link ref="schellenberg" subref="schellenberg-prospecte" linktext="false">Schellenbergs <titel>Schweizerprospekten</titel></link>, die Hamann in Königsberg vertrieb, vgl. <intlink letter="625" page="311" line="7" linktext="true" />
+<bzg>Schellenbergschen Kupfer</bzg> Im Zusammenhang von <link ref="schellenberg" subref="schellenberg-prospecte" linktext="false">Schellenbergs <titel>Schweizerprospekten</titel></link>, die Hamann zuvor in Königsberg vertrieb, vgl. <intlink letter="625" page="311" line="7" linktext="true" />; Hamann schrieb wohl, er wolle das nicht mehr tun, Steiner schickte aber weiterhin Abzüge, vgl. <intlink letter="636" page="350" line="24" linktext="true" />.
 </marginal>
 
 <marginal letter="635" page="344" line="12" sort="2">
@@ -94413,7 +94413,7 @@ Brief Nr. 636
 </marginal>
 
 <marginal letter="636" page="346" line="11">
-<bzg>Möhsens Beschreibung</bzg> <link ref="moehsen" subref="moehsen-medaillen" linktext="true" />
+<bzg>Möhsens Beschreibung</bzg> <link ref="moehsen" subref="moehsen-medaillen" linktext="true" />; Hamann kaufte sie für seinen <link ref="hamann-jm" linktext="false">Sohn</link>, <intlink letter="636" page="351" line="22" linktext="false">s.u.</intlink>
 </marginal>
 
 <marginal letter="636" page="346" line="12">
@@ -94648,15 +94648,11 @@ Brief Nr. 636
 <bzg>Waßerbäche&#x202F;…&#x202F;Mitternacht</bzg> vgl. <link ref="at-pr" subref="at-pr1" linktext="false">Pred 1,10</link>
 </marginal>
 
-<marginal letter="636" page="349" line="9" sort="1">
-<bzg>Asmus&#x202F;…&#x202F;beschreibt</bzg> <link ref="claudius" linktext="true" />, Brief nicht überliefert (er kam am 1. Dezember in Königsberg an)
+<marginal letter="636" page="349" line="9">
+<bzg>Asmus&#x202F;…&#x202F;Kühe</bzg> <link ref="claudius" linktext="true" />, der Brief mit der Ankündigung, der am 1. Dezember in Königsberg ankam, ist nicht überliefert; eine ähnliche Geschichte vom Hauskauf in Wandsbek und der Kuh erzählt Claudius Herder in einem Brief vom 2.1.1782 (vgl. <link ref="claudius" linktext="false">Jessen (Hg.): <titel>Claudius: Briefe an Freunde</titel>,</link> S.&#x202F;291). Claudius kaufte sich 1781 das bekannte Haus an der Lübecker Straße, und musste dafür 3500 Mark und Hypothekenzinsen aufbringen; die Familie bezog das Haus zu Fastnacht 1782, vgl. Martin Geck: <titel>Matthias Claudius. Biographie eines Unzeitgemäßen</titel> (München 2014), S.&#x202F;171.
 </marginal>
 
-<marginal letter="636" page="349" line="9" sort="2">
-<bzg>Asmus&#x202F;…&#x202F;Kühe</bzg> <link ref="claudius" linktext="true" />, der Brief mit der Ankündigung ist nicht überliefert; eine ähnliche Geschichte vom Hauskauf in Wandsbek und der Kuh erzählt Claudius Herder in einem Brief vom 2.1.1782 (vgl. <link ref="claudius" linktext="false">Jessen (Hg.): <titel>Claudius: Briefe an Freunde</titel>,</link> S.&#x202F;291). Claudius kaufte sich 1781 das bekannte Haus an der Lübecker Straße, und musste dafür 3500 Mark und Hypothekenzinsen aufbringen; die Familie bezog das Haus zu Fastnacht 1782, vgl. Martin Geck: <titel>Matthias Claudius. Biographie eines Unzeitgemäßen</titel> (München 2014), S.&#x202F;171.
-</marginal>
-
-<marginal letter="636" page="349" line="16">
+<marginal letter="636" page="349" line="14">
 <bzg>armer Mann&#x202F;…&#x202F;Freygebigkeit</bzg> Claudius konnte sich den Hauskauf hauptsächlich infolge großzügiger Zuwendungen von Freunden leisten, etwa von <link ref="haugwitz" linktext="false">Haugwitz</link> oder <link ref="jacobi" linktext="false">Jacobi</link>; Gustav von Schlabrendorf zahlte zudem eine jährliche Pension von 200 Reichstalern, deren Auszahlung <link ref="reichardt-jf" linktext="false">Reichardt</link> besorgte, vgl. Annelen Kranefuss: <titel>Matthias Claudius</titel> (Hamburg 2011), S.&#x202F;183f. – –
 Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selben Tag vom Grafen Schimmelmann notariell quittiert – Nachweis?!? – Fechner bereitete lange eine Claudius-Briefe-Ausgabe vor, der Hinweis ist also vmtl. stichhaltig, für den Hamann-Kontext gleichwohl ziemlich irrelevant. Andererseits schon interessant, dass einer der größten Sklavenhändler seiner Zeit, und Besitzer von Wandsbek, Claudius’ Hauskauf quittierte.
 </marginal>
@@ -94666,7 +94662,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="349" line="17">
-<bzg>Arche</bzg> Claudius’ „Kasten“, die per Schiff kommen sollte (<intlink letter="636" page="349" line="9" linktext="false">s.o.</intlink>), nach <link ref="at-mo1" subref="at-mo1-6" linktext="false">1 Mo 6,14</link>; er kam am 1. Februar 1782 an, vgl. <intlink letter="642" page="365" line="35" linktext="true" />.
+<bzg>Arche</bzg> Claudius’ „Kasten“, der per Schiff kommen sollte (<intlink letter="636" page="349" line="9" linktext="false">s.o.</intlink>), nach <link ref="at-mo1" subref="at-mo1-6" linktext="false">1 Mo 6,14</link>; er kam am 1. Februar 1782 an, vgl. <intlink letter="642" page="365" line="35" linktext="true" />.
 </marginal>
  
 <marginal letter="636" page="349" line="18" sort="1">
@@ -94682,7 +94678,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="349" line="21">
-<bzg>Bibl.</bzg> <link ref="bibliotheca-fratrum-polonorum" linktext="true" />, für Recherchen zum Socianismus im Kontext des <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essays</link>
+<bzg>Bibl.</bzg> <link ref="bibliotheca-fratrum-polonorum" linktext="true" />, für Recherchen zum Socianismus im Kontext des <link ref="hamann" subref="hamann-humeessay" linktext="false">Hume-Essays</link>, vgl. <intlink letter="631" page="330" line="34" linktext="true" /> und <intlink letter="634" page="342" line="2" linktext="true" />.
 </marginal>
 
 <marginal letter="636" page="349" line="22">
@@ -94714,7 +94710,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="349" line="29">
-<bzg>Vorbereitung</bzg> <link ref="eberhard-ja" subref="eberhard-vorbereitung" linktext="true" />, in Hartknochs nicht überliefertem Brief; zum Kontext vgl. <intlink letter="634" page="342" line="4" linktext="true" />
+<bzg>Vorbereitung</bzg> <link ref="eberhard-ja" subref="eberhard-vorbereitung" linktext="true" />, in Hartknochs nicht überliefertem Brief; zum Kontext vgl. <intlink letter="634" page="342" line="4" linktext="true" />.
 </marginal>
 
 <marginal letter="636" page="349" line="31">
@@ -94738,7 +94734,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="350" line="2" sort="1">
-<bzg>Juvenal Lips. 497</bzg> wohl ein Exemplar von <link ref="juvenal" subref="juvenal-satiren" linktext="true" /> in der Inkunabel Leipzig 1497, vgl. die Beschreibung von <wwwlink address="https://docs.bibsoc.org.uk/juvenal/juv-pdfs/Juv049.pdf">David Shaw in <titel>Editions of Juvenal printed before 1601</titel></wwwlink>
+<bzg>Juvenal Lips. 497</bzg> wohl eine Inkunabel von <link ref="juvenal" subref="juvenal-satiren" linktext="false">Juvenals <titel>Satiren</titel></link> in der Ausgabe Leipzig 1497, vgl. die Beschreibung von <wwwlink address="https://docs.bibsoc.org.uk/juvenal/juv-pdfs/Juv049.pdf">David Shaw in <titel>Editions of Juvenal printed before 1601</titel></wwwlink>
 </marginal>
 
 <marginal letter="636" page="350" line="2" sort="2">
@@ -94754,7 +94750,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="350" line="5" sort="2">
-<bzg>Sein Plato</bzg> Wohl eine <link ref="platon" linktext="false">Platon</link>-Ausgabe von <link ref="ficino" linktext="false">Ficino</link> wie die von <link ref="platon" subref="plat-opera" linktext="false">Lyon 1590</link> aus hamanns Besitz.
+<bzg>Sein Plato</bzg> Vmtl. eine <link ref="platon" subref="plat-opera" linktext="false">Platon</link>-Ausgabe von <link ref="ficino" linktext="false">Ficino</link> wie die Ausgabe Lyon 1590 aus Hamanns Besitz (vgl. <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/32: „Platonis Opera gr. &amp; lat. Lugd. 590“)
 </marginal>
 
 <marginal letter="636" page="350" line="5" sort="3">
@@ -94762,7 +94758,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="350" line="8">
-<bzg>Päckchens</bzg> wohl im Zusammenhang mit Büchern von der Michaelismesse oder Briefen von <link ref="kleuker" linktext="false">Kleuker</link>, vgl. <intlink letter="635" page="345" line="17" linktext="true" />
+<bzg>Päckchens</bzg> wohl von Hartknoch mit Büchern von der Michaelismesse
 </marginal>
 
 <marginal letter="636" page="350" line="10">
@@ -94778,7 +94774,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="350" line="12" sort="3">
-<bzg></bzg> <link ref="hippel" subref="hippel-lebenslaufe" linktext="true" />, Tl.&#x202F;3,1 und 3,2 (1781); zu Hippels Finte, um den Gerüchten seiner Autorschaft entgegenzuwirken vgl. <intlink letter="634" page="343" line="11" linktext="true" />.
+<bzg>Lebensläufe</bzg> <link ref="hippel" subref="hippel-lebenslaufe" linktext="true" />, Tl.&#x202F;3,1 und 3,2 (1781); zu Hippels Finte, um den Gerüchten seiner Autorschaft entgegenzuwirken vgl. <intlink letter="634" page="343" line="11" linktext="true" />.
 </marginal>
 
 <marginal letter="636" page="350" line="14">
@@ -94790,7 +94786,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="350" line="16">
-<bzg>Daß Kant&#x202F;…&#x202F;in Anspruch genommen</bzg> Zur Übernahme <link ref="kant" linktext="false">Kantischer</link> Terminologie in den <titel>Lebensläufen</titel> vgl. den „Auszug eines Briefes aus Königsberg in Preussen, vom 28sten Dec. 1780, in <link ref="allgemeine-deutsche-bib" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10710974?page=318%2C319">Bd.&#x202F;44/1 (1780), S.&#x202F;302</wwwlink>; verantwortlich für den Brief war wohl <link ref="glave" linktext="true" />, nicht Kant (vgl. Kohnen: <titel>Theodor Gottlieb von Hippel</titel> (Lüneburg 1987), S.&#x202F;102).
+<bzg>Daß Kant&#x202F;…&#x202F;in Anspruch genommen</bzg> Zur Übernahme <link ref="kant" linktext="false">Kantischer</link> Terminologie in den <titel>Lebensläufen</titel> vgl. den „Auszug eines Briefes aus Königsberg in Preussen, vom 28sten Dec. 1780“, in der <link ref="allgemeine-deutsche-bib" linktext="false"><titel>Allgemeinen deutschen Bibliothek</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10710974?page=318%2C319">Bd.&#x202F;44/1 (1780), S.&#x202F;302</wwwlink>. Verantwortlich für den Brief war wohl <link ref="glave" linktext="true" />, nicht Kant (vgl. Kohnen: <titel>Theodor Gottlieb von Hippel</titel> (Lüneburg 1987), S.&#x202F;102).
 </marginal>
 
 <marginal letter="636" page="350" line="18">
@@ -94818,15 +94814,15 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="350" line="27">
-<bzg>Schiblemini</bzg> <link ref="hamann" subref="hamann-humeessay" linktext="true" />, vgl. <intlink letter="634" page="343" line="17" linktext="true" />
+<bzg>Schiblemini</bzg> <link ref="hamann" subref="hamann-humeessay" linktext="true" />, vgl. die Mitteilung des Programms in <intlink letter="634" page="343" line="17" linktext="true" /> und die Revision bereits in <intlink letter="635" page="344" line="34" linktext="true" />.
 </marginal>
 
 <marginal letter="636" page="350" line="29" sort="1">
-<bzg>neue Uebersetzung des Hume</bzg> die zu Michaelis 1781 bei Weygand erschienene Übersetzung <link ref="hume" subref="hume-dialogues" linktext="false"><titel>Gespräche über natürliche Religion von David Hume</titel></link>, die Hamann offenbar noch immer nicht vorliegt
+<bzg>neue Uebersetzung des Hume</bzg> die zu Michaelis 1781 bei Weygand erschienene Übersetzung <link ref="hume" subref="hume-dialogues" linktext="false"><titel>Gespräche über natürliche Religion von David Hume</titel></link>, die Hamann offenbar noch immer nicht vorliegt, vgl. <intlink letter="635" page="344" line="23" linktext="true" />
 </marginal>
 
 <marginal letter="636" page="350" line="29" sort="2">
-<bzg>Kant&#x202F;…&#x202F;Auszug</bzg> die angekündigten <link ref="kant" subref="kant-prolegomena" linktext="false"><titel>Prolegomena</titel> von Kant</link>
+<bzg>Kant&#x202F;…&#x202F;Auszug</bzg> die angekündigten <link ref="kant" subref="kant-prolegomena" linktext="false"><titel>Prolegomena</titel></link> von Kant
 </marginal>
 
 <marginal letter="636" page="350" line="34">
@@ -94838,7 +94834,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="350" line="36">
-<bzg>wie ein anderer Diogenes</bzg> nach der Geschichte für <link ref="diogenes-s" linktext="true" />, der ging am hellichten Tag mit einer Laterne umher ging und sagte, er suche einen Menschen (<link ref="diogenes" subref="diogenes-opera" linktext="true" />, VI,2,41)
+<bzg>wie ein anderer Diogenes</bzg> nach der Geschichte über <link ref="diogenes-s" linktext="true" />, der am hellichten Tag mit einer Laterne umher ging und sagte, er suche einen Menschen (<link ref="diogenes" subref="diogenes-opera" linktext="true" />, VI,2,41)
 </marginal>
 
 <marginal letter="636" page="350" line="37">
@@ -94857,15 +94853,15 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 <bzg>Denn was&#x202F;…&#x202F;nicht im Stande</bzg> Es geht um finanzielle Aufwendungen für die Erziehung der Kinder, die Hamann sich nicht leisten konnte; <link ref="hartknoch-j" linktext="true" /> machte eine Buchhändlerausbildung in der Schweiz, <link ref="motherby-r" linktext="false">Robert Motherbys</link> Söhne gingen auf das Dessauer Philanthropinum.
 </marginal>
 
-<marginal letter="636" page="351" line="14">
+<marginal letter="636" page="351" line="14" sort="1">
 <bzg>ihm</bzg> <link ref="hamann-jm" linktext="true" />, für seinen neuen Ausbildungsplan als Mediziner, vgl. <intlink letter="629" page="323" line="32" linktext="true" />
 </marginal>
 
-<marginal letter="636" page="351" line="14" sort="1">
+<marginal letter="636" page="351" line="14" sort="2">
 <bzg>Petrus ab Abano</bzg> <link ref="petrus-abano" subref="petrus-conciliator" linktext="true" />
 </marginal>
 
-<marginal letter="636" page="351" line="14" sort="2">
+<marginal letter="636" page="351" line="14" sort="3">
 <bzg>Samml. von Balneis</bzg> wohl eine Sammlung über Bäderliteratur
 </marginal>
 
@@ -94886,15 +94882,15 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="351" line="19">
-<bzg>Der Bader und die Hure&#x202F;…</bzg> Aus der Abhandlung von den <titel>Liedern der alten Griechen,</titel> in: <link ref="hagedorn" subref="haged-oden" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10110137?page=302%2C303">S.&#x202F;252</wwwlink>. Die Abhandlung ist eine Übersetzung von <wwwlink address="https://fr.wikipedia.org/wiki/Louis_Jouard_de_La_Nauze">de La Nauzes</wwwlink> <titel>Mémoire sur les chansons de l’ancienne Grece,</titel> in: <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10500228?page=650%2C651">Histoire de l’Académie Royale […] 9 (1736), vgl. S.&#x202F;346</wwwlink>. Übersetzer des Aufsatzes war indessen nicht Hagedorn, sondern <link ref="ebert-ja" linktext="false">Ebert</link>, vgl. den Vorbericht zu <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10110137?page=40%2C41">Hagedorns <titel>Oden und Liedern</titel>, S.&#x202F;xxxiv</wwwlink>. Ursprünglich geht das Lied vom Bader und der Hure zurück auf <link ref="athenaios" linktext="true" />, vgl. in der <link ref="athenaios" subref="athenaios-casaubonus" linktext="false">Casaubon-Ausgabe</link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11054179?page=758%2C759">l. 15, cap. 15 E</wwwlink>. – Im Hagedorn-Druck stehen anstatt des Wortes „Huren“ drei züchtige Asterisken, vgl. indessen <wwwlink address="https://books.google.de/books?id=5pA6AAAAcAAJ&#x26;newbks=0&#x26;printsec=frontcover&#x26;pg=PA241">Hagedorns Brief vom 29.1.1744, in: Werke, Bd.&#x202F;5, Hamburg 1800, S.&#x202F;241</wwwlink>, in dem er ebenfalls von „Hure“ spricht.
+<bzg>Der Bader und die Hure&#x202F;…</bzg> Aus der Abhandlung von den <titel>Liedern der alten Griechen,</titel> in: <link ref="hagedorn" subref="haged-oden" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10110137?page=302%2C303">S.&#x202F;252</wwwlink>. Die Abhandlung ist eine Übersetzung von <wwwlink address="https://fr.wikipedia.org/wiki/Louis_Jouard_de_La_Nauze">de La Nauzes</wwwlink> <titel>Mémoire sur les chansons de l’ancienne Grece,</titel> in: <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10500228?page=650%2C651">Histoire de l’Académie Royale […] 9 (1736), vgl. S.&#x202F;346</wwwlink>. Übersetzer des Aufsatzes war indessen nicht Hagedorn, sondern <link ref="ebert-ja" linktext="false">Ebert</link>, vgl. den Vorbericht zu <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10110137?page=40%2C41">Hagedorns <titel>Oden und Liedern</titel>, S.&#x202F;xxxiv</wwwlink>. Ursprünglich geht das Lied vom Bader und der Hure zurück auf <link ref="athenaios" linktext="true" />, vgl. in der <link ref="athenaios" subref="athenaios-deipnosophistae" linktext="false">Casaubon-Ausgabe Lyon 1657</link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11054179?page=738%2C739">, S.&#x202F;695 (l. 15, cap. 15 E)</wwwlink>. – Im Hagedorn-Druck stehen anstatt des Wortes „Huren“ drei züchtige Asterisken, vgl. indessen <wwwlink address="https://books.google.de/books?id=5pA6AAAAcAAJ&#x26;newbks=0&#x26;printsec=frontcover&#x26;pg=PA241">Hagedorns Brief vom 29.1.1744, in: Werke, Bd.&#x202F;5, Hamburg 1800, S.&#x202F;241</wwwlink>, in dem er ebenfalls von „Hure“ spricht.
 </marginal>
 
 <marginal letter="636" page="351" line="22">
-<bzg>Möhsens Münzcab.</bzg> <link ref="moehsen" subref="moehsen-medaillen" linktext="true" />, <intlink letter="636" page="346" line="11" linktext="false">s.o.</intlink>
+<bzg>Möhsens Münzcab.</bzg> <link ref="moehsen" subref="moehsen-medaillen" linktext="true" />, <intlink letter="636" page="346" line="11" linktext="false">s.o.</intlink>; ebenfalls für Johann Michaels neuen Ausbildungsplan als Mediziner, vgl. <intlink letter="629" page="323" line="32" linktext="true" />.
 </marginal>
 
 <marginal letter="636" page="351" line="24">
-<bzg>90 fl. Brandschatzung</bzg> Eigentlich Kontributionszahlung für ausgebliebene Plünderung nach einer Belagerung; hier wohl eine Steuer zur Brandvorsorge für Hausbesitzer (vgl. <intlink letter="637" page="355" line="5" linktext="true" />), mglw. im Zusammenhang mit <link ref="hippel" linktext="false">Hippelschen</link> Reformen.
+<bzg>90 fl. Brandschatzung</bzg> Eigentlich Kontributionszahlung für ausgebliebene Plünderung nach einer Belagerung; hier wohl eine Steuer zur Brandvorsorge für Hausbesitzer (vgl. <intlink letter="637" page="355" line="5" linktext="true" />), vmtl. im Zusammenhang mit <link ref="hippel" linktext="false">Hippel’schen</link> Reformen.
 </marginal>
 
 <marginal letter="636" page="351" line="28" sort="1">
@@ -94930,7 +94926,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="351" line="37">
-<bzg>de la Verité&#x202F;…</bzg> <link ref="saint-martin" subref="saint-martin-verite" linktext="true" />; Claudius’ Übersetzung des theosophischen Buchs erschien 1782
+<bzg>de la Verité&#x202F;…</bzg> <link ref="saint-martin" subref="saint-martin-verite" linktext="true" />; Claudius’ Übersetzung des theosophischen Buchs erschien 1782.
 </marginal>
 
 <marginal letter="636" page="352" line="1">
@@ -94942,7 +94938,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="352" line="4" sort="2">
-<bzg>Silhouette</bzg> Hartknoch sandte zuvor einen Schattenriss von sich mit (<intlink letter="636" page="346" line="9" linktext="false">s.o.</intlink>), aber wohl keinen von seiner Frau
+<bzg>Silhouette</bzg> Hartknoch sandte zuvor einen Schattenriss von sich (<intlink letter="636" page="346" line="9" linktext="false">s.o.</intlink>), aber wohl keinen von seiner Frau.
 </marginal>
 
 <marginal letter="636" page="352" line="5">
@@ -94950,7 +94946,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="352" line="6">
-<bzg>wie Zopyrus den lieben Sokrates</bzg> nach der <link ref="sokrates" linktext="true" />-Anekdote über dessen Beschreibung durch den Physiognomiker Zopyros als dumm und lüstern, bei <link ref="cicero" subref="cic-defato" linktext="true" />, 10
+<bzg>wie Zopyrus den lieben Sokrates</bzg> Nach der <link ref="sokrates" linktext="true" />-Anekdote über dessen Beschreibung durch den Physiognomiker Zopyros als dumm und lüstern, bei <link ref="cicero" subref="cic-defato" linktext="true" />, 10.
 </marginal>
 
 <marginal letter="636" page="352" line="7">
@@ -94962,7 +94958,7 @@ Henkel: Laut Mitteilung von J. U. Fechner am 5. November 1781, es wurde am selbe
 </marginal>
 
 <marginal letter="636" page="352" line="13">
-<bzg>Buffons 11 u 12</bzg> <link ref="buffon" subref="buffon-oiseaux" linktext="true" />, Bd.&#x202F;9 und 10 (1779), <intlink letter="636" page="347" line="26" linktext="false">s.o.</intlink>
+<bzg>Buffons&#x202F;…&#x202F;Reine</bzg> <link ref="buffon" subref="buffon-oiseaux" linktext="true" /> Bd.&#x202F;11 und 12 (1780), <intlink letter="636" page="347" line="26" linktext="false">s.o.</intlink>
 </marginal>
 
 <marginal letter="636" page="352" line="14">
