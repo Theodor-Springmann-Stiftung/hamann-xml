@@ -830,10 +830,13 @@ Vll. <titel>Fabvlae aesopicae graecae qvae Maximo Planudi tribvvntvr. Ad vetervm
 <kommentar id="athenaios" type="neuzeit">
 <lemma>Athenaios</lemma>
 <eintrag>Um 200 n.&#x202F;Chr. Schriftsteller in Alexandria und Rom.</eintrag>
-<subsection id="athenaios-casaubonus" type="neuzeit">
-<lemma><titel>Athēnaiu Deipnosophistōn Biblia Pentekaideka</titel></lemma>
+<subsection id="athenaios-deipnosophistae" type="neuzeit">
+<lemma>Athen., <titel>deipn.</titel></lemma>
 <eintrag>
-<titel>Athēnaiu Deipnosophistōn Biblia Pentekaideka, Athenæi Deipnosophistarvm Libri Qvindecim, cvm Iacobi Dalechampii Cadomensis Latina versione: necnon eiusdem Adnotationibus &amp; emendationibus, ad operis calcem reiectis </titel> (Heidelberg: Commelin 1597) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;3/41: „Athenaeus gr. &amp; lat. Lugd. 657.“ = Ausg. Leipzig 1657]. Digitalisat, Druck 1657: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11054179-3">SB Regensburg: 999/2Class.73</wwwlink>.
+Athenaios, <titel>Deipnosophistae</titel>. Gr. Δειπνοσοφισταί, dt. Das Gastmahl der Gelehrten.<line type="break" />
+Hamanns Ausgaben: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/23: „Athenaei Deipnosophistae gr. &#x26; lat. ex ed. Casauboni, Lugd. 612“. Digitalisat der Ausgabe Lyon 1612: <wwwlink address="https://books.google.de/books?id=Njq2n_fYlgkC"></wwwlink>.
+<line type="break" />
+<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;3/41: „Athenaeus gr. &amp; lat. Lugd. 657.“ Digitalisat der Ausgabe Lyon 1657: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11054179-3">SB Regensburg: 999/2Class.73</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9901,7 +9904,7 @@ Zweite verbesserte Aufl. 1781: <wwwlink address="https://nbn-resolving.org/html/
 
 <kommentar id="hill" type="neuzeit">
 <lemma>Christian Hill</lemma>
-<eintrag>Gest. 1809. Sohn eines Schusters in Königsberg, der autodidaktisch Sprachen lernte und Hamann im Herbst 1781, als er einen Lerngefährten für seinen <link ref="hamann-jm" linktext="false">Sohn</link> suchte beeindruckte (vgl. <intlink letter="636" page="350" line="35" linktext="true" />); studierte Theologie in Königsberg; begab sich mittellos auf Reisen, wobei ihn Hamann durch finanzielle Zuwendungen und Empfehlungsbriefe unterstützte; stand später Hamanns Haushalt vor, als dieser mit seinem Sohn 1787 nach Pempelfort reiste. – Abgesehen vom Hamann-Briefwechsel ist so wie nichts über Hill bekannt, vgl. als Außenperspektive lediglich die Stelle in den Erinnerungen von <link ref="hamann-er" linktext="false">Hamanns Tochter Elisabeth Regina,</link> <wwwlink address="https://books.google.de/books?id=zO9fAAAAcAAJ"><titel>Etwas über mich</titel>, S.&#x202F;418f.</wwwlink></eintrag>
+<eintrag>Gest. 1809. Sohn eines Schusters in Königsberg, der autodidaktisch Sprachen lernte und Hamann im Herbst 1781, als er einen Lerngefährten für seinen <link ref="hamann-jm" linktext="false">Sohn</link> suchte, beeindruckte (vgl. <intlink letter="636" page="350" line="35" linktext="true" />); studierte Theologie in Königsberg; begab sich mittellos auf Reisen, wobei ihn Hamann durch finanzielle Zuwendungen und Empfehlungsbriefe unterstützte; stand später Hamanns Haushalt vor, als dieser mit seinem Sohn 1787 nach Pempelfort reiste. – Abgesehen vom Hamann-Briefwechsel ist so wie nichts über Hill bekannt, vgl. als Außenperspektive lediglich die Stelle in den Erinnerungen von <link ref="hamann-er" linktext="false">Hamanns Tochter Elisabeth Regina,</link> <wwwlink address="https://books.google.de/books?id=zO9fAAAAcAAJ"><titel>Etwas über mich</titel>, S.&#x202F;418f.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="hill-j" type="neuzeit">
@@ -13483,7 +13486,7 @@ Evtl. ist auch 1762 bei Woltersdorf in Königsberg das Stück als Einzelausgabe 
 <subsection id="locher-horaz" type="neuzeit">
 <lemma>Locher, <titel>Horaz (1498)</titel></lemma>
 <eintrag>
-<titel>Horatij flacci Venusini. Poete lirici opera cu[m] quibusdam Annotat[i]o[n]ib[us]. Imaginibusq[ue] pulcherrimis. aptisq[ue] ad Odaru[m] conce[n]tus [et] sente[n]tias</titel> (Argentina: Grüninger, 1498). Digitalisat: <wwwlink address="http://diglib.hab.de/inkunabeln/21-1-poet-2f-1/start.htm">Wolfenbütteler Digitale Bibliothek: inkunabeln/21-1-poet-2f-1</wwwlink></eintrag>
+<titel>Poete lirici opera cum quibusdam Annotationibus. Imaginibusque pulcherrimis. aptisque ad Odarum concentus et sententias.</titel> (Argentina: Grüninger, 1498). Digitalisat: <wwwlink address="http://diglib.hab.de/inkunabeln/21-1-poet-2f-1/start.htm">Wolfenbütteler Digitale Bibliothek: inkunabeln/21-1-poet-2f-1</wwwlink></eintrag>
 </subsection>
 </kommentar>
 
@@ -16921,11 +16924,11 @@ Eine deutsche Übersetzung erschien in Leipzig in 9&#xA0;Bde. 1747/67: <titel>Ga
 <subsection id="plat-opera" type="neuzeit" sort="10">
 <lemma>Platon, <titel>Opera</titel></lemma>
 <eintrag>Dt. Übers. zitiert nach: Gunther Eigler (Hg.), <titel>Platon: Werke in acht Bänden</titel> (6. Aufl., Darmstadt 2010).<line type="break" />
-nicht ermittelt: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/22: „Platonis Opera gr. &amp; lat. Franc. 691“.<line type="break" />
+Nicht ermittelt: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/22: „Platonis Opera gr. &amp; lat. Franc. 691“.<line type="break" />
 <titel>Του θειου Πλατωνος Απαντα τα σωζομενα. Divini Platonis Opera omnia quæ exstant, <link ref="ficino" linktext="false">Marsilio Ficino</link> interprete. Græcus contextus quam diligentissime cum emendatioribus exemplaribus collatus est, latina interpretatio a quam plurimis superiorum editionum mendis expurgata. Argumentis perpetuis, et commentariis quibusdam ejusdem <link ref="ficino" linktext="false">Marsilii Ficini</link>, usque nunc multo emendatius quam antehac editis, totum opus explanatum est atque illustratum. Quæ cur in calcem operis translata sint, &amp; quid pro hac trajectione repositum sit, ex epistola ad lectorem patet. Vita Platonis a Diogene Laertio copiosissime descripta, item pereruditum Timæi Locri opusculum (quo Latina exemplaria carebant) aliaque plurima non contemnenda huic editioni accesserunt. Adjectus est index rerum omnium locupletissimus</titel> (Lyon 1590) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/32: „Platonis Opera gr. &amp; lat. Lugd. 590“].<line type="break" />
 <titel>Platonis Dialogi qvatvor Evthyphro Apolog. Socratis Crito Phaedo : Graece / e recensione Henrici Stephani; varietate lectionis animadversionibusque criticis brevibus illustrati ab Joh. Frider. Fischero</titel> (Leipzig: Langenheim 1760) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;13/196: „Platonis IV. Dialogi gr. ex ed. Fischeri. Lips 760“].<line type="break" />
 <titel>Omnia Platonis Opera</titel> ed. <link ref="ficino" linktext="true" /> (Venedig 1513).<line type="break" />
-<titel>Omnia divini Platonis opera / tralatione <link ref="ficino" linktext="false">Marsilii Ficini</link> ; emendatione et ad Graecum codicem collatione <link ref="grynäus" linktext="false">Simonis Grynaei</link>, summa diligentia repurgata, quibus subiectus est Index quam copiosissimus</titel> (Basel: Froben 1546). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-5114">UB Basel: Ba Ia 132</wwwlink>.
+<titel>Omnia divini Platonis opera / tralatione <link ref="ficino" linktext="false">Marsilii Ficini</link>; emendatione et ad Graecum codicem collatione <link ref="grynäus" linktext="false">Simonis Grynaei</link>, summa diligentia repurgata, quibus subiectus est Index quam copiosissimus</titel> (Basel: Froben 1546). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-5114">UB Basel: Ba Ia 132</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="plat-phaid" type="neuzeit" sort="20">
@@ -18730,9 +18733,9 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <lemma>Christoph Sand</lemma>
 <eintrag>1644–1680 (auch Christophorus Sandius). Unitarischer Theologe und Schriftsteller aus Königsberg, lebte in Amsterdam; Freund <link ref="spinoza" linktext="false">Spinozas</link>; siehe <wwwlink address="http://d-nb.info/gnd/124732747">GND</wwwlink>.
 <subsection id="sand-bibliotheca" type="neuzeit">
-<lemma>Sand, <titel>Bibliotheca Anti-Trinitatiorum</titel></lemma>
+<lemma>Sand, <titel>Bibliotheca Anti-Trinitariorum</titel></lemma>
 <eintrag>
-<titel>Bibliotheca Anti-Trinitatiorum, sive Catalogus Scriptorum, et succincta narratio de vita eorum auctorum […]. Opus posthumum Christophori Chr. Sandii. Accedunt quaedam scripta […] Quae omnia simul juncta Compendium Historiae Ecclesiasticae Unitariorum, qui Sociniani vulgo audiunt, exhibent</titel> (Freistadii [Amsterdam] 1684) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;81/119: „C. C. Sandi Bibliotheca Anti-Trinitariorum, Freist. 624“. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10389217-9">BSB München: Catech. 120#Beibd.1</wwwlink></eintrag>
+<titel>Bibliotheca Anti-Trinitatiorum, sive Catalogus Scriptorum, et succincta narratio de vita eorum auctorum […]. Opus posthumum Christophori Chr. Sandii. Accedunt quaedam scripta […] Quae omnia simul juncta Compendium Historiae Ecclesiasticae Unitariorum, qui Sociniani vulgo audiunt, exhibent</titel> (Freistadii [Amsterdam] 1684) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;81/119: „C. C. Sandi Bibliotheca Anti-Trinitariorum, Freist. 624“. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10389217-9">BSB München: Catech. 120#Beibd.1</wwwlink>.</eintrag>
 </subsection>
  </eintrag>
 </kommentar>
@@ -22721,12 +22724,13 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 <kommentar id="waissel" type="neuzeit">
 <lemma>Matthäus Waissel</lemma>
 <eintrag>1540–1602. Theologe, Schriftsteller und Lautenist in Königsberg; siehe <wwwlink address="https://d-nb.info/gnd/128740205">GND</wwwlink>.
+</eintrag>
 <subsection id="waissel-chronica" type="neuzeit" sort="10">
 <lemma>Waissel, <titel>Chronica</titel></lemma>
 <eintrag>
 <titel>Chronica alter Preusscher, Eifflendischer, und Curlendischer Historien</titel> […] (Königsberg: Osterberger 1599). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10983551-4">BSB München: 4 Bor. 50</wwwlink>.
 </eintrag>
-</subsection></eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="well" type="neuzeit">
