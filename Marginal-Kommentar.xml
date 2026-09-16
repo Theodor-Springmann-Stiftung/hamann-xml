@@ -69087,7 +69087,7 @@ Brief Nr. 532a
 </marginal>
 
 <marginal letter="532a" page="515" line="20" sort="2">
-<bzg>B.</bzg> nicht ermittelt, mglw. <link ref="baczko" linktext="true" />
+<bzg>B.</bzg> nicht ermittelt
 </marginal>
 
 <marginal letter="532a" page="515" line="25">
@@ -69964,8 +69964,20 @@ Brief Nr. 539
 <bzg>Gesangbuch</bzg> <link ref="herder" subref="herder-weimarer-gesangbuch1778" linktext="true" />, zu Hamanns Bitte vgl. <intlink letter="536" page="35" line="7" linktext="true" />
 </marginal>
 
+<marginal letter="539" page="39" line="16">
+<bzg>Jesaias</bzg> <link ref="at-jes" linktext="true" />
+</marginal>
+
 <marginal letter="539" page="39" line="20">
 <bzg>Jagemann</bzg> <link ref="jagemann" linktext="true" />, vgl. <intlink letter="528" page="19" line="17" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="39" line="24" sort="1">
+<bzg>Br. an die Römer</bzg> <link ref="nt-roe" linktext="true" />
+</marginal>
+
+<marginal letter="539" page="39" line="24" sort="2">
+<bzg>Hiob</bzg> <link ref="at-hi" linktext="true" />
 </marginal>
 
 <marginal letter="539" page="39" line="30">
