@@ -1055,6 +1055,12 @@ Dt. Übers. zitiert nach: E. und L.L. Schücking und J. Klein (Übers.), <titel>
 </subsection>
 </kommentar>
 
+<kommentar id="balneis" type="neuzeit">
+<lemma>De Balneis</lemma>
+<eintrag>De Balneis omnia qvae extant apvd graecos, latinos, et arabas, tam medicos quàm quoscunque ceterarum artium probatos scriptores […] in vnum tandem hoc volumen redacta (Venedig: Giunta 1553). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10147773-7">BSB München: 2 M.med. 8 a.</wwwlink>
+</eintrag>
+</kommentar>
+
 <kommentar id="ballath" type="neuzeit">
 <lemma>Christian Ferdinand Ballath</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Sekretär in Königsberg, vmtl. Schwiegervater von <link ref="marvilliers" linktext="true" />.
@@ -10057,7 +10063,7 @@ Zu seiner Tätigkeit als dirigierender Bürgermeister von Königsberg vgl. <link
 <subsection id="hippel-maurer" type="neuzeit" sort="70">
 <lemma>Hippel, <titel>Pflichten des Maurers bey dem Grabe eines Bruders</titel></lemma>
 <eintrag>
-<titel>Pflichten des Maurers bey dem Grabe eines Bruders. Eine Freymäurer-Rede in der Loge zu den dreyen Kronen in Königsberg. Von B. E–</titel> (Danzig: Flörke 1777). <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN726225908">ULB Göttingen</wwwlink>.
+<titel>Pflichten des Maurers bey dem Grabe eines Bruders. Eine Freymäurer-Rede in der Loge zu den dreyen Kronen in Königsberg. Von B. E–</titel> (Danzig: Flörke 1777). <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN726225908">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="hippel-lebenslaufe" type="neuzeit" sort="80">
@@ -12189,6 +12195,12 @@ Zur Biographie vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Johan
 <titel>Aeliani operum tomvs I. variam historiam</titel> continens editio accvratior atqve scholarvm vsibvs accomodata. Praefatus est et indices vocvm svbiecit M. Christoph. Kretzschmar, cruciani Dresd. Conr. (Dresden und Leipzig: Hekel 1746). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10234464-7">BSB München: A.gr.b. 55</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="kreuschner" type="neuzeit">
+<lemma>Johann Heinrich Kreuschner</lemma>
+<eintrag>1693–1730. Diakon bzw. Prediger am Königsberger Dom und Gelehrter mit einer umfangreichen Bibliothek, siehe <wwwlink address="http://d-nb.info/gnd/104350482">GND</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="kreutzfeld" type="neuzeit">
