@@ -26906,7 +26906,7 @@ Brief Nr. 235
 <bzg>Gott wirds wol machen</bzg> <link ref="at-ps" subref="at-ps37" linktext="false">Ps 37,5</link>
 </marginal>
 
-<marginal letter="235" page="172" line="19">
+<marginal letter="235" page="172" line="19" sort="2">
 <bzg>Er legt uns&#x202F;…</bzg> <link ref="at-ps" subref="at-ps68" linktext="false">Ps 68,20</link>
 </marginal>
 
@@ -48466,12 +48466,8 @@ Brief Nr. 396
 <bzg>nichts zu seinem Vortheil anfangen können</bzg> vgl. <intlink letter="391" page="54" line="14" linktext="true" />
 </marginal>
 
-<marginal letter="396" page="63" line="30" sort="1">
-<bzg>M. Coelius Serotinus</bzg> <link ref="nicolai" linktext="true" />
-</marginal>
-
-<marginal letter="396" page="63" line="35" sort="2">
-<bzg>impertinente gedruckte Antwort</bzg> <link ref="nicolai" subref="nicolai-magum" linktext="true" />; als Reaktion darauf und als Kommentar zu <link ref="nicolai" subref="nicolai-nothanker" linktext="false">Sebaldus Nothanker</link>: <link ref="hamann" subref="hamann-kadmonbor" linktext="true" />
+<marginal letter="396" page="63" line="35">
+<bzg>M. Coelius&#x202F;…&#x202F;gedruckte Antwort</bzg> <link ref="nicolai" subref="nicolai-magum" linktext="true" />; als Reaktion darauf und als Kommentar zu Nicolais <link ref="nicolai" subref="nicolai-nothanker" linktext="false">Sebaldus Nothanker</link> schrieb Hamann <link ref="hamann" subref="hamann-kadmonbor" linktext="false"><titel>An die Hexe zu Kadmonbor</titel></link>.
 </marginal>
 
 <marginal letter="396" page="63" line="37">
@@ -50780,11 +50776,11 @@ Brief Nr. 411
 <bzg>K. und W …</bzg> Künste und Wissenschaften, im Titel von <link ref="goguet" subref="goguet-origine" linktext="true" />, auf den Herder verweist in der <link ref="herder" subref="herder-altesteurkunde" linktext="false"><titel>Ältesten Urkunde</titel></link>, ED 154; vgl. <intlink letter="412" page="106" line="34" linktext="true" />. Dass Hamann hier auf <link ref="kant" linktext="true" /> und <link ref="wieland" linktext="true" /> kommt, deutet auf eine ziemlich wirre Lektüre.
 </marginal>
 
-<marginal letter="411" page="103" line="21" sort="2">
+<marginal letter="411" page="103" line="21">
 <bzg>Meiners</bzg> <link ref="meiners" linktext="true" />
 </marginal>
 
-<marginal letter="411" page="103" line="21">
+<marginal letter="411" page="103" line="22">
 <bzg>heb. Sprachlehre</bzg> <link ref="meiner" subref="meiner-hebraeisch" linktext="true" />
 </marginal>
 
@@ -51702,7 +51698,7 @@ Brief Nr. 418
 
 Brief Nr. 419
 
-<marginal letter="419" page="119" line="13" >
+<marginal letter="419" page="119" line="13" sort="1">
 <bzg>Telonarch.</bzg> nach dem fingierten Autor von <link ref="hamann" subref="hamann-prolegomena" linktext="true" />
 </marginal>
 
@@ -57644,11 +57640,11 @@ Brief Nr. 459
 </marginal>
 
 <marginal letter="459" page="213" line="12" sort="2">
-<bzg>πρωτοκαθεδρα</bzg> dt. erster Lehrstuhl
+<bzg>köstlicher Werk</bzg> <link ref="nt-tim1" subref="nt-tim1-3" linktext="false" >1 Tim 3,1</link>
 </marginal>
 
-<marginal letter="459" page="213" line="12">
-<bzg>köstlicher Werk</bzg> <link ref="nt-tim1" subref="nt-tim1-3" linktext="false" >1 Tim 3,1</link>
+<marginal letter="459" page="213" line="12" sort="3">
+<bzg>πρωτοκαθεδρα</bzg> dt. erster Lehrstuhl
 </marginal>
 
 <marginal letter="459" page="213" line="14">
@@ -59509,15 +59505,15 @@ Brief Nr. 467
 </marginal>
 
 <marginal letter="467" page="244" line="16" sort="1">
-<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
+<bzg>60 und 100 fältig</bzg> <link ref="nt-mk" subref="nt-mk4" linktext="false">Mk 4,8</link>; <link ref="nt-mk" subref="nt-mk4" linktext="false">Mk 4,20</link>
 </marginal>
 
 <marginal letter="467" page="244" line="16" sort="2">
-<bzg>kl. Magister</bzg> <link ref="herder-g" linktext="false">Gottfried Herder</link>
+<bzg>Hänschen</bzg> <link ref="hamann-jm" linktext="true" />
 </marginal>
 
-<marginal letter="467" page="244" line="16">
-<bzg>60 und 100 fältig</bzg> <link ref="nt-mk" subref="nt-mk4" linktext="false">Mk 4,8</link>; <link ref="nt-mk" subref="nt-mk4" linktext="false">Mk 4,20</link>
+<marginal letter="467" page="244" line="16" sort="3">
+<bzg>kl. Magister</bzg> <link ref="herder-g" linktext="false">Gottfried Herder</link>
 </marginal>
 
 <marginal letter="467" page="244" line="17">
@@ -66715,8 +66711,8 @@ Brief Nr. 515
 <bzg>Secretair der Direction</bzg> bei der <link ref="provinzial-akzise-und-zoll-direktion" linktext="true" />, nicht ermittelt
 </marginal> 
 
-<marginal letter="515" page="383" line="32">
-   <bzg>Vorfahren</bzg> Im Sinne von Vorgänger im Amt des Packhofverwalters; Hamann hatte sich vorgenommen, das Grundstück seiner Dienstwohnung intakt an seinen Nachfolger zu übergeben und es nicht, wie sein unmittelbarer Vorgänger <link ref="blom-wy" linktext="true" /> und seine Erben, für den eigenen Profit zu missbrauchen, vgl. <intlink letter="499" page="341" line="7" linktext="true" />
+<marginal letter="515" page="383" line="34">
+   <bzg>Vorfahren</bzg> Im Sinne von Vorgänger im Amt des Packhofverwalters; Hamann hatte sich vorgenommen, das Grundstück seiner Dienstwohnung intakt an seinen Nachfolger zu übergeben und es nicht, wie sein unmittelbarer Vorgänger <link ref="blom-wy" linktext="true" /> und seine Erben, für den eigenen Profit zu missbrauchen, vgl. <intlink letter="499" page="341" line="7" linktext="true" />.
    </marginal>
 
 <marginal letter="515" page="383" line="35">
@@ -71283,16 +71279,16 @@ Brief Nr. 545
 <bzg>ArchiHypochondristen Herkules&#x202F;…&#x202F;Banier</bzg> vgl. <link ref="banier" subref="banier-erlaeuterung" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11911834?page=694%2C695">Übersetzung, Bd.&#x202F;4, S.&#x202F;664f.</wwwlink>: „Man erzählt, daß, da dieser Held einmal einen Bauer, Namens Thiodamas, Ochsen weggenommen, er einen ganzen davon in einer einzigen Mahlzeit verzehret“.
 </marginal>
 
-<marginal letter="545" page="59" line="18">
+<marginal letter="545" page="59" line="18" sort="1">
 <bzg>Geheimniße</bzg> <link ref="hamann" subref="hamann-konxompax" linktext="true" />
-</marginal>
-
-<marginal letter="545" page="59" line="21" sort="1">
-<bzg>Stuffenjahr</bzg> Hamanns 49. Lebensjahr, vgl. zu <intlink letter="536" page="31" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="545" page="59" line="18" sort="2">
 <bzg>Mitfasten</bzg> Gemeint ist Mitte März (um den Mittfastensonntag herum, also den Sonntag Laetare bzw. 14. März 1779), wohl um das Manuskript rechtzeitig zur Leipziger Frühjahrsmesse drucken zu können. <titel>Konxompax</titel> wurde am 12. April fertig (vgl. <intlink letter="550" page="68" line="15" linktext="true" />; vmtl. etwa am 14. März schrieb Hamann einen ersten Entwurf, vgl. <intlink letter="548" page="61" line="27" linktext="false">HKB 548</intlink>). Die Auslieferung des Druckes konnte, nachdem Hamann das Manuskript im April an Herder sandte und dieser erstaunlich schnell bei der Drucklegung vorging (vgl. <intlink letter="553" page="76" line="1" linktext="true" />), kurz nach der Frühjahrsmesse stattfinden, allerdings ohne in den <link ref="messkatalog" subref="messkatalog-ostern1779" linktext="false">Messkatalogen</link> angezeigt zu werden.
+</marginal>
+
+<marginal letter="545" page="59" line="21" sort="1">
+<bzg>Stuffenjahr</bzg> Hamanns 49. Lebensjahr, vgl. zu <intlink letter="536" page="31" line="8" linktext="true" />
 </marginal>
 
 <marginal letter="545" page="59" line="24" sort="1">
@@ -71954,11 +71950,11 @@ Brief Nr. 549
 <bzg>Landpr. von Wakefield</bzg> Bodes Neuübersetzung von <link ref="goldsmith" subref="goldsmith-wakefield" linktext="true" /> von 1776
 </marginal>
 
-<marginal letter="549" page="67" line="24" sort="1" >
+<marginal letter="549" page="67" line="24" sort="1">
 <bzg>Kleukers Fragm.</bzg> <link ref="kleuker" subref="kleuker-belehrungen" linktext="true" />, vgl. <intlink letter="547" page="61" line="15" linktext="true" />
 </marginal>
 
-<marginal letter="549" page="67" line="24" >
+<marginal letter="549" page="67" line="24" sort="2">
 <bzg>Gleim&#x202F;…&#x202F;eingekleidet</bzg> <link ref="gleim" subref="gleim-liebe" linktext="true" />, parallel entstanden mit Herders <link ref="herder" subref="herder-lieder-liebe" linktext="false"><titel>Hohelied-Übersetzung</titel></link>
 </marginal>
 
@@ -72557,7 +72553,7 @@ könnte.“
 <bzg>im Minerali</bzg> im Mineralreich, dem Bereich der unbelebten Natur
 </marginal>
 
-<marginal letter="551" page="73" line="26" >
+<marginal letter="551" page="73" line="26" sort="2">
 <bzg>tant pis! PROVIDEBIT</bzg> dt. macht nichts! Er wird dafür sorgen (etwa <link ref="at-mo1" subref="at-mo1-22" linktext="false">1 Mo 22,8</link>)
 </marginal>
 
@@ -73279,15 +73275,15 @@ Brief Nr. 555
 <bzg>Br.</bzg> <link ref="brahl" linktext="true" />
 </marginal>
 
-<marginal letter="555" page="81" line="9" sort="1" >
+<marginal letter="555" page="81" line="9" sort="1">
 <bzg>Pf. Skubich</bzg> <link ref="skubich" linktext="true" />
 </marginal>
 
-<marginal letter="555" page="81" line="9" sort="2" >
+<marginal letter="555" page="81" line="9" sort="2">
 <bzg>Frau</bzg> <link ref="skubich-f" linktext="true" />
 </marginal>
 
-<marginal letter="555" page="81" line="9" >
+<marginal letter="555" page="81" line="9" sort="3">
 <bzg>seel. Lindner</bzg> <link ref="lindner-jg" linktext="true" />
 </marginal>
 
@@ -73677,7 +73673,7 @@ Brief Nr. 557
 <bzg>doppelter Gevatter</bzg> Die erste Gevatterschaft zu <link ref="claudius" linktext="false">Claudius</link> besteht seit 1774 durch dessen Patenschaft von <link ref="hamann-mc" linktext="true" /> (vgl. <intlink letter="424" page="130" line="30" linktext="true" />), die zweite durch <link ref="claudius-r" linktext="false">Rebecca Claudius’</link> Patenschaft von <link ref="hamann-ms" linktext="true" />, vgl. <intlink letter="543" page="48" line="37" linktext="true" />.
 </marginal>
 
-<marginal letter="557" page="85" line="15" >
+<marginal letter="557" page="85" line="15" sort="2">
 <bzg>Asmi cum puncto</bzg> Asmus ist eine Persona von Claudius im <link ref="claudius" subref="claudius-bothe" linktext="false"><titel>Wandsbecker Bothen</titel></link>, ‚cum puncto‘ wandelt den Namen in asinus bzw. Esel um (vgl. <intlink letter="412" page="106" line="3" linktext="true" /> und Kommentar).
 </marginal>
 
@@ -79010,11 +79006,11 @@ Brief Nr. 577
 <bzg>Sohn des Pleßing</bzg> <link ref="plessing-f" linktext="false">Friedrich Plessing</link>, Sohn von <link ref="plessing-jf" linktext="true" />
 </marginal>
 
-<marginal letter="577" page="159" line="36">
+<marginal letter="577" page="159" line="36" sort="1">
 <bzg>Abgötterey</bzg> <link ref="plessing-jf" subref="plessing-abgotterey" linktext="true" />
 </marginal>
 
-<marginal letter="577" page="159" line="36" sort="1">
+<marginal letter="577" page="159" line="36" sort="2">
 <bzg>P. von Anhalt</bzg> wohl <link ref="penzel" linktext="true" />, der aus Anhalt-Dessau stammte, und mit dem Hamann hier Friedrich Plessing vergleicht
 </marginal>
 
@@ -92650,7 +92646,7 @@ Der Briefteil Hamanns wurde chronologisch nach und von der Seitenreihenfolge her
 <bzg>Billet-doux</bzg> Wörtlich: süßer Zettel (Liebesbrief); gemeint ist ein kurzer, freundschaftlicher Brief.
 </marginal>
 
-<marginal letter="630" page="325" line="15">
+<marginal letter="630" page="325" line="16">
 <bzg>Postscript&#x202F;…&#x202F;vacuum</bzg> Gemeint ist, hinter Kreutzfelds Billet den leeren Raum auf der Briefseite für ein (ausführliches) Postskriptum zu füllen.
 </marginal>
 
@@ -93796,7 +93792,7 @@ Brief Nr. 633
 <bzg>Pour la rareté du fait</bzg> wegen der Seltenheit der Sache
 </marginal>
 
-<marginal letter="633" page="339" line="8">
+<marginal letter="633" page="339" line="8" sort="2">
 <bzg>Krausens Disp.</bzg> <link ref="kraus" subref="kraus-paradoxo" linktext="false">Kraus’ Dissertation <titel>de paradoxo</titel></link>, <intlink letter="633" page="335" line="36" linktext="false">s.o.</intlink>
 </marginal>
 
@@ -95350,11 +95346,11 @@ einführt, vgl. in der <link ref="herder" subref="herder-winckelmann-lessing-sul
 <bzg>Explicit Wilhelmus Sophonensis</bzg> Namensvaration von <link ref="traversagni" linktext="true" /> (beim Abschluss des Werks genannt)
 </marginal>
 
-<marginal letter="637" page="355" line="22">
+<marginal letter="637" page="355" line="22" sort="1">
 <bzg>Marsilii Ficini Epistolae</bzg> <link ref="ficino" subref="ficino-epistolae" linktext="true" />
 </marginal>
 
-<marginal letter="637" page="355" line="22" sort="1">
+<marginal letter="637" page="355" line="22" sort="2">
 <bzg>Theol. Platonica</bzg> <link ref="ficino" subref="ficino-theologia-platonica" linktext="true" />
 </marginal>
 
