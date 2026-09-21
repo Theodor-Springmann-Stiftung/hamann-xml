@@ -1598,6 +1598,11 @@ Vielleicht übers. von Carl Friedrich Beneckendorf, von dem jedenfalls 1754 in B
 <eintrag>1723–1769. Ältestes der Geschwister Berens, <link ref="berens-ah" linktext="false">Adam Heinrich</link>, <link ref="berens-c" linktext="false">Carl</link>, <link ref="berens-g" linktext="false">Georg</link>, <link ref="berens-ca" linktext="false">Catharina</link> und <link ref="berens-jc" linktext="true" />, zus. mit Carl Inhaber des väterl. Handelshauses in Riga.</eintrag>
 </kommentar>
 
+<kommentar id="berens-aa" type="neuzeit">
+<lemma>Arend Abraham Berens</lemma>
+<eintrag>1772–1821. Sohn von <link ref="berens-jc" linktext="true" />, trat im Dezember 1782 ins <link ref="basedow" linktext="false">Dessauer Philanthropin</link> ein, siehe <wwwlink address="https://bbld.de/GND1230283374">BBLd</wwwlink> und <wwwlink address="https://gottsleben-genealogie.de/berens_rostock_riga.htm?">Gottsleben Genealogie</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="berens-c" type="neuzeit">
 <lemma>Carl Berens</lemma>
 <eintrag>1725–1789. Zweitältestes der Geschwister Berens, <link ref="berens-ah" linktext="false">Adam Heinrich</link>, <link ref="berens-a" linktext="false">Arend</link>, <link ref="berens-g" linktext="false">Georg</link>, <link ref="berens-ca" linktext="false">Catharina</link> und <link ref="berens-jc" linktext="true" />, zusammen mit Arend Inhaber des väterlichen Handelshauses in Riga, siehe: <wwwlink address="https://bbld.de/GND1183724462">Berens, Carl, in: <titel>Baltisches Biographisches Lexikon</titel>, S.&#x202F;45</wwwlink>.
@@ -1642,6 +1647,12 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 <kommentar id="berens-ah" type="neuzeit">
 <lemma>Adam Heinrich Berens</lemma>
 <eintrag>1743–1786. Jüngster Bruder von <link ref="berens-a" linktext="false">Arend</link>, <link ref="berens-c" linktext="false">Carl</link> und <link ref="berens-jc" linktext="true" />. Als 15-Jähriger in die russische Armee, ausgeschieden als Major, übernimmt in Rußland die Pulvermühle seiner Schwiegermutter.</eintrag>
+</kommentar>
+
+<kommentar id="berens-jh" type="neuzeit">
+<lemma>Johann Heinrich Berens</lemma>
+<eintrag>Etwa 1765 bis 1782. Sohn <link ref="berens-jc" linktext="true" />.
+</eintrag>
 </kommentar>
 
 <kommentar id="berens-js" type="neuzeit">
@@ -4017,6 +4028,19 @@ Claudius übersetzte u.a. <link ref="terrasson" subref="terrasson-sethos" linkte
 <lemma>Clodius, <titel>Grammatica Arabica</titel></lemma>
 <eintrag>
 <titel>Theoria et Praxis Lingvae Grammaticae h.e. Grammatica Arabica</titel> (Leipzig 1729) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;62/75: „J. C. Clodii Compendium Grammaticae Arabicae, Lips“].
+</eintrag>
+</subsection>
+</kommentar>
+
+<kommentar id="cnapius" type="neuzeit">
+<lemma>Gregorius Cnapius</lemma>
+<eintrag>1564–1639, auch Grzegorz Knapiusz. Polnischer Jesuit, Gelehrter und Linguist in Posen und Wilna, siehe <wwwlink address="https://d-nb.info/gnd/12446534X">GND</wwwlink>.
+</eintrag>
+<subsection id="cnapius-thesaurus" type="neuzeit" sort="10">
+<lemma>Cnapius, <titel>Thesaurus</titel></lemma>
+<eintrag>
+Zuerst als <titel>Thesaurus polonolatinograecus</titel> (3&#xA0;Bde., Krakau 1621–1633). Digitalisat: <wwwlink address="https://www.wbc.poznan.pl/dlibra/publication/92345/edition/104808/content">WBC Poznan</wwwlink>.<line type="break" />
+Im 18. Jh. erschien auch ein auf deutsch erweiterter <titel>Thesaurus latino-polono-germanicus</titel>, <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11223751-6">Posen 1754</wwwlink> und <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10779806-3">Dresden 1780</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -9254,6 +9278,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </eintrag>
 </kommentar>
 
+<kommentar id="hertel" type="neuzeit">
+<lemma>Christian Gottlieb Hertel</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Buchhändler und Verleger in Leipzig in den 1770er/80er Jahren, Kommissionär (bzw. Verbindungsmann) <link ref="hartknoch" linktext="false">Hartknochs</link>, siehe <wwwlink address="http://d-nb.info/gnd/1037497279">GND</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="hertzberg" type="neuzeit">
 <lemma>Ewald Friedrich von Hertzberg</lemma>
 <eintrag>1725–1795. Seit 1763 Kabinettsminister <link ref="friedrich-II" linktext="false">Friedrichs II.</link>, brandenburg-preußischer Außenminister und politischer Publizist, v.a. über die Berliner Akademie; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd116754974.html#ndbcontent">Skalweit, Stephan: Hertzberg, Ewald Graf von, in: <titel>NDB</titel>&#x202F;8 (1969), S.&#x202F;715–717.</wwwlink>
@@ -11781,7 +11811,7 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 <lemma>Kleuker, <titel>Anhang zum Zend-Avesta</titel></lemma>
 <eintrag>
 <titel>Anhang zum Zend-Avesta</titel> (2 Bde. in je 2 Tln., Leipzig, Riga: Hartknoch 1781–1783).<line type="break" />
-1,1: <titel>verschiedene Abhandlungen von Herrn Anquetil du Perron über wichtige Gegenstände der persischen Religion, Philosophie und Geschichte</titel>.  Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219968-5">BSB München: 4 A.or. 3605-4</wwwlink>.<line type="break" />
+1,1: <titel>verschiedene Abhandlungen von Herrn Anquetil du Perron über wichtige Gegenstände der persischen Religion, Philosophie und Geschichte</titel>. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219968-5">BSB München: 4 A.or. 3605-4</wwwlink>.<line type="break" />
 1,2: <titel>Herrn Fouchers historische Abhandlung über die Religion der Perser.</titel> Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10219969-5">BSB München: 4 A.or. 3605-4,1,1/2</wwwlink>
 </eintrag>
 </subsection>
