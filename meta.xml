@@ -12372,8 +12372,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="643">
-        <date value="Weimar, vor 14. März 1782" />
-        <sort value="1782-03-14" notAfter="1782-03-14" />
+        <date value="Weimar, Anfang März 1782" />
+        <sort value="1782-03-02" notAfter="1782-03-19" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -12386,7 +12386,7 @@
         <isProofread value="true" />
         <isDraft value="false" />
         <ZHInfo inZH="true">
-          <dateChanged value="true" />
+          <dateChanged value="false" />
           <begin vol="4" page="367" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
