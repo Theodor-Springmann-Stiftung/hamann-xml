@@ -1651,7 +1651,7 @@ Zu J. Chr. Berens’ Einfluss auf den jungen Hamann siehe <link ref="gra-h-2011"
 
 <kommentar id="berens-jh" type="neuzeit">
 <lemma>Johann Heinrich Berens</lemma>
-<eintrag>Etwa 1765 bis 1782. Sohn <link ref="berens-jc" linktext="true" />.
+<eintrag>Etwa 1765 bis 1782. Sohn von <link ref="berens-jc" linktext="true" />; vgl. zu seinem Ende <intlink letter="649" page="282" line="22" linktext="true" /> und J.C. Berens’ Brief an <link ref="kant" linktext="false">Kant</link> vom 30. April 1782, <wwwlink address="https://www.korpora.org/Kant/aa10/282.html">Kant: AA X, Briefwechsel 1779, S.&#x202F;282–284</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -2158,6 +2158,16 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <lemma>Friedrich Samuel Bock</lemma>
 <eintrag>1716–1785. Professor der evangelischen Theologie und griechischen Sprache in Königsberg, Consistorialrat, seit 1753 Universitätsbibliothekar und Aufseher der Schloßbibliothek, Bruder von <link ref="bock-jg" linktext="true" />.
 </eintrag>
+<subsection id="bockfs-apologie" type="neuzeit" sort="10">
+<lemma>F. S. Bock, <titel>Grundriß einer Vertheidigung der christlichen Religion</titel></lemma>
+<eintrag>
+<titel>Ausführlicher Grundriß einer Vertheidigung der christlichen Religion wider die Feinde und Spötter derselben</titel> (2 Bde, Königsberg, Leipzig: Kanter 1768). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/83396">ULB Halle: AB B 1106</wwwlink>.</eintrag>
+</subsection>
+<subsection id="bockfs-naturgeschichte" type="neuzeit" sort="10">
+<lemma>F. S. Bock, <titel>Grundriß einer Vertheidigung der christlichen Religion</titel></lemma>
+<eintrag>
+<titel>Versuch einer wirthschaftlichen Naturgeschichte von dem Königreich Ost- und Westpreußen</titel> (4 Bde, Dessau: Buchhandlung der Gelehrten 1782–1784). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/10291C77">ÖNB Wien: 4.Y.2. ALT PRUNK</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="bock-cg" type="neuzeit">
@@ -2167,7 +2177,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <subsection id="bockcg-gedichte" type="neuzeit" sort="10">
 <lemma>Bock, <titel>Gedichte</titel></lemma>
 <eintrag>
-<titel>Gedichte eines Preußen</titel> (Danzig 1775). <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10129692-1">BSB München: P.o.germ. 2066 q</wwwlink>.</eintrag>
+<titel>Gedichte eines Preußen</titel> (Danzig 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10129692-1">BSB München: P.o.germ. 2066 q</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -3568,7 +3578,7 @@ Deutsche Übersetzung zitiert nach Niklas Holzberg (Übers.): <titel>C. Valerius
 <subsection id="cherbury-veritate" type="neuzeit">
 <lemma>Cherbury, <titel>De Veritate</titel></lemma>
 <eintrag>
-<titel>De veritate, prout distinguitur a revelatione, a verisimili, a possibili, et a falso</titel> (o.O. 1656). <wwwlink address="http://data.onb.ac.at/rep/10959112">ÖNB Wien</wwwlink>.</eintrag>
+<titel>De veritate, prout distinguitur a revelatione, a verisimili, a possibili, et a falso</titel> (o.O. 1656). Digitalisat: <wwwlink address="http://data.onb.ac.at/rep/10959112">ÖNB Wien</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -7455,9 +7465,13 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <lemma>Goldbeck (Hg.), <titel>Litterarische Nachrichten von Preußen</titel></lemma>
 <eintrag>
 <titel>Litterarische Nachrichten von Preußen</titel>. Herausgegeben von J. F. Goldbeck (2 Bde.,Berlin, Leipzig und Dessau 1781–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10732713-5">BSB München: H.lit.p. 151 l-1/2</wwwlink>. – Vgl. den Eintrag zu Hamann in <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10732713?page=61">Bd.&#x202F;1, S.&#x202F;47–50</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb10732713?page=249">S.&#x202F;235</wwwlink> (N&#x202F;IV,449f.).
-
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="goldschmidt" type="neuzeit">
+<lemma>Jacob Goldschmidt</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Schwiegersohn des Königsberger Schutzjuden und Kaufmanns Israel Moses Friedländer.</eintrag>
 </kommentar>
 
 <kommentar id="goldsmith" type="neuzeit">
@@ -11355,7 +11369,7 @@ Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bs
 <subsection id="kant-prolegomena" type="neuzeit" sort="110">
 <lemma>Kant, <titel>Prolegomena</titel></lemma>
 <eintrag>
-<titel>Prolegomena zu einer jeden künftigen Metaphysik die als Wissenschaft wird auftreten können, von Immanuel Kant</titel> (Riga: Hartknoch 1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10927045-5">BSB München: Res/Ph.sp. 427 d</wwwlink>.<line type="break" />
+<titel>Prolegomena zu einer jeden künftigen Metaphysik die als Wissenschaft wird auftreten können, von Immanuel Kant</titel> (Riga: Hartknoch 1783 [Ostermesse]). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10927045-5">BSB München: Res/Ph.sp. 427 d</wwwlink>.<line type="break" />
 <titel>AA</titel>&#xA0;IV: Kritik der reinen Vernunft (1. Aufl. 1781), Prolegomena, Grundlegung zur Metaphysik der Sitten, Metaphysische Anfangsgründe der Naturwissenschaft, S.&#x202F;253–383.</eintrag>
 </subsection>
 <subsection id="kant-grundlegung" type="neuzeit" sort="300">
@@ -12169,6 +12183,17 @@ fünfte Jahrhundert, aus gehörigen Gründen untersucht und bewiesen</titel> (3&
 <kommentar id="kowalewski" type="neuzeit">
 <lemma>Cölestin Kowalewski</lemma>
 <eintrag>1700–1771. Jurist. Seit 1752 Kanzler der Königsberger Universität, in dieser Rolle auch Zensor in Königsberg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd129884367.html">Deutsche Biographie</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="krasicki" type="neuzeit">
+<lemma>Ignacy Krasicki</lemma>
+<eintrag>1735–1801. Fürstbischof von Ermland, Primas von Polen und aufklärerischer, mit <link ref="friedrich-II" linktext="true" /> befreundeter Schriftsteller; siehe <wwwlink address="https://d-nb.info/gnd/119193310">GND</wwwlink>.</eintrag>
+<subsection id="krasicki-woyna" type="neuzeit" sort="10">
+<lemma>Krasicki, <titel>Woyna chocimska</titel></lemma>
+<eintrag>
+<titel>Woyna chocimska</titel> (Warschau: Grölla 1780). Digitalisat: <wwwlink address="https://polona.pl/item-view/4bc31aaf-31bb-4c0a-9b4b-b057ff593df1/0/49d011d8-a5bf-44b9-8655-838a0f51bd5d">Biblioteka Narodowa</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="kraus" type="neuzeit">
@@ -13108,6 +13133,11 @@ Gespräche 4 und 5 (1781): Hamann ließ die Gespräche 4 und 5 im Mai 1781, kurz
 <eintrag><titel>He Kainē Diathēkē, Novum Testamentum. Cum Versione Latina Ariæ Montani, in quo tum selecti versiculi 1900. Quibus omnes Novi Testamenti voces continentur, asteriscis notantur; tum omnes et singulæ voces semel vel sæpius occurrentes peculiari nota distinguuntur</titel> (Amsterdam ca. 1688) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;49/502: „N.T. graecum ex. ed. Jo. Leusdenii, Lips. 727. Mit weiss Papier durchschossen. Donum Lvdimagistri II. pueritiae meae.“].
 </eintrag>
 </subsection>
+</kommentar>
+    
+<kommentar id="levin" type="neuzeit">
+<lemma>Isaac Levin</lemma>
+<eintrag>Lebensdaten nicht ermittet. Um 1780 jüdischer Kaufmann in Königsberg.</eintrag>
 </kommentar>
     
 <kommentar id="levsin" type="neuzeit">
@@ -15099,6 +15129,12 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 <kommentar id="miltz" type="neuzeit">
 <lemma>Andreas Miltz</lemma>
 <eintrag>Lebensdaten nicht ermittelt. Arzt und Regimentschirurg in Königsberg, zweitweise Arzt von Hamann und seiner Familie, Onkel von <link ref="hill" linktext="true" />.
+</eintrag>
+</kommentar>
+
+<kommentar id="miltz-l" type="neuzeit">
+<lemma>Louise Miltz</lemma>
+<eintrag>Geb. 1773. Tochter von <link ref="miltz" linktext="true" />, <link ref="hill" linktext="false">Hills</link> Cousine.
 </eintrag>
 </kommentar>
 
@@ -20367,6 +20403,18 @@ Christian Tobias Damm, <titel>Der Ausgang des Aeas, ein Trauerspiel aus dem Grie
 </eintrag>
 </kommentar>
 
+<kommentar id="stanhope" type="neuzeit">
+<lemma>Philip Stanhope, 4. Earl of Chesterfield</lemma>
+<eintrag>1694–1773. Englischer Staatsmann und Schriftsteller, siehe <wwwlink address="https://d-nb.info/gnd/118675745">GND</wwwlink>.</eintrag>
+<subsection id="stanhope-letters" type="neuzeit">
+<lemma>Stanhope, <titel>Letters</titel></lemma>
+<eintrag>
+<titel>Letters written by the late right honourable Philip Dormer Stanhope, Earl of Chesterfield, to his son, Philip Stanhope, Esq. Late Envoy Extraordinary at the Court of Dresden</titel> (2 Bde., London: Dodsley 1774). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10352123-0">BSB München: 4 Epist. 45</wwwlink>.<line type="break" />
+Übers.: <titel>Briefe des Herrn Philipp Dormer Stanhope, Grafen von Chesterfield, an seinen Sohn Philipp Stanhope, Esquire, ehemaligen außerordentlichen Gesandten am dresdner Hofe</titel> (6 Bde., Leipzig: Weidmann, Reich 1774–1777). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10402494-3">BSB München: Epist. 169</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="stanislaw" type="neuzeit">
 <lemma>Stanislaw I. Lesczynski</lemma>
 <eintrag>1677–1766. Genannt Senestal. 1704–1709 und 1733–1736 König von Polen, ab 1736 Titularherrscher von Polen-Litauen, Schwiegervater von Ludwig XV. von Frankreich, Herzog von Lothringen und Bar.</eintrag>
@@ -23326,7 +23374,7 @@ Digitalisat 19. Stück (1762): <wwwlink address="https://kpbc.umk.pl/dlibra/publ
 </kommentar>
 
 <kommentar id="wolff-c" type="neuzeit">
-<lemma>Christian Frh. von Wolff</lemma>
+<lemma>Christian Freiherr von Wolff</lemma>
 <eintrag>1679–1754. 1707 Professor der Philosophie und Mathematik in Halle; musste 1723 Halle aufgrund des von Pietisten erhobenen Atheismus-Vorwurfs verlassen; lebte dann in Marburg; Rückkehr 1740 auf den Lehrstuhl für Natur- und Völkerrecht in Halle. <wwwlink address="https://www.deutsche-biographie.de/pnd118634771.html#adbcontent">Schrader, W.: Wolff, Christian, in: <titel>ADB</titel>&#x202F;44 (1898), S.&#x202F;12–28</wwwlink>.
 </eintrag>
 <subsection id="wolff-jusnaturae" type="neuzeit" sort="10">
@@ -23334,6 +23382,12 @@ Digitalisat 19. Stück (1762): <wwwlink address="https://kpbc.umk.pl/dlibra/publ
 <eintrag>
 <titel>Jus naturae methodo scientifica pertractatum</titel> (8&#xA0;Tle., Frankfurt, Leipzig 1740–48).</eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="wolff-ml" type="neuzeit">
+<lemma>Martin Luther Wolff</lemma>
+<eintrag>1744–1801. Probst in St. Petersburg, siehe <wwwlink address="http://d-nb.info/gnd/129378100">GND</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="wolle" type="neuzeit">
