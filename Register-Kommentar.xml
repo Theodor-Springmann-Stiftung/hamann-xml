@@ -2058,6 +2058,21 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <eintrag>1723–1764. Geb. in Gerdauen (Ostpreußen), bis zu seiner Ordination 1751 sieben Jahre lang Hofmeister in Livland; dann Pastor in Papendorf, das zum Gut <wwwlink address="https://www.geonames.org/458836">Kegeln</wwwlink> der <link ref="budberg-bh" linktext="true" /> gehörte.</eintrag>
 </kommentar>
 
+<kommentar id="blanckenburg" type="neuzeit">
+<lemma>Christian Friedrich von Blanckenburg</lemma>
+<eintrag>1744–1796. Preußischer Offizier, Schriftsteller und Übersetzer (etwa von <link ref="hemsterhuis" subref="hemsterhuis-schriften" linktext="false">Hemsterhuis’</link> <titel>Vermischten Philosophischen Schriften</titel>), siehe <wwwlink address="https://www.deutsche-biographie.de/gnd119025701.html#ndbcontent">Schreinert, Kurt: Blan(c)kenburg, Christian Friedrich von, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;284f.</wwwlink></eintrag>
+<subsection id="blanckenburg-roman" type="neuzeit" sort="10">
+<lemma>Blanckenburg, <titel>Versuch über den Roman</titel></lemma>
+<eintrag>
+<titel>Versuch über den Roman</titel> (Leipzig, Liegnitz: Siegert 1774) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;152/394: „Versuch über den Roman, Leipz. 774“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573438-1">BSB München: L.eleg.g. 51 h</wwwlink>.</eintrag>
+</subsection>
+<subsection id="blanckenburg-geschichte" type="neuzeit" sort="20">
+<lemma>Blanckenburg, <titel>Beyträge zur Geschichte deutschen Reichs und deutscher Sitten</titel></lemma>
+<eintrag>
+<titel>Beyträge zur Geschichte deutschen Reichs und deutscher Sitten. Ein Roman. Erster Theil</titel> (Leipzig, Liegnitz: Siegert 1775). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10924569-2">BSB München: Res/P.o.germ. 127 r</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="blervache" type="neuzeit">
 <lemma>Simon Clicquot-Blervache</lemma>
 <eintrag>1723–1796. Kaufmann in Reims, Ökonom, Mitglied der ‚Académie d’Amiens‘. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;9, 1813), S.&#x202F;97f.</eintrag>
@@ -9219,7 +9234,7 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 <subsection id="hemsterhuis-schriften" type="neuzeit" sort="50">
 <lemma>Hemsterhuis, <titel>Vermischte Philosophische Schriften</titel></lemma>
 <eintrag>
-<titel>Vermischte Philosophische Schriften des H. Hemsterhuis. Aus dem Französischen Übersetzt</titel> [von <wwwlink address="http://d-nb.info/gnd/119025701">Christian Friedrich von Blanckenburg</wwwlink>] (2 Bde., Leipzig: Weidmann und Reich 1782, Bd.&#x202F;3 1797). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046014-6">BSB München: Ph.u. 241 c</wwwlink>.</eintrag>
+<titel>Vermischte Philosophische Schriften des H. Hemsterhuis. Aus dem Französischen Übersetzt</titel> [von <link ref="blanckenburg" linktext="true" />] (2 Bde., Leipzig: Weidmann und Reich 1782, Bd.&#x202F;3 1797). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10046014-6">BSB München: Ph.u. 241 c</wwwlink>.</eintrag>
 </subsection> 
 </kommentar>
 
@@ -9628,6 +9643,12 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <lemma>Herder, <titel>Ueber die Seelenwandrung</titel></lemma>
 <eintrag>
 <titel>Ueber die Seelenwandrung. Drei Gespräche</titel>, in: <link ref="teutsche-merkur" linktext="false"><titel>Teutscher Merkur</titel></link>, 1.&#x202F;Vj. 1782; Gespräch 1 und 2 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=18%2C19">Januar-Heft, S.&#x202F;12–54</wwwlink>, Gespräch 3 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=106%2C107">Februar-Heft, S.&#x202F;96–123</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="herder-ebraeische-poesie" type="neuzeit" sort="640">
+<lemma>Herder, <titel>Vom Geist der Ebräischen Poesie</titel></lemma>
+<eintrag>
+<titel>Vom Geist der Ebräischen Poesie</titel> (2 Bde., Dessau: Buchhandlung der Gelehrten 1782–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10411083-6">BSB München: Exeg. 474</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="herder-ideen" type="neuzeit" sort="690">
@@ -19160,6 +19181,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <eintrag>
 <titel>Anti-Pope oder Versuch über den Natürlichen Menschen. Nebst einer neuen prosaischen Uebersetzung von Pope’s Versuch über den Menschen</titel> (Leipzig: Weygand 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10748344-0">BSB München: P.o.angl. 298</wwwlink>.</eintrag>
 </subsection>
+<subsection id="schlosser-geisterwanderung" type="neuzeit" sort="30">
+<lemma>Schlosser, <titel>Ueber die Seelenwanderung</titel></lemma>
+<eintrag>
+<titel>Ueber die Seelenwanderung von Joh. Georg Schlosser</titel> (2 Bde., Basel: Serini 1781–1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11916484-6">LB Coburg: B II 11</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="schlozer" type="neuzeit">
@@ -19229,6 +19255,26 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <kommentar id="schmidt-fs" type="neuzeit">
 <lemma>Friedrich Samuel Schmidt</lemma>
 <eintrag>1737–1796. 1762 Professor der Altertümer in Basel, Hofrat in Karlsruhe, siehe <wwwlink address="https://d-nb.info/gnd/117722219">GND</wwwlink>.</eintrag>
+</kommentar>
+
+<kommentar id="schmohl" type="neuzeit">
+<lemma>Johann Christian Schmohl</lemma>
+<eintrag>1756–1783. Spätaufklärerischer politischer Publizist; 1776/77 Lehrer am Dessauer Philanthropin, studierte Kameralwissenschaft in Halle und wurde 1781 nach dem Verbot seiner <link ref="schmohl" subref="schmohl-sammlung" linktext="false"><titel>Sammlung von Aufsätzen verschiedener Verfasser</titel></link> verhaftet; er floh aus dem Gefängnis nach England und war im April 1782 mit <link ref="reichardt-jf" linktext="false">Reichardt</link> bei Hamann in Königsberg; versuchte die unabhängigen Kolonien in Nordamerika zu erreichen und ertrank wohl 1783 in Bermuda; siehe <wwwlink address="https://d-nb.info/gnd/131245562">GND</wwwlink>, Rainer Wild (Hg.): <titel>Johann Christian Schmohl: Über Nordamerika und Demokratie: ein Brief aus England</titel> (St. Ingbert 1992) und Maximilian Lässig: Radikale Aufklärung in Deutschland: Karl von Knoblauch, Andreas Riem und Johann Christian Schmohl (Berlin, Boston 2020).</eintrag>
+<subsection id="schmohl-mochel" type="neuzeit" sort="20">
+<lemma>Schmohl, <titel>Urne Johann Jacob Mochels</titel></lemma>
+<eintrag>
+<titel>Urne Johann Jacob Mochels ehemaligen Lehrers am Philanthropin zu Dessau</titel> (Leipzig: Weygand 1780).</eintrag>
+</subsection>
+<subsection id="schmohl-sammlung" type="neuzeit" sort="20">
+<lemma>Schmohl, <titel>Sammlung von Aufsätzen verschiedener Verfasser</titel></lemma>
+<eintrag>
+<titel>Sammlung von Aufsätzen verschiedener Verfasser besonders für Freunde der Cameralwissenschaften und der Staats-wirthschaft</titel> (Leipzig 1781).</eintrag>
+</subsection>
+<subsection id="schmohl-nordamerika" type="neuzeit" sort="30">
+<lemma>Schmohl, <titel>Über Nordamerika und Demokratie</titel></lemma>
+<eintrag>
+<titel>Über Nordamerika und Demokratie</titel> (Koppenhagen [Königsberg] 1782). Digitalisat: <wwwlink address="https://books.google.de/books?id=v5p-fP5dXaMC">Google Books</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="schneider-cw" type="neuzeit">
@@ -20894,7 +20940,7 @@ Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-
 <lemma>Sturz, <titel>Die Menechmen</titel></lemma>
 <eintrag>
 <titel>Die Menechmen oder Zwei Wochenschriften von gleicher Statur in 4 Aufzügen. Mit einer Liste von Druckfehlern und einem Titel, vielleicht auch einer Vorrede versehen und des Spaßes wegen dem Publico preisgegeben</titel> (Kopenhagen 1767) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;134/68: „Die Menechmen oder zwo Wochenschriften
-in vier Aufzügen, Kopp. 767“]. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=017054494">ZDB</wwwlink>
+in vier Aufzügen, Kopp. 767“]. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=017054494">ZDB</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="sturz-bernstorf" type="neuzeit" sort="20">
@@ -22797,7 +22843,7 @@ Hamann las und besaß die in Amsterdam erschienene Neuedition von 1761, erweiter
 <subsection id="weise-bibliothek" type="neuzeit" sort="10">
 <lemma>Weiße, <titel>Neue Bibliothek der schönen Wissenschaften und der freyen Künste</titel></lemma>
 <eintrag>
-<titel>Neue Bibliothek der schönen Wissenschaften und der freyen Künste</titel> (77 Bde., Leipzig: Dyck 1765/1806). Digitalisate: <wwwlink address="https://www.digitale-sammlungen.de/search?query=manifestation_id%3A%22ZDB%7C213491-3%7C%22&#x26;sortField=date&#x26;sortOrder=asc&#x26;handler=simple-metadata">BSB München</wwwlink>, <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN556514408">UB Göttingen</wwwlink>.
+<titel>Neue Bibliothek der schönen Wissenschaften und der freyen Künste</titel> (77 Bde., Leipzig: Dyck 1765–1806). Digitalisate: <wwwlink address="https://www.digitale-sammlungen.de/search?query=manifestation_id%3A%22ZDB%7C213491-3%7C%22&#x26;sortField=date&#x26;sortOrder=asc&#x26;handler=simple-metadata">BSB München</wwwlink>, <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN556514408">UB Göttingen</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=011244534">ZDB</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="weise-amazonen" type="neuzeit" sort="20">
