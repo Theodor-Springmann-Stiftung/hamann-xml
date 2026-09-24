@@ -1931,6 +1931,17 @@ ULB Halle: Dd 5485 (2)</wwwlink>
 <eintrag>Hg.&#xA0;v. <link ref="nicolai" linktext="true" /> und <link ref="mendelssohn" linktext="true" />, 1757–65: 9 Jahrgänge in 12 Bänden zu 24 Stücken und 2 Anhängen; gedruckt in Leibzig bei Dyck. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10573328-1">BSB München: L.eleg.g. 45/46</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="bibra" type="neuzeit">
+<lemma>Siegmund von Bibra</lemma>
+<eintrag>1768–. Katholisch-spätaufklärerischer Geistlicher und Schriftsteller in Fulda, siehe <wwwlink address="https://d-nb.info/gnd/116161744">GND</wwwlink>.</eintrag>
+<subsection id="bibra-journal-deutschland" type="neuzeit" sort="10">
+<lemma><titel>Journal von und für Deutschland</titel></lemma>
+<eintrag>
+<titel>Journal von und für Deutschland. Herausgegeben von Siegmund Freyherrn von Bibra</titel> (9 Jg., Frankfurt 1784–1792). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10531494-8">BSB München: 4 Per. 11</wwwlink>. Siehe <wwwlink address="https://zdb-katalog.de/title.xhtml?idn=012721514">ZDB</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="bielfeld" type="neuzeit">
 <lemma>Johann Jakob Friedrich Bielfeld</lemma>
 <eintrag>1711–1770. Oberaufseher aller preußischen Universitäten.</eintrag>
@@ -19259,7 +19270,7 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 
 <kommentar id="schmohl" type="neuzeit">
 <lemma>Johann Christian Schmohl</lemma>
-<eintrag>1756–1783. Spätaufklärerischer politischer Publizist; 1776/77 Lehrer am Dessauer Philanthropin, studierte Kameralwissenschaft in Halle und wurde 1781 nach dem Verbot seiner <link ref="schmohl" subref="schmohl-sammlung" linktext="false"><titel>Sammlung von Aufsätzen verschiedener Verfasser</titel></link> verhaftet; er floh aus dem Gefängnis nach England und war im April 1782 über <link ref="reichardt-jf" linktext="false">Reichardt</link> in Königsberg, wo er 8 Tage inkognito bei Hamann wohnte (vgl. <intlink letter="654" page="399" line="4" linktext="true" />); nach seiner Abreise (vgl. <intlink letter="646" page="373" line="1" linktext="true" />) versuchte er die unabhängigen Kolonien in Nordamerika zu erreichen und ertrank wohl 1783 in Bermuda; siehe <wwwlink address="https://d-nb.info/gnd/131245562">GND</wwwlink>, Rainer Wild (Hg.): <titel>Johann Christian Schmohl: Über Nordamerika und Demokratie: ein Brief aus England</titel> (St. Ingbert 1992) und Maximilian Lässig: Radikale Aufklärung in Deutschland: Karl von Knoblauch, Andreas Riem und Johann Christian Schmohl (Berlin, Boston 2020).</eintrag>
+<eintrag>1756–1783. Spätaufklärerischer politischer Publizist; 1776/77 Lehrer am Dessauer Philanthropin, studierte Kameralwissenschaft in Halle und wurde 1781 nach dem Verbot seiner <link ref="schmohl" subref="schmohl-sammlung" linktext="false"><titel>Sammlung von Aufsätzen verschiedener Verfasser</titel></link> verhaftet; er floh aus dem Gefängnis nach England und war im April 1782 über <link ref="reichardt-jf" linktext="false">Reichardt</link> in Königsberg, wo er 8 Tage inkognito bei Hamann wohnte (vgl. <intlink letter="654" page="399" line="4" linktext="true" />); nach seiner Abreise (vgl. <intlink letter="646" page="373" line="1" linktext="true" />) versuchte er die unabhängigen Kolonien in Nordamerika zu erreichen und ertrank wohl 1783 in Bermuda (vgl. <intlink letter="806" page="352" line="12" linktext="true" />); siehe <wwwlink address="https://d-nb.info/gnd/131245562">GND</wwwlink>, Rainer Wild (Hg.): <titel>Johann Christian Schmohl: Über Nordamerika und Demokratie: ein Brief aus England</titel> (St. Ingbert 1992) und Maximilian Lässig: Radikale Aufklärung in Deutschland: Karl von Knoblauch, Andreas Riem und Johann Christian Schmohl (Berlin, Boston 2020).</eintrag>
 <subsection id="schmohl-mochel" type="neuzeit" sort="20">
 <lemma>Schmohl, <titel>Urne Johann Jacob Mochels</titel></lemma>
 <eintrag>
@@ -19274,6 +19285,11 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <lemma>Schmohl, <titel>Über Nordamerika und Demokratie</titel></lemma>
 <eintrag>
 <titel>Über Nordamerika und Demokratie</titel> (Koppenhagen [Königsberg] 1782). Digitalisat: <wwwlink address="https://books.google.de/books?id=v5p-fP5dXaMC">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="schmohl-reisebeschreibung" type="neuzeit" sort="30">
+<lemma>Vmtl. Schmohl, <titel>Reisebeschreibung durch den Elsaß, Lothringen</titel></lemma>
+<eintrag>
+<titel>Reisebeschreibung durch den Elsaß, Lothringen etc.</titel>, in: <link ref="bibra" subref="bibra-journal-deutschland" linktext="true" />, 2.&#x202F;Hj. 1784: <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10531495?page=258%2C259">Oktober-Heft, S.&#x202F;237–242</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10531495?page=356%2C357">November-Heft, S.&#x202F;331–339</wwwlink>, 1.&#x202F;Hj 1785, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10531496?page=144%2C145">Februar-Heft, S.&#x202F;137–147</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10531496?page=232%2C233">März-Heft, S.&#x202F;223–233</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
