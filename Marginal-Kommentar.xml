@@ -42629,11 +42629,11 @@ Brief Nr. 356
 </marginal>
 
 <marginal letter="356" page="434" line="7" sort="1">
-<bzg>Brüder</bzg> wohl Freimaurer
+<bzg>Brüder</bzg> Freimaurer
 </marginal>
 
 <marginal letter="356" page="434" line="7" sort="2">
-<bzg>☉ und ◻</bzg> ☉ ist ein alchemistisches Symbol für Sonne, ◻ wird in der Freimaurerliteratur als allgemeines Symbol für ‚Loge‘ verwendet; Bedeutung hier unklar, vmtl. Ironisierung von freimaurerisch-alchemistischer Esoterik.
+<bzg>☉ und ◻</bzg> ☉ ist ein alchemistisches Symbol für Sonne, ◻ wird in der Freimaurerliteratur als allgemeines Symbol für ‚Loge‘ verwendet; Hamann ironisiert wohl freimaurerisch-alchemistische Esoterik.
 </marginal>
 
 <marginal letter="356" page="434" line="8">
@@ -48605,7 +48605,7 @@ Brief Nr. 397
 </marginal>
 
 <marginal letter="397" page="65" line="16">
-<link ref="claudius" subref="claudius-bothe" linktext="true" />
+<bzg>Wandsbecker Bothen</bzg> nach dessen Zeitung <link ref="claudius" subref="claudius-bothe" linktext="false"><titel>Der Wandsbecker Bothe</titel></link>
 </marginal>
 
 <marginal letter="397" page="65" line="22">
@@ -96237,7 +96237,123 @@ Herders Brief wurde wohl kurz vor <link ref="mueller-jg" linktext="false">Johann
 </marginal>
 
 <marginal letter="643" page="367" line="28">
-<bzg>Reichart</bzg> <link ref="reichardt-jf" linktext="true" />; er war, wie aus dieser Briefstelle zu schließen ist, zuvor in Weimar und reiste weiter nach Königsberg, wo er sich vom 10. Februar bis zum 17. April 1782 aufhielt und Hamann wiederholt besuchte, vgl. <intlink letter="646" page="372" line="16" linktext="true" /> und <intlink letter="645" page="370" line="33" linktext="true" />.
+<bzg>Reichart</bzg> <link ref="reichardt-jf" linktext="true" />; er war, wie aus dieser Briefstelle zu schließen, aber sonst nicht nachweisbar ist, zuvor in Weimar und reiste weiter nach Königsberg, wo er sich vom 10. Februar bis zum 17. April 1782 aufhielt und Hamann wiederholt besuchte, vgl. <intlink letter="646" page="372" line="16" linktext="true" /> und <intlink letter="645" page="370" line="33" linktext="true" />.
+</marginal>
+
+<marginal letter="643" page="367" line="31">
+<bzg>lieben Noth</bzg> Reichardt hatte als Hofkapellmeister eine gesicherte Stellung in Berlin, aber viel Muße für sonstige Publizistik (vgl. auch <intlink letterletter="631" page="330" line="5" linktext="true" />), 1782 erschienen zahlreiche Bücher und Kompositionen von ihm.
+</marginal>
+
+<marginal letter="643" page="367" line="32">
+<bzg>Schreiber dieses</bzg> Herder und sein aufwendiger Haushalt waren auch auf die Nebeneinkünfte aus seiner schriftstellerischen Tätigkeit angewiesen, vgl. <link ref="her-jg-1777" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;198.
+</marginal>
+
+<marginal letter="643" page="367" line="33" sort="1">
+<bzg>Herzogin Mutter</bzg> <link ref="anna-amalia" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="367" line="33" sort="2">
+<bzg>Journal</bzg> <link ref="journal-tiefurt" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="2">
+<bzg>Gleim</bzg> <link ref="gleim" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="5">
+<bzg>Herzog&#x202F;…&#x202F;Handwerk</bzg> <link ref="carl-august" linktext="true" /> wurde am 5. Februar in den Inneren Orden der strikten Observanz aufgenommen und erhielt, gemeinsam mit <link ref="goethe" linktext="false">Goethe</link>, am 2. März den Meistergrad, vgl. <link ref="her-jg-1777" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;198.
+</marginal>
+
+<marginal letter="643" page="368" line="6">
+<bzg>Bode</bzg> <link ref="bode-jjc" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="8">
+<bzg>H. Viereck</bzg> Heiliges Viereck; gemeint ist das Logenzeichen, vgl. etwa <intlink letter="356" page="434" line="7" linktext="true" />.
+</marginal>
+
+<marginal letter="643" page="368" line="11" sort="1">
+<bzg>Schneider</bzg> <link ref="schneider-cw" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="11" sort="2">
+<bzg>actor. ecclesiast.</bzg> <link ref="schneider-cw" subref="schneider-acta" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="13">
+<bzg>Froriep</bzg> <link ref="froriep" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="18">
+<bzg>Kurfürsten</bzg> <link ref="erthal-fkj" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="20">
+<bzg>Salz der Erde</bzg> <link ref="nt-mt" subref="nt-mt5" linktext="false">Mt 5,13</link>
+</marginal>
+
+<marginal letter="643" page="368" line="23">
+<bzg>Diderots Religieuse</bzg> <link ref="diderot" subref="diderot-religieuse" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="25">
+<bzg>bijoux indiscrets</bzg> <link ref="diderot" subref="diderot-bijoux" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="29">
+<bzg>Kants Kritik</bzg> <link ref="kant" subref="kant-critik-vernunft" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="30">
+<bzg>Gött. Zeitungen</bzg> Die Rezension von <link ref="garve" linktext="false">Garve</link> <link ref="feder" linktext="false">Feder</link> in den <link ref="goettingische-anzeigen" linktext="false"><titel>Göttingischen Anzeigen von gelehrten Sachen</titel></link>, <wwwlink address="https://digipress.digitale-sammlungen.de/view/bsb10538848_00039_u001?page=8%2C9">Zugabe zu St.&#x202F;3, 19.1.1782</wwwlink>, vgl. <intlink letter="646" page="376" line="12" linktext="true" />.
+</marginal>
+
+<marginal letter="643" page="368" line="33">
+<bzg>Roußeaus consolations</bzg> <link ref="rousseau" subref="rousseau-consolations" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="368" line="35">
+<bzg>Gottfried</bzg> <link ref="herder-g" linktext="false">Gottfried Herder</link>
+</marginal>
+
+<marginal letter="643" page="368" line="37">
+<bzg>Müller&#x202F;…&#x202F;schreiben</bzg> <link ref="mueller-jg" linktext="true" />, siehe dessen diesem Brief eingelegtes Schreiben <intlink letter="644" page="369" line="29" linktext="false">HKB 644</intlink>.
+</marginal>
+
+<marginal letter="643" page="369" line="2">
+<bzg>junger Medicus</bzg> <link ref="hamann-jm" linktext="true" />, vgl. <intlink letter="637" page="354" line="34" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="369" line="8">
+<bzg>Idealisten</bzg> <link ref="kant" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="369" line="9" sort="1">
+<bzg>Frau Buchbinderin</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="369" line="9" sort="2">
+<bzg>August</bzg> <link ref="herder-a" linktext="false">August Herder</link>
+</marginal>
+
+<marginal letter="643" page="369" line="10" sort="1">
+<bzg>Pathengeschenk</bzg> Hamann sandte mit einem der letzten Briefe offenbar Münzen als Patengeschenk an August Herder, vgl. <intlink letter="637" page="356" line="34" linktext="true" />.
+</marginal>
+
+<marginal letter="643" page="369" line="10" sort="2">
+<bzg>Vive, vige, vale</bzg> dt. Lebe, blühe und lebe wohl!
+</marginal>
+
+<marginal letter="643" page="369" line="21">
+<bzg>Mahler </bzg> 
+</marginal>
+
+<marginal letter="643" page="369" line="24">
+<bzg>Mutter</bzg> <link ref="schumacher-ar" linktext="true" />
+</marginal>
+
+<marginal letter="643" page="369" line="25">
+<bzg>Patchen von meiner Mutter</bzg> <link ref="hamann-ms" linktext="true" />, vgl. <intlink letter="543" page="48" line="32" linktext="true" />
 </marginal>
 
 
