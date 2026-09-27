@@ -2461,7 +2461,7 @@ Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur
 
 <kommentar id="bondeli" type="neuzeit">
 <lemma>Juliane Charlotte Sophie von Bondeli</lemma>
-<eintrag>1740–1796. Baronesse, Tochter von <link ref="bondeli-fj" linktext="true" />; Ende der 1760er Jahre Wirtin und Schülerin Hamanns ; in den 1770er Jahren wegen der Glücksspielerei ihres Bruders verarmt und daher gezwungen, ein Erziehungsinstitut in Königsberg zu führen (vgl. <intlink letter="622" page="302" line="30" linktext="true" />); in den 1780er Jahren die Erzieherin von <link ref="hamann-er" linktext="false">Hamanns ältester Tochter</link>.</eintrag>
+<eintrag>1740–1796. Baronesse, Tochter von <link ref="bondeli-fj" linktext="true" />; Ende der 1760er Jahre Wirtin und Schülerin Hamanns; in den 1770er Jahren wegen der Glücksspielerei ihres Bruders verarmt und daher gezwungen, ein Erziehungsinstitut in Königsberg zu führen (vgl. <intlink letter="622" page="302" line="30" linktext="true" />); in den 1780er Jahren die Erzieherin von <link ref="hamann-er" linktext="false">Hamanns ältester Tochter</link>.</eintrag>
 </kommentar>
 
 <kommentar id="bondeli-fj" type="neuzeit">
@@ -5926,7 +5926,7 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 
 <kommentar id="euchel" type="neuzeit">
 <lemma>Isaac Abraham Euchel</lemma>
-<eintrag>1754–1804. Hauslehrer der Familie Meyer Friedlaender; Schüler <link ref="kant" linktext="false">Kants</link>, sollte auf dessen Vorschlag hin Dozent für Hebräisch werden;  Übersetzer für Hebräisch und Jiddisch in Königsberg, begründete 1782 mit <link ref="friedlaender-d" linktext="true" /> die Gesellschaft zur Förderung der hebräischen Literaturfreunde und ihr Organ <titel>Ha-Meassef</titel> (Der Sammler); siehe <wwwlink address="https://d-nb.info/gnd/122891961">GND</wwwlink>.
+<eintrag>1754–1804. Hauslehrer der Familie Meyer Friedlaender; Schüler <link ref="kant" linktext="false">Kants</link>, sollte auf dessen Vorschlag hin Dozent für Hebräisch werden; Übersetzer für Hebräisch und Jiddisch in Königsberg, begründete 1782 mit <link ref="friedlaender-d" linktext="true" /> die Gesellschaft zur Förderung der hebräischen Literaturfreunde und ihr Organ <titel>Ha-Meassef</titel> (Der Sammler); siehe <wwwlink address="https://d-nb.info/gnd/122891961">GND</wwwlink>.
 </eintrag>
 </kommentar>
 
@@ -7931,6 +7931,18 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim und Brigitte
 <kommentar id="gunthel" type="neuzeit">
 <lemma>Christoph Gunthel</lemma>
 <eintrag>Lebensdaten nicht ermittelt; 1769/1770 Ratsadvokat und Mälzenbräuer in Königsberg; während des Rechtsstreits von Hamann und <link ref="nuppenau-jp" linktext="true" /> zum Vormund von <link ref="hamann-jc" linktext="true" /> bestellt, was aber bald wieder aufgehoben wurde.</eintrag>
+</kommentar>
+
+<kommentar id="guthrie" type="neuzeit">
+<lemma>William Guthrie</lemma>
+<eintrag>1708–1770. Schottischer Schriftsteller und Geschichtsschreiber, siehe <wwwlink address="https://d-nb.info/gnd/1025948416">GND</wwwlink>.</eintrag>
+<subsection id="guthrie-histoire" type="neuzeit" sort="10">
+<lemma>Guthrie (mit John Gray), <titel>Allgemeine Weltgeschichte</titel></lemma>
+<eintrag>
+<titel>A General History of the World, from the Creation to the Present Time</titel> (12 Bde., London 1764–1767).<line type="break" />
+Übers. (wurde in vielen Auflagen und von verschiedenen Bearbeitern publiziert): <titel>Allgemeine Weltgeschichte von der Schöpfung an bis auf gegenwärtige Zeit</titel> […], ausgefertigt von Wilhelm Guthrie, Johann Gray, und andern in diesen Theilen der Wissenschaften berühmten Gelehrten. Aus dem Englischen übersetzt (17 Bde., Leipzig: Weidmann, Reich 1765–1795). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10031927-0">BSB München: H.un. 236</wwwlink>.<line type="break" />
+Hamann besaß eine Bearbeitung in 18 Bde., Halle: Gebauer 1745–1760 [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;75/22 „Allgem. Welthistorie, 1—18 Th. Halle 745—60. in 18 neuen Franzb.“, 76/23 „Zusätze, 1—4 Th. ib. 747–56.im gl. Bande.“, 76/24 „Neue allgem. Welthistorie, 1–9 Th. ib. 759—64 im gl. Bande.“]. Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/103A3E1E">ÖNB Wien: 49.H.1.(Vol.1) ALT PRUNK</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="guyon" type="neuzeit">
