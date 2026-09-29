@@ -91287,7 +91287,7 @@
 				<page index="81" autopsic="81" />
 				<line index="20" autopsic="31" /><note>Hamann machte auf dem Foliobogen zunächst ein umfangreiches Exzerpt der
 				<line index="21" autopsic="31" />französischen Schrift „L’Inconnue, Histoire veritable 785“, der rätselhaften
-				<line index="22" autopsic="31" />Biographie einer angeblichen natürlichen Tochter von Kaiser Franz I sowie
+				<line index="22" autopsic="31" />Biographie einer angeblichen natürlichen Tochter von Kaiser Franz I. sowie
 				<line index="23" autopsic="31" />der Hofintrigen um sie und der Verhöre durch Johann Karl Philipp Graf Cobenzl.
 				<line index="24" autopsic="31" tab="1" />Diese „Einlage“ ließ Hamann offenbar einem Bekannten in Königsberg
 				<line index="25" autopsic="31" />zukommen – vermutlich Theodor Gottlieb Hippel –, der sie noch am gleichen
@@ -93956,7 +93956,7 @@
 				<line index="18" autopsic="18" />am schwächsten empfinde. Uebrigens bin ich durchaus so beschaffen, daß
 				<line index="19" autopsic="19" />ich <del>das</del> vom schönen u Guten weit mehr, als vom Häßlichen u Bösen
 				<line index="20" autopsic="20" /><ul>gerührt</ul> werde, folglich auch jenes mehr suche als diesem aus dem Wege gehe.
-				<line index="21" autopsic="21" /><insertion><edit ref="8185">den 18.<super>ten</super> <aq>Nov.</aq></edit></insertion>
+				<line index="21" autopsic="21" /><align pos="right"><insertion><edit ref="8185">den 18.<super>ten</super> <aq>Nov.</aq></edit></insertion></align>
 				<line index="22" autopsic="22" />Doch fange ich an v dieser Seite einige Veränderungen zu spüren, die ich dem
 				<line index="23" autopsic="23" />herannahenden Alter zuschreibe. Indeßen ist mir aller <aq>Calcul</aq> in etwas
 				<line index="24" autopsic="24" />wichtigen Dingen noch immer eben sehr zuwider, u wird es wahrscheinlich bis
@@ -96550,17 +96550,18 @@
 				<line index="26" autopsic="26" />Text war nebst dem Ev. Psalm <edit ref="4051">139.</edit> Deine Augen sahen mich pp <aq>Vale, Vale.</aq>
 				<line index="27" autopsic="27" /><align pos="right"><sig>Herder</sig></align>
 				<line type="empty" />
-				<line index="28" autopsic="27" /><edit ref="8187">Sobald sich etwas Bestimmteres von und zu Ihrer Reise ausmacht: so erfreuen
-				<line index="29" autopsic="27" />Sie mich doch bald mit einem Briefe. Wollen Sie aber unerwartet kommen,
-				<line index="30" autopsic="27" />desto beßer, wenn Sie nur gesund dasind.&#x2003;<aq>Vale.</aq> Den 2. Januar 1786.</edit>
+				<line index="28" autopsic="27" /><note>Als Postskriptum am Rand der letzten Seite von Herder notiert:</note>
+				<line index="29" autopsic="27" /><edit ref="8187">Sobald sich etwas Bestimmteres von und zu Ihrer Reise ausmacht: so erfreuen
+				<line index="30" autopsic="27" />Sie mich doch bald mit einem Briefe. Wollen Sie aber unerwartet kommen,
+				<line index="31" autopsic="27" />desto beßer, wenn Sie nur gesund dasind.&#x2003;<aq>Vale.</aq> Den 2. Januar 1786.</edit>
 			</letterText>
 			<letterText letter="915">
 				<page index="213" autopsic="213" />
-				<line index="31" autopsic="29" /><align pos="right"><datum>Kgsberg den 4 Jänner 86</datum></align>
-				<line index="32" autopsic="30" />Nun Herzenslieber J. Diesen Morgen erhalte Ihren Brief vom 23 <aq>pr.</aq>
-				<line index="33" autopsic="31" />und sehe mit Verdruß daraus, daß <edit ref="6390">Sie</edit> krank sind und kalmäusern. So muß
-				<line index="34" autopsic="32" />man das Neue Jahr nicht anfangen. Ich habe die beyden ersten Nächte
-				<line index="35" autopsic="33" />deßelben auch beynahe schlaflos zugebracht, aber die beyden letzten sind desto
+				<line index="32" autopsic="29" /><align pos="right"><datum>Kgsberg den 4 Jänner 86</datum></align>
+				<line index="33" autopsic="30" />Nun Herzenslieber J. Diesen Morgen erhalte Ihren Brief vom 23 <aq>pr.</aq>
+				<line index="34" autopsic="31" />und sehe mit Verdruß daraus, daß <edit ref="6390">Sie</edit> krank sind und kalmäusern. So muß
+				<line index="35" autopsic="32" />man das Neue Jahr nicht anfangen. Ich habe die beyden ersten Nächte
+				<line index="36" autopsic="33" />deßelben auch beynahe schlaflos zugebracht, aber die beyden letzten sind desto
 				<page index="214" autopsic="214" />
 				<line index="1" autopsic="1" />gesunder und ruhiger gewesen. Sie wollen meinen guten Rath, und den darf
 				<line index="2" autopsic="2" />ich Ihnen nicht geben. Ihre <del>N</del>eigene Natur und die Vorsehung giebt
