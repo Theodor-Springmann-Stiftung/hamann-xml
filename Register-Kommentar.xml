@@ -9681,7 +9681,7 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <subsection id="herder-seelenwandrung" type="neuzeit" sort="630">
 <lemma>Herder, <titel>Ueber die Seelenwandrung</titel></lemma>
 <eintrag>
-<titel>Ueber die Seelenwandrung. Drei Gespräche</titel>, in: <link ref="teutsche-merkur" linktext="false"><titel>Teutscher Merkur</titel></link>, 1.&#x202F;Vj. 1782; Gespräch 1 und 2 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=18%2C19">Januar-Heft, S.&#x202F;12–54</wwwlink>, Gespräch 3 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=106%2C107">Februar-Heft, S.&#x202F;96–123</wwwlink>.
+<titel>Ueber die Seelenwandrung. Drei Gespräche</titel>, in: <link ref="teutsche-merkur" linktext="false"><titel>Teutscher Merkur</titel></link>, 1.&#x202F;Vj. 1782; Gespräch 1 und 2 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=18%2C19">Januar-Heft, S.&#x202F;12–54</wwwlink>, Gespräch 3 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=106%2C107">Februar-Heft, S.&#x202F;96–123</wwwlink>. Die Schrift geht auf <link ref="schlosser" subref="schlosser-geisterwanderung" linktext="true" /> ein.
 </eintrag>
 </subsection>
 <subsection id="herder-ebraeische-poesie" type="neuzeit" sort="640">
@@ -11577,6 +11577,17 @@ Der Kantersche Buchladen war ein in Königsberg und darüber hinaus bekannter Or
 <eintrag>Geb. 1780. Tochter von <link ref="kaufmann-c" linktext="true" /> und <link ref="kaufmann-e" linktext="true" />.</eintrag>
 </kommentar>
 
+<kommentar id="koelpin" type="neuzeit">
+<lemma>Alexander Bernhard Kölpin</lemma>
+<eintrag>1739–1801. Arzt, ab 1771 Professor am akademischen Gymnasium und Stadtphysikus in Stettin, siehe <wwwlink address="https://d-nb.info/gnd/117528439">GND</wwwlink>.</eintrag>
+<subsection id="koelpin-bemerkungen" type="neuzeit" sort="10">
+<lemma>Kölpin, <titel>Medicinisch-praktische Bemerkungen</titel></lemma>
+<eintrag>
+<titel>Medicinisch-praktische Bemerkungen von D. Alexander Bernhard Kölpin</titel> (Berlin, Stettin: Nicolai 1779). Digitalisat: <wwwlink address="http://dx.doi.org/10.25673/81778">ULB Halle: Ug 711</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="koepken" type="neuzeit">
 <lemma>Arnd von Koepken</lemma>
 <eintrag>1732–1789, auch Arend Köpke. Königlich-preußischer Oberfinanz-, Kriegs- und Domänenrat. Ab 1786 Mitglied der <link ref="general-akzise-und-zoll-direktion" linktext="true" /> und bis zu seinem Tod im <link ref="generaldirektorium" linktext="true" /> tätig.</eintrag>
@@ -11675,6 +11686,11 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 <kommentar id="keber" type="neuzeit">
 <lemma>Samuel Jakob Keber</lemma>
 <eintrag>1720–1791. 1744–1751 Pfarrer in Momehnen, dann Gerdauen.</eintrag>
+</kommentar>
+
+<kommentar id="kelch" type="neuzeit">
+<lemma>Friedrich Wilhelm Kelch</lemma>
+<eintrag>Pfarrer in Königsberg.</eintrag>
 </kommentar>
 
 <kommentar id="keil" type="neuzeit">
@@ -19246,7 +19262,7 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <subsection id="schlosser-geisterwanderung" type="neuzeit" sort="30">
 <lemma>Schlosser, <titel>Ueber die Seelenwanderung</titel></lemma>
 <eintrag>
-<titel>Ueber die Seelenwanderung von Joh. Georg Schlosser</titel> (2 Bde., Basel: Serini 1781–1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11916484-6">LB Coburg: B II 11</wwwlink>.</eintrag>
+<titel>Ueber die Seelenwanderung von Joh. Georg Schlosser</titel> (2 Bde., Basel: Serini 1781–1782). Der erste Band gab den Anstoß, der zweite reagierte auf <link ref="herder" subref="herder-seelenwandrung" linktext="true" />. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11916484-6">LB Coburg: B II 11</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
@@ -19321,7 +19337,7 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 
 <kommentar id="schmohl" type="neuzeit">
 <lemma>Johann Christian Schmohl</lemma>
-<eintrag>1756–1783. Spätaufklärerischer politischer Publizist; 1776/77 Lehrer am Dessauer Philanthropin, studierte Kameralwissenschaft in Halle und wurde 1781 nach dem Verbot seiner <link ref="schmohl" subref="schmohl-sammlung" linktext="false"><titel>Sammlung von Aufsätzen verschiedener Verfasser</titel></link> verhaftet; er floh 1781 aus dem Gefängnis in Halle und reiste durch Europa und England, tauchte u.a. bei <link ref="bahrdt" linktext="false">Bahrdt</link> unter, und erschien im Frühjahr 1782 in Begleitung <link ref="reichardt-jf" linktext="false">Reichardts</link> in Königsberg, wo er sich vom 10. Februar bis zum 15. April 1782 unter dem Decknamen „Vetter Becker“ aufhielt und die letzten acht oder neun Tage bei Hamann wohnte (vgl. <intlink letter="654" page="399" line="4" linktext="true" />); nach seiner Abreise per Schiff nach Amsterdam (vgl. <intlink letter="646" page="373" line="1" linktext="true" />), mit Empfehlungsschreiben versehen (u.a. von Hamann an <link ref="hogendorp-g" linktext="true" />), versuchte er, die unabhängigen Kolonien in Nordamerika zu erreichen und ertrank wohl 1783 in Bermuda (vgl. <intlink letter="806" page="352" line="12" linktext="true" />); siehe <wwwlink address="https://d-nb.info/gnd/131245562">GND</wwwlink>, Rainer Wild (Hg.): <titel>Johann Christian Schmohl: Über Nordamerika und Demokratie: ein Brief aus England</titel> (St. Ingbert 1992) und Maximilian Lässig: <titel>Radikale Aufklärung in Deutschland: Karl von Knoblauch, Andreas Riem und Johann Christian Schmohl</titel> (Berlin, Boston 2020).</eintrag>
+<eintrag>1756–1783. Spätaufklärerischer politischer Publizist; 1776/77 Lehrer am Dessauer Philanthropin, studierte Kameralwissenschaft in Halle und wurde 1781 nach dem Verbot seiner <link ref="schmohl" subref="schmohl-sammlung" linktext="false"><titel>Sammlung von Aufsätzen verschiedener Verfasser</titel></link> verhaftet; er floh 1781 aus dem Gefängnis in Halle und reiste durch Europa und England, tauchte u.a. bei <link ref="bahrdt" linktext="false">Bahrdt</link> unter, und erschien im Frühjahr 1782 in Begleitung <link ref="reichardt-jf" linktext="false">Reichardts</link> in Königsberg, wo er sich vom 10. Februar bis zum 15. April 1782 unter dem Decknamen „Vetter Becker“ aufhielt und bei Hamann wohnte während seines Pogagra-Anfalls Anfang April (vgl. <intlink letter="654" page="399" line="4" linktext="true" />); nach seiner Abreise per Schiff nach Amsterdam (vgl. <intlink letter="646" page="373" line="1" linktext="true" />), mit Empfehlungsschreiben versehen (u.a. von Hamann an <link ref="hogendorp-g" linktext="true" />), versuchte er, die unabhängigen Kolonien in Nordamerika zu erreichen und ertrank wohl 1783 in Bermuda (vgl. <intlink letter="806" page="352" line="12" linktext="true" />); siehe <wwwlink address="https://d-nb.info/gnd/131245562">GND</wwwlink>, Rainer Wild (Hg.): <titel>Johann Christian Schmohl: Über Nordamerika und Demokratie: ein Brief aus England</titel> (St. Ingbert 1992) und <link ref="las-m-2020" linktext="false"></link>Lässig: <titel>Radikale Aufklärung in Deutschland</titel>, S.&#x202F;36f.</eintrag>
 <subsection id="schmohl-mochel" type="neuzeit" sort="20">
 <lemma>Schmohl, <titel>Urne Johann Jacob Mochels</titel></lemma>
 <eintrag>
@@ -19518,7 +19534,7 @@ Zweite Auflage: <titel>Lyrische, Elegische und Epische Poesien, nebst einer krit
 
 <kommentar id="schrotter-ajh" type="neuzeit">
 <lemma>August Johann Heinrich Freiherr von Schrötter</lemma>
-<eintrag>1752–1833. Sohn von <link ref="schrotter-ja" linktext="true" /></eintrag>
+<eintrag>1752–1833. Sohn von <link ref="schrotter-ja" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="schubert" type="neuzeit">
