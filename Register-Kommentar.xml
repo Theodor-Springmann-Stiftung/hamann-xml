@@ -9684,6 +9684,18 @@ Es gab zwei frühere Fassungen: <titel>Uebers Erkennen und Empfinden in der Mens
 <titel>Ueber die Seelenwandrung. Drei Gespräche</titel>, in: <link ref="teutsche-merkur" linktext="false"><titel>Teutscher Merkur</titel></link>, 1.&#x202F;Vj. 1782; Gespräch 1 und 2 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=18%2C19">Januar-Heft, S.&#x202F;12–54</wwwlink>, Gespräch 3 im <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=106%2C107">Februar-Heft, S.&#x202F;96–123</wwwlink>. Die Schrift geht auf <link ref="schlosser" subref="schlosser-geisterwanderung" linktext="true" /> ein.
 </eintrag>
 </subsection>
+<subsection id="herder-historische-zweifel" type="neuzeit" sort="635">
+<lemma>Herder, <titel>Historische Zweifel</titel></lemma>
+<eintrag>
+<titel>Historische Zweifel über das Buch: „Versuch über die Beschuldigungen, welche dem Tempelherrenorden gemacht worden, und über dessen Geheimniß; nebst einem Anhange über das Entstehen der Freimäurergesellschaft, von Friedrich Nicolai“</titel>, in: <link ref="teutsche-merkur" linktext="false"><titel>Teutscher Merkur</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=238%2C239">1.&#x202F;Vj.&#x202F;1782 (März-Heft), S.&#x202F;224–255.</wwwlink>
+</eintrag>
+</subsection>
+<subsection id="herder-zweifel-fortsetzung" type="neuzeit" sort="636">
+<lemma>Herder, <titel>Briefe über Tempelherrn</titel></lemma>
+<eintrag>
+<titel>Briefe über Tempelherren, Freimäurer und Rosenkreuzer. Eine Fortsetzung der historischen Zweifel über des Herrn Nicolai Buch</titel>, in: <link ref="teutsche-merkur" linktext="false"><titel>Teutscher Merkur</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617984?page=52%2C53">2.&#x202F;Vj.&#x202F;1782 (April-Heft), S.&#x202F;46–83.</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617984?page=246%2C247">Juni-Heft, S.&#x202F;232–252</wwwlink>.
+</eintrag>
+</subsection>
 <subsection id="herder-ebraeische-poesie" type="neuzeit" sort="640">
 <lemma>Herder, <titel>Vom Geist der Ebräischen Poesie</titel></lemma>
 <eintrag>
@@ -10254,7 +10266,7 @@ Zu seiner Tätigkeit als dirigierender Bürgermeister von Königsberg vgl. <link
 
 <kommentar id="hoffmann-kl" type="neuzeit">
 <lemma>Carl Ludolph Hoffmann</lemma>
-<eintrag>1729–1780. Inhaber der Die Hoffmann’schen Hofbuchhandlung in Weimar; er verlegte auf Vermittlung Herders u.a. <link ref="hamann" subref="hamann-konxompax" linktext="false">Hamanns <titel>Konxompax</titel></link> und <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>.</eintrag>
+<eintrag>1729–1780. Inhaber der Hoffmann’schen Hofbuchhandlung in Weimar; er verlegte auf Vermittlung <link ref="herders" linktext="false">Herders</link> u.a. <link ref="hamann" subref="hamann-konxompax" linktext="false">Hamanns <titel>Konxompax</titel></link> und <link ref="hamann" subref="hamann-scherflein" linktext="false"><titel>Zwey Scherflein</titel></link>.</eintrag>
 </kommentar>
 
 <kommentar id="hogendorp" type="neuzeit">
@@ -14750,6 +14762,19 @@ Gest. um 180 n.&#x202F;Chr. Bischof von Sardes bei Smyrna und frühchristlicher 
 </eintrag>
 </kommentar>
 
+<kommentar id="menasse" type="neuzeit">
+<lemma>Menasse ben Israel</lemma>
+<eintrag>1604–1657. Sephardischer Jude, Gelehrter und Verleger in Amsterdam; verhandelte in den 1650er Jahren mit Cromwell und dem englischen Parlament über die Rückkehr der Juden nach England (von wo sie seit 1290 vertrieben waren); siehe <wwwlink address="https://d-nb.info/gnd/118985140">GND</wwwlink>.
+<subsection id="menasse-vindiciae" type="neuzeit" sort="10">
+<lemma>Menasse, <titel>Vindiciae Judaeorum</titel></lemma>
+<eintrag>
+<titel>Vindiciae Judaeorum, or a letter in answer to certain questions propounded by a nobel and learned gentleman, touching the reproaches cast on the nation of the jevvs; wherein all objections are candidly, and yet fully cleared</titel> (s.l. 1656). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11009470-4">BSB München: Jud. 183 s</wwwlink>. 1782 auf Veranlassung <link ref="mendelssohn" subref="mendelssohn-rettung" linktext="false">Mendelssohns</link> von <link ref="herz" linktext="true" />. übersetzt.
+</eintrag>
+</subsection>
+
+</eintrag>
+</kommentar>
+
 <kommentar id="mendelssohn" type="neuzeit">
 <lemma>Moses Mendelssohn</lemma>
 <eintrag>1729–1786. <wwwlink address="https://www.deutsche-biographie.de/pnd118580744.html#adbcontent">Muncker, Franz: Mendelssohn, Moses, in: <titel>ADB</titel>&#x202F;21 (1885), S.&#x202F;316–324</wwwlink>.<line type="break" />
@@ -14819,6 +14844,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <subsection id="mendelssohn-pentateuch" type="neuzeit" sort="80">
 <lemma>Mendelssohn (u.a.), &lt;titel&gt;ספר נתיבות השלום&lt;/titel&gt;</lemma>
 <eintrag><titel>[Sefer netivot ha-schalom] ספר נתיבות השלום</titel> (5 Bde., Berlin 1780–1783). Die in hebräischen Lettern gedruckte deutsche Übersetzung des Pentateuch ist jeweils mit einem hebräischen Sachkommentar (Bi&apos;ur) und massoretischem Kommentar (Tikkun soferim) versehen. Die Bände zwei bis fünf erschienen jeweils ohne Titelblatt. Eine Umschrift der Übersetzung ins Deutsche Alphabet erschien nur für den ersten Band durch Josias Friedrich Christian Löffler, <titel>Die fünf Bücher Mose zum Gebrauch der jüdischdeutschen Nation</titel> (Berlin, Stettin: Nicolai 1780). Digitalisat: <wwwlink address="https://books.google.de/books?id=-mdrF8LY-5gC">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="mendelssohn-rettung" type="neuzeit" sort="90">
+<lemma>Mendelssohn, <titel>Manasseh Ben Israel Rettung der Juden</titel></lemma>
+<eintrag>
+<titel>Manasseh Ben Israel Rettung der Juden Aus dem Englischen übersetzt [von <link ref="herz" linktext="true" />]. Nebst einer Vorrede von Moses Mendelssohn. Als ein Anhang zu des Hrn. Kriegsraths <link ref="dohm-cw" subref="dohm-juden" linktext="false">Dohm Abhandlung: Ueber die bürgerliche Verbesserung der Juden</link></titel> (Berlin, Stettin: Nicolai 1782). Digitalisat: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN672590867">SUB Göttingen: 8 POL IV, 9760</wwwlink>. – Übersetzung von <link ref="menasse" subref="menasse-vindiciae" linktext="true" />.
+</eintrag>
 </subsection>
 </kommentar>
 
@@ -16214,7 +16245,13 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 <subsection id="nicolai-reise" type="neuzeit" sort="100">
 <lemma>Nicolai, <titel>Beschreibung einer Reise durch Deutschland und die Schweiz</titel></lemma>
 <eintrag>
-<titel>Beschreibung einer Reise durch Deutschland und die Schweiz, im Jahre 1781. Nebst Bemerkungen über Gelehrsamkeit, Industrie, Religion und Sitten, von Friedrich Nicolai</titel> (12 Bde., Berlin, Stettin 1783–1796). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11748063%2FBV041632418">BSB München: Hbh/Bh 446</wwwlink></eintrag>
+<titel>Beschreibung einer Reise durch Deutschland und die Schweiz, im Jahre 1781. Nebst Bemerkungen über Gelehrsamkeit, Industrie, Religion und Sitten, von Friedrich Nicolai</titel> (12 Bde., Berlin, Stettin 1783–1796). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11748063%2FBV041632418">BSB München: Hbh/Bh 446</wwwlink>.</eintrag>
+</subsection>
+. 1, 2. Berlin/Stettin 1782
+<subsection id="nicolai-reise" type="neuzeit" sort="110">
+<lemma>Nicolai, <titel>Tempelherrenorden</titel></lemma>
+<eintrag>
+<titel>Versuch über die Beschuldigungen welche dem Tempelherrenorden gemacht worden, und über dessen Geheimniß; Nebst einem Anhange über das Entstehen der Freymaurergesellschaft, von Friedrich Nicolai</titel> (2 Bde., Berlin, Stettin 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10726355-1">BSB München: Bibl.Mont. 5034-1</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
