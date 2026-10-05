@@ -12507,9 +12507,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="650">
-        <date value="9.–10. Juni 1782" />
+        <date value="Königsberg, 9.–10. Juni 1782" />
         <sort value="1782-06-09" from="1782-06-09" to="1782-06-10" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
