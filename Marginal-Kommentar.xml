@@ -21732,19 +21732,19 @@ Brief Nr. 205
 Brief Nr. 206
 
 <marginal letter="206" page="82" line="28">
-<bzg>Sale seinen</bzg> <link ref="sale" subref="sale-koran" linktext="true" /> 
+<bzg>Sale seinen</bzg> <link ref="sale" subref="sale-koran" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="82" line="33">
-<bzg>Hinckelmann</bzg> <link ref="hinkelmann" subref="hinkelmann-koran" linktext="true" /> 
+<bzg>Hinckelmann</bzg> <link ref="hinkelmann" subref="hinkelmann-koran" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="83" line="1">
-<bzg>Golii Lexico</bzg> <link ref="golius" subref="golius-lexicon" linktext="true" /> 
+<bzg>Golii Lexico</bzg> <link ref="golius" subref="golius-lexicon" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="83" line="6">
-<bzg>Hinckelmanns Vorrede</bzg> <link ref="hinkelmann" subref="hinkelmann-koran" linktext="true" /> 
+<bzg>Hinckelmanns Vorrede</bzg> <link ref="hinkelmann" subref="hinkelmann-koran" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="83" line="9">
@@ -21776,11 +21776,11 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="83" line="17">
-<bzg>gelehrten Lexici</bzg> vmtl. besaß Hamann die zweibändige Ausg. (1733) von <link ref="joecher" subref="joecher-lexicon" linktext="true" /> 
+<bzg>gelehrten Lexici</bzg> vmtl. besaß Hamann die zweibändige Ausg. (1733) von <link ref="joecher" subref="joecher-lexicon" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="83" line="20" sort="1">
-<bzg>Alkorann des Sale</bzg> <link ref="sale" subref="sale-koran" linktext="true" /> 
+<bzg>Alkorann des Sale</bzg> <link ref="sale" subref="sale-koran" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="83" line="20" sort="2">
@@ -21811,12 +21811,20 @@ Brief Nr. 206
 <bzg>Theater des Diderots</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />
 </marginal>
 
+<marginal letter="206" page="84" line="2">
+<bzg>zweyten Theil</bzg> „Unterredungen über den natürlichen Sohn“, in <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;1, S.&#x202F;155–371
+</marginal>
+
 <marginal letter="206" page="84" line="3">
 <bzg>Abhandlung an HE Grimm</bzg> „Von der dramatischen Dichtkunst. An meinen Freund Herrn Grimm“, in <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;231–480
 </marginal>
 
 <marginal letter="206" page="84" line="5">
-<bzg>„Wehe jedem&#x202F;…“</bzg> Ebd., S.&#x202F;233
+<bzg>„Wehe jedem&#x202F;…</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;233
+</marginal>
+
+<marginal letter="206" page="84" line="10">
+<bzg>nicht Regeln&#x202F;…&#x202F;gewißer</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;1, S.&#x202F;214: „Sie [d.i. die Dichter, Schauspieler, Musiker, Maler, Sänger, Tänzer etc] werden nicht durch Regeln, sondern durch etwas ganz anders, das weit unmittelbarer, weit inniger, weit dunkler und weit gewisser ist, geführt und erleuchtet.“ Bei 84/10 „erleichtern“ handelt es sich möglicherweise um einen Transkriptionsfehler von recte „erleuchten".
 </marginal>
 
 <marginal letter="206" page="84" line="12" sort="1">
@@ -21824,11 +21832,11 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="84" line="12" sort="2">
-<bzg>Ariston</bzg> Ebd., S.&#x202F;470–480
+<bzg>Ariston</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;470–480. Mit der Anekdote des Philosophen Ariste schließt Diderot seine Abhandlung ›Von der dramatischen Dichtkunst‹ ab. Nachdem Ariste im Alter von vierzig Jahren erkennen muss, dass er auf die Frage, was das Gute, Schöne und Wahre sei, keine befriedigende Antwort zu geben vermag, zieht er sich in die Einsamkeit zurück und unterzieht sich einer fünfzehnjährigen Selbstbildung: »So sprach Arist mit sich selbst, und sahe, daß er noch sehr vieles zu lernen habe. Er ging nach Hause; verschloß sich funfzehn Jahre; legte sich auf die Geschichte, auf die Weltweisheit, auf die Moral, auf die Wissenschaften und Künste; und ward in seinem fünf und funfzigsten Jahre ein ehrlicher Mann von Geschmack, ein grosser Schriftsteller, ein vortrefflicher Kunstrichter.« (480) Diderot lehnt das dramatische Mittel des ‚Theaterstreichs‘ dezidiert ab und stellt ihm das Konzept des ‚tableau‘ (Gemälde) gegenüber.
 </marginal>
 
 <marginal letter="206" page="84" line="16">
-<bzg>Hausvater</bzg> <link ref="diderot" subref="diderot-pere" linktext="true" />. Übers. von <link ref="lessing" linktext="true" /> in <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;3–228
+<bzg>Hausvater</bzg> <link ref="diderot" subref="diderot-pere" linktext="true" />. Übers. als „Der Hausvater“ von <link ref="lessing" linktext="false">Lessing</link> in <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;3–228
 </marginal>
 
 <marginal letter="206" page="84" line="18">
@@ -21836,7 +21844,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="84" line="23" sort="1">
-<bzg>durchlöcherte Brunnen</bzg> <link ref="hamann" subref="hamann-aesthaetica" linktext="true" />, N&#x202F;II, S.&#x202F;209,18, ED S.&#x202F;198
+<bzg>durchlöcherte Brunnen</bzg> <link ref="at-jer" subref="at-jer2" linktext="false">Jer 2,13</link>; Vgl. <link ref="hamann" subref="hamann-aesthaetica" linktext="true" />, N&#x202F;II, S.&#x202F;209,18, ED S.&#x202F;198
 </marginal>
 
 <marginal letter="206" page="84" line="23" sort="2">
@@ -21844,7 +21852,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="84" line="27">
-<bzg>Aarons</bzg> Verfertiger des goldenen Kalbs, <link ref="at-mo2" subref="at-mo2-32" linktext="false">2&#x202F;Mo 32</link> 
+<bzg>Aarons</bzg> Verfertiger des goldenen Kalbs, <link ref="at-mo2" subref="at-mo2-32" linktext="false">2&#x202F;Mo 32</link>
 </marginal>
 
 <marginal letter="206" page="84" line="28">
@@ -21852,7 +21860,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="84" line="36">
-<bzg>Gleichnis des Diderots</bzg> Ebd., Tl.&#x202F;2, S.&#x202F;339: „Die von der dramatischen Dichtkunst geschrieben haben, gleichen einem Menschen, der indem er auf Mittel sänne, wie er eine ganze Familie in Unruhe stürzen könne, diese Mittel nicht nach dieser Unruhe selbst, sondern nach dem abwägen wollte, was die Nachbarn davon sagen würden. O kümmert euch doch nicht um die Nachbaren; peiniget nur eure Personen recht, und seyd versichert, daß diese keinen Verdruß haben werden, an dem jene nicht Antheil nehmen!“
+<bzg>Gleichnis des Diderots</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;339: „Die von der dramatischen Dichtkunst geschrieben haben, gleichen einem Menschen, der indem er auf Mittel sänne, wie er eine ganze Familie in Unruhe stürzen könne, diese Mittel nicht nach dieser Unruhe selbst, sondern nach dem abwägen wollte, was die Nachbarn davon sagen würden. O kümmert euch doch nicht um die Nachbaren; peiniget nur eure Personen recht, und seyd versichert, daß diese keinen Verdruß haben werden, an dem jene nicht Antheil nehmen!“
 </marginal>
 
 <marginal letter="206" page="85" line="6">
@@ -21860,11 +21868,15 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="85" line="7">
-<bzg>Racine</bzg> <link ref="racine" linktext="true" />, vgl. bspw. <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;402: „Wie man mit vieler Arbeit eine Scene machen kann, wie sie Corneille gemacht hat, ohne selbst ein Corneille zu seyn, das kann ich begreiffen: aber nie habe ich es begreiffen können, wie man eine Racinische Scene machen kann, ohne selbst ein Racine zu seyn.“
+<bzg>Racine</bzg> <link ref="racine" linktext="true" />, vgl. bspw. <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;398: „Man kann sich leicht einbilden, daß diese Leute in den Racine vernarrt sind; und ich muß nur gestehen, daß ich es auch bin.“
+</marginal>
+
+<marginal letter="206" page="85" line="14">
+<bzg>durch so feine Empfindungen</bzg> <link ref="diderot" subref="diderot-theater" linktext="true" />, Tl.&#x202F;2, S.&#x202F;399: „Ich wüsste nichts schwerers als ein Gespräch, wo alles, was gesagt und geantwortet wird, durch so feine Empfindungen, durch so flüchtige Gedanken, durch so schnelle Bewegungen der Seele, durch so unmerkliche Beziehungen verbunden ist, daß es ganz ohne Verbindung, und besonders für diejenigen ohne Verbindung zu seyn scheinet, die nicht dazu gemacht sind, in den nehmlichen Umständen das Nehmliche zu empfinden.“
 </marginal>
 
 <marginal letter="206" page="85" line="23">
-<bzg>Sapere aude!</bzg> <link ref="horaz" subref="horaz-epistel" linktext="false">Hor. <titel>epist.</titel></link> I,2,40&#x202F;f.: „Habe Mut, dich deines eigenen Verstandes zu bedienen!“
+<bzg>Sapere aude!</bzg> <link ref="horaz" subref="horaz-epistel" linktext="false">Hor. <titel>epist.</titel></link>, 1,2,40&#x202F;f.: „Habe Mut, dich deines eigenen Verstandes zu bedienen!“
 </marginal>
 
 <marginal letter="206" page="85" line="33">
@@ -21876,7 +21888,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="86" line="1" sort="1">
-<bzg>verlornen Blättern</bzg> vgl. <intlink letter="204" page="78" line="15" linktext="true" /> 
+<bzg>verlornen Blättern</bzg> vgl. <intlink letter="204" page="78" line="15" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="86" line="1" sort="2">
@@ -21884,7 +21896,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="86" line="3">
-<bzg>George B..</bzg> <link ref="bassa" linktext="true" /> 
+<bzg>George B..</bzg> <link ref="bassa" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="86" line="11" sort="1">
@@ -21892,7 +21904,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="86" line="11" sort="2">
-<bzg>Teske</bzg> <link ref="teske" linktext="true" /> 
+<bzg>Teske</bzg> <link ref="teske" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="86" line="34">
@@ -21904,7 +21916,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="87" line="1">
-<bzg>Treschos Autorschaft</bzg> <link ref="trescho-sf" linktext="true" /> 
+<bzg>Treschos Autorschaft</bzg> <link ref="trescho-sf" linktext="true" />
 </marginal>
 
 <marginal letter="206" page="87" line="2">
@@ -21924,7 +21936,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="87" line="28">
-<bzg>Testimonium paupertatis</bzg> Bescheinigung über Mittellosigkeit 
+<bzg>Testimonium paupertatis</bzg> Bescheinigung über Mittellosigkeit
 </marginal>
 
 <marginal letter="206" page="87" line="31">
@@ -21932,7 +21944,7 @@ Brief Nr. 206
 </marginal>
 
 <marginal letter="206" page="87" line="35">
-<bzg>Schmackostern</bzg> Osterbrauch, bei dem sich junge Männer und Frauen gegenseitig mit Weidenruten schlagen. 
+<bzg>Schmackostern</bzg> Osterbrauch, bei dem sich junge Männer und Frauen gegenseitig mit Weidenruten schlagen.
 </marginal>
 
 <marginal letter="206" page="88" line="4">
