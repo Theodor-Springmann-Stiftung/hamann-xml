@@ -3785,6 +3785,11 @@ vermutl. zus. mit <link ref="auvigny" linktext="true" />, <titel>Anecdotes galan
 <kommentar id="diderot" type="neuzeit">
 <lemma>Denis Diderot</lemma>
 <eintrag>1712–1784. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;11, 1814), S.&#x202F;314–323.</eintrag>
+<subsection id="diderot-bijoux" type="neuzeit" sort="5">
+<lemma>Diderot, <titel>Les Bijoux indiscrets</titel></lemma>
+<eintrag><titel>Les Bijoux indiscrets</titel> (2 Bde., Monomotapa [Paris] 1748). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11717906-2">BSB München: L.fr.d.15-b(1</wwwlink>. 
+</eintrag>
+</subsection>
 <subsection id="diderot-pere" type="neuzeit" sort="10">
 <lemma>Diderot, <titel>Le Pere de Famille</titel></lemma>
 <eintrag><titel>Le Pere de Famille, Comédie en cinq Actes, et en Prose, avec un Discours sur la Poésie Dramatique</titel> (Amsterdam 1748). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10090309-0">BSB München: P.o.gall. 620 n</wwwlink>. Übersetzt von <link ref="lessing" linktext="true" /> in <link ref="diderot" subref="diderot-theater" linktext="true" />.
@@ -3798,8 +3803,8 @@ vermutl. zus. mit <link ref="auvigny" linktext="true" />, <titel>Anecdotes galan
 <subsection id="diderot-theater" type="neuzeit" sort="30">
 <lemma>Diderot, <titel>Das Theater des Herrn Diderot</titel></lemma>
 <eintrag>
-<titel>Das Theater des Herrn Diderot. Aus dem Französischen</titel>, anonym übers. von l’Abbé Antoine- François Prévost
-d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;171/661: „Diderots Theater, 1. Th. ib. [Berlin] 760.“] Teil&#x202F;1 enthält: <titel>Der natürliche Sohn, oder die Proben der Tugend : Ein Schauspiel in fünf Aufzügen</titel>. Teil&#x202F;2 enthält: <titel>Der Hausvater : Ein Schauspiel in fünf Aufzügen</titel>. Digitalisat, Teil&#x202F;1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-bsz3222706267">WLB Stuttgart: Fr.D.oct.2376-1</wwwlink> und Teil&#x202F;2: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:8:2-1145311">UB Kiel: J 7963-2</wwwlink>.
+<titel>Das Theater des Herrn Diderot. Aus dem Französischen</titel>, anonym übers. von <link ref="lessing" linktext="true" />
+(2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;171/661: „Diderots Theater, 1. Th. ib. [Berlin] 760.“] Teil&#x202F;1 enthält: <titel>Der natürliche Sohn, oder die Proben der Tugend : Ein Schauspiel in fünf Aufzügen</titel>. Teil&#x202F;2 enthält: <titel>Der Hausvater: Ein Schauspiel in fünf Aufzügen</titel> sowie <titel>Von der dramatischen Dichtkunst</titel>. Digitalisat, Teil&#x202F;1: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:24-digibib-bsz3222706267">WLB Stuttgart: Fr.D.oct.2376-1</wwwlink> und Teil&#x202F;2: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:gbv:8:2-1145311">UB Kiel: J 7963-2</wwwlink>.
 </eintrag> 
 </subsection>
 <subsection id="diderot-lettres" type="neuzeit" sort="35">
@@ -3812,10 +3817,20 @@ d'Exiles) (2&#x202F;Tle., Berlin: Voß 1760). [<link ref="hamann" subref="hamann
 <lemma>Diderot, <titel>Art</titel></lemma>
 <eintrag>Zusammen mit <link ref="yvon" linktext="true" /> und <link ref="mallet" linktext="true" />, Artikel „Art“ in der <link ref="encyclopedie" linktext="true" />, Bd.&#x202F;1, S.&#x202F;713ff.</eintrag>
 </subsection>
-<subsection id="diderot-morales" type="neuzeit" sort="50">
-<lemma>Marie Geneviève Charlotte Thiroux d’Arconville, <titel>Les Oeuvres Morales de Mr. Diderot</titel></lemma>
+<subsection id="diderot-seneque" type="neuzeit" sort="60">
+<lemma>Diderot, <titel>Essai sur la vie de Séneque</titel></lemma>
 <eintrag>
-<titel>Les Oeuvres Morales De Mr. Diderot: Contenant son traité de l’amitié et celui des passions</titel> (Frankfurt 1770). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10040291-7">BSB München: Ph.pr. 341-1/2</wwwlink>. – Diderot zugeschrieben.</eintrag>
+<titel>Essai sur la vie de Séneque le philosophe, sur ses écrits, et sur les regnes de Claude et de Néron. Avec des Notes</titel> (Den Haag 1779). Digitalisat: <wwwlink address="https://books.google.ch/books?id=SqgPAAAAQAAJ">Google Books</wwwlink>.</eintrag>
+</subsection>
+<subsection id="diderot-jacques" type="neuzeit" sort="70">
+<lemma>Diderot, <titel>Jacques le fataliste</titel></lemma>
+<eintrag>
+<titel>Jacques le fataliste et son maître</titel>. Zu Lebzeiten Diderots nicht gedruckt, teilweise in <link ref="grimm-fm" linktext="false">Melchior Grimms</link> <titel>Correspondance littéraire</titel> publiziert, erste Teilübersetzung 1785 von Schiller, erste französische Buchausgabe 1796; 1780 kursierte ein Manuskript in Weimar, vgl. <link ref="herder" linktext="false">HBGA, Bd.&#x202F;12, S.&#x202F;98f.</link></eintrag>
+</subsection>
+<subsection id="diderot-religieuse" type="neuzeit" sort="80">
+<lemma>Diderot, <titel>La religieuse</titel></lemma>
+<eintrag>
+<titel>La religieuse</titel>. Zu Lebzeiten Diderots nicht gedruckt, 1792 als Manuskript in <link ref="grimm-fm" linktext="false">Melchior Grimms</link> <titel>Correspondance littéraire</titel> publiziert; kursierte 1782 als Manuskript in Gotha und Weimar.</eintrag>
 </subsection>
 </kommentar>
 
