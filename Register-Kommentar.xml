@@ -5529,7 +5529,17 @@ Hamann setzte im Herbst 1776 zu einem Text gegen die 2. Aufl. an, vgl. <intlink 
 <kommentar id="eichhorn" type="neuzeit">
 <lemma>Johann Gottfried Eichhorn</lemma>
 <eintrag>1752–1827. Seit 1775 Professor der evangelischen Theologie und Orientalistik in Jena, ab 1788 in Göttingen; rezensierte <link ref="herder" subref="herder-maran" linktext="false">Herders <titel>Maran Atha</titel></link> in der <link ref="allgemeine-deutsche-bib" linktext="false"><titel>Allgemeinen deutschen Bibliothek</titel></link>; siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118688294.html#ndbcontent">Eichhorn, Johann Gottfried: Engel, Johann Jakob, in: <titel>NDB</titel>&#x202F;4 (1959), S.&#x202F;377f</wwwlink>.</eintrag>
-<subsection id="eichhorn-einleitung" type="neuzeit">
+<subsection id="eichhorn-repertorium" type="neuzeit" sort="10">
+<lemma>Eichhorn (Hg.), <titel>Repertorium für Biblische und Morgenländische Litteratur</titel></lemma>
+<eintrag>
+<titel>Repertorium für Biblische und Morgenländische Litteratur</titel> (18 Tle., Leipzig: Weidmann und Reich 1777–1786). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10412484%2FBV009277515">BSB München: Exeg. 289-1</wwwlink>.</eintrag>
+</subsection>
+<subsection id="eichhorn-urgeschichte" type="neuzeit" sort="20">
+<lemma>Eichhorn, <titel>Urgeschichte</titel></lemma>
+<eintrag>
+<titel>Urgeschichte. Ein Versuch</titel>, in: <link ref="eichhorn" subref="eichhorn-repertorium" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10412484?page=132%2C133">S.&#x202F;129–256</wwwlink>.</eintrag>
+</subsection>
+<subsection id="eichhorn-einleitung" type="neuzeit" sort="30">
 <lemma>Eichhorn, <titel>Einleitung ins Alte Testament</titel></lemma>
 <eintrag>
 <titel>Einleitung ins Alte Testament</titel> (3 Bde., Leipzig: Weidmann und Reich 1780–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10410481-1">BSB München: Exeg. 289-1</wwwlink>.</eintrag>
