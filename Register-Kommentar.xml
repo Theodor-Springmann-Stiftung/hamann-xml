@@ -14083,6 +14083,12 @@ Hamann arbeitete im Juli 1763 für einen Monat als Volontär in der Kantzlei des
 <titel>Rome galante ou histoire secrète sous les règnes de Jules César et d’Auguste. Nouvelle Edition. Corrigée de plusieurs fautes qui s’étoyent passées dans la precedente</titel> (2&#xA0;Tle., Paris: Guignard 1696). Digitalisat, Tl.&#x202F;1: <wwwlink address="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10097200-7">BSB München: P.o.gall. 1906 a-1/2</wwwlink>.
 </eintrag>
 </subsection>
+<subsection id="mailly-croisades" type="neuzeit">
+<lemma>Mailly, <titel>L’Esprit des croisades</titel></lemma>
+<eintrag>
+<titel>L’Esprit des croisades, ou histoire politique et militaire des guerres entreprises, par les Chrétiens contres les Mahométans, pour le recouvrement de la Terre-Sainte, pendant les XI., XII. &#x26; XIII. siecles</titel> (4&#xA0;Bände, Amsterdam, Paris: 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10031770-1">BSB München: H.un. 184</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="maintenon" type="neuzeit">
@@ -15956,7 +15962,13 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Die Geschichten der Schweizer. Durch Johannes Müller. Das erste Buch</titel> (Boston [Bern]: Typographische Gesellschaft 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11252327-1">Stabi Augsburg: H 1597 -1</wwwlink>.
 </eintrag>
 </subsection>
-</kommentar>
+<subsection id="mueller-papes" type="neuzeit" sort="20">
+<lemma>Müller, <titel>Les voyages des papes</titel></lemma>
+<eintrag>
+<titel>Les voyages des papes</titel> (s.l. 1782). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:14-db-id3404309741">SLUB Dresden: 5.A.9662</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>Les voyages des papes
 
 <kommentar id="mueller-jg" type="neuzeit">
 <lemma>Johann Georg Müller</lemma>
@@ -17003,6 +17015,11 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <eintrag>
 <titel>Christliches Magazin</titel> (4 Bde. Zürich, Winterthur 1779–1781). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-29658">ZB Zürich: Gal Sp 242</wwwlink>. – Ab 1781 unter dem Titel <titel>Sammlungen zu einem christlichen Magazin. Nicht für gelehrte, aber für geübtere Leser</titel> (4 Bde. Zürich, Winterthur 1781–1783). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-29659">ZB Zürich: Gal Sp 240</wwwlink>.</eintrag>
 </subsection>
+<subsection id="pfenninger-kirchenbote" type="neuzeit">
+<lemma>Pfenninger, <titel>Der Kirchenbote</titel></lemma>
+<eintrag>
+<titel>Der Kirchenbote für Religionsfreunde aller Kirchen</titel> (2 Bde., Dessau, Leipzig 1782–1783). Digitalisat: <wwwlink address="https://resolver.staatsbibliothek-berlin.de/SBB000086EE00000000">Stabi Berlin</wwwlink>.</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="pfenninger-k" type="neuzeit">
@@ -17010,9 +17027,19 @@ Dt. Übers. zitiert nach: Carl Hoffmann (Übers.), <titel>Petronius, Satiricon. 
 <eintrag>Lebensdaten unbekannt. Geb. <link ref="ziegler-a" linktext="false">Ziegler</link>, seit 1771 Ehefrau von <link ref="pfenninger" linktext="true" />.</eintrag>
 </kommentar>
 
+<kommentar id="pfranger" type="neuzeit">
+<lemma>Johann Georg Pfranger</lemma>
+<eintrag>1745–1790. Geistlicher in Meiningen und Gelegenheitsschriftsteller, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd117685208.html#adbcontent">Schaubach: Pfranger, Johann Georg, in: <titel>ADB</titel>&#x202F;25 (1888), S.&#x202F;704.</wwwlink></eintrag>
+<subsection id="pfranger-libanon" type="neuzeit">
+<lemma>Pfranger, <titel>Der Mönch vom Libanon</titel></lemma>
+<eintrag>
+<titel>Der Mönch vom Libanon. Ein Nachtrag zu Nathan der Weise</titel> (s.l. 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10116211-0">BSB München: P.o.germ. 1070 x</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="pflug" type="neuzeit">
 <lemma>Julius von Pflug</lemma>
-<eintrag>1499–1564. Vermittler bei den Religionsgesprächen (1530–1557).</eintrag>
+<eintrag>1499–1564. Vermittler bei den Religionsgesprächen 1530–1557.</eintrag>
 </kommentar>
 
 <kommentar id="phaedrus" type="neuzeit">break
@@ -23289,7 +23316,7 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <subsection id="wieland-horaz-episteln" type="neuzeit" sort="140">
 <lemma>Wieland, <titel>Horazens Briefe</titel></lemma>
 <eintrag>
-<titel>Horazens Briefe aus dem Lateinischen übersezt und mit historischen Einleitungen und andern nöthigen Erläuterungen versehen von C. M. Wieland</titel> (2 Tle., Dessau: Buchhandlung der Gelehrten 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10241577-3">BSB München: A.lat.a. 506</wwwlink>.
+<titel>Horazens Briefe aus dem Lateinischen übersezt und mit historischen Einleitungen und andern nöthigen Erläuterungen versehen von C. M. Wieland</titel> (2 Tle., Dessau: Buchhandlung der Gelehrten 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10241577-3">BSB München: A.lat.a. 506</wwwlink>. – Zuvor in Proben im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> veröffentlicht: <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617980?page=260%2C261">2.&#x202F;Vj. 1781 (Juni-Heft), S.&#x202F;246–256</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617981?page=104%2C105">3.&#x202F;Vj. 1781 (August-Heft), S.&#x202F;97–107</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=52%2C53">4.&#x202F;Vj. 1781 (Oktober-Heft), S.&#x202F;36–43</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=190%2C191">1.&#x202F;Vj. 1782 (März-Heft), S.&#x202F;177–204</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -23480,7 +23507,14 @@ Digitalisat 19. Stück (1762): <wwwlink address="https://kpbc.umk.pl/dlibra/publ
 <subsection id="withof-gedichte" type="neuzeit" sort="10">
 <lemma>Withof,<titel>Gedichte</titel></lemma>
 <eintrag>
-<titel>Johann Philip Lorenz I. H. Fil. Withofs Gedichte</titel> (Bremen: Meier 1751). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11433099-9">Stabi Bamberg: Bip.L.g.o.216</wwwlink>.
+<titel>Johann Philip Lorenz I. H. Fil. Withofs Gedichte</titel> (Bremen: Meier 1751) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;144/242: „751. J. P. Witthof’s
+Gedichte, Brem. 751“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11433099-9">Stabi Bamberg: Bip.L.g.o.216</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="withof-academische-gedichte" type="neuzeit" sort="10">
+<lemma>Withof,<titel>Academische Gedichte</titel></lemma>
+<eintrag>
+<titel>Academische Gedichte. Von Joh. Phillipp Lorenz Withof</titel> (2 Tle., Cleve, Leipzig 1782–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10123639-8">BSB München: P.o.germ. 1633 b-1</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>

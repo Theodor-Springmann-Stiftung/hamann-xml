@@ -12469,8 +12469,8 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="648">
-        <date value="Weimar, nach dem 20. und 24.–28. April 1782" />
-        <sort value="1782-04-24" from="1782-04-24" to="1782-04-28" />
+        <date value="Weimar, 27.–28. April 1782" />
+        <sort value="1782-04-27" from="1782-04-27" to="1782-04-28" />
         <location ref="22" />
         <senders>
           <sender ref="41" />
@@ -12482,7 +12482,7 @@
         <isProofread value="true" />
         <isDraft value="false" />
         <ZHInfo inZH="true">
-          <dateChanged value="false" />
+          <dateChanged value="true" />
           <begin vol="4" page="379" />
           <alternativeLineNumbering value="false" />
         </ZHInfo>
