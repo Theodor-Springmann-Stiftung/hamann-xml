@@ -5345,12 +5345,17 @@ Axel Schönberger (Übers.), <titel>Die Ars minor des Aelius Donatus: lateinisch
 
 <kommentar id="dupuy" type="neuzeit">
 <lemma>Pierre Dupuy</lemma>
-<eintrag>1582–1651. Bibliothekar von Louis XIV. <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;12, 1814), S.&#x202F;324–326.</eintrag>
-<subsection id="dupuy-sophocle" type="neuzeit">
+<eintrag>1582–1651. Bibliothekar von Louis XIV., siehe <titel>Biographie universelle, ancienne et moderne</titel> (Bd.&#x202F;12, 1814), S.&#x202F;324–326.</eintrag>
+<subsection id="dupuy-templiers" type="neuzeit" sort="10">
+<lemma>Dupuy, <titel>Histoire de l’ordre militaire des Templiers</titel></lemma>
+<eintrag>
+<titel>Histoire de l’ordre militaire des Templiers, ou chevaliers du Temple de Jérusalem, depuis son Etablissement jusqu’à sa Décadence &#x26; sa suppression. Par Pierre Du-Puy. Nouvelle édition</titel> (Brüssel: Foppens 1751). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10362134-5">BSB München: 4 Herald. 37</wwwlink>.</eintrag>
+</subsection>
+<subsection id="dupuy-sophocle" type="neuzeit" sort="20">
 <lemma>Dupuy, <titel>Tragédies de Sophocle</titel></lemma>
 <eintrag>
 <titel>Tragédies de Sophocle, traduites par M. Dupuy</titel> (2&#xA0;Bde., Paris: Bauche 1762). Digitalisat, Bd. 1: <wwwlink address="https://books.google.de/books?id=Y3NXjBcI6TMC">Google Books</wwwlink>; Digitalisat, Bd. 2: <wwwlink address="https://books.google.de/books?id=fmsd81Dct_YC">Google Books</wwwlink>.</eintrag>
-</subsection>
+</subsection> 
 </kommentar>
 
 <kommentar id="durosoy" type="neuzeit">
@@ -5892,6 +5897,11 @@ Initia doctrinae solidioris. Ed. VI. insigniter aucta. Cum fig. Lipsiae 1736. 17
 <titel>Johann Georg Essichs Kurze Einleitung zu der allgemeinen und besonderen weltlichen Historie: samt einer kurzen Erd-Beschreibung</titel> (1707) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;88/211: „J. G. Essichs Einleitung zur Historie samt einer kurzen Erdbeschreibung, Stuttg. 758“]. Digitalisat, Ausg. 1746: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bvb:12-bsb10031780-7">Bayerische Staatsbibliothek: H.un. 186</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="este-i" type="neuzeit">
+<lemma>Ippolito I. d’Este</lemma>
+<eintrag>1479–1520. Kardinal und Herzog von Ferrara, dem <link ref="ariost" subref="ariost-orlando" linktext="false">Ariosts <titel>Orlando Furioso</titel></link> gewidmet ist; siehe <wwwlink address="https://d-nb.info/gnd/119121840">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="estève" type="neuzeit">
@@ -7544,7 +7554,7 @@ Walter Hettche (Hg.), <titel>Johann Wilhelm Ludwig Gleim: Ausgewählte Werke</ti
 <line type="break" />
 1. zeitgenössische Übersetzung: <titel>Der Landpriester von Wakefield. Ein Märchen, das er selbst soll geschrieben haben</titel>, übersetzt von <link ref="gellius-jg" linktext="true" /> (Leipzig 1767).  [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;150/339: „Der Landpriester von Wakefield, Leipz. 768“]. Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:kobv:11-711694">BSB Humboldt-Universität zu Berlin: Zd 96351:F8</wwwlink>.
 <line type="break" />
-2. zeitgenössische Übersetzung (von <link ref="bode-jjc" linktext="true" />: <titel>Der Dorfprediger von Wakefield. Eine Geschichte, die er selbst geschrieben haben soll. Von neuem verdeutscht</titel> (leipzig: Weidmann und Reich 1776). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN645948152">SUB Göttingen</wwwlink>.
+2. zeitgenössische Übersetzung (von <link ref="bode-jjc" linktext="true" />: <titel>Der Dorfprediger von Wakefield. Eine Geschichte, die er selbst geschrieben haben soll. Von neuem verdeutscht</titel> (Leipzig: Weidmann und Reich 1776). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN645948152">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
  <subsection id="goldsmith-roemer" type="neuzeit" sort="30">
@@ -10836,7 +10846,7 @@ J
 
 <kommentar id="jacobi-fc" type="neuzeit">
 <lemma>Friedrich Conrad Jacobi</lemma>
-<eintrag>1752–1816. Neffe und Erbe von <link ref="jacobi-jc" linktext="true" />, Hamanns Gevatter. 
+<eintrag>1752–1816. Neffe und Erbe von <link ref="jacobi-jc" linktext="true" />, weitläufig mit <link ref="nicolai" linktext="true" /> verwandt; Hamanns Gevatter.
 </eintrag>
 </kommentar>
 
@@ -16264,15 +16274,15 @@ Wiss. Ausg.: <titel>Sämtliche Werke, Briefe, Dokumente</titel>, hg.&#xA0;v. R. 
 <eintrag>
 <titel>Ein paar Worte betreffend Johann Bunkel und Christoph Martin Wieland von Friedrich Nicolai</titel> (Berlin, Stettin 1779). Digitalisat: <wwwlink address="https://books.google.de/books?id=BOA6AAAAcAAJ"></wwwlink></eintrag>
 </subsection>
+<subsection id="nicolai-tempelherrenorden" type="neuzeit" sort="60">
+<lemma>Nicolai, <titel>Tempelherrenorden</titel></lemma>
+<eintrag>
+<titel>Versuch über die Beschuldigungen welche dem Tempelherrenorden gemacht worden, und über dessen Geheimniß; Nebst einem Anhange über das Entstehen der Freymaurergesellschaft, von Friedrich Nicolai</titel> (2 Bde., Berlin, Stettin 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10726355-1">BSB München: Bibl.Mont. 5034-1</wwwlink>. Vgl. auch <link ref="herder" subref="herder-tempelherrenorden" linktext="false">Herders <titel><titel>Merkur-</titel></titel>Aufsatz</link> über Nicolais Buch.</eintrag>
+</subsection>
 <subsection id="nicolai-reise" type="neuzeit" sort="100">
 <lemma>Nicolai, <titel>Beschreibung einer Reise durch Deutschland und die Schweiz</titel></lemma>
 <eintrag>
 <titel>Beschreibung einer Reise durch Deutschland und die Schweiz, im Jahre 1781. Nebst Bemerkungen über Gelehrsamkeit, Industrie, Religion und Sitten, von Friedrich Nicolai</titel> (12 Bde., Berlin, Stettin 1783–1796). Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb11748063%2FBV041632418">BSB München: Hbh/Bh 446</wwwlink>.</eintrag>
-</subsection>
-<subsection id="nicolai-tempelherrenorden" type="neuzeit" sort="110">
-<lemma>Nicolai, <titel>Tempelherrenorden</titel></lemma>
-<eintrag>
-<titel>Versuch über die Beschuldigungen welche dem Tempelherrenorden gemacht worden, und über dessen Geheimniß; Nebst einem Anhange über das Entstehen der Freymaurergesellschaft, von Friedrich Nicolai</titel> (2 Bde., Berlin, Stettin 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10726355-1">BSB München: Bibl.Mont. 5034-1</wwwlink>. Vgl. auch <link ref="herder" subref="herder-tempelherrenorden" linktext="false">Herders <titel><titel>Merkur-</titel></titel>Aufsatz</link> über Nicolais Buch.</eintrag>
 </subsection>
 </kommentar>
 
