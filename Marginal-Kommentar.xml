@@ -97217,11 +97217,11 @@ Zur Datierung: In ZH ist Herders Brief auf „nach dem 20. April bis 28. April 1
 <bzg>Merkur</bzg> die zuvor veröffentlichten Proben im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>: <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617980?page=260%2C261">2.&#x202F;Vj. 1781 (Juni-Heft), S.&#x202F;246–256</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617981?page=104%2C105">3.&#x202F;Vj. 1781 (August-Heft), S.&#x202F;97–107</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=52%2C53">4.&#x202F;Vj. 1781 (Oktober-Heft), S.&#x202F;36–43</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=190%2C191">1.&#x202F;Vj. 1782 (März-Heft), S.&#x202F;177–204</wwwlink>.
 </marginal>
 
-<marginal letter="648" page="381" line="4">
+<marginal letter="648" page="381" line="4" sort="1">
 <bzg>Catalog</bzg> im <link ref="messkatalog" subref="messkatalog-ostern1782" linktext="true" />
 </marginal>
 
-<marginal letter="648" page="381" line="4">
+<marginal letter="648" page="381" line="4" sort="2">
 <bzg>Witthofs Akademische Gedichte</bzg> <link ref="withof" subref="withof-academische-gedichte" linktext="true" />
 </marginal>
 
@@ -97234,7 +97234,7 @@ Zur Datierung: In ZH ist Herders Brief auf „nach dem 20. April bis 28. April 1
 </marginal>
 
 <marginal letter="648" page="381" line="12">
-<bzg>Mönch&#x202F;…&#x202F;entgegengesetzt</bzg> <link ref="pfranger-libanon" linktext="true" />, als Reaktion auf <link ref="lessing" subref="lessing-nathan" linktext="false">Lessings <titel>Nathan der Weise</titel></link>
+<bzg>Mönch&#x202F;…&#x202F;entgegengesetzt</bzg> <link ref="pfranger" subref="pfranger-libanon" linktext="true" />, als Reaktion auf <link ref="lessing" subref="lessing-nathan" linktext="false">Lessings <titel>Nathan der Weise</titel></link>
 </marginal>
 
 <marginal letter="648" page="381" line="13">
@@ -97257,11 +97257,11 @@ Zur Datierung: In ZH ist Herders Brief auf „nach dem 20. April bis 28. April 1
 <bzg>Mailly Esprit des Croisades</bzg> <link ref="mailly-l" subref="mailly-croisades" linktext="true" />, vgl. <link ref="herder" subref="herder-tempelherrenorden" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617984?page=256%2C257">S.&#x202F;243</wwwlink>
 </marginal>
 
-<marginal letter="648" page="381" line="23">
+<marginal letter="648" page="381" line="23" sort="1">
 <bzg>Prof. Meiners</bzg> <link ref="meiners" linktext="true" />
 </marginal>
 
-<marginal letter="648" page="381" line="23">
+<marginal letter="648" page="381" line="23" sort="2">
 <bzg>Recensent&#x202F;…&#x202F;Bibl.</bzg> <link ref="allgemeine-deutsche-bib" linktext="true" />, wohl eine Verwechslung Herders, vgl. <link ref="her-jg-1777" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;207
 </marginal>
 
@@ -97372,7 +97372,7 @@ Brief Nr. 649
 <bzg>Frau</bzg> <link ref="reichardt-jul" linktext="true" />
 </marginal>
 
-<marginal letter="649" page="383" line="11" sort="1">
+<marginal letter="649" page="383" line="11" sort="2">
 <bzg>Wilhelmchen</bzg> <link ref="reichardt-w" linktext="true" />
 </marginal>
 
@@ -97555,7 +97555,7 @@ Brief Nr. 650
 </marginal>
 
 <marginal letter="650" page="385" line="13">
-<bzg>Vetter&#x202F;…&#x202F;Reisegefährten</bzg> <link ref="schmohl" linktext="true" />, der am 10. Februar mit <link ref="reichardt" linktext="true" /> in Königsberg ankam, zwischendurch bei Hamann wohnte und sich am 17. April nach Amsterdam und in die neue Welt einschiffte.
+<bzg>Vetter&#x202F;…&#x202F;Reisegefährten</bzg> <link ref="schmohl" linktext="true" />, der am 10. Februar mit <link ref="reichardt-jf" linktext="true" /> in Königsberg ankam, zwischendurch bei Hamann wohnte und sich am 17. April nach Amsterdam und in die neue Welt einschiffte.
 </marginal>
 
 <marginal letter="650" page="385" line="14">
