@@ -97341,7 +97341,7 @@ Brief Nr. 649
 </marginal>
 
 <marginal letter="649" page="382" line="25" sort="2">
-<bzg>Liebau</bzg> <wwwlink address="https://www.geonames.org/457954">Libau in Kurland</wwwlink>
+<bzg>Liebau</bzg> <wwwlink address="https://www.geonames.org/457954">Libau</wwwlink> in Kurland
 </marginal>
 
 <marginal letter="649" page="382" line="30">
@@ -97616,6 +97616,50 @@ Brief Nr. 650
 
 <marginal letter="650" page="385" line="35">
 <bzg>Uebersetzung&#x202F;…&#x202F;denken wird</bzg> Gemeint ist, wenn Claudius seine Übersetzung Hamann zuschicken werde.
+</marginal>
+
+<marginal letter="650" page="385" line="37" sort="1">
+<bzg>Capellmeister</bzg> <link ref="reichardt-jf" linktext="true" />
+</marginal>
+
+<marginal letter="650" page="385" line="37" sort="2">
+<bzg>Wilhelmchen</bzg> <link ref="reichardt-w" linktext="true" />
+</marginal>
+
+<marginal letter="650" page="386" line="1">
+<bzg>Zeilen</bzg> <intlink letter="649" page="382" line="10" linktext="false">HKB 649</intlink>
+</marginal>
+
+<marginal letter="650" page="386" line="2">
+<bzg></bzg> <link ref="hamann-ms" linktext="true" />, vgl. <intlink letter="649" page="383" line="6" linktext="true" />
+</marginal>
+
+<marginal letter="650" page="386" line="4">
+<bzg>Χstoph Berens Sohn</bzg> <link ref="berens-jh" linktext="true" />, der Sohn von <link ref="berens-jc" linktext="true" />, vgl. <intlink letter="649" page="382" line="24" linktext="true" />
+</marginal>
+
+<marginal letter="650" page="386" line="5">
+<bzg>Prof. Kant</bzg> <link ref="5" linktext="true" />
+</marginal>
+
+<marginal letter="650" page="386" line="8">
+<bzg>Liebau</bzg> <wwwlink address="https://www.geonames.org/457954">Libau</wwwlink> in Kurland
+</marginal>
+
+<marginal letter="650" page="386" line="10">
+<bzg>kleinen Schreck&#x202F;…&#x202F;Unterhändler gemacht</bzg> vgl. Berens an Kant, 30. April 1782 (<wwwlink address="https://www.korpora.org/Kant/aa10/282.html">Kant: AA X, Briefwechsel 1779, S.&#x202F;282–284</wwwlink>)
+</marginal>
+
+<marginal letter="650" page="386" line="14">
+<bzg>zweite Berens</bzg> nach <link ref="berens-ac" linktext="true" />, dem Sohn von <link ref="berens-c" linktext="true" />
+</marginal>
+
+<marginal letter="650" page="386" line="16">
+<bzg>George&#x202F;…&#x202F;Rückweg</bzg> <link ref="berens-g" linktext="true" />, zu seiner Reise vgl. zuletzt <intlink letter="646" page="374" line="30" linktext="true" />
+</marginal>
+
+<marginal letter="650" page="386" line="18">
+<bzg>berühmte Bild&#x202F;…&#x202F;Schmidts 1. Theil</bzg> In <link ref="schmidt-mi" subref="schmidt-geschichte" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb11694310?page=316%2C317">Bd.&#x202F;1, S.&#x202F;280</wwwlink> geht es um ein „berühmte[s] Bild unsers Heilands, Anthecopsita genannt“, das Pabst Stephan III. in einer Prozession zur Abwehr der Langobarden durch Rom getragen haben soll. ‚Anthecopsita‘ ist eine Verballhornung von ‚ἀχειροποίητον‘ (Acheiropoieton, nicht von Menschenhand geschaffenes Bild Christi), gemeint ist die Ikone im Sancta Sanctorum des Lateranpalasts.
 </marginal>
 
 
