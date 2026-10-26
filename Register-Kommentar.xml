@@ -110,7 +110,7 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 <eintrag>1764–1772, 7 Bde., Altenburg: Richter. Hg. von <link ref="klotz" linktext="true" />. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10539777-2">München, Bayerische Staatsbibliothek: Eph.lit. 127-1</wwwlink>.</eintrag>
 </kommentar>
 
-<kommentar id="adams" type="neuzeit">
+<kommentar id="adams-j" type="neuzeit">
 <lemma>John Adams</lemma>
 <eintrag>1735–1826. Einer der Gründerväter der USA, 1780–1782 Gesandter der unabhängigen Kolonien in den Niederlanden; siehe <wwwlink address="https://d-nb.info/gnd/118500597">GND</wwwlink>.</eintrag>
 </kommentar>
@@ -18139,6 +18139,11 @@ Von besonderer Bedeutung für Hamann ist Rappolts scherzhaftes Erbsengedicht „
 <titel>Musikalisches Kunstmagazin von Johann Friedrich Reichardt</titel> (2 Bde., Berlin: Verlag des Verfassers 1782 u. 1791). Digitalisat, Bd.&#x202F;1: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11134991-4">BSB München: 2 Mus.th. 407 a-1</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="reichardt-joh" type="neuzeit">
+<lemma>Johanna Reichardt</lemma>
+<eintrag>1754–1827. Geb. Alberti, verh. Hensler (ihr erster Mann Peter Wilhelm Hensler starb 1779); zweite Ehefrau von <link ref="reichardt-jf" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="reichardt-jul" type="neuzeit">
