@@ -110,6 +110,11 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 <eintrag>1764–1772, 7 Bde., Altenburg: Richter. Hg. von <link ref="klotz" linktext="true" />. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10539777-2">München, Bayerische Staatsbibliothek: Eph.lit. 127-1</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="adams" type="neuzeit">
+<lemma>John Adams</lemma>
+<eintrag>1735–1826. Einer der Gründerväter der USA, 1780–1782 Gesandter der unabhängigen Kolonien in den Niederlanden; siehe <wwwlink address="https://d-nb.info/gnd/118500597">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="addison" type="neuzeit">
 <lemma>Joseph Addison</lemma>
 <eintrag>1672–1719. Englischer Dichter, Politiker und Journalist. <wwwlink address="https://en.wikisource.org/wiki/Addison,_Joseph_(DNB00)">Leslie Stephen: Addison, Joseph, in: Dictionary of National Biography (1885–1900, V.&#xA0;1)</wwwlink>.
@@ -8098,6 +8103,12 @@ Autobiographie in: Archiv für die Geburtshülfe, Frauenzimmer- und neugebohrner
 </eintrag>
 </kommentar>
 
+<kommentar id="hagen-kg" type="neuzeit">
+<lemma>Karl Gottfried Hagen</lemma>
+<eintrag>1749–1829. Apotheker in Königsberg, 1779 Extraordinarius, 1783 ordentlicher Professor der Medizin an der Albertina und befreundet mit <link ref="kant" linktext="false">Kant</link>; siehe <wwwlink address="https://www.deutsche-biographie.de/gnd11637943X.html#ndbcontent">Dann, Georg Edmund: Hagen, Carl Gottfried, in: <titel>NDB</titel>&#x202F;7 (1966), S.&#x202F;473f.</wwwlink>
+</eintrag>
+</kommentar>
+
 <kommentar id="hahn" type="neuzeit">
 <lemma>Johann Friedrich Hähn</lemma>
 <eintrag>1710–1789. Abt in Klosterbergen, Pastor an der Dreifaltigkeitskirche und Inspektor der Realschule in Berlin, 1771 kurzzeitig unter dem Verdacht des Pietismus von <link ref="friedrich-II" linktext="true" /> seines Amtes enthoben, dann Generalsuperintendent in Ostfriesland. <wwwlink address="https://www.deutsche-biographie.de/pnd11870009X.html#adbcontent">Kämmel, Heinrich: Hähn, Johann Friedrich in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;373f</wwwlink>.
@@ -9374,6 +9385,12 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </subsection>
 </kommentar>
 
+<kommentar id="hensler" type="neuzeit">
+<lemma>Wilhelm Hensler</lemma>
+<eintrag>1772–1835. Ab 1782 Pflegesohn von <link ref="reichardt-jf" linktext="true" />, Sohn seiner zweiten Ehefrau <link ref="reichardt-joh" linktext="false">Johanna, geb. Alberti</link> (sowie des 1779 verstorbenen Peter Wilhelm Hensler, 1742–1779); später Oberst in französischen Diensten; siehe <wwwlink address="https://d-nb.info/gnd/138993963">GND</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="hephaistion" type="neuzeit">
 <lemma>Hephaistion von Theben</lemma>
 <eintrag>Geb. 26. November 380. Hellenistischer Astrologe und Kompilator (kein Priester). Im Kontext der <link ref="hamann" subref="hamann-schuerze" linktext="false"><titel>Schürze von Feigenblättern</titel></link> suchte Hamann nach Literatur bzw. Lexikoneinträgen über ihn, um <link ref="starck" linktext="false">Starck</link> der Beliebigkeit seines <link ref="starck" subref="starck-hephaestion" linktext="false">Titels</link> zu überführen.
@@ -10328,7 +10345,7 @@ Zu seiner Tätigkeit als dirigierender Bürgermeister von Königsberg vgl. <link
 
 <kommentar id="hogendorp" type="neuzeit">
 <lemma>Dirk van Hogendorp</lemma>
-<eintrag>1761–1822. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp-g" linktext="true" />. 1781 als brandenburg-preußischer Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er auch <link ref="kant" linktext="false">Kant</link> kennenlernte, durch seinen Bruder auch Hamann. Bei einem Duell im Herbst 1781 verletzte er sich durch einen Schuss in den Unterleib (vgl. <intlink letter="637" page="357" line="31" linktext="true" />) und nahm, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Eine Zeit lang kampierte er in einem Zelt in Hamanns Garten, bevor er, auch wegen Spielschulden, nach Berlin ging (vgl. <intlink letter="652" page="391" line="31" linktext="true" /> und Kant an Biester, 27. Juni 1782, <wwwlink address="https://www.korpora.org/Kant/aa10/285.html">Kant: AA X, Briefwechsel 1747–1788, S.&#x202F;285f.)</wwwlink>. Hogendorp kehrte schließlich in die Niederlande zurück und segelte am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain-Lieutenant nach Kapstadt, wo er als Beamter der VOC lebte. Später holländischer Kriegsminister und General unter Napoleon; siehe <wwwlink address="https://d-nb.info/gnd/116953144">GND</wwwlink>.</eintrag>
+<eintrag>1761–1822. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp-g" linktext="true" />. 1781 als brandenburg-preußischer Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er auch <link ref="kant" linktext="false">Kant</link> kennenlernte, durch seinen Bruder auch Hamann. Bei einem Duell im Herbst 1781 verletzte er sich durch einen Schuss in den Unterleib (vgl. <intlink letter="637" page="357" line="31" linktext="true" />) und nahm, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Eine Zeit lang kampierte er in einem Zelt in Hamanns Garten (vgl. <intlink letter="649" page="383" line="21" linktext="true" />), bevor er, auch wegen Spielschulden, nach Berlin ging (vgl. <intlink letter="652" page="391" line="31" linktext="true" /> und Kant an Biester, 27. Juni 1782, <wwwlink address="https://www.korpora.org/Kant/aa10/285.html">Kant: AA X, Briefwechsel 1747–1788, S.&#x202F;285f.)</wwwlink>. Hogendorp kehrte schließlich in die Niederlande zurück und segelte am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain-Lieutenant nach Kapstadt, wo er als Beamter der VOC lebte. Später holländischer Kriegsminister und General unter Napoleon; siehe <wwwlink address="https://d-nb.info/gnd/116953144">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hogendorp-cw" type="neuzeit">
@@ -15704,6 +15721,11 @@ Zweite Übers.: <titel>Das Verlohrne Paradies, aus dem Englischen Johann Miltons
 </subsection>
 </kommentar>
 
+<kommentar id="morgenbesser" type="neuzeit">
+<lemma>Ernst Gottlob Morgenbesser</lemma>
+<eintrag>1755–1824. Seit 1780 Rat am ostpreußischen Hofgericht, siehe <wwwlink address="https://d-nb.info/gnd/117601586">GND</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10013911?page=312%2C313"><titel>Preußische Provinzial-Blätter</titel> 8 (1832), S.&#x202F;296–299</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="morhof" type="neuzeit">
 <lemma>Daniel Georg Morhof</lemma>
 <eintrag>1639–1691. Literaturhistoriker und Gelegenheitsdichter, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118784919.html#ndbcontent">Elschenbroich, Adalbert: Morhof, Daniel Georg, in: <titel>NDB</titel>&#x202F;18 (1997), S.&#x202F;127f</wwwlink>.</eintrag>
@@ -19512,12 +19534,12 @@ M. Christian Heinrich Schmids <titel>Zusätze zur Theorie der Poesie und Nachric
 <subsection id="schmohl-sammlung" type="neuzeit" sort="20">
 <lemma>Schmohl, <titel>Sammlung von Aufsätzen verschiedener Verfasser</titel></lemma>
 <eintrag>
-<titel>Sammlung von Aufsätzen verschiedener Verfasser besonders für Freunde der Cameralwissenschaften und der Staats-wirthschaft</titel> (Leipzig 1781). – Die Schrift war in Preußen mit 100 # […] verboten“, vgl. <intlink letter="654" page="399" line="17" linktext="true" />.</eintrag>
+<titel>Sammlung von Aufsätzen verschiedener Verfasser besonders für Freunde der Cameralwissenschaften und der Staats-wirthschaft</titel> (Leipzig 1781). – Die Schrift war in Preußen „mit 100 # […] verboten“, vgl. <intlink letter="654" page="399" line="17" linktext="true" />.</eintrag>
 </subsection>
 <subsection id="schmohl-nordamerika" type="neuzeit" sort="30">
 <lemma>Schmohl, <titel>Über Nordamerika und Demokratie</titel></lemma>
 <eintrag>
-<titel>Über Nordamerika und Demokratie</titel> (Koppenhagen [Königsberg] 1782). Digitalisat: <wwwlink address="https://books.google.de/books?id=v5p-fP5dXaMC">Google Books</wwwlink>. – Die Schrift war, entgegen anderslautender Einschätzungen in der älteren Forschung, in Preußen nie verboten; vgl. <link ref="biester" linktext="false">Biesters</link> Empfehlung noch 1783 in der <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10926841?page=48%2C49"><titel>Berlinischen Monatsschrift,</titel> Bd.&#x202F;2, S.&#x202F;38</wwwlink>.</eintrag>
+<titel>Über Nordamerika und Demokratie</titel> (Koppenhagen [Königsberg] 1782). Digitalisat: <wwwlink address="https://books.google.de/books?id=v5p-fP5dXaMC">Google Books</wwwlink>. – Die Schrift war, entgegen anderslautender Einschätzungen in der älteren Forschung, etwa bei <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10600250?page=324%2C325">Schletterer, S.&#x202F;311</wwwlink>, in Preußen nie verboten, vgl. etwa <link ref="biester" linktext="false">Biesters</link> Empfehlung noch 1783 in der <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10926841?page=48%2C49"><titel>Berlinischen Monatsschrift,</titel> Bd.&#x202F;2, S.&#x202F;38</wwwlink>.</eintrag>
 </subsection>
 <subsection id="schmohl-reisebeschreibung" type="neuzeit" sort="30">
 <lemma>Vmtl. Schmohl, <titel>Reisebeschreibung durch den Elsaß, Lothringen</titel></lemma>
