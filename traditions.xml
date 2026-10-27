@@ -20092,20 +20092,13 @@ eher von dem nicht erhaltenen Manuskript (E 39).
 
 		<letterTradition letter="1067">
 			<app ref="1">
-				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr.
-				1065 und 1066.
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 1065 und 1066.
 </app>
 			<app ref="4"> Original verschollen. Letzter bekannter Aufbewahrungsort: Staats- und
-				Universitätsbibliothek Königsberg, Msc. 2552 [Roths Hamanniana], II 91. Text nach einem
-				Negativ der Königsberger Originalhandschrift in der Universitäts- und Landesbibliothek
-				Münster, Signatur: Hamann-Nachlass, Kaps. 2, 11.<line type="break" /> ZH VII 203–210, Nr.
-				1067. </app>
+				Universitätsbibliothek Königsberg, Msc. 2552 [Roths Hamanniana], II 91. Text nach einem	Negativ der Königsberger Originalhandschrift in der Universitäts- und Landesbibliothek Münster, Signatur: Hamann-Nachlass, Kaps. 2, 11. – Laut ZH der sogenannte 6. Entwurf des Pro memoria (Textgrundlage sei eine „Photokopie der Univ-Bibl. Münster, aus der Mappe ‚Autobiographisches‘, Umschlag ‚Promemoria‘ – ‚Autobiographica‘, der auch die 5 vorhergehenden Entwürfe enthält. Es ist eine Photokopie von R II 91, aus dem Besitz von J. Nadler“).</app>
+			<app ref="5"></app>ZH VII 203–210, Nr. 1067. 
 			<app ref="9">
-				<note>Dem Brief lag vmtl. ein Pro Memoria bei. Das Original ist verschollen, aber ein
-					Entwurf ist überliefert (Provenienz: Original verschollen. Letzter bekannter
-					Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
-					Hamanniana], II 91; Text nach einem Negativ der Königsberger Originalhandschrift in der
-					Universitäts- und Landesbibliothek Münster, Kaps. 2, 11):</note>
+				<note>Dem Brief lag vmtl. bei: <titel>Pro Memoria.</titel> Das Original ist verschollen, aber ein Entwurf ist überliefert (Provenienz: Original verschollen. Letzter bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths Hamanniana], II 91; Text nach einem Negativ der Königsberger Originalhandschrift in der Universitäts- und Landesbibliothek Münster, Kaps. 2, 11; bisher gedruckt: <wwwlink address="https://archive.org/details/neuehamannianab00hamagoog/page/n174/mode/2up">Heinrich Weber: Neue Hamanniana. München 1905, 159–167</wwwlink>):</note>
 				<line type="break" />
 				<ZHText>
 					<page index="532" autopsic="532" />
@@ -20658,7 +20651,6 @@ eher von dem nicht erhaltenen Manuskript (E 39).
 				Neue Hamanniana. München 1905, 89&#x2009;f.<line type="break" /> ZH VII 254–256, Nr. 1083. </app>
 			<app ref="9">
 				<note>Dem Brief lag ein Pro Memoria von Jacobis Hand bei:</note>
-				<line type="break" />
 				<ZHText>
 					<page index="542" autopsic="542" />
 <line index="4" autopsic="4" /><align pos="center">
@@ -21097,9 +21089,8 @@ eher von dem nicht erhaltenen Manuskript (E 39).
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VII
 				394–396.<line type="break" /> ZH VII 344–346, Nr. 1114. </app>
 			<app ref="9">
-				<note>1. Freiherr v. Lamezan an Franz Kaspar Bucholtz, 17. November 1787, Abschrift von
+				<note>I. Freiherr von Lamezan an Franz Kaspar Bucholtz, 17. November 1787, Abschrift von
 					Hamann:</note>
-				<line type="break" />
 				<ZHText>
 					<page index="546" autopsic="546" />
 <line index="8" autopsic="8" /><align pos="center">
@@ -21162,8 +21153,7 @@ eher von dem nicht erhaltenen Manuskript (E 39).
 <line index="15" autopsic="15" />Mheim
 					den 17 9<aq>br.</aq>  <edit ref="4547">87</edit> <align pos="right">Lamezan <aq>jun.</aq></align></ZHText>
 				<line type="empty" />
-				<note>2. Sturmfeder und Steudel an Lamezan, 14. November 1787 (Abschrift von Hamann):</note>
-				<line type="break" />
+				<note>II. Sturmfeder und Steudel an Lamezan, 14. November 1787 (Abschrift von Hamann):</note>
 				<ZHText>
 					<page index="547" autopsic="547" />
 <line index="19" autopsic="19" /><align pos="center">
@@ -22665,32 +22655,19 @@ eher von dem nicht erhaltenen Manuskript (E 39).
 				von Jürgen Weyenschops, unter Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi.
 				Stuttgart-Bad Cannstadt 2012, 204&#x2009;f.<line type="break" /> ZH VII 465–466, Nr. 1156. </app>
 			<app ref="9">
-				<note>Zu den vier von Jacobi erwähnten Anhängen, die Hamann mit HKB 1162 zurücksandte (vgl.
-					HKB 1162 [VI 474/11–14]):<line type="break" /> 1. <line type="break" />Vgl. zum Schreiben
-					von Hufeland an Jacobi, Ende April 1788: Friedrich Heinrich Jacobi: Briefwechsel, I 7:
-					November 1787 bis Juni 1788. Hg. von Jürgen Weyenschops, unter Mitarbeit von Albert Mues,
-					Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2012, 174.<line type="break" /> Zu
-					Jacobis Antwort an Hufeland, 30. April 1788, vgl. ebd., 191&#x2009;f.<line type="break" />
-					2. <line type="break" />Vgl. zum Schreiben von Rehberg an Jacobi, 24. April 1788: ebd.,
-					178.<line type="break" /> Zu Jacobis Antwort an Rehberg, 2. Mai 1788, vgl. ebd., 193–197.<line
-						type="break" /> Zum „älteren Schreiben“ von Rehberg an Jacobi, vgl. Friedrich Heinrich
-					Jacobi: Briefwechsel, I 4: 1785. Hg. von Albert Mues, Gudrun Schury und Jutta Torbi.
-					Stuttgart-Bad Cannstadt 2003, 272&#x2009;f.<line type="break" /> 3. Zum Brief von
-					Stollberg an Jacobi, 28.4.1788, vgl. ebd., 184–187.<line type="break" /> Zu Jacobis
-					Antwort an Stollberg, 7. Mai 1788, vgl. ebd., 201–203.<line type="break" /> 4. <wwwlink
-						address="https://zs.thulb.uni-jena.de/receive/jportal_jparticle_00002084">ALZ 1788, Nr.
-					92</wwwlink></note>
+				<note>Zu den vier von Jacobi erwähnten Anhängen, die Hamann mit HKB 1162 zurücksandte (vgl. HKB 1162 [VI 474/12–15]):<line type="break" />
+					I. Vgl. zum Schreiben von Hufeland an Jacobi, Ende April 1788: Friedrich Heinrich Jacobi: Briefwechsel, I 7: November 1787 bis Juni 1788. Hg. von Jürgen Weyenschops, unter Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2012, 174.<line type="break" />
+					Zu Jacobis Antwort an Hufeland, 30. April 1788, vgl. ebd., 191&#x2009;f.<line type="break" /><line type="break" />
+					II. Vgl. zum Schreiben von Rehberg an Jacobi, 24. April 1788: ebd., 178.<line type="break" />
+					Zu Jacobis Antwort an Rehberg, 2. Mai 1788, vgl. ebd., 193–197.<line type="break" />	
+					Zum „älteren Schreiben“ von Rehberg an Jacobi, vgl. Friedrich Heinrich
+					Jacobi: Briefwechsel, I 4: 1785. Hg. von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2003, 272&#x2009;f.<line type="break" /><line type="break" />
+					III. Zum Brief von Stollberg an Jacobi, 28.4.1788, vgl. ebd., I 7, S.&#x202F;184–187.<line type="break" />
+					Zu Jacobis Antwort an Stollberg, 7. Mai 1788, vgl. ebd., 201–203.<line type="break" /><line type="break" />
+					IV. <wwwlink address="https://zs.thulb.uni-jena.de/receive/jportal_jparticle_00002084">ALZ 1788, Nr.&#x202F;92</wwwlink>.</note>
 			</app>
 			<app ref="7">
-				<note>Auf der Rückseite des letzten von Jacobi beschriebenen Blattes machte Hamann ein
-					umfangreiches Exzerpt von Hemsterhuis’ „Alexis ou du Militaire“. Die Schrift im Stil eines
-					platonischen Dialogs ist eine Fortführung von Hemsterhuis’ „Alexis, ou sur l’âge d’or“ von
-					1787 – Jacobi publizierte im selben Jahr eine Übersetzung –, die lediglich als Manuskript
-					zirkulierte und erst 1924 veröffentlicht wurde. Hamann erwähnt die Lektüre auch in einem
-					Brief an Kraus vom 2. Juni 1788 (HKB 1169 [VII 501/32]): „Ich habe den Anfang eines <aq>Alexis
-					II du Militaire</aq> im <aq>Mst</aq> gelesen.“ Vgl. Emile Boulan (Hg.): François
-					Hemsterhuis. Le socrate Hollandais suivi de Alexis ou du Militaire. Groningen, Paris 1924,
-					111–136.</note>
+				<note>Auf der Rückseite des letzten von Jacobi beschriebenen Blattes machte Hamann ein umfangreiches Exzerpt von Hemsterhuis’ „Alexis ou du Militaire“. Die Schrift im Stil eines platonischen Dialogs ist eine Fortführung von Hemsterhuis’ „Alexis, ou sur l’âge d’or“ von 1787 – Jacobi publizierte im selben Jahr eine Übersetzung –, die lediglich als Manuskript zirkulierte und erst 1924 veröffentlicht wurde. Hamann erwähnt die Lektüre auch in einem Brief an Kraus vom 2. Juni 1788 (HKB 1169 [VII 501/32]): „Ich habe den Anfang eines <aq>Alexis II du Militaire</aq> im <aq>Mst</aq> gelesen.“ Vgl. Emile Boulan (Hg.): François Hemsterhuis. Le socrate Hollandais suivi de Alexis ou du Militaire. Groningen, Paris 1924, S.&#x202F;111–136.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="1" autopsic="1" />

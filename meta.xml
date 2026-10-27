@@ -924,7 +924,7 @@
       <letterDesc letter="48">
         <date value="Riga, 1755" />
         <sort value="1755-08-01" notBefore="1755-01-01" notAfter="1755-12-31" />
-        <location ref="-1" />
+        <location ref="6" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -1963,7 +1963,7 @@
       <letterDesc letter="102">
         <date value="Vmtl. Grünhof, zwischen 1754 und 1756" />
         <sort value="1756-07-18" notBefore="1754-01-01" notAfter="1756-12-31" />
-        <location ref="2" />
+        <location ref="7" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -4036,7 +4036,7 @@
       <letterDesc letter="211">
         <date value="Vmtl. Grünhof, vmtl. 1761" />
         <sort value="1761-08-08" notBefore="1761-01-01" notAfter="1761-12-31" cert="low" />
-        <location ref="-1" />
+        <location ref="7" />
         <senders>
           <sender ref="18" />
         </senders>
@@ -10792,7 +10792,7 @@
       <letterDesc letter="560">
         <date value="Königsberg, 7. August 1779" />
         <sort value="1779-08-07" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -11210,7 +11210,7 @@
       <letterDesc letter="582">
         <date value="Glarisegg, 14. Februar 1780" />
         <sort value="1780-02-14" />
-        <location ref="-1" />
+        <location ref="45" />
         <senders>
           <sender ref="73" />
           <sender ref="72" />
@@ -11763,7 +11763,7 @@
       <letterDesc letter="611">
         <date value="Königsberg, 18.–19. und 21. Dezember 1780" />
         <sort value="1780-12-18" order="200" from="1780-12-18" to="1780-12-21" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -12716,9 +12716,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="661">
-        <date value="25.–26. August 1782" />
+        <date value="Königsberg, 25.–26. August 1782" />
         <sort value="1782-08-25" from="1782-08-25" to="1782-08-26" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -12849,9 +12849,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="668">
-        <date value="27.–28. Oktober 1782" />
+        <date value="Königsberg, 27.–28. Oktober 1782" />
         <sort value="1782-10-27" from="1782-10-27" to="1782-10-28" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -13305,9 +13305,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="692">
-        <date value="3. März 1783" />
+        <date value="Königsberg, 3. März 1783" />
         <sort value="1783-03-03" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -13858,7 +13858,7 @@
       <letterDesc letter="720">
         <date value="Königsberg, 31. Oktober 1783" />
         <sort value="1783-10-31" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -15322,7 +15322,7 @@
       <letterDesc letter="797">
         <date value="Vaels bei Aachen, 11. Januar 1785" />
         <sort value="1785-01-11" />
-        <location ref="-1" />
+        <location ref="46" />
         <senders>
           <sender ref="95" />
         </senders>
@@ -15834,9 +15834,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="824">
-        <date value="3. April 1785" />
+        <date value="Königsberg, 3. April 1785" />
         <sort value="1785-04-03" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -16385,9 +16385,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="853">
-        <date value="10.–11. Juli 1785" />
+        <date value="Königsberg, 10.–11. Juli 1785" />
         <sort value="1785-07-10" from="1785-07-10" to="1785-07-11" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -16822,9 +16822,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="876">
-        <date value="1. Oktober 1785" />
+        <date value="Königsberg, 1. Oktober 1785" />
         <sort value="1785-10-01" order="200" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
           <sender ref="130" />
@@ -18382,9 +18382,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="958">
-        <date value="23. April 1786" />
+        <date value="Königsberg, 23. April 1786" />
         <sort value="1786-04-23" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -18458,9 +18458,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="962">
-        <date value="30. April und 3. Mai 1786" />
+        <date value="Königsberg, 30. April und 3. Mai 1786" />
         <sort value="1786-04-30" from="1786-04-30" to="1786-05-03" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -20206,9 +20206,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="1054">
-        <date value="8.–9. April 1787" />
+        <date value="Königsberg, 8.–9. April 1787" />
         <sort value="1787-04-08" from="1787-04-08" to="1787-04-09" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -20434,9 +20434,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="1066">
-        <date value="Vmtl. 20. Mai 1787" />
+        <date value="Königsberg, vmtl. 20. Mai 1787" />
         <sort value="1787-05-20" cert="low" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -20491,9 +20491,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="1069">
-        <date value="28. Mai 1787" />
+        <date value="Königsberg, 28. Mai 1787" />
         <sort value="1787-05-28" />
-        <location ref="-1" />
+        <location ref="2" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -21555,9 +21555,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="1125">
-        <date value="11. Dezember 1787" />
+        <date value="Welbergen, 11. Dezember 1787" />
         <sort value="1787-12-11" order="200" />
-        <location ref="-1" />
+        <location ref="43" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -21631,9 +21631,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="1129">
-        <date value="21. Dezember 1787" />
+        <date value="Düsseldorf, 21. Dezember 1787" />
         <sort value="1787-12-21" order="100" />
-        <location ref="-1" />
+        <location ref="37" />
         <senders>
           <sender ref="95" />
         </senders>
@@ -22373,9 +22373,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="1168">
-        <date value="31. Mai 1788" />
+        <date value="Münster, 31. Mai 1788" />
         <sort value="1788-05-31" />
-        <location ref="-1" />
+        <location ref="39" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -22451,7 +22451,7 @@
       <letterDesc letter="1172">
         <date value="Münster, 8. Juni 1788" />
         <sort value="1788-06-08" />
-        <location ref="-1" />
+        <location ref="39" />
         <senders>
           <sender ref="1" />
         </senders>
@@ -22468,9 +22468,9 @@
         </ZHInfo>
       </letterDesc>
       <letterDesc letter="1173">
-        <date value="14.–15. Juni 1788" />
+        <date value="Münster, 14.–15. Juni 1788" />
         <sort value="1788-06-14" from="1788-06-14" to="1788-06-15" />
-        <location ref="-1" />
+        <location ref="39" />
         <senders>
           <sender ref="1" />
         </senders>
