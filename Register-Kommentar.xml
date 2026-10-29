@@ -112,7 +112,7 @@ Thomas Abbts […] <titel>vermischte Werke</titel> (hg. von <link ref="nicolai" 
 
 <kommentar id="adams-j" type="neuzeit">
 <lemma>John Adams</lemma>
-<eintrag>1735–1826. Einer der Gründerväter der USA, 1780–1782 Gesandter der unabhängigen Kolonien in den Niederlanden; siehe <wwwlink address="https://d-nb.info/gnd/118500597">GND</wwwlink>.</eintrag>
+<eintrag>1735–1826. Einer der Gründerväter der USA, 1780–1782 Gesandter der unabhängigen Kolonien in den Niederlanden, siehe <wwwlink address="https://d-nb.info/gnd/118500597">GND</wwwlink>; zu E.F. van Berckels Brief Amsterdam, 22. Juli 1782 betreffend die Vermittlung <link ref="schmohl" linktext="false">Schmohls</link> über die <link ref="hogendorp-g" linktext="false">van Hogendorps</link> vgl. <wwwlink address="https://founders.archives.gov/documents/Adams/06-13-02-0118-0002#PJA13d140n1">Founders Online</wwwlink>, zu Adams’ Antwort Den Haag, 23. Juli 1782 <wwwlink address="https://founders.archives.gov/documents/Adams/06-13-02-0121">ebd.</wwwlink></eintrag>
 </kommentar>
 
 <kommentar id="addison" type="neuzeit">
@@ -8883,6 +8883,12 @@ Dritte, durchaus vermehrte und verbesserte Ausgabe (von <link ref="meusel" linkt
 </subsection>
 </kommentar>
 
+<kommentar id="hancke" type="neuzeit">
+<lemma>Johann Gottfried Hancke</lemma>
+<eintrag>Gest. 1787. Kantor an der deutschen St.-Petri-Kirche in Kopenhagen; sein Sohn (ebenfalls Johann Gottfried Hancke) war 1782 in Königsberg Studiosus philosophiae et musicae.
+</eintrag>
+</kommentar>
+
 <kommentar id="handel" type="neuzeit">
 <lemma>Georg Friedrich Händel</lemma>
 <eintrag>1685–1759. Komponist aus Halle, wirkte vor allem in England, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118544489.html#ndbcontent">Redlich, Hans Ferdinand: Händel, Georg Friedrich, in: <titel>NDB</titel>&#x202F;7 (1966), S.&#x202F;438–441</wwwlink>.
@@ -10361,12 +10367,12 @@ Zu seiner Tätigkeit als dirigierender Bürgermeister von Königsberg vgl. <link
 
 <kommentar id="hogendorp" type="neuzeit">
 <lemma>Dirk van Hogendorp</lemma>
-<eintrag>1761–1822. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp-g" linktext="true" />. 1781 als brandenburg-preußischer Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er auch <link ref="kant" linktext="false">Kant</link> kennenlernte, durch seinen Bruder auch Hamann. Bei einem Duell im Herbst 1781 verletzte er sich durch einen Schuss in den Unterleib (vgl. <intlink letter="637" page="357" line="31" linktext="true" />) und nahm, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Eine Zeit lang kampierte er in einem Zelt in Hamanns Garten (vgl. <intlink letter="649" page="383" line="21" linktext="true" />), bevor er, auch wegen Spielschulden, nach Berlin ging (vgl. <intlink letter="652" page="391" line="31" linktext="true" /> und Kant an Biester, 27. Juni 1782, <wwwlink address="https://www.korpora.org/Kant/aa10/285.html">Kant: AA X, Briefwechsel 1747–1788, S.&#x202F;285f.)</wwwlink>. Hogendorp kehrte schließlich in die Niederlande zurück und segelte am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain-Lieutenant nach Kapstadt, wo er als Beamter der VOC lebte. Später holländischer Kriegsminister und General unter Napoleon; siehe <wwwlink address="https://d-nb.info/gnd/116953144">GND</wwwlink>, <wwwlink address="https://archive.org/details/Altpreussische_Monatsschrift-41/page/94/mode/2up">Ernst Ferdinand Kossmann: <titel>Ein unbekannter Brief Kants an Biester über Dirk van Hogendorp</titel>, in: Altpreußische Monatsschrift 41 (1904), S.&#x202F;94–100</wwwlink> und zu die <wwwlink address="https://data.onb.ac.at/rep/131EFF62"><titel>Mémoires du Général Dirk van Hogendorp</titel> (Den Haag 1887)</wwwlink>.</eintrag>
+<eintrag>1761–1822. Graf aus einer <link ref="hogendorp-w" linktext="false">Rotterdamer Adelsfamilie</link>, Bruder von <link ref="hogendorp-g" linktext="true" />. 1781 als brandenburg-preußischer Leutnant in Königsberg, verkehrte im Hause <link ref="keyserling-h" linktext="false">Keyserling</link>, wo er auch <link ref="kant" linktext="false">Kant</link> kennenlernte, durch seinen Bruder auch Hamann. Bei einem Duell im Herbst 1781 verletzte er sich durch einen Schuss in den Unterleib (vgl. <intlink letter="637" page="357" line="31" linktext="true" />) und nahm, dienstuntauglich, im Sommer 1782 seinen Abschied von der Armee. Eine Zeit lang kampierte er in einem Zelt in Hamanns Garten (vgl. <intlink letter="649" page="383" line="21" linktext="true" />), bevor er, auch wegen Spielschulden, nach Berlin ging (vgl. <intlink letter="652" page="391" line="31" linktext="true" /> und Kant an Biester, 27. Juni 1782, <wwwlink address="https://www.korpora.org/Kant/aa10/285.html">Kant: AA X, Briefwechsel 1747–1788, S.&#x202F;285f.)</wwwlink>. Hogendorp kehrte schließlich in die Niederlande zurück und segelte am 11. Februar 1783 an Bord eines Kriegsschiffes als Capitain-Lieutenant nach Kapstadt, wo er als Beamter der VOC lebte. Später General unter Napoleon, u.a. Kriegsminister unter Louis Bonaparte und Gouverneur von Hamburg; siehe <wwwlink address="https://d-nb.info/gnd/116953144">GND</wwwlink>, <wwwlink address="https://archive.org/details/Altpreussische_Monatsschrift-41/page/94/mode/2up">Ernst Ferdinand Kossmann: <titel>Ein unbekannter Brief Kants an Biester über Dirk van Hogendorp</titel>, in: Altpreußische Monatsschrift 41 (1904), S.&#x202F;94–100</wwwlink> und die <wwwlink address="https://data.onb.ac.at/rep/131EFF62"><titel>Mémoires du Général Dirk van Hogendorp</titel> (Den Haag 1887)</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hogendorp-cw" type="neuzeit">
 <lemma>Carolina Wilhelmine van Hogendorp</lemma>
-<eintrag>1762–1834. Geb. van Haren, Mutter von <link ref="hogendorp" linktext="true" /> und <link ref="hogendorp-g" linktext="true" />.
+<eintrag>1741–1812. Geb. van Haren, Ehefrau von <link ref="hogendorp-w" linktext="true" />, niederländische Patrizierin in Den Haag mit guten Beziehungen zu Wilhelmine von Preußen (der Gemahlin Wilhelm V.); Mutter von <link ref="hogendorp" linktext="true" /> und <link ref="hogendorp-g" linktext="true" />.
 </eintrag>
 </kommentar>
 
