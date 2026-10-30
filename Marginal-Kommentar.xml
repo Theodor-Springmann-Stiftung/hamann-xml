@@ -46111,6 +46111,10 @@ Brief Nr. 380
 
 Brief Nr. 381
 
+<marginal letter="381" page="25" line="6">
+<bzg>5 Xber</bzg> ZH datiert den Brief auf den 5. Dezember 1772; der <intlink letter="381" page="27" line="8" linktext="false">unten</intlink> erwähnte Zeitungsartikel ist jedoch von November 1771.
+</marginal>
+
 <marginal letter="381" page="25" line="14">
 <bzg>Verleger, Freund und Gevatter</bzg> <link ref="kanter" linktext="true" />
 </marginal>
@@ -46644,11 +46648,15 @@ Brief Nr. 383
 </marginal>
 
 <marginal letter="383" page="33" line="31">
-<bzg>Schlegel</bzg> nicht ermittelt
+<bzg>Schlegel</bzg> vmtl. <link ref="schlegel-g" linktext="true" />
 </marginal>
 
 <marginal letter="383" page="33" line="32">
 <bzg>Verleger</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="383" page="33" line="32">
+<bzg>Harders</bzg> <link ref="harder" linktext="true" />
 </marginal>
 
 <marginal letter="383" page="33" line="36" sort="1">
@@ -46770,7 +46778,7 @@ Brief Nr. 384
 </marginal>
 
 <marginal letter="384" page="35" line="28" sort="2">
-<bzg>Apologie</bzg> negativ besetzt durch <link ref="eberhard-ja" subref="eberhard-apologie" linktext="true" />
+<bzg>Apologie</bzg> Der Titel ist negativ besetzt durch <link ref="eberhard-ja" subref="eberhard-apologie" linktext="false">Eberhards <titel>Neue Apologie des Sokrates</titel></link>. Hamann wird ihn später im Jahr 1773 in der <link ref="hamann" subref="hamann-h" linktext="false"><titel>Neuen Apologie des Buchstaben h</titel></link> ironisch aufnehmen.
 </marginal>
 
 <marginal letter="384" page="35" line="29" sort="1">
@@ -46884,7 +46892,7 @@ Brief Nr. 385
 </marginal>
 
 <marginal letter="385" page="37" line="5">
-<bzg>Mien Man Hoam</bzg> Fingierter Autor von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />
+<bzg>Mien Man Hoam</bzg> der fingierte Autor von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />
 </marginal>
 
 <marginal letter="385" page="37" line="9">
@@ -46904,7 +46912,7 @@ Brief Nr. 385
 </marginal>
 
 <marginal letter="385" page="37" line="25">
-<bzg>Ihren Brief</bzg> Anfang Februar erhielt Herder <intlink letter="384" page="35" line="16" linktext="false">HKB 384</intlink>, gemeint ist aber wohl <intlink letter="378" page="15" line="25" linktext="false">HKB 378</intlink>, in dem Hamann die Schrift <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> ankündigte.
+<bzg>Ihren Brief</bzg> Anfang Februar erhielt Herder <intlink letter="384" page="35" line="16" linktext="false">HKB 384</intlink>, gemeint ist aber wohl <intlink letter="378" page="15" line="25" linktext="false">HKB 378</intlink>, in dem Hamann die <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfälle</titel></link> ankündigte.
 </marginal>
 
 <marginal letter="385" page="37" line="26">
@@ -46958,7 +46966,7 @@ Brief Nr. 386
 </marginal>
 
 <marginal letter="386" page="38" line="10">
-<bzg>römischen Correspondenten</bzg> wiederum <link ref="nicolai" linktext="true" />, nach der Benennung in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 22.&#x202F;St. vom 15.3.1773 (N&#x202F;III,378)
+<bzg>römischen Correspondenten</bzg> wiederum <link ref="nicolai" linktext="true" />, nach der Benennung in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, 22.&#x202F;St. vom 15.3.1773 (N&#x202F;IV,378)
 </marginal>
 
 <marginal letter="386" page="38" line="11">
@@ -46966,7 +46974,7 @@ Brief Nr. 386
 </marginal>
 
 <marginal letter="386" page="38" line="16">
-<bzg>beyl. Balsam No 22</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 22.&#x202F;St. vom 15.3.1773 (N&#x202F;III,378), vgl. <intlink letter="388" page="43" line="27" linktext="true" />
+<bzg>beyl. Balsam No 22</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, 22.&#x202F;St. vom 15.3.1773 (N&#x202F;IV,378), vgl. <intlink letter="388" page="43" line="27" linktext="true" />
 </marginal>
 
 <marginal letter="386" page="38" line="18">
@@ -46978,35 +46986,39 @@ Brief Nr. 386
 </marginal>
 
 <marginal letter="386" page="38" line="27">
-<bzg>Gesuch</bzg> Herders Verlangen nach <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, vgl. <intlink letter="385" page="36" line="26" linktext="true" />
+<bzg>Gesuch</bzg> Herders Verlangen nach den <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfällen</titel></link>, vgl. <intlink letter="385" page="36" line="26" linktext="true" />
 </marginal>
 
 <marginal letter="386" page="38" line="32">
-<bzg>deponirt</bzg> Das von <link ref="hamann-jc" linktext="true" /> abgeschriebene Doppelmanuskript der <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false">Philologischen Einfälle</link> und des <link ref="hamann" subref="hamann-salomon" linktext="false">Salomon de Prusse</link> befand sich zu diesem Zeitpunkt noch bei Hamann, vgl. <intlink letter="400" page="70" line="31" linktext="true" />
+<bzg>deponirt</bzg> Das von <link ref="hamann-jc" linktext="true" /> abgeschriebene Doppelmanuskript der <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfälle</titel></link> und <link ref="hamann" subref="hamann-salomon" linktext="false"><titel>Au Salomon de Prusse</titel></link> befand sich zu diesem Zeitpunkt noch bei Hamann, vgl. <intlink letter="400" page="70" line="31" linktext="true" />.
 </marginal>
 
 <marginal letter="386" page="38" line="33">
-<bzg>alles Geräthe</bzg> wohl frühere Entwürfe für <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" />, die nicht überliefert sind
+<bzg>alles Geräthe</bzg> Frühere Entwürfe für die <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfälle</titel></link>; es ist nichts überliefert.
 </marginal>
 
 <marginal letter="386" page="38" line="35">
 <bzg>Coelii und die gantze Kette</bzg> Die Berliner, vgl. <intlink letter="385" page="37" line="28" linktext="true" />; Nicolai hatte Herder jedoch bereits aus <link ref="hamann" subref="hamann-salomon" linktext="true" /> berichtet, vgl. <intlink letter="384" page="35" line="24" linktext="true" />
 </marginal>
-
+ 
 <marginal letter="386" page="39" line="3">
-<bzg>No. 14 …</bzg> Hamanns Anzeige von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 14.&#x202F;St. vom 15.2.1773 (N&#x202F;IV, S.&#x202F;377; dort allerdings ediert nach <link ref="1821" linktext="false">Roth</link>, V, S.&#x202F;32)
+<bzg>No. 14 …</bzg> Hamanns Anzeige des <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="false"><titel>Selbstgesprächs eines Autors</titel></link> in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, 14.&#x202F;St. vom 15.2.1773 (N&#x202F;IV, S.&#x202F;377; dort allerdings ediert nach <link ref="1821" linktext="false">Roth</link>, V, S.&#x202F;32)
+</marginal>
+
+<marginal letter="386" page="39" line="5">
+<bzg>Unterwelt&#x202F;…&#x202F;Mantel</bzg> vgl. <titel>Selbstgespräch eines Autors</titel>, N&#x202F;III 79,19–20
+</marginal>
+
+<marginal letter="386" page="39" line="5">
+<bzg>Mien-Man-Hoam</bzg> der fingierte Autor des <titel>Selbstgesprächs eines Autors</titel>
 </marginal>
 
 <marginal letter="386" page="39" line="9">
-<bzg>No. 21 …</bzg> Hamanns Anzeige von <link ref="nicolai" subref="nicolai-magum" linktext="true" /> in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 21.&#x202F;St. vom 11.3.1773 (bei Nadler nicht ediert; Jg. 1773 nicht überliefert)
+<bzg>No. 21 …</bzg> Hamanns Anzeige von <link ref="nicolai" subref="nicolai-magum" linktext="false">Nicolais <titel>An den Magum in Norden</titel></link> in den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, 21.&#x202F;St. vom 11.3.1773 (bei Nadler nicht ediert; Jg. 1773 nicht überliefert)
 </marginal>
 
 <marginal letter="386" page="39" line="13" sort="1">
 <bzg>Serotinus</bzg> Alias von <link ref="nicolai" linktext="true" /> in <link ref="nicolai" subref="nicolai-magum" linktext="true" />, dt. der zu spät Kommende
-</marginal>
-
-<marginal letter="386" page="39" line="13" sort="2">
-<bzg>Chineser Mien-Man-Hoam</bzg> Alias von Hamann in <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />
 </marginal>
 
 <marginal letter="386" page="39" line="14">
@@ -47018,16 +47030,15 @@ Brief Nr. 386
 </marginal>
 
 <marginal letter="386" page="39" line="16" sort="1">
-<bzg>Catin</bzg> Kurzform von Katharina, gemeint ist <link ref="berens-ca" linktext="true" />; im 18. Jd. nicht nur als Eigenname, sondern auch allgemein für ‚Flittchen‘ verwendet (vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496100-6">Dictionnaire de l’Académie Françoise (Paris 1762), I,257</wwwlink>); hier im Zusammenhang des <link ref="hamann" subref="hamann-lettreperdue" linktext="false"><titel>Lettre Perdue</titel></link>, vgl. N&#x202F;II,299, ebenso <intlink letter="387" page="43" line="14" linktext="true" />
+<bzg>Catin</bzg> Kurzform von Katharina, gemeint ist <link ref="berens-ca" linktext="true" />; im 18. Jd. nicht nur als Eigenname, sondern auch allgemein für ‚Flittchen‘ verwendet (vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496100-6"><titel>Dictionnaire de l’Académie Françoise</titel> (Paris 1762), I,257</wwwlink>). Hier als indirekte Ankündigung des <link ref="hamann" subref="hamann-lettreperdue" linktext="false"><titel>Lettre Perdue</titel></link>, deren fingierte Autorin „Catin“ ist, vgl. N&#x202F;II,300/5, ebenso <intlink letter="387" page="43" line="14" linktext="true" />.
 </marginal>
-
 
 <marginal letter="386" page="39" line="16" sort="2">
 <bzg>Luthers Käthchen</bzg> nach Katharina Luther, geb. v. Bora (1499–1552)
 </marginal>
 
 <marginal letter="386" page="39" line="19" sort="1">
-<bzg>Ihrer     ähnlich</bzg> <link ref="herder-c" linktext="false">Caroline Flachsland</link>, über die Herder nichts geschrieben hatte
+<bzg>Ihrer     ähnlich</bzg> Die Leerstelle im Brief steht für Herders Verlobte (<link ref="herder-c" linktext="false">Caroline Flachsland</link>), über die er sich zuletzt ausschwieg.
 </marginal>
 
 <marginal letter="386" page="39" line="19" sort="2">
@@ -47035,7 +47046,11 @@ Brief Nr. 386
 </marginal>
 
 <marginal letter="386" page="39" line="21">
-<bzg>Histoire philosophique et politique</bzg> <link ref="raynal" subref="raynal-indes" linktext="true" />
+<bzg>Histoire philosophique et politique</bzg> <link ref="raynal" subref="raynal-indes" linktext="true" />, 1.&#x202F;Aufl.
+</marginal>
+
+<marginal letter="386" page="39" line="22">
+<bzg>Gallerie-Malers Raynal</bzg> <link ref="raynal" linktext="true" />
 </marginal>
 
 <marginal letter="386" page="39" line="25">
@@ -47044,6 +47059,10 @@ Brief Nr. 386
 
 <marginal letter="386" page="39" line="27">
 <bzg>vor Ihrer Thür</bzg> vgl. <intlink letter="385" page="36" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="386" page="39" line="28">
+<bzg>– – –</bzg> <intlink letter="386" page="39" line="19" linktext="false">s.o.</intlink>
 </marginal>
 
 <marginal letter="386" page="39" line="32">
@@ -47115,7 +47134,7 @@ Brief Nr. 386
 </marginal>
 
 <marginal letter="386" page="40" line="17">
-<bzg>Helks: Die Pferde schmeißen, die Hunde beißen</bzg> <link ref="helck" subref="helck-fabeln" linktext="true" />
+<bzg>Helks&#x202F;…&#x202F;beißen</bzg> <link ref="helck" subref="helck-fabeln" linktext="true" />
 </marginal>
 
 <marginal letter="386" page="40" line="19">
@@ -47131,7 +47150,7 @@ Brief Nr. 386
 </marginal>
 
 <marginal letter="386" page="40" line="29" sort="1">
-<bzg>D. Faust</bzg> nach dem fingierten Druckort von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />, N&#x202F;III,79  „Gedruckt in der Unterwelt mit D. Fustens eigener Hand und unter seinem Mantel“ (so auch in der oben zitierten Anzeige in <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />)
+<bzg>D. Faust</bzg> nach dem fingierten Druckort von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />, N&#x202F;III,79  „Gedruckt in der Unterwelt mit D. Fustens eigener Hand und unter seinem Mantel“ (so auch in der <intlink letter="386" page="39" line="5" linktext="false">oben</intlink> zitierten Anzeige in den KGPZ)
 </marginal>
 
 <marginal letter="386" page="40" line="29" sort="2">
@@ -47187,11 +47206,15 @@ Brief Nr. 386
 </marginal>
 
 <marginal letter="386" page="41" line="23">
-<bzg>Brooke …</bzg> Verwechslung von <link ref="brooke" linktext="true" /> und <link ref="brooke-f" linktext="true" />, die Autorin von <link ref="brooke-f" subref="brooke-mandeville" linktext="true" />, <link ref="brooke-f" subref="brooke-montague" linktext="true" /> und <link ref="brooke-f" subref="brooke-catesby" linktext="true" />
+<bzg>Brooke …</bzg> Verwechslung von <link ref="brooke" linktext="true" /> und <link ref="brooke-f" linktext="true" />, der Autorin von <link ref="brooke-f" subref="brooke-mandeville" linktext="false"><titel>Julia Mandeville</titel></link>, <link ref="brooke-f" subref="brooke-montague" linktext="false"><titel>Emily Montague</titel></link> /> und <link ref="brooke-f" subref="brooke-catesby" linktext="false"><titel>Lady Catesby</titel></link>
 </marginal>
 
 <marginal letter="386" page="41" line="25">
-<bzg>Lucretia Liebhaber</bzg> Sextus Tarquinius, nach <link ref="livius" subref="livius-urbe" linktext="fals">Liv.</link> I,57; Zusammenhang mit <link ref="nicolai" linktext="true" /> nicht ermittelt
+<bzg>Lucretia Liebhaber</bzg> Sextus Tarquinius, nach <link ref="livius" subref="livius-urbe" linktext="fals">Liv.</link> I,57; Zusammenhang mit <link ref="nicolai" linktext="true" />, nicht ermittelt
+</marginal>
+
+<marginal letter="386" page="41" line="28">
+<bzg>Narr von Autor</bzg> Vgl. das in <intlink letter="384" page="35" line="27" linktext="true" /> beschriebene Konzept; Hamann verfolgte es nicht weiter.
 </marginal>
 
 <marginal letter="386" page="41" line="33">
@@ -47202,6 +47225,10 @@ Brief Nr. 386
 <bzg>Wir fehlen alle mannigfaltiglich</bzg> <link ref="nt-jak" subref="nt-jak3" linktext="false">Jak 3,2</link>
 </marginal>
 
+<marginal letter="386" page="42" line="1">
+<bzg>Expreßen</bzg> vgl. <intlink letter="385" page="36" line="17" linktext="true" />
+</marginal>
+
 <marginal letter="386" page="42" line="2">
 <bzg>Knabe Herkules</bzg> vgl. <intlink letter="385" page="37" line="9" linktext="true" />
 </marginal>
@@ -47209,11 +47236,15 @@ Brief Nr. 386
 Brief Nr. 387
 
 <marginal letter="387" page="42" line="8">
-<bzg>Herr Hofrath</bzg> Der Briefentwurf ist vmtl. an <link ref="tottien-ca" linktext="true" /> gerichtet, der Hofrat in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> war und mit Hamann gut bekannt. Der Briefentwurf ist überliefert einliegend in einem Entwurf von <link ref="hamann" subref="hamann-kermes" linktext="true" />. Mit dieser Schrift steht er wohl, wie auch mit <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, in losem Zusammenhang.
+<bzg>Herr Hofrath</bzg> Der Briefentwurf ist vmtl. an <link ref="tottien-ca" linktext="true" /> gerichtet, der Hofrat in <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink> war und mit Hamann gut bekannt. Überliefert ist der Briefentwurf einliegend in einem Entwurf von <link ref="hamann" subref="hamann-kermes" linktext="false"><titel>Le Kermes du Nord</titel></link> />. Mit dieser Schrift steht er wohl, wie auch mit <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, in losem Zusammenhang.
 </marginal>
 
 <marginal letter="387" page="42" line="10">
 <bzg>Plato</bzg> <link ref="platon" linktext="true" />, vgl. <intlink letter="386" page="41" line="15" linktext="true" />
+</marginal>
+
+<marginal letter="387" page="42" line="18">
+<bzg>Ehstandes&#x202F;…&#x202F;Verleger</bzg> vgl. <intlink letter="390" page="51" line="19" linktext="true" />
 </marginal>
 
 <marginal letter="387" page="42" line="20">
@@ -47253,7 +47284,7 @@ Brief Nr. 387
 </marginal>
 
 <marginal letter="387" page="43" line="10">
-<bzg>Histoire philosophique</bzg> <link ref="raynal" subref="raynal-indes" linktext="true" />
+<bzg>Histoire philosophique</bzg> <link ref="raynal" subref="raynal-indes" linktext="true" />, 1.&#x202F;Aufl.
 </marginal>
 
 <marginal letter="387" page="43" line="13">
@@ -47261,7 +47292,7 @@ Brief Nr. 387
 </marginal>
 
 <marginal letter="387" page="43" line="14">
-<bzg>Cathin</bzg> Kurzform von Katharina, gemeint ist <link ref="berens-ca" linktext="true" />; im 18. Jd. nicht nur als Eigenname, sondern auch allgemein für ‚Flittchen‘ verwendet (vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496100-6">Dictionnaire de l’Académie Françoise (Paris 1762), I,257</wwwlink>); vgl. <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, N&#x202F;II,299
+<bzg>Cathin</bzg> Kurzform von Katharina, gemeint ist <link ref="berens-ca" linktext="true" />; im 18. Jd. nicht nur als Eigenname, sondern auch allgemein für ‚Flittchen‘ verwendet (vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496100-6"><titel>Dictionnaire de l’Académie Françoise</titel> (Paris 1762), I,257</wwwlink>); vgl. <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, N&#x202F;II,300/5
 </marginal>
 
 <marginal letter="387" page="43" line="15" sort="1">
@@ -47271,7 +47302,7 @@ Brief Nr. 387
 Brief Nr. 388
 
 <marginal letter="388" page="43" line="27">
-<bzg>22 Stück …</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 22.&#x202F;St. vom 15.3.1773 (N&#x202F;III,378), vgl. <intlink letter="386" page="38" line="16" linktext="true" />
+<bzg>22 Stück …</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 22.&#x202F;St. vom 15.3.1773 (N&#x202F;IV,378), vgl. <intlink letter="386" page="38" line="16" linktext="true" />
 </marginal>
 
 <marginal letter="388" page="43" line="29">
@@ -47283,7 +47314,7 @@ Brief Nr. 388
 </marginal>
 
 <marginal letter="388" page="43" line="31">
-<bzg>neuesten</bzg> Anspielung auf <link ref="briefe-literatur" linktext="true" />
+<bzg>neuesten</bzg> Anspielung auf die <link ref="briefe-literatur" linktext="false"><titel>Briefe die neueste Litteratur betreffend</titel></link>
 </marginal>
 
 <marginal letter="388" page="43" line="34">
@@ -47359,7 +47390,7 @@ Brief Nr. 388
 </marginal>
 
 <marginal letter="388" page="45" line="1">
-<bzg>wol die Nummer meiner Hausthür</bzg> Zu Hamanns Beschwerde, Mien-Man-Hoam hätte seine Adresse am alten Graben Nr. 758 missbraucht, vgl. <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, 22.&#x202F;St. vom 15.3.1773 (N&#x202F;III,378); Hamanns Adresse kam bereits in der Überschrift von <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> vor, auch Nicolai adressierte <link ref="nicolai" subref="nicolai-magum" linktext="false">seine Schrift</link> dorthin.
+<bzg>wol die Nummer meiner Hausthür</bzg> Zu Hamanns Beschwerde, Mien-Man-Hoam hätte seine Adresse am alten Graben Nr. 758 missbraucht, vgl. <link ref="konigsbergsche-gelehrte-p-z" linktext="false">KGPZ</link>, 22.&#x202F;St. vom 15.3.1773 (N&#x202F;IV,378); Hamanns Adresse kam auch in der Überschrift von <link ref="nicolai" subref="nicolai-magum" linktext="false">Nicolais <titel>An den Magum in Norden</titel></link> vor.
 </marginal>
 
 <marginal letter="388" page="45" line="7">
@@ -47371,7 +47402,7 @@ Brief Nr. 388
 </marginal>
 
 <marginal letter="388" page="45" line="12">
-<bzg>Meßgeschäfte</bzg> Leipziger Buchmesse 1773
+<bzg>Meßgeschäfte</bzg> die Leipziger Frühjahrsbuchmesse 1773
 </marginal>
 
 <marginal letter="388" page="45" line="13" sort="1">
@@ -47443,7 +47474,7 @@ Brief Nr. 388
 </marginal>
 
 <marginal letter="388" page="46" line="6">
-<bzg>HE. Gevatter</bzg> <link ref="kanter" linktext="true" />, bei der Leipziger Buchmesse
+<bzg>HE. Gevatter</bzg> <link ref="kanter" linktext="true" />, bei der Leipziger Frühjahrsbuchmesse
 </marginal>
 
 Brief Nr. 389
@@ -47473,7 +47504,7 @@ Brief Nr. 389
 </marginal>
 
 <marginal letter="389" page="46" line="27">
-<bzg>Damm-ungläubig</bzg> wohl Anspielung auf <link ref="damm" linktext="true" />, mit dem Hamann sich in der <link ref="hamann" subref="hamann-h" linktext="false"><titel>Neuen Apologie des Buchstaben h</titel></link> auseinandersetzt
+<bzg>Damm-ungläubig</bzg> Anspielung auf <link ref="damm" linktext="true" />, mit dem Hamann sich in der <link ref="hamann" subref="hamann-h" linktext="false"><titel>Neuen Apologie des Buchstaben h</titel></link> auseinandersetzt
 </marginal>
 
 <marginal letter="389" page="46" line="30">
@@ -47549,7 +47580,7 @@ Brief Nr. 389
 </marginal>
 
 <marginal letter="389" page="47" line="33">
-<bzg>Fabel vom Storch und Fuchs</bzg> wohl nach <link ref="fontaine" subref="fontaine-fables" linktext="true" /> I 18, in der sich der Storch für eine Einladung, bei der er vom flachen Teller essen sollte und nichts erwischen konnte, mit einer Gegeneinladung revanchiert; da wurde die Mahlzeit aufgetragen, in einer Flasche, die langhalsig war und eng, sodass diesmal der Fuchs der betrogene Betrüger war; oder nach <link ref="lessing" subref="lessing-fabeln" linktext="true" /> I 21, wo der Storch, über seine Weitgereistheit befragt, seine bevorzugten Nahrungsgründe schildert
+<bzg>Fabel vom Storch und Fuchs</bzg> wohl nach <link ref="fontaine" subref="fontaine-fables" linktext="true" /> I 18, in der sich der Storch für eine Einladung, bei der er vom flachen Teller essen sollte und nichts erwischen konnte, mit einer Gegeneinladung revanchiert; da wurde die Mahlzeit aufgetragen, in einer Flasche, die langhalsig war und eng, sodass diesmal der Fuchs der betrogene Betrüger war; vgl. auch <link ref="lessing" subref="lessing-fabeln" linktext="true" /> I 21, wo der Storch, über seine Weitgereistheit befragt, seine bevorzugten Nahrungsgründe schildert
 </marginal>
 
 <marginal letter="389" page="47" line="34">
@@ -47691,7 +47722,7 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="50" line="9">
-<bzg>Defect des Bentley schen Horatzens</bzg> Hamann hat die beschädigte Ausgabe anscheinend später bekommen, vgl. <link ref="horaz" subref="horaz-opera" linktext="true" /> (Biga&#x202F;10/159)
+<bzg>Defect des Bentley schen Horatzens</bzg> Hamann hat die beschädigte Ausgabe anscheinend später bekommen, vgl. <link ref="horaz" subref="horaz-opera" linktext="true" /> (Biga&#x202F;10/159).
 </marginal>
 
 <marginal letter="390" page="50" line="11" sort="1">
@@ -47790,6 +47821,10 @@ Brief Nr. 390
 <bzg>Mitau, Hasenpoth</bzg> <wwwlink address="https://www.geonames.org/461602">Hasenpoth / Aizpute</wwwlink> liegt ca. 140&#x202F;km westlich von <wwwlink address="https://www.geonames.org/459279">Mitau</wwwlink>; viele Bücher, die Hinz in den frühen 1770ern verlegte, bezeichnen „Mitau und Hasenpoth“ als Erscheinungsorte.
 </marginal>
 
+<marginal letter="390" page="51" line="18">
+<bzg>Ehstande</bzg> vgl. <intlink letter="387" page="42" line="18" linktext="true" />
+</marginal>
+
 <marginal letter="390" page="51" line="22">
 <bzg>französischen Bogen</bzg> <link ref="hamann" subref="hamann-salomon" linktext="true" />, der gemeinsam mit <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> hätte gedruckt werden sollen
 </marginal>
@@ -47811,7 +47846,7 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="52" line="5">
-<bzg>höchsten Schulmeister</bzg> wohl für die Zensur, für welche ein Dekan und ein weiterer Professor der Albertina verantwortlich war
+<bzg>höchsten Schulmeister</bzg> für die Zensur des <link ref="hamann" subref="hamann-lettreperdue" linktext="false"><titel>Lettre perdue</titel></link>, vgl. <intlink letter="393" page="59" line="3" linktext="true" />; für die Zensur war ein Dekan und ein weiterer Professor der Albertina verantwortlich.
 </marginal>
 
 <marginal letter="390" page="52" line="8">
@@ -47819,7 +47854,7 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="52" line="9">
-<bzg>gantze System</bzg> wohl mit Bezug auf die erhoffte Wirkung von <link ref="hamann" subref="hamann-salomon" linktext="true" />; gemeint ist demnach das französische Finanzsystem unter <link ref="friedrich-II" linktext="false">Friedrich II.</link>, vgl. <intlink letter="389" page="48" line="8" linktext="true" />
+<bzg>gantze System</bzg> Wohl mit Bezug auf die erhoffte Wirkung des <titel>Lettre perdue</titel>; gemeint ist demnach das französische Finanzsystem unter <link ref="friedrich-II" linktext="false">Friedrich II.</link>, vgl. <intlink letter="389" page="48" line="8" linktext="true" />.
 </marginal>
 
 <marginal letter="390" page="52" line="21">
@@ -47827,7 +47862,7 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="52" line="23">
-<bzg>geht das Ding nicht durch</bzg> d.&#x202F;h. wenn <link ref="hamann" subref="hamann-salomon" linktext="true" /> nicht die Zensur in Königsberg passiert
+<bzg>französischen&#x202F;…&#x202F;Ding</bzg> wohl <link ref="hamann" subref="hamann-lettreperdue" linktext="true" /> oder die 2.&#x202F;Auflage von August 1773
 </marginal>
 
 <marginal letter="390" page="52" line="33" sort="1">
@@ -47839,11 +47874,11 @@ Brief Nr. 390
 </marginal>
 
 <marginal letter="390" page="52" line="34">
-<bzg>Geistl. in Schwaben</bzg> Alias von Hamann in der <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="false"><titel>Beylage zun Denkwürdigkeiten des seligen Sokrates</titel></link>
+<bzg>Geistl. in Schwaben</bzg> der fingierte Autor in Hamanns <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="false"><titel>Beylage zun Denkwürdigkeiten des seligen Sokrates</titel></link>
 </marginal>
 
 <marginal letter="390" page="53" line="4">
-<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />, als Verleger von <link ref="hamann" subref="hamann-kreuzzuege" linktext="true" />
+<bzg>Kanter</bzg> <link ref="kanter" linktext="true" />, als Verleger der <link ref="hamann" subref="hamann-kreuzzuege" linktext="false"><titel>Kreuzzüge des Philologen</titel></link>
 </marginal>
 
 <marginal letter="390" page="53" line="8">
@@ -47861,7 +47896,7 @@ Brief Nr. 391
 </marginal>
 
 <marginal letter="391" page="53" line="21">
-<bzg>jetzt mit Ehren zu melden Herder </bzg> Hamann forderte im vorausgegangenen Brief mehrfach, ihm den Namen von Herders Braut zu nennen, vgl. etwa <intlink letter="386" page="39" line="28" linktext="true" />; sie heirateten am 2. Mai 1773
+<bzg>jetzt mit Ehren zu melden Herder </bzg> Hamann forderte im vorausgegangenen Brief mehrfach, ihm den Namen von Herders Braut zu nennen, vgl. etwa <intlink letter="386" page="39" line="28" linktext="true" />; sie heirateten am 2. Mai 1773.
 </marginal>
 
 <marginal letter="391" page="53" line="22">
@@ -47873,11 +47908,11 @@ Brief Nr. 391
 </marginal>
 
 <marginal letter="391" page="53" line="32">
-<bzg>alten Graben</bzg> Hamanns gern öffentlich kundgetane Adresse am Alten Graben, vgl. <intlink letter="378" page="16" line="12" linktext="true" />
+<bzg>alten Graben</bzg> Hamanns wiederholt öffentlich kundgetane Adresse am Alten Graben, vgl. <intlink letter="378" page="16" line="12" linktext="true" />.
 </marginal>
 
 <marginal letter="391" page="54" line="1">
-<bzg>Autorschaft …</bzg> wohl die Publikationsbemühungen um <link ref="hamann" subref="hamann-philologische-einfalle" linktext="true" /> und <link ref="hamann" subref="hamann-salomon" linktext="true" />; zu Herders vorheriger Bitte um Schonung in Hamanns öffentlichen Kampagnen vgl. <intlink letter="385" page="37" line="17" linktext="true" />
+<bzg>Autorschaft …</bzg> Wohl die Publikationsbemühungen um <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false">Hamanns <titel>Philologische Einfälle</titel></link> /> und <link ref="hamann" subref="hamann-salomon" linktext="false"><titel>Au Salomon de Prusse</titel></link>; zu Herders vorheriger Bitte um Schonung in Hamanns öffentlichen Kampagnen vgl. <intlink letter="385" page="37" line="17" linktext="true" />.
 </marginal>
 
 <marginal letter="391" page="54" line="3">
@@ -47896,8 +47931,12 @@ Brief Nr. 391
 <bzg>Beilage aber zum seel. Sokrates</bzg> <link ref="hamann" subref="hamann-beilage-denkwurdigkeiten" linktext="true" />
 </marginal>
 
+<marginal letter="391" page="54" line="10">
+<bzg>Flamme&#x202F;…&#x202F;Sausen</bzg> Manifestationen des heiligen Geistes, vgl. <link ref="nt-joh1" subref="nt-joh1-3" linktext="false" >1 Joh 3,8</link> <link ref="nt-apg" subref="nt-apg2" linktext="false">Apg 2,2–4</link>
+</marginal>
+
 <marginal letter="391" page="54" line="11">
-<bzg>Inlage</bzg> mglw. an <link ref="herder-cd-g" linktext="true" />
+<bzg>Inlage</bzg> vmtl. an <link ref="herder-cd-g" linktext="true" />
 </marginal>
 
 <marginal letter="391" page="54" line="13">
@@ -47959,7 +47998,7 @@ nicht abgesandt, vgl. <intlink letter="393" page="56" line="31" linktext="false"
 </marginal>
 
 <marginal letter="392" page="55" line="4" sort="2">
-<bzg>Wochenschrift</bzg> Zur Realisierung des Projekts kam es wohl nicht; mglw. lief es auf umfangreichere Beilagen zu den <link ref="konigsbergsche-gelehrte-p-z" linktext="false">Königsbergschen Gelehrten und Politischen Zeitungen</link> hinaus.
+<bzg>Wochenschrift</bzg> Zur Realisierung eines solchen Projekts kam es nicht.
 </marginal>
 
 <marginal letter="392" page="55" line="6">
@@ -47991,7 +48030,7 @@ nicht abgesandt, vgl. <intlink letter="393" page="56" line="31" linktext="false"
 </marginal>
 
 <marginal letter="392" page="55" line="21">
-<bzg>G. im deutschen Mercur</bzg> <link ref="teutsche-merkur" linktext="true" />, 2.&#x202F;Bd., 3.&#x202F;Stück (Juni 1773), S.&#x202F;207: („Fortsetzung der Nachrichten vom Zustande des deutschen Parnasses“, unter der Sigle G, Verfasser nicht ermittelt): „Der Vater der neuern Künsteleyen, die unserm Styl schon so verderblich geworden, Herr Hamann, ist von neuen aufgetreten und hat Selbstgespräche bekannt gemacht, die er auch nur selbst zu enträtzeln im Stande ist. Hingerissen von diesen glänzenden Fehlern hat ein angehender Schriftsteller, der Verfasser einer sonst lesenswürdigen Brochüre von deutscher Baukunst, durch Zierrathen zu glänzen gesucht, die in der Baukunst Schnörkel heißen.“ Hamann notierte sich diese Stelle auf einem Exemplar von <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="true" />, vgl. N&#x202F;III,430
+<bzg>G. im deutschen Mercur</bzg> Vgl. die „Fortsetzung der Nachrichten vom Zustande des deutschen Parnasses“, unter der Verfasser-Sigle G (Verfasser nicht ermittelt) im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617950?page=208%2C209">2.&#x202F;Bd., 3.&#x202F;Stück (Juni 1773), S.&#x202F;207</wwwlink>:: „Der Vater der neuern Künsteleyen, die unserm Styl schon so verderblich geworden, Herr Hamann, ist von neuen aufgetreten und hat Selbstgespräche bekannt gemacht, die er auch nur selbst zu enträtzeln im Stande ist. Hingerissen von diesen glänzenden Fehlern hat ein angehender Schriftsteller, der Verfasser einer sonst lesenswürdigen Brochüre von deutscher Baukunst, durch Zierrathen zu glänzen gesucht, die in der Baukunst Schnörkel heißen.“ Hamann notierte sich diese Stelle auf einem Exemplar des <link ref="hamann" subref="hamann-selbstgesprach-eines-autors" linktext="false"><titel>Selbstgesprächs eines Autors</titel></link>, vgl. N&#x202F;III,430.
 </marginal>
 
 <marginal letter="392" page="55" line="25">
@@ -48101,11 +48140,11 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="57" line="8">
-<bzg>Zeitung</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />
+<bzg>Zeitung</bzg> <link ref="konigsbergsche-gelehrte-p-z" linktext="true" />, vgl. <intlink letter="392" page="55" line="4" linktext="true" />
 </marginal>
 
 <marginal letter="393" page="57" line="12">
-<bzg>dreyen oder 4</bzg> zwei der anderen sind <link ref="hartung-h" linktext="false">Hartung</link> und <link ref="hinz" linktext="false">Hinz</link>, mit dem Hamann sich gerade überwarf (vgl. <intlink letter="390" page="51" line="19" linktext="true" />); der letzte mglw. <link ref="petersen" linktext="true" />
+<bzg>dreyen oder 4</bzg> Einer davon ist sicher <link ref="hinz" linktext="false">Hinz</link>, mit dem Hamann sich gerade überwarf (vgl. <intlink letter="390" page="51" line="19" linktext="true" />); ein weiterer ist vmtl. <link ref="hartung-gl" linktext="true" />, mit dem Hamann sich anlässlich der Versuche überwarf, die <link ref="hamann" subref="hamann-philologische-einfalle" linktext="false"><titel>Philologischen Einfälle</titel></link> in Königsberg zu drucken; außerdem <link ref="hartung-h" linktext="true" /> bzw. <link ref="woltersdorf" linktext="false">Wolterdorf</link>, über deren Druck der <link ref="hamann" subref="sokratischedenk" linktext="false">Sokratischen Denkwürdigkeiten</link> Hamann sich wiederholt beschwerte; ein letzter Kandidat ist mglw. <link ref="petersen" linktext="true" />.
 </marginal>
 
 <marginal letter="393" page="57" line="17">
@@ -48197,7 +48236,7 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="58" line="22" sort="2">
-<bzg> M. Sebaldus Nothanker</bzg> <link ref="nicolai" subref="nicolai-nothanker" linktext="true" />
+<bzg>M. Sebaldus Nothanker</bzg> <link ref="nicolai" subref="nicolai-nothanker" linktext="true" />
 </marginal>
 
 <marginal letter="393" page="58" line="24">
@@ -48233,7 +48272,7 @@ Brief Nr. 393
 </marginal>
 
  <marginal letter="393" page="58" line="34" sort="1">
-<bzg> höllisches Feuer</bzg> Sprichwörtlich für eine Bücherzensur
+<bzg>höllisches Feuer</bzg> Sprichwörtlich für eine Bücherzensur
  </marginal>
 
 <marginal letter="393" page="58" line="34" sort="2">
@@ -48241,7 +48280,7 @@ Brief Nr. 393
 </marginal>
 
 <marginal letter="393" page="58" line="35">
-<bzg>nach Ihren Gegenden geschrieben</bzg> nicht überliefert; wohl nach Frankfurt am Main an <link ref="gebhard" linktext="true" />, der die Schrift verlegte, von <link ref="hinz" linktext="false">Hinz</link> gedruckt, dann auch mit der Jahresangabe 1773, vgl. <intlink letter="408" page="97" line="10" linktext="true" /> und N&#x202F;III,434
+<bzg>nach Ihren Gegenden geschrieben</bzg> Nicht überliefert; vmtl. nach Frankfurt am Main an <link ref="gebhard" linktext="true" /> bzw. <link ref="garbe" linktext="true" />, der die Schrift verlegte, vgl. <link ref="messkatalog" subref="messkatalog-ostern1774" linktext="true" />, <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN822207737?tify=%7B%22pages%22%3A%5B6%2C7%5D%2C%22view%22%3A%22info%22%7D">S.&#x202F;644</wwwlink> und <intlink letter="408" page="97" line="10" linktext="true" />.
 </marginal>
 
 <marginal letter="393" page="58" line="36">
@@ -48250,6 +48289,10 @@ Brief Nr. 393
 
 <marginal letter="393" page="59" line="1">
 <bzg>Lettre perdue</bzg> <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />
+</marginal>
+
+<marginal letter="393" page="59" line="1">
+<bzg>Quarantaine</bzg> Es wird auf ein Bescheid der Zensur gewartet, vgl. <intlink letter="390" page="52" line="5" linktext="true" />.
 </marginal>
 
 <marginal letter="393" page="59" line="5">
@@ -48799,7 +48842,7 @@ Brief Nr. 398
 </marginal>
 
 <marginal letter="398" page="69" line="12">
-<bzg>bösen Catin</bzg> Kurzform von Katharina, gemeint ist <link ref="berens-ca" linktext="true" />; im 18. Jd. nicht nur als Eigenname, sondern auch allgemein für ‚Flittchen‘ verwendet (vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496100-6">Dictionnaire de l’Académie Françoise (Paris 1762), I,257</wwwlink>); vgl. <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, N&#x202F;II,299
+<bzg>bösen Catin</bzg> Kurzform von Katharina, gemeint ist <link ref="berens-ca" linktext="true" />; im 18. Jd. nicht nur als Eigenname, sondern auch allgemein für ‚Flittchen‘ verwendet (vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496100-6"><titel>Dictionnaire de l’Académie Françoise</titel> (Paris 1762), I,257</wwwlink>); vgl. <link ref="hamann" subref="hamann-lettreperdue" linktext="true" />, N&#x202F;II,299
 </marginal>
 
 <marginal letter="398" page="69" line="13" sort="1">
@@ -66300,7 +66343,7 @@ Brief Nr. 512
 </marginal>
 
 <marginal letter="512" page="376" line="27">
-<bzg>Catin</bzg> Kurzform von Katharina, gemeint ist <link ref="berens-ca" linktext="true" />; im 18. Jd. nicht nur als Eigenname, sondern auch allgemein für ‚Flittchen‘ verwendet (vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496100-6">Dictionnaire de l’Académie Françoise (Paris 1762), I,257</wwwlink>).
+<bzg>Catin</bzg> Kurzform von Katharina, gemeint ist <link ref="berens-ca" linktext="true" />; im 18. Jd. nicht nur als Eigenname, sondern auch allgemein für ‚Flittchen‘ verwendet (vgl. <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496100-6"><titel>Dictionnaire de l’Académie Françoise</titel> (Paris 1762), I,257</wwwlink>).
 </marginal>
 
 <marginal letter="512" page="376" line="32" sort="1">
