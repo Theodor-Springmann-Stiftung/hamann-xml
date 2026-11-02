@@ -8616,7 +8616,7 @@ Hamanns Erwiderung auf Nicolais <link ref="nicolai" subref="nicolai-magum" linkt
 <subsection id="hamann-h" type="neuzeit" sort="595">
 <lemma>Hamann, <titel>Neue Apologie des Buchstaben h</titel></lemma>
 <eintrag>
-<titel>Neue Apologie des Buchstaben h Oder: Ausserordentliche Betrachtungen über die Orthographie der Deutschen von H. S. Schullehrer (Zweite verbesserte Auflage, Pisa [Königsberg] 1773 [recte Frankfurt am Main: <link ref="gebhard" linktext="true" /> und <link ref="garbe" linktext="true" /> 1773])</titel>. Zum Verlag vgl. <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN822207737?tify=%7B%22pages%22%3A%5B6%2C7%5D%2C%22view%22%3A%22info%22%7D">Messkatalog für Ostern 1774, S.&#x202F;644</wwwlink> und <intlink letter="408" page="97" line="10" linktext="true" />. Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235860">ULB Münster: N. Hamann Bd.&#x202F;53, 54, 116</wwwlink>.<line type="break" />
+<titel>Neue Apologie des Buchstaben h Oder: Ausserordentliche Betrachtungen über die Orthographie der Deutschen von H. S. Schullehrer (Zweite verbesserte Auflage, Pisa [Königsberg] 1773 [recte Frankfurt am Main: <link ref="gebhard" linktext="true" /> und <link ref="garbe" linktext="true" /> 1774])</titel>. Zum Verlag vgl. <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN822207737?tify=%7B%22pages%22%3A%5B6%2C7%5D%2C%22view%22%3A%22info%22%7D">Messkatalog für Ostern 1774, S.&#x202F;644</wwwlink> und <intlink letter="408" page="97" line="10" linktext="true" />. Digitalisat: <wwwlink address="http://www.nbn-resolving.de/urn:nbn:de:hbz:6:1-235860">ULB Münster: N. Hamann Bd.&#x202F;53, 54, 116</wwwlink>.<line type="break" />
 Zitation im Briefkommentar nach N&#xA0;III, S.&#x202F;89–108.
 </eintrag>
 </subsection>
@@ -19848,7 +19848,13 @@ Zweite Auflage: <titel>Lyrische, Elegische und Epische Poesien, nebst einer krit
 
 <kommentar id="schumacher-ar" type="neuzeit">
 <lemma>Anna Regina Schumacher</lemma>
-<eintrag>1736–1789. Geboren in <wwwlink address="https://www.geonames.org/825847">Warginen</wwwlink> (ein Dorf bei Tapiau 40&#x202F;km östlich von Königsberg); zunächst Magd bei Hamanns Vater; ungefähr 1763 die Geliebte Hamanns (er spielt darauf unter der anzüglichen Konstellation von ‚Hamadryade‘ und ‚Druide‘ an); ab den späten 1760er Jahren Lebensgefährtin Hamanns und Mutter von <link ref="hamann-jm" linktext="true" />, <link ref="hamann-er" linktext="true" />, <link ref="hamann-mc" linktext="true" /> und <link ref="hamann-ms" linktext="true" />. 
+<eintrag>1736–1789. Geboren in <wwwlink address="https://www.geonames.org/825847">Warginen</wwwlink> (ein Dorf bei Tapiau 40&#x202F;km östlich von Königsberg); zunächst Magd bei Hamanns Vater; ungefähr ab 1763 die Geliebte Hamanns (er spielt darauf unter der anzüglichen Konstellation von ‚Hamadryade‘ und ‚Druide‘ an); ab den späten 1760er Jahren Lebensgefährtin Hamanns und Mutter von <link ref="hamann-jm" linktext="true" />, <link ref="hamann-er" linktext="true" />, <link ref="hamann-mc" linktext="true" /> und <link ref="hamann-ms" linktext="true" />. 
+</eintrag>
+</kommentar>
+
+<kommentar id="schumacher-ad" type="neuzeit">
+<lemma>Anna Dorothea Schumacher</lemma>
+<eintrag>Gest. 1772. Mutter von <link ref="schumacher-ar" linktext="true" />, vgl. Hamanns ‚Hausbuch‘, N&#x202F;III,344/22–25.
 </eintrag>
 </kommentar>
 
