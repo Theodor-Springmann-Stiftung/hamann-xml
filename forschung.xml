@@ -423,6 +423,10 @@
 <lemma>Beiser, Frederick C.: The Fate of Reason: German Philosophy from Kant to Fichte. Cambridge, Mass. (u.a.) 1993.</lemma>
 </kommentar>
 
+<kommentar id="ben-m-1944" type="forschung">
+<lemma>Bendel, Max: Zerstörter Schaffhauser Kunstbesitz aus dem Museum zu Allerheiligen. Hrsg. vom Kunstverein Schaffhausen und der Vereinigung Schaffhauser Kunstfreunde. Zürich 1944.</lemma>
+</kommentar>
+
 <kommentar id="ben-r-1926" type="forschung">
 <lemma>Benz, Richard E.: Sprache und Volkserlebnis bei Hamann und Herder. Wissenschaftliche Festschrift zur Jubelfeier der Kreuzschule. Dresden 1926.</lemma>
 </kommentar>
@@ -1528,7 +1532,7 @@
 </kommentar>
 
 <kommentar id="haym-r-1880" type="forschung">
-<lemma>Haym, Rudolf: Herder nach seinem Leben und seinen Werken dargestellt. 2 Bde. Berlin 1880–1885.</lemma>
+<lemma>Haym, Rudolf: Herder nach seinem Leben und seinen Werken dargestellt. 2 Bde. Berlin 1880–1885. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11571259-6">BSB München: Biogr. 518 ct-2</wwwlink>.</lemma>
 </kommentar>
 
 <kommentar id="hayn-k-2012" type="forschung">
@@ -2418,6 +2422,10 @@
 
 <kommentar id="kus-m-1936" type="forschung">
 <lemma>Küsters, Marie-Theres: Inhaltsanalyse von J. Georg Hamanns ›Aesthetica in nuce‹. Münster 1936.</lemma>
+</kommentar>
+
+<kommentar id="las-m-2020" type="forschung">
+<lemma>Lässig, Maximilian: Radikale Aufklärung in Deutschland: Karl von Knoblauch, Andreas Riem und Johann Christian Schmohl. Berlin, Boston 2020.</lemma>
 </kommentar>
 
 <kommentar id="lau-m-2003" type="forschung">
@@ -3930,6 +3938,10 @@
 <lemma>Sudhof, Friedrich: Von der Aufklärung zur Romantik. Die Geschichte des »Kreises von Münster«. Berlin 1973.</lemma>
 </kommentar>
 
+<kommentar id="sup-b-1877" type="forschung">
+<lemma>Suphan, Bernhard (Hg.): Herders Sämmtliche Werke (33 Bde., Berlin 1877–1913) [= SWS]. Zu einer Übersicht der Digitalisate vgl. <wwwlink address="https://de.wikisource.org/wiki/Johann_Gottfried_Herder">Wikisource</wwwlink>.</lemma>
+</kommentar>
+
 <kommentar id="swa-c-1967" type="forschung">
 <lemma>Swain, Charles W.: Hamann and the Philosophy of David Hume. In: Journal of the History of Philosophy 5 (1967), S.&#x202F;343&#x2013;352.</lemma>
 </kommentar>
@@ -4396,10 +4408,6 @@
 <kommentar id="zsc-l-1952" type="forschung">
 <lemma>Zscharnak, Leopold: Hamanns ›Tagebuch eines Christen‹ (London 1758). In: Theologische Literaturzeitung 11 (1952), S.&#x202F;651&#x2013;662.</lemma>
 </kommentar>
-
-<kommentar id="sup-b-1877" type="forschung">
-<lemma>Suphan, Bernhard (Hg.): Herders Sämmtliche Werke (33 Bde., Berlin 1877–1913) [= SWS]. Zu einer Übersicht der Digitalisate vgl. <wwwlink address="https://de.wikisource.org/wiki/Johann_Gottfried_Herder">Wikisource</wwwlink>.</lemma>
-</kommentar>
 </kommcat>
 
 <kommcat value="editionen" sorting="4">
@@ -4537,7 +4545,7 @@ Albinus, Robert: Lexikon der Stadt Königsberg Pr. und Umgebung. Leer 1988.</lem
 
 <kommentar id="baczko-stadtkönigsberg" type="nachschlagewerke">
 <lemma>Zeitgenössisches Werk über Königsberg:<line type="break" />
-Baczko, Ludwig: Versuch einer Geschichte und Beschreibung der Stadt Königsberg. 7 Bde., Königsberg 1787–1790.</lemma>
+Baczko, Ludwig: Versuch einer Geschichte und Beschreibung der Stadt Königsberg. 7 Hefte, Königsberg 1787–1790. Digitalisat: <wwwlink address="https://digital.staatsbibliothek-berlin.de/werkansicht?lang=de&#x26;PPN=PPN1024607305">Stabi Berlin: Sz 7682</wwwlink>.</lemma>
 </kommentar>
 
 <kommentar id="boetticher" type="nachschlagewerke">
@@ -4551,7 +4559,7 @@ Dreher, Carl Richard: Der Buchhandel und die Buchhändler zu Königsberg in Preu
 </kommentar>
 
 <kommentar id="fischer" type="nachschlagewerke">
-<lemma>Zur königsberger Freimaurerloge:<line type="break" />
+<lemma>Zur Königsberger Freimaurerloge:<line type="break" />
 Fischer, Richard: Geschichte der Johannisloge zu den drei Kronen. Königsberg 1910.</lemma>
 </kommentar>
 
@@ -4561,7 +4569,7 @@ Gründliches mythologisches Lexikon von Benjamin Hederich. Leipzig 1770.</lemma>
 </kommentar>
 
 <kommentar id="gause" type="nachschlagewerke">
-<lemma>Zur königsberger Stadtgeschichte:<line type="break" />
+<lemma>Zur Königsberger Stadtgeschichte:<line type="break" />
 Gause, Fritz: Die Geschichte der Stadt Königsberg in Preußen. 3 Bde., Köln 1965–1971.</lemma>
 </kommentar>
 
@@ -4591,7 +4599,7 @@ Universal-Lexikon der Gegenwart und Vergangenheit von Heinrich August Pierer. 19
 </kommentar>
 
 <kommentar id="schultze" type="nachschlagewerke">
-<lemma>Zum französischen Finanzsystem Friedrich II.:<line type="break" />
+<lemma>Zum französischen Finanzsystem Friedrichs II.:<line type="break" />
 Walter Schultze: Geschichte der preußischen Regieverwaltung von 1766–1786. In: Staats- und socialwissenschaftliche Forschungen, hg. von Gustav Schmoller. Bd. 7, Heft 3. Leipzig 1898. Digitalisat: <wwwlink address="https://books.google.de/books?id=ANuKDJxtQ-sC">Google Books</wwwlink>.</lemma>
 </kommentar>
 
