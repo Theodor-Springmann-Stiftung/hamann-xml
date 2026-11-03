@@ -1548,8 +1548,9 @@
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
 				Hamanniana], II 35.
 </app>
-			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, I
-				293–297.<line type="break" /> ZH I 247–249, Nr. 113. </app>
+			<app ref="5">
+			<wwwlink address="https://zs.thulb.uni-jena.de/receive/jportal_jparticle_00089207"></wwwlink>Journal für Literatur, Kunst, Luxus und Mode 32 (1817, Juli), 454–457.<line type="break" />
+			Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, I 293–297.<line type="break" /> ZH I 247–249, Nr. 113. </app>
 		</letterTradition>
 
 
@@ -1574,7 +1575,9 @@
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
 				Hamanniana], II 37.
 </app>
-			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, I
+			<app ref="5">
+			<wwwlink address="https://zs.thulb.uni-jena.de/receive/jportal_jparticle_00089207"></wwwlink>Journal für Literatur, Kunst, Luxus und Mode 32 (1817, Juli), 457–460.<line type="break" />
+			Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, I
 				300–305.<line type="break" /> ZH I 250–252, Nr. 115. </app>
 		</letterTradition>
 
@@ -1630,7 +1633,9 @@
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
 				Hamanniana], II 38.
 </app>
-			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, I
+			<app ref="5">
+			<wwwlink address="https://zs.thulb.uni-jena.de/receive/jportal_jparticle_00089207"></wwwlink>Journal für Literatur, Kunst, Luxus und Mode 32 (1817, Juli), 461–463.<line type="break" />
+			Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, I
 				305–308.<line type="break" /> ZH I 260–262, Nr. 120. </app>
 		</letterTradition>
 
@@ -7103,7 +7108,7 @@
 				intensiven brieflichen Kontakts mit Moser 1763 auf seine Bitte hin erhalten: „Ich gieng eben
 				mit dem weitläuftigen Anschlage um mir zum Neuen Jahr von Ew. Hochwolgeb. ein Andenken an
 				Dero sämtl. Schriften auszubitten, von denen ich noch nichts, nicht einmal den Daniel
-				besize“ (<intlink letter="255a" page="xxviii" line="8" linktext="true" />); Anfang 1764 las
+				besize“ (<intlink letter="255a" page="XXVII" line="8" linktext="true" />); Anfang 1764 las
 				er sie vmtl. bereits (vgl. <intlink letter="257" page="234" line="13" linktext="true" />).
 				Für einen engen zeitlichen Konnex mit HKB 398 spricht auch Mosers Aufenthalt in Preußen Ende
 				1773: Am 28. November trafen sie sich in Königsberg, wovon Hamann am 1. Dezember bewegt
@@ -7550,8 +7555,9 @@
 			<app ref="4">
 				Tartu, Universitätsbibliothek, Sammlung Morgenstern, Ms. 291, I. (pag. 95–98).
 </app>
-			<app ref="5"> Kant, Werke [Akademieausgabe] X 156–158, vgl. XIII 64&#x2009;f.<line
-					type="break" /> ZH III 82–84, Nr. 404.<line type="break" /> Immanuel Kant: Briefwechsel.
+			<app ref="5">
+			<wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10610890-6">Dörptische Beyträge für Freunde der Philosophie, Litteratur und Kunst 3 (1816), 91–94.</wwwlink><line type="break" />
+			Kant, Werke [Akademieausgabe] X 156–158, vgl. XIII 64&#x2009;f.<line type="break" /> ZH III 82–84, Nr. 404.<line type="break" /> Immanuel Kant: Briefwechsel.
 				Auswahl und Anmerkungen von Otto Schöndörffer. Mit einer Einleitung von Rudolf Malter und
 				Joachim Kopper und einem Nachtrag (Hamburg 1972), 120–122. </app>
 		</letterTradition>
@@ -8493,11 +8499,11 @@
 			<app ref="6">Digitalisat des Anhanges: <wwwlink address="https://www.jbc.bj.uj.edu.pl/publication/856480">Hamann-Handschriften in der Jagiellonenbibliothek, Krakau.</wwwlink>
 			</app>
 			<app ref="9">
-				<note>Dem Brief lag ein gefaltetes Oktavblatt bei (vgl. <intlink letter="470" page="254" line="22" linktext="true" />, das auf vier Seiten anfänglich Abschriften von Hamanns Schreiben an die <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>, 18. August und 1. September 1776, enthielt; später notierte Hamann zusätzlich einen Begleittext an Herder als PS zu <intlink letter="470" page="263" line="28" linktext="false">HKB 470</intlink> in den breiten Platz zwischen Anrede und Text.</note>
+				<note>Dem Brief lag ein gefaltetes Oktavblatt bei (vgl. <intlink letter="470" page="254" line="22" linktext="true" />, das auf vier Seiten anfänglich Abschriften von <link ref="hamann" subref="hamann-generaladministration" linktext="false">Hamanns zwei Briefen</link> an die <link ref="general-akzise-und-zoll-direktion" linktext="false">Generaladministration</link>, 18. August und 1. September 1776, enthielt. Beim Absenden von <intlink letter="470" page="263" line="28" linktext="false">HKB 470</intlink> notierte Hamann zusätzlich einen Begleittext an Herder als Postscriptum in den breiten Platz zwischen Anrede und Text.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="434" autopsic="434" />
-<line index="8" autopsic="8" /><note>Der Begleittext an Herder (als PS zu HKB 470):</note><line type="break" />
+<line index="8" autopsic="8" /><note>Der Begleittext an Herder (als Postscriptum zu HKB 470):</note><line type="break" />
 <line index="9" autopsic="9" /><align pos="right"><edit
 							ref="5608">den 15 <aq>Oct</aq></edit> des Abends.</align>
 <line index="10"
@@ -8850,7 +8856,7 @@
 		<letterTradition letter="486">
 			<app ref="1">
 				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr.
-				487 und 488.
+				488 und 490.
 </app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
@@ -8863,6 +8869,9 @@
 
 
 		<letterTradition letter="487">
+			<app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 485 und 488.
+</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
@@ -8964,7 +8973,9 @@
 		</letterTradition>
 
 
-		<letterTradition letter="488">
+		<letterTradition letter="488"><app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 487 und 486.
+</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
@@ -8973,45 +8984,389 @@
 			<app ref="5">
 				ZH III 319–321, Nr. 488.
 </app>
+<app ref="10">
+<note>
+Aus dem Umfeld der Entwürfe für Eingaben an die <link ref="general-akzise-und-zoll-direktion" linktext ="false">Generaladministration</link> existieren vier weitere, undatierte Entwürfe Hamanns, die er wohl Mitte/Ende April verfasste und die sich in der Sammlung Roth II 90 befanden (seit 1945 verschollen). Hamann bewahrte sie offenbar für den Fall auf, im Zuge des Rechtsstreits mit der Witwe Blom nach Berlin an eine höhere Instanz, die Generaladministration, schreiben zu müssen, wozu es aber letztlich nie kam (vgl. <intlink letter="515" page="383" line="37" linktext="true" />. Die Entwürfe nehmen offenbar Inhalte aus <intlink letter="486" page="311" line="2" linktext="false">HKB 486</intlink> auf und variieren Formulierungen aus <intlink letter="487" page="317" line="1" linktext="false">HKB 487</intlink> und <intlink letter="488" page="319" line="26" linktext="false">HKB 488</intlink>, wenngleich die stemmatologischen Verhältnisse nicht immer durchsichtig sind. ZH edierte sie unter den Briefnummern 490 bis 493; hier werden sie in derselben Reihenfolge unter den Entwürfen zu HKB 488 gebracht.
+</note>
+			<line type="break" />
+			<note>Entwurf 1 (ZH 490):</note>
+			<ZHText>
+				<page index="322" autopsic="322" />
+				<line index="7" autopsic="7" tab="2" /><aq>Mrs</aq>
+				<line index="8" autopsic="8" /><aq>Le nouvel employ de Garde-Magazin, que Vous m’avez fait la grace
+				<line index="9" autopsic="9" />de conferer et que j’ai adoré comme le port de ma vie, <del>m’</del> est devenu
+				<line index="10" autopsic="10" /><nr>&#x2003;</nr> de mon repos et une source de mille chagrins et degouts. –
+				<line index="11" autopsic="11" tab="1" />La veuve de mon antecesseur est fille d’un de nos plus notables
+				<line index="12" autopsic="12" />avocats et procureurs, belle-mere maratre d’un Bailli du Roi et d’un Docteur
+				<line index="13" autopsic="13" />en Medecine et belle-soeur d’un Chirurgien-Major au Regiment des
+				<line index="14" autopsic="14" />Dragons. Toute cette famille m’est tombée sur les bras et <del>je veux suis</del>
+				<line index="15" autopsic="15" />tout seul me abandonné à <del>leurs</del> ses chicanes, violences et <del>manoeuvres
+				<line index="16" autopsic="16" />rancunes</del> tracasseries –
+				<line index="17" autopsic="17" tab="1" /><del>Une mala L’extreme onction de mon ancien poste m’attira une
+				<line index="18" autopsic="18" />maladie compliquée et la recidive de la quartane, ainsi je n’etois pas en etat
+				<line index="19" autopsic="19" />le fut le mardi d’après Paques que je payais ma premiere visite à la
+				<line index="20" autopsic="20" />D<super>e</super> Blom pour prendre mon logis en evidence</del>
+				<line index="21" autopsic="21" tab="1" />Ayant reçu l’extreme onction de mon ancien poste je succombai enfin
+				<line index="22" autopsic="22" />à une maladie compliquée et <del>enfin</del> à <del>la</del> recidive de la fievre
+				<line index="23" autopsic="23" />quartaine; ainsi je n’etois en etat que le Mardi de Paques de <del>lui</del> payer
+				<line index="24" autopsic="24" />ma premiere visite à la D<super>e</super> Blome, <del>qui</del> pour prendre mon nouveau logis
+				<line index="25" autopsic="25" />en evidence et pour lui marquer mon <del>empressiment</del> besoin d’y <del>aller</del>
+				<line index="26" autopsic="26" />demeurer. Elle me demanda le <del>petite</del> plus petit coin pour une huitaine,
+				<line index="27" autopsic="27" />parceque <del>elle ne voulut pas exposer sa santé dans son nouvea</del> son
+				<line index="28" autopsic="28" /><del>logis venoit d’etre</del> hote avoit fait des reparations dont la fraicheur ne
+				<line index="29" autopsic="29" />conviendrait pas à sa santé. Mais en meme tems cette femme m’etata
+				<line index="30" autopsic="30" />tant son esprit et son caractere que j’avois peur de demeurer avec elle
+				<line index="31" autopsic="31" />sous le même toit; <del>et</del> c’est pourquoi je lui accordai le delay <del>desai</del> de
+				<line index="32" autopsic="32" />8 jours par le billet cy-joint en copie mais sous la condition expresse,
+				<line index="33" autopsic="33" />que je ne seroi pas en etat d’entrer en possession qu’après son delogement
+				<line index="34" autopsic="34" tab="1" />Mais ayant eu les oreilles echauffées par ses pretensions vagues des</aq>
+				<page index="323" autopsic="323" />
+				<line index="1" autopsic="1" /><aq>bonifications je lui demandai une specification detaillée, dont le total
+				<line index="2" autopsic="2" />montait selon sa reponse jointe en original à 176 fl.
+				<line index="3" autopsic="3" tab="1" />Parceque cette femme avoit eu l’esprit de m’en vouloir faire accroire
+				<line index="4" autopsic="4" />que son feu mari avoit payé à son antecesseur 500 fl. pour le jardin
+				<line index="5" autopsic="5" />appartenant <del>à mon</del> au logis franc, et que cet article qu’elle avoit tant
+				<line index="6" autopsic="6" />proné dans ma visite etoit tout à fait omis dans sa <del>billet</del> Specification,
+				<line index="7" autopsic="7" />j’etois necessité de lui <del>demander</del> ecrire un second billet, <del>auq</del> et par
+				<line index="8" autopsic="8" />sa reponse il appert <del>que le total de ses p bonifications montoit à 1104 fl.
+				<line index="9" autopsic="9" />la deduction ecrite</del> qu’elle demandoit pour le jardin 972 <del>Ecus</del> fl. <del>y
+				<line index="10" autopsic="10" />compris une petite maisons</del> et que le total de ses pretensions excedoit
+				<line index="11" autopsic="11" /><del>de</del> 1100 fl.
+				<line type="empty" />
+				<line index="12" autopsic="12" tab="2" />Messieurs,
+				<line index="13" autopsic="13" />Vous savez que L<del>e nouvel</del> emploi de Garde-Magazin <del>de la Douane,
+				<line index="14" autopsic="14" />que je dois à Votre grace</del> n’a<del>yant pas</del> rien ajouté à mes
+				<line index="15" autopsic="15" />appointemens, et que le franc logis, qui y est affecté est presque l’unique le plus
+				<line index="16" autopsic="16" />grand emolument de <del>cette mon</del> ce poste <del>présent</del> que je dois à Vo<del>tre
+				<line index="17" autopsic="17" />grace singuliere</del>s bonnes graces. Un jardin est l’appartenance et
+				<line index="18" autopsic="18" />dependance <del>immediate</del> de cette maison <del>et du territoire fonds</del> du Roi il
+				<line index="19" autopsic="19" />n’existe aucun autre titre de possession que celui, <del>par lequel je reclame
+				<line index="20" autopsic="20" />que</del> par lequel <del>je suis entré en possession</del> la maison
+				<line index="21" autopsic="21" tab="1" /><del>On m’en prive</del>
+				<line index="22" autopsic="22" tab="1" />La veuve et les heritiers de mon antecesseur cherchent à m’exclure de
+				<line index="23" autopsic="23" />ce jardin et n’en ont pas seulement retenu la clé mais y exercent meme
+				<line index="24" autopsic="24" />tous les actes de la proprieté directe <del>et utile</del>. Je leur <del>cede</del> permis
+				<line index="25" autopsic="25" /><nr>&#x2009;</nr> <del>à</del> de retirer <del>les</del> tout ce qu’ils peuvent des parterres de fleurs
+				<line index="26" autopsic="26" />et des couches de fermier et ils se sont <del>de</del> prevalus de cette connivence
+				<line index="27" autopsic="27" />pour m’exclure entierement de ce jardin, où personne ne peut entrer
+				<line index="28" autopsic="28" />qu’en passant par ma bassecour.
+				<line index="29" autopsic="29" tab="1" /><del>Le territoire est un domaine du Roi et il n’existe</del> aucun autre titre
+				<line index="30" autopsic="30" />de possession que celui d’appartenance de la maison affecteé à mon
+				<line index="31" autopsic="31" />emploi <del>par</del>
+				<line index="32" autopsic="32" tab="1" />Le seul pretexte de la veuve est une bonification que feu son mari a
+				<line index="33" autopsic="33" />fait à un heritier son antecesseur et <del>qui</del> dont la somme n’a monté qu’à
+				<line index="34" autopsic="34" />20 Ecus selon les meilleures informations que j’ai été en etat d’en retirer;
+				<line index="35" autopsic="35" />mais on me demande 326 Ecus, <del>par</del> comme je suis à même de
+				<line index="36" autopsic="36" />constater par les billets.</aq>
+				<page index="324" autopsic="324" />
+				<line index="1" autopsic="1" tab="1" /><aq>Cette injustice me porte à retirer mon offre volontaire et à implorer
+				<line index="2" autopsic="2" />Messieur <del>le</del> Votre protection pour etre <del>maintenu dans la</del> mis en
+				<line index="3" autopsic="3" />possession de tous mes droits à l’egard du jardin en question et
+				<line type="empty" />
+				<line index="4" autopsic="4" tab="2" />Messieurs,
+				<line index="5" autopsic="5" />Vous savez, que l’emploi de Garde-Magazin que Vous m’avez fait la
+				<line index="6" autopsic="6" />grace de conferer m’a rien ajouté à mes appointemens <del>et que</del> mais le
+				<line index="7" autopsic="7" />plus grand <del>et presque</del> et l’unique emolument de ce poste <del>que je dois
+				<line index="8" autopsic="8" />à Vos bonnes graces et lequel j’ai adoré comme le port de ma vie,</del>
+				<line index="9" autopsic="9" />consiste dans le franc logis et un jardin qui est l’<ul>appartenance</ul> et
+				<line index="10" autopsic="10" /><ul>dependance</ul> <del>de ce principal</del> du manoir du Roi affecté à mon emploi. C’est
+				<line index="11" autopsic="11" />le seul titre de possession qui existe
+				<line type="empty" />
+				<line index="12" autopsic="12" tab="2" />Messieurs,
+				<line index="13" autopsic="13" />Vous savez que l’emploi de Garde-Magazin, que Vous <del>je dois</del> m’avez
+				<line index="14" autopsic="14" />fait la grace de conferer, n’a rien ajouté à mes appointemens; mais le
+				<line index="15" autopsic="15" />plus grand et presque l’unique emolument de cette place consiste dans le
+				<line index="16" autopsic="16" />logis franc, dont l’appartenance et dependance est un jardin <del>dont</del>
+				<line index="17" autopsic="17" tab="1" />On cherche à m’en priver et la veuve de mon antecesseur <del>en</del> me
+				<line index="18" autopsic="18" />retient la clé du <del>ce</del> jardin en question et y exerce tous les actes meme
+				<line index="19" autopsic="19" />d’une proprieté directe, sans respecter ni le territoire du Roi ni les termes
+				<line index="20" autopsic="20" />d’un usufruit expiré par la mort de l’emphiteote, qui ne peut ni demolir,
+				<line index="21" autopsic="21" />ni emporter ses ameliorations arbitraires ni repeter les impenses
+				<line index="22" autopsic="22" /><del>arbitraires et utiles</del> voluptueuses.
+				<line index="23" autopsic="23" tab="1" />Malgré ma soumission de faire retirer tout ce qu’on peut <del>des
+				<line index="24" autopsic="24" />parterres</del> et de payer meme une pretendue bonification de 20 Ecus, que
+				<line index="25" autopsic="25" />mon antecesseur a payé <del>au sien</del> aux heritiers du sien, on <del>pousse me
+				<line index="26" autopsic="26" />prive entierement de la jouissance d’une appartenance de<del>l</del> ma maison
+				<line index="27" autopsic="27" />sous le pretexte de de la maison</del> on continue à usurper ce jardin <del>où on
+				<line index="28" autopsic="28" />ne peut entrer sans passer ma basse-cour, et outre <nr>&#x2003;</nr> l’injustice jusqu’à</del> en
+				<line index="29" autopsic="29" />me demandant la somme exorbitante de 326 Ecus, <del>comme je suis à
+				<line index="30" autopsic="30" />même d’en faire preuve par les billets</del> selon les billets de la veuve que
+				<line index="31" autopsic="31" />je suis toujours en etat de produire. Cette injustice me porte à retirer
+				<line index="32" autopsic="32" />mon offre volontaire et à implorer Messieurs Votre protection gracieuse
+				<line index="33" autopsic="33" />et efficace contre ces usurpations et abus <del>pour etre</del> et d’etre mis dans
+				<line index="34" autopsic="34" />la possession pleniere des emolumens et benefices attachés à l’employ et
+				<line index="35" autopsic="35" />au manoir du Roi et d’etre à l’abus de</aq>
+				<line type="empty" />
+				<page index="325" autopsic="325" />
+				<line index="1" autopsic="1" tab="2" /><aq>Messieurs</aq>
+				<line index="2" autopsic="2" /><aq>Vû l’egalité des appointemens, <del>c’est</del> le droit d’habitation est le plus
+				<line index="3" autopsic="3" />grand et quasi unique emolument de la place de Garde-Magazin, que
+				<line index="4" autopsic="4" />Vous m’avez fait la grace de conferer et que je ne cesserai jamais d’adorer
+				<line index="5" autopsic="5" />comme le dernier port de ma vie. Un jardin est l’appartenance et
+				<line index="6" autopsic="6" />dependance de mon logis <del>franc</del> franc et privilegié
+				<line type="empty" />
+				<line index="7" autopsic="7" tab="2" />Messieurs
+				<line index="8" autopsic="8" />Une place de jardin est l’appartenance et dependance du <del>mon</del> logis
+				<line index="9" autopsic="9" />franc et vû l’egalite des appointemens ce droit d’habitation est le plus
+				<line index="10" autopsic="10" />grand et quasi unique emolument attaché à mon employ de Garde-
+				<line index="11" autopsic="11" />Magazin que Vous m’avez fait la grace de conferer et que je ne cesserai
+				<line index="12" autopsic="12" />jamais d’adorer comme le port de ma vie.
+				<line index="13" autopsic="13" tab="1" />Mais la veuve de mon antecesseur cherche à me frustrer de l<del>a
+				<line index="14" autopsic="14" />jouissance</del> usage du jardin en question <del>en ayant</del> dont elle me retient<del>enu</del>
+				<line index="15" autopsic="15" />les clefs et continue à exercer <del>aut</del> tous les acts d’une <del>domaine</del>
+				<line index="16" autopsic="16" />proprieté directe sans respecter ni le territoire du Roi <del>et mon droit</del> ni les
+				<line index="17" autopsic="17" />privileges d’une domaine utile, ni les termes de l’usufruit expiré par <del>la
+				<line index="18" autopsic="18" />mort</del> ma succession
+				<line index="19" autopsic="19" tab="1" />Quoique <del>un</del>e je ne sache si un emphyteote <del>ne soit pas autorisé de</del>
+				<line index="20" autopsic="20" />pourroit demolir les ameliorations dont il a honoré une place du Roi,
+				<line index="21" autopsic="21" /><del>ni ne puisse pas non plus</del> en emporter aucuns materiaux, ou en repeter
+				<line index="22" autopsic="22" />les impenses utiles et voluptuaires je me suis soumis à faire enlever des
+				<line index="23" autopsic="23" />parterres</aq>
+			</ZHText>
+			<line type="break" />
+			<note>Entwurf 2 (ZH 491):</note>
+			<ZHText>
+				<page index="325" autopsic="325" />
+				<line index="26" autopsic="26" /><aq><del>Bien que</del> L’employ de Garde-Magazin n’a<del>it</del> rien ajouté à mes
+				<line index="27" autopsic="27" />appointemens; mais le plus grand et presque l’unique emolument de
+				<line index="28" autopsic="28" />cette place, que Vous m’avez fait la grace de conferer et que je ne cesse
+				<line index="29" autopsic="29" />d’adorer comme le port de ma vie, consiste dans le logis franc et dans
+				<line index="30" autopsic="30" />l’appartenance et dependance d’un jardin, où on ne peut entrer qu’en
+				<line index="31" autopsic="31" />passant la basse-cour de ma maison qu’a mes <del>deux voisins qui sont</del>
+				<line index="32" autopsic="32" />mes Superieurs, Mrs Directeur et l’Inspecteur General dont j’ai
+				<line index="33" autopsic="33" />l’honneur d’etre le voisin intermediaire. <del>et sans la <nr>&#x2003;&#x2003;</nr> ou par</del> unique une
+				<line index="34" autopsic="34" />porte de derriere <del>que <nr>&#x2003;&#x2003;</nr></del> meme à une prairie d’ou est communiable.
+				<page index="326" autopsic="326" />
+				<line index="1" autopsic="1" />La famille de mon antecesseur cherche à m’<del>en</del>e priver en retenant la
+				<line index="2" autopsic="2" />clé et y exerçant tous les actes d’une proprieté directe sans respecter le
+				<line index="3" autopsic="3" />territoire du Roi ni les termes d’un usufruit expiré par la mort de
+				<line index="4" autopsic="4" />l’emphiteote, qui n’est <nr>&#x2003;&#x2003;</nr> pas autorisé ni demolir ses ameliorations ni
+				<line index="5" autopsic="5" />emporter les materiaux ni repeter ses impenses arbitraires et voluptuaires,
+				<line index="6" autopsic="6" />en oubliant la qualité precaire de sa possession.
+				<line index="7" autopsic="7" tab="1" />Malgré ma soumission de faire enlever tout ce qu’on peut et de payer
+				<line index="8" autopsic="8" />meme une bonification de 20 Ecus, que mon antecesseur a payé aux
+				<line index="9" autopsic="9" />heritiers du sien, on <nr>&#x2003;&#x2003;</nr>s’opiniatre à usurper cet emolument de ma place
+				<line index="10" autopsic="10" />et appartenance du manoir du Roi et me demande la somme exorbitante
+				<line index="11" autopsic="11" />de 326 Ecus, <del>comme je <nr>&#x2003;</nr> à <nr>&#x2003;</nr> de la verité de ce correspondance avec
+				<line index="12" autopsic="12" />la</del> Les billets que de la D<super>e</super> Blom m’a ecrit sur ce sujet <nr>&#x2003;&#x2003;</nr> sans la
+				<line index="13" autopsic="13" />preuve de ces faits <del>Sans vouloir entrer dans un detail aussi revoltant et
+				<line index="14" autopsic="14" /><del>par</del> les sentiments <del>que par</del> et les principes de</del> Cependant je ne suis
+				<line index="15" autopsic="15" />pas <del>ni</del> le maitre ni d’entrer dans le jardin ni d’en faire aucun usage.
+				<line index="16" autopsic="16" tab="1" />Le droit d’habitation est le plus grand et quasi unique emolument de
+				<line index="17" autopsic="17" />la place <del>de Garde Magazin</del> que Vous m’avez fait la grace de <del>me</del>
+				<line index="18" autopsic="18" />conferer et que je ne cesserai jamais d’adorer comme le <del>gage de Vos bonnes</del>
+				<line index="19" autopsic="19" />dernier port de ma vie. Un jardin est l’appartenance et dependance de ce
+				<line index="20" autopsic="20" />logis privilegié et attaché à mon emploi de Garde-Magazin.
+				<line index="21" autopsic="21" tab="1" />La veuve et famille de mon antecesseur cherche à me <del>prive</del> priver en
+				<line index="22" autopsic="22" />question <del>et y exerçant <nr>&#x2003;</nr> veulent usurper tous les actes droits d’un
+				<line index="23" autopsic="23" />domaine direct et m’en retenant les clefs pour la domaine utile competent</del>
+				<line index="24" autopsic="24" />en a retenu les clefs et exerce tous les actes d’un domaine direct sans
+				<line index="25" autopsic="25" />respecter la territoire du <del>droit</del> Roi <del>et</del> ni mon droit d’un domaine utile.
+				<line index="26" autopsic="26" tab="1" />Le seule pretexte de cette usurpation consiste dans une pretendue
+				<line index="27" autopsic="27" />bonification de 20 Ecus, que le feu Conseiller du Licent Blom a payé <del>le
+				<line index="28" autopsic="28" />premier</del> aux heritiers de son successeur, et que je me soumis à
+				<line index="29" autopsic="29" />re<del>mbourser</del> <nr>&#x2003;&#x2003;</nr>; mais la veuve fait <del>une</del> la pretension exorbitante de
+				<line index="30" autopsic="30" />326 Ecus pour</aq>
+			</ZHText>
+			<line type="break" />
+			<note>Entwurf 3 (ZH 492):</note>
+			<ZHText>
+				<page index="329" autopsic="329" />
+				<line index="32" autopsic="32" />Zu dem Posten den ich durch <del>Dero</del> Gewogenheit der <aq>Gn. Adm.</aq> erhalten
+				<line index="33" autopsic="33" />gehört eine freye Wohnung, ohne welche ich nicht im geringsten verbeßert
+				<page index="330" autopsic="330" />
+				<line index="1" autopsic="1" />worden. Zu dieser Wohnung gehört ein Garten der <del>so</del> damit verbunden ist,
+				<line index="2" autopsic="2" />daß selbige nicht zwey Besitzer leiden können.
+				<line index="3" autopsic="3" tab="1" />Man entzieht mir den Garten und treibt es soweit daß die Wittwe den
+				<line index="4" autopsic="4" />Schlüßel an sich behält und <del>als</del> <aq>actus dominii exerci</aq>rt. Ich habe es
+				<line index="5" autopsic="5" />nachgegeben, daß sie Mistbeete und Blumenstücke und <added>was</added> sonst herausgenommen
+				<line index="6" autopsic="6" />werden kann, herausgenommen hat, weil sie vorgegeben, daß ihr verstorbener
+				<line index="7" autopsic="7" />Mann diese <del>Anlagen</del> Versicherungen gemacht.
+				<line index="8" autopsic="8" tab="1" />Der Boden ist königlich und <aq>existi</aq>rt kein anderer <aq>titulus possessionis</aq> als
+				<line index="9" autopsic="9" />daß es eine <aq>Pertinens</aq> von <del>Hau</del> dem mir angewiesenen königl. Hause ist.
+				<line index="10" autopsic="10" />Dies ist die wahre Lage der Sache, woraus ich nichts natürlicher schlüßen
+				<line index="11" autopsic="11" />kann als daß mir in Ansehung des Gartens eben das Recht zusteht, das ich
+				<line index="12" autopsic="12" />zum Hause habe.
+				<line index="13" autopsic="13" tab="1" /><del>Ich</del> Der einzige Einwand der Wittwe besteht darinn, daß ihr Mann
+				<line index="14" autopsic="14" />seinem <aq>Antecessori</aq> <del>gethan</del> eine Vergütung gethan hat. Ich habe um eine
+				<line index="15" autopsic="15" />königl. <aq>Direction</aq> nicht ohne Noth zu behelligen mich zu dem <aq>Quanto</aq>
+				<line index="16" autopsic="16" />verpflichtet was <aq>Blom</aq> gegeben und so viel ich erfahren können besteht selbiges in
+				<line index="17" autopsic="17" />20 rth. Sie hingegen hat es für gut gefunden eine Forderung von 326 rth
+				<line index="18" autopsic="18" />wie ich im stande bin durch ihre <aq>original Billete</aq> zu belegen an mich deshalb
+				<line index="19" autopsic="19" />zu machen, wodurch ich alles bezahlen würde was <aq>Blom</aq> nach seinem
+				<line index="20" autopsic="20" />Geschmack für gut befunden hat in seinem Garten anzubringen. Dies bewegt
+				<line index="21" autopsic="21" />mich auch mein Versprechen in Ansehung der 20 rth zurück zu nehmen die
+				<line index="22" autopsic="22" />ohnehin nur blos auf meinem Willen beruhte.
+				<line index="23" autopsic="23" tab="1" />Ich bitte eine königl. <aq>Adm.</aq> mich bey meinem Rechte zu schützen und
+				<line index="24" autopsic="24" />mich in den völligen Besitz dieses <del>Haus<aq>pertinent</aq>ze</del> Gartens zu setzen in
+				<line index="25" autopsic="25" />den man ohne mein Gehöfte zu <aq>passi</aq>ren nicht einkommen kann da es eine
+				<line index="26" autopsic="26" />Sache des Königs ist und die Stelle so mir anvertraut worden durch dergl.
+				<line index="27" autopsic="27" />Schmälerungen sehr zurück gesetzt werden würde.
+			</ZHText>
+			<line type="break" />
+			<note>Entwurf 4 (ZH 493):</note>
+			<ZHText>
+				<page index="330" autopsic="330" />
+				<line index="30" autopsic="30" /><align pos="center"><aq>Mémoire secret.</aq></align>
+				<line index="31" autopsic="31" /><aq>Ce fut le mercredi des cendres que ma commission arriva et j’obtins
+				<line index="32" autopsic="32" />avec l’extreme onction de mon ancien employ l’octroi d’aller le
+				<line index="33" autopsic="33" />lendemain à mon nouveau poste. <del>Samedi</del> Trois jours après je sentis la
+				<line index="34" autopsic="34" />recidive d’une fievre.</aq>
+				<page index="331" autopsic="331" />
+				<line index="1" autopsic="1" tab="1" /><aq>Malgré mes souffrances je me forçai à sortir toute la semaine suivante,
+				<line index="2" autopsic="2" />parceque le beau-pere de mon antecesseur, un de nos celebres
+				<line index="3" autopsic="3" />Avocats et Procureurs me fit attendre d’un jour à <added>l’</added>autre pour me faire la
+				<line index="4" autopsic="4" />remise des effects du Roi. Le 22 Fevrier midi je succombai à mon mal et
+				<line index="5" autopsic="5" />ne fus plus en état de me tenir sur mes pieds.
+				<line index="6" autopsic="6" tab="1" />Je <del>fis</del> voulois essayer le 24 du meme mois l’impossible de me lever;
+				<line index="7" autopsic="7" />lorsque Mr. de Marvilliers et le S<super>r</super> Pinnow teneur des livres et vicaire de
+				<line index="8" autopsic="8" />mon bureau (contigu au sien pour la connexité de nos expeditions)
+				<line index="9" autopsic="9" />eurent l’attention de me defendre la sortir par un des porteurs du Licent
+				<line index="10" autopsic="10" /><del>par</del> en me rassurant de ne pas exposer ma santé <del>en me rassurant sur
+				<line index="11" autopsic="11" />sans aucune necessité</del> et que ma necessité n’etoit necessaire ni par les
+				<line index="12" autopsic="12" />expeditions dans la saison morte ni pour la remise.
+				<line index="13" autopsic="13" tab="1" />Après avoir gardé 3 semaines et mon lit et ma chambre je <del>etois en
+				<line index="14" autopsic="14" />etat</del> fis le premier essay de sortir le 17 Mars, où j’appris que la remise
+				<line index="15" autopsic="15" /><ul>du petit depot</ul> <del>pour</del> <ul>des objets saisis avoit</ul> été faite pendant les
+				<line index="16" autopsic="16" />premiers jours de ma maladie par le Bailli Sturz, un des beaux-fils de
+				<line index="17" autopsic="17" />mon antecesseur à Mr de Marvilliers et celui-cy m’en remit sur le champ
+				<line index="18" autopsic="18" />le procès verbal et les objets y specifiés en me prevenant que les heritiers
+				<line index="19" autopsic="19" />retenoient encore en leur garde le livre de la <ul>recette des deniers</ul>
+				<line index="20" autopsic="20" /><ul>d’enmagazinement</ul> avec les <del>decharges</del> pieces justificatives y
+				<line index="21" autopsic="21" />appartenantes.
+				<line index="22" autopsic="22" tab="1" /><del>En meme tem A la remise</del> le Bailli avoit enlevé <del>à la une chetif et</del> <added>un</added>
+				<line index="23" autopsic="23" />vieux et mechant canif, fourni selon la presomtion par le frais du
+				<line index="24" autopsic="24" />Bureau; c’est &#x2003;<nr>&#x2009;</nr> pourquoi j’en fis me plaindre à Mr. de Marvilliers en
+				<line index="25" autopsic="25" />presence de tous les Employés de son Bureau; mais la vraye proprieté de
+				<line index="26" autopsic="26" />cette bagatelle <del>fut</del> ayant été reclamée publiquement par un <del>ami du
+				<line index="27" autopsic="27" />defunt et</del> tiers tout le badinage me fut du moins utile pour deviner le
+				<line index="28" autopsic="28" />caractere <del>de mon nouveau pays</del> de mon nouveau monde <del>je profitois de</del>
+				<line index="29" autopsic="29" tab="1" />Encouragé de tous cotés à <del>s</del> payer la visite à la veuve de mon
+				<line index="30" autopsic="30" />antecesseur, je plaidai la sensibilité de ma constitution <del>et ayant fait
+				<line index="31" autopsic="31" />inoculer ma fille cadette la petite verole la maladie de ma famille re <nr>&#x2003;&#x2003;</nr>
+				<line index="32" autopsic="32" />dent</del> et la petite verole que j’avois faire inoculer à ma fille cadette mais
+				<line index="33" autopsic="33" />je fus prevenu le mardi de la semaine sainte par <del>le Docteur en Medecine
+				<line index="34" autopsic="34" />Laubmeier, double</del> l’autre beaufils de mon antecesseur <del>le Docteur en
+				<line index="35" autopsic="35" />Medecine</del> le Docteur Laubmeier. Parceque nos Peres ont cultivé une
+				<line index="36" autopsic="36" />amitié tres cordiale je fus charmé de sa visite imprevue et je lui fis toutes
+				<line index="37" autopsic="37" />les ouvertures avec un enthousiasme de bonne foi. Le Medecin</aq>
+				<page index="332" autopsic="332" />
+				<line index="1" autopsic="1" /><aq>m’<del>entendit en se faisant</del> avoue son embarras de s’arreter plus longtems dans
+				<line index="2" autopsic="2" />une chambre contagieuse et il etoit allé à la campagne où il possede une
+				<line index="3" autopsic="3" />terre, lorque je <del>voulus</del> passai le lundi des paques <del>chez lui</del> sa maison
+				<line index="4" autopsic="4" /><del>en retournant</del> après le sermon pour lui retourner mon compliment.
+				<line index="5" autopsic="5" tab="1" />Le 1 du cour. je fis ma premiere visite à la D<super>e</super> Blom pour prendre en
+				<line index="6" autopsic="6" />evidence les êtres de mon logis <del>en evidence</del>. J’eus lieu d’y regretter
+				<line index="7" autopsic="7" />infiniment la perte de deux appartemens employés par les nouveaux
+				<line index="8" autopsic="8" />arrangemens de Mr l’<del>Inspecteur</del> de Roi au Bureau des teneurs des
+				<line index="9" autopsic="9" />livres et à l’etablissement d’un nouveau Magazin <del>nouveau</del>. La veuve
+				<line index="10" autopsic="10" />de mon antecesseur me combla des politesses, sollicita un delay de 8 jours
+				<line index="11" autopsic="11" />et me demanda le plus petit coin de la maison e<del>n</del>t m’en abandonna
+				<line index="12" autopsic="12" /><del>nt</del> tout le reste, <del>parce</del> attendu que les fourneaux neufs etc de son
+				<line index="13" autopsic="13" />nouveau logis ne lui <del>convenoient pas encore</del> conviendroient point.
+				<line index="14" autopsic="14" />Elle me deploya toute l’eloquence du Barreau et de la Chaire, que je
+				<line index="15" autopsic="15" />n’aime mieux que celle des halles: J’agreoi sa demande mais
+				<line index="16" autopsic="16" tab="1" />N’ayant point <del>d’envie</del> le courage de vivre avec <del>cette femme</del> un
+				<line index="17" autopsic="17" />serpent sous le même toit et n’etant pas toujours le maitre ni de ma
+				<line index="18" autopsic="18" />langue ni de ma plume je recourus à un de mes amis, qui me dicta avec
+				<line index="19" autopsic="19" />tout le sangfroid possible le Billet cy-joint en copie avec
+				<line index="20" autopsic="20" tab="1" />Elle me fit la reponse jointe en originale et je me servis le meme ami
+				<line index="21" autopsic="21" />pour lui faire la reponse cottée C. à la quelle elle repliqua par la
+				<line index="22" autopsic="22" />cotte <ul>Verte</ul>.
+				<line index="23" autopsic="23" tab="1" />Il appert par ces pieces originales, que la famille de mon antecesseur me
+				<line index="24" autopsic="24" />demande plus de 1000 fl. en bonification, dont je ne suis <del>pas incapable
+				<line index="25" autopsic="25" />ni le titre ni</del> <added>pas</added> tout a fait <added>capable</added> de demeler et les titres et les moyens.
+				<line index="26" autopsic="26" tab="1" /><del>Il s’agit d’une place appartenante à la maison du Roi que le Roi a
+				<line index="27" autopsic="27" />abandonné aux Employés du Licent pour en faire leur usage un potager
+				<line index="28" autopsic="28" /><del>m</del> jardin.</del> Le Directeur, le Garde Magazin et le Receveur jouissent
+				<line index="29" autopsic="29" />d’un benefice <del>et en quelque part le plus ancien des teneurs des livres
+				<line index="30" autopsic="30" />du Licent.</del> d’un franc logis
+				<line index="31" autopsic="31" tab="1" /><del>Le Roi a abandonné</del>
+				<line index="32" autopsic="32" tab="1" /><del>Je ne veux ni une cab</del>
+				<line index="33" autopsic="33" tab="1" /><del>Personne ne</del> Je respecte <del>plus</del> la proprieté de <del>son voisin</del> mon
+				<line index="34" autopsic="34" />prochain <del>que moi</del> comme la mienne et <del>ainsi je n’ai point</del> et je suis
+				<line index="35" autopsic="35" />bien loin de convertir <del>ni après pour</del> les meubles <del>ni pour</del> et les
+				<line index="36" autopsic="36" />paradis <del>que mes</del> de mes antecesseurs <del>et</del> ou de mes voisins. <del>sont en état
+				<line index="37" autopsic="37" />d’acquerir et</del> Mais je ne saurais encore pas deroger à la proprieté de mes</aq>
+				<page index="333" autopsic="333" />
+				<line index="1" autopsic="1" /><aq>successeurs, qui ont été dejà privés de deux appartemens, qui le Garde
+				<line index="2" autopsic="2" />Magazin a perdu par la qualité de Conseiller d’Amirauté et le Receveur
+				<line index="3" autopsic="3" />du Licent par celle de Conseiller des guerres.
+				<line index="4" autopsic="4" tab="1" />Je ne demande que la place que le Roi a accordé à mes antecesseurs
+				<line index="5" autopsic="5" />pour leur bon plaisir en me soumettant à resigner <del>à toutes payer ce que
+				<line index="6" autopsic="6" />le Conseiller Blom a payé.</del> aux nouvelles acquisitions que mes
+				<line index="7" autopsic="7" />antecesseurs ont faites de leur propre bourse ou à payer la même valeur, que
+				<line index="8" autopsic="8" />mon antecesseur a payé au sien. <del>dont les heritiers sont dits n’avoir reni</del>
+				<line index="9" autopsic="9" />en permettant aux heritiers de faire retirer tout ce <del>Je me soumets à
+				<line index="10" autopsic="10" />abandonner tout</del> qu’ils peuvent du jardin. Pour quel effect je leur ai
+				<line index="11" autopsic="11" />meme voulu abandonner la recolte de ce qu’ils ont semé sans m’opposer
+				<line index="12" autopsic="12" />en aucune maniere à toutes les mesures qu’ils peuvent prendre pour leur
+				<line index="13" autopsic="13" />dedommagement et meme à mon prejudice sans en mur
+				<line index="14" autopsic="14" tab="1" />Tout le monde qui m’a parlé de nouvelles pretendues acquisitions
+				<line index="15" autopsic="15" /><del>faites par</del> à l’egard du terrain m’a assuré que le <del>s heritiers du</del> feu
+				<line index="16" autopsic="16" />Conseiller Blom n’a payé que 60 Ecus aux heritiers de son antecesseur et
+				<line index="17" autopsic="17" />la veuve a eu effronterie de me vouloir faire avaler le grossier mensonge
+				<line index="18" autopsic="18" />que son mari lui avoit toujours assuré avoir payé 500 fl. sans être en etat
+				<line index="19" autopsic="19" />d’en justifier.
+				<line index="20" autopsic="20" tab="1" />Elle s’appuye simplement de l’exemple du successeur du feu R<super>veur</super> du
+				<line index="21" autopsic="21" />Licent Labuk dont la veuve est dite avoir reçu la somme de 520 Ecus.
+				<line index="22" autopsic="22" />Cet exemple à été bien prejudiciable au R<super>veur</super> qui n’ayant pas été en état
+				<line index="23" autopsic="23" />de rembourser cette somme considerable, a été exclus de son logis
+				<line index="24" autopsic="24" />legitime, dont le possesseur present a declaré en ma presence qu’au cas qu’il
+				<line index="25" autopsic="25" />seroit remplacé par un ordre de l’Adm. Gen. il ecriroit tout droit au
+				<line index="26" autopsic="26" />Cabinet pour y <del>demander</del> la proprieté de ce bien-fonds en
+				<line index="27" autopsic="27" />dedommagement des frais qu’il a faits à titre d’amelioration.
+				<line index="28" autopsic="28" tab="1" /><del>Voilà l’abus où ces conventions privées tirent</del>
+				<line index="29" autopsic="29" tab="1" />J’abhorre toutes les conventions privées et particuliers et toutes les
+				<line index="30" autopsic="30" />voyes equivoques d’aggrandir ma fortune. Je viens de vendre ma maison
+				<line index="31" autopsic="31" />pour 3400 fl. qui m’a couté 4200 fl. et j’y ai depensé en reparations plus
+				<line index="32" autopsic="32" />de 2000 fl.
+				<line type="empty" />
+				<line index="33" autopsic="33" tab="2" />Monsieur
+				<line index="34" autopsic="34" /><del>J’ose Vous</del>
+				<line index="35" autopsic="35" tab="1" /><del>Ma confiance à Votre protection genereuse</del>
+				<line index="36" autopsic="36" tab="1" />Je m’emancipe de Vous confier un Memoire ou espece de Journal, qui</aq>
+				<page index="334" autopsic="334" />
+				<page index="334" autopsic="334" />
+				<line index="1" autopsic="1" /><aq>contient <del>des</del> un recit veridique des faits les plus simples et de mes
+				<line index="2" autopsic="2" />sentimens les plus intimes, sans avoir eu ni le tems ni la force de digerer
+				<line index="3" autopsic="3" />toutes les idées qui m’absorbent<added>.</added> dans <del>mon situation presente</del>
+				<line index="4" autopsic="4" />l’embarras de <nr>&#x2009;</nr> je <del>m’abandonne</del> recours à Votre <del>protection</del>
+				<line index="5" autopsic="5" />penetration et <del>humanité</del> condescendance genereuse <del>pour être dirigé
+				<line index="6" autopsic="6" />maintenu dans tous les droits de mon <edit ref="290">nouve</edit> employ, que je dois à Votre
+				<line index="7" autopsic="7" />bienveillance en et</del> pour être <del>mieux, averti</del> eclairé sur mes <nr>&#x2009;</nr>
+				<line index="8" autopsic="8" />involontaires de <del>mon zele jalousie defiance mes pretentions</del> m<added>a</added>
+				<line index="9" autopsic="9" /><del>indiscretion intestina</del> bonne volonté ou <del>pour etre maintenu</del> protegé dans
+				<line index="10" autopsic="10" />tous les droits de mon nouvel employ, <del>dont que je dois Vous m’avez
+				<line index="11" autopsic="11" />fait la grace</del> contre les pieges de ceux, qui <del>m’envient le</del> me semblent
+				<line index="12" autopsic="12" />envier la jouissance de Vos bonnes graces et <del>l</del> mon interet
+				<line index="13" autopsic="13" /><del>extraordinaire que Vous avez daigné prendre de ma satisfaction</del> singulier de
+				<line index="14" autopsic="14" />Vous devoir ma conservation
+				<line index="15" autopsic="15" tab="1" />J’ai l’honneur d’être avec le plus profond respect Monsieur Votre
+				<line type="empty" />
+				<line index="16" autopsic="16" /><align pos="right"><sig>tres humble et tres obeissant Serviteur.</sig></align></aq>
+			</ZHText>
+</app>
 		</letterTradition>
 
 
 		<letterTradition letter="489">
-			<app ref="1">
-				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr.
-				493 und 494.
-</app>
 			<app ref="4">
-				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
-				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
-				Hamanniana], II 90.
-</app>
-			<app ref="5">
-				ZH III 321&#x2009;f., Nr. 489.
+				Ein undatierter Entwurf an die Witwe Blom wurde von ZH als eigener Brief Nr. 489 ediert; da <intlink letter="494" page="334" line="19" linktext="false">HKB 494</intlink> aber offensichtlich eine Abschrift dieses Entwurfs ist, wird er hier in den Entwürfen zu HKB 494 gebracht.
 </app>
 		</letterTradition>
 
 
 		<letterTradition letter="490">
 			<app ref="4">
-				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
-				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
-				Hamanniana], II 90.
-</app>
-			<app ref="5">
-				ZH III 322–325, Nr. 490.
+				Irrtümlich von ZH als eigener Brief gedruckt (ZH III 322–325, Nr. 490). Hier als Entwurf Nr. 1 zu <intlink letter="488" page="319" line="26" linktext="false">HKB 488</intlink> zu finden.
 </app>
 		</letterTradition>
 
 
 		<letterTradition letter="491">
-			<app ref="4">
-				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
-				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
-				Hamanniana], II 90.
-</app>
-			<app ref="5">
-				ZH III 325&#x2009;f., Nr. 491.
+		<app ref="4">
+				Irrtümlich von ZH als eigener Brief gedruckt (ZH III 325&#x2009;f., Nr. 491). Hier als Entwurf Nr. 2 zu <intlink letter="488" page="319" line="26" linktext="false">HKB 488</intlink> zu finden.
 </app>
 		</letterTradition>
 
@@ -9030,25 +9385,15 @@
 
 
 		<letterTradition letter="492">
-			<app ref="4">
-				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
-				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
-				Hamanniana], II 90.
-</app>
-			<app ref="5">
-				ZH III 329&#x2009;f., Nr. 492.
+		<app ref="4">
+				Irrtümlich von ZH als eigener Brief gedruckt (ZH III 329&#x2009;f., Nr. 492). Hier als Entwurf Nr. 3 zu <intlink letter="488" page="319" line="26" linktext="false">HKB 488</intlink> zu finden.
 </app>
 		</letterTradition>
 
 
 		<letterTradition letter="493">
-			<app ref="4">
-				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
-				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
-				Hamanniana], II 90.
-</app>
-			<app ref="5">
-				ZH III 330–334, Nr. 493.
+		<app ref="4">
+				Irrtümlich von ZH als eigener Brief gedruckt (ZH III 330–334, Nr. 493). Hier als Entwurf Nr. 4 zu <intlink letter="488" page="319" line="26" linktext="false">HKB 488</intlink> zu finden.
 </app>
 		</letterTradition>
 
@@ -9057,11 +9402,48 @@
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
-				Hamanniana], II 90.
+				Hamanniana], II 90 (ebenso der Entwurf).
 </app>
 			<app ref="5">
-				ZH III 334&#x2009;f., Nr. 494.
+				ZH III 334&#x2009;f., Nr. 494 (Entwurf: ZH III 321&#x2009;f., Nr. 489).
 </app>
+
+<app ref="10">
+<note>
+Vor dem Entwurf an die Witwe Blom notierte sich Hamann einen weiteren, den er dann abschrieb. Dieser undatierte Entwurf wurde von ZH als eigener Brief Nr. 489 ediert; HKB 494 ist aber offensichtlich eine Abschrift dieses Entwurfs.
+</note>
+<line type="break" />
+<ZHText>
+				<page index="321" autopsic="321" />
+				<line index="13" autopsic="13" />Weil ich den 7 <aq>April</aq> auf dem königl. <aq>Provincial Direct<added>or</added>io</aq> vernommen, daß
+				<line index="14" autopsic="14" />Ew. HochEdelgeb. <del>sich</del> wegen der Vergütungs Ansprüche sich bereits bey
+				<line index="15" autopsic="15" />Hofe gemeldet haben sollen: so hab ich es für überflüßig gehalten die mir den
+				<line index="16" autopsic="16" />5 <aq>ej.</aq> gemachte Erklärung zu beantworten. <del>Da</del> ich <del>aber</del> habe bisher nichts
+				<line index="17" autopsic="17" />von irgend einem ergangenen Bescheide vernommen <del>und in</del> diese<del>r</del> Woche
+				<line index="18" autopsic="18" /><del>mein Gehöfte</del> den Anfang gemacht Ew. HochEdelgeb aber sind so gütig
+				<line index="19" autopsic="19" />gewesen u haben mein Gehöfte von dem <del>Garten</del> Häuschen <aq>p</aq> räumen zu
+				<line index="20" autopsic="20" />laßen. Da nun dieser Fall nicht völlig in Ansehung des Gartens selbst Statt
+				<line index="21" autopsic="21" />finden <del>möchte</del> kann, und selbiger bereits den 10 und 17 <aq>April</aq> von einem
+				<line index="22" autopsic="22" /><del><aq>Dragoner</aq></del> Gärtnerern u <del>Soldaten</del> <aq>Dragon</aq>ern gereinigt worden: so seh
+				<line index="23" autopsic="23" />ich <del>von meiner Seite</del> mich genöthigt Ew HochEdelgeb. meiner Seits zu
+				<line index="24" autopsic="24" />erklären, daß ich nicht mehr im stande <del>bin</del> noch <del>im stande</del> willens bin
+				<line index="25" autopsic="25" />als die <del>jenige</del> leicht auszumittelnde Summe, <del>welche</del> womit die <del>Erben</del>
+				<line index="26" autopsic="26" /><aq>Storch</aq>sche Erben <del>empfangen haben sollen</del> befriedigt worden, <del>zu
+				<line index="27" autopsic="27" />bezahlen</del>, und die nicht, <del>wie leichtlich ausgemittelt werden dürfte</del> in 500 sondern
+				<line index="28" autopsic="28" />Sechzig fl. bestanden haben soll, zu <aq>deponi</aq>ren; weil es zum Grundsatz
+				<line index="29" autopsic="29" />gemacht <del>keinen Augenblick des Lebens</del> es niemals zu vergeßen, daß ich <del>kein</del>
+				<line index="30" autopsic="30" />weder ein Eigenthümer noch Pächter sondern ein bloßer Lehns- <del>Genus</del>
+				<line index="31" autopsic="31" />Niesbesitzer eines königl. Grundes u Bodens bin und ich meinen <aq>eventuell</aq>en
+				<line index="32" autopsic="32" />Erben eben so gern die Versuchung ersparen will den Genuß königl.
+				<line index="33" autopsic="33" /><aq>Emolumente</aq> zu <aq>usurpi</aq>ren, <del>da ich so unglü die und selbige zu einer Familien Sache
+				<line index="34" autopsic="34" />so war mein Nachfolger</del> und selbige zu einer Familiensache zu machen; als
+				<page index="322" autopsic="322" />
+				<line index="1" autopsic="1" />mir selbst den unangenehmen Schritt die gerechtesten Beschwerden darüber
+				<line index="2" autopsic="2" />höheren Orts in ihrem gantzen Umfange anhängig zu machen, nachdem ich so
+				<line index="3" autopsic="3" />lange mich <del>blos</del> <ul>leidend</ul> <del>Ich erwarte hierüber in</del> verhalten habe.
+				<line index="4" autopsic="4" tab="1" />Ich habe die Ehre mit vieler Hochachtung zu seyn
+			</ZHText>
+	</app>
 		</letterTradition>
 
 
@@ -9078,6 +9460,10 @@
 
 
 		<letterTradition letter="496">
+		<app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr.
+				495 und 498.
+</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
@@ -9090,6 +9476,10 @@
 
 
 		<letterTradition letter="497">
+		<app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr.
+				498 und 499.
+</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
@@ -9102,6 +9492,10 @@
 
 
 		<letterTradition letter="498">
+		<app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr.
+				496 und 497.
+</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2553
@@ -9143,7 +9537,7 @@
 				ZH III 350–352, Nr. 501.
 </app>
 			<app ref="10">
-				<note>Zwei Entwürfe. Provenienz: Originale verschollen. Letzter bekannter Aufbewahrungsort:
+				<note>Zwei weitere Entwürfe. Provenienz: Originale verschollen. Letzter bekannter Aufbewahrungsort:
 					Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths Hamanniana], II 90:</note>
 				<line type="break" />
 				<ZHText>
@@ -9218,7 +9612,6 @@
 <line type="empty" />
 <line index="4"
 						autopsic="6" /><align pos="right">
-						<note>1. Juni 77.</note>
 					</align>
 <line index="5" autopsic="7" />Ew.
 					HochEdelgeboren letztes <aq>Billet</aq> vom 25 <aq>praet.</aq> habe erst den <line
@@ -9371,8 +9764,7 @@
 
 		<letterTradition letter="507a">
 			<app ref="4">
-				Ein Auszug aus Hamanns Brief nach einer Abschrift vmtl. von Johann Ehrmann oder einer
-				Schreibhilfe Lavaters, aufbewahrt in Zürich, Zentralbibliothek, Signatur FA Lav. Ms. FA Lav
+				Abschrift eines Auszuges aus Hamanns Brief wohl von Johann Ehrmann, aufbewahrt in Zürich, Zentralbibliothek, Signatur FA Lav. Ms. FA Lav
 				Ms 510.268. Original verschollen. Letzter Aufbewahrungsort unbekannt.
 </app>
 			<app ref="5">
@@ -9444,9 +9836,9 @@
 
 
 		<letterTradition letter="513">
-			<app ref="4"> Eine zeitgenössische Abschrift von Nicolai. Staatsbibliothek zu Berlin, Nachlass
-				Friedrich Nicolai/I/30/Mappe 11, 1–2.<line type="break" /> Vermerk von Nicolai auf der
-				ersten Seite oben: „Copie eines Schreibens an HE. Hamann.“ </app>
+			<app ref="4"> Eine zeitgenössische Abschrift. Vermerk von Nicolai auf der
+				ersten Seite oben: „Copie eines Schreibens an HE. Hamann.“ Staatsbibliothek zu Berlin, Nachlass
+				Friedrich Nicolai/I/30/Mappe 11, 1–2.<line type="break" />  </app>
 			<app ref="5"> Otto Hoffmann: Hamann-Briefe aus Nicolais Nachlass. In: Vierteljahrschrift für
 				Litteraturgeschichte I (1888), 132–134.<line type="break" /> ZH III 379–381, Nr. 513. </app>
 		</letterTradition>
@@ -9481,7 +9873,10 @@
 				Stadtbibliothek. Text nach dem Faksimile in Erich Schulz (Hg.): Handschriften westfälischer
 				Dichter und Schriftsteller. Dortmund 1925, 13–14.
 </app>
-			<app ref="5"> Erich Schulz (Hg.): Handschriften westfälischer Dichter und Schriftsteller.
+			<app ref="5">
+			<wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11377993-9">Moritz Carriere: Stimmen aus dem 18. Jahrhundert. In: Westermanns illustrierte deutsche Monatshefte 260 (Mai 1878), S. 164f.</wwwlink>
+			<line type="break" />
+			Erich Schulz (Hg.): Handschriften westfälischer Dichter und Schriftsteller.
 				Dortmund 1925, 13&#x2009;f.<line type="break" /> ZH III 385–387, Nr. 516. </app>
 		</letterTradition>
 
@@ -9557,7 +9952,20 @@
 </app>
 			<app ref="5">
 				ZH III 397&#x2009;f., Nr. 521.
-</app>
+</app><app ref="11">
+<text>Meine Herren,<line type="break" />
+Ihr überbietet all meine Dankesschreiben, indem Ihr die Grenzen und Bedingungen meiner <del>Aufgaben</del> Anstellung festlegt, die ich Eurer Gnade verdanke und die ich <del>liebe</del> eifersüchtig schätze wie mein eigenes Leben. Die Eifersucht ließ mich an einigem Anstoß nehmen, was mein Vorgänger als ehemaliger Zollinspektor <del>der noch dazu der Stellvertreter gewesen ist</del> <del>von Eurem Untergebenen</del> offenbar in Anspruch nahm und als tatsächlich zu seiner Stellung gehörend betrachtete –<line type="break" />
+Aber erstens hat Eure endgültige Entscheidung vom 19. dieses Monats soeben den Eifer zerstört, der an mir nagte.<line type="break" />
+Der zweite Punkt gehört keineswegs zu meinen Beschwerden: <del>weil</del> denn ich habe von selbst auf die 50 Taler und die dazugehörigen Gegenstände und deren Zuständigkeitsbereich verzichtet.<line type="break" />
+Drittens. Aufgrund der Erläuterungen, die Ihnen, meine Herren, gemacht wurden und aufgrund der Anweisungen, die mir der Generalinspektor gegeben hat, als er am 8. dieses Monats das Register der Pässe der Lotsen <nr>&#x2003;&#x2003;</nr>, bitte ich Sie in aller Bescheidenheit, mich von diesen Aufgaben zu befreien, da ich sie mir ebenso wenig wünsche wie ich es mir selbst verzeihen könnte, mich mit Neuem abzumühen –<line type="break" />
+Viertens. Sobald ich mich von einer Knochenverletzung an meinem <del>Vorderseite</del> linken Schenkel, die mich vor einem noch gefährlicheren Sturz gerettet hat, erholt habe, werde ich nur noch dafür leben, meine vier Register zu führen und <del>mit ergebenstem Gehorsam</del> den Anforderungen ihrer Kopfzeilen und Spalten, meiner Amtseinführung sowie dem Geist Eurer endgültigen Entscheidung mit ergebenstem Gehorsam gerecht zu werden. Das wird mir Genuss, Ruhm und Ruhe sein.<line type="break" />
+Aber glaubt nicht, meine Herren, dass meine Gartenmuse jemals zu der Grobheit im Stande wäre, derer Ihr sie verdächtigt – Euch hat der König den Weinberg seiner Finanzen anvertraut; Euch verdanke ich die Genugtuung, die Ehre und den Vorteil, ein aufrichtiger Mieter und Nutznießer eines königlichen Gutes zu sein. Gott bewahre, dass ich daraus einen Marktplatz oder eine Räuberhöhle mache – und <del>Gott bewahre</del> dass Ihr in meine und des Psalmisten Lage geratet <del>da, wie Ihr euch erinnert, geschrieben steht</del>: „Exterminavit eam aper de sylva et singularis ferus depassus est eam!“ das heißt, die Wildschweine aus dem Wald haben ihn zerstört und alle Art wilde Tiere haben ihn abgefressen! – Gott bewahre, dass diese vermeintlichen Klagen <del>nicht mehr</del> besser begründet und konsequenter sind als ihre Aufklärung, dass eine arme Getäuschte <nr>&#x2003;&#x2003;</nr> <del>unterschreibt</del> und <del>wie</del> die Wechsel ihres <del>Freundes</del> <del>gerissenen</del> betrügerischen und törichten Gefährten unterschreibt.<line type="break" />
+Gott ist mein Zeuge und wird meine Rache, mein Schild und mein reicher Lohn sein. Amen!<line type="break" />
+Ich verbleibe mein Leben lang mit <del>Respekt</del> der <del>Ergebenheit</del> respektvollsten, tiefsten und einzigartigsten Zuneigung<line type="break" />
+Den letzten Dezember 777.<line type="break" /><line type="break" />
+<note>Übersetzung von Joscha Sörös</note>
+				</text> 
+					</app>
 		</letterTradition>
 
 
@@ -9566,7 +9974,8 @@
 				Bayerische Staatsbibliothek München, Signatur: Autogr.Cim. Mendelssohn, Moses.1.
 </app>
 			<app ref="5">
-				ZH III 470, Nr. 509a.
+			Moses Mendelssohn, Gesammelte Schriften (Jubiläumsausgabe) Bd. 6,1: Kleinere Schriften I, bearb. von Alexander Altmann (Stuttgart-Bad Cannstatt 1981), 250 [=Text]. 258f. [=Komm.].<line type="break" />
+			ZH III 470 (2. Aufl. 1988), Nr. 509a.
 </app>
 		</letterTradition>
 
@@ -9617,6 +10026,9 @@
 
 
 		<letterTradition letter="525">
+		<app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 522 und 523.
+</app>
 			<app ref="4">
 				Unvollständig überliefert. Druck ZH nach den unpublizierten Druckbogen von 1943. Original
 				verschollen. Letzter bekannter Aufbewahrungsort des unvollständigen Briefes: Staats- und
@@ -9647,6 +10059,8 @@
 				[Gildemeisters Hamanniana], I 29.
 </app>
 			<app ref="5">
+			Karl Hermann Gildemeister (Hg.): Johann Georg Hamann’s, des Magus im Norden,
+				Leben und Schriften. 6 Bde. Gotha 1857–1868, II 253f.<line type="break" />
 				ZH IV 13–17, Nr. 527.
 </app>
 		</letterTradition>
@@ -9750,18 +10164,6 @@
 		</letterTradition>
 
 
-		<letterTradition letter="537a">
-			<app ref="4"> Provenienz: Staats- und Universitätsbibliothek Hamburg, NMC : 13 : 7a).
-				Beiliegend in einem Brief von Hamann an Rebecca Claudius vom 24. Oktober 1776 (HKB III
-				470a).<line type="break" /> Früher laut ZH im Besitz von Pastor Schröder,
-				Altona-Othmarschen. Ebenfalls vorhanden: Negativ in der Universitäts- und Landesbibliothek
-				Münster, Signatur: Hamann-Nachlass, Kaps. 1, 6. <line type="break" /> </app>
-			<app ref="5"> ZH III 437, Nr. 470a Anhang.<line type="break" /> Johann Georg Hamann: Sämtliche
-				Werke. Historisch-kritische Ausgabe. Hg. von Josef Nadler. 6 Bde. Wien 1949–57, V 370 (dort
-				ohne Angabe von Gründen auf 1788 datiert). </app>
-		</letterTradition>
-
-
 		<letterTradition letter="537">
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
@@ -9771,6 +10173,18 @@
 			<app ref="5">
 				ZH IV 36, Nr. 537.
 </app>
+		</letterTradition>
+
+
+		<letterTradition letter="537a">
+			<app ref="4"> Provenienz: Staats- und Universitätsbibliothek Hamburg, NMC : 13 : 7a).
+				Beiliegend in einem Brief von Hamann an Rebecca Claudius vom 24. Oktober 1776 (HKB III
+				470a).<line type="break" /> Früher laut ZH im Besitz von Pastor Schröder,
+				Altona-Othmarschen. Ebenfalls vorhanden: Negativ in der Universitäts- und Landesbibliothek
+				Münster, Signatur: Hamann-Nachlass, Kaps. 1, 6. <line type="break" /> </app>
+			<app ref="5"> ZH III 437, Nr. 470a Anhang.<line type="break" /> Johann Georg Hamann: Sämtliche
+				Werke. Historisch-kritische Ausgabe. Hg. von Josef Nadler. 6 Bde. Wien 1949–57, V 370 (dort
+				ohne Angabe von Gründen auf 1788 datiert). </app>
 		</letterTradition>
 
 
@@ -9842,10 +10256,6 @@
 
 
 		<letterTradition letter="543">
-			<app ref="3">
-				Die Datierung wurde gegenüber ZH korrigiert (dort: „Mitte Februar 1779“), daher erfolgt die
-				Einsortierung chronologisch zwischen Brief Nr. 545 und 546.
-</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
@@ -9875,19 +10285,11 @@
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VI
 				59–73.<line type="break" /> ZH IV 50&#x2009;f., Nr. 545. </app>
 			<app ref="9">
-				<note>Dem Brief lagen Gedichte von Simon Dach in Abschriften von Hamanns Hand bei (vgl. HKB
-					545 [IV 56/16]). Provenienz: Tübingen, Universitätsbibl., Kapsel 32 des Herder-Nachlasses,
-					12 Quartblätter.<line type="break" /> Wie Hamann im Anhang erwähnt (vgl. HKB 545, Anhang
-					[IV 475/33–476/7]), besteht die Grundlage für die Abschriften vmtl. in Einzeldrucken und
+				<note>Dem Brief lagen Gedichte von <link ref="dach" linktext="true" /> in Abschriften von Hamanns Hand bei (vgl. <intlink letter="545" page="56" line="16" linktext="true" />), um die Herder im Kontext seiner <link ref="herder" subref="herder-volkslieder" linktext="false">Volkslieder-Sammlungen</link> bat, vgl. <intlink letter="539" page="42" line="7" linktext="true" />. Provenienz: Stabi Berlin, Nachlass Johann Gottfried Herder, Kapsel 32,
+					12 Quartblätter (vgl. dazu <link ref="irm-h-1960" linktext="false">Irmscher: Handschriften Hamanns im Nachlaß Herders</link>, S.&#x202F;111–117).<line type="break" /> Wie Hamann im Anhang erwähnt (vgl. <intlink letter="545" page="475" line="33" linktext="false">HKB 545, Anhang
+					IV 475/33–476/7</intlink>), besteht die Grundlage für die Abschriften vmtl. in Einzeldrucken und
 					Abschriften, die in Königsberg zirkulierten. Der Text der Abschriften stimmt bis auf
-					gelegentliche Abweichungen überein mit Ziesemers Dach-Edition: Simon Dach, Gedichte. Hg.
-					von Walther Ziesemer. Halle/Saale 1936–38, III, Nr. 13, 7, 164, 168, 208, 212; IV, Nr. 6,
-					33, 81, 136, 240, 234; III, Nr. 206. Überschriften: „Mein Abschied aus der bösen Welt“,
-					„Ach ja, Ihr habt mit recht zu flehen“, „Am allerbesten ist es zwar“, „Ich muß aus diesem
-					Leben“, „Die Selige Ewigkeit“, „Dein ist, Gott, der Erden Kreis“, „Muß der Mensch nicht
-					stets in Pein“, „Gott, zu dem ich sehnlich bete“, „Gott unsre Zuversicht“, „Wo will es hin
-					mit meinem Herzen“, „In allen deinen Sachen“, „O welcher doch den Tod für allen“, „Wir
-					armen Leute meinen“.</note>
+					gelegentliche Abweichungen überein mit der Edition von <link ref="zies-w-1936" linktext="false">Ziesemer (Hg.): <titel>Simon Dach: Gedichte</titel></link>.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="474" autopsic="474" />
@@ -10404,7 +10806,7 @@
 						fährt dahin im grauen Haar. <line type="empty" />
 <line index="574" autopsic="574" /><ul>Herzliches
 						Bet- und Danklied</ul> wegen der neuerbauten Sackheimschen Kirche unter <line
-							index="575" autopsic="575" />der Person des M. Neuschilling’s Dieners am am Göttl.
+							index="575" autopsic="575" />der Person des M. Neuschilling’s Dieners am Göttl.
 						Worte daselbst, welcher sich um <line index="576" autopsic="576" />diese neue Kirche der
 						er sich mit großer Sorgfalt angenommen höchst verdient <line index="577" autopsic="577" />gemacht.
 						Den 22 <aq>Aug.</aq> 1649. &#x2003; <aq>NB.</aq> Aus <ul>einer blaßen <aq>Copie.</aq></ul>
@@ -10557,7 +10959,7 @@
 							autopsic="2" />den Titel von Liedern führen. Das 12 ist aus einer bloßen Abschrift <line
 							index="3" autopsic="3" />genommen die nicht zu <aq>correct</aq> war. Der
 						schwärmerische Kopf Bartsch <line index="4" autopsic="4" />hier hat <ul>dem Gottscheden
-						alle <aq>Opera</aq></ul><aq> Vid. 3. Acta Borussica</aq> zur <line index="5"
+						alle <aq>Opera</aq></ul><aq> <edit ref="8455">Vid.</edit> Acta Borussica</aq> zur <line index="5"
 							autopsic="5" />Ausgabe überschickt. Ich sollte auch meynen, daß alles auf der <line
 							index="6" autopsic="6" /><ul>Altstädtschen Bibliothek</ul> auch da seyn müste u bey
 						Bartschens Erben <line index="7" autopsic="7" />vielleicht noch Familienstücke liegen.</edit>
@@ -10589,6 +10991,9 @@
 
 
 		<letterTradition letter="548">
+			<app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 546 und 547.
+				</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Sammlung Warda
@@ -10661,7 +11066,7 @@
 				<note>Herder legte einen von ihm abgeschriebenen Auszug aus Luthers Tischreden bei (vgl. <intlink
 						letter="553" page="76" line="13" linktext="true" />); Provenienz: <wwwlink
 						address="https://ores.klassik-stiftung.de/ords/f?p=401:2:::::P2_ID:12300">Weimar,
-						Goethe- und Schiller-Archiv, GSA 44/41</wwwlink>, vgl. HBGA, IX, 274–276. Er lautet:</note>
+						Goethe- und Schiller-Archiv, GSA 44/41</wwwlink>, vgl. HBGA, IX, 274–276. Digitalisat: <wwwlink address="https://archive.thulb.uni-jena.de/gsa/receive/gsa_cbu_00012357">ThULB Jena</wwwlink>. Er lautet:</note>
 				<line type="break" />
 				<ZHText>
 					<page index="1" autopsic="1" />
@@ -10837,6 +11242,10 @@
 
 
 		<letterTradition letter="563">
+			<app ref="3">
+				Die Datierung wurde gegenüber ZH korrigiert (dort: „nach dem 8. September 1779“), daher erfolgt die
+				Einsortierung chronologisch zwischen Brief Nr. 599 und 567.
+</app>
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2553
@@ -11024,12 +11433,11 @@
 
 		<letterTradition letter="580">
 			<app ref="4">
-				Krakau, Jagiellonenbibliothek, Slg. Autographa der ehemaligen Preußischen Staatsbibliothek
-				zu Berlin (ehemalige Berliner Signatur: Acc. ms. 10787, Nr. 2).
+				Krakau, Jagiellonenbibliothek, Slg. Autographa der ehemaligen Preußischen Staatsbibliothek zu Berlin (ehemalige Berliner Signatur: Acc. ms. 10787, Nr. 2). – Das Konvolut aus 5 Blättern enthält auf S.&#x202F;1–7 die Druckvorlage für Hamanns <titel>Zwey Scherflein</titel>, auf S.&#x202F;8 die Druckanweisungen und auf S.&#x202F;9–10 den „Fortsetzung“ genannten Begleitbrief, zur Datierung vgl. <intlink letter="580" page="165" line="20" linktext="true" />. – Hamanns Handschrift der <titel>Zwey Scherflein</titel> auf S.&#x202F;1–7 wurde von Herder gemäß Hamanns Anweisungen partiell vervollständigt und ging für den Druck in Weimar auch durch die Zensur in Jena: S.&#x202F;1 oben ist von fremder Hand notiert: „Vidi quoad theologica adspersa <link ref="griesbach" linktext="false">J. J. Griesbach</link>. vidi quoad reliqua <link ref="schutz-cg" linktext="false">CG Schütz</link>“.
 </app>
-			<app ref="5"> Heinrich Düntzer, Ungedruckte Briefe zwischen Hamann und Herder. In: Bremer
+			<app ref="5"> Abdruck der zweiten Hälfte, HKB 580 (IV,166/30–168/37): Heinrich Düntzer, Ungedruckte Briefe zwischen Hamann und Herder. In: Bremer
 				Sonntagsblatt. Siebenter Jahrgang, No. 42: 16. October 1859, 330–331.<line type="break" />
-				Johann Georg Hamann: Sämtliche Werke. Historisch-kritische Ausgabe. Hg. von Josef Nadler. 6
+				Abdruck der ersten Hälfte, HKB 580 (IV,165/20–166/29): Johann Georg Hamann: Sämtliche Werke. Historisch-kritische Ausgabe. Hg. von Josef Nadler. 6
 				Bde. Wien 1949–57, III 457–458.<line type="break" /> ZH IV 165–168, Nr. 580. </app>
 			<app ref="6">
 				<wwwlink address="https://www.jbc.bj.uj.edu.pl/publication/856480">Hamann-Handschriften in
@@ -11290,7 +11698,7 @@
 			<app ref="4">
 				Druck ZH nach den unpublizierten Druckbogen von 1943. Original verschollen. Letzter
 				bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
-				Hamanniana], II 59.
+				Hamanniana], II 59. – Laut <wwwlink address="https://www.digitale-sammlungen.de/de/view/bsb11720430?page=10,11">Roth: Hamann’s Schriften, Bd.&#x202F;6, S.&#x202F;VI</wwwlink> wurde der Brief in Hamanns Nachlass gefunden.
 </app>
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VI
 				163–166.<line type="break" /> Friedrich Gottlieb Klopstock: Werke und Briefe.
@@ -11439,7 +11847,7 @@
 				Ebenfalls vorhanden: Eine Abschrift von fremder Hand (Provenienz: Staatsbibliothek zu
 				Berlin, Ms. Germ. quart. 1304, 224). </app>
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VI
-				197.<line type="break" /> Erich Schulz (Hg.), 1700–1800. Ein Jahrhundert deutscher
+				197 (dort Hamanns Brief vom 3. Juni, also HKB 622, zugeordnet).<line type="break" /> Erich Schulz (Hg.), 1700–1800. Ein Jahrhundert deutscher
 				Dichterhandschriften, Dortmund 1929, 10.<line type="break" /> ZH IV 266&#x2009;f., Nr. 613. </app>
 		</letterTradition>
 
@@ -11621,7 +12029,7 @@
 			<app ref="4"> Krakau, Jagiellonenbibliothek, Slg. Autographa der ehemaligen Preußischen
 				Staatsbibliothek zu Berlin (ehemalige Berliner Signatur: Sammlung Radowitz 5873).<line
 					type="break" /> Die Briefe von Hamann und Johann Gottlieb Kreutzfeld (21. und 23. August
-				1781) wurden zusammen abgeschickt. </app>
+				1781) wurden auf demselben Briefbogen abgefasst und zusammen abgeschickt. Kreutzfelds Brief befindet sich auf der Außenseite des Briefbogens, Hamanns Brief auf den beiden Innenseiten sowie der Rückseite. Kreutzfelds Brief ist also chronologisch und von der Reihenfolge her der frühere.</app>
 			<app ref="5">
 				ZH IV 325–327, Nr. 630.
 </app>
@@ -11730,6 +12138,9 @@
 
 
 		<letterTradition letter="640">
+			<app ref="1">
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 573 und 574.
+				</app>
 			<app ref="4">
 				Krakau, Jagiellonenbibliothek, Slg. Autographa der ehemaligen Preußischen Staatsbibliothek
 				zu Berlin (ehemalige Berliner Signatur: Slg. Meusebach).
@@ -11767,11 +12178,7 @@
 
 
 		<letterTradition letter="643">
-			<app ref="1">
-				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr.
-				644 und 645.
-</app>
-			<app ref="4">
+				<app ref="4">
 				Krakau, Jagiellonenbibliothek, Slg. Autographa der ehemaligen Preußischen Staatsbibliothek
 				zu Berlin (ehemalige Berliner Signatur: Acc. ms. 1886. 53, Nr. 25).
 </app>
@@ -11840,9 +12247,7 @@
 
 		<letterTradition letter="649">
 			<app ref="4">
-				Eine Kopie des Originals im Nachlass Arthur Henkels. Original verschollen. Letzter bekannter
-				Aufbewahrungsort: Laut Arthur Henkel befindet sich das Original im Besitz von Professor Kurt
-				v. Raumer.
+				Textgrundlage ist eine Kopie des Originals im Nachlass Arthur Henkels, Besitzer des Originals war laut Henkel damals Kurt von Raumer. Das Original war nicht zu erreichen. 2007 wurde der Brief bei Christie’s versteigert, vgl. <wwwlink address="https://www.christies.com/en/lot/lot-4940129">https://www.christies.com/en/lot/lot-4940129</wwwlink>.
 </app>
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VI
 				248–250.<line type="break" /> ZH IV 382&#x2009;f., Nr. 649. </app>
@@ -11984,7 +12389,7 @@
 				zu Berlin (ehemalige Berliner Signatur: Acc. ms. 10787, Nr. 4).
 </app>
 			<app ref="5"> Heinrich Düntzer, Ungedruckte Briefe zwischen Hamann und Herder. In: Bremer
-				Sonntagsblatt. Siebenter Jahrgang, No. 42: 16. October 1859, 331&#x2009;f..<line
+				Sonntagsblatt. Siebenter Jahrgang, No. 42: 16. October 1859, 331&#x2009;f.<line
 					type="break" /> ZH IV 417–419, Nr. 661. </app>
 			<app ref="6">
 				<wwwlink address="https://www.jbc.bj.uj.edu.pl/publication/856480">Hamann-Handschriften in
@@ -12219,7 +12624,7 @@
 
 		<letterTradition letter="532a">
 			<app ref="4">
-				Bayerische Staatsbibliothek München, Signatur: Penzeliana II.
+				Bayerische Staatsbibliothek München, Signatur: Penzeliana II (aus dem Nachlass des Münchner Oberbibliothekars Joseph von Scherer, 1776–1829).
 </app>
 			<app ref="5"> Bernhard Gajek: Zwei unbekannte Briefe Johann Georg Hamanns. In: Jahrbuch des
 				freien deutschen Hochstifts (1986), 34–60 (danach ediert auch ZH).<line type="break" /> ZH
@@ -13855,7 +14260,7 @@
 				Briefwechsel, I 4: 1785. Hg. von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad
 				Cannstadt 2003, 3–13.<line type="break" /> ZH V 308–318, Nr. 795. </app>
 			<app ref="9">
-				<note>Dem Brief lag eine Abschrift eines Briefes der Fürstin Amalia von Gallitzin an
+				<note>Dem Brief lag vmtl. eine Abschrift eines Briefes der Fürstin Amalia von Gallitzin an
 					Caroline von Keyserling bei; Provenienz: Universitätsbibliothek Erlangen, Ms. 2035:</note>
 				<line type="break" />
 				<ZHText>
@@ -14264,9 +14669,9 @@
 				Magus im Norden. Johann Georg Hamann an Franz Kaspar Bucholtz 1784–1788. Münster 1917,
 				25–37.<line type="break" /> ZH V 371–379, Nr. 813. </app>
 			<app ref="9">
-				<note>Mit dem Brief in Zusammenhang steht eine Quittung; Provenienz: Ludwig
+				<note>Dem Brief lag laut ZH eine Quittung bei (Provenienz: Ludwig
 					Schmitz-Kallenberg (Hg.): Aus dem Briefwechsel des Magus im Norden. Johann Georg Hamann an
-					Franz Kaspar Bucholtz 1784–1788. Münster 1917, 156:</note>
+					Franz Kaspar Bucholtz 1784–1788. Münster 1917, 156):</note>
 				<line type="break" />
 				<ZHText>
 					<page index="492" autopsic="492" />
@@ -14425,7 +14830,7 @@
 				Monatsschrift 31 (1894), 139–142.<line type="break" /> ZH V 414–416, Nr. 826. </app>
 			<app ref="6">
 				<wwwlink address="https://www.e-manuscripta.ch/zuz/content/titleinfo/2851427">FA Lav Ms
-					510.279</wwwlink>
+					510.279</wwwlink><line type="break" />
 				<wwwlink address="https://www.jclavater-briefwechsel.ch/letter/9008">Johann Caspar Lavater
 					Online Briefedition</wwwlink>
 			</app>
@@ -14497,7 +14902,7 @@
 				Universitätsbibliothek Erlangen, Ms. 2035.
 </app>
 			<app ref="5"> Friedrich Heinrich Jacobi: Briefwechsel, I 4: 1785. Hg. von Albert Mues, Gudrun
-				Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2003, 90&#x2009;f..<line type="break" /> ZH
+				Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2003, 90&#x2009;f.<line type="break" /> ZH
 				V 427&#x2009;f., Nr. 831. </app>
 		</letterTradition>
 
@@ -15429,9 +15834,6 @@
 				Kreis von Münster, 1. Teil, 1. Hälfte. Münster 1962, 243&#x2009;f.<line type="break" /> ZH
 				VI 111&#x2009;f., Nr. 885. </app>
 			<app ref="6">
-				<wwwlink address="https://www.e-manuscripta.ch/zuz/content/titleinfo/2851430">FA Lav Ms
-					563.64</wwwlink>
-				<line type="break" />
 				<wwwlink address="https://www.jclavater-briefwechsel.ch/letter/2592">Johann Caspar Lavater
 					Online Briefedition</wwwlink>
 			</app>
@@ -15768,10 +16170,10 @@
 				Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2003, 253&#x2009;f.<line type="break" /> ZH
 				VI 150&#x2009;f., Nr. 898. </app>
 			<app ref="8">
-				Auf den Seiten drei und vier des Briefes: Teilabschrift des Briefes von Elise Reimarus an
+				Auf den Seiten drei und vier des Briefes befindet sich eine Teilabschrift des Briefes von Elise Reimarus an
 				Jacobi, 24.–28. Oktober 1785, von Hamanns Hand, vgl. Friedrich Heinrich Jacobi:
 				Briefwechsel, I 4: 1785. Hg. von Albert Mues, Gudrun Schury und Jutta Torbi (Stuttgart-Bad
-				Cannstadt 2003), 224–226. Vgl. Anhänge zu HKB 986. Laut ZH ist die Abschrift datiert auf den
+				Cannstadt 2003), 224–226, außerdem Anhänge zu HKB 896. Laut ZH ist die Abschrift datiert auf den
 				25. Oktober 1785.
 </app>
 		</letterTradition>
@@ -15809,7 +16211,7 @@
 				Staatsbibliothek zu Berlin, Lessing-Sammlung Nr. 1841 m.
 </app>
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VII
-				296&#x2009;f..<line type="break" /> Ludwig Schmitz-Kallenberg (Hg.): Aus dem Briefwechsel
+				296&#x2009;f.<line type="break" /> Ludwig Schmitz-Kallenberg (Hg.): Aus dem Briefwechsel
 				des Magus im Norden. Johann Georg Hamann an Franz Kaspar Bucholtz 1784–1788. Münster 1917,
 				77–84.<line type="break" /> ZH VI 165–170, Nr. 901. </app>
 		</letterTradition>
@@ -15840,7 +16242,7 @@
 		<letterTradition letter="904">
 			<app ref="4"> Universitätsbibliothek Erlangen, Ms. 2035.<line type="break" /> ZH VI 174–176,
 				Nr. 904.<line type="break" /> Im Erlanger Konvolut liegt der Brief dem Brief Nr. 907 bei,
-				vgl. HKB 907 (VI 187/37). Ebenda liegt ein Oktavzettel, der vmtl. nicht zum ursprünglichen
+				vgl. HKB 907 (VI 187/37). Ebenda liegt ein Zettel im Sedez-Format, der vmtl. nicht zum ursprünglichen
 				Briefzusammenhang gehörte: „A Monsieur Monsieur de Kirschbaum Conseiller du College de sa
 				Majesté Imperiale de Toutes les Russes a St. Petersbourg.“ </app>
 		</letterTradition>
@@ -16270,13 +16672,12 @@
 				Rebecca Paimann, unter Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi.
 				Stuttgart-Bad Cannstadt 2005, 31–34.<line type="break" /> ZH VI 243–245, Nr. 923. </app>
 			<app ref="9">
-				<note>Dem Brief lagen zwei Auszüg aus Briefen Friedrich Heinrich Jacobis bei, in der
+				<note>Dem Brief lagen zwei Auszüge aus Briefen Friedrich Heinrich Jacobis bei, in der
 					Abschrift Schenks.</note>
 				<line type="break" />
 				<note>1. Friedrich Heinrich Jacobi an Andreas Ludolf Jacobi (Vetter), 5. September 1785
 					(vgl. Friedrich Heinrich Jacobi: Briefwechsel, I 4: 1785. Hg. von Albert Mues, Gudrun
 					Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2003, 167):</note>
-				<line type="break" />
 				<ZHText><page index="558" autopsic="558" />
 	<line index="1" autopsic="1" tab="2" />Aus einem
 					Schreiben an den Herrn Land Syndikus Jacobi <line index="2" autopsic="2" /><align
@@ -16297,12 +16698,11 @@
 					etwas nur halb zu thun. Ohne Gefühl der Ehre ist er nicht; auch nicht <line index="14"
 						autopsic="14" />unempfindlich gegen Beweise von Vertrauen und Liebe: aber er kann nicht <line
 						index="15" autopsic="15" />anhalten, und seine <aq>vis inertiæ</aq> gewinnt immer bald
-					wieder die Oberhand. &amp;<aq>c.</aq>
+					wieder die Oberhand. &amp;<aq>c.</aq><line type="break" />
 				</ZHText>
 				<note>2. Jacobi an Johann Friedrich Jacobi (Onkel), 26. Mai 1785 (vgl. Friedrich Heinrich
 					Jacobi: Briefwechsel, I 4: 1785. Hg. von Albert Mues, Gudrun Schury und Jutta Torbi.
 					Stuttgart-Bad Cannstadt 2003, 102):</note>
-				<line type="break" />
 				<ZHText><page index="558" autopsic="558" />
 	<line index="16" autopsic="1" tab="2" />Aus einem
 					Schreiben an Herrn Consistorial Rath Jacobi vom 26<super>ten</super> May 1785 <line
@@ -16348,7 +16748,7 @@
 				Paimann, unter Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad
 				Cannstadt 2005, 42–44.<line type="break" /> ZH VI 250–252, Nr. 925. </app>
 			<app ref="9">
-				<note>Auf der dritten Seite des Briefes folgt ein Auszug aus einem Schreiben aus Duisburg,
+				<note>Auf der dritten Seite des Briefes folgt ein Auszug aus einem Schreiben aus Duisburg, das kurz vor Absendung des Briefes einlief,
 					in der Abschrift Schenks:</note>
 				<ZHText>
 					<page index="558" autopsic="558" />
@@ -16381,9 +16781,6 @@
 				Jacobi: Briefwechsel, I 5: 1786. Hg. von Walter Jaeschke und Rebecca Paimann, unter
 				Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2005,
 				45–54.<line type="break" /> ZH VI 252–262, Nr. 926. </app>
-			<app ref="8">
-				Im Manuskript des Briefes ist auch eine Abschrift von HKB 928 enthalten.
-</app>
 		</letterTradition>
 
 
@@ -16431,7 +16828,7 @@
 					folgendermaßen:</note>
 				<line type="break" />
 				<ZHText>
-					<page index="930" autopsic="930" />
+					<page index="559" autopsic="559" />
 <line index="15" autopsic="15" /><align pos="right">Hamburg
 					den 30 Jan. 86</align>
 <line index="16" autopsic="16" />Ich habe geglaubt, liebster Jacobi,
@@ -16563,34 +16960,27 @@
 					Schlange <line index="32" autopsic="35" />vorstellte, – war, – ward.</ul> – Der
 					eigentliche Sinn dieser <line index="33" autopsic="36" />Allegorie will mir nicht
 					auffallen. <line index="34" autopsic="37" tab="1" /><aq>Ibid.</aq> – <ul>Ein guter Beweiß
-					von Geschicklichkeit</ul> u.s.w. <page index="562" autopsic="562" />
-<line index="1"
-						autopsic="1" />Hier müßte nothwendig die abgezielte Stelle in der Allg.D.Bibl. <line
-						index="2" autopsic="2" />citiert werden. <ul>S. 4. Der saubere Oelgötze scheint</ul>
-					u.s.w. Dies verstehe <line index="3" autopsic="3" tab="1" />ich nicht; aber vielleicht
-					blos deswegen, weil ich das Buch dieses <line index="4" autopsic="4" />Oelgötzen nicht
-					gelesen habe. <line index="5" autopsic="5" tab="1" /><aq>Ibid.</aq> – <ul>Die Sache
-					selbst, sagt der Berlinische <line index="6" autopsic="6" />Recensent</ul> u.s.w. Da diese
-					Worte sich in der Recension der <line index="7" autopsic="7" /><ul>Zöllnerischen</ul>
-					Schrift befinden, so könnte ihre Anführung <ul>hier</ul>
-<line index="8" autopsic="8" />als
-					eine Mißstellung ausgedeutet werden. <line index="9" autopsic="9" tab="1" /><aq>Ibid.</aq>
-					&#x2003;2. Theß <aq>Il.</aq> 3–12. &#x2003;Diese herrliche Stelle verdiente wohl unten <line
-						index="10" autopsic="10" /><aq>in extenso</aq> angeführt zu werden. <line index="11"
-						autopsic="11" tab="1" /><ul>S. 5. Des Jüdischen Leibnitzs, Roußeaus und <line index="12"
-							autopsic="12" />Xenophons.</ul> – Diese Worte müßten durch Gänsefüßchen ausgezeichnet,
-					und die <line index="13" autopsic="14" />bezielte Stelle in der Allg. D. Bibl. citiert
-					werden. –&#xA0;Eben so die <line index="14" autopsic="15" />Worte: „in der deutlichsten
-					und verständlichsten Sprache“. <line index="15" autopsic="16" tab="1" /><ul>S. 6. Oder als
-					wenn die Einkleidung eines</ul>
-<line index="16" autopsic="17" /><edit ref="6553">
-						<ul>evangelischen</ul>
-					</edit> <edit ref="6554">
-						<aq>etc.</aq>
-					</edit> scheint mir zu spitzig und entsetzlich dunkel. <line
-						type="empty" />
+					von Geschicklichkeit</ul> u.s.w. 
+<page index="562" autopsic="562" />
+<line index="1"	autopsic="1" />Hier müßte nothwendig die abgezielte Stelle in der Allg. D. Bibl.
+<line index="2" autopsic="2" />citiert werden.
+<line index="3" autopsic="3" tab="1" /><ul>S. 4. Der saubere Oelgötze scheint</ul> u.s.w. Dies verstehe 
+<line index="4" autopsic="4" />ich nicht; aber vielleicht blos deswegen, weil ich das Buch dieses 
+<line index="5" autopsic="5" />Oelgötzen nicht gelesen habe. 
+<line index="6" autopsic="6" tab="1"/><aq>Ibid.</aq> – <ul>Die Sache selbst, sagt der Berlinische
+<line index="7" autopsic="7" />Recensent</ul> u.s.w. Da diese Worte sich in der Recension der
+<line index="8" autopsic="8" /><ul>Zöllnerischen</ul> Schrift befinden, so könnte ihre Anführung <ul>hier</ul>
+<line index="9" autopsic="9" />als eine Mißstellung ausgedeutet werden. 
+<line index="10" autopsic="10" tab="1" /><aq>Ibid.</aq>	&#x2003;2. Theß <aq>II.</aq> 3–12. &#x2003;Diese herrliche Stelle verdiente wohl unten
+<line index="11" autopsic="11" /><aq>in extenso</aq> angeführt zu werden. 
+<line index="12" autopsic="12" tab="1" /><ul>S. 5. Des Jüdischen Leibnitzs, Roußeaus und
+<line index="13" autopsic="14" /> Xenophons.</ul> – 
+<line index="14" autopsic="14" tab="1" /> Diese Worte müßten durch Gänsefüßchen ausgezeichnet, und die 
+<line index="15" autopsic="16" />bezielte Stelle in der Allg. D. Bibl. citiert werden. – Eben so die 
+<line index="16" autopsic="15" />Worte: „in der deutlichsten und verständlichsten Sprache“.
+<line index="17" autopsic="17" tab="1" /><ul>S. 6. Oder als wenn die Einkleidung eines</ul> <edit ref="6553"> <ul>evangelischen</ul></edit> <edit ref="6554"><aq>etc.</aq></edit> scheint mir zu spitzig und entsetzlich dunkel. 
 <line type="empty" />
-<line index="17" autopsic="18" />* einem Interregno
+<line index="18" autopsic="18" />* einem Interregno
 					muß ein Imperium vorhergehen. </ZHText>
 			</app>
 		</letterTradition>
@@ -16817,9 +17207,10 @@
 			<app ref="5"> Friedrich Heinrich Jacobi: Briefwechsel, I 5: 1786. Hg. von Walter Jaeschke und
 				Rebecca Paimann, unter Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi.
 				Stuttgart-Bad Cannstadt 2005, 104–110.<line type="break" /> ZH VI 312–314, Nr. 943. </app>
+				Abschrift des letzten Blattes von HfB 5 bzw. vermutlich
+eher von dem nicht erhaltenen Manuskript (E 39).
 			<app ref="9">
-				<note>Dem Brief lag ein Teilstück der Urfassung des „Fliegenden Briefes“ in der Abschrift
-					Schenks bei; Provenienz: Universitätsbibliothek Erlangen, Ms. 2035:</note>
+				<note>Dem Brief lag eine Abschrift Schenks von einem Teil von Hamanns <titel>Fliegendem Brief</titel> bei, HfB 7 in der <link ref="rei-j-2018" linktext="false">historisch-kritischen Edition,</link> Bd.&#x202F;1, S.&#x202F;75–85; Provenienz: Universitätsbibliothek Erlangen, Ms. 2035.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="563" autopsic="563" />
@@ -17253,15 +17644,14 @@
 				Original verschollen. Letzter bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek
 				Königsberg, Msc. 2552 [Roths Hamanniana], II 20. Text nach einem Negativ des verlorenen
 				Originals in der Universitäts- und Landesbibliothek Münster, Signatur: Hamann-Nachlass,
-				Kaps. 2, 8 [R. II 20]..
+				Kaps. 2, 8 [R. II 20].
 </app>
 			<app ref="5">
 				ZH VI 369, Nr. 961.
 </app>
 			<app ref="9">
-				<note>1.</note>
-				<note>Das Attest des Arztes (Provenienz: ebd.):</note>
-				<line type="break" />
+				<note>I.</note>
+				<note>Das Attest des Arztes (zur Provenienz siehe Überlieferung &#x26; Textkritik):</note>
 				<ZHText>
 					<page index="569" autopsic="569" />
 <line index="3" autopsic="3" /><align pos="center"><ul>
@@ -17283,11 +17673,9 @@
 						<aq>Physicus</aq>
 					</align>
 				</ZHText>
-				<note>2.</note>
-				<line type="break" />
+				<note>II.</note>
 				<note> Eine weitere Abschrift Hamanns, adressiert an die Provincial-Direktion Königsberg
-					(Provenienz: ebd.):</note>
-				<line type="break" />
+					(zur Provenienz siehe Überlieferung &#x26; Textkritik):</note>
 				<ZHText>
 					<page index="568" autopsic="568" />
 <line index="28" autopsic="28" tab="3" />Abschrift der <aq>
@@ -17398,9 +17786,7 @@
 				Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2005,
 				210–212.<line type="break" /> ZH VI 393&#x2009;f., Nr. 967. </app>
 			<app ref="9">
-				<note>Franz Caspar Bucholtz an Friedrich Heinrich Jacobi, 14. Mai 1786, Abschrift von
-					Hamann:</note>
-				<line type="break" />
+				<note>Dem Brief lag eine Abschrift Hamanns von Franz Caspar Bucholtz’ Brief an Friedrich Heinrich Jacobi, 14. Mai 1786 bei:</note>
 				<ZHText>
 					<page index="569" autopsic="569" />
 <line index="33" autopsic="33" /><align pos="right">den
@@ -17544,21 +17930,15 @@
 
 		<letterTradition letter="974">
 			<app ref="4">
-				Universitätsbibliothek Erlangen, Ms. 2035.
+				Universitätsbibliothek Erlangen, Ms. 2035. – Der Brief wurde auf der Rückseite eines Manuskripts der „VI. Fortsetzung“ des <link ref="hamann" subref="hamann-fliegender-brief" linktext="false"><titel>Fliegenden Briefs</titel></link> notiert (HfB 18), nachdem Hamann mit der Fortsetzung „nicht von der Stelle“ kam (<intlink letter="974" page="416" line="27" linktext="true" />). Hamann sandte HKB 974 mit dem Ausschnitt aus der „VI. Fortsetzung“ auf der Rückseite am 5. Juni an Schenk, der das Blatt am 16.&#x202F;Juni an Jacobi in London weiterleitete; vgl. <link ref="rei-j-2018" linktext="false">Hamann: <titel>Fliegender Brief.</titel> Historisch-kritische Ausgabe hg. von Janina Reibold (Hamburg 2018),</link> Bd.&#x202F;1, S.&#x202F;181–187 und zur Auftrennung und weiteren Überlieferung des Manuskripts Bd.&#x202F;2, S.&#x202F;27 (das erste Blatt mit den ersten beiden Seiten des Entwurfs der „VI. Fortsetzung“ ist in der ULB Münster, N. Hamann, Kapsel 1,50 und 1,39 überliefert).
 </app>
 			<app ref="5"> Karl Hermann Gildemeister (Hg.): Johann Georg Hamann’s, des Magus im Norden,
 				Leben und Schriften. 6 Bde. Gotha 1857–1868, V 343&#x2009;f.<line type="break" /> Friedrich
 				Heinrich Jacobi: Briefwechsel, I 5: 1786. Hg. von Walter Jaeschke und Rebecca Paimann, unter
 				Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2005,
 				234&#x2009;f.<line type="break" /> ZH VI 416–417, Nr. 974. </app>
-			<app ref="9">
-				Auf der Rückseite des Briefes befindet sich ein Teilstück der Urfassung des „Fliegenden
-				Briefes“ in der Abschrift Hamanns, der eine Kopie Schenks nochmals abschrieb (Provenienz:
-				Universitätsbibliothek Erlangen, Ms. 2035). Der Text stimmt überein mit der Erstfassung bis
-				auf geringfügige Korrekturen und die Stellenangaben, die bei Nadler fehlen. Vgl. Johann
-				Georg Hamann: Sämtliche Werke. Historisch-kritische Ausgabe. Hg. von Josef Nadler. 6 Bde.
-				Wien 1949–57, III 400, 28&#x2009;f.. und 402.
-</app>
+			<app ref="9">Auf der Rückseite des Briefes befindet sich ein Ausschnitt der „VI. Fortsetzung“ des <link ref="hamann" subref="hamann-fliegender-brief" linktext="false"><titel>Fliegenden Briefs</titel></link> (HfB 18), vgl. Überlieferung &#x26; Textkritik sowie <link ref="rei-j-2018" linktext="false">Hamann: <titel>Fliegender Brief.</titel> Historisch-kritische Ausgabe hg. von Janina Reibold (Hamburg 2018),</link> Bd.&#x202F;1, S.&#x202F;186f. und Bd.&#x202F;2, S.&#x202F;27.
+			</app>
 		</letterTradition>
 
 
@@ -17588,7 +17968,7 @@
 				<note>Dem nach London nachgesandten Brief lagen bei: Eine Nachschrift Schenks, die einen
 					Auszug aus der VI. Fortsetzung des „Fliegenden Briefes“ enthielt, Mitteilungen Schenks
 					sowie seine Abschrift einer Rezension von Jacobis Schrift „Wider Mendelssohns
-					Beschuldigungen“ aus den „Göttingischen Anzeigen“ (Provenienz: ebd.):</note>
+					Beschuldigungen“ aus den „Göttingischen Anzeigen“ (zur Provenienz siehe Überlieferung &#x26; Textkritik):</note>
 				<line type="break" />
 				<ZHText>
 					<page index="572" autopsic="572" />
@@ -17722,13 +18102,11 @@
 				Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2005,
 				241–243.<line type="break" /> ZH VI 424&#x2009;f., Nr. 977. </app>
 			<app ref="9">
-				<note>1.</note>
-				<line type="break" />
+				<note>I.</note>
 				<note>Johann Kaspar Lavater an Friedrich Heinrich Jacobi, 3. Mai 1786, mit einer
 					kommentierenden Anmerkung von Jacobi; Abschrift von Hamann auf der unbeschriebenen vierten
-					Seite (Provenienz: ebd.; vgl. Friedrich Heinrich Jacobi: Briefwechsel, I 5: 1786, 182–183,
-					Nr. 1420:</note>
-				<line type="break" />
+					Seite (zur Provenienz siehe Überlieferung &#x26; Textkritik; vgl. Friedrich Heinrich Jacobi: Briefwechsel, I 5: 1786, 182–183,
+					Nr. 1420):</note>
 				<ZHText>
 					<page index="574" autopsic="574" />
 <line index="1" autopsic="1" />Ach! Gott seegne Dir u
@@ -17816,13 +18194,10 @@
 						autopsic="60" />Frau von der Borch, der damals über die Stelle im Museum etwas enthielt, <line
 						index="61" autopsic="61" />daß sich so auslegen ließ. </ZHText>
 				<line type="empty" />
-				<line type="empty" />
-				<note>2.</note>
-				<line type="break" />
+				<note>II.</note>
 				<note>Johann Kaspar Lavater an Friedrich Heinrich Jacobi, 3. Juni 1786; Abschrift von Hamann
-					auf der leeren unteren Hälfte der dritten Seite (Provenienz: ebd.; vgl. Friedrich Heinrich
+					auf der leeren unteren Hälfte der dritten Seite (zur Provenienz siehe Überlieferung &#x26; Textkritik; vgl. Friedrich Heinrich
 					Jacobi: Briefwechsel, I 5: 1786, 233&#x2009;f., Nr. 1455):</note>
-				<line type="break" />
 				<ZHText>
 					<page index="2" autopsic="2" />
 <line index="1" autopsic="1" tab="2" />2) Lieber Jacobi, <line
@@ -17857,15 +18232,12 @@
 						autopsic="22" />ich meinen Sohn nach Göttingen begleiten werde – steht ganz dahin – Ohne <line
 						index="23" autopsic="23" />äußere Winke u innere Triebe werd ich nichts thun.
 					&#x2003;Bremen konnt ich nicht <line index="24" autopsic="24" />annehmen – um meiner mich
-					bittenden Gemeine willen. </ZHText>
+					bittenden Gemeine willen.</ZHText>
 				<line type="empty" />
-				<line type="empty" />
-				<note>3.</note>
-				<line type="break" />
+				<note>III.</note>
 				<note>Friedrich Heinrich Jacobi an Johann Kaspar Lavater, 10. Mai 1786, Auszug; Abschrift
-					von Helene Jacobi (Provenienz: ebd.; vgl. Friedrich Heinrich Jacobi: Briefwechsel, I 5:
+					von Helene Jacobi (zur Provenienz siehe Überlieferung &#x26; Textkritik; vgl. Friedrich Heinrich Jacobi: Briefwechsel, I 5:
 					1786, 199&#x2009;f., Nr. 1432):</note>
-				<line type="break" />
 				<ZHText>
 					<page index="3" autopsic="3" />
 <line index="1" autopsic="1" />Aus einem Brief an Lavater
@@ -17883,14 +18255,12 @@
 					nicht, <line index="10" autopsic="10" />wenn der Nagel so geschmiedet war, daß er durch
 					einen Stein gehen konnte, <line index="11" autopsic="11" />u der Rechte Hammer dabey ist.
 					Ich weiß, lieber, Du nimmst mir diese <line index="12" autopsic="12" />brüderliche
-					Erinnerung nicht übel. </ZHText>
+					Erinnerung nicht übel.</ZHText>
 				<line type="empty" />
-				<line type="empty" />
-				<note>4.</note>
-				<line type="break" />
-				<note>Friedrich Heinrich Jacobi an Johann Kaspar Lavater, 27. Mai 1786, Auszug; Abschrift
-					von Helene Jacobi (Provenienz: ebd.; vgl. Friedrich Heinrich Jacobi: Briefwechsel, I 5:
-					1786, , Nr. ):</note>
+				<note>IV.</note>
+				<note>Friedrich Heinrich Jacobi an Johann Kaspar Lavater, 27. Mai 1786 (mglw. 24. Mai), Auszug; Abschrift
+					von Helene Jacobi (zur Provenienz siehe Überlieferung &#x26; Textkritik; vgl. Friedrich Heinrich Jacobi: Briefwechsel, I 5:
+					1786, 218f., Nr. 1447, zur Datierung auch II 5, S.&#x202F;382):</note>
 				<ZHText>
 					<page index="4" autopsic="4" />
 <line index="1" autopsic="1" />Aus einem Brief an Lavater
@@ -18570,11 +18940,9 @@
 				Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2005,
 				360–366.<line type="break" /> ZH VII 18–21, Nr. 1021. </app>
 			<app ref="9">
-				<note>1.</note>
-				<line type="break" />
+				<note>I.</note>
 				<note>Franz Michael Leuchsenring an Johann Caspar Lavater, 23. August 1786, Abschrift von
-					unbekannter Hand (Provenienz: ebd.):</note>
-				<line type="break" />
+					unbekannter Hand (zur Provenienz siehe Überlieferung &#x26; Textkritik):</note>
 				<ZHText>
 					<page index="518" autopsic="518" />
 <line index="3" autopsic="3" tab="1" /><note>Links oben
@@ -18628,11 +18996,9 @@
 <page index="519" autopsic="519" />
 				</ZHText>
 				<line type="empty" />
-				<note>2.</note>
-				<line type="break" />
+				<note>II.</note>
 				<note>Johann Caspar Lavater an Franz Michael Leuchsenring, 25. August 1786, Abschrift von
-					unbekannter Hand (Provenienz: ebd.):</note>
-				<line type="break" />
+					unbekannter Hand (zur Provenienz siehe Überlieferung &#x26; Textkritik):</note>
 				<ZHText>
 					<page index="519" autopsic="519" />
 <line index="3" autopsic="3" tab="1" /><note>Links oben
@@ -18645,8 +19011,7 @@
 <line
 						index="4" autopsic="4" /><align pos="center">
 						<ul>Letzte Antwort an Herrn <edit ref="7232">Leuschenring</edit>.</ul>
-					</align><line
-						type="break" />
+					</align>
 <line index="5" autopsic="5" />Ich sandte Ihnen mein Manuskript über
 					Katholizismus und <line index="6" autopsic="6" />Jesuitismus, wie Sie wißen, in der
 					Absicht um Sie selbst zum Richter <line index="7" autopsic="7" />zumachen: Ob ich mich
@@ -18962,7 +19327,7 @@
 				Stuttgart-Bad Cannstadt 2005, 439&#x2009;f.<line type="break" /> ZH VII 91&#x2009;f., Nr.
 				1038. </app>
 			<app ref="9">
-				<note>Schönborn an Jacobi, 5. November 1786, Auszug, abgeschrieben von Schenk; Provenienz:
+				<note>Gottlieb Friedrich Ernst Schönborn an Jacobi, 5. November 1786, Auszug, abgeschrieben von Schenk; Provenienz:
 					Universitätsbibliothek Erlangen, Ms. 2035.</note>
 				<line type="break" />
 				<ZHText>
@@ -19039,9 +19404,8 @@
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VII
 				347–349.<line type="break" /> ZH VII 92–96, Nr. 1039. </app>
 			<app ref="9">
-				<note>1. Das Empfehlungsschreiben Lavaters für Kaspar Hottinger aus Zürich, Zürich, 14.
+				<note>I. Das Empfehlungsschreiben Lavaters für Kaspar Hottinger aus Zürich, Zürich, 14.
 					April 1786:</note>
-				<line type="break" />
 				<ZHText>
 					<page index="523" autopsic="523" />
 <line index="32" autopsic="32" /><edit ref="4289">
@@ -19073,7 +19437,7 @@
 <line index="13"
 						autopsic="13" /><align pos="right">Joh. Kasp. Lavater.</align></ZHText>
 				<line type="empty" />
-				<note>2. Ein Auszug aus dem Brief Schönborns an Jacobi, 5. November 1786 (vgl. Apparat zu
+				<note>II. Ein Auszug aus dem Brief Schönborns an Jacobi, 5. November 1786 (vgl. Anhänge zu
 					HKB 1038).</note>
 			</app>
 		</letterTradition>
@@ -19153,10 +19517,9 @@
 				Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2012, 35&#x2009;f.<line type="break" />
 				ZH VII 114–115, Nr. 1045. </app>
 			<app ref="9">
-				<note>Dem Brief lagen bei, bzw. sind bei der Sammlung des Hamann-Jacobi-Briefwechsels wieder
+				<note>Dem Brief lagen bei bzw. sind bei der Sammlung des Hamann-Jacobi-Briefwechsels wieder
 					beigefügt worden:</note>
-				<line type="break" />
-				<note>1. Das Testament Thomas Wizenmanns, Original; Provenienz: ebd.</note>
+				<note>I. Das Testament Thomas Wizenmanns, Original; zur Provenienz siehe Überlieferung &#x26; Textkritik.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="525" autopsic="525" />
@@ -19203,9 +19566,9 @@
 					Freunde Schenk und Hofmann zu erbrechen. <line index="31" autopsic="30" tab="1" /><note>Darunter
 					von Hamann:</note> <hand ref="8">
 						<aq>ad No 60a.</aq>
-					</hand>
+					</hand><line type="break" />
 				</ZHText>
-				<note>2. Thomas Wizenmann (Vater) an Thomas Wizenmann (Sohn), 9. Januar 1787, Abschrift
+				<note>II. Thomas Wizenmann (Vater) an Thomas Wizenmann (Sohn), 9. Januar 1787, Abschrift
 					Hamanns; Provenienz: Universitätsbibliothek Erlangen, Ms. 2035:</note>
 				<ZHText>
 					<page index="525" autopsic="525" />
@@ -19237,9 +19600,9 @@
 <line index="20" autopsic="22" />Ludwigsburg,
 					9<super>ten</super> Jan 1787. <align pos="right">Thomas <edit ref="7387">Wizenmann</edit>.</align>
 <line
-						index="21" autopsic="24" tab="2" />Aus unserm Gebet kommst Du <edit ref="7388">nicht</edit>
+						index="21" autopsic="24" tab="2" />Aus unserm Gebet kommst Du <edit ref="7388">nicht</edit><line type="break" />
 				</ZHText>
-				<note>3. Thomas Wizenmann an Friedrich Heinrich Jacobi: 26. Januar 1787, Provenienz:
+				<note>III. Thomas Wizenmann an Friedrich Heinrich Jacobi: 26. Januar 1787, Provenienz:
 					Universitätsbibliothek Erlangen, Ms. 2035.</note>
 				<ZHText>
 					<page index="526" autopsic="526" />
@@ -19372,8 +19735,8 @@
 				<ZHText>
 					<page index="528" autopsic="528" />
 <page index="5" autopsic="5" tab="3" />Durchlauchtigster
-					Herzog <line index="6" autopsic="6" tab="2" />Gnädigster Fürst und Herr. <line index="7"
-						autopsic="7" />Ew. Herzogl. Durchlaucht haben die Gnade gehabt, Sich durch <line
+					Herzog <line index="6" autopsic="6" tab="2" />Gnädigster Fürst und Herr.<line type="break" />
+					<line index="7"	autopsic="7" />Ew. Herzogl. Durchlaucht haben die Gnade gehabt, Sich durch <line
 						index="8" autopsic="8" /><aq>Mettaye</aq> nach meinen gegenwärtigen Zustande erkundigen
 					zu <line index="9" autopsic="9" />laßen, und für dieses gnädige, mir unendlich theure
 					Andenken <line index="10" autopsic="10" />lege ich Ihnen, gnädigster Herr, hiemit meinen
@@ -19447,20 +19810,15 @@
 					zuverdienen werkthätig <line index="32" autopsic="32" />so wohl Ihnen, als unserm
 					vortreflichen Prinz <aq>George,</aq> auch <line index="33" autopsic="33" />dem ehrlichen
 					guten <aq>Falck</aq> beweisen kann. Wie glüklich werde ich <line index="34" autopsic="34" />mich
-					schätzen, wenn ich Ew. Durchlaucht persönlich die tiefe <line index="35" autopsic="35" /><edit
-						ref="7455"><del>jung</del>innigste</edit> Verehrung an den Tag legen könne, und der ich <line
-						index="36" autopsic="36" />lebenslang <edit ref="7456">verharre.</edit> <align
-						pos="right">Ew. Herzogl. Durchlaucht</align>
-<line index="37" autopsic="37" /><align
-						pos="right">unterthänigster</align>
-<line index="38" autopsic="37" /><align pos="right">Starck.
-					&#x2003;</align>
+					schätzen, wenn ich Ew. Durchlaucht persönlich die tiefe 
+					<line index="35" autopsic="35" /><edit ref="7455"><del>jung</del>innigste</edit> Verehrung an den Tag legen könne, und der ich
+					<line index="36" autopsic="36" />lebenslang <edit ref="7456">verharre.</edit> <align pos="right">Ew. Herzogl. Durchlaucht</align>
+					<line index="37" autopsic="37" /><align	pos="right">unterthänigster</align>
+					<line index="38" autopsic="37" /><align pos="right">Starck.&#x2003;</align>
 <page index="530" autopsic="530" />
-<line index="1" autopsic="1" /><line
-						tab="2" />Darmstadt <line index="2" autopsic="2" /><line tab="2" />den 21<super>ten</super>
-					February <line index="3" autopsic="3" /><line tab="2" /><edit ref="7457">
-						<ul>1787</ul>
-					</edit>.</ZHText>
+<line index="1" autopsic="1" tab="2" />Darmstadt
+<line index="2" autopsic="2" tab="2" />den 21<super>ten</super> February
+<line index="3" autopsic="3" tab="2" /><edit ref="7457"><ul>1787</ul></edit>.</ZHText>
 			</app>
 		</letterTradition>
 
@@ -19469,7 +19827,7 @@
 			<app ref="4">
 				Universitätsbibliothek Erlangen, Ms. 2035.
 </app>
-			<app ref="5"> Friedrich Heinrich Jacobi: Briefwechsel, I 6: Januar bis November 1787. Hg. von
+			<app ref="5">Friedrich Heinrich Jacobi: Briefwechsel, I 6: Januar bis November 1787. Hg. von
 				Jürgen Weyenschops, unter Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi.
 				Stuttgart-Bad Cannstadt 2012, 57.<line type="break" /> ZH VII 131&#x2009;f., Nr. 1052. </app>
 		</letterTradition>
@@ -19553,7 +19911,7 @@
 
 
 		<letterTradition letter="1059">
-			<app ref="4">
+			<app ref="4">Druck ZH nach der Abschrift Wardas, der im Anschluss an seine Abschrift vermerkt: „dahinter folgt der zweite von Kraus geschriebene, von Joh. Mich. Hamann nach dem vollständigen Krausschen Entwurf veränderte, und von: ‚Aber was&#x202F;…‘ ganz von Joh. Mich. Hamann geschriebene Entwurf des P.&#x202F;M. vom 18. Mai.“ Er ist so gut wie identisch mit Hamanns Abschrift im Brief Nr. 1070.
 </app>
 			<app ref="5">
 				ZH VII 161, Nr. 1059.
@@ -19592,7 +19950,7 @@
 				Jürgen Weyenschops, unter Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi.
 				Stuttgart-Bad Cannstadt 2012, 129–135.<line type="break" /> ZH VII 183–188, Nr. 1062. </app>
 			<app ref="9">
-				<note>Dem Brief lag ein Oktavblatt bei; Korrekturen mit roter Tinte:</note>
+				<note>Dem Brief lag ein mit roter Tinte korrigiertes Oktavblatt bei:</note>
 				<line type="break" />
 				<ZHText>
 					<page index="531" autopsic="531" />
@@ -19728,20 +20086,13 @@
 
 		<letterTradition letter="1067">
 			<app ref="1">
-				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr.
-				1065 und 1066.
+				Die Einsortierung wurde gegenüber ZH verändert, sie erfolgt chronologisch zwischen Brief Nr. 1065 und 1066.
 </app>
 			<app ref="4"> Original verschollen. Letzter bekannter Aufbewahrungsort: Staats- und
-				Universitätsbibliothek Königsberg, Msc. 2552 [Roths Hamanniana], II 91. Text nach einem
-				Negativ der Königsberger Originalhandschrift in der Universitäts- und Landesbibliothek
-				Münster, Signatur: Hamann-Nachlass, Kaps. 2, 11.<line type="break" /> ZH VII 203–210, Nr.
-				1067. </app>
+				Universitätsbibliothek Königsberg, Msc. 2552 [Roths Hamanniana], II 91. Text nach einem	Negativ der Königsberger Originalhandschrift in der Universitäts- und Landesbibliothek Münster, Signatur: Hamann-Nachlass, Kaps. 2, 11. – Laut ZH der sogenannte 6. Entwurf des Pro memoria (Textgrundlage sei eine „Photokopie der Univ-Bibl. Münster, aus der Mappe ‚Autobiographisches‘, Umschlag ‚Promemoria‘ – ‚Autobiographica‘, der auch die 5 vorhergehenden Entwürfe enthält. Es ist eine Photokopie von R II 91, aus dem Besitz von J. Nadler“).</app>
+			<app ref="5"></app>ZH VII 203–210, Nr. 1067. 
 			<app ref="9">
-				<note>Dem Brief lag vmtl. ein Pro Memoria bei. Das Original ist verschollen, aber ein
-					Entwurf ist überliefert (Provenienz: Original verschollen. Letzter bekannter
-					Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths
-					Hamanniana], II 91; Text nach einem Negativ der Königsberger Originalhandschrift in der
-					Universitäts- und Landesbibliothek Münster, Kaps. 2, 11):</note>
+				<note>Dem Brief lag vmtl. bei: <titel>Pro Memoria.</titel> Das Original ist verschollen, aber ein Entwurf ist überliefert (Provenienz: Original verschollen. Letzter bekannter Aufbewahrungsort: Staats- und Universitätsbibliothek Königsberg, Msc. 2552 [Roths Hamanniana], II 91; Text nach einem Negativ der Königsberger Originalhandschrift in der Universitäts- und Landesbibliothek Münster, Kaps. 2, 11; bisher gedruckt: <wwwlink address="https://archive.org/details/neuehamannianab00hamagoog/page/n174/mode/2up">Heinrich Weber: Neue Hamanniana. München 1905, 159–167</wwwlink>):</note>
 				<line type="break" />
 				<ZHText>
 					<page index="532" autopsic="532" />
@@ -20294,7 +20645,6 @@
 				Neue Hamanniana. München 1905, 89&#x2009;f.<line type="break" /> ZH VII 254–256, Nr. 1083. </app>
 			<app ref="9">
 				<note>Dem Brief lag ein Pro Memoria von Jacobis Hand bei:</note>
-				<line type="break" />
 				<ZHText>
 					<page index="542" autopsic="542" />
 <line index="4" autopsic="4" /><align pos="center">
@@ -20733,9 +21083,8 @@
 			<app ref="5"> Friedrich Roth (Hg.): Hamann’s Schriften. 8 Bde. Berlin, Leipzig 1821–1843, VII
 				394–396.<line type="break" /> ZH VII 344–346, Nr. 1114. </app>
 			<app ref="9">
-				<note>1. Freiherr v. Lamezan an Franz Kaspar Bucholtz, 17. November 1787, Abschrift von
+				<note>I. Freiherr von Lamezan an Franz Kaspar Bucholtz, 17. November 1787, Abschrift von
 					Hamann:</note>
-				<line type="break" />
 				<ZHText>
 					<page index="546" autopsic="546" />
 <line index="8" autopsic="8" /><align pos="center">
@@ -20798,8 +21147,7 @@
 <line index="15" autopsic="15" />Mheim
 					den 17 9<aq>br.</aq>  <edit ref="4547">87</edit> <align pos="right">Lamezan <aq>jun.</aq></align></ZHText>
 				<line type="empty" />
-				<note>2. Sturmfeder und Steudel an Lamezan, 14. November 1787 (Abschrift von Hamann):</note>
-				<line type="break" />
+				<note>II. Sturmfeder und Steudel an Lamezan, 14. November 1787 (Abschrift von Hamann):</note>
 				<ZHText>
 					<page index="547" autopsic="547" />
 <line index="19" autopsic="19" /><align pos="center">
@@ -22301,32 +22649,19 @@
 				von Jürgen Weyenschops, unter Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi.
 				Stuttgart-Bad Cannstadt 2012, 204&#x2009;f.<line type="break" /> ZH VII 465–466, Nr. 1156. </app>
 			<app ref="9">
-				<note>Zu den vier von Jacobi erwähnten Anhängen, die Hamann mit HKB 1162 zurücksandte (vgl.
-					HKB 1162 [VI 474/11–14]):<line type="break" /> 1. <line type="break" />Vgl. zum Schreiben
-					von Hufeland an Jacobi, Ende April 1788: Friedrich Heinrich Jacobi: Briefwechsel, I 7:
-					November 1787 bis Juni 1788. Hg. von Jürgen Weyenschops, unter Mitarbeit von Albert Mues,
-					Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2012, 174.<line type="break" /> Zu
-					Jacobis Antwort an Hufeland, 30. April 1788, vgl. ebd., 191&#x2009;f.<line type="break" />
-					2. <line type="break" />Vgl. zum Schreiben von Rehberg an Jacobi, 24. April 1788: ebd.,
-					178.<line type="break" /> Zu Jacobis Antwort an Rehberg, 2. Mai 1788, vgl. ebd., 193–197.<line
-						type="break" /> Zum „älteren Schreiben“ von Rehberg an Jacobi, vgl. Friedrich Heinrich
-					Jacobi: Briefwechsel, I 4: 1785. Hg. von Albert Mues, Gudrun Schury und Jutta Torbi.
-					Stuttgart-Bad Cannstadt 2003, 272&#x2009;f.<line type="break" /> 3. Zum Brief von
-					Stollberg an Jacobi, 28.4.1788, vgl. ebd., 184–187.<line type="break" /> Zu Jacobis
-					Antwort an Stollberg, 7. Mai 1788, vgl. ebd., 201–203.<line type="break" /> 4. <wwwlink
-						address="https://zs.thulb.uni-jena.de/receive/jportal_jparticle_00002084">ALZ 1788, Nr.
-					92</wwwlink></note>
+				<note>Zu den vier von Jacobi erwähnten Anhängen, die Hamann mit HKB 1162 zurücksandte (vgl. HKB 1162 [VI 474/12–15]):<line type="break" /><line type="break" />
+					I. Vgl. zum Schreiben von Hufeland an Jacobi, Ende April 1788: Friedrich Heinrich Jacobi: Briefwechsel, I 7: November 1787 bis Juni 1788. Hg. von Jürgen Weyenschops, unter Mitarbeit von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2012, 174.<line type="break" />
+					Zu Jacobis Antwort an Hufeland, 30. April 1788, vgl. ebd., 191&#x2009;f.<line type="break" /><line type="break" />
+					II. Vgl. zum Schreiben von Rehberg an Jacobi, 24. April 1788: ebd., 178.<line type="break" />
+					Zu Jacobis Antwort an Rehberg, 2. Mai 1788, vgl. ebd., 193–197.<line type="break" />	
+					Zum „älteren Schreiben“ von Rehberg an Jacobi, vgl. Friedrich Heinrich
+					Jacobi: Briefwechsel, I 4: 1785. Hg. von Albert Mues, Gudrun Schury und Jutta Torbi. Stuttgart-Bad Cannstadt 2003, 272&#x2009;f.<line type="break" /><line type="break" />
+					III. Zum Brief von Stollberg an Jacobi, 28.4.1788, vgl. ebd., I 7, S.&#x202F;184–187.<line type="break" />
+					Zu Jacobis Antwort an Stollberg, 7. Mai 1788, vgl. ebd., 201–203.<line type="break" /><line type="break" />
+					IV. <wwwlink address="https://zs.thulb.uni-jena.de/receive/jportal_jparticle_00002084">ALZ 1788, Nr.&#x202F;92</wwwlink>.</note>
 			</app>
 			<app ref="7">
-				<note>Auf der Rückseite des letzten von Jacobi beschriebenen Blattes machte Hamann ein
-					umfangreiches Exzerpt von Hemsterhuis’ „Alexis ou du Militaire“. Die Schrift im Stil eines
-					platonischen Dialogs ist eine Fortführung von Hemsterhuis’ „Alexis, ou sur l’âge d’or“ von
-					1787 – Jacobi publizierte im selben Jahr eine Übersetzung –, die lediglich als Manuskript
-					zirkulierte und erst 1924 veröffentlicht wurde. Hamann erwähnt die Lektüre auch in einem
-					Brief an Kraus vom 2. Juni 1788 (HKB 1169 [VII 501/32]): „Ich habe den Anfang eines <aq>Alexis
-					II du Militaire</aq> im <aq>Mst</aq> gelesen.“ Vgl. Emile Boulan (Hg.): François
-					Hemsterhuis. Le socrate Hollandais suivi de Alexis ou du Militaire. Groningen, Paris 1924,
-					111–136.</note>
+				<note>Auf der Rückseite des letzten von Jacobi beschriebenen Blattes machte Hamann ein umfangreiches Exzerpt von Hemsterhuis’ „Alexis ou du Militaire“. Die Schrift im Stil eines platonischen Dialogs ist eine Fortführung von Hemsterhuis’ „Alexis, ou sur l’âge d’or“ von 1787 – Jacobi publizierte im selben Jahr eine Übersetzung –, die lediglich als Manuskript zirkulierte und erst 1924 veröffentlicht wurde. Hamann erwähnt die Lektüre auch in einem Brief an Kraus vom 2. Juni 1788 (HKB 1169 [VII 501/32]): „Ich habe den Anfang eines Alexis II du Militaire im Mst gelesen.“ Vgl. Emile Boulan (Hg.): François Hemsterhuis. Le socrate Hollandais suivi de Alexis ou du Militaire. Groningen, Paris 1924, S.&#x202F;111–136.</note>
 				<line type="break" />
 				<ZHText>
 					<page index="1" autopsic="1" />
