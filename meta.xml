@@ -22692,9 +22692,9 @@
 	          <alternativeLineNumbering value="false" />
 	        </ZHInfo>
 	      </letterDesc>
-	  	      <letterDesc letter="536a">
+	      <letterDesc letter="537a">
 	        <date value="Königsberg, vmtl. Ende 1778" />
-	        <sort value="1778-11-27" notBefore="1778-11-18" />
+	        <sort value="1778-11-30" notBefore="1777-05-18" notafter="1778-12-31" />
 	        <location ref="2" />
 	        <senders>
 	          <sender ref="1" />
