@@ -306,6 +306,8 @@
 				nachname="Patz" komm="patz-v" />
 			<personDef index="133" name="Vmtl. Carl Christoph Stockmar"
 				vorname="Carl Christoph" nachname="Stockmar" komm="stockmar" />
+			<personDef index="134" name="Johann Gottlieb Kreutzfeld"
+				vorname="Johann Gottlieb" nachname="Kreutzfeld" komm="kreutzfeld" />
 		</personDefs>
 		<handDefs>
 			<handDef index="-1" name="Unbekannt" />
@@ -416,6 +418,12 @@
 				ref="https://www.geonames.org/2874545" />
 			<locationDef index="43" name="Welbergen"
 				ref="https://www.geonames.org/2811587" />
+			<locationDef index="44" name="Winterthur"
+				ref="https://www.geonames.org/7287592" />
+			<locationDef index="45" name="Glarisegg"
+				ref="https://www.geonames.org/12005313" />
+			<locationDef index="46" name="Vaals bei Aachen"
+				ref="https://www.geonames.org/2745906" />
 
 		</locationDefs>
 		<sourceDefs>
