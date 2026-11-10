@@ -8782,7 +8782,7 @@ Der erste Titel im Herbst 1780 lautete <titel>Freymüthige Briefe die natürlich
 <subsection id="hamann-wannchen" type="neuzeit" sort="910">
 <lemma>Hamann, <titel>Metakritische Wannchen</titel></lemma>
 <eintrag>
-Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab 1779 geplantes Projekt einer Sammlung von Hamann-Schriften (die französischen Schriften zwischendurch auch unter den Titeln <titel>Gallicanische Sottisen</titel> und <titel>Essays à la Mosaique</titel>; später als <titel>Saalbadereyen</titel>, schließlich als <titel>Metakritische Wannchen</titel>); nie erschienen.
+Von <link ref="herder" linktext="false">Herder</link> mit Hamann ab 1779 geplantes Projekt einer Sammlung von Hamann-Schriften. Die französischen Schriften waren zwischendurch unter den Titeln <titel>Gallicanische Sottisen</titel> und <titel>Essays à la Mosaique</titel> geplant (vgl. <intlink letter="574" page="150" line="30" linktext="true" />), andere Titel waren <titel>Fliegende Blätter</titel> (vgl. <intlink letter="654" page="400" line="4" linktext="true" />), <titel>Saalbadereyen</titel>, schließlich <titel>Metakritische Wannchen</titel>; nie erschienen.
 </eintrag>
 </subsection>
 </kommentar>
@@ -17042,10 +17042,15 @@ nicht ermittelt: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</
 <kommentar id="pestalozzi" type="neuzeit">
 <lemma>Johann Heinrich Pestalozzi</lemma>
 <eintrag>1746–1827. Schweizer Pädagoge und Sozialreformer, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118592912.html#ndbcontent">Liedtke, Max: Pestalozzi, Johann Heinrich, in: <titel>NDB</titel>&#x202F; 20 (2001), S.&#x202F;214–216.</wwwlink>.</eintrag>
-<subsection id="pestalozzi-volk" type="neuzeit">
+<subsection id="pestalozzi-volk" type="neuzeit" sort="10">
 <lemma>Pestalozzi, <titel>Lienhard und Gertrud</titel></lemma>
 <eintrag>
 <titel>Lienhard und Gertrud. Ein Buch für das Volk</titel> (4 Bde., Berlin, Leipzig: Decker 1781–1787). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn%3Anbn%3Ade%3Akobv%3Ab4-200905197277">SUB Göttingen: DD90 A 33276 RARA</wwwlink>.</eintrag>
+</subsection>
+<subsection id="pestalozzi-christoph" type="neuzeit" sort="20">
+<lemma>Pestalozzi, <titel>Christoph und Else</titel></lemma>
+<eintrag>
+<titel>Christoph und Else. Mein zweytes Volks Buch</titel> (Zürich, Dessau: Füeßli 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11941366-1">LB Coburg: D III 10/16</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
