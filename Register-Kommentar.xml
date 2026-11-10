@@ -1988,8 +1988,13 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="biester" type="neuzeit">
 <lemma>Johann Erich Biester</lemma>
-<eintrag>1749–1816. Philosoph in Berlin, Freund von <link ref="nicolai" linktext="false">Nicolai</link>; Privatsekretär des Ministers von Zedlitz, Direktor der königlich-preußischen Bibliothek, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd116167580.html#ndbcontent">Salzmann, Karl H.: Biester, Johann Erich, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;234</wwwlink>..
+<eintrag>1749–1816. Philosoph in Berlin, Freund von <link ref="nicolai" linktext="false">Nicolai</link>; Privatsekretär des Ministers von Zedlitz, Direktor der königlich-preußischen Bibliothek, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd116167580.html#ndbcontent">Salzmann, Karl H.: Biester, Johann Erich, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;234</wwwlink>.
 </eintrag>
+<subsection id="biester-platon" type="neuzeit" sort="10">
+<lemma>Biester, <titel>Platonis dialogi IV: Meno, Crito, Alcibiades uterque</titel></lemma>
+<eintrag><titel>Platonis dialogi IV: Meno, Crito, Alcibiades uterque, cum animadversionibus virorum clarissimorum Gedike, Gottleber, Schneider priorumque editorum. Curavit Biester</titel> (Berlin: Mylius 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10237387-3">BSB München: A.gr.b. 2525</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="bion" type="neuzeit">
@@ -10117,6 +10122,12 @@ Zweite verbesserte Aufl. 1781: <wwwlink address="https://nbn-resolving.org/html/
 <kommentar id="heyne" type="neuzeit">
 <lemma>Christian Gottlob Heyne</lemma>
 <eintrag>1729–1812. Professor der klassischen Philologie und Direktor der Universitätsbibliothek in Göttingen, seit 1770 Sekretär der Göttinger Sozietät der Wissenschaften, Redakteur der <link ref="goettingische-anzeigen" linktext="false">Göttingischen Anzeigen von gelehrten Sachen</link>.</eintrag>
+<subsection id="heyne-vergil" type="neuzeit">
+<lemma>Heyne, <titel>Vergilii Opera varietate lectionis</titel></lemma>
+<eintrag>
+<titel>P. Virgilii Maronis Opera varietate lectionis et perpetua adnotatione illustrata a Chr. Gottl. Heyne. accedit index uberrimus</titel> (4 Bde., Leipzig 1767–1775) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;8/125: „P. Vergili Maronis Opera ex. ed. Heynii, Tom. I–IV. Lips. 767“. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11265986-5">BSB München: SB Augsburg: LR 1226 -1</wwwlink>.</eintrag>
+</subsection>
+
 </kommentar>
 
 <kommentar id="hieronymus" type="neuzeit">
@@ -17320,7 +17331,8 @@ Nicht ermittelt: <link ref="hamann" subref="hamann-biga" linktext="false">Biga</
 <titel>Του θειου Πλατωνος Απαντα τα σωζομενα. Divini Platonis Opera omnia quæ exstant, <link ref="ficino" linktext="false">Marsilio Ficino</link> interprete. Græcus contextus quam diligentissime cum emendatioribus exemplaribus collatus est, latina interpretatio a quam plurimis superiorum editionum mendis expurgata. Argumentis perpetuis, et commentariis quibusdam ejusdem <link ref="ficino" linktext="false">Marsilii Ficini</link>, usque nunc multo emendatius quam antehac editis, totum opus explanatum est atque illustratum. Quæ cur in calcem operis translata sint, &amp; quid pro hac trajectione repositum sit, ex epistola ad lectorem patet. Vita Platonis a Diogene Laertio copiosissime descripta, item pereruditum Timæi Locri opusculum (quo Latina exemplaria carebant) aliaque plurima non contemnenda huic editioni accesserunt. Adjectus est index rerum omnium locupletissimus</titel> (Lyon 1590) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;2/32: „Platonis Opera gr. &amp; lat. Lugd. 590“].<line type="break" />
 <titel>Platonis Dialogi qvatvor Evthyphro Apolog. Socratis Crito Phaedo : Graece / e recensione Henrici Stephani; varietate lectionis animadversionibusque criticis brevibus illustrati ab Joh. Frider. Fischero</titel> (Leipzig: Langenheim 1760) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;13/196: „Platonis IV. Dialogi gr. ex ed. Fischeri. Lips 760“].<line type="break" />
 <titel>Omnia Platonis Opera</titel> ed. <link ref="ficino" linktext="true" /> (Venedig 1513).<line type="break" />
-<titel>Omnia divini Platonis opera / tralatione <link ref="ficino" linktext="false">Marsilii Ficini</link>; emendatione et ad Graecum codicem collatione <link ref="grynäus" linktext="false">Simonis Grynaei</link>, summa diligentia repurgata, quibus subiectus est Index quam copiosissimus</titel> (Basel: Froben 1546). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-5114">UB Basel: Ba Ia 132</wwwlink>.
+<titel>Omnia divini Platonis opera / tralatione <link ref="ficino" linktext="false">Marsilii Ficini</link>; emendatione et ad Graecum codicem collatione <link ref="grynäus" linktext="false">Simonis Grynaei</link>, summa diligentia repurgata, quibus subiectus est Index quam copiosissimus</titel> (Basel: Froben 1546). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-5114">UB Basel: Ba Ia 132</wwwlink>.<line type="break" />
+Später benutzte Hamann auch Biesters Auswahl-Ausgabe von 1780, <link ref="biester" subref="biester-platon" linktext="false"><titel>Platonis dialogi IV: Meno, Crito, Alcibiades uterque</titel></link> />.
 </eintrag>
 </subsection>
 <subsection id="plat-phaid" type="neuzeit" sort="20">
