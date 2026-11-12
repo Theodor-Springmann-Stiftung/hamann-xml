@@ -85430,6 +85430,10 @@ Brief Nr. 606
 <bzg>chronologisches Werk</bzg> <link ref="waser-jh1742" subref="waser-jahrzeitbuch" linktext="true" />
 </marginal>
 
+<marginal letter="606" page="238" line="4">
+<bzg>Orell</bzg> <link ref="orell" linktext="true" />
+</marginal>
+
 <marginal letter="606" page="238" line="5">
 <bzg>Beleidiger&#x202F;…&#x202F;Frau</bzg> Nicht ermittelt; der Bruder von Wasers <link ref="waser-ak" linktext="false">Frau Anna Kleophea</link> war bspw. Vogt zu Regensberg, vgl. <wwwlink address="https://hfls.ch/humo-gen/birthday_family/1/F104783?main_person=I300289">Historisches Familienlexikon der Schweiz</wwwlink>.
 </marginal> 
@@ -99275,7 +99279,7 @@ Herder schrieb den Brief, ohne <intlink letter="654" page="397" line="23" linkte
 </marginal>
 
 <marginal letter="655" page="405" line="1">
-<bzg>Standeserhebung</bzg> Goethes Adelsbrief datiert vom 10. April 1782, von Joseph II. verliehen, und wurde Goethe am 3. Juni von Herzogin Luise überreicht, vgl.<link ref="her-jg-1777" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;218.
+<bzg>Standeserhebung</bzg> Goethes Adelsbrief datiert vom 10. April 1782, von Joseph II. verliehen, und wurde Goethe am 3. Juni von Herzogin Luise überreicht, vgl. <link ref="her-jg-1777" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;218.
 </marginal>
 
 <marginal letter="655" page="405" line="4">
@@ -99291,7 +99295,7 @@ Herder schrieb den Brief, ohne <intlink letter="654" page="397" line="23" linkte
 </marginal>
 
 <marginal letter="655" page="405" line="11">
-<bzg>Frau</bzg> <link ref="herder-c" linktext="true" />, <intlink letter="655" page="303" line="31" linktext="false">s.o.</intlink>
+<bzg>Frau</bzg> <link ref="herder-c" linktext="true" />, <intlink letter="655" page="403" line="31" linktext="false">s.o.</intlink>
 </marginal>
 
 <marginal letter="655" page="405" line="12">
@@ -99339,15 +99343,47 @@ Herder schrieb den Brief, ohne <intlink letter="654" page="397" line="23" linkte
 </marginal>
 
 <marginal letter="655" page="405" line="34">
-<bzg>Orell u. Comp.</bzg> 
+<bzg>Orell u. Comp.</bzg> <link ref="orell" linktext="true" />
 </marginal>
 
 <marginal letter="655" page="405" line="36">
-<bzg>Zwerg u. eine Kröte</bzg> 
+<bzg>Zwerg u. eine Kröte</bzg> vgl. Johann Georg Müllers Anekdote über Herders Abneigung gegenüber Corrodi in einem Brief an Häfeli, in: <wwwlink address="https://books.google.de/books?id=jOdOjc6nbxoC&#x26;hl=de&#x26;pg=PA67"><titel>Aus dem Lavater’schen Kreise. Joh. Georg Müller als Student in Göttingen und als Vermittler zwischen den Zürichern und Herder. Von Eduard Haug</titel> (Schaffhausen 1897), S.&#x202F;67</wwwlink>
 </marginal>
 
 <marginal letter="655" page="406" line="1">
-<bzg>Journ.</bzg> 
+<bzg>Journ.</bzg> <link ref="corrodi" subref="corrodi-religion" linktext="true" />
+</marginal>
+
+<marginal letter="655" page="406" line="3">
+<bzg>Apol. der Vern.</bzg> <link ref="bahrdt" subref="bahrdt-apologie" linktext="true" />, vgl. <intlink letter="650" page="386" line="25" linktext="true" />
+</marginal>
+
+<marginal letter="655" page="406" line="4" sort="1">
+<bzg>Schmidts 1. Th.</bzg> <link ref="schmidt-mi" subref="schmidt-geschichte" linktext="true" />, vgl. <intlink letter="650" page="386" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="655" page="406" line="4" sort="2">
+<bzg>Lilienthal</bzg> <link ref="lilienthal-th" linktext="true" />, vgl. <intlink letter="650" page="386" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="655" page="406" line="5">
+<bzg>Wielands Horaz</bzg> <link ref="wieland" subref="wieland-horaz-episteln" linktext="true" />, vgl. <intlink letter="650" page="387" line="16" linktext="true" />
+</marginal>
+
+<marginal letter="655" page="406" line="7">
+<bzg>Ihm</bzg> <link ref="wieland" linktext="true" />
+</marginal>
+
+<marginal letter="655" page="406" line="8">
+<bzg>End’; Gott helf uns All</bzg> vgl. <link ref="her-jg-1777" linktext="false">HBGA</link>, Bd.&#x202F;12, S.&#x202F;220 und Bd.&#x202F;10, S.&#x202F;679.
+</marginal>
+
+<marginal letter="655" page="406" line="12">
+<bzg>Sie hält&#x202F;…&#x202F;Propheten</bzg> vgl. <link ref="nt-mt" subref="nt-mt17" linktext="false">Mt 17,10–13</link> und <intlink letter="659" page="415" line="24" linktext="true" />
+</marginal>
+
+<marginal letter="655" page="406" line="14">
+<bzg>als ins Buch Esther</bzg> nach dem biblischen Haman in <link ref="at-est" subref="at-est5" linktext="false">Est 5</link>
 </marginal>
 
  

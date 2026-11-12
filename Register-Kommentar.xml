@@ -2995,7 +2995,7 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 
 <kommentar id="buchholtz-whs" type="neuzeit">
 <lemma>Wilhelm Heinrich Sebastian Buchholtz</lemma>
-<eintrag>1734–1798. Hofapotheker in Weimar und Freund <link ref="goethes" linktext="false">Goethes</link>, ab 1777 verh. mit Wilhelmine Luise Dorothea Benda, einer Schwester von <link ref="reichardt-jf" linktext="false">Reichardts</link> Frau <link ref="reichardt-jul" linktext="false">Juliane</link>.
+<eintrag>1734–1798. Hofapotheker in Weimar und Freund <link ref="goethe" linktext="false">Goethes</link>, ab 1777 verh. mit Wilhelmine Luise Dorothea Benda, einer Schwester von <link ref="reichardt-jf" linktext="false">Reichardts</link> Frau <link ref="reichardt-jul" linktext="false">Juliane</link>.
 </eintrag>
 </kommentar>
 
@@ -4288,7 +4288,12 @@ Biga&#x202F;96/7: „J. A. Comenii Opera didactica, Amst. 657“.</eintrag>
 <lemma>Heinrich Corrodi</lemma>
 <eintrag>1752–1793. Reformierter schweizer Aufklärungstheologe, Gymnasialprofessor der Philosophie, Natur- und Sittenlehre in Zürich, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd104106514.html#ndbcontent">Guggisberg, Kurt: Corrodi, Hans Heinrich, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;368f</wwwlink>.
 </eintrag>
-<subsection id="corrodi-chiliasmus" type="neuzeit">
+<subsection id="corrodi-religion" type="neuzeit" sort="10">
+<lemma>Corrodi (Hg. mit Steinbrüchel), <titel>Beyträge zur Beförderung des vernünftigen Denkens in der Religion</titel></lemma>
+<eintrag>
+<titel>Beyträge zur Beförderung des vernünftigen Denkens in der Religion</titel> (18 Hefte, Frankfurt, Leipzig 1780–1794). Hg. mit <link ref="steinbruchel" linktext="true" />. Digitalisat: <wwwlink address="http://ds.ub.uni-bielefeld.de/viewer/toc/2233740/1/LOG_0000/">UB Bielefeld</wwwlink>.</eintrag>
+</subsection>
+<subsection id="corrodi-chiliasmus" type="neuzeit" sort="20">
 <lemma>Corrodi, <titel>Kritische Geschichte des Chiliasmus</titel></lemma>
 <eintrag>
 <titel>Kritische Geschichte des Chiliasmus</titel> (3 Tle., Frankfurt, Leipzig 1781–1783). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10727251-9">BSB München: Bibl.Sud. 1543</wwwlink>.</eintrag>
@@ -16681,6 +16686,12 @@ O
 <titel>Buch von der Deutschen Poeterey. In welchem alle ihre eigenschafft und zugehör grüntlich erzehlet und mit exempeln außgeführet wird</titel> (Breslau 1624). Digitalisat: <wwwlink address="http://resolver.staatsbibliothek-berlin.de/SBB000189A900000000">SBB-PK Berlin: 2 in: Yh 9402</wwwlink>.
 </eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="orell" type="neuzeit">
+<lemma>Orell</lemma>
+<eintrag>Zürcher Verlagsbuchhandlung Orell, Geßner, Füßli &#x26; Co.
+</eintrag>
 </kommentar>
 
 <kommentar id="origenes" type="neuzeit">
