@@ -1060,6 +1060,12 @@ Dt. Übers. zitiert nach: E. und L.L. Schücking und J. Klein (Übers.), <titel>
 </subsection>
 </kommentar>
 
+<kommentar id="balhorn" type="neuzeit">
+<lemma>Johann Balhorn d.J.</lemma>
+<eintrag>Etwa 1550 bis nach 1604. Buchdrucker in Lübeck und Namensgeber von ‚verballhornen‘, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd119612526.html#ndbcontent">Benzing, Josef: Baczko, Balhorn (Ballhorn), Johann, in: <titel>NDB</titel>&#x202F;1 (1953), S.&#x202F;559</wwwlink> und <wwwlink address="https://archive.org/details/ZeitschriftFurBucherfreunde6A/page/n195/mode/2up">Arthur Kopp: <titel>Von allerley Ballhornerey,</titel> in: Zeitschrift für Bücherfreunde 6 (1902, H.&#x202F;5), S.&#x202F;169–191</wwwlink>. Seit spätestens Mitte des 17. Jh. kursierten Redensarten wie „vermehrt und verbessert durch Johann Ballhorn“ (vgl. auch <wwwlink address="https://www.woerterbuchnetz.de/Adelung?lemid=B00253">Adelung, s.v. Ballhorn</wwwlink>) sowie Anekdoten über seine skurrilen Verschlimmbesserungen, v.a. von dem Satiriker <wwwlink address="https://de.wikipedia.org/wiki/Johann_Balthasar_Schupp">Schuppius</wwwlink>. Sie gehen entweder auf ein von Balhorn herausgegenes Lübecker Stadtrecht oder eine von ihm ‚verbesserte‘ Abc-Fibel zurück; auch der so genannte ‚Fibelhahn‘ soll auf ihn zurückgehen (vgl. <link ref="hamann" subref="hamann-anmerkungen" linktext="true" />).
+</eintrag>
+</kommentar>
+
 <kommentar id="balneis" type="neuzeit">
 <lemma>De Balneis</lemma>
 <eintrag>De Balneis omnia qvae extant apvd graecos, latinos, et arabas, tam medicos quàm quoscunque ceterarum artium probatos scriptores […] in vnum tandem hoc volumen redacta (Venedig: Giunta 1553). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10147773-7">BSB München: 2 M.med. 8 a.</wwwlink>
@@ -2282,7 +2288,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <subsection id="bodmer-nachrichten" type="neuzeit" sort="5">
 <lemma>Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern</titel></lemma>
 <eintrag>
-Bodmer (Hg.), <titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur Gelehrtheit gehörigen Sachen</titel> (20 Bde., Zürich: Heidegger 1744–1763). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN556102126">SUB Göttingen</wwwlink>.
+<titel>Freymüthige Nachrichten von Neuen Büchern, und andern zur Gelehrtheit gehörigen Sachen</titel> (20 Bde., Zürich: Heidegger 1744–1763). Digitalisat: <wwwlink address="http://resolver.sub.uni-goettingen.de/purl?PPN556102126">SUB Göttingen</wwwlink>.
 </eintrag>
 </subsection>
 <subsection id="bodmer-pygmalion" type="neuzeit" sort="10">
@@ -17047,7 +17053,7 @@ Autobiographisches Theaterstück, das Penzel im Winter 1777/78 auf Anregung von 
 
 <kommentar id="penzel-ms" type="neuzeit">
 <lemma>Marie Sophie Penzel</lemma>
-<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder ab (dat. 28. September bis 2. Oktober 1777), vgl. <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ"><titel>Blätter für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 und 37–39</wwwlink>, ebenso <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel></link>, S.&#x202F;144–156.</eintrag>
+<eintrag>1750–1810. Schwester von <link ref="penzel" linktext="true" />, Pfarrerstochter in Jeßnitz. Hamann schrieb einen langen Brief von ihr an ihren Bruder ab (dat. 28. September bis 2. Oktober 1777), zum ersten Mal erwähnt in <intlink letter="519" page="395" line="2" linktext="true" />, die Abschrift in <intlink letter="589" page="185" line="24" linktext="true" />; Hamann sandte die Abschrift 1782 an <link ref="reichardt-jf" linktext="false">Reichardt</link>, vgl. <intlink letter="657" page="410" line="11" linktext="true" />; zuerst abgedruckt in den <wwwlink address="https://books.google.de/books?id=JT5aAAAAcAAJ&#x26;hl=de&#x26;pg=PA33"><titel>Blättern für literarische Unterhaltung</titel> (Leipzig 1837), Nr. 9–10, S.&#x202F;33–35 und 37–39</wwwlink>, ebenso bei <link ref="koep-h-1937" linktext="false">Köppe: <titel>Abraham Jakob Penzels Lebensirrfahrten</titel></link>, S.&#x202F;144–156.</eintrag>
 </kommentar>
 
 <kommentar id="percy" type="neuzeit">
