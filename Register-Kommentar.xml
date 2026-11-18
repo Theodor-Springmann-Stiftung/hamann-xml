@@ -8840,7 +8840,7 @@ Vgl. über ihren Vater: Elisabeth Regina Hamann: <titel>Etwas über mich.</titel
 
 <kommentar id="hamann-jg" type="neuzeit">
 <lemma>Johann Georg Hamann der Ältere</lemma>
-<eintrag>1697–1733. Schriftsteller des späten Barock, Onkel von <link ref="hamann" linktext="true" />.</eintrag>
+<eintrag>1697–1733. Schriftsteller des späten Barock, Onkel von <link ref="hamann" linktext="true" />, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd124138004.html#adbcontent">Bertheau, Carl: Hamann, Johann Georg, in: <titel>ADB</titel>&#x202F;10 (1879), S.&#x202F;455f.</wwwlink>.</eintrag>
 <subsection id="hamann-jg-genest" type="neuzeit" sort="910">
 <lemma>J.&#x202F;G. Hamann der Ältere, <titel>Genest-Übersetzung</titel></lemma>
 <eintrag>
@@ -8862,6 +8862,11 @@ Vgl. über ihren Vater: Elisabeth Regina Hamann: <titel>Etwas über mich.</titel
 <kommentar id="hamann-vjc" type="neuzeit">
 <lemma>Johann Christoph Hamann (Vater)</lemma>
 <eintrag>1697–1766. Vater von <link ref="hamann" linktext="true" /> und <link ref="hamann-jc" linktext="true" />, Altstädtischer Bader in Königsberg (eine Badstube war in der frühen Neuzeit eine Mischung aus Hygieneort und Behandlungsraum für praktische medizinische Eingriffe wie die Behandlung kleinerer Wunden, Zähneziehen oder Aderlass); zur Familiengeschichte s. <link ref="kno-r-1988" linktext="false">Knoll 1988</link>.</eintrag>
+</kommentar>
+
+<kommentar id="hamann-jcg" type="neuzeit">
+<lemma>Johann Christoph Hamann (Großvater)</lemma>
+<eintrag>1638–1699. Vater von <link ref="hamann-vjc" linktext="true" /> und <link ref="hamann-jg" linktext="true" />; evangelischer Pfarrer in <wwwlink address="https://www.geonames.org/3092641">Wendisch-Ossig</wwwlink> in der Oberlausitz; siehe zur Familiengeschichte den <wwwlink address="https://www.deutsche-biographie.de/gnd124138004.html#adbcontent">ADB-Eintrag zu Johann Georg Hamann dem Älteren</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="hamann-mm" type="neuzeit">
