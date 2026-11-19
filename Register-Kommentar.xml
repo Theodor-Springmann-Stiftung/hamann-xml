@@ -2414,7 +2414,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 
 <kommentar id="boie" type="neuzeit">
 <lemma>Heinrich Christian Boie</lemma>
-<eintrag>1744–1806. Dichter und Herausgeber, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5149.html#ndbcontent">Elschenbroich, Adalbert: Boie, Heinrich Christian, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;434f</wwwlink>.
+<eintrag>1744–1806. Dichter und Herausgeber in <wwwlink address="https://www.geonames.org/2872100">Meldorf</wwwlink>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz5149.html#ndbcontent">Elschenbroich, Adalbert: Boie, Heinrich Christian, in: <titel>NDB</titel>&#x202F;2 (1955), S.&#x202F;434f</wwwlink>.
 </eintrag>
 <subsection id="boie-goettingermusenalm1775" type="neuzeit" sort="10">
 <lemma><titel>Göttinger Musenalmanach 1775</titel></lemma>
@@ -5567,6 +5567,11 @@ Gegen die 1.&#x202F;Aufl. ist Hamanns <link ref="hamann" subref="hamann-beilage-
 <eintrag>1693–1750. Buchhändler (die Buchhandlung wurde 1746 von <link ref="hartung-hj" linktext="true" /> übernommen) und Negociant in Königsberg.</eintrag>
 </kommentar>
 
+<kommentar id="eckermann" type="neuzeit">
+<lemma>Jakob Christoph Rudolph Eckermann</lemma>
+<eintrag>1754–1837. Lutherischer Theologe, bis 1782 Rektor der Gelehrtenschule in Eutin (Vorgänger von <link ref="voss" linktext="false">Voß</link>), dann Professor der Theologie in Kiel.</eintrag>
+</kommentar>
+
 <kommentar id="effen" type="neuzeit">
 <lemma>Justus van Effen</lemma>
 <eintrag>1684–1735. Niederländ. Schriftsteller, der aber vornehmlich auf Französisch publizierte und Addisons <link ref="addison" subref="addison-spectator" linktext="false"><titel>Spectator</titel></link> nachahmte. Siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118812858.html">Deutsche Biographie</wwwlink>.</eintrag>
@@ -6641,6 +6646,11 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 <kommentar id="friedlaender-sw" type="neuzeit">
 <lemma>Samuel Wolff Friedländer</lemma>
 <eintrag>1765–1838. Sohn von <link ref="friedlaender-w" linktext="true" />, 1809 der erste unbesoldete jüdische Stadtrat Königsbergs.</eintrag>
+</kommentar>
+
+<kommentar id="friedrich-august-gottorf" type="neuzeit">
+<lemma>Friedrich August von Schleswig-Holstein-Gottorf </lemma>
+<eintrag>1711–1785. Ab 1750 Fürstbischof des Hochstifts Lübeck, 1774 Herzog von Oldenburg.</eintrag>
 </kommentar>
 
 <kommentar id="friedrich-II" type="neuzeit">
@@ -22952,14 +22962,29 @@ Das genaue Datum der Auslieferung ist nicht bekannt, vmtl. wurde die Publikation
 </subsection>
 </kommentar>
 
+<kommentar id="voss-chf" type="neuzeit">
+<lemma>Christian Friedrich Voß</lemma>
+<eintrag>1724–1795. Verleger in Berlin, u.a. von <link ref="lessing" linktext="false">Lessing</link> und <link ref="herder" linktext="false">Herder</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz52506.html#ndbcontent">Capellaro, Christof: Voss, Christian Friedrich, in: <titel>NDB</titel>&#x202F;27 (2020), S.&#x202F;128f.</wwwlink></eintrag>
+</kommentar>
+
 <kommentar id="voss-fwa" type="neuzeit">
 <lemma>Friedrich Wilhelm August von Voß</lemma>
 <eintrag>1753–1779. Hof- und Gerichtsrat in Königsberg.</eintrag>
 </kommentar>
 
-<kommentar id="voss-chf" type="neuzeit">
-<lemma>Christian Friedrich Voß</lemma>
-<eintrag>1724–1795. Verleger in Berlin, u.a. von <link ref="lessing" linktext="false">Lessing</link> und <link ref="herder" linktext="false">Herder</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/sfz52506.html#ndbcontent">Capellaro, Christof: Voss, Christian Friedrich, in: <titel>NDB</titel>&#x202F;27 (2020), S.&#x202F;128f.</wwwlink></eintrag>
+<kommentar id="voss-fl" type="neuzeit">
+<lemma>Friedrich Leopold Voß</lemma>
+<eintrag>1778–1782. Sohn von <link ref="voss" linktext="true" />.</eintrag>
+</kommentar>
+
+<kommentar id="voss-jh" type="neuzeit">
+<lemma>Johann Heinrich Voß (geb. 1779)</lemma>
+<eintrag>1779–1722. Sohn von <link ref="voss" linktext="true" />, später Professor der klassischen Philologie in Heidelberg.</eintrag>
+</kommentar>
+
+<kommentar id="voss-kd" type="neuzeit">
+<lemma>Katharina Dorothea Voß</lemma>
+<eintrag>1718–1798. Mutter von <link ref="voss" linktext="true" />.</eintrag>
 </kommentar>
 
 <kommentar id="voss-mce" type="neuzeit">
