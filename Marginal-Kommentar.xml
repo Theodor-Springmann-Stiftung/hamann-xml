@@ -41629,7 +41629,7 @@ Brief Nr. 350
 </marginal>
 
 <marginal letter="350" page="417" line="19" sort="1">
-<bzg>sicco pede</bzg> dt. trockenen Fußes
+<bzg>sicco pede</bzg> dt. trockenen Fußes, neulateinische Redensart (flüchtig über etwas hinweggehen)
 </marginal>
 
 <marginal letter="350" page="417" line="19" sort="2">
@@ -99283,7 +99283,7 @@ Herder schrieb den Brief, ohne <intlink letter="654" page="397" line="23" linkte
 </marginal>
 
 <marginal letter="655" page="404" line="35">
-<bzg>maior domus</bzg> ironisch nach den Mausmeiern des Merowingerreiches
+<bzg>maior domus</bzg> ironisch nach den Hausmeiern des Merowingerreiches
 </marginal>
 
 <marginal letter="655" page="405" line="1">
@@ -100067,16 +100067,65 @@ Brief Nr. 659
 </marginal>
 
 <marginal letter="659" page="414" line="7">
-<bzg>deutsche Uebersetzer</bzg> ?!?
+<bzg>deutsche Uebersetzer</bzg> <link ref="engelbrecht-ja" linktext="true" />, der eine vollständigere Version der <titel>École des pères</titel> in der Übersetzung vorlegen konnte als Restif, wegen der strengeren Zensur in Frankreich; vgl. die mit „J.A.E.“ unterzeichnete <wwwlink address="https://doi.org/10.11588/diglit.50221#0018">Vorrede</wwwlink> zu Bd.&#x202F;1, die auch ein Gesamtverzeichnis der Werke Restifs enthält, sowie den auf der <wwwlink address="https://www.retifdelabretonne.net/revue-des-oeuvres-de-retif">Website der Société Rétif de la Bretonne</wwwlink> zitierten Briefwechsel zwischen Engelbrecht und Restif.
 </marginal>
 
 <marginal letter="659" page="414" line="9">
-<bzg>Geschichte meines Vaters</bzg> <link ref="restif" subref="restif-pere" linktext="true" />
+<bzg>Ich wünschte&#x202F;…&#x202F;mittheilen möchte</bzg> In der <wwwlink address="https://doi.org/10.11588/diglit.50221#0017">Vorrede, [S.&#x202F;11]</wwwlink>, teilt Engelbrecht mit, Restif habe ihm neben dem vollständigen Manuskript auch die Materialien zum vierten und letzten Band der <titel>École des pères</titel> angeboten, um den Plan auszuarbeiten und zu vollenden; er habe sich das aber nicht zugetraut.
+</marginal>
+
+<marginal letter="659" page="414" line="9">
+<bzg>Geschichte meines Vaters</bzg> <link ref="restif" subref="restif-pere" linktext="true" />; zu Hamanns Faszination für Restif de la Bretonne vgl. <intlink letter="598" page="209" line="11" linktext="true" />.
 </marginal>
 
 <marginal letter="659" page="414" line="11">
 <bzg>Jean Jaques</bzg> <link ref="rousseau" linktext="true" />
 </marginal>
+
+<marginal letter="659" page="414" line="12" sort="1">
+<bzg>barmherzige Sage</bzg> Vgl. Herders dünnhäutige Richtigstellung bezüglich seiner ökonomischen Lage in <intlink letter="655" page="405" line="12" linktext="true" />, die sich auf Hamanns Vermittlungsversuch zwischen ihm und <link ref="hartknoch" linktext="false">Hartknoch</link> in <intlink letter="646" page="375" line="15" linktext="true" /> bezog, mithin Herders Bevorzugung anderer Verleger aus möglicherweise ökonomischen Gründen zum Hintergrund hatte.
+</marginal>
+
+<marginal letter="659" page="414" line="12" sort="2">
+<bzg>trockenem Fuße</bzg> nach der neulateinischen Redensart ‚sicco pede‘ (flüchtig über etwas hinweggehen)
+</marginal>
+
+<marginal letter="659" page="414" line="13">
+<bzg>Lumpenhändlern, Apothekern</bzg> vgl. <intlink letter="655" page="405" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="414" line="15">
+<bzg>bloßes Misverständnis</bzg> Herder missverstand den Satz „Umstände, die Sie nöthigen den Wucher fremder Leute zu befriedigen“ (<intlink letter="646" page="375" line="25" linktext="true" />) als eine Andeutung von wirtschaftlichen Problemen und Schulden.
+</marginal>
+
+<marginal letter="659" page="414" line="18">
+<bzg>Enthaltsamkeit von den Consistorialvögeln</bzg> Vermeidung des Umgangs mit Mitgliedern des Weimarer Consistoriums
+</marginal>
+
+<marginal letter="659" page="414" line="21">
+<bzg>alten Verleger</bzg> <link ref="hartknoch" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="414" line="22">
+<bzg>hypochondrische Unlust</bzg> vgl. <intlink letter="655" page="405" line="4" linktext="true" />, im Zusammenhang von Herders Aufzählung der Unmenge an Hofämtern <link ref="goethe" linktext="false">Goethes</link> ab <intlink letter="655" page="404" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="414" line="25">
+<bzg>höheren Fürbitte&#x202F;…&#x202F;werden solle</bzg> <link ref="nt-lk" subref="nt-lk22" linktext="false">Lk 22,31f.</link>
+</marginal>
+
+<marginal letter="659" page="414" line="26">
+<bzg>Erzürne&#x202F;…&#x202F;Uebelthäter</bzg> <link ref="at-ps" subref="at-ps37" linktext="false">Ps 37,1</link>
+</marginal>
+
+<marginal letter="659" page="414" line="27">
+<bzg>Aßaphs Heiligtum</bzg> <link ref="at-ps" subref="at-ps73" linktext="false">Ps 73,16f.</link>
+</marginal>
+
+<marginal letter="659" page="414" line="29">
+<bzg>Werthers Lotte</bzg> nach <link ref="goethe" subref="goethe-werther" linktext="true" />
+</marginal>
+
  
 
 </marginalien>

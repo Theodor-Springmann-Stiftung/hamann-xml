@@ -5712,6 +5712,11 @@ Online-Ausgabe: <wwwlink address="http://enccre.academie-sciences.fr/encyclopedi
 </subsection>
 </kommentar>
 
+<kommentar id="engelbrecht-ja" type="neuzeit">
+<lemma>Johann Andreas Engelbrecht</lemma>
+<eintrag>1733–1813. Kaufmann und Schriftsteller in Bremen, Übersetzer von <link ref="restif" linktext="true" />, siehe <wwwlink address="http://d-nb.info/gnd/116488581">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="ennius" type="neuzeit">
 <lemma>Quintus Ennius</lemma>
 <eintrag>239–169&#x202F;v.&#x202F;Chr.</eintrag>
@@ -18537,7 +18542,7 @@ Hamann erwähnt im Studienheft (1.8.1780, N&#x202F;V,352f.) die Übersetzung „
 <lemma>Restif, <titel>l’École des pères</titel></lemma>
 <eintrag>
 <titel>L’École des pères</titel> par N.E. Retif de la Bretonne (3 Bde., Paris 1776). Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11432248-2">Stabi Bamberg: Bip.L.fr.o.330</wwwlink>.<line type="break" />
-Übers.: <titel>Die Väter-Schule</titel> aus dem Französischen nach der vollständigen Handschrift des Herrn N.E. Retif de la Bretonne (3 Bde., Berlin: Voß 1781–1782). Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-502209">UB Heidelberg</wwwlink>. Vgl. N&#x202F;V,352f.
+Übers.: <titel>Die Väter-Schule aus dem Französischen nach der vollständigen Handschrift des Herrn N.E. Retif de la Bretonne</titel> (3 Bde., Berlin: Voß 1781–1782). Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.50220">UB Heidelberg</wwwlink>. Vgl. N&#x202F;V,352f.
 </eintrag>
 </subsection>
 <subsection id="restif-gynographe" type="neuzeit" sort="80">
