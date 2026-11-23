@@ -99756,12 +99756,16 @@ Antwort auf einen nicht überlieferten Brief Reichardts, Hamanns letzter Brief a
 <bzg>Sohns seiner</bzg> also Hamanns Vater <link ref="hamann-vjc" linktext="false">Johann Christoph</link>
 </marginal>
 
-<marginal letter="657" page="410" line="19">
+<marginal letter="657" page="410" line="19" sort="1">
 <bzg>Aus Riga</bzg> Von <link ref="hartknoch" linktext="false">Hartknoch</link>, als Antwort auf <intlink letter="656" page="407" line="32" linktext="false">HKB 656</intlink>; Hartknoch schrieb erst am 28. August 1782.
 </marginal>
 
+<marginal letter="657" page="410" line="19" sort="1">
+<bzg>Aus Riga</bzg> von <link ref="pfenninger" linktext="true" />, nicht überliefert, vgl. <intlink letter="659" page="415" line="13" linktext="true" />
+</marginal>
+
 <marginal letter="657" page="410" line="20">
-<bzg>Brief von Gevatter K.</bzg> von <link ref="kaufmann-c" linktext="true" />, 18.2.1781, nicht überliefert, vgl. <intlink letter="659" page="415" line="13" linktext="true" />
+<bzg>Brief von Gevatter K.</bzg> von <link ref="kaufmann-c" linktext="true" />, 18.2.1781 (eingeschlossen in Pfenningers Brief), nicht überliefert, vgl. <intlink letter="659" page="415" line="15" linktext="true" />
 </marginal>
 
 <marginal letter="657" page="410" line="21">
@@ -100124,6 +100128,98 @@ Brief Nr. 659
 
 <marginal letter="659" page="414" line="29">
 <bzg>Werthers Lotte</bzg> nach <link ref="goethe" subref="goethe-werther" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="414" line="31">
+<bzg>Geistl.</bzg> <link ref="suche" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="414" line="33">
+<bzg>seel. Lilienthals</bzg> <link ref="lilienthal-th" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="414" line="36">
+<bzg>Pleße</bzg> <wwwlink address="https://www.geonames.org/3087705">Pleß</wwwlink> in Schlesien
+</marginal>
+
+<marginal letter="659" page="415" line="1">
+<bzg>Fürsten von Anhalt Cöthen</bzg> <link ref="friedrich-erdmann-anhalt-koethen" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="415" line="2">
+<bzg>Sohn</bzg> <link ref="suche-im" linktext="true" />, der sich am 19. August an der Albertina immatrikulierte, vgl. <wwwlink address="https://digital.ulb.hhu.de/ihd/content/titleinfo/8771419">Georg Erler: <titel>Die Matrikel der Albertus-Universität zu Königsberg i. Pr. 1544–1829</titel></wwwlink>, Bd.&#x202F;2, S.&#x202F;571
+</marginal>
+
+<marginal letter="659" page="414" line="5">
+<bzg>Hennig</bzg> <link ref="hennig-ges" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="415" line="7">
+<bzg>Wieland</bzg> <link ref="wieland" subref="wieland-horaz-episteln" linktext="true" />, <intlink letter="659" page="412" line="3" linktext="false">s.o.</intlink>
+</marginal>
+
+<marginal letter="659" page="415" line="8" sort="1">
+<bzg>planirtes Exemplar</bzg> nach dem Druck geleimtes Papier, wodurch etwa handschriftliche Annotationen nicht verliefen
+</marginal>
+
+<marginal letter="659" page="415" line="8" sort="2">
+<bzg>Uebersetzung der Sermonen</bzg> Sie erschien erst 1786, als <link ref="wieland" subref="wieland-horaz-sermones" linktext="false"><titel>Horazens Satyren aus dem Lateinischen übersezt und mit Einleitungen und erläuternden Anmerkungen versehen von C. M. Wieland</titel></link>
+</marginal>
+
+<marginal letter="659" page="415" line="10">
+<bzg>ungeleimtes Papier</bzg> Buchdruck-Papier war in der Regel ungeleimt (im Gegensatz zum Schreibpapier), konnte aber nachträglich geleimt (planiert werden).
+</marginal>
+
+<marginal letter="659" page="415" line="13">
+<bzg>Pfenn.</bzg> <link ref="pfenninger" linktext="true" />, nicht überliefert
+</marginal>
+
+<marginal letter="659" page="415" line="14">
+<bzg>Gevatter Kaufmann</bzg> <link ref="kaufmann-c" linktext="true" />, nicht überliefert; vgl. <intlink letter="657" page="410" line="20" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="415" line="15">
+<bzg>Barby</bzg> Im sächsischen <wwwlink address="https://www.geonames.org/3205000">Barby</wwwlink> befand sich ein Zentrum der Herrnhuter Brüdergemeinde, Kaufmann befand sich indessen in Schlesien, vgl. <intlink letter="646" page="377" line="28" linktext="true" />.
+</marginal>
+
+<marginal letter="659" page="415" line="17">
+<bzg>Mochels Urne&#x202F;…&#x202F;gelesen</bzg> <link ref="schmohl" subref="schmohl-mochel" linktext="true" />, vgl. <intlink letter="654" page="399" line="18" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="415" line="18">
+<bzg>Geburtsmonde</bzg> Gemeint sind die Geburtstage Herders am 25.&#x202F; und Hamanns am 27. August.
+</marginal>
+
+<marginal letter="659" page="415" line="20">
+<bzg>Pathchen</bzg> <link ref="herder-a" linktext="false">August Herder</link>
+</marginal>
+
+<marginal letter="659" page="415" line="21" sort="1">
+<bzg>Ritter Mengs</bzg> ein Maler wie <link ref="mengs" linktext="true" />, vgl. <intlink letter="650" page="387" line="29" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="415" line="21" sort="2">
+<bzg>en maître</bzg> meisterhaft
+</marginal>
+
+<marginal letter="659" page="415" line="22">
+<bzg>Augustus&#x202F;…&#x202F;suspiria</bzg> dt. „wie Augustus zwischen Tränen und Seufzern“; nach einer in der frühneuzeitlichen Anekdote soll <link ref="augustus" linktext="false">Augustus</link>, zwischen <link ref="horaz" linktext="false">Horaz</link> und <link ref="vergil" linktext="false">Vergil</link> sitzend, scherzhaft erklärt haben, er sitze zwischen den Tränen des augenkranken Horaz und den Seufzern des kurzatmigen Vergils; vgl. etwa im <wwwlink address="https://www.e-rara.ch/zut/content/zoom/12764771"><titel>Nouveau dictionnaire historique ou histoire abrégée</titel>, Bd.&#x202F;4 (1789), S.&#x202F;514</wwwlink>
+</marginal>
+
+<marginal letter="659" page="415" line="23">
+<bzg>Hippel</bzg> <link ref="hippel" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="415" line="24" sort="1">
+<bzg>Hälfte</bzg> <link ref="herder-c" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="415" line="24" sort="2">
+<bzg>Bin kein Prophet</bzg> vgl. <intlink letter="655" page="406" line="13" linktext="true" />
+</marginal>
+
+<marginal letter="659" page="415" line="25">
+<bzg>B.&#x202F;…&#x202F;W.</bzg> in Berlin bzw. Weimar
 </marginal>
 
  

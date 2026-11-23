@@ -2213,7 +2213,7 @@ Hamanns Notiz dazu N&#xA0;V S.&#x202F;276/13: „Taseodrugiten, eine Art Montani
 <subsection id="bockjg-idioticon" type="neuzeit" sort="20">
 <lemma>Bock, <titel>Idioticon Prussicum</titel></lemma>
 <eintrag>
-<titel>Idioticon Prussicum / oder Entwurf eines Preußischen Wörterbuches; Darin die deutsche Redensarten und Ausdrücke die allein in hiesigem Lande gebräuchlich sind, zusammen getragen und erörtert werden sollen / eröfnet von Johann George Bock</titel> (Königsberg: Woltersdorf 1759), Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-133148">UB Heidelberg: E 2877-25 RES</wwwlink>. Es wurde erst 1785 fertiggestellt: <titel>Preußisches Wörterbuch, worinnen nicht nur die in Preußen gebräuchliche eigenthümliche Mundart und was sie sonst mit der niedersächsischen gemein hat, angezeigt, sondern auch manche in preußischen Schriftstellern, Urkunden, Documenten und Verordnungen vorkommende veraltete Wörter, Redensarten, Gebräuche und Alterthümer erklärt werden / im Namen der Königlichen Deutschen Gesellschaft zu Königsberg hg. von G. E. S. Hennig</titel> (Königsberg: Kanter 1785), Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10583777-7">BSB München: L.germ. 108 d</wwwlink>.
+<titel>Idioticon Prussicum / oder Entwurf eines Preußischen Wörterbuches; Darin die deutsche Redensarten und Ausdrücke die allein in hiesigem Lande gebräuchlich sind, zusammen getragen und erörtert werden sollen / eröfnet von Johann George Bock</titel> (Königsberg: Woltersdorf 1759), Digitalisat: <wwwlink address="http://nbn-resolving.de/urn:nbn:de:bsz:16-diglit-133148">UB Heidelberg: E 2877-25 RES</wwwlink>. Es wurde erst 1785 fertiggestellt, siehe <link ref="hennig-ges" subref="hennig-woerterbuch" linktext="true" />.
 </eintrag>
 </subsection>
 </kommentar>
@@ -6663,6 +6663,11 @@ Wiss. Ausg.: Hans-Horst Henschen (Übers.), <titel>Bernard de Fontenelle: Toteng
 <eintrag>1711–1785. Ab 1750 Fürstbischof des Hochstifts Lübeck, 1774 Herzog von Oldenburg.</eintrag>
 </kommentar>
 
+<kommentar id="friedrich-erdmann-anhalt-koethen" type="neuzeit">
+<lemma>Friedrich Erdmann von Anhalt-Köthen-Pleß</lemma>
+<eintrag>1731–1797.Fürst zu Anhalt-Köthen-Pleß.</eintrag>
+</kommentar>
+
 <kommentar id="friedrich-II" type="neuzeit">
 <lemma>Friedrich II.</lemma>
 <eintrag>1712–1786. Ab 1740 König in Preußen (ab 1772 König von Preußen) und Kurfürst von Brandenburg, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118535749.html#ndbcontent">Stolberg-Wernigerode, Otto Graf zu: Friedrich der Große, in: <titel>NDB</titel>&#x202F;5 (1961), S.&#x202F;545–558</wwwlink>.<line type="break" />
@@ -9456,6 +9461,17 @@ Betrachtungen über den Menschen, seine Natur, seine Pflichten und Erwartungen; 
 </eintrag>
 </kommentar>
 
+<kommentar id="hennig-ges" type="neuzeit">
+<lemma>Georg Ernst Sigismund Hennig</lemma>
+<eintrag>1746/49–1809. Aus Jauer in Niederschlesien, ab 1776 Pfarrer an der Löbenichtschen Kirche und zweiter Hofprediger , 1783 Direktor der Wallenrodtschen Bibliothek, siehe <wwwlink address="https://d-nb.info/gnd/117516910">GND</wwwlink>.
+</eintrag>
+<subsection id="hennig-woerterbuch" type="neuzeit">
+<lemma>Hennig, <titel>Preußisches Wörterbuch</titel></lemma>
+<eintrag>
+<titel>Preußisches Wörterbuch, worinnen nicht nur die in Preußen gebräuchliche eigenthümliche Mundart und was sie sonst mit der niedersächsischen gemein hat, angezeigt, sondern auch manche in preußischen Schriftstellern, Urkunden, Documenten und Verordnungen vorkommende veraltete Wörter, Redensarten, Gebräuche und Alterthümer erklärt werden, im Namen der Königlichen Deutschen Gesellschaft zu Königsberg hg. von G. E. S. Hennig</titel> (Königsberg: Dengel 1785), Digitalisat: <wwwlink address="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10583777-7">BSB München: L.germ. 108 d</wwwlink>.</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="hennig-k" type="neuzeit">
 <lemma>N.N. Hennig</lemma>
 <eintrag>Lebensdaten nicht ermittelt, Halbbruder von <link ref="kreutzfeld" linktext="true" />, Schulmeister und Organist in <wwwlink address="https://www.geonames.org/557906">Neuhausen</wwwlink>.
@@ -11993,8 +12009,7 @@ Die Zeitung ist heute sehr schlecht überliefert, nur die Jg. 1764–68 und 1771
 
 <kommentar id="kinder-fg" type="neuzeit">
 <lemma>Friedrich Georg Kinder</lemma>
-<eintrag>1779 ertrunken, wohl der Sohn von <link ref="kinder" linktext="true" />; zum Vornamen vgl. <wwwlink address="https://digital.ulb.hhu.de/ihd/content/titleinfo/8771419">Georg Erler: <titel>Die Matrikel der Albertus-Universität zu Königsberg i. Pr. 1544–1829</titel></wwwlink>
-</eintrag>, Bd.&#x202F;, S.&#x202F;531.
+<eintrag>1779 ertrunken, wohl der Sohn von <link ref="kinder" linktext="true" />; zum Vornamen vgl. <wwwlink address="https://digital.ulb.hhu.de/ihd/content/titleinfo/8771419">Georg Erler: <titel>Die Matrikel der Albertus-Universität zu Königsberg i. Pr. 1544–1829</titel></wwwlink>, Bd.&#x202F;2, S.&#x202F;531.</eintrag>
 </kommentar>
 
 <kommentar id="kindermann" type="neuzeit">
@@ -21431,6 +21446,16 @@ in vier Aufzügen, Kopp. 767“]. Siehe <wwwlink address="https://zdb-katalog.de
 </eintrag>
 </kommentar>
 
+<kommentar id="suche" type="neuzeit">
+<lemma>Georg Suche</lemma>
+<eintrag>Lebensdaten nicht ermittelt. Pfarrer aus dem schlesischen <wwwlink address="https://www.geonames.org/3087705">Pleß</wwwlink>; 1782 Französischlehrer in Königsberg, vgl. <wwwlink address="https://digital.ulb.hhu.de/ihd/content/titleinfo/8771419">Georg Erler: <titel>Die Matrikel der Albertus-Universität zu Königsberg i. Pr. 1544–1829</titel></wwwlink>, Bd.&#x202F;2, S.&#x202F;571.</eintrag>
+</kommentar>
+
+<kommentar id="suche-im" type="neuzeit">
+<lemma>Irenaeus Mansuetus Suche</lemma>
+<eintrag>Sohn von <link ref="suche" linktext="true" />, studierte 1782 in Königsberg, vgl. <wwwlink address="https://digital.ulb.hhu.de/ihd/content/titleinfo/8771419">Georg Erler: <titel>Die Matrikel der Albertus-Universität zu Königsberg i. Pr. 1544–1829</titel></wwwlink>, Bd.&#x202F;2, S.&#x202F;571.</eintrag>
+</kommentar>
+
 <kommentar id="suchland" type="neuzeit">
 <lemma>Adam Ludwig Suchland</lemma>
 <eintrag>Lebensdaten nicht ermittelt. 1740 bis 1752 Prof. der Medizin in Königsberg.</eintrag>
@@ -23679,6 +23704,12 @@ Vielleicht ist Hamann durch <link ref="lessing" linktext="false">Lessings</link>
 <lemma>Wieland, <titel>Horazens Briefe</titel></lemma>
 <eintrag>
 <titel>Horazens Briefe aus dem Lateinischen übersezt und mit historischen Einleitungen und andern nöthigen Erläuterungen versehen von C. M. Wieland</titel> (2 Tle., Dessau: Buchhandlung der Gelehrten 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10241577-3">BSB München: A.lat.a. 506</wwwlink>. – Zuvor in Proben im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur</titel></link> veröffentlicht: <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617980?page=260%2C261">2.&#x202F;Vj. 1781 (Juni-Heft), S.&#x202F;246–256</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617981?page=104%2C105">3.&#x202F;Vj. 1781 (August-Heft), S.&#x202F;97–107</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617982?page=52%2C53">4.&#x202F;Vj. 1781 (Oktober-Heft), S.&#x202F;36–43</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617983?page=190%2C191">1.&#x202F;Vj. 1782 (März-Heft), S.&#x202F;177–204</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="wieland-horaz-sermones" type="neuzeit" sort="150">
+<lemma>Wieland, <titel>Horazens Satyren</titel></lemma>
+<eintrag>
+<titel>Horazens Satyren aus dem Lateinischen übersezt und mit Einleitungen und erläuternden Anmerkungen versehen von C. M. Wieland</titel> (2 Tle., Leipzig: Weidmann und Reich 1786). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10241555-2">BSB München: A.lat.a. 480 a</wwwlink>. 
 </eintrag>
 </subsection>
 </kommentar>
