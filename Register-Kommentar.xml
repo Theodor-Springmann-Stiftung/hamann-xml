@@ -11002,7 +11002,12 @@ J
 <eintrag>
 <titel>Eduard Allwills Papiere</titel>, in: <link ref="teutsche-merkur" linktext="false"><titel>Teutscher Merkur,</titel></link> <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617962?page=20%2C21">2.&#x202F;Vj. 1776 (April-Heft), S.&#x202F;14–74</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10726975?page=64%2C65">3.&#x202F;Vj. (Juli-Heft), S.&#x202F;57–72</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10726975?page=526%2C527">4.&#x202F;Vj. (Dezember-Heft), S.&#x202F;229–262</wwwlink>. Zuvor erschien auch eine kürzere Version in der <titel>Iris,</titel> später in den <link ref="jacobi" subref="jacobi-vermischte-schriften" linktext="false"><titel>Vermischten Schriften</titel></link>, <wwwlink address="http://dl.ub.uni-freiburg.de/diglit/jacobi1781-1/0151">S.&#x202F;143–268</wwwlink> wiederveröffentlicht.</eintrag>
 </subsection>
-<subsection id="jacobi-vermischte-schriften" type="neuzeit" sort="20">
+<subsection id="jacobi-woldemar" type="neuzeit" sort="20">
+<lemma>Jacobi, <titel>Woldemar</titel></lemma>
+<eintrag>
+<titel>Woldemar. Eine Seltenheit aus der Naturgeschichte. Erster Band</titel> (Flensburg, Leipzig: Korten 1779). Digitalisat: <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:45:1-10955">LB Oldenburg</wwwlink>. Es erschien nur Bd.&#x202F;1. – Zuvor auch erschienen im <link ref="teutsche-merkur" linktext="false"><titel>Teutschen Merkur,</titel></link> <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617964?page=108%2C109">2.&#x202F;Vj. 1777 (Mai-Heft), S.&#x202F;97–117</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617964?page=220%2C221">2.&#x202F;Vj. (Juni-Heft), S.&#x202F;202–231</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617965?page=36%2C37">3.&#x202F;Vj. (Juli-Heft), S.&#x202F;32–49</wwwlink>, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617965?page=244%2C245">3.&#x202F;Vj. (September-Heft), S.&#x202F;229–259</wwwlink> und <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10617966?page=264%2C265">4.&#x202F;Vj. (Dezember-Heft), S.&#x202F;246–267.</wwwlink></eintrag>
+</subsection>
+<subsection id="jacobi-vermischte-schriften" type="neuzeit" sort="30">
 <lemma>Jacobi, <titel>Vermischte Schriften</titel></lemma>
 <eintrag>
 <titel>Vermischte Schriften von Friedrich Heinrich Jacobi. Erster Theil</titel> (Breslau: Löwe 1781). Digitalisat: <wwwlink address="http://dl.ub.uni-freiburg.de/diglit/jacobi1781-1">UB Freiburg</wwwlink>. Neu aufgelegt Karlsruhe 1783: <wwwlink address="https://data.onb.ac.at/rep/104CB668">ÖNB Wien: 254246-A.1 / FKB 45-288 FID MAG</wwwlink>.</eintrag>
@@ -12305,6 +12310,12 @@ Wiss. Ausg.: <titel>Werke und Briefe. Historisch-kritische Ausgabe</titel>, begr
 <kommentar id="knebel" type="neuzeit">
 <lemma>Karl Ludwig von Knebel</lemma>
 <eintrag>1744–1834. Preußischer Offizier, 1774 Erzieher am Weimarer Hof, Freund <link ref="goethe" linktext="false">Goethes</link> und <link ref="herder" linktext="false">Herders</link>, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd118777505.html#ndbcontent">Elschenbroich, Adalbert: Elschenbroich, Adalbert, in: <titel>NDB</titel>&#x202F;12 (1980), S.&#x202F;169–171.</wwwlink>
+</eintrag>
+</kommentar>
+
+<kommentar id="knebel-jl" type="neuzeit">
+<lemma>Lebrecht Johann von Knebel</lemma>
+<eintrag>1747–1794. Bruder von <link ref="knebel" linktext="true" />, in <wwwlink address="https://www.geonames.org/7533553">Mewe</wwwlink>.
 </eintrag>
 </kommentar>
 
