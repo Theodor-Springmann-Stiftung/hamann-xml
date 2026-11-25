@@ -13032,7 +13032,7 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
 <subsection id="lavater-fragmente" type="neuzeit" sort="30">
 <lemma>Lavater, <titel>Physiognomische Fragmente</titel></lemma>
 <eintrag>
-<titel>Physiognomische Fragmente zur Beförderung der Menschenkenntnis und Menschenliebe</titel> (4 Bde., Leipzig, Winterthur: Weidmanns Erben 1775–1778). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-1099">ETH-Bibliothek Zürich: Rar 9206</wwwlink>.</eintrag>
+<titel>Physiognomische Fragmente zur Beförderung der Menschenkenntnis und Menschenliebe</titel> (4 Bde., Leipzig, Winterthur: Weidmanns Erben 1775–1778). Digitalisat: <wwwlink address="https://doi.org/10.3931/e-rara-1099">ETH-Bibliothek Zürich: Rar 9206</wwwlink>. – Zum Hamann-Porträt in Bd.&#x202F;2 vgl. den <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296243">Tafelband</wwwlink> und die Beschreibung <wwwlink address="https://www.e-rara.ch/zut/content/zoom/296008">Textband, S.&#x202F;285f.</wwwlink>. Zur französischen Übersetzung vgl. <link ref="lavater" subref="lavater-fragmente-fr" linktext="false">Lavater, <titel>Essai Sur La Physiognomonie</titel></link></eintrag>
 </subsection>
 <subsection id="lavater-wesentliche-lehre" type="neuzeit" sort="31">
 <lemma>Lavater, <titel>Die wesentliche Lehre des Evangeliums</titel></lemma>
@@ -13082,6 +13082,11 @@ Das Trauergedicht auf die Mutter von <link ref="hennings" linktext="true" /> wur
     <lemma>Lavater, <titel>Pontius Pilatus</titel></lemma>
     <eintrag>
     <titel>Pontius Pilatus. Oder Die Bibel im Kleinen und der Mensch im Großen</titel> (4 Bde. Zürich: Füeßli 1782–1785). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10271742-6">BSB München: B.hist. 155</wwwlink>.</eintrag>
+    </subsection>
+    <subsection id="lavater-fragmente-fr" type="neuzeit" sort="80">
+    <lemma>Lavater, <titel>Essai Sur La Physiognomonie</titel></lemma>
+    <eintrag>
+    <titel>Essai Sur La Physiognomonie Destiné, A faire Connoître l’Homme &#x26; à le faire Aimer. Par Jean Gaspard Lavater</titel> (4 Bde. Den Haag: Karnebeek 1781–1803). Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.77186">UB Heidelberg</wwwlink>. – Umgearbeitete Französisch-Übersetzung der <link ref="lavater" subref="lavater-fragmente" linktext="false"><titel>Physiognomischen Fragmente</titel></link>.</eintrag>
     </subsection>
 </kommentar>
 
@@ -15228,7 +15233,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 
 <kommentar id="messkatalog" type="neuzeit">
 <lemma>Messkataloge</lemma>
-<eintrag>Messkataloge der Oster- bzw. Frühjahrsbuchmesse und der Michaelis- bzw. Herbstbuchmesse in Leipzig. Am wichtigsten war die Frühjahrsbuchmesse, die offiziell am Sonntag Jubilate (3. Sonntag nach Ostern) eröffnet und acht Tage später ausgeläutet wurde; der Messbetrieb lief aber in der Regel bereits eine Woche vor Jubilate an und dauerte eine Woche länger (insgesamt 3 Wochen). Der Messkatalog zirkulierte zumeist kurz vor Eröffnung der Buchmesse und wurde von Hamann regelmäßig studiert; vgl. <wwwlink address="https://www.wallstein-open-library.de/openaccess/9783835355125-002.pdf?">Michael Pilz: <titel>„Den 21. brachte Kant den Messkatalog.“ Zur Praxeologie und Geschichte eines literarischen Informationsmediums im 18. Jahrhundert.</titel></wwwlink> Digitalisate 1760–1769: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10501273%2FBV011734487">BSB München: 4 Cat. 61-1760/69</wwwlink>. – Digitalisate ab 1770: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN525606394">SUB Göttingen</wwwlink>.</eintrag>
+<eintrag>Messkataloge der Oster- bzw. Frühjahrsbuchmesse und der Michaelis- bzw. Herbstbuchmesse in Leipzig. Am wichtigsten war die Frühjahrsbuchmesse, die offiziell am Sonntag Jubilate (3. Sonntag nach Ostern) eröffnet und acht Tage später ausgeläutet wurde; der Messbetrieb lief aber in der Regel bereits eine Woche vor Jubilate an und dauerte eine Woche länger (insgesamt 3 Wochen). Der Messkatalog zirkulierte zumeist kurz vor Eröffnung der Buchmesse und wurde von Hamann regelmäßig studiert; vgl. <wwwlink address="https://www.wallstein-open-library.de/openaccess/9783835355125-002.pdf?">Michael Pilz: <titel>„Den 21. brachte Kant den Messkatalog.“ Zur Praxeologie und Geschichte eines literarischen Informationsmediums im 18. Jahrhundert.</titel></wwwlink> Digitalisate 1760–1769: <wwwlink address="https://www.digitale-sammlungen.de/de/search?filter=volumes:bsb10501273%2FBV011734487">BSB München: 4 Cat. 61-1760/69</wwwlink>. – Digitalisate ab 1770: <wwwlink address="https://resolver.sub.uni-goettingen.de/purl?PPN525606394">SUB Göttingen</wwwlink>. Zur Übersicht vgl. <wwwlink address="https://de.wikisource.org/wiki/Allgemeines_Verzeichnis_der_B%C3%BCcher">Wikisource</wwwlink>.</eintrag>
 <subsection id="messkatalog-ostern1761" type="neuzeit" sort="10">
 <lemma>Messkatalog für Ostern 1761</lemma>
 <eintrag>
@@ -15344,7 +15349,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 </eintrag>
 </subsection>
 <subsection id="messkatalog-ostern1783" type="neuzeit" sort="140">
-<lemma>Messkatalog für Michaelis 1783</lemma>
+<lemma>Messkatalog für Ostern 1783</lemma>
 <eintrag>
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1783 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1783). 
 </eintrag>
