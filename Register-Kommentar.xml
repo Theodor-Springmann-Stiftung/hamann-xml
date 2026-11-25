@@ -15111,7 +15111,7 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <subsection id="mendelssohn-anmerkungen" type="neuzeit" sort="100">
 <lemma>Mendelssohn, <titel>Anmerkungen zu Abbts freundschaftlicher Correspondenz</titel> (1782)</lemma>
 <eintrag>
-<titel>Anmerkungen zu Abbts freundschaftlicher Correspondenz von Mendelssohn</titel>. 1782 als separat paginierter Anhang zu <link ref="abbt" subref="abbt-werke" linktext="true" />, <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10811929?page=420%2C421">Bd.&#x202F;3, 2.&#x202F;Aufl.</wwwlink> gedruckt.
+<titel>Anmerkungen zu Abbts freundschaftlicher Correspondenz von Mendelssohn</titel>. 1782 als separat paginierter Anhang zu <link ref="abbt" subref="abbt-werke" linktext="true" />, Bd.&#x202F;3, 2.&#x202F;Aufl. gedruckt. Digitalisat: <wwwlink address="https://www.digitale-sammlungen.de/view/bsb10811929?page=420%2C421">BSB München: Opp. 449-3</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
@@ -15341,6 +15341,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <lemma>Messkatalog für Michaelis 1782</lemma>
 <eintrag>
 <titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1782 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1782). 
+</eintrag>
+</subsection>
+<subsection id="messkatalog-ostern1783" type="neuzeit" sort="140">
+<lemma>Messkatalog für Michaelis 1783</lemma>
+<eintrag>
+<titel>Allgemeines Verzeichnis derer Bücher, welche in der Frankfurter und Leipziger Ostermesse des 1783 Jahres entweder ganz neu gedruckt, oder sonst verbessert, wieder aufgeleget worden sind, auch ins künftige noch herauskommen sollen</titel> (Leipzig 1783). 
 </eintrag>
 </subsection>
 </kommentar>
@@ -19647,6 +19653,11 @@ Zum berühmten Bibliothekskatalog Salthenius’: <titel>XXII. Daniel Salthenius<
 <lemma>Schlosser, <titel>Ueber die Seelenwanderung</titel></lemma>
 <eintrag>
 <titel>Ueber die Seelenwanderung von Joh. Georg Schlosser</titel> (2 Bde., Basel: Serini 1781–1782). Der erste Band gab den Anstoß, der zweite reagierte auf <link ref="herder" subref="herder-seelenwandrung" linktext="true" />. Digitalisat Gespräch 1 (1781): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11916484-6">LB Coburg: B II 11</wwwlink>. Gespräch 2 (1782): <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11916485-2">LB Coburg: B II 11</wwwlink>.</eintrag>
+</subsection>
+<subsection id="schlosser-longin" type="neuzeit" sort="40">
+<lemma>Schlosser, <titel>Longin vom Erhabenen</titel></lemma>
+<eintrag>
+<titel>Longin vom Erhabenen mit Anmerkungen und einem Anhang von Johann Georg Schlosser</titel> (Leipzig: Weidmann und Reich 1781). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10236646-7">BSB München: A.gr.b. 2131</wwwlink>.</eintrag>
 </subsection>
 </kommentar>
 
