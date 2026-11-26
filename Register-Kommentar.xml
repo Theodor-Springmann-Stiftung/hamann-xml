@@ -3062,6 +3062,12 @@ ermländische Heimat. Mitteilungsblatt des Historischen Vereins für Ermland, Jg
 </eintrag>
 </kommentar>
 
+<kommentar id="buder" type="neuzeit">
+<lemma>Christian Gottlieb Buder</lemma>
+<eintrag>1693–1763. Gelehrter und Bibliothekar, Schüler von <link ref="struvius" linktext="true" /> siehe <wwwlink address="https://www.deutsche-biographie.de/gnd100061362.html#adbcontent">Wegele: Franz Xaver von, Buder, Christian Gottlieb, in: <titel>ADB</titel>&#x202F;3 (1876), S.&#x202F;502</wwwlink>.
+</eintrag>
+</kommentar>
+
 <kommentar id="buettner" type="neuzeit">
 <lemma>Christian Wilhelm Büttner</lemma>
 <eintrag>1716–1801. Naturforscher und bibliophiler Professor der Philosophie in Göttingen, 1783 Hofrat und Professor in Jena, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd117145068.html#ndbcontent">Stumpf, Hildegard: Büttner, Christian Wilhelm, in: <titel>NDB</titel>&#x202F;3 (1957), S.&#x202F;6f</wwwlink>.
@@ -16910,6 +16916,12 @@ P
 <kommentar id="georgios-pachymeres" type="neuzeit">
 <lemma>Georgios Pachymeres</lemma>
 <eintrag>1242–1310. Byzantinischer Gelehrter und Dichter, siehe <wwwlink address="https://d-nb.info/gnd/100383203">GND</wwwlink>.</eintrag>
+<subsection id="georgios-pachymeres-historia" type="neuzeit">
+<lemma>Georgios Pachymeres, <titel>Historia rerum</titel></lemma>
+<eintrag>
+<titel>Michael Palaeologous Sive Historia Rerum a Michaele Palaeologo Ante Imperium, et Imperio gestarum […]</titel> (Rom 1666) und <titel>Andronicus Palaeologus Sive Sive Historia Rerum ab Andronico Seniore In Imperio gestarum usque ad Annum ejus Aetatis undequinquagesimum</titel> (Rom 1669). Digitalisat der Ausgabe Rom 1666: <wwwlink address="https://books.google.de/books?id=aWi5FR5T8SAC">Google Books</wwwlink> und der Ausgabe Rom 1669: <wwwlink address="https://books.google.de/books?id=UDU4BuGBB5UC">Google Books</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="palaephatus" type="neuzeit">
@@ -18458,6 +18470,11 @@ Vgl. die Stelle über <link ref="friedrich-II" linktext="false">Friedrich II.</l
 <eintrag>
 <titel>Herrn Adolph Friedrich Reinhards […] Vergleichung des Lehrgebäudes des Herrn Pope von der Vollkommenheit der Welt, mit dem System des Herrn von Leibnitz.</titel> Nebst einer Untersuchung der Lehre von der besten Welt. Eine Abhandlung, welche den, von der königl. Akademie der Wissenschaften und schönen Künste zu Berlin, ausgesetzten Preis vom Jahre 1755 davon getragen hat. Nebest einer Abhandlung des Hrn. Bürlamaquai, von dem Willen und der Freyheit des Menschen. Beydes aus dem Französischen übersetzt (Leipzig 1757). Digitalisat: <wwwlink address="https://archive.thulb.uni-jena.de/collections/receive/HisBest_cbu_00032438">ThULB Jena: 8 Ph.VI,14</wwwlink></eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="reinhard-jc" type="neuzeit">
+<lemma>Johann Christian Reinhard</lemma>
+<eintrag>1726–1794. Pastor in Staßfurt, siehe <wwwlink address="https://d-nb.info/gnd/104226293">GND</wwwlink>.</eintrag>
 </kommentar>
 
 <kommentar id="reinking" type="neuzeit">
@@ -21405,11 +21422,6 @@ Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-
 </subsection>
 </kommentar>
 
-<kommentar id="reinhard-jc" type="neuzeit">
-<lemma>Johann Christian Reinhard</lemma>
-<eintrag>1726–1794. Pastor in Staßfurt, siehe <wwwlink address="https://d-nb.info/gnd/104226293">GND</wwwlink>.</eintrag>
-</kommentar>
-
 <kommentar id="straton" type="neuzeit">
 <lemma>Straton von Sardis</lemma>
 <eintrag>2. Jahrhundert n. Chr. Verfasser von Epigrammen.</eintrag>
@@ -21454,6 +21466,23 @@ Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-
 <lemma>Johann Michael Stritter</lemma>
 <eintrag>1705–1781. Rektor in Idstein, siehe <wwwlink address="https://www.deutsche-biographie.de/pnd102998086.html#adbcontent">Otto, Friedrich: Stritter, Johann Michael, in: <titel>ADB</titel>&#x202F;36 (1893), S.&#x202F;596f</wwwlink>.
 </eintrag>
+</kommentar>
+
+<kommentar id="struvius" type="neuzeit">
+<lemma>Burkhardt Gotthelf Struvius</lemma>
+<eintrag>1671–1738. Historiker, Jurist</eintrag>
+<subsection id="struvius-bibliotheca-buderus" type="neuzeit" sort="10">
+<lemma>Struvius, <titel>Bibliotheca historica selecta</titel> (ed. Buderus)</lemma>
+<eintrag>
+<titel>Bibliotheca historica selecta, in suas classes distributa cuius primas lineas duxit B. Burc. Gotthelfius Struvvius, emendavit et copiose locupletavit <link ref="buder" linktext="false">Christian Gottlieb Buder</link></titel> (2 Bde., Jena: Cuno, 1740). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11687749-6">Stabi Bamberg: H.l.o.204</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="struvius-bibliotheca-meusel" type="neuzeit" sort="20">
+<lemma>Struvius, <titel>Bibliotheca historica</titel> (ed. Meusel)</lemma>
+<eintrag>
+<titel>Bibliotheca historica. Instructa a B. Burcarco Gotthelf Struvio aucta a B. Chri. Gottlieb Budero nunc vero a Ioanne Gerogio Meuselio ita digesta, amplificata et emendata, ut paene novum opus videri possit</titel> (11 Bde., Leipzig: Weidmann und Reich 1782–1804). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11687751-4">Stabi Bamberg: H.l.o.205</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="stuertz" type="neuzeit">
