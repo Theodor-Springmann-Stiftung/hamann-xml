@@ -1106,6 +1106,12 @@ Dt. Übers. zitiert nach: E. und L.L. Schücking und J. Klein (Übers.), <titel>
 <lemma>Anselmo Banduri</lemma>
 <eintrag>Etwa 1671 bis 1743. Benediktinischer Gelehrter.
 </eintrag>
+<subsection id="banduri-imperium" type="neuzeit" sort="10">
+<lemma>Banduri, <titel>Imperium Orientale</titel></lemma>
+<eintrag>
+<titel>Imperium Orientale Sive Antiquitates Constantinopolitanae: In Quatuor Partes Distributae, Quae Ex Variis Scriptorum Graecorum Operibus &#x26; praesertim ineditis adornatae, commentariis, &#x26; Geographicis, Topographicis</titel> (2 Bde., Paris Coignard 1711). Digitalisat: <wwwlink address="https://doi.org/10.11588/diglit.60997">UB Heidelberg</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="banier" type="neuzeit">
@@ -3331,7 +3337,14 @@ Wiederabruck als Anhang zum 5. Teil der <titel>Histoire naturelle, générale et
 </subsection>
 </kommentar>
 
+
 C
+
+<kommentar id="capell" type="neuzeit">
+<lemma>Rudolf Capell</lemma>
+<eintrag>1635–1684. Historiker und Philologe und Philologe aus Hamburg, siehe <wwwlink address="https://d-nb.info/gnd/122898613">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="caesar" type="neuzeit">
 <lemma>Gaius Julius Cäsar</lemma>
 <eintrag>100–44 v. Chr.</eintrag>
@@ -3411,12 +3424,35 @@ Er vermittelte 1753 für Hamann die Hausmeisterstelle in <wwwlink address="https
 
 <kommentar id="campenhausen-lpb" type="neuzeit">
 <lemma>Leyon Pierce Balthasar von Campenhausen</lemma>
-<eintrag>1746–1807. Freiherr. Sohn von <link ref="campenhausen-jc" linktext="true" />, studierte ab 1763 in Göttingen, dann in Genf bei <link ref="voltaire" linktext="false">Voltaire</link>. Schriftsteller; nahm am russischen Feldzug gegen die Türken (1770–1774) und am polnischen Krieg teil. <titel>Allgemeines Schriftsteller- und Gelehrten-Lexikon der Provinzen Livland, Esthland und Kurland</titel> (Mitau 1827), Bd.&#x202F;1, S.&#x202F;329.</eintrag>
+<eintrag>1746–1807. Freiherr, Sohn von <link ref="campenhausen-jc" linktext="true" />, studierte ab 1763 in Göttingen, dann in Genf bei <link ref="voltaire" linktext="false">Voltaire</link>. Schriftsteller; nahm am russischen Feldzug gegen die Türken (1770–1774) und am polnischen Krieg teil. <titel>Allgemeines Schriftsteller- und Gelehrten-Lexikon der Provinzen Livland, Esthland und Kurland</titel> (Mitau 1827), Bd.&#x202F;1, S.&#x202F;329.</eintrag>
 </kommentar>
 
 <kommentar id="campigneulles" type="neuzeit">
 <lemma>Charles-Claude-Florent de Thorel de Campigneulles</lemma>
 <eintrag>1737–1809. Französischer Journalist und Schriftsteller, Schatzmeister in Lyon.</eintrag>
+</kommentar>
+
+<kommentar id="cange" type="neuzeit">
+<lemma>Charles du Fresne, sieur du Cange</lemma>
+<eintrag>1610–1688. Französischer Lexikograf und Gelehrter, siehe <wwwlink address="https://d-nb.info/gnd/116231882">GND</wwwlink>.</eintrag>
+<subsection id="cange-historia-byzantina" type="neuzeit" sort="10">
+<lemma>du Cange, <titel>Historia Byzantina</titel></lemma>
+<eintrag>
+<titel>Historia Byzantina duplici commentario illustrata. Prior familias ac stemmata imperatorum Constantinopolitanorum, cum eorundem Augustorum nomismatibus, &#x26; aliquot iconibus; præterea familias Dalmaticas &#x26; Turcicas complectitur: alter descriptionem urbis Constantinopolitanæ, qualis extitit sub imperatoribus Christianis</titel> (Paris: Louis Billaine 1680).
+</eintrag>
+</subsection>
+<subsection id="cange-glossarium-latinitatis" type="neuzeit" sort="20">
+<lemma>du Cange, <titel>Glossarium Latinitatis</titel></lemma>
+<eintrag>
+<titel>Glossarium ad scriptores mediae et infimae Latinitatis. Editio nova locupletior et auctior, opera et studio monachorum Ordinis S. Benedicti e Congregatione S. Mauri</titel> (6 Bde., Paris 1733–1736). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10496015-3">BSB München: 2 L.lat. 68</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="cange-glossarium-graecitatis" type="neuzeit" sort="30">
+<lemma>du Cange, <titel>Glossarium Graecitatis</titel></lemma>
+<eintrag>
+<titel>Glossarium ad scriptores mediae et &#x26; infimae Graecitatis</titel> (2 Bde., Lyon 1688) [<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link> &#x202F;58/6 und 59/20: „Car. du Fresne du Cange Glossarium mediae &#x26; infimae Graecitatis, Lugd. 688“]. Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11057520-0">SB Regensburg: 999/2Ling.24</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="canstein" type="neuzeit">
@@ -8995,6 +9031,22 @@ Uraufführung 1742 in Dublin, ab 1775 auch in Deutschland, 1780 von Herder für 
 </subsection>
 </kommentar>
 
+<kommentar id="hanke" type="neuzeit">
+<lemma>Martin Hanke</lemma>
+<eintrag>1633–1709. Historiker und Schulrektor in Breslau, siehe <wwwlink address="https://d-nb.info/gnd/123879205">GND</wwwlink>.
+</eintrag>
+<subsection id="hanke-byzantinarum" type="neuzeit" sort="10">
+<lemma>Hanke, <titel>De Byzantinarum rerum scriptoribus graecis</titel></lemma>
+<eintrag><titel>De Byzantinarum rerum scriptoribus graecis liber</titel> (Leipzig 1677). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10360059-2">BSB München: 4 H.int. 12</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="hanke-romanarum" type="neuzeit" sort="20">
+<lemma>Hanke, <titel>De Romanarum rerum scriptoribus</titel> </lemma>
+<eintrag><titel>De Romanarum Rerum Scriptoribus Liber</titel> (2 Bde., Leipzig 1669). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11688496-7">Stabi Bamberg: H.l.q.28</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+
 <kommentar id="hanow" type="neuzeit">
 <lemma>Michael Christoph Hanow</lemma>
 <eintrag>1696–1773. Rektor in Danzig.
@@ -12759,8 +12811,8 @@ L
 <lemma>Philippe Labbe</lemma>
 <eintrag>1607–1667. Jesuit, Gelehrter und Byzantinist, siehe <wwwlink address="http://d-nb.info/gnd/124201040">GND</wwwlink>.</eintrag>
 <subsection id="labbe-historiae-byzantinae" type="neuzeit" sort="10">
-<lemma>Labbe (Hg. u.a.), <titel>De historiae byzantinae scriptoribus</titel></lemma>
-<eintrag><titel>De historiae byzantinae scriptoribus</titel> (24 Bde., Paris: Typographia regia 1648–1711). 
+<lemma>Labbe (Hg. u.a.), <titel>Corpus Byzantinae historiae</titel></lemma>
+<eintrag><titel>De historiae byzantinae scriptoribus</titel> (24 Bde., Paris: Typographia regia 1648–1711, mit varriienden Angaben, auch 42 Bde., 1645–1711). 
 </eintrag>
 </subsection>
 </kommentar>
