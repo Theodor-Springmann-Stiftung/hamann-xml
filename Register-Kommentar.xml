@@ -1102,6 +1102,12 @@ Dt. Übers. zitiert nach: E. und L.L. Schücking und J. Klein (Übers.), <titel>
 </subsection>
 </kommentar>
 
+<kommentar id="banduri" type="neuzeit">
+<lemma>Anselmo Banduri</lemma>
+<eintrag>Etwa 1671 bis 1743. Benediktinischer Gelehrter.
+</eintrag>
+</kommentar>
+
 <kommentar id="banier" type="neuzeit">
 <lemma>Antoine Banier</lemma>
 <eintrag>1673–1741. Französischer rationalistischer Mythenforscher. 
@@ -7791,6 +7797,11 @@ Wiss. Ausg.: <titel>Ausgewählte Werke</titel>, hg.&#xA0;v. Joachim und Brigitte
 <eintrag>1727–1809. Deutschsprachiger lutherischer Prediger in New Germantown, Philadelphia, vgl. den <wwwlink address="https://nbn-resolving.org/urn:nbn:de:gbv:ha33-1-174268">Bericht von Heinrich Melchior Mühlenberg über die Gemeinde in New Germantown</wwwlink>.</eintrag>
 </kommentar>
 
+<kommentar id="graevius" type="neuzeit">
+<lemma>Johann Georg Graevius</lemma>
+<eintrag>1632–1703. Klassischer Philologe, Textkritiker und Historiker, seit 1661/62 Professor in Utrecht und Historiograph Wilhelms III. von Oranien, siehe <wwwlink address="https://d-nb.info/gnd/100156991">GND</wwwlink>.</eintrag>
+</kommentar>
+
 <kommentar id="grammatica-marchica" type="neuzeit">
 <lemma>Grammatica Marchica</lemma>
 <eintrag><titel>Vollständigere Lateinische Grammatica Marchica, in welcher zu den nöthigen Regeln nützliche Anmerkungen und gute Exempel gesetzet sind</titel>. In vielen Auflagen erschienen; Digitalisat Leipzig 1775: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104920-2">SB Regensburg: 999/Ling.369</wwwlink>.</eintrag>
@@ -11364,6 +11375,18 @@ Kritische Griechisch-Lateinische Gesamtausgabe in zwei Bänden, hg. von <wwwlink
 </subsection>
 </kommentar>
  
+ <kommentar id="josephus-genesius" type="neuzeit">
+<lemma>Genesius Josephus</lemma>
+<eintrag>10.&#x202F;Jh. n.&#x202F;Chr., byzantinischer Historiker.
+</eintrag>
+<subsection id="josephus-genesius-rebus" type="neuzeit" sort="10">
+<lemma>Genesius Josephus, <titel>de rebus Constantinopolitanis</titel></lemma>
+<eintrag>
+<titel>Josephi Genesii de rebus Constantinopolitanis a Leone Armenio ad Basilium Macedonem libri quatuor</titel> (Venedig 1733). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11439806-4">BSB München: Coll.script.f.7(4#4</wwwlink>.
+</eintrag>
+</subsection>
+</kommentar>
+ 
  <kommentar id="joseph-II" type="neuzeit">
 <lemma>Joseph II.</lemma>
 <eintrag>1741–1790. Von Habsburg-Lothringen, ab 1765 Kaiser des Heiligen Römischen Reiches und Erzherzog von Österreich etc.; bis 1780 Mitregent seiner Mutter <link ref="maria-theresia" linktext="true" />, ab 1780 Alleinherrscher.
@@ -12737,7 +12760,7 @@ L
 <eintrag>1607–1667. Jesuit, Gelehrter und Byzantinist, siehe <wwwlink address="http://d-nb.info/gnd/124201040">GND</wwwlink>.</eintrag>
 <subsection id="labbe-historiae-byzantinae" type="neuzeit" sort="10">
 <lemma>Labbe (Hg. u.a.), <titel>De historiae byzantinae scriptoribus</titel></lemma>
-<eintrag><titel>De historiæ byzantinæ scriptoribus</titel> (24 Bde., Paris: Typographia regia 1648–1711). 
+<eintrag><titel>De historiae byzantinae scriptoribus</titel> (24 Bde., Paris: Typographia regia 1648–1711). 
 </eintrag>
 </subsection>
 </kommentar>
@@ -15043,7 +15066,6 @@ Gest. um 180 n.&#x202F;Chr. Bischof von Sardes bei Smyrna und frühchristlicher 
 <titel>Vindiciae Judaeorum, or a letter in answer to certain questions propounded by a nobel and learned gentleman, touching the reproaches cast on the nation of the jevvs; wherein all objections are candidly, and yet fully cleared</titel> (s.l. 1656). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11009470-4">BSB München: Jud. 183 s</wwwlink>. 1782 auf Veranlassung <link ref="mendelssohn" subref="mendelssohn-rettung" linktext="false">Mendelssohns</link> von <link ref="herz" linktext="true" />. übersetzt.
 </eintrag>
 </subsection>
-
 </eintrag>
 </kommentar>
 
@@ -15198,6 +15220,12 @@ Der Abdruck des Textes in den <titel>Literaturbriefen</titel> ist mit der Heraus
 <eintrag>
 <titel>Gedanken über die Schönheit und über den Geschmack in der Malerey. Herrn Johann Winckelmann gewidmet von dem Verfaßer. Hg v. J. Caspar Füßli</titel> (Zürich 1762).[<link ref="hamann" subref="hamann-biga" linktext="false">Biga</link>&#x202F;162/543: „Meng’s Gedanken über die Schönheit und über den Geschmack in der Malerey, Zür. 762“ und &#x202F;143/229: „(Mengs) Gedanken über die Schönheit und über den Geschmack in der Malerey, Nürnb. 762“]. Digitalisat: <wwwlink address="https://gdz.sub.uni-goettingen.de/id/PPN622625942">SUB Göttingen Art. plast. III 35</wwwlink></eintrag>
 </subsection>
+</kommentar>
+
+<kommentar id="mencke" type="neuzeit">
+<lemma>Johann Burchard Mencke</lemma>
+<eintrag>1674–1732. Gelehrter in Leipzig, siehe <wwwlink address="https://d-nb.info/gnd/118783181">GND</wwwlink>.
+</eintrag>
 </kommentar>
 
 <kommentar id="menschenfreund" type="neuzeit">
@@ -21480,7 +21508,7 @@ Eine gekürzte Übersetzung erschien etwa in den <link ref="gothaische-gelehrte-
 <subsection id="struvius-bibliotheca-meusel" type="neuzeit" sort="20">
 <lemma>Struvius, <titel>Bibliotheca historica</titel> (ed. Meusel)</lemma>
 <eintrag>
-<titel>Bibliotheca historica. Instructa a B. Burcarco Gotthelf Struvio aucta a B. Chri. Gottlieb Budero nunc vero a Ioanne Gerogio Meuselio ita digesta, amplificata et emendata, ut paene novum opus videri possit</titel> (11 Bde., Leipzig: Weidmann und Reich 1782–1804). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11687751-4">Stabi Bamberg: H.l.o.205</wwwlink>.
+<titel>Bibliotheca historica. Instructa a B. Burcarco Gotthelf Struvio aucta a B. Chri. Gottlieb Budero nunc vero a <link ref="meusel" linktext="false">Ioanne Gerogio Meuselio</link> ita digesta, amplificata et emendata, ut paene novum opus videri possit</titel> (11 Bde., Leipzig: Weidmann und Reich 1782–1804). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11687751-4">Stabi Bamberg: H.l.o.205</wwwlink>.
 </eintrag>
 </subsection>
 </kommentar>
