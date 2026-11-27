@@ -16303,6 +16303,11 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <eintrag>1624–1689. Niederländ. Geistlicher.</eintrag>
 </kommentar>
 
+<kommentar id="mueller-am" type="neuzeit">
+<lemma>Anna Maria Müller</lemma>
+<eintrag>1724–1790. Geb. Schoop, Mutter von <link ref="mueller-j" linktext="true" /> und <link ref="mueller-jg" linktext="true" />.</eintrag>
+</kommentar>
+
 <kommentar id="mueller-ee" type="neuzeit">
 <lemma>Ernst Egidius Müller</lemma>
 <eintrag>1723–1807. Manufakturhändler in Königsberg, väterlicher Freund von <link ref="kraus" linktext="true" />, vgl. <wwwlink address="https://data.onb.ac.at/rep/1054F451">Voigt: <titel>Das Leben des Professor Christian Jacob Kraus </titel>, S.&#x202F;59</wwwlink>.</eintrag>
@@ -16333,7 +16338,7 @@ Siehe auch <link ref="bodmer" subref="bodmer-europa" linktext="true" />.</eintra
 <titel>Die Geschichten der Schweizer. Durch Johannes Müller. Das erste Buch</titel> (Boston [Bern]: Typographische Gesellschaft 1780). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11252327-1">Stabi Augsburg: H 1597 -1</wwwlink>.
 </eintrag>
 </subsection>
-<subsection id="mueller-papes" type="neuzeit" sort="20">
+<subsection id="mueller-paepste" type="neuzeit" sort="20">
 <lemma>Müller, <titel>Reisen der Päpste</titel></lemma>
 <eintrag><titel>Reisen der Päpste</titel> (s.l. [Frankfurt] 1782). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11743210-8">Stabi Bamberg: Misc.o.133#1</wwwlink>.
 <line type="break" />
@@ -16772,6 +16777,26 @@ O
 <kommentar id="oberburggraf-amt" type="neuzeit">
 <lemma>Königliches Oberburggräfliches Amt in Königsberg</lemma>
 <eintrag>Königliches Amt auf dem Königsberger Schloss mit diversen Befugnissen, u.a. der Aufsicht über die Universität und einige Vormundschaftsangelegenheiten. Vorstehend war ab 1753 der Oberburggraf und geheime Etatsminister <link ref="rohd-jf" linktext="true" />, in seiner Abwesenheit von 1763–1772 wurde er bis 1768 von <link ref="braxein" linktext="true" /> vertreten, darauf von Friedrich Gottfried von der Gröben (1726–1799). Die Titulatur des Oberburggrafen leitet sich aus dem alten Herzogtum Preußen ab, 1781/82 wurde es mit verschiedenen Kollegien in der <link ref="provinzialregierung" linktext="false">Ostpreußischen Regierung</link> zusammengefasst. Vgl. <link ref="baczko-stadtkönigsberg" linktext="false">Baczko: <titel>Versuch einer Geschichte und Beschreibung der Stadt Königsberg</titel></link>, IV, S.&#x202F;327f.</eintrag>
+</kommentar>
+
+<kommentar id="obereit" type="neuzeit">
+<lemma>Jacob Hermann Obereit</lemma>
+<eintrag>1725–1798. Schweizer Artz in Lindau, später Philosoph und Schriftsteller und viel auf Reisen, mit <link ref="wieland" linktext="false">Wieland</link> befreundet, siehe <wwwlink address="https://www.deutsche-biographie.de/gnd118735780.html#ndbcontent">Dobras, Werner: Ober(r)eit, Jakob Hermann, in: <titel>NDB</titel>&#x202F; 19 (1999), S.&#x202F;382f.</wwwlink></eintrag>
+<subsection id="obereit-tiefdenker" type="neuzeit" sort="10">
+<lemma>Obereit, <titel>Ursprünglicher Geister- und Körperzusammenhang, nach Newtonischem Geist</titel></lemma>
+<eintrag><titel>Ursprünglicher Geister- und Körperzusammenhang, nach Newtonischem Geist. An die Tiefdenker in der Philosophie</titel> (Augsburg: Lotter 1776). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11760656-6">Stabi Bamberg: Ph.o.554-a</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="obereit-gamaliel" type="neuzeit" sort="20">
+<lemma>Obereit, <titel>Gamaliel</titel></lemma>
+<eintrag><titel>Gamaliels eines philosophischen Juden, Spatziergänge über die Berlinischen Betrachtungen der Wundergaben, Schwärmerey, Toleranz, Spötterey und Priesterschaft</titel> (Constantinopel [Münster: Perrenon] 1780). Digitalisat: <wwwlink address="https://data.onb.ac.at/rep/102C414F">ÖNB Wien: 9220-A ALT MAG</wwwlink>.
+</eintrag>
+</subsection>
+<subsection id="obereit-natur" type="neuzeit" sort="30">
+<lemma>Obereit, <titel>Die Natur und die Heiden über Steinbart</titel></lemma>
+<eintrag><titel>Die Natur und die Heiden über Steinbart. In Gesprächen beym Promeniren</titel> (2 Beyträge, Leipzig: Böhme). Digitalisat: <wwwlink address="https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11915652-5">LB Coburg: B I 12</wwwlink>.
+</eintrag>
+</subsection>
 </kommentar>
 
 <kommentar id="oehme" type="neuzeit">
