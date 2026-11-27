@@ -100293,7 +100293,7 @@ Brief Nr. 661
 </marginal>
 
 <marginal letter="661" page="417" line="23">
-<bzg>älteste Tochter</bzg> <link ref="hamann-er" linktext="true" />
+<bzg>älteste Tochter</bzg> <link ref="hamann-er" linktext="true" />, vgl. <intlink letter="664" page="424" line="2" linktext="true" />
 </marginal>
 
 <marginal letter="661" page="417" line="24">
@@ -100730,7 +100730,7 @@ Brief Nr. 664
 </marginal>
 
 <marginal letter="664" page="423" line="12">
-<bzg>Stillschweigen aus Haag</bzg> von <link ref="hogendorp-g" linktext="true" />, an den Hamann wenigstens zwei nicht beantwortete Briefe schrieb, nicht nur wegen Schmohl, auch wegen der Situation seines <link ref="hogendorpt" linktext="false">Bruders</link>, vgl. <intlink letter="652" page="393" line="34" linktext="true" />.
+<bzg>Stillschweigen aus Haag</bzg> von <link ref="hogendorp-g" linktext="true" />, an den Hamann wenigstens zwei nicht beantwortete Briefe schrieb, nicht nur wegen Schmohl, auch wegen der Situation seines <link ref="hogendorp" linktext="false">Bruders</link>, vgl. <intlink letter="652" page="393" line="34" linktext="true" />.
 </marginal>
 
 <marginal letter="664" page="423" line="13">
@@ -100767,6 +100767,50 @@ Brief Nr. 664
 
 <marginal letter="664" page="423" line="24">
 <bzg>Anfall von Schlagfluß</bzg> Vgl. <intlink letter="659" page="413" line="37" linktext="true" />; die Herkunft des Gerüchts nicht ermittelt, es stimmte jedenfalls nicht.
+</marginal>
+
+<marginal letter="664" page="423" line="26" sort="1">
+<bzg>Rousseau Confessions</bzg> <link ref="rousseau" subref="rousseau-confessions" linktext="true" />
+</marginal>
+
+<marginal letter="664" page="423" line="26" sort="2">
+<bzg>wem?</bzg> <link ref="hogendorp" linktext="true" />, vgl. <intlink letter="659" page="413" line="10" linktext="true" />
+</marginal>
+
+<marginal letter="664" page="423" line="31">
+<bzg>keinen Laut</bzg> von <link ref="hartknoch" linktext="true" />, vgl. <intlink letter="662" page="419" line="9" linktext="true" />
+</marginal>
+
+<marginal letter="664" page="423" line="33">
+<bzg>Hinc illae lacrumae</bzg> dt. daher also die Tränen (von einem erkannten Handlungsmotiv, nach <link ref="terenz" linktext="false">Ter.</link> <titel>And.</titel> 1,1,125)
+</marginal>
+
+<marginal letter="664" page="423" line="34">
+<bzg>D. Biestern</bzg> <link ref="biester-ad" linktext="true" />, eine Geburt eines Kindes nicht ermittelt
+</marginal>
+
+<marginal letter="664" page="424" line="1">
+<bzg>Götzen von Berlichingen</bzg> <link ref="goethe" linktext="true" />, nach <link ref="goethe" subref="goethe-goetz" linktext="true" />
+</marginal>
+
+<marginal letter="664" page="424" line="2">
+<bzg>Virtuosin</bzg> <link ref="hamann-er" linktext="true" />, vgl. <intlink letter="661" page="417" line="23" linktext="true" />
+</marginal>
+
+<marginal letter="664" page="424" line="4">
+<bzg>Beschränkt&#x202F;…&#x202F;Welt</bzg> von Christoph Wegleiter (1659–1706), Musik von Johann Sebastian Bach (BMW 443)
+</marginal>
+
+<marginal letter="664" page="424" line="6" sort="1">
+<bzg>Kant</bzg> <link ref="kant" linktext="true" />
+</marginal>
+
+<marginal letter="664" page="424" line="6" sort="2">
+<bzg>Prolegomena</bzg> <link ref="kant" subref="kant-prolegomena" linktext="true" />, über den Titel herrschte bei Hamann einige Verwirrung, vgl. <intlink letter="661" page="418" line="12" linktext="true" />
+</marginal>
+
+<marginal letter="664" page="424" line="7">
+<bzg>bevorstehenden Meße</bzg> Das wäre eigentlich die <link ref="messkatalog" subref="messkatalog-michaelis1782" linktext="false">Michaelis-Messe 1782</link>, Kants <titel>Prolegomena</titel> erschienen aber erst zur <link ref="messkatalog" subref="messkatalog-ostern1783" linktext="false">Ostermesse 1783</link>, vgl. den <wwwlink address="https://gdz.sub.uni-goettingen.de/de/id/PPN822207958?tify=%7B%22pages%22%3A%5B62%2C63%5D%2C%22view%22%3A%22info%22%7D">Messkatalog, S.&#x202F;556</wwwlink>
 </marginal>
 
  
